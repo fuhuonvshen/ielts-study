@@ -37,7 +37,9 @@ export function usePracticeSession(mode: PracticeMode, count: number = 10) {
     if (!state.session || !state.selectedAnswer) return
 
     const word = state.session.words[state.session.currentIndex]
-    const isCorrect = state.selectedAnswer.toLowerCase() === word.headWord.toLowerCase()
+    const isCorrect = state.session.mode === 'listen'
+      ? state.selectedAnswer === (word.translations[0]?.tranCn ?? '')
+      : state.selectedAnswer.toLowerCase() === word.headWord.toLowerCase()
 
     // Save practice record and update word stats
     // These functions are imported from statsService which we create in a later task

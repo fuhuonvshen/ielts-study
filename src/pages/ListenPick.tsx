@@ -29,10 +29,11 @@ export function ListenPick() {
     return <SessionResult words={session.words} answers={session.answers} />
   }
 
-  const getOptionState = (wordHead: string): OptionState => {
+  const getOptionState = (tranCn: string): OptionState => {
     if (!showResult) return 'idle'
-    if (wordHead === currentWord!.headWord) return 'correct'
-    if (wordHead === selectedAnswer) return 'incorrect'
+    const correctCn = currentWord!.translations[0]?.tranCn ?? ''
+    if (tranCn === correctCn) return 'correct'
+    if (tranCn === selectedAnswer) return 'incorrect'
     return 'idle'
   }
 
@@ -45,15 +46,15 @@ export function ListenPick() {
         <AudioButton onClick={() => currentWord && play(currentWord.headWord)} isPlaying={isPlaying} />
       </div>
       <div className="mb-4 text-center text-sm text-gray-400">
-        Listen and choose the correct word
+        Listen and choose the correct meaning
       </div>
       <div className="grid grid-cols-1 gap-3">
         {options.map((opt) => (
           <OptionCard
             key={opt.id}
-            text={opt.headWord}
-            state={getOptionState(opt.headWord)}
-            onClick={() => { if (!showResult) selectAnswer(opt.headWord) }}
+            text={opt.translations[0]?.tranCn ?? opt.headWord}
+            state={getOptionState(opt.translations[0]?.tranCn ?? '')}
+            onClick={() => { if (!showResult) selectAnswer(opt.translations[0]?.tranCn ?? opt.headWord) }}
             showIcon={showResult}
           />
         ))}
