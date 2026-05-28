@@ -55,7 +55,7 @@ export function ListenPick() {
           return (
             <OptionCard
               key={opt.id}
-              text={pos ? `[${pos}] ${meaning}` : meaning}
+              text={pos ? <><span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400 mr-1.5">[{pos}]</span>{meaning}</> : meaning}
               state={getOptionState(meaning)}
               onClick={() => { if (!showResult) selectAnswer(meaning) }}
               showIcon={showResult}

@@ -3,7 +3,7 @@ import { cn } from '@/lib/utils'
 export type OptionState = 'idle' | 'selected' | 'correct' | 'incorrect'
 
 interface OptionCardProps {
-  text: string
+  text: React.ReactNode
   state: OptionState
   onClick: () => void
   disabled?: boolean
