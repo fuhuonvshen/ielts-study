@@ -41,9 +41,14 @@ export function ReversePick() {
         <ProgressBar current={session.currentIndex + (showResult ? 1 : 0)} total={session.words.length} />
       </div>
       <div className="mb-8 text-center">
-        <span className="text-xl font-semibold text-gray-700">
-          {currentWord?.translations[0]?.tranCn}
-        </span>
+        <div className="flex items-center justify-center gap-2">
+          <span className="text-xl font-semibold text-gray-700">
+            {currentWord?.translations[0]?.tranCn}
+          </span>
+          {currentWord?.translations[0]?.pos && (
+            <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">[{currentWord.translations[0].pos}]</span>
+          )}
+        </div>
       </div>
       <div className="mb-4 text-center text-sm text-gray-400">
         Choose the correct word for this meaning
@@ -61,11 +66,15 @@ export function ReversePick() {
       </div>
       {showResult && currentWord && (
         <div className="mt-6 rounded-2xl border border-gray-100 bg-white p-5">
-          <span className="text-lg font-bold">{currentWord.headWord}</span>
-          {currentWord.translations[0]?.pos && (
-            <span className="ml-2 rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">{currentWord.translations[0].pos}</span>
-          )}
-          <span className="ml-2 text-sm text-gray-400">{currentWord.usphone}</span>
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="text-lg font-bold">{currentWord.headWord}</span>
+              {currentWord.translations[0]?.pos && (
+                <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">{currentWord.translations[0].pos}</span>
+              )}
+            </div>
+            <span className="text-sm text-gray-400">{currentWord.usphone}</span>
+          </div>
           <button onClick={nextWord} className="mt-4 w-full rounded-xl bg-primary-500 py-2.5 text-sm font-semibold text-white">
             {session.currentIndex + 1 >= session.words.length ? 'Finish' : 'Next Word'}
           </button>

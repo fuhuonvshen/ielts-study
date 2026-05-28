@@ -34,7 +34,13 @@ export function WordCard({ word }: WordCardProps) {
           <span className="text-xs text-gray-400">{word.usphone}</span>
         </div>
         <p className="mt-0.5 truncate text-sm text-gray-500">
-          {word.translations.map((t) => t.tranCn).join('；')}
+          {word.translations.map((t, i) => (
+            <span key={i}>
+              {i > 0 && '；'}
+              {t.pos && <span className="text-xs text-gray-400">[{t.pos}] </span>}
+              {t.tranCn}
+            </span>
+          ))}
         </p>
       </div>
       <div className="flex items-center gap-1">

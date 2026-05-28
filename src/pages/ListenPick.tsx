@@ -49,23 +49,29 @@ export function ListenPick() {
         Listen and choose the correct meaning
       </div>
       <div className="grid grid-cols-1 gap-3">
-        {options.map((opt) => (
-          <OptionCard
-            key={opt.id}
-            text={opt.translations[0]?.tranCn ?? opt.headWord}
-            state={getOptionState(opt.translations[0]?.tranCn ?? '')}
-            onClick={() => { if (!showResult) selectAnswer(opt.translations[0]?.tranCn ?? opt.headWord) }}
-            showIcon={showResult}
-          />
-        ))}
+        {options.map((opt) => {
+          const pos = opt.translations[0]?.pos
+          const meaning = opt.translations[0]?.tranCn ?? opt.headWord
+          return (
+            <OptionCard
+              key={opt.id}
+              text={pos ? `[${pos}] ${meaning}` : meaning}
+              state={getOptionState(meaning)}
+              onClick={() => { if (!showResult) selectAnswer(meaning) }}
+              showIcon={showResult}
+            />
+          )
+        })}
       </div>
       {showResult && currentWord && (
         <div className="mt-6 rounded-2xl border border-gray-100 bg-white p-5">
           <div className="mb-3 flex items-center justify-between">
-            <span className="text-lg font-bold">{currentWord.headWord}</span>
-            {currentWord.translations[0]?.pos && (
-              <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">{currentWord.translations[0].pos}</span>
-            )}
+            <div className="flex items-center gap-2">
+              <span className="text-lg font-bold">{currentWord.headWord}</span>
+              {currentWord.translations[0]?.pos && (
+                <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">{currentWord.translations[0].pos}</span>
+              )}
+            </div>
             <span className="text-sm text-gray-400">{currentWord.usphone}</span>
           </div>
           <p className="text-sm text-gray-600">
