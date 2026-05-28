@@ -8,6 +8,9 @@ import { ListenPick } from '@/pages/ListenPick'
 import { MeaningPick } from '@/pages/MeaningPick'
 import { SpellInput } from '@/pages/SpellInput'
 import { ReversePick } from '@/pages/ReversePick'
+import { Stats } from '@/pages/Stats'
+import { WrongBook } from '@/pages/WrongBook'
+import { Favorites } from '@/pages/Favorites'
 
 const router = createBrowserRouter([
   {
@@ -22,6 +25,9 @@ const router = createBrowserRouter([
       { path: 'practice/meaning', element: <MeaningPick /> },
       { path: 'practice/spell', element: <SpellInput /> },
       { path: 'practice/reverse', element: <ReversePick /> },
+      { path: 'stats', element: <Stats /> },
+      { path: 'wrong-book', element: <WrongBook /> },
+      { path: 'favorites', element: <Favorites /> },
     ],
   },
 ])
