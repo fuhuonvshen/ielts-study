@@ -11,15 +11,20 @@ export function SpellInput() {
   const [input, setInput] = useState('')
   const [submitted, setSubmitted] = useState(false)
   const inputRef = useRef<HTMLInputElement>(null)
+  const lastPlayedRef = useRef<string | null>(null)
   const { session, currentWord, selectAnswer, nextWord } = usePracticeSession('spell', 10)
 
   useEffect(() => {
-    if (currentWord && !submitted) {
+    if (currentWord && !submitted && lastPlayedRef.current !== currentWord.id) {
+      lastPlayedRef.current = currentWord.id
       play(currentWord.headWord)
     }
     setInput('')
     setSubmitted(false)
     inputRef.current?.focus()
+    return () => {
+      speechSynthesis.cancel()
+    }
   }, [currentWord?.id])
 
   if (!session) {
