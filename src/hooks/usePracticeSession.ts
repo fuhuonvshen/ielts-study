@@ -41,7 +41,8 @@ export function usePracticeSession(mode: PracticeMode, count: number = 10) {
     if (!state.session || !state.selectedAnswer) return
 
     const word = state.session.words[state.session.currentIndex]
-    const isCorrect = state.session.mode === 'listen'
+    const useMeaningCompare = state.session.mode === 'listen' || state.session.mode === 'meaning'
+    const isCorrect = useMeaningCompare
       ? state.selectedAnswer === (word.translations[0]?.tranCn ?? '')
       : state.selectedAnswer.toLowerCase() === word.headWord.toLowerCase()
 

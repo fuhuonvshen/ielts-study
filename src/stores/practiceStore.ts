@@ -53,7 +53,10 @@ export const usePracticeStore = create<PracticeState>((set, get) => ({
     if (!session || !selectedAnswer) return
 
     const word = session.words[session.currentIndex]
-    const isCorrect = selectedAnswer.toLowerCase() === word.headWord.toLowerCase()
+    const useMeaningCompare = session.mode === 'listen' || session.mode === 'meaning'
+    const isCorrect = useMeaningCompare
+      ? selectedAnswer === (word.translations[0]?.tranCn ?? '')
+      : selectedAnswer.toLowerCase() === word.headWord.toLowerCase()
     const answers = [...session.answers, { wordId: word.id, isCorrect, userAnswer: selectedAnswer, duration: 0 }]
     const nextIndex = session.currentIndex + 1
     const isComplete = nextIndex >= session.words.length
