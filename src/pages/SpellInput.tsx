@@ -77,7 +77,11 @@ export function SpellInput() {
               <div className="text-center">
                 <p className="text-danger-600 font-medium">Incorrect</p>
                 <p className="mt-1 text-sm text-gray-500">Your answer: <span className="text-danger-600">{input}</span></p>
-                <p className="text-sm text-gray-500">Correct: <span className="text-success-600 font-semibold">{currentWord?.headWord}</span></p>
+                <p className="text-sm text-gray-500">Correct: <span className="text-success-600 font-semibold">{currentWord?.headWord}</span>
+                  {currentWord?.translations[0]?.pos && (
+                    <span className="ml-1 rounded bg-gray-100 px-1 text-xs text-gray-400">{currentWord.translations[0].pos}</span>
+                  )}
+                </p>
                 <p className="mt-1 text-xs text-gray-400">{currentWord?.translations.map((t) => t.tranCn).join('；')}</p>
               </div>
             )}

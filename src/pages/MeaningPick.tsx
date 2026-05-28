@@ -43,6 +43,9 @@ export function MeaningPick() {
       </div>
       <div className="mb-8 text-center">
         <span className="text-3xl font-bold">{currentWord?.headWord}</span>
+        {currentWord?.translations[0]?.pos && (
+          <span className="ml-2 rounded bg-gray-100 px-2 py-1 text-sm text-gray-400">{currentWord.translations[0].pos}</span>
+        )}
         <span className="ml-2 text-sm text-gray-400">{currentWord?.usphone}</span>
       </div>
       <div className="grid grid-cols-1 gap-3">

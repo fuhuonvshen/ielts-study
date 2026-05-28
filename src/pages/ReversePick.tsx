@@ -62,6 +62,9 @@ export function ReversePick() {
       {showResult && currentWord && (
         <div className="mt-6 rounded-2xl border border-gray-100 bg-white p-5">
           <span className="text-lg font-bold">{currentWord.headWord}</span>
+          {currentWord.translations[0]?.pos && (
+            <span className="ml-2 rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">{currentWord.translations[0].pos}</span>
+          )}
           <span className="ml-2 text-sm text-gray-400">{currentWord.usphone}</span>
           <button onClick={nextWord} className="mt-4 w-full rounded-xl bg-primary-500 py-2.5 text-sm font-semibold text-white">
             {session.currentIndex + 1 >= session.words.length ? 'Finish' : 'Next Word'}

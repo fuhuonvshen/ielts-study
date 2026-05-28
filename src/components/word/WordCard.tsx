@@ -28,6 +28,9 @@ export function WordCard({ word }: WordCardProps) {
       <div className="min-w-0 flex-1">
         <div className="flex items-baseline gap-2">
           <span className="text-base font-semibold">{word.headWord}</span>
+          {word.translations[0]?.pos && (
+            <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">{word.translations[0].pos}</span>
+          )}
           <span className="text-xs text-gray-400">{word.usphone}</span>
         </div>
         <p className="mt-0.5 truncate text-sm text-gray-500">

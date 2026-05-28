@@ -63,6 +63,9 @@ export function ListenPick() {
         <div className="mt-6 rounded-2xl border border-gray-100 bg-white p-5">
           <div className="mb-3 flex items-center justify-between">
             <span className="text-lg font-bold">{currentWord.headWord}</span>
+            {currentWord.translations[0]?.pos && (
+              <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">{currentWord.translations[0].pos}</span>
+            )}
             <span className="text-sm text-gray-400">{currentWord.usphone}</span>
           </div>
           <p className="text-sm text-gray-600">
