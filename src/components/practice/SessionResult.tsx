@@ -43,11 +43,14 @@ export function SessionResult({ words, answers }: SessionResultProps) {
               )}
               <div>
                 <span className="font-medium">{word?.headWord ?? a.wordId}</span>
-                {word?.translations[0]?.pos && (
-                  <span className="ml-1.5 rounded bg-gray-100 px-1 py-0.5 text-xs text-gray-400">{word.translations[0].pos}</span>
-                )}
                 <span className="ml-2 text-sm text-gray-400">
-                  {word?.translations.map((t) => t.tranCn).join('；')}
+                  {word?.translations.map((t, i) => (
+                    <span key={i}>
+                      {i > 0 && '；'}
+                      {t.pos && <span className="text-gray-400">[{t.pos}] </span>}
+                      {t.tranCn}
+                    </span>
+                  ))}
                 </span>
               </div>
             </div>

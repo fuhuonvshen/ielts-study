@@ -82,7 +82,15 @@ export function SpellInput() {
                     <span className="ml-1 rounded bg-gray-100 px-1 text-xs text-gray-400">{currentWord.translations[0].pos}</span>
                   )}
                 </p>
-                <p className="mt-1 text-xs text-gray-400">{currentWord?.translations.map((t) => t.tranCn).join('；')}</p>
+                <p className="mt-1 text-xs text-gray-400">
+                {currentWord?.translations.map((t, i) => (
+                  <span key={i}>
+                    {i > 0 && '；'}
+                    {t.pos && <span className="text-gray-400">[{t.pos}] </span>}
+                    {t.tranCn}
+                  </span>
+                ))}
+              </p>
               </div>
             )}
             <button onClick={handleNext} className="mt-4 w-full rounded-xl bg-primary-500 py-2.5 text-sm font-semibold text-white">

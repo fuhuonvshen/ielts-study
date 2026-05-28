@@ -44,20 +44,26 @@ export function MeaningPick() {
       <div className="mb-8 text-center">
         <span className="text-3xl font-bold">{currentWord?.headWord}</span>
         {currentWord?.translations[0]?.pos && (
-          <span className="ml-2 rounded bg-gray-100 px-2 py-1 text-sm text-gray-400">{currentWord.translations[0].pos}</span>
+          <span className="ml-2 rounded bg-gray-100 px-2 py-1 text-sm text-gray-400">
+            {[...new Set(currentWord.translations.map((t) => t.pos).filter(Boolean))].join('/')}
+          </span>
         )}
         <span className="ml-2 text-sm text-gray-400">{currentWord?.usphone}</span>
       </div>
       <div className="grid grid-cols-1 gap-3">
-        {options.map((opt) => (
-          <OptionCard
-            key={opt.id}
-            text={opt.translations[0]?.tranCn ?? opt.headWord}
-            state={getOptionState(opt.translations[0]?.tranCn ?? '')}
-            onClick={() => { if (!showResult) selectAnswer(opt.translations[0]?.tranCn ?? opt.headWord) }}
-            showIcon={showResult}
-          />
-        ))}
+        {options.map((opt) => {
+          const pos = opt.translations[0]?.pos
+          const meaning = opt.translations[0]?.tranCn ?? opt.headWord
+          return (
+            <OptionCard
+              key={opt.id}
+              text={pos ? `[${pos}] ${meaning}` : meaning}
+              state={getOptionState(meaning)}
+              onClick={() => { if (!showResult) selectAnswer(meaning) }}
+              showIcon={showResult}
+            />
+          )
+        })}
       </div>
       {showResult && (
         <button onClick={nextWord} className="mt-6 w-full rounded-xl bg-primary-500 py-2.5 text-sm font-semibold text-white">

@@ -68,14 +68,17 @@ export function ListenPick() {
           <div className="mb-3 flex items-center justify-between">
             <div className="flex items-center gap-2">
               <span className="text-lg font-bold">{currentWord.headWord}</span>
-              {currentWord.translations[0]?.pos && (
-                <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">{currentWord.translations[0].pos}</span>
-              )}
             </div>
             <span className="text-sm text-gray-400">{currentWord.usphone}</span>
           </div>
           <p className="text-sm text-gray-600">
-            {currentWord.translations.map((t) => t.tranCn).join('；')}
+            {currentWord.translations.map((t, i) => (
+              <span key={i}>
+                {i > 0 && '；'}
+                {t.pos && <span className="text-xs text-gray-400">[{t.pos}] </span>}
+                {t.tranCn}
+              </span>
+            ))}
           </p>
           {currentWord.sentences[0] && (
             <div className="mt-2 border-t border-gray-50 pt-2">
