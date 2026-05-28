@@ -3,12 +3,16 @@ import { useNavigate } from 'react-router-dom'
 import { Play } from 'lucide-react'
 import { getWrongWordIds, getWordById } from '@/lib/db'
 import { WordCard } from '@/components/word/WordCard'
+import { Pagination } from '@/components/common/Pagination'
 import type { Word } from '@/types'
+
+const PAGE_SIZE = 20
 
 export function WrongBook() {
   const navigate = useNavigate()
   const [wrongWords, setWrongWords] = useState<Word[]>([])
   const [isLoading, setIsLoading] = useState(true)
+  const [page, setPage] = useState(1)
 
   useEffect(() => {
     loadWrongWords()
@@ -21,6 +25,9 @@ export function WrongBook() {
     setWrongWords(words.filter((w): w is Word => w != null))
     setIsLoading(false)
   }
+
+  const totalPages = Math.ceil(wrongWords.length / PAGE_SIZE)
+  const pagedWords = wrongWords.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
 
   if (isLoading) {
     return (
@@ -55,11 +62,12 @@ export function WrongBook() {
         </div>
       ) : (
         <div className="space-y-3">
-          {wrongWords.map((word) => (
+          {pagedWords.map((word) => (
             <WordCard key={word.id} word={word} />
           ))}
         </div>
       )}
+      <Pagination page={page} totalPages={totalPages} onPageChange={setPage} />
     </div>
   )
 }

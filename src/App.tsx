@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { createHashRouter, RouterProvider } from 'react-router-dom'
 import { AppLayout } from '@/components/layout/AppLayout'
 import { Dashboard } from '@/pages/Dashboard'
 import { WordListPage } from '@/pages/WordListPage'
@@ -12,7 +12,7 @@ import { Stats } from '@/pages/Stats'
 import { WrongBook } from '@/pages/WrongBook'
 import { Favorites } from '@/pages/Favorites'
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '/',
     element: <AppLayout />,

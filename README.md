@@ -20,7 +20,7 @@ def replaceFran(str):
 ```
 
 # 📕 JSON 格式说明
-
+·
 以 CET4_3.json 第一个单词 cancel 为例
 
 ```json

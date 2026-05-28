@@ -14,7 +14,7 @@ export function DataImport() {
     setIsImporting(true)
     setProgress(0)
     try {
-      const response = await fetch('/IELTSword.json')
+      const response = await fetch(import.meta.env.BASE_URL + 'IELTSword.json')
       if (!response.ok) throw new Error('Failed to load JSON')
       const text = await response.text()
       const lines = text.trim().split('\n')

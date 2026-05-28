@@ -1,11 +1,15 @@
 import { useEffect, useState } from 'react'
 import { db } from '@/lib/db'
 import { WordCard } from '@/components/word/WordCard'
+import { Pagination } from '@/components/common/Pagination'
 import type { Word } from '@/types'
+
+const PAGE_SIZE = 20
 
 export function Favorites() {
   const [favorites, setFavorites] = useState<Word[]>([])
   const [isLoading, setIsLoading] = useState(true)
+  const [page, setPage] = useState(1)
 
   const loadFavorites = async () => {
     setIsLoading(true)
@@ -17,6 +21,9 @@ export function Favorites() {
   useEffect(() => {
     loadFavorites()
   }, [])
+
+  const totalPages = Math.ceil(favorites.length / PAGE_SIZE)
+  const pagedWords = favorites.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
 
   if (isLoading) {
     return (
@@ -43,11 +50,12 @@ export function Favorites() {
         </div>
       ) : (
         <div className="space-y-3">
-          {favorites.map((word) => (
+          {pagedWords.map((word) => (
             <WordCard key={word.id} word={word} />
           ))}
         </div>
       )}
+      <Pagination page={page} totalPages={totalPages} onPageChange={setPage} />
     </div>
   )
 }

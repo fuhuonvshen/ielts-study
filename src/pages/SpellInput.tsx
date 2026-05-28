@@ -11,12 +11,13 @@ export function SpellInput() {
   const { play, isPlaying } = useAudio()
   const [input, setInput] = useState('')
   const [submitted, setSubmitted] = useState(false)
+  const [reviewingPrev, setReviewingPrev] = useState(false)
   const inputRef = useRef<HTMLInputElement>(null)
   const lastPlayedRef = useRef<string | null>(null)
   const { session, currentWord, selectAnswer, nextWord } = usePracticeSession('spell', 10)
 
   useEffect(() => {
-    if (currentWord && !submitted && lastPlayedRef.current !== currentWord.id) {
+    if (currentWord && !submitted && !reviewingPrev && lastPlayedRef.current !== currentWord.id) {
       lastPlayedRef.current = currentWord.id
       play(currentWord.headWord)
     }
@@ -36,6 +37,9 @@ export function SpellInput() {
     return <SessionResult words={session.words} answers={session.answers} />
   }
 
+  const prevWord = session.currentIndex > 0 ? session.words[session.currentIndex - 1] : null
+  const prevAnswer = session.currentIndex > 0 ? session.answers[session.currentIndex - 1] : null
+
   const isCorrect = submitted && currentWord ? checkSpellingAnswer(input, currentWord.headWord) : null
 
   const handleSubmit = (e: React.FormEvent) => {
@@ -49,6 +53,50 @@ export function SpellInput() {
     nextWord()
     setInput('')
     setSubmitted(false)
+  }
+
+  // 回顾上一题弹窗
+  if (reviewingPrev && prevWord && prevAnswer) {
+    return (
+      <div className="fixed inset-0 z-50 flex items-end justify-center sm:items-center">
+        <div className="absolute inset-0 bg-black/30 backdrop-blur-sm animate-fade-in" onClick={() => setReviewingPrev(false)} />
+        <div className="relative flex max-h-[90vh] w-full max-w-lg flex-col animate-slide-up rounded-t-3xl bg-white shadow-2xl sm:rounded-3xl sm:m-4" onClick={(e) => e.stopPropagation()}>
+          <div className="mx-auto mt-3 h-1 w-10 rounded-full bg-gray-200 sm:hidden" />
+          <div className="shrink-0 px-5 pt-3 pb-2">
+            <p className="mb-1 text-center text-xs text-gray-400">Previous word</p>
+            <div className={`text-center ${prevAnswer.isCorrect ? 'text-success-600' : 'text-danger-600'}`}>
+              <span className="inline-flex items-center gap-1.5 text-lg font-bold">
+                {prevAnswer.isCorrect ? <><span className="text-2xl">&#10003;</span> Correct!</> : <><span className="text-2xl">&#10007;</span> Not quite</>}
+              </span>
+              {!prevAnswer.isCorrect && <p className="mt-0.5 text-sm text-gray-400">You selected: <span className="text-danger-500">{prevAnswer.userAnswer}</span></p>}
+            </div>
+          </div>
+          <div className="overflow-y-auto px-5 pb-4">
+            <div className="space-y-4">
+              <div>
+                <div className="flex items-center gap-2">
+                  <span className="text-xl font-bold text-gray-900">{prevWord.headWord}</span>
+                  {prevWord.translations[0]?.pos && <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-500">[{prevWord.translations[0].pos}]</span>}
+                </div>
+                <div className="mt-1 text-xs text-gray-400">US: {prevWord.usphone || '-'} / UK: {prevWord.ukphone || '-'}</div>
+              </div>
+              <div>
+                <p className="text-sm text-gray-600">Your answer: <span className={prevAnswer.isCorrect ? 'text-success-600' : 'text-danger-600'}>{prevAnswer.userAnswer}</span></p>
+                <p className="text-sm text-gray-600">Correct: <span className="text-success-600 font-semibold">{prevWord.headWord}</span></p>
+                <p className="mt-1 text-sm text-gray-600">
+                  {prevWord.translations.map((t, i) => (
+                    <span key={i}>{i > 0 && '；'}{t.pos && <span className="text-xs text-gray-400">[{t.pos}] </span>}{t.tranCn}</span>
+                  ))}
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="shrink-0 px-5 pb-5 pt-2">
+            <button onClick={() => setReviewingPrev(false)} className="w-full rounded-xl bg-primary-500 py-3 text-sm font-semibold text-white hover:bg-primary-600 active:scale-[0.98]">Back to current</button>
+          </div>
+        </div>
+      </div>
+    )
   }
 
   return (
@@ -71,10 +119,15 @@ export function SpellInput() {
           autoComplete="off" autoCapitalize="off" autoCorrect="off" spellCheck={false}
         />
         {!submitted ? (
-          <button type="submit" disabled={!input.trim()}
-            className="w-full rounded-xl bg-primary-500 py-3 text-sm font-semibold text-white transition-colors hover:bg-primary-600 disabled:bg-gray-200 disabled:text-gray-400">
-            Check
-          </button>
+          <>
+            <button type="submit" disabled={!input.trim()}
+              className="w-full rounded-xl bg-primary-500 py-3 text-sm font-semibold text-white transition-colors hover:bg-primary-600 disabled:bg-gray-200 disabled:text-gray-400">
+              Check
+            </button>
+            {session.currentIndex > 0 && (
+              <button type="button" onClick={() => setReviewingPrev(true)} className="w-full rounded-xl border border-gray-200 py-2.5 text-sm font-semibold text-gray-500 hover:bg-gray-50">← Previous word</button>
+            )}
+          </>
         ) : (
           <div className="rounded-2xl border border-gray-100 bg-white p-5">
             {isCorrect ? (

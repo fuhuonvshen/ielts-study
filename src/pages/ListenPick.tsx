@@ -1,10 +1,11 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { usePracticeSession } from '@/hooks/usePracticeSession'
 import { useAudio } from '@/hooks/useAudio'
 import { AudioButton } from '@/components/practice/AudioButton'
 import { OptionCard } from '@/components/practice/OptionCard'
 import { ProgressBar } from '@/components/practice/ProgressBar'
 import { SessionResult } from '@/components/practice/SessionResult'
+import { updateWord } from '@/lib/db'
 import type { OptionState } from '@/components/practice/OptionCard'
 
 export function ListenPick() {
@@ -13,13 +14,32 @@ export function ListenPick() {
     session, options, selectedAnswer, showResult, currentWord,
     selectAnswer, nextWord,
   } = usePracticeSession('listen', 10)
+  const [isFav, setIsFav] = useState(false)
+  const [reviewingPrev, setReviewingPrev] = useState(false)
 
   useEffect(() => {
-    if (currentWord && !showResult) {
+    if (currentWord && !showResult && !session?.isComplete) {
       const timer = setTimeout(() => play(currentWord.headWord), 300)
       return () => clearTimeout(timer)
     }
-  }, [currentWord?.id, showResult])
+  }, [currentWord?.id, showResult, session?.isComplete])
+
+  // 同步收藏状态
+  useEffect(() => {
+    if (currentWord) {
+      setIsFav(currentWord.isFavorite ?? false)
+    }
+  }, [currentWord?.id])
+
+  const toggleFav = async (word: typeof currentWord) => {
+    if (!word) return
+    const newFav = !isFav
+    setIsFav(newFav)
+    await updateWord(word.id, { isFavorite: newFav })
+  }
+
+  const prevWord = session && session.currentIndex > 0 ? session.words[session.currentIndex - 1] : null
+  const prevAnswer = session && session.currentIndex > 0 ? session.answers[session.currentIndex - 1] : null
 
   if (!session) {
     return <div className="py-20 text-center"><p className="text-gray-400">Loading practice session...</p></div>
@@ -37,6 +57,110 @@ export function ListenPick() {
     return 'idle'
   }
 
+  // ---- 回顾上一题的弹窗 ----
+  if (reviewingPrev && prevWord && prevAnswer) {
+    return (
+      <div className="fixed inset-0 z-50 flex items-end justify-center sm:items-center">
+        <div className="absolute inset-0 bg-black/30 backdrop-blur-sm animate-fade-in" onClick={() => setReviewingPrev(false)} />
+        <div
+          className="relative flex max-h-[90vh] w-full max-w-lg flex-col animate-slide-up rounded-t-3xl bg-white shadow-2xl sm:rounded-3xl sm:m-4"
+          onClick={(e) => e.stopPropagation()}
+        >
+          <div className="mx-auto mt-3 h-1 w-10 rounded-full bg-gray-200 sm:hidden" />
+          <div className="shrink-0 px-5 pt-3 pb-2">
+            <p className="mb-1 text-center text-xs text-gray-400">Previous word</p>
+            <div className={`text-center ${prevAnswer.isCorrect ? 'text-success-600' : 'text-danger-600'}`}>
+              <span className="inline-flex items-center gap-1.5 text-lg font-bold">
+                {prevAnswer.isCorrect ? (
+                  <><span className="text-2xl">&#10003;</span> Correct!</>
+                ) : (
+                  <><span className="text-2xl">&#10007;</span> Not quite</>
+                )}
+              </span>
+              {!prevAnswer.isCorrect && (
+                <p className="mt-0.5 text-sm text-gray-400">You selected: <span className="text-danger-500">{prevAnswer.userAnswer}</span></p>
+              )}
+            </div>
+          </div>
+          <div className="overflow-y-auto px-5 pb-4">
+            <div className="space-y-4">
+              <div className="flex items-start justify-between">
+                <div>
+                  <div className="flex items-center gap-2">
+                    <span className="text-xl font-bold text-gray-900">{prevWord.headWord}</span>
+                    {prevWord.translations[0]?.pos && (
+                      <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-500">[{prevWord.translations[0].pos}]</span>
+                    )}
+                  </div>
+                  <div className="mt-1 flex gap-3 text-xs text-gray-400">
+                    <span>US: {prevWord.usphone || '-'}</span>
+                    <span>UK: {prevWord.ukphone || '-'}</span>
+                  </div>
+                </div>
+                <button
+                  onClick={() => play(prevWord.headWord)}
+                  className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-gray-50 text-gray-400 hover:bg-primary-50 hover:text-primary-500"
+                >
+                  <span className={`text-lg ${isPlaying ? 'animate-pulse text-primary-500' : ''}`}>🔊</span>
+                </button>
+              </div>
+              <section>
+                <h3 className="mb-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">Definitions</h3>
+                {prevWord.translations.map((t, i) => (
+                  <div key={i} className="mb-1.5 flex gap-2 text-sm">
+                    <span className="shrink-0 rounded bg-gray-100 px-1.5 py-0.5 text-xs font-medium text-gray-500">{t.pos}</span>
+                    <span className="text-gray-700">{t.tranCn}</span>
+                    {t.tranOther && <span className="text-gray-400">{t.tranOther}</span>}
+                  </div>
+                ))}
+              </section>
+              {prevWord.sentences.length > 0 && (
+                <section>
+                  <h3 className="mb-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">Sentences</h3>
+                  <ul className="space-y-1.5">
+                    {prevWord.sentences.map((s, i) => (
+                      <li key={i} className="text-sm"><p className="text-gray-700">{s.en}</p><p className="text-gray-400">{s.cn}</p></li>
+                    ))}
+                  </ul>
+                </section>
+              )}
+              {prevWord.synonyms.length > 0 && (
+                <section>
+                  <h3 className="mb-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">Synonyms</h3>
+                  {prevWord.synonyms.map((s, i) => (
+                    <div key={i} className="mb-1 text-sm">
+                      <span className="rounded bg-gray-100 px-1 py-0.5 text-xs text-gray-500">{s.pos}</span>{' '}
+                      <span className="text-gray-600">{s.words.join('、')}</span>
+                    </div>
+                  ))}
+                </section>
+              )}
+              {prevWord.phrases.length > 0 && (
+                <section>
+                  <h3 className="mb-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">Phrases</h3>
+                  <ul className="space-y-1">
+                    {prevWord.phrases.map((p, i) => (
+                      <li key={i} className="text-sm"><span className="font-medium text-gray-700">{p.en}</span><span className="ml-1 text-gray-400">— {p.cn}</span></li>
+                    ))}
+                  </ul>
+                </section>
+              )}
+            </div>
+          </div>
+          <div className="shrink-0 px-5 pb-5 pt-2">
+            <button
+              onClick={() => setReviewingPrev(false)}
+              className="w-full rounded-xl bg-primary-500 py-3 text-sm font-semibold text-white transition-colors hover:bg-primary-600 active:scale-[0.98]"
+            >
+              Back to current
+            </button>
+          </div>
+        </div>
+      </div>
+    )
+  }
+
+  // ---- 正常答题界面 + 答题后弹窗 ----
   return (
     <div className="mx-auto max-w-lg">
       <div className="mb-8">
@@ -63,35 +187,120 @@ export function ListenPick() {
           )
         })}
       </div>
+      {/* 上一题按钮 —— 在选项下方，未答题时显示 */}
+      {!showResult && session.currentIndex > 0 && (
+        <button
+          onClick={() => setReviewingPrev(true)}
+          className="mt-4 w-full rounded-xl border border-gray-200 py-2.5 text-sm font-semibold text-gray-500 transition-colors hover:bg-gray-50"
+        >
+          ← Previous word
+        </button>
+      )}
+      {/* 答题后弹窗 */}
       {showResult && currentWord && (
-        <div className="mt-6 rounded-2xl border border-gray-100 bg-white p-5">
-          <div className="mb-3 flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <span className="text-lg font-bold">{currentWord.headWord}</span>
-            </div>
-            <span className="text-sm text-gray-400">{currentWord.usphone}</span>
-          </div>
-          <p className="text-sm text-gray-600">
-            {currentWord.translations.map((t, i) => (
-              <span key={i}>
-                {i > 0 && '；'}
-                {t.pos && <span className="text-xs text-gray-400">[{t.pos}] </span>}
-                {t.tranCn}
-              </span>
-            ))}
-          </p>
-          {currentWord.sentences[0] && (
-            <div className="mt-2 border-t border-gray-50 pt-2">
-              <p className="text-xs text-gray-400">{currentWord.sentences[0].en}</p>
-              <p className="text-xs text-gray-300">{currentWord.sentences[0].cn}</p>
-            </div>
-          )}
-          <button
-            onClick={nextWord}
-            className="mt-4 w-full rounded-xl bg-primary-500 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-primary-600"
+        <div className="fixed inset-0 z-50 flex items-end justify-center sm:items-center">
+          <div className="absolute inset-0 bg-black/30 backdrop-blur-sm animate-fade-in" />
+          <div
+            className="relative flex max-h-[90vh] w-full max-w-lg flex-col animate-slide-up rounded-t-3xl bg-white shadow-2xl sm:rounded-3xl sm:m-4"
+            onClick={(e) => e.stopPropagation()}
           >
-            {session.currentIndex + 1 >= session.words.length ? 'Finish' : 'Next Word'}
-          </button>
+            <div className="mx-auto mt-3 h-1 w-10 rounded-full bg-gray-200 sm:hidden" />
+            <div className="shrink-0 px-5 pt-3 pb-2">
+              <div className={`text-center ${selectedAnswer === (currentWord.translations[0]?.tranCn ?? '') ? 'text-success-600' : 'text-danger-600'}`}>
+                <span className="inline-flex items-center gap-1.5 text-lg font-bold">
+                  {selectedAnswer === (currentWord.translations[0]?.tranCn ?? '') ? (
+                    <><span className="text-2xl">&#10003;</span> Correct!</>
+                  ) : (
+                    <><span className="text-2xl">&#10007;</span> Not quite</>
+                  )}
+                </span>
+                {selectedAnswer !== (currentWord.translations[0]?.tranCn ?? '') && (
+                  <p className="mt-0.5 text-sm text-gray-400">You selected: <span className="text-danger-500">{selectedAnswer}</span></p>
+                )}
+              </div>
+            </div>
+            <div className="overflow-y-auto px-5 pb-4">
+              <div className="space-y-4">
+                <div className="flex items-start justify-between">
+                  <div>
+                    <div className="flex items-center gap-2">
+                      <span className="text-xl font-bold text-gray-900">{currentWord.headWord}</span>
+                      {currentWord.translations[0]?.pos && (
+                        <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-500">[{currentWord.translations[0].pos}]</span>
+                      )}
+                    </div>
+                    <div className="mt-1 flex gap-3 text-xs text-gray-400">
+                      <span>US: {currentWord.usphone || '-'}</span>
+                      <span>UK: {currentWord.ukphone || '-'}</span>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-1">
+                    <button
+                      onClick={() => play(currentWord.headWord)}
+                      className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-gray-50 text-gray-400 hover:bg-primary-50 hover:text-primary-500"
+                    >
+                      <span className={`text-lg ${isPlaying ? 'animate-pulse text-primary-500' : ''}`}>🔊</span>
+                    </button>
+                    <button
+                      onClick={() => toggleFav(currentWord)}
+                      className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-gray-50 text-gray-300 hover:bg-yellow-50 hover:text-yellow-400"
+                    >
+                      <span className="text-lg">{isFav ? '⭐' : '☆'}</span>
+                    </button>
+                  </div>
+                </div>
+                <section>
+                  <h3 className="mb-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">Definitions</h3>
+                  {currentWord.translations.map((t, i) => (
+                    <div key={i} className="mb-1.5 flex gap-2 text-sm">
+                      <span className="shrink-0 rounded bg-gray-100 px-1.5 py-0.5 text-xs font-medium text-gray-500">{t.pos}</span>
+                      <span className="text-gray-700">{t.tranCn}</span>
+                      {t.tranOther && <span className="text-gray-400">{t.tranOther}</span>}
+                    </div>
+                  ))}
+                </section>
+                {currentWord.sentences.length > 0 && (
+                  <section>
+                    <h3 className="mb-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">Sentences</h3>
+                    <ul className="space-y-1.5">
+                      {currentWord.sentences.map((s, i) => (
+                        <li key={i} className="text-sm"><p className="text-gray-700">{s.en}</p><p className="text-gray-400">{s.cn}</p></li>
+                      ))}
+                    </ul>
+                  </section>
+                )}
+                {currentWord.synonyms.length > 0 && (
+                  <section>
+                    <h3 className="mb-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">Synonyms</h3>
+                    {currentWord.synonyms.map((s, i) => (
+                      <div key={i} className="mb-1 text-sm">
+                        <span className="rounded bg-gray-100 px-1 py-0.5 text-xs text-gray-500">{s.pos}</span>{' '}
+                        <span className="text-gray-600">{s.words.join('、')}</span>
+                      </div>
+                    ))}
+                  </section>
+                )}
+                {currentWord.phrases.length > 0 && (
+                  <section>
+                    <h3 className="mb-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">Phrases</h3>
+                    <ul className="space-y-1">
+                      {currentWord.phrases.map((p, i) => (
+                        <li key={i} className="text-sm"><span className="font-medium text-gray-700">{p.en}</span><span className="ml-1 text-gray-400">— {p.cn}</span></li>
+                      ))}
+                    </ul>
+                  </section>
+                )}
+              </div>
+            </div>
+            <div className="shrink-0 px-5 pb-5 pt-2">
+              <button
+                onClick={nextWord}
+                className="w-full rounded-xl bg-primary-500 py-3 text-sm font-semibold text-white transition-colors hover:bg-primary-600 active:scale-[0.98]"
+              >
+                {session.currentIndex + 1 >= session.words.length ? 'Finish' : 'Next Word'}
+              </button>
+            </div>
+          </div>
         </div>
       )}
     </div>
