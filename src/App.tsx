@@ -3,6 +3,11 @@ import { AppLayout } from '@/components/layout/AppLayout'
 import { Dashboard } from '@/pages/Dashboard'
 import { WordListPage } from '@/pages/WordListPage'
 import { WordDetailPage } from '@/pages/WordDetailPage'
+import { PracticeHome } from '@/pages/PracticeHome'
+import { ListenPick } from '@/pages/ListenPick'
+import { MeaningPick } from '@/pages/MeaningPick'
+import { SpellInput } from '@/pages/SpellInput'
+import { ReversePick } from '@/pages/ReversePick'
 
 const router = createBrowserRouter([
   {
@@ -12,6 +17,11 @@ const router = createBrowserRouter([
       { index: true, element: <Dashboard /> },
       { path: 'words', element: <WordListPage /> },
       { path: 'words/:wordId', element: <WordDetailPage /> },
+      { path: 'practice', element: <PracticeHome /> },
+      { path: 'practice/listen', element: <ListenPick /> },
+      { path: 'practice/meaning', element: <MeaningPick /> },
+      { path: 'practice/spell', element: <SpellInput /> },
+      { path: 'practice/reverse', element: <ReversePick /> },
     ],
   },
 ])
