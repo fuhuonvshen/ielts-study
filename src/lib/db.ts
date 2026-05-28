@@ -8,8 +8,8 @@ export class IeltsDb extends Dexie {
 
   constructor() {
     super('ielts_listening')
-    this.version(1).stores({
-      words: 'id, headWord, status, isFavorite, bookId',
+    this.version(2).stores({
+      words: 'id, wordRank, headWord, status, isFavorite, bookId',
       practiceRecords: '++id, wordId, mode, isCorrect, timestamp',
       dailyStats: 'date, mode',
     })

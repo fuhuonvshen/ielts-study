@@ -10,6 +10,7 @@ export function usePracticeSession(mode: PracticeMode, count: number = 10) {
     session, options, selectedAnswer, showResult,
     startSession, selectAnswer, setOptions, nextWord: storeNextWord, endSession,
   } = usePracticeStore()
+  const { words: allWords } = useWordStore()
 
   const initSession = useCallback(async () => {
     const words = await getRandomWordsForSession(count)
@@ -25,12 +26,11 @@ export function usePracticeSession(mode: PracticeMode, count: number = 10) {
   useEffect(() => {
     if (!session || session.isComplete) return
     const currentWord = session.words[session.currentIndex]
-    const allWords = useWordStore.getState().words
     if (allWords.length > 0 && currentWord) {
       const opts = generateOptions(currentWord, allWords, 4)
       setOptions(opts)
     }
-  }, [session?.currentIndex, session?.isComplete])
+  }, [session, session?.currentIndex, session?.isComplete, allWords.length])
 
   const nextWord = useCallback(async () => {
     const state = usePracticeStore.getState()
