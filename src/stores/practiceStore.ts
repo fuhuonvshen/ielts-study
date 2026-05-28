@@ -26,8 +26,8 @@ export const usePracticeStore = create<PracticeState>((set, get) => ({
   options: [],
   selectedAnswer: null,
   showResult: false,
-  layoutRatio: 1,
-  contentScale: 1,
+  layoutRatio: 0.5,
+  contentScale: 1.3,
 
   startSession: (mode, words) => {
     set({
