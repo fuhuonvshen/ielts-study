@@ -1,4 +1,4 @@
-import { useEffect, useCallback } from 'react'
+import { useEffect, useCallback, useRef } from 'react'
 import { usePracticeStore } from '@/stores/practiceStore'
 import { useWordStore } from '@/stores/wordStore'
 import { generateOptions, getRandomWordsForSession } from '@/services/practiceService'
@@ -11,14 +11,16 @@ export function usePracticeSession(mode: PracticeMode, count: number = 10) {
     startSession, selectAnswer, setOptions, nextWord: storeNextWord, endSession,
   } = usePracticeStore()
   const { words: allWords, loadWords } = useWordStore()
+  const sessionEpochRef = useRef(0)
 
   useEffect(() => {
     loadWords()
   }, [loadWords])
 
   const initSession = useCallback(async () => {
+    const epoch = ++sessionEpochRef.current
     const words = await getRandomWordsForSession(count)
-    if (words.length > 0) {
+    if (words.length > 0 && epoch === sessionEpochRef.current) {
       startSession(mode, words)
     }
   }, [mode, count, startSession])
