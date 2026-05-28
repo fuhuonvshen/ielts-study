@@ -10,7 +10,11 @@ export function usePracticeSession(mode: PracticeMode, count: number = 10) {
     session, options, selectedAnswer, showResult,
     startSession, selectAnswer, setOptions, nextWord: storeNextWord, endSession,
   } = usePracticeStore()
-  const { words: allWords } = useWordStore()
+  const { words: allWords, loadWords } = useWordStore()
+
+  useEffect(() => {
+    loadWords()
+  }, [loadWords])
 
   const initSession = useCallback(async () => {
     const words = await getRandomWordsForSession(count)
