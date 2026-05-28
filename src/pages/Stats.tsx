@@ -3,6 +3,7 @@ import { useStatsStore } from '@/stores/statsStore'
 import { useWordStore } from '@/stores/wordStore'
 import { Heatmap } from '@/components/stats/Heatmap'
 import { TrendChart } from '@/components/stats/TrendChart'
+import { DataExport } from '@/components/DataExport'
 
 export function Stats() {
   const { last7Days, loadStats } = useStatsStore()
@@ -32,6 +33,7 @@ export function Stats() {
         <Heatmap data={last7Days} />
         <TrendChart data={last7Days} />
       </div>
+      <DataExport />
     </div>
   )
 }
