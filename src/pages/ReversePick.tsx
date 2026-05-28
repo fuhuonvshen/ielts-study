@@ -41,13 +41,15 @@ export function ReversePick() {
         <ProgressBar current={session.currentIndex + (showResult ? 1 : 0)} total={session.words.length} />
       </div>
       <div className="mb-8 text-center">
-        <div className="flex items-center justify-center gap-2">
-          <span className="text-xl font-semibold text-gray-700">
-            {currentWord?.translations[0]?.tranCn}
-          </span>
-          {currentWord?.translations[0]?.pos && (
-            <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">[{currentWord.translations[0].pos}]</span>
-          )}
+        <div className="flex items-center justify-center gap-3 flex-wrap">
+          {currentWord?.translations.map((t, i) => (
+            <span key={i} className="inline-flex items-center gap-1.5">
+              <span className="text-xl font-semibold text-gray-700">{t.tranCn}</span>
+              {t.pos && (
+                <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">[{t.pos}]</span>
+              )}
+            </span>
+          ))}
         </div>
       </div>
       <div className="mb-4 text-center text-sm text-gray-400">
