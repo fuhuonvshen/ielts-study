@@ -1,211 +1,45 @@
-# 单词本源
+# IELTS Listening Practice
 
-Crawl from "X 道背单词(app)"
+一个本地优先的雅思听力词汇练习工具，帮助你在真实语境中掌握雅思核心词汇。
 
-## 📃 使用说明
+## 练习模式
 
-[使用方法](https://github.com/kajweb/dict/wiki/使用方法)  
-自己先写脚本按行读取预处理一遍。先把自己需要的内容写进数据库，再从数据库获取。
+| 模式 | 说明 |
+|------|------|
+| **听音选词** | 播放单词音频，从四个选项中选出正确的中文释义 |
+| **看词选义** | 显示英文单词，从四个选项中选出正确的中文释义 |
+| **听音拼写** | 播放单词音频，拼写出正确的英文单词 |
+| **看义选词** | 显示中文释义，从四个选项中选出正确的英文单词 |
 
-部分字典混入了少量法语字母，可以使用以下代码对文本进行处理
+每轮练习 10 个单词，完成后展示成绩统计。
 
-```py
-def replaceFran(str):
-    fr_en = [['é', 'e'], ['ê', 'e'], ['è', 'e'], ['ë', 'e'], ['à', 'a'], ['â', 'a'], ['ç', 'c'], ['î', 'i'], ['ï', 'i'],
-             ['ô', 'o'], ['ù', 'u'], ['û', 'u'], ['ü', 'u'], ['ÿ', 'y']
-             ]
-    for i in fr_en:
-        str = str.replace(i[0], i[1])
-    return str
+## 主要功能
+
+- **单词库管理** — 浏览、搜索、收藏单词，查看完整释义、例句、同义词和短语
+- **错词本** — 自动记录练习中出错的单词，方便针对性复习
+- **收藏夹** — 收藏重点单词，支持自定义标签分类
+- **学习统计** — 每日练习记录和正确率趋势
+- **数据导入导出** — 支持备份和恢复学习数据，可重置学习进度
+- **自适应布局** — 可调节左右分栏比例和字体缩放，适配不同屏幕
+
+## 技术栈
+
+React 18 + TypeScript + Vite 5 + Tailwind CSS 3 + Zustand + Dexie.js (IndexedDB)
+
+## 本地运行
+
+```bash
+npm install
+npm run dev
 ```
 
-# 📕 JSON 格式说明
-·
-以 CET4_3.json 第一个单词 cancel 为例
+## 构建部署
 
-```json
-{
-  // 单词序号
-  "wordRank": 1,
-  // 单词
-  "headWord": "cancel",
-  "content": {
-    "word": {
-      "wordHead": "cancel",
-      "wordId": "CET4_3_1",
-      "content": {
-        // 单词相关测试
-        "exam": [
-          {
-            // 问题
-            "question": "As we can no longer wait for the delivery of our order, we have to _______ it.",
-            // 答案
-            "answer": {
-              "explain": " cancel order：  取消订单。 句意：  订购的货物尚未送到， 我们不能再等了， 不得不取消订单。 postpone：  推迟， 使延期； refuse：  拒绝， 谢绝； delay：  耽搁， 延迟， 延期。",
-              "rightIndex": 4
-            },
-            // 测试类型
-            "examType": 1,
-            // 选项
-            "choices": [
-              {
-                "choiceIndex": 1,
-                "choice": "postpone"
-              },
-              {
-                "choiceIndex": 2,
-                "choice": "refuse"
-              },
-              {
-                "choiceIndex": 3,
-                "choice": "delay"
-              },
-              {
-                "choiceIndex": 4,
-                "choice": "cancel"
-              }
-            ]
-          }
-        ],
-        // 例句
-        "sentence": {
-          "sentences": [
-            {
-              // 英语
-              "sContent": "Our flight was cancelled.",
-              // 中文翻译
-              "sCn": "我们的航班取消了。"
-            },
-            {
-              "sContent": "I’m afraid I’ll have to cancel our meeting tomorrow.",
-              "sCn": "恐怕我得取消我们明天的会议。"
-            },
-            {
-              "sContent": "You’ll just have to ring John and cancel.",
-              "sCn": "你只能打电话给约翰取消了。"
-            }
-          ],
-          // 描述
-          "desc": "例句"
-        },
-        // 美音音标
-        "usphone": "'kænsl",
-        // 近义词
-        "syno": {
-          "synos": [
-            {
-              // 词性
-              "pos": "vt",
-              // 对应词义
-              "tran": "[计]取消；删去",
-              // 近义词/词组
-              "hwds": [
-                {
-                  "w": "recall"
-                },
-                {
-                  "w": "call it off"
-                }
-              ]
-            },
-            {
-              "pos": "vi",
-              "tran": "[计]取消；相互抵销",
-              "hwds": [
-                {
-                  "w": "call it off"
-                },
-                {
-                  "w": "declare off"
-                }
-              ]
-            },
-            {
-              "pos": "n",
-              "tran": "[计]取消，撤销",
-              "hwds": [
-                {
-                  "w": "withdrawal"
-                },
-                {
-                  "w": "revocation"
-                }
-              ]
-            }
-          ],
-          "desc": "同近"
-        },
-        // 英音音标
-        "ukphone": "'kænsl",
-        // 英音发音https请求参数
-        "ukspeech": "cancel&type=1",
-        // 短语
-        "phrase": {
-          "phrases": [
-            {
-              // 英语
-              "pContent": "cancel button",
-              // 翻译
-              "pCn": "取消按钮"
-            },
-            {
-              "pContent": "cancel out",
-              "pCn": "取消；抵销"
-            },
-            {
-              "pContent": "cancel after verification",
-              "pCn": "核销"
-            }
-          ],
-          "desc": "短语"
-        },
-        // 同根词
-        "relWord": {
-          "rels": [
-            {
-              // 词性
-              "pos": "n",
-              "words": [
-                {
-                  // 英语
-                  "hwd": "cancellation",
-                  // 翻译
-                  "tran": " 取消；删除"
-                }
-              ]
-            }
-          ],
-          "desc": "同根"
-        },
-        // 美音发音https请求参数
-        "usspeech": "cancel&type=2",
-        // 翻译
-        "trans": [
-          {
-            // 中释
-            "tranCn": " 取消， 撤销； 删去",
-            "descOther": "英释",
-            // 词性
-            "pos": "vt",
-            "descCn": "中释",
-            // 英英释义
-            "tranOther": "to decide that something that was officially planned will not happen"
-          }
-        ]
-      }
-    }
-  },
-  // 单词书 ID
-  "bookId": "CET4_3"
-}
+```bash
+npm run build    # 输出到 dist/
+npm run preview  # 预览构建结果
 ```
 
-## 🎙 发音请求
+## License
 
-有道英语发音接口
-
-```
-https://dict.youdao.com/dictvoice?audio={word}&type={1|2}
-```
-
-type 1 为英音 2 为美音
+MIT
