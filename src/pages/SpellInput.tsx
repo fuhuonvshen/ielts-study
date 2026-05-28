@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from 'react'
 import { usePracticeSession } from '@/hooks/usePracticeSession'
 import { useAudio } from '@/hooks/useAudio'
+import { stopAllAudio } from '@/services/audioService'
 import { AudioButton } from '@/components/practice/AudioButton'
 import { ProgressBar } from '@/components/practice/ProgressBar'
 import { SessionResult } from '@/components/practice/SessionResult'
@@ -23,7 +24,7 @@ export function SpellInput() {
     setSubmitted(false)
     inputRef.current?.focus()
     return () => {
-      speechSynthesis.cancel()
+      stopAllAudio()
     }
   }, [currentWord?.id])
 

@@ -25,12 +25,27 @@ export function speakWithWebSpeech(text: string, accent: Accent): Promise<void> 
   })
 }
 
+let currentAudio: HTMLAudioElement | null = null
+
+export function stopAllAudio(): void {
+  if (currentAudio) {
+    currentAudio.pause()
+    currentAudio.src = ''
+    currentAudio = null
+  }
+  if (supportsSpeechSynthesis()) {
+    speechSynthesis.cancel()
+  }
+}
+
 export function playAudio(url: string): Promise<void> {
   return new Promise((resolve, reject) => {
+    stopAllAudio()
     const audio = new Audio(url)
-    audio.onended = () => resolve()
-    audio.onerror = () => reject(new Error('Audio playback failed'))
-    audio.play().catch(reject)
+    currentAudio = audio
+    audio.onended = () => { currentAudio = null; resolve() }
+    audio.onerror = () => { currentAudio = null; reject(new Error('Audio playback failed')) }
+    audio.play().catch((e) => { currentAudio = null; reject(e) })
   })
 }
 
