@@ -73,7 +73,7 @@ export async function getPracticeRecordsByDateRange(
 }
 
 export async function getWrongWordIds(): Promise<string[]> {
-  const records = await db.practiceRecords.where('isCorrect').equals(false).toArray()
+  const records = await db.practiceRecords.filter((r) => !r.isCorrect).toArray()
   return [...new Set(records.map((r) => r.wordId))]
 }
 

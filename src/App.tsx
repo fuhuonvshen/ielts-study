@@ -1,11 +1,19 @@
-function App() {
-  return (
-    <div className="flex min-h-screen items-center justify-center">
-      <h1 className="text-2xl font-semibold text-primary-600">
-        IELTS Listening Practice
-      </h1>
-    </div>
-  )
-}
+import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { AppLayout } from '@/components/layout/AppLayout'
+import { Dashboard } from '@/pages/Dashboard'
+import { WordListPage } from '@/pages/WordListPage'
 
-export default App
+const router = createBrowserRouter([
+  {
+    path: '/',
+    element: <AppLayout />,
+    children: [
+      { index: true, element: <Dashboard /> },
+      { path: 'words', element: <WordListPage /> },
+    ],
+  },
+])
+
+export function App() {
+  return <RouterProvider router={router} />
+}
