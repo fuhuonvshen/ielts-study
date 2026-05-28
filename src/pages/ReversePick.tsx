@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react'
 import { usePracticeSession } from '@/hooks/usePracticeSession'
 import { OptionCard } from '@/components/practice/OptionCard'
 import { ProgressBar } from '@/components/practice/ProgressBar'
+import { LayoutRatioSlider } from '@/components/practice/LayoutRatioSlider'
+import { ContentScaleSlider } from '@/components/practice/ContentScaleSlider'
 import { SessionResult } from '@/components/practice/SessionResult'
 import { generateOptions } from '@/services/practiceService'
 import { useWordStore } from '@/stores/wordStore'
@@ -11,7 +13,7 @@ import type { OptionState } from '@/components/practice/OptionCard'
 export function ReversePick() {
   const { session, selectedAnswer, showResult, currentWord, selectAnswer, nextWord } = usePracticeSession('reverse', 10)
   const { words: allWords } = useWordStore()
-  const { options, setOptions } = usePracticeStore()
+  const { options, setOptions, layoutRatio, contentScale } = usePracticeStore()
   const [reviewingPrev, setReviewingPrev] = useState(false)
 
   useEffect(() => {
@@ -83,55 +85,67 @@ export function ReversePick() {
   }
 
   return (
-    <div className="mx-auto max-w-lg">
-      <div className="mb-8">
-        <ProgressBar current={session.currentIndex + (showResult ? 1 : 0)} total={session.words.length} />
-      </div>
-      <div className="mb-8 text-center">
-        <div className="flex items-center justify-center gap-3 flex-wrap">
-          {currentWord?.translations.map((t, i) => (
-            <span key={i} className="inline-flex items-center gap-1.5">
-              <span className="text-xl font-semibold text-gray-700">{t.tranCn}</span>
-              {t.pos && (
-                <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">[{t.pos}]</span>
-              )}
-            </span>
-          ))}
+    <div className="mx-auto max-w-4xl">
+      <div className="mb-6 flex items-center gap-2">
+        <div className="flex-1">
+          <ProgressBar current={session.currentIndex + (showResult ? 1 : 0)} total={session.words.length} />
         </div>
+        <ContentScaleSlider />
+        <LayoutRatioSlider />
       </div>
-      <div className="mb-4 text-center text-sm text-gray-400">
-        Choose the correct word for this meaning
-      </div>
-      <div className="grid grid-cols-1 gap-3">
-        {options.map((opt) => (
-          <OptionCard
-            key={opt.id}
-            text={opt.headWord}
-            state={getOptionState(opt.headWord)}
-            onClick={() => { if (!showResult) selectAnswer(opt.headWord) }}
-            showIcon={showResult}
-          />
-        ))}
-      </div>
-      {!showResult && session.currentIndex > 0 && (
-        <button onClick={() => setReviewingPrev(true)} className="mt-4 w-full rounded-xl border border-gray-200 py-2.5 text-sm font-semibold text-gray-500 hover:bg-gray-50">← Previous word</button>
-      )}
-      {showResult && currentWord && (
-        <div className="mt-6 rounded-2xl border border-gray-100 bg-white p-5">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <span className="text-lg font-bold">{currentWord.headWord}</span>
-              {currentWord.translations[0]?.pos && (
-                <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">{currentWord.translations[0].pos}</span>
-              )}
+      <div style={{ transform: `scale(${contentScale})`, transformOrigin: 'top right' }}>
+        <div className="flex flex-col md:flex-row gap-6">
+        {/* 左侧：中文释义 */}
+        <div className="flex items-center justify-center" style={{ flex: layoutRatio }}>
+          <div className="text-center">
+            <div className="flex items-center justify-center gap-3 flex-wrap">
+              {currentWord?.translations.map((t, i) => (
+                <span key={i} className="inline-flex items-center gap-1.5">
+                  <span className="text-xl font-semibold text-gray-700 md:text-2xl">{t.tranCn}</span>
+                  {t.pos && (
+                    <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">[{t.pos}]</span>
+                  )}
+                </span>
+              ))}
             </div>
-            <span className="text-sm text-gray-400">{currentWord.usphone}</span>
+            <p className="mt-2 text-sm text-gray-400">Choose the correct word for this meaning</p>
           </div>
-          <button onClick={nextWord} className="mt-4 w-full rounded-xl bg-primary-500 py-2.5 text-sm font-semibold text-white">
-            {session.currentIndex + 1 >= session.words.length ? 'Finish' : 'Next Word'}
-          </button>
         </div>
-      )}
+        {/* 右侧：选项 */}
+        <div className="flex-1 space-y-3">
+          <div className="grid grid-cols-1 gap-3">
+            {options.map((opt) => (
+              <OptionCard
+                key={opt.id}
+                text={opt.headWord}
+                state={getOptionState(opt.headWord)}
+                onClick={() => { if (!showResult) selectAnswer(opt.headWord) }}
+                showIcon={showResult}
+              />
+            ))}
+          </div>
+          {!showResult && session.currentIndex > 0 && (
+            <button onClick={() => setReviewingPrev(true)} className="w-full rounded-xl border border-gray-200 py-2.5 text-sm font-semibold text-gray-500 hover:bg-gray-50">← Previous word</button>
+          )}
+          {showResult && currentWord && (
+            <div className="rounded-2xl border border-gray-100 bg-white p-5">
+              <div className="flex items-center justify-between">
+                <div className="flex items-center gap-2">
+                  <span className="text-lg font-bold">{currentWord.headWord}</span>
+                  {currentWord.translations[0]?.pos && (
+                    <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400">{currentWord.translations[0].pos}</span>
+                  )}
+                </div>
+                <span className="text-sm text-gray-400">{currentWord.usphone}</span>
+              </div>
+              <button onClick={nextWord} className="mt-4 w-full rounded-xl bg-primary-500 py-2.5 text-sm font-semibold text-white">
+                {session.currentIndex + 1 >= session.words.length ? 'Finish' : 'Next Word'}
+              </button>
+            </div>
+          )}
+        </div>
+      </div>
+      </div>
     </div>
   )
 }

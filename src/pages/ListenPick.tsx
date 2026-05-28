@@ -1,9 +1,12 @@
 import { useEffect, useState } from 'react'
 import { usePracticeSession } from '@/hooks/usePracticeSession'
+import { usePracticeStore } from '@/stores/practiceStore'
 import { useAudio } from '@/hooks/useAudio'
 import { AudioButton } from '@/components/practice/AudioButton'
 import { OptionCard } from '@/components/practice/OptionCard'
 import { ProgressBar } from '@/components/practice/ProgressBar'
+import { LayoutRatioSlider } from '@/components/practice/LayoutRatioSlider'
+import { ContentScaleSlider } from '@/components/practice/ContentScaleSlider'
 import { SessionResult } from '@/components/practice/SessionResult'
 import { updateWord } from '@/lib/db'
 import type { OptionState } from '@/components/practice/OptionCard'
@@ -14,6 +17,7 @@ export function ListenPick() {
     session, options, selectedAnswer, showResult, currentWord,
     selectAnswer, nextWord,
   } = usePracticeSession('listen', 10)
+  const { layoutRatio, contentScale } = usePracticeStore()
   const [isFav, setIsFav] = useState(false)
   const [reviewingPrev, setReviewingPrev] = useState(false)
 
@@ -162,40 +166,52 @@ export function ListenPick() {
 
   // ---- 正常答题界面 + 答题后弹窗 ----
   return (
-    <div className="mx-auto max-w-lg">
-      <div className="mb-8">
-        <ProgressBar current={session.currentIndex + (showResult ? 1 : 0)} total={session.words.length} />
+    <div className="mx-auto max-w-4xl">
+      <div className="mb-6 flex items-center gap-2">
+        <div className="flex-1">
+          <ProgressBar current={session.currentIndex + (showResult ? 1 : 0)} total={session.words.length} />
+        </div>
+        <ContentScaleSlider />
+        <LayoutRatioSlider />
       </div>
-      <div className="mb-8 flex justify-center">
-        <AudioButton onClick={() => currentWord && play(currentWord.headWord)} isPlaying={isPlaying} />
+      <div style={{ transform: `scale(${contentScale})`, transformOrigin: 'top right' }}>
+        <div className="flex flex-col md:flex-row gap-6">
+          {/* 左侧：喇叭按钮 */}
+          <div className="flex items-center justify-center" style={{ flex: layoutRatio }}>
+            <AudioButton onClick={() => currentWord && play(currentWord.headWord)} isPlaying={isPlaying} />
+          </div>
+          {/* 右侧：选项 */}
+          <div className="flex-1 space-y-3">
+            <p className="text-center text-sm text-gray-400 md:text-left">
+              Listen and choose the correct meaning
+            </p>
+            <div className="grid grid-cols-1 gap-3">
+              {options.map((opt) => {
+                const pos = opt.translations[0]?.pos
+                const meaning = opt.translations[0]?.tranCn ?? opt.headWord
+                return (
+                  <OptionCard
+                    key={opt.id}
+                    text={pos ? <><span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400 mr-1.5">[{pos}]</span>{meaning}</> : meaning}
+                    state={getOptionState(meaning)}
+                    onClick={() => { if (!showResult) selectAnswer(meaning) }}
+                    showIcon={showResult}
+                  />
+                )
+              })}
+            </div>
+            {/* 上一题按钮 */}
+            {!showResult && session.currentIndex > 0 && (
+              <button
+                onClick={() => setReviewingPrev(true)}
+                className="w-full rounded-xl border border-gray-200 py-2.5 text-sm font-semibold text-gray-500 transition-colors hover:bg-gray-50"
+              >
+                ← Previous word
+              </button>
+            )}
+          </div>
+        </div>
       </div>
-      <div className="mb-4 text-center text-sm text-gray-400">
-        Listen and choose the correct meaning
-      </div>
-      <div className="grid grid-cols-1 gap-3">
-        {options.map((opt) => {
-          const pos = opt.translations[0]?.pos
-          const meaning = opt.translations[0]?.tranCn ?? opt.headWord
-          return (
-            <OptionCard
-              key={opt.id}
-              text={pos ? <><span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400 mr-1.5">[{pos}]</span>{meaning}</> : meaning}
-              state={getOptionState(meaning)}
-              onClick={() => { if (!showResult) selectAnswer(meaning) }}
-              showIcon={showResult}
-            />
-          )
-        })}
-      </div>
-      {/* 上一题按钮 —— 在选项下方，未答题时显示 */}
-      {!showResult && session.currentIndex > 0 && (
-        <button
-          onClick={() => setReviewingPrev(true)}
-          className="mt-4 w-full rounded-xl border border-gray-200 py-2.5 text-sm font-semibold text-gray-500 transition-colors hover:bg-gray-50"
-        >
-          ← Previous word
-        </button>
-      )}
       {/* 答题后弹窗 */}
       {showResult && currentWord && (
         <div className="fixed inset-0 z-50 flex items-end justify-center sm:items-center">

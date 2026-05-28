@@ -1,17 +1,24 @@
 import { create } from 'zustand'
 import type { Word, PracticeMode, PracticeSession } from '@/types'
 
+export type LayoutRatio = 0.5 | 1 | 2
+export type ContentScale = 1 | 1.15 | 1.3
+
 interface PracticeState {
   session: PracticeSession | null
   options: Word[]
   selectedAnswer: string | null
   showResult: boolean
+  layoutRatio: LayoutRatio
+  contentScale: ContentScale
 
   startSession: (mode: PracticeMode, words: Word[]) => void
   selectAnswer: (answer: string) => void
   setOptions: (options: Word[]) => void
   nextWord: () => void
   endSession: () => void
+  setLayoutRatio: (ratio: LayoutRatio) => void
+  setContentScale: (scale: ContentScale) => void
 }
 
 export const usePracticeStore = create<PracticeState>((set, get) => ({
@@ -19,6 +26,8 @@ export const usePracticeStore = create<PracticeState>((set, get) => ({
   options: [],
   selectedAnswer: null,
   showResult: false,
+  layoutRatio: 1,
+  contentScale: 1,
 
   startSession: (mode, words) => {
     set({
@@ -79,4 +88,7 @@ export const usePracticeStore = create<PracticeState>((set, get) => ({
       session: state.session ? { ...state.session, isComplete: true } : null,
     }))
   },
+
+  setLayoutRatio: (ratio) => set({ layoutRatio: ratio }),
+  setContentScale: (scale) => set({ contentScale: scale }),
 }))

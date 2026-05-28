@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react'
 import { usePracticeSession } from '@/hooks/usePracticeSession'
 import { OptionCard } from '@/components/practice/OptionCard'
 import { ProgressBar } from '@/components/practice/ProgressBar'
+import { LayoutRatioSlider } from '@/components/practice/LayoutRatioSlider'
+import { ContentScaleSlider } from '@/components/practice/ContentScaleSlider'
 import { SessionResult } from '@/components/practice/SessionResult'
 import { generateOptions } from '@/services/practiceService'
 import { useWordStore } from '@/stores/wordStore'
@@ -11,7 +13,7 @@ import type { OptionState } from '@/components/practice/OptionCard'
 export function MeaningPick() {
   const { session, selectedAnswer, showResult, currentWord, selectAnswer, nextWord } = usePracticeSession('meaning', 10)
   const { words: allWords } = useWordStore()
-  const { options, setOptions } = usePracticeStore()
+  const { options, setOptions, layoutRatio, contentScale } = usePracticeStore()
   const [reviewingPrev, setReviewingPrev] = useState(false)
 
   useEffect(() => {
@@ -86,42 +88,56 @@ export function MeaningPick() {
   }
 
   return (
-    <div className="mx-auto max-w-lg">
-      <div className="mb-8">
-        <ProgressBar current={session.currentIndex + (showResult ? 1 : 0)} total={session.words.length} />
+    <div className="mx-auto max-w-4xl">
+      <div className="mb-6 flex items-center gap-2">
+        <div className="flex-1">
+          <ProgressBar current={session.currentIndex + (showResult ? 1 : 0)} total={session.words.length} />
+        </div>
+        <ContentScaleSlider />
+        <LayoutRatioSlider />
       </div>
-      <div className="mb-8 text-center">
-        <span className="text-3xl font-bold">{currentWord?.headWord}</span>
-        {currentWord?.translations[0]?.pos && (
-          <span className="ml-2 rounded bg-gray-100 px-2 py-1 text-sm text-gray-400">
-            {[...new Set(currentWord.translations.map((t) => t.pos).filter(Boolean))].join('/')}
-          </span>
-        )}
-        <span className="ml-2 text-sm text-gray-400">{currentWord?.usphone}</span>
+      <div style={{ transform: `scale(${contentScale})`, transformOrigin: 'top right' }}>
+        <div className="flex flex-col md:flex-row gap-6">
+        {/* 左侧：单词信息 */}
+        <div className="flex items-center justify-center" style={{ flex: layoutRatio }}>
+          <div className="text-center">
+            <span className="text-3xl font-bold md:text-4xl">{currentWord?.headWord}</span>
+            {currentWord?.translations[0]?.pos && (
+              <span className="ml-2 rounded bg-gray-100 px-2 py-1 text-sm text-gray-400">
+                {[...new Set(currentWord.translations.map((t) => t.pos).filter(Boolean))].join('/')}
+              </span>
+            )}
+            <div className="mt-2 text-sm text-gray-400">{currentWord?.usphone}</div>
+          </div>
+        </div>
+        {/* 右侧：选项 */}
+        <div className="flex-1 space-y-3">
+          <div className="grid grid-cols-1 gap-3">
+            {options.map((opt) => {
+              const pos = opt.translations[0]?.pos
+              const meaning = opt.translations[0]?.tranCn ?? opt.headWord
+              return (
+                <OptionCard
+                  key={opt.id}
+                  text={pos ? <><span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400 mr-1.5">[{pos}]</span>{meaning}</> : meaning}
+                  state={getOptionState(meaning)}
+                  onClick={() => { if (!showResult) selectAnswer(meaning) }}
+                  showIcon={showResult}
+                />
+              )
+            })}
+          </div>
+          {!showResult && session.currentIndex > 0 && (
+            <button onClick={() => setReviewingPrev(true)} className="w-full rounded-xl border border-gray-200 py-2.5 text-sm font-semibold text-gray-500 hover:bg-gray-50">← Previous word</button>
+          )}
+          {showResult && (
+            <button onClick={nextWord} className="w-full rounded-xl bg-primary-500 py-2.5 text-sm font-semibold text-white">
+              {session.currentIndex + 1 >= session.words.length ? 'Finish' : 'Next Word'}
+            </button>
+          )}
+        </div>
       </div>
-      <div className="grid grid-cols-1 gap-3">
-        {options.map((opt) => {
-          const pos = opt.translations[0]?.pos
-          const meaning = opt.translations[0]?.tranCn ?? opt.headWord
-          return (
-            <OptionCard
-              key={opt.id}
-              text={pos ? <><span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-400 mr-1.5">[{pos}]</span>{meaning}</> : meaning}
-              state={getOptionState(meaning)}
-              onClick={() => { if (!showResult) selectAnswer(meaning) }}
-              showIcon={showResult}
-            />
-          )
-        })}
       </div>
-      {!showResult && session.currentIndex > 0 && (
-        <button onClick={() => setReviewingPrev(true)} className="mt-4 w-full rounded-xl border border-gray-200 py-2.5 text-sm font-semibold text-gray-500 hover:bg-gray-50">← Previous word</button>
-      )}
-      {showResult && (
-        <button onClick={nextWord} className="mt-6 w-full rounded-xl bg-primary-500 py-2.5 text-sm font-semibold text-white">
-          {session.currentIndex + 1 >= session.words.length ? 'Finish' : 'Next Word'}
-        </button>
-      )}
     </div>
   )
 }
