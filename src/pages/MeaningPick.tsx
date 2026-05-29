@@ -23,6 +23,36 @@ export function MeaningPick() {
     }
   }, [currentWord?.id, showResult, allWords.length])
 
+  // 键盘快捷键
+  useEffect(() => {
+    const handleKey = (e: KeyboardEvent) => {
+      if (session?.isComplete) return
+      if (reviewingPrev) {
+        if (e.key === 'Enter' || e.key === 'ArrowRight') setReviewingPrev(false)
+        return
+      }
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return
+
+      if (!showResult) {
+        if (e.key === 'ArrowLeft' && session && session.currentIndex > 0) {
+          setReviewingPrev(true)
+          return
+        }
+        const optIndex = ['1', '2', '3', '4'].indexOf(e.key)
+        if (optIndex >= 0 && options[optIndex]) {
+          const meaning = options[optIndex].translations[0]?.tranCn ?? options[optIndex].headWord
+          selectAnswer(meaning)
+        }
+      } else {
+        if (e.key === 'Enter' || e.key === 'ArrowRight') {
+          nextWord()
+        }
+      }
+    }
+    window.addEventListener('keydown', handleKey)
+    return () => window.removeEventListener('keydown', handleKey)
+  }, [session, showResult, reviewingPrev, options, selectAnswer, nextWord])
+
   if (!session) {
     return <div className="py-20 text-center"><p className="text-gray-400">Loading...</p></div>
   }

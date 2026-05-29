@@ -37,6 +37,44 @@ export function ListenPick() {
     }
   }, [currentWord?.id])
 
+  // 键盘快捷键
+  useEffect(() => {
+    const handleKey = (e: KeyboardEvent) => {
+      if (session?.isComplete) return
+      // 回顾弹窗中：Enter/→ 关闭弹窗
+      if (reviewingPrev) {
+        if (e.key === 'Enter' || e.key === 'ArrowRight') setReviewingPrev(false)
+        return
+      }
+      // 忽略输入框中的按键
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return
+
+      if (!showResult) {
+        // 答题中：Tab 重听，1-4 选选项
+        if (e.key === 'Tab') {
+          e.preventDefault()
+          if (currentWord) play(currentWord.headWord)
+        }
+        if (e.key === 'ArrowLeft' && session && session.currentIndex > 0) {
+          setReviewingPrev(true)
+          return
+        }
+        const optIndex = ['1', '2', '3', '4'].indexOf(e.key)
+        if (optIndex >= 0 && options[optIndex]) {
+          const meaning = options[optIndex].translations[0]?.tranCn ?? options[optIndex].headWord
+          selectAnswer(meaning)
+        }
+      } else {
+        // 答完：Enter/ArrowRight 下一题
+        if (e.key === 'Enter' || e.key === 'ArrowRight') {
+          nextWord()
+        }
+      }
+    }
+    window.addEventListener('keydown', handleKey)
+    return () => window.removeEventListener('keydown', handleKey)
+  }, [session, showResult, reviewingPrev, currentWord, options, selectAnswer, play, nextWord])
+
   const toggleFav = async (word: typeof currentWord) => {
     if (!word) return
     const newFav = !isFav

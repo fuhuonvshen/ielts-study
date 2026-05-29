@@ -59,6 +59,36 @@ export function SpellInput() {
     setSubmitted(false)
   }
 
+  // 键盘快捷键
+  useEffect(() => {
+    const handleKey = (e: KeyboardEvent) => {
+      if (session?.isComplete) return
+      if (reviewingPrev) {
+        if (e.key === 'Enter' || e.key === 'ArrowRight') setReviewingPrev(false)
+        return
+      }
+      // 输入框中：Tab 重听，Enter 由表单 onSubmit 处理
+      if (e.target === inputRef.current) {
+        if (e.key === 'Tab') {
+          e.preventDefault()
+          if (currentWord) play(currentWord.headWord)
+        }
+        return
+      }
+      // 未提交时：← 看上一题
+      if (!submitted && e.key === 'ArrowLeft' && session && session.currentIndex > 0) {
+        setReviewingPrev(true)
+        return
+      }
+      // 答完后：Enter/ArrowRight 下一题
+      if (submitted && (e.key === 'Enter' || e.key === 'ArrowRight')) {
+        handleNext()
+      }
+    }
+    window.addEventListener('keydown', handleKey)
+    return () => window.removeEventListener('keydown', handleKey)
+  }, [session, submitted, reviewingPrev, currentWord, play, handleNext])
+
   // 回顾上一题弹窗
   if (reviewingPrev && prevWord && prevAnswer) {
     return (
