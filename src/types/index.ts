@@ -96,6 +96,9 @@ export interface Word {
   favoriteTags: string[]
 }
 
+export type { PersonaId, PersonaConfig, AiAnalysisContent, AiAnalysis } from './ai'
+export { PERSONAS, DEFAULT_PERSONA } from './ai'
+
 export type PracticeMode = 'listen' | 'meaning' | 'spell' | 'reverse'
 
 export interface PracticeRecord {

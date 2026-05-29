@@ -8,6 +8,8 @@ import { ProgressBar } from '@/components/practice/ProgressBar'
 import { LayoutRatioSlider } from '@/components/practice/LayoutRatioSlider'
 import { ContentScaleSlider } from '@/components/practice/ContentScaleSlider'
 import { SessionResult } from '@/components/practice/SessionResult'
+import { AiAnalysisSection } from '@/components/ai/AiAnalysisSection'
+import { AiPronunciation } from '@/components/ai/AiPronunciation'
 import { updateWord } from '@/lib/db'
 import type { OptionState } from '@/components/practice/OptionCard'
 
@@ -108,6 +110,9 @@ export function ListenPick() {
                   <span className={`text-lg ${isPlaying ? 'animate-pulse text-primary-500' : ''}`}>🔊</span>
                 </button>
               </div>
+              <div className="mt-1">
+                <AiPronunciation word={prevWord.headWord} />
+              </div>
               <section>
                 <h3 className="mb-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">Definitions</h3>
                 {prevWord.translations.map((t, i) => (
@@ -149,6 +154,7 @@ export function ListenPick() {
                   </ul>
                 </section>
               )}
+              <AiAnalysisSection word={prevWord} />
             </div>
           </div>
           <div className="shrink-0 px-5 pb-5 pt-2">
@@ -177,8 +183,9 @@ export function ListenPick() {
       <div style={{ transform: `scale(${contentScale})`, transformOrigin: 'top right' }}>
         <div className="flex flex-col md:flex-row gap-6">
           {/* 左侧：喇叭按钮 */}
-          <div className="flex items-center justify-center" style={{ flex: layoutRatio }}>
+          <div className="flex flex-col items-center justify-center gap-3" style={{ flex: layoutRatio }}>
             <AudioButton onClick={() => currentWord && play(currentWord.headWord)} isPlaying={isPlaying} />
+            <AiPronunciation word={currentWord?.headWord ?? ''} />
           </div>
           {/* 右侧：选项 */}
           <div className="flex-1 space-y-3">
@@ -265,6 +272,9 @@ export function ListenPick() {
                     </button>
                   </div>
                 </div>
+                <div className="mt-1">
+                  <AiPronunciation word={currentWord.headWord} />
+                </div>
                 <section>
                   <h3 className="mb-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">Definitions</h3>
                   {currentWord.translations.map((t, i) => (
@@ -306,6 +316,7 @@ export function ListenPick() {
                     </ul>
                   </section>
                 )}
+                <AiAnalysisSection word={currentWord} />
               </div>
             </div>
             <div className="shrink-0 px-5 pb-5 pt-2">

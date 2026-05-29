@@ -3,6 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom'
 import { ArrowLeft, Volume2, Star } from 'lucide-react'
 import { getWordById, updateWord } from '@/lib/db'
 import { useAudio } from '@/hooks/useAudio'
+import { AiAnalysisSection } from '@/components/ai/AiAnalysisSection'
 import type { Word } from '@/types'
 
 export function WordDetailPage() {
@@ -117,6 +118,10 @@ export function WordDetailPage() {
               </ul>
             </section>
           )}
+
+          <div className="mt-6 border-t border-gray-100 pt-6">
+            <AiAnalysisSection word={word} />
+          </div>
         </div>
       </div>
     </div>

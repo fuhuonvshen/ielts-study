@@ -12,7 +12,8 @@ export function DataExport() {
       const words = await db.words.toArray()
       const records = await db.practiceRecords.toArray()
       const stats = await db.dailyStats.toArray()
-      const data = JSON.stringify({ words, records, stats }, null, 2)
+      const analyses = await db.aiAnalyses.toArray()
+      const data = JSON.stringify({ words, records, stats, analyses }, null, 2)
       const blob = new Blob([data], { type: 'application/json' })
       const url = URL.createObjectURL(blob)
       const a = document.createElement('a')
@@ -48,6 +49,10 @@ export function DataExport() {
           await db.dailyStats.clear()
           await db.dailyStats.bulkAdd(data.stats)
         }
+        if (data.analyses) {
+          await db.aiAnalyses.clear()
+          await db.aiAnalyses.bulkAdd(data.analyses)
+        }
       } finally {
         setIsImporting(false)
         window.location.reload()
@@ -73,6 +78,7 @@ export function DataExport() {
     await db.words.clear()
     await db.practiceRecords.clear()
     await db.dailyStats.clear()
+    await db.aiAnalyses.clear()
     window.location.reload()
   }
 

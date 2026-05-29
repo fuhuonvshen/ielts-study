@@ -1,10 +1,11 @@
 import Dexie, { type Table } from 'dexie'
-import type { Word, PracticeRecord, DailyStats } from '@/types'
+import type { Word, PracticeRecord, DailyStats, AiAnalysis } from '@/types'
 
 export class IeltsDb extends Dexie {
   words!: Table<Word, string>
   practiceRecords!: Table<PracticeRecord, number>
   dailyStats!: Table<DailyStats, string>
+  aiAnalyses!: Table<AiAnalysis, [string, string]>
 
   constructor() {
     super('ielts_listening')
@@ -12,6 +13,9 @@ export class IeltsDb extends Dexie {
       words: 'id, wordRank, headWord, status, isFavorite, bookId',
       practiceRecords: '++id, wordId, mode, isCorrect, timestamp',
       dailyStats: 'date, mode',
+    })
+    this.version(3).stores({
+      aiAnalyses: '[wordId+persona], wordId, persona',
     })
   }
 }
@@ -87,4 +91,16 @@ export async function getDailyStatsByDate(date: string): Promise<DailyStats | un
 
 export async function getAllDailyStats(): Promise<DailyStats[]> {
   return db.dailyStats.toArray()
+}
+
+export async function getAiAnalysis(wordId: string, persona: string): Promise<AiAnalysis | undefined> {
+  return db.aiAnalyses.get([wordId, persona])
+}
+
+export async function setAiAnalysis(record: AiAnalysis): Promise<void> {
+  await db.aiAnalyses.put(record)
+}
+
+export async function getAllAiAnalyses(): Promise<AiAnalysis[]> {
+  return db.aiAnalyses.toArray()
 }
