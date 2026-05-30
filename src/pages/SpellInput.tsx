@@ -21,14 +21,16 @@ export function SpellInput() {
   const { layoutRatio, contentScale } = usePracticeStore()
 
   useEffect(() => {
+    let timer: ReturnType<typeof setTimeout> | undefined
     if (currentWord && !submitted && !reviewingPrev && lastPlayedRef.current !== currentWord.id) {
       lastPlayedRef.current = currentWord.id
-      play(currentWord.headWord)
+      timer = setTimeout(() => play(currentWord.headWord), 200)
     }
     setInput('')
     setSubmitted(false)
     inputRef.current?.focus()
     return () => {
+      if (timer) clearTimeout(timer)
       stopAllAudio()
     }
   }, [currentWord?.id])
