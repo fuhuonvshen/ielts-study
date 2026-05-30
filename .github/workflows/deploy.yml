@@ -35,6 +35,7 @@ jobs:
         run: npm run build
         env:
           VITE_ANTHROPIC_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          VITE_AI_PROXY: ${{ secrets.DEEPSEEK_PROXY_URL }}
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

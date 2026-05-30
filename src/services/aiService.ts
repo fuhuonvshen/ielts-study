@@ -14,6 +14,20 @@ function getApiKey(): string | undefined {
   return import.meta.env.VITE_ANTHROPIC_API_KEY as string | undefined
 }
 
+function buildHeaders(): Record<string, string> {
+  const headers: Record<string, string> = { 'Content-Type': 'application/json' }
+  const apiKey = getApiKey()
+  if (!apiKey) return headers
+  const proxy = import.meta.env.VITE_AI_PROXY as string | undefined
+  // Worker 代理用 X-Api-Key；本地 Vite 代理用 Authorization
+  if (proxy) {
+    headers['X-Api-Key'] = apiKey
+  } else {
+    headers['Authorization'] = `Bearer ${apiKey}`
+  }
+  return headers
+}
+
 function buildWordData(word: Word) {
   return {
     headWord: word.headWord,
@@ -52,10 +66,7 @@ export async function analyzeWord(
 
   const response = await fetch(url, {
     method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${apiKey}`,
-    },
+    headers: buildHeaders(),
     body: JSON.stringify({
       model: API_MODEL,
       max_tokens: 1024,
@@ -103,10 +114,7 @@ export async function analyzePronunciation(word: string): Promise<string> {
 
   const response = await fetch(url, {
     method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${apiKey}`,
-    },
+    headers: buildHeaders(),
     body: JSON.stringify({
       model: API_MODEL,
       max_tokens: 512,
