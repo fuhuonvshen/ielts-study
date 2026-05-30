@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef, useCallback } from 'react'
 import { usePracticeSession } from '@/hooks/usePracticeSession'
 import { usePracticeStore } from '@/stores/practiceStore'
 import { useAudio } from '@/hooks/useAudio'
@@ -33,31 +33,11 @@ export function SpellInput() {
     }
   }, [currentWord?.id])
 
-  if (!session) {
-    return <div className="py-20 text-center"><p className="text-gray-400">Loading...</p></div>
-  }
-
-  if (session.isComplete) {
-    return <SessionResult words={session.words} answers={session.answers} />
-  }
-
-  const prevWord = session.currentIndex > 0 ? session.words[session.currentIndex - 1] : null
-  const prevAnswer = session.currentIndex > 0 ? session.answers[session.currentIndex - 1] : null
-
-  const isCorrect = submitted && currentWord ? checkSpellingAnswer(input, currentWord.headWord) : null
-
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault()
-    if (!input.trim()) return
-    selectAnswer(input.trim())
-    setSubmitted(true)
-  }
-
-  const handleNext = () => {
+  const handleNext = useCallback(() => {
     nextWord()
     setInput('')
     setSubmitted(false)
-  }
+  }, [nextWord])
 
   // 键盘快捷键
   useEffect(() => {
@@ -87,7 +67,27 @@ export function SpellInput() {
     }
     window.addEventListener('keydown', handleKey)
     return () => window.removeEventListener('keydown', handleKey)
-  }, [session, submitted, reviewingPrev, currentWord, play, handleNext])
+  }, [session, submitted, reviewingPrev, currentWord, play])
+
+  if (!session) {
+    return <div className="py-20 text-center"><p className="text-gray-400">Loading...</p></div>
+  }
+
+  if (session.isComplete) {
+    return <SessionResult words={session.words} answers={session.answers} />
+  }
+
+  const prevWord = session.currentIndex > 0 ? session.words[session.currentIndex - 1] : null
+  const prevAnswer = session.currentIndex > 0 ? session.answers[session.currentIndex - 1] : null
+
+  const isCorrect = submitted && currentWord ? checkSpellingAnswer(input, currentWord.headWord) : null
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault()
+    if (!input.trim()) return
+    selectAnswer(input.trim())
+    setSubmitted(true)
+  }
 
   // 回顾上一题弹窗
   if (reviewingPrev && prevWord && prevAnswer) {
