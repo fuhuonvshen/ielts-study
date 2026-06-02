@@ -11,6 +11,7 @@ interface PracticeState {
   showResult: boolean
   layoutRatio: LayoutRatio
   contentScale: ContentScale
+  practicePool: Word[] | null
 
   startSession: (mode: PracticeMode, words: Word[]) => void
   selectAnswer: (answer: string) => void
@@ -19,6 +20,7 @@ interface PracticeState {
   endSession: () => void
   setLayoutRatio: (ratio: LayoutRatio) => void
   setContentScale: (scale: ContentScale) => void
+  setPracticePool: (pool: Word[] | null) => void
 }
 
 export const usePracticeStore = create<PracticeState>((set, get) => ({
@@ -28,6 +30,7 @@ export const usePracticeStore = create<PracticeState>((set, get) => ({
   showResult: false,
   layoutRatio: 0.5,
   contentScale: 1.3,
+  practicePool: null,
 
   startSession: (mode, words) => {
     set({
@@ -91,4 +94,5 @@ export const usePracticeStore = create<PracticeState>((set, get) => ({
 
   setLayoutRatio: (ratio) => set({ layoutRatio: ratio }),
   setContentScale: (scale) => set({ contentScale: scale }),
+  setPracticePool: (pool) => set({ practicePool: pool }),
 }))

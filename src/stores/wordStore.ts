@@ -7,10 +7,12 @@ interface WordState {
   isLoading: boolean
   searchQuery: string
   isImported: boolean
+  wordListPage: number
   loadWords: () => Promise<void>
   setSearchQuery: (q: string) => void
   filteredWords: () => Word[]
   setImported: (v: boolean) => void
+  setWordListPage: (p: number) => void
 }
 
 export const useWordStore = create<WordState>((set, get) => ({
@@ -18,6 +20,7 @@ export const useWordStore = create<WordState>((set, get) => ({
   isLoading: false,
   searchQuery: '',
   isImported: false,
+  wordListPage: 1,
 
   loadWords: async () => {
     set({ isLoading: true })
@@ -39,4 +42,5 @@ export const useWordStore = create<WordState>((set, get) => ({
   },
 
   setImported: (v: boolean) => set({ isImported: v }),
+  setWordListPage: (p: number) => set({ wordListPage: p }),
 }))

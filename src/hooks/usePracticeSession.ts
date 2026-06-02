@@ -2,6 +2,7 @@ import { useEffect, useCallback, useRef } from 'react'
 import { usePracticeStore } from '@/stores/practiceStore'
 import { useWordStore } from '@/stores/wordStore'
 import { generateOptions, getRandomWordsForSession } from '@/services/practiceService'
+import { pickRandom } from '@/lib/utils'
 import { savePracticeRecord, updateWordPracticeStats } from '@/services/statsService'
 import type { PracticeMode } from '@/types'
 
@@ -9,6 +10,7 @@ export function usePracticeSession(mode: PracticeMode, count: number = 10) {
   const {
     session, options, selectedAnswer, showResult,
     startSession, selectAnswer, setOptions, nextWord: storeNextWord, endSession,
+    setPracticePool,
   } = usePracticeStore()
   const { words: allWords, loadWords } = useWordStore()
   const sessionEpochRef = useRef(0)
@@ -19,11 +21,19 @@ export function usePracticeSession(mode: PracticeMode, count: number = 10) {
 
   const initSession = useCallback(async () => {
     const epoch = ++sessionEpochRef.current
-    const words = await getRandomWordsForSession(count)
+    // 如果有预设词池（如错题本），优先使用
+    const pool = usePracticeStore.getState().practicePool
+    let words
+    if (pool && pool.length > 0) {
+      words = pickRandom(pool, Math.min(count, pool.length))
+      setPracticePool(null) // 用完即清
+    } else {
+      words = await getRandomWordsForSession(count)
+    }
     if (words.length > 0 && epoch === sessionEpochRef.current) {
       startSession(mode, words)
     }
-  }, [mode, count, startSession])
+  }, [mode, count, startSession, setPracticePool])
 
   useEffect(() => {
     initSession()

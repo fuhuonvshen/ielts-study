@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { Play } from 'lucide-react'
 import { getWrongWordIds, getWordById } from '@/lib/db'
+import { usePracticeStore } from '@/stores/practiceStore'
 import { WordCard } from '@/components/word/WordCard'
 import { Pagination } from '@/components/common/Pagination'
 import type { Word } from '@/types'
@@ -10,6 +11,7 @@ const PAGE_SIZE = 20
 
 export function WrongBook() {
   const navigate = useNavigate()
+  const setPracticePool = usePracticeStore((s) => s.setPracticePool)
   const [wrongWords, setWrongWords] = useState<Word[]>([])
   const [isLoading, setIsLoading] = useState(true)
   const [page, setPage] = useState(1)
@@ -47,7 +49,7 @@ export function WrongBook() {
         </p>
         {wrongWords.length > 0 && (
           <button
-            onClick={() => navigate('/practice')}
+            onClick={() => { setPracticePool(wrongWords); navigate('/practice') }}
             className="flex items-center gap-1.5 rounded-xl bg-primary-500 px-4 py-2 text-sm font-semibold text-white"
           >
             <Play className="h-4 w-4" /> Practice These

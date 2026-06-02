@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect } from 'react'
 import { Search } from 'lucide-react'
 import { useWordStore } from '@/stores/wordStore'
 import { WordList } from '@/components/word/WordList'
@@ -7,8 +7,7 @@ import { Pagination } from '@/components/common/Pagination'
 const PAGE_SIZE = 20
 
 export function WordListPage() {
-  const { loadWords, setSearchQuery, filteredWords, isLoading } = useWordStore()
-  const [page, setPage] = useState(1)
+  const { loadWords, setSearchQuery, filteredWords, isLoading, wordListPage, setWordListPage } = useWordStore()
 
   useEffect(() => {
     loadWords()
@@ -16,11 +15,12 @@ export function WordListPage() {
 
   const allFiltered = filteredWords()
   const totalPages = Math.ceil(allFiltered.length / PAGE_SIZE)
+  const page = Math.min(wordListPage, Math.max(totalPages, 1))
   const pagedWords = allFiltered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
 
   const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {
     setSearchQuery(e.target.value)
-    setPage(1)
+    setWordListPage(1)
   }
 
   return (
@@ -35,7 +35,7 @@ export function WordListPage() {
         />
       </div>
       <WordList words={pagedWords} isLoading={isLoading} />
-      <Pagination page={page} totalPages={totalPages} onPageChange={setPage} />
+      <Pagination page={page} totalPages={totalPages} onPageChange={setWordListPage} />
     </div>
   )
 }
