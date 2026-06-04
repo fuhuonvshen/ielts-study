@@ -1,7 +1,7 @@
 import { useState, useCallback } from 'react'
 import { speakWord, type Accent } from '@/services/audioService'
 
-export function useAudio(accent: Accent = 'us') {
+export function useAudio(accent: Accent = 'uk') {
   const [isPlaying, setIsPlaying] = useState(false)
 
   const play = useCallback(
