@@ -1,5 +1,6 @@
 import { useState, useCallback } from 'react'
 import { speakWord, type Accent } from '@/services/audioService'
+import { usePracticeStore } from '@/stores/practiceStore'
 
 export function useAudio(accent: Accent = 'uk') {
   const [isPlaying, setIsPlaying] = useState(false)
@@ -8,7 +9,8 @@ export function useAudio(accent: Accent = 'uk') {
     async (word: string) => {
       setIsPlaying(true)
       try {
-        await speakWord(word, accent)
+        const rate = usePracticeStore.getState().playbackRate
+        await speakWord(word, accent, rate)
       } finally {
         setIsPlaying(false)
       }

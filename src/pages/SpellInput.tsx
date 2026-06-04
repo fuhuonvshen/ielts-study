@@ -7,6 +7,7 @@ import { AudioButton } from '@/components/practice/AudioButton'
 import { ProgressBar } from '@/components/practice/ProgressBar'
 import { LayoutRatioSlider } from '@/components/practice/LayoutRatioSlider'
 import { ContentScaleSlider } from '@/components/practice/ContentScaleSlider'
+import { PlaybackRateSlider } from '@/components/practice/PlaybackRateSlider'
 import { SessionResult } from '@/components/practice/SessionResult'
 import { checkSpellingAnswer } from '@/services/practiceService'
 
@@ -141,6 +142,7 @@ export function SpellInput() {
         <div className="flex-1">
           <ProgressBar current={session.currentIndex + (submitted ? 1 : 0)} total={session.words.length} />
         </div>
+        <PlaybackRateSlider />
         <ContentScaleSlider />
         <LayoutRatioSlider />
       </div>

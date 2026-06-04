@@ -9,7 +9,7 @@ export function supportsSpeechSynthesis(): boolean {
   return typeof window !== 'undefined' && 'speechSynthesis' in window
 }
 
-export function speakWithWebSpeech(text: string, accent: Accent): Promise<void> {
+export function speakWithWebSpeech(text: string, accent: Accent, rate: number = 1): Promise<void> {
   return new Promise((resolve, reject) => {
     if (!supportsSpeechSynthesis()) {
       reject(new Error('Speech synthesis not supported'))
@@ -17,7 +17,7 @@ export function speakWithWebSpeech(text: string, accent: Accent): Promise<void> 
     }
     const utterance = new SpeechSynthesisUtterance(text)
     utterance.lang = accent === 'us' ? 'en-US' : 'en-GB'
-    utterance.rate = 0.9
+    utterance.rate = 0.9 * rate
     utterance.onend = () => resolve()
     utterance.onerror = () => reject(new Error('Speech synthesis failed'))
     speechSynthesis.cancel()
@@ -38,10 +38,11 @@ export function stopAllAudio(): void {
   }
 }
 
-export function playAudio(url: string): Promise<void> {
+export function playAudio(url: string, rate: number = 1): Promise<void> {
   return new Promise((resolve, reject) => {
     stopAllAudio()
     const audio = new Audio(url)
+    audio.playbackRate = rate
     currentAudio = audio
     audio.onended = () => { currentAudio = null; resolve() }
     audio.onerror = () => { currentAudio = null; reject(new Error('Audio playback failed')) }
@@ -49,13 +50,13 @@ export function playAudio(url: string): Promise<void> {
   })
 }
 
-export async function speakWord(word: string, accent: Accent): Promise<void> {
+export async function speakWord(word: string, accent: Accent, rate: number = 1): Promise<void> {
   try {
     const url = buildYoudaoUrl(word, accent)
-    await playAudio(url)
+    await playAudio(url, rate)
   } catch {
     try {
-      await speakWithWebSpeech(word, accent)
+      await speakWithWebSpeech(word, accent, rate)
     } catch {
       // Both methods failed — silently ignore
     }
