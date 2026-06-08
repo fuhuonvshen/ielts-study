@@ -1,7 +1,7 @@
 # IELTS Listening Practice
 
 一个本地优先的雅思听力词汇练习工具，帮助你在真实语境中掌握雅思核心词汇。
-
+地址：https://fuhuonvshen.github.io/ielts-study/
 ## 练习模式
 
 | 模式 | 说明 |
