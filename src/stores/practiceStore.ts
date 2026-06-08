@@ -4,6 +4,7 @@ import type { Word, PracticeMode, PracticeSession } from '@/types'
 export type LayoutRatio = 0.5 | 1 | 2
 export type ContentScale = 1 | 1.15 | 1.3
 export type PlaybackRate = 0.75 | 1 | 1.25 | 1.5 | 2
+export type RepeatCount = 1 | 5 | 10
 
 interface PracticeState {
   session: PracticeSession | null
@@ -14,6 +15,7 @@ interface PracticeState {
   contentScale: ContentScale
   practicePool: Word[] | null
   playbackRate: PlaybackRate
+  repeatCount: RepeatCount
 
   startSession: (mode: PracticeMode, words: Word[]) => void
   selectAnswer: (answer: string) => void
@@ -24,6 +26,7 @@ interface PracticeState {
   setContentScale: (scale: ContentScale) => void
   setPracticePool: (pool: Word[] | null) => void
   setPlaybackRate: (rate: PlaybackRate) => void
+  setRepeatCount: (count: RepeatCount) => void
 }
 
 export const usePracticeStore = create<PracticeState>((set, get) => ({
@@ -35,6 +38,7 @@ export const usePracticeStore = create<PracticeState>((set, get) => ({
   contentScale: 1.3,
   practicePool: null,
   playbackRate: 1,
+  repeatCount: 1,
 
   startSession: (mode, words) => {
     set({
@@ -100,4 +104,5 @@ export const usePracticeStore = create<PracticeState>((set, get) => ({
   setContentScale: (scale) => set({ contentScale: scale }),
   setPracticePool: (pool) => set({ practicePool: pool }),
   setPlaybackRate: (rate) => set({ playbackRate: rate }),
+  setRepeatCount: (count) => set({ repeatCount: count }),
 }))
