@@ -10,6 +10,7 @@ import { ContentScaleSlider } from '@/components/practice/ContentScaleSlider'
 import { PlaybackRateSlider } from '@/components/practice/PlaybackRateSlider'
 import { RepeatSlider } from '@/components/practice/RepeatSlider'
 import { SessionResult } from '@/components/practice/SessionResult'
+import { AiPronunciation } from '@/components/ai/AiPronunciation'
 import { checkSpellingAnswer } from '@/services/practiceService'
 
 export function SpellInput() {
@@ -151,8 +152,9 @@ export function SpellInput() {
       <div style={{ transform: `scale(${contentScale})`, transformOrigin: 'top right' }}>
         <div className="flex flex-col md:flex-row gap-6">
           {/* 左侧：喇叭按钮 */}
-          <div className="flex items-center justify-center" style={{ flex: layoutRatio }}>
+          <div className="flex flex-col items-center justify-center gap-3" style={{ flex: layoutRatio }}>
             <AudioButton onClick={() => currentWord && play(currentWord.headWord)} isPlaying={isPlaying} />
+            <AiPronunciation word={currentWord?.headWord ?? ''} />
           </div>
           {/* 右侧：输入表单 */}
           <form onSubmit={handleSubmit} className="flex-1 space-y-4">
