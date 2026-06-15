@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { Play } from 'lucide-react'
-import { getWrongWordIds, getWordById } from '@/lib/db'
+import { getWrongWordIds, getWordById, removeFromWrongBook } from '@/lib/db'
 import { usePracticeStore } from '@/stores/practiceStore'
 import { WordCard } from '@/components/word/WordCard'
 import { Pagination } from '@/components/common/Pagination'
@@ -26,6 +26,11 @@ export function WrongBook() {
     const words = await Promise.all(ids.map((id) => getWordById(id)))
     setWrongWords(words.filter((w): w is Word => w != null))
     setIsLoading(false)
+  }
+
+  const handleRemove = async (wordId: string) => {
+    await removeFromWrongBook(wordId)
+    setWrongWords((prev) => prev.filter((w) => w.id !== wordId))
   }
 
   const totalPages = Math.ceil(wrongWords.length / PAGE_SIZE)
@@ -65,7 +70,7 @@ export function WrongBook() {
       ) : (
         <div className="space-y-3">
           {pagedWords.map((word) => (
-            <WordCard key={word.id} word={word} />
+            <WordCard key={word.id} word={word} onRemove={handleRemove} />
           ))}
         </div>
       )}

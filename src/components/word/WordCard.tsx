@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { Volume2, Sparkles } from 'lucide-react'
+import { Volume2, Sparkles, X } from 'lucide-react'
 import { useAudio } from '@/hooks/useAudio'
 import { getAiAnalysis } from '@/lib/db'
 import { AiAnalysisSection } from '@/components/ai/AiAnalysisSection'
@@ -8,9 +8,10 @@ import type { Word } from '@/types'
 
 interface WordCardProps {
   word: Word
+  onRemove?: (wordId: string) => void
 }
 
-export function WordCard({ word }: WordCardProps) {
+export function WordCard({ word, onRemove }: WordCardProps) {
   const navigate = useNavigate()
   const { play, isPlaying } = useAudio()
   const [showAI, setShowAI] = useState(false)
@@ -55,6 +56,18 @@ export function WordCard({ word }: WordCardProps) {
           </p>
         </div>
         <div className="flex items-center gap-1">
+          {onRemove && (
+            <button
+              onClick={(e) => {
+                e.stopPropagation()
+                onRemove(word.id)
+              }}
+              title="Remove from wrong book"
+              className="flex h-7 w-7 items-center justify-center rounded-full bg-gray-50 text-gray-300 hover:bg-danger-50 hover:text-danger-500 transition-colors"
+            >
+              <X className="h-3.5 w-3.5" />
+            </button>
+          )}
           {word.status === 'mastered' && (
             <span className="rounded-full bg-success-50 px-2 py-0.5 text-xs font-medium text-success-600">
               Mastered

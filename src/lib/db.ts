@@ -81,6 +81,10 @@ export async function getWrongWordIds(): Promise<string[]> {
   return [...new Set(records.map((r) => r.wordId))]
 }
 
+export async function removeFromWrongBook(wordId: string): Promise<void> {
+  await db.practiceRecords.where({ wordId }).filter((r) => !r.isCorrect).delete()
+}
+
 export async function upsertDailyStats(stats: DailyStats): Promise<void> {
   await db.dailyStats.put(stats)
 }
