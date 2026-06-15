@@ -7,12 +7,14 @@ import {
   AlertTriangle,
   Star,
   BarChart3,
+  Newspaper,
 } from 'lucide-react'
 
 const links = [
   { to: '/', icon: LayoutDashboard, label: 'Dashboard' },
   { to: '/words', icon: BookOpen, label: 'Words' },
   { to: '/practice', icon: Play, label: 'Practice' },
+  { to: '/daily-practice', icon: Newspaper, label: '实战演练' },
   { to: '/wrong-book', icon: AlertTriangle, label: 'Wrong Book' },
   { to: '/favorites', icon: Star, label: 'Favorites' },
   { to: '/stats', icon: BarChart3, label: 'Statistics' },

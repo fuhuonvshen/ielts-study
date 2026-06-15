@@ -11,6 +11,7 @@ import { ReversePick } from '@/pages/ReversePick'
 import { Stats } from '@/pages/Stats'
 import { WrongBook } from '@/pages/WrongBook'
 import { Favorites } from '@/pages/Favorites'
+import { DailyPractice } from '@/pages/DailyPractice'
 
 const router = createHashRouter([
   {
@@ -28,6 +29,7 @@ const router = createHashRouter([
       { path: 'stats', element: <Stats /> },
       { path: 'wrong-book', element: <WrongBook /> },
       { path: 'favorites', element: <Favorites /> },
+      { path: 'daily-practice', element: <DailyPractice /> },
     ],
   },
 ])
