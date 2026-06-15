@@ -9,7 +9,7 @@ import type { DailyPracticeData, DailyArticle, BlankItem } from '@/types/dailyPr
 
 type PageView = 'list' | 'exercise' | 'result'
 
-const DATA_URL = '/data/daily-practice/data.json'
+const DATA_URL = import.meta.env.BASE_URL + 'data/daily-practice/data.json'
 
 export function DailyPractice() {
   const [view, setView] = useState<PageView>('list')
