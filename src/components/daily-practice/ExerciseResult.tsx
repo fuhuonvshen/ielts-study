@@ -20,8 +20,10 @@ export function ExerciseResult({ blanks, results, isLastArticle, onNext, onBackT
   const correctCount = results.filter((r) => r.isCorrect).length
   const totalCount = results.length
 
+  const blankMap = new Map(blanks.map((b) => [b.id, b]))
+
   return (
-    <div className="mx-auto max-w-lg space-y-6">
+    <div className="mx-auto max-w-2xl space-y-6">
       <div className="text-center">
         <div className="mx-auto mb-4 flex h-24 w-24 items-center justify-center rounded-full bg-primary-50">
           <span className="text-3xl font-bold text-primary-500">
@@ -34,32 +36,33 @@ export function ExerciseResult({ blanks, results, isLastArticle, onNext, onBackT
         </p>
       </div>
 
-      <div className="space-y-2">
+      {/* Grid: left-to-right, top-to-bottom */}
+      <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
         {results.map((r) => {
-          const blank = blanks.find((b) => b.id === r.blankId)
+          const blank = blankMap.get(r.blankId)
           if (!blank) return null
           return (
-            <div
-              key={r.blankId}
-              className="flex items-center gap-3 rounded-xl border border-gray-100 bg-white p-3"
+            <div key={r.blankId}
+              className={`flex items-center gap-2 rounded-xl border p-2.5 text-sm ${
+                r.isCorrect ? 'border-success-200 bg-success-50' : 'border-danger-200 bg-danger-50'
+              }`}
             >
-              {r.isCorrect ? (
-                <CheckCircle className="h-5 w-5 shrink-0 text-success-500" />
-              ) : (
-                <XCircle className="h-5 w-5 shrink-0 text-danger-500" />
-              )}
+              {r.isCorrect
+                ? <CheckCircle className="h-4 w-4 shrink-0 text-success-500" />
+                : <XCircle className="h-4 w-4 shrink-0 text-danger-500" />
+              }
               <div className="min-w-0">
-                <div className="flex items-center gap-2 flex-wrap">
+                <div className="flex items-center gap-1.5 flex-wrap">
                   {r.isCorrect ? (
                     <span className="font-medium text-gray-900">{blank.answer}</span>
                   ) : (
                     <>
-                      <span className="text-danger-600 line-through">{r.userAnswer || '(empty)'}</span>
-                      <span className="text-success-600 font-medium">{blank.answer}</span>
+                      <span className="text-danger-600 line-through text-xs">{r.userAnswer || '(empty)'}</span>
+                      <span className="font-medium text-success-600">{blank.answer}</span>
                     </>
                   )}
-                  <span className="text-xs text-gray-400">{blank.hint}</span>
                 </div>
+                <p className="text-xs text-gray-400 mt-0.5">{blank.hint}</p>
               </div>
             </div>
           )

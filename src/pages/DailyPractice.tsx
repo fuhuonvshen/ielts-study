@@ -19,8 +19,8 @@ export function DailyPractice() {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [blankValues, setBlankValues] = useState<Record<string, string>>({})
   const [submitted, setSubmitted] = useState(false)
+  const [showTranslation, setShowTranslation] = useState(false)
   const [blankResults, setBlankResults] = useState<{ blankId: number; userAnswer: string; isCorrect: boolean }[] | null>(null)
-  const [showOriginal, setShowOriginal] = useState(false)
   const blankRefs = useRef<Map<number, HTMLInputElement>>(new Map())
 
   const fetchData = useCallback(async () => {
@@ -53,7 +53,7 @@ export function DailyPractice() {
     setBlankValues({})
     setSubmitted(false)
     setBlankResults(null)
-    setShowOriginal(false)
+    setShowTranslation(false)
     blankRefs.current.clear()
     setView('exercise')
   }
@@ -104,7 +104,6 @@ export function DailyPractice() {
     })
     setBlankResults(results)
     setSubmitted(true)
-    setShowOriginal(true)
   }
 
   const getBlankState = (blankId: number): BlankState => {
@@ -125,10 +124,10 @@ export function DailyPractice() {
     }
   }
 
-  const renderParagraph = (paragraph: { en: string; cn: string }, pIdx: number) => {
+  const renderParagraph = (paragraph: { en: string; cn?: string }, pIdx: number) => {
     const parts = paragraph.en.split(/(\{\{\d+\}\})/g)
     return (
-      <div key={pIdx} className="mb-4">
+      <div key={pIdx} className="mb-6">
         <p className="text-base leading-8 text-gray-800">
           {parts.map((part, i) => {
             const match = part.match(/\{\{(\d+)\}\}/)
@@ -153,15 +152,8 @@ export function DailyPractice() {
             return <span key={`${pIdx}-${i}`}>{part}</span>
           })}
         </p>
-        <button
-          onClick={() => setShowOriginal((prev) => !prev)}
-          className="mt-2 text-xs text-gray-400 hover:text-gray-600 transition-colors"
-        >
-          {showOriginal ? <EyeOff className="inline h-3 w-3 mr-1" /> : <Eye className="inline h-3 w-3 mr-1" />}
-          {showOriginal ? 'Hide' : 'Show'} Chinese translation
-        </button>
-        {showOriginal && (
-          <p className="mt-1 text-sm text-gray-500 bg-gray-50 rounded-lg p-3">{paragraph.cn}</p>
+        {showTranslation && paragraph.cn && (
+          <p className="mt-2 text-sm leading-7 text-gray-500 bg-gray-50 rounded-lg p-3">{paragraph.cn}</p>
         )}
       </div>
     )
@@ -196,69 +188,67 @@ export function DailyPractice() {
 
   // ---- Exercise view ----
   if (view === 'exercise' && currentArticle) {
+
     return (
       <div className="mx-auto max-w-4xl">
-        <div className="mb-4 flex items-center gap-3">
+        <div className="mb-4 flex items-center justify-between">
           <button
             onClick={() => setView('list')}
             className="flex items-center gap-1 text-sm text-gray-400 hover:text-gray-600"
           >
             <ArrowLeft className="h-4 w-4" />
-            Back
-          </button>
-          <span className="text-sm text-gray-300">
             Article {currentIndex + 1} of {data.articles.length}
-          </span>
-        </div>
-
-        <div className="flex flex-col lg:flex-row gap-6">
-          {/* 左侧：音频 + 原文开关 */}
-          <div className="lg:w-80 shrink-0 space-y-4">
-            <ArticleAudioPlayer audioFile={currentArticle.audioFile} title={currentArticle.title} />
-            {submitted && (
-              <button
-                onClick={() => setShowOriginal((prev) => !prev)}
-                className="w-full rounded-xl border border-gray-200 py-2.5 text-sm font-medium text-gray-500 hover:bg-gray-50 flex items-center justify-center gap-2"
-              >
-                {showOriginal ? <EyeOff className="h-4 w-4" /> : <Eye className="h-4 w-4" />}
-                {showOriginal ? 'Hide' : 'View'} original text
-              </button>
-            )}
-          </div>
-
-          {/* 右侧：文章内容 */}
-          <div className="flex-1 min-w-0">
-            <div className="mb-4">
-              <span className="rounded-lg bg-primary-50 px-2 py-0.5 text-xs font-medium text-primary-600">{currentArticle.category}</span>
-              <span className="ml-2 text-xs text-gray-400">{currentArticle.source}</span>
-              <h2 className="mt-2 text-xl font-bold text-gray-900">{currentArticle.title}</h2>
-              <p className="mt-1 text-sm text-gray-500">{currentArticle.titleCn}</p>
-            </div>
-
-            {currentArticle.paragraphs.map((p, i) => renderParagraph(p, i))}
-
-            {!submitted ? (
-              <button
-                onClick={handleSubmit}
-                className="mt-4 w-full rounded-xl bg-primary-500 py-3 text-sm font-semibold text-white hover:bg-primary-600"
-              >
-                Check Answers
-              </button>
-            ) : (
-              blankResults && (
-                <div className="mt-6">
-                  <ExerciseResult
-                    blanks={currentArticle.blanks}
-                    results={blankResults}
-                    isLastArticle={currentIndex + 1 >= data.articles.length}
-                    onNext={handleNextArticle}
-                    onBackToList={() => setView('list')}
-                  />
-                </div>
-              )
-            )}
+          </button>
+          <div className="flex items-center gap-2">
+            <span className="rounded-lg bg-primary-50 px-2 py-0.5 text-xs font-medium text-primary-600">{currentArticle.category}</span>
+            <span className="text-xs text-gray-400">{currentArticle.source}</span>
           </div>
         </div>
+
+        {/* 音频播放器 */}
+        <ArticleAudioPlayer text={currentArticle.fullText} title={currentArticle.title} />
+
+        {/* 标题 */}
+        <h2 className="mt-6 text-xl font-bold text-gray-900">{currentArticle.title}</h2>
+
+        {/* 段落填空 + 逐段中文翻译 */}
+        <div className="mt-6">
+          {currentArticle.paragraphs.map((p, i) => renderParagraph(p, i))}
+        </div>
+
+        {/* 操作按钮 */}
+        <div className="mt-6 flex gap-3">
+          {!submitted && (
+            <button type="button"
+              onClick={() => { setShowTranslation((prev) => !prev); window.scrollTo({ top: 0, behavior: 'smooth' }) }}
+              className="flex items-center gap-2 rounded-xl border border-gray-200 py-2.5 px-4 text-sm font-medium text-gray-500 hover:bg-gray-50"
+            >
+              {showTranslation ? <EyeOff className="h-4 w-4" /> : <Eye className="h-4 w-4" />}
+              {showTranslation ? '隐藏翻译' : '查看翻译'}
+            </button>
+          )}
+          {!submitted ? (
+            <button
+              onClick={handleSubmit}
+              className="flex-1 rounded-xl bg-primary-500 py-3 text-sm font-semibold text-white hover:bg-primary-600"
+            >
+              Check Answers
+            </button>
+          ) : null}
+        </div>
+
+        {/* 结果 */}
+        {submitted && blankResults && (
+          <div className="mt-6">
+            <ExerciseResult
+              blanks={currentArticle.blanks}
+              results={blankResults}
+              isLastArticle={currentIndex + 1 >= data.articles.length}
+              onNext={handleNextArticle}
+              onBackToList={() => setView('list')}
+            />
+          </div>
+        )}
       </div>
     )
   }

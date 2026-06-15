@@ -29,8 +29,7 @@ export function ArticleCard({ article, onClick }: Props) {
         <span className="text-xs text-gray-300">{article.wordCount} words</span>
       </div>
       <h3 className="text-base font-semibold text-gray-900 leading-snug">{article.title}</h3>
-      <p className="mt-1 text-sm text-gray-400 line-clamp-2">{article.titleCn}</p>
-      <p className="mt-2 text-sm text-gray-500 line-clamp-2">{article.summaryCn}</p>
+      <p className="mt-2 text-sm text-gray-500 line-clamp-2">{article.summary}</p>
     </button>
   )
 }

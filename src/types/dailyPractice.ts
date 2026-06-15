@@ -13,7 +13,6 @@ export interface DailyArticle {
   summary: string
   summaryCn: string
   wordCount: number
-  audioFile: string
   paragraphs: ArticleParagraph[]
   blanks: BlankItem[]
   fullText: string
