@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   crawl:
@@ -35,3 +36,8 @@ jobs:
           git add public/data/daily-practice/
           git diff --cached --quiet || git commit -m "chore(daily-practice): update $(date +'%Y-%m-%d')"
           git push
+
+      - name: Trigger deploy
+        run: gh workflow run deploy.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
