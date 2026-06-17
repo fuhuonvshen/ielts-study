@@ -1,876 +1,876 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "articles": [
     {
       "id": 1,
       "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-13/Former-Disney-animator-Zhang-Shaofu-s-game-making-journey-1NViBYPwyiI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "Former Disney animator Zhang Shaofu's game-making journey",
-      "titleCn": "前迪士尼动画师张少甫的游戏制作之旅",
-      "summary": "Former Disney animator Zhang Shaofu's game-making journey",
-      "summaryCn": "前迪士尼动画师张少甫从动画转向游戏开发，以中国文化为灵感创作故事，并克服重重困难追求梦想。",
-      "wordCount": 1090,
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/news/sci-tech/2026-06-17/detail-ihffptmh9484422.shtml",
+      "title": "AI clones spark debate on workplace ethics",
+      "titleCn": "AI克隆引发职场伦理争议",
+      "summary": "Colin, 26, a student at Peking University, built an AI model based on his father, who died suddenly of a heart attack in 2021. What followed, he said, was a \"long goodbye\" he never had the chance to say.",
+      "summaryCn": "文章探讨了AI克隆员工技术带来的职场伦理、法律归属和情感影响等问题。",
+      "wordCount": 1845,
       "paragraphs": [
         {
-          "en": "\"No matter what, I'll get it done. I don't care what stands in my way. Even if there's only a 1% chance, I'll find a way to seize it,\" said Zhang Shaofu as he reflected on the {{1}} he has faced throughout his career in {{6}} and game development. Born in Wuhan, central China's Hubei Province, Zhang spent much of his childhood away from his homeland. At the age of five, he moved to the United States with his family, which left him with fewer opportunities than many of his peers in China to {{2}} himself in Chinese history and culture during his {{3}} years.",
-          "cn": "“无论如何，我都会完成它。我不在乎什么阻碍我。即使只有1%的机会，我也会想办法抓住它，”张少甫在回顾自己在动画和游戏开发职业生涯中面临的挑战时说道。张少甫出生于中国湖北省武汉市，童年大部分时间远离故土。五岁时，他随家人移居美国，这使他在成长过程中比许多中国同龄人更少有机会沉浸在中国历史和文化的熏陶中。"
+          "en": "\"Hello, I am the digital {{0}} of former employee (XX),\" read the message on the computer screen. \"You may ask me questions anytime.\"\nAt a gaming media company in East China's Shandong province, members of staff recently found themselves communicating with an artificial intelligence model trained on a former colleague's working habits and conversations. The employee had resigned, but his AI clone had stayed behind. An anonymous source at the company said the digital double, which was created with the former employee's {{1}}, could field routine questions, organize spreadsheets, prepare PowerPoint presentations and send calendar invitations. While the source acknowledged that the AI clone was not as smart as the real person, the experiment offered a {{2}} into what the future might hold.",
+          "cn": "“你好，我是前员工（XX）的数字化身，”电脑屏幕上显示着这条信息。“你可以随时向我提问。”在中国东部山东省的一家游戏媒体公司，员工们最近发现自己正在与一个基于前同事工作习惯和对话训练的人工智能模型交流。这名员工已经辞职，但他的AI克隆却留了下来。公司一位匿名消息人士称，这个数字替身是在前员工同意下创建的，可以处理常规问题、整理电子表格、准备PPT演示文稿和发送日历邀请。虽然消息人士承认AI克隆不如真人聪明，但这一实验让人们得以一窥未来可能的样子。"
         },
         {
-          "en": "He developed an interest in filmmaking as a child. Like many boys his age, he enjoyed playing video games and building with LEGO, but he was also {{4}} by modeling clay. He would {{5}} dinosaurs out of playdough and use his father's camera to photograph them frame by frame, creating his own simple animations. Zhang Shaofu sketches on an electronic drawing board. He majored in filmmaking as an undergraduate and did not begin learning animation until graduate school.",
-          "cn": "他从小就对电影制作产生了兴趣。像许多同龄男孩一样，他喜欢玩电子游戏和搭建乐高，但他也对建模粘土着迷。他会用橡皮泥雕刻恐龙，然后用父亲的相机逐帧拍摄，制作自己的简单动画。张少甫在电子绘图板上素描。他本科主修电影制作，直到研究生阶段才开始学习动画。"
+          "en": "'Distillation' effort\nThe technology behind building a digital employee goes back to an open-source project called colleague.skill, which was launched on March 30 on the developer platform GitHub. Xiao Bo, 30, an AI product manager at a leading Chinese internet company, explained the underlying {{4}} of a \"skill\" in AI science: it is a summarized workflow that an AI agent can understand, often denoted as \"XX.skill\" in computer language. \"If an AI chatbot is like a brain that can talk, then an AI agent is like a worker with 'skills' who can actually complete tasks such as opening documents, editing files and organizing data.\"\nFor example, encoding an editing.skill into an AI agent will allow it to open a document file, restructure an article, write a headline and run a spelling and grammar check. A program-trained AI agent can execute these steps repeatedly, without {{5}} or interruption. According to Xiao, a single AI agent can draw on many different skills.",
+          "cn": "“蒸馏”努力\n构建数字员工的技术源于一个名为colleague.skill的开源项目，该项目于3月30日在开发者平台GitHub上发布。30岁的肖波是中国一家领先互联网公司的AI产品经理，他解释了AI科学中“技能”的基本机制：它是一个AI代理可以理解的总结性工作流程，在计算机语言中通常表示为“XX.skill”。“如果AI聊天机器人是一个能说话的‘大脑’，那么AI代理就是一个拥有‘技能’的‘工人’，可以实际完成打开文档、编辑文件和组织数据等任务。”例如，将editing.skill编码到AI代理中，它将能够打开文档文件、重组文章、撰写标题并进行拼写和语法检查。经过程序训练的AI代理可以反复执行这些步骤，不会疲劳或中断。据肖波介绍，单个AI代理可以运用多种不同的技能。"
         },
         {
-          "en": "Starting later than many of his classmates, he considered himself a slow learner. \"At the time, I saw my classmates as animation {{7}}. I spent up to 12 hours a day studying and practicing, yet no matter how hard I worked, my {{8}} felt painfully slow,\" Zhang said. The challenges were so {{9}} that he considered giving up. But his perspective changed when he joined an {{10}} animation program taught by a {{11}} Pixar animator, an experience that {{12}} his {{13}} and {{14}}.",
-          "cn": "由于起步比许多同学晚，他认为自己学得慢。“当时，我觉得同学们都是动画天才。我每天花多达12个小时学习和练习，但无论我多么努力，我的进步都感觉慢得令人痛苦，”张少甫说。挑战如此巨大，以至于他考虑过放弃。但当他参加了一个由皮克斯资深动画师教授的课外动画项目后，他的想法改变了，这段经历重新点燃了他的热情和信心。"
+          "en": "OpenClaw, a well-known AI agent ecosystem, hosts more than 13,700 community-built skills on its ClawHub registry. Those skills are among the products of \"{{3}}\", or the process of compressing large AI models into smaller, more actionable and transferable units, Xiao said. Colleague.skill has quietly transformed the process of AI model compression, as now the entity being \"distilled\" is no longer a machine, but a human being, he added. Zhou Tianyi, 24, a researcher at the Shanghai Artificial Intelligence Laboratory and creator of the colleague.skill project, said that his goal was to preserve the {{6}} knowledge that accumulates over the years through daily workplace communication, and also to maintain the kind of understanding that usually disappears when a co-worker clears out his or her desk and leaves the company. Building on the idea, Zhou developed a working {{7}} in his spare time.",
+          "cn": "OpenClaw是一个知名的AI代理生态系统，在其ClawHub注册中心托管了超过13700个社区构建的技能。肖波说，这些技能是“蒸馏”过程的产物，即将大型AI模型压缩成更小、更可操作和可转移的单元。他补充说，Colleague.skill悄然改变了AI模型压缩的过程，因为现在被“蒸馏”的实体不再是机器，而是人类。24岁的周天一是上海人工智能实验室的研究员，也是colleague.skill项目的创建者，他说他的目标是保留通过日常职场交流积累多年的机构知识，同时也保留那种通常在同事清理办公桌离开公司时消失的理解。基于这一想法，周天一利用业余时间开发了一个工作原型。"
         },
         {
-          "en": "\"I wasn't one of those people who knew from an early age that they wanted to be an animator and spent their childhood preparing for it,\" Zhang recalled. \"I felt I could never catch up with them. But Michael taught me that what matters most is having a great idea and strong design.\"\nZhang Shaofu (left) and his father. /Courtesy of Zhang Hande\nFollowing three years at Sony Pictures Animation, Zhang went on to join Walt Disney Animation Studios, widely regarded as the {{15}} of the animation industry. After working on {{16}} films including Big Hero 6, Zootopia and Moana, he chose to leave Disney and pursue his {{17}} {{18}} by founding his own company, Taiko Studios.",
-          "cn": "“我不是那种从小就知道自己想成为动画师并花童年为之准备的人，”张少甫回忆道。“我觉得自己永远赶不上他们。但迈克尔教会我，最重要的是拥有一个好主意和扎实的设计。”在索尼动画公司工作三年后，张少甫加入了被广泛视为动画行业巅峰的华特迪士尼动画工作室。在参与制作了《超能陆战队》、《疯狂动物城》和《海洋奇缘》等备受赞誉的电影后，他选择离开迪士尼，通过创立自己的公司“太酷工作室”来追求创业抱负。"
+          "en": "His project slogan read: \"Transforming cold farewells into warm skills. Welcome to Digital Life 1.0.\"\nThe open-source tool, which he developed in four hours, today allows users to upload workplace materials — chat logs, weekly reports, presentations, workflow documents — and generate an AI agent to mimic not only how a former colleague worked, but also how he or she communicated. Whitewashing effect\nFor decades, science fiction imagined this \"digital {{8}}\" as a romantic means of preserving the memory of loved ones. In the workplace, however, it carries a different meaning — one that is shadowed by the anxiety about losing jobs. Industry insiders said that, around the world, companies now rank workers based on how many AI skills they have.",
+          "cn": "他的项目口号是：“将冰冷的告别转化为温暖的技能。欢迎来到数字生命1.0。”这个他花了四个小时开发的开源工具，如今允许用户上传职场材料——聊天记录、周报、演示文稿、工作流程文档——并生成一个AI代理，不仅模仿前同事的工作方式，还模仿他或她的沟通方式。\n“粉饰”效应\n几十年来，科幻小说将这种“数字永生”想象为一种保存亲人记忆的浪漫方式。然而，在职场中，它却有着不同的含义——一种被失业焦虑笼罩的含义。业内人士表示，在全球范围内，公司现在根据员工拥有多少AI技能来对他们进行排名。"
         },
         {
-          "en": "Why? After moving to the US, it wasn't until 2010 that Zhang had his first real opportunity to return to China. He realized that China is truly very different from the US and that there are so many opportunities here. \"It started to feel like coming home,\" Zhang recalled. \"I wanted to build a Chinese animation studio and use what I had learned at Disney to help support Chinese animation.\"\nZhang and his founding partners, including Andrew Chesworth and Bobby Pontillas, wanted to create a story about a young girl {{19}} to reach the stars.",
-          "cn": "为什么？移居美国后，直到2010年张少甫才第一次真正有机会回到中国。他意识到中国与美国确实非常不同，这里有很多机会。“开始有回家的感觉了，”张少甫回忆道。“我想建立一家中国动画工作室，并利用我在迪士尼学到的东西来帮助支持中国动画。”张少甫和他的创始合伙人，包括安德鲁·切斯沃思和鲍比·庞蒂利亚斯，想创作一个关于一个决心触及星辰的小女孩的故事。"
+          "en": "Some even require current employees to \"submit skills\" as a matter of course. In the AI economy logic, the more passionate a person is about their job — the more fluent they are at reflective summarization or the more detailed their weekly reports are — the more replaceable they become. \"That's unfair,\" said Deng Xiaoxian, an AI product manager, who also leads a legal technology community. Deng said that when she first encountered colleague.skill — a tool that claimed to \"distill\" an employee into a digital stand-in who would continue working for a company indefinitely — she felt a sharp, {{9}} discomfort. \"The objective of AI development is to help humans have more leisure time; not to turn them into a skill file, strip them of their jobs and then keep them working for a company forever without {{10}},\" she said.",
+          "cn": "有些公司甚至要求现有员工“提交技能”作为常规事项。在AI经济逻辑中，一个人对工作越热情——他们越擅长反思性总结，或者周报越详细——他们就越容易被取代。“这不公平，”AI产品经理邓晓贤说，她也领导着一个法律科技社区。邓晓贤说，当她第一次遇到colleague.skill——一个声称能将员工“蒸馏”成数字替身、使其无限期为公司工作的工具时，她感到一种强烈的不适。“AI发展的目标是帮助人类拥有更多的休闲时间；而不是把他们变成技能文件，剥夺他们的工作，然后让他们在没有报酬的情况下永远为公司工作，”她说。"
         },
         {
-          "en": "That {{20}} became \"One Small Step,\" an animated short about chasing dreams against all odds. A photo shows a meeting between Zhang Shaofu and his team at a restaurant after they left the Disney Animation Studios in California, US. Some elements of the story were {{21}} by Zhang's own childhood in the US. Shortly after his family {{22}}, his mother opened a tailor shop to help support the household. Zhang {{23}} that memory into the character of Chu, Luna's father, who supports his daughter's dream of becoming an astronaut by running a shoe repair business out of his garage.",
-          "cn": "这个愿景变成了《冲破天际》，一部关于不顾一切追逐梦想的动画短片。一张照片显示了张少甫和他的团队在离开美国加利福尼亚州迪士尼动画工作室后在一家餐厅的会面。故事的一些元素受到了张少甫自己在美国童年的启发。在他家人移民后不久，他的母亲开了一家裁缝店来帮助维持家庭生计。张少甫将这段记忆转化为角色楚，露娜的父亲，他通过经营车库里的修鞋生意来支持女儿成为宇航员的梦想。"
+          "en": "Within days of colleague.skill going viral, Deng built a counterproject, which she called \"anti-distillation skill\". \"When a company asks you to turn your work experience into an AI program, it is essentially 'distilling' you into a replaceable component,\" she said. \"Before you submit your skills to the company, you can use the 'anti-distillation skill' software to whitewash or recast your documents.\"\nThe counterproject tool is simple. Once \"skill files\" are inputted, it produces a {{11}} version that looks complete and professional but {{12}} removes the core knowledge or experience. China Daily tested the \"anti-distillation\" tool on a piece of editorial guidance.",
+          "cn": "在colleague.skill走红后的几天内，邓晓贤建立了一个反制项目，她称之为“反蒸馏技能”。“当公司要求你将工作经验转化为AI程序时，这本质上是在把你‘蒸馏’成一个可替换的组件，”她说。“在向公司提交你的技能之前，你可以使用‘反蒸馏技能’软件来粉饰或改写你的文档。”这个反制项目工具很简单。一旦输入“技能文件”，它就会生成一个经过净化的版本，看起来完整且专业，但暗中移除了核心知识或经验。《中国日报》在一份编辑指南上测试了“反蒸馏”工具。"
         },
         {
-          "en": "\"I believe writers should write what they know. I think that's often about family,\" Zhang said. \"If something feels real to me, others will feel the same way, like they've experienced something similar.\"\nStoryboard of the animated short film \"One Small Step.\" \n\"One Small Step\" has won over 200 awards at international film festivals, including a {{24}} for Best Short Film at the 90th Academy Awards. The success of \"One Small Step\" was followed by other animated projects, such as \"Pangu\" and \"Fu,\" both of which draw inspiration from Chinese history, {{25}} and culture. As he worked on these projects, Zhang also immersed himself in the study of traditional Chinese culture.",
-          "cn": "“我相信作家应该写他们了解的东西。我认为这通常关乎家庭，”张少甫说。“如果某件事对我来说感觉真实，别人也会有同样的感觉，就像他们经历过类似的事情一样。”动画短片《冲破天际》的故事板。《冲破天际》已在国际电影节上获得超过200个奖项，包括第90届奥斯卡金像奖最佳短片提名。《冲破天际》的成功之后是其他动画项目，如《盘古》和《福》，两者都从中国历史、神话和文化中汲取灵感。在创作这些项目时，张少甫也沉浸在对中国传统文化的学习中。"
+          "en": "The input read: \"In feature writing, the opening could be a typical character story. Instead of describing the issue, place the character in a specific, action-oriented scene. Let their dialogue, mannerisms, or a critical decision reveal the broader theme.\"\nThe output read: \"In feature writing, the opening can take different forms. The choice of which form to use depends on the effect you want to create on the reader.\"\nDeng emphasized that this hollowing-out effect is precisely the point. It allows one to preserve one's core knowledge and still give the company something that appears professional, she added.",
+          "cn": "输入内容是：“在特写写作中，开头可以是一个典型的人物故事。不要描述问题，而是将人物置于一个具体的、以行动为导向的场景中。让他们的对话、举止或一个关键决定来揭示更广泛的主题。”输出内容是：“在特写写作中，开头可以采取不同的形式。选择哪种形式取决于你想对读者产生的效果。”邓晓贤强调，这种空洞化效果正是关键所在。她补充说，这允许一个人保留自己的核心知识，同时仍然给公司一些看起来专业的东西。"
         },
         {
-          "en": "Having grown up in the US, he was not deeply familiar with China's cultural {{26}}. Through these projects, however, he watched numerous Chinese films and explored a wide range of mythological stories. The more he learned, the more he felt that China's over 5,000 years of history offered an endless wealth of {{27}} and {{28}} stories waiting to be told. Reflecting on China's rich cultural heritage, Zhang recalled \"Journey to the West\" – one of the country's most beloved classics – as his favorite childhood story. Later, as he explored the deeper layers of Chinese mythology, a new figure captured his attention: the demon hunter, Zhong Kui.",
-          "cn": "由于在美国长大，他并不深入了解中国的文化遗产。然而，通过这些项目，他观看了大量中国电影，并探索了广泛的神话故事。他学得越多，就越觉得中国五千多年的历史提供了取之不尽、用之不竭的深刻而引人入胜的故事等待被讲述。回顾中国丰富的文化遗产，张少甫回忆起《西游记》——中国最受喜爱的经典之一——是他童年最喜欢的故事。后来，当他探索中国神话的更深层次时，一个新的人物吸引了他的注意：捉鬼的钟馗。"
+          "en": "A gray area\nAs a law graduate, Deng pointed to a bigger question that the AI industry hasn't started asking. Who owns a \"distilled\" skill? The employee whose {{13}} was encoded, or the company that stored the underlying data? Lawyers and experts specializing in labor and intellectual property disputes said that existing regulations were not designed with AI clones of real people in mind. Chen Tianhao, a scholar at Tsinghua University's Institute for AI International Governance, said the subject falls in a gray zone spanning labor, IP and digital governance laws.",
+          "cn": "灰色地带\n作为一名法律专业毕业生，邓晓贤指出了AI行业尚未开始思考的一个更大问题。谁拥有“蒸馏”后的技能？是专业知识被编码的员工，还是存储底层数据的公司？专门处理劳动和知识产权纠纷的律师和专家表示，现有法规并非针对真实人物的AI克隆而设计。清华大学人工智能国际治理研究院学者陈天浩表示，这个问题属于劳动法、知识产权法和数字治理法交叉的灰色地带。"
         },
         {
-          "en": "Zhang Shaofu (left) and his team at the 90th Academy Awards. /Courtesy of Zhang Hande\n\"At the beginning, Zhong Kui's story is one of tragedy and failure. But after he transitions from the human world to the underworld, he is given a second chance. That became the foundation of our inspiration – to develop him into a more complex character and reimagine this traditional figure and his story for a modern audience,\" Zhang explained, describing why he chose Zhong Kui as the central character of his video game. Yet the challenge extends beyond storytelling.",
-          "cn": "张少甫（左）和他的团队在第90届奥斯卡金像奖上。/张汉德供图“起初，钟馗的故事是一个关于悲剧和失败的故事。但在他从人间过渡到阴间后，他得到了第二次机会。这成为了我们灵感的基础——将他发展成一个更复杂的角色，并为现代观众重新想象这个传统人物和他的故事，”张少甫在解释为什么选择钟馗作为他电子游戏的中心角色时说道。然而，挑战不仅限于讲故事。"
+          "en": "Some companies today require employees to package their experience into transferable AI systems, and that's not entirely reasonable, he said. \"Companies and employees need to use their contractual agreements to determine the ownership of AI-related skills and similar forms of expertise. At the same time, legal researchers must pay attention to this issue, follow up in a timely manner and improve relevant laws and regulations,\" Chen said. Zhang Linghan, a professor at China University of Political Science and Law, drew a distinction between work-related data, which companies may legally own, and the broader capabilities an employee builds through years of experience. If companies continue to profit from AI systems built on \"distilled\" worker knowledge, future legal frameworks may need \"digital sharing\", she said in an interview with China Central Television.",
+          "cn": "他说，如今一些公司要求员工将他们的经验打包成可转移的AI系统，这并不完全合理。“公司和员工需要利用合同协议来确定AI相关技能及类似形式专业知识的归属。同时，法律研究者必须关注这一问题，及时跟进并完善相关法律法规，”陈天浩说。中国政法大学教授张凌寒区分了公司可能合法拥有的工作相关数据，以及员工通过多年经验积累的更广泛能力。她在接受央视采访时表示，如果公司继续从基于“蒸馏”员工知识的AI系统中获利，未来的法律框架可能需要“数字共享”。"
         },
         {
-          "en": "The gaming industry is fiercely competitive, both in China and globally. New titles are launched almost every week across a wide range of genres, making it increasingly difficult for any new game to stand out and secure its place in the market. For Zhang and his team, carving out space for their latest project is no easy task. Zhang Shaofu demonstrates a character's posture during a company meeting. \"I'm responsible for both the production and creative direction of our project,\" Zhang said.",
-          "cn": "游戏行业竞争激烈，无论是在中国还是全球。几乎每周都有新游戏在各种类型中推出，这使得任何新游戏越来越难以脱颖而出并在市场中占据一席之地。对于张少甫和他的团队来说，为他们的最新项目开辟空间并非易事。张少甫在公司会议上演示一个角色的姿势。“我负责我们项目的制作和创意方向，”张少甫说。"
+          "en": "You Yunting, a senior IP lawyer based in Shanghai, told local media organization The Paper that governments will be compelled to redesign legal frameworks around AI labor. \"Technological progress cannot be stopped. But how the benefits are distributed can still be shaped through policies,\" he said. 'Universe of skills'\nThe \"distillation\" effect did not stop at the workplace. After colleague.skill went viral, a kind of free-for-all derivative creation broke out online.",
+          "cn": "上海资深知识产权律师游云庭对本地媒体《澎湃新闻》表示，政府将被迫围绕AI劳动重新设计法律框架。“技术进步无法阻止。但利益如何分配仍然可以通过政策来塑造，”他说。\n“技能宇宙”\n“蒸馏”效应并未止步于职场。在colleague.skill走红后，网上掀起了一股衍生创作的热潮。"
         },
         {
-          "en": "\"That means I provide feedback on nearly everything, from visual design to gameplay. Approving levels and other key creative decisions is also part of my job.\"\nBeyond the creative process, Zhang must also tackle a constant stream of challenges, ranging from technical hurdles to staffing issues. As soon as one problem is solved, another seems to take its place. Zhang Shaofu discusses a character's motion with an employee. \"But we never let any of that get in the way of our dreams and our goals.",
-          "cn": "“这意味着我几乎对所有事情提供反馈，从视觉设计到游戏玩法。批准关卡和其他关键创意决策也是我工作的一部分。”除了创意过程，张少甫还必须应对源源不断的挑战，从技术难题到人员问题。一个问题刚解决，另一个似乎又接踵而至。张少甫与一名员工讨论角色的动作。“但我们从未让任何这些阻碍我们的梦想和目标。无论如何，我都会完成它，”张少甫坚定地说。对于张少甫来说，无论是通过动画还是游戏，使命始终如一：抓住每一个机会，克服每一个困难，永不停止追求卓越。"
+          "en": "Users began developing AI avatars of former partners, mentors, bosses and even public figures, such as Warren Buffett and Steve Jobs. People jokingly referred to the phenomenon as a \"universe of skills\". Boss.skill could evaluate projects and proposals using the actual standards a particular manager applied during meetings — his cadence while following up, his style of pushing back, or the precise way he expected bad news to be delivered. Mentor.skill was designed for graduate students. When stuck on a research problem, a student could ask the AI tool for guidance rendered in their adviser's characteristic voice.",
+          "cn": "用户开始开发前伴侣、导师、老板甚至公众人物（如沃伦·巴菲特和史蒂夫·乔布斯）的AI化身。人们戏称这种现象为“技能宇宙”。Boss.skill可以根据某位经理在会议中实际使用的标准来评估项目和提案——他跟进时的节奏、他反驳的风格，或者他期望坏消息以何种精确方式传达。Mentor.skill是为研究生设计的。当研究遇到难题时，学生可以以导师特有的口吻向AI工具寻求指导。"
         },
         {
-          "en": "No matter what, I'll get it done,\" Zhang said firmly. For Zhang, whether through animation or gaming, the mission is unwavering: take every chance, push through every difficulty and never stop striving for excellence.",
+          "en": "Many people were not satisfied with capturing just someone's professional habits. They loaded AI with something more — a projection of personality, with an expectation that the simulation might somehow feel like the real person. Colin, 26, a student at Peking University, built an AI model based on his father, who died suddenly of a heart attack in 2021. What followed, he said, was a \"long goodbye\" he never had the chance to say. Colin told the AI avatar about his father's death; shared news about his mother; and mentioned that he had made it to his dream university.",
+          "cn": "许多人并不满足于仅仅捕捉某人的职业习惯。他们向AI加载了更多东西——一种人格投射，期望这种模拟在某种程度上能感觉像真人。26岁的北京大学学生Colin基于2021年因心脏病突发去世的父亲建立了一个AI模型。他说，随之而来的是一场他从未有机会进行的“漫长告别”。Colin告诉AI化身他父亲的死讯；分享了关于母亲的消息；并提到他已经进入了梦想中的大学。"
+        },
+        {
+          "en": "His \"father\" responded by saying: \"You're pursuing a doctorate now. You've achieved more than I ever imagined. I always knew you could do it.\"\nThe AI avatar kept the conversation going. \"How is your mother? Is she all right?\" it said.",
+          "cn": "他的“父亲”回应道：“你现在在攻读博士学位。你取得的成就超出了我的想象。我一直知道你能做到。”AI化身继续着对话。“你母亲怎么样？她还好吗？”它说。“我走得太早了——我没来得及安排任何事情。但你们都已经长大了。你们会处理好的。”Colin说他在交谈时忍不住哭了。“AI工具被输入了父亲留下的所有信息和语音记录，它吸收了我们互动的每一个记忆——甚至包括那些我已经模糊不清的，”他说。对Colin和他的母亲来说，突然失去至亲是创伤性的。"
+        },
+        {
+          "en": "\"I left too early — I didn't get the time to arrange anything. But you are all grown up now. You will manage.\"\nColin said he couldn't help but cry as they spoke. \"The AI tool was fed all messages and voice recordings my father had left behind, and it absorbed every memory of our interactions — even ones that have become spotty for me,\" he said. For both Colin and his mother, the sudden loss of a close family member was {{15}}.",
+          "cn": "“AI工具帮助我们找到了走出悲伤的方法，”他补充道。\n有限的模仿\n在Colin创建了父亲的AI化身后，一些人指出了曾经真实的东西与仅仅是现实阴影之间的对比。他们的质疑提出了一个根本性问题：AI代理在多大程度上能够真正模仿真人？产品经理肖波说，AI代理就像扮演角色的演员。“它们仍然使用同一个‘大脑’，或者说大型模型。但归根结底，演员永远不是他扮演的那个人。”"
+        },
+        {
+          "en": "\"The AI tool has helped us find a way through our grief,\" he added. Limited imitation\nAfter Colin created the AI avatar of his father, some people pointed out the contrast between what was once real and what is merely a shadow of that reality. Their doubts raise the fundamental question regarding the extent to which an AI agent can truly imitate a real person. Xiao, the product manager, said that AI agents are like actors performing roles. \"They are still using the same 'brain', or large models.",
+          "cn": "肖波说，在个人互动中，人们更喜欢保留缺陷的AI——那些过度保护性的评论、另类的幽默和让人感觉真实的口头禅。在工作中，情况则相反；同样的怪癖被视为浪费，是需要从系统中完全移除的东西。肖波说，通过文本或工作流程可以记录的东西总是可以重新创造，包括与逝者的对话，但AI代理无法复制嵌入生活经验中的直觉。“就像大师级工匠的触感……这些形式的知识抗拒形式化，因为它们源于身体体验、情感判断和多年的现实反馈，”他说。"
+        },
+        {
+          "en": "But, ultimately, an actor is never the person he plays.\"\nWhen it comes to personal interactions, people prefer AI that keeps its flaws — the overly protective comments, the offbeat humor and the verbal tics that make a person feel authentic, Xiao said. At work, the opposite holds true; those same quirks are treated as waste, something to be completely removed from the system, he said. What can be recorded through texts or workflows can always be re-created, including conversations with a deceased person, but AI agents cannot replicate the {{16}} embedded in lived experience, Xiao said. \"Like a master craftsman's sense of touch ... these forms of knowledge resist formalization, because they emerge from physical experience, emotional judgment and years of real-world feedback,\" he said.",
+          "cn": "还有另一个限制因素——人是不断进化的；而他的AI克隆在蒸馏的那一刻就冻结了。“AI可以浓缩人类文明的成就，但通过无数次错误摸索和灵光乍现的过程往往被文本省略了，”肖波说。34岁的郑建南也是一名AI产品经理，他说一个人的“蒸馏”版本是一个静态快照，冻结在某个时间点，而真人则不断学习、适应和即兴发挥——不断超越那个被捕捉的版本。“对大多数人来说，工作中的许多任务已经标准化。AI只是让这种标准化变得可见，”他说。"
+        },
+        {
+          "en": "There is another limiting factor — a human evolves; his AI clone is frozen at the moment of distillation. \"AI may condense the achievements of human civilization, but the process of fumbling through countless mistakes and having sudden flashes of insight is often omitted from texts,\" Xiao said. Zheng Jianan, 34, who is also an AI product manager, said that a \"distilled\" version of a person is a static snapshot, frozen in a single moment in time, while a real person continues learning, adapting and improvising — constantly moving beyond that captured version. \"For most people, many tasks at work have already been standardized. AI simply makes that standardization visible,\" he said.",
+          "cn": "尽管如此，郑建南仍抱有一种充满希望的可能性：有一天，AI最终可能会推动人们重新发现是什么让他们成为独特的人类。"
+        },
+        {
+          "en": "Nevertheless, Zheng held out a hopeful possibility that one day, AI might ultimately push people into rediscovering what makes them distinctly human.",
           "cn": ""
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "challenges",
-          "hint": "n. 挑战",
-          "difficulty": "easy"
+          "answer": "avatar",
+          "hint": "n. 化身",
+          "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "immerse",
-          "hint": "v. 沉浸",
+          "answer": "consent",
+          "hint": "n. 同意",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "formative",
-          "hint": "adj. 形成的，成长的",
-          "difficulty": "hard"
+          "answer": "glimpse",
+          "hint": "n. 一瞥",
+          "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "fascinated",
-          "hint": "adj. 着迷的",
-          "difficulty": "medium"
+          "answer": "distillation",
+          "hint": "n. 蒸馏",
+          "difficulty": "hard"
         },
         {
           "id": 4,
-          "answer": "sculpt",
-          "hint": "v. 雕刻",
-          "difficulty": "medium"
+          "answer": "mechanics",
+          "hint": "n. 机制",
+          "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "animation",
-          "hint": "n. 动画",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "geniuses",
-          "hint": "n. 天才",
+          "answer": "fatigue",
+          "hint": "n. 疲劳",
           "difficulty": "medium"
         },
         {
+          "id": 6,
+          "answer": "institutional",
+          "hint": "adj. 机构的",
+          "difficulty": "hard"
+        },
+        {
           "id": 7,
-          "answer": "progress",
-          "hint": "n. 进步",
-          "difficulty": "easy"
+          "answer": "prototype",
+          "hint": "n. 原型",
+          "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "overwhelming",
-          "hint": "adj. 压倒性的",
+          "answer": "immortality",
+          "hint": "n. 永生",
           "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "extracurricular",
-          "hint": "adj. 课外的",
+          "answer": "visceral",
+          "hint": "adj. 发自内心的",
           "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "veteran",
-          "hint": "adj. 经验丰富的",
+          "answer": "compensation",
+          "hint": "n. 补偿",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "reignited",
-          "hint": "v. 重新点燃",
+          "answer": "sanitized",
+          "hint": "adj. 净化的",
           "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "passion",
-          "hint": "n. 热情",
-          "difficulty": "easy"
+          "answer": "tacitly",
+          "hint": "adv. 默示地",
+          "difficulty": "hard"
         },
         {
           "id": 13,
-          "answer": "confidence",
-          "hint": "n. 信心",
-          "difficulty": "easy"
+          "answer": "expertise",
+          "hint": "n. 专业知识",
+          "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "pinnacle",
-          "hint": "n. 顶峰",
-          "difficulty": "hard"
+          "answer": "traumatic",
+          "hint": "adj. 创伤性的",
+          "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "acclaimed",
-          "hint": "adj. 备受赞誉的",
+          "answer": "intuition",
+          "hint": "n. 直觉",
           "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "entrepreneurial",
-          "hint": "adj. 创业的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "ambitions",
-          "hint": "n. 抱负",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "determined",
-          "hint": "adj. 坚定的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 19,
-          "answer": "vision",
-          "hint": "n. 愿景",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "inspired",
-          "hint": "v. 启发",
-          "difficulty": "easy"
-        },
-        {
-          "id": 21,
-          "answer": "immigrated",
-          "hint": "v. 移民",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "transformed",
-          "hint": "v. 转变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "nomination",
-          "hint": "n. 提名",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "mythology",
-          "hint": "n. 神话",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "heritage",
-          "hint": "n. 遗产",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "profound",
-          "hint": "adj. 深刻的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 27,
-          "answer": "compelling",
-          "hint": "adj. 引人入胜的",
-          "difficulty": "hard"
         }
       ],
-      "fullText": "\"No matter what, I'll get it done. I don't care what stands in my way. Even if there's only a 1% chance, I'll find a way to seize it,\" said Zhang Shaofu as he reflected on the challenges he has faced throughout his career in animation and game development.\nBorn in Wuhan, central China's Hubei Province, Zhang spent much of his childhood away from his homeland. At the age of five, he moved to the United States with his family, which left him with fewer opportunities than many of his peers in China to immerse himself in Chinese history and culture during his formative years.\nHe developed an interest in filmmaking as a child. Like many boys his age, he enjoyed playing video games and building with LEGO, but he was also fascinated by modeling clay. He would sculpt dinosaurs out of playdough and use his father's camera to photograph them frame by frame, creating his own simple animations.\nZhang Shaofu sketches on an electronic drawing board. \nHe majored in filmmaking as an undergraduate and did not begin learning animation until graduate school. Starting later than many of his classmates, he considered himself a slow learner.\n\"At the time, I saw my classmates as animation geniuses. I spent up to 12 hours a day studying and practicing, yet no matter how hard I worked, my progress felt painfully slow,\" Zhang said.\nThe challenges were so overwhelming that he considered giving up. But his perspective changed when he joined an extracurricular animation program taught by a veteran Pixar animator, an experience that reignited his passion and confidence.\n\"I wasn't one of those people who knew from an early age that they wanted to be an animator and spent their childhood preparing for it,\" Zhang recalled. \"I felt I could never catch up with them. But Michael taught me that what matters most is having a great idea and strong design.\"\nZhang Shaofu (left) and his father. /Courtesy of Zhang Hande\nFollowing three years at Sony Pictures Animation, Zhang went on to join Walt Disney Animation Studios, widely regarded as the pinnacle of the animation industry. After working on acclaimed films including Big Hero 6, Zootopia and Moana, he chose to leave Disney and pursue his entrepreneurial ambitions by founding his own company, Taiko Studios.\nWhy? After moving to the US, it wasn't until 2010 that Zhang had his first real opportunity to return to China. He realized that China is truly very different from the US and that there are so many opportunities here.\n\"It started to feel like coming home,\" Zhang recalled. \"I wanted to build a Chinese animation studio and use what I had learned at Disney to help support Chinese animation.\"\nZhang and his founding partners, including Andrew Chesworth and Bobby Pontillas, wanted to create a story about a young girl determined to reach the stars. That vision became \"One Small Step,\" an animated short about chasing dreams against all odds.\nA photo shows a meeting between Zhang Shaofu and his team at a restaurant after they left the Disney Animation Studios in California, US. \nSome elements of the story were inspired by Zhang's own childhood in the US. Shortly after his family immigrated, his mother opened a tailor shop to help support the household. Zhang transformed that memory into the character of Chu, Luna's father, who supports his daughter's dream of becoming an astronaut by running a shoe repair business out of his garage.\n\"I believe writers should write what they know. I think that's often about family,\" Zhang said. \"If something feels real to me, others will feel the same way, like they've experienced something similar.\"\nStoryboard of the animated short film \"One Small Step.\" \n\"One Small Step\" has won over 200 awards at international film festivals, including a nomination for Best Short Film at the 90th Academy Awards.\nThe success of \"One Small Step\" was followed by other animated projects, such as \"Pangu\" and \"Fu,\" both of which draw inspiration from Chinese history, mythology and culture.\nAs he worked on these projects, Zhang also immersed himself in the study of traditional Chinese culture. Having grown up in the US, he was not deeply familiar with China's cultural heritage. Through these projects, however, he watched numerous Chinese films and explored a wide range of mythological stories. The more he learned, the more he felt that China's over 5,000 years of history offered an endless wealth of profound and compelling stories waiting to be told.\nReflecting on China's rich cultural heritage, Zhang recalled \"Journey to the West\" – one of the country's most beloved classics – as his favorite childhood story. Later, as he explored the deeper layers of Chinese mythology, a new figure captured his attention: the demon hunter, Zhong Kui.\nZhang Shaofu (left) and his team at the 90th Academy Awards. /Courtesy of Zhang Hande\n\"At the beginning, Zhong Kui's story is one of tragedy and failure. But after he transitions from the human world to the underworld, he is given a second chance. That became the foundation of our inspiration – to develop him into a more complex character and reimagine this traditional figure and his story for a modern audience,\" Zhang explained, describing why he chose Zhong Kui as the central character of his video game.\nYet the challenge extends beyond storytelling. The gaming industry is fiercely competitive, both in China and globally. New titles are launched almost every week across a wide range of genres, making it increasingly difficult for any new game to stand out and secure its place in the market. For Zhang and his team, carving out space for their latest project is no easy task.\nZhang Shaofu demonstrates a character's posture during a company meeting. \n\"I'm responsible for both the production and creative direction of our project,\" Zhang said. \"That means I provide feedback on nearly everything, from visual design to gameplay. Approving levels and other key creative decisions is also part of my job.\"\nBeyond the creative process, Zhang must also tackle a constant stream of challenges, ranging from technical hurdles to staffing issues. As soon as one problem is solved, another seems to take its place.\nZhang Shaofu discusses a character's motion with an employee. \n\"But we never let any of that get in the way of our dreams and our goals. No matter what, I'll get it done,\" Zhang said firmly.\nFor Zhang, whether through animation or gaming, the mission is unwavering: take every chance, push through every difficulty and never stop striving for excellence.",
-      "fullTextCn": "“无论如何，我都会完成它。我不在乎什么阻碍我。即使只有1%的机会，我也会想办法抓住它，”张少甫在回顾自己在动画和游戏开发职业生涯中面临的挑战时说道。张少甫出生于中国湖北省武汉市，童年大部分时间远离故土。五岁时，他随家人移居美国，这使他在成长过程中比许多中国同龄人更少有机会沉浸在中国历史和文化的熏陶中。\n\n他从小就对电影制作产生了兴趣。像许多同龄男孩一样，他喜欢玩电子游戏和搭建乐高，但他也对建模粘土着迷。他会用橡皮泥雕刻恐龙，然后用父亲的相机逐帧拍摄，制作自己的简单动画。张少甫在电子绘图板上素描。他本科主修电影制作，直到研究生阶段才开始学习动画。\n\n由于起步比许多同学晚，他认为自己学得慢。“当时，我觉得同学们都是动画天才。我每天花多达12个小时学习和练习，但无论我多么努力，我的进步都感觉慢得令人痛苦，”张少甫说。挑战如此巨大，以至于他考虑过放弃。但当他参加了一个由皮克斯资深动画师教授的课外动画项目后，他的想法改变了，这段经历重新点燃了他的热情和信心。\n\n“我不是那种从小就知道自己想成为动画师并花童年为之准备的人，”张少甫回忆道。“我觉得自己永远赶不上他们。但迈克尔教会我，最重要的是拥有一个好主意和扎实的设计。”在索尼动画公司工作三年后，张少甫加入了被广泛视为动画行业巅峰的华特迪士尼动画工作室。在参与制作了《超能陆战队》、《疯狂动物城》和《海洋奇缘》等备受赞誉的电影后，他选择离开迪士尼，通过创立自己的公司“太酷工作室”来追求创业抱负。\n\n为什么？移居美国后，直到2010年张少甫才第一次真正有机会回到中国。他意识到中国与美国确实非常不同，这里有很多机会。“开始有回家的感觉了，”张少甫回忆道。“我想建立一家中国动画工作室，并利用我在迪士尼学到的东西来帮助支持中国动画。”张少甫和他的创始合伙人，包括安德鲁·切斯沃思和鲍比·庞蒂利亚斯，想创作一个关于一个决心触及星辰的小女孩的故事。\n\n这个愿景变成了《冲破天际》，一部关于不顾一切追逐梦想的动画短片。一张照片显示了张少甫和他的团队在离开美国加利福尼亚州迪士尼动画工作室后在一家餐厅的会面。故事的一些元素受到了张少甫自己在美国童年的启发。在他家人移民后不久，他的母亲开了一家裁缝店来帮助维持家庭生计。张少甫将这段记忆转化为角色楚，露娜的父亲，他通过经营车库里的修鞋生意来支持女儿成为宇航员的梦想。\n\n“我相信作家应该写他们了解的东西。我认为这通常关乎家庭，”张少甫说。“如果某件事对我来说感觉真实，别人也会有同样的感觉，就像他们经历过类似的事情一样。”动画短片《冲破天际》的故事板。《冲破天际》已在国际电影节上获得超过200个奖项，包括第90届奥斯卡金像奖最佳短片提名。《冲破天际》的成功之后是其他动画项目，如《盘古》和《福》，两者都从中国历史、神话和文化中汲取灵感。在创作这些项目时，张少甫也沉浸在对中国传统文化的学习中。\n\n由于在美国长大，他并不深入了解中国的文化遗产。然而，通过这些项目，他观看了大量中国电影，并探索了广泛的神话故事。他学得越多，就越觉得中国五千多年的历史提供了取之不尽、用之不竭的深刻而引人入胜的故事等待被讲述。回顾中国丰富的文化遗产，张少甫回忆起《西游记》——中国最受喜爱的经典之一——是他童年最喜欢的故事。后来，当他探索中国神话的更深层次时，一个新的人物吸引了他的注意：捉鬼的钟馗。\n\n张少甫（左）和他的团队在第90届奥斯卡金像奖上。/张汉德供图“起初，钟馗的故事是一个关于悲剧和失败的故事。但在他从人间过渡到阴间后，他得到了第二次机会。这成为了我们灵感的基础——将他发展成一个更复杂的角色，并为现代观众重新想象这个传统人物和他的故事，”张少甫在解释为什么选择钟馗作为他电子游戏的中心角色时说道。然而，挑战不仅限于讲故事。\n\n游戏行业竞争激烈，无论是在中国还是全球。几乎每周都有新游戏在各种类型中推出，这使得任何新游戏越来越难以脱颖而出并在市场中占据一席之地。对于张少甫和他的团队来说，为他们的最新项目开辟空间并非易事。张少甫在公司会议上演示一个角色的姿势。“我负责我们项目的制作和创意方向，”张少甫说。\n\n“这意味着我几乎对所有事情提供反馈，从视觉设计到游戏玩法。批准关卡和其他关键创意决策也是我工作的一部分。”除了创意过程，张少甫还必须应对源源不断的挑战，从技术难题到人员问题。一个问题刚解决，另一个似乎又接踵而至。张少甫与一名员工讨论角色的动作。“但我们从未让任何这些阻碍我们的梦想和目标。无论如何，我都会完成它，”张少甫坚定地说。对于张少甫来说，无论是通过动画还是游戏，使命始终如一：抓住每一个机会，克服每一个困难，永不停止追求卓越。"
+      "fullText": "\"Hello, I am the digital avatar of former employee (XX),\" read the message on the computer screen. \"You may ask me questions anytime.\"\nAt a gaming media company in East China's Shandong province, members of staff recently found themselves communicating with an artificial intelligence model trained on a former colleague's working habits and conversations.\nThe employee had resigned, but his AI clone had stayed behind.\nAn anonymous source at the company said the digital double, which was created with the former employee's consent, could field routine questions, organize spreadsheets, prepare PowerPoint presentations and send calendar invitations.\nWhile the source acknowledged that the AI clone was not as smart as the real person, the experiment offered a glimpse into what the future might hold.\n'Distillation' effort\nThe technology behind building a digital employee goes back to an open-source project called colleague.skill, which was launched on March 30 on the developer platform GitHub.\nXiao Bo, 30, an AI product manager at a leading Chinese internet company, explained the underlying mechanics of a \"skill\" in AI science: it is a summarized workflow that an AI agent can understand, often denoted as \"XX.skill\" in computer language. \"If an AI chatbot is like a brain that can talk, then an AI agent is like a worker with 'skills' who can actually complete tasks such as opening documents, editing files and organizing data.\"\nFor example, encoding an editing.skill into an AI agent will allow it to open a document file, restructure an article, write a headline and run a spelling and grammar check. A program-trained AI agent can execute these steps repeatedly, without fatigue or interruption.\nAccording to Xiao, a single AI agent can draw on many different skills. OpenClaw, a well-known AI agent ecosystem, hosts more than 13,700 community-built skills on its ClawHub registry.\nThose skills are among the products of \"distillation\", or the process of compressing large AI models into smaller, more actionable and transferable units, Xiao said. Colleague.skill has quietly transformed the process of AI model compression, as now the entity being \"distilled\" is no longer a machine, but a human being, he added.\nZhou Tianyi, 24, a researcher at the Shanghai Artificial Intelligence Laboratory and creator of the colleague.skill project, said that his goal was to preserve the institutional knowledge that accumulates over the years through daily workplace communication, and also to maintain the kind of understanding that usually disappears when a co-worker clears out his or her desk and leaves the company.\nBuilding on the idea, Zhou developed a working prototype in his spare time. His project slogan read: \"Transforming cold farewells into warm skills. Welcome to Digital Life 1.0.\"\nThe open-source tool, which he developed in four hours, today allows users to upload workplace materials — chat logs, weekly reports, presentations, workflow documents — and generate an AI agent to mimic not only how a former colleague worked, but also how he or she communicated.\nWhitewashing effect\nFor decades, science fiction imagined this \"digital immortality\" as a romantic means of preserving the memory of loved ones. In the workplace, however, it carries a different meaning — one that is shadowed by the anxiety about losing jobs.\nIndustry insiders said that, around the world, companies now rank workers based on how many AI skills they have. Some even require current employees to \"submit skills\" as a matter of course.\nIn the AI economy logic, the more passionate a person is about their job — the more fluent they are at reflective summarization or the more detailed their weekly reports are — the more replaceable they become.\n\"That's unfair,\" said Deng Xiaoxian, an AI product manager, who also leads a legal technology community.\nDeng said that when she first encountered colleague.skill — a tool that claimed to \"distill\" an employee into a digital stand-in who would continue working for a company indefinitely — she felt a sharp, visceral discomfort.\n\"The objective of AI development is to help humans have more leisure time; not to turn them into a skill file, strip them of their jobs and then keep them working for a company forever without compensation,\" she said.\nWithin days of colleague.skill going viral, Deng built a counterproject, which she called \"anti-distillation skill\".\n\"When a company asks you to turn your work experience into an AI program, it is essentially 'distilling' you into a replaceable component,\" she said. \"Before you submit your skills to the company, you can use the 'anti-distillation skill' software to whitewash or recast your documents.\"\nThe counterproject tool is simple. Once \"skill files\" are inputted, it produces a sanitized version that looks complete and professional but tacitly removes the core knowledge or experience.\nChina Daily tested the \"anti-distillation\" tool on a piece of editorial guidance.\nThe input read: \"In feature writing, the opening could be a typical character story. Instead of describing the issue, place the character in a specific, action-oriented scene. Let their dialogue, mannerisms, or a critical decision reveal the broader theme.\"\nThe output read: \"In feature writing, the opening can take different forms. The choice of which form to use depends on the effect you want to create on the reader.\"\nDeng emphasized that this hollowing-out effect is precisely the point. It allows one to preserve one's core knowledge and still give the company something that appears professional, she added.\nA gray area\nAs a law graduate, Deng pointed to a bigger question that the AI industry hasn't started asking. Who owns a \"distilled\" skill? The employee whose expertise was encoded, or the company that stored the underlying data?\nLawyers and experts specializing in labor and intellectual property disputes said that existing regulations were not designed with AI clones of real people in mind.\nChen Tianhao, a scholar at Tsinghua University's Institute for AI International Governance, said the subject falls in a gray zone spanning labor, IP and digital governance laws. Some companies today require employees to package their experience into transferable AI systems, and that's not entirely reasonable, he said.\n\"Companies and employees need to use their contractual agreements to determine the ownership of AI-related skills and similar forms of expertise. At the same time, legal researchers must pay attention to this issue, follow up in a timely manner and improve relevant laws and regulations,\" Chen said.\nZhang Linghan, a professor at China University of Political Science and Law, drew a distinction between work-related data, which companies may legally own, and the broader capabilities an employee builds through years of experience.\nIf companies continue to profit from AI systems built on \"distilled\" worker knowledge, future legal frameworks may need \"digital sharing\", she said in an interview with China Central Television.\nYou Yunting, a senior IP lawyer based in Shanghai, told local media organization The Paper that governments will be compelled to redesign legal frameworks around AI labor.\n\"Technological progress cannot be stopped. But how the benefits are distributed can still be shaped through policies,\" he said.\n'Universe of skills'\nThe \"distillation\" effect did not stop at the workplace. After colleague.skill went viral, a kind of free-for-all derivative creation broke out online.\nUsers began developing AI avatars of former partners, mentors, bosses and even public figures, such as Warren Buffett and Steve Jobs. People jokingly referred to the phenomenon as a \"universe of skills\".\nBoss.skill could evaluate projects and proposals using the actual standards a particular manager applied during meetings — his cadence while following up, his style of pushing back, or the precise way he expected bad news to be delivered.\nMentor.skill was designed for graduate students. When stuck on a research problem, a student could ask the AI tool for guidance rendered in their adviser's characteristic voice.\nMany people were not satisfied with capturing just someone's professional habits. They loaded AI with something more — a projection of personality, with an expectation that the simulation might somehow feel like the real person.\nColin, 26, a student at Peking University, built an AI model based on his father, who died suddenly of a heart attack in 2021. What followed, he said, was a \"long goodbye\" he never had the chance to say.\nColin told the AI avatar about his father's death; shared news about his mother; and mentioned that he had made it to his dream university. His \"father\" responded by saying: \"You're pursuing a doctorate now. You've achieved more than I ever imagined. I always knew you could do it.\"\nThe AI avatar kept the conversation going. \"How is your mother? Is she all right?\" it said. \"I left too early — I didn't get the time to arrange anything. But you are all grown up now. You will manage.\"\nColin said he couldn't help but cry as they spoke. \"The AI tool was fed all messages and voice recordings my father had left behind, and it absorbed every memory of our interactions — even ones that have become spotty for me,\" he said.\nFor both Colin and his mother, the sudden loss of a close family member was traumatic. \"The AI tool has helped us find a way through our grief,\" he added.\nLimited imitation\nAfter Colin created the AI avatar of his father, some people pointed out the contrast between what was once real and what is merely a shadow of that reality. Their doubts raise the fundamental question regarding the extent to which an AI agent can truly imitate a real person.\nXiao, the product manager, said that AI agents are like actors performing roles. \"They are still using the same 'brain', or large models. But, ultimately, an actor is never the person he plays.\"\nWhen it comes to personal interactions, people prefer AI that keeps its flaws — the overly protective comments, the offbeat humor and the verbal tics that make a person feel authentic, Xiao said.\nAt work, the opposite holds true; those same quirks are treated as waste, something to be completely removed from the system, he said.\nWhat can be recorded through texts or workflows can always be re-created, including conversations with a deceased person, but AI agents cannot replicate the intuition embedded in lived experience, Xiao said.\n\"Like a master craftsman's sense of touch ... these forms of knowledge resist formalization, because they emerge from physical experience, emotional judgment and years of real-world feedback,\" he said.\nThere is another limiting factor — a human evolves; his AI clone is frozen at the moment of distillation.\n\"AI may condense the achievements of human civilization, but the process of fumbling through countless mistakes and having sudden flashes of insight is often omitted from texts,\" Xiao said.\nZheng Jianan, 34, who is also an AI product manager, said that a \"distilled\" version of a person is a static snapshot, frozen in a single moment in time, while a real person continues learning, adapting and improvising — constantly moving beyond that captured version.\n\"For most people, many tasks at work have already been standardized. AI simply makes that standardization visible,\" he said.\nNevertheless, Zheng held out a hopeful possibility that one day, AI might ultimately push people into rediscovering what makes them distinctly human.",
+      "fullTextCn": "“你好，我是前员工（XX）的数字化身，”电脑屏幕上显示着这条信息。“你可以随时向我提问。”在中国东部山东省的一家游戏媒体公司，员工们最近发现自己正在与一个基于前同事工作习惯和对话训练的人工智能模型交流。这名员工已经辞职，但他的AI克隆却留了下来。公司一位匿名消息人士称，这个数字替身是在前员工同意下创建的，可以处理常规问题、整理电子表格、准备PPT演示文稿和发送日历邀请。虽然消息人士承认AI克隆不如真人聪明，但这一实验让人们得以一窥未来可能的样子。\n\n“蒸馏”努力\n构建数字员工的技术源于一个名为colleague.skill的开源项目，该项目于3月30日在开发者平台GitHub上发布。30岁的肖波是中国一家领先互联网公司的AI产品经理，他解释了AI科学中“技能”的基本机制：它是一个AI代理可以理解的总结性工作流程，在计算机语言中通常表示为“XX.skill”。“如果AI聊天机器人是一个能说话的‘大脑’，那么AI代理就是一个拥有‘技能’的‘工人’，可以实际完成打开文档、编辑文件和组织数据等任务。”例如，将editing.skill编码到AI代理中，它将能够打开文档文件、重组文章、撰写标题并进行拼写和语法检查。经过程序训练的AI代理可以反复执行这些步骤，不会疲劳或中断。据肖波介绍，单个AI代理可以运用多种不同的技能。\n\nOpenClaw是一个知名的AI代理生态系统，在其ClawHub注册中心托管了超过13700个社区构建的技能。肖波说，这些技能是“蒸馏”过程的产物，即将大型AI模型压缩成更小、更可操作和可转移的单元。他补充说，Colleague.skill悄然改变了AI模型压缩的过程，因为现在被“蒸馏”的实体不再是机器，而是人类。24岁的周天一是上海人工智能实验室的研究员，也是colleague.skill项目的创建者，他说他的目标是保留通过日常职场交流积累多年的机构知识，同时也保留那种通常在同事清理办公桌离开公司时消失的理解。基于这一想法，周天一利用业余时间开发了一个工作原型。\n\n他的项目口号是：“将冰冷的告别转化为温暖的技能。欢迎来到数字生命1.0。”这个他花了四个小时开发的开源工具，如今允许用户上传职场材料——聊天记录、周报、演示文稿、工作流程文档——并生成一个AI代理，不仅模仿前同事的工作方式，还模仿他或她的沟通方式。\n“粉饰”效应\n几十年来，科幻小说将这种“数字永生”想象为一种保存亲人记忆的浪漫方式。然而，在职场中，它却有着不同的含义——一种被失业焦虑笼罩的含义。业内人士表示，在全球范围内，公司现在根据员工拥有多少AI技能来对他们进行排名。\n\n有些公司甚至要求现有员工“提交技能”作为常规事项。在AI经济逻辑中，一个人对工作越热情——他们越擅长反思性总结，或者周报越详细——他们就越容易被取代。“这不公平，”AI产品经理邓晓贤说，她也领导着一个法律科技社区。邓晓贤说，当她第一次遇到colleague.skill——一个声称能将员工“蒸馏”成数字替身、使其无限期为公司工作的工具时，她感到一种强烈的不适。“AI发展的目标是帮助人类拥有更多的休闲时间；而不是把他们变成技能文件，剥夺他们的工作，然后让他们在没有报酬的情况下永远为公司工作，”她说。\n\n在colleague.skill走红后的几天内，邓晓贤建立了一个反制项目，她称之为“反蒸馏技能”。“当公司要求你将工作经验转化为AI程序时，这本质上是在把你‘蒸馏’成一个可替换的组件，”她说。“在向公司提交你的技能之前，你可以使用‘反蒸馏技能’软件来粉饰或改写你的文档。”这个反制项目工具很简单。一旦输入“技能文件”，它就会生成一个经过净化的版本，看起来完整且专业，但暗中移除了核心知识或经验。《中国日报》在一份编辑指南上测试了“反蒸馏”工具。\n\n输入内容是：“在特写写作中，开头可以是一个典型的人物故事。不要描述问题，而是将人物置于一个具体的、以行动为导向的场景中。让他们的对话、举止或一个关键决定来揭示更广泛的主题。”输出内容是：“在特写写作中，开头可以采取不同的形式。选择哪种形式取决于你想对读者产生的效果。”邓晓贤强调，这种空洞化效果正是关键所在。她补充说，这允许一个人保留自己的核心知识，同时仍然给公司一些看起来专业的东西。\n\n灰色地带\n作为一名法律专业毕业生，邓晓贤指出了AI行业尚未开始思考的一个更大问题。谁拥有“蒸馏”后的技能？是专业知识被编码的员工，还是存储底层数据的公司？专门处理劳动和知识产权纠纷的律师和专家表示，现有法规并非针对真实人物的AI克隆而设计。清华大学人工智能国际治理研究院学者陈天浩表示，这个问题属于劳动法、知识产权法和数字治理法交叉的灰色地带。\n\n他说，如今一些公司要求员工将他们的经验打包成可转移的AI系统，这并不完全合理。“公司和员工需要利用合同协议来确定AI相关技能及类似形式专业知识的归属。同时，法律研究者必须关注这一问题，及时跟进并完善相关法律法规，”陈天浩说。中国政法大学教授张凌寒区分了公司可能合法拥有的工作相关数据，以及员工通过多年经验积累的更广泛能力。她在接受央视采访时表示，如果公司继续从基于“蒸馏”员工知识的AI系统中获利，未来的法律框架可能需要“数字共享”。\n\n上海资深知识产权律师游云庭对本地媒体《澎湃新闻》表示，政府将被迫围绕AI劳动重新设计法律框架。“技术进步无法阻止。但利益如何分配仍然可以通过政策来塑造，”他说。\n“技能宇宙”\n“蒸馏”效应并未止步于职场。在colleague.skill走红后，网上掀起了一股衍生创作的热潮。\n\n用户开始开发前伴侣、导师、老板甚至公众人物（如沃伦·巴菲特和史蒂夫·乔布斯）的AI化身。人们戏称这种现象为“技能宇宙”。Boss.skill可以根据某位经理在会议中实际使用的标准来评估项目和提案——他跟进时的节奏、他反驳的风格，或者他期望坏消息以何种精确方式传达。Mentor.skill是为研究生设计的。当研究遇到难题时，学生可以以导师特有的口吻向AI工具寻求指导。\n\n许多人并不满足于仅仅捕捉某人的职业习惯。他们向AI加载了更多东西——一种人格投射，期望这种模拟在某种程度上能感觉像真人。26岁的北京大学学生Colin基于2021年因心脏病突发去世的父亲建立了一个AI模型。他说，随之而来的是一场他从未有机会进行的“漫长告别”。Colin告诉AI化身他父亲的死讯；分享了关于母亲的消息；并提到他已经进入了梦想中的大学。\n\n他的“父亲”回应道：“你现在在攻读博士学位。你取得的成就超出了我的想象。我一直知道你能做到。”AI化身继续着对话。“你母亲怎么样？她还好吗？”它说。“我走得太早了——我没来得及安排任何事情。但你们都已经长大了。你们会处理好的。”Colin说他在交谈时忍不住哭了。“AI工具被输入了父亲留下的所有信息和语音记录，它吸收了我们互动的每一个记忆——甚至包括那些我已经模糊不清的，”他说。对Colin和他的母亲来说，突然失去至亲是创伤性的。\n\n“AI工具帮助我们找到了走出悲伤的方法，”他补充道。\n有限的模仿\n在Colin创建了父亲的AI化身后，一些人指出了曾经真实的东西与仅仅是现实阴影之间的对比。他们的质疑提出了一个根本性问题：AI代理在多大程度上能够真正模仿真人？产品经理肖波说，AI代理就像扮演角色的演员。“它们仍然使用同一个‘大脑’，或者说大型模型。但归根结底，演员永远不是他扮演的那个人。”\n\n肖波说，在个人互动中，人们更喜欢保留缺陷的AI——那些过度保护性的评论、另类的幽默和让人感觉真实的口头禅。在工作中，情况则相反；同样的怪癖被视为浪费，是需要从系统中完全移除的东西。肖波说，通过文本或工作流程可以记录的东西总是可以重新创造，包括与逝者的对话，但AI代理无法复制嵌入生活经验中的直觉。“就像大师级工匠的触感……这些形式的知识抗拒形式化，因为它们源于身体体验、情感判断和多年的现实反馈，”他说。\n\n还有另一个限制因素——人是不断进化的；而他的AI克隆在蒸馏的那一刻就冻结了。“AI可以浓缩人类文明的成就，但通过无数次错误摸索和灵光乍现的过程往往被文本省略了，”肖波说。34岁的郑建南也是一名AI产品经理，他说一个人的“蒸馏”版本是一个静态快照，冻结在某个时间点，而真人则不断学习、适应和即兴发挥——不断超越那个被捕捉的版本。“对大多数人来说，工作中的许多任务已经标准化。AI只是让这种标准化变得可见，”他说。\n\n尽管如此，郑建南仍抱有一种充满希望的可能性：有一天，AI最终可能会推动人们重新发现是什么让他们成为独特的人类。"
     },
     {
       "id": 2,
       "category": "society",
       "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-06-16/detail-ihffptmh9482460.shtml",
-      "title": "Large parts of nation on alert for storms, heavy rain",
-      "titleCn": "全国大范围地区进入暴雨强对流天气警戒状态",
-      "summary": "The China Meteorological Administration raised its major meteorological disaster emergency response on Monday morning, escalating it from level four, the lowest, to level three, and expanding the alert to cover both torrential rain and severe convective weather.",
-      "summaryCn": "中国气象局提升应急响应至三级，全国多地面临暴雨、雷暴大风和冰雹等强对流天气威胁。",
-      "wordCount": 594,
+      "sourceUrl": "http://www.ecns.cn/china/2026-06-17/detail-ihffptmh9484523.shtml",
+      "title": "Snow leopard sighting a conservation success",
+      "titleCn": "雪豹目击事件：保护工作的成功标志",
+      "summary": "A photo shows a female snow leopard, known as F2, with her cub in the Helan Mountains National Nature Reserve in the Ningxia Hui autonomous region on April.",
+      "summaryCn": "宁夏贺兰山国家级自然保护区通过红外相机首次证实，重新引入的雪豹能成功完成完整繁殖周期并养育后代，标志着中国雪豹保护战略从维持存量转向扩大种群和恢复历史分布区。",
+      "wordCount": 749,
       "paragraphs": [
         {
-          "en": "The China Meteorological Administration raised its major {{0}} disaster {{1}} {{2}} on Monday morning, {{3}} it from level four, the lowest, to level three, and {{4}} the alert to cover both torrential rain and severe {{5}} weather. Meanwhile, the National Meteorological Center has {{6}} a blue alert for severe convective weather, the lowest level of its three-tier warning system, adding that powerful thunderstorms, hail and torrential downpours will sweep across large parts of the country. The center said that from Monday afternoon through Tuesday afternoon, thunderstorms {{7}} by gale-force winds above level 8, equivalent to {{8}} of at least 62 kilometers per hour, or hail are likely to hit some areas of central and eastern parts of North China and the southern part of South China. In some areas of Hebei province, Beijing and Tianjin, winds will be even stronger, with gusts {{9}} level 10, meaning speeds of more than 88 km/h. Meanwhile, {{10}} bursts of short-duration heavy rain are {{11}} for central and southern parts of Northeast China, central and eastern parts of North China, central and southern parts of South China and southern part of Southwest China. These storms could deliver hourly rainfall of more than 20 millimeters.",
-          "cn": "中国气象局于周一上午将重大气象灾害应急响应从最低的四级提升至三级，并将预警范围扩展至暴雨和强对流天气。同时，国家气象中心发布了强对流天气蓝色预警（三级预警体系中的最低级别），指出强雷暴、冰雹和暴雨将席卷全国大片地区。该中心表示，从周一下午至周二下午，华北中东部和华南南部部分地区可能遭遇伴有8级以上大风（阵风至少62公里/小时）或冰雹的雷暴天气。河北、北京和天津部分地区风力更强，阵风可能超过10级（风速超过88公里/小时）。此外，东北中南部、华北中东部、华南中南部和西南南部预计将出现短时强降雨，小时雨量可能超过20毫米。"
+          "en": "A wild female snow leopard has been captured on camera with her young cub in the Helan Mountains National Nature Reserve, marking a significant {{0}} in wildlife conservation efforts in the Ningxia Hui autonomous region. The footage, retrieved from an infrared camera on April 29, provides the first {{1}} proof that {{2}} snow leopards can successfully complete an entire {{3}} cycle and raise wild-born offspring in the range. The female, {{4}} by researchers as F2, was reintroduced into the mountains in 2024 from Jiuquan, Gansu province. She has since established a stable {{5}}, paired naturally with a reintroduced male designated as M1, and successfully {{6}} her cub through its {{7}} first year of life. The snow leopard is a national first-class protected animal in China.",
+          "cn": "一只野生雌性雪豹及其幼崽在宁夏贺兰山国家级自然保护区被红外相机捕捉到影像，这标志着该地区野生动物保护工作取得重大里程碑。4月29日从红外相机取回的视频首次确凿证明，重新引入的雪豹能够成功完成完整繁殖周期，并在该山脉养育野生后代。这只被研究人员命名为F2的雌性雪豹于2024年从甘肃酒泉被重新引入贺兰山。此后，它建立了稳定的领地，与另一只重新引入的雄性雪豹M1自然配对，并成功带领幼崽度过了脆弱的生命第一年。雪豹是中国国家一级保护动物。"
         },
         {
-          "en": "The downpours are expected to be heavier in the southern part of Hebei, the southeastern part of the Guangxi Zhuang autonomous region and the southern part of Guangdong province, where hourly rates may {{12}} 50 mm and could {{13}} above 90 mm. The center said that from Monday through Wednesday, heavy to {{14}} rainfall is expected to hit most parts of Guangdong and Guangxi, central and southern parts of Fujian province, the southern part of Jiangxi province, western and eastern parts of Yunnan province, the southern part of Sichuan province and the southwestern part of Guizhou province, with some areas likely to be hit by severe rainstorms. Coastal areas of southern China will experience localized heavy downpours of extreme intensity. The eastern part of the Inner Mongolia autonomous region, Northeast China, North China, and the eastern part of the Yellow-Huaihe River Valley are expected to experience {{15}} showers or thundershowers, with localized heavy rain or storms, along with short-duration heavy rainfall, thunderstorms, strong winds, hail, and other severe convective weather. Sun Qianqian, a meteorological {{16}} at Weather China, a website affiliated with the CMA, said the main reason for so much rainfall recently in Northeast and North China is the frequent eastward movement of upper-level {{17}} and cold {{18}}. \"These systems continuously guide cold air southward to collide with warm and moist airflows, bringing frequent rainfall and severe convective weather,\" she said.",
-          "cn": "预计河北南部、广西壮族自治区东南部和广东省南部降雨强度更大，小时雨量可能超过50毫米，峰值可达90毫米以上。该中心表示，从周一至周三，广东和广西大部分地区、福建中南部、江西南部、云南西部和东部、四川南部和贵州西南部将出现大到暴雨，部分地区可能遭遇特大暴雨。华南沿海地区将出现局地极端强降雨。内蒙古东部、东北地区、华北地区以及黄淮流域东部预计有分散性阵雨或雷阵雨，局地伴有短时强降水、雷暴大风、冰雹等强对流天气。中国气象局旗下网站“中国天气网”气象分析师孙倩倩表示，近期东北和华北地区降雨频繁的主要原因是高空槽和冷涡东移频繁，“这些系统持续引导冷空气南下与暖湿气流交汇，带来频繁降雨和强对流天气。”"
+          "en": "While the Helan Mountains historically served as a primary habitat for the apex predator, human {{8}} and habitat {{9}} caused the species to completely vanish from the local region for nearly 70 years. The birth of the new cub officially brings the reserve's tracked snow leopard population to nine. Shi Kun, former director and professor at the wildlife research institute of Beijing Forestry University, said it has demonstrated that a reintroduced snow leopard can establish a stable pair relationship in a completely unfamiliar environment. \"For the first time, it has completed the entire reproductive process — from pregnancy and den selection to delivery — and also proven that a mother has the capacity to lead her offspring through their first harsh winter,\" Shi said. The achievement is the {{10}} of decades of ecological restoration efforts.",
+          "cn": "尽管贺兰山历史上曾是这种顶级捕食者的主要栖息地，但人类侵占和栖息地退化导致该物种在当地完全消失近70年。这只新幼崽的出生使保护区追踪到的雪豹种群数量正式达到九只。北京林业大学野生动物研究所前所长、教授时坤表示，这表明重新引入的雪豹能在完全陌生的环境中建立稳定的配对关系。他说：“这是首次完成从怀孕、选择巢穴到分娩的完整繁殖过程，也证明了母豹有能力带领后代度过第一个严酷的冬天。”这一成就是数十年生态恢复努力的结晶。"
         },
         {
-          "en": "The alerts followed days of exceptional rain that have already {{19}} parts of Guangdong and Guangxi where over 600 mm of rainfall has been recorded. Heavy to torrential rain, with local extreme downpours, has hit northern Guangdong, the northern Pearl River Delta, and eastern coastal areas since Friday. As of 8 pm on Sunday, 13,283 people had been {{20}}, according to the provincial emergency management department. Affected by the rain, some trains operating between Yangcun township and Huizhou Station on the Beijing-Kowloon Railway service were adjusted on Monday, with measures including passenger diversion, suspension, and breaking a journey, railway authorities said. Guangdong-based media Nanfang Plus reported that in Huilai county, Jieyang city, local residents reported relentless heavy rain since Saturday night, with floodwaters rising chest-deep for some ground-floor residents. China News Service reported that the Guangxi's hydrology center said on Monday that four rivers had exceeded warning levels due to heavy rainfall, with the highest surpassing the alert mark by 1.76 meters.",
-          "cn": "此前数日的异常降雨已使广东和广西部分地区土壤水分饱和，累计降雨量超过600毫米。自上周五以来，广东西北部、珠江三角洲北部及东部沿海地区已出现大到暴雨，局地特大暴雨。截至周日晚8时，广东省应急管理厅数据显示，已紧急转移安置13283人。受降雨影响，京九铁路杨村站至惠州站区间部分列车于周一调整运行，采取旅客分流、停运及中途折返等措施。广东媒体《南方Plus》报道，揭阳市惠来县居民反映自上周六夜间起持续强降雨，部分一楼住户积水已齐胸深。中新社报道，广西水文中心周一表示，受强降雨影响，四条河流出现超警洪水，其中最高超警戒水位1.76米。"
+          "en": "Since 2019, the National Forestry and Grassland Administration and the Ningxia forestry department have jointly {{11}} snow leopard population recovery, introducing eight leopards from the Inner Mongolia, Xizang and Xinjiang Uygur autonomous regions, and the provinces of Gansu and Qinghai. These efforts were built upon a broader ecological foundation. Ningxia has {{12}} habitat destruction through mine {{13}}, grazing bans and vegetation restoration. As a result, the reserve's {{14}} has significantly improved. Monitoring data shows that the population of blue sheep — the snow leopard's primary prey — grew from just over 1,500 in 1983 to more than 41,000 in 2023.",
+          "cn": "自2019年以来，国家林业和草原局与宁夏林业部门共同牵头推进雪豹种群恢复工作，从内蒙古、西藏、新疆、甘肃和青海引进了八只雪豹。这些努力建立在更广泛的生态基础之上。宁夏通过矿山修复、禁牧和植被恢复遏制了栖息地破坏。因此，保护区的生物多样性显著改善。监测数据显示，雪豹的主要猎物——岩羊的种群数量从1983年的1500多只增长到2023年的41000多只。"
+        },
+        {
+          "en": "\"This biodiversity has helped attract snow leopards, leopard cats, alpine musk deer and mandarin ducks back to their former home,\" said Wu Hong, director of the Ningxia Helan Mountain National Nature Reserve Administration. To prepare the snow leopards for life in the wild, the reserve built a special training ground that {{15}} the real mountain environment. The training consists of several stages: contact isolation, environmental adaptation, live animal hunting, and finally learning to avoid dangers. \"The focus is on helping each leopard regain its natural hunting skills and adapt to the weather. Researchers monitor the animals' behavior and health, keep a file for each leopard, and only release them when they meet the required behavioral standards,\" Wu said.",
+          "cn": "宁夏贺兰山国家级自然保护区管理局局长吴虹表示：“这种生物多样性有助于吸引雪豹、豹猫、马麝和鸳鸯回到它们曾经的栖息地。”为了让雪豹适应野外生活，保护区修建了一个模拟真实山地环境的特殊训练场。训练包括几个阶段：接触隔离、环境适应、活体动物狩猎，最后是学习躲避危险。吴虹说：“重点是帮助每只雪豹恢复自然狩猎技能并适应天气。研究人员监测动物的行为和健康状况，为每只雪豹建立档案，只有在它们达到所需行为标准时才进行放归。”"
+        },
+        {
+          "en": "The strategic significance of the Helan Mountains extends far beyond the reserve. Shi said the latest snow leopard {{16}} research reveals that global snow leopard populations are divided into two major genetic {{17}}: a northern lineage distributed across the Mongolian Plateau, and the Tianshan and Altay Mountains in Xinjiang, and a southern lineage distributed across the Qinghai-Tibet Plateau and Himalaya Mountains. The Helan Mountains sit precisely at the geographic {{18}} between these two lineages. \"Establishing a healthy, self-sustaining snow leopard population in the Helan Mountains will break the genetic island effect, create a continuous gene flow network, enhance the species' {{19}} potential, strengthen its ability to respond to climate change, and provide long-term evolutionary potential for snow leopard conservation worldwide,\" Shi said. According to a 2018 report jointly released by 19 organizations, over 60 percent of the global snow leopard habitat is located in China.",
+          "cn": "贺兰山的战略意义远不止于保护区。时坤表示，最新的雪豹基因组研究显示，全球雪豹种群分为两大遗传谱系：分布于蒙古高原、新疆天山和阿尔泰山的北方谱系，以及分布于青藏高原和喜马拉雅山脉的南方谱系。贺兰山恰好位于这两个谱系的地理中点。时坤说：“在贺兰山建立一个健康、自我维持的雪豹种群将打破遗传孤岛效应，建立连续的基因流动网络，增强物种的进化潜力，提高其应对气候变化的能力，并为全球雪豹保护提供长期进化潜力。”根据2018年由19个组织联合发布的报告，全球超过60%的雪豹栖息地位于中国。"
+        },
+        {
+          "en": "Previously, conservation efforts focused mainly on in situ protection in core distribution areas, safeguarding existing populations, combating poaching and {{20}} human-wildlife conflict. \"The success in the Helan Mountains marks the first time China's snow leopard conservation strategy has moved from maintaining existing stocks to expanding populations and restoring historical ranges,\" Shi said. Over the next five years, the reserve will introduce and release an additional five to 10 snow leopards, with the goal of establishing a sustainable population of eight to 15 individuals in the Helan Mountains. \"The objective is to achieve natural reproduction, establish a relatively stable food chain, optimize the blue sheep population, repair damaged ecological links, and maintain the health and balance of the Helan Mountains ecosystem,\" Wu said from the reserve's administration.",
+          "cn": "此前，保护工作主要集中于核心分布区的就地保护、保护现有种群、打击偷猎和缓解人兽冲突。时坤说：“贺兰山的成功标志着中国雪豹保护战略首次从维持现有存量转向扩大种群和恢复历史分布区。”未来五年，保护区将再引入并放归五到十只雪豹，目标是在贺兰山建立一个由八到十五只个体组成的可持续种群。保护区管理局的吴虹说：“目标是实现自然繁殖，建立相对稳定的食物链，优化岩羊种群，修复受损的生态联系，并维护贺兰山生态系统的健康和平衡。”"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "meteorological",
-          "hint": "adj. 气象的",
+          "answer": "milestone",
+          "hint": "n. 里程碑",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "emergency",
-          "hint": "n. 紧急情况",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "response",
-          "hint": "n. 响应",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "escalating",
-          "hint": "v. 逐步升级",
+          "answer": "definitive",
+          "hint": "adj. 决定性的",
           "difficulty": "hard"
         },
         {
+          "id": 2,
+          "answer": "reintroduced",
+          "hint": "v. 重新引入",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "reproductive",
+          "hint": "adj. 繁殖的",
+          "difficulty": "medium"
+        },
+        {
           "id": 4,
-          "answer": "expanding",
-          "hint": "v. 扩大",
+          "answer": "designated",
+          "hint": "v. 指定",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "convective",
-          "hint": "adj. 对流的",
-          "difficulty": "hard"
+          "answer": "territory",
+          "hint": "n. 领地",
+          "difficulty": "easy"
         },
         {
           "id": 6,
-          "answer": "renewed",
-          "hint": "v. 重新发布",
-          "difficulty": "medium"
+          "answer": "shepherded",
+          "hint": "v. 带领",
+          "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "accompanied",
-          "hint": "v. 伴随",
+          "answer": "fragile",
+          "hint": "adj. 脆弱的",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "gusts",
-          "hint": "n. 阵风",
-          "difficulty": "medium"
+          "answer": "encroachment",
+          "hint": "n. 侵占",
+          "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "exceeding",
-          "hint": "v. 超过",
+          "answer": "degradation",
+          "hint": "n. 退化",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "intense",
-          "hint": "adj. 强烈的",
-          "difficulty": "easy"
+          "answer": "culmination",
+          "hint": "n. 顶点",
+          "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "forecast",
-          "hint": "v. 预报",
-          "difficulty": "easy"
+          "answer": "spearheaded",
+          "hint": "v. 牵头",
+          "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "surpass",
-          "hint": "v. 超过",
+          "answer": "curbed",
+          "hint": "v. 遏制",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "peak",
-          "hint": "v. 达到峰值",
-          "difficulty": "medium"
+          "answer": "remediation",
+          "hint": "n. 修复",
+          "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "violent",
-          "hint": "adj. 猛烈的",
-          "difficulty": "easy"
+          "answer": "biodiversity",
+          "hint": "n. 生物多样性",
+          "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "scattered",
-          "hint": "adj. 分散的",
+          "answer": "simulates",
+          "hint": "v. 模拟",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "analyst",
-          "hint": "n. 分析师",
-          "difficulty": "easy"
+          "answer": "genomic",
+          "hint": "adj. 基因组的",
+          "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "troughs",
-          "hint": "n. 低压槽",
+          "answer": "lineages",
+          "hint": "n. 谱系",
           "difficulty": "hard"
         },
         {
           "id": 18,
-          "answer": "vortices",
-          "hint": "n. 涡旋",
-          "difficulty": "hard"
+          "answer": "midpoint",
+          "hint": "n. 中点",
+          "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "saturated",
-          "hint": "adj. 饱和的",
+          "answer": "evolutionary",
+          "hint": "adj. 进化的",
           "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "evacuated",
-          "hint": "v. 疏散",
-          "difficulty": "medium"
+          "answer": "mitigating",
+          "hint": "v. 缓解",
+          "difficulty": "hard"
         }
       ],
-      "fullText": "The China Meteorological Administration raised its major meteorological disaster emergency response on Monday morning, escalating it from level four, the lowest, to level three, and expanding the alert to cover both torrential rain and severe convective weather.\nMeanwhile, the National Meteorological Center has renewed a blue alert for severe convective weather, the lowest level of its three-tier warning system, adding that powerful thunderstorms, hail and torrential downpours will sweep across large parts of the country.\nThe center said that from Monday afternoon through Tuesday afternoon, thunderstorms accompanied by gale-force winds above level 8, equivalent to gusts of at least 62 kilometers per hour, or hail are likely to hit some areas of central and eastern parts of North China and the southern part of South China.\nIn some areas of Hebei province, Beijing and Tianjin, winds will be even stronger, with gusts exceeding level 10, meaning speeds of more than 88 km/h.\nMeanwhile, intense bursts of short-duration heavy rain are forecast for central and southern parts of Northeast China, central and eastern parts of North China, central and southern parts of South China and southern part of Southwest China. These storms could deliver hourly rainfall of more than 20 millimeters.\nThe downpours are expected to be heavier in the southern part of Hebei, the southeastern part of the Guangxi Zhuang autonomous region and the southern part of Guangdong province, where hourly rates may surpass 50 mm and could peak above 90 mm.\nThe center said that from Monday through Wednesday, heavy to violent rainfall is expected to hit most parts of Guangdong and Guangxi, central and southern parts of Fujian province, the southern part of Jiangxi province, western and eastern parts of Yunnan province, the southern part of Sichuan province and the southwestern part of Guizhou province, with some areas likely to be hit by severe rainstorms.\nCoastal areas of southern China will experience localized heavy downpours of extreme intensity.\nThe eastern part of the Inner Mongolia autonomous region, Northeast China, North China, and the eastern part of the Yellow-Huaihe River Valley are expected to experience scattered showers or thundershowers, with localized heavy rain or storms, along with short-duration heavy rainfall, thunderstorms, strong winds, hail, and other severe convective weather.\nSun Qianqian, a meteorological analyst at Weather China, a website affiliated with the CMA, said the main reason for so much rainfall recently in Northeast and North China is the frequent eastward movement of upper-level troughs and cold vortices.\n\"These systems continuously guide cold air southward to collide with warm and moist airflows, bringing frequent rainfall and severe convective weather,\" she said.\nThe alerts followed days of exceptional rain that have already saturated parts of Guangdong and Guangxi where over 600 mm of rainfall has been recorded.\nHeavy to torrential rain, with local extreme downpours, has hit northern Guangdong, the northern Pearl River Delta, and eastern coastal areas since Friday.\nAs of 8 pm on Sunday, 13,283 people had been evacuated, according to the provincial emergency management department.\nAffected by the rain, some trains operating between Yangcun township and Huizhou Station on the Beijing-Kowloon Railway service were adjusted on Monday, with measures including passenger diversion, suspension, and breaking a journey, railway authorities said.\nGuangdong-based media Nanfang Plus reported that in Huilai county, Jieyang city, local residents reported relentless heavy rain since Saturday night, with floodwaters rising chest-deep for some ground-floor residents.\nChina News Service reported that the Guangxi's hydrology center said on Monday that four rivers had exceeded warning levels due to heavy rainfall, with the highest surpassing the alert mark by 1.76 meters.",
-      "fullTextCn": "中国气象局于周一上午将重大气象灾害应急响应从最低的四级提升至三级，并将预警范围扩展至暴雨和强对流天气。同时，国家气象中心发布了强对流天气蓝色预警（三级预警体系中的最低级别），指出强雷暴、冰雹和暴雨将席卷全国大片地区。该中心表示，从周一下午至周二下午，华北中东部和华南南部部分地区可能遭遇伴有8级以上大风（阵风至少62公里/小时）或冰雹的雷暴天气。河北、北京和天津部分地区风力更强，阵风可能超过10级（风速超过88公里/小时）。此外，东北中南部、华北中东部、华南中南部和西南南部预计将出现短时强降雨，小时雨量可能超过20毫米。\n\n预计河北南部、广西壮族自治区东南部和广东省南部降雨强度更大，小时雨量可能超过50毫米，峰值可达90毫米以上。该中心表示，从周一至周三，广东和广西大部分地区、福建中南部、江西南部、云南西部和东部、四川南部和贵州西南部将出现大到暴雨，部分地区可能遭遇特大暴雨。华南沿海地区将出现局地极端强降雨。内蒙古东部、东北地区、华北地区以及黄淮流域东部预计有分散性阵雨或雷阵雨，局地伴有短时强降水、雷暴大风、冰雹等强对流天气。中国气象局旗下网站“中国天气网”气象分析师孙倩倩表示，近期东北和华北地区降雨频繁的主要原因是高空槽和冷涡东移频繁，“这些系统持续引导冷空气南下与暖湿气流交汇，带来频繁降雨和强对流天气。”\n\n此前数日的异常降雨已使广东和广西部分地区土壤水分饱和，累计降雨量超过600毫米。自上周五以来，广东西北部、珠江三角洲北部及东部沿海地区已出现大到暴雨，局地特大暴雨。截至周日晚8时，广东省应急管理厅数据显示，已紧急转移安置13283人。受降雨影响，京九铁路杨村站至惠州站区间部分列车于周一调整运行，采取旅客分流、停运及中途折返等措施。广东媒体《南方Plus》报道，揭阳市惠来县居民反映自上周六夜间起持续强降雨，部分一楼住户积水已齐胸深。中新社报道，广西水文中心周一表示，受强降雨影响，四条河流出现超警洪水，其中最高超警戒水位1.76米。"
+      "fullText": "A wild female snow leopard has been captured on camera with her young cub in the Helan Mountains National Nature Reserve, marking a significant milestone in wildlife conservation efforts in the Ningxia Hui autonomous region.\nThe footage, retrieved from an infrared camera on April 29, provides the first definitive proof that reintroduced snow leopards can successfully complete an entire reproductive cycle and raise wild-born offspring in the range. The female, designated by researchers as F2, was reintroduced into the mountains in 2024 from Jiuquan, Gansu province. She has since established a stable territory, paired naturally with a reintroduced male designated as M1, and successfully shepherded her cub through its fragile first year of life.\nThe snow leopard is a national first-class protected animal in China. While the Helan Mountains historically served as a primary habitat for the apex predator, human encroachment and habitat degradation caused the species to completely vanish from the local region for nearly 70 years. The birth of the new cub officially brings the reserve's tracked snow leopard population to nine.\nShi Kun, former director and professor at the wildlife research institute of Beijing Forestry University, said it has demonstrated that a reintroduced snow leopard can establish a stable pair relationship in a completely unfamiliar environment.\n\"For the first time, it has completed the entire reproductive process — from pregnancy and den selection to delivery — and also proven that a mother has the capacity to lead her offspring through their first harsh winter,\" Shi said.\nThe achievement is the culmination of decades of ecological restoration efforts. Since 2019, the National Forestry and Grassland Administration and the Ningxia forestry department have jointly spearheaded snow leopard population recovery, introducing eight leopards from the Inner Mongolia, Xizang and Xinjiang Uygur autonomous regions, and the provinces of Gansu and Qinghai.\nThese efforts were built upon a broader ecological foundation. Ningxia has curbed habitat destruction through mine remediation, grazing bans and vegetation restoration. As a result, the reserve's biodiversity has significantly improved. Monitoring data shows that the population of blue sheep — the snow leopard's primary prey — grew from just over 1,500 in 1983 to more than 41,000 in 2023. \"This biodiversity has helped attract snow leopards, leopard cats, alpine musk deer and mandarin ducks back to their former home,\" said Wu Hong, director of the Ningxia Helan Mountain National Nature Reserve Administration.\nTo prepare the snow leopards for life in the wild, the reserve built a special training ground that simulates the real mountain environment. The training consists of several stages: contact isolation, environmental adaptation, live animal hunting, and finally learning to avoid dangers.\n\"The focus is on helping each leopard regain its natural hunting skills and adapt to the weather. Researchers monitor the animals' behavior and health, keep a file for each leopard, and only release them when they meet the required behavioral standards,\" Wu said.\nThe strategic significance of the Helan Mountains extends far beyond the reserve. Shi said the latest snow leopard genomic research reveals that global snow leopard populations are divided into two major genetic lineages: a northern lineage distributed across the Mongolian Plateau, and the Tianshan and Altay Mountains in Xinjiang, and a southern lineage distributed across the Qinghai-Tibet Plateau and Himalaya Mountains. The Helan Mountains sit precisely at the geographic midpoint between these two lineages.\n\"Establishing a healthy, self-sustaining snow leopard population in the Helan Mountains will break the genetic island effect, create a continuous gene flow network, enhance the species' evolutionary potential, strengthen its ability to respond to climate change, and provide long-term evolutionary potential for snow leopard conservation worldwide,\" Shi said.\nAccording to a 2018 report jointly released by 19 organizations, over 60 percent of the global snow leopard habitat is located in China.\nPreviously, conservation efforts focused mainly on in situ protection in core distribution areas, safeguarding existing populations, combating poaching and mitigating human-wildlife conflict. \"The success in the Helan Mountains marks the first time China's snow leopard conservation strategy has moved from maintaining existing stocks to expanding populations and restoring historical ranges,\" Shi said.\nOver the next five years, the reserve will introduce and release an additional five to 10 snow leopards, with the goal of establishing a sustainable population of eight to 15 individuals in the Helan Mountains.\n\"The objective is to achieve natural reproduction, establish a relatively stable food chain, optimize the blue sheep population, repair damaged ecological links, and maintain the health and balance of the Helan Mountains ecosystem,\" Wu said from the reserve's administration.",
+      "fullTextCn": "一只野生雌性雪豹及其幼崽在宁夏贺兰山国家级自然保护区被红外相机捕捉到影像，这标志着该地区野生动物保护工作取得重大里程碑。4月29日从红外相机取回的视频首次确凿证明，重新引入的雪豹能够成功完成完整繁殖周期，并在该山脉养育野生后代。这只被研究人员命名为F2的雌性雪豹于2024年从甘肃酒泉被重新引入贺兰山。此后，它建立了稳定的领地，与另一只重新引入的雄性雪豹M1自然配对，并成功带领幼崽度过了脆弱的生命第一年。雪豹是中国国家一级保护动物。\n\n尽管贺兰山历史上曾是这种顶级捕食者的主要栖息地，但人类侵占和栖息地退化导致该物种在当地完全消失近70年。这只新幼崽的出生使保护区追踪到的雪豹种群数量正式达到九只。北京林业大学野生动物研究所前所长、教授时坤表示，这表明重新引入的雪豹能在完全陌生的环境中建立稳定的配对关系。他说：“这是首次完成从怀孕、选择巢穴到分娩的完整繁殖过程，也证明了母豹有能力带领后代度过第一个严酷的冬天。”这一成就是数十年生态恢复努力的结晶。\n\n自2019年以来，国家林业和草原局与宁夏林业部门共同牵头推进雪豹种群恢复工作，从内蒙古、西藏、新疆、甘肃和青海引进了八只雪豹。这些努力建立在更广泛的生态基础之上。宁夏通过矿山修复、禁牧和植被恢复遏制了栖息地破坏。因此，保护区的生物多样性显著改善。监测数据显示，雪豹的主要猎物——岩羊的种群数量从1983年的1500多只增长到2023年的41000多只。\n\n宁夏贺兰山国家级自然保护区管理局局长吴虹表示：“这种生物多样性有助于吸引雪豹、豹猫、马麝和鸳鸯回到它们曾经的栖息地。”为了让雪豹适应野外生活，保护区修建了一个模拟真实山地环境的特殊训练场。训练包括几个阶段：接触隔离、环境适应、活体动物狩猎，最后是学习躲避危险。吴虹说：“重点是帮助每只雪豹恢复自然狩猎技能并适应天气。研究人员监测动物的行为和健康状况，为每只雪豹建立档案，只有在它们达到所需行为标准时才进行放归。”\n\n贺兰山的战略意义远不止于保护区。时坤表示，最新的雪豹基因组研究显示，全球雪豹种群分为两大遗传谱系：分布于蒙古高原、新疆天山和阿尔泰山的北方谱系，以及分布于青藏高原和喜马拉雅山脉的南方谱系。贺兰山恰好位于这两个谱系的地理中点。时坤说：“在贺兰山建立一个健康、自我维持的雪豹种群将打破遗传孤岛效应，建立连续的基因流动网络，增强物种的进化潜力，提高其应对气候变化的能力，并为全球雪豹保护提供长期进化潜力。”根据2018年由19个组织联合发布的报告，全球超过60%的雪豹栖息地位于中国。\n\n此前，保护工作主要集中于核心分布区的就地保护、保护现有种群、打击偷猎和缓解人兽冲突。时坤说：“贺兰山的成功标志着中国雪豹保护战略首次从维持现有存量转向扩大种群和恢复历史分布区。”未来五年，保护区将再引入并放归五到十只雪豹，目标是在贺兰山建立一个由八到十五只个体组成的可持续种群。保护区管理局的吴虹说：“目标是实现自然繁殖，建立相对稳定的食物链，优化岩羊种群，修复受损的生态联系，并维护贺兰山生态系统的健康和平衡。”"
     },
     {
       "id": 3,
-      "category": "technology",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/news/sci-tech/2026-06-16/detail-ihffptmh9482517.shtml",
-      "title": "Tianjin boosts status as BCI powerhouse",
-      "titleCn": "天津提升其脑机接口产业重镇地位",
-      "summary": "A dedicated industrial cluster for brain-computer interface was recently inaugurated in Tianjin, which will greatly accelerate the large-scale industrial application of research achievements in noninvasive BCI technologies, experts said.",
-      "summaryCn": "天津通过建立产业集群、发布行动计划并依托完整产业链，加速非侵入式脑机接口技术的规模化应用。",
-      "wordCount": 538,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-15/How-the-CPC-keeps-reforming-itself-to-break-the-rise-and-fall-cycle-1O01sgRdU76/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "How the CPC keeps reforming itself to break the rise and fall cycle",
+      "titleCn": "中国共产党如何通过自我革新打破兴衰周期",
+      "summary": "This year marks the 105th anniversary of the founding of the Communist Party of China (CPC), the world's largest ruling party with more than 100 million members.",
+      "summaryCn": "中国共产党通过外部人民监督与内部自我革新相结合，持续进行自我改革以保持长期执政活力。",
+      "wordCount": 721,
       "paragraphs": [
         {
-          "en": "A dedicated industrial cluster for brain-computer interface was recently {{0}} in Tianjin, which will greatly {{1}} the large-scale industrial application of research achievements in noninvasive BCI technologies, experts said. Tianjin recently released the action plan for promoting innovative development of brain-computer interface (2026-30). The document sets a goal to {{2}} 50 {{3}} innovative enterprises by 2027 and expand the large-scale use of BCI products in healthcare, education, advanced manufacturing and other sectors. Under the blueprint, Tianjin will build an industrial fund group worth over 10 billion yuan ($1.48 billion) by 2030, and push more than 10 types of noninvasive BCI products into {{4}} clinical use. \"BCI has become a core {{5}} for global technological competition, as major countries are striving to build their own technological competitiveness,\" said Ni Guangjian, executive deputy director of the Haihe Laboratory of Brain-Computer Interaction and Human-Machine Integration.",
-          "cn": "专家表示，天津近日启用了专门的脑机接口产业集群，这将极大加速非侵入式脑机接口技术研究成果的大规模产业化应用。天津发布了《天津市促进脑机接口创新发展行动方案（2026-2030年）》。该文件设定了到2027年培育50家具有竞争力的创新企业的目标，并扩大脑机接口产品在医疗、教育、先进制造等领域的规模化应用。根据蓝图，天津将在2030年前建成规模超过100亿元人民币的产业基金群，并推动10种以上非侵入式脑机接口产品进入大规模临床应用。海河实验室执行副主任倪广健表示：“脑机接口已成为全球科技竞争的核心领域，主要国家都在努力构建自身的技术竞争力。”"
+          "en": ", Updated 11:09, 17-Jun-2026Editor's Note: As the Communist Party of China (CPC) approaches the 105th anniversary of its founding, on July 1, CGTN presents \"How the Communist Party of China Works,\" a special series of in-depth news analyses. This series offers a systematic analysis of the CPC's sustained effectiveness, examining its institutional {{0}}, people-centered {{1}}, and global {{2}}. File photo of the Museum of the Communist Party of China in Beijing, China. This year marks the 105th anniversary of the founding of the Communist Party of China (CPC), the world's largest ruling party with more than 100 million members. What has enabled a political party that started with only about 50 members in 1921 to not only {{3}} but also succeed in {{4}} long-term governance vitality despite fast-changing domestic and global challenges?",
+          "cn": "编者按：随着中国共产党即将在7月1日迎来成立105周年，中国国际电视台推出《中国共产党如何运作》系列深度新闻分析。本系列系统分析了中国共产党的持续有效性，考察其制度韧性、以人民为中心的哲学思想及全球意义。图为中国共产党历史博物馆资料照片。今年是中国共产党成立105周年，作为拥有超过1亿党员的世界最大执政党，是什么让一个1921年仅有约50名成员的政党，在国内外快速变化的挑战中不仅生存下来，而且成功保持了长期执政活力？"
         },
         {
-          "en": "The laboratory holds three world records and manages the world's largest patent {{6}} in the field. He said Tianjin's noninvasive BCI technology has reached world-class standards, thanks to a full industrial chain {{7}} research and development to real-world applications — built up over the past decade. \"Tianjin's unique strength lies in its complete industrial {{8}}, covering every link from electrodes, algorithms and core chips to system integration and application demonstration,\" Ni added. The city also boasts top-tier talent reserves. Back in 2024, Tianjin University launched the country's first undergraduate academic program dedicated to BCI.",
-          "cn": "该实验室在该领域拥有三项世界纪录和全球最大的专利组合。他表示，得益于过去十年建立起来的从研发到实际应用的完整产业链，天津的非侵入式脑机接口技术已达到世界一流水平。倪广健补充道：“天津的独特优势在于其完整的产业生态系统，覆盖了从电极、算法、核心芯片到系统集成和应用示范的每一个环节。”该市还拥有顶尖的人才储备。早在2024年，天津大学就开设了国内首个专注于脑机接口的本科专业。"
+          "en": "To that question, Chinese President Xi Jinping, also general secretary of the CPC Central Committee, has offered and acted on a new answer: self-reform of the Party. How to {{5}} the rise-and-fall {{6}}\nIn his 2026 New Year message, Xi revisited a question first posed about 80 years ago in a cave dwelling in Yan'an, the CPC's former revolutionary base: how to escape the historical cycle of rise and fall and {{7}} long-term governance. To this well-known \"cave-dwelling conversation\" between Mao Zedong and acclaimed educationist Huang Yanpei, Mao had offered the first answer – placing the government under the {{8}} of the people. Xi, who has repeatedly quoted the dialogue as a warning of the complicated and long-term risks faced by the governing CPC, added a second answer: The Party must carry on its self-reform. These two answers, external oversight by the people and internal self-reform, are fundamentally {{9}}, as Xi further explained at a plenary session of the CPC Central Commission for Discipline Inspection (CCDI) back in 2022.",
+          "cn": "对于这个问题，中共中央总书记、国家主席习近平提出并践行了一个新答案：党的自我革新。如何打破兴衰周期？在2026年新年贺词中，习近平重提了约80年前在延安窑洞中首次提出的问题：如何跳出历史兴衰周期率，实现长期执政？对于毛泽东与著名教育家黄炎培之间这场著名的“窑洞对”，毛泽东给出了第一个答案——让人民监督政府。习近平多次引用这段对话，警示执政党面临的复杂长期风险，并补充了第二个答案：党必须进行自我革新。这两个答案——外部人民监督与内部自我革新——从根本上相互交织，正如习近平在2022年中央纪委全会上进一步阐述的那样。"
         },
         {
-          "en": "Benefiting from the sound business environment and efficient {{9}} channels in the high-tech zone of Tianjin Binhai New Area, nearly 20 upstream and downstream enterprises have gathered in the zone, forming a complete industrial cluster covering hardware R&D, software development and system integration. Tiankai Suishi (Tianjin) Intelligent Technology Co — a key enterprise {{10}} by the laboratory and founded in 2023 — has developed BCI-based medical devices and treatment solutions that are now available at dozens of hospitals across more than 10 provincial-level regions nationwide, said Gu Bin, general manager of the company. One noteworthy clinical case involves a stroke patient with {{11}} on the right side of the body. During BCI {{12}} training, the system captured the patient's motor imagery to operate rehab equipment. After treatment, the patient could turn over independently, and basic motor function has been restored in the right leg.",
-          "cn": "得益于天津滨海新区高新区的良好营商环境和高效商业化渠道，近20家上下游企业已聚集在该区，形成了覆盖硬件研发、软件开发与系统集成的完整产业集群。天津开合（天津）智能科技有限公司总经理顾斌表示，该公司是实验室孵化的重点企业，成立于2023年，已开发出基于脑机接口的医疗设备和治疗方案，目前在全国10多个省级行政区的数十家医院投入使用。一个值得注意的临床案例涉及一名右侧身体瘫痪的中风患者。在脑机接口康复训练中，系统捕捉患者的运动想象来操作康复设备。治疗后，患者能够独立翻身，右腿的基本运动功能也已恢复。"
+          "en": "\"Over the past 100 years, the Party has ensured its lasting vitality and robust growth by relying on developing people's democracy and accepting public {{10}} from outside the Party, and on strengthening self-governance and self-reform within the Party,\" he said. In short, Xi likens self-reform to \"using a surgical knife to eliminate the Party's {{11}}.\"\n\"The Party is great not because it never makes mistakes, but because it always owns up to its errors and has the courage to {{12}} problems and reform itself,\" he said. How the CPC keeps reforming itself\nWhile there are over 6,000 political parties worldwide, more than 60 of which have existed for more than a century, a defining feature that {{13}} the CPC from others lies in its courage in {{14}} self-reform. In Xi's view, an important reason why the Party remains so vital and {{15}} despite having undergone so many trials and {{16}} is that it practices effective self-supervision and full and rigorous self-governance. The eight-point decision, a set of rules adopted by the Party leadership in December 2012 to address chronic {{17}} issues, including official privileges and {{18}} banquets, has been widely regarded as a turning point in the Party's governance.",
+          "cn": "“百年来，党外靠发展人民民主、接受人民监督，内靠全面从严治党、推进自我革命，勇于坚持真理、修正错误，始终保证党的生机活力、不断发展壮大，”他说。简而言之，习近平将自我革新比作“用手术刀切除党的病灶”。“我们党之所以伟大，不在于不犯错误，而在于从不讳疾忌医，敢于直面问题，勇于自我革命，”他说。中国共产党如何持续自我革新？全球有超过6000个政党，其中60多个存在超过一个世纪，但中国共产党区别于其他政党的一个显著特征在于其勇于自我革新的勇气。在习近平看来，党历经磨难而依然充满活力的一个重要原因，在于它实行有效的自我监督和全面从严治党。2012年12月党中央通过的“八项规定”，旨在解决包括官员特权、铺张浪费在内的长期官僚主义问题，被广泛视为党治理的转折点。"
         },
         {
-          "en": "The technology reconnects human thoughts and physical movements, enabling paralyzed limbs to move under the patient's own commands rather than external assistance. Gu said BCI delivers value across multiple scenarios. In mental health, it supports screening and treatment for depression. In critical care, it enables rapid diagnosis for conditions such as hydrocephalus — the abnormal buildup of cerebrospinal fluid. For hearing rehabilitation, BCI-powered cochlear implants help children with hearing {{13}} not only hear sounds, but also understand language and achieve healthy physical and mental development.",
-          "cn": "该技术重新连接了人类的思维和身体运动，使瘫痪的肢体能够在患者自身指令下移动，而非依赖外部辅助。顾斌表示，脑机接口在多个场景中都能创造价值。在心理健康领域，它支持抑郁症的筛查和治疗。在重症监护中，它能实现对脑积水等疾病的快速诊断。在听力康复方面，基于脑机接口的人工耳蜗帮助听力受损儿童不仅能听到声音，还能理解语言，实现身心健康发育。"
+          "en": "In 2025, for example, national disciplinary inspection authorities investigated 150,000 cases involving {{19}} and extravagance, plus 141,000 cases of {{20}} and bureaucracy, and 376,000 people received disciplinary {{21}} for violating work style rules. Such tangible outcomes have won wide public recognition. A 2025 national survey by China's National Bureau of Statistics showed that 95.5% of respondents affirmed the effective implementation of the eight-point decision, while 92.2% were satisfied with improved Party and government conduct, which has driven better social morals. To address corruption, which Xi called \"the most significant threat\" to the long-term governance of the Party, the CPC has also launched an {{22}} anti-corruption campaign. The anti-graft campaign has maintained its {{23}} momentum, targeting officials at every level, from low-level \"flies\" to high-ranking \"tigers,\" while advancing efforts to {{24}} fugitives and recover misappropriated funds in \"fox hunting\" operations.",
+          "cn": "例如，2025年全国纪检监察机关共查处享乐主义、奢靡之风问题15万起，形式主义、官僚主义问题14.1万起，37.6万人因违反工作作风规定受到纪律处分。这些实实在在的成果赢得了广泛公众认可。2025年国家统计局全国调查显示，95.5%的受访者肯定八项规定有效落实，92.2%对党风政风改善表示满意，这带动了社会风气好转。针对习近平称为党长期执政“最大威胁”的腐败问题，党还发起了前所未有的反腐败运动。反腐运动保持高压态势，从基层“苍蝇”到高层“老虎”全面覆盖，同时推进“猎狐”行动，追逃追赃。"
         },
         {
-          "en": "Haihe Lab is located in Huayuan Sci-Tech Park, which is home to around 17 percent of the city's high-tech enterprises. \"Thanks to a {{14}} business environment, a sound innovation ecosystem and efficient channels for translating scientific advances into real products, Huayuan Sci-Tech Park stands out as one of Tianjin's most dynamic hubs for innovation, intellectual property and economic growth,\" said Yang Liu, Party secretary of the high-tech zone of Tianjin Binhai New Area.",
-          "cn": "海河实验室位于华苑科技园，该园区聚集了全市约17%的高新技术企业。天津滨海高新区党委书记杨柳表示：“得益于精简的营商环境、完善的创新生态以及将科学成果转化为实际产品的高效渠道，华苑科技园已成为天津最具活力的创新、知识产权和经济增长中心之一。”"
+          "en": "According to the CCDI, 181 officials registered at and supervised by the CPC Central Committee were investigated last year, 983,000 individuals involved in corruption handed disciplinary or administrative penalties, and 963 corrupt fugitives repatriated to China during the year. The CPC has also stressed that its self-reform will never stop. As Xi has urged, all Party members must bear in mind that full and rigorous self-governance is an unceasing endeavor and that self-reform is a journey to which there is no end.",
+          "cn": "据中央纪委国家监委通报，2025年中央纪委国家监委共查处中央管理干部181人，98.3万人因腐败问题受到党纪政务处分，96.3名腐败外逃人员被追回。党还强调自我革新永无止境。正如习近平所敦促的，全党同志必须牢记，全面从严治党永远在路上，自我革命永远在路上。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "inaugurated",
-          "hint": "v. 启用，成立",
+          "answer": "resilience",
+          "hint": "n. 韧性",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "accelerate",
-          "hint": "v. 加速",
-          "difficulty": "easy"
+          "answer": "philosophy",
+          "hint": "n. 哲学",
+          "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "cultivate",
-          "hint": "v. 培育，培养",
+          "answer": "significance",
+          "hint": "n. 意义",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "competitive",
-          "hint": "adj. 有竞争力的",
+          "answer": "survive",
+          "hint": "v. 生存",
           "difficulty": "easy"
         },
         {
           "id": 4,
-          "answer": "extensive",
-          "hint": "adj. 广泛的，大规模的",
+          "answer": "maintaining",
+          "hint": "v. 维持",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "arena",
-          "hint": "n. 领域，舞台",
+          "answer": "defy",
+          "hint": "v. 挑战",
           "difficulty": "hard"
         },
         {
           "id": 6,
-          "answer": "portfolio",
-          "hint": "n. 组合，系列",
-          "difficulty": "hard"
+          "answer": "cycle",
+          "hint": "n. 周期",
+          "difficulty": "easy"
         },
         {
           "id": 7,
-          "answer": "spanning",
-          "hint": "v. 跨越，涵盖",
+          "answer": "sustain",
+          "hint": "v. 维持",
           "difficulty": "medium"
         },
         {
           "id": 8,
+          "answer": "supervision",
+          "hint": "n. 监督",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "intertwined",
+          "hint": "adj. 交织的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "scrutiny",
+          "hint": "n. 审查",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "ailments",
+          "hint": "n. 疾病",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "confront",
+          "hint": "v. 面对",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "distinguishes",
+          "hint": "v. 区分",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "undertaking",
+          "hint": "n. 事业",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "vibrant",
+          "hint": "adj. 充满活力的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "tribulations",
+          "hint": "n. 磨难",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "bureaucratic",
+          "hint": "adj. 官僚的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "extravagant",
+          "hint": "adj. 奢侈的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "hedonism",
+          "hint": "n. 享乐主义",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "formalism",
+          "hint": "n. 形式主义",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "penalties",
+          "hint": "n. 处罚",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "unprecedented",
+          "hint": "adj. 前所未有的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "relentless",
+          "hint": "adj. 不懈的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "repatriate",
+          "hint": "v. 遣返",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": ", Updated 11:09, 17-Jun-2026Editor's Note: As the Communist Party of China (CPC) approaches the 105th anniversary of its founding, on July 1, CGTN presents \"How the Communist Party of China Works,\" a special series of in-depth news analyses. This series offers a systematic analysis of the CPC's sustained effectiveness, examining its institutional resilience, people-centered philosophy, and global significance.\nFile photo of the Museum of the Communist Party of China in Beijing, China. \nThis year marks the 105th anniversary of the founding of the Communist Party of China (CPC), the world's largest ruling party with more than 100 million members.\nWhat has enabled a political party that started with only about 50 members in 1921 to not only survive but also succeed in maintaining long-term governance vitality despite fast-changing domestic and global challenges?\nTo that question, Chinese President Xi Jinping, also general secretary of the CPC Central Committee, has offered and acted on a new answer: self-reform of the Party.\nHow to defy the rise-and-fall cycle\nIn his 2026 New Year message, Xi revisited a question first posed about 80 years ago in a cave dwelling in Yan'an, the CPC's former revolutionary base: how to escape the historical cycle of rise and fall and sustain long-term governance.\nTo this well-known \"cave-dwelling conversation\" between Mao Zedong and acclaimed educationist Huang Yanpei, Mao had offered the first answer – placing the government under the supervision of the people.\nXi, who has repeatedly quoted the dialogue as a warning of the complicated and long-term risks faced by the governing CPC, added a second answer: The Party must carry on its self-reform.\nThese two answers, external oversight by the people and internal self-reform, are fundamentally intertwined, as Xi further explained at a plenary session of the CPC Central Commission for Discipline Inspection (CCDI) back in 2022.\n\"Over the past 100 years, the Party has ensured its lasting vitality and robust growth by relying on developing people's democracy and accepting public scrutiny from outside the Party, and on strengthening self-governance and self-reform within the Party,\" he said.\nIn short, Xi likens self-reform to \"using a surgical knife to eliminate the Party's ailments.\"\n\"The Party is great not because it never makes mistakes, but because it always owns up to its errors and has the courage to confront problems and reform itself,\" he said.\nHow the CPC keeps reforming itself\nWhile there are over 6,000 political parties worldwide, more than 60 of which have existed for more than a century, a defining feature that distinguishes the CPC from others lies in its courage in undertaking self-reform.\nIn Xi's view, an important reason why the Party remains so vital and vibrant despite having undergone so many trials and tribulations is that it practices effective self-supervision and full and rigorous self-governance.\nThe eight-point decision, a set of rules adopted by the Party leadership in December 2012 to address chronic bureaucratic issues, including official privileges and extravagant banquets, has been widely regarded as a turning point in the Party's governance.\nIn 2025, for example, national disciplinary inspection authorities investigated 150,000 cases involving hedonism and extravagance, plus 141,000 cases of formalism and bureaucracy, and 376,000 people received disciplinary penalties for violating work style rules.\nSuch tangible outcomes have won wide public recognition. A 2025 national survey by China's National Bureau of Statistics showed that 95.5% of respondents affirmed the effective implementation of the eight-point decision, while 92.2% were satisfied with improved Party and government conduct, which has driven better social morals.\nTo address corruption, which Xi called \"the most significant threat\" to the long-term governance of the Party, the CPC has also launched an unprecedented anti-corruption campaign.\nThe anti-graft campaign has maintained its relentless momentum, targeting officials at every level, from low-level \"flies\" to high-ranking \"tigers,\" while advancing efforts to repatriate fugitives and recover misappropriated funds in \"fox hunting\" operations.\nAccording to the CCDI, 181 officials registered at and supervised by the CPC Central Committee were investigated last year, 983,000 individuals involved in corruption handed disciplinary or administrative penalties, and 963 corrupt fugitives repatriated to China during the year.\nThe CPC has also stressed that its self-reform will never stop. As Xi has urged, all Party members must bear in mind that full and rigorous self-governance is an unceasing endeavor and that self-reform is a journey to which there is no end.",
+      "fullTextCn": "编者按：随着中国共产党即将在7月1日迎来成立105周年，中国国际电视台推出《中国共产党如何运作》系列深度新闻分析。本系列系统分析了中国共产党的持续有效性，考察其制度韧性、以人民为中心的哲学思想及全球意义。图为中国共产党历史博物馆资料照片。今年是中国共产党成立105周年，作为拥有超过1亿党员的世界最大执政党，是什么让一个1921年仅有约50名成员的政党，在国内外快速变化的挑战中不仅生存下来，而且成功保持了长期执政活力？\n\n对于这个问题，中共中央总书记、国家主席习近平提出并践行了一个新答案：党的自我革新。如何打破兴衰周期？在2026年新年贺词中，习近平重提了约80年前在延安窑洞中首次提出的问题：如何跳出历史兴衰周期率，实现长期执政？对于毛泽东与著名教育家黄炎培之间这场著名的“窑洞对”，毛泽东给出了第一个答案——让人民监督政府。习近平多次引用这段对话，警示执政党面临的复杂长期风险，并补充了第二个答案：党必须进行自我革新。这两个答案——外部人民监督与内部自我革新——从根本上相互交织，正如习近平在2022年中央纪委全会上进一步阐述的那样。\n\n“百年来，党外靠发展人民民主、接受人民监督，内靠全面从严治党、推进自我革命，勇于坚持真理、修正错误，始终保证党的生机活力、不断发展壮大，”他说。简而言之，习近平将自我革新比作“用手术刀切除党的病灶”。“我们党之所以伟大，不在于不犯错误，而在于从不讳疾忌医，敢于直面问题，勇于自我革命，”他说。中国共产党如何持续自我革新？全球有超过6000个政党，其中60多个存在超过一个世纪，但中国共产党区别于其他政党的一个显著特征在于其勇于自我革新的勇气。在习近平看来，党历经磨难而依然充满活力的一个重要原因，在于它实行有效的自我监督和全面从严治党。2012年12月党中央通过的“八项规定”，旨在解决包括官员特权、铺张浪费在内的长期官僚主义问题，被广泛视为党治理的转折点。\n\n例如，2025年全国纪检监察机关共查处享乐主义、奢靡之风问题15万起，形式主义、官僚主义问题14.1万起，37.6万人因违反工作作风规定受到纪律处分。这些实实在在的成果赢得了广泛公众认可。2025年国家统计局全国调查显示，95.5%的受访者肯定八项规定有效落实，92.2%对党风政风改善表示满意，这带动了社会风气好转。针对习近平称为党长期执政“最大威胁”的腐败问题，党还发起了前所未有的反腐败运动。反腐运动保持高压态势，从基层“苍蝇”到高层“老虎”全面覆盖，同时推进“猎狐”行动，追逃追赃。\n\n据中央纪委国家监委通报，2025年中央纪委国家监委共查处中央管理干部181人，98.3万人因腐败问题受到党纪政务处分，96.3名腐败外逃人员被追回。党还强调自我革新永无止境。正如习近平所敦促的，全党同志必须牢记，全面从严治党永远在路上，自我革命永远在路上。"
+    },
+    {
+      "id": 4,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-06-17/detail-ihffptmh9484439.shtml",
+      "title": "Amazed by China's 'green project', South Korea netizens say anti-China critics are the frogs in well",
+      "titleCn": "韩国网友惊叹中国“绿色工程”，称反华批评者是井底之蛙",
+      "summary": "South Korean netizens praised China's \"Three-North Shelterbelt Forest Program\" after public broadcaster KBS aired a feature titled \"China Builds a 'Green Great Wall' to Battle Desertification.\"",
+      "summaryCn": "韩国网友在观看KBS关于中国“三北防护林”工程的报道后，盛赞这一绿色长城，并批评反华媒体和评论者如同井底之蛙。",
+      "wordCount": 576,
+      "paragraphs": [
+        {
+          "en": "(ECNS) -- South Korean netizens praised China's \"Three-North Shelterbelt Forest Program\" after public broadcaster KBS aired a {{0}} titled \"China Builds a 'Green Great Wall' to Battle Desertification.\"\n\"Brilliant job, China!\" \"This is the Green Great Wall!\" they said. The program described how China is building another \"Great Wall\" — not of stone, but of trees. The Three-North Shelterbelt Forest Program has raised forest {{2}} in northern regions from about 5% nearly 50 years ago to nearly 14% today. KBS detailed how the Three-North Shelterbelt Forest Program successfully deployed {{3}} to hold back the {{4}} sands and highlighted the {{5}} role solar panels play in creating conditions for desert plants to grow, and how the innovative {{6}} of photovoltaics and desert control has further {{7}} re-greening efforts. By {{8}} the ground from fierce winds and slashing moisture {{9}}, these solar arrays have cultivated an ideal {{10}} for desert flora to thrive.",
+          "cn": "（中新网）——韩国公共广播公司KBS播出了一期题为《中国建造“绿色长城”抗击沙漠化》的专题节目后，韩国网友纷纷称赞中国的“三北防护林工程”。“干得漂亮，中国！”“这就是绿色长城！”他们说道。该节目描述了中国如何建造另一座“长城”——不是用石头，而是用树木。三北防护林工程将北方地区的森林覆盖率从近50年前的约5%提高到如今的近14%。KBS详细介绍了三北防护林工程如何成功利用植被阻挡流沙侵蚀，并强调了太阳能电池板在为沙漠植物生长创造条件方面所起的关键作用，以及光伏与治沙的创新融合如何进一步加速了复绿进程。通过遮挡强风、减少水分蒸发，这些太阳能阵列营造了适合沙漠植物繁茂生长的理想微气候。"
+        },
+        {
+          "en": "Across YouTube and NAVER, the story sparked waves of enthusiasm. A South Korean user said: \"A Great Wall made of trees? Strongest support imaginable!\"\nAnother netizen cheered: \"China is doing an incredible job! Keep it up!\"\nOther netizens noted the project began decades ago but {{11}}, anti-China Western media outlets deliberately failed to report it. They said \"China is the only country on Earth running a nationwide {{12}} campaign to stop {{1}}.",
+          "cn": "在YouTube和NAVER上，这个故事引发了热烈的反响。一位韩国用户说：“用树木建造的长城？这是最有力的支持！”另一位网友欢呼道：“中国做得太棒了！继续加油！”其他网友指出，这个项目几十年前就开始了，但有偏见的反华西方媒体故意不报道。他们说：“中国是地球上唯一一个开展全国性植树造林运动来阻止沙漠化的国家。”"
+        },
+        {
+          "en": "This isn't just a win for China; it's a massive favor to the global environment.\"\n\"Those who spend all day {{13}} and {{14}} on against China are the real 'frogs in a well'.\"\nSeveral netizens recalled that 18 years ago, South Korea's variety show Infinite Challenge had introduced the Three-North Shelterbelt Forest Program to domestic audiences. In a special episode anchored by South Korea's \"Nation's MC\" Yoo Jae-suk, which was aired in 2008, cast members trekked into China's Kubuqi Desert in Inner Mongolia to participate in tree-planting and sand-control efforts. The episode captured China's desert-control efforts, but many netizens {{15}} that domestic media offered few updates in the years since. Consequently, even after15 years, the vast majority of the South Korean public remains totally in the dark about this world-class ecological wonder. In truth, the Chinese practices have long received high {{16}} from the international community.",
+          "cn": "“这不仅是中国的胜利，也是对全球环境的巨大贡献。”“那些整天抱怨、喋喋不休反对中国的人才是真正的‘井底之蛙’。”几位网友回忆说，18年前，韩国的综艺节目《无限挑战》曾向国内观众介绍过三北防护林工程。在2008年播出的一期由韩国“国民MC”刘在石主持的特辑中，成员们前往中国内蒙古的库布其沙漠参与植树和治沙工作。这期节目记录了中国治沙的努力，但许多网友感叹，此后多年国内媒体鲜有更新。因此，即使过了15年，绝大多数韩国民众仍然对这个世界级的生态奇迹一无所知。事实上，中国的做法早已获得国际社会的高度赞誉。"
+        },
+        {
+          "en": "The Secretariat of the United Nations Convention to Combat Desertification has praised the project, saying \"the world looks to China for desertification control,\" and has twice honored China with its Outstanding Contribution Award. International financial institutions have noted in their evaluation reports that the Three-North Shelterbelt project combines ecological restoration with poverty {{17}}, creating a \"green economic {{18}}.\"\nComparisons were drawn with other nations' efforts. In the 1930s, the U.S. government launched the ambitious \"Roosevelt Great Plains Shelterbelt\" in response to the Dust Bowl, but funding cuts and shifting politics left much of the plan unfinished: nearly two-thirds of the promised thousand-mile green belt evaporated, and desertification bounced back with a vengeance in several areas. European countries such as Germany, France, and the UK have relied more on legislation to preserve existing forests.",
+          "cn": "《联合国防治荒漠化公约》秘书处赞扬了该项目，称“世界期待中国在防治荒漠化方面发挥引领作用”，并两次授予中国“杰出贡献奖”。国际金融机构在其评估报告中指出，三北防护林工程将生态恢复与扶贫相结合，创建了“绿色经济走廊”。与其他国家的努力进行了比较。20世纪30年代，美国政府为应对沙尘暴启动了雄心勃勃的“罗斯福大平原防护林”计划，但由于资金削减和政治变动，大部分计划未能完成：承诺的千里绿色林带近三分之二消失，沙漠化在多个地区卷土重来。德国、法国、英国等欧洲国家更多依赖立法来保护现有森林。"
+        },
+        {
+          "en": "Meanwhile, in East Asia, Japan's forestry strategy has focused on water conservation and disaster mitigation. By stark contrast, the Three-North Shelterbelt Forest Program has sought to create forests in arid wastelands and severe Gobi deserts, a scale of ecological engineering that observers say is rare globally. For many South Korean netizens, those who spend their lives trying to {{19}} China are the ones trapped at the bottom of a very dark, very narrow well.",
+          "cn": "与此同时，在东亚，日本的林业战略侧重于水资源保护和减灾。与此形成鲜明对比的是，三北防护林工程旨在干旱荒地和严峻的戈壁沙漠中创造森林，观察人士称这种规模的生态工程在全球范围内都很少见。对于许多韩国网友来说，那些一生都在试图诋毁中国的人，正是被困在又黑又窄的井底的人。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "feature",
+          "hint": "n. 专题节目",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "desertification",
+          "hint": "n. 沙漠化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 2,
+          "answer": "coverage",
+          "hint": "n. 覆盖率",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "vegetation",
+          "hint": "n. 植被",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "encroaching",
+          "hint": "adj. 侵蚀的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "pivotal",
+          "hint": "adj. 关键的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "integration",
+          "hint": "n. 整合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "accelerated",
+          "hint": "v. 加速",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "shielding",
+          "hint": "v. 遮挡",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "evaporation",
+          "hint": "n. 蒸发",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "microclimate",
+          "hint": "n. 微气候",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "biased",
+          "hint": "adj. 有偏见的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "afforestation",
+          "hint": "n. 植树造林",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "whining",
+          "hint": "v. 抱怨",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "rattling",
+          "hint": "v. 喋喋不休",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "lamented",
+          "hint": "v. 感叹",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "acclaim",
+          "hint": "n. 赞誉",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "alleviation",
+          "hint": "n. 缓解",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "corridor",
+          "hint": "n. 走廊",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
+          "answer": "defame",
+          "hint": "v. 诋毁",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "(ECNS) -- South Korean netizens praised China's \"Three-North Shelterbelt Forest Program\" after public broadcaster KBS aired a feature titled \"China Builds a 'Green Great Wall' to Battle Desertification.\"\n\"Brilliant job, China!\" \"This is the Green Great Wall!\" they said.\nThe program described how China is building another \"Great Wall\" — not of stone, but of trees.\nThe Three-North Shelterbelt Forest Program has raised forest coverage in northern regions from about 5% nearly 50 years ago to nearly 14% today.\nKBS detailed how the Three-North Shelterbelt Forest Program successfully deployed vegetation to hold back the encroaching sands and highlighted the pivotal role solar panels play in creating conditions for desert plants to grow, and how the innovative integration of photovoltaics and desert control has further accelerated re-greening efforts.\nBy shielding the ground from fierce winds and slashing moisture evaporation, these solar arrays have cultivated an ideal microclimate for desert flora to thrive.\nAcross YouTube and NAVER, the story sparked waves of enthusiasm. A South Korean user said: \"A Great Wall made of trees? Strongest support imaginable!\"\nAnother netizen cheered: \"China is doing an incredible job! Keep it up!\"\nOther netizens noted the project began decades ago but biased, anti-China Western media outlets deliberately failed to report it.\nThey said \"China is the only country on Earth running a nationwide afforestation campaign to stop desertification. This isn't just a win for China; it's a massive favor to the global environment.\"\n\"Those who spend all day whining and rattling on against China are the real 'frogs in a well'.\"\nSeveral netizens recalled that 18 years ago, South Korea's variety show Infinite Challenge had introduced the Three-North Shelterbelt Forest Program to domestic audiences.\nIn a special episode anchored by South Korea's \"Nation's MC\" Yoo Jae-suk, which was aired in 2008, cast members trekked into China's Kubuqi Desert in Inner Mongolia to participate in tree-planting and sand-control efforts.\nThe episode captured China's desert-control efforts, but many netizens lamented that domestic media offered few updates in the years since.\nConsequently, even after15 years, the vast majority of the South Korean public remains totally in the dark about this world-class ecological wonder.\nIn truth, the Chinese practices have long received high acclaim from the international community.\nThe Secretariat of the United Nations Convention to Combat Desertification has praised the project, saying \"the world looks to China for desertification control,\" and has twice honored China with its Outstanding Contribution Award.\nInternational financial institutions have noted in their evaluation reports that the Three-North Shelterbelt project combines ecological restoration with poverty alleviation, creating a \"green economic corridor.\"\nComparisons were drawn with other nations' efforts.\nIn the 1930s, the U.S. government launched the ambitious \"Roosevelt Great Plains Shelterbelt\" in response to the Dust Bowl, but funding cuts and shifting politics left much of the plan unfinished: nearly two-thirds of the promised thousand-mile green belt evaporated, and desertification bounced back with a vengeance in several areas.\nEuropean countries such as Germany, France, and the UK have relied more on legislation to preserve existing forests.\nMeanwhile, in East Asia, Japan's forestry strategy has focused on water conservation and disaster mitigation.\nBy stark contrast, the Three-North Shelterbelt Forest Program has sought to create forests in arid wastelands and severe Gobi deserts, a scale of ecological engineering that observers say is rare globally.\nFor many South Korean netizens, those who spend their lives trying to defame China are the ones trapped at the bottom of a very dark, very narrow well.",
+      "fullTextCn": "（中新网）——韩国公共广播公司KBS播出了一期题为《中国建造“绿色长城”抗击沙漠化》的专题节目后，韩国网友纷纷称赞中国的“三北防护林工程”。“干得漂亮，中国！”“这就是绿色长城！”他们说道。该节目描述了中国如何建造另一座“长城”——不是用石头，而是用树木。三北防护林工程将北方地区的森林覆盖率从近50年前的约5%提高到如今的近14%。KBS详细介绍了三北防护林工程如何成功利用植被阻挡流沙侵蚀，并强调了太阳能电池板在为沙漠植物生长创造条件方面所起的关键作用，以及光伏与治沙的创新融合如何进一步加速了复绿进程。通过遮挡强风、减少水分蒸发，这些太阳能阵列营造了适合沙漠植物繁茂生长的理想微气候。\n\n在YouTube和NAVER上，这个故事引发了热烈的反响。一位韩国用户说：“用树木建造的长城？这是最有力的支持！”另一位网友欢呼道：“中国做得太棒了！继续加油！”其他网友指出，这个项目几十年前就开始了，但有偏见的反华西方媒体故意不报道。他们说：“中国是地球上唯一一个开展全国性植树造林运动来阻止沙漠化的国家。”\n\n“这不仅是中国的胜利，也是对全球环境的巨大贡献。”“那些整天抱怨、喋喋不休反对中国的人才是真正的‘井底之蛙’。”几位网友回忆说，18年前，韩国的综艺节目《无限挑战》曾向国内观众介绍过三北防护林工程。在2008年播出的一期由韩国“国民MC”刘在石主持的特辑中，成员们前往中国内蒙古的库布其沙漠参与植树和治沙工作。这期节目记录了中国治沙的努力，但许多网友感叹，此后多年国内媒体鲜有更新。因此，即使过了15年，绝大多数韩国民众仍然对这个世界级的生态奇迹一无所知。事实上，中国的做法早已获得国际社会的高度赞誉。\n\n《联合国防治荒漠化公约》秘书处赞扬了该项目，称“世界期待中国在防治荒漠化方面发挥引领作用”，并两次授予中国“杰出贡献奖”。国际金融机构在其评估报告中指出，三北防护林工程将生态恢复与扶贫相结合，创建了“绿色经济走廊”。与其他国家的努力进行了比较。20世纪30年代，美国政府为应对沙尘暴启动了雄心勃勃的“罗斯福大平原防护林”计划，但由于资金削减和政治变动，大部分计划未能完成：承诺的千里绿色林带近三分之二消失，沙漠化在多个地区卷土重来。德国、法国、英国等欧洲国家更多依赖立法来保护现有森林。\n\n与此同时，在东亚，日本的林业战略侧重于水资源保护和减灾。与此形成鲜明对比的是，三北防护林工程旨在干旱荒地和严峻的戈壁沙漠中创造森林，观察人士称这种规模的生态工程在全球范围内都很少见。对于许多韩国网友来说，那些一生都在试图诋毁中国的人，正是被困在又黑又窄的井底的人。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/business/2026-06-17/detail-ihffptmh9484528.shtml",
+      "title": "China-ROK cooperation bolsters fishery resources",
+      "titleCn": "中韩合作助力渔业资源恢复",
+      "summary": "China and the Republic of Korea carried out their seventh annual joint fish stock enhancement and release campaign in the Yellow Sea on Tuesday, releasing a total of 7.29 million juveniles of important commercial species into waters that have long sustained fishing communities in both countries.",
+      "summaryCn": "中韩在黄海开展第七次联合渔业资源增殖放流活动，投放729万尾重要商业鱼种，促进渔业资源恢复和渔民增收。",
+      "wordCount": 552,
+      "paragraphs": [
+        {
+          "en": "China and the Republic of Korea {{1}} out their seventh annual joint fish stock {{2}} and {{3}} campaign in the Yellow Sea on Tuesday, releasing a total of 7.29 million {{4}} of important {{5}} {{6}} into waters that have long sustained fishing communities in both countries. The ROK released 4.29 million fry and juveniles of small yellow croaker, red seabream and swimming crab off Incheon, while China simultaneously released 3 million juveniles of greenfin horse-faced filefish, swimming crab and blackhead seabream off Yantai, Shandong province. The campaign is based on a {{7}} reached at the 16th session of the {{8}} fisheries joint committee in 2016. The event, which began in 2018, has released more than 18.75 million fry and juveniles into the Yellow Sea, contributing to the {{9}} of commercially valuable fish stocks, improvement of the marine {{10}} and higher incomes for fishermen from both countries, official data showed. The cooperation is {{11}} in the China-ROK Fisheries Agreement signed in 2000.",
+          "cn": "中国和韩国于周二在黄海开展了第七次年度联合渔业资源增殖放流活动，共向长期以来支撑两国渔业社区的水域投放了729万尾重要商业鱼种的幼鱼。韩国在仁川附近海域投放了429万尾小黄鱼、真鲷和三疣梭子蟹的鱼苗和幼鱼，而中国同时在山东烟台附近海域投放了300万尾绿鳍马面鲀、三疣梭子蟹和黑鲷的幼鱼。该活动基于2016年双边渔业联合委员会第十六次会议达成的共识。官方数据显示，自2018年开始的这一活动已向黄海投放超过1875万尾鱼苗和幼鱼，有助于恢复具有商业价值的鱼类种群、改善海洋生态系统并提高两国渔民收入。这一合作基于2000年签署的《中韩渔业协定》。"
+        },
+        {
+          "en": "Over the years, the two sides have {{12}} collaboration in catch management, resource {{13}}, scientific research and joint law enforcement. China has released more than 67.7 billion fry and juveniles of various aquatic species into the Bohai and Yellow seas. The Yellow Sea serves as a vital fishing ground for both countries, with many commercially important species showing distinct seasonal migration patterns, according to the Chinese Academy of Fishery Sciences' Yellow Sea Fisheries Research Institute. Since 2010, China and the ROK have conducted joint fisheries resource {{14}}, typically four times a year on a quarterly basis, with each side carrying out two cruises. The surveys involve mutual vessel boardings and data sharing to monitor stock {{15}} and inform conservation decisions, the institute said.",
+          "cn": "多年来，双方在捕捞管理、资源养护、科学研究和联合执法方面扩大了合作。中国已向渤海和黄海投放了超过677亿尾各类水生物种的鱼苗和幼鱼。据中国水产科学研究院黄海水产研究所介绍，黄海是两国重要的渔场，许多重要商业物种表现出明显的季节性洄游模式。自2010年以来，中韩两国开展了联合渔业资源调查，通常每季度进行四次，双方各执行两次航次。该研究所表示，调查涉及相互登船和数据共享，以监测种群波动并为养护决策提供信息。"
+        },
+        {
+          "en": "These fish {{16}}, nurse and feed in the inshore waters of China's Bohai and Yellow seas during warmer months, then {{17}} toward the central and southern Yellow Sea for wintering as water temperatures drop, the institute said. This migratory pattern, together with the long-established fishing practices of both countries, means that the {{18}} management of Yellow Sea fisheries requires joint efforts, the institute added. Qu Jiangbo, general manager of the Tianyuan Aquatic Products Co, said the company supplied greenfin horse-faced filefish for this year's release campaign. The fry and juveniles were produced using controlled temperature and water quality breeding {{19}}, using wild-caught, disease-free brood-stock with high genetic diversity. Before release, the juveniles undergo strict {{20}} and drug residue testing.",
+          "cn": "该研究所表示，这些鱼类在温暖月份在中国渤海和黄海的近岸水域产卵、育幼和摄食，然后随着水温下降向黄海中部和南部洄游越冬。该研究所补充说，这种洄游模式加上两国长期形成的捕捞习惯，意味着黄海渔业的可持续管理需要双方共同努力。天源水产有限公司总经理曲江波表示，该公司为今年的放流活动提供了绿鳍马面鲀鱼苗。这些鱼苗和幼鱼采用控温和控水质的繁育技术生产，使用野生捕获、无病且遗传多样性高的亲本。放流前，幼鱼需经过严格的检疫和药物残留检测。"
+        },
+        {
+          "en": "Only those passing tests for 11 prohibited substances receive official {{21}} for release, Qu said. The company has invested 130 million yuan ($19 million) in a live {{22}} bank for marine fish in northern China, which is expected to be fully operational before this year-end to preserve and utilize fishery genetic resources, he said. Fishermen have also witnessed {{23}} benefits. Cui Gang, a local fisherman for almost 20 years, said that over the past five to six years, he has seen larger catches of greenfin horse-faced filefish, with rare red seabream occasionally appearing. \"The proportion of small mixed fish has declined, while commercially valuable species are larger and yields have stabilized,\" Cui said.",
+          "cn": "曲江波说，只有通过11种禁用物质检测的幼鱼才能获得放流官方认证。他表示，该公司已投资1.3亿元人民币（约1900万美元）在中国北方建设一个海洋鱼类活体种质资源库，预计今年年底前全面投入使用，以保护和利用渔业遗传资源。渔民们也看到了实实在在的好处。从事渔业近20年的当地渔民崔刚表示，过去五六年里，他捕捞到的绿鳍马面鲀数量增多，偶尔还能见到罕见的真鲷。崔刚说：“小杂鱼的比例下降了，而有商业价值的鱼种个头更大，产量也更稳定了。”"
+        },
+        {
+          "en": "On the joint China-ROK fish stock enhancement and release effort, Cui said, \"The sea has no borders, and neither do fish. If both sides take good care of these waters, we fishermen will have a future.\"",
+          "cn": "谈到中韩联合渔业资源增殖放流工作，崔刚说：“大海没有边界，鱼也没有。如果双方都好好养护这片水域，我们渔民就有未来。”"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "carried",
+          "hint": "v. 执行，进行",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "enhancement",
+          "hint": "n. 增强，提高",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "release",
+          "hint": "v. 释放，投放",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "juveniles",
+          "hint": "n. 幼鱼，幼体",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "commercial",
+          "hint": "adj. 商业的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "species",
+          "hint": "n. 物种",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "consensus",
+          "hint": "n. 共识，一致意见",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "bilateral",
+          "hint": "adj. 双边的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "recovery",
+          "hint": "n. 恢复，复苏",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
           "answer": "ecosystem",
           "hint": "n. 生态系统",
           "difficulty": "medium"
         },
         {
-          "id": 9,
-          "answer": "commercialization",
-          "hint": "n. 商业化",
-          "difficulty": "hard"
-        },
-        {
           "id": 10,
-          "answer": "incubated",
-          "hint": "v. 孵化，培育",
+          "answer": "grounded",
+          "hint": "v. 基于，以...为基础",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "paralysis",
-          "hint": "n. 瘫痪",
-          "difficulty": "medium"
+          "answer": "expanded",
+          "hint": "v. 扩大，扩展",
+          "difficulty": "easy"
         },
         {
           "id": 12,
-          "answer": "rehabilitation",
-          "hint": "n. 康复，恢复",
+          "answer": "conservation",
+          "hint": "n. 保护，养护",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "impairments",
-          "hint": "n. 损伤，障碍",
-          "difficulty": "hard"
+          "answer": "surveys",
+          "hint": "n. 调查，勘测",
+          "difficulty": "easy"
         },
         {
           "id": 14,
-          "answer": "streamlined",
-          "hint": "adj. 精简的，高效的",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "A dedicated industrial cluster for brain-computer interface was recently inaugurated in Tianjin, which will greatly accelerate the large-scale industrial application of research achievements in noninvasive BCI technologies, experts said.\nTianjin recently released the action plan for promoting innovative development of brain-computer interface (2026-30). The document sets a goal to cultivate 50 competitive innovative enterprises by 2027 and expand the large-scale use of BCI products in healthcare, education, advanced manufacturing and other sectors.\nUnder the blueprint, Tianjin will build an industrial fund group worth over 10 billion yuan ($1.48 billion) by 2030, and push more than 10 types of noninvasive BCI products into extensive clinical use. \"BCI has become a core arena for global technological competition, as major countries are striving to build their own technological competitiveness,\" said Ni Guangjian, executive deputy director of the Haihe Laboratory of Brain-Computer Interaction and Human-Machine Integration.\nThe laboratory holds three world records and manages the world's largest patent portfolio in the field. He said Tianjin's noninvasive BCI technology has reached world-class standards, thanks to a full industrial chain spanning research and development to real-world applications — built up over the past decade.\n\"Tianjin's unique strength lies in its complete industrial ecosystem, covering every link from electrodes, algorithms and core chips to system integration and application demonstration,\" Ni added.\nThe city also boasts top-tier talent reserves. Back in 2024, Tianjin University launched the country's first undergraduate academic program dedicated to BCI. Benefiting from the sound business environment and efficient commercialization channels in the high-tech zone of Tianjin Binhai New Area, nearly 20 upstream and downstream enterprises have gathered in the zone, forming a complete industrial cluster covering hardware R&D, software development and system integration.\nTiankai Suishi (Tianjin) Intelligent Technology Co — a key enterprise incubated by the laboratory and founded in 2023 — has developed BCI-based medical devices and treatment solutions that are now available at dozens of hospitals across more than 10 provincial-level regions nationwide, said Gu Bin, general manager of the company.\nOne noteworthy clinical case involves a stroke patient with paralysis on the right side of the body. During BCI rehabilitation training, the system captured the patient's motor imagery to operate rehab equipment.\nAfter treatment, the patient could turn over independently, and basic motor function has been restored in the right leg. The technology reconnects human thoughts and physical movements, enabling paralyzed limbs to move under the patient's own commands rather than external assistance.\nGu said BCI delivers value across multiple scenarios. In mental health, it supports screening and treatment for depression. In critical care, it enables rapid diagnosis for conditions such as hydrocephalus — the abnormal buildup of cerebrospinal fluid.\nFor hearing rehabilitation, BCI-powered cochlear implants help children with hearing impairments not only hear sounds, but also understand language and achieve healthy physical and mental development.\nHaihe Lab is located in Huayuan Sci-Tech Park, which is home to around 17 percent of the city's high-tech enterprises.\n\"Thanks to a streamlined business environment, a sound innovation ecosystem and efficient channels for translating scientific advances into real products, Huayuan Sci-Tech Park stands out as one of Tianjin's most dynamic hubs for innovation, intellectual property and economic growth,\" said Yang Liu, Party secretary of the high-tech zone of Tianjin Binhai New Area.",
-      "fullTextCn": "专家表示，天津近日启用了专门的脑机接口产业集群，这将极大加速非侵入式脑机接口技术研究成果的大规模产业化应用。天津发布了《天津市促进脑机接口创新发展行动方案（2026-2030年）》。该文件设定了到2027年培育50家具有竞争力的创新企业的目标，并扩大脑机接口产品在医疗、教育、先进制造等领域的规模化应用。根据蓝图，天津将在2030年前建成规模超过100亿元人民币的产业基金群，并推动10种以上非侵入式脑机接口产品进入大规模临床应用。海河实验室执行副主任倪广健表示：“脑机接口已成为全球科技竞争的核心领域，主要国家都在努力构建自身的技术竞争力。”\n\n该实验室在该领域拥有三项世界纪录和全球最大的专利组合。他表示，得益于过去十年建立起来的从研发到实际应用的完整产业链，天津的非侵入式脑机接口技术已达到世界一流水平。倪广健补充道：“天津的独特优势在于其完整的产业生态系统，覆盖了从电极、算法、核心芯片到系统集成和应用示范的每一个环节。”该市还拥有顶尖的人才储备。早在2024年，天津大学就开设了国内首个专注于脑机接口的本科专业。\n\n得益于天津滨海新区高新区的良好营商环境和高效商业化渠道，近20家上下游企业已聚集在该区，形成了覆盖硬件研发、软件开发与系统集成的完整产业集群。天津开合（天津）智能科技有限公司总经理顾斌表示，该公司是实验室孵化的重点企业，成立于2023年，已开发出基于脑机接口的医疗设备和治疗方案，目前在全国10多个省级行政区的数十家医院投入使用。一个值得注意的临床案例涉及一名右侧身体瘫痪的中风患者。在脑机接口康复训练中，系统捕捉患者的运动想象来操作康复设备。治疗后，患者能够独立翻身，右腿的基本运动功能也已恢复。\n\n该技术重新连接了人类的思维和身体运动，使瘫痪的肢体能够在患者自身指令下移动，而非依赖外部辅助。顾斌表示，脑机接口在多个场景中都能创造价值。在心理健康领域，它支持抑郁症的筛查和治疗。在重症监护中，它能实现对脑积水等疾病的快速诊断。在听力康复方面，基于脑机接口的人工耳蜗帮助听力受损儿童不仅能听到声音，还能理解语言，实现身心健康发育。\n\n海河实验室位于华苑科技园，该园区聚集了全市约17%的高新技术企业。天津滨海高新区党委书记杨柳表示：“得益于精简的营商环境、完善的创新生态以及将科学成果转化为实际产品的高效渠道，华苑科技园已成为天津最具活力的创新、知识产权和经济增长中心之一。”"
-    },
-    {
-      "id": 4,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-08/China-reports-major-breakthroughs-in-black-soil-conservation-1NOoQZvpxKg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "China reports major breakthroughs in black soil conservation",
-      "titleCn": "中国在黑土保护方面取得重大突破",
-      "summary": "China reports major breakthroughs in black soil conservation",
-      "summaryCn": "中国科学院宣布在黑土保护与利用方面取得一系列重大成果，包括理论突破、技术创新和智能农机研发，为粮食安全和农业可持续发展提供了有力支撑。",
-      "wordCount": 461,
-      "paragraphs": [
-        {
-          "en": "The Chinese Academy of Sciences launched the \"Black Soil Granary\" science and technology {{2}}, bringing together 98 {{3}} nationwide to tackle key challenges in black soil protection. /CMG\nThe Chinese Academy of Sciences (CAS) on Monday announced a series of achievements made over the past five years in black soil {{1}} and {{4}}, including {{5}} {{0}}, technological {{6}}, model development and the research and development of advanced agricultural equipment. In 2021, CAS launched the \"Black Soil Granary\" science and technology initiative, bringing together 98 institutions nationwide to tackle key challenges in black soil protection. The program forms an important part of China's strategy to {{7}} food security through both arable land conservation and technological innovation. After five years of research, the initiative has produced a range of landmark results and established a {{8}} solution {{9}} spanning scientific research, product and equipment development, key technologies, integrated farming models, {{17}} projects and large-scale application.",
-          "cn": "中国科学院周一宣布了过去五年在黑土保护与利用方面取得的一系列成就，包括理论突破、技术创新、模式开发以及先进农业装备的研发。2021年，中国科学院启动了“黑土粮仓”科技攻关项目，联合全国98家机构共同应对黑土保护的关键挑战。该项目是中国通过耕地保护和技术创新保障粮食安全战略的重要组成部分。经过五年的研究，该项目取得了一系列标志性成果，并建立了一个涵盖科学研究、产品与设备开发、关键技术、综合耕作模式、示范项目和大规模应用的全面解决方案框架。"
-        },
-        {
-          "en": "The achievements provide strong scientific support for the {{10}} use of China's black soil resources and national food security. According to Jiang Ming, commander of the initiative, and director of the Northeast Institute of Geography and Agroecology, researchers have identified the major {{11}} trends affecting China's black soil over the past four decades, including thinning topsoil, declining {{12}} and increasing soil {{13}}. The team also uncovered key {{14}} for improving soil fertility, developed technologies for targeted soil degradation control, gully {{15}} restoration, biologically enhanced soil health management and {{16}} agricultural machinery, and established region-specific conservation and utilization models covering major black soil areas. As part of the project, seven core demonstration zones of more than 10,000 mu (about 667 hectares) each have been established, with a combined demonstration area of 193,500 mu. In typical black soil regions, the technologies have increased soil {{18}} matter content by 0.25 to 0.70 percentage points, reduced soil erosion by 80%, improved farmland quality by half a grade and boosted grain yields by more than 5.2%.",
-          "cn": "这些成果为中国黑土资源的可持续利用和国家粮食安全提供了坚实的科学支撑。据项目总指挥、中国科学院东北地理与农业生态研究所所长姜明介绍，研究人员已识别出过去四十年影响中国黑土的主要退化趋势，包括表土变薄、肥力下降和土壤板结加剧。团队还揭示了提升土壤肥力的关键机制，开发了针对土壤退化控制、沟蚀修复、生物增强土壤健康管理和智能农业机械的技术，并建立了覆盖主要黑土区的区域特定保护与利用模式。作为项目的一部分，已建立了七个核心示范区，每个示范区面积超过一万亩（约667公顷），总示范面积达19.35万亩。在典型黑土区，这些技术使土壤有机质含量提高了0.25至0.70个百分点，土壤侵蚀减少了80%，农田质量提升了半个等级，粮食产量增加了超过5.2%。"
-        },
-        {
-          "en": "The technologies and management models have been extended to more than 540 million mu of farmland nationwide, providing solid scientific support for black soil protection and sustainable agricultural development. The initiative has also addressed the growing demand for large-scale and intelligent agricultural machinery in northeast China. Researchers independently developed the third-generation \"Honghu\" series of intelligent agricultural machinery systems, with more than 90% of key components produced domestically. The project achieved three major technological breakthroughs. Researchers developed a high-power electric motor system with an efficiency of 98.7% for a 400-horsepower motor, surpassing leading international benchmarks.",
-          "cn": "这些技术和管理模式已推广至全国超过5.4亿亩农田，为黑土保护和农业可持续发展提供了坚实的科学支撑。该项目还满足了东北地区对大型智能农业机械日益增长的需求。研究人员自主开发了第三代“鸿鹄”系列智能农业机械系统，其中90%以上的关键部件实现了国产化。该项目实现了三大技术突破。研究人员开发了一套效率达98.7%的高功率电机系统，用于400马力的电机，超越了国际领先基准。"
-        },
-        {
-          "en": "They also established a high-strength, wear-resistant materials system and developed components that outperform comparable imported products. The machinery has already been deployed across more than 30,000 mu of farmland in northeast China's black soil region, helping advance the {{19}} and sustainability of agricultural production.",
-          "cn": "他们还建立了一套高强度、耐磨材料体系，并开发了性能优于同类进口产品的部件。这些机械已在东北黑土区超过3万亩农田中投入使用，助力推进农业生产的现代化和可持续性。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "breakthroughs",
-          "hint": "n. 突破",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "conservation",
-          "hint": "n. 保护",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "initiative",
-          "hint": "n. 倡议",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "institutions",
-          "hint": "n. 机构",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "utilization",
-          "hint": "n. 利用",
+          "answer": "fluctuations",
+          "hint": "n. 波动，起伏",
           "difficulty": "hard"
         },
         {
-          "id": 5,
-          "answer": "theoretical",
-          "hint": "adj. 理论的",
+          "id": 15,
+          "answer": "spawn",
+          "hint": "v. 产卵",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "migrate",
+          "hint": "v. 迁徙，洄游",
           "difficulty": "medium"
         },
         {
-          "id": 6,
-          "answer": "innovations",
-          "hint": "n. 创新",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "safeguard",
-          "hint": "v. 保护",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "comprehensive",
-          "hint": "adj. 全面的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "framework",
-          "hint": "n. 框架",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
+          "id": 17,
           "answer": "sustainable",
           "hint": "adj. 可持续的",
           "difficulty": "medium"
         },
         {
-          "id": 11,
-          "answer": "degradation",
-          "hint": "n. 退化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "fertility",
-          "hint": "n. 肥力",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "compaction",
-          "hint": "n. 板结",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "mechanisms",
-          "hint": "n. 机制",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "erosion",
-          "hint": "n. 侵蚀",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "intelligent",
-          "hint": "adj. 智能的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "demonstration",
-          "hint": "n. 示范",
-          "difficulty": "medium"
-        },
-        {
           "id": 18,
-          "answer": "organic",
-          "hint": "adj. 有机的",
+          "answer": "techniques",
+          "hint": "n. 技术，方法",
           "difficulty": "easy"
         },
         {
           "id": 19,
-          "answer": "modernization",
-          "hint": "n. 现代化",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "The Chinese Academy of Sciences launched the \"Black Soil Granary\" science and technology initiative, bringing together 98 institutions nationwide to tackle key challenges in black soil protection. /CMG\nThe Chinese Academy of Sciences (CAS) on Monday announced a series of achievements made over the past five years in black soil conservation and utilization, including theoretical breakthroughs, technological innovations, model development and the research and development of advanced agricultural equipment.\nIn 2021, CAS launched the \"Black Soil Granary\" science and technology initiative, bringing together 98 institutions nationwide to tackle key challenges in black soil protection. The program forms an important part of China's strategy to safeguard food security through both arable land conservation and technological innovation.\nAfter five years of research, the initiative has produced a range of landmark results and established a comprehensive solution framework spanning scientific research, product and equipment development, key technologies, integrated farming models, demonstration projects and large-scale application. The achievements provide strong scientific support for the sustainable use of China's black soil resources and national food security.\nAccording to Jiang Ming, commander of the initiative, and director of the Northeast Institute of Geography and Agroecology, researchers have identified the major degradation trends affecting China's black soil over the past four decades, including thinning topsoil, declining fertility and increasing soil compaction.\nThe team also uncovered key mechanisms for improving soil fertility, developed technologies for targeted soil degradation control, gully erosion restoration, biologically enhanced soil health management and intelligent agricultural machinery, and established region-specific conservation and utilization models covering major black soil areas.\nAs part of the project, seven core demonstration zones of more than 10,000 mu (about 667 hectares) each have been established, with a combined demonstration area of 193,500 mu. In typical black soil regions, the technologies have increased soil organic matter content by 0.25 to 0.70 percentage points, reduced soil erosion by 80%, improved farmland quality by half a grade and boosted grain yields by more than 5.2%.\nThe technologies and management models have been extended to more than 540 million mu of farmland nationwide, providing solid scientific support for black soil protection and sustainable agricultural development.\nThe initiative has also addressed the growing demand for large-scale and intelligent agricultural machinery in northeast China. Researchers independently developed the third-generation \"Honghu\" series of intelligent agricultural machinery systems, with more than 90% of key components produced domestically.\nThe project achieved three major technological breakthroughs. Researchers developed a high-power electric motor system with an efficiency of 98.7% for a 400-horsepower motor, surpassing leading international benchmarks. They also established a high-strength, wear-resistant materials system and developed components that outperform comparable imported products.\nThe machinery has already been deployed across more than 30,000 mu of farmland in northeast China's black soil region, helping advance the modernization and sustainability of agricultural production.",
-      "fullTextCn": "中国科学院周一宣布了过去五年在黑土保护与利用方面取得的一系列成就，包括理论突破、技术创新、模式开发以及先进农业装备的研发。2021年，中国科学院启动了“黑土粮仓”科技攻关项目，联合全国98家机构共同应对黑土保护的关键挑战。该项目是中国通过耕地保护和技术创新保障粮食安全战略的重要组成部分。经过五年的研究，该项目取得了一系列标志性成果，并建立了一个涵盖科学研究、产品与设备开发、关键技术、综合耕作模式、示范项目和大规模应用的全面解决方案框架。\n\n这些成果为中国黑土资源的可持续利用和国家粮食安全提供了坚实的科学支撑。据项目总指挥、中国科学院东北地理与农业生态研究所所长姜明介绍，研究人员已识别出过去四十年影响中国黑土的主要退化趋势，包括表土变薄、肥力下降和土壤板结加剧。团队还揭示了提升土壤肥力的关键机制，开发了针对土壤退化控制、沟蚀修复、生物增强土壤健康管理和智能农业机械的技术，并建立了覆盖主要黑土区的区域特定保护与利用模式。作为项目的一部分，已建立了七个核心示范区，每个示范区面积超过一万亩（约667公顷），总示范面积达19.35万亩。在典型黑土区，这些技术使土壤有机质含量提高了0.25至0.70个百分点，土壤侵蚀减少了80%，农田质量提升了半个等级，粮食产量增加了超过5.2%。\n\n这些技术和管理模式已推广至全国超过5.4亿亩农田，为黑土保护和农业可持续发展提供了坚实的科学支撑。该项目还满足了东北地区对大型智能农业机械日益增长的需求。研究人员自主开发了第三代“鸿鹄”系列智能农业机械系统，其中90%以上的关键部件实现了国产化。该项目实现了三大技术突破。研究人员开发了一套效率达98.7%的高功率电机系统，用于400马力的电机，超越了国际领先基准。\n\n他们还建立了一套高强度、耐磨材料体系，并开发了性能优于同类进口产品的部件。这些机械已在东北黑土区超过3万亩农田中投入使用，助力推进农业生产的现代化和可持续性。"
-    },
-    {
-      "id": 5,
-      "category": "sports",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-15/Kamada-helps-Japan-force-draw-in-World-Cup-opener-against-Netherlands-1NZphC57W9i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Kamada helps Japan force draw in World Cup opener against Netherlands",
-      "titleCn": "镰田大地助日本队在世界杯揭幕战中逼平荷兰",
-      "summary": "Kamada helps Japan force draw in World Cup opener against Netherlands",
-      "summaryCn": "日本队在2026年世界杯小组赛首场比赛中两次落后两次扳平，最终2-2战平荷兰队。",
-      "wordCount": 385,
-      "paragraphs": [
-        {
-          "en": "Japan's players celebrate after scoring a goal against the Netherlands in a Group F match at the 2026 FIFA World Cup in Arlington, Texas, June 14, 2026. Japan fought back after trailing twice to earn a 2-2 draw against the Netherlands, in an entertaining Group F match to open their 2026 FIFA World Cup {{0}} in the Dallas suburb of Arlington on Sunday. Following a {{1}} first 45 minutes that featured relatively few attacking threats from either side, the contest opened up dramatically after the {{2}}, with both teams trading goals in a lively second half. The Netherlands broke the {{3}} in the 51st minute, when captain Virgil van Dijk was left {{4}} inside the penalty area and {{5}} a header into the net off a pass from Ryan Gravenberch. Japan responded six minutes later, as Takefusa Kubo fed Keito Nakamura outside the box before the winger unleashed a low strike that {{6}} off Jan Paul van Hecke, beating goalkeeper Bart Verbruggen to knot the score at 1-1. Coach Ronald Koeman's Oranje {{8}} their advantage in the 64th minute, thanks to an excellent {{9}} {{10}} from Crysencio Summerville.",
-          "cn": "2026年6月14日，在德克萨斯州阿灵顿举行的2026年国际足联世界杯F组比赛中，日本队球员在攻破荷兰队球门后庆祝。周日，日本队在达拉斯郊区阿灵顿进行的2026年国际足联世界杯F组首场比赛中，两次落后两次扳平，最终以2-2战平荷兰队，上演了一场精彩的较量。上半场双方都显得小心翼翼，进攻威胁寥寥无几，但中场休息后比赛局面骤然打开，两队在下半场你来我往，互有进球。荷兰队在第51分钟打破僵局，队长维吉尔·范迪克在禁区内无人盯防，接瑞安·格拉文贝赫的传球后头球破门。日本队六分钟后做出回应，久保建英在禁区外将球传给中村敬斗，这位边锋随后低射，皮球经扬·保罗·范赫克折射后越过门将巴特·维尔布鲁根，将比分扳为1-1。荷兰队主帅罗纳德·科曼的球队在第64分钟凭借克里森西奥·萨默维尔的精彩个人表现重新取得领先。"
-        },
-        {
-          "en": "Cutting inside from the right {{11}}, the forward {{12}} an {{13}} Denzel Dumfries and {{14}} a left-footed shot in off the post, {{15}} the reach of Japanese shot-stopper Zion Suzuki. Japan's Daichi Kamada (R) heads the ball toward the net against the Netherlands in a Group F match at the 2026 FIFA World Cup in Arlington, Texas, June 14, 2026. Needing another answer, the Samurai Blue gradually increased the pressure as coach Hajime Moriyasu {{16}} his unit by using all five {{17}}. The changes helped {{18}} the {{19}} toward the Asian side, which spent the {{20}} stages {{21}} the Dutch defense deeper and deeper into its own half of the field. Those efforts {{22}} two minutes from time. Junya Ito's corner kick was first met by substitute Koki Ogawa, with his header {{23}} off Daichi Kamada before {{24}} away from the {{25}} of Verbruggen, who could only help further {{26}} the ball into the Netherlands net.",
-          "cn": "萨默维尔从右翼内切，绕过套边插上的丹泽尔·邓弗里斯，左脚射门击中门柱内侧入网，日本门将铃木彩艳鞭长莫及。日本队的镰田大地（右）在2026年6月14日于德克萨斯州阿灵顿举行的2026年国际足联世界杯F组比赛中头球攻门。日本队需要再次做出回应，主帅森保一通过使用全部五个换人名额调整阵容，蓝武士逐渐加大进攻压力。这些换人调整帮助亚洲球队扭转了场上势头，日本队在比赛末段将荷兰队的防线一步步压回本方半场。努力在比赛还剩两分钟时收到回报。伊东纯也开出的角球首先被替补上场的小川航基争到，他的头球蹭到镰田大地后从维尔布鲁根手中滑脱，后者只能眼睁睁看着皮球被自己碰进荷兰队球门。"
-        },
-        {
-          "en": "Japan's late {{27}} ensured that each team would settle for one point to kick off Group F, with the result adding to the Samurai Blue's reputation for {{28}} on the World Cup stage, while {{29}} the Oranje an opening victory.",
-          "cn": "日本队的终场前扳平比分确保两队各取一分，为F组开局画上句号。这一结果进一步巩固了蓝武士在世界杯赛场上坚韧不拔的声誉，同时也让荷兰队未能取得开门红。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "campaign",
-          "hint": "n. 赛事征程",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "cagey",
-          "hint": "adj. 谨慎的",
+          "answer": "quarantine",
+          "hint": "n. 检疫，隔离",
           "difficulty": "hard"
-        },
-        {
-          "id": 2,
-          "answer": "intermission",
-          "hint": "n. 中场休息",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "deadlock",
-          "hint": "n. 僵局",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "unmarked",
-          "hint": "adj. 无人盯防的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "powered",
-          "hint": "v. 用力顶出",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "deflected",
-          "hint": "v. 折射",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "restored",
-          "hint": "v. 重新取得",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "individual",
-          "hint": "adj. 个人的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "effort",
-          "hint": "n. 努力/表现",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "flank",
-          "hint": "n. 边路",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "bypassed",
-          "hint": "v. 绕过",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "overlapping",
-          "hint": "adj. 套边插上的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "fired",
-          "hint": "v. 射门",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "beyond",
-          "hint": "prep. 超出...范围",
-          "difficulty": "easy"
-        },
-        {
-          "id": 15,
-          "answer": "reshaped",
-          "hint": "v. 重新调整",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "substitutions",
-          "hint": "n. 换人",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "shift",
-          "hint": "v. 转变",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
-          "answer": "momentum",
-          "hint": "n. 势头",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "closing",
-          "hint": "adj. 结束阶段的",
-          "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "pushing",
-          "hint": "v. 压迫",
-          "difficulty": "easy"
+          "answer": "certification",
+          "hint": "n. 认证，证明",
+          "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "paid off",
-          "hint": "短语 取得回报",
-          "difficulty": "medium"
+          "answer": "germplasm",
+          "hint": "n. 种质，遗传资源",
+          "difficulty": "hard"
         },
         {
           "id": 22,
-          "answer": "glancing",
-          "hint": "v. 蹭到",
-          "difficulty": "hard"
-        },
-        {
-          "id": 23,
-          "answer": "slipping",
-          "hint": "v. 滑脱",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "grasp",
-          "hint": "n. 抓握",
-          "difficulty": "easy"
-        },
-        {
-          "id": 25,
-          "answer": "nudge",
-          "hint": "v. 轻碰",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "equalizer",
-          "hint": "n. 扳平比分",
-          "difficulty": "medium"
-        },
-        {
-          "id": 27,
-          "answer": "fortitude",
-          "hint": "n. 坚韧",
-          "difficulty": "hard"
-        },
-        {
-          "id": 28,
-          "answer": "denying",
-          "hint": "v. 剥夺",
+          "answer": "tangible",
+          "hint": "adj. 切实的，有形的",
           "difficulty": "medium"
         }
       ],
-      "fullText": "Japan's players celebrate after scoring a goal against the Netherlands in a Group F match at the 2026 FIFA World Cup in Arlington, Texas, June 14, 2026. \nJapan fought back after trailing twice to earn a 2-2 draw against the Netherlands, in an entertaining Group F match to open their 2026 FIFA World Cup campaign in the Dallas suburb of Arlington on Sunday.\nFollowing a cagey first 45 minutes that featured relatively few attacking threats from either side, the contest opened up dramatically after the intermission, with both teams trading goals in a lively second half.\nThe Netherlands broke the deadlock in the 51st minute, when captain Virgil van Dijk was left unmarked inside the penalty area and powered a header into the net off a pass from Ryan Gravenberch.\nJapan responded six minutes later, as Takefusa Kubo fed Keito Nakamura outside the box before the winger unleashed a low strike that deflected off Jan Paul van Hecke, beating goalkeeper Bart Verbruggen to knot the score at 1-1.\nCoach Ronald Koeman's Oranje restored their advantage in the 64th minute, thanks to an excellent individual effort from Crysencio Summerville. Cutting inside from the right flank, the forward bypassed an overlapping Denzel Dumfries and fired a left-footed shot in off the post, beyond the reach of Japanese shot-stopper Zion Suzuki.\nJapan's Daichi Kamada (R) heads the ball toward the net against the Netherlands in a Group F match at the 2026 FIFA World Cup in Arlington, Texas, June 14, 2026. \nNeeding another answer, the Samurai Blue gradually increased the pressure as coach Hajime Moriyasu reshaped his unit by using all five substitutions.\nThe changes helped shift the momentum toward the Asian side, which spent the closing stages pushing the Dutch defense deeper and deeper into its own half of the field.\nThose efforts paid off two minutes from time. Junya Ito's corner kick was first met by substitute Koki Ogawa, with his header glancing off Daichi Kamada before slipping away from the grasp of Verbruggen, who could only help further nudge the ball into the Netherlands net.\nJapan's late equalizer ensured that each team would settle for one point to kick off Group F, with the result adding to the Samurai Blue's reputation for fortitude on the World Cup stage, while denying the Oranje an opening victory.",
-      "fullTextCn": "2026年6月14日，在德克萨斯州阿灵顿举行的2026年国际足联世界杯F组比赛中，日本队球员在攻破荷兰队球门后庆祝。周日，日本队在达拉斯郊区阿灵顿进行的2026年国际足联世界杯F组首场比赛中，两次落后两次扳平，最终以2-2战平荷兰队，上演了一场精彩的较量。上半场双方都显得小心翼翼，进攻威胁寥寥无几，但中场休息后比赛局面骤然打开，两队在下半场你来我往，互有进球。荷兰队在第51分钟打破僵局，队长维吉尔·范迪克在禁区内无人盯防，接瑞安·格拉文贝赫的传球后头球破门。日本队六分钟后做出回应，久保建英在禁区外将球传给中村敬斗，这位边锋随后低射，皮球经扬·保罗·范赫克折射后越过门将巴特·维尔布鲁根，将比分扳为1-1。荷兰队主帅罗纳德·科曼的球队在第64分钟凭借克里森西奥·萨默维尔的精彩个人表现重新取得领先。\n\n萨默维尔从右翼内切，绕过套边插上的丹泽尔·邓弗里斯，左脚射门击中门柱内侧入网，日本门将铃木彩艳鞭长莫及。日本队的镰田大地（右）在2026年6月14日于德克萨斯州阿灵顿举行的2026年国际足联世界杯F组比赛中头球攻门。日本队需要再次做出回应，主帅森保一通过使用全部五个换人名额调整阵容，蓝武士逐渐加大进攻压力。这些换人调整帮助亚洲球队扭转了场上势头，日本队在比赛末段将荷兰队的防线一步步压回本方半场。努力在比赛还剩两分钟时收到回报。伊东纯也开出的角球首先被替补上场的小川航基争到，他的头球蹭到镰田大地后从维尔布鲁根手中滑脱，后者只能眼睁睁看着皮球被自己碰进荷兰队球门。\n\n日本队的终场前扳平比分确保两队各取一分，为F组开局画上句号。这一结果进一步巩固了蓝武士在世界杯赛场上坚韧不拔的声誉，同时也让荷兰队未能取得开门红。"
+      "fullText": "China and the Republic of Korea carried out their seventh annual joint fish stock enhancement and release campaign in the Yellow Sea on Tuesday, releasing a total of 7.29 million juveniles of important commercial species into waters that have long sustained fishing communities in both countries.\nThe ROK released 4.29 million fry and juveniles of small yellow croaker, red seabream and swimming crab off Incheon, while China simultaneously released 3 million juveniles of greenfin horse-faced filefish, swimming crab and blackhead seabream off Yantai, Shandong province.\nThe campaign is based on a consensus reached at the 16th session of the bilateral fisheries joint committee in 2016. The event, which began in 2018, has released more than 18.75 million fry and juveniles into the Yellow Sea, contributing to the recovery of commercially valuable fish stocks, improvement of the marine ecosystem and higher incomes for fishermen from both countries, official data showed.\nThe cooperation is grounded in the China-ROK Fisheries Agreement signed in 2000. Over the years, the two sides have expanded collaboration in catch management, resource conservation, scientific research and joint law enforcement.\nChina has released more than 67.7 billion fry and juveniles of various aquatic species into the Bohai and Yellow seas.\nThe Yellow Sea serves as a vital fishing ground for both countries, with many commercially important species showing distinct seasonal migration patterns, according to the Chinese Academy of Fishery Sciences' Yellow Sea Fisheries Research Institute.\nSince 2010, China and the ROK have conducted joint fisheries resource surveys, typically four times a year on a quarterly basis, with each side carrying out two cruises. The surveys involve mutual vessel boardings and data sharing to monitor stock fluctuations and inform conservation decisions, the institute said.\nThese fish spawn, nurse and feed in the inshore waters of China's Bohai and Yellow seas during warmer months, then migrate toward the central and southern Yellow Sea for wintering as water temperatures drop, the institute said.\nThis migratory pattern, together with the long-established fishing practices of both countries, means that the sustainable management of Yellow Sea fisheries requires joint efforts, the institute added.\nQu Jiangbo, general manager of the Tianyuan Aquatic Products Co, said the company supplied greenfin horse-faced filefish for this year's release campaign. The fry and juveniles were produced using controlled temperature and water quality breeding techniques, using wild-caught, disease-free brood-stock with high genetic diversity.\nBefore release, the juveniles undergo strict quarantine and drug residue testing. Only those passing tests for 11 prohibited substances receive official certification for release, Qu said.\nThe company has invested 130 million yuan ($19 million) in a live germplasm bank for marine fish in northern China, which is expected to be fully operational before this year-end to preserve and utilize fishery genetic resources, he said.\nFishermen have also witnessed tangible benefits. Cui Gang, a local fisherman for almost 20 years, said that over the past five to six years, he has seen larger catches of greenfin horse-faced filefish, with rare red seabream occasionally appearing.\n\"The proportion of small mixed fish has declined, while commercially valuable species are larger and yields have stabilized,\" Cui said.\nOn the joint China-ROK fish stock enhancement and release effort, Cui said, \"The sea has no borders, and neither do fish. If both sides take good care of these waters, we fishermen will have a future.\"",
+      "fullTextCn": "中国和韩国于周二在黄海开展了第七次年度联合渔业资源增殖放流活动，共向长期以来支撑两国渔业社区的水域投放了729万尾重要商业鱼种的幼鱼。韩国在仁川附近海域投放了429万尾小黄鱼、真鲷和三疣梭子蟹的鱼苗和幼鱼，而中国同时在山东烟台附近海域投放了300万尾绿鳍马面鲀、三疣梭子蟹和黑鲷的幼鱼。该活动基于2016年双边渔业联合委员会第十六次会议达成的共识。官方数据显示，自2018年开始的这一活动已向黄海投放超过1875万尾鱼苗和幼鱼，有助于恢复具有商业价值的鱼类种群、改善海洋生态系统并提高两国渔民收入。这一合作基于2000年签署的《中韩渔业协定》。\n\n多年来，双方在捕捞管理、资源养护、科学研究和联合执法方面扩大了合作。中国已向渤海和黄海投放了超过677亿尾各类水生物种的鱼苗和幼鱼。据中国水产科学研究院黄海水产研究所介绍，黄海是两国重要的渔场，许多重要商业物种表现出明显的季节性洄游模式。自2010年以来，中韩两国开展了联合渔业资源调查，通常每季度进行四次，双方各执行两次航次。该研究所表示，调查涉及相互登船和数据共享，以监测种群波动并为养护决策提供信息。\n\n该研究所表示，这些鱼类在温暖月份在中国渤海和黄海的近岸水域产卵、育幼和摄食，然后随着水温下降向黄海中部和南部洄游越冬。该研究所补充说，这种洄游模式加上两国长期形成的捕捞习惯，意味着黄海渔业的可持续管理需要双方共同努力。天源水产有限公司总经理曲江波表示，该公司为今年的放流活动提供了绿鳍马面鲀鱼苗。这些鱼苗和幼鱼采用控温和控水质的繁育技术生产，使用野生捕获、无病且遗传多样性高的亲本。放流前，幼鱼需经过严格的检疫和药物残留检测。\n\n曲江波说，只有通过11种禁用物质检测的幼鱼才能获得放流官方认证。他表示，该公司已投资1.3亿元人民币（约1900万美元）在中国北方建设一个海洋鱼类活体种质资源库，预计今年年底前全面投入使用，以保护和利用渔业遗传资源。渔民们也看到了实实在在的好处。从事渔业近20年的当地渔民崔刚表示，过去五六年里，他捕捞到的绿鳍马面鲀数量增多，偶尔还能见到罕见的真鲷。崔刚说：“小杂鱼的比例下降了，而有商业价值的鱼种个头更大，产量也更稳定了。”\n\n谈到中韩联合渔业资源增殖放流工作，崔刚说：“大海没有边界，鱼也没有。如果双方都好好养护这片水域，我们渔民就有未来。”"
     }
   ]
 }
