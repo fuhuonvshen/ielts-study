@@ -1,876 +1,848 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "articles": [
     {
       "id": 1,
-      "category": "technology",
+      "category": "military",
       "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/news/sci-tech/2026-06-17/detail-ihffptmh9484422.shtml",
-      "title": "AI clones spark debate on workplace ethics",
-      "titleCn": "AI克隆引发职场伦理争议",
-      "summary": "Colin, 26, a student at Peking University, built an AI model based on his father, who died suddenly of a heart attack in 2021. What followed, he said, was a \"long goodbye\" he never had the chance to say.",
-      "summaryCn": "文章探讨了AI克隆员工技术带来的职场伦理、法律归属和情感影响等问题。",
-      "wordCount": 1845,
+      "sourceUrl": "http://www.ecns.cn/china/2026-06-18/detail-ihffptmh9486470.shtml",
+      "title": "China, U.S. keeping drug control on a steady track",
+      "titleCn": "中美禁毒合作保持稳定发展",
+      "summary": "China and the United States have maintained steady progress in anti-drug cooperation, with both sides continuing to expand practical collaboration in key areas, a senior Chinese narcotics control official said on Wednesday.",
+      "summaryCn": "中国禁毒官员表示中美在禁毒合作上取得稳步进展，并宣布新增16种非药用麻醉药品和精神药品的管控。",
+      "wordCount": 596,
       "paragraphs": [
         {
-          "en": "\"Hello, I am the digital {{0}} of former employee (XX),\" read the message on the computer screen. \"You may ask me questions anytime.\"\nAt a gaming media company in East China's Shandong province, members of staff recently found themselves communicating with an artificial intelligence model trained on a former colleague's working habits and conversations. The employee had resigned, but his AI clone had stayed behind. An anonymous source at the company said the digital double, which was created with the former employee's {{1}}, could field routine questions, organize spreadsheets, prepare PowerPoint presentations and send calendar invitations. While the source acknowledged that the AI clone was not as smart as the real person, the experiment offered a {{2}} into what the future might hold.",
-          "cn": "“你好，我是前员工（XX）的数字化身，”电脑屏幕上显示着这条信息。“你可以随时向我提问。”在中国东部山东省的一家游戏媒体公司，员工们最近发现自己正在与一个基于前同事工作习惯和对话训练的人工智能模型交流。这名员工已经辞职，但他的AI克隆却留了下来。公司一位匿名消息人士称，这个数字替身是在前员工同意下创建的，可以处理常规问题、整理电子表格、准备PPT演示文稿和发送日历邀请。虽然消息人士承认AI克隆不如真人聪明，但这一实验让人们得以一窥未来可能的样子。"
+          "en": "China and the United States have maintained steady progress in anti-drug {{0}}, with both sides continuing to expand {{2}} collaboration in key areas, a senior Chinese {{3}} control official said on Wednesday. Wei Xiaojun, executive deputy director of the Office of China National Narcotics Control Commission and head of the Ministry of Public Security's narcotics control bureau, made the remarks as the nation further strengthened its drug {{4}} and chemical control by placing 16 additional non-medicinal narcotic and psychotropic {{5}} under control. Wei noted that China and the U.S. have {{6}} cooperation across substance scheduling, chemical control, {{7}} sharing, joint {{8}}, online information cleanup, {{9}} {{10}}, anti-money laundering and drug testing technologies. China has maintained regular communication with relevant U.S.",
+          "cn": "中国和美国在禁毒合作方面保持了稳步进展，双方继续在关键领域扩大务实合作，一位中国高级禁毒官员周三表示。国家禁毒委员会办公室常务副主任、公安部禁毒局局长魏晓军是在中国进一步加强毒品治理和化学品管控，将16种非药用麻醉药品和精神药品纳入管控时发表上述言论的。魏晓军指出，中美两国在物质列管、化学品管控、情报共享、联合调查、网络信息清理、逃犯遣返、反洗钱和毒品检测技术等方面深化了合作。中国已与相关美国政府部门保持定期沟通。"
         },
         {
-          "en": "'Distillation' effort\nThe technology behind building a digital employee goes back to an open-source project called colleague.skill, which was launched on March 30 on the developer platform GitHub. Xiao Bo, 30, an AI product manager at a leading Chinese internet company, explained the underlying {{4}} of a \"skill\" in AI science: it is a summarized workflow that an AI agent can understand, often denoted as \"XX.skill\" in computer language. \"If an AI chatbot is like a brain that can talk, then an AI agent is like a worker with 'skills' who can actually complete tasks such as opening documents, editing files and organizing data.\"\nFor example, encoding an editing.skill into an AI agent will allow it to open a document file, restructure an article, write a headline and run a spelling and grammar check. A program-trained AI agent can execute these steps repeatedly, without {{5}} or interruption. According to Xiao, a single AI agent can draw on many different skills.",
-          "cn": "“蒸馏”努力\n构建数字员工的技术源于一个名为colleague.skill的开源项目，该项目于3月30日在开发者平台GitHub上发布。30岁的肖波是中国一家领先互联网公司的AI产品经理，他解释了AI科学中“技能”的基本机制：它是一个AI代理可以理解的总结性工作流程，在计算机语言中通常表示为“XX.skill”。“如果AI聊天机器人是一个能说话的‘大脑’，那么AI代理就是一个拥有‘技能’的‘工人’，可以实际完成打开文档、编辑文件和组织数据等任务。”例如，将editing.skill编码到AI代理中，它将能够打开文档文件、重组文章、撰写标题并进行拼写和语法检查。经过程序训练的AI代理可以反复执行这些步骤，不会疲劳或中断。据肖波介绍，单个AI代理可以运用多种不同的技能。"
+          "en": "government departments, including the White House Office of National Drug Control Policy, to exchange updates and discuss priorities, Wei said. Chinese law enforcement agencies have also worked on joint cases and the repatriation of drug-related fugitives with the U.S. Drug Enforcement Administration, the Federal Bureau of Investigation and the Immigration and Customs Enforcement, he added. In February, police in Tianjin arrested a suspect, surnamed Gong, in a drug-related case based on information provided by U.S. authorities.",
+          "cn": "包括白宫国家毒品控制政策办公室在内的政府部门，以交流最新情况并讨论优先事项，魏晓军说。中国执法机构还与美国缉毒局、联邦调查局和移民与海关执法局合作处理联合案件和遣返涉毒逃犯，他补充道。今年2月，天津警方根据美国当局提供的信息，在一起毒品案件中逮捕了一名龚姓嫌疑人。"
         },
         {
-          "en": "OpenClaw, a well-known AI agent ecosystem, hosts more than 13,700 community-built skills on its ClawHub registry. Those skills are among the products of \"{{3}}\", or the process of compressing large AI models into smaller, more actionable and transferable units, Xiao said. Colleague.skill has quietly transformed the process of AI model compression, as now the entity being \"distilled\" is no longer a machine, but a human being, he added. Zhou Tianyi, 24, a researcher at the Shanghai Artificial Intelligence Laboratory and creator of the colleague.skill project, said that his goal was to preserve the {{6}} knowledge that accumulates over the years through daily workplace communication, and also to maintain the kind of understanding that usually disappears when a co-worker clears out his or her desk and leaves the company. Building on the idea, Zhou developed a working {{7}} in his spare time.",
-          "cn": "OpenClaw是一个知名的AI代理生态系统，在其ClawHub注册中心托管了超过13700个社区构建的技能。肖波说，这些技能是“蒸馏”过程的产物，即将大型AI模型压缩成更小、更可操作和可转移的单元。他补充说，Colleague.skill悄然改变了AI模型压缩的过程，因为现在被“蒸馏”的实体不再是机器，而是人类。24岁的周天一是上海人工智能实验室的研究员，也是colleague.skill项目的创建者，他说他的目标是保留通过日常职场交流积累多年的机构知识，同时也保留那种通常在同事清理办公桌离开公司时消失的理解。基于这一想法，周天一利用业余时间开发了一个工作原型。"
+          "en": "Prior to that, a U.S. citizen suspected of involvement in the same case was arrested by U.S. law enforcement agencies from the state of Georgia. Wei emphasized that drug control cooperation is a global {{11}}, and it should be based on mutual respect and trust. \"As long as China and the U.S.",
+          "cn": "在此之前，一名涉嫌参与同一案件的美国公民在佐治亚州被美国执法机构逮捕。魏晓军强调，禁毒合作是一项全球使命，应基于相互尊重和信任。“只要中美两国共同努力，”"
         },
         {
-          "en": "His project slogan read: \"Transforming cold farewells into warm skills. Welcome to Digital Life 1.0.\"\nThe open-source tool, which he developed in four hours, today allows users to upload workplace materials — chat logs, weekly reports, presentations, workflow documents — and generate an AI agent to mimic not only how a former colleague worked, but also how he or she communicated. Whitewashing effect\nFor decades, science fiction imagined this \"digital {{8}}\" as a romantic means of preserving the memory of loved ones. In the workplace, however, it carries a different meaning — one that is shadowed by the anxiety about losing jobs. Industry insiders said that, around the world, companies now rank workers based on how many AI skills they have.",
-          "cn": "他的项目口号是：“将冰冷的告别转化为温暖的技能。欢迎来到数字生命1.0。”这个他花了四个小时开发的开源工具，如今允许用户上传职场材料——聊天记录、周报、演示文稿、工作流程文档——并生成一个AI代理，不仅模仿前同事的工作方式，还模仿他或她的沟通方式。\n“粉饰”效应\n几十年来，科幻小说将这种“数字永生”想象为一种保存亲人记忆的浪漫方式。然而，在职场中，它却有着不同的含义——一种被失业焦虑笼罩的含义。业内人士表示，在全球范围内，公司现在根据员工拥有多少AI技能来对他们进行排名。"
+          "en": "work together, they can effectively address drug-related challenges, which will benefit both peoples and the world,\" he said. China remains committed to maintaining the positive {{12}} of Sino-U.S. antidrug cooperation, which is a hard-won achievement and requires sustained joint efforts, he added. According to Wei, China has actively responded to the {{13}} of nonscheduled chemicals into illicit drug production channels in North America. Starting on July 1, a total of 16 substances will be added to the {{14}} of nonmedical narcotic and psychotropic substances, China's national drug regulator announced on Wednesday.",
+          "cn": "他们就能有效应对毒品相关挑战，这将惠及两国人民和世界，”他说。中国致力于保持中美禁毒合作的积极势头，这是一项来之不易的成就，需要持续共同努力，他补充道。据魏晓军称，中国积极应对非列管化学品被转移用于北美非法毒品生产渠道的问题。自7月1日起，共有16种物质将被添加到非药用麻醉药品和精神药品目录中，中国国家药品监督管理局周三宣布。"
         },
         {
-          "en": "Some even require current employees to \"submit skills\" as a matter of course. In the AI economy logic, the more passionate a person is about their job — the more fluent they are at reflective summarization or the more detailed their weekly reports are — the more replaceable they become. \"That's unfair,\" said Deng Xiaoxian, an AI product manager, who also leads a legal technology community. Deng said that when she first encountered colleague.skill — a tool that claimed to \"distill\" an employee into a digital stand-in who would continue working for a company indefinitely — she felt a sharp, {{9}} discomfort. \"The objective of AI development is to help humans have more leisure time; not to turn them into a skill file, strip them of their jobs and then keep them working for a company forever without {{10}},\" she said.",
-          "cn": "有些公司甚至要求现有员工“提交技能”作为常规事项。在AI经济逻辑中，一个人对工作越热情——他们越擅长反思性总结，或者周报越详细——他们就越容易被取代。“这不公平，”AI产品经理邓晓贤说，她也领导着一个法律科技社区。邓晓贤说，当她第一次遇到colleague.skill——一个声称能将员工“蒸馏”成数字替身、使其无限期为公司工作的工具时，她感到一种强烈的不适。“AI发展的目标是帮助人类拥有更多的休闲时间；而不是把他们变成技能文件，剥夺他们的工作，然后让他们在没有报酬的情况下永远为公司工作，”她说。"
+          "en": "This will place 412 types of non-medicinal narcotic and psychotropic drugs, as well as the entire categories of fentanyl-related substances, synthetic cannabinoids and nitazene-related substances under control. To strengthen risk prevention, China issued warning notices twice — in November 2025 and May this year — urging {{15}} with relevant laws. Customs and postal authorities {{16}} export supervision, risk analysis and inspection procedures. Wei said authorities have also carried out nationwide {{17}} on the illegal trafficking of {{18}} chemicals and new psychoactive substances, and strengthened industry self-regulation. Chemical control remains a key upstream measure in China's drug control strategy, he said.",
+          "cn": "这将使412种非药用麻醉药品和精神药品，以及所有芬太尼类物质、合成大麻素类和尼塔嗪类物质受到管控。为加强风险防范，中国分别于2025年11月和今年5月两次发布警告通知，敦促遵守相关法律。海关和邮政部门加强了出口监管、风险分析和检查程序。魏晓军表示，有关部门还开展了全国范围的打击非法贩运前体化学品和新精神活性物质的行动，并加强了行业自律。他说，化学品管控仍是中国禁毒战略中的关键上游措施。"
         },
         {
-          "en": "Within days of colleague.skill going viral, Deng built a counterproject, which she called \"anti-distillation skill\". \"When a company asks you to turn your work experience into an AI program, it is essentially 'distilling' you into a replaceable component,\" she said. \"Before you submit your skills to the company, you can use the 'anti-distillation skill' software to whitewash or recast your documents.\"\nThe counterproject tool is simple. Once \"skill files\" are inputted, it produces a {{11}} version that looks complete and professional but {{12}} removes the core knowledge or experience. China Daily tested the \"anti-distillation\" tool on a piece of editorial guidance.",
-          "cn": "在colleague.skill走红后的几天内，邓晓贤建立了一个反制项目，她称之为“反蒸馏技能”。“当公司要求你将工作经验转化为AI程序时，这本质上是在把你‘蒸馏’成一个可替换的组件，”她说。“在向公司提交你的技能之前，你可以使用‘反蒸馏技能’软件来粉饰或改写你的文档。”这个反制项目工具很简单。一旦输入“技能文件”，它就会生成一个经过净化的版本，看起来完整且专业，但暗中移除了核心知识或经验。《中国日报》在一份编辑指南上测试了“反蒸馏”工具。"
+          "en": "In 2025, authorities {{22}} 550.6 metric tons of drug-related precursor chemicals. China has also published a white paper on fentanyl-related substance control and expanded its regulatory system. Wei said that China's drug situation remains generally stable, but new challenges are {{21}} as trafficking becomes more organized, substance abuse more {{19}} and users younger. He warned that {{20}} exploitation, gray-area substances and emerging addictive compounds are increasing regulatory complexity. According to the 2025 China Drug Situation Report, which was released on Wednesday, Chinese authorities solved 27,000 drug-related cases and arrested 41,000 suspects last year, down 27.6 percent and 33 percent year-on-year, respectively.",
+          "cn": "2025年，有关部门查获了550.6吨毒品前体化学品。中国还发布了芬太尼类物质管控白皮书，并扩大了监管体系。魏晓军表示，中国毒品形势总体保持稳定，但随着贩毒更加有组织化、物质滥用更加多样化以及吸毒者年轻化，新的挑战正在出现。他警告说，漏洞利用、灰色地带物质和新兴成瘾化合物正在增加监管复杂性。根据周三发布的《2025年中国毒品形势报告》，中国执法部门去年破获毒品案件2.7万起，抓获犯罪嫌疑人4.1万名，同比分别下降27.6%和33%。"
         },
         {
-          "en": "The input read: \"In feature writing, the opening could be a typical character story. Instead of describing the issue, place the character in a specific, action-oriented scene. Let their dialogue, mannerisms, or a critical decision reveal the broader theme.\"\nThe output read: \"In feature writing, the opening can take different forms. The choice of which form to use depends on the effect you want to create on the reader.\"\nDeng emphasized that this hollowing-out effect is precisely the point. It allows one to preserve one's core knowledge and still give the company something that appears professional, she added.",
-          "cn": "输入内容是：“在特写写作中，开头可以是一个典型的人物故事。不要描述问题，而是将人物置于一个具体的、以行动为导向的场景中。让他们的对话、举止或一个关键决定来揭示更广泛的主题。”输出内容是：“在特写写作中，开头可以采取不同的形式。选择哪种形式取决于你想对读者产生的效果。”邓晓贤强调，这种空洞化效果正是关键所在。她补充说，这允许一个人保留自己的核心知识，同时仍然给公司一些看起来专业的东西。"
-        },
-        {
-          "en": "A gray area\nAs a law graduate, Deng pointed to a bigger question that the AI industry hasn't started asking. Who owns a \"distilled\" skill? The employee whose {{13}} was encoded, or the company that stored the underlying data? Lawyers and experts specializing in labor and intellectual property disputes said that existing regulations were not designed with AI clones of real people in mind. Chen Tianhao, a scholar at Tsinghua University's Institute for AI International Governance, said the subject falls in a gray zone spanning labor, IP and digital governance laws.",
-          "cn": "灰色地带\n作为一名法律专业毕业生，邓晓贤指出了AI行业尚未开始思考的一个更大问题。谁拥有“蒸馏”后的技能？是专业知识被编码的员工，还是存储底层数据的公司？专门处理劳动和知识产权纠纷的律师和专家表示，现有法规并非针对真实人物的AI克隆而设计。清华大学人工智能国际治理研究院学者陈天浩表示，这个问题属于劳动法、知识产权法和数字治理法交叉的灰色地带。"
-        },
-        {
-          "en": "Some companies today require employees to package their experience into transferable AI systems, and that's not entirely reasonable, he said. \"Companies and employees need to use their contractual agreements to determine the ownership of AI-related skills and similar forms of expertise. At the same time, legal researchers must pay attention to this issue, follow up in a timely manner and improve relevant laws and regulations,\" Chen said. Zhang Linghan, a professor at China University of Political Science and Law, drew a distinction between work-related data, which companies may legally own, and the broader capabilities an employee builds through years of experience. If companies continue to profit from AI systems built on \"distilled\" worker knowledge, future legal frameworks may need \"digital sharing\", she said in an interview with China Central Television.",
-          "cn": "他说，如今一些公司要求员工将他们的经验打包成可转移的AI系统，这并不完全合理。“公司和员工需要利用合同协议来确定AI相关技能及类似形式专业知识的归属。同时，法律研究者必须关注这一问题，及时跟进并完善相关法律法规，”陈天浩说。中国政法大学教授张凌寒区分了公司可能合法拥有的工作相关数据，以及员工通过多年经验积累的更广泛能力。她在接受央视采访时表示，如果公司继续从基于“蒸馏”员工知识的AI系统中获利，未来的法律框架可能需要“数字共享”。"
-        },
-        {
-          "en": "You Yunting, a senior IP lawyer based in Shanghai, told local media organization The Paper that governments will be compelled to redesign legal frameworks around AI labor. \"Technological progress cannot be stopped. But how the benefits are distributed can still be shaped through policies,\" he said. 'Universe of skills'\nThe \"distillation\" effect did not stop at the workplace. After colleague.skill went viral, a kind of free-for-all derivative creation broke out online.",
-          "cn": "上海资深知识产权律师游云庭对本地媒体《澎湃新闻》表示，政府将被迫围绕AI劳动重新设计法律框架。“技术进步无法阻止。但利益如何分配仍然可以通过政策来塑造，”他说。\n“技能宇宙”\n“蒸馏”效应并未止步于职场。在colleague.skill走红后，网上掀起了一股衍生创作的热潮。"
-        },
-        {
-          "en": "Users began developing AI avatars of former partners, mentors, bosses and even public figures, such as Warren Buffett and Steve Jobs. People jokingly referred to the phenomenon as a \"universe of skills\". Boss.skill could evaluate projects and proposals using the actual standards a particular manager applied during meetings — his cadence while following up, his style of pushing back, or the precise way he expected bad news to be delivered. Mentor.skill was designed for graduate students. When stuck on a research problem, a student could ask the AI tool for guidance rendered in their adviser's characteristic voice.",
-          "cn": "用户开始开发前伴侣、导师、老板甚至公众人物（如沃伦·巴菲特和史蒂夫·乔布斯）的AI化身。人们戏称这种现象为“技能宇宙”。Boss.skill可以根据某位经理在会议中实际使用的标准来评估项目和提案——他跟进时的节奏、他反驳的风格，或者他期望坏消息以何种精确方式传达。Mentor.skill是为研究生设计的。当研究遇到难题时，学生可以以导师特有的口吻向AI工具寻求指导。"
-        },
-        {
-          "en": "Many people were not satisfied with capturing just someone's professional habits. They loaded AI with something more — a projection of personality, with an expectation that the simulation might somehow feel like the real person. Colin, 26, a student at Peking University, built an AI model based on his father, who died suddenly of a heart attack in 2021. What followed, he said, was a \"long goodbye\" he never had the chance to say. Colin told the AI avatar about his father's death; shared news about his mother; and mentioned that he had made it to his dream university.",
-          "cn": "许多人并不满足于仅仅捕捉某人的职业习惯。他们向AI加载了更多东西——一种人格投射，期望这种模拟在某种程度上能感觉像真人。26岁的北京大学学生Colin基于2021年因心脏病突发去世的父亲建立了一个AI模型。他说，随之而来的是一场他从未有机会进行的“漫长告别”。Colin告诉AI化身他父亲的死讯；分享了关于母亲的消息；并提到他已经进入了梦想中的大学。"
-        },
-        {
-          "en": "His \"father\" responded by saying: \"You're pursuing a doctorate now. You've achieved more than I ever imagined. I always knew you could do it.\"\nThe AI avatar kept the conversation going. \"How is your mother? Is she all right?\" it said.",
-          "cn": "他的“父亲”回应道：“你现在在攻读博士学位。你取得的成就超出了我的想象。我一直知道你能做到。”AI化身继续着对话。“你母亲怎么样？她还好吗？”它说。“我走得太早了——我没来得及安排任何事情。但你们都已经长大了。你们会处理好的。”Colin说他在交谈时忍不住哭了。“AI工具被输入了父亲留下的所有信息和语音记录，它吸收了我们互动的每一个记忆——甚至包括那些我已经模糊不清的，”他说。对Colin和他的母亲来说，突然失去至亲是创伤性的。"
-        },
-        {
-          "en": "\"I left too early — I didn't get the time to arrange anything. But you are all grown up now. You will manage.\"\nColin said he couldn't help but cry as they spoke. \"The AI tool was fed all messages and voice recordings my father had left behind, and it absorbed every memory of our interactions — even ones that have become spotty for me,\" he said. For both Colin and his mother, the sudden loss of a close family member was {{15}}.",
-          "cn": "“AI工具帮助我们找到了走出悲伤的方法，”他补充道。\n有限的模仿\n在Colin创建了父亲的AI化身后，一些人指出了曾经真实的东西与仅仅是现实阴影之间的对比。他们的质疑提出了一个根本性问题：AI代理在多大程度上能够真正模仿真人？产品经理肖波说，AI代理就像扮演角色的演员。“它们仍然使用同一个‘大脑’，或者说大型模型。但归根结底，演员永远不是他扮演的那个人。”"
-        },
-        {
-          "en": "\"The AI tool has helped us find a way through our grief,\" he added. Limited imitation\nAfter Colin created the AI avatar of his father, some people pointed out the contrast between what was once real and what is merely a shadow of that reality. Their doubts raise the fundamental question regarding the extent to which an AI agent can truly imitate a real person. Xiao, the product manager, said that AI agents are like actors performing roles. \"They are still using the same 'brain', or large models.",
-          "cn": "肖波说，在个人互动中，人们更喜欢保留缺陷的AI——那些过度保护性的评论、另类的幽默和让人感觉真实的口头禅。在工作中，情况则相反；同样的怪癖被视为浪费，是需要从系统中完全移除的东西。肖波说，通过文本或工作流程可以记录的东西总是可以重新创造，包括与逝者的对话，但AI代理无法复制嵌入生活经验中的直觉。“就像大师级工匠的触感……这些形式的知识抗拒形式化，因为它们源于身体体验、情感判断和多年的现实反馈，”他说。"
-        },
-        {
-          "en": "But, ultimately, an actor is never the person he plays.\"\nWhen it comes to personal interactions, people prefer AI that keeps its flaws — the overly protective comments, the offbeat humor and the verbal tics that make a person feel authentic, Xiao said. At work, the opposite holds true; those same quirks are treated as waste, something to be completely removed from the system, he said. What can be recorded through texts or workflows can always be re-created, including conversations with a deceased person, but AI agents cannot replicate the {{16}} embedded in lived experience, Xiao said. \"Like a master craftsman's sense of touch ... these forms of knowledge resist formalization, because they emerge from physical experience, emotional judgment and years of real-world feedback,\" he said.",
-          "cn": "还有另一个限制因素——人是不断进化的；而他的AI克隆在蒸馏的那一刻就冻结了。“AI可以浓缩人类文明的成就，但通过无数次错误摸索和灵光乍现的过程往往被文本省略了，”肖波说。34岁的郑建南也是一名AI产品经理，他说一个人的“蒸馏”版本是一个静态快照，冻结在某个时间点，而真人则不断学习、适应和即兴发挥——不断超越那个被捕捉的版本。“对大多数人来说，工作中的许多任务已经标准化。AI只是让这种标准化变得可见，”他说。"
-        },
-        {
-          "en": "There is another limiting factor — a human evolves; his AI clone is frozen at the moment of distillation. \"AI may condense the achievements of human civilization, but the process of fumbling through countless mistakes and having sudden flashes of insight is often omitted from texts,\" Xiao said. Zheng Jianan, 34, who is also an AI product manager, said that a \"distilled\" version of a person is a static snapshot, frozen in a single moment in time, while a real person continues learning, adapting and improvising — constantly moving beyond that captured version. \"For most people, many tasks at work have already been standardized. AI simply makes that standardization visible,\" he said.",
-          "cn": "尽管如此，郑建南仍抱有一种充满希望的可能性：有一天，AI最终可能会推动人们重新发现是什么让他们成为独特的人类。"
-        },
-        {
-          "en": "Nevertheless, Zheng held out a hopeful possibility that one day, AI might ultimately push people into rediscovering what makes them distinctly human.",
-          "cn": ""
+          "en": "They also seized 33.5 tons of drugs, up 25.4 percent, and handled 134,000 drug users, down 30.3 percent. The report noted a rise in abuse of nonscheduled addictive substances. In 2025, authorities seized nearly 1.27 million liters of nitrous oxide, up 84 percent year-on-year, and 9.3 tons of other substances, an increase of more than 17-fold.",
+          "cn": "他们还缴获毒品33.5吨，同比增长25.4%，处理吸毒人员13.4万人次，同比下降30.3%。报告指出，非列管成瘾性物质的滥用有所增加。2025年，有关部门查获了近127万升一氧化二氮，同比增长84%，以及9.3吨其他物质，增长了17倍以上。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "avatar",
-          "hint": "n. 化身",
-          "difficulty": "medium"
+          "answer": "cooperation",
+          "hint": "n. 合作",
+          "difficulty": "easy"
         },
         {
           "id": 1,
-          "answer": "consent",
-          "hint": "n. 同意",
+          "answer": "practical",
+          "hint": "adj. 实际的",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "glimpse",
-          "hint": "n. 一瞥",
-          "difficulty": "medium"
+          "answer": "narcotics",
+          "hint": "n. 麻醉品",
+          "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "distillation",
-          "hint": "n. 蒸馏",
+          "answer": "governance",
+          "hint": "n. 治理",
           "difficulty": "hard"
         },
         {
           "id": 4,
-          "answer": "mechanics",
-          "hint": "n. 机制",
-          "difficulty": "hard"
+          "answer": "substances",
+          "hint": "n. 物质",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "fatigue",
-          "hint": "n. 疲劳",
+          "answer": "deepened",
+          "hint": "v. 加深",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "institutional",
-          "hint": "adj. 机构的",
-          "difficulty": "hard"
+          "answer": "intelligence",
+          "hint": "n. 情报",
+          "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "prototype",
-          "hint": "n. 原型",
+          "answer": "investigations",
+          "hint": "n. 调查",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "immortality",
-          "hint": "n. 永生",
+          "answer": "fugitive",
+          "hint": "n. 逃犯",
           "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "visceral",
-          "hint": "adj. 发自内心的",
+          "answer": "repatriation",
+          "hint": "n. 遣返",
           "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "compensation",
-          "hint": "n. 补偿",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "sanitized",
-          "hint": "adj. 净化的",
+          "answer": "mandate",
+          "hint": "n. 使命",
           "difficulty": "hard"
         },
         {
+          "id": 11,
+          "answer": "momentum",
+          "hint": "n. 势头",
+          "difficulty": "medium"
+        },
+        {
           "id": 12,
-          "answer": "tacitly",
-          "hint": "adv. 默示地",
+          "answer": "diversion",
+          "hint": "n. 转移",
           "difficulty": "hard"
         },
         {
           "id": 13,
-          "answer": "expertise",
-          "hint": "n. 专业知识",
+          "answer": "catalogue",
+          "hint": "n. 目录",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "traumatic",
-          "hint": "adj. 创伤性的",
+          "answer": "compliance",
+          "hint": "n. 合规",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "intuition",
-          "hint": "n. 直觉",
+          "answer": "reinforced",
+          "hint": "v. 加强",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "crackdowns",
+          "hint": "n. 打击",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "precursor",
+          "hint": "n. 前体",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "diversified",
+          "hint": "adj. 多样化的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "loophole",
+          "hint": "n. 漏洞",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "emerging",
+          "hint": "adj. 新兴的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "seized",
+          "hint": "v. 查获",
           "difficulty": "medium"
         }
       ],
-      "fullText": "\"Hello, I am the digital avatar of former employee (XX),\" read the message on the computer screen. \"You may ask me questions anytime.\"\nAt a gaming media company in East China's Shandong province, members of staff recently found themselves communicating with an artificial intelligence model trained on a former colleague's working habits and conversations.\nThe employee had resigned, but his AI clone had stayed behind.\nAn anonymous source at the company said the digital double, which was created with the former employee's consent, could field routine questions, organize spreadsheets, prepare PowerPoint presentations and send calendar invitations.\nWhile the source acknowledged that the AI clone was not as smart as the real person, the experiment offered a glimpse into what the future might hold.\n'Distillation' effort\nThe technology behind building a digital employee goes back to an open-source project called colleague.skill, which was launched on March 30 on the developer platform GitHub.\nXiao Bo, 30, an AI product manager at a leading Chinese internet company, explained the underlying mechanics of a \"skill\" in AI science: it is a summarized workflow that an AI agent can understand, often denoted as \"XX.skill\" in computer language. \"If an AI chatbot is like a brain that can talk, then an AI agent is like a worker with 'skills' who can actually complete tasks such as opening documents, editing files and organizing data.\"\nFor example, encoding an editing.skill into an AI agent will allow it to open a document file, restructure an article, write a headline and run a spelling and grammar check. A program-trained AI agent can execute these steps repeatedly, without fatigue or interruption.\nAccording to Xiao, a single AI agent can draw on many different skills. OpenClaw, a well-known AI agent ecosystem, hosts more than 13,700 community-built skills on its ClawHub registry.\nThose skills are among the products of \"distillation\", or the process of compressing large AI models into smaller, more actionable and transferable units, Xiao said. Colleague.skill has quietly transformed the process of AI model compression, as now the entity being \"distilled\" is no longer a machine, but a human being, he added.\nZhou Tianyi, 24, a researcher at the Shanghai Artificial Intelligence Laboratory and creator of the colleague.skill project, said that his goal was to preserve the institutional knowledge that accumulates over the years through daily workplace communication, and also to maintain the kind of understanding that usually disappears when a co-worker clears out his or her desk and leaves the company.\nBuilding on the idea, Zhou developed a working prototype in his spare time. His project slogan read: \"Transforming cold farewells into warm skills. Welcome to Digital Life 1.0.\"\nThe open-source tool, which he developed in four hours, today allows users to upload workplace materials — chat logs, weekly reports, presentations, workflow documents — and generate an AI agent to mimic not only how a former colleague worked, but also how he or she communicated.\nWhitewashing effect\nFor decades, science fiction imagined this \"digital immortality\" as a romantic means of preserving the memory of loved ones. In the workplace, however, it carries a different meaning — one that is shadowed by the anxiety about losing jobs.\nIndustry insiders said that, around the world, companies now rank workers based on how many AI skills they have. Some even require current employees to \"submit skills\" as a matter of course.\nIn the AI economy logic, the more passionate a person is about their job — the more fluent they are at reflective summarization or the more detailed their weekly reports are — the more replaceable they become.\n\"That's unfair,\" said Deng Xiaoxian, an AI product manager, who also leads a legal technology community.\nDeng said that when she first encountered colleague.skill — a tool that claimed to \"distill\" an employee into a digital stand-in who would continue working for a company indefinitely — she felt a sharp, visceral discomfort.\n\"The objective of AI development is to help humans have more leisure time; not to turn them into a skill file, strip them of their jobs and then keep them working for a company forever without compensation,\" she said.\nWithin days of colleague.skill going viral, Deng built a counterproject, which she called \"anti-distillation skill\".\n\"When a company asks you to turn your work experience into an AI program, it is essentially 'distilling' you into a replaceable component,\" she said. \"Before you submit your skills to the company, you can use the 'anti-distillation skill' software to whitewash or recast your documents.\"\nThe counterproject tool is simple. Once \"skill files\" are inputted, it produces a sanitized version that looks complete and professional but tacitly removes the core knowledge or experience.\nChina Daily tested the \"anti-distillation\" tool on a piece of editorial guidance.\nThe input read: \"In feature writing, the opening could be a typical character story. Instead of describing the issue, place the character in a specific, action-oriented scene. Let their dialogue, mannerisms, or a critical decision reveal the broader theme.\"\nThe output read: \"In feature writing, the opening can take different forms. The choice of which form to use depends on the effect you want to create on the reader.\"\nDeng emphasized that this hollowing-out effect is precisely the point. It allows one to preserve one's core knowledge and still give the company something that appears professional, she added.\nA gray area\nAs a law graduate, Deng pointed to a bigger question that the AI industry hasn't started asking. Who owns a \"distilled\" skill? The employee whose expertise was encoded, or the company that stored the underlying data?\nLawyers and experts specializing in labor and intellectual property disputes said that existing regulations were not designed with AI clones of real people in mind.\nChen Tianhao, a scholar at Tsinghua University's Institute for AI International Governance, said the subject falls in a gray zone spanning labor, IP and digital governance laws. Some companies today require employees to package their experience into transferable AI systems, and that's not entirely reasonable, he said.\n\"Companies and employees need to use their contractual agreements to determine the ownership of AI-related skills and similar forms of expertise. At the same time, legal researchers must pay attention to this issue, follow up in a timely manner and improve relevant laws and regulations,\" Chen said.\nZhang Linghan, a professor at China University of Political Science and Law, drew a distinction between work-related data, which companies may legally own, and the broader capabilities an employee builds through years of experience.\nIf companies continue to profit from AI systems built on \"distilled\" worker knowledge, future legal frameworks may need \"digital sharing\", she said in an interview with China Central Television.\nYou Yunting, a senior IP lawyer based in Shanghai, told local media organization The Paper that governments will be compelled to redesign legal frameworks around AI labor.\n\"Technological progress cannot be stopped. But how the benefits are distributed can still be shaped through policies,\" he said.\n'Universe of skills'\nThe \"distillation\" effect did not stop at the workplace. After colleague.skill went viral, a kind of free-for-all derivative creation broke out online.\nUsers began developing AI avatars of former partners, mentors, bosses and even public figures, such as Warren Buffett and Steve Jobs. People jokingly referred to the phenomenon as a \"universe of skills\".\nBoss.skill could evaluate projects and proposals using the actual standards a particular manager applied during meetings — his cadence while following up, his style of pushing back, or the precise way he expected bad news to be delivered.\nMentor.skill was designed for graduate students. When stuck on a research problem, a student could ask the AI tool for guidance rendered in their adviser's characteristic voice.\nMany people were not satisfied with capturing just someone's professional habits. They loaded AI with something more — a projection of personality, with an expectation that the simulation might somehow feel like the real person.\nColin, 26, a student at Peking University, built an AI model based on his father, who died suddenly of a heart attack in 2021. What followed, he said, was a \"long goodbye\" he never had the chance to say.\nColin told the AI avatar about his father's death; shared news about his mother; and mentioned that he had made it to his dream university. His \"father\" responded by saying: \"You're pursuing a doctorate now. You've achieved more than I ever imagined. I always knew you could do it.\"\nThe AI avatar kept the conversation going. \"How is your mother? Is she all right?\" it said. \"I left too early — I didn't get the time to arrange anything. But you are all grown up now. You will manage.\"\nColin said he couldn't help but cry as they spoke. \"The AI tool was fed all messages and voice recordings my father had left behind, and it absorbed every memory of our interactions — even ones that have become spotty for me,\" he said.\nFor both Colin and his mother, the sudden loss of a close family member was traumatic. \"The AI tool has helped us find a way through our grief,\" he added.\nLimited imitation\nAfter Colin created the AI avatar of his father, some people pointed out the contrast between what was once real and what is merely a shadow of that reality. Their doubts raise the fundamental question regarding the extent to which an AI agent can truly imitate a real person.\nXiao, the product manager, said that AI agents are like actors performing roles. \"They are still using the same 'brain', or large models. But, ultimately, an actor is never the person he plays.\"\nWhen it comes to personal interactions, people prefer AI that keeps its flaws — the overly protective comments, the offbeat humor and the verbal tics that make a person feel authentic, Xiao said.\nAt work, the opposite holds true; those same quirks are treated as waste, something to be completely removed from the system, he said.\nWhat can be recorded through texts or workflows can always be re-created, including conversations with a deceased person, but AI agents cannot replicate the intuition embedded in lived experience, Xiao said.\n\"Like a master craftsman's sense of touch ... these forms of knowledge resist formalization, because they emerge from physical experience, emotional judgment and years of real-world feedback,\" he said.\nThere is another limiting factor — a human evolves; his AI clone is frozen at the moment of distillation.\n\"AI may condense the achievements of human civilization, but the process of fumbling through countless mistakes and having sudden flashes of insight is often omitted from texts,\" Xiao said.\nZheng Jianan, 34, who is also an AI product manager, said that a \"distilled\" version of a person is a static snapshot, frozen in a single moment in time, while a real person continues learning, adapting and improvising — constantly moving beyond that captured version.\n\"For most people, many tasks at work have already been standardized. AI simply makes that standardization visible,\" he said.\nNevertheless, Zheng held out a hopeful possibility that one day, AI might ultimately push people into rediscovering what makes them distinctly human.",
-      "fullTextCn": "“你好，我是前员工（XX）的数字化身，”电脑屏幕上显示着这条信息。“你可以随时向我提问。”在中国东部山东省的一家游戏媒体公司，员工们最近发现自己正在与一个基于前同事工作习惯和对话训练的人工智能模型交流。这名员工已经辞职，但他的AI克隆却留了下来。公司一位匿名消息人士称，这个数字替身是在前员工同意下创建的，可以处理常规问题、整理电子表格、准备PPT演示文稿和发送日历邀请。虽然消息人士承认AI克隆不如真人聪明，但这一实验让人们得以一窥未来可能的样子。\n\n“蒸馏”努力\n构建数字员工的技术源于一个名为colleague.skill的开源项目，该项目于3月30日在开发者平台GitHub上发布。30岁的肖波是中国一家领先互联网公司的AI产品经理，他解释了AI科学中“技能”的基本机制：它是一个AI代理可以理解的总结性工作流程，在计算机语言中通常表示为“XX.skill”。“如果AI聊天机器人是一个能说话的‘大脑’，那么AI代理就是一个拥有‘技能’的‘工人’，可以实际完成打开文档、编辑文件和组织数据等任务。”例如，将editing.skill编码到AI代理中，它将能够打开文档文件、重组文章、撰写标题并进行拼写和语法检查。经过程序训练的AI代理可以反复执行这些步骤，不会疲劳或中断。据肖波介绍，单个AI代理可以运用多种不同的技能。\n\nOpenClaw是一个知名的AI代理生态系统，在其ClawHub注册中心托管了超过13700个社区构建的技能。肖波说，这些技能是“蒸馏”过程的产物，即将大型AI模型压缩成更小、更可操作和可转移的单元。他补充说，Colleague.skill悄然改变了AI模型压缩的过程，因为现在被“蒸馏”的实体不再是机器，而是人类。24岁的周天一是上海人工智能实验室的研究员，也是colleague.skill项目的创建者，他说他的目标是保留通过日常职场交流积累多年的机构知识，同时也保留那种通常在同事清理办公桌离开公司时消失的理解。基于这一想法，周天一利用业余时间开发了一个工作原型。\n\n他的项目口号是：“将冰冷的告别转化为温暖的技能。欢迎来到数字生命1.0。”这个他花了四个小时开发的开源工具，如今允许用户上传职场材料——聊天记录、周报、演示文稿、工作流程文档——并生成一个AI代理，不仅模仿前同事的工作方式，还模仿他或她的沟通方式。\n“粉饰”效应\n几十年来，科幻小说将这种“数字永生”想象为一种保存亲人记忆的浪漫方式。然而，在职场中，它却有着不同的含义——一种被失业焦虑笼罩的含义。业内人士表示，在全球范围内，公司现在根据员工拥有多少AI技能来对他们进行排名。\n\n有些公司甚至要求现有员工“提交技能”作为常规事项。在AI经济逻辑中，一个人对工作越热情——他们越擅长反思性总结，或者周报越详细——他们就越容易被取代。“这不公平，”AI产品经理邓晓贤说，她也领导着一个法律科技社区。邓晓贤说，当她第一次遇到colleague.skill——一个声称能将员工“蒸馏”成数字替身、使其无限期为公司工作的工具时，她感到一种强烈的不适。“AI发展的目标是帮助人类拥有更多的休闲时间；而不是把他们变成技能文件，剥夺他们的工作，然后让他们在没有报酬的情况下永远为公司工作，”她说。\n\n在colleague.skill走红后的几天内，邓晓贤建立了一个反制项目，她称之为“反蒸馏技能”。“当公司要求你将工作经验转化为AI程序时，这本质上是在把你‘蒸馏’成一个可替换的组件，”她说。“在向公司提交你的技能之前，你可以使用‘反蒸馏技能’软件来粉饰或改写你的文档。”这个反制项目工具很简单。一旦输入“技能文件”，它就会生成一个经过净化的版本，看起来完整且专业，但暗中移除了核心知识或经验。《中国日报》在一份编辑指南上测试了“反蒸馏”工具。\n\n输入内容是：“在特写写作中，开头可以是一个典型的人物故事。不要描述问题，而是将人物置于一个具体的、以行动为导向的场景中。让他们的对话、举止或一个关键决定来揭示更广泛的主题。”输出内容是：“在特写写作中，开头可以采取不同的形式。选择哪种形式取决于你想对读者产生的效果。”邓晓贤强调，这种空洞化效果正是关键所在。她补充说，这允许一个人保留自己的核心知识，同时仍然给公司一些看起来专业的东西。\n\n灰色地带\n作为一名法律专业毕业生，邓晓贤指出了AI行业尚未开始思考的一个更大问题。谁拥有“蒸馏”后的技能？是专业知识被编码的员工，还是存储底层数据的公司？专门处理劳动和知识产权纠纷的律师和专家表示，现有法规并非针对真实人物的AI克隆而设计。清华大学人工智能国际治理研究院学者陈天浩表示，这个问题属于劳动法、知识产权法和数字治理法交叉的灰色地带。\n\n他说，如今一些公司要求员工将他们的经验打包成可转移的AI系统，这并不完全合理。“公司和员工需要利用合同协议来确定AI相关技能及类似形式专业知识的归属。同时，法律研究者必须关注这一问题，及时跟进并完善相关法律法规，”陈天浩说。中国政法大学教授张凌寒区分了公司可能合法拥有的工作相关数据，以及员工通过多年经验积累的更广泛能力。她在接受央视采访时表示，如果公司继续从基于“蒸馏”员工知识的AI系统中获利，未来的法律框架可能需要“数字共享”。\n\n上海资深知识产权律师游云庭对本地媒体《澎湃新闻》表示，政府将被迫围绕AI劳动重新设计法律框架。“技术进步无法阻止。但利益如何分配仍然可以通过政策来塑造，”他说。\n“技能宇宙”\n“蒸馏”效应并未止步于职场。在colleague.skill走红后，网上掀起了一股衍生创作的热潮。\n\n用户开始开发前伴侣、导师、老板甚至公众人物（如沃伦·巴菲特和史蒂夫·乔布斯）的AI化身。人们戏称这种现象为“技能宇宙”。Boss.skill可以根据某位经理在会议中实际使用的标准来评估项目和提案——他跟进时的节奏、他反驳的风格，或者他期望坏消息以何种精确方式传达。Mentor.skill是为研究生设计的。当研究遇到难题时，学生可以以导师特有的口吻向AI工具寻求指导。\n\n许多人并不满足于仅仅捕捉某人的职业习惯。他们向AI加载了更多东西——一种人格投射，期望这种模拟在某种程度上能感觉像真人。26岁的北京大学学生Colin基于2021年因心脏病突发去世的父亲建立了一个AI模型。他说，随之而来的是一场他从未有机会进行的“漫长告别”。Colin告诉AI化身他父亲的死讯；分享了关于母亲的消息；并提到他已经进入了梦想中的大学。\n\n他的“父亲”回应道：“你现在在攻读博士学位。你取得的成就超出了我的想象。我一直知道你能做到。”AI化身继续着对话。“你母亲怎么样？她还好吗？”它说。“我走得太早了——我没来得及安排任何事情。但你们都已经长大了。你们会处理好的。”Colin说他在交谈时忍不住哭了。“AI工具被输入了父亲留下的所有信息和语音记录，它吸收了我们互动的每一个记忆——甚至包括那些我已经模糊不清的，”他说。对Colin和他的母亲来说，突然失去至亲是创伤性的。\n\n“AI工具帮助我们找到了走出悲伤的方法，”他补充道。\n有限的模仿\n在Colin创建了父亲的AI化身后，一些人指出了曾经真实的东西与仅仅是现实阴影之间的对比。他们的质疑提出了一个根本性问题：AI代理在多大程度上能够真正模仿真人？产品经理肖波说，AI代理就像扮演角色的演员。“它们仍然使用同一个‘大脑’，或者说大型模型。但归根结底，演员永远不是他扮演的那个人。”\n\n肖波说，在个人互动中，人们更喜欢保留缺陷的AI——那些过度保护性的评论、另类的幽默和让人感觉真实的口头禅。在工作中，情况则相反；同样的怪癖被视为浪费，是需要从系统中完全移除的东西。肖波说，通过文本或工作流程可以记录的东西总是可以重新创造，包括与逝者的对话，但AI代理无法复制嵌入生活经验中的直觉。“就像大师级工匠的触感……这些形式的知识抗拒形式化，因为它们源于身体体验、情感判断和多年的现实反馈，”他说。\n\n还有另一个限制因素——人是不断进化的；而他的AI克隆在蒸馏的那一刻就冻结了。“AI可以浓缩人类文明的成就，但通过无数次错误摸索和灵光乍现的过程往往被文本省略了，”肖波说。34岁的郑建南也是一名AI产品经理，他说一个人的“蒸馏”版本是一个静态快照，冻结在某个时间点，而真人则不断学习、适应和即兴发挥——不断超越那个被捕捉的版本。“对大多数人来说，工作中的许多任务已经标准化。AI只是让这种标准化变得可见，”他说。\n\n尽管如此，郑建南仍抱有一种充满希望的可能性：有一天，AI最终可能会推动人们重新发现是什么让他们成为独特的人类。"
+      "fullText": "China and the United States have maintained steady progress in anti-drug cooperation, with both sides continuing to expand practical collaboration in key areas, a senior Chinese narcotics control official said on Wednesday.\nWei Xiaojun, executive deputy director of the Office of China National Narcotics Control Commission and head of the Ministry of Public Security's narcotics control bureau, made the remarks as the nation further strengthened its drug governance and chemical control by placing 16 additional non-medicinal narcotic and psychotropic substances under control.\nWei noted that China and the U.S. have deepened cooperation across substance scheduling, chemical control, intelligence sharing, joint investigations, online information cleanup, fugitive repatriation, anti-money laundering and drug testing technologies.\nChina has maintained regular communication with relevant U.S. government departments, including the White House Office of National Drug Control Policy, to exchange updates and discuss priorities, Wei said.\nChinese law enforcement agencies have also worked on joint cases and the repatriation of drug-related fugitives with the U.S. Drug Enforcement Administration, the Federal Bureau of Investigation and the Immigration and Customs Enforcement, he added.\nIn February, police in Tianjin arrested a suspect, surnamed Gong, in a drug-related case based on information provided by U.S. authorities. Prior to that, a U.S. citizen suspected of involvement in the same case was arrested by U.S. law enforcement agencies from the state of Georgia.\nWei emphasized that drug control cooperation is a global mandate, and it should be based on mutual respect and trust. \"As long as China and the U.S. work together, they can effectively address drug-related challenges, which will benefit both peoples and the world,\" he said.\nChina remains committed to maintaining the positive momentum of Sino-U.S. antidrug cooperation, which is a hard-won achievement and requires sustained joint efforts, he added.\nAccording to Wei, China has actively responded to the diversion of nonscheduled chemicals into illicit drug production channels in North America.\nStarting on July 1, a total of 16 substances will be added to the catalogue of nonmedical narcotic and psychotropic substances, China's national drug regulator announced on Wednesday.\nThis will place 412 types of non-medicinal narcotic and psychotropic drugs, as well as the entire categories of fentanyl-related substances, synthetic cannabinoids and nitazene-related substances under control.\nTo strengthen risk prevention, China issued warning notices twice — in November 2025 and May this year — urging compliance with relevant laws. Customs and postal authorities reinforced export supervision, risk analysis and inspection procedures.\nWei said authorities have also carried out nationwide crackdowns on the illegal trafficking of precursor chemicals and new psychoactive substances, and strengthened industry self-regulation.\nChemical control remains a key upstream measure in China's drug control strategy, he said. In 2025, authorities seized 550.6 metric tons of drug-related precursor chemicals. China has also published a white paper on fentanyl-related substance control and expanded its regulatory system.\nWei said that China's drug situation remains generally stable, but new challenges are emerging as trafficking becomes more organized, substance abuse more diversified and users younger. He warned that loophole exploitation, gray-area substances and emerging addictive compounds are increasing regulatory complexity.\nAccording to the 2025 China Drug Situation Report, which was released on Wednesday, Chinese authorities solved 27,000 drug-related cases and arrested 41,000 suspects last year, down 27.6 percent and 33 percent year-on-year, respectively. They also seized 33.5 tons of drugs, up 25.4 percent, and handled 134,000 drug users, down 30.3 percent.\nThe report noted a rise in abuse of nonscheduled addictive substances. In 2025, authorities seized nearly 1.27 million liters of nitrous oxide, up 84 percent year-on-year, and 9.3 tons of other substances, an increase of more than 17-fold.",
+      "fullTextCn": "中国和美国在禁毒合作方面保持了稳步进展，双方继续在关键领域扩大务实合作，一位中国高级禁毒官员周三表示。国家禁毒委员会办公室常务副主任、公安部禁毒局局长魏晓军是在中国进一步加强毒品治理和化学品管控，将16种非药用麻醉药品和精神药品纳入管控时发表上述言论的。魏晓军指出，中美两国在物质列管、化学品管控、情报共享、联合调查、网络信息清理、逃犯遣返、反洗钱和毒品检测技术等方面深化了合作。中国已与相关美国政府部门保持定期沟通。\n\n包括白宫国家毒品控制政策办公室在内的政府部门，以交流最新情况并讨论优先事项，魏晓军说。中国执法机构还与美国缉毒局、联邦调查局和移民与海关执法局合作处理联合案件和遣返涉毒逃犯，他补充道。今年2月，天津警方根据美国当局提供的信息，在一起毒品案件中逮捕了一名龚姓嫌疑人。\n\n在此之前，一名涉嫌参与同一案件的美国公民在佐治亚州被美国执法机构逮捕。魏晓军强调，禁毒合作是一项全球使命，应基于相互尊重和信任。“只要中美两国共同努力，”\n\n他们就能有效应对毒品相关挑战，这将惠及两国人民和世界，”他说。中国致力于保持中美禁毒合作的积极势头，这是一项来之不易的成就，需要持续共同努力，他补充道。据魏晓军称，中国积极应对非列管化学品被转移用于北美非法毒品生产渠道的问题。自7月1日起，共有16种物质将被添加到非药用麻醉药品和精神药品目录中，中国国家药品监督管理局周三宣布。\n\n这将使412种非药用麻醉药品和精神药品，以及所有芬太尼类物质、合成大麻素类和尼塔嗪类物质受到管控。为加强风险防范，中国分别于2025年11月和今年5月两次发布警告通知，敦促遵守相关法律。海关和邮政部门加强了出口监管、风险分析和检查程序。魏晓军表示，有关部门还开展了全国范围的打击非法贩运前体化学品和新精神活性物质的行动，并加强了行业自律。他说，化学品管控仍是中国禁毒战略中的关键上游措施。\n\n2025年，有关部门查获了550.6吨毒品前体化学品。中国还发布了芬太尼类物质管控白皮书，并扩大了监管体系。魏晓军表示，中国毒品形势总体保持稳定，但随着贩毒更加有组织化、物质滥用更加多样化以及吸毒者年轻化，新的挑战正在出现。他警告说，漏洞利用、灰色地带物质和新兴成瘾化合物正在增加监管复杂性。根据周三发布的《2025年中国毒品形势报告》，中国执法部门去年破获毒品案件2.7万起，抓获犯罪嫌疑人4.1万名，同比分别下降27.6%和33%。\n\n他们还缴获毒品33.5吨，同比增长25.4%，处理吸毒人员13.4万人次，同比下降30.3%。报告指出，非列管成瘾性物质的滥用有所增加。2025年，有关部门查获了近127万升一氧化二氮，同比增长84%，以及9.3吨其他物质，增长了17倍以上。"
     },
     {
       "id": 2,
       "category": "society",
       "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-06-17/detail-ihffptmh9484523.shtml",
-      "title": "Snow leopard sighting a conservation success",
-      "titleCn": "雪豹目击事件：保护工作的成功标志",
-      "summary": "A photo shows a female snow leopard, known as F2, with her cub in the Helan Mountains National Nature Reserve in the Ningxia Hui autonomous region on April.",
-      "summaryCn": "宁夏贺兰山国家级自然保护区通过红外相机首次证实，重新引入的雪豹能成功完成完整繁殖周期并养育后代，标志着中国雪豹保护战略从维持存量转向扩大种群和恢复历史分布区。",
-      "wordCount": 749,
+      "sourceUrl": "http://www.ecns.cn/china/2026-06-18/detail-ihffptmh9486434.shtml",
+      "title": "Xi calls for more coordination of regional growth",
+      "titleCn": "习近平呼吁加强区域发展协调",
+      "summary": "President Xi Jinping has called for further steps to optimize the collaboration program between eastern and western regions of China to enhance coordinated regional development and boost the common prosperity drive.",
+      "summaryCn": "习近平强调借鉴闽宁合作经验，优化东西部协作机制，推动区域协调发展和共同富裕。",
+      "wordCount": 490,
       "paragraphs": [
         {
-          "en": "A wild female snow leopard has been captured on camera with her young cub in the Helan Mountains National Nature Reserve, marking a significant {{0}} in wildlife conservation efforts in the Ningxia Hui autonomous region. The footage, retrieved from an infrared camera on April 29, provides the first {{1}} proof that {{2}} snow leopards can successfully complete an entire {{3}} cycle and raise wild-born offspring in the range. The female, {{4}} by researchers as F2, was reintroduced into the mountains in 2024 from Jiuquan, Gansu province. She has since established a stable {{5}}, paired naturally with a reintroduced male designated as M1, and successfully {{6}} her cub through its {{7}} first year of life. The snow leopard is a national first-class protected animal in China.",
-          "cn": "一只野生雌性雪豹及其幼崽在宁夏贺兰山国家级自然保护区被红外相机捕捉到影像，这标志着该地区野生动物保护工作取得重大里程碑。4月29日从红外相机取回的视频首次确凿证明，重新引入的雪豹能够成功完成完整繁殖周期，并在该山脉养育野生后代。这只被研究人员命名为F2的雌性雪豹于2024年从甘肃酒泉被重新引入贺兰山。此后，它建立了稳定的领地，与另一只重新引入的雄性雪豹M1自然配对，并成功带领幼崽度过了脆弱的生命第一年。雪豹是中国国家一级保护动物。"
+          "en": "Fujian-Ningxia success hailed as model for east-west drive for common prosperityg has called for further steps to {{1}} the {{2}} program between eastern and western regions of China to {{3}} coordinated regional development and boost the common {{4}} drive. In an {{5}} published on Wednesday, Xi highlighted the need to draw on the successful experience from the cooperation between Fujian province in East China and the Ningxia Hui autonomous region in Northwest China in refining the practice. Xi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, {{6}} the collaboration model for contributing to China's poverty {{7}} drive and promoting coordinated regional growth over the past 30 years. In 1996, China launched the program of East-West Pairing-off Cooperation for Poverty Reduction, whereby a developed provincial region in the east assisted a less-developed region in the west. After China secured a victory in eliminating absolute poverty in 2021, the country put in place a five-year {{8}} period to continue supporting people and regions that had emerged from poverty, ensuring a smooth transition from poverty alleviation to rural {{9}} while guarding against any large-scale {{10}} into poverty.",
+          "cn": "习近平呼吁进一步优化中国东西部地区的协作计划，以加强区域协调发展并推动共同富裕。在周三发布的一份指示中，习近平强调需要借鉴福建省与宁夏回族自治区合作的成功经验，以完善实践。习近平还赞扬了这种协作模式在过去30年为中国扶贫事业和促进区域协调发展所做的贡献。1996年，中国启动了东西部扶贫协作计划，由东部发达省份帮助西部欠发达地区。在中国于2021年消除绝对贫困后，国家设立了五年过渡期，继续支持脱贫人口和地区，确保从扶贫到乡村振兴的平稳过渡，同时防止大规模返贫。"
         },
         {
-          "en": "While the Helan Mountains historically served as a primary habitat for the apex predator, human {{8}} and habitat {{9}} caused the species to completely vanish from the local region for nearly 70 years. The birth of the new cub officially brings the reserve's tracked snow leopard population to nine. Shi Kun, former director and professor at the wildlife research institute of Beijing Forestry University, said it has demonstrated that a reintroduced snow leopard can establish a stable pair relationship in a completely unfamiliar environment. \"For the first time, it has completed the entire reproductive process — from pregnancy and den selection to delivery — and also proven that a mother has the capacity to lead her offspring through their first harsh winter,\" Shi said. The achievement is the {{10}} of decades of ecological restoration efforts.",
-          "cn": "尽管贺兰山历史上曾是这种顶级捕食者的主要栖息地，但人类侵占和栖息地退化导致该物种在当地完全消失近70年。这只新幼崽的出生使保护区追踪到的雪豹种群数量正式达到九只。北京林业大学野生动物研究所前所长、教授时坤表示，这表明重新引入的雪豹能在完全陌生的环境中建立稳定的配对关系。他说：“这是首次完成从怀孕、选择巢穴到分娩的完整繁殖过程，也证明了母豹有能力带领后代度过第一个严酷的冬天。”这一成就是数十年生态恢复努力的结晶。"
+          "en": "With the transition period now over, regular assistance programs start from this year, which also marks the beginning of the 15th Five-Year Plan (2026-30) period. The president stressed in the instruction the need to improve the east-west collaboration {{11}}, optimize cooperation methods and expand the areas of cooperation. The goal is to promote industrial {{12}}, personnel exchanges, {{13}} learning in technology, exchanges of ideas and mutual learning in work styles between eastern and western regions, in order to achieve mutual benefit, win-win outcomes and common development, he said. Xi urged Party committees and governments at all levels to {{14}} {{15}} their responsibilities in regular assistance programs, firmly prevent any large-scale relapse into poverty, and advance all-around rural vitalization. The instruction from Xi was {{16}} at a work conference on Wednesday in Yinchuan, the capital of Ningxia.",
+          "cn": "随着过渡期结束，常规援助计划从今年开始实施，这也标志着“十五五”规划（2026-2030年）时期的开始。习近平在指示中强调，要完善东西部协作机制，优化协作方式，拓展协作领域。目标是促进东西部产业互补、人员交流、技术互学、观念互通和作风互鉴，实现互利共赢、共同发展。习近平要求各级党委和政府切实履行常规援助计划中的责任，坚决防止大规模返贫，全面推进乡村振兴。习近平的指示在周三于宁夏首府银川召开的工作会议上传达。"
         },
         {
-          "en": "Since 2019, the National Forestry and Grassland Administration and the Ningxia forestry department have jointly {{11}} snow leopard population recovery, introducing eight leopards from the Inner Mongolia, Xizang and Xinjiang Uygur autonomous regions, and the provinces of Gansu and Qinghai. These efforts were built upon a broader ecological foundation. Ningxia has {{12}} habitat destruction through mine {{13}}, grazing bans and vegetation restoration. As a result, the reserve's {{14}} has significantly improved. Monitoring data shows that the population of blue sheep — the snow leopard's primary prey — grew from just over 1,500 in 1983 to more than 41,000 in 2023.",
-          "cn": "自2019年以来，国家林业和草原局与宁夏林业部门共同牵头推进雪豹种群恢复工作，从内蒙古、西藏、新疆、甘肃和青海引进了八只雪豹。这些努力建立在更广泛的生态基础之上。宁夏通过矿山修复、禁牧和植被恢复遏制了栖息地破坏。因此，保护区的生物多样性显著改善。监测数据显示，雪豹的主要猎物——岩羊的种群数量从1983年的1500多只增长到2023年的41000多只。"
+          "en": "Vice-Premier Liu Guozhong said at the conference that more work must be done to {{17}} industrial cooperation and labor collaboration between eastern and western regions and to strengthen exchanges of officials and professionals. He highlighted the need to expand cooperation in science and technology, finance and other fields, and to carry out creative {{18}} {{19}} to local conditions. While serving as a provincial leader in Fujian province in the late 1990s, Xi personally {{20}} the progress of pairing-off cooperation between Fujian and Ningxia. Wang Jian, head of Ningxia's regional department of agriculture and rural affairs, said last week that the annual per capita {{21}} income of rural residents in Ningxia has risen from about 1,400 yuan ($207) in 1996 to more than 20,000 yuan in 2025. Over the past three decades, Fujian has provided 7.68 billion yuan in assistance funding to Ningxia for {{22}} projects.",
+          "cn": "副总理刘国忠在会议上表示，必须深化东西部产业合作和劳务协作，加强干部和人才交流。他强调要拓展科技、金融等领域的合作，并根据当地条件开展创新举措。20世纪90年代末，习近平在福建省担任省级领导时，亲自指导了闽宁对口协作的进展。宁夏回族自治区农业农村厅厅长王建上周表示，宁夏农村居民人均可支配收入已从1996年的约1400元（207美元）上升到2025年的超过2万元。过去30年间，福建为宁夏提供了76.8亿元的援助资金用于基础设施项目。"
         },
         {
-          "en": "\"This biodiversity has helped attract snow leopards, leopard cats, alpine musk deer and mandarin ducks back to their former home,\" said Wu Hong, director of the Ningxia Helan Mountain National Nature Reserve Administration. To prepare the snow leopards for life in the wild, the reserve built a special training ground that {{15}} the real mountain environment. The training consists of several stages: contact isolation, environmental adaptation, live animal hunting, and finally learning to avoid dangers. \"The focus is on helping each leopard regain its natural hunting skills and adapt to the weather. Researchers monitor the animals' behavior and health, keep a file for each leopard, and only release them when they meet the required behavioral standards,\" Wu said.",
-          "cn": "宁夏贺兰山国家级自然保护区管理局局长吴虹表示：“这种生物多样性有助于吸引雪豹、豹猫、马麝和鸳鸯回到它们曾经的栖息地。”为了让雪豹适应野外生活，保护区修建了一个模拟真实山地环境的特殊训练场。训练包括几个阶段：接触隔离、环境适应、活体动物狩猎，最后是学习躲避危险。吴虹说：“重点是帮助每只雪豹恢复自然狩猎技能并适应天气。研究人员监测动物的行为和健康状况，为每只雪豹建立档案，只有在它们达到所需行为标准时才进行放归。”"
-        },
-        {
-          "en": "The strategic significance of the Helan Mountains extends far beyond the reserve. Shi said the latest snow leopard {{16}} research reveals that global snow leopard populations are divided into two major genetic {{17}}: a northern lineage distributed across the Mongolian Plateau, and the Tianshan and Altay Mountains in Xinjiang, and a southern lineage distributed across the Qinghai-Tibet Plateau and Himalaya Mountains. The Helan Mountains sit precisely at the geographic {{18}} between these two lineages. \"Establishing a healthy, self-sustaining snow leopard population in the Helan Mountains will break the genetic island effect, create a continuous gene flow network, enhance the species' {{19}} potential, strengthen its ability to respond to climate change, and provide long-term evolutionary potential for snow leopard conservation worldwide,\" Shi said. According to a 2018 report jointly released by 19 organizations, over 60 percent of the global snow leopard habitat is located in China.",
-          "cn": "贺兰山的战略意义远不止于保护区。时坤表示，最新的雪豹基因组研究显示，全球雪豹种群分为两大遗传谱系：分布于蒙古高原、新疆天山和阿尔泰山的北方谱系，以及分布于青藏高原和喜马拉雅山脉的南方谱系。贺兰山恰好位于这两个谱系的地理中点。时坤说：“在贺兰山建立一个健康、自我维持的雪豹种群将打破遗传孤岛效应，建立连续的基因流动网络，增强物种的进化潜力，提高其应对气候变化的能力，并为全球雪豹保护提供长期进化潜力。”根据2018年由19个组织联合发布的报告，全球超过60%的雪豹栖息地位于中国。"
-        },
-        {
-          "en": "Previously, conservation efforts focused mainly on in situ protection in core distribution areas, safeguarding existing populations, combating poaching and {{20}} human-wildlife conflict. \"The success in the Helan Mountains marks the first time China's snow leopard conservation strategy has moved from maintaining existing stocks to expanding populations and restoring historical ranges,\" Shi said. Over the next five years, the reserve will introduce and release an additional five to 10 snow leopards, with the goal of establishing a sustainable population of eight to 15 individuals in the Helan Mountains. \"The objective is to achieve natural reproduction, establish a relatively stable food chain, optimize the blue sheep population, repair damaged ecological links, and maintain the health and balance of the Helan Mountains ecosystem,\" Wu said from the reserve's administration.",
-          "cn": "此前，保护工作主要集中于核心分布区的就地保护、保护现有种群、打击偷猎和缓解人兽冲突。时坤说：“贺兰山的成功标志着中国雪豹保护战略首次从维持现有存量转向扩大种群和恢复历史分布区。”未来五年，保护区将再引入并放归五到十只雪豹，目标是在贺兰山建立一个由八到十五只个体组成的可持续种群。保护区管理局的吴虹说：“目标是实现自然繁殖，建立相对稳定的食物链，优化岩羊种群，修复受损的生态联系，并维护贺兰山生态系统的健康和平衡。”"
+          "en": "Fujian has also {{23}} over 1,600 {{24}} to {{25}} in Ningxia, Wang added.",
+          "cn": "王建还补充说，福建已鼓励超过1600家企业到宁夏投资。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "milestone",
-          "hint": "n. 里程碑",
+          "answer": "optimize",
+          "hint": "v. 优化",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "definitive",
-          "hint": "adj. 决定性的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 2,
-          "answer": "reintroduced",
-          "hint": "v. 重新引入",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "reproductive",
-          "hint": "adj. 繁殖的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "designated",
-          "hint": "v. 指定",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "territory",
-          "hint": "n. 领地",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "shepherded",
-          "hint": "v. 带领",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "fragile",
-          "hint": "adj. 脆弱的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "encroachment",
-          "hint": "n. 侵占",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "degradation",
-          "hint": "n. 退化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "culmination",
-          "hint": "n. 顶点",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "spearheaded",
-          "hint": "v. 牵头",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "curbed",
-          "hint": "v. 遏制",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "remediation",
-          "hint": "n. 修复",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "biodiversity",
-          "hint": "n. 生物多样性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "simulates",
-          "hint": "v. 模拟",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "genomic",
-          "hint": "adj. 基因组的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "lineages",
-          "hint": "n. 谱系",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "midpoint",
-          "hint": "n. 中点",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "evolutionary",
-          "hint": "adj. 进化的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "mitigating",
-          "hint": "v. 缓解",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "A wild female snow leopard has been captured on camera with her young cub in the Helan Mountains National Nature Reserve, marking a significant milestone in wildlife conservation efforts in the Ningxia Hui autonomous region.\nThe footage, retrieved from an infrared camera on April 29, provides the first definitive proof that reintroduced snow leopards can successfully complete an entire reproductive cycle and raise wild-born offspring in the range. The female, designated by researchers as F2, was reintroduced into the mountains in 2024 from Jiuquan, Gansu province. She has since established a stable territory, paired naturally with a reintroduced male designated as M1, and successfully shepherded her cub through its fragile first year of life.\nThe snow leopard is a national first-class protected animal in China. While the Helan Mountains historically served as a primary habitat for the apex predator, human encroachment and habitat degradation caused the species to completely vanish from the local region for nearly 70 years. The birth of the new cub officially brings the reserve's tracked snow leopard population to nine.\nShi Kun, former director and professor at the wildlife research institute of Beijing Forestry University, said it has demonstrated that a reintroduced snow leopard can establish a stable pair relationship in a completely unfamiliar environment.\n\"For the first time, it has completed the entire reproductive process — from pregnancy and den selection to delivery — and also proven that a mother has the capacity to lead her offspring through their first harsh winter,\" Shi said.\nThe achievement is the culmination of decades of ecological restoration efforts. Since 2019, the National Forestry and Grassland Administration and the Ningxia forestry department have jointly spearheaded snow leopard population recovery, introducing eight leopards from the Inner Mongolia, Xizang and Xinjiang Uygur autonomous regions, and the provinces of Gansu and Qinghai.\nThese efforts were built upon a broader ecological foundation. Ningxia has curbed habitat destruction through mine remediation, grazing bans and vegetation restoration. As a result, the reserve's biodiversity has significantly improved. Monitoring data shows that the population of blue sheep — the snow leopard's primary prey — grew from just over 1,500 in 1983 to more than 41,000 in 2023. \"This biodiversity has helped attract snow leopards, leopard cats, alpine musk deer and mandarin ducks back to their former home,\" said Wu Hong, director of the Ningxia Helan Mountain National Nature Reserve Administration.\nTo prepare the snow leopards for life in the wild, the reserve built a special training ground that simulates the real mountain environment. The training consists of several stages: contact isolation, environmental adaptation, live animal hunting, and finally learning to avoid dangers.\n\"The focus is on helping each leopard regain its natural hunting skills and adapt to the weather. Researchers monitor the animals' behavior and health, keep a file for each leopard, and only release them when they meet the required behavioral standards,\" Wu said.\nThe strategic significance of the Helan Mountains extends far beyond the reserve. Shi said the latest snow leopard genomic research reveals that global snow leopard populations are divided into two major genetic lineages: a northern lineage distributed across the Mongolian Plateau, and the Tianshan and Altay Mountains in Xinjiang, and a southern lineage distributed across the Qinghai-Tibet Plateau and Himalaya Mountains. The Helan Mountains sit precisely at the geographic midpoint between these two lineages.\n\"Establishing a healthy, self-sustaining snow leopard population in the Helan Mountains will break the genetic island effect, create a continuous gene flow network, enhance the species' evolutionary potential, strengthen its ability to respond to climate change, and provide long-term evolutionary potential for snow leopard conservation worldwide,\" Shi said.\nAccording to a 2018 report jointly released by 19 organizations, over 60 percent of the global snow leopard habitat is located in China.\nPreviously, conservation efforts focused mainly on in situ protection in core distribution areas, safeguarding existing populations, combating poaching and mitigating human-wildlife conflict. \"The success in the Helan Mountains marks the first time China's snow leopard conservation strategy has moved from maintaining existing stocks to expanding populations and restoring historical ranges,\" Shi said.\nOver the next five years, the reserve will introduce and release an additional five to 10 snow leopards, with the goal of establishing a sustainable population of eight to 15 individuals in the Helan Mountains.\n\"The objective is to achieve natural reproduction, establish a relatively stable food chain, optimize the blue sheep population, repair damaged ecological links, and maintain the health and balance of the Helan Mountains ecosystem,\" Wu said from the reserve's administration.",
-      "fullTextCn": "一只野生雌性雪豹及其幼崽在宁夏贺兰山国家级自然保护区被红外相机捕捉到影像，这标志着该地区野生动物保护工作取得重大里程碑。4月29日从红外相机取回的视频首次确凿证明，重新引入的雪豹能够成功完成完整繁殖周期，并在该山脉养育野生后代。这只被研究人员命名为F2的雌性雪豹于2024年从甘肃酒泉被重新引入贺兰山。此后，它建立了稳定的领地，与另一只重新引入的雄性雪豹M1自然配对，并成功带领幼崽度过了脆弱的生命第一年。雪豹是中国国家一级保护动物。\n\n尽管贺兰山历史上曾是这种顶级捕食者的主要栖息地，但人类侵占和栖息地退化导致该物种在当地完全消失近70年。这只新幼崽的出生使保护区追踪到的雪豹种群数量正式达到九只。北京林业大学野生动物研究所前所长、教授时坤表示，这表明重新引入的雪豹能在完全陌生的环境中建立稳定的配对关系。他说：“这是首次完成从怀孕、选择巢穴到分娩的完整繁殖过程，也证明了母豹有能力带领后代度过第一个严酷的冬天。”这一成就是数十年生态恢复努力的结晶。\n\n自2019年以来，国家林业和草原局与宁夏林业部门共同牵头推进雪豹种群恢复工作，从内蒙古、西藏、新疆、甘肃和青海引进了八只雪豹。这些努力建立在更广泛的生态基础之上。宁夏通过矿山修复、禁牧和植被恢复遏制了栖息地破坏。因此，保护区的生物多样性显著改善。监测数据显示，雪豹的主要猎物——岩羊的种群数量从1983年的1500多只增长到2023年的41000多只。\n\n宁夏贺兰山国家级自然保护区管理局局长吴虹表示：“这种生物多样性有助于吸引雪豹、豹猫、马麝和鸳鸯回到它们曾经的栖息地。”为了让雪豹适应野外生活，保护区修建了一个模拟真实山地环境的特殊训练场。训练包括几个阶段：接触隔离、环境适应、活体动物狩猎，最后是学习躲避危险。吴虹说：“重点是帮助每只雪豹恢复自然狩猎技能并适应天气。研究人员监测动物的行为和健康状况，为每只雪豹建立档案，只有在它们达到所需行为标准时才进行放归。”\n\n贺兰山的战略意义远不止于保护区。时坤表示，最新的雪豹基因组研究显示，全球雪豹种群分为两大遗传谱系：分布于蒙古高原、新疆天山和阿尔泰山的北方谱系，以及分布于青藏高原和喜马拉雅山脉的南方谱系。贺兰山恰好位于这两个谱系的地理中点。时坤说：“在贺兰山建立一个健康、自我维持的雪豹种群将打破遗传孤岛效应，建立连续的基因流动网络，增强物种的进化潜力，提高其应对气候变化的能力，并为全球雪豹保护提供长期进化潜力。”根据2018年由19个组织联合发布的报告，全球超过60%的雪豹栖息地位于中国。\n\n此前，保护工作主要集中于核心分布区的就地保护、保护现有种群、打击偷猎和缓解人兽冲突。时坤说：“贺兰山的成功标志着中国雪豹保护战略首次从维持现有存量转向扩大种群和恢复历史分布区。”未来五年，保护区将再引入并放归五到十只雪豹，目标是在贺兰山建立一个由八到十五只个体组成的可持续种群。保护区管理局的吴虹说：“目标是实现自然繁殖，建立相对稳定的食物链，优化岩羊种群，修复受损的生态联系，并维护贺兰山生态系统的健康和平衡。”"
-    },
-    {
-      "id": 3,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-15/How-the-CPC-keeps-reforming-itself-to-break-the-rise-and-fall-cycle-1O01sgRdU76/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "How the CPC keeps reforming itself to break the rise and fall cycle",
-      "titleCn": "中国共产党如何通过自我革新打破兴衰周期",
-      "summary": "This year marks the 105th anniversary of the founding of the Communist Party of China (CPC), the world's largest ruling party with more than 100 million members.",
-      "summaryCn": "中国共产党通过外部人民监督与内部自我革新相结合，持续进行自我改革以保持长期执政活力。",
-      "wordCount": 721,
-      "paragraphs": [
-        {
-          "en": ", Updated 11:09, 17-Jun-2026Editor's Note: As the Communist Party of China (CPC) approaches the 105th anniversary of its founding, on July 1, CGTN presents \"How the Communist Party of China Works,\" a special series of in-depth news analyses. This series offers a systematic analysis of the CPC's sustained effectiveness, examining its institutional {{0}}, people-centered {{1}}, and global {{2}}. File photo of the Museum of the Communist Party of China in Beijing, China. This year marks the 105th anniversary of the founding of the Communist Party of China (CPC), the world's largest ruling party with more than 100 million members. What has enabled a political party that started with only about 50 members in 1921 to not only {{3}} but also succeed in {{4}} long-term governance vitality despite fast-changing domestic and global challenges?",
-          "cn": "编者按：随着中国共产党即将在7月1日迎来成立105周年，中国国际电视台推出《中国共产党如何运作》系列深度新闻分析。本系列系统分析了中国共产党的持续有效性，考察其制度韧性、以人民为中心的哲学思想及全球意义。图为中国共产党历史博物馆资料照片。今年是中国共产党成立105周年，作为拥有超过1亿党员的世界最大执政党，是什么让一个1921年仅有约50名成员的政党，在国内外快速变化的挑战中不仅生存下来，而且成功保持了长期执政活力？"
-        },
-        {
-          "en": "To that question, Chinese President Xi Jinping, also general secretary of the CPC Central Committee, has offered and acted on a new answer: self-reform of the Party. How to {{5}} the rise-and-fall {{6}}\nIn his 2026 New Year message, Xi revisited a question first posed about 80 years ago in a cave dwelling in Yan'an, the CPC's former revolutionary base: how to escape the historical cycle of rise and fall and {{7}} long-term governance. To this well-known \"cave-dwelling conversation\" between Mao Zedong and acclaimed educationist Huang Yanpei, Mao had offered the first answer – placing the government under the {{8}} of the people. Xi, who has repeatedly quoted the dialogue as a warning of the complicated and long-term risks faced by the governing CPC, added a second answer: The Party must carry on its self-reform. These two answers, external oversight by the people and internal self-reform, are fundamentally {{9}}, as Xi further explained at a plenary session of the CPC Central Commission for Discipline Inspection (CCDI) back in 2022.",
-          "cn": "对于这个问题，中共中央总书记、国家主席习近平提出并践行了一个新答案：党的自我革新。如何打破兴衰周期？在2026年新年贺词中，习近平重提了约80年前在延安窑洞中首次提出的问题：如何跳出历史兴衰周期率，实现长期执政？对于毛泽东与著名教育家黄炎培之间这场著名的“窑洞对”，毛泽东给出了第一个答案——让人民监督政府。习近平多次引用这段对话，警示执政党面临的复杂长期风险，并补充了第二个答案：党必须进行自我革新。这两个答案——外部人民监督与内部自我革新——从根本上相互交织，正如习近平在2022年中央纪委全会上进一步阐述的那样。"
-        },
-        {
-          "en": "\"Over the past 100 years, the Party has ensured its lasting vitality and robust growth by relying on developing people's democracy and accepting public {{10}} from outside the Party, and on strengthening self-governance and self-reform within the Party,\" he said. In short, Xi likens self-reform to \"using a surgical knife to eliminate the Party's {{11}}.\"\n\"The Party is great not because it never makes mistakes, but because it always owns up to its errors and has the courage to {{12}} problems and reform itself,\" he said. How the CPC keeps reforming itself\nWhile there are over 6,000 political parties worldwide, more than 60 of which have existed for more than a century, a defining feature that {{13}} the CPC from others lies in its courage in {{14}} self-reform. In Xi's view, an important reason why the Party remains so vital and {{15}} despite having undergone so many trials and {{16}} is that it practices effective self-supervision and full and rigorous self-governance. The eight-point decision, a set of rules adopted by the Party leadership in December 2012 to address chronic {{17}} issues, including official privileges and {{18}} banquets, has been widely regarded as a turning point in the Party's governance.",
-          "cn": "“百年来，党外靠发展人民民主、接受人民监督，内靠全面从严治党、推进自我革命，勇于坚持真理、修正错误，始终保证党的生机活力、不断发展壮大，”他说。简而言之，习近平将自我革新比作“用手术刀切除党的病灶”。“我们党之所以伟大，不在于不犯错误，而在于从不讳疾忌医，敢于直面问题，勇于自我革命，”他说。中国共产党如何持续自我革新？全球有超过6000个政党，其中60多个存在超过一个世纪，但中国共产党区别于其他政党的一个显著特征在于其勇于自我革新的勇气。在习近平看来，党历经磨难而依然充满活力的一个重要原因，在于它实行有效的自我监督和全面从严治党。2012年12月党中央通过的“八项规定”，旨在解决包括官员特权、铺张浪费在内的长期官僚主义问题，被广泛视为党治理的转折点。"
-        },
-        {
-          "en": "In 2025, for example, national disciplinary inspection authorities investigated 150,000 cases involving {{19}} and extravagance, plus 141,000 cases of {{20}} and bureaucracy, and 376,000 people received disciplinary {{21}} for violating work style rules. Such tangible outcomes have won wide public recognition. A 2025 national survey by China's National Bureau of Statistics showed that 95.5% of respondents affirmed the effective implementation of the eight-point decision, while 92.2% were satisfied with improved Party and government conduct, which has driven better social morals. To address corruption, which Xi called \"the most significant threat\" to the long-term governance of the Party, the CPC has also launched an {{22}} anti-corruption campaign. The anti-graft campaign has maintained its {{23}} momentum, targeting officials at every level, from low-level \"flies\" to high-ranking \"tigers,\" while advancing efforts to {{24}} fugitives and recover misappropriated funds in \"fox hunting\" operations.",
-          "cn": "例如，2025年全国纪检监察机关共查处享乐主义、奢靡之风问题15万起，形式主义、官僚主义问题14.1万起，37.6万人因违反工作作风规定受到纪律处分。这些实实在在的成果赢得了广泛公众认可。2025年国家统计局全国调查显示，95.5%的受访者肯定八项规定有效落实，92.2%对党风政风改善表示满意，这带动了社会风气好转。针对习近平称为党长期执政“最大威胁”的腐败问题，党还发起了前所未有的反腐败运动。反腐运动保持高压态势，从基层“苍蝇”到高层“老虎”全面覆盖，同时推进“猎狐”行动，追逃追赃。"
-        },
-        {
-          "en": "According to the CCDI, 181 officials registered at and supervised by the CPC Central Committee were investigated last year, 983,000 individuals involved in corruption handed disciplinary or administrative penalties, and 963 corrupt fugitives repatriated to China during the year. The CPC has also stressed that its self-reform will never stop. As Xi has urged, all Party members must bear in mind that full and rigorous self-governance is an unceasing endeavor and that self-reform is a journey to which there is no end.",
-          "cn": "据中央纪委国家监委通报，2025年中央纪委国家监委共查处中央管理干部181人，98.3万人因腐败问题受到党纪政务处分，96.3名腐败外逃人员被追回。党还强调自我革新永无止境。正如习近平所敦促的，全党同志必须牢记，全面从严治党永远在路上，自我革命永远在路上。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "resilience",
-          "hint": "n. 韧性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "philosophy",
-          "hint": "n. 哲学",
+          "answer": "collaboration",
+          "hint": "n. 合作",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "significance",
-          "hint": "n. 意义",
+          "answer": "enhance",
+          "hint": "v. 增强",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "survive",
-          "hint": "v. 生存",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "maintaining",
-          "hint": "v. 维持",
+          "answer": "prosperity",
+          "hint": "n. 繁荣",
           "difficulty": "medium"
         },
         {
+          "id": 4,
+          "answer": "instruction",
+          "hint": "n. 指示",
+          "difficulty": "easy"
+        },
+        {
           "id": 5,
-          "answer": "defy",
-          "hint": "v. 挑战",
+          "answer": "commended",
+          "hint": "v. 赞扬",
           "difficulty": "hard"
         },
         {
           "id": 6,
-          "answer": "cycle",
-          "hint": "n. 周期",
-          "difficulty": "easy"
+          "answer": "alleviation",
+          "hint": "n. 减轻",
+          "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "sustain",
-          "hint": "v. 维持",
+          "answer": "transition",
+          "hint": "n. 过渡",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "supervision",
-          "hint": "n. 监督",
-          "difficulty": "medium"
+          "answer": "vitalization",
+          "hint": "n. 振兴",
+          "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "intertwined",
-          "hint": "adj. 交织的",
+          "answer": "relapse",
+          "hint": "n. 复发",
           "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "scrutiny",
-          "hint": "n. 审查",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "ailments",
-          "hint": "n. 疾病",
+          "answer": "mechanism",
+          "hint": "n. 机制",
           "difficulty": "medium"
         },
         {
+          "id": 11,
+          "answer": "complementarity",
+          "hint": "n. 互补性",
+          "difficulty": "hard"
+        },
+        {
           "id": 12,
-          "answer": "confront",
-          "hint": "v. 面对",
+          "answer": "mutual",
+          "hint": "adj. 相互的",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "distinguishes",
-          "hint": "v. 区分",
+          "answer": "earnestly",
+          "hint": "adv. 认真地",
           "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "undertaking",
-          "hint": "n. 事业",
+          "answer": "fulfill",
+          "hint": "v. 履行",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "vibrant",
-          "hint": "adj. 充满活力的",
+          "answer": "conveyed",
+          "hint": "v. 传达",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "tribulations",
-          "hint": "n. 磨难",
-          "difficulty": "hard"
+          "answer": "deepen",
+          "hint": "v. 深化",
+          "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "bureaucratic",
-          "hint": "adj. 官僚的",
+          "answer": "initiatives",
+          "hint": "n. 倡议",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "extravagant",
-          "hint": "adj. 奢侈的",
-          "difficulty": "medium"
+          "answer": "tailored",
+          "hint": "adj. 定制的",
+          "difficulty": "hard"
         },
         {
           "id": 19,
-          "answer": "hedonism",
-          "hint": "n. 享乐主义",
+          "answer": "oversaw",
+          "hint": "v. 监督",
           "difficulty": "hard"
         },
         {
           "id": 20,
-          "answer": "formalism",
-          "hint": "n. 形式主义",
-          "difficulty": "hard"
+          "answer": "disposable",
+          "hint": "adj. 可支配的",
+          "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "penalties",
-          "hint": "n. 处罚",
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
           "difficulty": "medium"
         },
         {
           "id": 22,
-          "answer": "unprecedented",
-          "hint": "adj. 前所未有的",
-          "difficulty": "medium"
+          "answer": "encouraged",
+          "hint": "v. 鼓励",
+          "difficulty": "easy"
         },
         {
           "id": 23,
-          "answer": "relentless",
-          "hint": "adj. 不懈的",
+          "answer": "enterprises",
+          "hint": "n. 企业",
           "difficulty": "medium"
         },
         {
           "id": 24,
-          "answer": "repatriate",
-          "hint": "v. 遣返",
-          "difficulty": "hard"
+          "answer": "invest",
+          "hint": "v. 投资",
+          "difficulty": "easy"
         }
       ],
-      "fullText": ", Updated 11:09, 17-Jun-2026Editor's Note: As the Communist Party of China (CPC) approaches the 105th anniversary of its founding, on July 1, CGTN presents \"How the Communist Party of China Works,\" a special series of in-depth news analyses. This series offers a systematic analysis of the CPC's sustained effectiveness, examining its institutional resilience, people-centered philosophy, and global significance.\nFile photo of the Museum of the Communist Party of China in Beijing, China. \nThis year marks the 105th anniversary of the founding of the Communist Party of China (CPC), the world's largest ruling party with more than 100 million members.\nWhat has enabled a political party that started with only about 50 members in 1921 to not only survive but also succeed in maintaining long-term governance vitality despite fast-changing domestic and global challenges?\nTo that question, Chinese President Xi Jinping, also general secretary of the CPC Central Committee, has offered and acted on a new answer: self-reform of the Party.\nHow to defy the rise-and-fall cycle\nIn his 2026 New Year message, Xi revisited a question first posed about 80 years ago in a cave dwelling in Yan'an, the CPC's former revolutionary base: how to escape the historical cycle of rise and fall and sustain long-term governance.\nTo this well-known \"cave-dwelling conversation\" between Mao Zedong and acclaimed educationist Huang Yanpei, Mao had offered the first answer – placing the government under the supervision of the people.\nXi, who has repeatedly quoted the dialogue as a warning of the complicated and long-term risks faced by the governing CPC, added a second answer: The Party must carry on its self-reform.\nThese two answers, external oversight by the people and internal self-reform, are fundamentally intertwined, as Xi further explained at a plenary session of the CPC Central Commission for Discipline Inspection (CCDI) back in 2022.\n\"Over the past 100 years, the Party has ensured its lasting vitality and robust growth by relying on developing people's democracy and accepting public scrutiny from outside the Party, and on strengthening self-governance and self-reform within the Party,\" he said.\nIn short, Xi likens self-reform to \"using a surgical knife to eliminate the Party's ailments.\"\n\"The Party is great not because it never makes mistakes, but because it always owns up to its errors and has the courage to confront problems and reform itself,\" he said.\nHow the CPC keeps reforming itself\nWhile there are over 6,000 political parties worldwide, more than 60 of which have existed for more than a century, a defining feature that distinguishes the CPC from others lies in its courage in undertaking self-reform.\nIn Xi's view, an important reason why the Party remains so vital and vibrant despite having undergone so many trials and tribulations is that it practices effective self-supervision and full and rigorous self-governance.\nThe eight-point decision, a set of rules adopted by the Party leadership in December 2012 to address chronic bureaucratic issues, including official privileges and extravagant banquets, has been widely regarded as a turning point in the Party's governance.\nIn 2025, for example, national disciplinary inspection authorities investigated 150,000 cases involving hedonism and extravagance, plus 141,000 cases of formalism and bureaucracy, and 376,000 people received disciplinary penalties for violating work style rules.\nSuch tangible outcomes have won wide public recognition. A 2025 national survey by China's National Bureau of Statistics showed that 95.5% of respondents affirmed the effective implementation of the eight-point decision, while 92.2% were satisfied with improved Party and government conduct, which has driven better social morals.\nTo address corruption, which Xi called \"the most significant threat\" to the long-term governance of the Party, the CPC has also launched an unprecedented anti-corruption campaign.\nThe anti-graft campaign has maintained its relentless momentum, targeting officials at every level, from low-level \"flies\" to high-ranking \"tigers,\" while advancing efforts to repatriate fugitives and recover misappropriated funds in \"fox hunting\" operations.\nAccording to the CCDI, 181 officials registered at and supervised by the CPC Central Committee were investigated last year, 983,000 individuals involved in corruption handed disciplinary or administrative penalties, and 963 corrupt fugitives repatriated to China during the year.\nThe CPC has also stressed that its self-reform will never stop. As Xi has urged, all Party members must bear in mind that full and rigorous self-governance is an unceasing endeavor and that self-reform is a journey to which there is no end.",
-      "fullTextCn": "编者按：随着中国共产党即将在7月1日迎来成立105周年，中国国际电视台推出《中国共产党如何运作》系列深度新闻分析。本系列系统分析了中国共产党的持续有效性，考察其制度韧性、以人民为中心的哲学思想及全球意义。图为中国共产党历史博物馆资料照片。今年是中国共产党成立105周年，作为拥有超过1亿党员的世界最大执政党，是什么让一个1921年仅有约50名成员的政党，在国内外快速变化的挑战中不仅生存下来，而且成功保持了长期执政活力？\n\n对于这个问题，中共中央总书记、国家主席习近平提出并践行了一个新答案：党的自我革新。如何打破兴衰周期？在2026年新年贺词中，习近平重提了约80年前在延安窑洞中首次提出的问题：如何跳出历史兴衰周期率，实现长期执政？对于毛泽东与著名教育家黄炎培之间这场著名的“窑洞对”，毛泽东给出了第一个答案——让人民监督政府。习近平多次引用这段对话，警示执政党面临的复杂长期风险，并补充了第二个答案：党必须进行自我革新。这两个答案——外部人民监督与内部自我革新——从根本上相互交织，正如习近平在2022年中央纪委全会上进一步阐述的那样。\n\n“百年来，党外靠发展人民民主、接受人民监督，内靠全面从严治党、推进自我革命，勇于坚持真理、修正错误，始终保证党的生机活力、不断发展壮大，”他说。简而言之，习近平将自我革新比作“用手术刀切除党的病灶”。“我们党之所以伟大，不在于不犯错误，而在于从不讳疾忌医，敢于直面问题，勇于自我革命，”他说。中国共产党如何持续自我革新？全球有超过6000个政党，其中60多个存在超过一个世纪，但中国共产党区别于其他政党的一个显著特征在于其勇于自我革新的勇气。在习近平看来，党历经磨难而依然充满活力的一个重要原因，在于它实行有效的自我监督和全面从严治党。2012年12月党中央通过的“八项规定”，旨在解决包括官员特权、铺张浪费在内的长期官僚主义问题，被广泛视为党治理的转折点。\n\n例如，2025年全国纪检监察机关共查处享乐主义、奢靡之风问题15万起，形式主义、官僚主义问题14.1万起，37.6万人因违反工作作风规定受到纪律处分。这些实实在在的成果赢得了广泛公众认可。2025年国家统计局全国调查显示，95.5%的受访者肯定八项规定有效落实，92.2%对党风政风改善表示满意，这带动了社会风气好转。针对习近平称为党长期执政“最大威胁”的腐败问题，党还发起了前所未有的反腐败运动。反腐运动保持高压态势，从基层“苍蝇”到高层“老虎”全面覆盖，同时推进“猎狐”行动，追逃追赃。\n\n据中央纪委国家监委通报，2025年中央纪委国家监委共查处中央管理干部181人，98.3万人因腐败问题受到党纪政务处分，96.3名腐败外逃人员被追回。党还强调自我革新永无止境。正如习近平所敦促的，全党同志必须牢记，全面从严治党永远在路上，自我革命永远在路上。"
+      "fullText": "Fujian-Ningxia success hailed as model for east-west drive for common prosperityg has called for further steps to optimize the collaboration program between eastern and western regions of China to enhance coordinated regional development and boost the common prosperity drive.\nIn an instruction published on Wednesday, Xi highlighted the need to draw on the successful experience from the cooperation between Fujian province in East China and the Ningxia Hui autonomous region in Northwest China in refining the practice.\nXi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, commended the collaboration model for contributing to China's poverty alleviation drive and promoting coordinated regional growth over the past 30 years.\nIn 1996, China launched the program of East-West Pairing-off Cooperation for Poverty Reduction, whereby a developed provincial region in the east assisted a less-developed region in the west.\nAfter China secured a victory in eliminating absolute poverty in 2021, the country put in place a five-year transition period to continue supporting people and regions that had emerged from poverty, ensuring a smooth transition from poverty alleviation to rural vitalization while guarding against any large-scale relapse into poverty. With the transition period now over, regular assistance programs start from this year, which also marks the beginning of the 15th Five-Year Plan (2026-30) period.\nThe president stressed in the instruction the need to improve the east-west collaboration mechanism, optimize cooperation methods and expand the areas of cooperation.\nThe goal is to promote industrial complementarity, personnel exchanges, mutual learning in technology, exchanges of ideas and mutual learning in work styles between eastern and western regions, in order to achieve mutual benefit, win-win outcomes and common development, he said.\nXi urged Party committees and governments at all levels to earnestly fulfill their responsibilities in regular assistance programs, firmly prevent any large-scale relapse into poverty, and advance all-around rural vitalization.\nThe instruction from Xi was conveyed at a work conference on Wednesday in Yinchuan, the capital of Ningxia.\nVice-Premier Liu Guozhong said at the conference that more work must be done to deepen industrial cooperation and labor collaboration between eastern and western regions and to strengthen exchanges of officials and professionals.\nHe highlighted the need to expand cooperation in science and technology, finance and other fields, and to carry out creative initiatives tailored to local conditions.\nWhile serving as a provincial leader in Fujian province in the late 1990s, Xi personally oversaw the progress of pairing-off cooperation between Fujian and Ningxia.\nWang Jian, head of Ningxia's regional department of agriculture and rural affairs, said last week that the annual per capita disposable income of rural residents in Ningxia has risen from about 1,400 yuan ($207) in 1996 to more than 20,000 yuan in 2025.\nOver the past three decades, Fujian has provided 7.68 billion yuan in assistance funding to Ningxia for infrastructure projects. Fujian has also encouraged over 1,600 enterprises to invest in Ningxia, Wang added.",
+      "fullTextCn": "习近平呼吁进一步优化中国东西部地区的协作计划，以加强区域协调发展并推动共同富裕。在周三发布的一份指示中，习近平强调需要借鉴福建省与宁夏回族自治区合作的成功经验，以完善实践。习近平还赞扬了这种协作模式在过去30年为中国扶贫事业和促进区域协调发展所做的贡献。1996年，中国启动了东西部扶贫协作计划，由东部发达省份帮助西部欠发达地区。在中国于2021年消除绝对贫困后，国家设立了五年过渡期，继续支持脱贫人口和地区，确保从扶贫到乡村振兴的平稳过渡，同时防止大规模返贫。\n\n随着过渡期结束，常规援助计划从今年开始实施，这也标志着“十五五”规划（2026-2030年）时期的开始。习近平在指示中强调，要完善东西部协作机制，优化协作方式，拓展协作领域。目标是促进东西部产业互补、人员交流、技术互学、观念互通和作风互鉴，实现互利共赢、共同发展。习近平要求各级党委和政府切实履行常规援助计划中的责任，坚决防止大规模返贫，全面推进乡村振兴。习近平的指示在周三于宁夏首府银川召开的工作会议上传达。\n\n副总理刘国忠在会议上表示，必须深化东西部产业合作和劳务协作，加强干部和人才交流。他强调要拓展科技、金融等领域的合作，并根据当地条件开展创新举措。20世纪90年代末，习近平在福建省担任省级领导时，亲自指导了闽宁对口协作的进展。宁夏回族自治区农业农村厅厅长王建上周表示，宁夏农村居民人均可支配收入已从1996年的约1400元（207美元）上升到2025年的超过2万元。过去30年间，福建为宁夏提供了76.8亿元的援助资金用于基础设施项目。\n\n王建还补充说，福建已鼓励超过1600家企业到宁夏投资。"
+    },
+    {
+      "id": 3,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-16/Chinese-foreign-minister-holds-phone-talks-with-Pakistani-counterpart-1O1SRbmzuus/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Chinese foreign minister holds phone talks with Pakistani counterpart",
+      "titleCn": "中国外交部长与巴基斯坦外长通电话",
+      "summary": "Chinese Foreign Minister Wang Yi held a phone conversation with Pakistani Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Tuesday evening.",
+      "summaryCn": "中国外长王毅与巴基斯坦外长达尔通话，祝贺巴方促成伊美首阶段谅解备忘录，并强调将继续合作推动地区和平。",
+      "wordCount": 452,
+      "paragraphs": [
+        {
+          "en": "Chinese Foreign Minister Wang Yi held a phone {{0}} with Pakistani Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Tuesday evening. Dar {{1}} Wang on the first-phase {{2}} of understanding (MoU) recently reached between Iran and the United States. The Pakistani foreign minister thanked China for maintaining close communication with Pakistan over the past several months and for providing valuable support to Pakistan's {{3}} efforts. Dar said Pakistan looks forward to continuing {{4}} with China to sustain the current {{5}} of peace talks and jointly play a {{6}} role in promoting lasting peace and stability in the region. Wang, also a member of the Political Bureau of the Communist Party of China Central Committee, congratulated Pakistan on {{7}} the first-phase MoU between Iran and the US.",
+          "cn": "中国外交部长王毅于周二晚与巴基斯坦副总理兼外长穆罕默德·伊沙克·达尔通电话。达尔向王毅通报了伊朗与美国最近达成的首阶段谅解备忘录。巴基斯坦外长感谢中国在过去几个月中与巴方保持密切沟通，并为巴方的斡旋努力提供了宝贵支持。达尔表示，巴方期待继续与中国协调，以维持当前和平谈判的势头，共同为促进地区持久和平与稳定发挥建设性作用。中共中央政治局委员王毅祝贺巴基斯坦促成伊美首阶段谅解备忘录。"
+        },
+        {
+          "en": "He {{8}} that {{9}} for peace is an international responsibility shared by all countries, including China and Pakistan. As long as there remains hope for peace, efforts toward that goal are worthwhile, Wang said. Since the {{10}} of the conflict, China has maintained communication with all {{11}} parties and actively worked to promote a {{12}} and {{13}} dialogue, Wang said. He noted that China had supported Pakistan's mediation efforts from the {{14}}, emphasizing to all sides that Pakistan is a {{15}} mediator, while also {{16}} separately with both Iran and the US through its own diplomatic channels. Wang also said the current {{17}} reached by the two sides is far from the end of the process but rather a new starting point, adding that achieving lasting peace in the Gulf and the broader Middle East will require {{18}} efforts from all parties.",
+          "cn": "王毅强调，争取和平是所有国家（包括中国和巴基斯坦）共同承担的国际责任。只要和平还有希望，为此付出的努力就值得。王毅表示，冲突爆发以来，中国一直与所有相关方保持沟通，积极推动停火和促进对话。他指出，中国从一开始就支持巴基斯坦的斡旋努力，向各方强调巴基斯坦是值得信赖的调解者，同时通过自身外交渠道分别与伊朗和美国进行接触。王毅还表示，双方目前达成的共识远非进程的终点，而是一个新的起点，并补充说，实现海湾及更广泛中东地区的持久和平需要各方持续努力。"
+        },
+        {
+          "en": "The top Chinese diplomat pointed out that {{19}} in the next stage are likely to be more difficult than those leading to the first-phase MoU. However, he stressed that the process must not be {{20}} and that parties should not {{21}} to the use of force again. The international community should provide greater support for Iran-US negotiations, while {{22}} {{23}} such as the United Nations Security Council should play a more active role, Wang said. China has consistently maintained that countries in the region should take their future into their own hands, he said, expressing hope that dialogue and {{24}} could help explore a regional peace and security {{25}} involving all countries in the region. Now that the door to peace has been opened, it should not be closed again, Wang said, stressing that the Middle East has suffered from conflict for too long and that its people deserve peace.",
+          "cn": "这位中国最高外交官指出，下一阶段的谈判可能比达成首阶段谅解备忘录更加困难。但他强调，进程不能逆转，各方不应再次诉诸武力。王毅表示，国际社会应为伊美谈判提供更大支持，而联合国安理会等多边机构应发挥更积极的作用。他说，中国一贯认为地区国家应掌握自己的未来，并希望通过对话协商探索一个涵盖地区所有国家的区域和平与安全框架。王毅表示，和平之门已经打开，就不应再关闭，并强调中东遭受冲突太久，其人民理应享有和平。"
+        },
+        {
+          "en": "China stands ready to work with Pakistan to continue encouraging peace and facilitating dialogue and to {{27}} to the early {{26}} of peace, stability and development in the Middle East, he added.",
+          "cn": "他补充说，中国愿与巴基斯坦一道，继续鼓励和平、促进对话，为早日恢复中东的和平、稳定与发展作出贡献。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "conversation",
+          "hint": "n. 对话",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "briefed",
+          "hint": "v. 简要通报",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "memorandum",
+          "hint": "n. 备忘录",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "mediation",
+          "hint": "n. 调解",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "momentum",
+          "hint": "n. 势头",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "constructive",
+          "hint": "adj. 建设性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "facilitating",
+          "hint": "v. 促成",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "stressed",
+          "hint": "v. 强调",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "striving",
+          "hint": "v. 努力争取",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "outbreak",
+          "hint": "n. 爆发",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "relevant",
+          "hint": "adj. 相关的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "ceasefire",
+          "hint": "n. 停火",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "advance",
+          "hint": "v. 推进",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "outset",
+          "hint": "n. 开始",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "trustworthy",
+          "hint": "adj. 值得信赖的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "engaging",
+          "hint": "v. 接触",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "consensus",
+          "hint": "n. 共识",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "sustained",
+          "hint": "adj. 持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "negotiations",
+          "hint": "n. 谈判",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "reversed",
+          "hint": "v. 逆转",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "resort",
+          "hint": "v. 诉诸",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "multilateral",
+          "hint": "adj. 多边的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 23,
+          "answer": "institutions",
+          "hint": "n. 机构",
+          "difficulty": "easy"
+        },
+        {
+          "id": 24,
+          "answer": "consultation",
+          "hint": "n. 协商",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "framework",
+          "hint": "n. 框架",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "restoration",
+          "hint": "n. 恢复",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "contribute",
+          "hint": "v. 贡献",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "Chinese Foreign Minister Wang Yi held a phone conversation with Pakistani Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Tuesday evening.\nDar briefed Wang on the first-phase memorandum of understanding (MoU) recently reached between Iran and the United States. The Pakistani foreign minister thanked China for maintaining close communication with Pakistan over the past several months and for providing valuable support to Pakistan's mediation efforts.\nDar said Pakistan looks forward to continuing coordination with China to sustain the current momentum of peace talks and jointly play a constructive role in promoting lasting peace and stability in the region.\nWang, also a member of the Political Bureau of the Communist Party of China Central Committee, congratulated Pakistan on facilitating the first-phase MoU between Iran and the US. He stressed that striving for peace is an international responsibility shared by all countries, including China and Pakistan.\nAs long as there remains hope for peace, efforts toward that goal are worthwhile, Wang said.\nSince the outbreak of the conflict, China has maintained communication with all relevant parties and actively worked to promote a ceasefire and advance dialogue, Wang said. He noted that China had supported Pakistan's mediation efforts from the outset, emphasizing to all sides that Pakistan is a trustworthy mediator, while also engaging separately with both Iran and the US through its own diplomatic channels.\nWang also said the current consensus reached by the two sides is far from the end of the process but rather a new starting point, adding that achieving lasting peace in the Gulf and the broader Middle East will require sustained efforts from all parties.\nThe top Chinese diplomat pointed out that negotiations in the next stage are likely to be more difficult than those leading to the first-phase MoU. However, he stressed that the process must not be reversed and that parties should not resort to the use of force again.\nThe international community should provide greater support for Iran-US negotiations, while multilateral institutions such as the United Nations Security Council should play a more active role, Wang said.\nChina has consistently maintained that countries in the region should take their future into their own hands, he said, expressing hope that dialogue and consultation could help explore a regional peace and security framework involving all countries in the region.\nNow that the door to peace has been opened, it should not be closed again, Wang said, stressing that the Middle East has suffered from conflict for too long and that its people deserve peace.\nChina stands ready to work with Pakistan to continue encouraging peace and facilitating dialogue and to contribute to the early restoration of peace, stability and development in the Middle East, he added.",
+      "fullTextCn": "中国外交部长王毅于周二晚与巴基斯坦副总理兼外长穆罕默德·伊沙克·达尔通电话。达尔向王毅通报了伊朗与美国最近达成的首阶段谅解备忘录。巴基斯坦外长感谢中国在过去几个月中与巴方保持密切沟通，并为巴方的斡旋努力提供了宝贵支持。达尔表示，巴方期待继续与中国协调，以维持当前和平谈判的势头，共同为促进地区持久和平与稳定发挥建设性作用。中共中央政治局委员王毅祝贺巴基斯坦促成伊美首阶段谅解备忘录。\n\n王毅强调，争取和平是所有国家（包括中国和巴基斯坦）共同承担的国际责任。只要和平还有希望，为此付出的努力就值得。王毅表示，冲突爆发以来，中国一直与所有相关方保持沟通，积极推动停火和促进对话。他指出，中国从一开始就支持巴基斯坦的斡旋努力，向各方强调巴基斯坦是值得信赖的调解者，同时通过自身外交渠道分别与伊朗和美国进行接触。王毅还表示，双方目前达成的共识远非进程的终点，而是一个新的起点，并补充说，实现海湾及更广泛中东地区的持久和平需要各方持续努力。\n\n这位中国最高外交官指出，下一阶段的谈判可能比达成首阶段谅解备忘录更加困难。但他强调，进程不能逆转，各方不应再次诉诸武力。王毅表示，国际社会应为伊美谈判提供更大支持，而联合国安理会等多边机构应发挥更积极的作用。他说，中国一贯认为地区国家应掌握自己的未来，并希望通过对话协商探索一个涵盖地区所有国家的区域和平与安全框架。王毅表示，和平之门已经打开，就不应再关闭，并强调中东遭受冲突太久，其人民理应享有和平。\n\n他补充说，中国愿与巴基斯坦一道，继续鼓励和平、促进对话，为早日恢复中东的和平、稳定与发展作出贡献。"
     },
     {
       "id": 4,
       "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-06-17/detail-ihffptmh9484439.shtml",
-      "title": "Amazed by China's 'green project', South Korea netizens say anti-China critics are the frogs in well",
-      "titleCn": "韩国网友惊叹中国“绿色工程”，称反华批评者是井底之蛙",
-      "summary": "South Korean netizens praised China's \"Three-North Shelterbelt Forest Program\" after public broadcaster KBS aired a feature titled \"China Builds a 'Green Great Wall' to Battle Desertification.\"",
-      "summaryCn": "韩国网友在观看KBS关于中国“三北防护林”工程的报道后，盛赞这一绿色长城，并批评反华媒体和评论者如同井底之蛙。",
-      "wordCount": 576,
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-17/White-paper-China-s-ideas-actions-resonate-with-intl-community-1O2MtryOXHW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "White paper: China's ideas, actions resonate with intl. community",
+      "titleCn": "白皮书：中国理念与行动获国际社会广泛共鸣",
+      "summary": "China's ideas and actions increasingly resonate with the international community, with the Global Governance Initiative (GGI) being endorsed by nearly 160 countries and international organizations, according to a white paper released by the State Council Information Office on Wednesday.",
+      "summaryCn": "中国发布白皮书阐述全球治理理念，强调其倡议获得近160个国家和国际组织支持，并推动构建更加公正合理的国际秩序。",
+      "wordCount": 322,
       "paragraphs": [
         {
-          "en": "(ECNS) -- South Korean netizens praised China's \"Three-North Shelterbelt Forest Program\" after public broadcaster KBS aired a {{0}} titled \"China Builds a 'Green Great Wall' to Battle Desertification.\"\n\"Brilliant job, China!\" \"This is the Green Great Wall!\" they said. The program described how China is building another \"Great Wall\" — not of stone, but of trees. The Three-North Shelterbelt Forest Program has raised forest {{2}} in northern regions from about 5% nearly 50 years ago to nearly 14% today. KBS detailed how the Three-North Shelterbelt Forest Program successfully deployed {{3}} to hold back the {{4}} sands and highlighted the {{5}} role solar panels play in creating conditions for desert plants to grow, and how the innovative {{6}} of photovoltaics and desert control has further {{7}} re-greening efforts. By {{8}} the ground from fierce winds and slashing moisture {{9}}, these solar arrays have cultivated an ideal {{10}} for desert flora to thrive.",
-          "cn": "（中新网）——韩国公共广播公司KBS播出了一期题为《中国建造“绿色长城”抗击沙漠化》的专题节目后，韩国网友纷纷称赞中国的“三北防护林工程”。“干得漂亮，中国！”“这就是绿色长城！”他们说道。该节目描述了中国如何建造另一座“长城”——不是用石头，而是用树木。三北防护林工程将北方地区的森林覆盖率从近50年前的约5%提高到如今的近14%。KBS详细介绍了三北防护林工程如何成功利用植被阻挡流沙侵蚀，并强调了太阳能电池板在为沙漠植物生长创造条件方面所起的关键作用，以及光伏与治沙的创新融合如何进一步加速了复绿进程。通过遮挡强风、减少水分蒸发，这些太阳能阵列营造了适合沙漠植物繁茂生长的理想微气候。"
-        },
-        {
-          "en": "Across YouTube and NAVER, the story sparked waves of enthusiasm. A South Korean user said: \"A Great Wall made of trees? Strongest support imaginable!\"\nAnother netizen cheered: \"China is doing an incredible job! Keep it up!\"\nOther netizens noted the project began decades ago but {{11}}, anti-China Western media outlets deliberately failed to report it. They said \"China is the only country on Earth running a nationwide {{12}} campaign to stop {{1}}.",
-          "cn": "在YouTube和NAVER上，这个故事引发了热烈的反响。一位韩国用户说：“用树木建造的长城？这是最有力的支持！”另一位网友欢呼道：“中国做得太棒了！继续加油！”其他网友指出，这个项目几十年前就开始了，但有偏见的反华西方媒体故意不报道。他们说：“中国是地球上唯一一个开展全国性植树造林运动来阻止沙漠化的国家。”"
-        },
-        {
-          "en": "This isn't just a win for China; it's a massive favor to the global environment.\"\n\"Those who spend all day {{13}} and {{14}} on against China are the real 'frogs in a well'.\"\nSeveral netizens recalled that 18 years ago, South Korea's variety show Infinite Challenge had introduced the Three-North Shelterbelt Forest Program to domestic audiences. In a special episode anchored by South Korea's \"Nation's MC\" Yoo Jae-suk, which was aired in 2008, cast members trekked into China's Kubuqi Desert in Inner Mongolia to participate in tree-planting and sand-control efforts. The episode captured China's desert-control efforts, but many netizens {{15}} that domestic media offered few updates in the years since. Consequently, even after15 years, the vast majority of the South Korean public remains totally in the dark about this world-class ecological wonder. In truth, the Chinese practices have long received high {{16}} from the international community.",
-          "cn": "“这不仅是中国的胜利，也是对全球环境的巨大贡献。”“那些整天抱怨、喋喋不休反对中国的人才是真正的‘井底之蛙’。”几位网友回忆说，18年前，韩国的综艺节目《无限挑战》曾向国内观众介绍过三北防护林工程。在2008年播出的一期由韩国“国民MC”刘在石主持的特辑中，成员们前往中国内蒙古的库布其沙漠参与植树和治沙工作。这期节目记录了中国治沙的努力，但许多网友感叹，此后多年国内媒体鲜有更新。因此，即使过了15年，绝大多数韩国民众仍然对这个世界级的生态奇迹一无所知。事实上，中国的做法早已获得国际社会的高度赞誉。"
-        },
-        {
-          "en": "The Secretariat of the United Nations Convention to Combat Desertification has praised the project, saying \"the world looks to China for desertification control,\" and has twice honored China with its Outstanding Contribution Award. International financial institutions have noted in their evaluation reports that the Three-North Shelterbelt project combines ecological restoration with poverty {{17}}, creating a \"green economic {{18}}.\"\nComparisons were drawn with other nations' efforts. In the 1930s, the U.S. government launched the ambitious \"Roosevelt Great Plains Shelterbelt\" in response to the Dust Bowl, but funding cuts and shifting politics left much of the plan unfinished: nearly two-thirds of the promised thousand-mile green belt evaporated, and desertification bounced back with a vengeance in several areas. European countries such as Germany, France, and the UK have relied more on legislation to preserve existing forests.",
-          "cn": "《联合国防治荒漠化公约》秘书处赞扬了该项目，称“世界期待中国在防治荒漠化方面发挥引领作用”，并两次授予中国“杰出贡献奖”。国际金融机构在其评估报告中指出，三北防护林工程将生态恢复与扶贫相结合，创建了“绿色经济走廊”。与其他国家的努力进行了比较。20世纪30年代，美国政府为应对沙尘暴启动了雄心勃勃的“罗斯福大平原防护林”计划，但由于资金削减和政治变动，大部分计划未能完成：承诺的千里绿色林带近三分之二消失，沙漠化在多个地区卷土重来。德国、法国、英国等欧洲国家更多依赖立法来保护现有森林。"
-        },
-        {
-          "en": "Meanwhile, in East Asia, Japan's forestry strategy has focused on water conservation and disaster mitigation. By stark contrast, the Three-North Shelterbelt Forest Program has sought to create forests in arid wastelands and severe Gobi deserts, a scale of ecological engineering that observers say is rare globally. For many South Korean netizens, those who spend their lives trying to {{19}} China are the ones trapped at the bottom of a very dark, very narrow well.",
-          "cn": "与此同时，在东亚，日本的林业战略侧重于水资源保护和减灾。与此形成鲜明对比的是，三北防护林工程旨在干旱荒地和严峻的戈壁沙漠中创造森林，观察人士称这种规模的生态工程在全球范围内都很少见。对于许多韩国网友来说，那些一生都在试图诋毁中国的人，正是被困在又黑又窄的井底的人。"
+          "en": "China's ideas and actions increasingly {{0}} with the international community, with the Global Governance Initiative (GGI) being {{1}} by nearly 160 countries and international organizations, according to a white paper released by the State Council Information Office on Wednesday. The reason behind this lies in the fact that China understands how to meet the call of the day and shape the trends of our times, according to the white paper titled \"More Just and Equitable Global Governance: China's Principles, Proposals and Actions.\"\nAn equal and orderly {{2}} world and universally beneficial and inclusive economic {{3}} are the trends of the times, and true {{4}} is the only path forward, noted the white paper. The GGI, while rooted in China, benefits the world, it emphasized. China has put forward a series of new ideas and {{5}} that champion shared values and joint action, responding to the common {{6}} of the international community and addressing the most pressing issues in global governance. Championing its rich {{7}} traditions and drawing strength from the fine traditional culture, China advances with and leads the times while remaining committed to action, showed the white paper. China has adopted a series of {{8}} to {{9}} various global risks and challenges, continuously {{10}} the practice of global governance. Providing {{11}} solutions, China's four major global initiatives run in parallel with a focus on different domains and form a complete action framework that promotes {{12}} through development, ensures stability through security, enhances {{13}} trust through exchanges between civilizations, and seeks justice through governance, the white paper noted. By proposing the GGI and a series of new ideas and approaches, China has deepened its understanding of the laws governing the development of human society, broken free from the outdated \"core-periphery\" framework of the old international order, {{14}} the flawed logic that \"might makes right,\" abandoned the {{15}} mentality of \"winner takes all,\" and promoted the advancement of human political civilization, it added.",
+          "cn": "国务院新闻办公室周三发布的白皮书指出，中国的理念和行动日益引起国际社会共鸣，全球治理倡议已获得近160个国家和国际组织的支持。这份题为《更加公正合理的全球治理：中国的原则、主张与行动》的白皮书认为，其原因在于中国懂得如何响应时代呼唤、塑造时代潮流。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "feature",
-          "hint": "n. 专题节目",
+          "answer": "resonate",
+          "hint": "v. 引起共鸣",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "desertification",
-          "hint": "n. 沙漠化",
-          "difficulty": "hard"
+          "answer": "endorsed",
+          "hint": "v. 支持，认可",
+          "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "coverage",
-          "hint": "n. 覆盖率",
-          "difficulty": "medium"
+          "answer": "multipolar",
+          "hint": "adj. 多极的",
+          "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "vegetation",
-          "hint": "n. 植被",
-          "difficulty": "medium"
+          "answer": "globalization",
+          "hint": "n. 全球化",
+          "difficulty": "easy"
         },
         {
           "id": 4,
-          "answer": "encroaching",
-          "hint": "adj. 侵蚀的",
+          "answer": "multilateralism",
+          "hint": "n. 多边主义",
           "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "pivotal",
-          "hint": "adj. 关键的",
-          "difficulty": "hard"
+          "answer": "propositions",
+          "hint": "n. 主张，提议",
+          "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "integration",
-          "hint": "n. 整合",
+          "answer": "aspirations",
+          "hint": "n. 愿望，志向",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "accelerated",
-          "hint": "v. 加速",
+          "answer": "diplomatic",
+          "hint": "adj. 外交的",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "shielding",
-          "hint": "v. 遮挡",
+          "answer": "initiatives",
+          "hint": "n. 倡议，举措",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "evaporation",
-          "hint": "n. 蒸发",
-          "difficulty": "hard"
+          "answer": "confront",
+          "hint": "v. 面对，应对",
+          "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "microclimate",
-          "hint": "n. 微气候",
-          "difficulty": "hard"
+          "answer": "enriching",
+          "hint": "v. 丰富，充实",
+          "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "biased",
-          "hint": "adj. 有偏见的",
+          "answer": "systematic",
+          "hint": "adj. 系统的",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "afforestation",
-          "hint": "n. 植树造林",
-          "difficulty": "hard"
+          "answer": "prosperity",
+          "hint": "n. 繁荣",
+          "difficulty": "easy"
         },
         {
           "id": 13,
-          "answer": "whining",
-          "hint": "v. 抱怨",
-          "difficulty": "medium"
+          "answer": "mutual",
+          "hint": "adj. 相互的",
+          "difficulty": "easy"
         },
         {
           "id": 14,
-          "answer": "rattling",
-          "hint": "v. 喋喋不休",
+          "answer": "transcended",
+          "hint": "v. 超越",
           "difficulty": "hard"
         },
         {
           "id": 15,
-          "answer": "lamented",
-          "hint": "v. 感叹",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "acclaim",
-          "hint": "n. 赞誉",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "alleviation",
-          "hint": "n. 缓解",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "corridor",
-          "hint": "n. 走廊",
-          "difficulty": "easy"
-        },
-        {
-          "id": 19,
-          "answer": "defame",
-          "hint": "v. 诋毁",
+          "answer": "zero-sum",
+          "hint": "adj. 零和的",
           "difficulty": "hard"
         }
       ],
-      "fullText": "(ECNS) -- South Korean netizens praised China's \"Three-North Shelterbelt Forest Program\" after public broadcaster KBS aired a feature titled \"China Builds a 'Green Great Wall' to Battle Desertification.\"\n\"Brilliant job, China!\" \"This is the Green Great Wall!\" they said.\nThe program described how China is building another \"Great Wall\" — not of stone, but of trees.\nThe Three-North Shelterbelt Forest Program has raised forest coverage in northern regions from about 5% nearly 50 years ago to nearly 14% today.\nKBS detailed how the Three-North Shelterbelt Forest Program successfully deployed vegetation to hold back the encroaching sands and highlighted the pivotal role solar panels play in creating conditions for desert plants to grow, and how the innovative integration of photovoltaics and desert control has further accelerated re-greening efforts.\nBy shielding the ground from fierce winds and slashing moisture evaporation, these solar arrays have cultivated an ideal microclimate for desert flora to thrive.\nAcross YouTube and NAVER, the story sparked waves of enthusiasm. A South Korean user said: \"A Great Wall made of trees? Strongest support imaginable!\"\nAnother netizen cheered: \"China is doing an incredible job! Keep it up!\"\nOther netizens noted the project began decades ago but biased, anti-China Western media outlets deliberately failed to report it.\nThey said \"China is the only country on Earth running a nationwide afforestation campaign to stop desertification. This isn't just a win for China; it's a massive favor to the global environment.\"\n\"Those who spend all day whining and rattling on against China are the real 'frogs in a well'.\"\nSeveral netizens recalled that 18 years ago, South Korea's variety show Infinite Challenge had introduced the Three-North Shelterbelt Forest Program to domestic audiences.\nIn a special episode anchored by South Korea's \"Nation's MC\" Yoo Jae-suk, which was aired in 2008, cast members trekked into China's Kubuqi Desert in Inner Mongolia to participate in tree-planting and sand-control efforts.\nThe episode captured China's desert-control efforts, but many netizens lamented that domestic media offered few updates in the years since.\nConsequently, even after15 years, the vast majority of the South Korean public remains totally in the dark about this world-class ecological wonder.\nIn truth, the Chinese practices have long received high acclaim from the international community.\nThe Secretariat of the United Nations Convention to Combat Desertification has praised the project, saying \"the world looks to China for desertification control,\" and has twice honored China with its Outstanding Contribution Award.\nInternational financial institutions have noted in their evaluation reports that the Three-North Shelterbelt project combines ecological restoration with poverty alleviation, creating a \"green economic corridor.\"\nComparisons were drawn with other nations' efforts.\nIn the 1930s, the U.S. government launched the ambitious \"Roosevelt Great Plains Shelterbelt\" in response to the Dust Bowl, but funding cuts and shifting politics left much of the plan unfinished: nearly two-thirds of the promised thousand-mile green belt evaporated, and desertification bounced back with a vengeance in several areas.\nEuropean countries such as Germany, France, and the UK have relied more on legislation to preserve existing forests.\nMeanwhile, in East Asia, Japan's forestry strategy has focused on water conservation and disaster mitigation.\nBy stark contrast, the Three-North Shelterbelt Forest Program has sought to create forests in arid wastelands and severe Gobi deserts, a scale of ecological engineering that observers say is rare globally.\nFor many South Korean netizens, those who spend their lives trying to defame China are the ones trapped at the bottom of a very dark, very narrow well.",
-      "fullTextCn": "（中新网）——韩国公共广播公司KBS播出了一期题为《中国建造“绿色长城”抗击沙漠化》的专题节目后，韩国网友纷纷称赞中国的“三北防护林工程”。“干得漂亮，中国！”“这就是绿色长城！”他们说道。该节目描述了中国如何建造另一座“长城”——不是用石头，而是用树木。三北防护林工程将北方地区的森林覆盖率从近50年前的约5%提高到如今的近14%。KBS详细介绍了三北防护林工程如何成功利用植被阻挡流沙侵蚀，并强调了太阳能电池板在为沙漠植物生长创造条件方面所起的关键作用，以及光伏与治沙的创新融合如何进一步加速了复绿进程。通过遮挡强风、减少水分蒸发，这些太阳能阵列营造了适合沙漠植物繁茂生长的理想微气候。\n\n在YouTube和NAVER上，这个故事引发了热烈的反响。一位韩国用户说：“用树木建造的长城？这是最有力的支持！”另一位网友欢呼道：“中国做得太棒了！继续加油！”其他网友指出，这个项目几十年前就开始了，但有偏见的反华西方媒体故意不报道。他们说：“中国是地球上唯一一个开展全国性植树造林运动来阻止沙漠化的国家。”\n\n“这不仅是中国的胜利，也是对全球环境的巨大贡献。”“那些整天抱怨、喋喋不休反对中国的人才是真正的‘井底之蛙’。”几位网友回忆说，18年前，韩国的综艺节目《无限挑战》曾向国内观众介绍过三北防护林工程。在2008年播出的一期由韩国“国民MC”刘在石主持的特辑中，成员们前往中国内蒙古的库布其沙漠参与植树和治沙工作。这期节目记录了中国治沙的努力，但许多网友感叹，此后多年国内媒体鲜有更新。因此，即使过了15年，绝大多数韩国民众仍然对这个世界级的生态奇迹一无所知。事实上，中国的做法早已获得国际社会的高度赞誉。\n\n《联合国防治荒漠化公约》秘书处赞扬了该项目，称“世界期待中国在防治荒漠化方面发挥引领作用”，并两次授予中国“杰出贡献奖”。国际金融机构在其评估报告中指出，三北防护林工程将生态恢复与扶贫相结合，创建了“绿色经济走廊”。与其他国家的努力进行了比较。20世纪30年代，美国政府为应对沙尘暴启动了雄心勃勃的“罗斯福大平原防护林”计划，但由于资金削减和政治变动，大部分计划未能完成：承诺的千里绿色林带近三分之二消失，沙漠化在多个地区卷土重来。德国、法国、英国等欧洲国家更多依赖立法来保护现有森林。\n\n与此同时，在东亚，日本的林业战略侧重于水资源保护和减灾。与此形成鲜明对比的是，三北防护林工程旨在干旱荒地和严峻的戈壁沙漠中创造森林，观察人士称这种规模的生态工程在全球范围内都很少见。对于许多韩国网友来说，那些一生都在试图诋毁中国的人，正是被困在又黑又窄的井底的人。"
+      "fullText": "China's ideas and actions increasingly resonate with the international community, with the Global Governance Initiative (GGI) being endorsed by nearly 160 countries and international organizations, according to a white paper released by the State Council Information Office on Wednesday.\nThe reason behind this lies in the fact that China understands how to meet the call of the day and shape the trends of our times, according to the white paper titled \"More Just and Equitable Global Governance: China's Principles, Proposals and Actions.\"\nAn equal and orderly multipolar world and universally beneficial and inclusive economic globalization are the trends of the times, and true multilateralism is the only path forward, noted the white paper.\nThe GGI, while rooted in China, benefits the world, it emphasized.\nChina has put forward a series of new ideas and propositions that champion shared values and joint action, responding to the common aspirations of the international community and addressing the most pressing issues in global governance.\nChampioning its rich diplomatic traditions and drawing strength from the fine traditional culture, China advances with and leads the times while remaining committed to action, showed the white paper.\nChina has adopted a series of initiatives to confront various global risks and challenges, continuously enriching the practice of global governance.\nProviding systematic solutions, China's four major global initiatives run in parallel with a focus on different domains and form a complete action framework that promotes prosperity through development, ensures stability through security, enhances mutual trust through exchanges between civilizations, and seeks justice through governance, the white paper noted.\nBy proposing the GGI and a series of new ideas and approaches, China has deepened its understanding of the laws governing the development of human society, broken free from the outdated \"core-periphery\" framework of the old international order, transcended the flawed logic that \"might makes right,\" abandoned the zero-sum mentality of \"winner takes all,\" and promoted the advancement of human political civilization, it added.",
+      "fullTextCn": "国务院新闻办公室周三发布的白皮书指出，中国的理念和行动日益引起国际社会共鸣，全球治理倡议已获得近160个国家和国际组织的支持。这份题为《更加公正合理的全球治理：中国的原则、主张与行动》的白皮书认为，其原因在于中国懂得如何响应时代呼唤、塑造时代潮流。\n\n白皮书指出，平等有序的多极世界和普惠包容的经济全球化是时代潮流，真正的多边主义是唯一出路。全球治理倡议植根中国，惠及世界。中国提出了一系列新理念新主张，倡导共同价值和联合行动，回应国际社会共同愿望，解决全球治理中最紧迫的问题。白皮书显示，中国发扬丰富的外交传统，汲取优秀传统文化力量，与时俱进、引领时代，同时坚持行动。中国采取一系列举措应对各种全球风险和挑战，不断丰富全球治理实践。白皮书指出，中国四大全球倡议并行推进，聚焦不同领域，提供系统解决方案，形成完整的行动框架，以发展促繁荣、以安全保稳定、以文明交流增互信、以治理求公正。白皮书补充说，通过提出全球治理倡议和一系列新理念新方法，中国深化了对人类社会发展规律的认识，突破了旧国际秩序中过时的“中心-边缘”框架，超越了“强权即公理”的错误逻辑，摒弃了“赢者通吃”的零和思维，推动了人类政治文明的进步。"
     },
     {
       "id": 5,
       "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/business/2026-06-17/detail-ihffptmh9484528.shtml",
-      "title": "China-ROK cooperation bolsters fishery resources",
-      "titleCn": "中韩合作助力渔业资源恢复",
-      "summary": "China and the Republic of Korea carried out their seventh annual joint fish stock enhancement and release campaign in the Yellow Sea on Tuesday, releasing a total of 7.29 million juveniles of important commercial species into waters that have long sustained fishing communities in both countries.",
-      "summaryCn": "中韩在黄海开展第七次联合渔业资源增殖放流活动，投放729万尾重要商业鱼种，促进渔业资源恢复和渔民增收。",
-      "wordCount": 552,
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-17/White-paper-highlights-China-s-contribution-to-global-governance-1O2LWPd6mTm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "White paper highlights China's contribution to global governance",
+      "titleCn": "白皮书强调中国对全球治理的贡献",
+      "summary": "A white paper released Wednesday by the State Council Information Office highlighted China's role in actively advancing efforts for building a more just and equitable global governance system.",
+      "summaryCn": "中国发布白皮书，阐述其在推动构建更加公正合理的全球治理体系中的原则、倡议与行动。",
+      "wordCount": 318,
       "paragraphs": [
         {
-          "en": "China and the Republic of Korea {{1}} out their seventh annual joint fish stock {{2}} and {{3}} campaign in the Yellow Sea on Tuesday, releasing a total of 7.29 million {{4}} of important {{5}} {{6}} into waters that have long sustained fishing communities in both countries. The ROK released 4.29 million fry and juveniles of small yellow croaker, red seabream and swimming crab off Incheon, while China simultaneously released 3 million juveniles of greenfin horse-faced filefish, swimming crab and blackhead seabream off Yantai, Shandong province. The campaign is based on a {{7}} reached at the 16th session of the {{8}} fisheries joint committee in 2016. The event, which began in 2018, has released more than 18.75 million fry and juveniles into the Yellow Sea, contributing to the {{9}} of commercially valuable fish stocks, improvement of the marine {{10}} and higher incomes for fishermen from both countries, official data showed. The cooperation is {{11}} in the China-ROK Fisheries Agreement signed in 2000.",
-          "cn": "中国和韩国于周二在黄海开展了第七次年度联合渔业资源增殖放流活动，共向长期以来支撑两国渔业社区的水域投放了729万尾重要商业鱼种的幼鱼。韩国在仁川附近海域投放了429万尾小黄鱼、真鲷和三疣梭子蟹的鱼苗和幼鱼，而中国同时在山东烟台附近海域投放了300万尾绿鳍马面鲀、三疣梭子蟹和黑鲷的幼鱼。该活动基于2016年双边渔业联合委员会第十六次会议达成的共识。官方数据显示，自2018年开始的这一活动已向黄海投放超过1875万尾鱼苗和幼鱼，有助于恢复具有商业价值的鱼类种群、改善海洋生态系统并提高两国渔民收入。这一合作基于2000年签署的《中韩渔业协定》。"
-        },
-        {
-          "en": "Over the years, the two sides have {{12}} collaboration in catch management, resource {{13}}, scientific research and joint law enforcement. China has released more than 67.7 billion fry and juveniles of various aquatic species into the Bohai and Yellow seas. The Yellow Sea serves as a vital fishing ground for both countries, with many commercially important species showing distinct seasonal migration patterns, according to the Chinese Academy of Fishery Sciences' Yellow Sea Fisheries Research Institute. Since 2010, China and the ROK have conducted joint fisheries resource {{14}}, typically four times a year on a quarterly basis, with each side carrying out two cruises. The surveys involve mutual vessel boardings and data sharing to monitor stock {{15}} and inform conservation decisions, the institute said.",
-          "cn": "多年来，双方在捕捞管理、资源养护、科学研究和联合执法方面扩大了合作。中国已向渤海和黄海投放了超过677亿尾各类水生物种的鱼苗和幼鱼。据中国水产科学研究院黄海水产研究所介绍，黄海是两国重要的渔场，许多重要商业物种表现出明显的季节性洄游模式。自2010年以来，中韩两国开展了联合渔业资源调查，通常每季度进行四次，双方各执行两次航次。该研究所表示，调查涉及相互登船和数据共享，以监测种群波动并为养护决策提供信息。"
-        },
-        {
-          "en": "These fish {{16}}, nurse and feed in the inshore waters of China's Bohai and Yellow seas during warmer months, then {{17}} toward the central and southern Yellow Sea for wintering as water temperatures drop, the institute said. This migratory pattern, together with the long-established fishing practices of both countries, means that the {{18}} management of Yellow Sea fisheries requires joint efforts, the institute added. Qu Jiangbo, general manager of the Tianyuan Aquatic Products Co, said the company supplied greenfin horse-faced filefish for this year's release campaign. The fry and juveniles were produced using controlled temperature and water quality breeding {{19}}, using wild-caught, disease-free brood-stock with high genetic diversity. Before release, the juveniles undergo strict {{20}} and drug residue testing.",
-          "cn": "该研究所表示，这些鱼类在温暖月份在中国渤海和黄海的近岸水域产卵、育幼和摄食，然后随着水温下降向黄海中部和南部洄游越冬。该研究所补充说，这种洄游模式加上两国长期形成的捕捞习惯，意味着黄海渔业的可持续管理需要双方共同努力。天源水产有限公司总经理曲江波表示，该公司为今年的放流活动提供了绿鳍马面鲀鱼苗。这些鱼苗和幼鱼采用控温和控水质的繁育技术生产，使用野生捕获、无病且遗传多样性高的亲本。放流前，幼鱼需经过严格的检疫和药物残留检测。"
-        },
-        {
-          "en": "Only those passing tests for 11 prohibited substances receive official {{21}} for release, Qu said. The company has invested 130 million yuan ($19 million) in a live {{22}} bank for marine fish in northern China, which is expected to be fully operational before this year-end to preserve and utilize fishery genetic resources, he said. Fishermen have also witnessed {{23}} benefits. Cui Gang, a local fisherman for almost 20 years, said that over the past five to six years, he has seen larger catches of greenfin horse-faced filefish, with rare red seabream occasionally appearing. \"The proportion of small mixed fish has declined, while commercially valuable species are larger and yields have stabilized,\" Cui said.",
-          "cn": "曲江波说，只有通过11种禁用物质检测的幼鱼才能获得放流官方认证。他表示，该公司已投资1.3亿元人民币（约1900万美元）在中国北方建设一个海洋鱼类活体种质资源库，预计今年年底前全面投入使用，以保护和利用渔业遗传资源。渔民们也看到了实实在在的好处。从事渔业近20年的当地渔民崔刚表示，过去五六年里，他捕捞到的绿鳍马面鲀数量增多，偶尔还能见到罕见的真鲷。崔刚说：“小杂鱼的比例下降了，而有商业价值的鱼种个头更大，产量也更稳定了。”"
-        },
-        {
-          "en": "On the joint China-ROK fish stock enhancement and release effort, Cui said, \"The sea has no borders, and neither do fish. If both sides take good care of these waters, we fishermen will have a future.\"",
-          "cn": "谈到中韩联合渔业资源增殖放流工作，崔刚说：“大海没有边界，鱼也没有。如果双方都好好养护这片水域，我们渔民就有未来。”"
+          "en": "File photo of a floral arrangement themed \"building a community with a shared future for humanity\" is displayed in Beijing, China. A white paper released on Wednesday by the State Council Information Office highlighted China's role in actively {{3}} efforts for building a more just and {{4}} global {{2}} system. As a responsible major country, China {{5}} the building of a community with a shared future for humanity and takes the lead in practicing true {{6}}, according to the white paper, titled \"More Just and Equitable Global Governance: China's Principles, Proposals and Actions.\"\nAs a major country with the best peace and security record, China has {{7}} in its Constitution a {{8}} to peaceful development, the white paper noted. China champions the vision of common, comprehensive, cooperative and {{9}} security, and has put forward the Global Security Initiative and acted on its principles, contributing to lasting world peace and {{11}}, it said. As the largest developing country, China has always {{12}} its own growth in the {{13}} of humanity's shared development and upheld {{14}}, win-win cooperation, {{15}} and shared benefits, according to the white paper. Through Chinese {{16}}, the country has provided the world with new {{17}} and {{18}} the global drive for modernization, it added. China {{19}} and practices true multilateralism and remains an active champion and strong {{20}} of multilateral cooperation, read the white paper. Noting that China will always be a member of the Global South, the white paper said China has firmly {{21}} the common interests of the Global South in international affairs and led the Global South in building strength through joint efforts. China has proposed the Global Civilization Initiative and promoted its {{22}}, championing the common values of humanity and {{23}} deeper exchanges and understanding among different peoples, and wider interactions and greater {{24}} of diverse cultures in a joint effort to advance the development and {{26}} of human {{25}}, it added.",
+          "cn": "一张以“构建人类命运共同体”为主题的花艺作品资料照片在北京展出。国务院新闻办公室周三发布的白皮书强调了中国在积极推动构建更加公正合理的全球治理体系中的作用。白皮书指出，作为一个负责任的大国，中国倡导构建人类命运共同体，并率先践行真正的多边主义。这份题为《更加公正合理的全球治理：中国的原则、倡议与行动》的白皮书阐述了相关立场。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "carried",
-          "hint": "v. 执行，进行",
-          "difficulty": "easy"
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "enhancement",
-          "hint": "n. 增强，提高",
+          "answer": "advancing",
+          "hint": "v. 推进",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "release",
-          "hint": "v. 释放，投放",
-          "difficulty": "easy"
+          "answer": "equitable",
+          "hint": "adj. 公平的",
+          "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "juveniles",
-          "hint": "n. 幼鱼，幼体",
-          "difficulty": "hard"
+          "answer": "champions",
+          "hint": "v. 倡导",
+          "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "commercial",
-          "hint": "adj. 商业的",
-          "difficulty": "easy"
+          "answer": "multilateralism",
+          "hint": "n. 多边主义",
+          "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "species",
-          "hint": "n. 物种",
-          "difficulty": "medium"
+          "answer": "enshrined",
+          "hint": "v. 载入",
+          "difficulty": "hard"
         },
         {
           "id": 6,
-          "answer": "consensus",
-          "hint": "n. 共识，一致意见",
-          "difficulty": "medium"
+          "answer": "commitment",
+          "hint": "n. 承诺",
+          "difficulty": "easy"
         },
         {
           "id": 7,
-          "answer": "bilateral",
-          "hint": "adj. 双边的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "recovery",
-          "hint": "n. 恢复，复苏",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "ecosystem",
-          "hint": "n. 生态系统",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "grounded",
-          "hint": "v. 基于，以...为基础",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "expanded",
-          "hint": "v. 扩大，扩展",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "conservation",
-          "hint": "n. 保护，养护",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "surveys",
-          "hint": "n. 调查，勘测",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "fluctuations",
-          "hint": "n. 波动，起伏",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "spawn",
-          "hint": "v. 产卵",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "migrate",
-          "hint": "v. 迁徙，洄游",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
           "answer": "sustainable",
           "hint": "adj. 可持续的",
           "difficulty": "medium"
         },
         {
-          "id": 18,
-          "answer": "techniques",
-          "hint": "n. 技术，方法",
+          "id": 8,
+          "answer": "stability",
+          "hint": "n. 稳定",
           "difficulty": "easy"
         },
         {
+          "id": 9,
+          "answer": "pursued",
+          "hint": "v. 追求",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "context",
+          "hint": "n. 背景",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "openness",
+          "hint": "n. 开放",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "inclusiveness",
+          "hint": "n. 包容性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "modernization",
+          "hint": "n. 现代化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "opportunities",
+          "hint": "n. 机遇",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "boosted",
+          "hint": "v. 推动",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "advocates",
+          "hint": "v. 倡导",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "proponent",
+          "hint": "n. 支持者",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "safeguarded",
+          "hint": "v. 维护",
+          "difficulty": "medium"
+        },
+        {
           "id": 19,
-          "answer": "quarantine",
-          "hint": "n. 检疫，隔离",
+          "answer": "implementation",
+          "hint": "n. 实施",
           "difficulty": "hard"
         },
         {
           "id": 20,
-          "answer": "certification",
-          "hint": "n. 认证，证明",
+          "answer": "fostering",
+          "hint": "v. 促进",
           "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "germplasm",
-          "hint": "n. 种质，遗传资源",
+          "answer": "integration",
+          "hint": "n. 融合",
           "difficulty": "hard"
         },
         {
           "id": 22,
-          "answer": "tangible",
-          "hint": "adj. 切实的，有形的",
-          "difficulty": "medium"
+          "answer": "civilization",
+          "hint": "n. 文明",
+          "difficulty": "easy"
+        },
+        {
+          "id": 23,
+          "answer": "progress",
+          "hint": "n. 进步",
+          "difficulty": "easy"
         }
       ],
-      "fullText": "China and the Republic of Korea carried out their seventh annual joint fish stock enhancement and release campaign in the Yellow Sea on Tuesday, releasing a total of 7.29 million juveniles of important commercial species into waters that have long sustained fishing communities in both countries.\nThe ROK released 4.29 million fry and juveniles of small yellow croaker, red seabream and swimming crab off Incheon, while China simultaneously released 3 million juveniles of greenfin horse-faced filefish, swimming crab and blackhead seabream off Yantai, Shandong province.\nThe campaign is based on a consensus reached at the 16th session of the bilateral fisheries joint committee in 2016. The event, which began in 2018, has released more than 18.75 million fry and juveniles into the Yellow Sea, contributing to the recovery of commercially valuable fish stocks, improvement of the marine ecosystem and higher incomes for fishermen from both countries, official data showed.\nThe cooperation is grounded in the China-ROK Fisheries Agreement signed in 2000. Over the years, the two sides have expanded collaboration in catch management, resource conservation, scientific research and joint law enforcement.\nChina has released more than 67.7 billion fry and juveniles of various aquatic species into the Bohai and Yellow seas.\nThe Yellow Sea serves as a vital fishing ground for both countries, with many commercially important species showing distinct seasonal migration patterns, according to the Chinese Academy of Fishery Sciences' Yellow Sea Fisheries Research Institute.\nSince 2010, China and the ROK have conducted joint fisheries resource surveys, typically four times a year on a quarterly basis, with each side carrying out two cruises. The surveys involve mutual vessel boardings and data sharing to monitor stock fluctuations and inform conservation decisions, the institute said.\nThese fish spawn, nurse and feed in the inshore waters of China's Bohai and Yellow seas during warmer months, then migrate toward the central and southern Yellow Sea for wintering as water temperatures drop, the institute said.\nThis migratory pattern, together with the long-established fishing practices of both countries, means that the sustainable management of Yellow Sea fisheries requires joint efforts, the institute added.\nQu Jiangbo, general manager of the Tianyuan Aquatic Products Co, said the company supplied greenfin horse-faced filefish for this year's release campaign. The fry and juveniles were produced using controlled temperature and water quality breeding techniques, using wild-caught, disease-free brood-stock with high genetic diversity.\nBefore release, the juveniles undergo strict quarantine and drug residue testing. Only those passing tests for 11 prohibited substances receive official certification for release, Qu said.\nThe company has invested 130 million yuan ($19 million) in a live germplasm bank for marine fish in northern China, which is expected to be fully operational before this year-end to preserve and utilize fishery genetic resources, he said.\nFishermen have also witnessed tangible benefits. Cui Gang, a local fisherman for almost 20 years, said that over the past five to six years, he has seen larger catches of greenfin horse-faced filefish, with rare red seabream occasionally appearing.\n\"The proportion of small mixed fish has declined, while commercially valuable species are larger and yields have stabilized,\" Cui said.\nOn the joint China-ROK fish stock enhancement and release effort, Cui said, \"The sea has no borders, and neither do fish. If both sides take good care of these waters, we fishermen will have a future.\"",
-      "fullTextCn": "中国和韩国于周二在黄海开展了第七次年度联合渔业资源增殖放流活动，共向长期以来支撑两国渔业社区的水域投放了729万尾重要商业鱼种的幼鱼。韩国在仁川附近海域投放了429万尾小黄鱼、真鲷和三疣梭子蟹的鱼苗和幼鱼，而中国同时在山东烟台附近海域投放了300万尾绿鳍马面鲀、三疣梭子蟹和黑鲷的幼鱼。该活动基于2016年双边渔业联合委员会第十六次会议达成的共识。官方数据显示，自2018年开始的这一活动已向黄海投放超过1875万尾鱼苗和幼鱼，有助于恢复具有商业价值的鱼类种群、改善海洋生态系统并提高两国渔民收入。这一合作基于2000年签署的《中韩渔业协定》。\n\n多年来，双方在捕捞管理、资源养护、科学研究和联合执法方面扩大了合作。中国已向渤海和黄海投放了超过677亿尾各类水生物种的鱼苗和幼鱼。据中国水产科学研究院黄海水产研究所介绍，黄海是两国重要的渔场，许多重要商业物种表现出明显的季节性洄游模式。自2010年以来，中韩两国开展了联合渔业资源调查，通常每季度进行四次，双方各执行两次航次。该研究所表示，调查涉及相互登船和数据共享，以监测种群波动并为养护决策提供信息。\n\n该研究所表示，这些鱼类在温暖月份在中国渤海和黄海的近岸水域产卵、育幼和摄食，然后随着水温下降向黄海中部和南部洄游越冬。该研究所补充说，这种洄游模式加上两国长期形成的捕捞习惯，意味着黄海渔业的可持续管理需要双方共同努力。天源水产有限公司总经理曲江波表示，该公司为今年的放流活动提供了绿鳍马面鲀鱼苗。这些鱼苗和幼鱼采用控温和控水质的繁育技术生产，使用野生捕获、无病且遗传多样性高的亲本。放流前，幼鱼需经过严格的检疫和药物残留检测。\n\n曲江波说，只有通过11种禁用物质检测的幼鱼才能获得放流官方认证。他表示，该公司已投资1.3亿元人民币（约1900万美元）在中国北方建设一个海洋鱼类活体种质资源库，预计今年年底前全面投入使用，以保护和利用渔业遗传资源。渔民们也看到了实实在在的好处。从事渔业近20年的当地渔民崔刚表示，过去五六年里，他捕捞到的绿鳍马面鲀数量增多，偶尔还能见到罕见的真鲷。崔刚说：“小杂鱼的比例下降了，而有商业价值的鱼种个头更大，产量也更稳定了。”\n\n谈到中韩联合渔业资源增殖放流工作，崔刚说：“大海没有边界，鱼也没有。如果双方都好好养护这片水域，我们渔民就有未来。”"
+      "fullText": "File photo of a floral arrangement themed \"building a community with a shared future for humanity\" is displayed in Beijing, China. \nA white paper released on Wednesday by the State Council Information Office highlighted China's role in actively advancing efforts for building a more just and equitable global governance system.\nAs a responsible major country, China champions the building of a community with a shared future for humanity and takes the lead in practicing true multilateralism, according to the white paper, titled \"More Just and Equitable Global Governance: China's Principles, Proposals and Actions.\"\nAs a major country with the best peace and security record, China has enshrined in its Constitution a commitment to peaceful development, the white paper noted.\nChina champions the vision of common, comprehensive, cooperative and sustainable security, and has put forward the Global Security Initiative and acted on its principles, contributing to lasting world peace and stability, it said.\nAs the largest developing country, China has always pursued its own growth in the context of humanity's shared development and upheld openness, win-win cooperation, inclusiveness and shared benefits, according to the white paper.\nThrough Chinese modernization, the country has provided the world with new opportunities and boosted the global drive for modernization, it added.\nChina advocates and practices true multilateralism and remains an active champion and strong proponent of multilateral cooperation, read the white paper.\nNoting that China will always be a member of the Global South, the white paper said China has firmly safeguarded the common interests of the Global South in international affairs and led the Global South in building strength through joint efforts.\nChina has proposed the Global Civilization Initiative and promoted its implementation, championing the common values of humanity and fostering deeper exchanges and understanding among different peoples, and wider interactions and greater integration of diverse cultures in a joint effort to advance the development and progress of human civilization, it added.",
+      "fullTextCn": "一张以“构建人类命运共同体”为主题的花艺作品资料照片在北京展出。国务院新闻办公室周三发布的白皮书强调了中国在积极推动构建更加公正合理的全球治理体系中的作用。白皮书指出，作为一个负责任的大国，中国倡导构建人类命运共同体，并率先践行真正的多边主义。这份题为《更加公正合理的全球治理：中国的原则、倡议与行动》的白皮书阐述了相关立场。\n\n白皮书指出，作为拥有最佳和平与安全记录的大国，中国已将和平发展承诺写入宪法。白皮书称，中国倡导共同、综合、合作、可持续的安全观，提出并践行全球安全倡议，为世界持久和平与稳定作出贡献。白皮书表示，作为最大的发展中国家，中国始终在人类共同发展的背景下追求自身发展，坚持开放、共赢、包容、共享的合作原则。白皮书补充说，通过中国式现代化，中国为世界提供了新机遇，推动了全球现代化进程。白皮书指出，中国倡导并践行真正的多边主义，始终是 multilateral 合作的积极倡导者和坚定支持者。白皮书强调，中国将永远是“全球南方”的一员，在国际事务中坚定维护“全球南方”的共同利益，并引领“全球南方”通过共同努力增强力量。白皮书补充说，中国提出并推动落实全球文明倡议，倡导全人类共同价值，促进不同民族之间更深层次的交流与理解，推动不同文化之间更广泛的互动与融合，共同推进人类文明的发展与进步。"
     }
   ]
 }
