@@ -1,942 +1,788 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "articles": [
     {
       "id": 1,
-      "category": "military",
+      "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-17/Whitewashing-Japan-s-colonial-crimes-in-Taiwan-fueling-militarism-1O2wFWC98VW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "Whitewashing Japan's colonial crimes in Taiwan fueling militarism",
-      "titleCn": "美化日本在台殖民罪行助长军国主义",
-      "summary": "Whitewashing Japan's colonial crimes in Taiwan fueling militarism",
-      "summaryCn": "本文揭露日本在台殖民暴行被刻意美化，并分析当前政治势力为自身目的歪曲历史的现象。",
-      "wordCount": 1669,
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-16/How-is-climate-tech-preparing-for-El-Nino-s-return--1O1CvelQi9q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "How is climate tech preparing for El Nino's return?",
+      "titleCn": "气候科技如何为厄尔尼诺的回归做准备？",
+      "summary": "How is climate tech preparing for El Nino's return?",
+      "summaryCn": "随着厄尔尼诺现象可能回归，各国正利用AI等先进技术加强天气预报和灾害应对能力。",
+      "wordCount": 495,
       "paragraphs": [
         {
-          "en": "June 17, 1895 has long been remembered by Taiwan people as a Day of Shame, marking the formal {{0}} of half a century of Japanese colonial {{1}} over the island. For the colonial rulers themselves, however, the same date was once an occasion for official celebration. That {{2}} in memory has always existed. What has changed is that one version of it is now being intentionally {{3}}. Japanese politicians have recently declared that a {{4}} over Taiwan would constitute a survival-level crisis for Japan — language that echoes old imperial preoccupations.",
-          "cn": "1895年6月17日长期以来被台湾人民铭记为“国耻日”，标志着日本对台湾岛半个世纪殖民统治的正式开始。然而，对于殖民统治者自身而言，同一天曾是官方庆祝的场合。这种记忆上的分歧一直存在。变化在于，其中一种版本正被有意放大。日本政客最近宣称，台湾发生突发事件将对日本构成生存级危机——这种措辞呼应了旧帝国主义的关切。"
+          "en": "The San Gabriel River floods near the Good Water RV Park and the Shady River RV Resort in Georgetown, Texas, US, May 27, 2026. The world is {{0}} for the return of El Nino, a climate {{1}} that could {{2}} {{3}} weather and push global temperatures even higher. According to the World Meteorological Organization, there is an 80% chance that El Nino conditions will develop between June and August 2026, with the {{4}} rising to more than 90% through at least November. Most forecast models suggest the event could reach {{5}} to strong {{6}}. UN Secretary-General Antonio Guterres warned that El Nino would \"pour fuel on the fire of a warming world\" and stressed that early warning systems are essential to protecting {{7}} communities from climate-related disasters.",
+          "cn": "2026年5月27日，美国德克萨斯州乔治敦，圣盖博河在Good Water房车公园和Shady River房车度假村附近泛滥。全球正在为厄尔尼诺的回归做准备，这种气候现象可能加剧极端天气，并将全球气温推得更高。据世界气象组织称，2026年6月至8月间出现厄尔尼诺条件的概率为80%，到11月前概率将升至90%以上。大多数预测模型显示，该事件可能达到中等至强强度。联合国秘书长安东尼奥·古特雷斯警告说，厄尔尼诺将“给变暖的世界火上浇油”，并强调早期预警系统对于保护脆弱社区免受气候相关灾害至关重要。"
         },
         {
-          "en": "Meanwhile, Taiwan's current leadership has paid public {{5}} at the memorial of a Japanese colonial-era engineer, framing the gesture as an expression of gratitude. The narrative of Japan-Taiwan {{6}} is louder than it has been in decades. But it rests on a {{25}} {{7}} of what 50 years of colonial occupation actually meant for the people who endured it. Romanticized narrative built on blood and bone\nIn late May, historians from leading Chinese academies convened in Beijing for a {{9}} on Japan's colonial crimes in Taiwan, determined to answer {{10}} with something harder to dismiss. \"Whether it is Japan's acts of massacre in Taiwan or its plunder of resources and wealth, these are facts {{11}} by the historical community, acknowledged by many scholars, including those in China's Taiwan region,\" said Zhang Haipeng, a member of the Academic Committee of the Chinese Academy of Social Sciences, arguing that the recent political narrative has grown increasingly {{12}} from documented evidence.",
-          "cn": "与此同时，台湾地区现任领导人在一位日本殖民时期工程师的纪念碑前公开致敬，将此姿态称为表达感激之情。日台亲善的叙事比过去几十年都更加响亮。但它建立在对50年殖民占领对承受者真正意义的系统性扭曲之上。建立在血骨之上的浪漫化叙事。5月底，来自中国主要学术机构的历史学家在北京召开研讨会，讨论日本在台湾的殖民罪行，决心用更难以驳斥的事实回击谬论。中国社会科学院学术委员会委员张海鹏表示：“无论是日本在台湾的屠杀行为，还是其对资源和财富的掠夺，这些都是历史学界记载的事实，得到了包括中国台湾地区学者在内的许多学者的认可。”他认为，近期的政治叙事已日益偏离有据可查的证据。"
+          "en": "As countries prepare for potentially more frequent heatwaves, floods and droughts, artificial intelligence (AI) is increasingly becoming a key tool in climate {{8}}. China has been developing a new {{9}} of AI-powered weather forecasting systems, including the \"Feng\" or \"Wind\" series (Fengqing, Fenglei, Fengshun and Fengyuan) of meteorological models. Fengqing is a global medium‑range model that produces 10.5‑day forecasts within three minutes and has been {{10}} nationwide. Fenglei is a nowcasting model that directly predicts {{11}} {{12}}, improving heavy rain forecasts by 25% and {{13}} lead time to three hours. It supports four‑tier severe weather warnings.",
+          "cn": "随着各国为可能更频繁的热浪、洪水和干旱做准备，人工智能正日益成为气候适应的关键工具。中国一直在开发新一代AI驱动的天气预报系统，包括“风”系列气象模型（风清、风雷、风顺和风源）。风清是一个全球中期模型，能在三分钟内生成10.5天的预报，并已在全国范围内投入运行。风雷是一个临近预报模型，可直接预测定量降水，将强降雨预报准确率提高25%，并将预警时间延长至三小时。它支持四级恶劣天气预警。"
         },
         {
-          "en": "The scale of colonial violence in Taiwan is among the most persistently {{13}} facts in this debate. At the time of Japan's surrender, Taiwan's total population stood at approximately six million. A 1944 declaration by the Taiwan Revolutionary League — {{14}} by subsequent scholarly research by historians in Taiwan — estimated that approximately 650,000 people — roughly one in nine people — {{15}} under Japanese colonial rule over 50 years marked by armed {{16}}, massacres, forced displacement, famine, and military {{17}}. Scholars also {{18}} the {{19}} claim that Japan's seizure of Taiwan in 1895 was an accidental byproduct of the First Sino-Japanese War, tracing the expansionist doctrine behind it from Toyotomi Hideyoshi's sixteenth-century blueprint for East Asian dominance through the engine of Meiji militarism. The record is unambiguous: the 1879 {{20}} of the Ryukyu Kingdom and the 1874 military probe into Taiwan's coast were calculated rehearsals, testing Qing coastal defenses, establishing {{21}} for intervention, so that when Japan forced the Treaty of Shimonoseki, it was not seizing an unexpected opportunity.",
-          "cn": "殖民暴力在台湾的规模是这场辩论中最常被掩盖的事实之一。日本投降时，台湾总人口约为600万。台湾革命同盟会1944年的一份声明——经台湾历史学家后续学术研究证实——估计，在50年的殖民统治期间，约有65万人（约九分之一）死于武装镇压、屠杀、强迫流离失所、饥荒和军事征兵。学者们还驳斥了修正主义者的说法，即日本1895年夺取台湾是甲午战争的意外副产品，追溯了其背后的扩张主义信条，从丰臣秀吉16世纪统治东亚的蓝图，到明治军国主义的引擎。记录明确无误：1879年吞并琉球王国和1874年对台湾海岸的军事试探是精心策划的预演，测试了清朝的海防，建立了干预的先例，因此当日本强行签订《马关条约》时，它并非抓住了一个意外机会。"
+          "en": "Fengshun is a {{14}}‑to‑seasonal model with 0.25-degree {{15}} and {{16}} in international competitions. Fengyuan is a scientific AI base model {{17}} data {{18}} and forecasting, serving as an open research and innovation platform. Together, the series addresses {{19}} needs – from disaster prevention to {{20}} energy and {{21}} – and marks China's fully independent, end‑to‑end AI forecasting capability. China has also launched the MAZU Early Warning Cloud Platform, a national-level solution supporting the United Nations' \"Early Warnings for All\" {{22}}. The platform integrates meteorological {{23}}, risk {{24}}, and disaster alerts and has been introduced in countries including Pakistan, Mongolia and Sri Lanka, helping {{25}} local disaster preparedness.",
+          "cn": "风顺是一个次季节到季节模型，分辨率为0.25度，在国际竞赛中表现出色。风源是一个科学AI基础模型，集成了数据同化和预报功能，作为一个开放的研究与创新平台。该系列共同满足了从防灾到可再生能源和航空等多样化需求，标志着中国完全自主的端到端AI预报能力。中国还推出了“妈祖”早期预警云平台，这是一个支持联合国“全民早期预警”倡议的国家级解决方案。该平台集成了气象监测、风险评估和灾害警报，并已在巴基斯坦、蒙古和斯里兰卡等国家推广，帮助加强当地的灾害准备。"
         },
         {
-          "en": "It was collecting on a long-prepared invoice. The moment the terms of the treaty became known in Taiwan, resistance {{22}}, and the massacres followed almost immediately. Sweeping operations in the island's north through 1895 and 1896 left tens of thousands dead, documented by foreign observers on the ground. The Yunlin Massacre of 1896 was one of the period's defining {{23}}. Japanese forces burned nearly 5,000 homes in the Yunlin area over five days, killing civilians with no distinction between combatant and non-combatant.",
-          "cn": "而是在兑现一份长期准备的账单。条约条款在台湾一公布，抵抗就爆发了，屠杀几乎立即随之而来。1895年至1896年间，在台湾北部进行的扫荡行动导致数万人死亡，现场的外国观察员记录了这一切。1896年的云林大屠杀是那个时期标志性的暴行之一。日军在五天内烧毁了云林地区近5000所房屋，杀害平民，不分战斗人员和非战斗人员。"
+          "en": "Other countries are also turning to advanced technologies to {{26}} with climate risks associated with El Nino. In the United States, the National Oceanic and Atmospheric Administration uses AI-{{27}} forecasting systems and climate models to improve seasonal outlooks and extreme weather predictions. Australia's Bureau of Meteorology has expanded its climate monitoring and forecasting capabilities as the country faces heightened risks of drought, heat waves and bushfires during El Nino years. Meanwhile, the European Union has expanded the use of advanced climate forecasting through the European Center for Medium-Range Weather Forecasts (ECMWF) and the Copernicus Climate Change Service. These platforms combine satellite observations, AI-assisted modeling and high-performance computing to provide seasonal forecasts that help governments prepare for El Nino-related heatwaves, droughts and extreme rainfall events.",
+          "cn": "其他国家也在转向先进技术，以应对与厄尔尼诺相关的气候风险。在美国，国家海洋和大气管理局使用AI增强的预报系统和气候模型，以改进季节性展望和极端天气预测。澳大利亚气象局扩大了其气候监测和预报能力，因为该国在厄尔尼诺年份面临干旱、热浪和丛林火灾的风险增加。与此同时，欧盟通过欧洲中期天气预报中心和哥白尼气候变化服务扩大了先进气候预报的使用。这些平台结合了卫星观测、AI辅助建模和高性能计算，提供季节性预报，帮助政府为厄尔尼诺相关的热浪、干旱和极端降雨事件做准备。"
         },
         {
-          "en": "Japanese forces execute {{24}} resistance fighters by decapitation/ Historical \nIn 1915, the Xilai'an Incident revealed a crueler method: colonial authorities offered amnesty to villagers who laid down arms, then machine-gunned them when they returned home. Over 3,200 died, among them students, the elderly, and infants. For Taiwan's indigenous communities, the violence was even more systematic. Multi-year pacification campaigns gave way, by 1930, to the {{26}} of poison gas against the Seediq ethnic people following the Wushe Uprising. When the uprising was crushed, Japanese forces {{27}} rival groups to finish off the survivors; a community of over 1,200 was reduced to fewer than 200.",
-          "cn": "日军斩首处决原住民抵抗战士/历史图片。1915年，西来庵事件揭示了一种更残忍的手段：殖民当局向放下武器的村民提供大赦，然后在他们回家时用机枪扫射。超过3200人死亡，其中包括学生、老人和婴儿。对于台湾原住民社区，暴力更加系统化。多年的绥靖行动，到1930年，在雾社起义后，演变为对赛德克族使用毒气。起义被镇压后，日军煽动敌对团体消灭幸存者；一个超过1200人的社区减少到不足200人。"
-        },
-        {
-          "en": "Their leader Mona Rudao was driven to suicide, with his remains subsequently put on museum display. Is it development or {{28}}? The revisionist argument, stripped to its essence, is that Japan modernized Taiwan — railways, irrigation, public health — and that this constitutes grounds for gratitude. Scholars at the Beijing seminar did not dispute that infrastructure was built. They disputed who it was built for.",
-          "cn": "他们的领袖莫那·鲁道被迫自杀，其遗骸随后被放在博物馆展出。这是发展还是掠夺？修正主义论点，剥去其外壳，是说日本使台湾现代化——铁路、灌溉、公共卫生——这构成了感恩的理由。北京研讨会的学者们并不否认基础设施被建造。他们质疑的是为谁而建。"
-        },
-        {
-          "en": "Japan's stated economic strategy was captured in a single phrase: \"industrial Japan, agricultural Taiwan.\" The island was to be permanently locked into supplying raw commodities — primarily rice and sugar — to the Japanese home market, with no diversified industrial base of its own. The numbers tell the story. Between 1900 and 1944, Taiwan shipped over 11.6 million metric tonnes of rice to Japan — regularly exceeding half of annual production during the 1920s and 30s. Japanese nationals were guaranteed a per capita annual consumption of around 160 kilograms; Taiwan's consumption fell below 100 kilograms by the 1930s. The people who grew the rice could not afford to eat it.",
-          "cn": "日本宣称的经济战略可以用一句话概括：“工业日本，农业台湾。”该岛被永久锁定在向日本国内市场供应原材料商品——主要是大米和糖——没有自己的多元化工业基础。数字说明了问题。1900年至1944年间，台湾向日本运送了超过1160万吨大米——在1920年代和30年代经常超过年产量的半数。日本国民的人均年消费量保证在160公斤左右；到1930年代，台湾的消费量降至100公斤以下。种植大米的人吃不起大米。"
-        },
-        {
-          "en": "The colonial monopoly bureau constructed a sprawling opium factory in Taipei/ Pictorial History of Japan's Invasion of China\nWang Xiaoping of the Chinese Academy of Social Sciences used the figure now at the center of the controversy — colonial engineer Hatta Yoichi, at whose memorial Taiwan's current leadership recently knelt — to make the point concrete. Hatta built irrigation works but their benefits did not reach Taiwan people until 1945, when the facilities passed out of colonial hands. Venerating him as a benefactor, Wang said, inverts the actual direction of that benefit entirely. One further fact unsettles the modernization narrative at its foundation: before Japan's arrival in 1895, Taiwan was already among the most developed regions of Qing-era China, with functioning railways, telegraphs, modern mining, and a steamship industry. Japan did not bring modernity to a blank slate.",
-          "cn": "殖民专卖局在台北建造了一座庞大的鸦片工厂/《日本侵华图志》。中国社会科学院的王小平用目前争议中心的人物——殖民工程师八田与一，台湾地区现任领导人最近在其纪念碑前下跪——来具体说明这一点。八田修建了灌溉工程，但其利益直到1945年这些设施脱离殖民控制后才惠及台湾人民。王小平说，将他尊为恩人，完全颠倒了这种利益的实际流向。还有一个事实动摇了现代化叙事的基础：在1895年日本人到来之前，台湾已经是清朝中国最发达的地区之一，拥有运作良好的铁路、电报、现代采矿和蒸汽船工业。日本并非将现代化带到了空白之地。"
-        },
-        {
-          "en": "It redirected a modernization already underway, away from local benefit and toward imperial extraction. Why the revision is happening now\nThe current rehabilitation of Japan's colonial record is not happening in a historical vacuum. Scholars at the Beijing seminar pointed to a convergence of political incentives that has made historical revisionism mutually advantageous for certain actors in both Japan and Taiwan. Zang Yunhu from Peking University noted that Japan's relationship to its own wartime history has undergone a significant shift over the past two decades. The Murayama Statement of 1995, in which the Japanese government formally acknowledged that Japan had engaged in colonial rule and a war of aggression, represented a moment of relative historical candor.",
-          "cn": "而是将已经开始的现代化转向，从造福地方转向帝国掠夺。为何现在进行修正？当前对日本殖民记录的翻案并非发生在历史真空中。北京研讨会的学者指出，政治激励的趋同使得历史修正主义对日本和台湾的某些行为者相互有利。北京大学的臧运祜指出，日本对其自身战时历史的态度在过去二十年中发生了重大转变。1995年的村山谈话，日本政府正式承认日本进行了殖民统治和侵略战争，代表了相对历史坦诚的时刻。"
-        },
-        {
-          "en": "Since then, successive administrations have moved in a different direction — away from acknowledgment and toward what Zang characterized as an organized effort to substitute an alternative historical memory, one in which the colonial period figures as an era of development rather than occupation. Chen Hongmin, professor of history at Zhejiang University, offered a structural analysis. The post-Cold War international order, dominated by the United States following the Soviet Union's collapse, created new incentives for regional actors to leverage relationships as pressure against China. Japan's use of Taiwan-related rhetoric — exemplified by the public statements of politicians like Sanae Takaichi that a Taiwan contingency would constitute a survival-level crisis for Japan — reflects an attempt to position Taiwan as both a bargaining chip in geopolitical competition with China and a justification for Japan's own rearmament and expanded strategic footprint. There is also a political dimension on the Taiwan side.",
-          "cn": "自那以后，历届政府朝着不同方向前进——从承认转向臧运祜所称的有组织地试图用另一种历史记忆取而代之，在这种记忆中，殖民时期被描绘成发展时代而非占领时代。浙江大学历史学教授陈红民提供了结构性分析。苏联解体后由美国主导的冷战后国际秩序，为地区行为者创造了利用关系作为对华施压筹码的新激励。日本利用与台湾相关的言论——例如高市早苗等政客公开宣称台湾突发事件将对日本构成生存级危机——反映了试图将台湾定位为对华地缘政治竞争中的讨价还价筹码，以及日本自身重新武装和扩大战略足迹的正当理由。台湾方面也存在政治维度。"
-        },
-        {
-          "en": "Pro-independence political forces have, over decades of educational and cultural policy, cultivated an affinity with Japan that depends on a selective and idealized reading of the colonial period. The veneration of colonial-era figures as benefactors, the characterization of the Japanese period as a time of development and modernization, and the systematic minimization of colonial violence — all serve a political project that requires distancing Taiwan from its Chinese cultural and historical identity.g was direct about where this trajectory leads. Japan's current posture — building new intelligence agencies, making explicit statements about military readiness in relation to the Taiwan Strait, and refusing to engage honestly with its own colonial and wartime history — carries the hallmarks of a militarist revival, meaning the framing may be new but the underlying logic is not. The weight of what is left unsaid\nThe scholars gathered in Beijing were careful to make a distinction that gets lost in political polemic. Studying and documenting colonial crimes is not the same as cultivating hatred.",
-          "cn": "台独政治势力通过数十年的教育和文化政策，培养了对日本的亲善感，这依赖于对殖民时期的选择性和理想化解读。将殖民时期人物尊为恩人，将日本时期描述为发展和现代化时期，以及系统性地淡化殖民暴力——所有这些都服务于一个需要使台湾与其中国文化和历史身份疏远的政治工程。臧运祜直言不讳地指出了这条轨迹的终点。日本当前的姿态——建立新的情报机构，就台湾海峡相关的军事准备状态发表明确声明，并拒绝诚实地面对其自身的殖民和战时历史——带有军国主义复兴的特征，这意味着框架可能是新的，但底层逻辑并非如此。未言之重的分量。聚集在北京的学者们小心翼翼地做出了一个在政治论战中常被忽略的区分。研究和记录殖民罪行与培养仇恨不是一回事。"
-        },
-        {
-          "en": "Remembering that 650,000 people died is not the same as demanding that their deaths define all future relationships. The purpose of historical clarity, as Wang Xiaoping put it, is to understand where Taiwan came from, what it endured, and what was paid — so that the present and future can be navigated with clear eyes rather than manufactured sentiment. A protest outside the Japan-Taiwan Exchange Association, calling on the Japanese government to acknowledge and apologize for its wartime crimes / Collection of the Ama Museum\nThere is also something that the revisionist account obscures about the people of Taiwan themselves— resistance never fully stopped. That history of resistance belongs to the people of Taiwan. Glorifying the colonizers necessarily diminishes it.",
-          "cn": "记住65万人死亡与要求他们的死亡定义所有未来关系不是一回事。正如王小平所说，历史清晰度的目的是理解台湾从何而来，它经历了什么，以及付出了什么代价——以便能够以清醒的头脑而非制造的情感来驾驭现在和未来。在日本台湾交流协会外的抗议活动，要求日本政府承认并为其战时罪行道歉/亚美博物馆藏品。修正主义叙述还掩盖了关于台湾人民自身的一些东西——抵抗从未完全停止。这段抵抗历史属于台湾人民。美化殖民者必然贬低它。"
-        },
-        {
-          "en": "In 2025, China designated October 25 as Taiwan Retrocession Day — marking the moment in 1945 when, following Japan's surrender, Taiwan formally returned to Chinese sovereignty, ending 50 years of colonial rule. The designation was partly symbolic. But the symbolism carries weight. The post-war international order, embodied in the Cairo Declaration, the Potsdam Proclamation, and Japan's own surrender documents, was built on a specific reckoning with Japanese imperial aggression. That reckoning was always incomplete — partly because of Cold War geopolitics, partly because of the choices made by various parties in the years after 1945.",
-          "cn": "2025年，中国将10月25日定为台湾光复节——标志着1945年日本投降后，台湾正式回归中国主权，结束50年殖民统治的时刻。这一指定部分具有象征意义。但象征意义分量沉重。体现在《开罗宣言》、《波茨坦公告》和日本自身投降文件中的战后国际秩序，是建立在对日本帝国主义侵略的特定清算之上的。这种清算始终不完整——部分是由于冷战地缘政治，部分是由于1945年后各方做出的选择。"
-        },
-        {
-          "en": "What some are now attempting is not a fresh interpretation of history. It is a continuation of that incompleteness by other means. History does not simply disappear when it becomes inconvenient. The archives remain. The survivor accounts have been recorded.",
-          "cn": "一些人现在试图做的不是对历史的重新解释。而是以其他方式延续这种不完整性。历史不会仅仅因为变得不便就消失。档案依然存在。幸存者的叙述已被记录。"
-        },
-        {
-          "en": "The numbers, painstakingly assembled by scholars over generations, are what they are. The question is not whether this history exists. The question is whether those invoking Japan-Taiwan affinity in 2026 are willing to be honest about what lies beneath the sentiment they are selling. (Cover photo: Japan’s Suppression of the Taiwan people — Smoke and Flames Rising over Indigenous Village./ Taiwan Historical Rare Books Database)",
-          "cn": "学者们历经数代辛苦整理的数字，就是它们本身。问题不在于这段历史是否存在。问题在于，那些在2026年援引日台亲善的人，是否愿意诚实地面对他们所兜售的情感之下的真相。（封面图片：日本镇压台湾人民——原住民村庄上空浓烟烈焰升腾。/ 台湾历史稀见图书数据库）"
+          "en": "As El Nino approaches, scientists say the challenge is no longer simply forecasting the weather but translating climate information into timely action. Around the world, technology is becoming an increasingly important line of defense against a warming and more {{28}} climate.",
+          "cn": "随着厄尔尼诺的临近，科学家表示，挑战已不再是简单地预报天气，而是将气候信息转化为及时的行动。在全球范围内，技术正日益成为抵御变暖和更不稳定气候的重要防线。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "commencement",
-          "hint": "n. 开始",
+          "answer": "bracing",
+          "hint": "v. 准备迎接",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "administration",
-          "hint": "n. 统治，管理",
+          "answer": "phenomenon",
+          "hint": "n. 现象",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "divergence",
-          "hint": "n. 分歧",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "amplified",
-          "hint": "v. 放大，增强",
+          "answer": "intensify",
+          "hint": "v. 加剧",
           "difficulty": "medium"
         },
         {
+          "id": 3,
+          "answer": "extreme",
+          "hint": "adj. 极端的",
+          "difficulty": "easy"
+        },
+        {
           "id": 4,
-          "answer": "contingency",
-          "hint": "n. 突发事件",
-          "difficulty": "hard"
+          "answer": "probability",
+          "hint": "n. 概率",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "tribute",
-          "hint": "n. 致敬，颂词",
+          "answer": "moderate",
+          "hint": "adj. 中等的",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "affinity",
-          "hint": "n. 亲善，密切关系",
-          "difficulty": "hard"
+          "answer": "intensity",
+          "hint": "n. 强度",
+          "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "distortion",
-          "hint": "n. 歪曲，扭曲",
+          "answer": "vulnerable",
+          "hint": "adj. 脆弱的",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "seminar",
-          "hint": "n. 研讨会",
-          "difficulty": "easy"
+          "answer": "adaptation",
+          "hint": "n. 适应",
+          "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "myths",
-          "hint": "n. 谬论，神话",
-          "difficulty": "medium"
+          "answer": "generation",
+          "hint": "n. 代",
+          "difficulty": "easy"
         },
         {
           "id": 10,
-          "answer": "documented",
-          "hint": "adj. 有据可查的",
-          "difficulty": "medium"
+          "answer": "operationalized",
+          "hint": "v. 投入运行",
+          "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "detached",
-          "hint": "adj. 脱离的，分离的",
+          "answer": "quantitative",
+          "hint": "adj. 定量的",
           "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "obscured",
-          "hint": "v. 掩盖，使模糊",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "corroborated",
-          "hint": "v. 证实，确证",
+          "answer": "precipitation",
+          "hint": "n. 降水",
           "difficulty": "hard"
         },
         {
-          "id": 14,
-          "answer": "perished",
-          "hint": "v. 死亡，消亡",
+          "id": 13,
+          "answer": "extending",
+          "hint": "v. 延长",
           "difficulty": "medium"
         },
         {
+          "id": 14,
+          "answer": "subseasonal",
+          "hint": "adj. 次季节的",
+          "difficulty": "hard"
+        },
+        {
           "id": 15,
-          "answer": "suppression",
-          "hint": "n. 镇压",
+          "answer": "resolution",
+          "hint": "n. 分辨率",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "conscription",
-          "hint": "n. 征兵",
-          "difficulty": "hard"
+          "answer": "excels",
+          "hint": "v. 擅长",
+          "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "dismantled",
-          "hint": "v. 驳斥，拆除",
-          "difficulty": "hard"
+          "answer": "integrating",
+          "hint": "v. 整合",
+          "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "revisionist",
-          "hint": "adj. 修正主义的",
+          "answer": "assimilation",
+          "hint": "n. 同化",
           "difficulty": "hard"
         },
         {
           "id": 19,
-          "answer": "annexation",
-          "hint": "n. 吞并",
-          "difficulty": "hard"
+          "answer": "diverse",
+          "hint": "adj. 多样的",
+          "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "precedents",
-          "hint": "n. 先例",
+          "answer": "renewable",
+          "hint": "adj. 可再生的",
           "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "erupted",
-          "hint": "v. 爆发",
-          "difficulty": "easy"
+          "answer": "aviation",
+          "hint": "n. 航空",
+          "difficulty": "medium"
         },
         {
           "id": 22,
-          "answer": "atrocities",
-          "hint": "n. 暴行",
+          "answer": "initiative",
+          "hint": "n. 倡议",
           "difficulty": "medium"
         },
         {
           "id": 23,
-          "answer": "indigenous",
-          "hint": "adj. 原住民的",
+          "answer": "monitoring",
+          "hint": "n. 监测",
           "difficulty": "medium"
         },
         {
           "id": 24,
-          "answer": "systematic",
-          "hint": "adj. 系统性的",
+          "answer": "assessment",
+          "hint": "n. 评估",
           "difficulty": "medium"
         },
         {
           "id": 25,
-          "answer": "deployment",
-          "hint": "n. 部署",
-          "difficulty": "medium"
+          "answer": "strengthen",
+          "hint": "v. 加强",
+          "difficulty": "easy"
         },
         {
           "id": 26,
-          "answer": "incited",
-          "hint": "v. 煽动",
+          "answer": "cope",
+          "hint": "v. 应对",
           "difficulty": "medium"
         },
         {
           "id": 27,
-          "answer": "extraction",
-          "hint": "n. 掠夺，提取",
+          "answer": "enhanced",
+          "hint": "adj. 增强的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 28,
+          "answer": "volatile",
+          "hint": "adj. 不稳定的",
           "difficulty": "hard"
         }
       ],
-      "fullText": "June 17, 1895 has long been remembered by Taiwan people as a Day of Shame, marking the formal commencement of half a century of Japanese colonial administration over the island. For the colonial rulers themselves, however, the same date was once an occasion for official celebration.\nThat divergence in memory has always existed. What has changed is that one version of it is now being intentionally amplified. Japanese politicians have recently declared that a contingency over Taiwan would constitute a survival-level crisis for Japan — language that echoes old imperial preoccupations. Meanwhile, Taiwan's current leadership has paid public tribute at the memorial of a Japanese colonial-era engineer, framing the gesture as an expression of gratitude.\nThe narrative of Japan-Taiwan affinity is louder than it has been in decades. But it rests on a systematic distortion of what 50 years of colonial occupation actually meant for the people who endured it.\nRomanticized narrative built on blood and bone\nIn late May, historians from leading Chinese academies convened in Beijing for a seminar on Japan's colonial crimes in Taiwan, determined to answer myths with something harder to dismiss. \"Whether it is Japan's acts of massacre in Taiwan or its plunder of resources and wealth, these are facts documented by the historical community, acknowledged by many scholars, including those in China's Taiwan region,\" said Zhang Haipeng, a member of the Academic Committee of the Chinese Academy of Social Sciences, arguing that the recent political narrative has grown increasingly detached from documented evidence.\nThe scale of colonial violence in Taiwan is among the most persistently obscured facts in this debate. At the time of Japan's surrender, Taiwan's total population stood at approximately six million. A 1944 declaration by the Taiwan Revolutionary League — corroborated by subsequent scholarly research by historians in Taiwan — estimated that approximately 650,000 people — roughly one in nine people — perished under Japanese colonial rule over 50 years marked by armed suppression, massacres, forced displacement, famine, and military conscription.\nScholars also dismantled the revisionist claim that Japan's seizure of Taiwan in 1895 was an accidental byproduct of the First Sino-Japanese War, tracing the expansionist doctrine behind it from Toyotomi Hideyoshi's sixteenth-century blueprint for East Asian dominance through the engine of Meiji militarism. The record is unambiguous: the 1879 annexation of the Ryukyu Kingdom and the 1874 military probe into Taiwan's coast were calculated rehearsals, testing Qing coastal defenses, establishing precedents for intervention, so that when Japan forced the Treaty of Shimonoseki, it was not seizing an unexpected opportunity. It was collecting on a long-prepared invoice.\nThe moment the terms of the treaty became known in Taiwan, resistance erupted, and the massacres followed almost immediately. Sweeping operations in the island's north through 1895 and 1896 left tens of thousands dead, documented by foreign observers on the ground. The Yunlin Massacre of 1896 was one of the period's defining atrocities. Japanese forces burned nearly 5,000 homes in the Yunlin area over five days, killing civilians with no distinction between combatant and non-combatant.\nJapanese forces execute indigenous resistance fighters by decapitation/ Historical \nIn 1915, the Xilai'an Incident revealed a crueler method: colonial authorities offered amnesty to villagers who laid down arms, then machine-gunned them when they returned home. Over 3,200 died, among them students, the elderly, and infants. For Taiwan's indigenous communities, the violence was even more systematic. Multi-year pacification campaigns gave way, by 1930, to the deployment of poison gas against the Seediq ethnic people following the Wushe Uprising. When the uprising was crushed, Japanese forces incited rival groups to finish off the survivors; a community of over 1,200 was reduced to fewer than 200. Their leader Mona Rudao was driven to suicide, with his remains subsequently put on museum display.\nIs it development or extraction?\nThe revisionist argument, stripped to its essence, is that Japan modernized Taiwan — railways, irrigation, public health — and that this constitutes grounds for gratitude. Scholars at the Beijing seminar did not dispute that infrastructure was built. They disputed who it was built for.\nJapan's stated economic strategy was captured in a single phrase: \"industrial Japan, agricultural Taiwan.\" The island was to be permanently locked into supplying raw commodities — primarily rice and sugar — to the Japanese home market, with no diversified industrial base of its own. The numbers tell the story. Between 1900 and 1944, Taiwan shipped over 11.6 million metric tonnes of rice to Japan — regularly exceeding half of annual production during the 1920s and 30s. Japanese nationals were guaranteed a per capita annual consumption of around 160 kilograms; Taiwan's consumption fell below 100 kilograms by the 1930s. The people who grew the rice could not afford to eat it.\nThe colonial monopoly bureau constructed a sprawling opium factory in Taipei/ Pictorial History of Japan's Invasion of China\nWang Xiaoping of the Chinese Academy of Social Sciences used the figure now at the center of the controversy — colonial engineer Hatta Yoichi, at whose memorial Taiwan's current leadership recently knelt — to make the point concrete. Hatta built irrigation works but their benefits did not reach Taiwan people until 1945, when the facilities passed out of colonial hands. Venerating him as a benefactor, Wang said, inverts the actual direction of that benefit entirely.\nOne further fact unsettles the modernization narrative at its foundation: before Japan's arrival in 1895, Taiwan was already among the most developed regions of Qing-era China, with functioning railways, telegraphs, modern mining, and a steamship industry. Japan did not bring modernity to a blank slate. It redirected a modernization already underway, away from local benefit and toward imperial extraction.\nWhy the revision is happening now\nThe current rehabilitation of Japan's colonial record is not happening in a historical vacuum. Scholars at the Beijing seminar pointed to a convergence of political incentives that has made historical revisionism mutually advantageous for certain actors in both Japan and Taiwan.\nZang Yunhu from Peking University noted that Japan's relationship to its own wartime history has undergone a significant shift over the past two decades. The Murayama Statement of 1995, in which the Japanese government formally acknowledged that Japan had engaged in colonial rule and a war of aggression, represented a moment of relative historical candor. Since then, successive administrations have moved in a different direction — away from acknowledgment and toward what Zang characterized as an organized effort to substitute an alternative historical memory, one in which the colonial period figures as an era of development rather than occupation.\nChen Hongmin, professor of history at Zhejiang University, offered a structural analysis. The post-Cold War international order, dominated by the United States following the Soviet Union's collapse, created new incentives for regional actors to leverage relationships as pressure against China. Japan's use of Taiwan-related rhetoric — exemplified by the public statements of politicians like Sanae Takaichi that a Taiwan contingency would constitute a survival-level crisis for Japan — reflects an attempt to position Taiwan as both a bargaining chip in geopolitical competition with China and a justification for Japan's own rearmament and expanded strategic footprint.\nThere is also a political dimension on the Taiwan side. Pro-independence political forces have, over decades of educational and cultural policy, cultivated an affinity with Japan that depends on a selective and idealized reading of the colonial period. The veneration of colonial-era figures as benefactors, the characterization of the Japanese period as a time of development and modernization, and the systematic minimization of colonial violence — all serve a political project that requires distancing Taiwan from its Chinese cultural and historical identity.g was direct about where this trajectory leads. Japan's current posture — building new intelligence agencies, making explicit statements about military readiness in relation to the Taiwan Strait, and refusing to engage honestly with its own colonial and wartime history — carries the hallmarks of a militarist revival, meaning the framing may be new but the underlying logic is not.\nThe weight of what is left unsaid\nThe scholars gathered in Beijing were careful to make a distinction that gets lost in political polemic. Studying and documenting colonial crimes is not the same as cultivating hatred. Remembering that 650,000 people died is not the same as demanding that their deaths define all future relationships. The purpose of historical clarity, as Wang Xiaoping put it, is to understand where Taiwan came from, what it endured, and what was paid — so that the present and future can be navigated with clear eyes rather than manufactured sentiment.\nA protest outside the Japan-Taiwan Exchange Association, calling on the Japanese government to acknowledge and apologize for its wartime crimes / Collection of the Ama Museum\nThere is also something that the revisionist account obscures about the people of Taiwan themselves— resistance never fully stopped. That history of resistance belongs to the people of Taiwan. Glorifying the colonizers necessarily diminishes it. In 2025, China designated October 25 as Taiwan Retrocession Day — marking the moment in 1945 when, following Japan's surrender, Taiwan formally returned to Chinese sovereignty, ending 50 years of colonial rule.\nThe designation was partly symbolic. But the symbolism carries weight. The post-war international order, embodied in the Cairo Declaration, the Potsdam Proclamation, and Japan's own surrender documents, was built on a specific reckoning with Japanese imperial aggression. That reckoning was always incomplete — partly because of Cold War geopolitics, partly because of the choices made by various parties in the years after 1945. What some are now attempting is not a fresh interpretation of history. It is a continuation of that incompleteness by other means.\nHistory does not simply disappear when it becomes inconvenient. The archives remain. The survivor accounts have been recorded. The numbers, painstakingly assembled by scholars over generations, are what they are. The question is not whether this history exists. The question is whether those invoking Japan-Taiwan affinity in 2026 are willing to be honest about what lies beneath the sentiment they are selling.\n(Cover photo: Japan’s Suppression of the Taiwan people — Smoke and Flames Rising over Indigenous Village./ Taiwan Historical Rare Books Database)",
-      "fullTextCn": "1895年6月17日长期以来被台湾人民铭记为“国耻日”，标志着日本对台湾岛半个世纪殖民统治的正式开始。然而，对于殖民统治者自身而言，同一天曾是官方庆祝的场合。这种记忆上的分歧一直存在。变化在于，其中一种版本正被有意放大。日本政客最近宣称，台湾发生突发事件将对日本构成生存级危机——这种措辞呼应了旧帝国主义的关切。\n\n与此同时，台湾地区现任领导人在一位日本殖民时期工程师的纪念碑前公开致敬，将此姿态称为表达感激之情。日台亲善的叙事比过去几十年都更加响亮。但它建立在对50年殖民占领对承受者真正意义的系统性扭曲之上。建立在血骨之上的浪漫化叙事。5月底，来自中国主要学术机构的历史学家在北京召开研讨会，讨论日本在台湾的殖民罪行，决心用更难以驳斥的事实回击谬论。中国社会科学院学术委员会委员张海鹏表示：“无论是日本在台湾的屠杀行为，还是其对资源和财富的掠夺，这些都是历史学界记载的事实，得到了包括中国台湾地区学者在内的许多学者的认可。”他认为，近期的政治叙事已日益偏离有据可查的证据。\n\n殖民暴力在台湾的规模是这场辩论中最常被掩盖的事实之一。日本投降时，台湾总人口约为600万。台湾革命同盟会1944年的一份声明——经台湾历史学家后续学术研究证实——估计，在50年的殖民统治期间，约有65万人（约九分之一）死于武装镇压、屠杀、强迫流离失所、饥荒和军事征兵。学者们还驳斥了修正主义者的说法，即日本1895年夺取台湾是甲午战争的意外副产品，追溯了其背后的扩张主义信条，从丰臣秀吉16世纪统治东亚的蓝图，到明治军国主义的引擎。记录明确无误：1879年吞并琉球王国和1874年对台湾海岸的军事试探是精心策划的预演，测试了清朝的海防，建立了干预的先例，因此当日本强行签订《马关条约》时，它并非抓住了一个意外机会。\n\n而是在兑现一份长期准备的账单。条约条款在台湾一公布，抵抗就爆发了，屠杀几乎立即随之而来。1895年至1896年间，在台湾北部进行的扫荡行动导致数万人死亡，现场的外国观察员记录了这一切。1896年的云林大屠杀是那个时期标志性的暴行之一。日军在五天内烧毁了云林地区近5000所房屋，杀害平民，不分战斗人员和非战斗人员。\n\n日军斩首处决原住民抵抗战士/历史图片。1915年，西来庵事件揭示了一种更残忍的手段：殖民当局向放下武器的村民提供大赦，然后在他们回家时用机枪扫射。超过3200人死亡，其中包括学生、老人和婴儿。对于台湾原住民社区，暴力更加系统化。多年的绥靖行动，到1930年，在雾社起义后，演变为对赛德克族使用毒气。起义被镇压后，日军煽动敌对团体消灭幸存者；一个超过1200人的社区减少到不足200人。\n\n他们的领袖莫那·鲁道被迫自杀，其遗骸随后被放在博物馆展出。这是发展还是掠夺？修正主义论点，剥去其外壳，是说日本使台湾现代化——铁路、灌溉、公共卫生——这构成了感恩的理由。北京研讨会的学者们并不否认基础设施被建造。他们质疑的是为谁而建。\n\n日本宣称的经济战略可以用一句话概括：“工业日本，农业台湾。”该岛被永久锁定在向日本国内市场供应原材料商品——主要是大米和糖——没有自己的多元化工业基础。数字说明了问题。1900年至1944年间，台湾向日本运送了超过1160万吨大米——在1920年代和30年代经常超过年产量的半数。日本国民的人均年消费量保证在160公斤左右；到1930年代，台湾的消费量降至100公斤以下。种植大米的人吃不起大米。\n\n殖民专卖局在台北建造了一座庞大的鸦片工厂/《日本侵华图志》。中国社会科学院的王小平用目前争议中心的人物——殖民工程师八田与一，台湾地区现任领导人最近在其纪念碑前下跪——来具体说明这一点。八田修建了灌溉工程，但其利益直到1945年这些设施脱离殖民控制后才惠及台湾人民。王小平说，将他尊为恩人，完全颠倒了这种利益的实际流向。还有一个事实动摇了现代化叙事的基础：在1895年日本人到来之前，台湾已经是清朝中国最发达的地区之一，拥有运作良好的铁路、电报、现代采矿和蒸汽船工业。日本并非将现代化带到了空白之地。\n\n而是将已经开始的现代化转向，从造福地方转向帝国掠夺。为何现在进行修正？当前对日本殖民记录的翻案并非发生在历史真空中。北京研讨会的学者指出，政治激励的趋同使得历史修正主义对日本和台湾的某些行为者相互有利。北京大学的臧运祜指出，日本对其自身战时历史的态度在过去二十年中发生了重大转变。1995年的村山谈话，日本政府正式承认日本进行了殖民统治和侵略战争，代表了相对历史坦诚的时刻。\n\n自那以后，历届政府朝着不同方向前进——从承认转向臧运祜所称的有组织地试图用另一种历史记忆取而代之，在这种记忆中，殖民时期被描绘成发展时代而非占领时代。浙江大学历史学教授陈红民提供了结构性分析。苏联解体后由美国主导的冷战后国际秩序，为地区行为者创造了利用关系作为对华施压筹码的新激励。日本利用与台湾相关的言论——例如高市早苗等政客公开宣称台湾突发事件将对日本构成生存级危机——反映了试图将台湾定位为对华地缘政治竞争中的讨价还价筹码，以及日本自身重新武装和扩大战略足迹的正当理由。台湾方面也存在政治维度。\n\n台独政治势力通过数十年的教育和文化政策，培养了对日本的亲善感，这依赖于对殖民时期的选择性和理想化解读。将殖民时期人物尊为恩人，将日本时期描述为发展和现代化时期，以及系统性地淡化殖民暴力——所有这些都服务于一个需要使台湾与其中国文化和历史身份疏远的政治工程。臧运祜直言不讳地指出了这条轨迹的终点。日本当前的姿态——建立新的情报机构，就台湾海峡相关的军事准备状态发表明确声明，并拒绝诚实地面对其自身的殖民和战时历史——带有军国主义复兴的特征，这意味着框架可能是新的，但底层逻辑并非如此。未言之重的分量。聚集在北京的学者们小心翼翼地做出了一个在政治论战中常被忽略的区分。研究和记录殖民罪行与培养仇恨不是一回事。\n\n记住65万人死亡与要求他们的死亡定义所有未来关系不是一回事。正如王小平所说，历史清晰度的目的是理解台湾从何而来，它经历了什么，以及付出了什么代价——以便能够以清醒的头脑而非制造的情感来驾驭现在和未来。在日本台湾交流协会外的抗议活动，要求日本政府承认并为其战时罪行道歉/亚美博物馆藏品。修正主义叙述还掩盖了关于台湾人民自身的一些东西——抵抗从未完全停止。这段抵抗历史属于台湾人民。美化殖民者必然贬低它。\n\n2025年，中国将10月25日定为台湾光复节——标志着1945年日本投降后，台湾正式回归中国主权，结束50年殖民统治的时刻。这一指定部分具有象征意义。但象征意义分量沉重。体现在《开罗宣言》、《波茨坦公告》和日本自身投降文件中的战后国际秩序，是建立在对日本帝国主义侵略的特定清算之上的。这种清算始终不完整——部分是由于冷战地缘政治，部分是由于1945年后各方做出的选择。\n\n一些人现在试图做的不是对历史的重新解释。而是以其他方式延续这种不完整性。历史不会仅仅因为变得不便就消失。档案依然存在。幸存者的叙述已被记录。\n\n学者们历经数代辛苦整理的数字，就是它们本身。问题不在于这段历史是否存在。问题在于，那些在2026年援引日台亲善的人，是否愿意诚实地面对他们所兜售的情感之下的真相。（封面图片：日本镇压台湾人民——原住民村庄上空浓烟烈焰升腾。/ 台湾历史稀见图书数据库）"
+      "fullText": "The San Gabriel River floods near the Good Water RV Park and the Shady River RV Resort in Georgetown, Texas, US, May 27, 2026. \nThe world is bracing for the return of El Nino, a climate phenomenon that could intensify extreme weather and push global temperatures even higher.\nAccording to the World Meteorological Organization, there is an 80% chance that El Nino conditions will develop between June and August 2026, with the probability rising to more than 90% through at least November. Most forecast models suggest the event could reach moderate to strong intensity.\nUN Secretary-General Antonio Guterres warned that El Nino would \"pour fuel on the fire of a warming world\" and stressed that early warning systems are essential to protecting vulnerable communities from climate-related disasters.\nAs countries prepare for potentially more frequent heatwaves, floods and droughts, artificial intelligence (AI) is increasingly becoming a key tool in climate adaptation.\nChina has been developing a new generation of AI-powered weather forecasting systems, including the \"Feng\" or \"Wind\" series (Fengqing, Fenglei, Fengshun and Fengyuan) of meteorological models.\nFengqing is a global medium‑range model that produces 10.5‑day forecasts within three minutes and has been operationalized nationwide. Fenglei is a nowcasting model that directly predicts quantitative precipitation, improving heavy rain forecasts by 25% and extending lead time to three hours. It supports four‑tier severe weather warnings. Fengshun is a subseasonal‑to‑seasonal model with 0.25-degree resolution and excels in international competitions. Fengyuan is a scientific AI base model integrating data assimilation and forecasting, serving as an open research and innovation platform. Together, the series addresses diverse needs – from disaster prevention to renewable energy and aviation – and marks China's fully independent, end‑to‑end AI forecasting capability.\nChina has also launched the MAZU Early Warning Cloud Platform, a national-level solution supporting the United Nations' \"Early Warnings for All\" initiative. The platform integrates meteorological monitoring, risk assessment, and disaster alerts and has been introduced in countries including Pakistan, Mongolia and Sri Lanka, helping strengthen local disaster preparedness.\nOther countries are also turning to advanced technologies to cope with climate risks associated with El Nino.\nIn the United States, the National Oceanic and Atmospheric Administration uses AI-enhanced forecasting systems and climate models to improve seasonal outlooks and extreme weather predictions.\nAustralia's Bureau of Meteorology has expanded its climate monitoring and forecasting capabilities as the country faces heightened risks of drought, heat waves and bushfires during El Nino years.\nMeanwhile, the European Union has expanded the use of advanced climate forecasting through the European Center for Medium-Range Weather Forecasts (ECMWF) and the Copernicus Climate Change Service. These platforms combine satellite observations, AI-assisted modeling and high-performance computing to provide seasonal forecasts that help governments prepare for El Nino-related heatwaves, droughts and extreme rainfall events.\nAs El Nino approaches, scientists say the challenge is no longer simply forecasting the weather but translating climate information into timely action. Around the world, technology is becoming an increasingly important line of defense against a warming and more volatile climate.",
+      "fullTextCn": "2026年5月27日，美国德克萨斯州乔治敦，圣盖博河在Good Water房车公园和Shady River房车度假村附近泛滥。全球正在为厄尔尼诺的回归做准备，这种气候现象可能加剧极端天气，并将全球气温推得更高。据世界气象组织称，2026年6月至8月间出现厄尔尼诺条件的概率为80%，到11月前概率将升至90%以上。大多数预测模型显示，该事件可能达到中等至强强度。联合国秘书长安东尼奥·古特雷斯警告说，厄尔尼诺将“给变暖的世界火上浇油”，并强调早期预警系统对于保护脆弱社区免受气候相关灾害至关重要。\n\n随着各国为可能更频繁的热浪、洪水和干旱做准备，人工智能正日益成为气候适应的关键工具。中国一直在开发新一代AI驱动的天气预报系统，包括“风”系列气象模型（风清、风雷、风顺和风源）。风清是一个全球中期模型，能在三分钟内生成10.5天的预报，并已在全国范围内投入运行。风雷是一个临近预报模型，可直接预测定量降水，将强降雨预报准确率提高25%，并将预警时间延长至三小时。它支持四级恶劣天气预警。\n\n风顺是一个次季节到季节模型，分辨率为0.25度，在国际竞赛中表现出色。风源是一个科学AI基础模型，集成了数据同化和预报功能，作为一个开放的研究与创新平台。该系列共同满足了从防灾到可再生能源和航空等多样化需求，标志着中国完全自主的端到端AI预报能力。中国还推出了“妈祖”早期预警云平台，这是一个支持联合国“全民早期预警”倡议的国家级解决方案。该平台集成了气象监测、风险评估和灾害警报，并已在巴基斯坦、蒙古和斯里兰卡等国家推广，帮助加强当地的灾害准备。\n\n其他国家也在转向先进技术，以应对与厄尔尼诺相关的气候风险。在美国，国家海洋和大气管理局使用AI增强的预报系统和气候模型，以改进季节性展望和极端天气预测。澳大利亚气象局扩大了其气候监测和预报能力，因为该国在厄尔尼诺年份面临干旱、热浪和丛林火灾的风险增加。与此同时，欧盟通过欧洲中期天气预报中心和哥白尼气候变化服务扩大了先进气候预报的使用。这些平台结合了卫星观测、AI辅助建模和高性能计算，提供季节性预报，帮助政府为厄尔尼诺相关的热浪、干旱和极端降雨事件做准备。\n\n随着厄尔尼诺的临近，科学家表示，挑战已不再是简单地预报天气，而是将气候信息转化为及时的行动。在全球范围内，技术正日益成为抵御变暖和更不稳定气候的重要防线。"
     },
     {
       "id": 2,
       "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-15/Explainer-What-are-the-six-networks-of-China--1O06rorq3OU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Explainer: What are the 'six networks' of China?",
-      "titleCn": "解释：中国的“六张网”是什么？",
-      "summary": "Explainer: What are the 'six networks' of China?",
-      "summaryCn": "中国提出建设“六张网”，包括水网、新型电网、算力网、下一代通信网、城市地下管网和物流网，以构建现代化基础设施体系。",
-      "wordCount": 1120,
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-10/NASA-names-US-Italian-astronauts-for-Artemis-III-lunar-mission-1NRbDoD50YM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "NASA names US, Italian astronauts for Artemis III lunar mission",
+      "titleCn": "NASA公布阿尔忒弥斯三号月球任务美意宇航员名单",
+      "summary": "NASA on Tuesday named three US astronauts and one Italian astronaut as the crew for Artemis III, a spacecraft docking demonstration mission scheduled for late next year that will test lunar landers from SpaceX and Blue Origin in orbit for the first time.",
+      "summaryCn": "美国宇航局宣布了阿尔忒弥斯三号任务的四名宇航员，该任务将首次在轨道上测试SpaceX和蓝色起源的月球着陆器。",
+      "wordCount": 553,
       "paragraphs": [
         {
-          "en": "Recently, China has called for the {{0}} of the \"six networks,\" including the water network, the new-type power grid, the {{11}} power network, the next-generation communication network, the urban underground pipeline network and the {{23}} network. This {{1}} covers both the upgrading of traditional {{2}} and the layout of new infrastructure, and is an important part of building a modern infrastructure system in the outline of the 15th Five-Year Plan (2026-2030). What are the \"six networks?\"\nThe water network\nThe Jiangdu Water Conservancy Hub in Yangzhou, east China's Jiangsu Province, June 4, 2026. China's water network is the largest in scale, most comprehensive in function, and benefits the largest population in the world. As of the end of 2025, the network covers 80.3% of the country's land area.",
-          "cn": "最近，中国呼吁建设“六张网”，包括水网、新型电网、算力网、下一代通信网、城市地下管网和物流网。这一部署既涵盖传统基础设施的升级，也涉及新型基础设施的布局，是“十五五”规划（2026-2030年）纲要中构建现代化基础设施体系的重要组成部分。“六张网”是什么？"
+          "en": "From L: NASA astronaut {{4}} Randy Bresnik, ESA astronaut pilot Luca Parmitano, NASA astronaut mission specialist Frank Rubio, and NASA astronaut mission specialist Andre Douglas at a press conference announcing the {{0}} for the Artemis III mission at NASA's Johnson Space Center in Houston, Texas, on June 9, 2026. NASA on Tuesday named three US astronauts and one Italian astronaut as the crew for Artemis III, a spacecraft {{1}} {{2}} mission scheduled for late next year that will test lunar landers from SpaceX and Blue Origin in orbit for the first time. At a ceremony in Houston, NASA Administrator Jared Isaacman announced that {{3}} astronaut Randy Bresnik will serve as commander, with Andre Douglas and Frank Rubio as mission {{5}}, and Luca Parmitano of the European Space Agency (ESA) as pilot. NASA astronaut Bob Hines was named as a {{6}} crew member and will train alongside the {{7}} crew. Italian Space Agency President Teodoro Valente said in a statement that Parmitano's selection as pilot for Artemis III \"confirms and {{8}} the role and {{9}} of the European and Italian space system in the human {{10}} of the universe.\"\n\"Artemis III is an incredibly exciting, {{11}} and highly {{12}} multi-launch {{13}},\" Jeremy Parsons, NASA's Artemis program manager, said at the Houston event. \"It's going to happen in a short period of time with three of the world's most powerful rockets.\"\nThe mission will involve NASA's Orion capsule, SpaceX's Starship lunar lander, and Blue Origin's Blue Moon lander.",
+          "cn": "从左至右：NASA宇航员指挥官兰迪·布雷斯尼克、ESA宇航员飞行员卢卡·帕尔米塔诺、NASA宇航员任务专家弗兰克·鲁比奥和NASA宇航员任务专家安德烈·道格拉斯，在2026年6月9日于德克萨斯州休斯顿NASA约翰逊航天中心举行的新闻发布会上，宣布阿尔忒弥斯三号任务的机组人员。NASA周二任命三名美国宇航员和一名意大利宇航员为阿尔忒弥斯三号任务的机组人员，这是一项计划于明年晚些时候进行的航天器对接演示任务，将首次在轨道上测试SpaceX和蓝色起源的月球着陆器。在休斯顿的仪式上，NASA局长贾里德·艾萨克曼宣布，资深宇航员兰迪·布雷斯尼克将担任指挥官，安德烈·道格拉斯和弗兰克·鲁比奥担任任务专家，欧洲航天局（ESA）的卢卡·帕尔米塔诺担任飞行员。NASA宇航员鲍勃·海因斯被任命为后备机组人员，将与主要机组人员一起训练。意大利航天局局长特奥多罗·瓦伦特在一份声明中表示，帕尔米塔诺被选为阿尔忒弥斯三号任务的飞行员，“确认并增强了欧洲和意大利航天系统在人类宇宙探索中的角色和能力。”"
         },
         {
-          "en": "The network serve as a vast {{3}} system, with approximately 95,000 reservoirs and dams providing a total storage {{4}} of over 1 trillion cubic meters. The main framework and arteries of the national water network – formed by natural river systems and water {{5}} projects – are being continuously improved. As of May 14, 2026, the first phase of the eastern and middle routes of the South-to-North Water Diversion Project has diverted over 88 billion cubic meters of water, benefiting 195 million people. During the 15th Five-Year Plan period, investment in water networks is expected to exceed 6 trillion yuan (about $886 billion). The new-type power grid\nHigh-voltage power grid transmission tower in Chengdu, southwest China's Sichuan Province, December 15, 2024.",
-          "cn": "水网。2026年6月4日，位于中国东部江苏省扬州市的江都水利枢纽。中国的水网规模最大、功能最全、受益人口最多，居世界首位。截至2025年底，该网络覆盖全国80.3%的陆地面积。"
+          "en": "Although the two-week mission will remain in low-Earth orbit and will not travel to the moon, it is seen as a {{14}} test of the two primary moon landers NASA will use on {{15}} Artemis missions to put astronauts on the lunar surface. Blue Moon will launch first, followed by Orion carrying the astronauts. The two spacecraft will dock for about two days while the astronauts conduct tests and technology demonstrations in Blue Moon. Blue Moon will then undock from Orion, making way for Starship, which will attempt to dock for a day before returning to Earth. The mission will test docking {{16}} and {{17}} that will be required for future lunar missions. Artemis III follows Artemis I, an {{18}} lunar mission in 2022, and Artemis II, which carried three US astronauts and one Canadian astronaut around the moon and back in April.",
+          "cn": "“阿尔忒弥斯三号是一项极其令人兴奋、复杂且高度协调的多发射任务，”NASA阿尔忒弥斯项目经理杰里米·帕森斯在休斯顿的活动上说。“它将在短时间内使用三枚世界上最强大的火箭完成。”该任务将涉及NASA的猎户座太空舱、SpaceX的星舰月球着陆器和蓝色起源的蓝月着陆器。"
         },
         {
-          "en": "The new-type power grid is based on {{6}} grids and distribution networks, supplemented by smart microgrids, forming a \"backbone-distribution-micro\" {{7}} power grid system. In terms of functional architecture, the new-type power grid strengthens inter-regional and inter-provincial {{8}} and mutual support. China's total UHV transmission line length has exceeded 50,000 kilometers. In terms of technological application, the new-type power grid extensively applies digital and intelligent technologies to enhance grid stability and address the challenges of integrating new energy sources. In 2025, China's total electricity consumption exceeded 10 trillion kilowatt-hours for the first time.",
-          "cn": "该网络作为一个庞大的水库系统，拥有约9.5万座水库和大坝，总库容超过1万亿立方米。国家水网的主骨架和大动脉——由自然河系和调水工程构成——正在不断完善。截至2026年5月14日，南水北调东中线一期工程已累计调水超过880亿立方米，惠及1.95亿人口。“十五五”期间，水网投资预计将超过6万亿元（约8860亿美元）。"
+          "en": "It will be the final Artemis mission before NASA {{19}} to land astronauts on the lunar surface in 2028. SpaceX and Blue Origin have faced years of delays in the development of their landers. Last year, the companies pitched NASA on sped-up development plans that prompted a {{20}} of the agency's Artemis program, giving rise to the Artemis III docking mission. The 2027 mission would require both SpaceX's Starship and a {{21}} version of Blue Origin's Blue Moon to be ready for launch at nearly the same time. SpaceX last month test-launched a new version of its Starship designed for lunar missions. Blue Origin's New Glenn rocket {{22}} on its launchpad in Florida last month as it was preparing to launch a batch of Amazon satellites.",
+          "cn": "尽管为期两周的任务将停留在近地轨道，不会前往月球，但它被视为对NASA后续阿尔忒弥斯任务中用于将宇航员送上月球表面的两个主要月球着陆器的关键测试。蓝月将首先发射，随后是搭载宇航员的猎户座。两艘航天器将对接约两天，期间宇航员将在蓝月上进行测试和技术演示。然后蓝月将与猎户座分离，为星舰让路，星舰将尝试对接一天，然后返回地球。该任务将测试未来月球任务所需的对接机制和操作。阿尔忒弥斯三号任务紧随2022年无人月球任务阿尔忒弥斯一号和2025年4月搭载三名美国宇航员和一名加拿大宇航员绕月飞行的阿尔忒弥斯二号之后。"
         },
         {
-          "en": "As of the end of 2025, the country's cumulative {{9}} capacity of new energy surpassed 1.8 billion kilowatts. During the 15th Five-Year Plan period, investment in the new-type power grid will exceed 5 trillion yuan. Fifteen UHV DC transmission corridors will be put into operation. The capacity for the West-to-East Power Transmission Project will reach over 420 million kilowatts. The capacity to accommodate distributed new energy will reach 900 million kilowatts.",
-          "cn": "新型电网。2024年12月15日，四川省成都市的高压电网输电塔。新型电网以骨干网架和配电网为基础，以智能微电网为补充，形成“骨干-配网-微网”协调的电网系统。在功能架构上，新型电网加强了跨区域、跨省互联互通和互济支撑。中国特高压输电线路总长已超过5万公里。在技术应用上，新型电网广泛采用数字和智能技术，以增强电网稳定性并应对新能源并网的挑战。2025年，中国全社会用电量首次突破10万亿千瓦时。"
-        },
-        {
-          "en": "The grid will support more than 40 million charging infrastructure units. The goal is to ensure that green electricity is \"received reliably, transmitted smoothly, and utilized well,\" enabling safe, efficient and flexible power {{10}}. The computing power network\nAn illustration of a printed circuit board. The computing power network connects computing facilities scattered across the country into a single network. As of the end of March 2026, China's total intelligent computing scale reached 1.88 million PFLOPS, which is equivalent to 18.8 trillion billion operations per second.",
-          "cn": "截至2025年底，全国新能源累计装机容量超过18亿千瓦。“十五五”期间，新型电网投资将超过5万亿元。15条特高压直流输电通道将投入运行。“西电东送”工程容量将达到4.2亿千瓦以上。分布式新能源接纳能力将达到9亿千瓦。"
-        },
-        {
-          "en": "Over 70 computing power corridors have been established, initially achieving a 20-millisecond {{12}} circle for the eight national computing hub nodes. This year, China's daily token call volume exceeded 140 trillion, which is more than 1,000 times that of two years ago. While total computing power capacity continues to increase and society's demand for computing power rises sharply, challenges remain, including disparities in computing power development across different regions and industries, as well as difficulties in cross-regional {{13}}. During the 15th Five-Year Plan period, China will further advance the \"East Data, West Computing\" project and build a multi-level computing infrastructure system. The communication network and the power network will serve as operational support, while a unified computing power monitoring and scheduling platform will act as the intelligent hub.",
-          "cn": "电网将支持超过4000万个充电基础设施单元。目标是确保绿色电力“接得进、送得出、用得好”，实现安全、高效、灵活的电力调度。"
-        },
-        {
-          "en": "The goal is to break down computing power {{14}} across regions and industries, promote seamless connectivity and efficient coordination of computing power resources nationwide, improve the utilization efficiency of computing power, and better {{15}} all industries. The next-generation communication network\nA 5G base station in Shanghai, September 5, 2024. The next-generation communication network is an {{16}} air-space-ground-sea network infrastructure system driven by next-generation communication technology innovation and new application demands, serving the digital and intelligent transformation of the economy and society. It is globally leading in technology and the largest in scale. Currently, the total number of 5G base stations in China exceeds 5 million and the 5G-A network covers 330 cities.",
-          "cn": "算力网。印刷电路板示意图。算力网将全国分散的计算设施连接成一个单一网络。截至2026年3月底，中国总算力规模达到188万PFLOPS，相当于每秒18.8万亿亿次运算。"
-        },
-        {
-          "en": "The total length of optical cable lines exceeds 74.99 million kilometers. During the 15th Five-Year Plan period, the \"dual-gigabit\" network will evolve toward \"dual-ten-gigabit.\" A total of 500,000 5G-A base stations will be built. Additionally, 6G is expected to be {{17}} launched around 2030. Average efficiency and connectivity capacity will increase by more than ten times. Thousands of low-orbit {{18}} will be launched, effectively achieving integrated air-space-ground-sea coverage across the entire territory.",
-          "cn": "已建成超过70条算力通道，初步实现八大国家算力枢纽节点20毫秒延迟圈。今年，中国日均令牌调用量超过140万亿次，是两年前的1000多倍。在总算力容量持续增长、社会算力需求急剧上升的同时，仍面临挑战，包括不同地区和行业算力发展不均衡，以及跨区域调度困难。“十五五”期间，中国将进一步推进“东数西算”工程，构建多层次算力基础设施体系。通信网和电力网将作为运营支撑，统一的算力监测调度平台将作为智能中枢。"
-        },
-        {
-          "en": "The next-generation communication network is expected to drive a total output of 7 trillion yuan across upstream and downstream industries, empowering high-quality development in the digital economy, the low-altitude economy, embodied intelligence, and beyond. The urban underground pipeline network\nAn illustration of underground pipeline network. China's urban underground pipeline network {{19}} nearly 3.9 million kilometers, ranking first in the world. This includes approximately 1.199 million kilometers of water supply pipelines, about 1.04 million kilometers of gas pipelines, about 546,200 kilometers of heating pipelines, and about 993,600 kilometers of drainage pipelines. However, some pipeline networks face challenges such as unclear inventory data, aging facilities and {{20}} management, making it difficult to meet the needs of modern urban governance.",
-          "cn": "目标是打破地区和行业间的算力壁垒，促进全国算力资源无缝连接和高效协同，提高算力利用效率，更好赋能各行各业。"
-        },
-        {
-          "en": "During the 15th Five-Year Plan period, new investment is expected to reach approximately 5 trillion yuan, with the construction and renovation of 770,000 kilometers of underground pipelines planned. The goal is to make the network smarter, safer and more {{21}}. The logistics network\nContainer ships are seen docked alongside gantry cranes at Yantian Port, Shenzhen, south China's Guangdong Province, April 30, 2026. At peak times, up to 8,437 parcels are collected per second, and an average of 160 million tonnes of goods flow daily on transportation routes in China. The country ranks first in the world in comprehensive freight volume, port {{22}} and express delivery indicators.",
-          "cn": "下一代通信网。2024年9月5日，上海的一个5G基站。下一代通信网是由下一代通信技术创新和新应用需求驱动的空天地海一体化网络基础设施系统，服务于经济社会数字化、智能化转型。它在技术上全球领先，规模最大。目前，中国5G基站总数超过500万个，5G-A网络覆盖330个城市。"
-        },
-        {
-          "en": "The logistics market continues to lead globally. In 2025, the ratio of China's total social logistics costs to GDP fell to 13.9%, down from 14.9% ten years ago, indicating continuously improving logistics efficiency. During the 15th Five-Year Plan period, the completion rate of the main framework of China's comprehensive three-dimensional transportation network will reach 95%. Efforts will be made to address weaknesses in areas such as {{24}} transport, cold-chain logistics, express logistics and bulk commodity logistics, further reducing the ratio of total social logistics costs to GDP.",
-          "cn": "光缆线路总长超过7499万公里。“十五五”期间，“双千兆”网络将向“双万兆”演进。将建设50万个5G-A基站。此外，6G预计在2030年左右实现商用。平均效率和连接能力将提升十倍以上。将发射数千颗低轨卫星，有效实现全境空天地海一体化覆盖。"
+          "en": "The explosion destroyed much of the company's only launchpad and grounded for at least several months the rocket that Blue Origin aims to use to launch its Blue Moon lander, which is being ground-tested in Houston and Florida.",
+          "cn": "这将是NASA在2028年尝试将宇航员送上月球表面之前的最后一次阿尔忒弥斯任务。SpaceX和蓝色起源在着陆器开发方面面临多年的延误。去年，这些公司向NASA提出了加速开发计划，促使该机构的阿尔忒弥斯计划重新调整，从而催生了阿尔忒弥斯三号对接任务。2027年的任务将要求SpaceX的星舰和蓝色起源蓝月的原型版本几乎同时准备好发射。SpaceX上个月试射了专为月球任务设计的新版星舰。蓝色起源的新格伦火箭上个月在佛罗里达州准备发射一批亚马逊卫星时在发射台上爆炸。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "construction",
-          "hint": "n. 建设",
+          "answer": "crew",
+          "hint": "n. 机组人员",
           "difficulty": "easy"
         },
         {
           "id": 1,
-          "answer": "deployment",
-          "hint": "n. 部署",
+          "answer": "docking",
+          "hint": "n. 对接",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "easy"
+          "answer": "demonstration",
+          "hint": "n. 演示",
+          "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "reservoir",
-          "hint": "n. 水库",
+          "answer": "veteran",
+          "hint": "adj. 经验丰富的",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "capacity",
-          "hint": "n. 容量",
+          "answer": "commander",
+          "hint": "n. 指挥官",
           "difficulty": "easy"
         },
         {
           "id": 5,
-          "answer": "diversion",
-          "hint": "n. 调水",
-          "difficulty": "hard"
+          "answer": "specialists",
+          "hint": "n. 专家",
+          "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "backbone",
-          "hint": "n. 骨干",
+          "answer": "backup",
+          "hint": "n. 后备",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "coordinated",
-          "hint": "adj. 协调的",
+          "answer": "prime",
+          "hint": "adj. 主要的",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "connectivity",
-          "hint": "n. 连通性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "installed",
-          "hint": "adj. 已安装的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "dispatch",
-          "hint": "n. 调度",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "computing",
-          "hint": "n. 计算",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "latency",
-          "hint": "n. 延迟",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "scheduling",
-          "hint": "n. 调度",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "barriers",
-          "hint": "n. 障碍",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "empower",
-          "hint": "v. 赋能",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "integrated",
-          "hint": "adj. 一体化的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "commercially",
-          "hint": "adv. 商业上",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "satellites",
-          "hint": "n. 卫星",
-          "difficulty": "easy"
-        },
-        {
-          "id": 19,
-          "answer": "spans",
-          "hint": "v. 跨越",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "fragmented",
-          "hint": "adj. 分散的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "resilient",
-          "hint": "adj. 有韧性的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "throughput",
-          "hint": "n. 吞吐量",
-          "difficulty": "hard"
-        },
-        {
-          "id": 23,
-          "answer": "logistics",
-          "hint": "n. 物流",
-          "difficulty": "easy"
-        },
-        {
-          "id": 24,
-          "answer": "multimodal",
-          "hint": "adj. 多式联运的",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "Recently, China has called for the construction of the \"six networks,\" including the water network, the new-type power grid, the computing power network, the next-generation communication network, the urban underground pipeline network and the logistics network.\nThis deployment covers both the upgrading of traditional infrastructure and the layout of new infrastructure, and is an important part of building a modern infrastructure system in the outline of the 15th Five-Year Plan (2026-2030). What are the \"six networks?\"\nThe water network\nThe Jiangdu Water Conservancy Hub in Yangzhou, east China's Jiangsu Province, June 4, 2026. \nChina's water network is the largest in scale, most comprehensive in function, and benefits the largest population in the world. As of the end of 2025, the network covers 80.3% of the country's land area.\nThe network serve as a vast reservoir system, with approximately 95,000 reservoirs and dams providing a total storage capacity of over 1 trillion cubic meters.\nThe main framework and arteries of the national water network – formed by natural river systems and water diversion projects – are being continuously improved. As of May 14, 2026, the first phase of the eastern and middle routes of the South-to-North Water Diversion Project has diverted over 88 billion cubic meters of water, benefiting 195 million people.\nDuring the 15th Five-Year Plan period, investment in water networks is expected to exceed 6 trillion yuan (about $886 billion).\nThe new-type power grid\nHigh-voltage power grid transmission tower in Chengdu, southwest China's Sichuan Province, December 15, 2024. \nThe new-type power grid is based on backbone grids and distribution networks, supplemented by smart microgrids, forming a \"backbone-distribution-micro\" coordinated power grid system.\nIn terms of functional architecture, the new-type power grid strengthens inter-regional and inter-provincial connectivity and mutual support. China's total UHV transmission line length has exceeded 50,000 kilometers.\nIn terms of technological application, the new-type power grid extensively applies digital and intelligent technologies to enhance grid stability and address the challenges of integrating new energy sources.\nIn 2025, China's total electricity consumption exceeded 10 trillion kilowatt-hours for the first time. As of the end of 2025, the country's cumulative installed capacity of new energy surpassed 1.8 billion kilowatts.\nDuring the 15th Five-Year Plan period, investment in the new-type power grid will exceed 5 trillion yuan. Fifteen UHV DC transmission corridors will be put into operation. The capacity for the West-to-East Power Transmission Project will reach over 420 million kilowatts. The capacity to accommodate distributed new energy will reach 900 million kilowatts. The grid will support more than 40 million charging infrastructure units.\nThe goal is to ensure that green electricity is \"received reliably, transmitted smoothly, and utilized well,\" enabling safe, efficient and flexible power dispatch.\nThe computing power network\nAn illustration of a printed circuit board. \nThe computing power network connects computing facilities scattered across the country into a single network.\nAs of the end of March 2026, China's total intelligent computing scale reached 1.88 million PFLOPS, which is equivalent to 18.8 trillion billion operations per second. Over 70 computing power corridors have been established, initially achieving a 20-millisecond latency circle for the eight national computing hub nodes.\nThis year, China's daily token call volume exceeded 140 trillion, which is more than 1,000 times that of two years ago. While total computing power capacity continues to increase and society's demand for computing power rises sharply, challenges remain, including disparities in computing power development across different regions and industries, as well as difficulties in cross-regional scheduling.\nDuring the 15th Five-Year Plan period, China will further advance the \"East Data, West Computing\" project and build a multi-level computing infrastructure system. The communication network and the power network will serve as operational support, while a unified computing power monitoring and scheduling platform will act as the intelligent hub.\nThe goal is to break down computing power barriers across regions and industries, promote seamless connectivity and efficient coordination of computing power resources nationwide, improve the utilization efficiency of computing power, and better empower all industries.\nThe next-generation communication network\nA 5G base station in Shanghai, September 5, 2024. \nThe next-generation communication network is an integrated air-space-ground-sea network infrastructure system driven by next-generation communication technology innovation and new application demands, serving the digital and intelligent transformation of the economy and society.\nIt is globally leading in technology and the largest in scale. Currently, the total number of 5G base stations in China exceeds 5 million and the 5G-A network covers 330 cities. The total length of optical cable lines exceeds 74.99 million kilometers.\nDuring the 15th Five-Year Plan period, the \"dual-gigabit\" network will evolve toward \"dual-ten-gigabit.\" A total of 500,000 5G-A base stations will be built. Additionally, 6G is expected to be commercially launched around 2030. Average efficiency and connectivity capacity will increase by more than ten times. Thousands of low-orbit satellites will be launched, effectively achieving integrated air-space-ground-sea coverage across the entire territory.\nThe next-generation communication network is expected to drive a total output of 7 trillion yuan across upstream and downstream industries, empowering high-quality development in the digital economy, the low-altitude economy, embodied intelligence, and beyond.\nThe urban underground pipeline network\nAn illustration of underground pipeline network. \nChina's urban underground pipeline network spans nearly 3.9 million kilometers, ranking first in the world. This includes approximately 1.199 million kilometers of water supply pipelines, about 1.04 million kilometers of gas pipelines, about 546,200 kilometers of heating pipelines, and about 993,600 kilometers of drainage pipelines.\nHowever, some pipeline networks face challenges such as unclear inventory data, aging facilities and fragmented management, making it difficult to meet the needs of modern urban governance.\nDuring the 15th Five-Year Plan period, new investment is expected to reach approximately 5 trillion yuan, with the construction and renovation of 770,000 kilometers of underground pipelines planned. The goal is to make the network smarter, safer and more resilient.\nThe logistics network\nContainer ships are seen docked alongside gantry cranes at Yantian Port, Shenzhen, south China's Guangdong Province, April 30, 2026. \nAt peak times, up to 8,437 parcels are collected per second, and an average of 160 million tonnes of goods flow daily on transportation routes in China.\nThe country ranks first in the world in comprehensive freight volume, port throughput and express delivery indicators. The logistics market continues to lead globally. In 2025, the ratio of China's total social logistics costs to GDP fell to 13.9%, down from 14.9% ten years ago, indicating continuously improving logistics efficiency.\nDuring the 15th Five-Year Plan period, the completion rate of the main framework of China's comprehensive three-dimensional transportation network will reach 95%. Efforts will be made to address weaknesses in areas such as multimodal transport, cold-chain logistics, express logistics and bulk commodity logistics, further reducing the ratio of total social logistics costs to GDP.",
-      "fullTextCn": "最近，中国呼吁建设“六张网”，包括水网、新型电网、算力网、下一代通信网、城市地下管网和物流网。这一部署既涵盖传统基础设施的升级，也涉及新型基础设施的布局，是“十五五”规划（2026-2030年）纲要中构建现代化基础设施体系的重要组成部分。“六张网”是什么？\n\n水网。2026年6月4日，位于中国东部江苏省扬州市的江都水利枢纽。中国的水网规模最大、功能最全、受益人口最多，居世界首位。截至2025年底，该网络覆盖全国80.3%的陆地面积。\n\n该网络作为一个庞大的水库系统，拥有约9.5万座水库和大坝，总库容超过1万亿立方米。国家水网的主骨架和大动脉——由自然河系和调水工程构成——正在不断完善。截至2026年5月14日，南水北调东中线一期工程已累计调水超过880亿立方米，惠及1.95亿人口。“十五五”期间，水网投资预计将超过6万亿元（约8860亿美元）。\n\n新型电网。2024年12月15日，四川省成都市的高压电网输电塔。新型电网以骨干网架和配电网为基础，以智能微电网为补充，形成“骨干-配网-微网”协调的电网系统。在功能架构上，新型电网加强了跨区域、跨省互联互通和互济支撑。中国特高压输电线路总长已超过5万公里。在技术应用上，新型电网广泛采用数字和智能技术，以增强电网稳定性并应对新能源并网的挑战。2025年，中国全社会用电量首次突破10万亿千瓦时。\n\n截至2025年底，全国新能源累计装机容量超过18亿千瓦。“十五五”期间，新型电网投资将超过5万亿元。15条特高压直流输电通道将投入运行。“西电东送”工程容量将达到4.2亿千瓦以上。分布式新能源接纳能力将达到9亿千瓦。\n\n电网将支持超过4000万个充电基础设施单元。目标是确保绿色电力“接得进、送得出、用得好”，实现安全、高效、灵活的电力调度。\n\n算力网。印刷电路板示意图。算力网将全国分散的计算设施连接成一个单一网络。截至2026年3月底，中国总算力规模达到188万PFLOPS，相当于每秒18.8万亿亿次运算。\n\n已建成超过70条算力通道，初步实现八大国家算力枢纽节点20毫秒延迟圈。今年，中国日均令牌调用量超过140万亿次，是两年前的1000多倍。在总算力容量持续增长、社会算力需求急剧上升的同时，仍面临挑战，包括不同地区和行业算力发展不均衡，以及跨区域调度困难。“十五五”期间，中国将进一步推进“东数西算”工程，构建多层次算力基础设施体系。通信网和电力网将作为运营支撑，统一的算力监测调度平台将作为智能中枢。\n\n目标是打破地区和行业间的算力壁垒，促进全国算力资源无缝连接和高效协同，提高算力利用效率，更好赋能各行各业。\n\n下一代通信网。2024年9月5日，上海的一个5G基站。下一代通信网是由下一代通信技术创新和新应用需求驱动的空天地海一体化网络基础设施系统，服务于经济社会数字化、智能化转型。它在技术上全球领先，规模最大。目前，中国5G基站总数超过500万个，5G-A网络覆盖330个城市。\n\n光缆线路总长超过7499万公里。“十五五”期间，“双千兆”网络将向“双万兆”演进。将建设50万个5G-A基站。此外，6G预计在2030年左右实现商用。平均效率和连接能力将提升十倍以上。将发射数千颗低轨卫星，有效实现全境空天地海一体化覆盖。\n\n下一代通信网预计将带动上下游产业总产出7万亿元，赋能数字经济、低空经济、具身智能等领域的高质量发展。\n\n城市地下管网。城市地下管网示意图。中国城市地下管网总长近390万公里，居世界第一。其中包括约119.9万公里供水管道、约104万公里燃气管道、约54.62万公里供热管道和约99.36万公里排水管道。然而，部分管网面临底数不清、设施老化、管理分散等挑战，难以满足现代城市治理的需求。\n\n“十五五”期间，预计新增投资约5万亿元，计划建设和改造77万公里地下管线。目标是使管网更智能、更安全、更具韧性。\n\n物流网。2026年4月30日，广东省深圳市盐田港，集装箱船停靠在岸桥旁。高峰时段，每秒最多收取8437件包裹，中国运输线路上日均流动1.6亿吨货物。中国在综合货运量、港口吞吐量和快递指标方面均居世界第一。\n\n物流市场持续全球领先。2025年，中国社会物流总费用与GDP的比率降至13.9%，较十年前下降1个百分点，表明物流效率持续提升。“十五五”期间，中国综合立体交通网主骨架建成率将达到95%。将着力补齐多式联运、冷链物流、快递物流和大宗商品物流等领域的短板，进一步降低社会物流总费用与GDP的比率。"
-    },
-    {
-      "id": 3,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-08/Building-a-new-relationship-with-the-ocean-through-innovation-1NO0afSR9za/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Building a new relationship with the ocean through innovation",
-      "titleCn": "通过创新建立与海洋的新关系",
-      "summary": "Building a new relationship with the ocean through innovation",
-      "summaryCn": "本文探讨了中国通过技术创新和国际合作推动海洋经济高质量发展，实现海洋保护与经济发展平衡的路径。",
-      "wordCount": 733,
-      "paragraphs": [
-        {
-          "en": "June 8 marks the 18th World Oceans Day and China's 19th National Ocean Awareness Day. The theme for World Oceans Day 2026, \"Reimagine,\" calls for a new relationship with the ocean. According to the United Nations, the ocean covers more than 70% of the planet, produces at least half of the Earth's oxygen, provides a primary source of protein for more than 1 billion people, and {{1}} around 30% of human-generated carbon dioxide. As countries seek more {{2}} ways to use marine resources, technological {{3}} is increasingly linking ocean {{4}} with economic development. A view of the Yangshan Deep-Water Port, Shanghai, China, July 8, 2025.",
-          "cn": "6月8日是第18个世界海洋日和中国第19个全国海洋宣传日。2026年世界海洋日的主题是“重新构想”，呼吁建立与海洋的新关系。据联合国称，海洋覆盖了地球70%以上的面积，产生了至少一半的氧气，为超过10亿人提供了主要的蛋白质来源，并吸收了约30%的人为二氧化碳。随着各国寻求更可持续地利用海洋资源的方式，技术创新正日益将海洋保护与经济发展联系起来。图为2025年7月8日中国上海洋山深水港一景。"
-        },
-        {
-          "en": "In March, Qiushi Journal published an article by Chinese President Xi Jinping on promoting the high-quality development of the marine economy. The article stressed the need to efficiently utilize marine resources, advance marine science and technology, and \"forge a Chinese path of leveraging marine resources to achieve strength\" while balancing development and environmental protection. China's gross ocean product reached 11.02 trillion yuan (about $1.6 trillion) in 2025, accounting for 7.9% of the country's GDP, according to data by the Ministry of Natural Resources. Green marine industries have also continued to expand. China's newly connected offshore wind power capacity grew by more than 60% year on year in 2025, highlighting the role of clean energy in the country's marine economic {{6}}.",
-          "cn": "3月，《求是》杂志发表了中国国家主席习近平关于推动海洋经济高质量发展的文章。文章强调要高效利用海洋资源，推进海洋科技，并“走出一条以海强国之路”，同时平衡发展与环境保护。根据自然资源部的数据，2025年中国海洋生产总值达到11.02万亿元人民币（约合1.6万亿美元），占国内生产总值的7.9%。绿色海洋产业也在持续扩大。2025年，中国新增海上风电装机容量同比增长超过60%，凸显了清洁能源在国家海洋经济转型中的作用。"
-        },
-        {
-          "en": "Three large cruise ships are docked at the Wusongkou International Cruise Terminal in Shanghai, east China, June 24, 2025. Growth in the marine economy is also being driven by the recovery of ocean-related services. In 2025, the added value of China's marine tourism industry exceeded 1.6 trillion yuan, up 5.9% year on year. Cruise passenger traffic increased by 25.3%, highlighting the {{7}} of coastal tourism and ocean-based consumption. The deep-sea manned submersible Fendouzhe, in Sanya, Hainan Province, south China, December 5, 2021.",
-          "cn": "三艘大型邮轮停靠在中国东部上海的吴淞口国际邮轮码头，摄于2025年6月24日。海洋经济的增长也得益于海洋相关服务的复苏。2025年，中国海洋旅游业增加值超过1.6万亿元人民币，同比增长5.9%。邮轮客运量增长25.3%，凸显了沿海旅游和海洋消费的活力。图为2021年12月5日在中国南部海南省三亚的深海载人潜水器“奋斗者”号。"
-        },
-        {
-          "en": "That {{8}} was evident at OCEANS 2026 Sanya, held in south China's Hainan Province in May. The conference gathered more than 700 scientists, engineers and young scholars from 26 countries and regions. More than 400 technical papers explored topics ranging from deep-sea {{9}} to underwater sensor networks and marine energy. The conference also highlighted Hainan's progress in deep-sea equipment, marine communications, offshore {{13}} and {{10}} conservation. File photo of a jellyfish discovered in the Atacama Trench during the China-Chile deep-see mission in 2026.",
-          "cn": "这一势头在5月于中国南部海南省三亚举行的2026年海洋会议上得到了体现。会议汇聚了来自26个国家和地区的700多名科学家、工程师和青年学者。400多篇技术论文探讨了从深海勘探到水下传感器网络和海洋能源等主题。会议还重点介绍了海南在深海装备、海洋通信、海上养殖和生态保护方面的进展。图为2026年中智深海任务期间在阿塔卡马海沟发现的水母资料照片。"
-        },
-        {
-          "en": "/China Media Group\nInternational cooperation has also become an important part of ocean science. In Sanya, the fourth workshop organized by the International Seabed Authority-China Joint Training and Research Centre gathered participants from developing countries across Africa, Asia-Pacific, Latin America and the Caribbean. Since its establishment in 2020, the center has trained 120 specialists from more than 40 countries in deep-sea science, marine spatial planning and environmental management, reflecting China's continued engagement in global ocean {{11}} and capacity building. Research efforts are also contributing directly to marine conservation. A team from Ocean University of China has restored and conserved more than 20,000 mu (about 1,300 hectares) of seagrass beds in the Yellow Sea and Bohai Sea, helping establish a relatively complete {{12}} framework for temperate seagrass ecosystems.",
-          "cn": "国际合作也成为海洋科学的重要组成部分。在三亚，国际海底管理局-中国联合培训与研究中心组织的第四次研讨会汇集了来自非洲、亚太、拉丁美洲和加勒比地区发展中国家的参与者。自2020年成立以来，该中心已培训了来自40多个国家的120名深海科学、海洋空间规划和环境管理方面的专家，反映了中国在全球海洋治理和能力建设方面的持续参与。研究工作也直接为海洋保护做出了贡献。中国海洋大学的一个团队在黄海和渤海恢复和保护了超过2万亩（约1300公顷）的海草床，帮助建立了相对完整的温带海草生态系统恢复框架。"
-        },
-        {
-          "en": "The 150,000-tonne intelligent aquaculture vessel Guoxin No. 1 2-2 is delivered for operation in Qingdao, Shandong Province, east China, November 15, 2025. As marine technologies move from laboratories into industrial applications, offshore aquaculture is becoming a key pillar of China's \"Blue Granary\" initiative. Near Guangdong's Guishan Island, the Gesheng No. 1 platform has expanded its farming capacity to 30,000 cubic meters while requiring only three staff members for daily operations.",
-          "cn": "15万吨级智能养殖工船“国信1号2-2”在山东省青岛市交付运营，摄于2025年11月15日。随着海洋技术从实验室走向工业应用，海上养殖正成为中国“蓝色粮仓”倡议的关键支柱。在广东桂山岛附近，“格盛1号”平台已将其养殖能力扩大到3万立方米，而日常运营仅需三名工作人员。"
-        },
-        {
-          "en": "Intelligent sonar systems, automated feeding and environmental data models have helped achieve survival rates of more than 98% for newly stocked fish. Meanwhile, Suhai-1, the world's first roving salmon and trout aquaculture vessel, is capable of producing up to 8,000 tonnes of premium salmon annually, demonstrating new possibilities for intelligent offshore farming. The Huadian Yuhuan No. 1 offshore windfarm in Taizhou, Zhejiang Province, east China, October 8, 2025. The theme of World Oceans Day 2026 encourages people to rethink their relationship with the ocean, not only as a source of resources but also as a vital ecosystem linked to humanity's future.",
-          "cn": "智能声纳系统、自动投喂和环境数据模型帮助新投放鱼类的存活率超过98%。与此同时，世界上第一艘游弋式三文鱼和鳟鱼养殖工船“苏海1号”每年可生产多达8000吨优质三文鱼，展示了智能海上养殖的新可能性。图为2025年10月8日在中国东部浙江省台州的华电玉环1号海上风电场。2026年世界海洋日的主题鼓励人们重新思考与海洋的关系，不仅将其视为资源来源，而且将其视为与人类未来息息相关的重要生态系统。"
-        },
-        {
-          "en": "Efforts in marine technology, offshore development and international cooperation are showing how China is pursuing more sustainable use of ocean resources. As new innovations continue to move from research into real-world applications, opportunities are expanding to advance marine economic growth while supporting long-term environmental {{14}}.",
-          "cn": "海洋技术、海上开发和国际合作方面的努力表明，中国正在追求更可持续地利用海洋资源。随着新创新不断从研究走向实际应用，推动海洋经济增长同时支持长期环境管理的机会正在扩大。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "absorbs",
-          "hint": "v. 吸收",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "sustainable",
-          "hint": "adj. 可持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "innovation",
-          "hint": "n. 创新",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "conservation",
-          "hint": "n. 保护",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "transformation",
-          "hint": "n. 转型",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "vitality",
-          "hint": "n. 活力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "momentum",
-          "hint": "n. 势头",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "exploration",
-          "hint": "n. 勘探",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "ecological",
-          "hint": "adj. 生态的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "governance",
-          "hint": "n. 治理",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "restoration",
-          "hint": "n. 恢复",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "aquaculture",
-          "hint": "n. 水产养殖",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "stewardship",
-          "hint": "n. 管理",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "June 8 marks the 18th World Oceans Day and China's 19th National Ocean Awareness Day. The theme for World Oceans Day 2026, \"Reimagine,\" calls for a new relationship with the ocean.\nAccording to the United Nations, the ocean covers more than 70% of the planet, produces at least half of the Earth's oxygen, provides a primary source of protein for more than 1 billion people, and absorbs around 30% of human-generated carbon dioxide.\nAs countries seek more sustainable ways to use marine resources, technological innovation is increasingly linking ocean conservation with economic development.\nA view of the Yangshan Deep-Water Port, Shanghai, China, July 8, 2025. \nIn March, Qiushi Journal published an article by Chinese President Xi Jinping on promoting the high-quality development of the marine economy. The article stressed the need to efficiently utilize marine resources, advance marine science and technology, and \"forge a Chinese path of leveraging marine resources to achieve strength\" while balancing development and environmental protection.\nChina's gross ocean product reached 11.02 trillion yuan (about $1.6 trillion) in 2025, accounting for 7.9% of the country's GDP, according to data by the Ministry of Natural Resources.\nGreen marine industries have also continued to expand.\nChina's newly connected offshore wind power capacity grew by more than 60% year on year in 2025, highlighting the role of clean energy in the country's marine economic transformation.\nThree large cruise ships are docked at the Wusongkou International Cruise Terminal in Shanghai, east China, June 24, 2025. \nGrowth in the marine economy is also being driven by the recovery of ocean-related services.\nIn 2025, the added value of China's marine tourism industry exceeded 1.6 trillion yuan, up 5.9% year on year. Cruise passenger traffic increased by 25.3%, highlighting the vitality of coastal tourism and ocean-based consumption.\nThe deep-sea manned submersible Fendouzhe, in Sanya, Hainan Province, south China, December 5, 2021. \nThat momentum was evident at OCEANS 2026 Sanya, held in south China's Hainan Province in May.\nThe conference gathered more than 700 scientists, engineers and young scholars from 26 countries and regions. More than 400 technical papers explored topics ranging from deep-sea exploration to underwater sensor networks and marine energy.\nThe conference also highlighted Hainan's progress in deep-sea equipment, marine communications, offshore aquaculture and ecological conservation.\nFile photo of a jellyfish discovered in the Atacama Trench during the China-Chile deep-see mission in 2026. /China Media Group\nInternational cooperation has also become an important part of ocean science.\nIn Sanya, the fourth workshop organized by the International Seabed Authority-China Joint Training and Research Centre gathered participants from developing countries across Africa, Asia-Pacific, Latin America and the Caribbean.\nSince its establishment in 2020, the center has trained 120 specialists from more than 40 countries in deep-sea science, marine spatial planning and environmental management, reflecting China's continued engagement in global ocean governance and capacity building.\nResearch efforts are also contributing directly to marine conservation. A team from Ocean University of China has restored and conserved more than 20,000 mu (about 1,300 hectares) of seagrass beds in the Yellow Sea and Bohai Sea, helping establish a relatively complete restoration framework for temperate seagrass ecosystems.\nThe 150,000-tonne intelligent aquaculture vessel Guoxin No. 1 2-2 is delivered for operation in Qingdao, Shandong Province, east China, November 15, 2025. \nAs marine technologies move from laboratories into industrial applications, offshore aquaculture is becoming a key pillar of China's \"Blue Granary\" initiative. Near Guangdong's Guishan Island, the Gesheng No. 1 platform has expanded its farming capacity to 30,000 cubic meters while requiring only three staff members for daily operations.\nIntelligent sonar systems, automated feeding and environmental data models have helped achieve survival rates of more than 98% for newly stocked fish.\nMeanwhile, Suhai-1, the world's first roving salmon and trout aquaculture vessel, is capable of producing up to 8,000 tonnes of premium salmon annually, demonstrating new possibilities for intelligent offshore farming.\nThe Huadian Yuhuan No. 1 offshore windfarm in Taizhou, Zhejiang Province, east China, October 8, 2025. \nThe theme of World Oceans Day 2026 encourages people to rethink their relationship with the ocean, not only as a source of resources but also as a vital ecosystem linked to humanity's future.\nEfforts in marine technology, offshore development and international cooperation are showing how China is pursuing more sustainable use of ocean resources.\nAs new innovations continue to move from research into real-world applications, opportunities are expanding to advance marine economic growth while supporting long-term environmental stewardship.",
-      "fullTextCn": "6月8日是第18个世界海洋日和中国第19个全国海洋宣传日。2026年世界海洋日的主题是“重新构想”，呼吁建立与海洋的新关系。据联合国称，海洋覆盖了地球70%以上的面积，产生了至少一半的氧气，为超过10亿人提供了主要的蛋白质来源，并吸收了约30%的人为二氧化碳。随着各国寻求更可持续地利用海洋资源的方式，技术创新正日益将海洋保护与经济发展联系起来。图为2025年7月8日中国上海洋山深水港一景。\n\n3月，《求是》杂志发表了中国国家主席习近平关于推动海洋经济高质量发展的文章。文章强调要高效利用海洋资源，推进海洋科技，并“走出一条以海强国之路”，同时平衡发展与环境保护。根据自然资源部的数据，2025年中国海洋生产总值达到11.02万亿元人民币（约合1.6万亿美元），占国内生产总值的7.9%。绿色海洋产业也在持续扩大。2025年，中国新增海上风电装机容量同比增长超过60%，凸显了清洁能源在国家海洋经济转型中的作用。\n\n三艘大型邮轮停靠在中国东部上海的吴淞口国际邮轮码头，摄于2025年6月24日。海洋经济的增长也得益于海洋相关服务的复苏。2025年，中国海洋旅游业增加值超过1.6万亿元人民币，同比增长5.9%。邮轮客运量增长25.3%，凸显了沿海旅游和海洋消费的活力。图为2021年12月5日在中国南部海南省三亚的深海载人潜水器“奋斗者”号。\n\n这一势头在5月于中国南部海南省三亚举行的2026年海洋会议上得到了体现。会议汇聚了来自26个国家和地区的700多名科学家、工程师和青年学者。400多篇技术论文探讨了从深海勘探到水下传感器网络和海洋能源等主题。会议还重点介绍了海南在深海装备、海洋通信、海上养殖和生态保护方面的进展。图为2026年中智深海任务期间在阿塔卡马海沟发现的水母资料照片。\n\n国际合作也成为海洋科学的重要组成部分。在三亚，国际海底管理局-中国联合培训与研究中心组织的第四次研讨会汇集了来自非洲、亚太、拉丁美洲和加勒比地区发展中国家的参与者。自2020年成立以来，该中心已培训了来自40多个国家的120名深海科学、海洋空间规划和环境管理方面的专家，反映了中国在全球海洋治理和能力建设方面的持续参与。研究工作也直接为海洋保护做出了贡献。中国海洋大学的一个团队在黄海和渤海恢复和保护了超过2万亩（约1300公顷）的海草床，帮助建立了相对完整的温带海草生态系统恢复框架。\n\n15万吨级智能养殖工船“国信1号2-2”在山东省青岛市交付运营，摄于2025年11月15日。随着海洋技术从实验室走向工业应用，海上养殖正成为中国“蓝色粮仓”倡议的关键支柱。在广东桂山岛附近，“格盛1号”平台已将其养殖能力扩大到3万立方米，而日常运营仅需三名工作人员。\n\n智能声纳系统、自动投喂和环境数据模型帮助新投放鱼类的存活率超过98%。与此同时，世界上第一艘游弋式三文鱼和鳟鱼养殖工船“苏海1号”每年可生产多达8000吨优质三文鱼，展示了智能海上养殖的新可能性。图为2025年10月8日在中国东部浙江省台州的华电玉环1号海上风电场。2026年世界海洋日的主题鼓励人们重新思考与海洋的关系，不仅将其视为资源来源，而且将其视为与人类未来息息相关的重要生态系统。\n\n海洋技术、海上开发和国际合作方面的努力表明，中国正在追求更可持续地利用海洋资源。随着新创新不断从研究走向实际应用，推动海洋经济增长同时支持长期环境管理的机会正在扩大。"
-    },
-    {
-      "id": 4,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-05/How-a-motor-shaped-like-a-sandwich-biscuit-can-power-future-industries-1NJDiySBuAo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "How a motor shaped like a sandwich biscuit can power future industries",
-      "titleCn": "形似夹心饼干的电机如何驱动未来产业",
-      "summary": "How a motor shaped like a sandwich biscuit can power future industries",
-      "summaryCn": "中国在轴向磁通电机技术上取得突破，该技术将推动电动汽车、人形机器人和低空飞行器的发展。",
-      "wordCount": 427,
-      "paragraphs": [
-        {
-          "en": "China announced a {{0}} in axial flux motor technology on Friday, a development expected to {{1}} the {{2}} of next-generation electric drive systems in electric vehicles, humanoid robots and low-altitude aircraft. The achievement was jointly {{3}} by a high-tech enterprise and the Chinese Academy of Sciences. The team has developed a {{4}} magnetic material that significantly improves {{5}} with axial flux motors, {{6}} magnetic energy product, high-temperature stability and mechanical strength while helping reduce production costs. Often regarded as a key technology for future electric propulsion systems, axial flux motors offer advantages including higher {{16}}, lighter weight and greater power {{7}} than {{8}} radial flux motors. Axial flux motors can reduce weight and axial dimensions by around 50% while delivering comparable performance.",
-          "cn": "中国周五宣布在轴向磁通电机技术上取得突破，这一进展预计将加速下一代电驱动系统在电动汽车、人形机器人和低空飞行器中的应用。该成果由一家高科技企业与中国科学院联合发布。团队开发了一种专用磁性材料，显著提升了与轴向磁通电机的兼容性，增强了磁能积、高温稳定性和机械强度，同时有助于降低生产成本。轴向磁通电机常被视为未来电推进系统的关键技术，与传统径向磁通电机相比，具有更高效率、更轻重量和更大功率密度的优势。轴向磁通电机可在保持同等性能的同时，将重量和轴向尺寸减少约50%。"
-        },
-        {
-          "en": "Models of an axial flux motor (left) and a radial flux motor (right). /CMG\nA conventional radial flux motor looks like a drum washing machine, with the stator surrounding a rotating inner rotor. An axial flux motor, by contrast, looks more like a sandwich biscuit, with the stator positioned between rotor discs. This design allows magnetic forces to act farther from the rotational axis, enabling higher {{14}} and power density in a more {{9}} and lightweight package. Axial flux motors look like a sandwich.",
-          "cn": "传统径向磁通电机外观类似滚筒洗衣机，定子环绕内部旋转的转子。相比之下，轴向磁通电机更像一块夹心饼干，定子位于转子盘之间。这种设计使磁力在离旋转轴更远的位置作用，从而在更紧凑轻巧的封装中实现更高的扭矩和功率密度。轴向磁通电机看起来像一块夹心饼干。"
-        },
-        {
-          "en": "/CMG\nThe newly developed motor, {{10}} with the specialized magnetic material, achieves an effective power density of 25.73 kilowatts per kilogram and a maximum rotational speed exceeding 18,000 revolutions per minute, marking a significant breakthrough for axial flux motor technology. The performance improvements enhance {{11}} and operational stability, making the technology suitable for {{12}} {{19}} such as high-performance electric vehicles. An axial flux motor for buses is showcased, Jinhua, east China's Zhejiang Province, June 5, 2026. The motor is also expected to support the {{13}} growing humanoid robotics sector. In joint-drive modules for humanoid robots, the motor achieves a torque density of 293 newton-meters per kilogram, approximately 22% higher than comparable products, enabling greater {{15}}, load-carrying capacity and energy efficiency.",
-          "cn": "这款配备专用磁性材料的新型电机实现了每千克25.73千瓦的有效功率密度和超过每分钟18000转的最高转速，标志着轴向磁通电机技术的重大突破。性能提升增强了耐用性和运行稳定性，使该技术适用于高性能电动汽车等严苛应用场景。2026年6月5日，中国东部浙江省金华市展示了一款用于公交车的轴向磁通电机。该电机还有望支持快速增长的人形机器人产业。在人形机器人的关节驱动模块中，该电机实现了每千克293牛顿米的扭矩密度，比同类产品高出约22%，从而提升了机动性、负载能力和能效。"
-        },
-        {
-          "en": "The humanoid robots are preparing for the combat competition, Hangzhou, east China's Zhejiang Province, May 23, 2025. The new magnetic material addresses long-standing challenges associated with conventional magnets, including demagnetization and performance {{17}} under high-speed, high-temperature and heavy-load operating conditions. A heavy truck is equipped with a high-performance axial flux motor, Jinhua, east China's Zhejiang Province, June 5, 2026. The first {{18}} applications are expected to be in new energy vehicles, humanoid robots and low-altitude aviation platforms. The breakthrough could {{20}} China's independent {{21}} capabilities across the axial flux motor supply chain and support the large-scale {{22}} of advanced electric-drive technologies.",
-          "cn": "2025年5月23日，中国东部浙江省杭州市，人形机器人正在为格斗比赛做准备。这种新型磁性材料解决了传统磁铁长期面临的挑战，包括在高速、高温和重载运行条件下的退磁和性能退化问题。2026年6月5日，中国东部浙江省金华市，一辆重型卡车配备了高性能轴向磁通电机。首批商业应用预计将出现在新能源汽车、人形机器人和低空航空平台中。这一突破可能增强中国在轴向磁通电机供应链上的自主创新能力，并支持先进电驱动技术的大规模商业化。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "breakthrough",
-          "hint": "n. 突破",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "accelerate",
-          "hint": "v. 加速",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "adoption",
-          "hint": "n. 采用",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "unveiled",
-          "hint": "v. 公布",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "specialized",
-          "hint": "adj. 专门的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "compatibility",
-          "hint": "n. 兼容性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "enhancing",
+          "answer": "enhances",
           "hint": "v. 增强",
           "difficulty": "medium"
         },
         {
-          "id": 7,
-          "answer": "density",
-          "hint": "n. 密度",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "conventional",
-          "hint": "adj. 传统的",
-          "difficulty": "medium"
-        },
-        {
           "id": 9,
-          "answer": "compact",
-          "hint": "adj. 紧凑的",
+          "answer": "capabilities",
+          "hint": "n. 能力",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "equipped",
-          "hint": "v. 配备",
+          "answer": "exploration",
+          "hint": "n. 探索",
           "difficulty": "easy"
         },
         {
           "id": 11,
-          "answer": "durability",
-          "hint": "n. 耐用性",
-          "difficulty": "hard"
+          "answer": "complicated",
+          "hint": "adj. 复杂的",
+          "difficulty": "easy"
         },
         {
           "id": 12,
-          "answer": "demanding",
-          "hint": "adj. 要求高的",
-          "difficulty": "medium"
+          "answer": "coordinated",
+          "hint": "adj. 协调的",
+          "difficulty": "hard"
         },
         {
           "id": 13,
-          "answer": "rapidly",
-          "hint": "adv. 迅速地",
-          "difficulty": "easy"
+          "answer": "campaign",
+          "hint": "n. 行动",
+          "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "torque",
-          "hint": "n. 扭矩",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "mobility",
-          "hint": "n. 机动性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "efficiency",
-          "hint": "n. 效率",
+          "answer": "critical",
+          "hint": "adj. 关键的",
           "difficulty": "easy"
         },
         {
-          "id": 17,
-          "answer": "degradation",
-          "hint": "n. 退化",
+          "id": 15,
+          "answer": "subsequent",
+          "hint": "adj. 随后的",
           "difficulty": "hard"
         },
         {
-          "id": 18,
-          "answer": "commercial",
-          "hint": "adj. 商业的",
+          "id": 16,
+          "answer": "mechanisms",
+          "hint": "n. 机制",
           "difficulty": "medium"
         },
         {
+          "id": 17,
+          "answer": "operations",
+          "hint": "n. 操作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "uncrewed",
+          "hint": "adj. 无人驾驶的",
+          "difficulty": "hard"
+        },
+        {
           "id": 19,
-          "answer": "applications",
-          "hint": "n. 应用",
+          "answer": "attempts",
+          "hint": "v. 尝试",
           "difficulty": "easy"
         },
         {
           "id": 20,
-          "answer": "strengthen",
-          "hint": "v. 加强",
-          "difficulty": "medium"
+          "answer": "reshuffling",
+          "hint": "n. 重新调整",
+          "difficulty": "hard"
         },
         {
           "id": 21,
-          "answer": "innovation",
-          "hint": "n. 创新",
+          "answer": "prototype",
+          "hint": "n. 原型",
           "difficulty": "medium"
         },
         {
           "id": 22,
-          "answer": "commercialization",
-          "hint": "n. 商业化",
-          "difficulty": "hard"
+          "answer": "exploded",
+          "hint": "v. 爆炸",
+          "difficulty": "easy"
         }
       ],
-      "fullText": "China announced a breakthrough in axial flux motor technology on Friday, a development expected to accelerate the adoption of next-generation electric drive systems in electric vehicles, humanoid robots and low-altitude aircraft.\nThe achievement was jointly unveiled by a high-tech enterprise and the Chinese Academy of Sciences. The team has developed a specialized magnetic material that significantly improves compatibility with axial flux motors, enhancing magnetic energy product, high-temperature stability and mechanical strength while helping reduce production costs.\nOften regarded as a key technology for future electric propulsion systems, axial flux motors offer advantages including higher efficiency, lighter weight and greater power density than conventional radial flux motors. Axial flux motors can reduce weight and axial dimensions by around 50% while delivering comparable performance.\nModels of an axial flux motor (left) and a radial flux motor (right). /CMG\nA conventional radial flux motor looks like a drum washing machine, with the stator surrounding a rotating inner rotor. An axial flux motor, by contrast, looks more like a sandwich biscuit, with the stator positioned between rotor discs. This design allows magnetic forces to act farther from the rotational axis, enabling higher torque and power density in a more compact and lightweight package.\nAxial flux motors look like a sandwich. /CMG\nThe newly developed motor, equipped with the specialized magnetic material, achieves an effective power density of 25.73 kilowatts per kilogram and a maximum rotational speed exceeding 18,000 revolutions per minute, marking a significant breakthrough for axial flux motor technology. The performance improvements enhance durability and operational stability, making the technology suitable for demanding applications such as high-performance electric vehicles.\nAn axial flux motor for buses is showcased, Jinhua, east China's Zhejiang Province, June 5, 2026. \nThe motor is also expected to support the rapidly growing humanoid robotics sector. In joint-drive modules for humanoid robots, the motor achieves a torque density of 293 newton-meters per kilogram, approximately 22% higher than comparable products, enabling greater mobility, load-carrying capacity and energy efficiency.\nThe humanoid robots are preparing for the combat competition, Hangzhou, east China's Zhejiang Province, May 23, 2025. \nThe new magnetic material addresses long-standing challenges associated with conventional magnets, including demagnetization and performance degradation under high-speed, high-temperature and heavy-load operating conditions.\nA heavy truck is equipped with a high-performance axial flux motor, Jinhua, east China's Zhejiang Province, June 5, 2026. \nThe first commercial applications are expected to be in new energy vehicles, humanoid robots and low-altitude aviation platforms. The breakthrough could strengthen China's independent innovation capabilities across the axial flux motor supply chain and support the large-scale commercialization of advanced electric-drive technologies.",
-      "fullTextCn": "中国周五宣布在轴向磁通电机技术上取得突破，这一进展预计将加速下一代电驱动系统在电动汽车、人形机器人和低空飞行器中的应用。该成果由一家高科技企业与中国科学院联合发布。团队开发了一种专用磁性材料，显著提升了与轴向磁通电机的兼容性，增强了磁能积、高温稳定性和机械强度，同时有助于降低生产成本。轴向磁通电机常被视为未来电推进系统的关键技术，与传统径向磁通电机相比，具有更高效率、更轻重量和更大功率密度的优势。轴向磁通电机可在保持同等性能的同时，将重量和轴向尺寸减少约50%。\n\n传统径向磁通电机外观类似滚筒洗衣机，定子环绕内部旋转的转子。相比之下，轴向磁通电机更像一块夹心饼干，定子位于转子盘之间。这种设计使磁力在离旋转轴更远的位置作用，从而在更紧凑轻巧的封装中实现更高的扭矩和功率密度。轴向磁通电机看起来像一块夹心饼干。\n\n这款配备专用磁性材料的新型电机实现了每千克25.73千瓦的有效功率密度和超过每分钟18000转的最高转速，标志着轴向磁通电机技术的重大突破。性能提升增强了耐用性和运行稳定性，使该技术适用于高性能电动汽车等严苛应用场景。2026年6月5日，中国东部浙江省金华市展示了一款用于公交车的轴向磁通电机。该电机还有望支持快速增长的人形机器人产业。在人形机器人的关节驱动模块中，该电机实现了每千克293牛顿米的扭矩密度，比同类产品高出约22%，从而提升了机动性、负载能力和能效。\n\n2025年5月23日，中国东部浙江省杭州市，人形机器人正在为格斗比赛做准备。这种新型磁性材料解决了传统磁铁长期面临的挑战，包括在高速、高温和重载运行条件下的退磁和性能退化问题。2026年6月5日，中国东部浙江省金华市，一辆重型卡车配备了高性能轴向磁通电机。首批商业应用预计将出现在新能源汽车、人形机器人和低空航空平台中。这一突破可能增强中国在轴向磁通电机供应链上的自主创新能力，并支持先进电驱动技术的大规模商业化。"
+      "fullText": "From L: NASA astronaut commander Randy Bresnik, ESA astronaut pilot Luca Parmitano, NASA astronaut mission specialist Frank Rubio, and NASA astronaut mission specialist Andre Douglas at a press conference announcing the crew for the Artemis III mission at NASA's Johnson Space Center in Houston, Texas, on June 9, 2026. \nNASA on Tuesday named three US astronauts and one Italian astronaut as the crew for Artemis III, a spacecraft docking demonstration mission scheduled for late next year that will test lunar landers from SpaceX and Blue Origin in orbit for the first time.\nAt a ceremony in Houston, NASA Administrator Jared Isaacman announced that veteran astronaut Randy Bresnik will serve as commander, with Andre Douglas and Frank Rubio as mission specialists, and Luca Parmitano of the European Space Agency (ESA) as pilot. NASA astronaut Bob Hines was named as a backup crew member and will train alongside the prime crew.\nItalian Space Agency President Teodoro Valente said in a statement that Parmitano's selection as pilot for Artemis III \"confirms and enhances the role and capabilities of the European and Italian space system in the human exploration of the universe.\"\n\"Artemis III is an incredibly exciting, complicated and highly coordinated multi-launch campaign,\" Jeremy Parsons, NASA's Artemis program manager, said at the Houston event. \"It's going to happen in a short period of time with three of the world's most powerful rockets.\"\nThe mission will involve NASA's Orion capsule, SpaceX's Starship lunar lander, and Blue Origin's Blue Moon lander. Although the two-week mission will remain in low-Earth orbit and will not travel to the moon, it is seen as a critical test of the two primary moon landers NASA will use on subsequent Artemis missions to put astronauts on the lunar surface.\nBlue Moon will launch first, followed by Orion carrying the astronauts. The two spacecraft will dock for about two days while the astronauts conduct tests and technology demonstrations in Blue Moon. Blue Moon will then undock from Orion, making way for Starship, which will attempt to dock for a day before returning to Earth. The mission will test docking mechanisms and operations that will be required for future lunar missions.\nArtemis III follows Artemis I, an uncrewed lunar mission in 2022, and Artemis II, which carried three US astronauts and one Canadian astronaut around the moon and back in April. It will be the final Artemis mission before NASA attempts to land astronauts on the lunar surface in 2028.\nSpaceX and Blue Origin have faced years of delays in the development of their landers. Last year, the companies pitched NASA on sped-up development plans that prompted a reshuffling of the agency's Artemis program, giving rise to the Artemis III docking mission.\nThe 2027 mission would require both SpaceX's Starship and a prototype version of Blue Origin's Blue Moon to be ready for launch at nearly the same time.\nSpaceX last month test-launched a new version of its Starship designed for lunar missions. Blue Origin's New Glenn rocket exploded on its launchpad in Florida last month as it was preparing to launch a batch of Amazon satellites. The explosion destroyed much of the company's only launchpad and grounded for at least several months the rocket that Blue Origin aims to use to launch its Blue Moon lander, which is being ground-tested in Houston and Florida.",
+      "fullTextCn": "从左至右：NASA宇航员指挥官兰迪·布雷斯尼克、ESA宇航员飞行员卢卡·帕尔米塔诺、NASA宇航员任务专家弗兰克·鲁比奥和NASA宇航员任务专家安德烈·道格拉斯，在2026年6月9日于德克萨斯州休斯顿NASA约翰逊航天中心举行的新闻发布会上，宣布阿尔忒弥斯三号任务的机组人员。NASA周二任命三名美国宇航员和一名意大利宇航员为阿尔忒弥斯三号任务的机组人员，这是一项计划于明年晚些时候进行的航天器对接演示任务，将首次在轨道上测试SpaceX和蓝色起源的月球着陆器。在休斯顿的仪式上，NASA局长贾里德·艾萨克曼宣布，资深宇航员兰迪·布雷斯尼克将担任指挥官，安德烈·道格拉斯和弗兰克·鲁比奥担任任务专家，欧洲航天局（ESA）的卢卡·帕尔米塔诺担任飞行员。NASA宇航员鲍勃·海因斯被任命为后备机组人员，将与主要机组人员一起训练。意大利航天局局长特奥多罗·瓦伦特在一份声明中表示，帕尔米塔诺被选为阿尔忒弥斯三号任务的飞行员，“确认并增强了欧洲和意大利航天系统在人类宇宙探索中的角色和能力。”\n\n“阿尔忒弥斯三号是一项极其令人兴奋、复杂且高度协调的多发射任务，”NASA阿尔忒弥斯项目经理杰里米·帕森斯在休斯顿的活动上说。“它将在短时间内使用三枚世界上最强大的火箭完成。”该任务将涉及NASA的猎户座太空舱、SpaceX的星舰月球着陆器和蓝色起源的蓝月着陆器。\n\n尽管为期两周的任务将停留在近地轨道，不会前往月球，但它被视为对NASA后续阿尔忒弥斯任务中用于将宇航员送上月球表面的两个主要月球着陆器的关键测试。蓝月将首先发射，随后是搭载宇航员的猎户座。两艘航天器将对接约两天，期间宇航员将在蓝月上进行测试和技术演示。然后蓝月将与猎户座分离，为星舰让路，星舰将尝试对接一天，然后返回地球。该任务将测试未来月球任务所需的对接机制和操作。阿尔忒弥斯三号任务紧随2022年无人月球任务阿尔忒弥斯一号和2025年4月搭载三名美国宇航员和一名加拿大宇航员绕月飞行的阿尔忒弥斯二号之后。\n\n这将是NASA在2028年尝试将宇航员送上月球表面之前的最后一次阿尔忒弥斯任务。SpaceX和蓝色起源在着陆器开发方面面临多年的延误。去年，这些公司向NASA提出了加速开发计划，促使该机构的阿尔忒弥斯计划重新调整，从而催生了阿尔忒弥斯三号对接任务。2027年的任务将要求SpaceX的星舰和蓝色起源蓝月的原型版本几乎同时准备好发射。SpaceX上个月试射了专为月球任务设计的新版星舰。蓝色起源的新格伦火箭上个月在佛罗里达州准备发射一批亚马逊卫星时在发射台上爆炸。\n\n爆炸摧毁了该公司唯一的发射台，并使蓝色起源计划用于发射蓝月着陆器的火箭至少停飞数月，该着陆器正在休斯顿和佛罗里达进行地面测试。"
     },
     {
-      "id": 5,
-      "category": "technology",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-06-18/detail-ihffptmh9488055.shtml",
-      "title": "From pulse-taking to AI diagnosis: Chongqing explores digital and smart upgrade of TCM",
-      "titleCn": "从脉诊到AI诊断：重庆探索中医药数字化与智能化升级",
-      "summary": "With a few taps on the screen of a Traditional Chinese Medicine (TCM) four-diagnostic instrument, data on the body's meridian status, constitution type and potential health issues are delivered to the user's mobile phone within minutes, along with a personalized health regimen.",
-      "summaryCn": "重庆璧山中医街通过智能四诊仪等设备，融合AI技术与传统中医理论，提供个性化健康方案，并打造线上线下闭环服务体系。",
-      "wordCount": 361,
+      "id": 3,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-17/UN-envoy-calls-for-revival-of-Yemeni-political-process-1O2EdzwRW7K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "UN envoy calls for revival of Yemeni political process",
+      "titleCn": "联合国特使呼吁重启也门政治进程",
+      "summary": "UN Special Envoy for Yemen Hans Grundberg on Tuesday urged relevant parties of the Yemeni conflict to seize the opportunity created by regional de-escalation following the Iran-US deal and revive the stalled political process.",
+      "summaryCn": "联合国也门问题特使格伦德贝格敦促冲突各方抓住地区局势缓和的机遇，重启停滞的政治进程。",
+      "wordCount": 357,
       "paragraphs": [
         {
-          "en": "(ECNS) – With a few taps on the screen of a Traditional Chinese Medicine (TCM) four-{{0}} instrument, data on the body's {{1}} status, {{2}} type and potential health issues are delivered to the user's mobile phone within minutes, along with a personalized health {{3}}. At the TCM Street in Bishan District of Chongqing, this smart device {{4}} modern AI technology with vast {{5}} experience, based on traditional TCM theories. It combines {{6}}, pulse-taking, tongue {{8}}, facial diagnosis and {{7}} diagnosis to automatically collect and analyze physical signs, complete diagnosis and generate results. As the core {{9}} for Bishan's national demonstration project on the {{10}} and {{11}} development of TCM, the street now houses more than 40 merchants, exploring a new \"cultural tourism + TCM\" development path. Liu Lin, a renowned TCM {{12}} of Bishan District, consults patients on-site.",
-          "cn": "（中新网）只需在中医四诊仪的屏幕上轻点几下，关于身体经络状态、体质类型及潜在健康问题的数据，便会在几分钟内发送到用户手机上，同时附上一份个性化健康方案。在重庆璧山区的中医街，这款智能设备基于传统中医理论，将现代AI技术与大量临床经验相结合。它整合了问诊、脉诊、舌诊、面诊和闻诊，自动采集和分析体征，完成诊断并生成结果。作为璧山国家级中医药传承创新发展示范项目的核心场所，这条街现已入驻40多家商户，探索“文旅+中医”的新发展路径。璧山区名中医刘琳在现场为患者看诊。"
+          "en": "A UN aircraft is seen at Sana'a airport after transporting a Houthi delegation from Jordan to Sana'a, Yemen, May 21, 2026. UN Special Envoy for Yemen Hans Grundberg on Tuesday {{2}} relevant parties of the Yemeni conflict to {{3}} the opportunity created by regional {{4}} following the Iran-US deal and revive the {{5}} political process. Briefing the UN Security Council, Grundberg said he hoped the regional developments could create {{6}} for progress in Yemen and {{7}} to continue engaging the parties to advance political efforts. \"I hope this deal marks a {{8}} point for the region, and I will be working with the parties to encourage them to seize this moment to make progress on Yemen,\" Grundberg said. He said the recent US-Israeli-Iran conflict has so far had limited {{9}} impact inside Yemen, where the relative calm established since the 2022 {{10}} has largely held. However, he warned that regional {{11}} have added economic pressure to Yemen due to its heavy {{12}} on imports and {{13}} to regional developments.",
+          "cn": "一架联合国飞机在将胡塞武装代表团从约旦运送到也门萨那机场后出现在机场，摄于2026年5月21日。联合国也门问题特使汉斯·格伦德贝格周二敦促也门冲突相关各方抓住伊朗与美国达成协议后地区局势缓和所创造的机会，重启停滞的政治进程。格伦德贝格在向联合国安理会通报情况时表示，他希望地区事态发展能为也门取得进展创造动力，并承诺继续与各方接触以推进政治努力。格伦德贝格说：“我希望这项协议能成为该地区的转折点，我将与各方合作，鼓励他们抓住这一时机在也门问题上取得进展。”他表示，近期美国、以色列和伊朗之间的冲突迄今为止对也门境内产生的军事影响有限，自2022年停火以来建立的相对平静局面基本得以维持。然而，他警告说，由于也门严重依赖进口且靠近地区事态发展，地区紧张局势给也门增加了经济压力。"
         },
         {
-          "en": "Liu said the street regularly invites nationally renowned TCM experts and university specialists for {{13}}. The street also provides free delivery of {{14}} herbs, a service that reduces the burden on patients. Using a digital and smart TCM platform, the street has created a {{15}} service system integrating online and offline channels. Online, the platform connects more than 20,000 TCM experts nationwide, enabling patients to access quality TCM resources at home. Offline, smart devices such as meridian detectors, infrared thermal imagers, and intelligent moxibustion robots are {{16}}, combining AI {{17}} with classic TCM theories.",
-          "cn": "刘琳表示，这条街定期邀请全国知名中医专家和高校专家前来坐诊。街道还提供免费代煎中药并配送上门服务，减轻了患者负担。通过数字化、智能化的中医平台，这条街打造了线上线下融合的闭环服务体系。线上，平台连接全国2万多名中医专家，让患者足不出户即可享受优质中医资源。线下，部署了经络检测仪、红外热成像仪、智能艾灸机器人等智能设备，将AI算法与经典中医理论相结合。"
-        },
-        {
-          "en": "\"Within minutes, the smart device identifies health issues and makes TCM {{24}} easy to understand,\" said Yao Weimin, special {{18}} of China Times (Netherlands), who tried the system on Tuesday. Yao said the health regimen provided by the smart system was scientific and practical, and he was impressed by the {{19}} of TCM and digital technology. Currently, the TCM Street in Bishan integrates AI technology, {{20}} cultural heritage TCM, and cultural tourism and leisure, bringing together more than 30 featured business {{21}}. The TCM Fun Experience Hall offers 24 solar terms health education programs and other {{22}} exhibits suitable for all ages. The Chongqing Bashu Folk TCM Museum regularly organizes herb identification and Baduanjin qigong teaching sessions.",
-          "cn": "“几分钟内，智能设备就能识别健康问题，让中医养生变得通俗易懂，”来自荷兰的《中国时报》特约记者姚伟民在周二体验该系统后说道。姚伟民表示，智能系统提供的健康方案科学实用，他对中医与数字技术的融合印象深刻。目前，璧山中医街融合了AI技术、非物质文化遗产中医、文旅休闲，汇聚了30多种特色业态。中医趣味体验馆提供24节气养生教育项目及其他适合各年龄段的互动展品。重庆巴蜀民间中医博物馆定期组织草药辨识和八段锦气功教学课程。"
-        },
-        {
-          "en": "The street has also developed TCM wellness products {{23}} for younger consumers.",
-          "cn": "这条街还开发了针对年轻消费者的中医养生产品。"
+          "en": "Grundberg said his office recently held two separate meetings under the {{14}} of the Military Coordination Committee (MCC) – one involving military representatives from the Saudi-led Joint Forces Command and Yemen's Houthi rebels, and another involving the Joint Forces Command and the Yemeni government. The meetings enabled discussions on security priorities, de-escalation measures and improving communication channels. Based on commitments from all sides, the UN plans to convene a {{15}} MCC meeting in the near future, he said. Grundberg added that his office has also continued consultations and preparatory work on economic issues that will ultimately need to be addressed through negotiations. He said these efforts are aimed at building confidence and paving the way for an inclusive political process to end the conflict, noting that despite negotiations on other issues, the parties have not held face-to-face political talks for years. Warning that continued deadlock risks further instability inside Yemen and across the region, Grundberg called on the parties to use the current period of regional de-escalation to advance a sustainable political settlement, adding that the United Nations remains committed to supporting the process and the Yemeni people.",
+          "cn": "格伦德贝格表示，他的办公室最近在军事协调委员会框架下举行了两次单独会议——一次涉及沙特领导的联合部队司令部和也门胡塞武装的军事代表，另一次涉及联合部队司令部和也门政府。这些会议使得各方能够讨论安全优先事项、缓和措施以及改善沟通渠道。他说，基于各方的承诺，联合国计划在不久的将来召开一次三方军事协调委员会会议。格伦德贝格补充说，他的办公室还继续就最终需要通过谈判解决的经济问题进行磋商和准备工作。他表示，这些努力旨在建立信任，并为结束冲突的包容性政治进程铺平道路，并指出尽管在其他问题上进行了谈判，但各方多年来未举行面对面的政治会谈。格伦德贝格警告说，持续的僵局有可能加剧也门境内及整个地区的不稳定，他呼吁各方利用当前地区局势缓和时期推进可持续的政治解决方案，并补充说联合国仍然致力于支持这一进程和也门人民。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "diagnostic",
-          "hint": "adj. 诊断的",
+          "answer": "urged",
+          "hint": "v. 敦促",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "meridian",
-          "hint": "n. 经络",
-          "difficulty": "hard"
-        },
-        {
-          "id": 2,
-          "answer": "constitution",
-          "hint": "n. 体质",
+          "answer": "seize",
+          "hint": "v. 抓住",
           "difficulty": "medium"
         },
         {
-          "id": 3,
-          "answer": "regimen",
-          "hint": "n. 养生方案",
+          "id": 2,
+          "answer": "de-escalation",
+          "hint": "n. 缓和",
           "difficulty": "hard"
         },
         {
+          "id": 3,
+          "answer": "stalled",
+          "hint": "adj. 停滞的",
+          "difficulty": "medium"
+        },
+        {
           "id": 4,
-          "answer": "integrates",
-          "hint": "v. 整合",
+          "answer": "momentum",
+          "hint": "n. 动力",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "clinical",
-          "hint": "adj. 临床的",
+          "answer": "pledged",
+          "hint": "v. 承诺",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "inquiry",
-          "hint": "n. 问诊",
-          "difficulty": "hard"
+          "answer": "turning",
+          "hint": "n. 转折",
+          "difficulty": "easy"
         },
         {
           "id": 7,
-          "answer": "olfactory",
-          "hint": "adj. 嗅觉的",
-          "difficulty": "hard"
+          "answer": "military",
+          "hint": "adj. 军事的",
+          "difficulty": "easy"
         },
         {
           "id": 8,
-          "answer": "diagnosis",
-          "hint": "n. 诊断",
+          "answer": "truce",
+          "hint": "n. 停火",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "venue",
-          "hint": "n. 场所",
+          "answer": "tensions",
+          "hint": "n. 紧张局势",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "inheritance",
-          "hint": "n. 传承",
+          "answer": "reliance",
+          "hint": "n. 依赖",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "innovative",
-          "hint": "adj. 创新的",
-          "difficulty": "easy"
+          "answer": "proximity",
+          "hint": "n. 靠近",
+          "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "practitioner",
-          "hint": "n. 从业者",
+          "answer": "framework",
+          "hint": "n. 框架",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "consultations",
-          "hint": "n. 会诊",
+          "answer": "trilateral",
+          "hint": "adj. 三方的",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "A UN aircraft is seen at Sana'a airport after transporting a Houthi delegation from Jordan to Sana'a, Yemen, May 21, 2026. \nUN Special Envoy for Yemen Hans Grundberg on Tuesday urged relevant parties of the Yemeni conflict to seize the opportunity created by regional de-escalation following the Iran-US deal and revive the stalled political process.\nBriefing the UN Security Council, Grundberg said he hoped the regional developments could create momentum for progress in Yemen and pledged to continue engaging the parties to advance political efforts.\n\"I hope this deal marks a turning point for the region, and I will be working with the parties to encourage them to seize this moment to make progress on Yemen,\" Grundberg said.\nHe said the recent US-Israeli-Iran conflict has so far had limited military impact inside Yemen, where the relative calm established since the 2022 truce has largely held. However, he warned that regional tensions have added economic pressure to Yemen due to its heavy reliance on imports and proximity to regional developments.\nGrundberg said his office recently held two separate meetings under the framework of the Military Coordination Committee (MCC) – one involving military representatives from the Saudi-led Joint Forces Command and Yemen's Houthi rebels, and another involving the Joint Forces Command and the Yemeni government.\nThe meetings enabled discussions on security priorities, de-escalation measures and improving communication channels. Based on commitments from all sides, the UN plans to convene a trilateral MCC meeting in the near future, he said.\nGrundberg added that his office has also continued consultations and preparatory work on economic issues that will ultimately need to be addressed through negotiations.\nHe said these efforts are aimed at building confidence and paving the way for an inclusive political process to end the conflict, noting that despite negotiations on other issues, the parties have not held face-to-face political talks for years.\nWarning that continued deadlock risks further instability inside Yemen and across the region, Grundberg called on the parties to use the current period of regional de-escalation to advance a sustainable political settlement, adding that the United Nations remains committed to supporting the process and the Yemeni people.",
+      "fullTextCn": "一架联合国飞机在将胡塞武装代表团从约旦运送到也门萨那机场后出现在机场，摄于2026年5月21日。联合国也门问题特使汉斯·格伦德贝格周二敦促也门冲突相关各方抓住伊朗与美国达成协议后地区局势缓和所创造的机会，重启停滞的政治进程。格伦德贝格在向联合国安理会通报情况时表示，他希望地区事态发展能为也门取得进展创造动力，并承诺继续与各方接触以推进政治努力。格伦德贝格说：“我希望这项协议能成为该地区的转折点，我将与各方合作，鼓励他们抓住这一时机在也门问题上取得进展。”他表示，近期美国、以色列和伊朗之间的冲突迄今为止对也门境内产生的军事影响有限，自2022年停火以来建立的相对平静局面基本得以维持。然而，他警告说，由于也门严重依赖进口且靠近地区事态发展，地区紧张局势给也门增加了经济压力。\n\n格伦德贝格表示，他的办公室最近在军事协调委员会框架下举行了两次单独会议——一次涉及沙特领导的联合部队司令部和也门胡塞武装的军事代表，另一次涉及联合部队司令部和也门政府。这些会议使得各方能够讨论安全优先事项、缓和措施以及改善沟通渠道。他说，基于各方的承诺，联合国计划在不久的将来召开一次三方军事协调委员会会议。格伦德贝格补充说，他的办公室还继续就最终需要通过谈判解决的经济问题进行磋商和准备工作。他表示，这些努力旨在建立信任，并为结束冲突的包容性政治进程铺平道路，并指出尽管在其他问题上进行了谈判，但各方多年来未举行面对面的政治会谈。格伦德贝格警告说，持续的僵局有可能加剧也门境内及整个地区的不稳定，他呼吁各方利用当前地区局势缓和时期推进可持续的政治解决方案，并补充说联合国仍然致力于支持这一进程和也门人民。"
+    },
+    {
+      "id": 4,
+      "category": "military",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/news/politics/2026-06-20/detail-ihffptmh9489913.shtml",
+      "title": "Pakistan reaffirms commitment to SCO, highlights role in regional connectivity, development",
+      "titleCn": "巴基斯坦重申对上合组织的承诺，强调其在区域互联互通与发展中的作用",
+      "summary": "ISLAMABAD, June 15--Pakistans Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Monday reaffirmed the countrys commitment to the Shanghai Cooperation Organization.",
+      "summaryCn": "巴基斯坦副总理兼外长达尔重申对上合组织的承诺，强调其在促进区域合作、安全与发展中的关键作用，并宣布将担任2027年上合组织峰会主席国。",
+      "wordCount": 304,
+      "paragraphs": [
+        {
+          "en": "Pakistan's Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Monday {{0}} the country's {{1}} to the Shanghai Cooperation Organization (SCO), describing it as a {{2}} {{3}} for {{4}} regional cooperation, peace, security and economic development. In a message marking the 25th anniversary of the SCO, Dar congratulated the organization and its member states, noting that the organization has grown into an influential forum for regional {{5}} since its establishment in 2001. \"The {{6}} of the 25th anniversary confirms the {{7}} power of the 'Shanghai Spirit,' which continues to guide us through {{8}} trust, equality, respect for cultural {{9}}, shared development and {{10}} engagement,\" Dar said. The foreign minister noted that Pakistan's {{11}} from an SCO observer to a full member in 2017 reflects its strong commitment to {{12}} and regional cooperation. Pakistan remains firmly committed to the principles and objectives of the SCO Charter and appreciates the organization's emphasis on international law, mutual respect and good-neighborly relations, added the minister.",
+          "cn": "巴基斯坦副总理兼外交部长穆罕默德·伊沙克·达尔周一重申了该国对上海合作组织的承诺，称其为促进区域合作、和平、安全与经济发展的重要平台。在纪念上合组织成立25周年的致辞中，达尔向该组织及其成员国表示祝贺，指出该组织自2001年成立以来已发展成为区域合作的重要论坛。达尔表示：“25周年里程碑印证了‘上海精神’的持久力量，它继续以互信、平等、尊重文化多样性、共同发展和建设性接触指引我们。”外长指出，巴基斯坦从2017年由上合组织观察员国晋升为正式成员国，体现了其对多边主义和区域合作的坚定承诺。巴基斯坦仍坚定致力于《上合组织宪章》的原则和目标，并赞赏该组织对国际法、相互尊重和友好睦邻关系的重视，外长补充道。"
+        },
+        {
+          "en": "The foreign minister added that Islamabad would continue pursuing a {{13}} and action-oriented agenda focused on expanding economic cooperation, strengthening regional connectivity and deepening people-to-people exchanges among SCO member states. Highlighting the organization's contribution to regional stability, Dar praised the SCO's role in fostering peace and security, stressing that Pakistan values its collaborative efforts to {{14}} terrorism, separatism and extremism. Beyond security cooperation, the foreign minister welcomed the SCO's initiatives in economic development, digital innovation, energy security and the promotion of national currencies in mutual transactions. According to the foreign minister, Pakistan stands ready to contribute to greater regional cooperation in trade, investment, food security, climate {{15}}, public health, education and sustainable development. Dar also said Pakistan is looking forward to assuming the chairmanship of the SCO Council of Heads of State later this year and hosting the SCO Summit in 2027.",
+          "cn": "外长补充说，伊斯兰堡将继续推行前瞻性和以行动为导向的议程，重点扩大经济合作、加强区域互联互通并深化上合组织成员国间的人文交流。在强调该组织对区域稳定的贡献时，达尔赞扬了上合组织在促进和平与安全方面的作用，并强调巴基斯坦重视其打击恐怖主义、分裂主义和极端主义的合作努力。除安全合作外，外长对上合组织在经济创新、数字创新、能源安全以及推动本币在相互交易中使用等方面的举措表示欢迎。据外长称，巴基斯坦已准备好为贸易、投资、粮食安全、气候韧性、公共卫生、教育和可持续发展等领域的更大区域合作做出贡献。达尔还表示，巴基斯坦期待今年晚些时候担任上合组织国家元首理事会主席国，并于2027年主办上合组织峰会。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "reaffirmed",
+          "hint": "v. 重申",
           "difficulty": "medium"
         },
         {
-          "id": 14,
-          "answer": "decocted",
-          "hint": "v. 煎煮",
+          "id": 1,
+          "answer": "commitment",
+          "hint": "n. 承诺",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "vital",
+          "hint": "adj. 至关重要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "platform",
+          "hint": "n. 平台",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "promoting",
+          "hint": "v. 促进",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "collaboration",
+          "hint": "n. 合作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "milestone",
+          "hint": "n. 里程碑",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "enduring",
+          "hint": "adj. 持久的",
           "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "mutual",
+          "hint": "adj. 相互的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "diversity",
+          "hint": "n. 多样性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "constructive",
+          "hint": "adj. 建设性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "progression",
+          "hint": "n. 进展",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "multilateralism",
+          "hint": "n. 多边主义",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "forward-looking",
+          "hint": "adj. 前瞻性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "combat",
+          "hint": "v. 打击",
+          "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "closed-loop",
-          "hint": "adj. 闭环的",
+          "answer": "resilience",
+          "hint": "n. 韧性",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Pakistan's Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Monday reaffirmed the country's commitment to the Shanghai Cooperation Organization (SCO), describing it as a vital platform for promoting regional cooperation, peace, security and economic development.\nIn a message marking the 25th anniversary of the SCO, Dar congratulated the organization and its member states, noting that the organization has grown into an influential forum for regional collaboration since its establishment in 2001.\n\"The milestone of the 25th anniversary confirms the enduring power of the 'Shanghai Spirit,' which continues to guide us through mutual trust, equality, respect for cultural diversity, shared development and constructive engagement,\" Dar said.\nThe foreign minister noted that Pakistan's progression from an SCO observer to a full member in 2017 reflects its strong commitment to multilateralism and regional cooperation.\nPakistan remains firmly committed to the principles and objectives of the SCO Charter and appreciates the organization's emphasis on international law, mutual respect and good-neighborly relations, added the minister.\nThe foreign minister added that Islamabad would continue pursuing a forward-looking and action-oriented agenda focused on expanding economic cooperation, strengthening regional connectivity and deepening people-to-people exchanges among SCO member states.\nHighlighting the organization's contribution to regional stability, Dar praised the SCO's role in fostering peace and security, stressing that Pakistan values its collaborative efforts to combat terrorism, separatism and extremism.\nBeyond security cooperation, the foreign minister welcomed the SCO's initiatives in economic development, digital innovation, energy security and the promotion of national currencies in mutual transactions.\nAccording to the foreign minister, Pakistan stands ready to contribute to greater regional cooperation in trade, investment, food security, climate resilience, public health, education and sustainable development.\nDar also said Pakistan is looking forward to assuming the chairmanship of the SCO Council of Heads of State later this year and hosting the SCO Summit in 2027.",
+      "fullTextCn": "巴基斯坦副总理兼外交部长穆罕默德·伊沙克·达尔周一重申了该国对上海合作组织的承诺，称其为促进区域合作、和平、安全与经济发展的重要平台。在纪念上合组织成立25周年的致辞中，达尔向该组织及其成员国表示祝贺，指出该组织自2001年成立以来已发展成为区域合作的重要论坛。达尔表示：“25周年里程碑印证了‘上海精神’的持久力量，它继续以互信、平等、尊重文化多样性、共同发展和建设性接触指引我们。”外长指出，巴基斯坦从2017年由上合组织观察员国晋升为正式成员国，体现了其对多边主义和区域合作的坚定承诺。巴基斯坦仍坚定致力于《上合组织宪章》的原则和目标，并赞赏该组织对国际法、相互尊重和友好睦邻关系的重视，外长补充道。\n\n外长补充说，伊斯兰堡将继续推行前瞻性和以行动为导向的议程，重点扩大经济合作、加强区域互联互通并深化上合组织成员国间的人文交流。在强调该组织对区域稳定的贡献时，达尔赞扬了上合组织在促进和平与安全方面的作用，并强调巴基斯坦重视其打击恐怖主义、分裂主义和极端主义的合作努力。除安全合作外，外长对上合组织在经济创新、数字创新、能源安全以及推动本币在相互交易中使用等方面的举措表示欢迎。据外长称，巴基斯坦已准备好为贸易、投资、粮食安全、气候韧性、公共卫生、教育和可持续发展等领域的更大区域合作做出贡献。达尔还表示，巴基斯坦期待今年晚些时候担任上合组织国家元首理事会主席国，并于2027年主办上合组织峰会。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-18/South-China-responds-to-flooding-as-torrential-rains-continue-1O4W3mgpPGg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "South China responds to flooding as torrential rains continue",
+      "titleCn": "华南地区持续暴雨引发洪涝，各地积极应对",
+      "summary": "South China responds to flooding as torrential rains continue",
+      "summaryCn": "华南多省持续暴雨导致城市内涝、海水倒灌和山体滑坡，当地政府启动应急响应并展开救援。",
+      "wordCount": 307,
+      "paragraphs": [
+        {
+          "en": "Floodwater is {{0}} from Huangniupu Reservoir following {{1}} upstream rainfall in Dongguan, Guangdong Province, south China, June 17, 2026. Heavy rainfall continues to affect parts of southern China in recent days, with provincial regions hit by {{2}} downpours on Wednesday. Local authorities launched {{3}} response measures, carrying out {{4}} operations and efforts to {{5}} residents' daily lives. Urban areas are flooded in Guigang, Guangxi Zhuang Autonomous Region, south China, June 17, 2026. /China Media Group\nIn Guigang, Guangxi Zhuang Autonomous Region, days of heavy rainfall caused {{6}} urban flooding, with rivers {{7}} and {{8}} systems operating at full capacity.",
+          "cn": "2026年6月17日，中国南方广东省东莞市黄牛埔水库因上游持续降雨而开闸泄洪。近日，强降雨持续影响华南部分地区，周三多个省份遭遇暴雨袭击。当地政府启动应急响应措施，开展救援行动，努力保障居民日常生活。2026年6月17日，中国南方广西壮族自治区贵港市城区出现内涝。/中央广播电视总台\n在广西壮族自治区贵港市，连日强降雨导致大范围城市内涝，河流水位上涨，排水系统满负荷运行。"
+        },
+        {
+          "en": "Emergency {{9}} carried out drainage and rescue work, while firefighters {{10}} high-capacity pumps in affected neighborhoods where more than 100 households were {{11}}. Rescue operations are underway in Beihai, Guangxi Zhuang Autonomous Region, south China, June 17, 2026. /China Media Group\nIn Beihai, Guangxi, {{12}} high tides combined with continuous rainfall caused seawater {{13}} and flooding on some low-lying coastal roads. Water levels at several monitoring stations exceeded warning {{14}}, prompting authorities to issue alerts and {{15}} traffic. Floodwaters gradually {{16}} as rescue and recovery efforts continue in Lufeng, Guangdong Province, south China, June 17, 2026.",
+          "cn": "应急人员开展排水和救援工作，消防员在受影响社区部署大功率水泵，超过100户居民受到影响。2026年6月17日，中国南方广西壮族自治区北海市正在开展救援行动。/中央广播电视总台\n在广西北海，天文大潮与持续降雨叠加，导致部分低洼沿海道路出现海水倒灌和洪涝。多个监测站水位超过警戒线，促使当局发布警报并疏导交通。2026年6月17日，中国南方广东省陆丰市，洪水逐渐退去，救援和恢复工作仍在继续。"
+        },
+        {
+          "en": "/China Media Group\nIn Lufeng, Guangdong Province, floodwaters triggered by days of intense rainfall have gradually receded. Authorities are continuing drainage, cleanup, {{17}} supply {{18}} and {{19}}-prevention measures. As of 6 p.m. on Wednesday, authorities had set up 21 temporary {{20}} in Jiaxi Town, Lufeng, and {{21}} 496 residents. A {{22}} occurs along a provincial highway in Ningde, Fujian Province, southeast China, June 17, 2026.",
+          "cn": "/中央广播电视总台\n在广东省陆丰市，连日强降雨引发的洪水已逐渐退去。当局继续开展排水、清淤、救灾物资分发和防疫措施。截至周三下午6时，陆丰市甲西镇已设立21个临时安置点，转移安置居民496人。2026年6月17日，中国东南部福建省宁德市一条省道发生山体滑坡。"
+        },
+        {
+          "en": "/China Media Group\nIn Ningde, Fujian Province, persistent rainfall saturated the soil and triggered a landslide on a section of Provincial Highway 207 on Wednesday, temporarily disrupting traffic. After more than five hours of emergency clearance work, the road was reopened to two-way traffic later that day.",
+          "cn": "/中央广播电视总台\n在福建省宁德市，持续降雨导致土壤饱和，周三在207省道一段引发山体滑坡，交通一度中断。经过五个多小时的紧急抢通，该路段于当天晚些时候恢复双向通行。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "discharged",
+          "hint": "v. 排放",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "persistent",
+          "hint": "adj. 持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "torrential",
+          "hint": "adj. 倾盆的",
           "difficulty": "hard"
         },
         {
-          "id": 16,
+          "id": 3,
+          "answer": "emergency",
+          "hint": "n. 紧急情况",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "rescue",
+          "hint": "n. 救援",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "safeguard",
+          "hint": "v. 保护",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "widespread",
+          "hint": "adj. 广泛的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "swelling",
+          "hint": "v. 上涨",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "drainage",
+          "hint": "n. 排水系统",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "crews",
+          "hint": "n. 工作人员",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
           "answer": "deployed",
           "hint": "v. 部署",
           "difficulty": "medium"
         },
         {
-          "id": 17,
-          "answer": "algorithms",
-          "hint": "n. 算法",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "correspondent",
-          "hint": "n. 记者",
+          "id": 11,
+          "answer": "impacted",
+          "hint": "v. 影响",
           "difficulty": "easy"
         },
         {
+          "id": 12,
+          "answer": "astronomical",
+          "hint": "adj. 天文的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "inundation",
+          "hint": "n. 淹没",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "thresholds",
+          "hint": "n. 阈值",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "redirect",
+          "hint": "v. 疏导",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "recede",
+          "hint": "v. 退去",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "relief",
+          "hint": "n. 救济",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "distribution",
+          "hint": "n. 分发",
+          "difficulty": "medium"
+        },
+        {
           "id": 19,
-          "answer": "fusion",
-          "hint": "n. 融合",
+          "answer": "epidemic",
+          "hint": "n. 流行病",
           "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "intangible",
-          "hint": "adj. 无形的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "formats",
-          "hint": "n. 业态",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "interactive",
-          "hint": "adj. 互动的",
+          "answer": "shelters",
+          "hint": "n. 避难所",
           "difficulty": "easy"
         },
         {
-          "id": 23,
-          "answer": "tailored",
-          "hint": "v. 定制",
+          "id": 21,
+          "answer": "relocated",
+          "hint": "v. 转移",
           "difficulty": "medium"
         },
         {
-          "id": 24,
-          "answer": "wellness",
-          "hint": "n. 养生",
+          "id": 22,
+          "answer": "landslide",
+          "hint": "n. 山体滑坡",
           "difficulty": "medium"
         }
       ],
-      "fullText": "(ECNS) – With a few taps on the screen of a Traditional Chinese Medicine (TCM) four-diagnostic instrument, data on the body's meridian status, constitution type and potential health issues are delivered to the user's mobile phone within minutes, along with a personalized health regimen.\nAt the TCM Street in Bishan District of Chongqing, this smart device integrates modern AI technology with vast clinical experience, based on traditional TCM theories.\nIt combines inquiry, pulse-taking, tongue diagnosis, facial diagnosis and olfactory diagnosis to automatically collect and analyze physical signs, complete diagnosis and generate results.\nAs the core venue for Bishan's national demonstration project on the inheritance and innovative development of TCM, the street now houses more than 40 merchants, exploring a new \"cultural tourism + TCM\" development path.\nLiu Lin, a renowned TCM practitioner of Bishan District, consults patients on-site. Liu said the street regularly invites nationally renowned TCM experts and university specialists for consultations. The street also provides free delivery of decocted herbs, a service that reduces the burden on patients.\nUsing a digital and smart TCM platform, the street has created a closed-loop service system integrating online and offline channels. Online, the platform connects more than 20,000 TCM experts nationwide, enabling patients to access quality TCM resources at home. Offline, smart devices such as meridian detectors, infrared thermal imagers, and intelligent moxibustion robots are deployed, combining AI algorithms with classic TCM theories.\n\"Within minutes, the smart device identifies health issues and makes TCM wellness easy to understand,\" said Yao Weimin, special correspondent of China Times (Netherlands), who tried the system on Tuesday.\nYao said the health regimen provided by the smart system was scientific and practical, and he was impressed by the fusion of TCM and digital technology.\nCurrently, the TCM Street in Bishan integrates AI technology, intangible cultural heritage TCM, and cultural tourism and leisure, bringing together more than 30 featured business formats.\nThe TCM Fun Experience Hall offers 24 solar terms health education programs and other interactive exhibits suitable for all ages. The Chongqing Bashu Folk TCM Museum regularly organizes herb identification and Baduanjin qigong teaching sessions. The street has also developed TCM wellness products tailored for younger consumers.",
-      "fullTextCn": "（中新网）只需在中医四诊仪的屏幕上轻点几下，关于身体经络状态、体质类型及潜在健康问题的数据，便会在几分钟内发送到用户手机上，同时附上一份个性化健康方案。在重庆璧山区的中医街，这款智能设备基于传统中医理论，将现代AI技术与大量临床经验相结合。它整合了问诊、脉诊、舌诊、面诊和闻诊，自动采集和分析体征，完成诊断并生成结果。作为璧山国家级中医药传承创新发展示范项目的核心场所，这条街现已入驻40多家商户，探索“文旅+中医”的新发展路径。璧山区名中医刘琳在现场为患者看诊。\n\n刘琳表示，这条街定期邀请全国知名中医专家和高校专家前来坐诊。街道还提供免费代煎中药并配送上门服务，减轻了患者负担。通过数字化、智能化的中医平台，这条街打造了线上线下融合的闭环服务体系。线上，平台连接全国2万多名中医专家，让患者足不出户即可享受优质中医资源。线下，部署了经络检测仪、红外热成像仪、智能艾灸机器人等智能设备，将AI算法与经典中医理论相结合。\n\n“几分钟内，智能设备就能识别健康问题，让中医养生变得通俗易懂，”来自荷兰的《中国时报》特约记者姚伟民在周二体验该系统后说道。姚伟民表示，智能系统提供的健康方案科学实用，他对中医与数字技术的融合印象深刻。目前，璧山中医街融合了AI技术、非物质文化遗产中医、文旅休闲，汇聚了30多种特色业态。中医趣味体验馆提供24节气养生教育项目及其他适合各年龄段的互动展品。重庆巴蜀民间中医博物馆定期组织草药辨识和八段锦气功教学课程。\n\n这条街还开发了针对年轻消费者的中医养生产品。"
+      "fullText": "Floodwater is discharged from Huangniupu Reservoir following persistent upstream rainfall in Dongguan, Guangdong Province, south China, June 17, 2026. \nHeavy rainfall continues to affect parts of southern China in recent days, with provincial regions hit by torrential downpours on Wednesday. Local authorities launched emergency response measures, carrying out rescue operations and efforts to safeguard residents' daily lives.\nUrban areas are flooded in Guigang, Guangxi Zhuang Autonomous Region, south China, June 17, 2026. /China Media Group\nIn Guigang, Guangxi Zhuang Autonomous Region, days of heavy rainfall caused widespread urban flooding, with rivers swelling and drainage systems operating at full capacity.\nEmergency crews carried out drainage and rescue work, while firefighters deployed high-capacity pumps in affected neighborhoods where more than 100 households were impacted.\nRescue operations are underway in Beihai, Guangxi Zhuang Autonomous Region, south China, June 17, 2026. /China Media Group\nIn Beihai, Guangxi, astronomical high tides combined with continuous rainfall caused seawater inundation and flooding on some low-lying coastal roads.\nWater levels at several monitoring stations exceeded warning thresholds, prompting authorities to issue alerts and redirect traffic.\nFloodwaters gradually recede as rescue and recovery efforts continue in Lufeng, Guangdong Province, south China, June 17, 2026. /China Media Group\nIn Lufeng, Guangdong Province, floodwaters triggered by days of intense rainfall have gradually receded. Authorities are continuing drainage, cleanup, relief supply distribution and epidemic-prevention measures.\nAs of 6 p.m. on Wednesday, authorities had set up 21 temporary shelters in Jiaxi Town, Lufeng, and relocated 496 residents.\nA landslide occurs along a provincial highway in Ningde, Fujian Province, southeast China, June 17, 2026. /China Media Group\nIn Ningde, Fujian Province, persistent rainfall saturated the soil and triggered a landslide on a section of Provincial Highway 207 on Wednesday, temporarily disrupting traffic. After more than five hours of emergency clearance work, the road was reopened to two-way traffic later that day.",
+      "fullTextCn": "2026年6月17日，中国南方广东省东莞市黄牛埔水库因上游持续降雨而开闸泄洪。近日，强降雨持续影响华南部分地区，周三多个省份遭遇暴雨袭击。当地政府启动应急响应措施，开展救援行动，努力保障居民日常生活。2026年6月17日，中国南方广西壮族自治区贵港市城区出现内涝。/中央广播电视总台\n在广西壮族自治区贵港市，连日强降雨导致大范围城市内涝，河流水位上涨，排水系统满负荷运行。\n\n应急人员开展排水和救援工作，消防员在受影响社区部署大功率水泵，超过100户居民受到影响。2026年6月17日，中国南方广西壮族自治区北海市正在开展救援行动。/中央广播电视总台\n在广西北海，天文大潮与持续降雨叠加，导致部分低洼沿海道路出现海水倒灌和洪涝。多个监测站水位超过警戒线，促使当局发布警报并疏导交通。2026年6月17日，中国南方广东省陆丰市，洪水逐渐退去，救援和恢复工作仍在继续。\n\n/中央广播电视总台\n在广东省陆丰市，连日强降雨引发的洪水已逐渐退去。当局继续开展排水、清淤、救灾物资分发和防疫措施。截至周三下午6时，陆丰市甲西镇已设立21个临时安置点，转移安置居民496人。2026年6月17日，中国东南部福建省宁德市一条省道发生山体滑坡。\n\n/中央广播电视总台\n在福建省宁德市，持续降雨导致土壤饱和，周三在207省道一段引发山体滑坡，交通一度中断。经过五个多小时的紧急抢通，该路段于当天晚些时候恢复双向通行。"
     }
   ]
 }
