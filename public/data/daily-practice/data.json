@@ -1,515 +1,740 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "articles": [
     {
       "id": 1,
-      "category": "technology",
+      "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-16/How-is-climate-tech-preparing-for-El-Nino-s-return--1O1CvelQi9q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "How is climate tech preparing for El Nino's return?",
-      "titleCn": "气候科技如何为厄尔尼诺的回归做准备？",
-      "summary": "How is climate tech preparing for El Nino's return?",
-      "summaryCn": "随着厄尔尼诺现象可能回归，各国正利用AI等先进技术加强天气预报和灾害应对能力。",
-      "wordCount": 495,
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-06-18/Where-discarded-fabric-becomes-art-1O1SkkqMuoo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Where discarded fabric becomes art",
+      "titleCn": "废弃布料变身艺术",
+      "summary": "Known professionally as Kharsh, Kiswili has built a distinctive artistic practice around sustainability and storytelling. His portraits and illustrations are assembled from materials sourced from local tailoring shops, workshops, and factories across Nairobi.",
+      "summaryCn": "肯尼亚艺术家Cyprian Kiswili利用废弃布料创作肖像和插画，通过混合媒介讲述文化、身份和日常生活的故事，并激励年轻创意者。",
+      "wordCount": 811,
       "paragraphs": [
         {
-          "en": "The San Gabriel River floods near the Good Water RV Park and the Shady River RV Resort in Georgetown, Texas, US, May 27, 2026. The world is {{0}} for the return of El Nino, a climate {{1}} that could {{2}} {{3}} weather and push global temperatures even higher. According to the World Meteorological Organization, there is an 80% chance that El Nino conditions will develop between June and August 2026, with the {{4}} rising to more than 90% through at least November. Most forecast models suggest the event could reach {{5}} to strong {{6}}. UN Secretary-General Antonio Guterres warned that El Nino would \"pour fuel on the fire of a warming world\" and stressed that early warning systems are essential to protecting {{7}} communities from climate-related disasters.",
-          "cn": "2026年5月27日，美国德克萨斯州乔治敦，圣盖博河在Good Water房车公园和Shady River房车度假村附近泛滥。全球正在为厄尔尼诺的回归做准备，这种气候现象可能加剧极端天气，并将全球气温推得更高。据世界气象组织称，2026年6月至8月间出现厄尔尼诺条件的概率为80%，到11月前概率将升至90%以上。大多数预测模型显示，该事件可能达到中等至强强度。联合国秘书长安东尼奥·古特雷斯警告说，厄尔尼诺将“给变暖的世界火上浇油”，并强调早期预警系统对于保护脆弱社区免受气候相关灾害至关重要。"
+          "en": ", Updated 21:54, 19-Jun-2026At first glance, the portrait appears to be a painting. Rich {{0}}, {{1}} colors, and {{2}} details draw the viewer in. But look closer, and a different story begins to emerge. The artwork is not painted. It is crafted from {{3}} fabric.",
+          "cn": "乍一看，这幅肖像画像是一幅油画。丰富的纹理、鲜艳的色彩和复杂的细节吸引着观众。但仔细看，一个不同的故事开始浮现。这件艺术品不是画出来的，而是用废弃布料制成的。"
         },
         {
-          "en": "As countries prepare for potentially more frequent heatwaves, floods and droughts, artificial intelligence (AI) is increasingly becoming a key tool in climate {{8}}. China has been developing a new {{9}} of AI-powered weather forecasting systems, including the \"Feng\" or \"Wind\" series (Fengqing, Fenglei, Fengshun and Fengyuan) of meteorological models. Fengqing is a global medium‑range model that produces 10.5‑day forecasts within three minutes and has been {{10}} nationwide. Fenglei is a nowcasting model that directly predicts {{11}} {{12}}, improving heavy rain forecasts by 25% and {{13}} lead time to three hours. It supports four‑tier severe weather warnings.",
-          "cn": "随着各国为可能更频繁的热浪、洪水和干旱做准备，人工智能正日益成为气候适应的关键工具。中国一直在开发新一代AI驱动的天气预报系统，包括“风”系列气象模型（风清、风雷、风顺和风源）。风清是一个全球中期模型，能在三分钟内生成10.5天的预报，并已在全国范围内投入运行。风雷是一个临近预报模型，可直接预测定量降水，将强降雨预报准确率提高25%，并将预警时间延长至三小时。它支持四级恶劣天气预警。"
+          "en": "For Nairobi-based artist Cyprian Kiswili, every {{4}} of cloth carries {{5}} potential. What others see as waste, he transforms into powerful visual {{6}} that celebrate people, places, and African {{7}}. \"My art is mixed media,\" Kiswili said during an interview. \"It's mostly a combination of two or three different types of media. I explore recycled fabrics and newsprints to bring out different subjects.\"\nKnown professionally as Kharsh, Kiswili has built a distinctive artistic practice around {{8}} and storytelling.",
+          "cn": "对于内罗毕艺术家Cyprian Kiswili来说，每一块布头都蕴藏着未被开发的潜力。别人眼中的废物，被他转化为强有力的视觉叙事，赞美人物、地点和非洲身份。“我的艺术是混合媒介，”Kiswili在采访中说，“主要是两种或三种不同媒介的结合。我探索回收布料和新闻纸来呈现不同的主题。”他以艺名Kharsh闻名，围绕可持续性和叙事建立了独特的艺术实践。"
         },
         {
-          "en": "Fengshun is a {{14}}‑to‑seasonal model with 0.25-degree {{15}} and {{16}} in international competitions. Fengyuan is a scientific AI base model {{17}} data {{18}} and forecasting, serving as an open research and innovation platform. Together, the series addresses {{19}} needs – from disaster prevention to {{20}} energy and {{21}} – and marks China's fully independent, end‑to‑end AI forecasting capability. China has also launched the MAZU Early Warning Cloud Platform, a national-level solution supporting the United Nations' \"Early Warnings for All\" {{22}}. The platform integrates meteorological {{23}}, risk {{24}}, and disaster alerts and has been introduced in countries including Pakistan, Mongolia and Sri Lanka, helping {{25}} local disaster preparedness.",
-          "cn": "风顺是一个次季节到季节模型，分辨率为0.25度，在国际竞赛中表现出色。风源是一个科学AI基础模型，集成了数据同化和预报功能，作为一个开放的研究与创新平台。该系列共同满足了从防灾到可再生能源和航空等多样化需求，标志着中国完全自主的端到端AI预报能力。中国还推出了“妈祖”早期预警云平台，这是一个支持联合国“全民早期预警”倡议的国家级解决方案。该平台集成了气象监测、风险评估和灾害警报，并已在巴基斯坦、蒙古和斯里兰卡等国家推广，帮助加强当地的灾害准备。"
+          "en": "His portraits and illustrations are {{9}} from materials sourced from local tailoring shops, workshops, and factories across Kenya's capital, Nairobi. The discarded fabrics are carefully collected, sorted, washed and selected before finding their place in his {{10}}. Through his unique mixed-media approach, he combines vibrant African patterns, urban influences, and storytelling to create visually {{11}} pieces that celebrate culture, identity, and everyday life. \"I know some factories where I can collect fabric waste,\" he explains. \"I wash them, dry them, and then select pieces depending on what I'm creating.",
+          "cn": "他的肖像和插画由来自肯尼亚首都内罗毕当地裁缝店、作坊和工厂的材料组装而成。废弃布料经过仔细收集、分类、清洗和挑选，然后在他的作品中找到位置。通过独特的混合媒介方法，他结合了充满活力的非洲图案、城市影响和叙事，创作出视觉上引人入胜的作品，赞美文化、身份和日常生活。“我知道一些工厂可以收集布料废料，”他解释道，“我清洗、晾干，然后根据创作内容挑选布料。我把它们与颜料结合，讲述我想说的故事。”"
         },
         {
-          "en": "Other countries are also turning to advanced technologies to {{26}} with climate risks associated with El Nino. In the United States, the National Oceanic and Atmospheric Administration uses AI-{{27}} forecasting systems and climate models to improve seasonal outlooks and extreme weather predictions. Australia's Bureau of Meteorology has expanded its climate monitoring and forecasting capabilities as the country faces heightened risks of drought, heat waves and bushfires during El Nino years. Meanwhile, the European Union has expanded the use of advanced climate forecasting through the European Center for Medium-Range Weather Forecasts (ECMWF) and the Copernicus Climate Change Service. These platforms combine satellite observations, AI-assisted modeling and high-performance computing to provide seasonal forecasts that help governments prepare for El Nino-related heatwaves, droughts and extreme rainfall events.",
-          "cn": "其他国家也在转向先进技术，以应对与厄尔尼诺相关的气候风险。在美国，国家海洋和大气管理局使用AI增强的预报系统和气候模型，以改进季节性展望和极端天气预测。澳大利亚气象局扩大了其气候监测和预报能力，因为该国在厄尔尼诺年份面临干旱、热浪和丛林火灾的风险增加。与此同时，欧盟通过欧洲中期天气预报中心和哥白尼气候变化服务扩大了先进气候预报的使用。这些平台结合了卫星观测、AI辅助建模和高性能计算，提供季节性预报，帮助政府为厄尔尼诺相关的热浪、干旱和极端降雨事件做准备。"
+          "en": "I combine them with paint to tell the story I want.\"\nHis {{12}} often comes from everyday life. \"I get a lot of inspiration around people. That's why you'll find many of my artworks are portraits or inspired by people and places,\" he said. Cyclist artwork by Cyprian Kiswili, crafted from recycled African fabrics in Nairobi, Kenya, March 26, 2025. /Cyprian Kiswili\nLong before the glamor of galleries and exhibitions, Kiswili's artistic journey began in {{13}}.",
+          "cn": "他的灵感常来自日常生活。“我从人们身上获得很多灵感。这就是为什么你会发现我的许多作品是肖像画，或受人物和地点启发，”他说。早在画廊和展览的光环之前，Kiswili的艺术之旅始于孤独。作为独生子，他大部分空闲时间都在画画和素描。起初是消遣，逐渐显露出天赋。“我意识到自己确实擅长这个，”他回忆道，“在小学时，我就决定要全身心投入这个领域。”"
         },
         {
-          "en": "As El Nino approaches, scientists say the challenge is no longer simply forecasting the weather but translating climate information into timely action. Around the world, technology is becoming an increasingly important line of defense against a warming and more {{28}} climate.",
-          "cn": "随着厄尔尼诺的临近，科学家表示，挑战已不再是简单地预报天气，而是将气候信息转化为及时的行动。在全球范围内，技术正日益成为抵御变暖和更不稳定气候的重要防线。"
+          "en": "As an only child, he spent much of his free time drawing and sketching. What started as a pastime gradually revealed itself as a talent. \"I realized I was actually getting good at it,\" he recalls. \"When I was in primary school, I decided that was what I wanted to {{14}} fully.\"\nThat decision eventually led him to study design at the University of Nairobi, where he earned both a Bachelor's and Master's degrees in Design. Yet choosing art as a career path was not without challenges.",
+          "cn": "这个决定最终让他进入内罗毕大学学习设计，获得了设计学士和硕士学位。然而，选择艺术作为职业道路并非没有挑战。像肯尼亚许多年轻创意者一样，Kiswili面临社会压力，要求他从事更传统的职业。大学期间，他参加了一场运动鞋设计比赛，成为转折点。“我们一路进入布拉格的决赛，最终我成为总冠军，”他说。2019年Bata青年设计师挑战赛的胜利不仅带来了国际认可，还验证了他对创意职业可能性的信念。"
+        },
+        {
+          "en": "Like many young creatives in Kenya, Kiswili faced societal pressure to pursue more {{15}} professions. A turning point came during his university years when he entered a sneaker design competition. \"We went all the way to the finals in Prague, and I ended up being the overall winner,\" he said.. The victory in the 2019 Bata Young Designers Challenge provided more than just international recognition. It {{16}} his belief that a career in creativity was possible.",
+          "cn": "“感觉那里有我可以真正推动的东西。”如今，艺术不再是副业，而是Kiswili的全职职业。他的历程反映了年轻非洲创意者日益增长的转变，他们越来越倾向于全身心投入自己的手艺。“确实有转变，”他观察到，“我看到朋友和同行艺术家辞去很好的工作，专注于艺术。这很美，因为一旦你对某事真正充满热情，最终总会有回报。”"
+        },
+        {
+          "en": "\"It felt like there was something there that I could really push.\"\nA pair of shoes reimagined through recycled newspaper art by Cyprian Kiswili in Nairobi, Kenya, July 17, 2025. /Cyprian Kiswili\nToday, art is no longer a side project. It is Kiswili's full-time profession. His journey mirrors a growing {{17}} among young African creatives who are increasingly choosing to invest fully in their craft. \"There has been a shift,\" he observes.",
+          "cn": "这份奉献为他赢得了本地和国际认可。除了Bata青年设计师挑战赛，他还赢得了2022年Artcaffé城市艺术比赛和2023年Dell袖套设计挑战赛。他的作品在主要文化空间展出，并被私人收藏，吸引了全球越来越多的收藏家群体。尽管荣誉众多，Kiswili仍专注于一件事：叙事。"
+        },
+        {
+          "en": "\"I've seen friends and fellow artists leave very good jobs to focus on their art. It's beautiful because once you're truly {{18}} about something, eventually something gives.\"\nThat dedication has earned him recognition both locally and internationally. In addition to the Bata Young Designers Challenge, he won the Artcaffé Art of the City competition in 2022 and the Dell Sleeve Design Challenge in 2023. His work has been exhibited in leading cultural spaces and is held in private collections, attracting a growing community of collectors around the world. Storytelling beyond the canvas\nDespite the accolades, Kiswili remains focused on one thing: storytelling.",
+          "cn": "他的最新项目包括为东非第一家咖啡博物馆创作插画，用艺术追溯咖啡跨越大陆和世纪的旅程。“会有不同时期的插画，展示咖啡是如何被发现并传播到世界各地的，”他解释道，“这是通过插画讲故事。”无论是用布料、颜料还是纸张，目标始终如一：保存故事，让观众与历史、文化和身份产生联系。"
+        },
+        {
+          "en": "His latest projects include illustrations for East Africa's first coffee museum, where he uses art to trace coffee's journey across continents and centuries. \"There'll be illustrations set in different periods showing how coffee was discovered and how it spread around the world,\" he explains. \"It's storytelling through illustrations.\"\nWhether working with fabric, paint, or paper, the goal remains the same; to preserve stories and connect audiences to history, culture, and identity. Artist Cyprian Kiswili with his artwork at a Nairobi coffee shop in Nairobi, Kenya, June 15, 2026. Africa\nFor Kiswili, success is not measured solely by awards or exhibitions.",
+          "cn": "对Kiswili来说，成功不仅仅由奖项或展览来衡量。他的愿景超越个人成就。他希望自己的作品能继续触及更广泛的观众，同时激励下一代创意者。“我希望我的艺术能在更大规模上与更多人产生共鸣。我也希望指导许多年轻艺术家，”他说。在一个与浪费和过度消费作斗争的世界里，Cyprian Kiswili的作品提供了不同的视角。"
+        },
+        {
+          "en": "His vision extends beyond personal achievement. He hopes his work will continue to reach wider audiences while inspiring the next generation of creatives. \"I hope my art connects with more people on a larger scale than it has before. And I also hope to {{19}} a lot of young artists,\" he said. In a world grappling with waste and overconsumption, Cyprian Kiswili's work offers a different perspective.",
+          "cn": "通过想象力、耐心和目的，废弃布料变成艺术，废物变成叙事，被遗忘的材料找到第二次生命。"
+        },
+        {
+          "en": "Through imagination, patience, and purpose, discarded fabric becomes art, waste becomes storytelling, and forgotten materials find a second life.",
+          "cn": ""
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "bracing",
-          "hint": "v. 准备迎接",
+          "answer": "textures",
+          "hint": "n. 纹理",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "phenomenon",
-          "hint": "n. 现象",
+          "answer": "vibrant",
+          "hint": "adj. 充满活力的",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "intensify",
-          "hint": "v. 加剧",
-          "difficulty": "medium"
+          "answer": "intricate",
+          "hint": "adj. 复杂的",
+          "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "extreme",
-          "hint": "adj. 极端的",
-          "difficulty": "easy"
+          "answer": "discarded",
+          "hint": "adj. 废弃的",
+          "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "probability",
-          "hint": "n. 概率",
+          "answer": "scrap",
+          "hint": "n. 碎片",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "moderate",
-          "hint": "adj. 中等的",
-          "difficulty": "medium"
+          "answer": "untapped",
+          "hint": "adj. 未开发的",
+          "difficulty": "hard"
         },
         {
           "id": 6,
-          "answer": "intensity",
-          "hint": "n. 强度",
+          "answer": "narratives",
+          "hint": "n. 叙事",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "vulnerable",
-          "hint": "adj. 脆弱的",
-          "difficulty": "medium"
+          "answer": "identity",
+          "hint": "n. 身份",
+          "difficulty": "easy"
         },
         {
           "id": 8,
-          "answer": "adaptation",
-          "hint": "n. 适应",
+          "answer": "sustainability",
+          "hint": "n. 可持续性",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "generation",
-          "hint": "n. 代",
-          "difficulty": "easy"
+          "answer": "assembled",
+          "hint": "v. 组装",
+          "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "operationalized",
-          "hint": "v. 投入运行",
-          "difficulty": "hard"
+          "answer": "compositions",
+          "hint": "n. 作品",
+          "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "quantitative",
-          "hint": "adj. 定量的",
+          "answer": "compelling",
+          "hint": "adj. 引人入胜的",
           "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "precipitation",
-          "hint": "n. 降水",
-          "difficulty": "hard"
+          "answer": "inspiration",
+          "hint": "n. 灵感",
+          "difficulty": "easy"
         },
         {
           "id": 13,
-          "answer": "extending",
-          "hint": "v. 延长",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "subseasonal",
-          "hint": "adj. 次季节的",
+          "answer": "solitude",
+          "hint": "n. 孤独",
           "difficulty": "hard"
         },
         {
+          "id": 14,
+          "answer": "pursue",
+          "hint": "v. 追求",
+          "difficulty": "easy"
+        },
+        {
           "id": 15,
-          "answer": "resolution",
-          "hint": "n. 分辨率",
+          "answer": "conventional",
+          "hint": "adj. 传统的",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "excels",
-          "hint": "v. 擅长",
+          "answer": "validated",
+          "hint": "v. 验证",
           "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "integrating",
-          "hint": "v. 整合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "assimilation",
-          "hint": "n. 同化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "diverse",
-          "hint": "adj. 多样的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "renewable",
-          "hint": "adj. 可再生的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "aviation",
-          "hint": "n. 航空",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "initiative",
-          "hint": "n. 倡议",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "monitoring",
-          "hint": "n. 监测",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "assessment",
-          "hint": "n. 评估",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "strengthen",
-          "hint": "v. 加强",
+          "answer": "shift",
+          "hint": "n. 转变",
           "difficulty": "easy"
         },
         {
-          "id": 26,
-          "answer": "cope",
-          "hint": "v. 应对",
+          "id": 18,
+          "answer": "passionate",
+          "hint": "adj. 充满热情的",
           "difficulty": "medium"
         },
         {
-          "id": 27,
-          "answer": "enhanced",
-          "hint": "adj. 增强的",
+          "id": 19,
+          "answer": "mentor",
+          "hint": "v. 指导",
           "difficulty": "medium"
-        },
-        {
-          "id": 28,
-          "answer": "volatile",
-          "hint": "adj. 不稳定的",
-          "difficulty": "hard"
         }
       ],
-      "fullText": "The San Gabriel River floods near the Good Water RV Park and the Shady River RV Resort in Georgetown, Texas, US, May 27, 2026. \nThe world is bracing for the return of El Nino, a climate phenomenon that could intensify extreme weather and push global temperatures even higher.\nAccording to the World Meteorological Organization, there is an 80% chance that El Nino conditions will develop between June and August 2026, with the probability rising to more than 90% through at least November. Most forecast models suggest the event could reach moderate to strong intensity.\nUN Secretary-General Antonio Guterres warned that El Nino would \"pour fuel on the fire of a warming world\" and stressed that early warning systems are essential to protecting vulnerable communities from climate-related disasters.\nAs countries prepare for potentially more frequent heatwaves, floods and droughts, artificial intelligence (AI) is increasingly becoming a key tool in climate adaptation.\nChina has been developing a new generation of AI-powered weather forecasting systems, including the \"Feng\" or \"Wind\" series (Fengqing, Fenglei, Fengshun and Fengyuan) of meteorological models.\nFengqing is a global medium‑range model that produces 10.5‑day forecasts within three minutes and has been operationalized nationwide. Fenglei is a nowcasting model that directly predicts quantitative precipitation, improving heavy rain forecasts by 25% and extending lead time to three hours. It supports four‑tier severe weather warnings. Fengshun is a subseasonal‑to‑seasonal model with 0.25-degree resolution and excels in international competitions. Fengyuan is a scientific AI base model integrating data assimilation and forecasting, serving as an open research and innovation platform. Together, the series addresses diverse needs – from disaster prevention to renewable energy and aviation – and marks China's fully independent, end‑to‑end AI forecasting capability.\nChina has also launched the MAZU Early Warning Cloud Platform, a national-level solution supporting the United Nations' \"Early Warnings for All\" initiative. The platform integrates meteorological monitoring, risk assessment, and disaster alerts and has been introduced in countries including Pakistan, Mongolia and Sri Lanka, helping strengthen local disaster preparedness.\nOther countries are also turning to advanced technologies to cope with climate risks associated with El Nino.\nIn the United States, the National Oceanic and Atmospheric Administration uses AI-enhanced forecasting systems and climate models to improve seasonal outlooks and extreme weather predictions.\nAustralia's Bureau of Meteorology has expanded its climate monitoring and forecasting capabilities as the country faces heightened risks of drought, heat waves and bushfires during El Nino years.\nMeanwhile, the European Union has expanded the use of advanced climate forecasting through the European Center for Medium-Range Weather Forecasts (ECMWF) and the Copernicus Climate Change Service. These platforms combine satellite observations, AI-assisted modeling and high-performance computing to provide seasonal forecasts that help governments prepare for El Nino-related heatwaves, droughts and extreme rainfall events.\nAs El Nino approaches, scientists say the challenge is no longer simply forecasting the weather but translating climate information into timely action. Around the world, technology is becoming an increasingly important line of defense against a warming and more volatile climate.",
-      "fullTextCn": "2026年5月27日，美国德克萨斯州乔治敦，圣盖博河在Good Water房车公园和Shady River房车度假村附近泛滥。全球正在为厄尔尼诺的回归做准备，这种气候现象可能加剧极端天气，并将全球气温推得更高。据世界气象组织称，2026年6月至8月间出现厄尔尼诺条件的概率为80%，到11月前概率将升至90%以上。大多数预测模型显示，该事件可能达到中等至强强度。联合国秘书长安东尼奥·古特雷斯警告说，厄尔尼诺将“给变暖的世界火上浇油”，并强调早期预警系统对于保护脆弱社区免受气候相关灾害至关重要。\n\n随着各国为可能更频繁的热浪、洪水和干旱做准备，人工智能正日益成为气候适应的关键工具。中国一直在开发新一代AI驱动的天气预报系统，包括“风”系列气象模型（风清、风雷、风顺和风源）。风清是一个全球中期模型，能在三分钟内生成10.5天的预报，并已在全国范围内投入运行。风雷是一个临近预报模型，可直接预测定量降水，将强降雨预报准确率提高25%，并将预警时间延长至三小时。它支持四级恶劣天气预警。\n\n风顺是一个次季节到季节模型，分辨率为0.25度，在国际竞赛中表现出色。风源是一个科学AI基础模型，集成了数据同化和预报功能，作为一个开放的研究与创新平台。该系列共同满足了从防灾到可再生能源和航空等多样化需求，标志着中国完全自主的端到端AI预报能力。中国还推出了“妈祖”早期预警云平台，这是一个支持联合国“全民早期预警”倡议的国家级解决方案。该平台集成了气象监测、风险评估和灾害警报，并已在巴基斯坦、蒙古和斯里兰卡等国家推广，帮助加强当地的灾害准备。\n\n其他国家也在转向先进技术，以应对与厄尔尼诺相关的气候风险。在美国，国家海洋和大气管理局使用AI增强的预报系统和气候模型，以改进季节性展望和极端天气预测。澳大利亚气象局扩大了其气候监测和预报能力，因为该国在厄尔尼诺年份面临干旱、热浪和丛林火灾的风险增加。与此同时，欧盟通过欧洲中期天气预报中心和哥白尼气候变化服务扩大了先进气候预报的使用。这些平台结合了卫星观测、AI辅助建模和高性能计算，提供季节性预报，帮助政府为厄尔尼诺相关的热浪、干旱和极端降雨事件做准备。\n\n随着厄尔尼诺的临近，科学家表示，挑战已不再是简单地预报天气，而是将气候信息转化为及时的行动。在全球范围内，技术正日益成为抵御变暖和更不稳定气候的重要防线。"
+      "fullText": ", Updated 21:54, 19-Jun-2026At first glance, the portrait appears to be a painting. Rich textures, vibrant colors, and intricate details draw the viewer in. But look closer, and a different story begins to emerge.\nThe artwork is not painted. It is crafted from discarded fabric.\nFor Nairobi-based artist Cyprian Kiswili, every scrap of cloth carries untapped potential. What others see as waste, he transforms into powerful visual narratives that celebrate people, places, and African identity.\n\"My art is mixed media,\" Kiswili said during an interview. \"It's mostly a combination of two or three different types of media. I explore recycled fabrics and newsprints to bring out different subjects.\"\nKnown professionally as Kharsh, Kiswili has built a distinctive artistic practice around sustainability and storytelling. His portraits and illustrations are assembled from materials sourced from local tailoring shops, workshops, and factories across Kenya's capital, Nairobi.\nThe discarded fabrics are carefully collected, sorted, washed and selected before finding their place in his compositions.\nThrough his unique mixed-media approach, he combines vibrant African patterns, urban influences, and storytelling to create visually compelling pieces that celebrate culture, identity, and everyday life.\n\"I know some factories where I can collect fabric waste,\" he explains. \"I wash them, dry them, and then select pieces depending on what I'm creating. I combine them with paint to tell the story I want.\"\nHis inspiration often comes from everyday life.\n\"I get a lot of inspiration around people. That's why you'll find many of my artworks are portraits or inspired by people and places,\" he said.\nCyclist artwork by Cyprian Kiswili, crafted from recycled African fabrics in Nairobi, Kenya, March 26, 2025. /Cyprian Kiswili\nLong before the glamor of galleries and exhibitions, Kiswili's artistic journey began in solitude.\nAs an only child, he spent much of his free time drawing and sketching. What started as a pastime gradually revealed itself as a talent.\n\"I realized I was actually getting good at it,\" he recalls. \"When I was in primary school, I decided that was what I wanted to pursue fully.\"\nThat decision eventually led him to study design at the University of Nairobi, where he earned both a Bachelor's and Master's degrees in Design.\nYet choosing art as a career path was not without challenges. Like many young creatives in Kenya, Kiswili faced societal pressure to pursue more conventional professions.\nA turning point came during his university years when he entered a sneaker design competition.\n\"We went all the way to the finals in Prague, and I ended up being the overall winner,\" he said..\nThe victory in the 2019 Bata Young Designers Challenge provided more than just international recognition. It validated his belief that a career in creativity was possible.\n\"It felt like there was something there that I could really push.\"\nA pair of shoes reimagined through recycled newspaper art by Cyprian Kiswili in Nairobi, Kenya, July 17, 2025. /Cyprian Kiswili\nToday, art is no longer a side project. It is Kiswili's full-time profession. His journey mirrors a growing shift among young African creatives who are increasingly choosing to invest fully in their craft.\n\"There has been a shift,\" he observes. \"I've seen friends and fellow artists leave very good jobs to focus on their art. It's beautiful because once you're truly passionate about something, eventually something gives.\"\nThat dedication has earned him recognition both locally and internationally. In addition to the Bata Young Designers Challenge, he won the Artcaffé Art of the City competition in 2022 and the Dell Sleeve Design Challenge in 2023.\nHis work has been exhibited in leading cultural spaces and is held in private collections, attracting a growing community of collectors around the world.\nStorytelling beyond the canvas\nDespite the accolades, Kiswili remains focused on one thing: storytelling.\nHis latest projects include illustrations for East Africa's first coffee museum, where he uses art to trace coffee's journey across continents and centuries.\n\"There'll be illustrations set in different periods showing how coffee was discovered and how it spread around the world,\" he explains. \"It's storytelling through illustrations.\"\nWhether working with fabric, paint, or paper, the goal remains the same; to preserve stories and connect audiences to history, culture, and identity.\nArtist Cyprian Kiswili with his artwork at a Nairobi coffee shop in Nairobi, Kenya, June 15, 2026. \n Africa\nFor Kiswili, success is not measured solely by awards or exhibitions. His vision extends beyond personal achievement. He hopes his work will continue to reach wider audiences while inspiring the next generation of creatives.\n\"I hope my art connects with more people on a larger scale than it has before. And I also hope to mentor a lot of young artists,\" he said.\nIn a world grappling with waste and overconsumption, Cyprian Kiswili's work offers a different perspective. Through imagination, patience, and purpose, discarded fabric becomes art, waste becomes storytelling, and forgotten materials find a second life.",
+      "fullTextCn": "乍一看，这幅肖像画像是一幅油画。丰富的纹理、鲜艳的色彩和复杂的细节吸引着观众。但仔细看，一个不同的故事开始浮现。这件艺术品不是画出来的，而是用废弃布料制成的。\n\n对于内罗毕艺术家Cyprian Kiswili来说，每一块布头都蕴藏着未被开发的潜力。别人眼中的废物，被他转化为强有力的视觉叙事，赞美人物、地点和非洲身份。“我的艺术是混合媒介，”Kiswili在采访中说，“主要是两种或三种不同媒介的结合。我探索回收布料和新闻纸来呈现不同的主题。”他以艺名Kharsh闻名，围绕可持续性和叙事建立了独特的艺术实践。\n\n他的肖像和插画由来自肯尼亚首都内罗毕当地裁缝店、作坊和工厂的材料组装而成。废弃布料经过仔细收集、分类、清洗和挑选，然后在他的作品中找到位置。通过独特的混合媒介方法，他结合了充满活力的非洲图案、城市影响和叙事，创作出视觉上引人入胜的作品，赞美文化、身份和日常生活。“我知道一些工厂可以收集布料废料，”他解释道，“我清洗、晾干，然后根据创作内容挑选布料。我把它们与颜料结合，讲述我想说的故事。”\n\n他的灵感常来自日常生活。“我从人们身上获得很多灵感。这就是为什么你会发现我的许多作品是肖像画，或受人物和地点启发，”他说。早在画廊和展览的光环之前，Kiswili的艺术之旅始于孤独。作为独生子，他大部分空闲时间都在画画和素描。起初是消遣，逐渐显露出天赋。“我意识到自己确实擅长这个，”他回忆道，“在小学时，我就决定要全身心投入这个领域。”\n\n这个决定最终让他进入内罗毕大学学习设计，获得了设计学士和硕士学位。然而，选择艺术作为职业道路并非没有挑战。像肯尼亚许多年轻创意者一样，Kiswili面临社会压力，要求他从事更传统的职业。大学期间，他参加了一场运动鞋设计比赛，成为转折点。“我们一路进入布拉格的决赛，最终我成为总冠军，”他说。2019年Bata青年设计师挑战赛的胜利不仅带来了国际认可，还验证了他对创意职业可能性的信念。\n\n“感觉那里有我可以真正推动的东西。”如今，艺术不再是副业，而是Kiswili的全职职业。他的历程反映了年轻非洲创意者日益增长的转变，他们越来越倾向于全身心投入自己的手艺。“确实有转变，”他观察到，“我看到朋友和同行艺术家辞去很好的工作，专注于艺术。这很美，因为一旦你对某事真正充满热情，最终总会有回报。”\n\n这份奉献为他赢得了本地和国际认可。除了Bata青年设计师挑战赛，他还赢得了2022年Artcaffé城市艺术比赛和2023年Dell袖套设计挑战赛。他的作品在主要文化空间展出，并被私人收藏，吸引了全球越来越多的收藏家群体。尽管荣誉众多，Kiswili仍专注于一件事：叙事。\n\n他的最新项目包括为东非第一家咖啡博物馆创作插画，用艺术追溯咖啡跨越大陆和世纪的旅程。“会有不同时期的插画，展示咖啡是如何被发现并传播到世界各地的，”他解释道，“这是通过插画讲故事。”无论是用布料、颜料还是纸张，目标始终如一：保存故事，让观众与历史、文化和身份产生联系。\n\n对Kiswili来说，成功不仅仅由奖项或展览来衡量。他的愿景超越个人成就。他希望自己的作品能继续触及更广泛的观众，同时激励下一代创意者。“我希望我的艺术能在更大规模上与更多人产生共鸣。我也希望指导许多年轻艺术家，”他说。在一个与浪费和过度消费作斗争的世界里，Cyprian Kiswili的作品提供了不同的视角。\n\n通过想象力、耐心和目的，废弃布料变成艺术，废物变成叙事，被遗忘的材料找到第二次生命。"
     },
     {
       "id": 2,
       "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-10/NASA-names-US-Italian-astronauts-for-Artemis-III-lunar-mission-1NRbDoD50YM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "NASA names US, Italian astronauts for Artemis III lunar mission",
-      "titleCn": "NASA公布阿尔忒弥斯三号月球任务美意宇航员名单",
-      "summary": "NASA on Tuesday named three US astronauts and one Italian astronaut as the crew for Artemis III, a spacecraft docking demonstration mission scheduled for late next year that will test lunar landers from SpaceX and Blue Origin in orbit for the first time.",
-      "summaryCn": "美国宇航局宣布了阿尔忒弥斯三号任务的四名宇航员，该任务将首次在轨道上测试SpaceX和蓝色起源的月球着陆器。",
-      "wordCount": 553,
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-18/China-builds-computing-network-as-AI-token-usage-skyrockets-1O4tgBLAnxS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "China builds computing network as AI token usage skyrockets",
+      "titleCn": "中国建设计算网络，AI代币使用量激增",
+      "summary": "As agent-based applications explode, cloud providers are shifting from resource-based billing to token-based metering, directly linking costs to usage volumes.",
+      "summaryCn": "中国AI代币消耗量在两年内增长超千倍，推动国家建设一体化计算网络以应对算力需求。",
+      "wordCount": 585,
       "paragraphs": [
         {
-          "en": "From L: NASA astronaut {{4}} Randy Bresnik, ESA astronaut pilot Luca Parmitano, NASA astronaut mission specialist Frank Rubio, and NASA astronaut mission specialist Andre Douglas at a press conference announcing the {{0}} for the Artemis III mission at NASA's Johnson Space Center in Houston, Texas, on June 9, 2026. NASA on Tuesday named three US astronauts and one Italian astronaut as the crew for Artemis III, a spacecraft {{1}} {{2}} mission scheduled for late next year that will test lunar landers from SpaceX and Blue Origin in orbit for the first time. At a ceremony in Houston, NASA Administrator Jared Isaacman announced that {{3}} astronaut Randy Bresnik will serve as commander, with Andre Douglas and Frank Rubio as mission {{5}}, and Luca Parmitano of the European Space Agency (ESA) as pilot. NASA astronaut Bob Hines was named as a {{6}} crew member and will train alongside the {{7}} crew. Italian Space Agency President Teodoro Valente said in a statement that Parmitano's selection as pilot for Artemis III \"confirms and {{8}} the role and {{9}} of the European and Italian space system in the human {{10}} of the universe.\"\n\"Artemis III is an incredibly exciting, {{11}} and highly {{12}} multi-launch {{13}},\" Jeremy Parsons, NASA's Artemis program manager, said at the Houston event. \"It's going to happen in a short period of time with three of the world's most powerful rockets.\"\nThe mission will involve NASA's Orion capsule, SpaceX's Starship lunar lander, and Blue Origin's Blue Moon lander.",
-          "cn": "从左至右：NASA宇航员指挥官兰迪·布雷斯尼克、ESA宇航员飞行员卢卡·帕尔米塔诺、NASA宇航员任务专家弗兰克·鲁比奥和NASA宇航员任务专家安德烈·道格拉斯，在2026年6月9日于德克萨斯州休斯顿NASA约翰逊航天中心举行的新闻发布会上，宣布阿尔忒弥斯三号任务的机组人员。NASA周二任命三名美国宇航员和一名意大利宇航员为阿尔忒弥斯三号任务的机组人员，这是一项计划于明年晚些时候进行的航天器对接演示任务，将首次在轨道上测试SpaceX和蓝色起源的月球着陆器。在休斯顿的仪式上，NASA局长贾里德·艾萨克曼宣布，资深宇航员兰迪·布雷斯尼克将担任指挥官，安德烈·道格拉斯和弗兰克·鲁比奥担任任务专家，欧洲航天局（ESA）的卢卡·帕尔米塔诺担任飞行员。NASA宇航员鲍勃·海因斯被任命为后备机组人员，将与主要机组人员一起训练。意大利航天局局长特奥多罗·瓦伦特在一份声明中表示，帕尔米塔诺被选为阿尔忒弥斯三号任务的飞行员，“确认并增强了欧洲和意大利航天系统在人类宇宙探索中的角色和能力。”"
+          "en": "In May 2024, ByteDance's AI assistant Doubao was {{0}} around 100 billion tokens per day. By March 2026, that figure had surpassed 120 trillion – a roughly 1,000-fold {{1}} in just two years, according to industry data. Doubao is far from alone. Across China, daily average token {{2}} reached 140 trillion in March 2026, up from just 100 billion in early 2024, a more than 1,000-fold increase, according to the National Data Bureau. The {{3}} growth reflects the deepening {{4}} of AI agents and large-scale model applications across industries.",
+          "cn": "2024年5月，字节跳动的人工智能助手豆包每天消耗约1000亿个代币。根据行业数据，到2026年3月，这一数字已超过120万亿——短短两年内增长了约1000倍。豆包并非个例。根据国家数据局的数据，2026年3月，中国日均代币消耗量达到140万亿，而2024年初仅为1000亿，增长了超过1000倍。这种爆炸性增长反映了AI代理和大规模模型应用在各行业的深入普及。"
         },
         {
-          "en": "Although the two-week mission will remain in low-Earth orbit and will not travel to the moon, it is seen as a {{14}} test of the two primary moon landers NASA will use on {{15}} Artemis missions to put astronauts on the lunar surface. Blue Moon will launch first, followed by Orion carrying the astronauts. The two spacecraft will dock for about two days while the astronauts conduct tests and technology demonstrations in Blue Moon. Blue Moon will then undock from Orion, making way for Starship, which will attempt to dock for a day before returning to Earth. The mission will test docking {{16}} and {{17}} that will be required for future lunar missions. Artemis III follows Artemis I, an {{18}} lunar mission in 2022, and Artemis II, which carried three US astronauts and one Canadian astronaut around the moon and back in April.",
-          "cn": "“阿尔忒弥斯三号是一项极其令人兴奋、复杂且高度协调的多发射任务，”NASA阿尔忒弥斯项目经理杰里米·帕森斯在休斯顿的活动上说。“它将在短时间内使用三枚世界上最强大的火箭完成。”该任务将涉及NASA的猎户座太空舱、SpaceX的星舰月球着陆器和蓝色起源的蓝月着陆器。"
+          "en": "Globally, the trend is equally {{5}}. From training complex models to running AI agents, tokens – the basic units of data processed by large language models – have become a {{6}} {{7}} of the AI era. And the world is burning through them at an {{8}} rate. OpenAI's {{9}} GPT-5.5 charges $5 per million input tokens and $30 per million output tokens via API. Anthropic's Claude series follows a {{10}} API pricing structure: Opus 4.8 at $5/$25 per million tokens (input/output), Sonnet 4.6 at $3/$15, and Haiku 4.5 at $1/$5.",
+          "cn": "全球范围内，这一趋势同样显著。从训练复杂模型到运行AI代理，代币——大语言模型处理的基本数据单位——已成为AI时代的基本衡量标准。而世界正以前所未有的速度消耗它们。OpenAI的旗舰模型GPT-5.5通过API收费为每百万输入代币5美元，每百万输出代币30美元。Anthropic的Claude系列采用分层API定价结构：Opus 4.8为每百万代币5/25美元（输入/输出），Sonnet 4.6为3/15美元，Haiku 4.5为1/5美元。"
         },
         {
-          "en": "It will be the final Artemis mission before NASA {{19}} to land astronauts on the lunar surface in 2028. SpaceX and Blue Origin have faced years of delays in the development of their landers. Last year, the companies pitched NASA on sped-up development plans that prompted a {{20}} of the agency's Artemis program, giving rise to the Artemis III docking mission. The 2027 mission would require both SpaceX's Starship and a {{21}} version of Blue Origin's Blue Moon to be ready for launch at nearly the same time. SpaceX last month test-launched a new version of its Starship designed for lunar missions. Blue Origin's New Glenn rocket {{22}} on its launchpad in Florida last month as it was preparing to launch a batch of Amazon satellites.",
-          "cn": "尽管为期两周的任务将停留在近地轨道，不会前往月球，但它被视为对NASA后续阿尔忒弥斯任务中用于将宇航员送上月球表面的两个主要月球着陆器的关键测试。蓝月将首先发射，随后是搭载宇航员的猎户座。两艘航天器将对接约两天，期间宇航员将在蓝月上进行测试和技术演示。然后蓝月将与猎户座分离，为星舰让路，星舰将尝试对接一天，然后返回地球。该任务将测试未来月球任务所需的对接机制和操作。阿尔忒弥斯三号任务紧随2022年无人月球任务阿尔忒弥斯一号和2025年4月搭载三名美国宇航员和一名加拿大宇航员绕月飞行的阿尔忒弥斯二号之后。"
+          "en": "Meanwhile, in coding agent scenarios, token consumption can run 10 to 50 times higher than in standard chat due to context {{11}} and search overhead. In China, pricing remains highly {{12}}. Alibaba Cloud's Qwen3.7-Max charges $2.5/$7.5 per million tokens. DeepSeek's V3.1 comes in at 2 yuan ($0.28) per million input tokens and 8 yuan ($1.10) for output – significantly cheaper than most global {{13}}. ByteDance's Doubao Lite is priced even lower, at just 0.3 yuan for input and 0.6 yuan for output per million tokens, while offering generous free {{14}}.",
+          "cn": "与此同时，在编码代理场景中，由于上下文积累和搜索开销，代币消耗量可能比标准聊天高出10到50倍。在中国，定价仍然极具竞争力。阿里云的Qwen3.7-Max收费为每百万代币2.5/7.5美元。DeepSeek的V3.1每百万输入代币价格为2元（0.28美元），输出为8元（1.10美元）——远低于大多数全球同行。字节跳动的豆包Lite定价更低，每百万代币输入仅0.3元，输出0.6元，同时提供慷慨的免费配额。"
         },
         {
-          "en": "The explosion destroyed much of the company's only launchpad and grounded for at least several months the rocket that Blue Origin aims to use to launch its Blue Moon lander, which is being ground-tested in Houston and Florida.",
-          "cn": "这将是NASA在2028年尝试将宇航员送上月球表面之前的最后一次阿尔忒弥斯任务。SpaceX和蓝色起源在着陆器开发方面面临多年的延误。去年，这些公司向NASA提出了加速开发计划，促使该机构的阿尔忒弥斯计划重新调整，从而催生了阿尔忒弥斯三号对接任务。2027年的任务将要求SpaceX的星舰和蓝色起源蓝月的原型版本几乎同时准备好发射。SpaceX上个月试射了专为月球任务设计的新版星舰。蓝色起源的新格伦火箭上个月在佛罗里达州准备发射一批亚马逊卫星时在发射台上爆炸。"
+          "en": "Other domestic providers, including Baidu's ERNIE, Zhipu's GLM, and Moonshot, have adopted similarly {{15}} pricing. But language matters. Chinese text processing consumes 11% to 64% more tokens than English on Claude and GPT models. On domestic models like Qwen and DeepSeek, however, Chinese is actually more token-{{16}} – a {{17}} advantage for local developers. Behind the price tags lies a vast and costly {{18}}.",
+          "cn": "其他国内供应商，包括百度的文心一言、智谱的GLM和月之暗面，也采用了类似的可及定价。但语言很重要。在Claude和GPT模型上，中文文本处理消耗的代币比英文多11%到64%。然而，在像Qwen和DeepSeek这样的国内模型上，中文实际上更节省代币——这对本地开发者来说是一个关键优势。在价格标签背后，是庞大且昂贵的基础设施。"
+        },
+        {
+          "en": "As agent-based applications explode, cloud providers are shifting from resource-based billing to token-based {{19}}, directly linking costs to usage volumes. According to industry estimates, monthly token expenses for enterprise users can run into the hundreds of thousands – or even millions – of yuan. To address the long-term {{20}} of AI computing, China is building a national {{21}} computing power network – a unified infrastructure that connects data centers, supercomputing centers, and edge computing facilities across the country, enabling on-demand resource {{22}} much like the national power grid. The network has been {{23}} a key infrastructure project for the 15th Five-Year Plan period, alongside water, power and transport networks. The National Development and Reform Commission has {{24}} that total investment in the network and related fields will exceed 7 trillion yuan ($968 billion) this year.",
+          "cn": "随着基于代理的应用爆发，云提供商正从基于资源的计费转向基于代币的计量，直接将成本与使用量挂钩。根据行业估计，企业用户的月度代币费用可能达到数十万甚至数百万元。为了解决AI计算的长期可持续性，中国正在建设国家一体化计算网络——一个统一的基础设施，连接全国的数据中心、超级计算中心和边缘计算设施，实现按需资源分配，类似于国家电网。该网络已被指定为“十五五”规划期间的关键基础设施项目，与水利、电力和交通网络并列。国家发展和改革委员会预计，今年该网络及相关领域的总投资将超过7万亿元（9680亿美元）。"
+        },
+        {
+          "en": "In telecommunications infrastructure, the foundation for this computing grid is already taking shape. As of April 2026, China had deployed over 5 million 5G base stations, covering 330 cities with 5G-A networks. During the 15th Five-Year Plan period, the network will evolve from \"dual-gigabit\" to \"dual-ten-gigabit,\" with 500,000 new 5G-A base stations planned. 6G is expected to be commercially launched around 2030, increasing network efficiency and connectivity capacity by more than tenfold. Thousands of low-orbit satellites will also be launched, enabling integrated air-space-ground-sea coverage across the entire territory.",
+          "cn": "在电信基础设施方面，这一计算网格的基础已经初具规模。截至2026年4月，中国已部署超过500万个5G基站，覆盖330个城市，拥有5G-A网络。在“十五五”规划期间，该网络将从“双千兆”演进为“双万兆”，计划新增50万个5G-A基站。6G预计将在2030年左右商业推出，将网络效率和连接能力提高十倍以上。还将发射数千颗低轨卫星，实现全国范围内的空天地海一体化覆盖。"
+        },
+        {
+          "en": "The next-generation communication network is expected to drive 7 trillion yuan in total industrial output across upstream and downstream sectors, {{25}} the digital economy, low-altitude economy, and embodied intelligence.",
+          "cn": "下一代通信网络预计将带动上下游产业总产出7万亿元，赋能数字经济、低空经济和具身智能。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "crew",
-          "hint": "n. 机组人员",
-          "difficulty": "easy"
+          "answer": "consuming",
+          "hint": "v. 消耗",
+          "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "docking",
-          "hint": "n. 对接",
+          "answer": "surge",
+          "hint": "n. 激增",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "demonstration",
-          "hint": "n. 演示",
+          "answer": "consumption",
+          "hint": "n. 消耗量",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "veteran",
-          "hint": "adj. 经验丰富的",
-          "difficulty": "medium"
+          "answer": "explosive",
+          "hint": "adj. 爆炸性的",
+          "difficulty": "hard"
         },
         {
           "id": 4,
-          "answer": "commander",
-          "hint": "n. 指挥官",
-          "difficulty": "easy"
+          "answer": "adoption",
+          "hint": "n. 采用",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "specialists",
-          "hint": "n. 专家",
+          "answer": "striking",
+          "hint": "adj. 显著的",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "backup",
-          "hint": "n. 后备",
+          "answer": "fundamental",
+          "hint": "adj. 基本的",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "prime",
-          "hint": "adj. 主要的",
-          "difficulty": "medium"
+          "answer": "metric",
+          "hint": "n. 衡量标准",
+          "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "enhances",
-          "hint": "v. 增强",
-          "difficulty": "medium"
+          "answer": "unprecedented",
+          "hint": "adj. 前所未有的",
+          "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "capabilities",
-          "hint": "n. 能力",
+          "answer": "flagship",
+          "hint": "n. 旗舰产品",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "exploration",
-          "hint": "n. 探索",
-          "difficulty": "easy"
+          "answer": "tiered",
+          "hint": "adj. 分层的",
+          "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "complicated",
-          "hint": "adj. 复杂的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "coordinated",
-          "hint": "adj. 协调的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "campaign",
-          "hint": "n. 行动",
+          "answer": "accumulation",
+          "hint": "n. 积累",
           "difficulty": "medium"
         },
         {
-          "id": 14,
-          "answer": "critical",
-          "hint": "adj. 关键的",
-          "difficulty": "easy"
+          "id": 12,
+          "answer": "competitive",
+          "hint": "adj. 有竞争力的",
+          "difficulty": "medium"
         },
         {
-          "id": 15,
-          "answer": "subsequent",
-          "hint": "adj. 随后的",
+          "id": 13,
+          "answer": "counterparts",
+          "hint": "n. 同行",
           "difficulty": "hard"
         },
         {
+          "id": 14,
+          "answer": "quotas",
+          "hint": "n. 配额",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "accessible",
+          "hint": "adj. 可及的",
+          "difficulty": "medium"
+        },
+        {
           "id": 16,
-          "answer": "mechanisms",
-          "hint": "n. 机制",
+          "answer": "efficient",
+          "hint": "adj. 高效的",
           "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "operations",
-          "hint": "n. 操作",
+          "answer": "critical",
+          "hint": "adj. 关键的",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "uncrewed",
-          "hint": "adj. 无人驾驶的",
-          "difficulty": "hard"
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "attempts",
-          "hint": "v. 尝试",
-          "difficulty": "easy"
+          "answer": "metering",
+          "hint": "n. 计量",
+          "difficulty": "hard"
         },
         {
           "id": 20,
-          "answer": "reshuffling",
-          "hint": "n. 重新调整",
+          "answer": "sustainability",
+          "hint": "n. 可持续性",
           "difficulty": "hard"
         },
         {
           "id": 21,
-          "answer": "prototype",
-          "hint": "n. 原型",
+          "answer": "integrated",
+          "hint": "adj. 一体化的",
           "difficulty": "medium"
         },
         {
           "id": 22,
-          "answer": "exploded",
-          "hint": "v. 爆炸",
-          "difficulty": "easy"
+          "answer": "allocation",
+          "hint": "n. 分配",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "designated",
+          "hint": "v. 指定",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "projected",
+          "hint": "v. 预计",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "empowering",
+          "hint": "v. 赋能",
+          "difficulty": "hard"
         }
       ],
-      "fullText": "From L: NASA astronaut commander Randy Bresnik, ESA astronaut pilot Luca Parmitano, NASA astronaut mission specialist Frank Rubio, and NASA astronaut mission specialist Andre Douglas at a press conference announcing the crew for the Artemis III mission at NASA's Johnson Space Center in Houston, Texas, on June 9, 2026. \nNASA on Tuesday named three US astronauts and one Italian astronaut as the crew for Artemis III, a spacecraft docking demonstration mission scheduled for late next year that will test lunar landers from SpaceX and Blue Origin in orbit for the first time.\nAt a ceremony in Houston, NASA Administrator Jared Isaacman announced that veteran astronaut Randy Bresnik will serve as commander, with Andre Douglas and Frank Rubio as mission specialists, and Luca Parmitano of the European Space Agency (ESA) as pilot. NASA astronaut Bob Hines was named as a backup crew member and will train alongside the prime crew.\nItalian Space Agency President Teodoro Valente said in a statement that Parmitano's selection as pilot for Artemis III \"confirms and enhances the role and capabilities of the European and Italian space system in the human exploration of the universe.\"\n\"Artemis III is an incredibly exciting, complicated and highly coordinated multi-launch campaign,\" Jeremy Parsons, NASA's Artemis program manager, said at the Houston event. \"It's going to happen in a short period of time with three of the world's most powerful rockets.\"\nThe mission will involve NASA's Orion capsule, SpaceX's Starship lunar lander, and Blue Origin's Blue Moon lander. Although the two-week mission will remain in low-Earth orbit and will not travel to the moon, it is seen as a critical test of the two primary moon landers NASA will use on subsequent Artemis missions to put astronauts on the lunar surface.\nBlue Moon will launch first, followed by Orion carrying the astronauts. The two spacecraft will dock for about two days while the astronauts conduct tests and technology demonstrations in Blue Moon. Blue Moon will then undock from Orion, making way for Starship, which will attempt to dock for a day before returning to Earth. The mission will test docking mechanisms and operations that will be required for future lunar missions.\nArtemis III follows Artemis I, an uncrewed lunar mission in 2022, and Artemis II, which carried three US astronauts and one Canadian astronaut around the moon and back in April. It will be the final Artemis mission before NASA attempts to land astronauts on the lunar surface in 2028.\nSpaceX and Blue Origin have faced years of delays in the development of their landers. Last year, the companies pitched NASA on sped-up development plans that prompted a reshuffling of the agency's Artemis program, giving rise to the Artemis III docking mission.\nThe 2027 mission would require both SpaceX's Starship and a prototype version of Blue Origin's Blue Moon to be ready for launch at nearly the same time.\nSpaceX last month test-launched a new version of its Starship designed for lunar missions. Blue Origin's New Glenn rocket exploded on its launchpad in Florida last month as it was preparing to launch a batch of Amazon satellites. The explosion destroyed much of the company's only launchpad and grounded for at least several months the rocket that Blue Origin aims to use to launch its Blue Moon lander, which is being ground-tested in Houston and Florida.",
-      "fullTextCn": "从左至右：NASA宇航员指挥官兰迪·布雷斯尼克、ESA宇航员飞行员卢卡·帕尔米塔诺、NASA宇航员任务专家弗兰克·鲁比奥和NASA宇航员任务专家安德烈·道格拉斯，在2026年6月9日于德克萨斯州休斯顿NASA约翰逊航天中心举行的新闻发布会上，宣布阿尔忒弥斯三号任务的机组人员。NASA周二任命三名美国宇航员和一名意大利宇航员为阿尔忒弥斯三号任务的机组人员，这是一项计划于明年晚些时候进行的航天器对接演示任务，将首次在轨道上测试SpaceX和蓝色起源的月球着陆器。在休斯顿的仪式上，NASA局长贾里德·艾萨克曼宣布，资深宇航员兰迪·布雷斯尼克将担任指挥官，安德烈·道格拉斯和弗兰克·鲁比奥担任任务专家，欧洲航天局（ESA）的卢卡·帕尔米塔诺担任飞行员。NASA宇航员鲍勃·海因斯被任命为后备机组人员，将与主要机组人员一起训练。意大利航天局局长特奥多罗·瓦伦特在一份声明中表示，帕尔米塔诺被选为阿尔忒弥斯三号任务的飞行员，“确认并增强了欧洲和意大利航天系统在人类宇宙探索中的角色和能力。”\n\n“阿尔忒弥斯三号是一项极其令人兴奋、复杂且高度协调的多发射任务，”NASA阿尔忒弥斯项目经理杰里米·帕森斯在休斯顿的活动上说。“它将在短时间内使用三枚世界上最强大的火箭完成。”该任务将涉及NASA的猎户座太空舱、SpaceX的星舰月球着陆器和蓝色起源的蓝月着陆器。\n\n尽管为期两周的任务将停留在近地轨道，不会前往月球，但它被视为对NASA后续阿尔忒弥斯任务中用于将宇航员送上月球表面的两个主要月球着陆器的关键测试。蓝月将首先发射，随后是搭载宇航员的猎户座。两艘航天器将对接约两天，期间宇航员将在蓝月上进行测试和技术演示。然后蓝月将与猎户座分离，为星舰让路，星舰将尝试对接一天，然后返回地球。该任务将测试未来月球任务所需的对接机制和操作。阿尔忒弥斯三号任务紧随2022年无人月球任务阿尔忒弥斯一号和2025年4月搭载三名美国宇航员和一名加拿大宇航员绕月飞行的阿尔忒弥斯二号之后。\n\n这将是NASA在2028年尝试将宇航员送上月球表面之前的最后一次阿尔忒弥斯任务。SpaceX和蓝色起源在着陆器开发方面面临多年的延误。去年，这些公司向NASA提出了加速开发计划，促使该机构的阿尔忒弥斯计划重新调整，从而催生了阿尔忒弥斯三号对接任务。2027年的任务将要求SpaceX的星舰和蓝色起源蓝月的原型版本几乎同时准备好发射。SpaceX上个月试射了专为月球任务设计的新版星舰。蓝色起源的新格伦火箭上个月在佛罗里达州准备发射一批亚马逊卫星时在发射台上爆炸。\n\n爆炸摧毁了该公司唯一的发射台，并使蓝色起源计划用于发射蓝月着陆器的火箭至少停飞数月，该着陆器正在休斯顿和佛罗里达进行地面测试。"
+      "fullText": "In May 2024, ByteDance's AI assistant Doubao was consuming around 100 billion tokens per day. By March 2026, that figure had surpassed 120 trillion – a roughly 1,000-fold surge in just two years, according to industry data.\nDoubao is far from alone. Across China, daily average token consumption reached 140 trillion in March 2026, up from just 100 billion in early 2024, a more than 1,000-fold increase, according to the National Data Bureau.\nThe explosive growth reflects the deepening adoption of AI agents and large-scale model applications across industries.\nGlobally, the trend is equally striking. From training complex models to running AI agents, tokens – the basic units of data processed by large language models – have become a fundamental metric of the AI era. And the world is burning through them at an unprecedented rate.\nOpenAI's flagship GPT-5.5 charges $5 per million input tokens and $30 per million output tokens via API. Anthropic's Claude series follows a tiered API pricing structure: Opus 4.8 at $5/$25 per million tokens (input/output), Sonnet 4.6 at $3/$15, and Haiku 4.5 at $1/$5.\nMeanwhile, in coding agent scenarios, token consumption can run 10 to 50 times higher than in standard chat due to context accumulation and search overhead.\nIn China, pricing remains highly competitive. Alibaba Cloud's Qwen3.7-Max charges $2.5/$7.5 per million tokens. DeepSeek's V3.1 comes in at 2 yuan ($0.28) per million input tokens and 8 yuan ($1.10) for output – significantly cheaper than most global counterparts.\nByteDance's Doubao Lite is priced even lower, at just 0.3 yuan for input and 0.6 yuan for output per million tokens, while offering generous free quotas. Other domestic providers, including Baidu's ERNIE, Zhipu's GLM, and Moonshot, have adopted similarly accessible pricing.\nBut language matters. Chinese text processing consumes 11% to 64% more tokens than English on Claude and GPT models.\nOn domestic models like Qwen and DeepSeek, however, Chinese is actually more token-efficient – a critical advantage for local developers.\nBehind the price tags lies a vast and costly infrastructure. As agent-based applications explode, cloud providers are shifting from resource-based billing to token-based metering, directly linking costs to usage volumes.\nAccording to industry estimates, monthly token expenses for enterprise users can run into the hundreds of thousands – or even millions – of yuan.\nTo address the long-term sustainability of AI computing, China is building a national integrated computing power network – a unified infrastructure that connects data centers, supercomputing centers, and edge computing facilities across the country, enabling on-demand resource allocation much like the national power grid.\nThe network has been designated a key infrastructure project for the 15th Five-Year Plan period, alongside water, power and transport networks.\nThe National Development and Reform Commission has projected that total investment in the network and related fields will exceed 7 trillion yuan ($968 billion) this year.\nIn telecommunications infrastructure, the foundation for this computing grid is already taking shape. As of April 2026, China had deployed over 5 million 5G base stations, covering 330 cities with 5G-A networks.\nDuring the 15th Five-Year Plan period, the network will evolve from \"dual-gigabit\" to \"dual-ten-gigabit,\" with 500,000 new 5G-A base stations planned.\n6G is expected to be commercially launched around 2030, increasing network efficiency and connectivity capacity by more than tenfold. Thousands of low-orbit satellites will also be launched, enabling integrated air-space-ground-sea coverage across the entire territory.\nThe next-generation communication network is expected to drive 7 trillion yuan in total industrial output across upstream and downstream sectors, empowering the digital economy, low-altitude economy, and embodied intelligence.",
+      "fullTextCn": "2024年5月，字节跳动的人工智能助手豆包每天消耗约1000亿个代币。根据行业数据，到2026年3月，这一数字已超过120万亿——短短两年内增长了约1000倍。豆包并非个例。根据国家数据局的数据，2026年3月，中国日均代币消耗量达到140万亿，而2024年初仅为1000亿，增长了超过1000倍。这种爆炸性增长反映了AI代理和大规模模型应用在各行业的深入普及。\n\n全球范围内，这一趋势同样显著。从训练复杂模型到运行AI代理，代币——大语言模型处理的基本数据单位——已成为AI时代的基本衡量标准。而世界正以前所未有的速度消耗它们。OpenAI的旗舰模型GPT-5.5通过API收费为每百万输入代币5美元，每百万输出代币30美元。Anthropic的Claude系列采用分层API定价结构：Opus 4.8为每百万代币5/25美元（输入/输出），Sonnet 4.6为3/15美元，Haiku 4.5为1/5美元。\n\n与此同时，在编码代理场景中，由于上下文积累和搜索开销，代币消耗量可能比标准聊天高出10到50倍。在中国，定价仍然极具竞争力。阿里云的Qwen3.7-Max收费为每百万代币2.5/7.5美元。DeepSeek的V3.1每百万输入代币价格为2元（0.28美元），输出为8元（1.10美元）——远低于大多数全球同行。字节跳动的豆包Lite定价更低，每百万代币输入仅0.3元，输出0.6元，同时提供慷慨的免费配额。\n\n其他国内供应商，包括百度的文心一言、智谱的GLM和月之暗面，也采用了类似的可及定价。但语言很重要。在Claude和GPT模型上，中文文本处理消耗的代币比英文多11%到64%。然而，在像Qwen和DeepSeek这样的国内模型上，中文实际上更节省代币——这对本地开发者来说是一个关键优势。在价格标签背后，是庞大且昂贵的基础设施。\n\n随着基于代理的应用爆发，云提供商正从基于资源的计费转向基于代币的计量，直接将成本与使用量挂钩。根据行业估计，企业用户的月度代币费用可能达到数十万甚至数百万元。为了解决AI计算的长期可持续性，中国正在建设国家一体化计算网络——一个统一的基础设施，连接全国的数据中心、超级计算中心和边缘计算设施，实现按需资源分配，类似于国家电网。该网络已被指定为“十五五”规划期间的关键基础设施项目，与水利、电力和交通网络并列。国家发展和改革委员会预计，今年该网络及相关领域的总投资将超过7万亿元（9680亿美元）。\n\n在电信基础设施方面，这一计算网格的基础已经初具规模。截至2026年4月，中国已部署超过500万个5G基站，覆盖330个城市，拥有5G-A网络。在“十五五”规划期间，该网络将从“双千兆”演进为“双万兆”，计划新增50万个5G-A基站。6G预计将在2030年左右商业推出，将网络效率和连接能力提高十倍以上。还将发射数千颗低轨卫星，实现全国范围内的空天地海一体化覆盖。\n\n下一代通信网络预计将带动上下游产业总产出7万亿元，赋能数字经济、低空经济和具身智能。"
     },
     {
       "id": 3,
-      "category": "military",
+      "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-17/UN-envoy-calls-for-revival-of-Yemeni-political-process-1O2EdzwRW7K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "UN envoy calls for revival of Yemeni political process",
-      "titleCn": "联合国特使呼吁重启也门政治进程",
-      "summary": "UN Special Envoy for Yemen Hans Grundberg on Tuesday urged relevant parties of the Yemeni conflict to seize the opportunity created by regional de-escalation following the Iran-US deal and revive the stalled political process.",
-      "summaryCn": "联合国也门问题特使格伦德贝格敦促冲突各方抓住地区局势缓和的机遇，重启停滞的政治进程。",
-      "wordCount": 357,
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-06/Scientists-reveal-how-deep-sea-giant-can-survive-5-years-without-food-1NL4khwTI1G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Scientists reveal how deep-sea giant can survive 5 years without food",
+      "titleCn": "科学家揭示深海巨兽如何五年不进食仍能存活",
+      "summary": "Scientists reveal how deep-sea giant can survive 5 years without food",
+      "summaryCn": "中国科学家发现深海巨型等足类动物通过从细菌“劫持”的ND1基因实现超长耐饥饿能力。",
+      "wordCount": 563,
       "paragraphs": [
         {
-          "en": "A UN aircraft is seen at Sana'a airport after transporting a Houthi delegation from Jordan to Sana'a, Yemen, May 21, 2026. UN Special Envoy for Yemen Hans Grundberg on Tuesday {{2}} relevant parties of the Yemeni conflict to {{3}} the opportunity created by regional {{4}} following the Iran-US deal and revive the {{5}} political process. Briefing the UN Security Council, Grundberg said he hoped the regional developments could create {{6}} for progress in Yemen and {{7}} to continue engaging the parties to advance political efforts. \"I hope this deal marks a {{8}} point for the region, and I will be working with the parties to encourage them to seize this moment to make progress on Yemen,\" Grundberg said. He said the recent US-Israeli-Iran conflict has so far had limited {{9}} impact inside Yemen, where the relative calm established since the 2022 {{10}} has largely held. However, he warned that regional {{11}} have added economic pressure to Yemen due to its heavy {{12}} on imports and {{13}} to regional developments.",
-          "cn": "一架联合国飞机在将胡塞武装代表团从约旦运送到也门萨那机场后出现在机场，摄于2026年5月21日。联合国也门问题特使汉斯·格伦德贝格周二敦促也门冲突相关各方抓住伊朗与美国达成协议后地区局势缓和所创造的机会，重启停滞的政治进程。格伦德贝格在向联合国安理会通报情况时表示，他希望地区事态发展能为也门取得进展创造动力，并承诺继续与各方接触以推进政治努力。格伦德贝格说：“我希望这项协议能成为该地区的转折点，我将与各方合作，鼓励他们抓住这一时机在也门问题上取得进展。”他表示，近期美国、以色列和伊朗之间的冲突迄今为止对也门境内产生的军事影响有限，自2022年停火以来建立的相对平静局面基本得以维持。然而，他警告说，由于也门严重依赖进口且靠近地区事态发展，地区紧张局势给也门增加了经济压力。"
+          "en": "It sounds like a creature from a sci-fi thriller: a deep-sea {{0}} organism that can {{1}} more than five years without a single meal. Yet for the supergiant isopod, a distant relative of the common pill bug found in gardens with the size of a chunky tablet, this extreme {{2}} ability is simply an everyday {{3}} for surviving in one of the most food-starved {{4}} on Earth. Now, Chinese scientists have {{5}} the mystery of these supergiant isopods. The answer lies in a gene \"{{6}}\" from bacteria and {{7}} to work like a {{8}} {{9}} energy-saving switch. A joint research led by the Institute of Oceanology of the Chinese Academy of Sciences (IOCAS) based in Qingdao, east China's Shandong Province, in collaboration with the Hong Kong-based Chinese University of Hong Kong and Northwestern Polytechnical University in Xi'an, capital of Shaanxi Province, published their findings in the international journal Cell.",
+          "cn": "这听起来像是科幻惊悚片里的生物：一种深海超巨型生物，可以连续五年以上不进食而存活。然而，对于巨型等足类动物——一种与花园中常见的潮虫有远亲关系、体型如同厚平板电脑的生物来说，这种极端的禁食能力仅仅是在地球上最缺乏食物的栖息地之一生存的日常策略。现在，中国科学家已经破解了这些巨型等足类动物的奥秘。答案在于一个从细菌“劫持”而来的基因，它被重新编程，像一个精细调节的节能开关一样工作。由位于中国东部山东省青岛市的中国科学院海洋研究所牵头，与香港的香港中文大学和位于陕西省省会西安的西北工业大学合作进行的一项联合研究，在国际期刊《细胞》上发表了他们的发现。"
         },
         {
-          "en": "Grundberg said his office recently held two separate meetings under the {{14}} of the Military Coordination Committee (MCC) – one involving military representatives from the Saudi-led Joint Forces Command and Yemen's Houthi rebels, and another involving the Joint Forces Command and the Yemeni government. The meetings enabled discussions on security priorities, de-escalation measures and improving communication channels. Based on commitments from all sides, the UN plans to convene a {{15}} MCC meeting in the near future, he said. Grundberg added that his office has also continued consultations and preparatory work on economic issues that will ultimately need to be addressed through negotiations. He said these efforts are aimed at building confidence and paving the way for an inclusive political process to end the conflict, noting that despite negotiations on other issues, the parties have not held face-to-face political talks for years. Warning that continued deadlock risks further instability inside Yemen and across the region, Grundberg called on the parties to use the current period of regional de-escalation to advance a sustainable political settlement, adding that the United Nations remains committed to supporting the process and the Yemeni people.",
-          "cn": "格伦德贝格表示，他的办公室最近在军事协调委员会框架下举行了两次单独会议——一次涉及沙特领导的联合部队司令部和也门胡塞武装的军事代表，另一次涉及联合部队司令部和也门政府。这些会议使得各方能够讨论安全优先事项、缓和措施以及改善沟通渠道。他说，基于各方的承诺，联合国计划在不久的将来召开一次三方军事协调委员会会议。格伦德贝格补充说，他的办公室还继续就最终需要通过谈判解决的经济问题进行磋商和准备工作。他表示，这些努力旨在建立信任，并为结束冲突的包容性政治进程铺平道路，并指出尽管在其他问题上进行了谈判，但各方多年来未举行面对面的政治会谈。格伦德贝格警告说，持续的僵局有可能加剧也门境内及整个地区的不稳定，他呼吁各方利用当前地区局势缓和时期推进可持续的政治解决方案，并补充说联合国仍然致力于支持这一进程和也门人民。"
+          "en": "\"Our work not only successfully {{10}} the mystery of ultra-long starvation {{11}} in deep-sea isopods, but also provides an important {{12}} for understanding how life balances growth and survival in extreme environments,\" said Yuan Jianbo, a researcher at IOCAS and first author of the study paper. The deep sea is cold, dark and almost entirely {{13}} of reliable nutrition, making long-term survival a remarkable evolutionary {{14}}. To survive the abyss, the isopod {{15}} a two-{{16}} \"increase revenue and reduce expenditure\" strategy. First, it possesses an enormous stomach that occupies about two-thirds of its body and acts like a deep-freeze pantry, allowing it to {{17}} when food is available and store the {{18}} for months or even years. Second, it maintains an exceptionally low {{19}} {{20}} rate, essentially putting itself on permanent energy-saving mode.",
+          "cn": "“我们的工作不仅成功解开了深海等足类动物超长耐饥饿之谜，而且为理解生命如何在极端环境中平衡生长与生存提供了一个重要范例，”中国科学院海洋研究所研究员、该研究论文的第一作者袁建波说。深海寒冷、黑暗，几乎完全没有可靠的营养来源，使得长期生存成为一项非凡的进化壮举。为了在深渊中生存，这种等足类动物进化出了一套“开源节流”的双管齐下策略。首先，它拥有一个巨大的胃，约占其身体的三分之二，像一个深度冷冻的食品储藏室，使其在食物可用时能够狼吞虎咽，并将捕获的食物储存数月甚至数年。其次，它保持着极低的基础代谢率，基本上让自己处于永久的节能模式。"
+        },
+        {
+          "en": "Together, these traits turn {{21}} {{22}} eating into an ultra-long energy reserve. But the real surprise came when the team discovered that a key gene involved in this metabolic slowdown, named ND1, was not originally part of the isopod's own genome. Instead, the isopod \"hijacked\" it from an external symbiotic bacterium through a process called \"{{23}} gene transfer.\"\n\"Think of it as biological copy-paste. An animal snatches useful DNA directly from a completely different organism,\" said Yuan. This \"stolen\" gene then underwent {{24}} {{25}}, allowing the isopod to fine-tune its energy use with remarkable precision.",
+          "cn": "这些特征共同将机会主义的暴饮暴食转变为超长期的能量储备。但真正的惊喜出现在团队发现参与这种代谢减缓的一个关键基因——名为ND1——并非原本就属于等足类动物自身的基因组。相反，这种等足类动物通过一种称为“水平基因转移”的过程，从一个外部的共生细菌中“劫持”了它。“可以把它想象成生物学的复制粘贴。一个动物直接从完全不同的生物体中获取有用的DNA，”袁建波说。这个“偷来的”基因随后经历了表观遗传优化，使等足类动物能够以非凡的精度精细调节其能量使用。"
+        },
+        {
+          "en": "To verify ND1's function, the researchers inserted the gene into zebrafish, nematodes and human cells in the lab. Under normal temperatures, the gene recipients burned energy faster and became less tolerant of starvation. However, under cold conditions that mimic the isopod's deep-sea home, ND1 flipped its role: it {{26}} energy metabolism, reduced mitochondrial activity and boosted starvation endurance in zebrafish by a remarkable 37%. This temperature-dependent switch solves the so-called \"energy paradox\" – how can a giant animal with high energy demands survive where food is extremely scarce? The ND1 acts as a metabolic {{27}}, fine-tuning energy burn in response to environmental conditions.",
+          "cn": "为了验证ND1的功能，研究人员在实验室中将该基因插入斑马鱼、线虫和人类细胞中。在正常温度下，基因受体燃烧能量的速度更快，对饥饿的耐受性降低。然而，在模拟等足类动物深海家园的寒冷条件下，ND1翻转了其角色：它抑制能量代谢，减少线粒体活性，并将斑马鱼的饥饿耐力显著提高了37%。这种温度依赖性的开关解决了所谓的“能量悖论”——一个具有高能量需求的大型动物如何在食物极度稀缺的地方生存？ND1充当了一个代谢恒温器，根据环境条件精细调节能量燃烧。"
+        },
+        {
+          "en": "It provides a neat solution to the trade-off between body size and food scarcity, according to Yuan. The discovery of how the deep-sea isopod balances its giant body size with an ultra-low metabolic rate and of the key regulatory gene ND1 that enables this balance, may hold value for several applied fields, according to the researchers. Possible future applications include longevity research, obesity treatment and aquaculture breeding, where understanding efficient energy management could inspire new approaches to health and food production, said Yuan.",
+          "cn": "据袁建波称，这为体型大小与食物稀缺之间的权衡提供了一个简洁的解决方案。研究人员表示，发现深海等足类动物如何平衡其巨大体型与超低代谢率，以及实现这种平衡的关键调控基因ND1，可能对多个应用领域具有价值。袁建波说，未来的可能应用包括长寿研究、肥胖治疗和水产养殖育种，在这些领域，理解高效的能量管理可能激发健康与食品生产的新方法。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "urged",
-          "hint": "v. 敦促",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "seize",
-          "hint": "v. 抓住",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "de-escalation",
-          "hint": "n. 缓和",
+          "answer": "supergiant",
+          "hint": "adj. 超巨型的",
           "difficulty": "hard"
         },
         {
-          "id": 3,
-          "answer": "stalled",
-          "hint": "adj. 停滞的",
+          "id": 1,
+          "answer": "survive",
+          "hint": "v. 存活",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "fasting",
+          "hint": "n. 禁食",
           "difficulty": "medium"
         },
         {
+          "id": 3,
+          "answer": "strategy",
+          "hint": "n. 策略",
+          "difficulty": "easy"
+        },
+        {
           "id": 4,
-          "answer": "momentum",
-          "hint": "n. 动力",
+          "answer": "habitats",
+          "hint": "n. 栖息地",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "pledged",
-          "hint": "v. 承诺",
+          "answer": "cracked",
+          "hint": "v. 破解",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "turning",
-          "hint": "n. 转折",
-          "difficulty": "easy"
+          "answer": "hijacked",
+          "hint": "v. 劫持",
+          "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "military",
-          "hint": "adj. 军事的",
-          "difficulty": "easy"
+          "answer": "reprogrammed",
+          "hint": "v. 重新编程",
+          "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "truce",
-          "hint": "n. 停火",
+          "answer": "finely",
+          "hint": "adv. 精细地",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "tensions",
-          "hint": "n. 紧张局势",
+          "answer": "tuned",
+          "hint": "adj. 调节的",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "reliance",
-          "hint": "n. 依赖",
+          "answer": "deciphers",
+          "hint": "v. 解密",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "tolerance",
+          "hint": "n. 耐受性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "paradigm",
+          "hint": "n. 范例",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "devoid",
+          "hint": "adj. 缺乏的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "feat",
+          "hint": "n. 壮举",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "evolved",
+          "hint": "v. 进化",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "pronged",
+          "hint": "adj. 有叉的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "gorge",
+          "hint": "v. 狼吞虎咽",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "haul",
+          "hint": "n. 捕获物",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "basal",
+          "hint": "adj. 基础的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "metabolic",
+          "hint": "adj. 代谢的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "opportunistic",
+          "hint": "adj. 机会主义的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "binge",
+          "hint": "n. 暴食",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "horizontal",
+          "hint": "adj. 水平的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "epigenetic",
+          "hint": "adj. 表观遗传的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 25,
+          "answer": "optimization",
+          "hint": "n. 优化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "suppressed",
+          "hint": "v. 抑制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "thermostat",
+          "hint": "n. 恒温器",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "It sounds like a creature from a sci-fi thriller: a deep-sea supergiant organism that can survive more than five years without a single meal.\nYet for the supergiant isopod, a distant relative of the common pill bug found in gardens with the size of a chunky tablet, this extreme fasting ability is simply an everyday strategy for surviving in one of the most food-starved habitats on Earth.\nNow, Chinese scientists have cracked the mystery of these supergiant isopods. The answer lies in a gene \"hijacked\" from bacteria and reprogrammed to work like a finely tuned energy-saving switch.\nA joint research led by the Institute of Oceanology of the Chinese Academy of Sciences (IOCAS) based in Qingdao, east China's Shandong Province, in collaboration with the Hong Kong-based Chinese University of Hong Kong and Northwestern Polytechnical University in Xi'an, capital of Shaanxi Province, published their findings in the international journal Cell.\n\"Our work not only successfully deciphers the mystery of ultra-long starvation tolerance in deep-sea isopods, but also provides an important paradigm for understanding how life balances growth and survival in extreme environments,\" said Yuan Jianbo, a researcher at IOCAS and first author of the study paper.\nThe deep sea is cold, dark and almost entirely devoid of reliable nutrition, making long-term survival a remarkable evolutionary feat.\nTo survive the abyss, the isopod evolved a two-pronged \"increase revenue and reduce expenditure\" strategy. First, it possesses an enormous stomach that occupies about two-thirds of its body and acts like a deep-freeze pantry, allowing it to gorge when food is available and store the haul for months or even years.\nSecond, it maintains an exceptionally low basal metabolic rate, essentially putting itself on permanent energy-saving mode. Together, these traits turn opportunistic binge eating into an ultra-long energy reserve.\nBut the real surprise came when the team discovered that a key gene involved in this metabolic slowdown, named ND1, was not originally part of the isopod's own genome.\nInstead, the isopod \"hijacked\" it from an external symbiotic bacterium through a process called \"horizontal gene transfer.\"\n\"Think of it as biological copy-paste. An animal snatches useful DNA directly from a completely different organism,\" said Yuan.\nThis \"stolen\" gene then underwent epigenetic optimization, allowing the isopod to fine-tune its energy use with remarkable precision.\nTo verify ND1's function, the researchers inserted the gene into zebrafish, nematodes and human cells in the lab. Under normal temperatures, the gene recipients burned energy faster and became less tolerant of starvation.\nHowever, under cold conditions that mimic the isopod's deep-sea home, ND1 flipped its role: it suppressed energy metabolism, reduced mitochondrial activity and boosted starvation endurance in zebrafish by a remarkable 37%.\nThis temperature-dependent switch solves the so-called \"energy paradox\" – how can a giant animal with high energy demands survive where food is extremely scarce?\nThe ND1 acts as a metabolic thermostat, fine-tuning energy burn in response to environmental conditions. It provides a neat solution to the trade-off between body size and food scarcity, according to Yuan.\nThe discovery of how the deep-sea isopod balances its giant body size with an ultra-low metabolic rate and of the key regulatory gene ND1 that enables this balance, may hold value for several applied fields, according to the researchers.\nPossible future applications include longevity research, obesity treatment and aquaculture breeding, where understanding efficient energy management could inspire new approaches to health and food production, said Yuan.",
+      "fullTextCn": "这听起来像是科幻惊悚片里的生物：一种深海超巨型生物，可以连续五年以上不进食而存活。然而，对于巨型等足类动物——一种与花园中常见的潮虫有远亲关系、体型如同厚平板电脑的生物来说，这种极端的禁食能力仅仅是在地球上最缺乏食物的栖息地之一生存的日常策略。现在，中国科学家已经破解了这些巨型等足类动物的奥秘。答案在于一个从细菌“劫持”而来的基因，它被重新编程，像一个精细调节的节能开关一样工作。由位于中国东部山东省青岛市的中国科学院海洋研究所牵头，与香港的香港中文大学和位于陕西省省会西安的西北工业大学合作进行的一项联合研究，在国际期刊《细胞》上发表了他们的发现。\n\n“我们的工作不仅成功解开了深海等足类动物超长耐饥饿之谜，而且为理解生命如何在极端环境中平衡生长与生存提供了一个重要范例，”中国科学院海洋研究所研究员、该研究论文的第一作者袁建波说。深海寒冷、黑暗，几乎完全没有可靠的营养来源，使得长期生存成为一项非凡的进化壮举。为了在深渊中生存，这种等足类动物进化出了一套“开源节流”的双管齐下策略。首先，它拥有一个巨大的胃，约占其身体的三分之二，像一个深度冷冻的食品储藏室，使其在食物可用时能够狼吞虎咽，并将捕获的食物储存数月甚至数年。其次，它保持着极低的基础代谢率，基本上让自己处于永久的节能模式。\n\n这些特征共同将机会主义的暴饮暴食转变为超长期的能量储备。但真正的惊喜出现在团队发现参与这种代谢减缓的一个关键基因——名为ND1——并非原本就属于等足类动物自身的基因组。相反，这种等足类动物通过一种称为“水平基因转移”的过程，从一个外部的共生细菌中“劫持”了它。“可以把它想象成生物学的复制粘贴。一个动物直接从完全不同的生物体中获取有用的DNA，”袁建波说。这个“偷来的”基因随后经历了表观遗传优化，使等足类动物能够以非凡的精度精细调节其能量使用。\n\n为了验证ND1的功能，研究人员在实验室中将该基因插入斑马鱼、线虫和人类细胞中。在正常温度下，基因受体燃烧能量的速度更快，对饥饿的耐受性降低。然而，在模拟等足类动物深海家园的寒冷条件下，ND1翻转了其角色：它抑制能量代谢，减少线粒体活性，并将斑马鱼的饥饿耐力显著提高了37%。这种温度依赖性的开关解决了所谓的“能量悖论”——一个具有高能量需求的大型动物如何在食物极度稀缺的地方生存？ND1充当了一个代谢恒温器，根据环境条件精细调节能量燃烧。\n\n据袁建波称，这为体型大小与食物稀缺之间的权衡提供了一个简洁的解决方案。研究人员表示，发现深海等足类动物如何平衡其巨大体型与超低代谢率，以及实现这种平衡的关键调控基因ND1，可能对多个应用领域具有价值。袁建波说，未来的可能应用包括长寿研究、肥胖治疗和水产养殖育种，在这些领域，理解高效的能量管理可能激发健康与食品生产的新方法。"
+    },
+    {
+      "id": 4,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-06-20/detail-ihffptmh9490582.shtml",
+      "title": "Overseas Chinese assistance alliance launched to boost Tongliang enterprises' global expansion",
+      "titleCn": "侨助联盟启动助力铜梁企业全球拓展",
+      "summary": "The \"Overseas Chinese Assistance Alliance for Tongliang Enterprises' Global Expansion\" was officially launched on Thursday in Tongliang District of Chongqing, marking a substantive step in integrating the district's industries with overseas Chinese resources for global expansion.",
+      "summaryCn": "铜梁区启动“侨助联盟”以整合海外侨胞资源，推动当地制造业和农产品进入国际市场。",
+      "wordCount": 464,
+      "paragraphs": [
+        {
+          "en": "(ECNS) – The \"Overseas Chinese Assistance Alliance for Tongliang Enterprises' Global Expansion\" was officially {{0}} on Thursday in Tongliang District of Chongqing, marking a {{1}} step in {{2}} the district's industries with overseas Chinese resources for global expansion. The alliance was established at the \"Overseas Chinese Empower Go-Global\" International Economic and Trade Exchange Conference, where Tongliang district government departments signed agreements with representatives of overseas business associations and related enterprises. Tongliang is a major industrial and manufacturing district in Chongqing, with the gross output value of industrial enterprises above the designated size reaching 54.662 billion yuan (about $7.56 billion) in 2025. The district currently has 101 foreign trade {{4}}, with key export industries including general machinery, printing materials and auto parts. Its trade network covers 120 countries and regions, including ASEAN, the European Union and Russia.",
+          "cn": "（中新网）——“侨助铜梁企业出海联盟”于周四在重庆市铜梁区正式启动，标志着该区产业与海外侨胞资源整合以推动全球拓展迈出实质性一步。该联盟在“侨助出海”国际经济贸易交流会上成立，铜梁区政府部门与海外商协会代表及相关企业签署了协议。铜梁是重庆重要的工业制造区，2025年规模以上工业企业总产值达到546.62亿元人民币（约75.6亿美元）。该区目前拥有101家外贸主体，主要出口产业包括通用机械、印刷材料和汽车零部件。其贸易网络覆盖120个国家和地区，包括东盟、欧盟和俄罗斯。"
+        },
+        {
+          "en": "In the {{5}} and connected new energy vehicle and motorcycle parts sector, Tongliang is guiding key auto parts {{6}} to integrate into the supply chains of international vehicle manufacturers, promoting exports of high-value-added auto and motorcycle parts, and supporting the expansion of recreational motorcycles into European and African markets. Also on Thursday, the 2026 Tongliang Entrepreneurs Conference brought together a number of overseas Chinese business representatives, who expressed strong confidence in the district's industrial base, strategic location and business environment. They said they would {{7}} their overseas resources to deepen cooperation in industrial development, technology introduction, export expansion and cross-strait exchanges, helping Tongliang integrate into global markets. \"From the perspective of overseas Chinese business leaders, Tongliang's core advantage lies in its {{9}} and {{8}} industrial chain,\" said Weng Guoning, Chairman of the Confederation of Toronto Chinese Canadian Organizations. Weng noted that Tongliang has a solid manufacturing base with well-developed supporting facilities, as well as abundant local agricultural products and raw materials, making it well-suited for two-way economic and trade cooperation with overseas markets.",
+          "cn": "在智能网联新能源汽车及摩托车零部件领域，铜梁正引导关键汽车零部件供应商融入国际整车制造商的供应链，推动高附加值汽车及摩托车零部件出口，并支持休闲摩托车拓展欧洲和非洲市场。同样在周四，2026年铜梁企业家大会汇聚了多位海外侨商代表，他们对铜梁的产业基础、战略区位和营商环境表达了强烈信心。他们表示将利用海外资源，在产业发展、技术引进、出口拓展和两岸交流方面深化合作，助力铜梁融入全球市场。“从海外侨商领袖的角度看，铜梁的核心优势在于其成熟完善的产业链，”多伦多华人团体联合总会主席翁国宁表示。翁国宁指出，铜梁拥有坚实的制造业基础和完善的配套设施，以及丰富的本地农产品和原材料，非常适合与海外市场开展双向经贸合作。"
+        },
+        {
+          "en": "Weng said he is planning to introduce advanced industries and technologies from Canada to Tongliang for in-depth {{10}} with Tongliang enterprises, and related project {{11}} are progressing in an orderly manner. He also plans to leverage overseas Chinese association platforms to establish regular overseas promotion channels, helping Tongliang's {{12}} industries and high-quality products reach international markets. \"During my visit to Tongliang, I was pleased to see that many local products are already being exported to Europe, with agricultural exports {{13}} particularly well,\" said Liu Shaohui, Honorary President of the Ruijing Chinese Association in Sweden. Liu noted that Tongliang's agricultural products have broad {{14}} for further overseas market expansion. Tongliang District has been actively supporting local enterprises in exploring international markets.",
+          "cn": "翁国宁表示，他正计划将加拿大的先进产业和技术引入铜梁，与铜梁企业开展深度合作，相关项目谈判正在有序推进。他还计划利用海外侨团平台建立常态化的海外推广渠道，帮助铜梁的特色产业和优质产品走向国际市场。“在访问铜梁期间，我很高兴地看到许多本地产品已经出口到欧洲，农产品出口表现尤为出色，”瑞典瑞京华人协会荣誉会长刘绍辉表示。刘绍辉指出，铜梁的农产品在进一步拓展海外市场方面潜力巨大。铜梁区一直积极支持本地企业开拓国际市场。"
+        },
+        {
+          "en": "The district has filed 13 {{15}} investment projects, primarily in Thailand, Vietnam and other countries, focusing on notebook computer supporting industries. In 2025, Tongliang's actual outbound {{16}} investment reached $13.72 million, up 194 percent year-on-year.",
+          "cn": "该区已备案13个对外投资项目，主要集中在泰国、越南等国家，聚焦笔记本电脑配套产业。2025年，铜梁实际对外直接投资额达到1372万美元，同比增长194%。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "launched",
+          "hint": "v. 启动",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "substantive",
+          "hint": "adj. 实质性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "integrating",
+          "hint": "v. 整合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "entities",
+          "hint": "n. 实体",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "intelligent",
+          "hint": "adj. 智能的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "suppliers",
+          "hint": "n. 供应商",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "leverage",
+          "hint": "v. 利用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "comprehensive",
+          "hint": "adj. 全面的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "mature",
+          "hint": "adj. 成熟的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "collaboration",
+          "hint": "n. 合作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "negotiations",
+          "hint": "n. 谈判",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "proximity",
-          "hint": "n. 靠近",
+          "answer": "distinctive",
+          "hint": "adj. 独特的",
           "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "framework",
-          "hint": "n. 框架",
-          "difficulty": "medium"
+          "answer": "performing",
+          "hint": "v. 表现",
+          "difficulty": "easy"
         },
         {
           "id": 13,
-          "answer": "trilateral",
-          "hint": "adj. 三方的",
+          "answer": "potential",
+          "hint": "n. 潜力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "outbound",
+          "hint": "adj. 对外（投资）",
           "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "direct",
+          "hint": "adj. 直接的",
+          "difficulty": "easy"
         }
       ],
-      "fullText": "A UN aircraft is seen at Sana'a airport after transporting a Houthi delegation from Jordan to Sana'a, Yemen, May 21, 2026. \nUN Special Envoy for Yemen Hans Grundberg on Tuesday urged relevant parties of the Yemeni conflict to seize the opportunity created by regional de-escalation following the Iran-US deal and revive the stalled political process.\nBriefing the UN Security Council, Grundberg said he hoped the regional developments could create momentum for progress in Yemen and pledged to continue engaging the parties to advance political efforts.\n\"I hope this deal marks a turning point for the region, and I will be working with the parties to encourage them to seize this moment to make progress on Yemen,\" Grundberg said.\nHe said the recent US-Israeli-Iran conflict has so far had limited military impact inside Yemen, where the relative calm established since the 2022 truce has largely held. However, he warned that regional tensions have added economic pressure to Yemen due to its heavy reliance on imports and proximity to regional developments.\nGrundberg said his office recently held two separate meetings under the framework of the Military Coordination Committee (MCC) – one involving military representatives from the Saudi-led Joint Forces Command and Yemen's Houthi rebels, and another involving the Joint Forces Command and the Yemeni government.\nThe meetings enabled discussions on security priorities, de-escalation measures and improving communication channels. Based on commitments from all sides, the UN plans to convene a trilateral MCC meeting in the near future, he said.\nGrundberg added that his office has also continued consultations and preparatory work on economic issues that will ultimately need to be addressed through negotiations.\nHe said these efforts are aimed at building confidence and paving the way for an inclusive political process to end the conflict, noting that despite negotiations on other issues, the parties have not held face-to-face political talks for years.\nWarning that continued deadlock risks further instability inside Yemen and across the region, Grundberg called on the parties to use the current period of regional de-escalation to advance a sustainable political settlement, adding that the United Nations remains committed to supporting the process and the Yemeni people.",
-      "fullTextCn": "一架联合国飞机在将胡塞武装代表团从约旦运送到也门萨那机场后出现在机场，摄于2026年5月21日。联合国也门问题特使汉斯·格伦德贝格周二敦促也门冲突相关各方抓住伊朗与美国达成协议后地区局势缓和所创造的机会，重启停滞的政治进程。格伦德贝格在向联合国安理会通报情况时表示，他希望地区事态发展能为也门取得进展创造动力，并承诺继续与各方接触以推进政治努力。格伦德贝格说：“我希望这项协议能成为该地区的转折点，我将与各方合作，鼓励他们抓住这一时机在也门问题上取得进展。”他表示，近期美国、以色列和伊朗之间的冲突迄今为止对也门境内产生的军事影响有限，自2022年停火以来建立的相对平静局面基本得以维持。然而，他警告说，由于也门严重依赖进口且靠近地区事态发展，地区紧张局势给也门增加了经济压力。\n\n格伦德贝格表示，他的办公室最近在军事协调委员会框架下举行了两次单独会议——一次涉及沙特领导的联合部队司令部和也门胡塞武装的军事代表，另一次涉及联合部队司令部和也门政府。这些会议使得各方能够讨论安全优先事项、缓和措施以及改善沟通渠道。他说，基于各方的承诺，联合国计划在不久的将来召开一次三方军事协调委员会会议。格伦德贝格补充说，他的办公室还继续就最终需要通过谈判解决的经济问题进行磋商和准备工作。他表示，这些努力旨在建立信任，并为结束冲突的包容性政治进程铺平道路，并指出尽管在其他问题上进行了谈判，但各方多年来未举行面对面的政治会谈。格伦德贝格警告说，持续的僵局有可能加剧也门境内及整个地区的不稳定，他呼吁各方利用当前地区局势缓和时期推进可持续的政治解决方案，并补充说联合国仍然致力于支持这一进程和也门人民。"
+      "fullText": "(ECNS) – The \"Overseas Chinese Assistance Alliance for Tongliang Enterprises' Global Expansion\" was officially launched on Thursday in Tongliang District of Chongqing, marking a substantive step in integrating the district's industries with overseas Chinese resources for global expansion.\nThe alliance was established at the \"Overseas Chinese Empower Go-Global\" International Economic and Trade Exchange Conference, where Tongliang district government departments signed agreements with representatives of overseas business associations and related enterprises.\nTongliang is a major industrial and manufacturing district in Chongqing, with the gross output value of industrial enterprises above the designated size reaching 54.662 billion yuan (about $7.56 billion) in 2025.\nThe district currently has 101 foreign trade entities, with key export industries including general machinery, printing materials and auto parts. Its trade network covers 120 countries and regions, including ASEAN, the European Union and Russia.\nIn the intelligent and connected new energy vehicle and motorcycle parts sector, Tongliang is guiding key auto parts suppliers to integrate into the supply chains of international vehicle manufacturers, promoting exports of high-value-added auto and motorcycle parts, and supporting the expansion of recreational motorcycles into European and African markets.\nAlso on Thursday, the 2026 Tongliang Entrepreneurs Conference brought together a number of overseas Chinese business representatives, who expressed strong confidence in the district's industrial base, strategic location and business environment.\nThey said they would leverage their overseas resources to deepen cooperation in industrial development, technology introduction, export expansion and cross-strait exchanges, helping Tongliang integrate into global markets.\n\"From the perspective of overseas Chinese business leaders, Tongliang's core advantage lies in its mature and comprehensive industrial chain,\" said Weng Guoning, Chairman of the Confederation of Toronto Chinese Canadian Organizations.\nWeng noted that Tongliang has a solid manufacturing base with well-developed supporting facilities, as well as abundant local agricultural products and raw materials, making it well-suited for two-way economic and trade cooperation with overseas markets.\nWeng said he is planning to introduce advanced industries and technologies from Canada to Tongliang for in-depth collaboration with Tongliang enterprises, and related project negotiations are progressing in an orderly manner.\nHe also plans to leverage overseas Chinese association platforms to establish regular overseas promotion channels, helping Tongliang's distinctive industries and high-quality products reach international markets.\n\"During my visit to Tongliang, I was pleased to see that many local products are already being exported to Europe, with agricultural exports performing particularly well,\" said Liu Shaohui, Honorary President of the Ruijing Chinese Association in Sweden. Liu noted that Tongliang's agricultural products have broad potential for further overseas market expansion.\nTongliang District has been actively supporting local enterprises in exploring international markets. The district has filed 13 outbound investment projects, primarily in Thailand, Vietnam and other countries, focusing on notebook computer supporting industries. In 2025, Tongliang's actual outbound direct investment reached $13.72 million, up 194 percent year-on-year.",
+      "fullTextCn": "（中新网）——“侨助铜梁企业出海联盟”于周四在重庆市铜梁区正式启动，标志着该区产业与海外侨胞资源整合以推动全球拓展迈出实质性一步。该联盟在“侨助出海”国际经济贸易交流会上成立，铜梁区政府部门与海外商协会代表及相关企业签署了协议。铜梁是重庆重要的工业制造区，2025年规模以上工业企业总产值达到546.62亿元人民币（约75.6亿美元）。该区目前拥有101家外贸主体，主要出口产业包括通用机械、印刷材料和汽车零部件。其贸易网络覆盖120个国家和地区，包括东盟、欧盟和俄罗斯。\n\n在智能网联新能源汽车及摩托车零部件领域，铜梁正引导关键汽车零部件供应商融入国际整车制造商的供应链，推动高附加值汽车及摩托车零部件出口，并支持休闲摩托车拓展欧洲和非洲市场。同样在周四，2026年铜梁企业家大会汇聚了多位海外侨商代表，他们对铜梁的产业基础、战略区位和营商环境表达了强烈信心。他们表示将利用海外资源，在产业发展、技术引进、出口拓展和两岸交流方面深化合作，助力铜梁融入全球市场。“从海外侨商领袖的角度看，铜梁的核心优势在于其成熟完善的产业链，”多伦多华人团体联合总会主席翁国宁表示。翁国宁指出，铜梁拥有坚实的制造业基础和完善的配套设施，以及丰富的本地农产品和原材料，非常适合与海外市场开展双向经贸合作。\n\n翁国宁表示，他正计划将加拿大的先进产业和技术引入铜梁，与铜梁企业开展深度合作，相关项目谈判正在有序推进。他还计划利用海外侨团平台建立常态化的海外推广渠道，帮助铜梁的特色产业和优质产品走向国际市场。“在访问铜梁期间，我很高兴地看到许多本地产品已经出口到欧洲，农产品出口表现尤为出色，”瑞典瑞京华人协会荣誉会长刘绍辉表示。刘绍辉指出，铜梁的农产品在进一步拓展海外市场方面潜力巨大。铜梁区一直积极支持本地企业开拓国际市场。\n\n该区已备案13个对外投资项目，主要集中在泰国、越南等国家，聚焦笔记本电脑配套产业。2025年，铜梁实际对外直接投资额达到1372万美元，同比增长194%。"
     },
     {
-      "id": 4,
+      "id": 5,
       "category": "military",
       "source": "ECNS",
       "sourceUrl": "http://www.ecns.cn/news/politics/2026-06-20/detail-ihffptmh9489913.shtml",
       "title": "Pakistan reaffirms commitment to SCO, highlights role in regional connectivity, development",
       "titleCn": "巴基斯坦重申对上合组织的承诺，强调其在区域互联互通与发展中的作用",
       "summary": "ISLAMABAD, June 15--Pakistans Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Monday reaffirmed the countrys commitment to the Shanghai Cooperation Organization.",
-      "summaryCn": "巴基斯坦副总理兼外长达尔重申对上合组织的承诺，强调其在促进区域合作、安全与发展中的关键作用，并宣布将担任2027年上合组织峰会主席国。",
+      "summaryCn": "巴基斯坦副总理兼外长达尔重申对上合组织的承诺，强调其在促进区域合作、安全与发展中的关键作用，并宣布巴基斯坦将于今年晚些时候担任上合组织轮值主席国。",
       "wordCount": 304,
       "paragraphs": [
         {
-          "en": "Pakistan's Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Monday {{0}} the country's {{1}} to the Shanghai Cooperation Organization (SCO), describing it as a {{2}} {{3}} for {{4}} regional cooperation, peace, security and economic development. In a message marking the 25th anniversary of the SCO, Dar congratulated the organization and its member states, noting that the organization has grown into an influential forum for regional {{5}} since its establishment in 2001. \"The {{6}} of the 25th anniversary confirms the {{7}} power of the 'Shanghai Spirit,' which continues to guide us through {{8}} trust, equality, respect for cultural {{9}}, shared development and {{10}} engagement,\" Dar said. The foreign minister noted that Pakistan's {{11}} from an SCO observer to a full member in 2017 reflects its strong commitment to {{12}} and regional cooperation. Pakistan remains firmly committed to the principles and objectives of the SCO Charter and appreciates the organization's emphasis on international law, mutual respect and good-neighborly relations, added the minister.",
-          "cn": "巴基斯坦副总理兼外交部长穆罕默德·伊沙克·达尔周一重申了该国对上海合作组织的承诺，称其为促进区域合作、和平、安全与经济发展的重要平台。在纪念上合组织成立25周年的致辞中，达尔向该组织及其成员国表示祝贺，指出该组织自2001年成立以来已发展成为区域合作的重要论坛。达尔表示：“25周年里程碑印证了‘上海精神’的持久力量，它继续以互信、平等、尊重文化多样性、共同发展和建设性接触指引我们。”外长指出，巴基斯坦从2017年由上合组织观察员国晋升为正式成员国，体现了其对多边主义和区域合作的坚定承诺。巴基斯坦仍坚定致力于《上合组织宪章》的原则和目标，并赞赏该组织对国际法、相互尊重和友好睦邻关系的重视，外长补充道。"
+          "en": "Pakistan's Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Monday {{0}} the country's {{1}} to the Shanghai Cooperation Organization (SCO), describing it as a {{2}} {{3}} for {{4}} regional cooperation, peace, security and economic development. In a message marking the 25th anniversary of the SCO, Dar congratulated the organization and its member states, noting that the organization has grown into an influential forum for regional collaboration since its establishment in 2001. \"The {{5}} of the 25th anniversary confirms the {{6}} power of the 'Shanghai Spirit,' which continues to guide us through {{7}} trust, equality, respect for cultural {{8}}, shared development and {{9}} engagement,\" Dar said. The foreign minister noted that Pakistan's {{10}} from an SCO {{11}} to a full member in 2017 reflects its strong commitment to {{12}} and regional cooperation. Pakistan remains firmly committed to the {{13}} and objectives of the SCO Charter and appreciates the organization's {{14}} on international law, mutual respect and good-neighborly relations, added the minister.",
+          "cn": "巴基斯坦副总理兼外长穆罕默德·伊沙克·达尔周一重申了该国对上海合作组织的承诺，称其为促进区域合作、和平、安全与经济发展的重要平台。在庆祝上合组织成立25周年的致辞中，达尔向该组织及其成员国表示祝贺，指出该组织自2001年成立以来已发展成为区域合作的重要论坛。达尔表示：“25周年里程碑印证了‘上海精神’的持久力量，它继续以互信、平等、尊重文化多样性、共同发展和建设性接触指引我们。”外长指出，巴基斯坦从2017年由上合组织观察员国晋升为正式成员国，体现了其对多边主义和区域合作的坚定承诺。巴基斯坦仍坚定致力于《上合组织宪章》的原则和目标，并赞赏该组织对国际法、相互尊重和友好睦邻关系的重视。"
         },
         {
-          "en": "The foreign minister added that Islamabad would continue pursuing a {{13}} and action-oriented agenda focused on expanding economic cooperation, strengthening regional connectivity and deepening people-to-people exchanges among SCO member states. Highlighting the organization's contribution to regional stability, Dar praised the SCO's role in fostering peace and security, stressing that Pakistan values its collaborative efforts to {{14}} terrorism, separatism and extremism. Beyond security cooperation, the foreign minister welcomed the SCO's initiatives in economic development, digital innovation, energy security and the promotion of national currencies in mutual transactions. According to the foreign minister, Pakistan stands ready to contribute to greater regional cooperation in trade, investment, food security, climate {{15}}, public health, education and sustainable development. Dar also said Pakistan is looking forward to assuming the chairmanship of the SCO Council of Heads of State later this year and hosting the SCO Summit in 2027.",
-          "cn": "外长补充说，伊斯兰堡将继续推行前瞻性和以行动为导向的议程，重点扩大经济合作、加强区域互联互通并深化上合组织成员国间的人文交流。在强调该组织对区域稳定的贡献时，达尔赞扬了上合组织在促进和平与安全方面的作用，并强调巴基斯坦重视其打击恐怖主义、分裂主义和极端主义的合作努力。除安全合作外，外长对上合组织在经济创新、数字创新、能源安全以及推动本币在相互交易中使用等方面的举措表示欢迎。据外长称，巴基斯坦已准备好为贸易、投资、粮食安全、气候韧性、公共卫生、教育和可持续发展等领域的更大区域合作做出贡献。达尔还表示，巴基斯坦期待今年晚些时候担任上合组织国家元首理事会主席国，并于2027年主办上合组织峰会。"
+          "en": "The foreign minister added that Islamabad would continue pursuing a {{15}} and {{16}} agenda focused on expanding economic cooperation, strengthening regional {{17}} and deepening people-to-people exchanges among SCO member states. Highlighting the organization's contribution to regional stability, Dar praised the SCO's role in fostering peace and security, stressing that Pakistan values its collaborative efforts to {{18}} terrorism, separatism and {{19}}. Beyond security cooperation, the foreign minister welcomed the SCO's {{20}} in economic development, digital innovation, energy security and the promotion of national currencies in mutual transactions. According to the foreign minister, Pakistan stands ready to contribute to greater regional cooperation in trade, investment, food security, climate {{21}}, public health, education and sustainable development. Dar also said Pakistan is looking forward to assuming the {{22}} of the SCO Council of Heads of State later this year and hosting the SCO Summit in 2027.",
+          "cn": "外长补充说，伊斯兰堡将继续推行前瞻性和以行动为导向的议程，重点扩大经济合作、加强区域互联互通并深化上合组织成员国间的人文交流。在强调该组织对区域稳定的贡献时，达尔赞扬了上合组织在促进和平与安全方面的作用，并强调巴基斯坦珍视其打击恐怖主义、分裂主义和极端主义的合作努力。除安全合作外，外长对上合组织在经济创新、数字创新、能源安全以及推动本币在相互交易中使用等方面的举措表示欢迎。据外长称，巴基斯坦已准备好为贸易、投资、粮食安全、气候韧性、公共卫生、教育和可持续发展等领域的更大区域合作做出贡献。达尔还表示，巴基斯坦期待于今年晚些时候担任上合组织国家元首理事会主席国，并于2027年主办上合组织峰会。"
         }
       ],
       "blanks": [
@@ -545,44 +770,44 @@
         },
         {
           "id": 5,
-          "answer": "collaboration",
-          "hint": "n. 合作",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
           "answer": "milestone",
           "hint": "n. 里程碑",
           "difficulty": "medium"
         },
         {
-          "id": 7,
+          "id": 6,
           "answer": "enduring",
           "hint": "adj. 持久的",
           "difficulty": "hard"
         },
         {
-          "id": 8,
+          "id": 7,
           "answer": "mutual",
           "hint": "adj. 相互的",
           "difficulty": "medium"
         },
         {
-          "id": 9,
+          "id": 8,
           "answer": "diversity",
           "hint": "n. 多样性",
           "difficulty": "medium"
         },
         {
-          "id": 10,
+          "id": 9,
           "answer": "constructive",
           "hint": "adj. 建设性的",
           "difficulty": "hard"
         },
         {
-          "id": 11,
+          "id": 10,
           "answer": "progression",
           "hint": "n. 进展",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "observer",
+          "hint": "n. 观察员",
           "difficulty": "medium"
         },
         {
@@ -593,196 +818,67 @@
         },
         {
           "id": 13,
+          "answer": "principles",
+          "hint": "n. 原则",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "emphasis",
+          "hint": "n. 强调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
           "answer": "forward-looking",
           "hint": "adj. 前瞻性的",
           "difficulty": "hard"
         },
         {
-          "id": 14,
+          "id": 16,
+          "answer": "action-oriented",
+          "hint": "adj. 以行动为导向的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "connectivity",
+          "hint": "n. 互联互通",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
           "answer": "combat",
           "hint": "v. 打击",
           "difficulty": "medium"
         },
         {
-          "id": 15,
+          "id": 19,
+          "answer": "extremism",
+          "hint": "n. 极端主义",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "initiatives",
+          "hint": "n. 倡议",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
           "answer": "resilience",
           "hint": "n. 韧性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "chairmanship",
+          "hint": "n. 主席职位",
           "difficulty": "hard"
         }
       ],
       "fullText": "Pakistan's Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Monday reaffirmed the country's commitment to the Shanghai Cooperation Organization (SCO), describing it as a vital platform for promoting regional cooperation, peace, security and economic development.\nIn a message marking the 25th anniversary of the SCO, Dar congratulated the organization and its member states, noting that the organization has grown into an influential forum for regional collaboration since its establishment in 2001.\n\"The milestone of the 25th anniversary confirms the enduring power of the 'Shanghai Spirit,' which continues to guide us through mutual trust, equality, respect for cultural diversity, shared development and constructive engagement,\" Dar said.\nThe foreign minister noted that Pakistan's progression from an SCO observer to a full member in 2017 reflects its strong commitment to multilateralism and regional cooperation.\nPakistan remains firmly committed to the principles and objectives of the SCO Charter and appreciates the organization's emphasis on international law, mutual respect and good-neighborly relations, added the minister.\nThe foreign minister added that Islamabad would continue pursuing a forward-looking and action-oriented agenda focused on expanding economic cooperation, strengthening regional connectivity and deepening people-to-people exchanges among SCO member states.\nHighlighting the organization's contribution to regional stability, Dar praised the SCO's role in fostering peace and security, stressing that Pakistan values its collaborative efforts to combat terrorism, separatism and extremism.\nBeyond security cooperation, the foreign minister welcomed the SCO's initiatives in economic development, digital innovation, energy security and the promotion of national currencies in mutual transactions.\nAccording to the foreign minister, Pakistan stands ready to contribute to greater regional cooperation in trade, investment, food security, climate resilience, public health, education and sustainable development.\nDar also said Pakistan is looking forward to assuming the chairmanship of the SCO Council of Heads of State later this year and hosting the SCO Summit in 2027.",
-      "fullTextCn": "巴基斯坦副总理兼外交部长穆罕默德·伊沙克·达尔周一重申了该国对上海合作组织的承诺，称其为促进区域合作、和平、安全与经济发展的重要平台。在纪念上合组织成立25周年的致辞中，达尔向该组织及其成员国表示祝贺，指出该组织自2001年成立以来已发展成为区域合作的重要论坛。达尔表示：“25周年里程碑印证了‘上海精神’的持久力量，它继续以互信、平等、尊重文化多样性、共同发展和建设性接触指引我们。”外长指出，巴基斯坦从2017年由上合组织观察员国晋升为正式成员国，体现了其对多边主义和区域合作的坚定承诺。巴基斯坦仍坚定致力于《上合组织宪章》的原则和目标，并赞赏该组织对国际法、相互尊重和友好睦邻关系的重视，外长补充道。\n\n外长补充说，伊斯兰堡将继续推行前瞻性和以行动为导向的议程，重点扩大经济合作、加强区域互联互通并深化上合组织成员国间的人文交流。在强调该组织对区域稳定的贡献时，达尔赞扬了上合组织在促进和平与安全方面的作用，并强调巴基斯坦重视其打击恐怖主义、分裂主义和极端主义的合作努力。除安全合作外，外长对上合组织在经济创新、数字创新、能源安全以及推动本币在相互交易中使用等方面的举措表示欢迎。据外长称，巴基斯坦已准备好为贸易、投资、粮食安全、气候韧性、公共卫生、教育和可持续发展等领域的更大区域合作做出贡献。达尔还表示，巴基斯坦期待今年晚些时候担任上合组织国家元首理事会主席国，并于2027年主办上合组织峰会。"
-    },
-    {
-      "id": 5,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-18/South-China-responds-to-flooding-as-torrential-rains-continue-1O4W3mgpPGg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "South China responds to flooding as torrential rains continue",
-      "titleCn": "华南地区持续暴雨引发洪涝，各地积极应对",
-      "summary": "South China responds to flooding as torrential rains continue",
-      "summaryCn": "华南多省持续暴雨导致城市内涝、海水倒灌和山体滑坡，当地政府启动应急响应并展开救援。",
-      "wordCount": 307,
-      "paragraphs": [
-        {
-          "en": "Floodwater is {{0}} from Huangniupu Reservoir following {{1}} upstream rainfall in Dongguan, Guangdong Province, south China, June 17, 2026. Heavy rainfall continues to affect parts of southern China in recent days, with provincial regions hit by {{2}} downpours on Wednesday. Local authorities launched {{3}} response measures, carrying out {{4}} operations and efforts to {{5}} residents' daily lives. Urban areas are flooded in Guigang, Guangxi Zhuang Autonomous Region, south China, June 17, 2026. /China Media Group\nIn Guigang, Guangxi Zhuang Autonomous Region, days of heavy rainfall caused {{6}} urban flooding, with rivers {{7}} and {{8}} systems operating at full capacity.",
-          "cn": "2026年6月17日，中国南方广东省东莞市黄牛埔水库因上游持续降雨而开闸泄洪。近日，强降雨持续影响华南部分地区，周三多个省份遭遇暴雨袭击。当地政府启动应急响应措施，开展救援行动，努力保障居民日常生活。2026年6月17日，中国南方广西壮族自治区贵港市城区出现内涝。/中央广播电视总台\n在广西壮族自治区贵港市，连日强降雨导致大范围城市内涝，河流水位上涨，排水系统满负荷运行。"
-        },
-        {
-          "en": "Emergency {{9}} carried out drainage and rescue work, while firefighters {{10}} high-capacity pumps in affected neighborhoods where more than 100 households were {{11}}. Rescue operations are underway in Beihai, Guangxi Zhuang Autonomous Region, south China, June 17, 2026. /China Media Group\nIn Beihai, Guangxi, {{12}} high tides combined with continuous rainfall caused seawater {{13}} and flooding on some low-lying coastal roads. Water levels at several monitoring stations exceeded warning {{14}}, prompting authorities to issue alerts and {{15}} traffic. Floodwaters gradually {{16}} as rescue and recovery efforts continue in Lufeng, Guangdong Province, south China, June 17, 2026.",
-          "cn": "应急人员开展排水和救援工作，消防员在受影响社区部署大功率水泵，超过100户居民受到影响。2026年6月17日，中国南方广西壮族自治区北海市正在开展救援行动。/中央广播电视总台\n在广西北海，天文大潮与持续降雨叠加，导致部分低洼沿海道路出现海水倒灌和洪涝。多个监测站水位超过警戒线，促使当局发布警报并疏导交通。2026年6月17日，中国南方广东省陆丰市，洪水逐渐退去，救援和恢复工作仍在继续。"
-        },
-        {
-          "en": "/China Media Group\nIn Lufeng, Guangdong Province, floodwaters triggered by days of intense rainfall have gradually receded. Authorities are continuing drainage, cleanup, {{17}} supply {{18}} and {{19}}-prevention measures. As of 6 p.m. on Wednesday, authorities had set up 21 temporary {{20}} in Jiaxi Town, Lufeng, and {{21}} 496 residents. A {{22}} occurs along a provincial highway in Ningde, Fujian Province, southeast China, June 17, 2026.",
-          "cn": "/中央广播电视总台\n在广东省陆丰市，连日强降雨引发的洪水已逐渐退去。当局继续开展排水、清淤、救灾物资分发和防疫措施。截至周三下午6时，陆丰市甲西镇已设立21个临时安置点，转移安置居民496人。2026年6月17日，中国东南部福建省宁德市一条省道发生山体滑坡。"
-        },
-        {
-          "en": "/China Media Group\nIn Ningde, Fujian Province, persistent rainfall saturated the soil and triggered a landslide on a section of Provincial Highway 207 on Wednesday, temporarily disrupting traffic. After more than five hours of emergency clearance work, the road was reopened to two-way traffic later that day.",
-          "cn": "/中央广播电视总台\n在福建省宁德市，持续降雨导致土壤饱和，周三在207省道一段引发山体滑坡，交通一度中断。经过五个多小时的紧急抢通，该路段于当天晚些时候恢复双向通行。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "discharged",
-          "hint": "v. 排放",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "persistent",
-          "hint": "adj. 持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "torrential",
-          "hint": "adj. 倾盆的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "emergency",
-          "hint": "n. 紧急情况",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "rescue",
-          "hint": "n. 救援",
-          "difficulty": "easy"
-        },
-        {
-          "id": 5,
-          "answer": "safeguard",
-          "hint": "v. 保护",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "widespread",
-          "hint": "adj. 广泛的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "swelling",
-          "hint": "v. 上涨",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "drainage",
-          "hint": "n. 排水系统",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "crews",
-          "hint": "n. 工作人员",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "deployed",
-          "hint": "v. 部署",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "impacted",
-          "hint": "v. 影响",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "astronomical",
-          "hint": "adj. 天文的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "inundation",
-          "hint": "n. 淹没",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "thresholds",
-          "hint": "n. 阈值",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "redirect",
-          "hint": "v. 疏导",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "recede",
-          "hint": "v. 退去",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "relief",
-          "hint": "n. 救济",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
-          "answer": "distribution",
-          "hint": "n. 分发",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "epidemic",
-          "hint": "n. 流行病",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "shelters",
-          "hint": "n. 避难所",
-          "difficulty": "easy"
-        },
-        {
-          "id": 21,
-          "answer": "relocated",
-          "hint": "v. 转移",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "landslide",
-          "hint": "n. 山体滑坡",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "Floodwater is discharged from Huangniupu Reservoir following persistent upstream rainfall in Dongguan, Guangdong Province, south China, June 17, 2026. \nHeavy rainfall continues to affect parts of southern China in recent days, with provincial regions hit by torrential downpours on Wednesday. Local authorities launched emergency response measures, carrying out rescue operations and efforts to safeguard residents' daily lives.\nUrban areas are flooded in Guigang, Guangxi Zhuang Autonomous Region, south China, June 17, 2026. /China Media Group\nIn Guigang, Guangxi Zhuang Autonomous Region, days of heavy rainfall caused widespread urban flooding, with rivers swelling and drainage systems operating at full capacity.\nEmergency crews carried out drainage and rescue work, while firefighters deployed high-capacity pumps in affected neighborhoods where more than 100 households were impacted.\nRescue operations are underway in Beihai, Guangxi Zhuang Autonomous Region, south China, June 17, 2026. /China Media Group\nIn Beihai, Guangxi, astronomical high tides combined with continuous rainfall caused seawater inundation and flooding on some low-lying coastal roads.\nWater levels at several monitoring stations exceeded warning thresholds, prompting authorities to issue alerts and redirect traffic.\nFloodwaters gradually recede as rescue and recovery efforts continue in Lufeng, Guangdong Province, south China, June 17, 2026. /China Media Group\nIn Lufeng, Guangdong Province, floodwaters triggered by days of intense rainfall have gradually receded. Authorities are continuing drainage, cleanup, relief supply distribution and epidemic-prevention measures.\nAs of 6 p.m. on Wednesday, authorities had set up 21 temporary shelters in Jiaxi Town, Lufeng, and relocated 496 residents.\nA landslide occurs along a provincial highway in Ningde, Fujian Province, southeast China, June 17, 2026. /China Media Group\nIn Ningde, Fujian Province, persistent rainfall saturated the soil and triggered a landslide on a section of Provincial Highway 207 on Wednesday, temporarily disrupting traffic. After more than five hours of emergency clearance work, the road was reopened to two-way traffic later that day.",
-      "fullTextCn": "2026年6月17日，中国南方广东省东莞市黄牛埔水库因上游持续降雨而开闸泄洪。近日，强降雨持续影响华南部分地区，周三多个省份遭遇暴雨袭击。当地政府启动应急响应措施，开展救援行动，努力保障居民日常生活。2026年6月17日，中国南方广西壮族自治区贵港市城区出现内涝。/中央广播电视总台\n在广西壮族自治区贵港市，连日强降雨导致大范围城市内涝，河流水位上涨，排水系统满负荷运行。\n\n应急人员开展排水和救援工作，消防员在受影响社区部署大功率水泵，超过100户居民受到影响。2026年6月17日，中国南方广西壮族自治区北海市正在开展救援行动。/中央广播电视总台\n在广西北海，天文大潮与持续降雨叠加，导致部分低洼沿海道路出现海水倒灌和洪涝。多个监测站水位超过警戒线，促使当局发布警报并疏导交通。2026年6月17日，中国南方广东省陆丰市，洪水逐渐退去，救援和恢复工作仍在继续。\n\n/中央广播电视总台\n在广东省陆丰市，连日强降雨引发的洪水已逐渐退去。当局继续开展排水、清淤、救灾物资分发和防疫措施。截至周三下午6时，陆丰市甲西镇已设立21个临时安置点，转移安置居民496人。2026年6月17日，中国东南部福建省宁德市一条省道发生山体滑坡。\n\n/中央广播电视总台\n在福建省宁德市，持续降雨导致土壤饱和，周三在207省道一段引发山体滑坡，交通一度中断。经过五个多小时的紧急抢通，该路段于当天晚些时候恢复双向通行。"
+      "fullTextCn": "巴基斯坦副总理兼外长穆罕默德·伊沙克·达尔周一重申了该国对上海合作组织的承诺，称其为促进区域合作、和平、安全与经济发展的重要平台。在庆祝上合组织成立25周年的致辞中，达尔向该组织及其成员国表示祝贺，指出该组织自2001年成立以来已发展成为区域合作的重要论坛。达尔表示：“25周年里程碑印证了‘上海精神’的持久力量，它继续以互信、平等、尊重文化多样性、共同发展和建设性接触指引我们。”外长指出，巴基斯坦从2017年由上合组织观察员国晋升为正式成员国，体现了其对多边主义和区域合作的坚定承诺。巴基斯坦仍坚定致力于《上合组织宪章》的原则和目标，并赞赏该组织对国际法、相互尊重和友好睦邻关系的重视。\n\n外长补充说，伊斯兰堡将继续推行前瞻性和以行动为导向的议程，重点扩大经济合作、加强区域互联互通并深化上合组织成员国间的人文交流。在强调该组织对区域稳定的贡献时，达尔赞扬了上合组织在促进和平与安全方面的作用，并强调巴基斯坦珍视其打击恐怖主义、分裂主义和极端主义的合作努力。除安全合作外，外长对上合组织在经济创新、数字创新、能源安全以及推动本币在相互交易中使用等方面的举措表示欢迎。据外长称，巴基斯坦已准备好为贸易、投资、粮食安全、气候韧性、公共卫生、教育和可持续发展等领域的更大区域合作做出贡献。达尔还表示，巴基斯坦期待于今年晚些时候担任上合组织国家元首理事会主席国，并于2027年主办上合组织峰会。"
     }
   ]
 }
