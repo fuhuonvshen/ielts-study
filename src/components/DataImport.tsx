@@ -5,16 +5,24 @@ import { parseLine, transformWord } from '@/services/importService'
 import { useWordStore } from '@/stores/wordStore'
 import type { Word } from '@/types'
 
+const WORD_LISTS = [
+  { id: 'IELTS', label: 'IELTS', file: 'IELTSword.json', desc: '雅思词汇 (~3000 words)' },
+  { id: 'CET4', label: 'CET-4', file: 'CET4.json', desc: '四级词汇' },
+]
+
 export function DataImport() {
+  const [selected, setSelected] = useState('IELTS')
   const [isImporting, setIsImporting] = useState(false)
   const [progress, setProgress] = useState(0)
   const { loadWords, setImported } = useWordStore()
+
+  const currentList = WORD_LISTS.find((l) => l.id === selected) || WORD_LISTS[0]
 
   const handleImport = async () => {
     setIsImporting(true)
     setProgress(0)
     try {
-      const response = await fetch(import.meta.env.BASE_URL + 'IELTSword.json')
+      const response = await fetch(import.meta.env.BASE_URL + currentList.file)
       if (!response.ok) throw new Error('Failed to load JSON')
       const text = await response.text()
       const lines = text.trim().split('\n')
@@ -41,11 +49,26 @@ export function DataImport() {
           <Upload className="h-8 w-8 text-primary-500" />
         </div>
       </div>
-      <h2 className="mb-2 text-lg font-semibold">Import IELTS Vocabulary</h2>
-      <p className="mb-6 text-sm text-gray-500">Load words from IELTSword.json to get started with your practice</p>
+      <h2 className="mb-2 text-lg font-semibold">Import Vocabulary</h2>
+      <p className="mb-4 text-sm text-gray-500">Choose a word list to get started</p>
+
+      {/* Word list selector */}
+      <div className="mb-6 inline-flex rounded-xl bg-gray-100 p-1">
+        {WORD_LISTS.map((list) => (
+          <button key={list.id} onClick={() => setSelected(list.id)}
+            className={`rounded-lg px-5 py-2 text-sm font-medium transition-all ${
+              selected === list.id ? 'bg-white text-gray-800 shadow-sm' : 'text-gray-500 hover:text-gray-700'
+            }`}
+          >
+            {list.label}
+          </button>
+        ))}
+      </div>
+      <p className="mb-6 text-xs text-gray-400">{currentList.desc}</p>
+
       <button onClick={handleImport} disabled={isImporting}
         className="inline-flex items-center gap-2 rounded-2xl bg-primary-500 px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-primary-600 disabled:bg-gray-200 disabled:text-gray-400">
-        {isImporting ? <><Loader2 className="h-4 w-4 animate-spin" /> Importing... {Math.round(progress * 100)}%</> : <><Upload className="h-4 w-4" /> Import Words</>}
+        {isImporting ? <><Loader2 className="h-4 w-4 animate-spin" /> Importing... {Math.round(progress * 100)}%</> : <><Upload className="h-4 w-4" /> Import {currentList.label} Words</>}
       </button>
       {isImporting && (
         <div className="mt-4 h-1.5 w-full overflow-hidden rounded-full bg-gray-100">
