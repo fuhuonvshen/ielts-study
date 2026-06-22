@@ -14,6 +14,7 @@ interface PracticeState {
   layoutRatio: LayoutRatio
   contentScale: ContentScale
   practicePool: Word[] | null
+  isWrongBookSession: boolean
   playbackRate: PlaybackRate
   repeatCount: RepeatCount
 
@@ -25,6 +26,7 @@ interface PracticeState {
   setLayoutRatio: (ratio: LayoutRatio) => void
   setContentScale: (scale: ContentScale) => void
   setPracticePool: (pool: Word[] | null) => void
+  setWrongBookSession: (v: boolean) => void
   setPlaybackRate: (rate: PlaybackRate) => void
   setRepeatCount: (count: RepeatCount) => void
 }
@@ -37,6 +39,7 @@ export const usePracticeStore = create<PracticeState>((set, get) => ({
   layoutRatio: 0.5,
   contentScale: 1.3,
   practicePool: null,
+  isWrongBookSession: false,
   playbackRate: 1,
   repeatCount: 1,
 
@@ -97,12 +100,14 @@ export const usePracticeStore = create<PracticeState>((set, get) => ({
   endSession: () => {
     set((state) => ({
       session: state.session ? { ...state.session, isComplete: true } : null,
+      isWrongBookSession: false,
     }))
   },
 
   setLayoutRatio: (ratio) => set({ layoutRatio: ratio }),
   setContentScale: (scale) => set({ contentScale: scale }),
   setPracticePool: (pool) => set({ practicePool: pool }),
+  setWrongBookSession: (v) => set({ isWrongBookSession: v }),
   setPlaybackRate: (rate) => set({ playbackRate: rate }),
   setRepeatCount: (count) => set({ repeatCount: count }),
 }))

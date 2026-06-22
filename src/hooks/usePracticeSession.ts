@@ -4,6 +4,7 @@ import { useWordStore } from '@/stores/wordStore'
 import { generateOptions, getRandomWordsForSession } from '@/services/practiceService'
 import { pickRandom } from '@/lib/utils'
 import { savePracticeRecord, updateWordPracticeStats } from '@/services/statsService'
+import { removeFromWrongBook } from '@/lib/db'
 import type { PracticeMode } from '@/types'
 
 export function usePracticeSession(mode: PracticeMode, count: number = 10) {
@@ -26,9 +27,10 @@ export function usePracticeSession(mode: PracticeMode, count: number = 10) {
     let words
     if (pool && pool.length > 0) {
       words = pickRandom(pool, Math.min(count, pool.length))
-      setPracticePool(null) // 用完即清
+      setPracticePool(null)
     } else {
       words = await getRandomWordsForSession(count)
+      usePracticeStore.getState().setWrongBookSession(false)
     }
     if (words.length > 0 && epoch === sessionEpochRef.current) {
       startSession(mode, words)
@@ -73,6 +75,11 @@ export function usePracticeSession(mode: PracticeMode, count: number = 10) {
       await updateWordPracticeStats(word.id, isCorrect)
     } catch {
       // statsService may not exist yet — that's OK for now
+    }
+
+    // If this is a wrong-book session and answer is correct, remove from wrong book
+    if (isCorrect && usePracticeStore.getState().isWrongBookSession) {
+      await removeFromWrongBook(word.id)
     }
 
     storeNextWord()

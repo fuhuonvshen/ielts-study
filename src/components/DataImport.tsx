@@ -6,8 +6,9 @@ import { useWordStore } from '@/stores/wordStore'
 import type { Word } from '@/types'
 
 const WORD_LISTS = [
-  { id: 'IELTS', label: 'IELTS', file: 'IELTSword.json', desc: '雅思词汇 (~3000 words)' },
+  { id: 'IELTS', label: 'IELTS', file: 'IELTSword.json', desc: '雅思词汇' },
   { id: 'CET4', label: 'CET-4', file: 'CET4.json', desc: '四级词汇' },
+  { id: 'CET8', label: '专八', file: 'Level8.json', desc: '专八词汇' },
 ]
 
 export function DataImport() {

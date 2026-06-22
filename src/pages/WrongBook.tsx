@@ -12,6 +12,7 @@ const PAGE_SIZE = 20
 export function WrongBook() {
   const navigate = useNavigate()
   const setPracticePool = usePracticeStore((s) => s.setPracticePool)
+  const setWrongBookSession = usePracticeStore((s) => s.setWrongBookSession)
   const [wrongWords, setWrongWords] = useState<Word[]>([])
   const [isLoading, setIsLoading] = useState(true)
   const [page, setPage] = useState(1)
@@ -54,7 +55,7 @@ export function WrongBook() {
         </p>
         {wrongWords.length > 0 && (
           <button
-            onClick={() => { setPracticePool(wrongWords); navigate('/practice') }}
+            onClick={() => { setPracticePool(wrongWords); setWrongBookSession(true); navigate('/practice') }}
             className="flex items-center gap-1.5 rounded-xl bg-primary-500 px-4 py-2 text-sm font-semibold text-white"
           >
             <Play className="h-4 w-4" /> Practice These
