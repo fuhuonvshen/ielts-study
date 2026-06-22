@@ -11,7 +11,7 @@ const WORD_LISTS = [
   { id: 'CET8', label: '专八', file: 'Level8.json', desc: '专八词汇' },
 ]
 
-export function DataImport() {
+export function DataImport({ onComplete }: { onComplete?: () => void }) {
   const [selected, setSelected] = useState('IELTS')
   const [isImporting, setIsImporting] = useState(false)
   const [progress, setProgress] = useState(0)
@@ -39,6 +39,7 @@ export function DataImport() {
       }
       setImported(true)
       await loadWords()
+      onComplete?.()
     } catch (err) { console.error('Import error:', err) }
     finally { setIsImporting(false) }
   }
