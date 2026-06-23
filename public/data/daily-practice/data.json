@@ -1,52 +1,265 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "articles": [
     {
       "id": 1,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/china/feature/2026-06-23/detail-ihfftxzk2706210.shtml",
+      "title": "Hong Kong fire survivors rebuild lives from ashes",
+      "titleCn": "香港火灾幸存者从废墟中重建生活",
+      "summary": "Lau is counting the days to June 30, a deadline that offers survivors of Hong Kong's Wang Fuk Court fire tragedy a potential new start in life after about seven months in the wilderness.",
+      "summaryCn": "香港旺角富苑火灾幸存者在政府收购计划和社会支持下，逐步从灾难中恢复并重建家园。",
+      "wordCount": 1814,
+      "paragraphs": [
+        {
+          "en": "Lau is counting the days to June 30, a {{0}} that offers {{1}} of Hong Kong's Wang Fuk Court fire tragedy a potential new start in life after about seven months in the wilderness. It's the first {{2}} date for affected apartment owners to take up the Hong Kong Special Administrative Region government's buyout offer for their burned-out apartments. An acceptance letter will {{3}} an owner to take part in the \"first-round selection\" for a new home under a special sales program. A {{4}} will determine who chooses first. \"The draw could lead us anywhere,\" Lau said.",
+          "cn": "刘女士正在倒计时到6月30日，这个截止日期为香港旺角富苑火灾的幸存者提供了在荒野中度过约七个月后潜在的新生活起点。这是受影响的公寓业主接受香港特别行政区政府对其烧毁公寓收购要约的第一个指定日期。接受信将使业主有权参加特别销售计划下的“首轮选择”新房。抽签将决定谁先选择。“抽签可能把我们带到任何地方，”刘女士说。"
+        },
+        {
+          "en": "\"Still, a place to call my own is, in the end, better than any rented room.\"\nLau had just completed {{5}} of her home on the 16th floor of Wang Sun House, one of eight towers on the estate, when the blaze {{6}} Wang Fuk Court on Nov 26. Within hours, seven buildings were ablaze. The {{7}} raged for 43 hours, and 168 people lost their lives in the city's deadliest fire in nearly eight decades. The apartment complex in Tai Po district, near Hong Kong's boundary with the Chinese mainland, was home to more than 4,600 residents. Lau and her family are among almost 2,000 {{8}} households piecing their lives back together after the disaster.",
+          "cn": "“尽管如此，一个属于自己的地方终究比任何租来的房间好。”刘女士刚刚完成她在旺新大厦16楼的家装修，这是该小区八座塔楼之一，11月26日大火吞噬了旺角富苑。几小时内，七座建筑起火。大火肆虐了43小时，168人在这场近八十年来香港最致命的火灾中丧生。位于大埔区、靠近香港与中国大陆边界的小区曾是超过4600名居民的家。刘女士和她的家人是近2000个流离失所的家庭之一，他们在灾难后努力重建生活。"
+        },
+        {
+          "en": "Lau, her husband, and two sons moved three times in the month following the fire. Despite being provided a {{9}} shelter by the HKSAR government, they accepted a friend's offer to live in a beauty salon, she said. However, Lau's husband was too {{10}} to linger in the salon during the day as customers streamed in. He went to a nearby park and sat there from \"sunrise to sunset\", she said. \"I felt so sorry for him and found us somewhere else to live as fast as I could,\" Lau said.",
+          "cn": "刘女士、她的丈夫和两个儿子在火灾后的一个月内搬了三次家。尽管香港特区政府提供了临时庇护所，但他们接受了朋友的建议，住在一家美容院里，她说。然而，刘女士的丈夫白天因顾客络绎不绝而尴尬地待在美容院。他去附近的公园，从“日出坐到日落”，她说。“我为他感到非常难过，尽快找到了其他地方住，”刘女士说。"
+        },
+        {
+          "en": "Resettlement top concern\nSome of the surviving Wang Fuk Court residents believe the path ahead is clear in outline, if not in details. The HKSAR government has offered Wang Fuk Court apartment owners {{12}} prices of HK $8,000 ($1,020) or HK $10,500 per square foot, either as cash or a \"flat-for-flat\" exchange voucher. Wang Chi House, the sole tower spared from the blaze, will be included only if at least 75 percent of owners agree to the buyout plan by June 30. The total cost of acquiring all eight blocks is estimated at HK $7.8 billion, involving HK $5 billion in public funds and HK $2.8 billion from a support fund established by the government. A number of residents China Daily spoke to described {{11}} as \"{{13}}\" and \"{{14}}\".",
+          "cn": "重新安置是首要关切。一些幸存的旺角富苑居民认为，即使细节不明确，前方的道路大体清晰。香港特区政府已向旺角富苑公寓业主提供每平方英尺8000港元（1020美元）或10500港元的收购价格，可以是现金或“房换房”交换券。唯一幸免于火灾的旺智大厦只有在6月30日前至少75%的业主同意收购计划时才会被纳入。收购所有八座楼的总成本估计为78亿港元，包括50亿港元的公共资金和28亿港元来自政府设立的支援基金。《中国日报》采访的一些居民将重新安置描述为“迷宫般的”和“令人迷失方向的”。"
+        },
+        {
+          "en": "Their questions mainly related to the size of the new residences to be offered and their locations. Joe Wong, whose family of five lived in Wang Tai House in the estate, said he is now a \"{{15}} man\". Part of his daily routine used to be walking his daughter to her primary school in Tai Po. Now, he lies awake at night wondering whether the flats on offer will match what they once had, with a {{16}} living space, and transport and medical care within reach. Wong, who said his concerns are shared by many other former residents, also hopes for a sense of community and an established school network at his new home.",
+          "cn": "他们的问题主要涉及将提供的新住宅的大小和位置。乔·王，他的五口之家曾住在小区内的旺泰大厦，他说他现在是一个“流离失所的人”。他过去日常的一部分是送女儿去大埔的小学。现在，他彻夜难眠，担心提供的公寓是否能与他们曾经拥有的相匹配，具有可比的生活空间，以及交通和医疗便利。王说，他的担忧与许多其他前居民共享，他还希望在新家有一个社区感和完善的学校网络。"
+        },
+        {
+          "en": "Under the official special sale program, 10 developments are in the {{17}}. The earliest project could welcome residents by the end of 2026. The last developments will not be ready until 2030 or 2031. Among the projects is a two-phase new development in Tai Po featuring 1,500 units. The earliest move-in date is expected to be in 2029 under the most optimistic forecast.",
+          "cn": "根据官方的特别销售计划，有10个开发项目正在进行中。最早的项目可能在2026年底迎接居民。最后的开发项目要到2030年或2031年才能准备好。其中项目之一是大埔的一个两期新开发项目，提供1500个单位。在最乐观的预测下，最早的入住日期预计在2029年。"
+        },
+        {
+          "en": "The government has ruled out rebuilding on the Wang Fuk Court site citing technical {{18}} and a drawn-out timeline. But some residents remain hopeful that the authorities might reconsider rebuilding the estate on the old site or nearby. Generous donors, inquiry\nOn Nov 27, the day after the fire, a dedicated assistance fund — the Support Fund for Wang Fuk Court in Tai Po — was launched with HK $300 million in start-up capital from the HKSAR government. Within a day, public {{19}} from across the country added another HK $500 million. By the third day, the total had reached HK $1.2 billion.",
+          "cn": "政府已排除在旺角富苑原址重建的可能性，理由是技术限制和漫长的时间表。但一些居民仍希望当局可能重新考虑在原址或附近重建小区。慷慨的捐赠与调查。11月27日，火灾后的第二天，一个专门的援助基金——大埔旺角富苑支援基金——启动，初始资金来自香港特区政府的3亿港元。一天之内，来自全国各地的公众捐款又增加了5亿港元。到第三天，总额已达到12亿港元。"
+        },
+        {
+          "en": "The donations kept rolling in and by late February the fund had hit HK $4.7 billion. About 98 percent of the public donations were in amounts of HK $10,000 or less, authorities disclosed earlier this year, adding they were likely from \"ordinary people\". Large contributions of over HK $1 million from institutions and companies numbered more than 700. Some of the money has already been used for 13 support programs, including condolence and funeral payments for the families of the deceased, according to the fund's official website. Funds have also been allocated for living allowances, rent and relocation subsidies for displaced residents, along with grants and subsidies for affected students, workers, and foreign domestic helpers.",
+          "cn": "捐款持续涌入，到2月底，基金已达到47亿港元。当局今年早些时候透露，约98%的公众捐款金额为1万港元或更少，并补充说这些可能来自“普通人”。来自机构和公司超过100万港元的大额捐款超过700笔。根据基金官方网站，部分资金已用于13个支援项目，包括为死者家属提供的慰问和丧葬费用。资金也已分配用于流离失所居民的生活津贴、租金和搬迁补贴，以及受影响的学生、工人和外籍家庭佣工的补助和津贴。"
+        },
+        {
+          "en": "A Chinese New Year goodwill token was also offered. Multiple private charities have also been distributing funds raised in the fire's aftermath. In March, the Hong Kong Red Cross reported over HK $530 million in donations. The Red Cross said the donations would provide urgent relief funds as well as financial and psychological support for Wang Fuk Court fire victims. They will also help fund a five-year community program, providing training in disaster preparedness and first aid.",
+          "cn": "还提供了春节慰问金。多个私人慈善机构也在分发火灾后筹集的资金。3月，香港红十字会报告超过5.3亿港元的捐款。红十字会表示，这些捐款将为旺角富苑火灾受害者提供紧急救济资金以及财务和心理支持。它们还将资助一个为期五年的社区项目，提供备灾和急救培训。"
+        },
+        {
+          "en": "Meanwhile, an independent commission was formed in December, tasked with uncovering the root structural flaws leading to the blaze and its exceptionally rapid spread. The committee held 24 public hearings from March to early May. Three more are scheduled for Monday, Wednesday and Thursday. Evidence at the hearings has indicated a litany of suspected human factors in the blaze. The list includes: the estate's main fire alarm being deactivated during the fire; flammable scaffolding mesh and foam panels being used for renovation work; and the maintenance project's consultant and contractors likely rigging the tendering process.",
+          "cn": "与此同时，一个独立委员会于12月成立，负责查明导致火灾及其异常迅速蔓延的根本结构缺陷。委员会从3月到5月初举行了24次公开听证会。另有三次安排在周一、周三和周四。听证会上的证据表明，火灾中存在一系列涉嫌人为因素。清单包括：小区主火警在火灾期间被关闭；用于装修工作的易燃脚手架网和泡沫板；以及维护项目的顾问和承包商可能操纵招标过程。"
+        },
+        {
+          "en": "Oversight of the actual on-site maintenance work barely existed, the inquiry also heard. The committee has nine months to determine the fire's cause and recommend systemic reforms. Local authorities have already floated a raft of legislative amendments and additional fire safety-related rules to overhaul building maintenance and fire-service regulation. Seven individuals and two companies — the contractor and engineering consultant involved in the estate's renovation work — appeared in court on June 10 to face 25 offenses including conspiracy to defraud, money laundering, attempting to pervert the course of justice, and tax evasion. Charred memories\nDisplaced families from the estate's seven fire-ravaged blocks were allowed to return to the site for the first time on April 20 to retrieve what remained of their possessions.",
+          "cn": "调查还得知，对实际现场维护工作的监督几乎不存在。委员会有九个月的时间来确定火灾原因并建议系统性改革。地方当局已提出一系列立法修正案和额外的消防安全相关规则，以彻底改革建筑维护和消防服务监管。七名个人和两家公司——参与小区装修工程的承包商和工程顾问——于6月10日出庭，面临25项指控，包括串谋诈骗、洗钱、试图妨碍司法公正和逃税。烧焦的记忆。来自小区七座被火灾摧毁的楼的流离失所家庭于4月20日首次获准返回现场，取回他们剩余的财物。"
+        },
+        {
+          "en": "For many, it was also an opportunity to say goodbye to the place they once called home. Among them were Gabby and Antonio, a married couple from Wang Sun House in their 40s. Inside their apartment, the plaster on the smoke-stained walls hung like ragged sheets. The door was burned through, and building debris littered the floor. \"We braced ourselves beforehand,\" they said.",
+          "cn": "对许多人来说，这也是一个向他们曾经称之为家的地方告别的机会。其中包括加比和安东尼奥，一对来自旺新大厦的40多岁已婚夫妇。在他们的公寓内，烟熏墙壁上的灰泥像破布一样挂着。门被烧穿，建筑碎片散落在地板上。“我们事先做好了心理准备，”他们说。"
+        },
+        {
+          "en": "\"The stair climb, and our flat's condition, were about what we imagined.\"\nHowever, there was some joy amid the ruins. Antonio retrieved one of their wedding rings from their bedroom using a metal detector. Gabby also pulled some of her old drawings from the debris. On a yellowed sheet of paper with charred edges was written the word \"Family\". She plans to have the page framed and displayed once they settle into a new home.",
+          "cn": "“爬楼梯和我们公寓的状况，大致如我们所想象。”然而，废墟中也有一些喜悦。安东尼奥用金属探测器从卧室里找到了他们的结婚戒指之一。加比还从碎片中拉出了一些她旧画作。在一张边缘烧焦的发黄纸上写着“家庭”一词。她计划在搬进新家后把这页纸装裱起来展示。"
+        },
+        {
+          "en": "At Wang Sun House, Lau was among the first former residents to go upstairs. Unfortunately, she said gold ingots she had in her apartment were missing. She reported the suspected theft to the police. By May 30, a total of 142 such reports had been made by Wang Fuk Court residents, with 16 cases remaining open, Hong Kong authorities said. A local official reported that 1,674 of the 1,736 affected households in the seven fire-hit buildings — 6,265 people, including former residents, friends and helpers — had gone upstairs during the visiting period from April 20 to May 4.",
+          "cn": "在旺新大厦，刘女士是首批上楼的前居民之一。不幸的是，她说她公寓里的金条不见了。她向警方报告了疑似盗窃。截至5月30日，旺角富苑居民共提交了142份此类报告，其中16起案件仍在调查中，香港当局表示。一名地方官员报告说，在七座火灾建筑中的1736户受影响家庭中，有1674户——包括前居民、朋友和帮手在内的6265人——在4月20日至5月4日的参观期间上了楼。"
+        },
+        {
+          "en": "Around 50 opted out after viewing photos of their flats. Fewer than 10 required separate arrangements, the official reported. Residents of Wang Chi House — the sole block untouched by the blaze — had made two return trips by May 17. A second round of visits to the seven fire-hit buildings ran from May 21 to 29. 'Not alone'\nMonths on from the inferno, Lau still gets goose bumps just talking about it.",
+          "cn": "约50人在查看公寓照片后选择退出。该官员报告说，不到10人需要单独安排。旺智大厦——唯一未受火灾影响的楼——的居民截至5月17日已进行了两次返回。对七座火灾建筑的第二次参观于5月21日至29日进行。“并不孤单”。火灾过去数月后，刘女士一谈起这件事仍然起鸡皮疙瘩。"
+        },
+        {
+          "en": "One of her neighbors lost a child in the fire, and a playmate of Lau's child lost her mother. George Cheung Chi-lim, aged in his 70s, and his wife suffered physical injuries and have been diagnosed with post-traumatic stress disorder. Joe Wong said his seven-year-old is \"a different person\" now — \"touchier and easily angered\". Despite the negative psychological impacts of the tragedy, the survivors China Daily spoke to all agreed they were not facing their problems alone. Lau said she still sees her old neighbors.",
+          "cn": "她的一个邻居在火灾中失去了一个孩子，刘女士孩子的一个玩伴失去了母亲。70多岁的乔治·张智林和他的妻子身体受伤，并被诊断出患有创伤后应激障碍。乔·王说他七岁的孩子现在“变了一个人”——“更敏感，容易生气”。尽管悲剧带来了负面心理影响，《中国日报》采访的幸存者都同意他们并非独自面对问题。刘女士说她仍然见到她的老邻居。"
+        },
+        {
+          "en": "\"We had one good cry together,\" she said. \"Now we silently agree not to pick the wounds anymore.\"\nInstead, they share memories of leaning on one another amid the calamity: water poured from upstairs windows down onto the flames, and Styrofoam window seals carried inside to stop the possibility of any molten drops falling on the floors below. Cheung, a resident of Wang Fuk Court for over four decades, testified before the independent commission in March. He spoke of climbing onto a windowsill and throwing water on the flames. He said he and his wife took in an elderly neighbor who could not flee.",
+          "cn": "“我们一起大哭了一场，”她说。“现在我们默默同意不再揭伤疤。”相反，他们分享在灾难中相互依靠的记忆：水从楼上窗户泼向火焰，以及将泡沫窗封条带入室内以防止熔滴掉落到下层。张先生是旺角富苑四十多年的居民，3月在独立委员会作证。他说他爬上窗台向火焰泼水。他说他和妻子收留了一位无法逃离的年长邻居。"
+        },
+        {
+          "en": "They were all finally rescued five hours later. The Cheungs said they now \"treasure each other even more\". Gabby and Antonio returned to Wang Fuk Court again on May 23, this time with their two children, aged 7 and 11. \"They need to say bye-bye as well,\" Gabby said, \"to the house, and to their stuffed animal toys that they'll never have back.\"\nWong said he spends more time with his daughter nowadays and maintains a steady line of communication with her school's social worker to ensure emotional support for the seven-year-old. \"Being there, that's what matters,\" he said.",
+          "cn": "他们最终在五小时后全部获救。张夫妇说他们现在“更加珍惜彼此”。加比和安东尼奥于5月23日再次返回旺角富苑，这次带着他们7岁和11岁的两个孩子。“他们也需要说再见，”加比说，“向房子，以及他们再也拿不回来的毛绒玩具。”王说他现在花更多时间陪女儿，并与学校的社工保持稳定联系，以确保为这个七岁孩子提供情感支持。“在那里，这才是重要的，”他说。"
+        },
+        {
+          "en": "The HKSAR government has introduced a \"one social worker per household\" service. Around 2,000 social workers from the Social Welfare Department are available to help the fire victims handle queries on financial aid and supplies, and arrange counseling sessions. Wong said the social worker assigned to him checks in regularly, and has visited the family at their temporary home. Still, he said he feels melancholy about how the old community — his daughter's childhood playmates, his own circle of friends — has disappeared. \"We can hardly meet up now,\" he said.",
+          "cn": "香港特区政府推出了“一户一社工”服务。社会福利署约2000名社工可帮助火灾受害者处理财务援助和物资的查询，并安排咨询课程。王说分配给他的社工定期检查，并已到他们临时住所拜访。尽管如此，他说他对旧社区——女儿的童年玩伴、他自己的朋友圈——已经消失感到忧郁。“我们现在几乎见不到面了，”他说。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "deadline",
+          "hint": "n. 截止日期",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "survivors",
+          "hint": "n. 幸存者",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "designated",
+          "hint": "adj. 指定的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "entitle",
+          "hint": "v. 使有资格",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "ballot",
+          "hint": "n. 抽签",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "renovations",
+          "hint": "n. 装修",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "engulfed",
+          "hint": "v. 吞噬",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "inferno",
+          "hint": "n. 大火",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "displaced",
+          "hint": "adj. 流离失所的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "temporary",
+          "hint": "adj. 临时的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "embarrassed",
+          "hint": "adj. 尴尬的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "resettlement",
+          "hint": "n. 重新安置",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "acquisition",
+          "hint": "n. 收购",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "labyrinthine",
+          "hint": "adj. 迷宫般的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "disorienting",
+          "hint": "adj. 令人迷失方向的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "dislocated",
+          "hint": "adj. 流离失所的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "comparable",
+          "hint": "adj. 可比的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "pipeline",
+          "hint": "n. 管道（指项目）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "constraints",
+          "hint": "n. 限制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "donations",
+          "hint": "n. 捐款",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "Lau is counting the days to June 30, a deadline that offers survivors of Hong Kong's Wang Fuk Court fire tragedy a potential new start in life after about seven months in the wilderness.\nIt's the first designated date for affected apartment owners to take up the Hong Kong Special Administrative Region government's buyout offer for their burned-out apartments.\nAn acceptance letter will entitle an owner to take part in the \"first-round selection\" for a new home under a special sales program.\nA ballot will determine who chooses first.\n\"The draw could lead us anywhere,\" Lau said. \"Still, a place to call my own is, in the end, better than any rented room.\"\nLau had just completed renovations of her home on the 16th floor of Wang Sun House, one of eight towers on the estate, when the blaze engulfed Wang Fuk Court on Nov 26.\nWithin hours, seven buildings were ablaze. The inferno raged for 43 hours, and 168 people lost their lives in the city's deadliest fire in nearly eight decades.\nThe apartment complex in Tai Po district, near Hong Kong's boundary with the Chinese mainland, was home to more than 4,600 residents. Lau and her family are among almost 2,000 displaced households piecing their lives back together after the disaster.\nLau, her husband, and two sons moved three times in the month following the fire.\nDespite being provided a temporary shelter by the HKSAR government, they accepted a friend's offer to live in a beauty salon, she said. However, Lau's husband was too embarrassed to linger in the salon during the day as customers streamed in.\nHe went to a nearby park and sat there from \"sunrise to sunset\", she said. \"I felt so sorry for him and found us somewhere else to live as fast as I could,\" Lau said.\nResettlement top concern\nSome of the surviving Wang Fuk Court residents believe the path ahead is clear in outline, if not in details.\nThe HKSAR government has offered Wang Fuk Court apartment owners acquisition prices of HK $8,000 ($1,020) or HK $10,500 per square foot, either as cash or a \"flat-for-flat\" exchange voucher.\nWang Chi House, the sole tower spared from the blaze, will be included only if at least 75 percent of owners agree to the buyout plan by June 30.\nThe total cost of acquiring all eight blocks is estimated at HK $7.8 billion, involving HK $5 billion in public funds and HK $2.8 billion from a support fund established by the government.\nA number of residents China Daily spoke to described resettlement as \"labyrinthine\" and \"disorienting\". Their questions mainly related to the size of the new residences to be offered and their locations.\nJoe Wong, whose family of five lived in Wang Tai House in the estate, said he is now a \"dislocated man\". Part of his daily routine used to be walking his daughter to her primary school in Tai Po.\nNow, he lies awake at night wondering whether the flats on offer will match what they once had, with a comparable living space, and transport and medical care within reach. Wong, who said his concerns are shared by many other former residents, also hopes for a sense of community and an established school network at his new home.\nUnder the official special sale program, 10 developments are in the pipeline. The earliest project could welcome residents by the end of 2026. The last developments will not be ready until 2030 or 2031.\nAmong the projects is a two-phase new development in Tai Po featuring 1,500 units. The earliest move-in date is expected to be in 2029 under the most optimistic forecast.\nThe government has ruled out rebuilding on the Wang Fuk Court site citing technical constraints and a drawn-out timeline. But some residents remain hopeful that the authorities might reconsider rebuilding the estate on the old site or nearby.\nGenerous donors, inquiry\nOn Nov 27, the day after the fire, a dedicated assistance fund — the Support Fund for Wang Fuk Court in Tai Po — was launched with HK $300 million in start-up capital from the HKSAR government.\nWithin a day, public donations from across the country added another HK $500 million. By the third day, the total had reached HK $1.2 billion.\nThe donations kept rolling in and by late February the fund had hit HK $4.7 billion.\nAbout 98 percent of the public donations were in amounts of HK $10,000 or less, authorities disclosed earlier this year, adding they were likely from \"ordinary people\". Large contributions of over HK $1 million from institutions and companies numbered more than 700.\nSome of the money has already been used for 13 support programs, including condolence and funeral payments for the families of the deceased, according to the fund's official website.\nFunds have also been allocated for living allowances, rent and relocation subsidies for displaced residents, along with grants and subsidies for affected students, workers, and foreign domestic helpers. A Chinese New Year goodwill token was also offered.\nMultiple private charities have also been distributing funds raised in the fire's aftermath. In March, the Hong Kong Red Cross reported over HK $530 million in donations.\nThe Red Cross said the donations would provide urgent relief funds as well as financial and psychological support for Wang Fuk Court fire victims. They will also help fund a five-year community program, providing training in disaster preparedness and first aid.\nMeanwhile, an independent commission was formed in December, tasked with uncovering the root structural flaws leading to the blaze and its exceptionally rapid spread.\nThe committee held 24 public hearings from March to early May. Three more are scheduled for Monday, Wednesday and Thursday.\nEvidence at the hearings has indicated a litany of suspected human factors in the blaze. The list includes: the estate's main fire alarm being deactivated during the fire; flammable scaffolding mesh and foam panels being used for renovation work; and the maintenance project's consultant and contractors likely rigging the tendering process. Oversight of the actual on-site maintenance work barely existed, the inquiry also heard.\nThe committee has nine months to determine the fire's cause and recommend systemic reforms. Local authorities have already floated a raft of legislative amendments and additional fire safety-related rules to overhaul building maintenance and fire-service regulation.\nSeven individuals and two companies — the contractor and engineering consultant involved in the estate's renovation work — appeared in court on June 10 to face 25 offenses including conspiracy to defraud, money laundering, attempting to pervert the course of justice, and tax evasion.\nCharred memories\nDisplaced families from the estate's seven fire-ravaged blocks were allowed to return to the site for the first time on April 20 to retrieve what remained of their possessions.\nFor many, it was also an opportunity to say goodbye to the place they once called home.\nAmong them were Gabby and Antonio, a married couple from Wang Sun House in their 40s. Inside their apartment, the plaster on the smoke-stained walls hung like ragged sheets. The door was burned through, and building debris littered the floor.\n\"We braced ourselves beforehand,\" they said. \"The stair climb, and our flat's condition, were about what we imagined.\"\nHowever, there was some joy amid the ruins. Antonio retrieved one of their wedding rings from their bedroom using a metal detector.\nGabby also pulled some of her old drawings from the debris. On a yellowed sheet of paper with charred edges was written the word \"Family\". She plans to have the page framed and displayed once they settle into a new home.\nAt Wang Sun House, Lau was among the first former residents to go upstairs. Unfortunately, she said gold ingots she had in her apartment were missing. She reported the suspected theft to the police.\nBy May 30, a total of 142 such reports had been made by Wang Fuk Court residents, with 16 cases remaining open, Hong Kong authorities said.\nA local official reported that 1,674 of the 1,736 affected households in the seven fire-hit buildings — 6,265 people, including former residents, friends and helpers — had gone upstairs during the visiting period from April 20 to May 4. Around 50 opted out after viewing photos of their flats. Fewer than 10 required separate arrangements, the official reported.\nResidents of Wang Chi House — the sole block untouched by the blaze — had made two return trips by May 17.\nA second round of visits to the seven fire-hit buildings ran from May 21 to 29.\n'Not alone'\nMonths on from the inferno, Lau still gets goose bumps just talking about it.\nOne of her neighbors lost a child in the fire, and a playmate of Lau's child lost her mother.\nGeorge Cheung Chi-lim, aged in his 70s, and his wife suffered physical injuries and have been diagnosed with post-traumatic stress disorder.\nJoe Wong said his seven-year-old is \"a different person\" now — \"touchier and easily angered\".\nDespite the negative psychological impacts of the tragedy, the survivors China Daily spoke to all agreed they were not facing their problems alone.\nLau said she still sees her old neighbors.\n\"We had one good cry together,\" she said. \"Now we silently agree not to pick the wounds anymore.\"\nInstead, they share memories of leaning on one another amid the calamity: water poured from upstairs windows down onto the flames, and Styrofoam window seals carried inside to stop the possibility of any molten drops falling on the floors below.\nCheung, a resident of Wang Fuk Court for over four decades, testified before the independent commission in March. He spoke of climbing onto a windowsill and throwing water on the flames. He said he and his wife took in an elderly neighbor who could not flee. They were all finally rescued five hours later.\nThe Cheungs said they now \"treasure each other even more\".\nGabby and Antonio returned to Wang Fuk Court again on May 23, this time with their two children, aged 7 and 11.\n\"They need to say bye-bye as well,\" Gabby said, \"to the house, and to their stuffed animal toys that they'll never have back.\"\nWong said he spends more time with his daughter nowadays and maintains a steady line of communication with her school's social worker to ensure emotional support for the seven-year-old. \"Being there, that's what matters,\" he said.\nThe HKSAR government has introduced a \"one social worker per household\" service. Around 2,000 social workers from the Social Welfare Department are available to help the fire victims handle queries on financial aid and supplies, and arrange counseling sessions.\nWong said the social worker assigned to him checks in regularly, and has visited the family at their temporary home.\nStill, he said he feels melancholy about how the old community — his daughter's childhood playmates, his own circle of friends — has disappeared. \"We can hardly meet up now,\" he said.",
+      "fullTextCn": "刘女士正在倒计时到6月30日，这个截止日期为香港旺角富苑火灾的幸存者提供了在荒野中度过约七个月后潜在的新生活起点。这是受影响的公寓业主接受香港特别行政区政府对其烧毁公寓收购要约的第一个指定日期。接受信将使业主有权参加特别销售计划下的“首轮选择”新房。抽签将决定谁先选择。“抽签可能把我们带到任何地方，”刘女士说。\n\n“尽管如此，一个属于自己的地方终究比任何租来的房间好。”刘女士刚刚完成她在旺新大厦16楼的家装修，这是该小区八座塔楼之一，11月26日大火吞噬了旺角富苑。几小时内，七座建筑起火。大火肆虐了43小时，168人在这场近八十年来香港最致命的火灾中丧生。位于大埔区、靠近香港与中国大陆边界的小区曾是超过4600名居民的家。刘女士和她的家人是近2000个流离失所的家庭之一，他们在灾难后努力重建生活。\n\n刘女士、她的丈夫和两个儿子在火灾后的一个月内搬了三次家。尽管香港特区政府提供了临时庇护所，但他们接受了朋友的建议，住在一家美容院里，她说。然而，刘女士的丈夫白天因顾客络绎不绝而尴尬地待在美容院。他去附近的公园，从“日出坐到日落”，她说。“我为他感到非常难过，尽快找到了其他地方住，”刘女士说。\n\n重新安置是首要关切。一些幸存的旺角富苑居民认为，即使细节不明确，前方的道路大体清晰。香港特区政府已向旺角富苑公寓业主提供每平方英尺8000港元（1020美元）或10500港元的收购价格，可以是现金或“房换房”交换券。唯一幸免于火灾的旺智大厦只有在6月30日前至少75%的业主同意收购计划时才会被纳入。收购所有八座楼的总成本估计为78亿港元，包括50亿港元的公共资金和28亿港元来自政府设立的支援基金。《中国日报》采访的一些居民将重新安置描述为“迷宫般的”和“令人迷失方向的”。\n\n他们的问题主要涉及将提供的新住宅的大小和位置。乔·王，他的五口之家曾住在小区内的旺泰大厦，他说他现在是一个“流离失所的人”。他过去日常的一部分是送女儿去大埔的小学。现在，他彻夜难眠，担心提供的公寓是否能与他们曾经拥有的相匹配，具有可比的生活空间，以及交通和医疗便利。王说，他的担忧与许多其他前居民共享，他还希望在新家有一个社区感和完善的学校网络。\n\n根据官方的特别销售计划，有10个开发项目正在进行中。最早的项目可能在2026年底迎接居民。最后的开发项目要到2030年或2031年才能准备好。其中项目之一是大埔的一个两期新开发项目，提供1500个单位。在最乐观的预测下，最早的入住日期预计在2029年。\n\n政府已排除在旺角富苑原址重建的可能性，理由是技术限制和漫长的时间表。但一些居民仍希望当局可能重新考虑在原址或附近重建小区。慷慨的捐赠与调查。11月27日，火灾后的第二天，一个专门的援助基金——大埔旺角富苑支援基金——启动，初始资金来自香港特区政府的3亿港元。一天之内，来自全国各地的公众捐款又增加了5亿港元。到第三天，总额已达到12亿港元。\n\n捐款持续涌入，到2月底，基金已达到47亿港元。当局今年早些时候透露，约98%的公众捐款金额为1万港元或更少，并补充说这些可能来自“普通人”。来自机构和公司超过100万港元的大额捐款超过700笔。根据基金官方网站，部分资金已用于13个支援项目，包括为死者家属提供的慰问和丧葬费用。资金也已分配用于流离失所居民的生活津贴、租金和搬迁补贴，以及受影响的学生、工人和外籍家庭佣工的补助和津贴。\n\n还提供了春节慰问金。多个私人慈善机构也在分发火灾后筹集的资金。3月，香港红十字会报告超过5.3亿港元的捐款。红十字会表示，这些捐款将为旺角富苑火灾受害者提供紧急救济资金以及财务和心理支持。它们还将资助一个为期五年的社区项目，提供备灾和急救培训。\n\n与此同时，一个独立委员会于12月成立，负责查明导致火灾及其异常迅速蔓延的根本结构缺陷。委员会从3月到5月初举行了24次公开听证会。另有三次安排在周一、周三和周四。听证会上的证据表明，火灾中存在一系列涉嫌人为因素。清单包括：小区主火警在火灾期间被关闭；用于装修工作的易燃脚手架网和泡沫板；以及维护项目的顾问和承包商可能操纵招标过程。\n\n调查还得知，对实际现场维护工作的监督几乎不存在。委员会有九个月的时间来确定火灾原因并建议系统性改革。地方当局已提出一系列立法修正案和额外的消防安全相关规则，以彻底改革建筑维护和消防服务监管。七名个人和两家公司——参与小区装修工程的承包商和工程顾问——于6月10日出庭，面临25项指控，包括串谋诈骗、洗钱、试图妨碍司法公正和逃税。烧焦的记忆。来自小区七座被火灾摧毁的楼的流离失所家庭于4月20日首次获准返回现场，取回他们剩余的财物。\n\n对许多人来说，这也是一个向他们曾经称之为家的地方告别的机会。其中包括加比和安东尼奥，一对来自旺新大厦的40多岁已婚夫妇。在他们的公寓内，烟熏墙壁上的灰泥像破布一样挂着。门被烧穿，建筑碎片散落在地板上。“我们事先做好了心理准备，”他们说。\n\n“爬楼梯和我们公寓的状况，大致如我们所想象。”然而，废墟中也有一些喜悦。安东尼奥用金属探测器从卧室里找到了他们的结婚戒指之一。加比还从碎片中拉出了一些她旧画作。在一张边缘烧焦的发黄纸上写着“家庭”一词。她计划在搬进新家后把这页纸装裱起来展示。\n\n在旺新大厦，刘女士是首批上楼的前居民之一。不幸的是，她说她公寓里的金条不见了。她向警方报告了疑似盗窃。截至5月30日，旺角富苑居民共提交了142份此类报告，其中16起案件仍在调查中，香港当局表示。一名地方官员报告说，在七座火灾建筑中的1736户受影响家庭中，有1674户——包括前居民、朋友和帮手在内的6265人——在4月20日至5月4日的参观期间上了楼。\n\n约50人在查看公寓照片后选择退出。该官员报告说，不到10人需要单独安排。旺智大厦——唯一未受火灾影响的楼——的居民截至5月17日已进行了两次返回。对七座火灾建筑的第二次参观于5月21日至29日进行。“并不孤单”。火灾过去数月后，刘女士一谈起这件事仍然起鸡皮疙瘩。\n\n她的一个邻居在火灾中失去了一个孩子，刘女士孩子的一个玩伴失去了母亲。70多岁的乔治·张智林和他的妻子身体受伤，并被诊断出患有创伤后应激障碍。乔·王说他七岁的孩子现在“变了一个人”——“更敏感，容易生气”。尽管悲剧带来了负面心理影响，《中国日报》采访的幸存者都同意他们并非独自面对问题。刘女士说她仍然见到她的老邻居。\n\n“我们一起大哭了一场，”她说。“现在我们默默同意不再揭伤疤。”相反，他们分享在灾难中相互依靠的记忆：水从楼上窗户泼向火焰，以及将泡沫窗封条带入室内以防止熔滴掉落到下层。张先生是旺角富苑四十多年的居民，3月在独立委员会作证。他说他爬上窗台向火焰泼水。他说他和妻子收留了一位无法逃离的年长邻居。\n\n他们最终在五小时后全部获救。张夫妇说他们现在“更加珍惜彼此”。加比和安东尼奥于5月23日再次返回旺角富苑，这次带着他们7岁和11岁的两个孩子。“他们也需要说再见，”加比说，“向房子，以及他们再也拿不回来的毛绒玩具。”王说他现在花更多时间陪女儿，并与学校的社工保持稳定联系，以确保为这个七岁孩子提供情感支持。“在那里，这才是重要的，”他说。\n\n香港特区政府推出了“一户一社工”服务。社会福利署约2000名社工可帮助火灾受害者处理财务援助和物资的查询，并安排咨询课程。王说分配给他的社工定期检查，并已到他们临时住所拜访。尽管如此，他说他对旧社区——女儿的童年玩伴、他自己的朋友圈——已经消失感到忧郁。“我们现在几乎见不到面了，”他说。"
+    },
+    {
+      "id": 2,
       "category": "military",
       "source": "CGTN",
       "sourceUrl": "https://news.cgtn.com/news/2026-06-18/Read-the-full-text-of-the-14-point-MoU-between-US-and-Iran-1O4dVjqMZs4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
       "title": "Read the full text of the 14-point MoU between US and Iran",
       "titleCn": "阅读美伊14点谅解备忘录全文",
       "summary": "Pakistani Prime Minister Shehbaz Sharif said on Thursday that a memorandum of understanding (MoU) between the United States and Iran has been electronically signed by the leaders of both countries and has entered into force with immediate effect. Here is the full text of the 14-point MoU.",
-      "summaryCn": "巴基斯坦总理宣布美伊已签署14点谅解备忘录，内容包括停火、解除制裁、核不扩散及经济合作等。",
+      "summaryCn": "巴基斯坦总理宣布美伊已签署并立即生效14点谅解备忘录，内容包括停火、解除制裁、核不扩散及经济重建等。",
       "wordCount": 1072,
       "paragraphs": [
         {
-          "en": ", Updated 09:47, 18-Jun-2026Pakistani Prime Minister Shehbaz Sharif said on Thursday that a {{0}} of {{1}} (MoU) between the United States and Iran has been electronically signed by the leaders of both countries and has entered into force with immediate effect. Here is the full text of the 14-point MoU published by media outlets including Iran's official news agency IRNA, CNN and Time Magazine:\n1. The United States of America and the Islamic Republic of Iran and their allies in the current war by signing this MoU, declare the immediate and permanent {{2}} of military operations on all fronts, including in Lebanon, and undertake from now on not to initiate any war or any military operation against each other, and to refrain from the threat or use of force against each other, and ensuring the {{4}} {{5}} and {{3}} of Lebanon. Final deal will confirm the permanent termination of the war on all fronts, including in Lebanon, and other provisions of this paragraph. 2.",
-          "cn": "巴基斯坦总理夏巴兹·谢里夫周四表示，美国和伊朗之间的谅解备忘录已由两国领导人电子签署，并立即生效。以下是伊朗官方通讯社IRNA、CNN和《时代》杂志等媒体发布的14点谅解备忘录全文：\n1. 美利坚合众国和伊朗伊斯兰共和国及其在当前战争中的盟友，通过签署本备忘录，宣布在所有战线（包括黎巴嫩）立即永久停止军事行动，并承诺从今以后不发动任何战争或针对对方的任何军事行动，避免以武力威胁或使用武力，并确保黎巴嫩的领土完整和主权。最终协议将确认在所有战线（包括黎巴嫩）永久结束战争以及本段的其他规定。"
+          "en": ", Updated 09:47, 18-Jun-2026Pakistani Prime Minister Shehbaz Sharif said on Thursday that a {{0}} of {{1}} (MoU) between the United States and Iran has been electronically signed by the leaders of both countries and has entered into force with immediate effect. Here is the full text of the 14-point MoU published by media outlets including Iran's official news agency IRNA, CNN and Time Magazine:\n1. The United States of America and the Islamic Republic of Iran and their allies in the current war by signing this MoU, declare the immediate and permanent {{2}} of military operations on all fronts, including in Lebanon, and undertake from now on not to initiate any war or any military operation against each other, and to refrain from the threat or use of force against each other, and ensuring the territorial {{4}} and {{3}} of Lebanon. Final deal will confirm the permanent termination of the war on all fronts, including in Lebanon, and other provisions of this paragraph. 2.",
+          "cn": "巴基斯坦总理夏巴兹·谢里夫周四表示，美国和伊朗之间的谅解备忘录已由两国领导人电子签署，并立即生效。以下是由伊朗官方通讯社、CNN和《时代》杂志等媒体发布的14点谅解备忘录全文：1. 美利坚合众国和伊朗伊斯兰共和国及其在当前战争中的盟友，通过签署本备忘录，宣布在所有战线（包括黎巴嫩）立即永久停止军事行动，并承诺从今以后不发起任何战争或针对对方的军事行动，避免威胁或使用武力，并确保黎巴嫩的领土完整和主权。最终协议将确认在所有战线（包括黎巴嫩）永久结束战争以及本段的其他规定。2."
         },
         {
-          "en": "The United States of America and the Islamic Republic of Iran undertake to respect each other's sovereignty and territorial integrity and to refrain from interfering in each other's internal affairs. 3. The United States of America and the Islamic Republic of Iran commit to {{6}} and achieving the final deal in maximum 60 days, extendable with mutual consent. 4. Immediately upon the signing of this MoU, the United States of America will begin the removal of its naval {{7}} and any disturbances or {{8}} against the Islamic Republic of Iran, and will fully end the naval blockade within 30 days.",
-          "cn": "2. 美利坚合众国和伊朗伊斯兰共和国承诺尊重彼此的主权和领土完整，不干涉彼此内政。\n3. 美利坚合众国和伊朗伊斯兰共和国承诺在最多60天内谈判并达成最终协议，经双方同意可延长。\n4. 本备忘录签署后，美利坚合众国将立即开始解除对伊朗伊斯兰共和国的海上封锁及任何干扰或障碍，并在30天内完全结束海上封锁。"
+          "en": "The United States of America and the Islamic Republic of Iran undertake to respect each other's sovereignty and territorial integrity and to refrain from {{5}} in each other's internal affairs. 3. The United States of America and the Islamic Republic of Iran commit to {{6}} and achieving the final deal in maximum 60 days, extendable with mutual consent. 4. Immediately upon the signing of this MoU, the United States of America will begin the removal of its naval {{7}} and any disturbances or {{8}} against the Islamic Republic of Iran, and will fully end the naval blockade within 30 days.",
+          "cn": "美利坚合众国和伊朗伊斯兰共和国承诺尊重彼此的主权和领土完整，不干涉彼此内政。3. 美利坚合众国和伊朗伊斯兰共和国承诺在最多60天内谈判并达成最终协议，经双方同意可延长。4. 本备忘录签署后，美利坚合众国将立即开始解除对伊朗伊斯兰共和国的海上封锁及任何干扰或障碍，并在30天内完全结束海上封锁。"
         },
         {
-          "en": "During this period, the traffic of vessels will be in {{9}} to the numbers of pre-war traffic being restored by the Islamic Republic of Iran. The United States of America further undertakes to remove its forces from the {{10}} of the Islamic Republic of Iran within 30 days after the final deal. 5. Upon the signing of this MoU, the Islamic Republic of Iran will make arrangements using its best efforts for the safe passage of commercial vessels with no charge for 60 days only from the Persian Gulf to the Sea of Oman and vice versa. The traffic of commercial vessels will immediately start, and considering the need for removing the technical and military obstacles and {{11}} by the Islamic Republic of Iran, will be instated within 30 days.",
-          "cn": "在此期间，船舶通行量将按伊朗伊斯兰共和国恢复的战前通行量比例进行。美利坚合众国还承诺在最终协议达成后30天内，将其部队从伊朗伊斯兰共和国附近撤离。\n5. 本备忘录签署后，伊朗伊斯兰共和国将尽最大努力安排商船安全通行，在60天内免费从波斯湾到阿曼海及反向通行。商船通行将立即开始，考虑到伊朗伊斯兰共和国需要清除技术和军事障碍及排雷，将在30天内恢复。"
+          "en": "During this period, the traffic of vessels will be in proportion to the numbers of pre-war traffic being restored by the Islamic Republic of Iran. The United States of America further undertakes to remove its forces from the {{9}} of the Islamic Republic of Iran within 30 days after the final deal. 5. Upon the signing of this MoU, the Islamic Republic of Iran will make {{10}} using its best efforts for the safe passage of commercial vessels with no charge for 60 days only from the Persian Gulf to the Sea of Oman and vice versa. The traffic of commercial vessels will immediately start, and considering the need for removing the technical and military {{11}} and {{12}} by the Islamic Republic of Iran, will be instated within 30 days.",
+          "cn": "在此期间，船舶通行量将按伊朗伊斯兰共和国恢复的战前通行量比例进行。美利坚合众国还承诺在最终协议达成后30天内，将其部队撤出伊朗伊斯兰共和国附近区域。5. 本备忘录签署后，伊朗伊斯兰共和国将尽最大努力安排商船安全通行，在60天内免费从波斯湾往返阿曼海。商船通行将立即开始，考虑到伊朗伊斯兰共和国需要清除技术和军事障碍及排雷，将在30天内恢复。"
         },
         {
-          "en": "The Islamic Republic of Iran will conduct dialogue with the Sultanate of Oman to define the future administration and maritime services in the Strait of Hormuz in discussion with other Persian Gulf {{12}} states in line with the applicable international law and the sovereign rights of coastal states of the Strait of Hormuz. 6. The United States of America undertakes with regional partners to develop a definitive, mutually agreed plan with at least $300 billion for the {{13}} and economic development of the Islamic Republic of Iran. The mechanism for the implementation of this plan will be finalized as part of a final deal within 60 days. All required licenses, {{19}} and permissions needed for the relevant financial transactions will be granted by the United States of America.",
-          "cn": "伊朗伊斯兰共和国将与阿曼苏丹国进行对话，以确定霍尔木兹海峡未来的管理和海事服务，并与波斯湾其他沿岸国家根据适用国际法和霍尔木兹海峡沿岸国家的主权权利进行讨论。\n6. 美利坚合众国承诺与地区伙伴共同制定一项明确的、双方同意的计划，至少提供3000亿美元用于伊朗伊斯兰共和国的重建和经济发展。该计划的实施机制将在60天内作为最终协议的一部分最终确定。美利坚合众国将授予相关金融交易所需的所有许可证、豁免和许可。"
+          "en": "The Islamic Republic of Iran will conduct {{13}} with the Sultanate of Oman to define the future {{14}} and {{15}} services in the Strait of Hormuz in discussion with other Persian Gulf littoral states in line with the applicable international law and the sovereign rights of coastal states of the Strait of Hormuz. 6. The United States of America undertakes with regional partners to develop a definitive, mutually agreed plan with at least $300 billion for the {{16}} and economic development of the Islamic Republic of Iran. The mechanism for the implementation of this plan will be finalized as part of a final deal within 60 days. All required licenses, waivers and permissions needed for the relevant financial transactions will be granted by the United States of America.",
+          "cn": "伊朗伊斯兰共和国将与阿曼苏丹国进行对话，以根据适用的国际法和霍尔木兹海峡沿岸国的主权权利，与其他波斯湾沿岸国家协商，确定霍尔木兹海峡未来的管理和海事服务。6. 美利坚合众国承诺与地区伙伴共同制定一项明确的、双方同意的计划，至少提供3000亿美元用于伊朗伊斯兰共和国的重建和经济发展。该计划的实施机制将在60天内作为最终协议的一部分最终确定。美利坚合众国将批准所有相关金融交易所需的许可证、豁免和许可。"
         },
         {
-          "en": "7. The United States of America undertakes to terminate all types of {{14}} against the Islamic Republic of Iran, including the United Nations Security Council resolutions, i.e. IAEA Board of Governors resolutions and all {{15}} US sanctions, primary and secondary, in an agreed-upon schedule as part of the final deal. The Islamic Republic of Iran and the United States of America acknowledge the critical importance of the sanctions-termination issue abovementioned, and expressed their intentions to immediately address these issues in the negotiations, in order to achieve mutual agreement on them. 8.",
-          "cn": "7. 美利坚合众国承诺按照最终协议中商定的时间表，终止对伊朗伊斯兰共和国的所有类型制裁，包括联合国安理会决议、国际原子能机构理事会决议以及所有美国单边制裁（一级和二级）。伊朗伊斯兰共和国和美利坚合众国承认上述制裁终止问题的重要性，并表示有意在谈判中立即解决这些问题，以达成双方协议。"
+          "en": "7. The United States of America undertakes to terminate all types of {{17}} against the Islamic Republic of Iran, including the United Nations Security Council {{18}}, i.e. IAEA Board of Governors resolutions and all {{19}} US sanctions, primary and secondary, in an agreed-upon schedule as part of the final deal. The Islamic Republic of Iran and the United States of America acknowledge the critical importance of the sanctions-termination issue abovementioned, and expressed their intentions to immediately address these issues in the negotiations, in order to achieve mutual agreement on them. 8.",
+          "cn": "7. 美利坚合众国承诺按照最终协议中商定的时间表，终止对伊朗伊斯兰共和国的所有类型制裁，包括联合国安理会决议、国际原子能机构理事会决议以及所有单边美国制裁（一级和二级制裁）。伊朗伊斯兰共和国和美利坚合众国承认上述制裁终止问题的关键重要性，并表示有意在谈判中立即解决这些问题，以达成双方协议。8."
         },
         {
-          "en": "The Islamic Republic of Iran reaffirms that it shall not {{16}} or develop nuclear weapons. The United States of America and the Islamic Republic of Iran have agreed to resolve the {{17}} of stockpiled enriched material, pursuant to a mechanism that will be mutually agreed upon in accordance with the schedule mentioned in Paragraph Seven, with the minimum methodology to be {{18}} on site under the supervision of the IAEA. The two parties also agreed to discuss the issue of enrichment and other mutually agreed matters related to the Islamic Republic of Iran's nuclear needs based on a satisfactory framework being agreed upon in the final deal. The final deal will confirm the provisions of this paragraph. The United States of America and the Islamic Republic of Iran acknowledge the critical importance of the nuclear issues abovementioned and express their intention to immediately address these issues in the negotiations in order to achieve mutual agreement on them.",
-          "cn": "8. 伊朗伊斯兰共和国重申不会获取或发展核武器。美利坚合众国和伊朗伊斯兰共和国同意，根据第七条所述时间表，通过双方商定的机制解决库存浓缩材料的处置问题，最低限度方法是在国际原子能机构监督下现场稀释。双方还同意，基于最终协议中商定的满意框架，讨论浓缩问题以及与伊朗伊斯兰共和国核需求相关的其他双方商定事项。最终协议将确认本段规定。美利坚合众国和伊朗伊斯兰共和国承认上述核问题的重要性，并表示有意在谈判中立即解决这些问题，以达成双方协议。"
+          "en": "The Islamic Republic of Iran reaffirms that it shall not procure or develop nuclear weapons. The United States of America and the Islamic Republic of Iran have agreed to resolve the {{20}} of stockpiled {{21}} material, pursuant to a mechanism that will be mutually agreed upon in accordance with the schedule mentioned in Paragraph Seven, with the minimum methodology to be downblending on site under the {{22}} of the IAEA. The two parties also agreed to discuss the issue of enrichment and other mutually agreed matters related to the Islamic Republic of Iran's nuclear needs based on a satisfactory framework being agreed upon in the final deal. The final deal will confirm the provisions of this paragraph. The United States of America and the Islamic Republic of Iran acknowledge the critical importance of the nuclear issues abovementioned and express their intention to immediately address these issues in the negotiations in order to achieve mutual agreement on them.",
+          "cn": "伊朗伊斯兰共和国重申不会获取或发展核武器。美利坚合众国和伊朗伊斯兰共和国同意根据第七段所述时间表，通过双方商定的机制解决库存浓缩材料的处置问题，最低限度方法是在国际原子能机构监督下现场稀释。双方还同意讨论浓缩问题以及与伊朗伊斯兰共和国核需求相关的其他双方商定事项，基于最终协议中商定的满意框架。最终协议将确认本段规定。美利坚合众国和伊朗伊斯兰共和国承认上述核问题的关键重要性，并表示有意在谈判中立即解决这些问题，以达成双方协议。"
         },
         {
           "en": "9. Pending the final deal, the United States of America and the Islamic Republic of Iran agree to maintain the status quo. The Islamic Republic of Iran will maintain the current status quo of its nuclear program, and the United States of America will not impose any new sanctions and will not deploy additional forces in the region. 10. The United States of America undertakes that immediately upon the signing of this MoU until the termination of sanctions, the US Department of Treasury will issue waivers for the export of Iranian crude oil, petroleum products and derivatives, and all associated services, including banking transactions, insurances, transportation, etc.",
-          "cn": "9. 在最终协议达成前，美利坚合众国和伊朗伊斯兰共和国同意维持现状。伊朗伊斯兰共和国将维持其核计划的当前现状，美利坚合众国不会实施新制裁，也不会在该地区部署额外部队。\n10. 美利坚合众国承诺，自本备忘录签署至制裁终止期间，美国财政部将为伊朗原油、石油产品及衍生物的出口以及所有相关服务（包括银行交易、保险、运输等）发放豁免。"
+          "cn": "9. 在最终协议达成前，美利坚合众国和伊朗伊斯兰共和国同意维持现状。伊朗伊斯兰共和国将维持其核计划的当前现状，美利坚合众国不会施加新制裁，也不会在该地区部署额外部队。10. 美利坚合众国承诺，自本备忘录签署起至制裁终止，美国财政部将发放豁免，允许伊朗原油、石油产品及衍生物的出口，以及所有相关服务，包括银行交易、保险、运输等。"
         },
         {
           "en": "11. The United States of America undertakes to make fully available for use the frozen or restricted funds and assets of the Islamic Republic of Iran upon the implementation of this MoU. The United States of America and the Islamic Republic of Iran will mutually agree on the procedures related to the release of these funds during the negotiations. Such funds, either retained in the original account or transferred, shall be made fully usable for payment to any ultimate beneficiary designated by the Central Bank of the Islamic Republic of Iran. The United States of America undertakes to issue all necessary licenses and authorizations accordingly.",
-          "cn": "11. 美利坚合众国承诺，在本备忘录实施后，将完全开放伊朗伊斯兰共和国被冻结或限制的资金和资产。美利坚合众国和伊朗伊斯兰共和国将在谈判期间共同商定释放这些资金的程序。此类资金，无论是保留在原账户还是转移，应完全可用于支付伊朗伊斯兰共和国中央银行指定的任何最终受益人。美利坚合众国承诺相应发放所有必要的许可证和授权。"
+          "cn": "11. 美利坚合众国承诺，在本备忘录实施后，将完全开放伊朗伊斯兰共和国被冻结或限制的资金和资产供其使用。美利坚合众国和伊朗伊斯兰共和国将在谈判期间就这些资金的释放程序达成一致。这些资金，无论保留在原账户还是转移，应完全可用于支付伊朗伊斯兰共和国中央银行指定的任何最终受益人。美利坚合众国承诺据此发放所有必要的许可证和授权。"
         },
         {
-          "en": "12. The United States of America and the Islamic Republic of Iran agree that an executive mechanism will be established to monitor the successful implementation of this MoU and the future compliance of the final deal. 13. After signing this MoU and subject to the beginning of the implementation of Paragraphs 1, 4, 5, 10 and 11 of this MoU and the continuing implementation of these measures, the United States of America and the Islamic Republic of Iran will start negotiations regarding the final deal exclusively on the other paragraphs.",
-          "cn": "12. 美利坚合众国和伊朗伊斯兰共和国同意建立一个执行机制，以监督本备忘录的成功实施和未来最终协议的遵守情况。\n13. 签署本备忘录后，在开始实施本备忘录第1、4、5、10和11条并持续实施这些措施的前提下，美利坚合众国和伊朗伊斯兰共和国将仅就其他条款开始谈判最终协议。"
+          "en": "12. The United States of America and the Islamic Republic of Iran agree that an executive mechanism will be established to monitor the successful implementation of this MoU and the future {{23}} of the final deal. 13. After signing this MoU and subject to the beginning of the implementation of Paragraphs 1, 4, 5, 10 and 11 of this MoU and the continuing implementation of these measures, the United States of America and the Islamic Republic of Iran will start negotiations regarding the final deal exclusively on the other paragraphs.",
+          "cn": "12. 美利坚合众国和伊朗伊斯兰共和国同意建立一个执行机制，以监督本备忘录的成功实施和最终协议的未来遵守情况。13. 签署本备忘录后，在开始实施本备忘录第1、4、5、10和11段并持续实施这些措施的前提下，美利坚合众国和伊朗伊斯兰共和国将开始仅就其他段落进行最终协议的谈判。"
         }
       ],
       "blanks": [
@@ -59,14 +272,14 @@
         {
           "id": 1,
           "answer": "understanding",
-          "hint": "n. 谅解",
-          "difficulty": "medium"
+          "hint": "n. 理解；协议",
+          "difficulty": "easy"
         },
         {
           "id": 2,
           "answer": "termination",
           "hint": "n. 终止",
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": 3,
@@ -76,14 +289,14 @@
         },
         {
           "id": 4,
-          "answer": "territorial",
-          "hint": "adj. 领土的",
-          "difficulty": "hard"
+          "answer": "integrity",
+          "hint": "n. 完整；正直",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "integrity",
-          "hint": "n. 完整",
+          "answer": "interfering",
+          "hint": "v. 干涉",
           "difficulty": "medium"
         },
         {
@@ -106,671 +319,682 @@
         },
         {
           "id": 9,
-          "answer": "proportion",
-          "hint": "n. 比例",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
           "answer": "proximity",
-          "hint": "n. 附近",
+          "hint": "n. 接近；附近",
           "difficulty": "hard"
         },
         {
+          "id": 10,
+          "answer": "arrangements",
+          "hint": "n. 安排",
+          "difficulty": "easy"
+        },
+        {
           "id": 11,
+          "answer": "obstacles",
+          "hint": "n. 障碍",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
           "answer": "demining",
           "hint": "n. 排雷",
           "difficulty": "hard"
         },
         {
-          "id": 12,
-          "answer": "littoral",
-          "hint": "adj. 沿海的",
-          "difficulty": "hard"
+          "id": 13,
+          "answer": "dialogue",
+          "hint": "n. 对话",
+          "difficulty": "easy"
         },
         {
-          "id": 13,
+          "id": 14,
+          "answer": "administration",
+          "hint": "n. 管理；行政",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "maritime",
+          "hint": "adj. 海事的；海洋的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
           "answer": "reconstruction",
           "hint": "n. 重建",
           "difficulty": "medium"
         },
         {
-          "id": 14,
+          "id": 17,
           "answer": "sanctions",
           "hint": "n. 制裁",
           "difficulty": "medium"
         },
         {
-          "id": 15,
+          "id": 18,
+          "answer": "resolutions",
+          "hint": "n. 决议",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
           "answer": "unilateral",
           "hint": "adj. 单边的",
           "difficulty": "hard"
         },
         {
-          "id": 16,
-          "answer": "procure",
-          "hint": "v. 获取",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
+          "id": 20,
           "answer": "disposition",
-          "hint": "n. 处置",
+          "hint": "n. 处置；安排",
           "difficulty": "hard"
         },
         {
-          "id": 18,
-          "answer": "downblending",
-          "hint": "n. 稀释",
-          "difficulty": "hard"
+          "id": 21,
+          "answer": "enriched",
+          "hint": "adj. 浓缩的",
+          "difficulty": "medium"
         },
         {
-          "id": 19,
-          "answer": "waivers",
-          "hint": "n. 豁免",
+          "id": 22,
+          "answer": "supervision",
+          "hint": "n. 监督",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "compliance",
+          "hint": "n. 遵守；合规",
           "difficulty": "medium"
         }
       ],
       "fullText": ", Updated 09:47, 18-Jun-2026Pakistani Prime Minister Shehbaz Sharif said on Thursday that a memorandum of understanding (MoU) between the United States and Iran has been electronically signed by the leaders of both countries and has entered into force with immediate effect.\nHere is the full text of the 14-point MoU published by media outlets including Iran's official news agency IRNA, CNN and Time Magazine:\n1. The United States of America and the Islamic Republic of Iran and their allies in the current war by signing this MoU, declare the immediate and permanent termination of military operations on all fronts, including in Lebanon, and undertake from now on not to initiate any war or any military operation against each other, and to refrain from the threat or use of force against each other, and ensuring the territorial integrity and sovereignty of Lebanon. Final deal will confirm the permanent termination of the war on all fronts, including in Lebanon, and other provisions of this paragraph.\n2. The United States of America and the Islamic Republic of Iran undertake to respect each other's sovereignty and territorial integrity and to refrain from interfering in each other's internal affairs.\n3. The United States of America and the Islamic Republic of Iran commit to negotiating and achieving the final deal in maximum 60 days, extendable with mutual consent.\n4. Immediately upon the signing of this MoU, the United States of America will begin the removal of its naval blockade and any disturbances or impediments against the Islamic Republic of Iran, and will fully end the naval blockade within 30 days. During this period, the traffic of vessels will be in proportion to the numbers of pre-war traffic being restored by the Islamic Republic of Iran. The United States of America further undertakes to remove its forces from the proximity of the Islamic Republic of Iran within 30 days after the final deal.\n5. Upon the signing of this MoU, the Islamic Republic of Iran will make arrangements using its best efforts for the safe passage of commercial vessels with no charge for 60 days only from the Persian Gulf to the Sea of Oman and vice versa. The traffic of commercial vessels will immediately start, and considering the need for removing the technical and military obstacles and demining by the Islamic Republic of Iran, will be instated within 30 days. The Islamic Republic of Iran will conduct dialogue with the Sultanate of Oman to define the future administration and maritime services in the Strait of Hormuz in discussion with other Persian Gulf littoral states in line with the applicable international law and the sovereign rights of coastal states of the Strait of Hormuz.\n6. The United States of America undertakes with regional partners to develop a definitive, mutually agreed plan with at least $300 billion for the reconstruction and economic development of the Islamic Republic of Iran. The mechanism for the implementation of this plan will be finalized as part of a final deal within 60 days. All required licenses, waivers and permissions needed for the relevant financial transactions will be granted by the United States of America.\n7. The United States of America undertakes to terminate all types of sanctions against the Islamic Republic of Iran, including the United Nations Security Council resolutions, i.e. IAEA Board of Governors resolutions and all unilateral US sanctions, primary and secondary, in an agreed-upon schedule as part of the final deal. The Islamic Republic of Iran and the United States of America acknowledge the critical importance of the sanctions-termination issue abovementioned, and expressed their intentions to immediately address these issues in the negotiations, in order to achieve mutual agreement on them.\n8. The Islamic Republic of Iran reaffirms that it shall not procure or develop nuclear weapons. The United States of America and the Islamic Republic of Iran have agreed to resolve the disposition of stockpiled enriched material, pursuant to a mechanism that will be mutually agreed upon in accordance with the schedule mentioned in Paragraph Seven, with the minimum methodology to be downblending on site under the supervision of the IAEA. The two parties also agreed to discuss the issue of enrichment and other mutually agreed matters related to the Islamic Republic of Iran's nuclear needs based on a satisfactory framework being agreed upon in the final deal. The final deal will confirm the provisions of this paragraph. The United States of America and the Islamic Republic of Iran acknowledge the critical importance of the nuclear issues abovementioned and express their intention to immediately address these issues in the negotiations in order to achieve mutual agreement on them.\n9. Pending the final deal, the United States of America and the Islamic Republic of Iran agree to maintain the status quo. The Islamic Republic of Iran will maintain the current status quo of its nuclear program, and the United States of America will not impose any new sanctions and will not deploy additional forces in the region.\n10. The United States of America undertakes that immediately upon the signing of this MoU until the termination of sanctions, the US Department of Treasury will issue waivers for the export of Iranian crude oil, petroleum products and derivatives, and all associated services, including banking transactions, insurances, transportation, etc.\n11. The United States of America undertakes to make fully available for use the frozen or restricted funds and assets of the Islamic Republic of Iran upon the implementation of this MoU. The United States of America and the Islamic Republic of Iran will mutually agree on the procedures related to the release of these funds during the negotiations. Such funds, either retained in the original account or transferred, shall be made fully usable for payment to any ultimate beneficiary designated by the Central Bank of the Islamic Republic of Iran. The United States of America undertakes to issue all necessary licenses and authorizations accordingly.\n12. The United States of America and the Islamic Republic of Iran agree that an executive mechanism will be established to monitor the successful implementation of this MoU and the future compliance of the final deal.\n13. After signing this MoU and subject to the beginning of the implementation of Paragraphs 1, 4, 5, 10 and 11 of this MoU and the continuing implementation of these measures, the United States of America and the Islamic Republic of Iran will start negotiations regarding the final deal exclusively on the other paragraphs.",
-      "fullTextCn": "巴基斯坦总理夏巴兹·谢里夫周四表示，美国和伊朗之间的谅解备忘录已由两国领导人电子签署，并立即生效。以下是伊朗官方通讯社IRNA、CNN和《时代》杂志等媒体发布的14点谅解备忘录全文：\n1. 美利坚合众国和伊朗伊斯兰共和国及其在当前战争中的盟友，通过签署本备忘录，宣布在所有战线（包括黎巴嫩）立即永久停止军事行动，并承诺从今以后不发动任何战争或针对对方的任何军事行动，避免以武力威胁或使用武力，并确保黎巴嫩的领土完整和主权。最终协议将确认在所有战线（包括黎巴嫩）永久结束战争以及本段的其他规定。\n\n2. 美利坚合众国和伊朗伊斯兰共和国承诺尊重彼此的主权和领土完整，不干涉彼此内政。\n3. 美利坚合众国和伊朗伊斯兰共和国承诺在最多60天内谈判并达成最终协议，经双方同意可延长。\n4. 本备忘录签署后，美利坚合众国将立即开始解除对伊朗伊斯兰共和国的海上封锁及任何干扰或障碍，并在30天内完全结束海上封锁。\n\n在此期间，船舶通行量将按伊朗伊斯兰共和国恢复的战前通行量比例进行。美利坚合众国还承诺在最终协议达成后30天内，将其部队从伊朗伊斯兰共和国附近撤离。\n5. 本备忘录签署后，伊朗伊斯兰共和国将尽最大努力安排商船安全通行，在60天内免费从波斯湾到阿曼海及反向通行。商船通行将立即开始，考虑到伊朗伊斯兰共和国需要清除技术和军事障碍及排雷，将在30天内恢复。\n\n伊朗伊斯兰共和国将与阿曼苏丹国进行对话，以确定霍尔木兹海峡未来的管理和海事服务，并与波斯湾其他沿岸国家根据适用国际法和霍尔木兹海峡沿岸国家的主权权利进行讨论。\n6. 美利坚合众国承诺与地区伙伴共同制定一项明确的、双方同意的计划，至少提供3000亿美元用于伊朗伊斯兰共和国的重建和经济发展。该计划的实施机制将在60天内作为最终协议的一部分最终确定。美利坚合众国将授予相关金融交易所需的所有许可证、豁免和许可。\n\n7. 美利坚合众国承诺按照最终协议中商定的时间表，终止对伊朗伊斯兰共和国的所有类型制裁，包括联合国安理会决议、国际原子能机构理事会决议以及所有美国单边制裁（一级和二级）。伊朗伊斯兰共和国和美利坚合众国承认上述制裁终止问题的重要性，并表示有意在谈判中立即解决这些问题，以达成双方协议。\n\n8. 伊朗伊斯兰共和国重申不会获取或发展核武器。美利坚合众国和伊朗伊斯兰共和国同意，根据第七条所述时间表，通过双方商定的机制解决库存浓缩材料的处置问题，最低限度方法是在国际原子能机构监督下现场稀释。双方还同意，基于最终协议中商定的满意框架，讨论浓缩问题以及与伊朗伊斯兰共和国核需求相关的其他双方商定事项。最终协议将确认本段规定。美利坚合众国和伊朗伊斯兰共和国承认上述核问题的重要性，并表示有意在谈判中立即解决这些问题，以达成双方协议。\n\n9. 在最终协议达成前，美利坚合众国和伊朗伊斯兰共和国同意维持现状。伊朗伊斯兰共和国将维持其核计划的当前现状，美利坚合众国不会实施新制裁，也不会在该地区部署额外部队。\n10. 美利坚合众国承诺，自本备忘录签署至制裁终止期间，美国财政部将为伊朗原油、石油产品及衍生物的出口以及所有相关服务（包括银行交易、保险、运输等）发放豁免。\n\n11. 美利坚合众国承诺，在本备忘录实施后，将完全开放伊朗伊斯兰共和国被冻结或限制的资金和资产。美利坚合众国和伊朗伊斯兰共和国将在谈判期间共同商定释放这些资金的程序。此类资金，无论是保留在原账户还是转移，应完全可用于支付伊朗伊斯兰共和国中央银行指定的任何最终受益人。美利坚合众国承诺相应发放所有必要的许可证和授权。\n\n12. 美利坚合众国和伊朗伊斯兰共和国同意建立一个执行机制，以监督本备忘录的成功实施和未来最终协议的遵守情况。\n13. 签署本备忘录后，在开始实施本备忘录第1、4、5、10和11条并持续实施这些措施的前提下，美利坚合众国和伊朗伊斯兰共和国将仅就其他条款开始谈判最终协议。"
+      "fullTextCn": "巴基斯坦总理夏巴兹·谢里夫周四表示，美国和伊朗之间的谅解备忘录已由两国领导人电子签署，并立即生效。以下是由伊朗官方通讯社、CNN和《时代》杂志等媒体发布的14点谅解备忘录全文：1. 美利坚合众国和伊朗伊斯兰共和国及其在当前战争中的盟友，通过签署本备忘录，宣布在所有战线（包括黎巴嫩）立即永久停止军事行动，并承诺从今以后不发起任何战争或针对对方的军事行动，避免威胁或使用武力，并确保黎巴嫩的领土完整和主权。最终协议将确认在所有战线（包括黎巴嫩）永久结束战争以及本段的其他规定。2.\n\n美利坚合众国和伊朗伊斯兰共和国承诺尊重彼此的主权和领土完整，不干涉彼此内政。3. 美利坚合众国和伊朗伊斯兰共和国承诺在最多60天内谈判并达成最终协议，经双方同意可延长。4. 本备忘录签署后，美利坚合众国将立即开始解除对伊朗伊斯兰共和国的海上封锁及任何干扰或障碍，并在30天内完全结束海上封锁。\n\n在此期间，船舶通行量将按伊朗伊斯兰共和国恢复的战前通行量比例进行。美利坚合众国还承诺在最终协议达成后30天内，将其部队撤出伊朗伊斯兰共和国附近区域。5. 本备忘录签署后，伊朗伊斯兰共和国将尽最大努力安排商船安全通行，在60天内免费从波斯湾往返阿曼海。商船通行将立即开始，考虑到伊朗伊斯兰共和国需要清除技术和军事障碍及排雷，将在30天内恢复。\n\n伊朗伊斯兰共和国将与阿曼苏丹国进行对话，以根据适用的国际法和霍尔木兹海峡沿岸国的主权权利，与其他波斯湾沿岸国家协商，确定霍尔木兹海峡未来的管理和海事服务。6. 美利坚合众国承诺与地区伙伴共同制定一项明确的、双方同意的计划，至少提供3000亿美元用于伊朗伊斯兰共和国的重建和经济发展。该计划的实施机制将在60天内作为最终协议的一部分最终确定。美利坚合众国将批准所有相关金融交易所需的许可证、豁免和许可。\n\n7. 美利坚合众国承诺按照最终协议中商定的时间表，终止对伊朗伊斯兰共和国的所有类型制裁，包括联合国安理会决议、国际原子能机构理事会决议以及所有单边美国制裁（一级和二级制裁）。伊朗伊斯兰共和国和美利坚合众国承认上述制裁终止问题的关键重要性，并表示有意在谈判中立即解决这些问题，以达成双方协议。8.\n\n伊朗伊斯兰共和国重申不会获取或发展核武器。美利坚合众国和伊朗伊斯兰共和国同意根据第七段所述时间表，通过双方商定的机制解决库存浓缩材料的处置问题，最低限度方法是在国际原子能机构监督下现场稀释。双方还同意讨论浓缩问题以及与伊朗伊斯兰共和国核需求相关的其他双方商定事项，基于最终协议中商定的满意框架。最终协议将确认本段规定。美利坚合众国和伊朗伊斯兰共和国承认上述核问题的关键重要性，并表示有意在谈判中立即解决这些问题，以达成双方协议。\n\n9. 在最终协议达成前，美利坚合众国和伊朗伊斯兰共和国同意维持现状。伊朗伊斯兰共和国将维持其核计划的当前现状，美利坚合众国不会施加新制裁，也不会在该地区部署额外部队。10. 美利坚合众国承诺，自本备忘录签署起至制裁终止，美国财政部将发放豁免，允许伊朗原油、石油产品及衍生物的出口，以及所有相关服务，包括银行交易、保险、运输等。\n\n11. 美利坚合众国承诺，在本备忘录实施后，将完全开放伊朗伊斯兰共和国被冻结或限制的资金和资产供其使用。美利坚合众国和伊朗伊斯兰共和国将在谈判期间就这些资金的释放程序达成一致。这些资金，无论保留在原账户还是转移，应完全可用于支付伊朗伊斯兰共和国中央银行指定的任何最终受益人。美利坚合众国承诺据此发放所有必要的许可证和授权。\n\n12. 美利坚合众国和伊朗伊斯兰共和国同意建立一个执行机制，以监督本备忘录的成功实施和最终协议的未来遵守情况。13. 签署本备忘录后，在开始实施本备忘录第1、4、5、10和11段并持续实施这些措施的前提下，美利坚合众国和伊朗伊斯兰共和国将开始仅就其他段落进行最终协议的谈判。"
     },
     {
-      "id": 2,
+      "id": 3,
       "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-09/How-China-cut-the-cost-of-its-Qianfan-satellites-by-over-96--1NQ1VGnB8GI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "How China cut the cost of its Qianfan satellites by over 96%",
-      "titleCn": "中国如何将千帆卫星成本降低超过96%",
-      "summary": "China's Qianfan Constellation has achieved 200 satellites in orbit, with manufacturing costs reduced by over 96% through mass production and modular design, targeting 15,000 satellites for global coverage by 2030.",
-      "summaryCn": "中国千帆星座通过工业化生产和模块化设计大幅降低成本，并加速部署以抢占轨道资源，同时注重可持续性以减少太空垃圾。",
-      "wordCount": 794,
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/news/sci-tech/2026-06-23/detail-ihfftxzk2706300.shtml",
+      "title": "5G tech transforms factory in Zhejiang province",
+      "titleCn": "5G技术改造浙江工厂",
+      "summary": "The first commercial 5G local area network in Zhejiang province has successfully transformed the China Jushi fiberglass factory into a highly efficient, unmanned smart manufacturing hub.",
+      "summaryCn": "浙江首个商用5G局域网成功将中国巨石玻璃纤维工厂转型为高效无人智能制造中心，大幅提升生产效率。",
+      "wordCount": 754,
       "paragraphs": [
         {
-          "en": "Fireworks light up the Yaoguang rocket launch viewing platform celebrating the successful launch of Qianfan {{2}} satellites, Wenchang City, south China's Hainan Province, April 7, 2026. China's ambitious low-Earth orbit (LEO) internet satellite project, the Qianfan Constellation, has achieved a significant {{0}}, with over 200 satellites now in orbit as of early June 2026. The project is accelerating its {{1}} through a remarkable cost-reduction strategy and a commitment to sustainable space operations. The number of Qianfan satellites in orbit has surged to 200 as of June 5, according to Hu Haiying, president of the Innovation Academy for Microsatellites at the Chinese Academy of Sciences and chief commander of the Qianfan constellation satellite system. Qianfan is no longer just an experiment, it is entering a phase of high-{{12}}, large-scale deployment as part of China's ongoing efforts to build a LEO satellite internet constellation.",
-          "cn": "2026年4月7日，中国海南省文昌市，耀光火箭发射观景台上烟花绽放，庆祝千帆星座卫星成功发射。中国雄心勃勃的低地球轨道互联网卫星项目——千帆星座，已取得重要里程碑，截至2026年6月初，在轨卫星超过200颗。该项目通过显著的成本削减策略和对可持续太空运营的承诺，正在加速部署。据中国科学院微小卫星创新研究院院长、千帆星座卫星系统总指挥胡海鹰介绍，截至6月5日，千帆在轨卫星数量已激增至200颗。千帆不再只是一个实验，它正进入高频次、大规模部署阶段，作为中国建设低轨卫星互联网星座持续努力的一部分。"
+          "en": "The first commercial 5G local area network in Zhejiang province has successfully transformed the China Jushi fiberglass factory into a highly efficient, {{1}} smart manufacturing {{2}}. On the intelligent production lines of China Jushi Co, a seamless dance of human-machine {{3}} is unfolding. As the building materials industry {{4}} its {{5}} from traditional manufacturing to smart manufacturing, fiberglass — a critical material for wind power, new energy vehicles and 5G communications — has become a focal point for technological {{6}}. China Jushi, a core enterprise of China National Building Material Co Ltd, stands as a global leader in the fiberglass industry. The company boasts the world's largest production {{7}}, holding a {{8}} 40 percent market share in China and 24 percent globally.",
+          "cn": "浙江省首个商用5G局域网成功将中国巨石玻璃纤维工厂转型为高效、无人化的智能制造中心。在中国巨石股份有限公司的智能生产线上，人机协作的无缝舞蹈正在展开。随着建材行业加速从传统制造向智能制造转型，玻璃纤维——作为风电、新能源汽车和5G通信的关键材料——已成为技术突破的焦点。中国巨石是中国建材集团的核心企业，是全球玻璃纤维行业的领导者。该公司拥有全球最大的生产能力，在中国市场占据40%的份额，在全球市场占据24%的份额。"
         },
         {
-          "en": "Both China's Qianfan and SpaceX's Starlink operate in LEO, roughly 300 to 2,000 kilometers above Earth. At this altitude, satellites function like \"base stations in the sky\" – close enough to offer minimal {{3}} and powerful enough to form a \"space net\" of tens of thousands of nodes. This architecture is designed specifically to {{4}} connectivity dead zones in remote mountains, deep oceans and polar regions where terrestrial towers cannot reach. The constellation, operated by Shanghai-based Spacesail Technologies, is leveraging an {{5}} production model to slash satellite manufacturing costs. Traditional communication satellites can cost up to 300 million yuan (about $42 million) each.",
-          "cn": "中国的千帆和SpaceX的星链都运行在距地球约300至2000公里的低地球轨道。在这个高度，卫星像“天空中的基站”——足够近以提供最小延迟，足够强大以形成由数万个节点组成的“太空网”。这种架构专门设计用于消除地面塔架无法到达的偏远山区、深海和极地地区的连接盲区。该星座由上海垣信卫星科技有限公司运营，正利用工业化生产模式大幅降低卫星制造成本。传统通信卫星每颗成本可高达3亿元人民币（约4200万美元）。"
+          "en": "Over the years, China Jushi has maintained its industry-leading position in scale, technology and quality, earning {{9}} {{10}} such as the China Grand Awards for Industry, the National Science and Technology Progress Award, and recognition as a national intelligent manufacturing demonstration factory. To further accelerate its digital transformation, China Unicom Zhejiang Branch recently achieved the deep commercial {{11}} of a 5G LAN at China Jushi's No 5 factory in Jiaxing, Zhejiang. This {{12}} project marks the very first commercial use case of 5G LAN in Zhejiang, helping Jushi build a {{13}} 5G-powered factory. The advanced 5G LAN technology supports 5G-native Layer 2 networking, allowing terminals to be highly flexible and plug-and-play. Crucially, it maintains the enterprise's original network {{14}}, significantly lowering the difficulty of upgrading production lines to 5G.",
+          "cn": "多年来，中国巨石在规模、技术和质量方面保持了行业领先地位，荣获了中国工业大奖、国家科技进步奖等殊荣，并被认定为国家级智能制造示范工厂。为进一步加速数字化转型，中国联通浙江省分公司最近在中国巨石位于浙江嘉兴的五号工厂实现了5G局域网的深度商业集成。这一里程碑项目标志着浙江省首个5G局域网商业应用案例，帮助巨石建设了全面的5G工厂。先进的5G局域网技术支持5G原生二层网络，使终端具有高度灵活性和即插即用功能。关键的是，它保留了企业原有的网络架构，显著降低了生产线升级到5G的难度。"
         },
         {
-          "en": "In contrast, the standardized, flat-panel Qianfan satellites are now produced for approximately 10 million yuan per unit – a reduction of over 96%. This cost efficiency is achieved through mass production, {{6}} design and a \"fast {{7}}\" philosophy that accepts a higher failure rate in exchange for speed, relying on network {{8}} to maintain service. \"China built the world's best 5G {{18}}. Because our ground network was so good, we didn't feel the immediate need for satellite internet,\" Hu explains. A Long March-12B Y1 rocket carrying Qianfan satellites aligns with the full moon at the Dongfeng Commercial Aerospace Innovation Pilot Zone, north China's Inner Mongolia Autonomous Region, May 31, 2026.",
-          "cn": "相比之下，标准化的平板式千帆卫星现在每颗生产成本约为1000万元人民币——降幅超过96%。这种成本效益通过大规模生产、模块化设计和“快速迭代”理念实现，该理念接受较高故障率以换取速度，并依靠网络冗余维持服务。胡海鹰解释说：“中国建成了世界上最好的5G基础设施。因为我们的地面网络如此优秀，我们并未立即感受到对卫星互联网的需求。”2026年5月31日，中国内蒙古自治区东风商业航天创新试验区，一枚长征十二号乙Y1运载火箭搭载千帆卫星与满月对齐。"
+          "en": "The technology can create specialized \"groups\" for enterprise terminals at Layer 2 or Layer 3, providing flexible communication services such as terminal {{15}} and {{16}}. At the Jiaxing No 5 factory, 5G terminals are installed directly into control cabinets, deeply integrating with the factory's programmable logic controllers — the \"brains\" of the machinery. By utilizing advanced 5G LAN technology, the factory has constructed a seamless end-to-end network. This enables real-time collaboration between different programmable logic controllers and ensures instant data sharing with the supervisory control and data acquisition system. This signifies a major step forward for China Unicom's 5G Private Network Plus 3.0, proving that 5G has deeply {{18}} the core production links of industrial manufacturing.",
+          "cn": "该技术可以在二层或三层为企业终端创建专门的“组”，提供终端互联和隔离等灵活通信服务。在嘉兴五号工厂，5G终端直接安装在控制柜中，与工厂的可编程逻辑控制器（机器的“大脑”）深度集成。通过利用先进的5G局域网技术，工厂构建了无缝的端到端网络。这实现了不同可编程逻辑控制器之间的实时协作，并确保与监控和数据采集系统的即时数据共享。这标志着中国联通5G专网Plus 3.0迈出了重要一步，证明了5G已深入渗透到工业制造的核心生产环节。"
         },
         {
-          "en": "High-density launches\nDeployment is proceeding at a rapid pace. The project utilizes a \"one rocket, many satellites\" launch model, with two successful high-density launches occurring within two days in early June from the Taiyuan and Wenchang launch sites. This schedule aims to complete a 324-satellite initial network by July, providing regional broadband {{10}}. The long-term goal is to expand the constellation to over 15,000 satellites for global coverage by 2030. A bright trail left by a Long March-6A rocket across the night sky after launch, Zhuhai City, south China's Guangdong Province, June 4, 2026.",
-          "cn": "高密度发射。部署正在快速推进。该项目采用“一箭多星”发射模式，6月初在太原和文昌发射场两天内成功进行了两次高密度发射。这一计划旨在7月前完成由324颗卫星组成的初始网络，提供区域宽带覆盖。长期目标是到2030年将星座扩展到超过15000颗卫星，实现全球覆盖。2026年6月4日，中国广东省珠海市，一枚长征六号甲运载火箭发射后在夜空中留下明亮轨迹。"
+          "en": "Stepping into the No 5 factory, the results are visually {{19}}. Industrial robots navigate the workshop in perfect order, executing material transport and loading with flawless {{20}}. Rows of mechanical arms complete complex procedures with every bend and stretch, while rolls of fiberglass packaging materials are automatically elevated within the smart warehouse. Only a handful of technicians are needed to {{21}} products or machinery. In the factory's intelligent control center, massive display screens continuously update dense data charts, providing a digitized, visualized and full-process {{22}} system for multiple production lines.",
+          "cn": "走进五号工厂，成果令人瞩目。工业机器人在车间内有序穿梭，以完美的精度执行物料运输和装载。一排排机械臂通过每一次弯曲和伸展完成复杂工序，而一卷卷玻璃纤维包装材料在智能仓库中自动升降。只有少数技术人员需要对产品或机器进行调试。在工厂的智能控制中心，巨大的显示屏不断更新密集的数据图表，为多条生产线提供数字化、可视化和全流程监控系统。"
         },
         {
-          "en": "The project's urgency is driven by the need to secure scarce {{11}} slots and frequency resources under international \"first-come, first-served\" rules. With competitors like SpaceX's Starlink already operating over 10,000 satellites, China is racing to capture the remaining viable positions. \"The orbit and frequency are {{13}} resources,\" Hu said. As of June 2026, Starlink has over 12,400 satellites in orbit, occupying more than 60% of active global satellite slots. They have locked up nearly 70% of the prime real estate between 500-600 kilometers – the sweet spot for direct-to-cellphone connectivity.",
-          "cn": "该项目的紧迫性源于在国际“先到先得”规则下争夺稀缺轨道位置和频率资源的需求。随着竞争对手如SpaceX的星链已在轨运行超过10000颗卫星，中国正竞相抢占剩余可行位置。胡海鹰说：“轨道和频率是不可再生资源。”截至2026年6月，星链在轨卫星超过12400颗，占据全球活跃卫星位置的60%以上。它们已锁定了500-600公里之间近70%的黄金地段——这是直接连接手机的最佳位置。"
+          "en": "Song Guangmin, director of the industrial internet support center at China Unicom Zhejiang Branch, highlighted the philosophy behind this transformation. \"From the very beginning of the factory's construction, we established a foundational requirement for the full connection of data elements,\" Song said. \"What we see now is a 'mega-factory' in Zhejiang — a fully connected operation based on the deep integration of 5G, IT and operational technologies.\"\nSong noted that the factory leverages AI large models for extensive data collection, analysis and scenario applications. \"The massive unmanned technologies operating here are the result of fusing new-generation information technologies, represented by 5G, with AI large models. This has dramatically boosted China Jushi's {{23}}, increasing its production efficiency by over 20 percent since the project was {{24}},\" he said.",
+          "cn": "中国联通浙江省分公司工业互联网支撑中心主任宋广民强调了这一转型背后的理念。“从工厂建设之初，我们就确立了数据要素全面连接的基础要求，”宋广民说。“我们现在看到的是浙江的一个‘超级工厂’——基于5G、IT和运营技术深度融合的全面连接运营。”宋广民指出，该工厂利用AI大模型进行广泛的数据收集、分析和场景应用。“这里运行的大规模无人技术是5G为代表的新一代信息技术与AI大模型融合的结果。这极大地提升了中国巨石的竞争力，自项目实施以来，其生产效率提高了20%以上，”他说。"
         },
         {
-          "en": "\"If we don't launch and use them, we are simply giving these resources away,\" Hu says. In late 2025, China filed applications for 203,000 satellites to the International Telecommunication Union in a bid to secure future capacity. Build for the future\nAddressing growing international concerns about space {{14}}, the Qianfan satellites are designed with a built-in \"green\" feature. Each satellite has a planned {{15}} lifespan of seven years and is equipped with a de-orbiting system. At the end of its service, the satellite will automatically {{16}} to burn up completely upon re-entering Earth's atmosphere, leaving no long-term space junk.",
-          "cn": "胡海鹰说：“如果我们不发射和使用，我们就是在白白放弃这些资源。”2025年底，中国向国际电信联盟提交了203000颗卫星的申请，以争取未来容量。面向未来建设。针对日益增长的国际对太空垃圾的担忧，千帆卫星设计有内置的“绿色”特性。每颗卫星计划运行寿命为七年，并配备离轨系统。在服务结束时，卫星将自动机动，在重新进入地球大气层时完全烧毁，不留下长期太空垃圾。"
-        },
-        {
-          "en": "The new design also allows for stacked launches. \"We can now launch 18 satellites at once,\" Hu describes. \"It's like skipping stones on water. The upper stage spins and through {{17}} force, the satellites separate one by one without collision.\"\nBeyond basic internet, Qianfan is viewed as critical for emerging \"space-based computing,\" where data processing could leverage limitless solar power and the cold vacuum of space, potentially offering a greener solution for the AI era's immense energy demands. People watch the launch of a Long March-8 rocket carrying Qianfan satellites, Wenchang City, south China's Hainan Province, June 5, 2026.",
-          "cn": "新设计还允许堆叠发射。胡海鹰描述道：“我们现在可以一次发射18颗卫星。就像在水面上打水漂。上面级旋转，通过离心力，卫星一个接一个分离而不碰撞。”除了基本互联网，千帆被视为新兴“天基计算”的关键，其中数据处理可以利用无限的太阳能和太空的寒冷真空，可能为人工智能时代巨大的能源需求提供更绿色的解决方案。2026年6月5日，中国海南省文昌市，人们观看长征八号运载火箭搭载千帆卫星发射。"
-        },
-        {
-          "en": "Looking beyond connectivity, the constellation is positioned as global public infrastructure. Spacesail envisions satellite broadband becoming as affordable and {{19}} as utilities, targeting ocean-going vessels, commercial aviation and remote regions, especially those in the developing world. If realized, the Qianfan network could help narrow the {{20}} divide for communities where massive fiber and cell towers remain impractical.",
-          "cn": "展望连接之外，该星座被定位为全球公共基础设施。垣信设想卫星宽带变得像公用事业一样负担得起和可访问，目标客户包括远洋船舶、商业航空和偏远地区，尤其是发展中国家。如果实现，千帆网络可能有助于缩小数字鸿沟，惠及那些大规模光纤和信号塔仍不切实际的社区。"
+          "en": "The customized computing power required for these AI applications is seamlessly provided by China Unicom's supercomputing center in Wuzhen, Zhejiang. During a recent visit, Fan Ji'an, chief big data scientist at China Unicom, highly praised the deep integration of the 5G factory. China Unicom and Jushi have agreed to expand their cooperation in industrial manufacturing, including reliability verification of cross-SMF 5G LAN networking, extending 5G LAN to multi-campus wide-area networks and building 5G private networks for China Jushi's new factories. Yu Yadong, director of the information technology center at China Jushi, outlined the ambitious road ahead: \"The 5G factory will not only focus on internal digital and intelligent transformation, but also expand externally. Based on China Unicom's unified multi-campus 5G private network solution, we aim to connect upstream and downstream industries, establish a wide-area 5G LAN, and promote our advanced fiberglass production technologies from the Tongxiang headquarters to global branches in Chengdu, Sichuan province, Jiujiang, Jiangxi province, and Suez in Egypt, leading the high-quality development of the global fiberglass industry.\"",
+          "cn": "这些AI应用所需的定制计算能力由中国联通位于浙江乌镇的超级计算中心无缝提供。在最近的一次访问中，中国联通首席大数据科学家范济安高度赞扬了5G工厂的深度融合。中国联通和巨石已同意扩大在工业制造领域的合作，包括跨SMF 5G局域网组网的可靠性验证、将5G局域网扩展到多园区广域网，以及为中国巨石的新工厂建设5G专网。中国巨石信息技术中心主任俞亚东概述了雄心勃勃的前进道路：“5G工厂不仅将专注于内部数字化和智能化转型，还将向外扩展。基于中国联通统一的多园区5G专网解决方案，我们旨在连接上下游产业，建立广域5G局域网，并将我们先进的玻璃纤维生产技术从桐乡总部推广到四川成都、江西九江和埃及苏伊士的全球分支机构，引领全球玻璃纤维行业的高质量发展。”"
         }
       ],
       "blanks": [
         {
           "id": 0,
+          "answer": "unmanned",
+          "hint": "adj. 无人化的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "hub",
+          "hint": "n. 中心",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "collaboration",
+          "hint": "n. 协作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "accelerates",
+          "hint": "v. 加速",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "transition",
+          "hint": "n. 转型",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "breakthroughs",
+          "hint": "n. 突破",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "capacity",
+          "hint": "n. 能力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "commanding",
+          "hint": "adj. 领先的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "prestigious",
+          "hint": "adj. 著名的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "accolades",
+          "hint": "n. 荣誉",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "integration",
+          "hint": "n. 集成",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
           "answer": "milestone",
           "hint": "n. 里程碑",
           "difficulty": "medium"
         },
         {
-          "id": 1,
-          "answer": "deployment",
-          "hint": "n. 部署",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "constellation",
-          "hint": "n. 星座",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "latency",
-          "hint": "n. 延迟",
-          "difficulty": "hard"
-        },
-        {
-          "id": 4,
-          "answer": "eliminate",
-          "hint": "v. 消除",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "industrialized",
-          "hint": "adj. 工业化的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "modular",
-          "hint": "adj. 模块化的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "iteration",
-          "hint": "n. 迭代",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "redundancy",
-          "hint": "n. 冗余",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "coverage",
-          "hint": "n. 覆盖",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "orbital",
-          "hint": "adj. 轨道的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "frequency",
-          "hint": "n. 频率",
-          "difficulty": "medium"
-        },
-        {
           "id": 12,
-          "answer": "non-renewable",
-          "hint": "adj. 不可再生的",
-          "difficulty": "hard"
+          "answer": "comprehensive",
+          "hint": "adj. 全面的",
+          "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "debris",
-          "hint": "n. 碎片",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "operational",
-          "hint": "adj. 运行的",
+          "answer": "architecture",
+          "hint": "n. 架构",
           "difficulty": "medium"
         },
         {
-          "id": 15,
-          "answer": "maneuver",
-          "hint": "v. 机动",
+          "id": 14,
+          "answer": "interconnection",
+          "hint": "n. 互联",
           "difficulty": "hard"
         },
         {
+          "id": 15,
+          "answer": "isolation",
+          "hint": "n. 隔离",
+          "difficulty": "medium"
+        },
+        {
           "id": 16,
-          "answer": "centrifugal",
-          "hint": "adj. 离心的",
+          "answer": "penetrated",
+          "hint": "v. 渗透",
           "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
+          "answer": "striking",
+          "hint": "adj. 显著的",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "accessible",
-          "hint": "adj. 可访问的",
+          "answer": "precision",
+          "hint": "n. 精度",
           "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "digital",
-          "hint": "adj. 数字的",
-          "difficulty": "easy"
+          "answer": "debug",
+          "hint": "v. 调试",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "monitoring",
+          "hint": "n. 监控",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "competitiveness",
+          "hint": "n. 竞争力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "implemented",
+          "hint": "v. 实施",
+          "difficulty": "medium"
         }
       ],
-      "fullText": "Fireworks light up the Yaoguang rocket launch viewing platform celebrating the successful launch of Qianfan constellation satellites, Wenchang City, south China's Hainan Province, April 7, 2026. \nChina's ambitious low-Earth orbit (LEO) internet satellite project, the Qianfan Constellation, has achieved a significant milestone, with over 200 satellites now in orbit as of early June 2026. The project is accelerating its deployment through a remarkable cost-reduction strategy and a commitment to sustainable space operations.\nThe number of Qianfan satellites in orbit has surged to 200 as of June 5, according to Hu Haiying, president of the Innovation Academy for Microsatellites at the Chinese Academy of Sciences and chief commander of the Qianfan constellation satellite system.\nQianfan is no longer just an experiment, it is entering a phase of high-frequency, large-scale deployment as part of China's ongoing efforts to build a LEO satellite internet constellation.\nBoth China's Qianfan and SpaceX's Starlink operate in LEO, roughly 300 to 2,000 kilometers above Earth. At this altitude, satellites function like \"base stations in the sky\" – close enough to offer minimal latency and powerful enough to form a \"space net\" of tens of thousands of nodes.\nThis architecture is designed specifically to eliminate connectivity dead zones in remote mountains, deep oceans and polar regions where terrestrial towers cannot reach.\nThe constellation, operated by Shanghai-based Spacesail Technologies, is leveraging an industrialized production model to slash satellite manufacturing costs. Traditional communication satellites can cost up to 300 million yuan (about $42 million) each. In contrast, the standardized, flat-panel Qianfan satellites are now produced for approximately 10 million yuan per unit – a reduction of over 96%.\nThis cost efficiency is achieved through mass production, modular design and a \"fast iteration\" philosophy that accepts a higher failure rate in exchange for speed, relying on network redundancy to maintain service.\n\"China built the world's best 5G infrastructure. Because our ground network was so good, we didn't feel the immediate need for satellite internet,\" Hu explains.\nA Long March-12B Y1 rocket carrying Qianfan satellites aligns with the full moon at the Dongfeng Commercial Aerospace Innovation Pilot Zone, north China's Inner Mongolia Autonomous Region, May 31, 2026. \nHigh-density launches\nDeployment is proceeding at a rapid pace. The project utilizes a \"one rocket, many satellites\" launch model, with two successful high-density launches occurring within two days in early June from the Taiyuan and Wenchang launch sites.\nThis schedule aims to complete a 324-satellite initial network by July, providing regional broadband coverage. The long-term goal is to expand the constellation to over 15,000 satellites for global coverage by 2030.\nA bright trail left by a Long March-6A rocket across the night sky after launch, Zhuhai City, south China's Guangdong Province, June 4, 2026. \nThe project's urgency is driven by the need to secure scarce orbital slots and frequency resources under international \"first-come, first-served\" rules. With competitors like SpaceX's Starlink already operating over 10,000 satellites, China is racing to capture the remaining viable positions.\n\"The orbit and frequency are non-renewable resources,\" Hu said. As of June 2026, Starlink has over 12,400 satellites in orbit, occupying more than 60% of active global satellite slots. They have locked up nearly 70% of the prime real estate between 500-600 kilometers – the sweet spot for direct-to-cellphone connectivity.\n\"If we don't launch and use them, we are simply giving these resources away,\" Hu says.\nIn late 2025, China filed applications for 203,000 satellites to the International Telecommunication Union in a bid to secure future capacity.\nBuild for the future\nAddressing growing international concerns about space debris, the Qianfan satellites are designed with a built-in \"green\" feature. Each satellite has a planned operational lifespan of seven years and is equipped with a de-orbiting system. At the end of its service, the satellite will automatically maneuver to burn up completely upon re-entering Earth's atmosphere, leaving no long-term space junk.\nThe new design also allows for stacked launches.\n\"We can now launch 18 satellites at once,\" Hu describes. \"It's like skipping stones on water. The upper stage spins and through centrifugal force, the satellites separate one by one without collision.\"\nBeyond basic internet, Qianfan is viewed as critical for emerging \"space-based computing,\" where data processing could leverage limitless solar power and the cold vacuum of space, potentially offering a greener solution for the AI era's immense energy demands.\nPeople watch the launch of a Long March-8 rocket carrying Qianfan satellites, Wenchang City, south China's Hainan Province, June 5, 2026. \nLooking beyond connectivity, the constellation is positioned as global public infrastructure. Spacesail envisions satellite broadband becoming as affordable and accessible as utilities, targeting ocean-going vessels, commercial aviation and remote regions, especially those in the developing world.\nIf realized, the Qianfan network could help narrow the digital divide for communities where massive fiber and cell towers remain impractical.",
-      "fullTextCn": "2026年4月7日，中国海南省文昌市，耀光火箭发射观景台上烟花绽放，庆祝千帆星座卫星成功发射。中国雄心勃勃的低地球轨道互联网卫星项目——千帆星座，已取得重要里程碑，截至2026年6月初，在轨卫星超过200颗。该项目通过显著的成本削减策略和对可持续太空运营的承诺，正在加速部署。据中国科学院微小卫星创新研究院院长、千帆星座卫星系统总指挥胡海鹰介绍，截至6月5日，千帆在轨卫星数量已激增至200颗。千帆不再只是一个实验，它正进入高频次、大规模部署阶段，作为中国建设低轨卫星互联网星座持续努力的一部分。\n\n中国的千帆和SpaceX的星链都运行在距地球约300至2000公里的低地球轨道。在这个高度，卫星像“天空中的基站”——足够近以提供最小延迟，足够强大以形成由数万个节点组成的“太空网”。这种架构专门设计用于消除地面塔架无法到达的偏远山区、深海和极地地区的连接盲区。该星座由上海垣信卫星科技有限公司运营，正利用工业化生产模式大幅降低卫星制造成本。传统通信卫星每颗成本可高达3亿元人民币（约4200万美元）。\n\n相比之下，标准化的平板式千帆卫星现在每颗生产成本约为1000万元人民币——降幅超过96%。这种成本效益通过大规模生产、模块化设计和“快速迭代”理念实现，该理念接受较高故障率以换取速度，并依靠网络冗余维持服务。胡海鹰解释说：“中国建成了世界上最好的5G基础设施。因为我们的地面网络如此优秀，我们并未立即感受到对卫星互联网的需求。”2026年5月31日，中国内蒙古自治区东风商业航天创新试验区，一枚长征十二号乙Y1运载火箭搭载千帆卫星与满月对齐。\n\n高密度发射。部署正在快速推进。该项目采用“一箭多星”发射模式，6月初在太原和文昌发射场两天内成功进行了两次高密度发射。这一计划旨在7月前完成由324颗卫星组成的初始网络，提供区域宽带覆盖。长期目标是到2030年将星座扩展到超过15000颗卫星，实现全球覆盖。2026年6月4日，中国广东省珠海市，一枚长征六号甲运载火箭发射后在夜空中留下明亮轨迹。\n\n该项目的紧迫性源于在国际“先到先得”规则下争夺稀缺轨道位置和频率资源的需求。随着竞争对手如SpaceX的星链已在轨运行超过10000颗卫星，中国正竞相抢占剩余可行位置。胡海鹰说：“轨道和频率是不可再生资源。”截至2026年6月，星链在轨卫星超过12400颗，占据全球活跃卫星位置的60%以上。它们已锁定了500-600公里之间近70%的黄金地段——这是直接连接手机的最佳位置。\n\n胡海鹰说：“如果我们不发射和使用，我们就是在白白放弃这些资源。”2025年底，中国向国际电信联盟提交了203000颗卫星的申请，以争取未来容量。面向未来建设。针对日益增长的国际对太空垃圾的担忧，千帆卫星设计有内置的“绿色”特性。每颗卫星计划运行寿命为七年，并配备离轨系统。在服务结束时，卫星将自动机动，在重新进入地球大气层时完全烧毁，不留下长期太空垃圾。\n\n新设计还允许堆叠发射。胡海鹰描述道：“我们现在可以一次发射18颗卫星。就像在水面上打水漂。上面级旋转，通过离心力，卫星一个接一个分离而不碰撞。”除了基本互联网，千帆被视为新兴“天基计算”的关键，其中数据处理可以利用无限的太阳能和太空的寒冷真空，可能为人工智能时代巨大的能源需求提供更绿色的解决方案。2026年6月5日，中国海南省文昌市，人们观看长征八号运载火箭搭载千帆卫星发射。\n\n展望连接之外，该星座被定位为全球公共基础设施。垣信设想卫星宽带变得像公用事业一样负担得起和可访问，目标客户包括远洋船舶、商业航空和偏远地区，尤其是发展中国家。如果实现，千帆网络可能有助于缩小数字鸿沟，惠及那些大规模光纤和信号塔仍不切实际的社区。"
+      "fullText": "The first commercial 5G local area network in Zhejiang province has successfully transformed the China Jushi fiberglass factory into a highly efficient, unmanned smart manufacturing hub.\nOn the intelligent production lines of China Jushi Co, a seamless dance of human-machine collaboration is unfolding. As the building materials industry accelerates its transition from traditional manufacturing to smart manufacturing, fiberglass — a critical material for wind power, new energy vehicles and 5G communications — has become a focal point for technological breakthroughs.\nChina Jushi, a core enterprise of China National Building Material Co Ltd, stands as a global leader in the fiberglass industry. The company boasts the world's largest production capacity, holding a commanding 40 percent market share in China and 24 percent globally. Over the years, China Jushi has maintained its industry-leading position in scale, technology and quality, earning prestigious accolades such as the China Grand Awards for Industry, the National Science and Technology Progress Award, and recognition as a national intelligent manufacturing demonstration factory.\nTo further accelerate its digital transformation, China Unicom Zhejiang Branch recently achieved the deep commercial integration of a 5G LAN at China Jushi's No 5 factory in Jiaxing, Zhejiang. This milestone project marks the very first commercial use case of 5G LAN in Zhejiang, helping Jushi build a comprehensive 5G-powered factory.\nThe advanced 5G LAN technology supports 5G-native Layer 2 networking, allowing terminals to be highly flexible and plug-and-play. Crucially, it maintains the enterprise's original network architecture, significantly lowering the difficulty of upgrading production lines to 5G. The technology can create specialized \"groups\" for enterprise terminals at Layer 2 or Layer 3, providing flexible communication services such as terminal interconnection and isolation.\nAt the Jiaxing No 5 factory, 5G terminals are installed directly into control cabinets, deeply integrating with the factory's programmable logic controllers — the \"brains\" of the machinery. By utilizing advanced 5G LAN technology, the factory has constructed a seamless end-to-end network. This enables real-time collaboration between different programmable logic controllers and ensures instant data sharing with the supervisory control and data acquisition system. This signifies a major step forward for China Unicom's 5G Private Network Plus 3.0, proving that 5G has deeply penetrated the core production links of industrial manufacturing.\nStepping into the No 5 factory, the results are visually striking. Industrial robots navigate the workshop in perfect order, executing material transport and loading with flawless precision. Rows of mechanical arms complete complex procedures with every bend and stretch, while rolls of fiberglass packaging materials are automatically elevated within the smart warehouse. Only a handful of technicians are needed to debug products or machinery. In the factory's intelligent control center, massive display screens continuously update dense data charts, providing a digitized, visualized and full-process monitoring system for multiple production lines.\nSong Guangmin, director of the industrial internet support center at China Unicom Zhejiang Branch, highlighted the philosophy behind this transformation. \"From the very beginning of the factory's construction, we established a foundational requirement for the full connection of data elements,\" Song said. \"What we see now is a 'mega-factory' in Zhejiang — a fully connected operation based on the deep integration of 5G, IT and operational technologies.\"\nSong noted that the factory leverages AI large models for extensive data collection, analysis and scenario applications. \"The massive unmanned technologies operating here are the result of fusing new-generation information technologies, represented by 5G, with AI large models. This has dramatically boosted China Jushi's competitiveness, increasing its production efficiency by over 20 percent since the project was implemented,\" he said. The customized computing power required for these AI applications is seamlessly provided by China Unicom's supercomputing center in Wuzhen, Zhejiang.\nDuring a recent visit, Fan Ji'an, chief big data scientist at China Unicom, highly praised the deep integration of the 5G factory. China Unicom and Jushi have agreed to expand their cooperation in industrial manufacturing, including reliability verification of cross-SMF 5G LAN networking, extending 5G LAN to multi-campus wide-area networks and building 5G private networks for China Jushi's new factories.\nYu Yadong, director of the information technology center at China Jushi, outlined the ambitious road ahead: \"The 5G factory will not only focus on internal digital and intelligent transformation, but also expand externally. Based on China Unicom's unified multi-campus 5G private network solution, we aim to connect upstream and downstream industries, establish a wide-area 5G LAN, and promote our advanced fiberglass production technologies from the Tongxiang headquarters to global branches in Chengdu, Sichuan province, Jiujiang, Jiangxi province, and Suez in Egypt, leading the high-quality development of the global fiberglass industry.\"",
+      "fullTextCn": "浙江省首个商用5G局域网成功将中国巨石玻璃纤维工厂转型为高效、无人化的智能制造中心。在中国巨石股份有限公司的智能生产线上，人机协作的无缝舞蹈正在展开。随着建材行业加速从传统制造向智能制造转型，玻璃纤维——作为风电、新能源汽车和5G通信的关键材料——已成为技术突破的焦点。中国巨石是中国建材集团的核心企业，是全球玻璃纤维行业的领导者。该公司拥有全球最大的生产能力，在中国市场占据40%的份额，在全球市场占据24%的份额。\n\n多年来，中国巨石在规模、技术和质量方面保持了行业领先地位，荣获了中国工业大奖、国家科技进步奖等殊荣，并被认定为国家级智能制造示范工厂。为进一步加速数字化转型，中国联通浙江省分公司最近在中国巨石位于浙江嘉兴的五号工厂实现了5G局域网的深度商业集成。这一里程碑项目标志着浙江省首个5G局域网商业应用案例，帮助巨石建设了全面的5G工厂。先进的5G局域网技术支持5G原生二层网络，使终端具有高度灵活性和即插即用功能。关键的是，它保留了企业原有的网络架构，显著降低了生产线升级到5G的难度。\n\n该技术可以在二层或三层为企业终端创建专门的“组”，提供终端互联和隔离等灵活通信服务。在嘉兴五号工厂，5G终端直接安装在控制柜中，与工厂的可编程逻辑控制器（机器的“大脑”）深度集成。通过利用先进的5G局域网技术，工厂构建了无缝的端到端网络。这实现了不同可编程逻辑控制器之间的实时协作，并确保与监控和数据采集系统的即时数据共享。这标志着中国联通5G专网Plus 3.0迈出了重要一步，证明了5G已深入渗透到工业制造的核心生产环节。\n\n走进五号工厂，成果令人瞩目。工业机器人在车间内有序穿梭，以完美的精度执行物料运输和装载。一排排机械臂通过每一次弯曲和伸展完成复杂工序，而一卷卷玻璃纤维包装材料在智能仓库中自动升降。只有少数技术人员需要对产品或机器进行调试。在工厂的智能控制中心，巨大的显示屏不断更新密集的数据图表，为多条生产线提供数字化、可视化和全流程监控系统。\n\n中国联通浙江省分公司工业互联网支撑中心主任宋广民强调了这一转型背后的理念。“从工厂建设之初，我们就确立了数据要素全面连接的基础要求，”宋广民说。“我们现在看到的是浙江的一个‘超级工厂’——基于5G、IT和运营技术深度融合的全面连接运营。”宋广民指出，该工厂利用AI大模型进行广泛的数据收集、分析和场景应用。“这里运行的大规模无人技术是5G为代表的新一代信息技术与AI大模型融合的结果。这极大地提升了中国巨石的竞争力，自项目实施以来，其生产效率提高了20%以上，”他说。\n\n这些AI应用所需的定制计算能力由中国联通位于浙江乌镇的超级计算中心无缝提供。在最近的一次访问中，中国联通首席大数据科学家范济安高度赞扬了5G工厂的深度融合。中国联通和巨石已同意扩大在工业制造领域的合作，包括跨SMF 5G局域网组网的可靠性验证、将5G局域网扩展到多园区广域网，以及为中国巨石的新工厂建设5G专网。中国巨石信息技术中心主任俞亚东概述了雄心勃勃的前进道路：“5G工厂不仅将专注于内部数字化和智能化转型，还将向外扩展。基于中国联通统一的多园区5G专网解决方案，我们旨在连接上下游产业，建立广域5G局域网，并将我们先进的玻璃纤维生产技术从桐乡总部推广到四川成都、江西九江和埃及苏伊士的全球分支机构，引领全球玻璃纤维行业的高质量发展。”"
     },
     {
-      "id": 3,
-      "category": "society",
+      "id": 4,
+      "category": "technology",
       "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/news/culture/2026-06-22/detail-ihffptmh9491416.shtml",
-      "title": "Tradition takes center stage during holiday",
-      "titleCn": "传统在假期中占据中心舞台",
-      "summary": "Cultural experiences took center stage during the just-concluded Dragon Boat Festival holiday as people from across the country embarked on journeys in search of traditional festivities involving boat races, rituals and seasonal foods, travel agencies said.",
-      "summaryCn": "端午节假期期间，传统文化体验成为旅游热点，龙舟赛和粽子等元素带动了全国旅游热潮。",
-      "wordCount": 752,
+      "sourceUrl": "http://www.ecns.cn/business/2026-06-23/detail-ihfftxzk2706184.shtml",
+      "title": "2026 Summer Davos highlights innovation, sustainability, cooperation",
+      "titleCn": "2026夏季达沃斯聚焦创新、可持续性与合作",
+      "summary": "Outside the conference venue in the northeastern Chinese port city of Dalian, fleets of sleek electric cars glide quietly through the streets, autonomous buses shuttle between designated stops, and hydrogen-powered coaches stand ready to transport delegates arriving for the 2026 Summer Davos forum.",
+      "summaryCn": "2026年夏季达沃斯论坛在大连举行，重点讨论技术创新、绿色转型和国际合作，以应对全球经济不确定性。",
+      "wordCount": 770,
       "paragraphs": [
         {
-          "en": "Cultural experiences took center stage during the just-concluded Dragon Boat Festival holiday as people from across the country {{0}} on journeys in search of traditional {{1}} involving boat races, rituals and seasonal foods, travel agencies said. Searches for keywords such as \"Dragon Boat Festival\", \"dragon boat\" and \"zongzi\" more than {{2}} from a month earlier on online travel platform Qunar, reflecting the growing {{3}} of tradition-infused travel and transforming the three-day break into a vibrant celebration of Chinese cultural {{4}}. Meanwhile, searches for folk-culture tourism jumped 55 percent year-on-year, according to People's Daily Overseas Edition, citing online travel agency Mafengwo. Dragon boat racing, the festival's most iconic tradition, has {{5}} from a spectator event into a {{6}} cultural attraction. Travel platform Ctrip reported that searches for \"dragon boat\" rose 41.3 percent week-on-week, with races proving to be a major tourism {{7}}.",
-          "cn": "旅行社表示，在刚刚结束的端午节假期期间，文化体验占据了中心舞台，来自全国各地的人们踏上旅程，寻找涉及龙舟赛、仪式和时令美食的传统庆祝活动。在线旅游平台去哪儿网的数据显示，“端午节”、“龙舟”和“粽子”等关键词的搜索量比一个月前增长了两倍多，这反映了传统旅游的吸引力日益增强，并将三天假期变成了对中国文化遗产的生动庆祝。与此同时，据《人民日报海外版》援引在线旅行社马蜂窝的数据，民俗文化旅游的搜索量同比增长了55%。龙舟赛是端午节最具标志性的传统，已从观赏性活动演变为参与性的文化景点。旅游平台携程报告称，“龙舟”搜索量环比增长41.3%，龙舟赛已成为主要的旅游吸引力。"
+          "en": "Outside the conference venue in the northeastern Chinese port city of Dalian, fleets of sleek electric cars {{0}} quietly through the streets, autonomous buses {{1}} between designated stops, and hydrogen-powered coaches stand ready to transport delegates arriving for the 2026 Summer Davos forum. More than a {{2}} showcase, the vehicles offer an early glimpse of the themes set to {{3}} discussions at this year's gathering: technological innovation, green transformation and international cooperation in an increasingly uncertain global economy. Scheduled from Tuesday to Thursday, the event, officially known as the World Economic Forum's Annual Meeting of the New Champions, is expected to bring together over 1,700 participants from more than 90 countries and regions to explore how the world can navigate global challenges while creating new opportunities for growth. Under the theme of \"Innovating at Scale,\" this year's meeting will feature discussions on topics including the next phase of China's economic {{4}} and how to {{5}} technological advances into real economic benefits. The two questions feature {{6}} on the forum's agenda, where artificial intelligence (AI) and robotics appear throughout.",
+          "cn": "在中国东北港口城市大连的会议场馆外，一排排流线型电动汽车安静地穿行于街道，自动驾驶巴士在指定站点间穿梭，氢动力客车已准备就绪，接送前来参加2026年夏季达沃斯论坛的代表们。这不仅是物流展示，更让人们初步窥见今年会议的核心议题：在日益不确定的全球经济中，技术创新、绿色转型和国际合作。这场正式名称为世界经济论坛“新领军者年会”的活动，定于周二至周四举行，预计将汇聚来自90多个国家和地区的1700多名参与者，共同探讨世界如何应对全球挑战，同时创造新的增长机遇。今年会议的主题是“大规模创新”，将围绕中国经济发展下一阶段以及如何将技术进步转化为实际经济效益等议题展开讨论。这两个问题在论坛议程中占据突出位置，人工智能和机器人技术贯穿始终。"
         },
         {
-          "en": "Guangdong province led the trend. Travel-related searches for Foshan increased by 134.9 percent week-on-week, driven by the {{8}} Diejiao dragon boat race, often hailed as the \"F1 on water\", Ctrip said. A tourist from Shanxi province, who went to Foshan to see the Diejiao race, said the chants of the boatmen and the roar of the drums made it a {{9}} moving experience. \"No matter how exciting the video is, nothing beats the real experience. I could feel the {{10}} all around,\" she said.",
-          "cn": "广东省引领了这一趋势。携程表示，受著名的叠滘龙舟赛（常被誉为“水上F1”）的推动，佛山的旅游相关搜索量环比增长了134.9%。一位来自山西省的游客前往佛山观看叠滘龙舟赛，她说船夫的呐喊和鼓声的轰鸣使其成为一次激动人心的体验。“无论视频多么精彩，都比不上真实的体验。我能感受到周围的活力，”她说。"
+          "en": "A dedicated session will be organized on some of China's hottest tech trends, including the setting up and training of personal AI {{7}}, the rise of one-person companies (OPCs), and the growing {{8}} of humanoid robots in factories. Mounting interest in these topics is being {{9}} by the rapid {{10}} of China's AI industry. The number of the country's AI companies topped 6,000 in 2025, with the value of its core AI industry estimated to {{11}} 1.2 trillion yuan (about 176.1 billion U.S. dollars). According to statistics from the OECD, Chinese AI firms attracted about 13.9 billion U.S.",
+          "cn": "将组织一场专门会议，讨论中国一些最热门的科技趋势，包括个人AI代理的建立和训练、一人公司的兴起，以及人形机器人在工厂中的日益普及。中国人工智能产业的快速扩张推动了人们对这些话题的兴趣。2025年，中国人工智能企业数量超过6000家，核心人工智能产业估值预计超过1.2万亿元人民币（约合1761亿美元）。根据经合组织的统计数据，2025年，中国人工智能公司吸引了约139亿美元的全球风险投资，位居世界第三。然而，讨论不仅限于技术机遇。在往年讨论的基础上，本次会议还将更深入地探讨人工智能带来的挑战，包括技术获取不平等、隐私和安全问题以及信息过载。除了创新，绿色发展是今年论坛的另一个关键词。这一承诺贯穿论坛的运营始终。"
         },
         {
-          "en": "Not only in Guangdong, dragon boat events {{11}} tourism nationwide. Searches for Jingzhou in Hubei province rose 87.5 percent week-on-week, while Zigui in the same province — the hometown of poet Qu Yuan — became a holiday hot spot thanks to its cultural festival, according to Ctrip. Qu was a {{12}} poet and minister in the State of Chu during the Warring States Period (475-221 BC). He {{13}} himself in the Miluo River when he learned that the State of Chu was being defeated by the State of Qin. Legend has it that upon learning of Qu's death, locals took out boats to search for his body, dropping rice dumplings into the river to prevent the body from being eaten by fish.",
-          "cn": "不仅是在广东，龙舟赛事也推动了全国旅游业的发展。据携程称，湖北省荆州市的搜索量环比增长了87.5%，而同一省份的秭归——诗人屈原的故乡——因其文化节而成为假日热点。屈原是战国时期（公元前475-221年）楚国的一位传奇诗人和大臣。当他得知楚国被秦国击败时，他投汨罗江自尽。传说，得知屈原的死讯后，当地人划船寻找他的尸体，并将粽子投入河中，以防止尸体被鱼吃掉。"
+          "en": "dollars in global {{12}} capital investment in 2025, ranking third worldwide. Yet the conversation extends beyond technological opportunity. Building on discussions from previous years, the meeting will also delve deeper into the challenges posed by AI, including {{13}} access to the technology, privacy and security concerns, and information {{14}}. Beyond innovation, green development is another keyword at this year's forum. That {{15}} is {{16}} throughout the forum's operations.",
+          "cn": "新能源汽车将占论坛交通车队的80%以上，而主会场大连国际会议中心将完全使用绿色电力。其空调系统还将采用海水源热泵技术，帮助降低能耗超过30%。大连市市长李强表示：“所有这些努力充分展示了大连在举办此次活动时，致力于采用清洁、节能和资源循环利用的方式。”这些原则的应用也体现在主办城市的产业转型中。利用其独特的沿海地理优势，大连一直在稳步扩大其清洁能源产业链。"
         },
         {
-          "en": "It is to honor this legend that Chinese people hold dragon boat races and make zongzi to eat during the festival. There was huge demand for seasonal Dragon Boat Festival {{14}} as well. According to Qunar, food lovers hit the road in droves in search of festive cuisines. Instead of debating on whether to sample sweet or savory rice dumplings known as zongzi, hundreds headed to Quanzhou, Fujian province, to sample Minnan-style braised pork zongzi, or to Guiyang in Guizhou province to try the unique Buyi ash zongzi mixed with plant-ash lye, it said. Beyond zongzi, crayfish from Qianjiang, Hubei province, mackerel dumplings from Qingdao, Shandong province, and cold fermented noodle soup from Lanzhou, Gansu province, were also big draws for food {{16}} who traveled thousands of miles just to sample the fare.",
-          "cn": "正是为了纪念这一传说，中国人在节日期间举行龙舟赛并制作粽子食用。对端午节时令美食的需求也很大。据去哪儿网称，美食爱好者们成群结队地踏上旅途，寻找节日美食。它表示，人们不再争论是品尝甜粽子还是咸粽子，而是有数百人前往福建省泉州市品尝闽南风味红烧肉粽，或前往贵州省贵阳市品尝独特的布依族灰粽（混合了植物灰碱）。除了粽子，湖北省潜江市的小龙虾、山东省青岛市的鲅鱼饺子以及甘肃省兰州市的冷发酵面汤，也对那些不远千里前来品尝美食的美食家们具有巨大吸引力。"
+          "en": "New energy vehicles will {{17}} for more than 80 percent of the forum's transportation fleet, while the Dalian International Conference Center, the main venue, will run entirely on green electricity. Its air-conditioning system will also {{18}} seawater-source heat pump technology, helping cut energy {{19}} by more than 30 percent. \"All these efforts fully showcase Dalian's {{20}} to a clean, energy-saving and resource-recycling approach in hosting the event,\" said Li Qiang, mayor of the city. The application of these principles is also evident in the host city's industrial transformation. Leveraging its unique coastal {{22}}, Dalian has been steadily expanding its clean-energy industrial chain.",
+          "cn": "在氢气生产、储存和运输、燃料电池以及氢能应用领域，该市现已拥有50多家企业和研究机构，形成了相对完整的产业链。通过在全球对话中分享这些经验，论坛旨在实现更广泛的目标——促进各国如何应对日益复杂世界的对话。世界经济论坛总裁兼首席执行官阿洛伊斯·茨温吉表示：“世界经济论坛始终将领导者们聚集在一起，应对影响世界的最大挑战，并通过对话与合作寻找解决方案。在经济不确定性、地缘政治紧张和技术快速变革的时代，本次会议是一个关注切实解决方案的机会。”中国的经验和解决方案将继续成为焦点，因为合作伙伴对深化与中国的合作表现出越来越浓厚的兴趣。这种兴趣体现在持续的外国投资上。"
         },
         {
-          "en": "According to Qunar, hotel {{17}} in these foodie-friendly destinations — including Qianjiang, Qingdao, Lanzhou, Quanzhou and Guiyang — increased by more than 20 percent during the holiday. The folk-culture {{18}} fuels local industries. Miluo in Hunan province — known as the \"hometown of dragon boats\" — is home to 20 boat-building factories with an annual turnover of more than 200 million yuan ($29.6 million), according to data from the local government. The finals of the 2026 Hunan Dragon Boat Super League kicked off in Miluo on Thursday. A total of 38 top dragon boat teams from 14 cities and prefectures across the province gathered to compete in the two-day race.",
-          "cn": "据去哪儿网称，在假期期间，这些美食友好型目的地——包括潜江、青岛、兰州、泉州和贵阳——的酒店入住率增长了20%以上。民俗热潮推动了当地产业。据当地政府数据，被誉为“龙舟之乡”的湖南省汨罗市拥有20家造船厂，年营业额超过2亿元人民币（2960万美元）。2026年湖南省龙舟超级联赛决赛于周四在汨罗开赛。来自全省14个市州的38支顶级龙舟队齐聚一堂，参加为期两天的比赛。"
+          "en": "In the fields of hydrogen production, storage and transportation, fuel cells and hydrogen applications, the city is now home to more than 50 enterprises and research institutions, forming a relatively complete industrial chain. By sharing these experiences in a global conversation, the forum seeks to serve a broader purpose -- {{23}} dialogue on how countries can navigate an increasingly complex world. \"The World Economic Forum has always brought leaders together to tackle the biggest challenges affecting the world and used dialogue and collaboration to look at solutions,\" said Alois Zwinggi, World Economic Forum president and chief executive officer. \"At a time of economic uncertainty, geopolitical {{24}} and rapid technological change, this meeting is an opportunity to focus on practical solutions.\"\nChina's experience and solutions are set to remain in the spotlight, as partners show increasing interest in deepening collaboration with the country. This interest is reflected in continued foreign investment.",
+          "cn": "2025年，超过8000家外资企业增加了对华投资，同比增长超过10%。根据商务部5月份的数据，今年1月至4月，又有3000多家外资企业在中国追加了投资。随着中国表示愿意继续与全球共享发展机遇，其下一阶段的发展预计将与全球增长紧密相连。今年3月，中国发布了第十五个五年规划（2026-2030年）。国家发展和改革委员会官员高伟奇表示，这一蓝图不仅规划了中国自身的发展道路，也强调了其继续为全球增长做出贡献的承诺，这已经产生了显著的溢出效应。"
         },
         {
-          "en": "Through dragon boat racing and folk traditions, they celebrated the spirit of Qu Yuan and participated in a grand Dragon Boat Festival event that deeply integrated culture, tourism and sports. One workshop in Luojiang township continued working through the holiday to meet rising orders. Likewise, a zongzi producer in Quzici township said the number of orders {{19}} all predictions of a market downturn. Since late April, the Quzici plant has run at full capacity. Local villager Weng Zhenggui, who lives just 400 meters away and works eight hours a day, made over 1,000 zongzi and earned up to 6,000 yuan per month.",
-          "cn": "通过龙舟赛和民俗传统，他们庆祝了屈原的精神，并参与了一场深度融合文化、旅游和体育的盛大端午节活动。罗江镇的一家作坊在假期期间继续工作以满足不断增长的订单。同样，屈子祠镇的一家粽子生产商表示，订单数量打破了市场低迷的所有预测。自4月下旬以来，屈子祠工厂一直满负荷运转。当地村民翁正贵住在仅400米远的地方，每天工作8小时，制作了1000多个粽子，每月收入高达6000元。"
+          "en": "In 2025, more than 8,000 overseas-funded enterprises increased their investment in China, up over 10 percent year on year. From January to April this year, over 3,000 overseas-funded enterprises made additional investments in the country, according to data from the Ministry of Commerce in May. With China expressing its continued willingness to share development opportunities with the global community, the country's next stage of development is expected to remain closely intertwined with global growth. The country rolled out its 15th Five-Year Plan (2026-2030) in March this year. The blueprint not only charts the course of China's own development, but also underscores its commitment to making continued contributions to global growth, which has already achieved significant {{25}} effects, said Gao Weiqi, an official with the National Development and Reform Commission.",
+          "cn": "高伟奇说：“中国健康稳定的发展将为世界经济注入更大的确定性和新动力。”夏季达沃斯论坛由世界经济论坛于2007年创立，每年在中国举办，轮流在天津和大连两个港口城市举行。"
         },
         {
-          "en": "The cooking and packing processes in the plant are {{20}}, boosting daily output to 100,000 zongzi while ensuring consistent quality. \"The automated system precisely controls temperature and pressure, saving labor and improving efficiency and taste {{21}},\" said company chairman Wu Liman. Inbound tourism showed strong growth during the holiday, with Fliggy reporting that bookings were up more than sixfold year-on-year.",
-          "cn": "工厂的烹饪和包装过程实现了自动化，将日产量提高到10万个粽子，同时确保了质量的一致性。“自动化系统精确控制温度和压力，节省了劳动力，提高了效率和口味一致性，”公司董事长吴立满表示。假期期间，入境旅游显示出强劲增长，飞猪报告称预订量同比增长了六倍多。"
+          "en": "\"China's healthy and stable development will inject greater certainty and new momentum into the world economy,\" said Gao. Established by the World Economic Forum in 2007, the Summer Davos forum is held annually in China, alternating between the two port cities of Tianjin and Dalian.",
+          "cn": ""
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "embarked",
-          "hint": "v. 开始，踏上",
+          "answer": "glide",
+          "hint": "v. 滑行",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "festivities",
-          "hint": "n. 庆祝活动",
+          "answer": "shuttle",
+          "hint": "v. 穿梭运送",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "tripled",
-          "hint": "v. 增至三倍",
-          "difficulty": "medium"
+          "answer": "logistical",
+          "hint": "adj. 后勤的",
+          "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "appeal",
-          "hint": "n. 吸引力",
+          "answer": "anchor",
+          "hint": "v. 锚定，固定",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "heritage",
-          "hint": "n. 遗产",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "evolved",
-          "hint": "v. 演变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "participatory",
-          "hint": "adj. 参与性的",
+          "answer": "trajectory",
+          "hint": "n. 轨迹，发展路径",
           "difficulty": "hard"
         },
         {
+          "id": 5,
+          "answer": "translate",
+          "hint": "v. 转化",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "prominently",
+          "hint": "adv. 突出地",
+          "difficulty": "medium"
+        },
+        {
           "id": 7,
-          "answer": "magnet",
-          "hint": "n. 有吸引力的事物",
+          "answer": "agents",
+          "hint": "n. 代理（程序）",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "famed",
-          "hint": "adj. 著名的",
+          "answer": "adoption",
+          "hint": "n. 采用",
           "difficulty": "easy"
         },
         {
           "id": 9,
-          "answer": "spectacularly",
-          "hint": "adv. 壮观地",
-          "difficulty": "hard"
+          "answer": "fueled",
+          "hint": "v. 推动，加剧",
+          "difficulty": "medium"
         },
         {
           "id": 10,
+          "answer": "expansion",
+          "hint": "n. 扩张",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "exceed",
+          "hint": "v. 超过",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "venture",
+          "hint": "n. 风险投资",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "unequal",
+          "hint": "adj. 不平等的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "overload",
+          "hint": "n. 超载，过量",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "commitment",
+          "hint": "n. 承诺",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "visible",
+          "hint": "adj. 可见的，明显的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "account",
+          "hint": "v. 占（比例）",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "employ",
+          "hint": "v. 采用，使用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "consumption",
+          "hint": "n. 消耗",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "dedication",
+          "hint": "n. 奉献，致力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "geography",
+          "hint": "n. 地理条件",
+          "difficulty": "easy"
+        },
+        {
+          "id": 22,
+          "answer": "fostering",
+          "hint": "v. 促进，培养",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "tension",
+          "hint": "n. 紧张局势",
+          "difficulty": "easy"
+        },
+        {
+          "id": 24,
+          "answer": "spillover",
+          "hint": "n. 溢出效应",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Outside the conference venue in the northeastern Chinese port city of Dalian, fleets of sleek electric cars glide quietly through the streets, autonomous buses shuttle between designated stops, and hydrogen-powered coaches stand ready to transport delegates arriving for the 2026 Summer Davos forum.\nMore than a logistical showcase, the vehicles offer an early glimpse of the themes set to anchor discussions at this year's gathering: technological innovation, green transformation and international cooperation in an increasingly uncertain global economy.\nScheduled from Tuesday to Thursday, the event, officially known as the World Economic Forum's Annual Meeting of the New Champions, is expected to bring together over 1,700 participants from more than 90 countries and regions to explore how the world can navigate global challenges while creating new opportunities for growth.\nUnder the theme of \"Innovating at Scale,\" this year's meeting will feature discussions on topics including the next phase of China's economic trajectory and how to translate technological advances into real economic benefits.\nThe two questions feature prominently on the forum's agenda, where artificial intelligence (AI) and robotics appear throughout. A dedicated session will be organized on some of China's hottest tech trends, including the setting up and training of personal AI agents, the rise of one-person companies (OPCs), and the growing adoption of humanoid robots in factories.\nMounting interest in these topics is being fueled by the rapid expansion of China's AI industry. The number of the country's AI companies topped 6,000 in 2025, with the value of its core AI industry estimated to exceed 1.2 trillion yuan (about 176.1 billion U.S. dollars). According to statistics from the OECD, Chinese AI firms attracted about 13.9 billion U.S. dollars in global venture capital investment in 2025, ranking third worldwide.\nYet the conversation extends beyond technological opportunity. Building on discussions from previous years, the meeting will also delve deeper into the challenges posed by AI, including unequal access to the technology, privacy and security concerns, and information overload.\nBeyond innovation, green development is another keyword at this year's forum.\nThat commitment is visible throughout the forum's operations. New energy vehicles will account for more than 80 percent of the forum's transportation fleet, while the Dalian International Conference Center, the main venue, will run entirely on green electricity. Its air-conditioning system will also employ seawater-source heat pump technology, helping cut energy consumption by more than 30 percent.\n\"All these efforts fully showcase Dalian's dedication to a clean, energy-saving and resource-recycling approach in hosting the event,\" said Li Qiang, mayor of the city.\nThe application of these principles is also evident in the host city's industrial transformation. Leveraging its unique coastal geography, Dalian has been steadily expanding its clean-energy industrial chain.\nIn the fields of hydrogen production, storage and transportation, fuel cells and hydrogen applications, the city is now home to more than 50 enterprises and research institutions, forming a relatively complete industrial chain.\nBy sharing these experiences in a global conversation, the forum seeks to serve a broader purpose -- fostering dialogue on how countries can navigate an increasingly complex world.\n\"The World Economic Forum has always brought leaders together to tackle the biggest challenges affecting the world and used dialogue and collaboration to look at solutions,\" said Alois Zwinggi, World Economic Forum president and chief executive officer. \"At a time of economic uncertainty, geopolitical tension and rapid technological change, this meeting is an opportunity to focus on practical solutions.\"\nChina's experience and solutions are set to remain in the spotlight, as partners show increasing interest in deepening collaboration with the country.\nThis interest is reflected in continued foreign investment. In 2025, more than 8,000 overseas-funded enterprises increased their investment in China, up over 10 percent year on year. From January to April this year, over 3,000 overseas-funded enterprises made additional investments in the country, according to data from the Ministry of Commerce in May.\nWith China expressing its continued willingness to share development opportunities with the global community, the country's next stage of development is expected to remain closely intertwined with global growth.\nThe country rolled out its 15th Five-Year Plan (2026-2030) in March this year. The blueprint not only charts the course of China's own development, but also underscores its commitment to making continued contributions to global growth, which has already achieved significant spillover effects, said Gao Weiqi, an official with the National Development and Reform Commission.\n\"China's healthy and stable development will inject greater certainty and new momentum into the world economy,\" said Gao.\nEstablished by the World Economic Forum in 2007, the Summer Davos forum is held annually in China, alternating between the two port cities of Tianjin and Dalian.",
+      "fullTextCn": "在中国东北港口城市大连的会议场馆外，一排排流线型电动汽车安静地穿行于街道，自动驾驶巴士在指定站点间穿梭，氢动力客车已准备就绪，接送前来参加2026年夏季达沃斯论坛的代表们。这不仅是物流展示，更让人们初步窥见今年会议的核心议题：在日益不确定的全球经济中，技术创新、绿色转型和国际合作。这场正式名称为世界经济论坛“新领军者年会”的活动，定于周二至周四举行，预计将汇聚来自90多个国家和地区的1700多名参与者，共同探讨世界如何应对全球挑战，同时创造新的增长机遇。今年会议的主题是“大规模创新”，将围绕中国经济发展下一阶段以及如何将技术进步转化为实际经济效益等议题展开讨论。这两个问题在论坛议程中占据突出位置，人工智能和机器人技术贯穿始终。\n\n将组织一场专门会议，讨论中国一些最热门的科技趋势，包括个人AI代理的建立和训练、一人公司的兴起，以及人形机器人在工厂中的日益普及。中国人工智能产业的快速扩张推动了人们对这些话题的兴趣。2025年，中国人工智能企业数量超过6000家，核心人工智能产业估值预计超过1.2万亿元人民币（约合1761亿美元）。根据经合组织的统计数据，2025年，中国人工智能公司吸引了约139亿美元的全球风险投资，位居世界第三。然而，讨论不仅限于技术机遇。在往年讨论的基础上，本次会议还将更深入地探讨人工智能带来的挑战，包括技术获取不平等、隐私和安全问题以及信息过载。除了创新，绿色发展是今年论坛的另一个关键词。这一承诺贯穿论坛的运营始终。\n\n新能源汽车将占论坛交通车队的80%以上，而主会场大连国际会议中心将完全使用绿色电力。其空调系统还将采用海水源热泵技术，帮助降低能耗超过30%。大连市市长李强表示：“所有这些努力充分展示了大连在举办此次活动时，致力于采用清洁、节能和资源循环利用的方式。”这些原则的应用也体现在主办城市的产业转型中。利用其独特的沿海地理优势，大连一直在稳步扩大其清洁能源产业链。\n\n在氢气生产、储存和运输、燃料电池以及氢能应用领域，该市现已拥有50多家企业和研究机构，形成了相对完整的产业链。通过在全球对话中分享这些经验，论坛旨在实现更广泛的目标——促进各国如何应对日益复杂世界的对话。世界经济论坛总裁兼首席执行官阿洛伊斯·茨温吉表示：“世界经济论坛始终将领导者们聚集在一起，应对影响世界的最大挑战，并通过对话与合作寻找解决方案。在经济不确定性、地缘政治紧张和技术快速变革的时代，本次会议是一个关注切实解决方案的机会。”中国的经验和解决方案将继续成为焦点，因为合作伙伴对深化与中国的合作表现出越来越浓厚的兴趣。这种兴趣体现在持续的外国投资上。\n\n2025年，超过8000家外资企业增加了对华投资，同比增长超过10%。根据商务部5月份的数据，今年1月至4月，又有3000多家外资企业在中国追加了投资。随着中国表示愿意继续与全球共享发展机遇，其下一阶段的发展预计将与全球增长紧密相连。今年3月，中国发布了第十五个五年规划（2026-2030年）。国家发展和改革委员会官员高伟奇表示，这一蓝图不仅规划了中国自身的发展道路，也强调了其继续为全球增长做出贡献的承诺，这已经产生了显著的溢出效应。\n\n高伟奇说：“中国健康稳定的发展将为世界经济注入更大的确定性和新动力。”夏季达沃斯论坛由世界经济论坛于2007年创立，每年在中国举办，轮流在天津和大连两个港口城市举行。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-08/Building-a-new-relationship-with-the-ocean-through-innovation-1NO0afSR9za/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Building a new relationship with the ocean through innovation",
+      "titleCn": "通过创新建立与海洋的新关系",
+      "summary": "Building a new relationship with the ocean through innovation",
+      "summaryCn": "中国通过科技创新和国际合作推动海洋经济高质量发展，实现资源利用与环境保护的平衡。",
+      "wordCount": 733,
+      "paragraphs": [
+        {
+          "en": "June 8 marks the 18th World Oceans Day and China's 19th National Ocean Awareness Day. The theme for World Oceans Day 2026, \"Reimagine,\" calls for a new relationship with the ocean. According to the United Nations, the ocean {{1}} more than 70% of the planet, {{2}} at least half of the Earth's oxygen, provides a primary source of protein for more than 1 billion people, and {{3}} around 30% of human-generated carbon dioxide. As countries seek more {{4}} ways to use marine resources, technological {{5}} is increasingly linking ocean {{6}} with economic development. A view of the Yangshan Deep-Water Port, Shanghai, China, July 8, 2025.",
+          "cn": "6月8日是第18个世界海洋日和第19个中国国家海洋意识日。2026年世界海洋日的主题是“重新构想”，呼吁建立与海洋的新关系。据联合国称，海洋覆盖地球70%以上的面积，产生至少一半的氧气，为超过10亿人提供主要蛋白质来源，并吸收约30%的人为二氧化碳。随着各国寻求更可持续地利用海洋资源，技术创新正日益将海洋保护与经济发展联系起来。图为2025年7月8日中国上海洋山深水港。"
+        },
+        {
+          "en": "In March, Qiushi Journal published an article by Chinese President Xi Jinping on promoting the high-quality development of the marine economy. The article stressed the need to efficiently {{7}} marine resources, advance marine science and technology, and \"{{8}} a Chinese path of {{9}} marine resources to achieve strength\" while balancing development and environmental protection. China's gross ocean product reached 11.02 trillion yuan (about $1.6 trillion) in 2025, accounting for 7.9% of the country's GDP, according to data by the Ministry of Natural Resources. Green marine industries have also continued to expand. China's newly connected offshore wind power {{22}} grew by more than 60% year on year in 2025, highlighting the role of clean energy in the country's marine economic {{10}}.",
+          "cn": "3月，《求是》杂志发表了中国国家主席习近平关于推动海洋经济高质量发展的文章。文章强调要高效利用海洋资源，推进海洋科技，“走出一条以海洋资源实现强国之路”，同时平衡发展与环境保护。自然资源部数据显示，2025年中国海洋生产总值达到11.02万亿元（约1.6万亿美元），占国内生产总值的7.9%。绿色海洋产业也在持续扩大。2025年中国新增海上风电装机容量同比增长超过60%，凸显了清洁能源在海洋经济转型中的作用。"
+        },
+        {
+          "en": "Three large cruise ships are docked at the Wusongkou International Cruise Terminal in Shanghai, east China, June 24, 2025. Growth in the marine economy is also being driven by the {{11}} of ocean-related services. In 2025, the added value of China's marine tourism industry exceeded 1.6 trillion yuan, up 5.9% year on year. Cruise passenger traffic increased by 25.3%, highlighting the {{12}} of coastal tourism and ocean-based consumption. The deep-sea manned submersible Fendouzhe, in Sanya, Hainan Province, south China, December 5, 2021.",
+          "cn": "三艘大型邮轮停靠在中国东部上海吴淞口国际邮轮港，摄于2025年6月24日。海洋经济的增长也得益于海洋相关服务的复苏。2025年，中国海洋旅游业增加值超过1.6万亿元，同比增长5.9%。邮轮客运量增长25.3%，凸显了沿海旅游和海洋消费的活力。图为2021年12月5日在中国南部海南省三亚的深海载人潜水器“奋斗者”号。"
+        },
+        {
+          "en": "That {{13}} was evident at OCEANS 2026 Sanya, held in south China's Hainan Province in May. The conference gathered more than 700 scientists, engineers and young scholars from 26 countries and regions. More than 400 technical papers explored topics ranging from deep-sea {{14}} to underwater sensor networks and marine energy. The conference also highlighted Hainan's progress in deep-sea equipment, marine communications, offshore {{20}} and {{15}} conservation. File photo of a jellyfish discovered in the Atacama Trench during the China-Chile deep-see mission in 2026.",
+          "cn": "这一势头在5月于中国南部海南省三亚举行的2026年海洋会议上得到了体现。会议汇聚了来自26个国家和地区的700多名科学家、工程师和青年学者。400多篇技术论文探讨了从深海探索到水下传感器网络和海洋能源等主题。会议还突出了海南在深海装备、海洋通信、近海养殖和生态保护方面的进展。图为2026年中智深海任务期间在阿塔卡马海沟发现的水母资料照片。"
+        },
+        {
+          "en": "/China Media Group\nInternational cooperation has also become an important part of ocean science. In Sanya, the fourth workshop organized by the International Seabed Authority-China Joint Training and Research Centre gathered participants from developing countries across Africa, Asia-Pacific, Latin America and the Caribbean. Since its establishment in 2020, the center has trained 120 specialists from more than 40 countries in deep-sea science, marine spatial planning and environmental management, reflecting China's continued engagement in global ocean {{16}} and capacity building. Research efforts are also contributing directly to marine conservation. A team from Ocean University of China has {{17}} and conserved more than 20,000 mu (about 1,300 hectares) of seagrass beds in the Yellow Sea and Bohai Sea, helping establish a relatively complete restoration {{18}} for temperate seagrass ecosystems.",
+          "cn": "国际合作也成为海洋科学的重要组成部分。在三亚，国际海底管理局-中国联合培训与研究中心组织的第四次研讨会汇集了来自非洲、亚太、拉丁美洲和加勒比地区发展中国家的参与者。自2020年成立以来，该中心已培训了来自40多个国家的120名深海科学、海洋空间规划和环境管理专家，反映了中国在全球海洋治理和能力建设中的持续参与。研究工作也直接为海洋保护做出了贡献。中国海洋大学的一个团队在黄海和渤海恢复和保护了超过2万亩（约1300公顷）的海草床，帮助建立了相对完整的温带海草生态系统恢复框架。"
+        },
+        {
+          "en": "The 150,000-tonne {{19}} aquaculture vessel Guoxin No. 1 2-2 is delivered for operation in Qingdao, Shandong Province, east China, November 15, 2025. As marine technologies move from laboratories into industrial {{27}}, offshore aquaculture is becoming a key {{21}} of China's \"Blue Granary\" initiative. Near Guangdong's Guishan Island, the Gesheng No. 1 platform has expanded its farming capacity to 30,000 cubic meters while requiring only three staff members for daily operations.",
+          "cn": "15万吨级智能养殖工船“国信1号2-2”于2025年11月15日在中国东部山东省青岛交付运营。随着海洋技术从实验室走向工业应用，近海养殖正成为中国“蓝色粮仓”倡议的关键支柱。在广东桂山岛附近，“格盛1号”平台已将其养殖能力扩大到3万立方米，而日常运营仅需三名工作人员。"
+        },
+        {
+          "en": "Intelligent sonar systems, automated feeding and environmental data models have helped achieve {{23}} rates of more than 98% for newly stocked fish. Meanwhile, Suhai-1, the world's first roving salmon and trout aquaculture vessel, is capable of producing up to 8,000 tonnes of {{24}} salmon annually, {{25}} new possibilities for intelligent offshore farming. The Huadian Yuhuan No. 1 offshore windfarm in Taizhou, Zhejiang Province, east China, October 8, 2025. The theme of World Oceans Day 2026 encourages people to rethink their relationship with the ocean, not only as a source of resources but also as a vital ecosystem linked to humanity's future.",
+          "cn": "智能声纳系统、自动投喂和环境数据模型帮助新放养鱼类的存活率超过98%。与此同时，世界首艘游弋式三文鱼养殖工船“苏海1号”每年可生产多达8000吨优质三文鱼，展示了智能近海养殖的新可能性。图为2025年10月8日中国东部浙江省台州的华电玉环1号海上风电场。2026年世界海洋日的主题鼓励人们重新思考与海洋的关系，不仅将其视为资源来源，而且视为与人类未来息息相关的关键生态系统。"
+        },
+        {
+          "en": "Efforts in marine technology, offshore development and international cooperation are showing how China is pursuing more sustainable use of ocean resources. As new innovations continue to move from research into real-world applications, opportunities are expanding to advance marine economic growth while supporting long-term environmental {{26}}.",
+          "cn": "海洋技术、近海开发和国际合作方面的努力表明，中国正在追求更可持续地利用海洋资源。随着新创新不断从研究走向实际应用，推动海洋经济增长同时支持长期环境管理的机会正在扩大。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "covers",
+          "hint": "v. 覆盖",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "produces",
+          "hint": "v. 产生",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "absorbs",
+          "hint": "v. 吸收",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "innovation",
+          "hint": "n. 创新",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "conservation",
+          "hint": "n. 保护",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "utilize",
+          "hint": "v. 利用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "forge",
+          "hint": "v. 锻造，开创",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "leveraging",
+          "hint": "v. 利用",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "transformation",
+          "hint": "n. 转型",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "recovery",
+          "hint": "n. 复苏",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
           "answer": "vitality",
           "hint": "n. 活力",
           "difficulty": "medium"
         },
         {
-          "id": 11,
-          "answer": "boosted",
-          "hint": "v. 促进，推动",
-          "difficulty": "medium"
-        },
-        {
           "id": 12,
-          "answer": "legendary",
-          "hint": "adj. 传奇的",
+          "answer": "momentum",
+          "hint": "n. 势头",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "drowned",
-          "hint": "v. 淹死",
+          "answer": "exploration",
+          "hint": "n. 探索",
           "difficulty": "easy"
         },
         {
           "id": 14,
-          "answer": "delicacies",
-          "hint": "n. 美食",
+          "answer": "ecological",
+          "hint": "adj. 生态的",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "connoisseurs",
-          "hint": "n. 鉴赏家，行家",
+          "answer": "governance",
+          "hint": "n. 治理",
           "difficulty": "hard"
         },
         {
           "id": 16,
-          "answer": "occupancy",
-          "hint": "n. 入住率",
+          "answer": "restored",
+          "hint": "v. 恢复",
           "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "fervor",
-          "hint": "n. 热情",
-          "difficulty": "hard"
+          "answer": "framework",
+          "hint": "n. 框架",
+          "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "defied",
-          "hint": "v. 违抗，挑战",
-          "difficulty": "medium"
+          "answer": "intelligent",
+          "hint": "adj. 智能的",
+          "difficulty": "easy"
         },
         {
           "id": 19,
-          "answer": "automated",
-          "hint": "adj. 自动化的",
-          "difficulty": "medium"
+          "answer": "aquaculture",
+          "hint": "n. 水产养殖",
+          "difficulty": "hard"
         },
         {
           "id": 20,
-          "answer": "consistency",
-          "hint": "n. 一致性",
+          "answer": "pillar",
+          "hint": "n. 支柱",
           "difficulty": "medium"
-        }
-      ],
-      "fullText": "Cultural experiences took center stage during the just-concluded Dragon Boat Festival holiday as people from across the country embarked on journeys in search of traditional festivities involving boat races, rituals and seasonal foods, travel agencies said.\nSearches for keywords such as \"Dragon Boat Festival\", \"dragon boat\" and \"zongzi\" more than tripled from a month earlier on online travel platform Qunar, reflecting the growing appeal of tradition-infused travel and transforming the three-day break into a vibrant celebration of Chinese cultural heritage.\nMeanwhile, searches for folk-culture tourism jumped 55 percent year-on-year, according to People's Daily Overseas Edition, citing online travel agency Mafengwo.\nDragon boat racing, the festival's most iconic tradition, has evolved from a spectator event into a participatory cultural attraction. Travel platform Ctrip reported that searches for \"dragon boat\" rose 41.3 percent week-on-week, with races proving to be a major tourism magnet.\nGuangdong province led the trend. Travel-related searches for Foshan increased by 134.9 percent week-on-week, driven by the famed Diejiao dragon boat race, often hailed as the \"F1 on water\", Ctrip said.\nA tourist from Shanxi province, who went to Foshan to see the Diejiao race, said the chants of the boatmen and the roar of the drums made it a spectacularly moving experience.\n\"No matter how exciting the video is, nothing beats the real experience. I could feel the vitality all around,\" she said.\nNot only in Guangdong, dragon boat events boosted tourism nationwide. Searches for Jingzhou in Hubei province rose 87.5 percent week-on-week, while Zigui in the same province — the hometown of poet Qu Yuan — became a holiday hot spot thanks to its cultural festival, according to Ctrip.\nQu was a legendary poet and minister in the State of Chu during the Warring States Period (475-221 BC). He drowned himself in the Miluo River when he learned that the State of Chu was being defeated by the State of Qin. Legend has it that upon learning of Qu's death, locals took out boats to search for his body, dropping rice dumplings into the river to prevent the body from being eaten by fish. It is to honor this legend that Chinese people hold dragon boat races and make zongzi to eat during the festival.\nThere was huge demand for seasonal Dragon Boat Festival delicacies as well. According to Qunar, food lovers hit the road in droves in search of festive cuisines. Instead of debating on whether to sample sweet or savory rice dumplings known as zongzi, hundreds headed to Quanzhou, Fujian province, to sample Minnan-style braised pork zongzi, or to Guiyang in Guizhou province to try the unique Buyi ash zongzi mixed with plant-ash lye, it said.\nBeyond zongzi, crayfish from Qianjiang, Hubei province, mackerel dumplings from Qingdao, Shandong province, and cold fermented noodle soup from Lanzhou, Gansu province, were also big draws for food connoisseurs who traveled thousands of miles just to sample the fare. According to Qunar, hotel occupancy in these foodie-friendly destinations — including Qianjiang, Qingdao, Lanzhou, Quanzhou and Guiyang — increased by more than 20 percent during the holiday.\nThe folk-culture fervor fuels local industries. Miluo in Hunan province — known as the \"hometown of dragon boats\" — is home to 20 boat-building factories with an annual turnover of more than 200 million yuan ($29.6 million), according to data from the local government.\nThe finals of the 2026 Hunan Dragon Boat Super League kicked off in Miluo on Thursday. A total of 38 top dragon boat teams from 14 cities and prefectures across the province gathered to compete in the two-day race. Through dragon boat racing and folk traditions, they celebrated the spirit of Qu Yuan and participated in a grand Dragon Boat Festival event that deeply integrated culture, tourism and sports.\nOne workshop in Luojiang township continued working through the holiday to meet rising orders. Likewise, a zongzi producer in Quzici township said the number of orders defied all predictions of a market downturn.\nSince late April, the Quzici plant has run at full capacity. Local villager Weng Zhenggui, who lives just 400 meters away and works eight hours a day, made over 1,000 zongzi and earned up to 6,000 yuan per month.\nThe cooking and packing processes in the plant are automated, boosting daily output to 100,000 zongzi while ensuring consistent quality. \"The automated system precisely controls temperature and pressure, saving labor and improving efficiency and taste consistency,\" said company chairman Wu Liman.\nInbound tourism showed strong growth during the holiday, with Fliggy reporting that bookings were up more than sixfold year-on-year.",
-      "fullTextCn": "旅行社表示，在刚刚结束的端午节假期期间，文化体验占据了中心舞台，来自全国各地的人们踏上旅程，寻找涉及龙舟赛、仪式和时令美食的传统庆祝活动。在线旅游平台去哪儿网的数据显示，“端午节”、“龙舟”和“粽子”等关键词的搜索量比一个月前增长了两倍多，这反映了传统旅游的吸引力日益增强，并将三天假期变成了对中国文化遗产的生动庆祝。与此同时，据《人民日报海外版》援引在线旅行社马蜂窝的数据，民俗文化旅游的搜索量同比增长了55%。龙舟赛是端午节最具标志性的传统，已从观赏性活动演变为参与性的文化景点。旅游平台携程报告称，“龙舟”搜索量环比增长41.3%，龙舟赛已成为主要的旅游吸引力。\n\n广东省引领了这一趋势。携程表示，受著名的叠滘龙舟赛（常被誉为“水上F1”）的推动，佛山的旅游相关搜索量环比增长了134.9%。一位来自山西省的游客前往佛山观看叠滘龙舟赛，她说船夫的呐喊和鼓声的轰鸣使其成为一次激动人心的体验。“无论视频多么精彩，都比不上真实的体验。我能感受到周围的活力，”她说。\n\n不仅是在广东，龙舟赛事也推动了全国旅游业的发展。据携程称，湖北省荆州市的搜索量环比增长了87.5%，而同一省份的秭归——诗人屈原的故乡——因其文化节而成为假日热点。屈原是战国时期（公元前475-221年）楚国的一位传奇诗人和大臣。当他得知楚国被秦国击败时，他投汨罗江自尽。传说，得知屈原的死讯后，当地人划船寻找他的尸体，并将粽子投入河中，以防止尸体被鱼吃掉。\n\n正是为了纪念这一传说，中国人在节日期间举行龙舟赛并制作粽子食用。对端午节时令美食的需求也很大。据去哪儿网称，美食爱好者们成群结队地踏上旅途，寻找节日美食。它表示，人们不再争论是品尝甜粽子还是咸粽子，而是有数百人前往福建省泉州市品尝闽南风味红烧肉粽，或前往贵州省贵阳市品尝独特的布依族灰粽（混合了植物灰碱）。除了粽子，湖北省潜江市的小龙虾、山东省青岛市的鲅鱼饺子以及甘肃省兰州市的冷发酵面汤，也对那些不远千里前来品尝美食的美食家们具有巨大吸引力。\n\n据去哪儿网称，在假期期间，这些美食友好型目的地——包括潜江、青岛、兰州、泉州和贵阳——的酒店入住率增长了20%以上。民俗热潮推动了当地产业。据当地政府数据，被誉为“龙舟之乡”的湖南省汨罗市拥有20家造船厂，年营业额超过2亿元人民币（2960万美元）。2026年湖南省龙舟超级联赛决赛于周四在汨罗开赛。来自全省14个市州的38支顶级龙舟队齐聚一堂，参加为期两天的比赛。\n\n通过龙舟赛和民俗传统，他们庆祝了屈原的精神，并参与了一场深度融合文化、旅游和体育的盛大端午节活动。罗江镇的一家作坊在假期期间继续工作以满足不断增长的订单。同样，屈子祠镇的一家粽子生产商表示，订单数量打破了市场低迷的所有预测。自4月下旬以来，屈子祠工厂一直满负荷运转。当地村民翁正贵住在仅400米远的地方，每天工作8小时，制作了1000多个粽子，每月收入高达6000元。\n\n工厂的烹饪和包装过程实现了自动化，将日产量提高到10万个粽子，同时确保了质量的一致性。“自动化系统精确控制温度和压力，节省了劳动力，提高了效率和口味一致性，”公司董事长吴立满表示。假期期间，入境旅游显示出强劲增长，飞猪报告称预订量同比增长了六倍多。"
-    },
-    {
-      "id": 4,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-06-22/detail-ihffptmh9491441.shtml",
-      "title": "Hungary hopes to expand cooperation with China, says chamber vice president",
-      "titleCn": "布达佩斯商会副主席：匈牙利希望扩大对华合作",
-      "summary": "According to Bornemissza, the steady growth of bilateral trade is driven by a combination of strategic political cooperation and economic complementarity. Hungary plays a bridging role between East and West and actively participates in the Belt and Road Initiative, providing a stable foundation for long-term cooperation.",
-      "summaryCn": "匈牙利布达佩斯商会副主席表示，匈牙利视对华合作为全面快速增长的伙伴关系，并希望进一步扩大合作。",
-      "wordCount": 389,
-      "paragraphs": [
-        {
-          "en": "Chinese {{0}} in Hungary has increased {{1}} in recent years, particularly in the electric vehicle and battery {{2}}, \"{{3}} to the development of local {{4}} chains,\" Miklos Bornemissza, vice president of the Budapest Chamber of Commerce and Industry, has said. Hungary views its cooperation with China as a {{5}} and fast-growing {{6}} driven by policy alignment, investment, and expanding people-to-people {{7}}, Miklos Bornemissza, vice president of the Budapest Chamber of Commerce and Industry, said in a written interview with Xinhua on Sunday. According to Bornemissza, the steady growth of {{8}} trade is driven by a combination of strategic political cooperation and economic {{9}}. Hungary plays a {{10}} role between East and West and actively participates in the Belt and Road Initiative, providing a stable foundation for long-term cooperation. Infrastructure and investment are key drivers behind this trend, Bornemissza said. \"The development of the Budapest-Belgrade railway is expected to strengthen Hungary's position as a regional {{13}} hub for Chinese goods entering Europe.\"\nMeanwhile, Chinese investment in Hungary has increased significantly in recent years, particularly in the electric vehicle and battery sectors, \"contributing to the development of local supply chains.\"\nIn addition to trade and investment, Bornemissza highlighted growing opportunities in {{14}} and {{15}} cooperation between the two sides, as economic ties deepen, cooperation in tourism, education, and cultural industries is also expanding.",
-          "cn": "布达佩斯工商会副主席米克洛什·博尔内米萨表示，近年来中国在匈牙利的投资显著增长，尤其是在电动汽车和电池领域，“为当地供应链的发展做出了贡献”。他在周日接受新华社书面采访时表示，匈牙利将与中国的关系视为由政策协调、投资和不断扩大的民间交流推动的全面且快速增长的伙伴关系。博尔内米萨认为，双边贸易的稳步增长是战略政治合作与经济互补性共同作用的结果。匈牙利在东西方之间发挥着桥梁作用，并积极参与“一带一路”倡议，为长期合作提供了稳定基础。博尔内米萨表示，基础设施和投资是这一趋势的关键驱动力。“布达佩斯-贝尔格莱德铁路的建设有望加强匈牙利作为中国商品进入欧洲的区域物流枢纽地位。”与此同时，近年来中国在匈牙利的投资显著增长，尤其是在电动汽车和电池领域，“为当地供应链的发展做出了贡献”。除了贸易和投资，博尔内米萨还强调了随着经济联系加深，双方在文化和旅游合作方面日益增长的机遇，旅游、教育和文化产业方面的合作也在扩大。"
         },
         {
-          "en": "He pointed to the importance of improving {{16}} and services for Chinese visitors, including expanding direct flights, strengthening targeted marketing, and developing tourism products such as wellness, gastronomy, and heritage tourism. Chinese tourists, he noted, \"represent a high-value {{17}}.\"\nEducational exchanges and cooperation between universities are also contributing to long-term ties, while {{19}} in creative industries, including film and digital content, is gaining ground, according to Bornemissza. He emphasized that the chamber of commerce plays a {{20}} role in this process by organizing business forums, supporting cultural and tourism initiatives, and helping companies build partnerships. Efforts are also being made to promote digital solutions and enhance the {{21}} of services tailored to the needs of Chinese consumers. Looking ahead, Bornemissza revealed plans to promote Hungarian products in the Chinese market through a more unified approach to boost Hungary's {{22}}. He expressed confidence that more Chinese visitors will be attracted to Hungary, as the long-standing cultural ties between the two countries provide a solid foundation for further expanding cooperation.",
-          "cn": "他指出改善中国游客的连通性和服务的重要性，包括增加直飞航班、加强有针对性的营销，以及开发健康、美食和遗产旅游等旅游产品。他提到，中国游客“代表了高价值群体”。博尔内米萨表示，大学之间的教育交流与合作也有助于加强长期联系，而包括电影和数字内容在内的创意产业合作也在取得进展。他强调，商会在这一过程中发挥着促进作用，通过组织商业论坛、支持文化和旅游倡议以及帮助企业建立伙伴关系。同时，也在努力推广数字解决方案，并加强针对中国消费者需求的服务整合。展望未来，博尔内米萨透露了通过更统一的方式在中国市场推广匈牙利产品以促进匈牙利出口的计划。他表示相信，由于两国之间长期的文化联系为进一步扩大合作提供了坚实基础，将吸引更多中国游客前往匈牙利。"
-        }
-      ],
-      "blanks": [
+          "id": 21,
+          "answer": "capacity",
+          "hint": "n. 容量，能力",
+          "difficulty": "medium"
+        },
         {
-          "id": 0,
-          "answer": "investment",
-          "hint": "n. 投资",
+          "id": 22,
+          "answer": "survival",
+          "hint": "n. 存活",
           "difficulty": "easy"
         },
         {
-          "id": 1,
-          "answer": "significantly",
-          "hint": "adv. 显著地",
+          "id": 23,
+          "answer": "premium",
+          "hint": "adj. 优质的",
           "difficulty": "medium"
         },
         {
-          "id": 2,
-          "answer": "sectors",
-          "hint": "n. 领域",
+          "id": 24,
+          "answer": "demonstrating",
+          "hint": "v. 展示",
           "difficulty": "medium"
         },
         {
-          "id": 3,
-          "answer": "contributing",
-          "hint": "v. 贡献",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "supply",
-          "hint": "n. 供应",
-          "difficulty": "easy"
-        },
-        {
-          "id": 5,
-          "answer": "comprehensive",
-          "hint": "adj. 全面的",
+          "id": 25,
+          "answer": "stewardship",
+          "hint": "n. 管理",
           "difficulty": "hard"
         },
         {
-          "id": 6,
-          "answer": "partnership",
-          "hint": "n. 伙伴关系",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "exchanges",
-          "hint": "n. 交流",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "bilateral",
-          "hint": "adj. 双边的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "complementarity",
-          "hint": "n. 互补性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "bridging",
-          "hint": "v. 连接",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "logistics",
-          "hint": "n. 物流",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "cultural",
-          "hint": "adj. 文化的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 13,
-          "answer": "tourism",
-          "hint": "n. 旅游业",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "connectivity",
-          "hint": "n. 连通性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "segment",
-          "hint": "n. 群体",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "collaboration",
-          "hint": "n. 合作",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "facilitating",
-          "hint": "v. 促进",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "integration",
-          "hint": "n. 整合",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "exports",
-          "hint": "n. 出口",
+          "id": 26,
+          "answer": "applications",
+          "hint": "n. 应用",
           "difficulty": "medium"
         }
       ],
-      "fullText": "Chinese investment in Hungary has increased significantly in recent years, particularly in the electric vehicle and battery sectors, \"contributing to the development of local supply chains,\" Miklos Bornemissza, vice president of the Budapest Chamber of Commerce and Industry, has said.\nHungary views its cooperation with China as a comprehensive and fast-growing partnership driven by policy alignment, investment, and expanding people-to-people exchanges, Miklos Bornemissza, vice president of the Budapest Chamber of Commerce and Industry, said in a written interview with Xinhua on Sunday.\nAccording to Bornemissza, the steady growth of bilateral trade is driven by a combination of strategic political cooperation and economic complementarity. Hungary plays a bridging role between East and West and actively participates in the Belt and Road Initiative, providing a stable foundation for long-term cooperation.\nInfrastructure and investment are key drivers behind this trend, Bornemissza said. \"The development of the Budapest-Belgrade railway is expected to strengthen Hungary's position as a regional logistics hub for Chinese goods entering Europe.\"\nMeanwhile, Chinese investment in Hungary has increased significantly in recent years, particularly in the electric vehicle and battery sectors, \"contributing to the development of local supply chains.\"\nIn addition to trade and investment, Bornemissza highlighted growing opportunities in cultural and tourism cooperation between the two sides, as economic ties deepen, cooperation in tourism, education, and cultural industries is also expanding.\nHe pointed to the importance of improving connectivity and services for Chinese visitors, including expanding direct flights, strengthening targeted marketing, and developing tourism products such as wellness, gastronomy, and heritage tourism. Chinese tourists, he noted, \"represent a high-value segment.\"\nEducational exchanges and cooperation between universities are also contributing to long-term ties, while collaboration in creative industries, including film and digital content, is gaining ground, according to Bornemissza.\nHe emphasized that the chamber of commerce plays a facilitating role in this process by organizing business forums, supporting cultural and tourism initiatives, and helping companies build partnerships. Efforts are also being made to promote digital solutions and enhance the integration of services tailored to the needs of Chinese consumers.\nLooking ahead, Bornemissza revealed plans to promote Hungarian products in the Chinese market through a more unified approach to boost Hungary's exports.\nHe expressed confidence that more Chinese visitors will be attracted to Hungary, as the long-standing cultural ties between the two countries provide a solid foundation for further expanding cooperation.",
-      "fullTextCn": "布达佩斯工商会副主席米克洛什·博尔内米萨表示，近年来中国在匈牙利的投资显著增长，尤其是在电动汽车和电池领域，“为当地供应链的发展做出了贡献”。他在周日接受新华社书面采访时表示，匈牙利将与中国的关系视为由政策协调、投资和不断扩大的民间交流推动的全面且快速增长的伙伴关系。博尔内米萨认为，双边贸易的稳步增长是战略政治合作与经济互补性共同作用的结果。匈牙利在东西方之间发挥着桥梁作用，并积极参与“一带一路”倡议，为长期合作提供了稳定基础。博尔内米萨表示，基础设施和投资是这一趋势的关键驱动力。“布达佩斯-贝尔格莱德铁路的建设有望加强匈牙利作为中国商品进入欧洲的区域物流枢纽地位。”与此同时，近年来中国在匈牙利的投资显著增长，尤其是在电动汽车和电池领域，“为当地供应链的发展做出了贡献”。除了贸易和投资，博尔内米萨还强调了随着经济联系加深，双方在文化和旅游合作方面日益增长的机遇，旅游、教育和文化产业方面的合作也在扩大。\n\n他指出改善中国游客的连通性和服务的重要性，包括增加直飞航班、加强有针对性的营销，以及开发健康、美食和遗产旅游等旅游产品。他提到，中国游客“代表了高价值群体”。博尔内米萨表示，大学之间的教育交流与合作也有助于加强长期联系，而包括电影和数字内容在内的创意产业合作也在取得进展。他强调，商会在这一过程中发挥着促进作用，通过组织商业论坛、支持文化和旅游倡议以及帮助企业建立伙伴关系。同时，也在努力推广数字解决方案，并加强针对中国消费者需求的服务整合。展望未来，博尔内米萨透露了通过更统一的方式在中国市场推广匈牙利产品以促进匈牙利出口的计划。他表示相信，由于两国之间长期的文化联系为进一步扩大合作提供了坚实基础，将吸引更多中国游客前往匈牙利。"
-    },
-    {
-      "id": 5,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-20/China-s-Tech-Mosaic-Smart-cars-shine-at-Chongqing-auto-show-1O8wSFewvHq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "China's Tech Mosaic: Smart cars shine at Chongqing auto show",
-      "titleCn": "中国科技拼图：智能汽车闪耀重庆车展",
-      "summary": "Smart mobility and intelligent vehicle technologies were among the main highlights of the 2026 Chongqing International Auto Exhibition.",
-      "summaryCn": "2026重庆国际车展聚焦智能出行与新能源汽车，展示自动驾驶、电池等前沿技术，并揭示中国新能源汽车零售渗透率已超60%。",
-      "wordCount": 396,
-      "paragraphs": [
-        {
-          "en": ", Updated 10:46, 21-Jun-2026A view of the Chongqing International Auto Exhibition in southwest China's Chongqing Municipality. /Bridging News\nSmart {{0}} and {{1}} vehicle technologies are taking center stage at the 2026 Chongqing International Auto Exhibition, which is running from June 13 to June 21 and bringing together more than 100 global automotive brands, including BYD, Changan, and Tesla. Beyond the {{2}} of traditional automakers, the exhibition also features the 2026 Auto AI Expo, a {{3}} section for technologies powering the next generation of smart vehicles. Covering batteries, autonomous driving, chips, and smart cockpits, it {{4}} industry leaders such as Bosch, CATL, and Huawei to showcase innovations shaping the future automotive {{5}}. Visitors explore cutting-edge battery technologies at the CATL booth at the 2026 Auto AI Expo, June 13, 2026. Intelligence has become an {{6}} trend in global technological development, according to Zhu Huarong, chairman of Changan Automobile.",
-          "cn": "智能出行和智能汽车技术正在2026年重庆国际汽车展览会上占据中心位置，该展览于6月13日至21日举行，汇聚了包括比亚迪、长安和特斯拉在内的100多个全球汽车品牌。除了传统汽车制造商的展示外，展览还设有2026年汽车人工智能博览会，这是一个专门展示驱动下一代智能汽车技术的展区。该展区涵盖电池、自动驾驶、芯片和智能座舱，汇聚了博世、宁德时代和华为等行业领导者，展示塑造未来汽车生态系统的创新成果。2026年6月13日，参观者在2026年汽车人工智能博览会的宁德时代展台探索尖端电池技术。长安汽车董事长朱华荣表示，智能化已成为全球技术发展的必然趋势。"
-        },
-        {
-          "en": "New energy vehicles (NEVs) have opened the {{7}} to a new era, while digital and intelligent vehicles will define the future, he said, adding that cars of the future will be self-evolving, intelligent robotic vehicles. AVATR's concept car VISION XPECTRA at the 2026 Chongqing International Auto Exhibition, June 13, 2026. Several new products are making their {{9}} at the show. AVATR's concept car, VISION XPECTRA, appears for the first time in Chongqing, drawing crowds with its {{10}} design. Volvo has {{11}} two new electric models, further expanding its EV lineup in the Chinese market. Changan has introduced the SDA Pilot 2.0 intelligent driving system, an upgraded version set to roll out in new models this year and gradually across applicable vehicles.",
-          "cn": "他表示，新能源汽车开启了新时代的序幕，而数字化和智能汽车将定义未来，并补充说，未来的汽车将是自我进化的智能机器人车辆。2026年6月13日，阿维塔的概念车VISION XPECTRA在2026年重庆国际汽车展览会上亮相。多款新产品在展会上首次亮相。阿维塔的概念车VISION XPECTRA首次在重庆展出，以其未来主义设计吸引人群。沃尔沃推出了两款新的电动车型，进一步扩大了其在中国市场的电动汽车阵容。长安推出了SDA Pilot 2.0智能驾驶系统，这是一个升级版本，将于今年在新车型中推出，并逐步应用于适用车辆。"
-        },
-        {
-          "en": "Visitors view new car models at the 2026 Chongqing International Auto Exhibition, June 13, 2026. In the cockpit domain, automakers are pushing toward deeper {{12}}. The focus is on two fronts: upgrading the in-cabin experience by combining sound, lighting and electronics for better user-vehicle interaction, and cockpit-driving integration that brings different vehicle domains together for a unified intelligent experience. Global automotive brands gather at the 2026 Chongqing International Auto Exhibition, June 13, 2026. Electrification remains a major focus as traditional automakers accelerate their shift towards new energy. According to the China Passenger Car Association, China's fuel car retail sales fell 39% year on year in May, while the retail {{13}} rate of NEVs {{14}} 60% – meaning more than six in every 10 new cars sold were NEVs.",
-          "cn": "2026年6月13日，参观者在2026年重庆国际汽车展览会上观看新车模型。在座舱领域，汽车制造商正朝着更深层次的整合迈进。重点集中在两个方面：通过结合声音、照明和电子设备来提升车内体验，实现更好的人车互动；以及座舱驾驶一体化，将不同的车辆域整合在一起，提供统一的智能体验。2026年6月13日，全球汽车品牌齐聚2026年重庆国际汽车展览会。随着传统汽车制造商加速向新能源转型，电动化仍然是一个主要焦点。根据中国乘用车市场信息联席会的数据，5月份中国燃油车零售销量同比下降39%，而新能源汽车的零售渗透率超过60%——这意味着每售出10辆新车中就有超过6辆是新能源汽车。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "mobility",
-          "hint": "n. 移动性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "intelligent",
-          "hint": "adj. 智能的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "showcases",
-          "hint": "n. 展示",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "dedicated",
-          "hint": "adj. 专门的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "convenes",
-          "hint": "v. 召集",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "ecosystem",
-          "hint": "n. 生态系统",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "inevitable",
-          "hint": "adj. 不可避免的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "prelude",
-          "hint": "n. 序幕",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "debut",
-          "hint": "n. 首次亮相",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "futuristic",
-          "hint": "adj. 未来主义的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "unveiled",
-          "hint": "v. 推出",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "integration",
-          "hint": "n. 整合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "penetration",
-          "hint": "n. 渗透率",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "exceeded",
-          "hint": "v. 超过",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": ", Updated 10:46, 21-Jun-2026A view of the Chongqing International Auto Exhibition in southwest China's Chongqing Municipality. /Bridging News\nSmart mobility and intelligent vehicle technologies are taking center stage at the 2026 Chongqing International Auto Exhibition, which is running from June 13 to June 21 and bringing together more than 100 global automotive brands, including BYD, Changan, and Tesla.\nBeyond the showcases of traditional automakers, the exhibition also features the 2026 Auto AI Expo, a dedicated section for technologies powering the next generation of smart vehicles. Covering batteries, autonomous driving, chips, and smart cockpits, it convenes industry leaders such as Bosch, CATL, and Huawei to showcase innovations shaping the future automotive ecosystem.\nVisitors explore cutting-edge battery technologies at the CATL booth at the 2026 Auto AI Expo, June 13, 2026. \nIntelligence has become an inevitable trend in global technological development, according to Zhu Huarong, chairman of Changan Automobile. New energy vehicles (NEVs) have opened the prelude to a new era, while digital and intelligent vehicles will define the future, he said, adding that cars of the future will be self-evolving, intelligent robotic vehicles.\nAVATR's concept car VISION XPECTRA at the 2026 Chongqing International Auto Exhibition, June 13, 2026. \nSeveral new products are making their debut at the show. AVATR's concept car, VISION XPECTRA, appears for the first time in Chongqing, drawing crowds with its futuristic design. Volvo has unveiled two new electric models, further expanding its EV lineup in the Chinese market. Changan has introduced the SDA Pilot 2.0 intelligent driving system, an upgraded version set to roll out in new models this year and gradually across applicable vehicles.\nVisitors view new car models at the 2026 Chongqing International Auto Exhibition, June 13, 2026. \nIn the cockpit domain, automakers are pushing toward deeper integration. The focus is on two fronts: upgrading the in-cabin experience by combining sound, lighting and electronics for better user-vehicle interaction, and cockpit-driving integration that brings different vehicle domains together for a unified intelligent experience.\nGlobal automotive brands gather at the 2026 Chongqing International Auto Exhibition, June 13, 2026. \nElectrification remains a major focus as traditional automakers accelerate their shift towards new energy. According to the China Passenger Car Association, China's fuel car retail sales fell 39% year on year in May, while the retail penetration rate of NEVs exceeded 60% – meaning more than six in every 10 new cars sold were NEVs.",
-      "fullTextCn": "智能出行和智能汽车技术正在2026年重庆国际汽车展览会上占据中心位置，该展览于6月13日至21日举行，汇聚了包括比亚迪、长安和特斯拉在内的100多个全球汽车品牌。除了传统汽车制造商的展示外，展览还设有2026年汽车人工智能博览会，这是一个专门展示驱动下一代智能汽车技术的展区。该展区涵盖电池、自动驾驶、芯片和智能座舱，汇聚了博世、宁德时代和华为等行业领导者，展示塑造未来汽车生态系统的创新成果。2026年6月13日，参观者在2026年汽车人工智能博览会的宁德时代展台探索尖端电池技术。长安汽车董事长朱华荣表示，智能化已成为全球技术发展的必然趋势。\n\n他表示，新能源汽车开启了新时代的序幕，而数字化和智能汽车将定义未来，并补充说，未来的汽车将是自我进化的智能机器人车辆。2026年6月13日，阿维塔的概念车VISION XPECTRA在2026年重庆国际汽车展览会上亮相。多款新产品在展会上首次亮相。阿维塔的概念车VISION XPECTRA首次在重庆展出，以其未来主义设计吸引人群。沃尔沃推出了两款新的电动车型，进一步扩大了其在中国市场的电动汽车阵容。长安推出了SDA Pilot 2.0智能驾驶系统，这是一个升级版本，将于今年在新车型中推出，并逐步应用于适用车辆。\n\n2026年6月13日，参观者在2026年重庆国际汽车展览会上观看新车模型。在座舱领域，汽车制造商正朝着更深层次的整合迈进。重点集中在两个方面：通过结合声音、照明和电子设备来提升车内体验，实现更好的人车互动；以及座舱驾驶一体化，将不同的车辆域整合在一起，提供统一的智能体验。2026年6月13日，全球汽车品牌齐聚2026年重庆国际汽车展览会。随着传统汽车制造商加速向新能源转型，电动化仍然是一个主要焦点。根据中国乘用车市场信息联席会的数据，5月份中国燃油车零售销量同比下降39%，而新能源汽车的零售渗透率超过60%——这意味着每售出10辆新车中就有超过6辆是新能源汽车。"
+      "fullText": "June 8 marks the 18th World Oceans Day and China's 19th National Ocean Awareness Day. The theme for World Oceans Day 2026, \"Reimagine,\" calls for a new relationship with the ocean.\nAccording to the United Nations, the ocean covers more than 70% of the planet, produces at least half of the Earth's oxygen, provides a primary source of protein for more than 1 billion people, and absorbs around 30% of human-generated carbon dioxide.\nAs countries seek more sustainable ways to use marine resources, technological innovation is increasingly linking ocean conservation with economic development.\nA view of the Yangshan Deep-Water Port, Shanghai, China, July 8, 2025. \nIn March, Qiushi Journal published an article by Chinese President Xi Jinping on promoting the high-quality development of the marine economy. The article stressed the need to efficiently utilize marine resources, advance marine science and technology, and \"forge a Chinese path of leveraging marine resources to achieve strength\" while balancing development and environmental protection.\nChina's gross ocean product reached 11.02 trillion yuan (about $1.6 trillion) in 2025, accounting for 7.9% of the country's GDP, according to data by the Ministry of Natural Resources.\nGreen marine industries have also continued to expand.\nChina's newly connected offshore wind power capacity grew by more than 60% year on year in 2025, highlighting the role of clean energy in the country's marine economic transformation.\nThree large cruise ships are docked at the Wusongkou International Cruise Terminal in Shanghai, east China, June 24, 2025. \nGrowth in the marine economy is also being driven by the recovery of ocean-related services.\nIn 2025, the added value of China's marine tourism industry exceeded 1.6 trillion yuan, up 5.9% year on year. Cruise passenger traffic increased by 25.3%, highlighting the vitality of coastal tourism and ocean-based consumption.\nThe deep-sea manned submersible Fendouzhe, in Sanya, Hainan Province, south China, December 5, 2021. \nThat momentum was evident at OCEANS 2026 Sanya, held in south China's Hainan Province in May.\nThe conference gathered more than 700 scientists, engineers and young scholars from 26 countries and regions. More than 400 technical papers explored topics ranging from deep-sea exploration to underwater sensor networks and marine energy.\nThe conference also highlighted Hainan's progress in deep-sea equipment, marine communications, offshore aquaculture and ecological conservation.\nFile photo of a jellyfish discovered in the Atacama Trench during the China-Chile deep-see mission in 2026. /China Media Group\nInternational cooperation has also become an important part of ocean science.\nIn Sanya, the fourth workshop organized by the International Seabed Authority-China Joint Training and Research Centre gathered participants from developing countries across Africa, Asia-Pacific, Latin America and the Caribbean.\nSince its establishment in 2020, the center has trained 120 specialists from more than 40 countries in deep-sea science, marine spatial planning and environmental management, reflecting China's continued engagement in global ocean governance and capacity building.\nResearch efforts are also contributing directly to marine conservation. A team from Ocean University of China has restored and conserved more than 20,000 mu (about 1,300 hectares) of seagrass beds in the Yellow Sea and Bohai Sea, helping establish a relatively complete restoration framework for temperate seagrass ecosystems.\nThe 150,000-tonne intelligent aquaculture vessel Guoxin No. 1 2-2 is delivered for operation in Qingdao, Shandong Province, east China, November 15, 2025. \nAs marine technologies move from laboratories into industrial applications, offshore aquaculture is becoming a key pillar of China's \"Blue Granary\" initiative. Near Guangdong's Guishan Island, the Gesheng No. 1 platform has expanded its farming capacity to 30,000 cubic meters while requiring only three staff members for daily operations.\nIntelligent sonar systems, automated feeding and environmental data models have helped achieve survival rates of more than 98% for newly stocked fish.\nMeanwhile, Suhai-1, the world's first roving salmon and trout aquaculture vessel, is capable of producing up to 8,000 tonnes of premium salmon annually, demonstrating new possibilities for intelligent offshore farming.\nThe Huadian Yuhuan No. 1 offshore windfarm in Taizhou, Zhejiang Province, east China, October 8, 2025. \nThe theme of World Oceans Day 2026 encourages people to rethink their relationship with the ocean, not only as a source of resources but also as a vital ecosystem linked to humanity's future.\nEfforts in marine technology, offshore development and international cooperation are showing how China is pursuing more sustainable use of ocean resources.\nAs new innovations continue to move from research into real-world applications, opportunities are expanding to advance marine economic growth while supporting long-term environmental stewardship.",
+      "fullTextCn": "6月8日是第18个世界海洋日和第19个中国国家海洋意识日。2026年世界海洋日的主题是“重新构想”，呼吁建立与海洋的新关系。据联合国称，海洋覆盖地球70%以上的面积，产生至少一半的氧气，为超过10亿人提供主要蛋白质来源，并吸收约30%的人为二氧化碳。随着各国寻求更可持续地利用海洋资源，技术创新正日益将海洋保护与经济发展联系起来。图为2025年7月8日中国上海洋山深水港。\n\n3月，《求是》杂志发表了中国国家主席习近平关于推动海洋经济高质量发展的文章。文章强调要高效利用海洋资源，推进海洋科技，“走出一条以海洋资源实现强国之路”，同时平衡发展与环境保护。自然资源部数据显示，2025年中国海洋生产总值达到11.02万亿元（约1.6万亿美元），占国内生产总值的7.9%。绿色海洋产业也在持续扩大。2025年中国新增海上风电装机容量同比增长超过60%，凸显了清洁能源在海洋经济转型中的作用。\n\n三艘大型邮轮停靠在中国东部上海吴淞口国际邮轮港，摄于2025年6月24日。海洋经济的增长也得益于海洋相关服务的复苏。2025年，中国海洋旅游业增加值超过1.6万亿元，同比增长5.9%。邮轮客运量增长25.3%，凸显了沿海旅游和海洋消费的活力。图为2021年12月5日在中国南部海南省三亚的深海载人潜水器“奋斗者”号。\n\n这一势头在5月于中国南部海南省三亚举行的2026年海洋会议上得到了体现。会议汇聚了来自26个国家和地区的700多名科学家、工程师和青年学者。400多篇技术论文探讨了从深海探索到水下传感器网络和海洋能源等主题。会议还突出了海南在深海装备、海洋通信、近海养殖和生态保护方面的进展。图为2026年中智深海任务期间在阿塔卡马海沟发现的水母资料照片。\n\n国际合作也成为海洋科学的重要组成部分。在三亚，国际海底管理局-中国联合培训与研究中心组织的第四次研讨会汇集了来自非洲、亚太、拉丁美洲和加勒比地区发展中国家的参与者。自2020年成立以来，该中心已培训了来自40多个国家的120名深海科学、海洋空间规划和环境管理专家，反映了中国在全球海洋治理和能力建设中的持续参与。研究工作也直接为海洋保护做出了贡献。中国海洋大学的一个团队在黄海和渤海恢复和保护了超过2万亩（约1300公顷）的海草床，帮助建立了相对完整的温带海草生态系统恢复框架。\n\n15万吨级智能养殖工船“国信1号2-2”于2025年11月15日在中国东部山东省青岛交付运营。随着海洋技术从实验室走向工业应用，近海养殖正成为中国“蓝色粮仓”倡议的关键支柱。在广东桂山岛附近，“格盛1号”平台已将其养殖能力扩大到3万立方米，而日常运营仅需三名工作人员。\n\n智能声纳系统、自动投喂和环境数据模型帮助新放养鱼类的存活率超过98%。与此同时，世界首艘游弋式三文鱼养殖工船“苏海1号”每年可生产多达8000吨优质三文鱼，展示了智能近海养殖的新可能性。图为2025年10月8日中国东部浙江省台州的华电玉环1号海上风电场。2026年世界海洋日的主题鼓励人们重新思考与海洋的关系，不仅将其视为资源来源，而且视为与人类未来息息相关的关键生态系统。\n\n海洋技术、近海开发和国际合作方面的努力表明，中国正在追求更可持续地利用海洋资源。随着新创新不断从研究走向实际应用，推动海洋经济增长同时支持长期环境管理的机会正在扩大。"
     }
   ]
 }
