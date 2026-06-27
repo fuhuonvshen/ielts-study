@@ -1,942 +1,872 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "articles": [
     {
       "id": 1,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/business/2026-06-26/detail-ihfftxzk2711510.shtml",
-      "title": "CISCE Insights: From efficiency to resilience — What are global companies looking for?",
-      "titleCn": "CISCE洞察：从效率到韧性——全球企业究竟在寻找什么？",
-      "summary": "As global supply chains undergo their most significant transformation in decades, a fundamental question confronts multinational corporations: what exactly are they looking for?",
-      "summaryCn": "尽管全球供应链面临重组和去风险化的讨论，但中国国际供应链促进博览会显示，跨国公司仍在寻求连接与合作，而非脱钩。",
-      "wordCount": 787,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-23/How-intelligent-systems-keep-high-speed-rail-safe-precise-and-smooth-1OcYVMNTapO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "How intelligent systems keep high-speed rail safe, precise and smooth",
+      "titleCn": "智能系统如何确保高铁安全、精准与平稳运行",
+      "summary": "How intelligent systems keep high-speed rail safe, precise and smooth",
+      "summaryCn": "文章介绍了中国智能高铁系统通过先进列车控制技术实现精准停车、安全运行和舒适驾驶，并展望了未来铁路网络融合的发展。",
+      "wordCount": 840,
       "paragraphs": [
         {
-          "en": "As global supply chains undergo their most significant {{0}} in decades, a fundamental question {{1}} multinational corporations: what exactly are they looking for? Over the past few years, \"de-risking\" has moved to the forefront of international trade policy discourse, as geopolitical tensions have exposed the {{2}} of over-{{17}} supply chains. In this climate, \"decoupling\" was widely predicted to become a defining trend in global production networks. That {{3}}, however, is not fully borne out by the evidence on the ground. A walk through the fourth China International Supply Chain Expo (CISCE), held in Beijing from June 22 to 26, tells a different story.",
-          "cn": "随着全球供应链经历数十年来最重大的变革，一个根本性问题摆在跨国公司面前：它们究竟在寻找什么？过去几年，随着地缘政治紧张局势暴露了过度集中供应链的脆弱性，“去风险化”已成为国际贸易政策讨论的前沿。在这种背景下，“脱钩”曾被广泛预测为全球生产网络的一个决定性趋势。然而，这一说法并未得到实地证据的充分证实。在北京于6月22日至26日举办的第四届中国国际供应链促进博览会（CISCE）上走一圈，讲述的是另一个故事。"
+          "en": "On December 30, 2019, the Beijing-Zhangjiakou high-speed railway officially began {{1}}, becoming the world's first {{0}} high-speed railway running at 350 km/h with driver-attended automated driving. In parallel, intelligent driving in road transportation is also accelerating rapidly in China. According to Wang Shuiyin, vice president of the Research Institute of Highway under the Ministry of Transport, the country's {{2}} rate of intelligent driving passenger vehicles has {{3}} 68%, and the total length of open testing roads for autonomous driving has surpassed 28,000 kilometers. A Beijing-Zhangjiakou high-speed train passes through the Juyongguan section of the Great Wall, January 7, 2022. However, despite both belonging to intelligent driving, rail and road systems differ fundamentally in {{4}} and operating environments.",
+          "cn": "2019年12月30日，京张高铁正式开通运营，成为世界上首条时速350公里、有人值守自动驾驶的智能高铁。与此同时，道路运输中的智能驾驶在中国也在加速推进。据交通运输部公路科学研究院副院长王水印介绍，我国智能驾驶乘用车渗透率已超过68%，自动驾驶开放测试道路总里程已超过2.8万公里。2022年1月7日，一列京张高铁列车驶过长城居庸关段。然而，尽管同属智能驾驶，铁路和道路系统在复杂性和运行环境上存在根本差异。"
         },
         {
-          "en": "The event brought together 676 {{4}}, including industry leaders, specialized manufacturers, and institutional participants from 85 countries, regions, and international organizations. Foreign-invested companies accounted for 36.5% of the total, while Fortune Global 500 and sector-leading firms made up more than 65%. The gap between the {{5}} {{6}} and the reality on the exhibition floor offers a useful lens for understanding where the global economy actually stands. The Expo floor: A web of connections, not a retreat\nIn recent years, the vocabulary of international trade coverage has increasingly been shaped by \"decoupling\", \"de-risking\" and \"friend-shoring\". Inside the CISCE halls, however, a different set of terms is more audible: \"partners\", \"{{7}}\" and \"{{8}}\".",
-          "cn": "该活动汇集了来自85个国家、地区和国际组织的676家参展商，包括行业领导者、专业制造商和机构参与者。外资企业占总数的36.5%，而《财富》世界500强和行业领军企业占比超过65%。主流言论与展会现场现实之间的差距，为了解全球经济实际状况提供了一个有用的视角。展会现场：一张连接的网络，而非撤退。近年来，国际贸易报道的词汇越来越多地被“脱钩”、“去风险化”和“友岸外包”所塑造。然而，在CISCE展厅内，更常听到的是另一套术语：“合作伙伴”、“生态系统”和“协作”。"
+          "en": "\"The gap between automotive and rail {{5}} is significant,\" Wang Xiaoliang, vice president and chief engineer of Beijing Hollysys Co., Ltd. under the Hollysys Group, told CGTN. \"One of the core challenges is {{6}} stopping,\" Wang said. \"Due to environmental variations, parameter {{7}} and massive real-time data {{8}} requirement, achieving this in high-speed rail is extremely difficult.\"\nA Fuxing Electric Multiple Unit (EMU) runs along the Beijing-Shanghai high-speed railway, Changzhou, Jiangsu Province, January 15, 2025. Unlike road vehicles, high-speed trains operate under tightly controlled conditions at extreme speeds, where even minor deviations can have amplified {{9}}.",
+          "cn": "“汽车与铁路自动化的差距是显著的，”和利时集团旗下北京和利时系统工程有限公司副总裁兼总工程师汪小亮告诉CGTN。“核心挑战之一是精准停车，”汪小亮说。“由于环境变化、参数偏差以及海量实时数据传输需求，在高铁中实现这一点极其困难。”2025年1月15日，一列复兴号动车组行驶在江苏省常州市的京沪高铁线上。与道路车辆不同，高铁列车在极端速度下、受严格控制的条件中运行，即使是微小的偏差也可能产生放大的后果。"
         },
         {
-          "en": "Honeywell, a participant in all four editions of the expo, brought nearly 100 local supply chain partners to showcase an ecosystem of connectivity, {{9}}, and shared value creation. Apple returned to the expo alongside three of its key supply chain partners — Sunny Optical, AAC Technologies, and Cowain. Five independent exhibitors from McDonald's China supply chain made their debut at this year's CISCE, joining McDonald's China in presenting the integrated intelligence and coordination capabilities across the entire supply chain. For any multinational, a supply chain is not a simple geographic {{10}}. It is a network shaped by market demand, technological capabilities, and the division of labor.",
-          "cn": "霍尼韦尔作为所有四届博览会的参与者，带来了近100家本地供应链合作伙伴，展示了一个连接、协同和共同价值创造的生态系统。苹果公司与其三家关键供应链合作伙伴——舜宇光学、瑞声科技和科沃斯——一同重返博览会。麦当劳中国供应链的五家独立参展商首次亮相今年的CISCE，与麦当劳中国一起展示整个供应链的集成智能和协调能力。对任何跨国公司而言，供应链并非简单的地理分配。它是一个由市场需求、技术能力和劳动分工塑造的网络。"
+          "en": "Wang explained that the Beijing-Zhangjiakou high-speed railway is {{10}} with the Chinese Train Control System Level 3 (CTCS-3), along with three Radio Block Centers (RBCs) and multiple Automatic Train Protection (ATP) systems provided by Hollysys, enabling precise and safe operation. RBC and ATP are core safety equipment of high-speed rail train control system, which {{11}} communicate with onboard and offboard equipment, enabling real-time information exchange between train and ground. They function like a \"central nervous system\" for safe and {{12}} train operation. Ensuring both {{13}} and safety\nForeign representatives attending the 12th World Congress on High-Speed Rail travel on the Beijing–Zhangjiakou high-speed railway from Beijing North Railway Station to Taizicheng, a venue for the Beijing 2022 Winter Olympics, July 11, 2025. \"Behind the punctuality of high-speed rail is truly the train control system,\" He Chunming, vice president of Hollysys Group, told CGTN.",
+          "cn": "汪小亮解释说，京张高铁配备了CTCS-3级中国列车运行控制系统，以及和利时提供的三个无线闭塞中心（RBC）和多个自动列车防护（ATP）系统，实现了精准安全运行。RBC和ATP是高铁列车控制系统的核心安全设备，它们持续与车载和地面设备通信，实现车地之间的实时信息交换。它们就像一个“中枢神经系统”，确保列车安全协调运行。确保准点与安全。2025年7月11日，参加第十二届世界高速铁路大会的外国代表乘坐京张高铁从北京北站前往北京2022年冬奥会举办地太子城。“高铁准点运行的背后实际上是列车控制系统，”和利时集团副总裁何春明告诉CGTN。"
         },
         {
-          "en": "What companies present at the expo is not merely their own goods, but the broader partnership systems and industrial ecosystems they belong to. The {{11}} reality is {{12}}: in commercial terms, connections retain their value. Why do companies keep coming to China? If global supply chains are indeed being {{13}}, one question naturally follows: why do so many multinationals continue to participate in a China-hosted expo? Adjustment is undeniable.",
-          "cn": "参展公司展示的不仅仅是它们自己的产品，而是它们所属的更广泛的伙伴关系系统和产业生态系统。背后的现实很简单：在商业层面，连接仍然具有价值。为什么公司不断来到中国？如果全球供应链确实正在重组，那么一个自然的问题是：为什么这么多跨国公司继续参加在中国举办的博览会？调整是不可否认的。"
+          "en": "The system consists of both onboard and ground-based equipment, responsible for managing train {{14}} and speed. As train speeds increase, manual control by drivers becomes increasingly difficult. \"Braking distance is directly related to speed,\" said He. \"When a high-speed train is running at 350 km/h, the {{15}} distance needs to be about 20 kilometers.\"\nTo ensure safety, the system must continuously calculate safe operating speeds based on information far ahead of the train. \"To determine a safe speed, we need to obtain all data within about 20 kilometers ahead.",
+          "cn": "该系统由车载和地面设备组成，负责管理列车间距和速度。随着列车速度的提高，司机的手动控制变得越来越困难。“制动距离与速度直接相关，”何春明说。“当高铁以350公里/小时运行时，制动距离需要大约20公里。”为确保安全，系统必须根据列车前方远距离的信息持续计算安全运行速度。“要确定安全速度，我们需要获取前方约20公里范围内的所有数据。"
         },
         {
-          "en": "Trade tensions and geopolitical conflicts have exposed the fragility of over-concentration in any single location. Companies are responding by adding backup suppliers, {{14}} production across multiple countries, and building {{15}} into their networks. Yet adjustment is not the same as {{16}}. Apple, for instance, has continued to expand manufacturing capacity in India and Southeast Asia. At the same time, China remains a key node in its global supply system.",
-          "cn": "贸易紧张局势和地缘政治冲突暴露了任何单一地点过度集中的脆弱性。公司正在通过增加备用供应商、将生产分散到多个国家以及在其网络中构建冗余来应对。然而，调整并不等同于切断。例如，苹果公司继续扩大在印度和东南亚的制造能力。与此同时，中国仍然是其全球供应链中的一个关键节点。"
+          "en": "Now, data from up to 32 kilometers ahead is already available.\" said He. \"Only with this level of information can the system calculate safe speed for each segment.\"\nSpeed control is not only about distance. Conditions such as {{16}}, curves, and switches will all have an impact. \"For example, an uphill or downhill slope will have significantly different effects on deceleration,\" said He, \"and if a train enters a curve or switch at excessive speed, it could {{17}}. \"Therefore, all information within 20 or 30 kilometers ahead must be {{18}} to generate a unified safe speed.\"\nHigh-speed rail systems are built on very strict safety principles.",
+          "cn": "“现在，前方32公里范围内的数据已经可用。”何春明说。“只有拥有这种级别的信息，系统才能为每个路段计算出安全速度。”速度控制不仅关乎距离。坡度、弯道和道岔等条件都会产生影响。“例如，上坡或下坡对减速的影响显著不同，”何春明说，“如果列车以过高速度进入弯道或道岔，可能会脱轨。”因此，前方20或30公里范围内的所有信息必须整合起来，生成一个统一的安全速度。高铁系统建立在非常严格的安全原则之上。"
         },
         {
-          "en": "The reasons are well understood. According to China's Ministry of Commerce, the country has established an independent modern industrial system with complete categories of industries, including 41 large categories, 207 medium sectors, and 666 small sub-sectors, making it the only country covering all industrial categories indexed in the United Nations International Standard Industrial Classification of All Economic Activities (ISIC). For companies, this means access to a concentrated pool of suppliers, engineering talent, and mature support services — from raw materials to components, from R&D to mass production. For many sectors, the draw is no longer just low labor costs; it is supply chain efficiency, engineering {{18}}, and ecosystem {{19}}. China is also a major consumer market and a testing ground for new applications.",
-          "cn": "原因众所周知。根据中国商务部数据，中国已建立起独立完整的现代工业体系，涵盖41个工业大类、207个中类和666个小类，是唯一拥有联合国产业分类中全部工业门类的国家。对公司而言，这意味着可以接触到集中的供应商、工程人才和成熟的支持服务——从原材料到零部件，从研发到大规模生产。对许多行业来说，吸引力已不再仅仅是低劳动力成本；而是供应链效率、工程响应能力和生态系统密度。中国也是一个主要的消费市场和新应用的试验场。"
+          "en": "He noted that if communication is {{19}}, the train must stop. \"Because once we cannot confirm whether the information is up to date or accurate, we must follow the {{20}} principle.\"\nIn railway signaling design, any fault must lead to a safe outcome – the fail-safe principle. If communication is lost beyond certain duration, the system discards all data and triggers an emergency brake. Although highly automated, high-speed rail does not eliminate human {{21}}. \"The automated driving system reduces the driver's workload, and about 90% of operations can be automated, but some key points still require human confirmation,\" said He.",
+          "cn": "何春明指出，如果通信中断，列车必须停车。“因为一旦我们无法确认信息是否最新或准确，就必须遵循故障导向安全原则。”在铁路信号设计中，任何故障都必须导致安全结果——这就是故障导向安全原则。如果通信中断超过一定时长，系统会丢弃所有数据并触发紧急制动。尽管高度自动化，高铁并未消除人的监督。“自动驾驶系统减轻了司机的工作量，大约90%的操作可以自动化，但某些关键点仍需人工确认，”何春明说。"
         },
         {
-          "en": "According to the National Bureau of Statistics, the total retail sales of consumer goods reached 50.12 trillion yuan ($7.4 trillion) in 2025, making it the world's second-largest consumer market. For multinationals, presence in China is not just about production, it is about market access and exposure to innovation. The strategy most companies are adopting, therefore, is not separation but {{20}}. Supply chains are being {{21}}, not dismantled. Companies are spreading their risks, not walking away from their connections.",
-          "cn": "根据国家统计局数据，2025年社会消费品零售总额达到50.12万亿元人民币（约7.4万亿美元），使其成为世界第二大消费市场。对跨国公司而言，在中国的存在不仅仅关乎生产，还关乎市场准入和创新接触。因此，大多数公司采取的策略不是分离，而是多元化。供应链正在重新配置，而非拆除。公司正在分散风险，而非放弃连接。"
+          "en": "Developing such systems is a long process. A railway control system takes 5 to 8 years from development to deployment. More comfort through intelligent speed control\nHigh-speed EMU trains at Wuhan Railway Station, February 2, 2026. Human driving can be inconsistent, and frequent acceleration and braking reduce comfort and {{23}}. Intelligent systems incorporate experienced drivers' strategies into their control {{22}}, automatically generating optimal speed curves that balance punctuality, comfort and energy efficiency, enabling the train to run more smoothly and efficiently.",
+          "cn": "开发这样的系统是一个漫长的过程。一个铁路控制系统从开发到部署需要5到8年。通过智能速度控制提升舒适度。2026年2月2日，武汉火车站的高铁动车组。人工驾驶可能不一致，频繁的加速和制动会降低舒适度和效率。智能系统将经验丰富司机的策略纳入其控制算法，自动生成优化速度曲线，平衡准点、舒适和能效，使列车运行更平稳、更高效。"
         },
         {
-          "en": "What does CISCE tell us? If there is a single takeaway from the expo, it is this: companies are still looking for connections. The steady flow of visitors, the intensity of business discussions, and the range of partnerships on display all suggest that globalization is not ending. It is adjusting to new conditions. The earlier phase of globalization prioritized cost minimization above all.",
-          "cn": "CISCE告诉我们什么？如果从博览会中只能得到一个启示，那就是：公司仍在寻找连接。稳定的参观人流、商务讨论的强度以及展示的各种合作伙伴关系都表明，全球化并未结束。它正在适应新的条件。早期的全球化阶段优先考虑成本最小化。"
+          "en": "In the future, travel could be more {{24}} with the advancement of \"four-network integration,\" referring to the deep integration of mainline railways, intercity railways, suburban railways and urban rail transit systems. In this framework, rail services would function as a unified mobility network rather than separate systems. Different control systems developed by Hollysys Group. He noted that this technology is still under development. As a global provider of rail transit control systems and services, Hollysys Group has deployed train control systems on more than 80 main railway lines across China, covering over 16,000 kilometers in total.",
+          "cn": "未来，随着“四网融合”的推进，出行可能更加无缝衔接。“四网融合”指的是干线铁路、城际铁路、市域（郊）铁路和城市轨道交通系统的深度融合。在这一框架下，铁路服务将作为一个统一的出行网络运行，而非独立的系统。和利时集团开发的不同控制系统。何春明指出，这项技术仍在开发中。作为全球轨道交通控制系统和服务提供商，和利时集团已在中国80多条主要铁路线上部署了列车控制系统，总覆盖里程超过1.6万公里。"
         },
         {
-          "en": "The current phase is more about balancing efficiency with security and {{22}}. Much of the public debate over the past few years has focused on the prospect of fragmentation. The expo offers a different perspective: in a world of heightened uncertainty, companies have not stopped connecting — they are simply searching for new ways to do so. The forms are changing, but the impulse remains.",
-          "cn": "当前阶段更侧重于平衡效率与安全性和韧性。过去几年的大部分公众讨论都集中在分裂的前景上。博览会提供了一个不同的视角：在一个不确定性加剧的世界中，公司并未停止连接——它们只是在寻找新的方式。形式在变化，但冲动依然存在。"
+          "en": "It is leveraging its accumulated technological strengths to turn this vision into reality.",
+          "cn": "它正利用积累的技术优势将这一愿景变为现实。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "transformation",
-          "hint": "n. 转变",
+          "answer": "intelligent",
+          "hint": "adj. 智能的",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "confronts",
-          "hint": "v. 面对",
-          "difficulty": "medium"
+          "answer": "operation",
+          "hint": "n. 运行，运营",
+          "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "fragility",
-          "hint": "n. 脆弱性",
+          "answer": "penetration",
+          "hint": "n. 渗透率",
           "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "narrative",
-          "hint": "n. 叙述",
+          "answer": "exceeded",
+          "hint": "v. 超过",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "exhibitors",
-          "hint": "n. 参展商",
+          "answer": "complexity",
+          "hint": "n. 复杂性",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "prevailing",
-          "hint": "adj. 主流的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "rhetoric",
-          "hint": "n. 言论",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "ecosystems",
-          "hint": "n. 生态系统",
+          "answer": "automation",
+          "hint": "n. 自动化",
           "difficulty": "medium"
         },
         {
-          "id": 8,
-          "answer": "collaboration",
-          "hint": "n. 合作",
-          "difficulty": "easy"
+          "id": 6,
+          "answer": "precise",
+          "hint": "adj. 精确的",
+          "difficulty": "medium"
         },
         {
-          "id": 9,
-          "answer": "synergy",
-          "hint": "n. 协同",
+          "id": 7,
+          "answer": "deviations",
+          "hint": "n. 偏差",
           "difficulty": "hard"
         },
         {
+          "id": 8,
+          "answer": "transmission",
+          "hint": "n. 传输",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "consequences",
+          "hint": "n. 后果",
+          "difficulty": "medium"
+        },
+        {
           "id": 10,
-          "answer": "allocation",
-          "hint": "n. 分配",
+          "answer": "equipped",
+          "hint": "v. 配备",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "underlying",
-          "hint": "adj. 潜在的",
+          "answer": "continuously",
+          "hint": "adv. 持续地",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "straightforward",
-          "hint": "adj. 简单的",
+          "answer": "coordinated",
+          "hint": "adj. 协调的",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "restructured",
-          "hint": "v. 重组",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "diversifying",
-          "hint": "v. 多样化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "redundancy",
-          "hint": "n. 冗余",
+          "answer": "punctuality",
+          "hint": "n. 准点",
           "difficulty": "hard"
         },
         {
+          "id": 14,
+          "answer": "spacing",
+          "hint": "n. 间距",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "braking",
+          "hint": "n. 制动",
+          "difficulty": "medium"
+        },
+        {
           "id": 16,
-          "answer": "severance",
-          "hint": "n. 切断",
+          "answer": "gradients",
+          "hint": "n. 坡度",
           "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "concentrated",
-          "hint": "adj. 集中的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
-          "answer": "responsiveness",
-          "hint": "n. 响应能力",
+          "answer": "derail",
+          "hint": "v. 脱轨",
           "difficulty": "hard"
         },
         {
+          "id": 18,
+          "answer": "integrated",
+          "hint": "v. 整合",
+          "difficulty": "medium"
+        },
+        {
           "id": 19,
-          "answer": "density",
-          "hint": "n. 密度",
+          "answer": "interrupted",
+          "hint": "v. 中断",
           "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "diversification",
-          "hint": "n. 多元化",
-          "difficulty": "medium"
+          "answer": "fail-safe",
+          "hint": "adj. 故障导向安全的",
+          "difficulty": "hard"
         },
         {
           "id": 21,
-          "answer": "reconfigured",
-          "hint": "v. 重新配置",
-          "difficulty": "hard"
+          "answer": "oversight",
+          "hint": "n. 监督",
+          "difficulty": "medium"
         },
         {
           "id": 22,
-          "answer": "resilience",
-          "hint": "n. 韧性",
+          "answer": "algorithms",
+          "hint": "n. 算法",
           "difficulty": "hard"
+        },
+        {
+          "id": 23,
+          "answer": "efficiency",
+          "hint": "n. 效率",
+          "difficulty": "easy"
+        },
+        {
+          "id": 24,
+          "answer": "seamless",
+          "hint": "adj. 无缝的",
+          "difficulty": "medium"
         }
       ],
-      "fullText": "As global supply chains undergo their most significant transformation in decades, a fundamental question confronts multinational corporations: what exactly are they looking for?\nOver the past few years, \"de-risking\" has moved to the forefront of international trade policy discourse, as geopolitical tensions have exposed the fragility of over-concentrated supply chains. In this climate, \"decoupling\" was widely predicted to become a defining trend in global production networks.\nThat narrative, however, is not fully borne out by the evidence on the ground. A walk through the fourth China International Supply Chain Expo (CISCE), held in Beijing from June 22 to 26, tells a different story. The event brought together 676 exhibitors, including industry leaders, specialized manufacturers, and institutional participants from 85 countries, regions, and international organizations. Foreign-invested companies accounted for 36.5% of the total, while Fortune Global 500 and sector-leading firms made up more than 65%.\nThe gap between the prevailing rhetoric and the reality on the exhibition floor offers a useful lens for understanding where the global economy actually stands.\nThe Expo floor: A web of connections, not a retreat\nIn recent years, the vocabulary of international trade coverage has increasingly been shaped by \"decoupling\", \"de-risking\" and \"friend-shoring\". Inside the CISCE halls, however, a different set of terms is more audible: \"partners\", \"ecosystems\" and \"collaboration\".\nHoneywell, a participant in all four editions of the expo, brought nearly 100 local supply chain partners to showcase an ecosystem of connectivity, synergy, and shared value creation. Apple returned to the expo alongside three of its key supply chain partners — Sunny Optical, AAC Technologies, and Cowain. Five independent exhibitors from McDonald's China supply chain made their debut at this year's CISCE, joining McDonald's China in presenting the integrated intelligence and coordination capabilities across the entire supply chain.\nFor any multinational, a supply chain is not a simple geographic allocation. It is a network shaped by market demand, technological capabilities, and the division of labor. What companies present at the expo is not merely their own goods, but the broader partnership systems and industrial ecosystems they belong to.\nThe underlying reality is straightforward: in commercial terms, connections retain their value.\nWhy do companies keep coming to China?\nIf global supply chains are indeed being restructured, one question naturally follows: why do so many multinationals continue to participate in a China-hosted expo?\nAdjustment is undeniable. Trade tensions and geopolitical conflicts have exposed the fragility of over-concentration in any single location. Companies are responding by adding backup suppliers, diversifying production across multiple countries, and building redundancy into their networks. Yet adjustment is not the same as severance. Apple, for instance, has continued to expand manufacturing capacity in India and Southeast Asia. At the same time, China remains a key node in its global supply system.\nThe reasons are well understood. According to China's Ministry of Commerce, the country has established an independent modern industrial system with complete categories of industries, including 41 large categories, 207 medium sectors, and 666 small sub-sectors, making it the only country covering all industrial categories indexed in the United Nations International Standard Industrial Classification of All Economic Activities (ISIC). For companies, this means access to a concentrated pool of suppliers, engineering talent, and mature support services — from raw materials to components, from R&D to mass production. For many sectors, the draw is no longer just low labor costs; it is supply chain efficiency, engineering responsiveness, and ecosystem density.\nChina is also a major consumer market and a testing ground for new applications. According to the National Bureau of Statistics, the total retail sales of consumer goods reached 50.12 trillion yuan ($7.4 trillion) in 2025, making it the world's second-largest consumer market. For multinationals, presence in China is not just about production, it is about market access and exposure to innovation.\nThe strategy most companies are adopting, therefore, is not separation but diversification. Supply chains are being reconfigured, not dismantled. Companies are spreading their risks, not walking away from their connections.\nWhat does CISCE tell us?\nIf there is a single takeaway from the expo, it is this: companies are still looking for connections. The steady flow of visitors, the intensity of business discussions, and the range of partnerships on display all suggest that globalization is not ending. It is adjusting to new conditions. The earlier phase of globalization prioritized cost minimization above all. The current phase is more about balancing efficiency with security and resilience.\nMuch of the public debate over the past few years has focused on the prospect of fragmentation. The expo offers a different perspective: in a world of heightened uncertainty, companies have not stopped connecting — they are simply searching for new ways to do so. The forms are changing, but the impulse remains.",
-      "fullTextCn": "随着全球供应链经历数十年来最重大的变革，一个根本性问题摆在跨国公司面前：它们究竟在寻找什么？过去几年，随着地缘政治紧张局势暴露了过度集中供应链的脆弱性，“去风险化”已成为国际贸易政策讨论的前沿。在这种背景下，“脱钩”曾被广泛预测为全球生产网络的一个决定性趋势。然而，这一说法并未得到实地证据的充分证实。在北京于6月22日至26日举办的第四届中国国际供应链促进博览会（CISCE）上走一圈，讲述的是另一个故事。\n\n该活动汇集了来自85个国家、地区和国际组织的676家参展商，包括行业领导者、专业制造商和机构参与者。外资企业占总数的36.5%，而《财富》世界500强和行业领军企业占比超过65%。主流言论与展会现场现实之间的差距，为了解全球经济实际状况提供了一个有用的视角。展会现场：一张连接的网络，而非撤退。近年来，国际贸易报道的词汇越来越多地被“脱钩”、“去风险化”和“友岸外包”所塑造。然而，在CISCE展厅内，更常听到的是另一套术语：“合作伙伴”、“生态系统”和“协作”。\n\n霍尼韦尔作为所有四届博览会的参与者，带来了近100家本地供应链合作伙伴，展示了一个连接、协同和共同价值创造的生态系统。苹果公司与其三家关键供应链合作伙伴——舜宇光学、瑞声科技和科沃斯——一同重返博览会。麦当劳中国供应链的五家独立参展商首次亮相今年的CISCE，与麦当劳中国一起展示整个供应链的集成智能和协调能力。对任何跨国公司而言，供应链并非简单的地理分配。它是一个由市场需求、技术能力和劳动分工塑造的网络。\n\n参展公司展示的不仅仅是它们自己的产品，而是它们所属的更广泛的伙伴关系系统和产业生态系统。背后的现实很简单：在商业层面，连接仍然具有价值。为什么公司不断来到中国？如果全球供应链确实正在重组，那么一个自然的问题是：为什么这么多跨国公司继续参加在中国举办的博览会？调整是不可否认的。\n\n贸易紧张局势和地缘政治冲突暴露了任何单一地点过度集中的脆弱性。公司正在通过增加备用供应商、将生产分散到多个国家以及在其网络中构建冗余来应对。然而，调整并不等同于切断。例如，苹果公司继续扩大在印度和东南亚的制造能力。与此同时，中国仍然是其全球供应链中的一个关键节点。\n\n原因众所周知。根据中国商务部数据，中国已建立起独立完整的现代工业体系，涵盖41个工业大类、207个中类和666个小类，是唯一拥有联合国产业分类中全部工业门类的国家。对公司而言，这意味着可以接触到集中的供应商、工程人才和成熟的支持服务——从原材料到零部件，从研发到大规模生产。对许多行业来说，吸引力已不再仅仅是低劳动力成本；而是供应链效率、工程响应能力和生态系统密度。中国也是一个主要的消费市场和新应用的试验场。\n\n根据国家统计局数据，2025年社会消费品零售总额达到50.12万亿元人民币（约7.4万亿美元），使其成为世界第二大消费市场。对跨国公司而言，在中国的存在不仅仅关乎生产，还关乎市场准入和创新接触。因此，大多数公司采取的策略不是分离，而是多元化。供应链正在重新配置，而非拆除。公司正在分散风险，而非放弃连接。\n\nCISCE告诉我们什么？如果从博览会中只能得到一个启示，那就是：公司仍在寻找连接。稳定的参观人流、商务讨论的强度以及展示的各种合作伙伴关系都表明，全球化并未结束。它正在适应新的条件。早期的全球化阶段优先考虑成本最小化。\n\n当前阶段更侧重于平衡效率与安全性和韧性。过去几年的大部分公众讨论都集中在分裂的前景上。博览会提供了一个不同的视角：在一个不确定性加剧的世界中，公司并未停止连接——它们只是在寻找新的方式。形式在变化，但冲动依然存在。"
+      "fullText": "On December 30, 2019, the Beijing-Zhangjiakou high-speed railway officially began operation, becoming the world's first intelligent high-speed railway running at 350 km/h with driver-attended automated driving.\nIn parallel, intelligent driving in road transportation is also accelerating rapidly in China. According to Wang Shuiyin, vice president of the Research Institute of Highway under the Ministry of Transport, the country's penetration rate of intelligent driving passenger vehicles has exceeded 68%, and the total length of open testing roads for autonomous driving has surpassed 28,000 kilometers.\nA Beijing-Zhangjiakou high-speed train passes through the Juyongguan section of the Great Wall, January 7, 2022. \nHowever, despite both belonging to intelligent driving, rail and road systems differ fundamentally in complexity and operating environments.\n\"The gap between automotive and rail automation is significant,\" Wang Xiaoliang, vice president and chief engineer of Beijing Hollysys Co., Ltd. under the Hollysys Group, told CGTN.\n\"One of the core challenges is precise stopping,\" Wang said. \"Due to environmental variations, parameter deviations and massive real-time data transmission requirement, achieving this in high-speed rail is extremely difficult.\"\nA Fuxing Electric Multiple Unit (EMU) runs along the Beijing-Shanghai high-speed railway, Changzhou, Jiangsu Province, January 15, 2025. \nUnlike road vehicles, high-speed trains operate under tightly controlled conditions at extreme speeds, where even minor deviations can have amplified consequences.\nWang explained that the Beijing-Zhangjiakou high-speed railway is equipped with the Chinese Train Control System Level 3 (CTCS-3), along with three Radio Block Centers (RBCs) and multiple Automatic Train Protection (ATP) systems provided by Hollysys, enabling precise and safe operation.\nRBC and ATP are core safety equipment of high-speed rail train control system, which continuously communicate with onboard and offboard equipment, enabling real-time information exchange between train and ground. They function like a \"central nervous system\" for safe and coordinated train operation.\nEnsuring both punctuality and safety\nForeign representatives attending the 12th World Congress on High-Speed Rail travel on the Beijing–Zhangjiakou high-speed railway from Beijing North Railway Station to Taizicheng, a venue for the Beijing 2022 Winter Olympics, July 11, 2025. \n\"Behind the punctuality of high-speed rail is truly the train control system,\" He Chunming, vice president of Hollysys Group, told CGTN.\nThe system consists of both onboard and ground-based equipment, responsible for managing train spacing and speed. As train speeds increase, manual control by drivers becomes increasingly difficult.\n\"Braking distance is directly related to speed,\" said He. \"When a high-speed train is running at 350 km/h, the braking distance needs to be about 20 kilometers.\"\nTo ensure safety, the system must continuously calculate safe operating speeds based on information far ahead of the train.\n\"To determine a safe speed, we need to obtain all data within about 20 kilometers ahead. Now, data from up to 32 kilometers ahead is already available.\" said He. \"Only with this level of information can the system calculate safe speed for each segment.\"\nSpeed control is not only about distance. Conditions such as gradients, curves, and switches will all have an impact.\n\"For example, an uphill or downhill slope will have significantly different effects on deceleration,\" said He, \"and if a train enters a curve or switch at excessive speed, it could derail.\n\"Therefore, all information within 20 or 30 kilometers ahead must be integrated to generate a unified safe speed.\"\nHigh-speed rail systems are built on very strict safety principles. He noted that if communication is interrupted, the train must stop. \"Because once we cannot confirm whether the information is up to date or accurate, we must follow the fail-safe principle.\"\nIn railway signaling design, any fault must lead to a safe outcome – the fail-safe principle. If communication is lost beyond certain duration, the system discards all data and triggers an emergency brake.\nAlthough highly automated, high-speed rail does not eliminate human oversight.\n\"The automated driving system reduces the driver's workload, and about 90% of operations can be automated, but some key points still require human confirmation,\" said He.\nDeveloping such systems is a long process. A railway control system takes 5 to 8 years from development to deployment.\nMore comfort through intelligent speed control\nHigh-speed EMU trains at Wuhan Railway Station, February 2, 2026. \nHuman driving can be inconsistent, and frequent acceleration and braking reduce comfort and efficiency.\nIntelligent systems incorporate experienced drivers' strategies into their control algorithms, automatically generating optimal speed curves that balance punctuality, comfort and energy efficiency, enabling the train to run more smoothly and efficiently.\nIn the future, travel could be more seamless with the advancement of \"four-network integration,\" referring to the deep integration of mainline railways, intercity railways, suburban railways and urban rail transit systems. In this framework, rail services would function as a unified mobility network rather than separate systems.\nDifferent control systems developed by Hollysys Group. \nHe noted that this technology is still under development. As a global provider of rail transit control systems and services, Hollysys Group has deployed train control systems on more than 80 main railway lines across China, covering over 16,000 kilometers in total. It is leveraging its accumulated technological strengths to turn this vision into reality.",
+      "fullTextCn": "2019年12月30日，京张高铁正式开通运营，成为世界上首条时速350公里、有人值守自动驾驶的智能高铁。与此同时，道路运输中的智能驾驶在中国也在加速推进。据交通运输部公路科学研究院副院长王水印介绍，我国智能驾驶乘用车渗透率已超过68%，自动驾驶开放测试道路总里程已超过2.8万公里。2022年1月7日，一列京张高铁列车驶过长城居庸关段。然而，尽管同属智能驾驶，铁路和道路系统在复杂性和运行环境上存在根本差异。\n\n“汽车与铁路自动化的差距是显著的，”和利时集团旗下北京和利时系统工程有限公司副总裁兼总工程师汪小亮告诉CGTN。“核心挑战之一是精准停车，”汪小亮说。“由于环境变化、参数偏差以及海量实时数据传输需求，在高铁中实现这一点极其困难。”2025年1月15日，一列复兴号动车组行驶在江苏省常州市的京沪高铁线上。与道路车辆不同，高铁列车在极端速度下、受严格控制的条件中运行，即使是微小的偏差也可能产生放大的后果。\n\n汪小亮解释说，京张高铁配备了CTCS-3级中国列车运行控制系统，以及和利时提供的三个无线闭塞中心（RBC）和多个自动列车防护（ATP）系统，实现了精准安全运行。RBC和ATP是高铁列车控制系统的核心安全设备，它们持续与车载和地面设备通信，实现车地之间的实时信息交换。它们就像一个“中枢神经系统”，确保列车安全协调运行。确保准点与安全。2025年7月11日，参加第十二届世界高速铁路大会的外国代表乘坐京张高铁从北京北站前往北京2022年冬奥会举办地太子城。“高铁准点运行的背后实际上是列车控制系统，”和利时集团副总裁何春明告诉CGTN。\n\n该系统由车载和地面设备组成，负责管理列车间距和速度。随着列车速度的提高，司机的手动控制变得越来越困难。“制动距离与速度直接相关，”何春明说。“当高铁以350公里/小时运行时，制动距离需要大约20公里。”为确保安全，系统必须根据列车前方远距离的信息持续计算安全运行速度。“要确定安全速度，我们需要获取前方约20公里范围内的所有数据。\n\n“现在，前方32公里范围内的数据已经可用。”何春明说。“只有拥有这种级别的信息，系统才能为每个路段计算出安全速度。”速度控制不仅关乎距离。坡度、弯道和道岔等条件都会产生影响。“例如，上坡或下坡对减速的影响显著不同，”何春明说，“如果列车以过高速度进入弯道或道岔，可能会脱轨。”因此，前方20或30公里范围内的所有信息必须整合起来，生成一个统一的安全速度。高铁系统建立在非常严格的安全原则之上。\n\n何春明指出，如果通信中断，列车必须停车。“因为一旦我们无法确认信息是否最新或准确，就必须遵循故障导向安全原则。”在铁路信号设计中，任何故障都必须导致安全结果——这就是故障导向安全原则。如果通信中断超过一定时长，系统会丢弃所有数据并触发紧急制动。尽管高度自动化，高铁并未消除人的监督。“自动驾驶系统减轻了司机的工作量，大约90%的操作可以自动化，但某些关键点仍需人工确认，”何春明说。\n\n开发这样的系统是一个漫长的过程。一个铁路控制系统从开发到部署需要5到8年。通过智能速度控制提升舒适度。2026年2月2日，武汉火车站的高铁动车组。人工驾驶可能不一致，频繁的加速和制动会降低舒适度和效率。智能系统将经验丰富司机的策略纳入其控制算法，自动生成优化速度曲线，平衡准点、舒适和能效，使列车运行更平稳、更高效。\n\n未来，随着“四网融合”的推进，出行可能更加无缝衔接。“四网融合”指的是干线铁路、城际铁路、市域（郊）铁路和城市轨道交通系统的深度融合。在这一框架下，铁路服务将作为一个统一的出行网络运行，而非独立的系统。和利时集团开发的不同控制系统。何春明指出，这项技术仍在开发中。作为全球轨道交通控制系统和服务提供商，和利时集团已在中国80多条主要铁路线上部署了列车控制系统，总覆盖里程超过1.6万公里。\n\n它正利用积累的技术优势将这一愿景变为现实。"
     },
     {
       "id": 2,
       "category": "society",
       "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-06-26/detail-ihfftxzk2711514.shtml",
-      "title": "How 'China Opportunity 2.0' offers growth potential for global businesses",
-      "titleCn": "“中国机遇2.0”如何为全球企业提供增长潜力",
-      "summary": "For enterprises worldwide, \"China Opportunity 2.0\"represents comprehensive innovation-driven empowerment and high-return investment prospects, Chinese Premier Li Qiang said on Wednesday.",
-      "summaryCn": "中国总理李强在夏季达沃斯论坛上强调，“中国机遇2.0”为全球企业带来创新驱动的发展红利和投资前景。",
-      "wordCount": 568,
+      "sourceUrl": "http://www.ecns.cn/china/2026-06-26/detail-ihfftxzk2712787.shtml",
+      "title": "Visit boosts confidence in rural future",
+      "titleCn": "视察提振农村未来信心",
+      "summary": "When President Xi Jinping visited Dongyujia village in Dezhou, Shandong province, during the busy summer farming season on Wednesday morning, Li Lianjun, 54, and other villagers shared with him their joy over this year's summer grain harvest.",
+      "summaryCn": "习近平主席视察山东德州东于家村，与农民亲切交流，强调粮食安全与农业科技，鼓舞农民信心。",
+      "wordCount": 714,
       "paragraphs": [
         {
-          "en": "For enterprises worldwide, \"China Opportunity 2.0\" represents {{0}} innovation-driven {{1}} and high-return investment {{2}}, Chinese Premier Li Qiang said on Wednesday. Li stressed the point after he said he had noticed that some have expressed {{3}} over China's advances in technology and industrial innovation, even promoting the {{4}} of a so-called \"China Shock 2.0\" that frames China's development as a shock to the global economy. \"For global development, 'China Opportunity 2.0' means broader {{5}} to advanced technologies and more widely shared development benefits,\" he said. The Chinese premier made the remarks at the opening plenary of the 17th Annual Meeting of the New Champions, also known as the Summer Davos, in northeastern China's coastal city of Dalian. Highlighting the four {{6}} of China's economy, Li said it has demonstrated stability, innovation, vitality and {{7}} with the rest of the world at the beginning of the 15th Five-Year Plan period (2026-2030).",
-          "cn": "李强总理周三表示，对全球企业而言，“中国机遇2.0”代表着全面的创新驱动赋能和高回报投资前景。李强在强调这一点时指出，他注意到有人对中国在技术和产业创新方面的进步表示担忧，甚至宣扬所谓的“中国冲击2.0”论调，将中国的发展视为对全球经济的冲击。他说：“对全球发展而言，‘中国机遇2.0’意味着更广泛地获取先进技术，以及更广泛地分享发展成果。”中国总理是在中国东北沿海城市大连举行的第十七届新领军者年会（又称夏季达沃斯）开幕全体会议上发表上述讲话的。李强在强调中国经济的四个特征时表示，在“十五五”规划（2026-2030年）开局之年，中国经济展现出稳定性、创新性、活力以及与世界的融合性。"
+          "en": "When President Xi Jinping visited Dongyujia village in Dezhou, Shandong province, during the busy summer farming season on Wednesday morning, Li Lianjun, 54, and other villagers shared with him their joy over this year's summer grain {{1}}. Xi was pleased to learn that wheat {{2}} had increased again this year and that corn was being planted rapidly without missing the {{3}} planting window. He encouraged the farmers to steadily increase both yields and returns, and strive for a {{4}} grain harvest for the whole year. \"With all the wheat harvested, we knew we had secured a good harvest,\" Li said, noting that yields had increased by about 300 to 375 kilograms per hectare compared with last year. Xi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, was on an {{5}} trip to Dezhou on Wednesday.",
+          "cn": "周三上午，正值繁忙的夏收时节，国家主席习近平来到山东省德州市东于家村视察。54岁的李连军和其他村民与他分享了今年夏粮丰收的喜悦。习近平得知今年小麦产量再次提高，玉米正在抢抓农时迅速播种，感到欣慰。他鼓励农民稳步提高产量和收益，力争全年粮食丰收。李连军说：“小麦都收完了，我们知道收成稳了。”他提到，与去年相比，每公顷产量增加了约300到375公斤。习近平是中共中央总书记、中央军委主席，周三在德州进行考察。"
         },
         {
-          "en": "Li said innovation-driven development is key to China's long-term economic {{8}} and steady growth, which have been {{9}} by a stable environment and continuous innovation. He stressed that the country's innovation is earned through years of strengthening its own capabilities and {{10}} hard work. The stability of the Chinese economy, Li said, has provided the much-needed {{11}} and served as an important \"safe harbor\" in an increasingly uncertain world. To integrate into the global economy, China has also remained {{12}} to actively expanding opening up, the premier added. The country has granted {{13}} treatment to 63 countries, while its imports have ranked second globally for 17 consecutive years.",
-          "cn": "李强表示，创新驱动发展是中国经济长期韧性和稳定增长的关键，而稳定的环境和持续的创新为这一韧性提供了支撑。他强调，中国的创新是通过多年加强自身能力和不懈努力赢得的。李强说，中国经济的稳定性在日益不确定的世界中提供了急需的确定性，并充当了重要的“避风港”。总理补充说，为融入全球经济，中国始终致力于积极扩大开放。中国已对63个国家给予零关税待遇，其进口额连续17年位居全球第二。"
+          "en": "For Li, who farms 6.7 hectares of land, the conversation in the fields remains {{6}}. \"I never imagined that the general secretary would come right up to us,\" he said. \"He was so warm and {{7}}.\"\nXi also asked Li about his household income, as well as his children's studies and lives. Li said that those questions made the {{8}} feel more like a warm and informal chat about everyday life rather than an official inspection. This year's bumper harvest, however, had not come easily for Dezhou's farmers.",
+          "cn": "对于耕种6.7公顷土地的李连军来说，田间地头的对话依然历历在目。“我从没想过总书记会直接走到我们跟前，”他说，“他非常热情、平易近人。”习近平还询问了李连军的家庭收入以及孩子们的学习和生活情况。李连军说，这些问题让这次会面更像是一次温馨随意的家常聊天，而非正式视察。然而，对德州的农民来说，今年的丰收来之不易。"
         },
         {
-          "en": "In the first five months of this year, imports rose by 20.5% year on year, significantly {{14}} export growth. During the event, multiple sessions are {{15}} to {{16}} China's 15th Five-Year Plan and how the {{17}} offers growth opportunities for partners worldwide. From expanding {{18}} free-trade zones and building the Hainan Free Trade Port, to broadening market access in education, finance, healthcare and other sectors, China is steadily advancing {{19}} opening-up across rules, regulations, management frameworks and standards. The numbers {{20}} that {{21}}. According to the Ministry of Commerce, the number of foreign-invested enterprises in China hit 533,000 by the end of 2025, marking an average annual increase of 4.5% from the end of 2020, while the country's foreign direct investment stock neared $4 trillion at the same time with an average annual growth rate of 3.6% across the five-year span.",
-          "cn": "今年前五个月，进口额同比增长20.5%，显著超过出口增速。会议期间，多个环节专门探讨中国的“十五五”规划，以及该路线图如何为全球合作伙伴提供增长机遇。从扩大自由贸易试验区、建设海南自由贸易港，到放宽教育、金融、医疗等领域的市场准入，中国正在规则、规制、管理框架和标准等方面稳步推进制度型开放。数据凸显了这一势头。据商务部数据，截至2025年底，中国外商投资企业数量达53.3万家，较2020年底年均增长4.5%；同期中国对外直接投资存量接近4万亿美元，五年间年均增长率为3.6%。"
+          "en": "Prolonged autumn rains in 2025 delayed wheat planting by more than 20 days, raising concerns about whether the crop could grow strongly enough before winter and recover in spring. With the help of agricultural {{10}} throughout the growing season, the crop had fully recovered by early April, when the wheat entered the {{11}} stage. Cui Xinyan, a local agricultural technician, said Xi showed a particular interest in the {{12}} {{13}} and {{14}} system used in the fields. \"He crouched down to take a close look and asked detailed questions about the system's operating costs and fertilizer mix,\" Cui recalled. According to Cui, the technology can increase planting {{15}} from around 67,500 to more than 82,500 plants per hectare, raising average yields by over 10 percent.",
+          "cn": "2025年秋季的持续降雨导致小麦播种推迟了20多天，人们担心作物能否在冬季前茁壮成长并在春季恢复。在整个生长季节，农业技术人员的帮助下，作物在4月初小麦进入拔节期时已完全恢复。当地农业技术员崔新燕表示，习近平对田间使用的水肥一体化系统表现出特别兴趣。“他蹲下来仔细查看，并详细询问了系统的运行成本和肥料配比，”崔新燕回忆道。据崔新燕介绍，这项技术可以将种植密度从每公顷约67500株提高到超过82500株，使平均产量提高10%以上。"
         },
         {
-          "en": "To stabilize and {{22}} foreign investment {{23}}, China this week issued a 15-measure action plan, which covers five broad areas: expanding market access, facilitating investment procedures, enhancing investment promotion, strengthening services and guarantees for foreign investment and improving foreign capital management. For {{24}} corporations, the 15th Five-Year Plan period is widely seen as a golden window to deepen their presence in the Chinese market and enhance global industrial cooperation. \"China's market is {{25}},\" Wu Chun, the managing partner for China at Boston Consulting Group, a US-headquartered global consultancy, told media on the sidelines of the Davos event. Wu said multinationals are gaining strong {{26}} for innovation and expansion from China's vast consumer market, ever-{{27}} industrial demands and local consumers' readiness to adopt emerging technologies and {{28}} products. Under the theme \"Innovating at Scale,\" the three-day event is gathering over 1,700 participants from over 90 countries and regions.",
-          "cn": "为稳定和优化外资利用，中国本周发布了一项包含15项措施的行动计划，涵盖五大领域：扩大市场准入、便利投资程序、加强投资促进、强化外资服务保障以及改善外资管理。对跨国公司而言，“十五五”规划期被广泛视为深化中国市场布局、加强全球产业合作的黄金窗口。“中国市场不可替代，”总部位于美国的全球咨询公司波士顿咨询集团中国区管理合伙人吴淳在达沃斯论坛间隙对媒体表示。吴淳表示，跨国公司正从中国庞大的消费市场、不断演变的产业需求以及当地消费者对新兴技术和新产品的接受度中获得强大的创新和扩张动力。为期三天的会议以“在规模中创新”为主题，汇聚了来自90多个国家和地区的1700多名参与者。"
+          "en": "Cui said that her strongest impression from speaking face to face with Xi was his close attention to agriculture, food security and agricultural technology. \"His words and actions reflected his deep {{16}} for farmers,\" Cui said. Xi's visit then continued from the fields to the nearby Xiyujia village, where he was offered a closer look at how changes in agricultural production and rural employment are {{17}} villagers' lives. At the home of Yu Xinhui, 36, Xi looked around and sat down with the family for a conversation. He asked about their jobs and income, the health of elderly family members and the children's studies.",
+          "cn": "崔新燕说，与习近平面对面交流给她最深的印象是他对农业、粮食安全和农业科技的高度关注。“他的言行体现了他对农民的深厚感情，”崔新燕说。随后，习近平的视察从田间来到附近的西于家村，在那里他更深入地了解了农业生产和农村就业的变化如何重塑村民的生活。在36岁的于新辉家中，习近平环顾四周，并与一家人坐下交谈。他询问了他们的工作和收入、老人的健康状况以及孩子们的学习情况。"
         },
         {
-          "en": "In his Wednesday address, Li concluded by calling on global businesses to {{29}} the opportunities China has offered through its own development.",
-          "cn": "在周三的讲话中，李强最后呼吁全球企业抓住中国通过自身发展提供的机遇。"
+          "en": "He also asked in detail whether policies concerning agriculture, rural areas and farmers had been fully {{18}}. One question from Xi left a particularly deep impression on the villager. \"The general secretary asked whether there was anything I was unhappy with or wanted to complain about,\" Yu recalled. \"That really warmed my heart. He truly cares about young people like us.\"\nYu said that the conversation gave him and other villagers a stronger sense of {{0}} and security.",
+          "cn": "他还详细询问了关于农业、农村和农民的政策是否得到全面落实。习近平的一个问题给这位村民留下了特别深刻的印象。“总书记问我有没有什么不满意或想抱怨的事情，”于新辉回忆道，“这让我心里很暖。他真心关心我们这样的年轻人。”于新辉说，这次谈话让他和其他村民感到更加自信和安全。"
+        },
+        {
+          "en": "\"We feel more motivated and reassured,\" he said. \"It feels we have strong support behind us.\"\nThis year marks the beginning of China's 15th Five-Year Plan (2026-30) period. Agricultural and rural modernization, as outlined in the plan, has a major bearing on Chinese modernization as a whole. By 2030, the country aims to further strengthen food security, improve the quality, efficiency and competitiveness of agriculture, enhance agricultural sci-tech capabilities and continue raising farmers' incomes, among other goals. Xi's fact-finding trip, which came a week before the CPC marks its 105th anniversary, underscored the Party's long-standing priorities of safeguarding food security, raising farmers' incomes and improving people's well-being.",
+          "cn": "“我们感到更有动力、更安心了，”他说，“感觉背后有强大的支持。”今年是中国第十五个五年规划（2026-2030年）的开局之年。规划中提出的农业农村现代化，对中国式现代化具有重大意义。到2030年，国家目标是进一步加强粮食安全，提高农业质量、效益和竞争力，增强农业科技能力，并继续提高农民收入等。习近平的这次考察，恰逢中国共产党成立105周年前一周，凸显了党长期以来保障粮食安全、提高农民收入、改善民生福祉的优先事项。"
+        },
+        {
+          "en": "As Xi left the village, residents gathered to give him a warm send-off. \"As we are marching on the new journey of building China into a modern socialist country in all respects, we must work together and keep up our stride on the new Long March to create a brighter future and continuously meet the people's {{19}} for a better life,\" Xi said to them.",
+          "cn": "习近平离开村庄时，村民们聚集在一起热情送别。“在全面建设社会主义现代化国家的新征程上，我们要团结一心，在新长征路上继续前进，创造更加美好的未来，不断满足人民对美好生活的向往，”习近平对大家说。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "comprehensive",
-          "hint": "adj. 全面的",
-          "difficulty": "medium"
+          "answer": "confidence",
+          "hint": "n. 信心",
+          "difficulty": "easy"
         },
         {
           "id": 1,
-          "answer": "empowerment",
-          "hint": "n. 赋能",
-          "difficulty": "hard"
+          "answer": "harvest",
+          "hint": "n. 收成",
+          "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "prospects",
-          "hint": "n. 前景",
+          "answer": "yields",
+          "hint": "n. 产量",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "anxiety",
-          "hint": "n. 焦虑",
-          "difficulty": "easy"
+          "answer": "optimal",
+          "hint": "adj. 最佳的",
+          "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "narrative",
-          "hint": "n. 叙事",
-          "difficulty": "medium"
+          "answer": "bumper",
+          "hint": "adj. 丰盛的",
+          "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "access",
-          "hint": "n. 获取途径",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "characteristics",
-          "hint": "n. 特征",
+          "answer": "inspection",
+          "hint": "n. 视察",
           "difficulty": "medium"
         },
         {
+          "id": 6,
+          "answer": "vivid",
+          "hint": "adj. 生动的",
+          "difficulty": "easy"
+        },
+        {
           "id": 7,
-          "answer": "integration",
-          "hint": "n. 融合",
+          "answer": "approachable",
+          "hint": "adj. 平易近人的",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "resilience",
-          "hint": "n. 韧性",
-          "difficulty": "hard"
+          "answer": "encounter",
+          "hint": "n. 相遇",
+          "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "underpinned",
-          "hint": "v. 支撑",
-          "difficulty": "hard"
+          "answer": "technicians",
+          "hint": "n. 技术员",
+          "difficulty": "easy"
         },
         {
           "id": 10,
-          "answer": "relentless",
-          "hint": "adj. 不懈的",
+          "answer": "jointing",
+          "hint": "n. 拔节",
           "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "certainty",
-          "hint": "n. 确定性",
+          "answer": "integrated",
+          "hint": "adj. 综合的",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "committed",
-          "hint": "adj. 致力于",
-          "difficulty": "easy"
+          "answer": "irrigation",
+          "hint": "n. 灌溉",
+          "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "zero-tariff",
-          "hint": "adj. 零关税的",
+          "answer": "fertilization",
+          "hint": "n. 施肥",
           "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "outpacing",
-          "hint": "v. 超过",
-          "difficulty": "hard"
+          "answer": "density",
+          "hint": "n. 密度",
+          "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "dedicated",
-          "hint": "adj. 专门用于",
+          "answer": "affection",
+          "hint": "n. 感情",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "unpacking",
-          "hint": "v. 解析",
+          "answer": "reshaping",
+          "hint": "v. 重塑",
           "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "roadmap",
-          "hint": "n. 路线图",
+          "answer": "implemented",
+          "hint": "v. 实施",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "pilot",
-          "hint": "adj. 试点的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "institutional",
-          "hint": "adj. 制度性的",
+          "answer": "aspirations",
+          "hint": "n. 愿望",
           "difficulty": "hard"
-        },
-        {
-          "id": 20,
-          "answer": "underscore",
-          "hint": "v. 强调",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "momentum",
-          "hint": "n. 势头",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "optimize",
-          "hint": "v. 优化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "utilization",
-          "hint": "n. 利用",
-          "difficulty": "hard"
-        },
-        {
-          "id": 24,
-          "answer": "multinational",
-          "hint": "adj. 跨国的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 25,
-          "answer": "irreplaceable",
-          "hint": "adj. 不可替代的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "impetus",
-          "hint": "n. 动力",
-          "difficulty": "hard"
-        },
-        {
-          "id": 27,
-          "answer": "evolving",
-          "hint": "adj. 不断演变的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 28,
-          "answer": "novel",
-          "hint": "adj. 新颖的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 29,
-          "answer": "seize",
-          "hint": "v. 抓住",
-          "difficulty": "easy"
         }
       ],
-      "fullText": "For enterprises worldwide, \"China Opportunity 2.0\" represents comprehensive innovation-driven empowerment and high-return investment prospects, Chinese Premier Li Qiang said on Wednesday.\nLi stressed the point after he said he had noticed that some have expressed anxiety over China's advances in technology and industrial innovation, even promoting the narrative of a so-called \"China Shock 2.0\" that frames China's development as a shock to the global economy.\n\"For global development, 'China Opportunity 2.0' means broader access to advanced technologies and more widely shared development benefits,\" he said.\nThe Chinese premier made the remarks at the opening plenary of the 17th Annual Meeting of the New Champions, also known as the Summer Davos, in northeastern China's coastal city of Dalian.\nHighlighting the four characteristics of China's economy, Li said it has demonstrated stability, innovation, vitality and integration with the rest of the world at the beginning of the 15th Five-Year Plan period (2026-2030).\nLi said innovation-driven development is key to China's long-term economic resilience and steady growth, which have been underpinned by a stable environment and continuous innovation.\nHe stressed that the country's innovation is earned through years of strengthening its own capabilities and relentless hard work.\nThe stability of the Chinese economy, Li said, has provided the much-needed certainty and served as an important \"safe harbor\" in an increasingly uncertain world.\nTo integrate into the global economy, China has also remained committed to actively expanding opening up, the premier added.\nThe country has granted zero-tariff treatment to 63 countries, while its imports have ranked second globally for 17 consecutive years. In the first five months of this year, imports rose by 20.5% year on year, significantly outpacing export growth.\nDuring the event, multiple sessions are dedicated to unpacking China's 15th Five-Year Plan and how the roadmap offers growth opportunities for partners worldwide.\nFrom expanding pilot free-trade zones and building the Hainan Free Trade Port, to broadening market access in education, finance, healthcare and other sectors, China is steadily advancing institutional opening-up across rules, regulations, management frameworks and standards.\nThe numbers underscore that momentum. According to the Ministry of Commerce, the number of foreign-invested enterprises in China hit 533,000 by the end of 2025, marking an average annual increase of 4.5% from the end of 2020, while the country's foreign direct investment stock neared $4 trillion at the same time with an average annual growth rate of 3.6% across the five-year span.\nTo stabilize and optimize foreign investment utilization, China this week issued a 15-measure action plan, which covers five broad areas: expanding market access, facilitating investment procedures, enhancing investment promotion, strengthening services and guarantees for foreign investment and improving foreign capital management.\nFor multinational corporations, the 15th Five-Year Plan period is widely seen as a golden window to deepen their presence in the Chinese market and enhance global industrial cooperation.\n\"China's market is irreplaceable,\" Wu Chun, the managing partner for China at Boston Consulting Group, a US-headquartered global consultancy, told media on the sidelines of the Davos event.\nWu said multinationals are gaining strong impetus for innovation and expansion from China's vast consumer market, ever-evolving industrial demands and local consumers' readiness to adopt emerging technologies and novel products.\nUnder the theme \"Innovating at Scale,\" the three-day event is gathering over 1,700 participants from over 90 countries and regions.\nIn his Wednesday address, Li concluded by calling on global businesses to seize the opportunities China has offered through its own development.",
-      "fullTextCn": "李强总理周三表示，对全球企业而言，“中国机遇2.0”代表着全面的创新驱动赋能和高回报投资前景。李强在强调这一点时指出，他注意到有人对中国在技术和产业创新方面的进步表示担忧，甚至宣扬所谓的“中国冲击2.0”论调，将中国的发展视为对全球经济的冲击。他说：“对全球发展而言，‘中国机遇2.0’意味着更广泛地获取先进技术，以及更广泛地分享发展成果。”中国总理是在中国东北沿海城市大连举行的第十七届新领军者年会（又称夏季达沃斯）开幕全体会议上发表上述讲话的。李强在强调中国经济的四个特征时表示，在“十五五”规划（2026-2030年）开局之年，中国经济展现出稳定性、创新性、活力以及与世界的融合性。\n\n李强表示，创新驱动发展是中国经济长期韧性和稳定增长的关键，而稳定的环境和持续的创新为这一韧性提供了支撑。他强调，中国的创新是通过多年加强自身能力和不懈努力赢得的。李强说，中国经济的稳定性在日益不确定的世界中提供了急需的确定性，并充当了重要的“避风港”。总理补充说，为融入全球经济，中国始终致力于积极扩大开放。中国已对63个国家给予零关税待遇，其进口额连续17年位居全球第二。\n\n今年前五个月，进口额同比增长20.5%，显著超过出口增速。会议期间，多个环节专门探讨中国的“十五五”规划，以及该路线图如何为全球合作伙伴提供增长机遇。从扩大自由贸易试验区、建设海南自由贸易港，到放宽教育、金融、医疗等领域的市场准入，中国正在规则、规制、管理框架和标准等方面稳步推进制度型开放。数据凸显了这一势头。据商务部数据，截至2025年底，中国外商投资企业数量达53.3万家，较2020年底年均增长4.5%；同期中国对外直接投资存量接近4万亿美元，五年间年均增长率为3.6%。\n\n为稳定和优化外资利用，中国本周发布了一项包含15项措施的行动计划，涵盖五大领域：扩大市场准入、便利投资程序、加强投资促进、强化外资服务保障以及改善外资管理。对跨国公司而言，“十五五”规划期被广泛视为深化中国市场布局、加强全球产业合作的黄金窗口。“中国市场不可替代，”总部位于美国的全球咨询公司波士顿咨询集团中国区管理合伙人吴淳在达沃斯论坛间隙对媒体表示。吴淳表示，跨国公司正从中国庞大的消费市场、不断演变的产业需求以及当地消费者对新兴技术和新产品的接受度中获得强大的创新和扩张动力。为期三天的会议以“在规模中创新”为主题，汇聚了来自90多个国家和地区的1700多名参与者。\n\n在周三的讲话中，李强最后呼吁全球企业抓住中国通过自身发展提供的机遇。"
+      "fullText": "When President Xi Jinping visited Dongyujia village in Dezhou, Shandong province, during the busy summer farming season on Wednesday morning, Li Lianjun, 54, and other villagers shared with him their joy over this year's summer grain harvest.\nXi was pleased to learn that wheat yields had increased again this year and that corn was being planted rapidly without missing the optimal planting window. He encouraged the farmers to steadily increase both yields and returns, and strive for a bumper grain harvest for the whole year.\n\"With all the wheat harvested, we knew we had secured a good harvest,\" Li said, noting that yields had increased by about 300 to 375 kilograms per hectare compared with last year.\nXi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, was on an inspection trip to Dezhou on Wednesday.\nFor Li, who farms 6.7 hectares of land, the conversation in the fields remains vivid. \"I never imagined that the general secretary would come right up to us,\" he said. \"He was so warm and approachable.\"\nXi also asked Li about his household income, as well as his children's studies and lives.\nLi said that those questions made the encounter feel more like a warm and informal chat about everyday life rather than an official inspection.\nThis year's bumper harvest, however, had not come easily for Dezhou's farmers.\nProlonged autumn rains in 2025 delayed wheat planting by more than 20 days, raising concerns about whether the crop could grow strongly enough before winter and recover in spring.\nWith the help of agricultural technicians throughout the growing season, the crop had fully recovered by early April, when the wheat entered the jointing stage.\nCui Xinyan, a local agricultural technician, said Xi showed a particular interest in the integrated irrigation and fertilization system used in the fields.\n\"He crouched down to take a close look and asked detailed questions about the system's operating costs and fertilizer mix,\" Cui recalled.\nAccording to Cui, the technology can increase planting density from around 67,500 to more than 82,500 plants per hectare, raising average yields by over 10 percent.\nCui said that her strongest impression from speaking face to face with Xi was his close attention to agriculture, food security and agricultural technology.\n\"His words and actions reflected his deep affection for farmers,\" Cui said.\nXi's visit then continued from the fields to the nearby Xiyujia village, where he was offered a closer look at how changes in agricultural production and rural employment are reshaping villagers' lives.\nAt the home of Yu Xinhui, 36, Xi looked around and sat down with the family for a conversation. He asked about their jobs and income, the health of elderly family members and the children's studies. He also asked in detail whether policies concerning agriculture, rural areas and farmers had been fully implemented.\nOne question from Xi left a particularly deep impression on the villager.\n\"The general secretary asked whether there was anything I was unhappy with or wanted to complain about,\" Yu recalled. \"That really warmed my heart. He truly cares about young people like us.\"\nYu said that the conversation gave him and other villagers a stronger sense of confidence and security.\n\"We feel more motivated and reassured,\" he said. \"It feels we have strong support behind us.\"\nThis year marks the beginning of China's 15th Five-Year Plan (2026-30) period. Agricultural and rural modernization, as outlined in the plan, has a major bearing on Chinese modernization as a whole. By 2030, the country aims to further strengthen food security, improve the quality, efficiency and competitiveness of agriculture, enhance agricultural sci-tech capabilities and continue raising farmers' incomes, among other goals.\nXi's fact-finding trip, which came a week before the CPC marks its 105th anniversary, underscored the Party's long-standing priorities of safeguarding food security, raising farmers' incomes and improving people's well-being.\nAs Xi left the village, residents gathered to give him a warm send-off.\n\"As we are marching on the new journey of building China into a modern socialist country in all respects, we must work together and keep up our stride on the new Long March to create a brighter future and continuously meet the people's aspirations for a better life,\" Xi said to them.",
+      "fullTextCn": "周三上午，正值繁忙的夏收时节，国家主席习近平来到山东省德州市东于家村视察。54岁的李连军和其他村民与他分享了今年夏粮丰收的喜悦。习近平得知今年小麦产量再次提高，玉米正在抢抓农时迅速播种，感到欣慰。他鼓励农民稳步提高产量和收益，力争全年粮食丰收。李连军说：“小麦都收完了，我们知道收成稳了。”他提到，与去年相比，每公顷产量增加了约300到375公斤。习近平是中共中央总书记、中央军委主席，周三在德州进行考察。\n\n对于耕种6.7公顷土地的李连军来说，田间地头的对话依然历历在目。“我从没想过总书记会直接走到我们跟前，”他说，“他非常热情、平易近人。”习近平还询问了李连军的家庭收入以及孩子们的学习和生活情况。李连军说，这些问题让这次会面更像是一次温馨随意的家常聊天，而非正式视察。然而，对德州的农民来说，今年的丰收来之不易。\n\n2025年秋季的持续降雨导致小麦播种推迟了20多天，人们担心作物能否在冬季前茁壮成长并在春季恢复。在整个生长季节，农业技术人员的帮助下，作物在4月初小麦进入拔节期时已完全恢复。当地农业技术员崔新燕表示，习近平对田间使用的水肥一体化系统表现出特别兴趣。“他蹲下来仔细查看，并详细询问了系统的运行成本和肥料配比，”崔新燕回忆道。据崔新燕介绍，这项技术可以将种植密度从每公顷约67500株提高到超过82500株，使平均产量提高10%以上。\n\n崔新燕说，与习近平面对面交流给她最深的印象是他对农业、粮食安全和农业科技的高度关注。“他的言行体现了他对农民的深厚感情，”崔新燕说。随后，习近平的视察从田间来到附近的西于家村，在那里他更深入地了解了农业生产和农村就业的变化如何重塑村民的生活。在36岁的于新辉家中，习近平环顾四周，并与一家人坐下交谈。他询问了他们的工作和收入、老人的健康状况以及孩子们的学习情况。\n\n他还详细询问了关于农业、农村和农民的政策是否得到全面落实。习近平的一个问题给这位村民留下了特别深刻的印象。“总书记问我有没有什么不满意或想抱怨的事情，”于新辉回忆道，“这让我心里很暖。他真心关心我们这样的年轻人。”于新辉说，这次谈话让他和其他村民感到更加自信和安全。\n\n“我们感到更有动力、更安心了，”他说，“感觉背后有强大的支持。”今年是中国第十五个五年规划（2026-2030年）的开局之年。规划中提出的农业农村现代化，对中国式现代化具有重大意义。到2030年，国家目标是进一步加强粮食安全，提高农业质量、效益和竞争力，增强农业科技能力，并继续提高农民收入等。习近平的这次考察，恰逢中国共产党成立105周年前一周，凸显了党长期以来保障粮食安全、提高农民收入、改善民生福祉的优先事项。\n\n习近平离开村庄时，村民们聚集在一起热情送别。“在全面建设社会主义现代化国家的新征程上，我们要团结一心，在新长征路上继续前进，创造更加美好的未来，不断满足人民对美好生活的向往，”习近平对大家说。"
     },
     {
       "id": 3,
       "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-21/Europe-swelters-under-heatwave-France-restricts-alcohol-consumption-1O9swCjDNVS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Europe swelters under heatwave, France restricts alcohol consumption",
-      "titleCn": "欧洲热浪肆虐，法国限制酒精消费",
-      "summary": "A punishing heatwave sweeping across much of Europe has triggered widespread disruption, including a partial alcohol ban in France, nationwide heat warnings in Germany and the closure of a football fan zone in Spain, as temperatures climb towards record levels.",
-      "summaryCn": "欧洲遭遇严重热浪，法国限制酒精消费以减轻医疗系统压力，多国发布高温预警。",
-      "wordCount": 567,
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-18/Tropical-Storm-Arthur-forms-near-Texas-coast-flooding-expected-1O4nVAjuJAk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Tropical Storm Arthur forms near Texas coast, flooding expected",
+      "titleCn": "热带风暴亚瑟在得克萨斯州海岸附近形成，预计将引发洪水",
+      "summary": "Tropical Storm Arthur, the first named storm of the 2026 Atlantic hurricane season, formed on Wednesday near the Texas coast and is expected to bring life-threatening flooding across portions of the southeastern US, according to the US National Hurricane Center.",
+      "summaryCn": "热带风暴亚瑟作为2026年大西洋飓风季首个命名风暴，在得克萨斯州海岸形成，预计将给美国东南部带来危及生命的洪水和强降雨。",
+      "wordCount": 442,
       "paragraphs": [
         {
-          "en": "A {{0}} heatwave sweeping across much of Europe has {{1}} widespread {{2}}, including a {{3}} alcohol ban in France, nationwide heat warnings in Germany and the closure of a football fan zone in Spain, as temperatures climb towards record levels. Alcohol {{4}} to {{5}} healthcare {{6}}\nIn France, authorities have issued a red alert for more than a third of the country for Sunday, with 35 of its 96 departments placed under the highest heat warning. Temperatures are expected to reach 39 to 40 degrees Celsius from the southwest through the Paris region and into Burgundy, with some areas possibly hitting 41 degrees Celsius. People cool off in the fountains of the Trocadero Gardens, with the Eiffel Tower in the background, Paris, France, June 20, 2026. The {{7}} heatwave, which began earlier this week, has already disrupted the country, forcing the cancellation of dozens of trains and the {{8}} of school classes.",
-          "cn": "一场席卷欧洲大部分地区的酷热热浪引发了广泛混乱，包括法国部分禁酒、德国全国高温预警以及西班牙关闭一个足球球迷区，气温正逼近历史最高纪录。为减轻医疗系统压力而实施的酒精限制措施在法国，当局已对全国超过三分之一地区发布周日红色预警，96个省中有35个处于最高高温警告之下。预计气温将从西南部经巴黎地区到勃艮第达到39至40摄氏度，部分地区可能达到41摄氏度。在法国巴黎，人们特罗卡德罗花园的喷泉中纳凉，背景是埃菲尔铁塔，摄于2026年6月20日。这场始于本周早些时候的猛烈热浪已经扰乱了该国，迫使数十列火车取消和学校停课。"
+          "en": "A person walks through a {{0}} neighborhood after Tropical Storm Arthur made {{1}} in Freeport, Texas, June 17, 2026. Tropical Storm Arthur, the first named storm of the 2026 Atlantic hurricane season, formed on Wednesday near the Texas coast and is expected to bring {{2}} flooding across {{3}} of the southeastern US, according to the US National Hurricane Center (NHC). As of Wednesday night, the storm was {{4}} about 15 km northwest of Galveston, Texas, and about 185 km west-southwest of Lake Charles, Louisiana, moving northeast with maximum {{5}} winds of about 65 km/h – above the 63 km/h {{6}} for a tropical storm, said the NHC. Forecasters expect the system to gradually weaken and potentially {{7}} by late Wednesday night or early Thursday as it moves further {{8}} over southeastern Texas. Heavy surf stirred up by Tropical Storm Arthur {{9}} the beach in Surfside, Texas, June 17, 2026. Despite weakening, Arthur is expected to produce {{10}} heavy rainfall and life-threatening {{11}} flooding across portions of the southeastern US. The storm is expected to produce 127 to 254 mm of rainfall.",
+          "cn": "2026年6月17日，热带风暴亚瑟在得克萨斯州弗里波特登陆后，一名行人穿过被洪水淹没的社区。据美国国家飓风中心称，作为2026年大西洋飓风季首个命名风暴，热带风暴亚瑟于周三在得克萨斯州海岸附近形成，预计将给美国东南部部分地区带来危及生命的洪水。截至周三晚间，风暴中心位于得克萨斯州加尔维斯顿西北约15公里处，路易斯安那州查尔斯湖西南偏西约185公里处，以最大持续风速约65公里/小时向东北移动——高于热带风暴的63公里/小时阈值。预报员预计，随着该系统向得克萨斯州东南部内陆移动，它将在周三深夜或周四早些时候逐渐减弱并可能消散。2026年6月17日，热带风暴亚瑟引发的巨浪冲击着得克萨斯州瑟夫赛德海滩。尽管减弱，亚瑟预计仍将给美国东南部部分地区带来大范围强降雨和危及生命的山洪暴发。该风暴预计将带来127至254毫米的降雨量。"
         },
         {
-          "en": "According to French weather service Meteo-France, \"Very high temperatures are {{9}} in for the long term across the country.\" It warned that the {{10}} of the heatwave remains \"{{11}},\" adding that from Monday, temperatures could reach 41 degrees Celsius in some areas, while the national average could rise to its highest level on record. As authorities {{12}} for the impact on public health services, the government on Sunday limited alcohol consumption during the annual Fete de la Musique celebrations. Following a crisis meeting chaired by Prime Minister Sebastien Lecornu, officials said alcohol will be banned in public spaces in the departments under red alert, and state-organized events have been instructed not to offer alcohol. The limits on alcohol consumption are intended to ease pressure on emergency and healthcare services and allow medical staff to focus on caring for the most {{13}}. To help residents and tourists cope with the heat, authorities have also ordered parks and gardens to remain open around the clock.",
-          "cn": "据法国气象局称，“全国范围内高温天气正在长期持续。”它警告说，热浪的持续时间仍然“不确定”，并补充说，从周一开始，部分地区气温可能达到41摄氏度，而全国平均气温可能升至有记录以来的最高水平。随着当局准备应对对公共卫生服务的影响，政府周日限制了年度音乐节庆祝活动期间的酒精消费。在总理塞巴斯蒂安·勒科尔努主持的危机会议之后，官员们表示，在红色预警省份的公共场所将禁止饮酒，并指示国家组织的活动不得提供酒精。限制酒精消费旨在减轻急诊和医疗服务的压力，让医务人员能够专注于照顾最脆弱的人群。为了帮助居民和游客应对高温，当局还下令公园和花园全天候开放。"
-        },
-        {
-          "en": "Countries in the grip of the heatwave\nPeople cool off in ornamental fountains as high temperatures affect Berlin, Germany, June 19, 2026. Heat alerts were declared across most of Germany, with temperatures approaching 38 degrees Celsius. The German weather service DWD warned that a combination of heat and humidity could trigger severe thunderstorms. In some Italian cities, temperatures expected to reach 36 to 37 degrees Celsius are transforming daily life and tourism. In Rome, visitors queued under a blazing sun outside the Colosseum, while some sought {{14}} in the cooler underground spaces beneath the ruins of the Temple of Claudius.",
-          "cn": "受热浪影响的国家人们在装饰性喷泉中纳凉，德国柏林遭遇高温，摄于2026年6月19日。德国大部分地区发布了高温警报，气温接近38摄氏度。德国气象局DWD警告说，高温和湿度的结合可能引发强雷暴。在意大利一些城市，预计气温将达到36至37摄氏度，这正在改变日常生活和旅游业。在罗马，游客在烈日下排队等候进入斗兽场，而一些人则在克劳狄乌斯神庙废墟下较凉爽的地下空间寻求解脱。"
-        },
-        {
-          "en": "In Bologna, one of the hottest cities in the country, people splashed water on their faces at the 16th-century Fountain of Neptune and sheltered in the shade of the porticoes. A tourist walks past a sign displaying 42 degrees Celsius in Palma de Mallorca, Spain, June 20, 2026. In Spain, authorities have closed a large football fan zone in Madrid's Plaza de Colon, where giant screens had been set up for supporters to watch Spain's World Cup match against Saudi Arabia. Scientists say climate change is increasing the frequency and {{15}} of heatwaves across Europe, raising the risk of health emergencies and economic disruption during the summer months. The economic toll of extreme heat is also drawing attention.",
-          "cn": "在博洛尼亚，该国最热的城市之一，人们在16世纪的海神喷泉中泼水洗脸，并在门廊的阴凉处躲避。一名游客走过西班牙马略卡岛帕尔马显示42摄氏度的标牌，摄于2026年6月20日。在西班牙，当局关闭了马德里科隆广场的一个大型足球球迷区，那里曾设置大屏幕供球迷观看西班牙对阵沙特阿拉伯的世界杯比赛。科学家表示，气候变化正在增加欧洲热浪的频率和强度，提高了夏季健康紧急情况和经济混乱的风险。极端高温的经济影响也引起了关注。"
-        },
-        {
-          "en": "Bank of France Governor Emmanuel Moulin said short-term effects on growth were \"somewhat {{16}},\" citing both reduced {{17}} and increased energy use, but warned that over the medium term, heatwaves weigh on economic activity.",
-          "cn": "法国央行行长埃马纽埃尔·穆兰表示，对增长的短期影响“有些模糊”，他提到了生产率下降和能源使用增加，但警告说，从中期来看，热浪会拖累经济活动。"
+          "en": "Isolated higher totals near 50 cm are expected through early Friday from the mid and upper Texas coast east-northeast into southern and central portions of Louisiana, Mississippi and Alabama, along with western portions of Georgia and the Florida Panhandle, said the NHC. \"Very heavy rainfall is expected to fall across southeast Louisiana into southern Mississippi, where there can be {{13}} and even life-threatening flooding, before {{14}} northeastward through the Carolinas and Georgia,\" said AccuWeather hurricane expert Alex DaSilva. Significant rain is expected to last through Friday across the Southeast, and the zone of greatest risk will {{15}} from far eastern Texas and Louisiana to Georgia by Friday, according to AccuWeather. Potential impacts on the energy sector\nArthur's path runs near the Gulf Coast {{16}} region, which stretches from Corpus Christi to Pascagoula, Mississippi, and holds around half of US refining {{17}} of 18.4 million barrels per day. Operators including major oil refiners and LNG exporters along the coast have been {{18}} the storm. A model from consulting firm Earth Science Associates based on past storms is {{19}} that around 20,000 barrels of oil could be lost because of {{20}} at {{21}} platforms in the storm's path. \"Part of the past losses occur due to an {{22}} of {{23}} for personnel and other dangers, and that is part of the data in the model, though for the current storm we haven't seen those actions, so it is likely to be on the low side of the forecast,\" Earth Science Associates Chief Operating Officer Tony Dupont said in an emailed response to questions.",
+          "cn": "美国国家飓风中心表示，预计到周五早些时候，从得克萨斯州中上游海岸向东北方向延伸至路易斯安那州、密西西比州和阿拉巴马州的中部和南部，以及佐治亚州西部和佛罗里达州狭长地带，孤立地区降雨总量接近50厘米。AccuWeather飓风专家亚历克斯·达席尔瓦表示：“预计强降雨将落在路易斯安那州东南部至密西西比州南部，那里可能发生严重甚至危及生命的洪水，然后向东北方向蔓延至卡罗来纳州和佐治亚州。”据AccuWeather称，预计东南部地区的大雨将持续到周五，到周五，最大风险区域将从得克萨斯州东部和路易斯安那州转移到佐治亚州。对能源行业的潜在影响：亚瑟的路径靠近墨西哥湾沿岸的炼油区，该区域从科珀斯克里斯蒂延伸至密西西比州帕斯卡古拉，拥有美国约1840万桶/日炼油产能的一半。包括主要石油炼油商和液化天然气出口商在内的沿海运营商一直在监测该风暴。咨询公司地球科学协会基于过去风暴的模型预测，由于风暴路径上的海上平台停产，可能损失约2万桶石油。地球科学协会首席运营官托尼·杜邦在回复问题的电子邮件中表示：“过去的部分损失是由于对人员和其他危险的高度谨慎造成的，这也是模型数据的一部分，尽管对于当前风暴，我们尚未看到这些行动，因此很可能处于预测的低端。”"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "punishing",
-          "hint": "adj. 严酷的",
+          "answer": "flooded",
+          "hint": "adj. 被水淹没的",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "triggered",
-          "hint": "v. 引发",
+          "answer": "landfall",
+          "hint": "n. 登陆",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "disruption",
-          "hint": "n. 混乱",
-          "difficulty": "medium"
+          "answer": "life-threatening",
+          "hint": "adj. 危及生命的",
+          "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "partial",
-          "hint": "adj. 部分的",
-          "difficulty": "easy"
+          "answer": "portions",
+          "hint": "n. 部分",
+          "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "restrictions",
-          "hint": "n. 限制",
-          "difficulty": "easy"
+          "answer": "centered",
+          "hint": "v. 位于中心",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "ease",
-          "hint": "v. 减轻",
+          "answer": "sustained",
+          "hint": "adj. 持续的",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "strain",
-          "hint": "n. 压力",
-          "difficulty": "medium"
+          "answer": "threshold",
+          "hint": "n. 阈值",
+          "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "ferocious",
-          "hint": "adj. 猛烈的",
+          "answer": "dissipate",
+          "hint": "v. 消散",
           "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "suspension",
-          "hint": "n. 暂停",
+          "answer": "inland",
+          "hint": "adv. 向内陆",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "settling",
-          "hint": "v. 稳定",
-          "difficulty": "medium"
+          "answer": "batters",
+          "hint": "v. 猛烈冲击",
+          "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "duration",
-          "hint": "n. 持续时间",
+          "answer": "widespread",
+          "hint": "adj. 广泛的",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "uncertain",
-          "hint": "adj. 不确定的",
-          "difficulty": "easy"
+          "answer": "flash",
+          "hint": "adj. 突发的",
+          "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "brace",
-          "hint": "v. 准备",
-          "difficulty": "hard"
+          "answer": "significant",
+          "hint": "adj. 显著的",
+          "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "vulnerable",
-          "hint": "adj. 脆弱的",
+          "answer": "spreading",
+          "hint": "v. 蔓延",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "relief",
-          "hint": "n. 缓解",
-          "difficulty": "easy"
+          "answer": "shift",
+          "hint": "v. 转移",
+          "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "intensity",
-          "hint": "n. 强度",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "ambiguous",
-          "hint": "adj. 模糊的",
+          "answer": "refining",
+          "hint": "n. 炼油",
           "difficulty": "hard"
         },
         {
+          "id": 16,
+          "answer": "capacity",
+          "hint": "n. 产能",
+          "difficulty": "medium"
+        },
+        {
           "id": 17,
-          "answer": "productivity",
-          "hint": "n. 生产力",
+          "answer": "monitoring",
+          "hint": "v. 监测",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "forecasting",
+          "hint": "v. 预测",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "shut-ins",
+          "hint": "n. 停产",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "offshore",
+          "hint": "adj. 海上的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "abundance",
+          "hint": "n. 大量",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "caution",
+          "hint": "n. 谨慎",
           "difficulty": "medium"
         }
       ],
-      "fullText": "A punishing heatwave sweeping across much of Europe has triggered widespread disruption, including a partial alcohol ban in France, nationwide heat warnings in Germany and the closure of a football fan zone in Spain, as temperatures climb towards record levels.\nAlcohol restrictions to ease healthcare strain\nIn France, authorities have issued a red alert for more than a third of the country for Sunday, with 35 of its 96 departments placed under the highest heat warning. Temperatures are expected to reach 39 to 40 degrees Celsius from the southwest through the Paris region and into Burgundy, with some areas possibly hitting 41 degrees Celsius.\nPeople cool off in the fountains of the Trocadero Gardens, with the Eiffel Tower in the background, Paris, France, June 20, 2026. \nThe ferocious heatwave, which began earlier this week, has already disrupted the country, forcing the cancellation of dozens of trains and the suspension of school classes. According to French weather service Meteo-France, \"Very high temperatures are settling in for the long term across the country.\" It warned that the duration of the heatwave remains \"uncertain,\" adding that from Monday, temperatures could reach 41 degrees Celsius in some areas, while the national average could rise to its highest level on record.\nAs authorities brace for the impact on public health services, the government on Sunday limited alcohol consumption during the annual Fete de la Musique celebrations. Following a crisis meeting chaired by Prime Minister Sebastien Lecornu, officials said alcohol will be banned in public spaces in the departments under red alert, and state-organized events have been instructed not to offer alcohol.\nThe limits on alcohol consumption are intended to ease pressure on emergency and healthcare services and allow medical staff to focus on caring for the most vulnerable. To help residents and tourists cope with the heat, authorities have also ordered parks and gardens to remain open around the clock.\nCountries in the grip of the heatwave\nPeople cool off in ornamental fountains as high temperatures affect Berlin, Germany, June 19, 2026. \nHeat alerts were declared across most of Germany, with temperatures approaching 38 degrees Celsius. The German weather service DWD warned that a combination of heat and humidity could trigger severe thunderstorms.\nIn some Italian cities, temperatures expected to reach 36 to 37 degrees Celsius are transforming daily life and tourism. In Rome, visitors queued under a blazing sun outside the Colosseum, while some sought relief in the cooler underground spaces beneath the ruins of the Temple of Claudius. In Bologna, one of the hottest cities in the country, people splashed water on their faces at the 16th-century Fountain of Neptune and sheltered in the shade of the porticoes.\nA tourist walks past a sign displaying 42 degrees Celsius in Palma de Mallorca, Spain, June 20, 2026. \nIn Spain, authorities have closed a large football fan zone in Madrid's Plaza de Colon, where giant screens had been set up for supporters to watch Spain's World Cup match against Saudi Arabia.\nScientists say climate change is increasing the frequency and intensity of heatwaves across Europe, raising the risk of health emergencies and economic disruption during the summer months.\nThe economic toll of extreme heat is also drawing attention.\nBank of France Governor Emmanuel Moulin said short-term effects on growth were \"somewhat ambiguous,\" citing both reduced productivity and increased energy use, but warned that over the medium term, heatwaves weigh on economic activity.",
-      "fullTextCn": "一场席卷欧洲大部分地区的酷热热浪引发了广泛混乱，包括法国部分禁酒、德国全国高温预警以及西班牙关闭一个足球球迷区，气温正逼近历史最高纪录。为减轻医疗系统压力而实施的酒精限制措施在法国，当局已对全国超过三分之一地区发布周日红色预警，96个省中有35个处于最高高温警告之下。预计气温将从西南部经巴黎地区到勃艮第达到39至40摄氏度，部分地区可能达到41摄氏度。在法国巴黎，人们特罗卡德罗花园的喷泉中纳凉，背景是埃菲尔铁塔，摄于2026年6月20日。这场始于本周早些时候的猛烈热浪已经扰乱了该国，迫使数十列火车取消和学校停课。\n\n据法国气象局称，“全国范围内高温天气正在长期持续。”它警告说，热浪的持续时间仍然“不确定”，并补充说，从周一开始，部分地区气温可能达到41摄氏度，而全国平均气温可能升至有记录以来的最高水平。随着当局准备应对对公共卫生服务的影响，政府周日限制了年度音乐节庆祝活动期间的酒精消费。在总理塞巴斯蒂安·勒科尔努主持的危机会议之后，官员们表示，在红色预警省份的公共场所将禁止饮酒，并指示国家组织的活动不得提供酒精。限制酒精消费旨在减轻急诊和医疗服务的压力，让医务人员能够专注于照顾最脆弱的人群。为了帮助居民和游客应对高温，当局还下令公园和花园全天候开放。\n\n受热浪影响的国家人们在装饰性喷泉中纳凉，德国柏林遭遇高温，摄于2026年6月19日。德国大部分地区发布了高温警报，气温接近38摄氏度。德国气象局DWD警告说，高温和湿度的结合可能引发强雷暴。在意大利一些城市，预计气温将达到36至37摄氏度，这正在改变日常生活和旅游业。在罗马，游客在烈日下排队等候进入斗兽场，而一些人则在克劳狄乌斯神庙废墟下较凉爽的地下空间寻求解脱。\n\n在博洛尼亚，该国最热的城市之一，人们在16世纪的海神喷泉中泼水洗脸，并在门廊的阴凉处躲避。一名游客走过西班牙马略卡岛帕尔马显示42摄氏度的标牌，摄于2026年6月20日。在西班牙，当局关闭了马德里科隆广场的一个大型足球球迷区，那里曾设置大屏幕供球迷观看西班牙对阵沙特阿拉伯的世界杯比赛。科学家表示，气候变化正在增加欧洲热浪的频率和强度，提高了夏季健康紧急情况和经济混乱的风险。极端高温的经济影响也引起了关注。\n\n法国央行行长埃马纽埃尔·穆兰表示，对增长的短期影响“有些模糊”，他提到了生产率下降和能源使用增加，但警告说，从中期来看，热浪会拖累经济活动。"
+      "fullText": "A person walks through a flooded neighborhood after Tropical Storm Arthur made landfall in Freeport, Texas, June 17, 2026. \nTropical Storm Arthur, the first named storm of the 2026 Atlantic hurricane season, formed on Wednesday near the Texas coast and is expected to bring life-threatening flooding across portions of the southeastern US, according to the US National Hurricane Center (NHC).\nAs of Wednesday night, the storm was centered about 15 km northwest of Galveston, Texas, and about 185 km west-southwest of Lake Charles, Louisiana, moving northeast with maximum sustained winds of about 65 km/h – above the 63 km/h threshold for a tropical storm, said the NHC.\nForecasters expect the system to gradually weaken and potentially dissipate by late Wednesday night or early Thursday as it moves further inland over southeastern Texas.\nHeavy surf stirred up by Tropical Storm Arthur batters the beach in Surfside, Texas, June 17, 2026. \nDespite weakening, Arthur is expected to produce widespread heavy rainfall and life-threatening flash flooding across portions of the southeastern US.\nThe storm is expected to produce 127 to 254 mm of rainfall. Isolated higher totals near 50 cm are expected through early Friday from the mid and upper Texas coast east-northeast into southern and central portions of Louisiana, Mississippi and Alabama, along with western portions of Georgia and the Florida Panhandle, said the NHC.\n\"Very heavy rainfall is expected to fall across southeast Louisiana into southern Mississippi, where there can be significant and even life-threatening flooding, before spreading northeastward through the Carolinas and Georgia,\" said AccuWeather hurricane expert Alex DaSilva.\nSignificant rain is expected to last through Friday across the Southeast, and the zone of greatest risk will shift from far eastern Texas and Louisiana to Georgia by Friday, according to AccuWeather.\nPotential impacts on the energy sector\nArthur's path runs near the Gulf Coast refining region, which stretches from Corpus Christi to Pascagoula, Mississippi, and holds around half of US refining capacity of 18.4 million barrels per day.\nOperators including major oil refiners and LNG exporters along the coast have been monitoring the storm.\nA model from consulting firm Earth Science Associates based on past storms is forecasting that around 20,000 barrels of oil could be lost because of shut-ins at offshore platforms in the storm's path.\n\"Part of the past losses occur due to an abundance of caution for personnel and other dangers, and that is part of the data in the model, though for the current storm we haven't seen those actions, so it is likely to be on the low side of the forecast,\" Earth Science Associates Chief Operating Officer Tony Dupont said in an emailed response to questions.",
+      "fullTextCn": "2026年6月17日，热带风暴亚瑟在得克萨斯州弗里波特登陆后，一名行人穿过被洪水淹没的社区。据美国国家飓风中心称，作为2026年大西洋飓风季首个命名风暴，热带风暴亚瑟于周三在得克萨斯州海岸附近形成，预计将给美国东南部部分地区带来危及生命的洪水。截至周三晚间，风暴中心位于得克萨斯州加尔维斯顿西北约15公里处，路易斯安那州查尔斯湖西南偏西约185公里处，以最大持续风速约65公里/小时向东北移动——高于热带风暴的63公里/小时阈值。预报员预计，随着该系统向得克萨斯州东南部内陆移动，它将在周三深夜或周四早些时候逐渐减弱并可能消散。2026年6月17日，热带风暴亚瑟引发的巨浪冲击着得克萨斯州瑟夫赛德海滩。尽管减弱，亚瑟预计仍将给美国东南部部分地区带来大范围强降雨和危及生命的山洪暴发。该风暴预计将带来127至254毫米的降雨量。\n\n美国国家飓风中心表示，预计到周五早些时候，从得克萨斯州中上游海岸向东北方向延伸至路易斯安那州、密西西比州和阿拉巴马州的中部和南部，以及佐治亚州西部和佛罗里达州狭长地带，孤立地区降雨总量接近50厘米。AccuWeather飓风专家亚历克斯·达席尔瓦表示：“预计强降雨将落在路易斯安那州东南部至密西西比州南部，那里可能发生严重甚至危及生命的洪水，然后向东北方向蔓延至卡罗来纳州和佐治亚州。”据AccuWeather称，预计东南部地区的大雨将持续到周五，到周五，最大风险区域将从得克萨斯州东部和路易斯安那州转移到佐治亚州。对能源行业的潜在影响：亚瑟的路径靠近墨西哥湾沿岸的炼油区，该区域从科珀斯克里斯蒂延伸至密西西比州帕斯卡古拉，拥有美国约1840万桶/日炼油产能的一半。包括主要石油炼油商和液化天然气出口商在内的沿海运营商一直在监测该风暴。咨询公司地球科学协会基于过去风暴的模型预测，由于风暴路径上的海上平台停产，可能损失约2万桶石油。地球科学协会首席运营官托尼·杜邦在回复问题的电子邮件中表示：“过去的部分损失是由于对人员和其他危险的高度谨慎造成的，这也是模型数据的一部分，尽管对于当前风暴，我们尚未看到这些行动，因此很可能处于预测的低端。”"
     },
     {
       "id": 4,
       "category": "military",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-24/Seven-European-countries-call-for-immediate-halt-to-Sudan-violence-1Oel7HqA968/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Seven European countries call for immediate halt to Sudan violence",
-      "titleCn": "七个欧洲国家呼吁立即停止苏丹暴力冲突",
-      "summary": "Seven European countries have called for an immediate cessation of violence in Sudan, warning of rapidly deteriorating security conditions in the city of El-Obeid, which has been encircled by the Rapid Support Forces (RSF).",
-      "summaryCn": "七个欧洲国家联合呼吁苏丹冲突双方立即停火，警告埃尔奥贝德市面临人道灾难和饥荒风险。",
-      "wordCount": 492,
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-25/Pew-survey-finds-global-trust-in-US-falls-sharply--1Og22ePax8I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Pew survey finds global trust in US falls sharply",
+      "titleCn": "皮尤调查发现全球对美国信任度大幅下降",
+      "summary": "Global confidence in the United States has declined significantly in recent years, with fewer people around the world viewing it as a reliable partner, according to a new Pew Research Center survey.",
+      "summaryCn": "皮尤研究中心调查显示，全球对美国作为可靠伙伴的信任度显著下降，尤其在长期盟友中，同时对特朗普处理国际事务的信心普遍低迷。",
+      "wordCount": 408,
       "paragraphs": [
         {
-          "en": "Seven European countries have called for an immediate {{0}} of violence in Sudan, warning of rapidly {{1}} security conditions in the city of El-Obeid, which has been {{2}} by the Rapid Support Forces (RSF). The RSF, which has been in conflict with the Sudanese Armed Forces (SAF) since April 2023, is reportedly preparing an {{3}} on the {{11}} city, raising fears of further {{4}}. The appeal was {{5}} in a joint statement released by the UK Foreign Office and signed by Britain, France, Germany, Ireland, Italy, the Netherlands and Norway, according to AFP. The countries expressed deep concern over the worsening situation and said credible {{6}} point to an {{7}} attack on El-Obeid. They described the moment as \"{{8}},\" urging {{9}} international action to protect civilians and prevent further deterioration of the conflict.",
-          "cn": "七个欧洲国家呼吁立即停止苏丹的暴力冲突，警告称被快速支援部队包围的埃尔奥贝德市安全状况迅速恶化。自2023年4月以来，快速支援部队与苏丹武装部队一直处于冲突状态，据报道该部队正准备对这座战略城市发动进攻，引发局势进一步升级的担忧。据法新社报道，这一呼吁是在英国外交部发布的一份联合声明中提出的，该声明由英国、法国、德国、爱尔兰、意大利、荷兰和挪威签署。这些国家对局势恶化表示深切担忧，并表示有可靠迹象表明埃尔奥贝德即将遭受袭击。他们称当前时刻“至关重要”，敦促国际社会紧急采取行动保护平民，防止冲突进一步恶化。"
+          "en": "Global {{0}} in the United States has {{1}} significantly in recent years, with fewer people around the world viewing it as a {{2}} partner, according to a new survey by the Pew Research Center. The survey found particularly {{3}} declines in countries that have long maintained close economic and security ties with Washington. In Canada, the share of people who described the United States as a reliable partner fell from 83% in 2022 to 35% in 2026. Similar declines were recorded in France, Germany and the United Kingdom, where the figures fell from 62% to 27%, 83% to 39%, and 82% to 49%, respectively. Australia, one of Washington's key Asia-Pacific {{4}}, also saw confidence fall sharply, from 79% in 2022 to 37% this year. The survey also revealed widespread {{5}} toward Trump.",
+          "cn": "根据皮尤研究中心的一项新调查，全球对美国的信心近年来显著下降，世界各地视其为可靠伙伴的人越来越少。调查发现，在与华盛顿长期保持密切经济和安全关系的国家中，下降幅度尤为剧烈。在加拿大，将美国描述为可靠伙伴的比例从2022年的83%降至2026年的35%。法国、德国和英国也出现了类似下降，比例分别从62%降至27%、83%降至39%和82%降至49%。澳大利亚作为华盛顿在亚太地区的关键盟友之一，信心也大幅下降，从2022年的79%降至今年的37%。调查还显示了对特朗普的普遍怀疑态度。"
         },
         {
-          "en": "The statement also called on the RSF to immediately {{10}} its military operations. The Sudanese city of El-Obeid is a strategic {{12}} in the southern Kordofan region. It has been encircled for months by the RSF. An UN official said on Tuesday that the city is only \"weeks\" away from a {{13}} disaster unless aid is urgently allowed in. Mohamed Refaat, Sudan chief of mission for the International Organization for Migration (IOM), said aid agencies, including the IOM, had {{14}} access in recent months but have now {{15}} missions as insecurity worsens along key routes.",
-          "cn": "该声明还呼吁快速支援部队立即停止军事行动。苏丹城市埃尔奥贝德是南科尔多凡地区的一个战略枢纽。数月来，该市一直被快速支援部队包围。一名联合国官员周二表示，除非紧急允许援助进入，否则该市距离人道主义灾难只有“几周”时间。国际移民组织苏丹特派团团长穆罕默德·里法特表示，包括国际移民组织在内的援助机构在过去几个月里只能间歇性进入，但由于主要路线安全状况恶化，现已暂停任务。"
+          "en": "Across the 36 countries surveyed, a {{6}} of just 23% of adults said they have confidence in his {{7}} of world affairs. Respondents gave Trump largely negative {{8}} on several major foreign policy issues, including {{9}}, the Gaza conflict, Iran, Greenland and the Russia-Ukraine conflict. Beyond perceptions of Trump, the survey pointed to a broader {{10}} in America's global image. A median of 35% of respondents said the United States {{11}} to peace and {{12}} around the world, down significantly from 2023. Views of Washington's {{13}} to consider other countries' interests have also weakened. In Germany, for example, the share of people who said the United States takes other nations' interests into {{14}} dropped from 60% in 2023 to 23% in 2026.",
+          "cn": "在接受调查的36个国家中，中位数仅有23%的成年人表示对特朗普处理国际事务有信心。受访者在多个主要外交政策问题上对特朗普给出了大体负面的评价，包括关税、加沙冲突、伊朗、格陵兰岛以及俄乌冲突。除了对特朗普的看法，调查还指出美国全球形象出现更广泛的恶化。中位数35%的受访者表示美国为世界和平与稳定做出了贡献，这一比例较2023年显著下降。对华盛顿是否愿意考虑其他国家利益的看法也有所减弱。例如，在德国，认为美国会考虑其他国家利益的比例从2023年的60%降至2026年的23%。"
         },
         {
-          "en": "\"If the {{16}} is not lifted and if {{17}} access for humanitarian aid is not allowed, within weeks, or at most one or two months, we will reach the same {{18}} levels we saw in El-Fasher,\" Refaat said. El-Fasher is the Darfur city that fell to the RSF last October after an 18-month siege marked by {{19}} and {{20}}. The UN has warned of a {{21}} of RSF forces around El-Obeid, raising fears that a ground offensive could be imminent. It has also warned of an \"imminent risk of mass {{22}},\" urging the RSF to pull back. According to media reports, near-daily drone strikes in recent days have targeted fuel stations, the main power facility and trucks carrying food and fuel.",
-          "cn": "里法特说：“如果围困不解除，如果不允许无条件的人道主义援助进入，几周内，或最多一两个月内，我们将看到与法希尔市同样的悲惨局面。”法希尔是达尔富尔地区的一座城市，在经历了18个月以饥饿和轰炸为特征的围困后，于去年10月落入快速支援部队之手。联合国警告称，快速支援部队在埃尔奥贝德周围集结兵力，引发了对地面进攻可能迫在眉睫的担忧。联合国还警告存在“大规模暴行的迫在眉睫的风险”，并敦促快速支援部队撤退。据媒体报道，近日几乎每天都有无人机袭击，目标包括加油站、主要电力设施以及运载食品和燃料的卡车。"
+          "en": "Similarly, in Canada, Australia and the United Kingdom, the figures declined from 37%, 40% and 49% to 18%, 13% and 26%, respectively. The survey further found declining belief in America's {{15}} to individual {{16}}. The {{17}} of respondents who said the United States respects personal {{18}} has reached its lowest level in several countries surveyed by Pew over the years, including Australia, Canada and Greece. From 2021 to 2026, that figure fell from 57% to 33% in Australia, from 60% to 34% in Canada and from 53% to 36% in Greece. Overall {{19}} views of the United States also declined in many countries over the past year, including {{20}} drops in Indonesia, Italy, Nigeria, South Africa, South Korea and Türkiye. Some of the least favorable views came from {{21}} {{22}} populations, including Malaysia, Pakistan and {{23}} in the West Bank and East Jerusalem.",
+          "cn": "同样，在加拿大、澳大利亚和英国，这一比例分别从37%、40%和49%降至18%、13%和26%。调查还发现，对美国致力于个人自由的信念有所下降。表示美国尊重个人自由的受访者比例在皮尤多年来调查的多个国家中达到了最低水平，包括澳大利亚、加拿大和希腊。从2021年到2026年，这一比例在澳大利亚从57%降至33%，在加拿大从60%降至34%，在希腊从53%降至36%。过去一年中，许多国家对美国的总体好感度也有所下降，包括印度尼西亚、意大利、尼日利亚、南非、韩国和土耳其，降幅达两位数。一些最不友好的看法来自以穆斯林为主的人群，包括马来西亚、巴基斯坦以及约旦河西岸和东耶路撒冷的巴勒斯坦人。"
         },
         {
-          "en": "The SAF has sought to {{23}} off the advance, with a government source said that it had destroyed significant RSF equipment en route. But the fighting has done little to ease conditions for civilians. Living conditions are deteriorating rapidly, Refaat said, with food prices {{25}}, water becoming increasingly {{26}} and medical supplies {{27}}. A 10-liter jerrycan of water now costs about 15,000 Sudanese pounds ($20), Refaat said, while food prices have risen by between 60% and 300% over the past two months, depending on the commodity. If assistance is not allowed soon, Refaat warned, \"this could lead to {{28}} due to the siege.\"\nFamine has already been declared in El-Fasher and in Kadugli, the capital of South Kordofan, with 20 additional areas at risk, according to the UN.",
-          "cn": "苏丹武装部队试图抵御进攻，一位政府消息人士称，该部队在途中摧毁了快速支援部队的大量装备。但战斗对改善平民处境几乎没有帮助。里法特说，生活条件正在迅速恶化，食品价格飙升，水变得越来越难以负担，医疗用品日益减少。里法特说，一个10升的塑料水罐现在售价约为15000苏丹镑（20美元），而过去两个月食品价格上涨了60%到300%，具体取决于商品种类。里法特警告说，如果不尽快允许援助进入，“围困可能导致饥荒”。据联合国称，法希尔和南科尔多凡首府卡杜格利已宣布出现饥荒，另有20个地区面临风险。"
-        },
-        {
-          "en": "Since El-Fasher's fall, fighting has intensified across Kordofan, forcing more than 130,000 people to flee.",
-          "cn": "自法希尔沦陷以来，科尔多凡地区的战斗愈演愈烈，迫使超过13万人逃离家园。"
+          "en": "Israel recorded the highest level of {{24}} among the countries surveyed.",
+          "cn": "在接受调查的国家中，以色列的支持率最高。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "cessation",
-          "hint": "n. 停止，终止",
+          "answer": "confidence",
+          "hint": "n. 信心",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "deteriorating",
-          "hint": "adj. 恶化的",
+          "answer": "declined",
+          "hint": "v. 下降",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "encircled",
-          "hint": "v. 包围",
+          "answer": "reliable",
+          "hint": "adj. 可靠的",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "offensive",
-          "hint": "n. 进攻",
-          "difficulty": "medium"
+          "answer": "steep",
+          "hint": "adj. 急剧的",
+          "difficulty": "hard"
         },
         {
           "id": 4,
-          "answer": "escalation",
-          "hint": "n. 升级",
+          "answer": "allies",
+          "hint": "n. 盟友",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "issued",
-          "hint": "v. 发布",
-          "difficulty": "easy"
+          "answer": "skepticism",
+          "hint": "n. 怀疑态度",
+          "difficulty": "hard"
         },
         {
           "id": 6,
-          "answer": "indications",
-          "hint": "n. 迹象",
-          "difficulty": "medium"
+          "answer": "median",
+          "hint": "n. 中位数",
+          "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "imminent",
-          "hint": "adj. 迫在眉睫的",
+          "answer": "handling",
+          "hint": "n. 处理",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "critical",
-          "hint": "adj. 关键的",
-          "difficulty": "easy"
+          "answer": "ratings",
+          "hint": "n. 评价",
+          "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "urgent",
-          "hint": "adj. 紧急的",
-          "difficulty": "easy"
+          "answer": "tariffs",
+          "hint": "n. 关税",
+          "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "halt",
-          "hint": "v. 停止",
-          "difficulty": "easy"
+          "answer": "deterioration",
+          "hint": "n. 恶化",
+          "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "strategic",
-          "hint": "adj. 战略的",
+          "answer": "contributes",
+          "hint": "v. 贡献",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "hub",
-          "hint": "n. 中心",
+          "answer": "stability",
+          "hint": "n. 稳定",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "humanitarian",
-          "hint": "adj. 人道主义的",
+          "answer": "willingness",
+          "hint": "n. 意愿",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "intermittent",
-          "hint": "adj. 间歇的",
+          "answer": "account",
+          "hint": "n. 考虑",
           "difficulty": "hard"
         },
         {
           "id": 15,
-          "answer": "suspended",
-          "hint": "v. 暂停",
+          "answer": "commitment",
+          "hint": "n. 承诺",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "siege",
-          "hint": "n. 围困",
+          "answer": "freedoms",
+          "hint": "n. 自由",
           "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "unconditional",
-          "hint": "adj. 无条件的",
+          "answer": "proportion",
+          "hint": "n. 比例",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "tragic",
-          "hint": "adj. 悲惨的",
-          "difficulty": "easy"
+          "answer": "liberty",
+          "hint": "n. 自由",
+          "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "starvation",
-          "hint": "n. 饥饿",
+          "answer": "favorable",
+          "hint": "adj. 有利的",
           "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "bombardment",
-          "hint": "n. 轰炸",
+          "answer": "double-digit",
+          "hint": "adj. 两位数的",
           "difficulty": "hard"
         },
         {
           "id": 21,
-          "answer": "buildup",
-          "hint": "n. 集结",
-          "difficulty": "medium"
+          "answer": "predominantly",
+          "hint": "adv. 主要地",
+          "difficulty": "hard"
         },
         {
           "id": 22,
-          "answer": "atrocities",
-          "hint": "n. 暴行",
-          "difficulty": "hard"
+          "answer": "Muslim",
+          "hint": "adj. 穆斯林的",
+          "difficulty": "easy"
         },
         {
           "id": 23,
-          "answer": "fend",
-          "hint": "v. 抵挡",
-          "difficulty": "hard"
+          "answer": "Palestinians",
+          "hint": "n. 巴勒斯坦人",
+          "difficulty": "medium"
         },
         {
           "id": 24,
-          "answer": "soaring",
-          "hint": "adj. 飙升的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "unaffordable",
-          "hint": "adj. 负担不起的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "dwindling",
-          "hint": "adj. 减少的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 27,
-          "answer": "famine",
-          "hint": "n. 饥荒",
-          "difficulty": "medium"
+          "answer": "support",
+          "hint": "n. 支持",
+          "difficulty": "easy"
         }
       ],
-      "fullText": "Seven European countries have called for an immediate cessation of violence in Sudan, warning of rapidly deteriorating security conditions in the city of El-Obeid, which has been encircled by the Rapid Support Forces (RSF).\nThe RSF, which has been in conflict with the Sudanese Armed Forces (SAF) since April 2023, is reportedly preparing an offensive on the strategic city, raising fears of further escalation.\nThe appeal was issued in a joint statement released by the UK Foreign Office and signed by Britain, France, Germany, Ireland, Italy, the Netherlands and Norway, according to AFP.\nThe countries expressed deep concern over the worsening situation and said credible indications point to an imminent attack on El-Obeid. They described the moment as \"critical,\" urging urgent international action to protect civilians and prevent further deterioration of the conflict.\nThe statement also called on the RSF to immediately halt its military operations.\nThe Sudanese city of El-Obeid is a strategic hub in the southern Kordofan region. It has been encircled for months by the RSF. An UN official said on Tuesday that the city is only \"weeks\" away from a humanitarian disaster unless aid is urgently allowed in.\nMohamed Refaat, Sudan chief of mission for the International Organization for Migration (IOM), said aid agencies, including the IOM, had intermittent access in recent months but have now suspended missions as insecurity worsens along key routes.\n\"If the siege is not lifted and if unconditional access for humanitarian aid is not allowed, within weeks, or at most one or two months, we will reach the same tragic levels we saw in El-Fasher,\" Refaat said. El-Fasher is the Darfur city that fell to the RSF last October after an 18-month siege marked by starvation and bombardment.\nThe UN has warned of a buildup of RSF forces around El-Obeid, raising fears that a ground offensive could be imminent. It has also warned of an \"imminent risk of mass atrocities,\" urging the RSF to pull back.\nAccording to media reports, near-daily drone strikes in recent days have targeted fuel stations, the main power facility and trucks carrying food and fuel.\nThe SAF has sought to fend off the advance, with a government source said that it had destroyed significant RSF equipment en route. But the fighting has done little to ease conditions for civilians.\nLiving conditions are deteriorating rapidly, Refaat said, with food prices soaring, water becoming increasingly unaffordable and medical supplies dwindling.\nA 10-liter jerrycan of water now costs about 15,000 Sudanese pounds ($20), Refaat said, while food prices have risen by between 60% and 300% over the past two months, depending on the commodity.\nIf assistance is not allowed soon, Refaat warned, \"this could lead to famine due to the siege.\"\nFamine has already been declared in El-Fasher and in Kadugli, the capital of South Kordofan, with 20 additional areas at risk, according to the UN. Since El-Fasher's fall, fighting has intensified across Kordofan, forcing more than 130,000 people to flee.",
-      "fullTextCn": "七个欧洲国家呼吁立即停止苏丹的暴力冲突，警告称被快速支援部队包围的埃尔奥贝德市安全状况迅速恶化。自2023年4月以来，快速支援部队与苏丹武装部队一直处于冲突状态，据报道该部队正准备对这座战略城市发动进攻，引发局势进一步升级的担忧。据法新社报道，这一呼吁是在英国外交部发布的一份联合声明中提出的，该声明由英国、法国、德国、爱尔兰、意大利、荷兰和挪威签署。这些国家对局势恶化表示深切担忧，并表示有可靠迹象表明埃尔奥贝德即将遭受袭击。他们称当前时刻“至关重要”，敦促国际社会紧急采取行动保护平民，防止冲突进一步恶化。\n\n该声明还呼吁快速支援部队立即停止军事行动。苏丹城市埃尔奥贝德是南科尔多凡地区的一个战略枢纽。数月来，该市一直被快速支援部队包围。一名联合国官员周二表示，除非紧急允许援助进入，否则该市距离人道主义灾难只有“几周”时间。国际移民组织苏丹特派团团长穆罕默德·里法特表示，包括国际移民组织在内的援助机构在过去几个月里只能间歇性进入，但由于主要路线安全状况恶化，现已暂停任务。\n\n里法特说：“如果围困不解除，如果不允许无条件的人道主义援助进入，几周内，或最多一两个月内，我们将看到与法希尔市同样的悲惨局面。”法希尔是达尔富尔地区的一座城市，在经历了18个月以饥饿和轰炸为特征的围困后，于去年10月落入快速支援部队之手。联合国警告称，快速支援部队在埃尔奥贝德周围集结兵力，引发了对地面进攻可能迫在眉睫的担忧。联合国还警告存在“大规模暴行的迫在眉睫的风险”，并敦促快速支援部队撤退。据媒体报道，近日几乎每天都有无人机袭击，目标包括加油站、主要电力设施以及运载食品和燃料的卡车。\n\n苏丹武装部队试图抵御进攻，一位政府消息人士称，该部队在途中摧毁了快速支援部队的大量装备。但战斗对改善平民处境几乎没有帮助。里法特说，生活条件正在迅速恶化，食品价格飙升，水变得越来越难以负担，医疗用品日益减少。里法特说，一个10升的塑料水罐现在售价约为15000苏丹镑（20美元），而过去两个月食品价格上涨了60%到300%，具体取决于商品种类。里法特警告说，如果不尽快允许援助进入，“围困可能导致饥荒”。据联合国称，法希尔和南科尔多凡首府卡杜格利已宣布出现饥荒，另有20个地区面临风险。\n\n自法希尔沦陷以来，科尔多凡地区的战斗愈演愈烈，迫使超过13万人逃离家园。"
+      "fullText": "Global confidence in the United States has declined significantly in recent years, with fewer people around the world viewing it as a reliable partner, according to a new survey by the Pew Research Center.\nThe survey found particularly steep declines in countries that have long maintained close economic and security ties with Washington. In Canada, the share of people who described the United States as a reliable partner fell from 83% in 2022 to 35% in 2026. Similar declines were recorded in France, Germany and the United Kingdom, where the figures fell from 62% to 27%, 83% to 39%, and 82% to 49%, respectively.\nAustralia, one of Washington's key Asia-Pacific allies, also saw confidence fall sharply, from 79% in 2022 to 37% this year.\nThe survey also revealed widespread skepticism toward Trump. Across the 36 countries surveyed, a median of just 23% of adults said they have confidence in his handling of world affairs.\nRespondents gave Trump largely negative ratings on several major foreign policy issues, including tariffs, the Gaza conflict, Iran, Greenland and the Russia-Ukraine conflict.\nBeyond perceptions of Trump, the survey pointed to a broader deterioration in America's global image.\nA median of 35% of respondents said the United States contributes to peace and stability around the world, down significantly from 2023.\nViews of Washington's willingness to consider other countries' interests have also weakened. In Germany, for example, the share of people who said the United States takes other nations' interests into account dropped from 60% in 2023 to 23% in 2026.\nSimilarly, in Canada, Australia and the United Kingdom, the figures declined from 37%, 40% and 49% to 18%, 13% and 26%, respectively.\nThe survey further found declining belief in America's commitment to individual freedoms. The proportion of respondents who said the United States respects personal liberty has reached its lowest level in several countries surveyed by Pew over the years, including Australia, Canada and Greece.\nFrom 2021 to 2026, that figure fell from 57% to 33% in Australia, from 60% to 34% in Canada and from 53% to 36% in Greece.\nOverall favorable views of the United States also declined in many countries over the past year, including double-digit drops in Indonesia, Italy, Nigeria, South Africa, South Korea and Türkiye.\nSome of the least favorable views came from predominantly Muslim populations, including Malaysia, Pakistan and Palestinians in the West Bank and East Jerusalem. Israel recorded the highest level of support among the countries surveyed.",
+      "fullTextCn": "根据皮尤研究中心的一项新调查，全球对美国的信心近年来显著下降，世界各地视其为可靠伙伴的人越来越少。调查发现，在与华盛顿长期保持密切经济和安全关系的国家中，下降幅度尤为剧烈。在加拿大，将美国描述为可靠伙伴的比例从2022年的83%降至2026年的35%。法国、德国和英国也出现了类似下降，比例分别从62%降至27%、83%降至39%和82%降至49%。澳大利亚作为华盛顿在亚太地区的关键盟友之一，信心也大幅下降，从2022年的79%降至今年的37%。调查还显示了对特朗普的普遍怀疑态度。\n\n在接受调查的36个国家中，中位数仅有23%的成年人表示对特朗普处理国际事务有信心。受访者在多个主要外交政策问题上对特朗普给出了大体负面的评价，包括关税、加沙冲突、伊朗、格陵兰岛以及俄乌冲突。除了对特朗普的看法，调查还指出美国全球形象出现更广泛的恶化。中位数35%的受访者表示美国为世界和平与稳定做出了贡献，这一比例较2023年显著下降。对华盛顿是否愿意考虑其他国家利益的看法也有所减弱。例如，在德国，认为美国会考虑其他国家利益的比例从2023年的60%降至2026年的23%。\n\n同样，在加拿大、澳大利亚和英国，这一比例分别从37%、40%和49%降至18%、13%和26%。调查还发现，对美国致力于个人自由的信念有所下降。表示美国尊重个人自由的受访者比例在皮尤多年来调查的多个国家中达到了最低水平，包括澳大利亚、加拿大和希腊。从2021年到2026年，这一比例在澳大利亚从57%降至33%，在加拿大从60%降至34%，在希腊从53%降至36%。过去一年中，许多国家对美国的总体好感度也有所下降，包括印度尼西亚、意大利、尼日利亚、南非、韩国和土耳其，降幅达两位数。一些最不友好的看法来自以穆斯林为主的人群，包括马来西亚、巴基斯坦以及约旦河西岸和东耶路撒冷的巴勒斯坦人。\n\n在接受调查的国家中，以色列的支持率最高。"
     },
     {
       "id": 5,
-      "category": "society",
+      "category": "education",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-21/Japanese-scholars-urge-return-of-Chinese-relics-looted-during-wartime-1O9Gqt5wWty/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Japanese scholars urge return of Chinese relics looted during wartime",
-      "titleCn": "日本学者敦促归还战时掠夺的中国文物",
-      "summary": "A group of Japanese scholars and civic activists has called on the government to confront its history of aggression and return Chinese cultural relics that were taken to Japan during wartime.",
-      "summaryCn": "日本学者和公民团体呼吁政府正视侵略历史，归还战时掠夺的中国文物，但日本政府尚未积极回应。",
-      "wordCount": 414,
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-19/Science-cover-study-suggests-vertebrate-ancestors-had-complex-brains-1O6MEoQ4IxO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Science cover study suggests vertebrate ancestors had complex brains",
+      "titleCn": "《科学》封面研究揭示脊椎动物祖先拥有复杂大脑",
+      "summary": "Science cover study suggests vertebrate ancestors had complex brains",
+      "summaryCn": "一项由中国主导的研究发现，脊椎动物的共同祖先在5亿年前可能已经拥有高度区域化和复杂的脑结构。",
+      "wordCount": 375,
       "paragraphs": [
         {
-          "en": "A group of Japanese scholars and civic activists has called on the government to {{0}} its history of {{1}} and return Chinese cultural {{2}} that were taken to Japan during wartime. The appeal was made at a {{3}} held on Saturday in Tokyo by the Association for Promoting the Return of Chinese Cultural Relics, a civic organization advocating for the {{4}} of Chinese {{6}} and historical {{5}} between China and Japan. Members of the organization at the event noted that a large number of cultural relics brought to Japan during wartime remain in the country today. While the Japanese government has long maintained that the origins of many of these artifacts are unclear, they argued that numerous items display distinct Chinese artistic {{7}} and that questions remain over whether they entered Japan through {{8}} channels, given the {{9}} of Japan's wars and overseas aggression. The organization said it is currently {{10}} the Japanese government to return several artifacts taken from China during wartime, including the Tang Dynasty Honglujing Stele. Tsuguo Toukairin, vice chairman of the Tokyo Association of History Educators, told Xinhua that a number of European countries have in recent years advanced the return of cultural artifacts as part of efforts to {{11}} on their histories of {{12}} and aggression, while similar {{13}} has yet to take root in Japan.",
-          "cn": "一群日本学者和公民活动家呼吁政府正视其侵略历史，归还战时被带到日本的中国文物。这一呼吁是在周六于东京举行的研讨会上提出的，该研讨会由促进中国文物归还协会组织，这是一个倡导归还中国文物和实现中日历史和解的公民组织。该组织成员在活动中指出，战时被带到日本的大量文物至今仍留在该国。尽管日本政府长期以来声称许多文物的来源不明，但他们认为，许多物品展现出鲜明的中国艺术特征，并且鉴于日本战争和海外侵略的背景，这些文物是否通过合法渠道进入日本仍存疑问。该组织表示，目前正在敦促日本政府归还战时从中国掠夺的几件文物，包括唐代鸿胪井碑。东京历史教育协会副主席东海林次男对新华社表示，近年来一些欧洲国家已推进归还文物，作为反思殖民主义和侵略历史的一部分，而日本尚未形成类似意识。"
+          "en": "A Chinese-led study {{0}} on the cover of Science {{1}} that one important {{2}} may lie in the brain of a lamprey, an ancient jawless fish often described as a living fossil. The research found that the common {{3}} of vertebrates may already have {{4}} a surprisingly {{5}} brain around 500 million years ago. The study was {{6}} by researchers from BGI Research, the Kunming Institute of Zoology under the Chinese Academy of Sciences, and Liaoning Normal University. The Far Eastern brook lamprey (Lethenteron reissneri) on the June 18, 2026, cover of Science. The cover highlights research on vertebrate brain evolution.",
+          "cn": "一项由中国主导的研究登上了《科学》杂志封面，该研究表明，一个重要的线索可能隐藏在七鳃鳗（一种常被描述为活化石的古老无颌鱼）的大脑中。研究发现，脊椎动物的共同祖先可能早在5亿年前就已经拥有一个令人惊讶的复杂大脑。这项研究由华大研究院、中国科学院昆明动物研究所和辽宁师范大学的研究人员共同完成。远东溪七鳃鳗（Lethenteron reissneri）出现在2026年6月18日的《科学》杂志封面上。该封面突出了关于脊椎动物大脑进化的研究。"
         },
         {
-          "en": "\"Japan should face history {{14}}, {{15}} the mistakes it made in the past, and promote the return of cultural relics based on reflection on those mistakes,\" he said. Akira Igarashi, a co-representative of the organization, said the issue is not simply whether a particular artifact should be returned, but whether Japan is willing to {{16}} its modern history. \"In a sense, these relics are {{17}} {{18}} of the past,\" Igarashi told Xinhua. \"Continuing to {{19}} them brings no benefit to Japan. The key question is how deeply Japanese society recognizes this.\"\nThe Honglujing Stele, {{20}} in AD 714 during the Tang Dynasty, is regarded as important historical {{21}} that the Tang central government {{22}} {{23}} over the northeastern region of China through the formal appointment of leaders of the Mohe ethnic group. Before the end of April 1908, the Japanese garrison administration in Lyushun {{24}} and transported the stele, along with a pavilion built in 1896 to protect it, and shipped them to Japan.",
-          "cn": "“日本应该正视历史，承认过去犯下的错误，并在反思这些错误的基础上推动文物归还，”他说。该组织共同代表五十岚彰表示，问题不仅仅在于某件特定文物是否应归还，而在于日本是否愿意重新审视其近代史。“从某种意义上说，这些文物是令人不安的历史提醒，”五十岚彰对新华社说。“继续持有它们对日本没有任何好处。关键问题是日本社会在多大程度上认识到这一点。”鸿胪井碑刻于公元714年唐代，被视为重要历史证据，表明唐朝中央政府通过正式任命靺鞨族首领对东北地区行使管辖权。1908年4月底前，日本旅顺守备司令部拆除了该碑及1896年为其建造的保护亭，并将其运往日本。"
+          "en": "/ Science\nThe study focused on the Far Eastern brook lamprey (Lethenteron reissneri), a species whose ancestors {{7}} from those of modern fish, birds, mammals and humans hundreds of millions of years ago. Because its basic body plan has changed relatively little since then, scientists {{8}} it as one of the best living models for studying the {{9}} of vertebrate brains. Using spatial {{10}} and single-nucleus RNA sequencing, the team created the first three-dimensional single-cell atlas of a lamprey brain, {{11}} more than 460,000 cells across 14 major brain regions. A graphic from the study illustrates a three-dimensional transcriptomic atlas of the lamprey brain and key findings on vertebrate brain evolution. /Science\nThe researchers found that the vertebrate common ancestor already had a highly {{12}} brain, with distinct regions {{13}} for different functions.",
+          "cn": "该研究聚焦于远东溪七鳃鳗，其祖先在数亿年前就与现代鱼类、鸟类、哺乳动物和人类的祖先分化。由于它的基本身体结构自那时以来变化相对较小，科学家将其视为研究脊椎动物大脑起源的最佳活体模型之一。利用空间转录组学和单核RNA测序技术，研究团队创建了首个七鳃鳗大脑的三维单细胞图谱，分析了跨越14个主要脑区的超过46万个细胞。研究中的一张图表展示了七鳃鳗大脑的三维转录组图谱以及关于脊椎动物大脑进化的关键发现。研究人员发现，脊椎动物的共同祖先已经拥有一个高度区域化的大脑，不同区域专门负责不同的功能。"
         },
         {
-          "en": "For decades, concerned citizens and scholars in both China and Japan have called for the stele's return, but the Japanese government has yet to respond positively to those efforts.",
-          "cn": "几十年来，中日两国的关心此事的公民和学者一直呼吁归还该碑，但日本政府尚未对这些努力做出积极回应。"
+          "en": "Many of the basic brain structures seen in vertebrates today appear to have been {{14}} far earlier than previously understood. The findings {{15}} the idea that complex vertebrate brains gradually evolved from a simple ancestral nervous system. Instead, they suggest that much of the {{16}} for modern vertebrate brains was already in place half a billion years ago. By comparing lampreys with other vertebrates, the researchers also found evidence that brain evolution was {{17}} in part by increasing neuronal {{18}}. Early vertebrates appear to have {{19}} more heavily on broadly functioning nerve cells, while later vertebrate groups developed more specialized neurons with distinct roles.",
+          "cn": "如今脊椎动物中看到的许多基本脑结构似乎比之前认为的建立得更早。这些发现挑战了复杂脊椎动物大脑是从简单的祖先神经系统逐渐进化而来的观点。相反，它们表明，现代脊椎动物大脑的大部分蓝图在5亿年前就已经存在。通过将七鳃鳗与其他脊椎动物进行比较，研究人员还发现证据表明，大脑进化部分是由神经元特化程度的增加所驱动的。早期的脊椎动物似乎更依赖功能广泛的神经细胞，而较晚的脊椎动物群体则发展出具有不同角色的更特化的神经元。"
+        },
+        {
+          "en": "The findings provide new insight into how vertebrate brains became more {{20}} over time and offer a clearer picture of how the complex brains seen in modern animals – including humans – evolved from their ancient ancestors.",
+          "cn": "这些发现为脊椎动物大脑如何随时间变得更加多样化提供了新的见解，并更清晰地描绘了现代动物（包括人类）中看到的复杂大脑是如何从它们的古老祖先进化而来的。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "confront",
-          "hint": "v. 面对",
+          "answer": "featured",
+          "hint": "v. 以……为特色",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "aggression",
-          "hint": "n. 侵略",
-          "difficulty": "medium"
+          "answer": "suggests",
+          "hint": "v. 表明，暗示",
+          "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "relics",
-          "hint": "n. 文物",
-          "difficulty": "medium"
+          "answer": "clue",
+          "hint": "n. 线索",
+          "difficulty": "easy"
         },
         {
           "id": 3,
-          "answer": "symposium",
-          "hint": "n. 研讨会",
+          "answer": "ancestor",
+          "hint": "n. 祖先",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "repatriation",
-          "hint": "n. 归还",
-          "difficulty": "hard"
+          "answer": "possessed",
+          "hint": "v. 拥有",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "reconciliation",
-          "hint": "n. 和解",
-          "difficulty": "hard"
+          "answer": "complex",
+          "hint": "adj. 复杂的",
+          "difficulty": "easy"
         },
         {
           "id": 6,
-          "answer": "artifacts",
-          "hint": "n. 文物",
+          "answer": "conducted",
+          "hint": "v. 进行，实施",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "characteristics",
-          "hint": "n. 特征",
-          "difficulty": "medium"
+          "answer": "diverged",
+          "hint": "v. 分化，分歧",
+          "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "legitimate",
-          "hint": "adj. 合法的",
+          "answer": "regard",
+          "hint": "v. 视为，认为",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "context",
-          "hint": "n. 背景",
+          "answer": "origins",
+          "hint": "n. 起源",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "urging",
-          "hint": "v. 敦促",
-          "difficulty": "medium"
+          "answer": "transcriptomics",
+          "hint": "n. 转录组学",
+          "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "reflect",
-          "hint": "v. 反思",
+          "answer": "analyzing",
+          "hint": "v. 分析",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "colonialism",
-          "hint": "n. 殖民主义",
+          "answer": "regionalized",
+          "hint": "adj. 区域化的",
           "difficulty": "hard"
         },
         {
           "id": 13,
-          "answer": "awareness",
-          "hint": "n. 意识",
+          "answer": "specialized",
+          "hint": "adj. 专门的，特化的",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "squarely",
-          "hint": "adv. 直接地",
-          "difficulty": "hard"
+          "answer": "established",
+          "hint": "v. 建立",
+          "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "acknowledge",
-          "hint": "v. 承认",
+          "answer": "challenge",
+          "hint": "v. 挑战",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "reexamine",
-          "hint": "v. 重新审视",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "unsettling",
-          "hint": "adj. 令人不安的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "reminders",
-          "hint": "n. 提醒物",
+          "answer": "blueprint",
+          "hint": "n. 蓝图",
           "difficulty": "medium"
         },
         {
+          "id": 17,
+          "answer": "driven",
+          "hint": "v. 驱动",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "specialization",
+          "hint": "n. 特化，专门化",
+          "difficulty": "hard"
+        },
+        {
           "id": 19,
-          "answer": "possess",
-          "hint": "v. 持有",
+          "answer": "relied",
+          "hint": "v. 依赖",
           "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "erected",
-          "hint": "v. 竖立",
+          "answer": "diverse",
+          "hint": "adj. 多样的",
           "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "evidence",
-          "hint": "n. 证据",
-          "difficulty": "easy"
-        },
-        {
-          "id": 22,
-          "answer": "exercised",
-          "hint": "v. 行使",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "authority",
-          "hint": "n. 权威",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "dismantled",
-          "hint": "v. 拆除",
-          "difficulty": "hard"
         }
       ],
-      "fullText": "A group of Japanese scholars and civic activists has called on the government to confront its history of aggression and return Chinese cultural relics that were taken to Japan during wartime.\nThe appeal was made at a symposium held on Saturday in Tokyo by the Association for Promoting the Return of Chinese Cultural Relics, a civic organization advocating for the repatriation of Chinese artifacts and historical reconciliation between China and Japan.\nMembers of the organization at the event noted that a large number of cultural relics brought to Japan during wartime remain in the country today. While the Japanese government has long maintained that the origins of many of these artifacts are unclear, they argued that numerous items display distinct Chinese artistic characteristics and that questions remain over whether they entered Japan through legitimate channels, given the context of Japan's wars and overseas aggression.\nThe organization said it is currently urging the Japanese government to return several artifacts taken from China during wartime, including the Tang Dynasty Honglujing Stele.\nTsuguo Toukairin, vice chairman of the Tokyo Association of History Educators, told Xinhua that a number of European countries have in recent years advanced the return of cultural artifacts as part of efforts to reflect on their histories of colonialism and aggression, while similar awareness has yet to take root in Japan.\n\"Japan should face history squarely, acknowledge the mistakes it made in the past, and promote the return of cultural relics based on reflection on those mistakes,\" he said.\nAkira Igarashi, a co-representative of the organization, said the issue is not simply whether a particular artifact should be returned, but whether Japan is willing to reexamine its modern history.\n\"In a sense, these relics are unsettling reminders of the past,\" Igarashi told Xinhua. \"Continuing to possess them brings no benefit to Japan. The key question is how deeply Japanese society recognizes this.\"\nThe Honglujing Stele, erected in AD 714 during the Tang Dynasty, is regarded as important historical evidence that the Tang central government exercised authority over the northeastern region of China through the formal appointment of leaders of the Mohe ethnic group.\nBefore the end of April 1908, the Japanese garrison administration in Lyushun dismantled and transported the stele, along with a pavilion built in 1896 to protect it, and shipped them to Japan. For decades, concerned citizens and scholars in both China and Japan have called for the stele's return, but the Japanese government has yet to respond positively to those efforts.",
-      "fullTextCn": "一群日本学者和公民活动家呼吁政府正视其侵略历史，归还战时被带到日本的中国文物。这一呼吁是在周六于东京举行的研讨会上提出的，该研讨会由促进中国文物归还协会组织，这是一个倡导归还中国文物和实现中日历史和解的公民组织。该组织成员在活动中指出，战时被带到日本的大量文物至今仍留在该国。尽管日本政府长期以来声称许多文物的来源不明，但他们认为，许多物品展现出鲜明的中国艺术特征，并且鉴于日本战争和海外侵略的背景，这些文物是否通过合法渠道进入日本仍存疑问。该组织表示，目前正在敦促日本政府归还战时从中国掠夺的几件文物，包括唐代鸿胪井碑。东京历史教育协会副主席东海林次男对新华社表示，近年来一些欧洲国家已推进归还文物，作为反思殖民主义和侵略历史的一部分，而日本尚未形成类似意识。\n\n“日本应该正视历史，承认过去犯下的错误，并在反思这些错误的基础上推动文物归还，”他说。该组织共同代表五十岚彰表示，问题不仅仅在于某件特定文物是否应归还，而在于日本是否愿意重新审视其近代史。“从某种意义上说，这些文物是令人不安的历史提醒，”五十岚彰对新华社说。“继续持有它们对日本没有任何好处。关键问题是日本社会在多大程度上认识到这一点。”鸿胪井碑刻于公元714年唐代，被视为重要历史证据，表明唐朝中央政府通过正式任命靺鞨族首领对东北地区行使管辖权。1908年4月底前，日本旅顺守备司令部拆除了该碑及1896年为其建造的保护亭，并将其运往日本。\n\n几十年来，中日两国的关心此事的公民和学者一直呼吁归还该碑，但日本政府尚未对这些努力做出积极回应。"
+      "fullText": "A Chinese-led study featured on the cover of Science suggests that one important clue may lie in the brain of a lamprey, an ancient jawless fish often described as a living fossil. The research found that the common ancestor of vertebrates may already have possessed a surprisingly complex brain around 500 million years ago.\nThe study was conducted by researchers from BGI Research, the Kunming Institute of Zoology under the Chinese Academy of Sciences, and Liaoning Normal University.\nThe Far Eastern brook lamprey (Lethenteron reissneri) on the June 18, 2026, cover of Science. The cover highlights research on vertebrate brain evolution. / Science\nThe study focused on the Far Eastern brook lamprey (Lethenteron reissneri), a species whose ancestors diverged from those of modern fish, birds, mammals and humans hundreds of millions of years ago. Because its basic body plan has changed relatively little since then, scientists regard it as one of the best living models for studying the origins of vertebrate brains.\nUsing spatial transcriptomics and single-nucleus RNA sequencing, the team created the first three-dimensional single-cell atlas of a lamprey brain, analyzing more than 460,000 cells across 14 major brain regions.\nA graphic from the study illustrates a three-dimensional transcriptomic atlas of the lamprey brain and key findings on vertebrate brain evolution. /Science\nThe researchers found that the vertebrate common ancestor already had a highly regionalized brain, with distinct regions specialized for different functions. Many of the basic brain structures seen in vertebrates today appear to have been established far earlier than previously understood.\nThe findings challenge the idea that complex vertebrate brains gradually evolved from a simple ancestral nervous system. Instead, they suggest that much of the blueprint for modern vertebrate brains was already in place half a billion years ago.\nBy comparing lampreys with other vertebrates, the researchers also found evidence that brain evolution was driven in part by increasing neuronal specialization. Early vertebrates appear to have relied more heavily on broadly functioning nerve cells, while later vertebrate groups developed more specialized neurons with distinct roles.\nThe findings provide new insight into how vertebrate brains became more diverse over time and offer a clearer picture of how the complex brains seen in modern animals – including humans – evolved from their ancient ancestors.",
+      "fullTextCn": "一项由中国主导的研究登上了《科学》杂志封面，该研究表明，一个重要的线索可能隐藏在七鳃鳗（一种常被描述为活化石的古老无颌鱼）的大脑中。研究发现，脊椎动物的共同祖先可能早在5亿年前就已经拥有一个令人惊讶的复杂大脑。这项研究由华大研究院、中国科学院昆明动物研究所和辽宁师范大学的研究人员共同完成。远东溪七鳃鳗（Lethenteron reissneri）出现在2026年6月18日的《科学》杂志封面上。该封面突出了关于脊椎动物大脑进化的研究。\n\n该研究聚焦于远东溪七鳃鳗，其祖先在数亿年前就与现代鱼类、鸟类、哺乳动物和人类的祖先分化。由于它的基本身体结构自那时以来变化相对较小，科学家将其视为研究脊椎动物大脑起源的最佳活体模型之一。利用空间转录组学和单核RNA测序技术，研究团队创建了首个七鳃鳗大脑的三维单细胞图谱，分析了跨越14个主要脑区的超过46万个细胞。研究中的一张图表展示了七鳃鳗大脑的三维转录组图谱以及关于脊椎动物大脑进化的关键发现。研究人员发现，脊椎动物的共同祖先已经拥有一个高度区域化的大脑，不同区域专门负责不同的功能。\n\n如今脊椎动物中看到的许多基本脑结构似乎比之前认为的建立得更早。这些发现挑战了复杂脊椎动物大脑是从简单的祖先神经系统逐渐进化而来的观点。相反，它们表明，现代脊椎动物大脑的大部分蓝图在5亿年前就已经存在。通过将七鳃鳗与其他脊椎动物进行比较，研究人员还发现证据表明，大脑进化部分是由神经元特化程度的增加所驱动的。早期的脊椎动物似乎更依赖功能广泛的神经细胞，而较晚的脊椎动物群体则发展出具有不同角色的更特化的神经元。\n\n这些发现为脊椎动物大脑如何随时间变得更加多样化提供了新的见解，并更清晰地描绘了现代动物（包括人类）中看到的复杂大脑是如何从它们的古老祖先进化而来的。"
     }
   ]
 }
