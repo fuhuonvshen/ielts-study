@@ -1,247 +1,418 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "articles": [
     {
       "id": 1,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-23/How-intelligent-systems-keep-high-speed-rail-safe-precise-and-smooth-1OcYVMNTapO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "How intelligent systems keep high-speed rail safe, precise and smooth",
-      "titleCn": "智能系统如何确保高铁安全、精准与平稳运行",
-      "summary": "How intelligent systems keep high-speed rail safe, precise and smooth",
-      "summaryCn": "文章介绍了中国智能高铁系统通过先进列车控制技术实现精准停车、安全运行和舒适驾驶，并展望了未来铁路网络融合的发展。",
-      "wordCount": 840,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-06-27/detail-ihfftxzk2713780.shtml",
+      "title": "Insights | Responding to global energy crisis: China earns plaudits at 2026 Summer Davos Forum",
+      "titleCn": "洞察 | 应对全球能源危机：中国在2026夏季达沃斯论坛上赢得赞誉",
+      "summary": "(ECNS) -- The 2026 Summer Davos Forum was recently held in Dalian, Northeast China’s Liaoning Province, during which energy transition became a focal point of heated discussion among participants from various countries.",
+      "summaryCn": "2026夏季达沃斯论坛聚焦能源转型，中国凭借前瞻性政策和强大执行力在能源危机中表现突出，为发展中国家提供了宝贵经验。",
+      "wordCount": 765,
       "paragraphs": [
         {
-          "en": "On December 30, 2019, the Beijing-Zhangjiakou high-speed railway officially began {{1}}, becoming the world's first {{0}} high-speed railway running at 350 km/h with driver-attended automated driving. In parallel, intelligent driving in road transportation is also accelerating rapidly in China. According to Wang Shuiyin, vice president of the Research Institute of Highway under the Ministry of Transport, the country's {{2}} rate of intelligent driving passenger vehicles has {{3}} 68%, and the total length of open testing roads for autonomous driving has surpassed 28,000 kilometers. A Beijing-Zhangjiakou high-speed train passes through the Juyongguan section of the Great Wall, January 7, 2022. However, despite both belonging to intelligent driving, rail and road systems differ fundamentally in {{4}} and operating environments.",
-          "cn": "2019年12月30日，京张高铁正式开通运营，成为世界上首条时速350公里、有人值守自动驾驶的智能高铁。与此同时，道路运输中的智能驾驶在中国也在加速推进。据交通运输部公路科学研究院副院长王水印介绍，我国智能驾驶乘用车渗透率已超过68%，自动驾驶开放测试道路总里程已超过2.8万公里。2022年1月7日，一列京张高铁列车驶过长城居庸关段。然而，尽管同属智能驾驶，铁路和道路系统在复杂性和运行环境上存在根本差异。"
+          "en": "(ECNS) -- The 2026 Summer Davos Forum was recently held in Dalian, Northeast China’s Liaoning Province, during which energy {{0}} became a focal point of heated discussion among participants from various countries. How can developing countries find energy development paths that suit their own conditions? What lessons can China's energy transition offer? Multiple attendees engaged in in-depth discussions on these issues. Roberto Bocca, a member of the Executive Committee of the World Economic Forum, pointed out that although energy systems in many countries are undergoing profound transitions, and the {{1}}, security, and {{2}} of global energy are steadily improving, the {{3}} to energy transition have always differed from country to country.",
+          "cn": "（中国新闻网）——2026夏季达沃斯论坛近日在中国东北辽宁省大连市举行，期间能源转型成为各国与会者热烈讨论的焦点。发展中国家如何找到适合自身国情的能源发展道路？中国的能源转型能提供哪些经验？多位与会者就这些问题进行了深入探讨。世界经济论坛执行委员会成员罗伯托·博卡指出，尽管许多国家的能源系统正在经历深刻转型，全球能源的可持续性、安全性和可负担性正在稳步提升，但能源转型的路径始终因国而异。"
         },
         {
-          "en": "\"The gap between automotive and rail {{5}} is significant,\" Wang Xiaoliang, vice president and chief engineer of Beijing Hollysys Co., Ltd. under the Hollysys Group, told CGTN. \"One of the core challenges is {{6}} stopping,\" Wang said. \"Due to environmental variations, parameter {{7}} and massive real-time data {{8}} requirement, achieving this in high-speed rail is extremely difficult.\"\nA Fuxing Electric Multiple Unit (EMU) runs along the Beijing-Shanghai high-speed railway, Changzhou, Jiangsu Province, January 15, 2025. Unlike road vehicles, high-speed trains operate under tightly controlled conditions at extreme speeds, where even minor deviations can have amplified {{9}}.",
-          "cn": "“汽车与铁路自动化的差距是显著的，”和利时集团旗下北京和利时系统工程有限公司副总裁兼总工程师汪小亮告诉CGTN。“核心挑战之一是精准停车，”汪小亮说。“由于环境变化、参数偏差以及海量实时数据传输需求，在高铁中实现这一点极其困难。”2025年1月15日，一列复兴号动车组行驶在江苏省常州市的京沪高铁线上。与道路车辆不同，高铁列车在极端速度下、受严格控制的条件中运行，即使是微小的偏差也可能产生放大的后果。"
+          "en": "\"Every country will choose its own pathway based on their environment resources, on their opportunity and so on. But now we see stronger choices in one direction and there are some countries that decide to go more on the traditional solution, some that really go on electrification and renewables. We have seen this {{4}} happening more and more.\"\nIn Bocca's view, the divergence in energy development pathways has become a notable feature of the current global energy transition. Against this backdrop, the direction of each country's efforts in the next phase should become a key focus of attention for all parties. In response, Gavin McKenzie, managing director at Accenture, said that the next phase of the global energy transition should shift its focus from merely adding more {{21}} to building a more {{5}}, reliable, and {{6}} energy system.",
+          "cn": "“每个国家都会根据其环境资源、机遇等选择自己的道路。但现在我们看到，朝着一个方向的选择更加强烈，有些国家决定更多地采用传统解决方案，有些则真正走向电气化和可再生能源。我们看到这种分歧越来越明显。”在博卡看来，能源发展路径的分歧已成为当前全球能源转型的一个显著特征。在此背景下，各国下一阶段努力的方向应成为各方关注的焦点。对此，埃森哲董事总经理加文·麦肯齐表示，全球能源转型的下一阶段应将重点从单纯增加产能转向构建更具韧性、更可靠、更值得投资的能源系统。"
         },
         {
-          "en": "Wang explained that the Beijing-Zhangjiakou high-speed railway is {{10}} with the Chinese Train Control System Level 3 (CTCS-3), along with three Radio Block Centers (RBCs) and multiple Automatic Train Protection (ATP) systems provided by Hollysys, enabling precise and safe operation. RBC and ATP are core safety equipment of high-speed rail train control system, which {{11}} communicate with onboard and offboard equipment, enabling real-time information exchange between train and ground. They function like a \"central nervous system\" for safe and {{12}} train operation. Ensuring both {{13}} and safety\nForeign representatives attending the 12th World Congress on High-Speed Rail travel on the Beijing–Zhangjiakou high-speed railway from Beijing North Railway Station to Taizicheng, a venue for the Beijing 2022 Winter Olympics, July 11, 2025. \"Behind the punctuality of high-speed rail is truly the train control system,\" He Chunming, vice president of Hollysys Group, told CGTN.",
-          "cn": "汪小亮解释说，京张高铁配备了CTCS-3级中国列车运行控制系统，以及和利时提供的三个无线闭塞中心（RBC）和多个自动列车防护（ATP）系统，实现了精准安全运行。RBC和ATP是高铁列车控制系统的核心安全设备，它们持续与车载和地面设备通信，实现车地之间的实时信息交换。它们就像一个“中枢神经系统”，确保列车安全协调运行。确保准点与安全。2025年7月11日，参加第十二届世界高速铁路大会的外国代表乘坐京张高铁从北京北站前往北京2022年冬奥会举办地太子城。“高铁准点运行的背后实际上是列车控制系统，”和利时集团副总裁何春明告诉CGTN。"
+          "en": "This shift, in turn, would help inject strong confidence into the global economy's continued investment in energy transition. As the direction of the transition becomes increasingly clear, investment opportunities and areas of focus for different countries have come into the spotlight. McKenzie suggested that, in the face of rapidly growing industrial demand driven by electrification in developing countries, ongoing industrialization and urbanization in some parts of the world, and the enormous energy consumption from digital {{8}} and artificial intelligence, the new opportunities for energy transition in developing countries mainly center on three {{7}}, namely investing in advanced energy storage solutions, building small-scale energy systems and grid infrastructure, and developing flexible power systems. Since the beginning of 2026, the U.S.-Iran {{9}} had a profound impact on the global energy {{10}}. Global oil supply once fell by about 15%.",
+          "cn": "这种转变反过来将有助于为全球经济持续投资能源转型注入强大信心。随着转型方向日益清晰，不同国家的投资机会和重点领域成为焦点。麦肯齐建议，面对发展中国家电气化带来的快速增长工业需求、世界部分地区持续的工业化和城市化，以及数字基础设施和人工智能带来的巨大能源消耗，发展中国家能源转型的新机遇主要集中在三大支柱上，即投资先进储能解决方案、建设小型能源系统和电网基础设施，以及发展灵活电力系统。自2026年初以来，美伊紧张局势对全球能源格局产生了深远影响。全球石油供应一度下降约15%。"
         },
         {
-          "en": "The system consists of both onboard and ground-based equipment, responsible for managing train {{14}} and speed. As train speeds increase, manual control by drivers becomes increasingly difficult. \"Braking distance is directly related to speed,\" said He. \"When a high-speed train is running at 350 km/h, the {{15}} distance needs to be about 20 kilometers.\"\nTo ensure safety, the system must continuously calculate safe operating speeds based on information far ahead of the train. \"To determine a safe speed, we need to obtain all data within about 20 kilometers ahead.",
-          "cn": "该系统由车载和地面设备组成，负责管理列车间距和速度。随着列车速度的提高，司机的手动控制变得越来越困难。“制动距离与速度直接相关，”何春明说。“当高铁以350公里/小时运行时，制动距离需要大约20公里。”为确保安全，系统必须根据列车前方远距离的信息持续计算安全运行速度。“要确定安全速度，我们需要获取前方约20公里范围内的所有数据。"
+          "en": "The {{11}} of the Strait of Hormuz cut off approximately 20% of global oil and liquefied natural gas flows, sending international oil prices {{12}} to as high as 120 U.S. dollars per barrel. Faced with the {{13}} effects of reduced fossil fuel production and high prices, From the observation of Kelly Sims Gallagher, a U.S.-China climate policy expert and dean of the Fletcher School at Tufts University in the U.S., China has not been {{14}} impacted by this round of global energy crisis. In her assessment, this can be {{15}} to the {{16}} measures it has taken across various sectors in recent years. She noted that in recent years, while building large strategic petroleum {{17}} and commercial {{18}}, China has been {{19}} developing renewable energy and electric vehicles.",
+          "cn": "霍尔木兹海峡的关闭切断了全球约20%的石油和液化天然气运输，导致国际油价飙升至每桶120美元。面对化石燃料产量减少和高价格的连锁反应，美国气候政策专家、塔夫茨大学弗莱彻学院院长凯莉·西姆斯·加拉格尔观察到，中国并未受到本轮全球能源危机的严重冲击。她评估认为，这归功于中国近年来在各领域采取的前瞻性措施。她指出，近年来，中国在建设大型战略石油储备和商业库存的同时，大力发展可再生能源和电动汽车。"
         },
         {
-          "en": "Now, data from up to 32 kilometers ahead is already available.\" said He. \"Only with this level of information can the system calculate safe speed for each segment.\"\nSpeed control is not only about distance. Conditions such as {{16}}, curves, and switches will all have an impact. \"For example, an uphill or downhill slope will have significantly different effects on deceleration,\" said He, \"and if a train enters a curve or switch at excessive speed, it could {{17}}. \"Therefore, all information within 20 or 30 kilometers ahead must be {{18}} to generate a unified safe speed.\"\nHigh-speed rail systems are built on very strict safety principles.",
-          "cn": "“现在，前方32公里范围内的数据已经可用。”何春明说。“只有拥有这种级别的信息，系统才能为每个路段计算出安全速度。”速度控制不仅关乎距离。坡度、弯道和道岔等条件都会产生影响。“例如，上坡或下坡对减速的影响显著不同，”何春明说，“如果列车以过高速度进入弯道或道岔，可能会脱轨。”因此，前方20或30公里范围内的所有信息必须整合起来，生成一个统一的安全速度。高铁系统建立在非常严格的安全原则之上。"
+          "en": "Having {{20}} the current energy crisis, China has demonstrated its strong capacity to withstand shocks and ensure energy security. \"China has done surprisingly well,\" commended Gallagher. Reflections on the {{23}} on traditional energy have opened up new directions for thinking about energy transition across countries. In Gallagher's view, China's achievements are {{22}}. Regarding China's outstanding performance in this energy crisis, Gallagher attributed it to its policy-making and implementation system.",
+          "cn": "经受住当前能源危机的考验，中国展示了其强大的抗冲击能力和保障能源安全的能力。“中国表现得令人惊讶地好，”加拉格尔称赞道。对传统能源过度依赖的反思，为各国思考能源转型开辟了新的方向。在加拉格尔看来，中国的成就值得称赞。对于中国在此次能源危机中的出色表现，加拉格尔将其归功于其政策制定和执行体系。"
         },
         {
-          "en": "He noted that if communication is {{19}}, the train must stop. \"Because once we cannot confirm whether the information is up to date or accurate, we must follow the {{20}} principle.\"\nIn railway signaling design, any fault must lead to a safe outcome – the fail-safe principle. If communication is lost beyond certain duration, the system discards all data and triggers an emergency brake. Although highly automated, high-speed rail does not eliminate human {{21}}. \"The automated driving system reduces the driver's workload, and about 90% of operations can be automated, but some key points still require human confirmation,\" said He.",
-          "cn": "何春明指出，如果通信中断，列车必须停车。“因为一旦我们无法确认信息是否最新或准确，就必须遵循故障导向安全原则。”在铁路信号设计中，任何故障都必须导致安全结果——这就是故障导向安全原则。如果通信中断超过一定时长，系统会丢弃所有数据并触发紧急制动。尽管高度自动化，高铁并未消除人的监督。“自动驾驶系统减轻了司机的工作量，大约90%的操作可以自动化，但某些关键点仍需人工确认，”何春明说。"
+          "en": "She pointed out that the two countries have {{24}} different approaches to policy formulation, with China tends to prioritize planning, establishing strategic frameworks that cover short-, medium-, and long-term cycles. For example, by {{25}} the Five-Year plans, Gallagher added. \"Because of that, China sets targets, and then it works on developing a stable policy infrastructure to achieve the targets. And it will {{26}} those policies as needed to achieve the targets. So I think the targets are always very clear in the Chinese system.",
+          "cn": "她指出，两国在政策制定方法上存在根本差异，中国倾向于优先规划，建立覆盖短、中、长期周期的战略框架。例如，通过制定五年规划，加拉格尔补充道。“正因为如此，中国设定目标，然后致力于发展稳定的政策基础设施来实现这些目标。并且会根据需要调整这些政策以实现目标。所以我认为，在中国体系中，目标始终非常明确。”"
         },
         {
-          "en": "Developing such systems is a long process. A railway control system takes 5 to 8 years from development to deployment. More comfort through intelligent speed control\nHigh-speed EMU trains at Wuhan Railway Station, February 2, 2026. Human driving can be inconsistent, and frequent acceleration and braking reduce comfort and {{23}}. Intelligent systems incorporate experienced drivers' strategies into their control {{22}}, automatically generating optimal speed curves that balance punctuality, comfort and energy efficiency, enabling the train to run more smoothly and efficiently.",
-          "cn": "开发这样的系统是一个漫长的过程。一个铁路控制系统从开发到部署需要5到8年。通过智能速度控制提升舒适度。2026年2月2日，武汉火车站的高铁动车组。人工驾驶可能不一致，频繁的加速和制动会降低舒适度和效率。智能系统将经验丰富司机的策略纳入其控制算法，自动生成优化速度曲线，平衡准点、舒适和能效，使列车运行更平稳、更高效。"
-        },
-        {
-          "en": "In the future, travel could be more {{24}} with the advancement of \"four-network integration,\" referring to the deep integration of mainline railways, intercity railways, suburban railways and urban rail transit systems. In this framework, rail services would function as a unified mobility network rather than separate systems. Different control systems developed by Hollysys Group. He noted that this technology is still under development. As a global provider of rail transit control systems and services, Hollysys Group has deployed train control systems on more than 80 main railway lines across China, covering over 16,000 kilometers in total.",
-          "cn": "未来，随着“四网融合”的推进，出行可能更加无缝衔接。“四网融合”指的是干线铁路、城际铁路、市域（郊）铁路和城市轨道交通系统的深度融合。在这一框架下，铁路服务将作为一个统一的出行网络运行，而非独立的系统。和利时集团开发的不同控制系统。何春明指出，这项技术仍在开发中。作为全球轨道交通控制系统和服务提供商，和利时集团已在中国80多条主要铁路线上部署了列车控制系统，总覆盖里程超过1.6万公里。"
-        },
-        {
-          "en": "It is leveraging its accumulated technological strengths to turn this vision into reality.",
-          "cn": "它正利用积累的技术优势将这一愿景变为现实。"
+          "en": "China tends to use a wide variety of types of policies, fiscal policies, regulatory policies, and so forth,\" said Gallagher. As a U.S.-China climate policy expert who has personally participated in bilateral climate agreement negotiations, Gallagher noted that China has undergone profound changes in advancing its energy transition. She also believes that China's dual carbon goals, proposed in 2020, represent a landmark statement. At the same time, China's supporting commitments on reducing carbon intensity, increasing forest coverage, and cutting fossil fuel use collectively confirm that it is forming a {{27}} cycle of growing ambition and policy implementation capacity.",
+          "cn": "“中国倾向于使用多种类型的政策，财政政策、监管政策等等，”加拉格尔说。作为亲自参与双边气候协议谈判的美中气候政策专家，加拉格尔指出，中国在推进能源转型方面经历了深刻变化。她还认为，中国在2020年提出的双碳目标是一个里程碑式的声明。同时，中国在降低碳强度、增加森林覆盖率和减少化石燃料使用方面的配套承诺，共同证实了中国正在形成一个雄心与政策执行能力相互促进的良性循环。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "intelligent",
-          "hint": "adj. 智能的",
+          "answer": "transition",
+          "hint": "n. 过渡，转型",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "operation",
-          "hint": "n. 运行，运营",
-          "difficulty": "easy"
+          "answer": "sustainability",
+          "hint": "n. 可持续性",
+          "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "penetration",
-          "hint": "n. 渗透率",
+          "answer": "affordability",
+          "hint": "n. 可负担性",
           "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "exceeded",
-          "hint": "v. 超过",
+          "answer": "pathways",
+          "hint": "n. 路径，途径",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "complexity",
-          "hint": "n. 复杂性",
-          "difficulty": "medium"
+          "answer": "divergence",
+          "hint": "n. 分歧，差异",
+          "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "automation",
-          "hint": "n. 自动化",
+          "answer": "resilient",
+          "hint": "adj. 有韧性的",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "precise",
-          "hint": "adj. 精确的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "deviations",
-          "hint": "n. 偏差",
+          "answer": "investable",
+          "hint": "adj. 值得投资的",
           "difficulty": "hard"
         },
         {
+          "id": 7,
+          "answer": "pillars",
+          "hint": "n. 支柱，核心",
+          "difficulty": "medium"
+        },
+        {
           "id": 8,
-          "answer": "transmission",
-          "hint": "n. 传输",
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "consequences",
-          "hint": "n. 后果",
-          "difficulty": "medium"
+          "answer": "tensions",
+          "hint": "n. 紧张局势",
+          "difficulty": "easy"
         },
         {
           "id": 10,
-          "answer": "equipped",
-          "hint": "v. 配备",
+          "answer": "landscape",
+          "hint": "n. 格局，形势",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "continuously",
-          "hint": "adv. 持续地",
-          "difficulty": "medium"
+          "answer": "closure",
+          "hint": "n. 关闭",
+          "difficulty": "easy"
         },
         {
           "id": 12,
-          "answer": "coordinated",
-          "hint": "adj. 协调的",
+          "answer": "soaring",
+          "hint": "adj. 飙升的",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "punctuality",
-          "hint": "n. 准点",
+          "answer": "knock-on",
+          "hint": "adj. 连锁的",
           "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "spacing",
-          "hint": "n. 间距",
-          "difficulty": "hard"
+          "answer": "severely",
+          "hint": "adv. 严重地",
+          "difficulty": "easy"
         },
         {
           "id": 15,
-          "answer": "braking",
-          "hint": "n. 制动",
+          "answer": "attributed",
+          "hint": "v. 归因于",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "gradients",
-          "hint": "n. 坡度",
-          "difficulty": "hard"
+          "answer": "forward-looking",
+          "hint": "adj. 前瞻性的",
+          "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "derail",
-          "hint": "v. 脱轨",
-          "difficulty": "hard"
+          "answer": "reserves",
+          "hint": "n. 储备",
+          "difficulty": "easy"
         },
         {
           "id": 18,
+          "answer": "stockpiles",
+          "hint": "n. 库存",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "vigorously",
+          "hint": "adv. 大力地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "weathered",
+          "hint": "v. 经受住",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "capacity",
+          "hint": "n. 能力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 22,
+          "answer": "commendable",
+          "hint": "adj. 值得称赞的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "over-reliance",
+          "hint": "n. 过度依赖",
+          "difficulty": "hard"
+        },
+        {
+          "id": 24,
+          "answer": "fundamentally",
+          "hint": "adv. 根本上",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "formulating",
+          "hint": "v. 制定",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "modify",
+          "hint": "v. 修改",
+          "difficulty": "easy"
+        },
+        {
+          "id": 27,
+          "answer": "virtuous",
+          "hint": "adj. 良性的",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "(ECNS) -- The 2026 Summer Davos Forum was recently held in Dalian, Northeast China’s Liaoning Province, during which energy transition became a focal point of heated discussion among participants from various countries.\nHow can developing countries find energy development paths that suit their own conditions? What lessons can China's energy transition offer? Multiple attendees engaged in in-depth discussions on these issues.\nRoberto Bocca, a member of the Executive Committee of the World Economic Forum, pointed out that although energy systems in many countries are undergoing profound transitions, and the sustainability, security, and affordability of global energy are steadily improving, the pathways to energy transition have always differed from country to country.\n\"Every country will choose its own pathway based on their environment resources, on their opportunity and so on. But now we see stronger choices in one direction and there are some countries that decide to go more on the traditional solution, some that really go on electrification and renewables. We have seen this divergence happening more and more.\"\nIn Bocca's view, the divergence in energy development pathways has become a notable feature of the current global energy transition. Against this backdrop, the direction of each country's efforts in the next phase should become a key focus of attention for all parties.\nIn response, Gavin McKenzie, managing director at Accenture, said that the next phase of the global energy transition should shift its focus from merely adding more capacity to building a more resilient, reliable, and investable energy system. This shift, in turn, would help inject strong confidence into the global economy's continued investment in energy transition.\nAs the direction of the transition becomes increasingly clear, investment opportunities and areas of focus for different countries have come into the spotlight.\nMcKenzie suggested that, in the face of rapidly growing industrial demand driven by electrification in developing countries, ongoing industrialization and urbanization in some parts of the world, and the enormous energy consumption from digital infrastructure and artificial intelligence, the new opportunities for energy transition in developing countries mainly center on three pillars, namely investing in advanced energy storage solutions, building small-scale energy systems and grid infrastructure, and developing flexible power systems.\nSince the beginning of 2026, the U.S.-Iran tensions had a profound impact on the global energy landscape. Global oil supply once fell by about 15%. The closure of the Strait of Hormuz cut off approximately 20% of global oil and liquefied natural gas flows, sending international oil prices soaring to as high as 120 U.S. dollars per barrel.\nFaced with the knock-on effects of reduced fossil fuel production and high prices, From the observation of Kelly Sims Gallagher, a U.S.-China climate policy expert and dean of the Fletcher School at Tufts University in the U.S., China has not been severely impacted by this round of global energy crisis. In her assessment, this can be attributed to the forward-looking measures it has taken across various sectors in recent years.\nShe noted that in recent years, while building large strategic petroleum reserves and commercial stockpiles, China has been vigorously developing renewable energy and electric vehicles. Having weathered the current energy crisis, China has demonstrated its strong capacity to withstand shocks and ensure energy security.\n\"China has done surprisingly well,\" commended Gallagher.\nReflections on the over-reliance on traditional energy have opened up new directions for thinking about energy transition across countries. In Gallagher's view, China's achievements are commendable.\nRegarding China's outstanding performance in this energy crisis, Gallagher attributed it to its policy-making and implementation system.\nShe pointed out that the two countries have fundamentally different approaches to policy formulation, with China tends to prioritize planning, establishing strategic frameworks that cover short-, medium-, and long-term cycles. For example, by formulating the Five-Year plans, Gallagher added.\n\"Because of that, China sets targets, and then it works on developing a stable policy infrastructure to achieve the targets. And it will modify those policies as needed to achieve the targets. So I think the targets are always very clear in the Chinese system. China tends to use a wide variety of types of policies, fiscal policies, regulatory policies, and so forth,\" said Gallagher.\nAs a U.S.-China climate policy expert who has personally participated in bilateral climate agreement negotiations, Gallagher noted that China has undergone profound changes in advancing its energy transition.\nShe also believes that China's dual carbon goals, proposed in 2020, represent a landmark statement. At the same time, China's supporting commitments on reducing carbon intensity, increasing forest coverage, and cutting fossil fuel use collectively confirm that it is forming a virtuous cycle of growing ambition and policy implementation capacity.",
+      "fullTextCn": "（中国新闻网）——2026夏季达沃斯论坛近日在中国东北辽宁省大连市举行，期间能源转型成为各国与会者热烈讨论的焦点。发展中国家如何找到适合自身国情的能源发展道路？中国的能源转型能提供哪些经验？多位与会者就这些问题进行了深入探讨。世界经济论坛执行委员会成员罗伯托·博卡指出，尽管许多国家的能源系统正在经历深刻转型，全球能源的可持续性、安全性和可负担性正在稳步提升，但能源转型的路径始终因国而异。\n\n“每个国家都会根据其环境资源、机遇等选择自己的道路。但现在我们看到，朝着一个方向的选择更加强烈，有些国家决定更多地采用传统解决方案，有些则真正走向电气化和可再生能源。我们看到这种分歧越来越明显。”在博卡看来，能源发展路径的分歧已成为当前全球能源转型的一个显著特征。在此背景下，各国下一阶段努力的方向应成为各方关注的焦点。对此，埃森哲董事总经理加文·麦肯齐表示，全球能源转型的下一阶段应将重点从单纯增加产能转向构建更具韧性、更可靠、更值得投资的能源系统。\n\n这种转变反过来将有助于为全球经济持续投资能源转型注入强大信心。随着转型方向日益清晰，不同国家的投资机会和重点领域成为焦点。麦肯齐建议，面对发展中国家电气化带来的快速增长工业需求、世界部分地区持续的工业化和城市化，以及数字基础设施和人工智能带来的巨大能源消耗，发展中国家能源转型的新机遇主要集中在三大支柱上，即投资先进储能解决方案、建设小型能源系统和电网基础设施，以及发展灵活电力系统。自2026年初以来，美伊紧张局势对全球能源格局产生了深远影响。全球石油供应一度下降约15%。\n\n霍尔木兹海峡的关闭切断了全球约20%的石油和液化天然气运输，导致国际油价飙升至每桶120美元。面对化石燃料产量减少和高价格的连锁反应，美国气候政策专家、塔夫茨大学弗莱彻学院院长凯莉·西姆斯·加拉格尔观察到，中国并未受到本轮全球能源危机的严重冲击。她评估认为，这归功于中国近年来在各领域采取的前瞻性措施。她指出，近年来，中国在建设大型战略石油储备和商业库存的同时，大力发展可再生能源和电动汽车。\n\n经受住当前能源危机的考验，中国展示了其强大的抗冲击能力和保障能源安全的能力。“中国表现得令人惊讶地好，”加拉格尔称赞道。对传统能源过度依赖的反思，为各国思考能源转型开辟了新的方向。在加拉格尔看来，中国的成就值得称赞。对于中国在此次能源危机中的出色表现，加拉格尔将其归功于其政策制定和执行体系。\n\n她指出，两国在政策制定方法上存在根本差异，中国倾向于优先规划，建立覆盖短、中、长期周期的战略框架。例如，通过制定五年规划，加拉格尔补充道。“正因为如此，中国设定目标，然后致力于发展稳定的政策基础设施来实现这些目标。并且会根据需要调整这些政策以实现目标。所以我认为，在中国体系中，目标始终非常明确。”\n\n“中国倾向于使用多种类型的政策，财政政策、监管政策等等，”加拉格尔说。作为亲自参与双边气候协议谈判的美中气候政策专家，加拉格尔指出，中国在推进能源转型方面经历了深刻变化。她还认为，中国在2020年提出的双碳目标是一个里程碑式的声明。同时，中国在降低碳强度、增加森林覆盖率和减少化石燃料使用方面的配套承诺，共同证实了中国正在形成一个雄心与政策执行能力相互促进的良性循环。"
+    },
+    {
+      "id": 2,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-22/From-innovation-to-value-How-AI-is-empowering-China-s-manufacturing-1Obh8it7G36/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "From innovation to value: How AI is empowering China's manufacturing",
+      "titleCn": "从创新到价值：人工智能如何赋能中国制造业",
+      "summary": "As artificial intelligence (AI) moves beyond laboratory breakthroughs into large-scale industrial deployment, it is rapidly transforming China's manufacturing system across production, decision-making, human-machine collaboration and supply chain coordination.",
+      "summaryCn": "人工智能正大规模应用于中国制造业，提升生产效率、降低成本并推动产业协同发展。",
+      "wordCount": 663,
+      "paragraphs": [
+        {
+          "en": "As artificial intelligence (AI) moves beyond laboratory {{0}} into large-scale industrial {{1}}, it is rapidly {{2}} China's manufacturing system across production, decision-making, human-machine collaboration and supply chain {{3}}. Large-scale industrial application\nA production line of GAC Aion New Energy Automobile in Guangzhou, Guangdong Province. Located in Guangzhou, south China's Guangdong Province, the smart eco-factory of China's GAC Aion New Energy Automobile operates more than 600 industrial robots across stamping, welding and assembly processes. In the final assembly workshop, vehicles pass through more than 200 processing stations, many of which are fully automated and operated entirely by robots. Every 53 seconds, a vehicle advances to the next workstation, which means that at the same interval a new car rolls off the line.",
+          "cn": "随着人工智能从实验室突破走向大规模工业部署，它正在迅速改变中国制造业的生产、决策、人机协作和供应链协调体系。位于广东省广州市的广汽埃安新能源汽车智能生态工厂，在冲压、焊接和总装过程中运行着超过600台工业机器人。在总装车间，车辆经过200多个加工站，其中许多是完全自动化并由机器人操作的。每53秒，一辆车就前进到下一个工位，这意味着每隔相同的时间就有一辆新车下线。"
+        },
+        {
+          "en": "As a {{4}} \"Lighthouse Factory,\" the plant integrates AI, big data, robotics, advanced process engineering, quality management and intelligent logistics systems, enabling more than 100,000 vehicle configuration options to meet {{6}} demand at scale. The transformation has delivered {{7}} gains: production {{8}} has increased by 50%, delivery time shortened by 33%, first-pass yield improved by 8%, and manufacturing costs decreased by 58%. Meanwhile, in Procter & Gamble's Huangpu factory in Guanghzou, technologies including AI, {{9}} automation and digital twin systems have been {{5}} into the supply chain operations, contributing to a 30% reduction in inventory and 15% in logistics costs, while maintaining a 99% on-time delivery over three years. Flexible manufacturing\nThe SANY Heavy Machinery Kunshan Industrial Park in Kunshan, Suzhou, Jiangsu Province. In China's Yangtze River Delta region, industrial AI is evolving toward higher flexibility and {{10}}.",
+          "cn": "作为公认的“灯塔工厂”，该工厂集成了人工智能、大数据、机器人技术、先进工艺工程、质量管理和智能物流系统，能够提供超过10万种车辆配置选项，以满足大规模的定制化需求。这一转型带来了可量化的成果：生产效率提高了50%，交付时间缩短了33%，首次通过率提高了8%，制造成本降低了58%。与此同时，在广州的宝洁黄埔工厂，包括人工智能、柔性自动化和数字孪生系统在内的技术已被整合到供应链运营中，使库存减少了30%，物流成本降低了15%，同时在三年的时间内保持了99%的准时交付率。位于江苏省苏州市昆山的三一重机昆山产业园，在中国长三角地区，工业人工智能正朝着更高的灵活性和自主性发展。"
+        },
+        {
+          "en": "In a textile factory in Taicang, Suzhou City in east China's Jiangsu Province, over 500 air-jet looms have been connected to a centralized AI system that continuously {{11}} yarn tension, insertion speed and motor temperature. Through digital twin modeling and real-time {{12}} of 128 process parameters, fabric weight {{13}} has been controlled within 1.2%, while order response speed has been improved by 40%. The factory has also used AI to optimize its sizing process, cutting steam {{14}} by 300 kilograms for every tonne of yarn produced. In advanced equipment manufacturing, SANY Group's heavy machinery smart factory in Kunshan has built a highly flexible production system, in which its AI-driven {{15}} system {{16}} global orders into thousands of process nodes, and allocates tasks across multiple production lines. Automated guided vehicles, connected to a cloud-based manufacturing execution system, automatically plan routes based on order priority.",
+          "cn": "在江苏省苏州市太仓的一家纺织厂，超过500台喷气织机已连接到一个人工智能集中系统，该系统持续监测纱线张力、引纬速度和电机温度。通过数字孪生建模和128个工艺参数的实时优化，织物重量偏差被控制在1.2%以内，订单响应速度提高了40%。该工厂还利用人工智能优化了上浆工艺，每生产一吨纱线可减少300公斤的蒸汽消耗。在先进装备制造领域，三一集团位于昆山的重机智能工厂构建了一个高度灵活的生产系统，其人工智能驱动的调度系统将全球订单分解为数千个工艺节点，并在多条生产线上分配任务。自动导引车连接到基于云的制造执行系统，根据订单优先级自动规划路线。"
+        },
+        {
+          "en": "The factory even supports \"one-unit order,\" with customization rates reaching 75% for mini excavators. Expanding industrial intelligence\nAutomated guided vehicles operate in an intelligent production workshop in a local tech enterprise in Jinhua City, east China's Zhejiang Province. The impact of AI is extending beyond individual factories into broader industrial {{17}}. According to China's Ministry of Industry and Information Technology (MIIT), by the end of 2025, more than 30% of manufacturing enterprises with annual revenue of at least 20 million yuan (about $3 million) had {{18}} AI technologies. Industrial intelligent agents covered over 70% of business scenarios in pioneer-level smart factories, accumulating more than 6,000 vertical domain models.",
+          "cn": "该工厂甚至支持“单件订单”，微型挖掘机的定制化率达到75%。人工智能的影响正从单个工厂扩展到更广泛的工业生态系统。根据中国工业和信息化部的数据，到2025年底，年收入至少2000万元人民币（约合300万美元）的制造企业中，超过30%已采用人工智能技术。在先锋级智能工厂中，工业智能代理覆盖了超过70%的业务场景，积累了超过6000个垂直领域模型。"
+        },
+        {
+          "en": "A staff monitors the fully automated production lines in a local precision manufacturing company in Huayingshan Economic Development Zone, Sichuan Province. The MIIT, together with six other departments, recently issued an action plan to promote coordinated development among large, medium-sized and small enterprises in the platform economy from 2026 to 2028. The platform economy is a new form of economy built on internet platforms. The plan emphasizes strengthening innovation, ecosystem coordination, and openness across these enterprises, while deepening the integration of the real economy and the digital economy. It calls for greater openness in technology and data sharing, and encourages platform enterprises to strengthen AI innovation, improve algorithm governance and promote algorithm {{19}}.",
+          "cn": "一名工作人员在四川省华蓥山经济开发区的一家本地精密制造公司监控全自动化生产线。工业和信息化部近日会同其他六个部门发布了一项行动计划，以促进2026年至2028年平台经济中大、中、小型企业的协同发展。平台经济是一种基于互联网平台的新型经济形态。该计划强调加强这些企业的创新、生态系统协调和开放性，同时深化实体经济与数字经济的融合。它呼吁在技术和数据共享方面更加开放，并鼓励平台企业加强人工智能创新，改进算法治理，促进算法透明度。"
+        },
+        {
+          "en": "By 2028, China aims to significantly improve the level of coordinated development among platform enterprises, form a number of replicable models for collaborative innovation, and cultivate a group of leading firms specializing in niche manufacturing segments in the platform economy.",
+          "cn": "到2028年，中国旨在显著提高平台企业间的协同发展水平，形成一批可复制的协同创新模式，并在平台经济中培育一批专注于细分制造领域的领军企业。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "breakthroughs",
+          "hint": "n. 突破",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "deployment",
+          "hint": "n. 部署",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "transforming",
+          "hint": "v. 转变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "recognized",
+          "hint": "adj. 公认的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
           "answer": "integrated",
           "hint": "v. 整合",
           "difficulty": "medium"
         },
         {
-          "id": 19,
-          "answer": "interrupted",
-          "hint": "v. 中断",
+          "id": 6,
+          "answer": "customized",
+          "hint": "adj. 定制的",
           "difficulty": "medium"
         },
         {
-          "id": 20,
-          "answer": "fail-safe",
-          "hint": "adj. 故障导向安全的",
+          "id": 7,
+          "answer": "measurable",
+          "hint": "adj. 可量化的",
           "difficulty": "hard"
         },
         {
-          "id": 21,
-          "answer": "oversight",
-          "hint": "n. 监督",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "algorithms",
-          "hint": "n. 算法",
-          "difficulty": "hard"
-        },
-        {
-          "id": 23,
+          "id": 8,
           "answer": "efficiency",
           "hint": "n. 效率",
           "difficulty": "easy"
         },
         {
-          "id": 24,
-          "answer": "seamless",
-          "hint": "adj. 无缝的",
+          "id": 9,
+          "answer": "flexible",
+          "hint": "adj. 灵活的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "autonomy",
+          "hint": "n. 自主性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "monitors",
+          "hint": "v. 监测",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "optimization",
+          "hint": "n. 优化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "deviation",
+          "hint": "n. 偏差",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "consumption",
+          "hint": "n. 消耗",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "scheduling",
+          "hint": "n. 调度",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "decomposes",
+          "hint": "v. 分解",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "ecosystems",
+          "hint": "n. 生态系统",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "adopted",
+          "hint": "v. 采用",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
+          "answer": "transparency",
+          "hint": "n. 透明度",
           "difficulty": "medium"
         }
       ],
-      "fullText": "On December 30, 2019, the Beijing-Zhangjiakou high-speed railway officially began operation, becoming the world's first intelligent high-speed railway running at 350 km/h with driver-attended automated driving.\nIn parallel, intelligent driving in road transportation is also accelerating rapidly in China. According to Wang Shuiyin, vice president of the Research Institute of Highway under the Ministry of Transport, the country's penetration rate of intelligent driving passenger vehicles has exceeded 68%, and the total length of open testing roads for autonomous driving has surpassed 28,000 kilometers.\nA Beijing-Zhangjiakou high-speed train passes through the Juyongguan section of the Great Wall, January 7, 2022. \nHowever, despite both belonging to intelligent driving, rail and road systems differ fundamentally in complexity and operating environments.\n\"The gap between automotive and rail automation is significant,\" Wang Xiaoliang, vice president and chief engineer of Beijing Hollysys Co., Ltd. under the Hollysys Group, told CGTN.\n\"One of the core challenges is precise stopping,\" Wang said. \"Due to environmental variations, parameter deviations and massive real-time data transmission requirement, achieving this in high-speed rail is extremely difficult.\"\nA Fuxing Electric Multiple Unit (EMU) runs along the Beijing-Shanghai high-speed railway, Changzhou, Jiangsu Province, January 15, 2025. \nUnlike road vehicles, high-speed trains operate under tightly controlled conditions at extreme speeds, where even minor deviations can have amplified consequences.\nWang explained that the Beijing-Zhangjiakou high-speed railway is equipped with the Chinese Train Control System Level 3 (CTCS-3), along with three Radio Block Centers (RBCs) and multiple Automatic Train Protection (ATP) systems provided by Hollysys, enabling precise and safe operation.\nRBC and ATP are core safety equipment of high-speed rail train control system, which continuously communicate with onboard and offboard equipment, enabling real-time information exchange between train and ground. They function like a \"central nervous system\" for safe and coordinated train operation.\nEnsuring both punctuality and safety\nForeign representatives attending the 12th World Congress on High-Speed Rail travel on the Beijing–Zhangjiakou high-speed railway from Beijing North Railway Station to Taizicheng, a venue for the Beijing 2022 Winter Olympics, July 11, 2025. \n\"Behind the punctuality of high-speed rail is truly the train control system,\" He Chunming, vice president of Hollysys Group, told CGTN.\nThe system consists of both onboard and ground-based equipment, responsible for managing train spacing and speed. As train speeds increase, manual control by drivers becomes increasingly difficult.\n\"Braking distance is directly related to speed,\" said He. \"When a high-speed train is running at 350 km/h, the braking distance needs to be about 20 kilometers.\"\nTo ensure safety, the system must continuously calculate safe operating speeds based on information far ahead of the train.\n\"To determine a safe speed, we need to obtain all data within about 20 kilometers ahead. Now, data from up to 32 kilometers ahead is already available.\" said He. \"Only with this level of information can the system calculate safe speed for each segment.\"\nSpeed control is not only about distance. Conditions such as gradients, curves, and switches will all have an impact.\n\"For example, an uphill or downhill slope will have significantly different effects on deceleration,\" said He, \"and if a train enters a curve or switch at excessive speed, it could derail.\n\"Therefore, all information within 20 or 30 kilometers ahead must be integrated to generate a unified safe speed.\"\nHigh-speed rail systems are built on very strict safety principles. He noted that if communication is interrupted, the train must stop. \"Because once we cannot confirm whether the information is up to date or accurate, we must follow the fail-safe principle.\"\nIn railway signaling design, any fault must lead to a safe outcome – the fail-safe principle. If communication is lost beyond certain duration, the system discards all data and triggers an emergency brake.\nAlthough highly automated, high-speed rail does not eliminate human oversight.\n\"The automated driving system reduces the driver's workload, and about 90% of operations can be automated, but some key points still require human confirmation,\" said He.\nDeveloping such systems is a long process. A railway control system takes 5 to 8 years from development to deployment.\nMore comfort through intelligent speed control\nHigh-speed EMU trains at Wuhan Railway Station, February 2, 2026. \nHuman driving can be inconsistent, and frequent acceleration and braking reduce comfort and efficiency.\nIntelligent systems incorporate experienced drivers' strategies into their control algorithms, automatically generating optimal speed curves that balance punctuality, comfort and energy efficiency, enabling the train to run more smoothly and efficiently.\nIn the future, travel could be more seamless with the advancement of \"four-network integration,\" referring to the deep integration of mainline railways, intercity railways, suburban railways and urban rail transit systems. In this framework, rail services would function as a unified mobility network rather than separate systems.\nDifferent control systems developed by Hollysys Group. \nHe noted that this technology is still under development. As a global provider of rail transit control systems and services, Hollysys Group has deployed train control systems on more than 80 main railway lines across China, covering over 16,000 kilometers in total. It is leveraging its accumulated technological strengths to turn this vision into reality.",
-      "fullTextCn": "2019年12月30日，京张高铁正式开通运营，成为世界上首条时速350公里、有人值守自动驾驶的智能高铁。与此同时，道路运输中的智能驾驶在中国也在加速推进。据交通运输部公路科学研究院副院长王水印介绍，我国智能驾驶乘用车渗透率已超过68%，自动驾驶开放测试道路总里程已超过2.8万公里。2022年1月7日，一列京张高铁列车驶过长城居庸关段。然而，尽管同属智能驾驶，铁路和道路系统在复杂性和运行环境上存在根本差异。\n\n“汽车与铁路自动化的差距是显著的，”和利时集团旗下北京和利时系统工程有限公司副总裁兼总工程师汪小亮告诉CGTN。“核心挑战之一是精准停车，”汪小亮说。“由于环境变化、参数偏差以及海量实时数据传输需求，在高铁中实现这一点极其困难。”2025年1月15日，一列复兴号动车组行驶在江苏省常州市的京沪高铁线上。与道路车辆不同，高铁列车在极端速度下、受严格控制的条件中运行，即使是微小的偏差也可能产生放大的后果。\n\n汪小亮解释说，京张高铁配备了CTCS-3级中国列车运行控制系统，以及和利时提供的三个无线闭塞中心（RBC）和多个自动列车防护（ATP）系统，实现了精准安全运行。RBC和ATP是高铁列车控制系统的核心安全设备，它们持续与车载和地面设备通信，实现车地之间的实时信息交换。它们就像一个“中枢神经系统”，确保列车安全协调运行。确保准点与安全。2025年7月11日，参加第十二届世界高速铁路大会的外国代表乘坐京张高铁从北京北站前往北京2022年冬奥会举办地太子城。“高铁准点运行的背后实际上是列车控制系统，”和利时集团副总裁何春明告诉CGTN。\n\n该系统由车载和地面设备组成，负责管理列车间距和速度。随着列车速度的提高，司机的手动控制变得越来越困难。“制动距离与速度直接相关，”何春明说。“当高铁以350公里/小时运行时，制动距离需要大约20公里。”为确保安全，系统必须根据列车前方远距离的信息持续计算安全运行速度。“要确定安全速度，我们需要获取前方约20公里范围内的所有数据。\n\n“现在，前方32公里范围内的数据已经可用。”何春明说。“只有拥有这种级别的信息，系统才能为每个路段计算出安全速度。”速度控制不仅关乎距离。坡度、弯道和道岔等条件都会产生影响。“例如，上坡或下坡对减速的影响显著不同，”何春明说，“如果列车以过高速度进入弯道或道岔，可能会脱轨。”因此，前方20或30公里范围内的所有信息必须整合起来，生成一个统一的安全速度。高铁系统建立在非常严格的安全原则之上。\n\n何春明指出，如果通信中断，列车必须停车。“因为一旦我们无法确认信息是否最新或准确，就必须遵循故障导向安全原则。”在铁路信号设计中，任何故障都必须导致安全结果——这就是故障导向安全原则。如果通信中断超过一定时长，系统会丢弃所有数据并触发紧急制动。尽管高度自动化，高铁并未消除人的监督。“自动驾驶系统减轻了司机的工作量，大约90%的操作可以自动化，但某些关键点仍需人工确认，”何春明说。\n\n开发这样的系统是一个漫长的过程。一个铁路控制系统从开发到部署需要5到8年。通过智能速度控制提升舒适度。2026年2月2日，武汉火车站的高铁动车组。人工驾驶可能不一致，频繁的加速和制动会降低舒适度和效率。智能系统将经验丰富司机的策略纳入其控制算法，自动生成优化速度曲线，平衡准点、舒适和能效，使列车运行更平稳、更高效。\n\n未来，随着“四网融合”的推进，出行可能更加无缝衔接。“四网融合”指的是干线铁路、城际铁路、市域（郊）铁路和城市轨道交通系统的深度融合。在这一框架下，铁路服务将作为一个统一的出行网络运行，而非独立的系统。和利时集团开发的不同控制系统。何春明指出，这项技术仍在开发中。作为全球轨道交通控制系统和服务提供商，和利时集团已在中国80多条主要铁路线上部署了列车控制系统，总覆盖里程超过1.6万公里。\n\n它正利用积累的技术优势将这一愿景变为现实。"
+      "fullText": "As artificial intelligence (AI) moves beyond laboratory breakthroughs into large-scale industrial deployment, it is rapidly transforming China's manufacturing system across production, decision-making, human-machine collaboration and supply chain coordination.\nLarge-scale industrial application\nA production line of GAC Aion New Energy Automobile in Guangzhou, Guangdong Province. \nLocated in Guangzhou, south China's Guangdong Province, the smart eco-factory of China's GAC Aion New Energy Automobile operates more than 600 industrial robots across stamping, welding and assembly processes. In the final assembly workshop, vehicles pass through more than 200 processing stations, many of which are fully automated and operated entirely by robots. Every 53 seconds, a vehicle advances to the next workstation, which means that at the same interval a new car rolls off the line.\nAs a recognized \"Lighthouse Factory,\" the plant integrates AI, big data, robotics, advanced process engineering, quality management and intelligent logistics systems, enabling more than 100,000 vehicle configuration options to meet customized demand at scale.\nThe transformation has delivered measurable gains: production efficiency has increased by 50%, delivery time shortened by 33%, first-pass yield improved by 8%, and manufacturing costs decreased by 58%.\nMeanwhile, in Procter & Gamble's Huangpu factory in Guanghzou, technologies including AI, flexible automation and digital twin systems have been integrated into the supply chain operations, contributing to a 30% reduction in inventory and 15% in logistics costs, while maintaining a 99% on-time delivery over three years.\nFlexible manufacturing\nThe SANY Heavy Machinery Kunshan Industrial Park in Kunshan, Suzhou, Jiangsu Province. \nIn China's Yangtze River Delta region, industrial AI is evolving toward higher flexibility and autonomy.\nIn a textile factory in Taicang, Suzhou City in east China's Jiangsu Province, over 500 air-jet looms have been connected to a centralized AI system that continuously monitors yarn tension, insertion speed and motor temperature. Through digital twin modeling and real-time optimization of 128 process parameters, fabric weight deviation has been controlled within 1.2%, while order response speed has been improved by 40%. The factory has also used AI to optimize its sizing process, cutting steam consumption by 300 kilograms for every tonne of yarn produced.\nIn advanced equipment manufacturing, SANY Group's heavy machinery smart factory in Kunshan has built a highly flexible production system, in which its AI-driven scheduling system decomposes global orders into thousands of process nodes, and allocates tasks across multiple production lines. Automated guided vehicles, connected to a cloud-based manufacturing execution system, automatically plan routes based on order priority. The factory even supports \"one-unit order,\" with customization rates reaching 75% for mini excavators.\nExpanding industrial intelligence\nAutomated guided vehicles operate in an intelligent production workshop in a local tech enterprise in Jinhua City, east China's Zhejiang Province. \nThe impact of AI is extending beyond individual factories into broader industrial ecosystems.\nAccording to China's Ministry of Industry and Information Technology (MIIT), by the end of 2025, more than 30% of manufacturing enterprises with annual revenue of at least 20 million yuan (about $3 million) had adopted AI technologies. Industrial intelligent agents covered over 70% of business scenarios in pioneer-level smart factories, accumulating more than 6,000 vertical domain models.\nA staff monitors the fully automated production lines in a local precision manufacturing company in Huayingshan Economic Development Zone, Sichuan Province. \nThe MIIT, together with six other departments, recently issued an action plan to promote coordinated development among large, medium-sized and small enterprises in the platform economy from 2026 to 2028.\nThe platform economy is a new form of economy built on internet platforms.\nThe plan emphasizes strengthening innovation, ecosystem coordination, and openness across these enterprises, while deepening the integration of the real economy and the digital economy. It calls for greater openness in technology and data sharing, and encourages platform enterprises to strengthen AI innovation, improve algorithm governance and promote algorithm transparency.\nBy 2028, China aims to significantly improve the level of coordinated development among platform enterprises, form a number of replicable models for collaborative innovation, and cultivate a group of leading firms specializing in niche manufacturing segments in the platform economy.",
+      "fullTextCn": "随着人工智能从实验室突破走向大规模工业部署，它正在迅速改变中国制造业的生产、决策、人机协作和供应链协调体系。位于广东省广州市的广汽埃安新能源汽车智能生态工厂，在冲压、焊接和总装过程中运行着超过600台工业机器人。在总装车间，车辆经过200多个加工站，其中许多是完全自动化并由机器人操作的。每53秒，一辆车就前进到下一个工位，这意味着每隔相同的时间就有一辆新车下线。\n\n作为公认的“灯塔工厂”，该工厂集成了人工智能、大数据、机器人技术、先进工艺工程、质量管理和智能物流系统，能够提供超过10万种车辆配置选项，以满足大规模的定制化需求。这一转型带来了可量化的成果：生产效率提高了50%，交付时间缩短了33%，首次通过率提高了8%，制造成本降低了58%。与此同时，在广州的宝洁黄埔工厂，包括人工智能、柔性自动化和数字孪生系统在内的技术已被整合到供应链运营中，使库存减少了30%，物流成本降低了15%，同时在三年的时间内保持了99%的准时交付率。位于江苏省苏州市昆山的三一重机昆山产业园，在中国长三角地区，工业人工智能正朝着更高的灵活性和自主性发展。\n\n在江苏省苏州市太仓的一家纺织厂，超过500台喷气织机已连接到一个人工智能集中系统，该系统持续监测纱线张力、引纬速度和电机温度。通过数字孪生建模和128个工艺参数的实时优化，织物重量偏差被控制在1.2%以内，订单响应速度提高了40%。该工厂还利用人工智能优化了上浆工艺，每生产一吨纱线可减少300公斤的蒸汽消耗。在先进装备制造领域，三一集团位于昆山的重机智能工厂构建了一个高度灵活的生产系统，其人工智能驱动的调度系统将全球订单分解为数千个工艺节点，并在多条生产线上分配任务。自动导引车连接到基于云的制造执行系统，根据订单优先级自动规划路线。\n\n该工厂甚至支持“单件订单”，微型挖掘机的定制化率达到75%。人工智能的影响正从单个工厂扩展到更广泛的工业生态系统。根据中国工业和信息化部的数据，到2025年底，年收入至少2000万元人民币（约合300万美元）的制造企业中，超过30%已采用人工智能技术。在先锋级智能工厂中，工业智能代理覆盖了超过70%的业务场景，积累了超过6000个垂直领域模型。\n\n一名工作人员在四川省华蓥山经济开发区的一家本地精密制造公司监控全自动化生产线。工业和信息化部近日会同其他六个部门发布了一项行动计划，以促进2026年至2028年平台经济中大、中、小型企业的协同发展。平台经济是一种基于互联网平台的新型经济形态。该计划强调加强这些企业的创新、生态系统协调和开放性，同时深化实体经济与数字经济的融合。它呼吁在技术和数据共享方面更加开放，并鼓励平台企业加强人工智能创新，改进算法治理，促进算法透明度。\n\n到2028年，中国旨在显著提高平台企业间的协同发展水平，形成一批可复制的协同创新模式，并在平台经济中培育一批专注于细分制造领域的领军企业。"
     },
     {
-      "id": 2,
+      "id": 3,
       "category": "society",
       "source": "ECNS",
       "sourceUrl": "http://www.ecns.cn/china/2026-06-26/detail-ihfftxzk2712787.shtml",
       "title": "Visit boosts confidence in rural future",
       "titleCn": "视察提振农村未来信心",
       "summary": "When President Xi Jinping visited Dongyujia village in Dezhou, Shandong province, during the busy summer farming season on Wednesday morning, Li Lianjun, 54, and other villagers shared with him their joy over this year's summer grain harvest.",
-      "summaryCn": "习近平主席视察山东德州东于家村，与农民亲切交流，强调粮食安全与农业科技，鼓舞农民信心。",
+      "summaryCn": "习近平主席视察山东德州东于家村，与农民亲切交流，强调粮食安全与农业现代化，增强了村民对未来发展的信心。",
       "wordCount": 714,
       "paragraphs": [
         {
           "en": "When President Xi Jinping visited Dongyujia village in Dezhou, Shandong province, during the busy summer farming season on Wednesday morning, Li Lianjun, 54, and other villagers shared with him their joy over this year's summer grain {{1}}. Xi was pleased to learn that wheat {{2}} had increased again this year and that corn was being planted rapidly without missing the {{3}} planting window. He encouraged the farmers to steadily increase both yields and returns, and strive for a {{4}} grain harvest for the whole year. \"With all the wheat harvested, we knew we had secured a good harvest,\" Li said, noting that yields had increased by about 300 to 375 kilograms per hectare compared with last year. Xi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, was on an {{5}} trip to Dezhou on Wednesday.",
-          "cn": "周三上午，正值繁忙的夏收时节，国家主席习近平来到山东省德州市东于家村视察。54岁的李连军和其他村民与他分享了今年夏粮丰收的喜悦。习近平得知今年小麦产量再次提高，玉米正在抢抓农时迅速播种，感到欣慰。他鼓励农民稳步提高产量和收益，力争全年粮食丰收。李连军说：“小麦都收完了，我们知道收成稳了。”他提到，与去年相比，每公顷产量增加了约300到375公斤。习近平是中共中央总书记、中央军委主席，周三在德州进行考察。"
+          "cn": "周三上午，正值繁忙的夏收时节，国家主席习近平来到山东省德州市东于家村视察。54岁的李连军和其他村民与他分享了今年夏粮丰收的喜悦。习近平得知今年小麦产量再次提高，玉米正在抢时播种、没有错过最佳播种期，感到欣慰。他鼓励农民稳步提高产量和收益，力争全年粮食丰收。李连军说：“小麦都收完了，我们知道丰收稳了。”他提到，与去年相比，每公顷产量增加了约300到375公斤。习近平还担任中共中央总书记、中央军委主席，他于周三在德州进行考察。"
         },
         {
           "en": "For Li, who farms 6.7 hectares of land, the conversation in the fields remains {{6}}. \"I never imagined that the general secretary would come right up to us,\" he said. \"He was so warm and {{7}}.\"\nXi also asked Li about his household income, as well as his children's studies and lives. Li said that those questions made the {{8}} feel more like a warm and informal chat about everyday life rather than an official inspection. This year's bumper harvest, however, had not come easily for Dezhou's farmers.",
-          "cn": "对于耕种6.7公顷土地的李连军来说，田间地头的对话依然历历在目。“我从没想过总书记会直接走到我们跟前，”他说，“他非常热情、平易近人。”习近平还询问了李连军的家庭收入以及孩子们的学习和生活情况。李连军说，这些问题让这次会面更像是一次温馨随意的家常聊天，而非正式视察。然而，对德州的农民来说，今年的丰收来之不易。"
+          "cn": "对于耕种6.7公顷土地的李连军来说，田间的对话依然历历在目。“我从未想过总书记会直接走到我们面前，”他说，“他非常温暖、平易近人。”习近平还询问了李连军的家庭收入以及孩子们的学习和生活情况。李连军说，这些问题让这次会面更像是一次温馨随意的家常聊天，而非正式视察。然而，对于德州的农民来说，今年的丰收来之不易。"
         },
         {
-          "en": "Prolonged autumn rains in 2025 delayed wheat planting by more than 20 days, raising concerns about whether the crop could grow strongly enough before winter and recover in spring. With the help of agricultural {{10}} throughout the growing season, the crop had fully recovered by early April, when the wheat entered the {{11}} stage. Cui Xinyan, a local agricultural technician, said Xi showed a particular interest in the {{12}} {{13}} and {{14}} system used in the fields. \"He crouched down to take a close look and asked detailed questions about the system's operating costs and fertilizer mix,\" Cui recalled. According to Cui, the technology can increase planting {{15}} from around 67,500 to more than 82,500 plants per hectare, raising average yields by over 10 percent.",
-          "cn": "2025年秋季的持续降雨导致小麦播种推迟了20多天，人们担心作物能否在冬季前茁壮成长并在春季恢复。在整个生长季节，农业技术人员的帮助下，作物在4月初小麦进入拔节期时已完全恢复。当地农业技术员崔新燕表示，习近平对田间使用的水肥一体化系统表现出特别兴趣。“他蹲下来仔细查看，并详细询问了系统的运行成本和肥料配比，”崔新燕回忆道。据崔新燕介绍，这项技术可以将种植密度从每公顷约67500株提高到超过82500株，使平均产量提高10%以上。"
+          "en": "Prolonged autumn rains in 2025 delayed wheat planting by more than 20 days, raising concerns about whether the crop could grow strongly enough before winter and recover in spring. With the help of agricultural {{10}} throughout the growing season, the crop had fully recovered by early April, when the wheat entered the jointing stage. Cui Xinyan, a local agricultural technician, said Xi showed a particular interest in the {{11}} {{12}} and {{13}} system used in the fields. \"He crouched down to take a close look and asked detailed questions about the system's operating costs and fertilizer mix,\" Cui recalled. According to Cui, the technology can increase planting {{14}} from around 67,500 to more than 82,500 plants per hectare, raising average yields by over 10 percent.",
+          "cn": "2025年秋季的持续降雨将小麦播种推迟了20多天，引发了对作物能否在冬季前茁壮生长并在春季恢复的担忧。在整个生长季节，在农业技术人员的帮助下，到4月初小麦进入拔节期时，作物已完全恢复。当地农业技术员崔新燕表示，习近平对田间使用的水肥一体化系统表现出特别兴趣。“他蹲下来仔细查看，并详细询问了系统的运行成本和肥料配比，”崔新燕回忆道。据崔新燕介绍，这项技术可以将种植密度从每公顷约67500株提高到超过82500株，使平均产量提高10%以上。"
         },
         {
-          "en": "Cui said that her strongest impression from speaking face to face with Xi was his close attention to agriculture, food security and agricultural technology. \"His words and actions reflected his deep {{16}} for farmers,\" Cui said. Xi's visit then continued from the fields to the nearby Xiyujia village, where he was offered a closer look at how changes in agricultural production and rural employment are {{17}} villagers' lives. At the home of Yu Xinhui, 36, Xi looked around and sat down with the family for a conversation. He asked about their jobs and income, the health of elderly family members and the children's studies.",
-          "cn": "崔新燕说，与习近平面对面交流给她最深的印象是他对农业、粮食安全和农业科技的高度关注。“他的言行体现了他对农民的深厚感情，”崔新燕说。随后，习近平的视察从田间来到附近的西于家村，在那里他更深入地了解了农业生产和农村就业的变化如何重塑村民的生活。在36岁的于新辉家中，习近平环顾四周，并与一家人坐下交谈。他询问了他们的工作和收入、老人的健康状况以及孩子们的学习情况。"
+          "en": "Cui said that her strongest {{18}} from speaking face to face with Xi was his close attention to agriculture, food security and agricultural technology. \"His words and actions reflected his deep {{15}} for farmers,\" Cui said. Xi's visit then continued from the fields to the nearby Xiyujia village, where he was offered a closer look at how changes in agricultural production and rural employment are {{16}} villagers' lives. At the home of Yu Xinhui, 36, Xi looked around and sat down with the family for a conversation. He asked about their jobs and income, the health of elderly family members and the children's studies.",
+          "cn": "崔新燕说，与习近平面对面交谈给她最深的印象是他对农业、粮食安全和农业技术的高度关注。“他的一言一行都体现了他对农民的深厚感情，”崔新燕说。随后，习近平的视察从田间继续前往附近的西于家村，在那里他更深入地了解了农业生产和农村就业的变化如何重塑村民的生活。在36岁的于新辉家中，习近平环顾四周，并与一家人坐下交谈。他询问了他们的工作和收入、老人的健康状况以及孩子们的学习情况。"
         },
         {
-          "en": "He also asked in detail whether policies concerning agriculture, rural areas and farmers had been fully {{18}}. One question from Xi left a particularly deep impression on the villager. \"The general secretary asked whether there was anything I was unhappy with or wanted to complain about,\" Yu recalled. \"That really warmed my heart. He truly cares about young people like us.\"\nYu said that the conversation gave him and other villagers a stronger sense of {{0}} and security.",
-          "cn": "他还详细询问了关于农业、农村和农民的政策是否得到全面落实。习近平的一个问题给这位村民留下了特别深刻的印象。“总书记问我有没有什么不满意或想抱怨的事情，”于新辉回忆道，“这让我心里很暖。他真心关心我们这样的年轻人。”于新辉说，这次谈话让他和其他村民感到更加自信和安全。"
+          "en": "He also asked in detail whether policies concerning agriculture, rural areas and farmers had been fully {{17}}. One question from Xi left a particularly deep impression on the villager. \"The general secretary asked whether there was anything I was unhappy with or wanted to complain about,\" Yu recalled. \"That really warmed my heart. He truly cares about young people like us.\"\nYu said that the conversation gave him and other villagers a stronger sense of {{0}} and security.",
+          "cn": "他还详细询问了关于农业、农村和农民的政策是否得到了全面落实。习近平提出的一个问题给这位村民留下了特别深刻的印象。“总书记问我有没有什么不满意或想抱怨的事情，”于新辉回忆道，“这让我心里很温暖。他真心关心我们这样的年轻人。”于新辉说，这次谈话让他和其他村民有了更强的安全感和信心。"
         },
         {
-          "en": "\"We feel more motivated and reassured,\" he said. \"It feels we have strong support behind us.\"\nThis year marks the beginning of China's 15th Five-Year Plan (2026-30) period. Agricultural and rural modernization, as outlined in the plan, has a major bearing on Chinese modernization as a whole. By 2030, the country aims to further strengthen food security, improve the quality, efficiency and competitiveness of agriculture, enhance agricultural sci-tech capabilities and continue raising farmers' incomes, among other goals. Xi's fact-finding trip, which came a week before the CPC marks its 105th anniversary, underscored the Party's long-standing priorities of safeguarding food security, raising farmers' incomes and improving people's well-being.",
-          "cn": "“我们感到更有动力、更安心了，”他说，“感觉背后有强大的支持。”今年是中国第十五个五年规划（2026-2030年）的开局之年。规划中提出的农业农村现代化，对中国式现代化具有重大意义。到2030年，国家目标是进一步加强粮食安全，提高农业质量、效益和竞争力，增强农业科技能力，并继续提高农民收入等。习近平的这次考察，恰逢中国共产党成立105周年前一周，凸显了党长期以来保障粮食安全、提高农民收入、改善民生福祉的优先事项。"
+          "en": "\"We feel more motivated and reassured,\" he said. \"It feels we have strong support behind us.\"\nThis year marks the beginning of China's 15th Five-Year Plan (2026-30) period. Agricultural and rural {{19}}, as outlined in the plan, has a major bearing on Chinese modernization as a whole. By 2030, the country aims to further strengthen food security, improve the quality, efficiency and competitiveness of agriculture, enhance agricultural sci-tech capabilities and continue raising farmers' incomes, among other goals. Xi's fact-finding trip, which came a week before the CPC marks its 105th anniversary, underscored the Party's long-standing priorities of safeguarding food security, raising farmers' incomes and improving people's well-being.",
+          "cn": "“我们感到更有动力、更安心了，”他说，“感觉背后有强大的支持。”今年是中国第十五个五年规划（2026-2030年）的开局之年。规划中提出的农业农村现代化，对中国式现代化具有重大意义。到2030年，国家旨在进一步加强粮食安全，提高农业质量、效率和竞争力，增强农业科技能力，并继续提高农民收入等。习近平的这次调研，恰逢中国共产党成立105周年前一周，突显了党长期以来保障粮食安全、提高农民收入、改善民生福祉的优先事项。"
         },
         {
-          "en": "As Xi left the village, residents gathered to give him a warm send-off. \"As we are marching on the new journey of building China into a modern socialist country in all respects, we must work together and keep up our stride on the new Long March to create a brighter future and continuously meet the people's {{19}} for a better life,\" Xi said to them.",
-          "cn": "习近平离开村庄时，村民们聚集在一起热情送别。“在全面建设社会主义现代化国家的新征程上，我们要团结一心，在新长征路上继续前进，创造更加美好的未来，不断满足人民对美好生活的向往，”习近平对大家说。"
+          "en": "As Xi left the village, residents gathered to give him a warm send-off. \"As we are marching on the new journey of building China into a modern socialist country in all respects, we must work together and keep up our stride on the new Long March to create a brighter future and continuously meet the people's {{20}} for a better life,\" Xi said to them.",
+          "cn": "习近平离开村庄时，居民们聚集在一起热情送别。“在全面建设社会主义现代化国家的新征程上，我们必须团结一心，在新长征路上继续前行，创造更加美好的未来，不断满足人民对美好生活的向往，”习近平对他们说。"
         }
       ],
       "blanks": [
@@ -254,7 +425,7 @@
         {
           "id": 1,
           "answer": "harvest",
-          "hint": "n. 收成",
+          "hint": "n. 收获",
           "difficulty": "easy"
         },
         {
@@ -285,13 +456,13 @@
           "id": 6,
           "answer": "vivid",
           "hint": "adj. 生动的",
-          "difficulty": "easy"
+          "difficulty": "medium"
         },
         {
           "id": 7,
           "answer": "approachable",
           "hint": "adj. 平易近人的",
-          "difficulty": "medium"
+          "difficulty": "hard"
         },
         {
           "id": 8,
@@ -302,571 +473,430 @@
         {
           "id": 9,
           "answer": "technicians",
-          "hint": "n. 技术员",
-          "difficulty": "easy"
+          "hint": "n. 技术人员",
+          "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "jointing",
-          "hint": "n. 拔节",
+          "answer": "integrated",
+          "hint": "adj. 综合的",
           "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "integrated",
-          "hint": "adj. 综合的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
           "answer": "irrigation",
           "hint": "n. 灌溉",
           "difficulty": "medium"
         },
         {
-          "id": 13,
+          "id": 12,
           "answer": "fertilization",
           "hint": "n. 施肥",
           "difficulty": "hard"
         },
         {
-          "id": 14,
+          "id": 13,
           "answer": "density",
           "hint": "n. 密度",
           "difficulty": "medium"
         },
         {
-          "id": 15,
+          "id": 14,
           "answer": "affection",
           "hint": "n. 感情",
           "difficulty": "medium"
         },
         {
-          "id": 16,
+          "id": 15,
           "answer": "reshaping",
           "hint": "v. 重塑",
           "difficulty": "hard"
         },
         {
-          "id": 17,
+          "id": 16,
           "answer": "implemented",
           "hint": "v. 实施",
           "difficulty": "medium"
         },
         {
+          "id": 17,
+          "answer": "impression",
+          "hint": "n. 印象",
+          "difficulty": "easy"
+        },
+        {
           "id": 18,
+          "answer": "modernization",
+          "hint": "n. 现代化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
           "answer": "aspirations",
           "hint": "n. 愿望",
           "difficulty": "hard"
         }
       ],
       "fullText": "When President Xi Jinping visited Dongyujia village in Dezhou, Shandong province, during the busy summer farming season on Wednesday morning, Li Lianjun, 54, and other villagers shared with him their joy over this year's summer grain harvest.\nXi was pleased to learn that wheat yields had increased again this year and that corn was being planted rapidly without missing the optimal planting window. He encouraged the farmers to steadily increase both yields and returns, and strive for a bumper grain harvest for the whole year.\n\"With all the wheat harvested, we knew we had secured a good harvest,\" Li said, noting that yields had increased by about 300 to 375 kilograms per hectare compared with last year.\nXi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, was on an inspection trip to Dezhou on Wednesday.\nFor Li, who farms 6.7 hectares of land, the conversation in the fields remains vivid. \"I never imagined that the general secretary would come right up to us,\" he said. \"He was so warm and approachable.\"\nXi also asked Li about his household income, as well as his children's studies and lives.\nLi said that those questions made the encounter feel more like a warm and informal chat about everyday life rather than an official inspection.\nThis year's bumper harvest, however, had not come easily for Dezhou's farmers.\nProlonged autumn rains in 2025 delayed wheat planting by more than 20 days, raising concerns about whether the crop could grow strongly enough before winter and recover in spring.\nWith the help of agricultural technicians throughout the growing season, the crop had fully recovered by early April, when the wheat entered the jointing stage.\nCui Xinyan, a local agricultural technician, said Xi showed a particular interest in the integrated irrigation and fertilization system used in the fields.\n\"He crouched down to take a close look and asked detailed questions about the system's operating costs and fertilizer mix,\" Cui recalled.\nAccording to Cui, the technology can increase planting density from around 67,500 to more than 82,500 plants per hectare, raising average yields by over 10 percent.\nCui said that her strongest impression from speaking face to face with Xi was his close attention to agriculture, food security and agricultural technology.\n\"His words and actions reflected his deep affection for farmers,\" Cui said.\nXi's visit then continued from the fields to the nearby Xiyujia village, where he was offered a closer look at how changes in agricultural production and rural employment are reshaping villagers' lives.\nAt the home of Yu Xinhui, 36, Xi looked around and sat down with the family for a conversation. He asked about their jobs and income, the health of elderly family members and the children's studies. He also asked in detail whether policies concerning agriculture, rural areas and farmers had been fully implemented.\nOne question from Xi left a particularly deep impression on the villager.\n\"The general secretary asked whether there was anything I was unhappy with or wanted to complain about,\" Yu recalled. \"That really warmed my heart. He truly cares about young people like us.\"\nYu said that the conversation gave him and other villagers a stronger sense of confidence and security.\n\"We feel more motivated and reassured,\" he said. \"It feels we have strong support behind us.\"\nThis year marks the beginning of China's 15th Five-Year Plan (2026-30) period. Agricultural and rural modernization, as outlined in the plan, has a major bearing on Chinese modernization as a whole. By 2030, the country aims to further strengthen food security, improve the quality, efficiency and competitiveness of agriculture, enhance agricultural sci-tech capabilities and continue raising farmers' incomes, among other goals.\nXi's fact-finding trip, which came a week before the CPC marks its 105th anniversary, underscored the Party's long-standing priorities of safeguarding food security, raising farmers' incomes and improving people's well-being.\nAs Xi left the village, residents gathered to give him a warm send-off.\n\"As we are marching on the new journey of building China into a modern socialist country in all respects, we must work together and keep up our stride on the new Long March to create a brighter future and continuously meet the people's aspirations for a better life,\" Xi said to them.",
-      "fullTextCn": "周三上午，正值繁忙的夏收时节，国家主席习近平来到山东省德州市东于家村视察。54岁的李连军和其他村民与他分享了今年夏粮丰收的喜悦。习近平得知今年小麦产量再次提高，玉米正在抢抓农时迅速播种，感到欣慰。他鼓励农民稳步提高产量和收益，力争全年粮食丰收。李连军说：“小麦都收完了，我们知道收成稳了。”他提到，与去年相比，每公顷产量增加了约300到375公斤。习近平是中共中央总书记、中央军委主席，周三在德州进行考察。\n\n对于耕种6.7公顷土地的李连军来说，田间地头的对话依然历历在目。“我从没想过总书记会直接走到我们跟前，”他说，“他非常热情、平易近人。”习近平还询问了李连军的家庭收入以及孩子们的学习和生活情况。李连军说，这些问题让这次会面更像是一次温馨随意的家常聊天，而非正式视察。然而，对德州的农民来说，今年的丰收来之不易。\n\n2025年秋季的持续降雨导致小麦播种推迟了20多天，人们担心作物能否在冬季前茁壮成长并在春季恢复。在整个生长季节，农业技术人员的帮助下，作物在4月初小麦进入拔节期时已完全恢复。当地农业技术员崔新燕表示，习近平对田间使用的水肥一体化系统表现出特别兴趣。“他蹲下来仔细查看，并详细询问了系统的运行成本和肥料配比，”崔新燕回忆道。据崔新燕介绍，这项技术可以将种植密度从每公顷约67500株提高到超过82500株，使平均产量提高10%以上。\n\n崔新燕说，与习近平面对面交流给她最深的印象是他对农业、粮食安全和农业科技的高度关注。“他的言行体现了他对农民的深厚感情，”崔新燕说。随后，习近平的视察从田间来到附近的西于家村，在那里他更深入地了解了农业生产和农村就业的变化如何重塑村民的生活。在36岁的于新辉家中，习近平环顾四周，并与一家人坐下交谈。他询问了他们的工作和收入、老人的健康状况以及孩子们的学习情况。\n\n他还详细询问了关于农业、农村和农民的政策是否得到全面落实。习近平的一个问题给这位村民留下了特别深刻的印象。“总书记问我有没有什么不满意或想抱怨的事情，”于新辉回忆道，“这让我心里很暖。他真心关心我们这样的年轻人。”于新辉说，这次谈话让他和其他村民感到更加自信和安全。\n\n“我们感到更有动力、更安心了，”他说，“感觉背后有强大的支持。”今年是中国第十五个五年规划（2026-2030年）的开局之年。规划中提出的农业农村现代化，对中国式现代化具有重大意义。到2030年，国家目标是进一步加强粮食安全，提高农业质量、效益和竞争力，增强农业科技能力，并继续提高农民收入等。习近平的这次考察，恰逢中国共产党成立105周年前一周，凸显了党长期以来保障粮食安全、提高农民收入、改善民生福祉的优先事项。\n\n习近平离开村庄时，村民们聚集在一起热情送别。“在全面建设社会主义现代化国家的新征程上，我们要团结一心，在新长征路上继续前进，创造更加美好的未来，不断满足人民对美好生活的向往，”习近平对大家说。"
+      "fullTextCn": "周三上午，正值繁忙的夏收时节，国家主席习近平来到山东省德州市东于家村视察。54岁的李连军和其他村民与他分享了今年夏粮丰收的喜悦。习近平得知今年小麦产量再次提高，玉米正在抢时播种、没有错过最佳播种期，感到欣慰。他鼓励农民稳步提高产量和收益，力争全年粮食丰收。李连军说：“小麦都收完了，我们知道丰收稳了。”他提到，与去年相比，每公顷产量增加了约300到375公斤。习近平还担任中共中央总书记、中央军委主席，他于周三在德州进行考察。\n\n对于耕种6.7公顷土地的李连军来说，田间的对话依然历历在目。“我从未想过总书记会直接走到我们面前，”他说，“他非常温暖、平易近人。”习近平还询问了李连军的家庭收入以及孩子们的学习和生活情况。李连军说，这些问题让这次会面更像是一次温馨随意的家常聊天，而非正式视察。然而，对于德州的农民来说，今年的丰收来之不易。\n\n2025年秋季的持续降雨将小麦播种推迟了20多天，引发了对作物能否在冬季前茁壮生长并在春季恢复的担忧。在整个生长季节，在农业技术人员的帮助下，到4月初小麦进入拔节期时，作物已完全恢复。当地农业技术员崔新燕表示，习近平对田间使用的水肥一体化系统表现出特别兴趣。“他蹲下来仔细查看，并详细询问了系统的运行成本和肥料配比，”崔新燕回忆道。据崔新燕介绍，这项技术可以将种植密度从每公顷约67500株提高到超过82500株，使平均产量提高10%以上。\n\n崔新燕说，与习近平面对面交谈给她最深的印象是他对农业、粮食安全和农业技术的高度关注。“他的一言一行都体现了他对农民的深厚感情，”崔新燕说。随后，习近平的视察从田间继续前往附近的西于家村，在那里他更深入地了解了农业生产和农村就业的变化如何重塑村民的生活。在36岁的于新辉家中，习近平环顾四周，并与一家人坐下交谈。他询问了他们的工作和收入、老人的健康状况以及孩子们的学习情况。\n\n他还详细询问了关于农业、农村和农民的政策是否得到了全面落实。习近平提出的一个问题给这位村民留下了特别深刻的印象。“总书记问我有没有什么不满意或想抱怨的事情，”于新辉回忆道，“这让我心里很温暖。他真心关心我们这样的年轻人。”于新辉说，这次谈话让他和其他村民有了更强的安全感和信心。\n\n“我们感到更有动力、更安心了，”他说，“感觉背后有强大的支持。”今年是中国第十五个五年规划（2026-2030年）的开局之年。规划中提出的农业农村现代化，对中国式现代化具有重大意义。到2030年，国家旨在进一步加强粮食安全，提高农业质量、效率和竞争力，增强农业科技能力，并继续提高农民收入等。习近平的这次调研，恰逢中国共产党成立105周年前一周，突显了党长期以来保障粮食安全、提高农民收入、改善民生福祉的优先事项。\n\n习近平离开村庄时，居民们聚集在一起热情送别。“在全面建设社会主义现代化国家的新征程上，我们必须团结一心，在新长征路上继续前行，创造更加美好的未来，不断满足人民对美好生活的向往，”习近平对他们说。"
     },
     {
-      "id": 3,
+      "id": 4,
       "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-18/Tropical-Storm-Arthur-forms-near-Texas-coast-flooding-expected-1O4nVAjuJAk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Tropical Storm Arthur forms near Texas coast, flooding expected",
-      "titleCn": "热带风暴亚瑟在得克萨斯州海岸附近形成，预计将引发洪水",
-      "summary": "Tropical Storm Arthur, the first named storm of the 2026 Atlantic hurricane season, formed on Wednesday near the Texas coast and is expected to bring life-threatening flooding across portions of the southeastern US, according to the US National Hurricane Center.",
-      "summaryCn": "热带风暴亚瑟作为2026年大西洋飓风季首个命名风暴，在得克萨斯州海岸形成，预计将给美国东南部带来危及生命的洪水和强降雨。",
-      "wordCount": 442,
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-06-24/-The-Polygamist-author-unpacks-Netflix-sensation-1Of2Y0O6eR2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "'The Polygamist' author unpacks Netflix sensation",
+      "titleCn": "《一夫多妻者》作者解读奈飞热剧",
+      "summary": "'The Polygamist', based on Sue Nyathi's 2012 debut novel, became one of Netflix's most-watched non-English series in the weeks following its June release, trending across Africa, the Caribbean, and parts of Europe.",
+      "summaryCn": "津巴布韦作家苏·尼亚蒂的自出版小说《一夫多妻者》被改编成奈飞热播剧，标志着非洲文学改编影视作品的新趋势。",
+      "wordCount": 695,
       "paragraphs": [
         {
-          "en": "A person walks through a {{0}} neighborhood after Tropical Storm Arthur made {{1}} in Freeport, Texas, June 17, 2026. Tropical Storm Arthur, the first named storm of the 2026 Atlantic hurricane season, formed on Wednesday near the Texas coast and is expected to bring {{2}} flooding across {{3}} of the southeastern US, according to the US National Hurricane Center (NHC). As of Wednesday night, the storm was {{4}} about 15 km northwest of Galveston, Texas, and about 185 km west-southwest of Lake Charles, Louisiana, moving northeast with maximum {{5}} winds of about 65 km/h – above the 63 km/h {{6}} for a tropical storm, said the NHC. Forecasters expect the system to gradually weaken and potentially {{7}} by late Wednesday night or early Thursday as it moves further {{8}} over southeastern Texas. Heavy surf stirred up by Tropical Storm Arthur {{9}} the beach in Surfside, Texas, June 17, 2026. Despite weakening, Arthur is expected to produce {{10}} heavy rainfall and life-threatening {{11}} flooding across portions of the southeastern US. The storm is expected to produce 127 to 254 mm of rainfall.",
-          "cn": "2026年6月17日，热带风暴亚瑟在得克萨斯州弗里波特登陆后，一名行人穿过被洪水淹没的社区。据美国国家飓风中心称，作为2026年大西洋飓风季首个命名风暴，热带风暴亚瑟于周三在得克萨斯州海岸附近形成，预计将给美国东南部部分地区带来危及生命的洪水。截至周三晚间，风暴中心位于得克萨斯州加尔维斯顿西北约15公里处，路易斯安那州查尔斯湖西南偏西约185公里处，以最大持续风速约65公里/小时向东北移动——高于热带风暴的63公里/小时阈值。预报员预计，随着该系统向得克萨斯州东南部内陆移动，它将在周三深夜或周四早些时候逐渐减弱并可能消散。2026年6月17日，热带风暴亚瑟引发的巨浪冲击着得克萨斯州瑟夫赛德海滩。尽管减弱，亚瑟预计仍将给美国东南部部分地区带来大范围强降雨和危及生命的山洪暴发。该风暴预计将带来127至254毫米的降雨量。"
+          "en": "File photo: Rows of books are neatly arranged on shelves at the Dalingshan Library in Dongguan, Guangdong Province, on October 21, 2021. /CFP\nA self-published novel by a Zimbabwean author that struggled to find a distributor is now the source of one of this year's biggest online hits. \"The Polygamist,\" based on Sue Nyathi's 2012 {{2}} novel, became one of Netflix's most-watched non-English series within weeks of its June release, {{3}} across Africa, the Caribbean, and parts of Europe. The series forms part of a wider {{4}} of works by African authors driving major screen productions at a scale and {{5}} not seen before. \"For a long time, the {{6}} was usually on African authors who are published overseas, and those books are sold down to the rest of the continent,\" Nyathi said in an interview with CGTN Africa.",
+          "cn": "资料照片：2021年10月21日，广东省东莞市大岭山图书馆的书架上整齐排列着成排的书籍。/CFP\n一位津巴布韦作家自出版的小说曾难以找到发行商，如今却成为今年最热门的网络作品之一。改编自苏·尼亚蒂2012年处女作的《一夫多妻者》，在6月上线后数周内便成为奈飞观看量最高的非英语剧集之一，在非洲、加勒比地区和欧洲部分地区掀起热潮。该剧是非洲作家作品推动大规模影视制作这一更广泛趋势的一部分，其规模和雄心前所未有。尼亚蒂在接受CGTN非洲频道采访时表示：“长期以来，聚光灯通常聚焦在海外出版的非洲作家身上，这些书随后被销往非洲大陆其他地区。”"
         },
         {
-          "en": "Isolated higher totals near 50 cm are expected through early Friday from the mid and upper Texas coast east-northeast into southern and central portions of Louisiana, Mississippi and Alabama, along with western portions of Georgia and the Florida Panhandle, said the NHC. \"Very heavy rainfall is expected to fall across southeast Louisiana into southern Mississippi, where there can be {{13}} and even life-threatening flooding, before {{14}} northeastward through the Carolinas and Georgia,\" said AccuWeather hurricane expert Alex DaSilva. Significant rain is expected to last through Friday across the Southeast, and the zone of greatest risk will {{15}} from far eastern Texas and Louisiana to Georgia by Friday, according to AccuWeather. Potential impacts on the energy sector\nArthur's path runs near the Gulf Coast {{16}} region, which stretches from Corpus Christi to Pascagoula, Mississippi, and holds around half of US refining {{17}} of 18.4 million barrels per day. Operators including major oil refiners and LNG exporters along the coast have been {{18}} the storm. A model from consulting firm Earth Science Associates based on past storms is {{19}} that around 20,000 barrels of oil could be lost because of {{20}} at {{21}} platforms in the storm's path. \"Part of the past losses occur due to an {{22}} of {{23}} for personnel and other dangers, and that is part of the data in the model, though for the current storm we haven't seen those actions, so it is likely to be on the low side of the forecast,\" Earth Science Associates Chief Operating Officer Tony Dupont said in an emailed response to questions.",
-          "cn": "美国国家飓风中心表示，预计到周五早些时候，从得克萨斯州中上游海岸向东北方向延伸至路易斯安那州、密西西比州和阿拉巴马州的中部和南部，以及佐治亚州西部和佛罗里达州狭长地带，孤立地区降雨总量接近50厘米。AccuWeather飓风专家亚历克斯·达席尔瓦表示：“预计强降雨将落在路易斯安那州东南部至密西西比州南部，那里可能发生严重甚至危及生命的洪水，然后向东北方向蔓延至卡罗来纳州和佐治亚州。”据AccuWeather称，预计东南部地区的大雨将持续到周五，到周五，最大风险区域将从得克萨斯州东部和路易斯安那州转移到佐治亚州。对能源行业的潜在影响：亚瑟的路径靠近墨西哥湾沿岸的炼油区，该区域从科珀斯克里斯蒂延伸至密西西比州帕斯卡古拉，拥有美国约1840万桶/日炼油产能的一半。包括主要石油炼油商和液化天然气出口商在内的沿海运营商一直在监测该风暴。咨询公司地球科学协会基于过去风暴的模型预测，由于风暴路径上的海上平台停产，可能损失约2万桶石油。地球科学协会首席运营官托尼·杜邦在回复问题的电子邮件中表示：“过去的部分损失是由于对人员和其他危险的高度谨慎造成的，这也是模型数据的一部分，尽管对于当前风暴，我们尚未看到这些行动，因此很可能处于预测的低端。”"
+          "en": "\"It is difficult to sell books. So for me, this is actually a {{7}} moment.\"\nNyathi, born in Bulawayo, Zimbabwe, described her journey to success as more of a {{8}}, with many challenges along the way. \"Being a writer, you need to be {{9}}. I mentioned that I couldn’t get a publisher for this book, The Polygamist, when it came out. I wrote it in 2010, and then I spent the whole of 2011 with my editor sending out {{10}} letters, and there was no interest,” she said.",
+          "cn": "“卖书很难。所以对我来说，这实际上是一个胜利的时刻。”\n出生于津巴布韦布拉瓦约的尼亚蒂将自己的成功之路描述为一条曲折的曲线，沿途充满挑战。“作为一名作家，你需要脸皮厚。我提到过，这本书《一夫多妻者》出版时，我找不到出版商。我是在2010年写的，然后2011年整年我和编辑都在发送征询信，但毫无兴趣。”她说。"
+        },
+        {
+          "en": "She kept writing. After The Polygamist came The Gold Diggers, A Family Affair, An Angel's Demise, and Rubies and Rain. In 2018, she left a decade-long career in {{11}} to write full-time. Netflix came on board in 2024, fourteen years after she first put the story to paper. \"You can imagine it's been a long time,\" she said.",
+          "cn": "她坚持写作。继《一夫多妻者》之后，她又出版了《淘金者》、《家庭事务》、《天使的陨落》以及《红宝石与雨》。2018年，她离开了从事十年的金融行业，全职写作。奈飞于2024年加入，距离她最初写下这个故事已经过去了14年。“你可以想象，这已经是很长时间了。”她说。"
+        },
+        {
+          "en": "\"And sometimes I would forget about it and carry on with life.\"\nThe series, produced by South Africa's Stained Glass Productions, takes Nyathi's Zimbabwean characters into a South African setting. Characters were {{12}} and storylines {{13}}, changes Nyathi said she does not {{14}}. \"The changes didn't take away from the story; they actually added to the story,\" she said. \"It still maintained the {{15}} of the original.\"\nThe production model is itself {{16}}. The source material was Zimbabwean; the production house was South African; and the series featured several directors, including Nigerian filmmaker Akin Omotoso—a pan-African {{17}} that delivered a story to a global audience.",
+          "cn": "“有时我会忘记它，继续生活。”\n该剧由南非的彩色玻璃制片公司制作，将尼亚蒂笔下的津巴布韦角色置于南非背景中。角色被合并，故事情节被扩展，尼亚蒂表示她不反对这些改动。“这些改动没有削弱故事，反而丰富了故事，”她说，“它仍然保持了原作的精髓。”\n这种制作模式本身就意义重大。原著素材来自津巴布韦；制作公司来自南非；剧集由多位导演执导，包括尼日利亚电影制作人阿金·奥莫托索——这是一次泛非合作，将一个故事呈现给了全球观众。"
+        },
+        {
+          "en": "Online, {{18}} has centered on whether the {{19}} Jonasi Gomora, played by S'dumo Mtshali, is a {{20}} or a {{21}}, and whether the women around him, led by Gugu Gumede's Joyce, were victims or {{22}}. \"I just wanted to write a story that would get people talking about the {{23}} things that, as a society, we tend to {{24}} under the rug,\" she said. \"People are saying their fathers are like Jonasi, or they could see their moms in some of the women in the story. It just goes to show that, as a society, there is a lot of {{25}} and we need healing.\"\nThe success of The Polygamist is not an {{26}} event. Nigerian author Sefi Atta's novel Swallow was adapted for Netflix in 2021 by director Kunle Afolayan.",
+          "cn": "在网上，争论的焦点集中在由S'dumo Mtshali饰演的 patriarch Jonasi Gomora 是反派还是受害者，以及他身边的女性——以Gugu Gumede饰演的Joyce为首——是受害者还是同谋。“我只是想写一个故事，让人们谈论那些作为社会我们往往掩盖起来的不舒服的事情，”她说，“人们说他们的父亲像Jonasi，或者他们能在故事中的一些女性身上看到自己的母亲。这恰恰表明，作为一个社会，存在很多破碎，我们需要疗愈。”\n《一夫多妻者》的成功并非孤立事件。尼日利亚作家塞菲·阿塔的小说《吞咽》于2021年被导演昆勒·阿弗拉扬改编为奈飞电影。"
+        },
+        {
+          "en": "South African crime writer Deon Meyer's Heart of the Hunter reached No. 1 on Netflix’s English Films chart after its March 2024 release, {{27}} millions of views in its first week. Each adaptation has found audiences well beyond its country of origin, testing and repeatedly confirming the {{29}} that African stories do not need to be {{28}} to travel. The argument is now being made at the level of the Hollywood blockbuster with Tomi Adeyemi's Children of Blood and Bone, a Nigerian-inspired fantasy novel whose trilogy has spent a combined 175 weeks on the New York Times bestseller list and sold nearly three million copies worldwide. Its film adaptation is currently in post-production at Paramount Pictures ahead of a January 15, 2027, IMAX release.",
+          "cn": "南非犯罪小说作家迪昂·迈耶的《猎人之心》在2024年3月上映后，登顶奈飞英语电影排行榜，首周便积累了数百万次观看。每一部改编作品都在其原产国之外找到了大量观众，检验并反复证实了一个前提：非洲故事无需被稀释就能传播。这一论点如今已在好莱坞大片层面得到体现，托米·阿德耶米的《血与骨之子》——一部受尼日利亚启发的奇幻小说，其三部曲在《纽约时报》畅销书排行榜上累计停留了175周，全球销量近300万册——其电影改编版目前正在派拉蒙影业进行后期制作，将于2027年1月15日以IMAX格式上映。"
+        },
+        {
+          "en": "The film features South Africa’s Thuso Mbedu in the lead role alongside Viola Davis, Idris Elba, Chiwetel Ejiofor, Cynthia Erivo, and Regina King. What both projects share, besides African authorship, is creative control retained closer to the source. Adeyemi co-wrote her own screenplay. Nyathi's book is credited in the series.",
+          "cn": "该片由南非的图索·姆贝杜领衔主演，其他主演包括维奥拉·戴维斯、伊德里斯·艾尔巴、切瓦特·埃加福特、辛西娅·埃里沃和雷吉娜·金。这两个项目除了非洲作者身份外，还有一个共同点：创作控制权更接近源头。阿德耶米共同撰写了她的剧本。尼亚蒂的书在剧集中被署名。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "flooded",
-          "hint": "adj. 被水淹没的",
+          "answer": "debut",
+          "hint": "n. 处女作，首次亮相",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "landfall",
-          "hint": "n. 登陆",
+          "answer": "trending",
+          "hint": "v. 流行，成为趋势",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "life-threatening",
-          "hint": "adj. 危及生命的",
-          "difficulty": "hard"
+          "answer": "pattern",
+          "hint": "n. 模式，趋势",
+          "difficulty": "easy"
         },
         {
           "id": 3,
-          "answer": "portions",
-          "hint": "n. 部分",
+          "answer": "ambition",
+          "hint": "n. 雄心，抱负",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "centered",
-          "hint": "v. 位于中心",
+          "answer": "spotlight",
+          "hint": "n. 聚光灯，关注焦点",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "sustained",
-          "hint": "adj. 持续的",
+          "answer": "triumphant",
+          "hint": "adj. 胜利的，成功的",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "threshold",
-          "hint": "n. 阈值",
-          "difficulty": "hard"
+          "answer": "curve",
+          "hint": "n. 曲线，曲折",
+          "difficulty": "easy"
         },
         {
           "id": 7,
-          "answer": "dissipate",
-          "hint": "v. 消散",
+          "answer": "thick-skinned",
+          "hint": "adj. 厚脸皮的，坚韧的",
           "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "inland",
-          "hint": "adv. 向内陆",
+          "answer": "query",
+          "hint": "n. 询问，征询",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "batters",
-          "hint": "v. 猛烈冲击",
-          "difficulty": "hard"
+          "answer": "finance",
+          "hint": "n. 金融，财务",
+          "difficulty": "easy"
         },
         {
           "id": 10,
-          "answer": "widespread",
+          "answer": "consolidated",
+          "hint": "v. 合并，巩固",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "expanded",
+          "hint": "v. 扩展，扩大",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "oppose",
+          "hint": "v. 反对",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "essence",
+          "hint": "n. 本质，精髓",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "significant",
+          "hint": "adj. 重要的，意义重大的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "collaboration",
+          "hint": "n. 合作，协作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "debate",
+          "hint": "n. 辩论，争论",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "patriarch",
+          "hint": "n. 家长，族长",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "villain",
+          "hint": "n. 反派，恶人",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "victim",
+          "hint": "n. 受害者",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "complicit",
+          "hint": "adj. 同谋的，串通的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "uncomfortable",
+          "hint": "adj. 不舒服的，令人不安的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 22,
+          "answer": "shove",
+          "hint": "v. 推，塞",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "brokenness",
+          "hint": "n. 破碎，破裂",
+          "difficulty": "hard"
+        },
+        {
+          "id": 24,
+          "answer": "isolated",
+          "hint": "adj. 孤立的，单独的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "accumulating",
+          "hint": "v. 积累，累积",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "diluted",
+          "hint": "v. 稀释，削弱",
+          "difficulty": "hard"
+        },
+        {
+          "id": 27,
+          "answer": "premise",
+          "hint": "n. 前提，假设",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "File photo: Rows of books are neatly arranged on shelves at the Dalingshan Library in Dongguan, Guangdong Province, on October 21, 2021. /CFP\nA self-published novel by a Zimbabwean author that struggled to find a distributor is now the source of one of this year's biggest online hits.\n\"The Polygamist,\" based on Sue Nyathi's 2012 debut novel, became one of Netflix's most-watched non-English series within weeks of its June release, trending across Africa, the Caribbean, and parts of Europe.\nThe series forms part of a wider pattern of works by African authors driving major screen productions at a scale and ambition not seen before.\n\"For a long time, the spotlight was usually on African authors who are published overseas, and those books are sold down to the rest of the continent,\" Nyathi said in an interview with CGTN Africa. \"It is difficult to sell books. So for me, this is actually a triumphant moment.\"\nNyathi, born in Bulawayo, Zimbabwe, described her journey to success as more of a curve, with many challenges along the way.\n\"Being a writer, you need to be thick-skinned. I mentioned that I couldn’t get a publisher for this book, The Polygamist, when it came out. I wrote it in 2010, and then I spent the whole of 2011 with my editor sending out query letters, and there was no interest,” she said.\nShe kept writing.\nAfter The Polygamist came The Gold Diggers, A Family Affair, An Angel's Demise, and Rubies and Rain.\nIn 2018, she left a decade-long career in finance to write full-time. Netflix came on board in 2024, fourteen years after she first put the story to paper.\n\"You can imagine it's been a long time,\" she said. \"And sometimes I would forget about it and carry on with life.\"\nThe series, produced by South Africa's Stained Glass Productions, takes Nyathi's Zimbabwean characters into a South African setting.\nCharacters were consolidated and storylines expanded, changes Nyathi said she does not oppose.\n\"The changes didn't take away from the story; they actually added to the story,\" she said. \"It still maintained the essence of the original.\"\nThe production model is itself significant. The source material was Zimbabwean; the production house was South African; and the series featured several directors, including Nigerian filmmaker Akin Omotoso—a pan-African collaboration that delivered a story to a global audience.\nOnline, debate has centered on whether the patriarch Jonasi Gomora, played by S'dumo Mtshali, is a villain or a victim, and whether the women around him, led by Gugu Gumede's Joyce, were victims or complicit.\n\"I just wanted to write a story that would get people talking about the uncomfortable things that, as a society, we tend to shove under the rug,\" she said. \"People are saying their fathers are like Jonasi, or they could see their moms in some of the women in the story. It just goes to show that, as a society, there is a lot of brokenness and we need healing.\"\nThe success of The Polygamist is not an isolated event.\nNigerian author Sefi Atta's novel Swallow was adapted for Netflix in 2021 by director Kunle Afolayan. South African crime writer Deon Meyer's Heart of the Hunter reached No. 1 on Netflix’s English Films chart after its March 2024 release, accumulating millions of views in its first week.\nEach adaptation has found audiences well beyond its country of origin, testing and repeatedly confirming the premise that African stories do not need to be diluted to travel.\nThe argument is now being made at the level of the Hollywood blockbuster with Tomi Adeyemi's Children of Blood and Bone, a Nigerian-inspired fantasy novel whose trilogy has spent a combined 175 weeks on the New York Times bestseller list and sold nearly three million copies worldwide. Its film adaptation is currently in post-production at Paramount Pictures ahead of a January 15, 2027, IMAX release.\nThe film features South Africa’s Thuso Mbedu in the lead role alongside Viola Davis, Idris Elba, Chiwetel Ejiofor, Cynthia Erivo, and Regina King.\nWhat both projects share, besides African authorship, is creative control retained closer to the source. Adeyemi co-wrote her own screenplay. Nyathi's book is credited in the series.",
+      "fullTextCn": "资料照片：2021年10月21日，广东省东莞市大岭山图书馆的书架上整齐排列着成排的书籍。/CFP\n一位津巴布韦作家自出版的小说曾难以找到发行商，如今却成为今年最热门的网络作品之一。改编自苏·尼亚蒂2012年处女作的《一夫多妻者》，在6月上线后数周内便成为奈飞观看量最高的非英语剧集之一，在非洲、加勒比地区和欧洲部分地区掀起热潮。该剧是非洲作家作品推动大规模影视制作这一更广泛趋势的一部分，其规模和雄心前所未有。尼亚蒂在接受CGTN非洲频道采访时表示：“长期以来，聚光灯通常聚焦在海外出版的非洲作家身上，这些书随后被销往非洲大陆其他地区。”\n\n“卖书很难。所以对我来说，这实际上是一个胜利的时刻。”\n出生于津巴布韦布拉瓦约的尼亚蒂将自己的成功之路描述为一条曲折的曲线，沿途充满挑战。“作为一名作家，你需要脸皮厚。我提到过，这本书《一夫多妻者》出版时，我找不到出版商。我是在2010年写的，然后2011年整年我和编辑都在发送征询信，但毫无兴趣。”她说。\n\n她坚持写作。继《一夫多妻者》之后，她又出版了《淘金者》、《家庭事务》、《天使的陨落》以及《红宝石与雨》。2018年，她离开了从事十年的金融行业，全职写作。奈飞于2024年加入，距离她最初写下这个故事已经过去了14年。“你可以想象，这已经是很长时间了。”她说。\n\n“有时我会忘记它，继续生活。”\n该剧由南非的彩色玻璃制片公司制作，将尼亚蒂笔下的津巴布韦角色置于南非背景中。角色被合并，故事情节被扩展，尼亚蒂表示她不反对这些改动。“这些改动没有削弱故事，反而丰富了故事，”她说，“它仍然保持了原作的精髓。”\n这种制作模式本身就意义重大。原著素材来自津巴布韦；制作公司来自南非；剧集由多位导演执导，包括尼日利亚电影制作人阿金·奥莫托索——这是一次泛非合作，将一个故事呈现给了全球观众。\n\n在网上，争论的焦点集中在由S'dumo Mtshali饰演的 patriarch Jonasi Gomora 是反派还是受害者，以及他身边的女性——以Gugu Gumede饰演的Joyce为首——是受害者还是同谋。“我只是想写一个故事，让人们谈论那些作为社会我们往往掩盖起来的不舒服的事情，”她说，“人们说他们的父亲像Jonasi，或者他们能在故事中的一些女性身上看到自己的母亲。这恰恰表明，作为一个社会，存在很多破碎，我们需要疗愈。”\n《一夫多妻者》的成功并非孤立事件。尼日利亚作家塞菲·阿塔的小说《吞咽》于2021年被导演昆勒·阿弗拉扬改编为奈飞电影。\n\n南非犯罪小说作家迪昂·迈耶的《猎人之心》在2024年3月上映后，登顶奈飞英语电影排行榜，首周便积累了数百万次观看。每一部改编作品都在其原产国之外找到了大量观众，检验并反复证实了一个前提：非洲故事无需被稀释就能传播。这一论点如今已在好莱坞大片层面得到体现，托米·阿德耶米的《血与骨之子》——一部受尼日利亚启发的奇幻小说，其三部曲在《纽约时报》畅销书排行榜上累计停留了175周，全球销量近300万册——其电影改编版目前正在派拉蒙影业进行后期制作，将于2027年1月15日以IMAX格式上映。\n\n该片由南非的图索·姆贝杜领衔主演，其他主演包括维奥拉·戴维斯、伊德里斯·艾尔巴、切瓦特·埃加福特、辛西娅·埃里沃和雷吉娜·金。这两个项目除了非洲作者身份外，还有一个共同点：创作控制权更接近源头。阿德耶米共同撰写了她的剧本。尼亚蒂的书在剧集中被署名。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-25/news-1OfMTtp3lW8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Rescues underway in Venezuela as state of emergency declared",
+      "titleCn": "委内瑞拉宣布进入紧急状态，救援工作正在进行",
+      "summary": "Rescue operations are ongoing as Venezuela on Wednesday declared a state of emergency following strong earthquakes that could result in high casualties and extensive damage.",
+      "summaryCn": "委内瑞拉在强烈地震后宣布进入紧急状态，救援行动持续进行，已造成至少32人死亡、700人受伤。",
+      "wordCount": 458,
+      "paragraphs": [
+        {
+          "en": ", Updated 14:44, 25-Jun-2026Rescue workers and municipal police officers work at the site of a {{5}} building following the earthquake, Caracas, Venezuela, June 24, 2026. Rescue {{0}} are ongoing as Venezuela on Wednesday {{1}} a state of emergency following strong earthquakes that could result in high {{2}} and {{3}} damage. Venezuelan Interim President Delcy Rodriguez said the earthquakes killed at least 32 people and injured 700, in an {{4}} on state television before 1 a.m. local time (0500 GMT) on Thursday. \"Dozens of buildings have collapsed, and we are currently carrying out very {{6}} rescue efforts,\" she said.",
+          "cn": "救援人员和市政警察在委内瑞拉加拉加斯地震后倒塌的建筑现场工作，2026年6月24日。救援行动仍在进行中，委内瑞拉于周三宣布进入紧急状态，此前发生的强烈地震可能导致高伤亡和广泛破坏。委内瑞拉临时总统德尔西·罗德里格斯在周四当地时间凌晨1点前（格林威治时间0500）的国家电视讲话中表示，地震已造成至少32人死亡、700人受伤。她说：“数十栋建筑倒塌，我们正在进行非常紧张的救援工作。”"
+        },
+        {
+          "en": "\"I also want to say that this is a true tragedy. From here, we send our message of {{7}}, and to those families who have lost loved ones, we reaffirm our {{8}} and our support in these difficult hours.\"\nShe said rescue {{9}} from other countries are arriving in the coming hours. Rodriguez has earlier declared a state of emergency, and announced the {{10}} of the main international airport in Maiquetía, which suffered severe damage, according to media reports. She also said the metro and train systems had been {{11}}. According to Rodriguez, in addition to two powerful earthquakes, 20 aftershocks were felt.",
+          "cn": "“我还想说，这是一场真正的悲剧。在此，我们表达团结之情，并向那些失去亲人的家庭重申我们的哀悼和支持，在这艰难时刻。”她说，来自其他国家的救援队伍将在未来几小时内抵达。据媒体报道，罗德里格斯早些时候宣布进入紧急状态，并宣布关闭遭受严重破坏的迈克蒂亚主要国际机场。她还表示，地铁和铁路系统已暂停运营。据罗德里格斯称，除了两次强震外，还感受到了20次余震。"
+        },
+        {
+          "en": "She urged the people to {{12}} damaged buildings and remain calm and united. A magnitude-7.2 earthquake hit about 160 km west of Caracas at 6:04 p.m. local time (2204 GMT) on Wednesday, followed less than a minute later by an even stronger magnitude-7.5 {{13}} at a {{14}} depth of 10 km, according to the US Geological Survey (USGS). Rescue operations are underway after two powerful earthquakes, Caracas, Venezuela, June 24, 2026. Shaking windows and {{15}} bookshelves were reported at the residences and images circulating on social media showed collapsed houses on the streets.",
+          "cn": "她敦促民众撤离受损建筑，保持冷静和团结。据美国地质调查局（USGS）称，周三当地时间下午6点04分（格林威治时间2204），加拉加斯以西约160公里处发生7.2级地震，不到一分钟后，又发生了一次更强的7.5级浅源地震，震源深度10公里。2026年6月24日，委内瑞拉加拉加斯，两次强震后救援行动正在进行。据报道，住宅区窗户摇晃、书架倾倒，社交媒体上流传的图像显示街道上有房屋倒塌。"
+        },
+        {
+          "en": "Video footage also showed emergency workers climbing into the {{16}} of one collapsed building in the capital as night began to fall. Many Venezuelans were at home celebrating a public holiday when the quakes hit. Venezuela's Interior, Justice and Peace Minister Diosdado Cabello said the strong earthquakes have caused damage in cities across the country, giving no immediate details on casualties or injuries. Cabello urged Venezuelans to avoid staying inside buildings in the coming hours due to the risk of strong aftershocks that could cause further collapses, while calling on the public to remain calm and united as the country deals with the quakes' {{17}}. Meanwhile, Colombian media reported that the quakes were also felt strongly in several cities in neighboring Colombia.",
+          "cn": "视频画面还显示，夜幕降临时，急救人员爬进首都一栋倒塌建筑的废墟中。许多委内瑞拉人当时正在家中庆祝公共假日，地震突然袭来。委内瑞拉内政、司法与和平部长迪奥斯达多·卡贝略表示，强震已对全国多个城市造成破坏，但未立即提供伤亡细节。卡贝略敦促委内瑞拉人在未来几小时内避免待在建筑物内，因为强余震可能导致进一步倒塌，同时呼吁公众保持冷静和团结，共同应对地震后果。与此同时，哥伦比亚媒体报道称，邻国哥伦比亚的多个城市也感受到了强烈震感。"
+        },
+        {
+          "en": "The US Tsunami Warning System issued a tsunami threat for Puerto Rico and the US and British Virgin Islands following the earthquake, adding that islands off the coast from Venezuela to Aruba, Curacao and Bonaire could also be hit by hazardous waves.",
+          "cn": "美国海啸预警系统在地震后对波多黎各以及美属和英属维尔京群岛发布了海啸威胁，并补充说，从委内瑞拉到阿鲁巴、库拉索和博内尔岛的海岸附近岛屿也可能受到危险海浪的袭击。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "operations",
+          "hint": "n. 行动",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "declared",
+          "hint": "v. 宣布",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "casualties",
+          "hint": "n. 伤亡",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "extensive",
           "hint": "adj. 广泛的",
           "difficulty": "medium"
         },
         {
-          "id": 11,
-          "answer": "flash",
-          "hint": "adj. 突发的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "significant",
-          "hint": "adj. 显著的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "spreading",
-          "hint": "v. 蔓延",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "shift",
-          "hint": "v. 转移",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "refining",
-          "hint": "n. 炼油",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "capacity",
-          "hint": "n. 产能",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "monitoring",
-          "hint": "v. 监测",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "forecasting",
-          "hint": "v. 预测",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "shut-ins",
-          "hint": "n. 停产",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
-          "answer": "offshore",
-          "hint": "adj. 海上的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "abundance",
-          "hint": "n. 大量",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "caution",
-          "hint": "n. 谨慎",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "A person walks through a flooded neighborhood after Tropical Storm Arthur made landfall in Freeport, Texas, June 17, 2026. \nTropical Storm Arthur, the first named storm of the 2026 Atlantic hurricane season, formed on Wednesday near the Texas coast and is expected to bring life-threatening flooding across portions of the southeastern US, according to the US National Hurricane Center (NHC).\nAs of Wednesday night, the storm was centered about 15 km northwest of Galveston, Texas, and about 185 km west-southwest of Lake Charles, Louisiana, moving northeast with maximum sustained winds of about 65 km/h – above the 63 km/h threshold for a tropical storm, said the NHC.\nForecasters expect the system to gradually weaken and potentially dissipate by late Wednesday night or early Thursday as it moves further inland over southeastern Texas.\nHeavy surf stirred up by Tropical Storm Arthur batters the beach in Surfside, Texas, June 17, 2026. \nDespite weakening, Arthur is expected to produce widespread heavy rainfall and life-threatening flash flooding across portions of the southeastern US.\nThe storm is expected to produce 127 to 254 mm of rainfall. Isolated higher totals near 50 cm are expected through early Friday from the mid and upper Texas coast east-northeast into southern and central portions of Louisiana, Mississippi and Alabama, along with western portions of Georgia and the Florida Panhandle, said the NHC.\n\"Very heavy rainfall is expected to fall across southeast Louisiana into southern Mississippi, where there can be significant and even life-threatening flooding, before spreading northeastward through the Carolinas and Georgia,\" said AccuWeather hurricane expert Alex DaSilva.\nSignificant rain is expected to last through Friday across the Southeast, and the zone of greatest risk will shift from far eastern Texas and Louisiana to Georgia by Friday, according to AccuWeather.\nPotential impacts on the energy sector\nArthur's path runs near the Gulf Coast refining region, which stretches from Corpus Christi to Pascagoula, Mississippi, and holds around half of US refining capacity of 18.4 million barrels per day.\nOperators including major oil refiners and LNG exporters along the coast have been monitoring the storm.\nA model from consulting firm Earth Science Associates based on past storms is forecasting that around 20,000 barrels of oil could be lost because of shut-ins at offshore platforms in the storm's path.\n\"Part of the past losses occur due to an abundance of caution for personnel and other dangers, and that is part of the data in the model, though for the current storm we haven't seen those actions, so it is likely to be on the low side of the forecast,\" Earth Science Associates Chief Operating Officer Tony Dupont said in an emailed response to questions.",
-      "fullTextCn": "2026年6月17日，热带风暴亚瑟在得克萨斯州弗里波特登陆后，一名行人穿过被洪水淹没的社区。据美国国家飓风中心称，作为2026年大西洋飓风季首个命名风暴，热带风暴亚瑟于周三在得克萨斯州海岸附近形成，预计将给美国东南部部分地区带来危及生命的洪水。截至周三晚间，风暴中心位于得克萨斯州加尔维斯顿西北约15公里处，路易斯安那州查尔斯湖西南偏西约185公里处，以最大持续风速约65公里/小时向东北移动——高于热带风暴的63公里/小时阈值。预报员预计，随着该系统向得克萨斯州东南部内陆移动，它将在周三深夜或周四早些时候逐渐减弱并可能消散。2026年6月17日，热带风暴亚瑟引发的巨浪冲击着得克萨斯州瑟夫赛德海滩。尽管减弱，亚瑟预计仍将给美国东南部部分地区带来大范围强降雨和危及生命的山洪暴发。该风暴预计将带来127至254毫米的降雨量。\n\n美国国家飓风中心表示，预计到周五早些时候，从得克萨斯州中上游海岸向东北方向延伸至路易斯安那州、密西西比州和阿拉巴马州的中部和南部，以及佐治亚州西部和佛罗里达州狭长地带，孤立地区降雨总量接近50厘米。AccuWeather飓风专家亚历克斯·达席尔瓦表示：“预计强降雨将落在路易斯安那州东南部至密西西比州南部，那里可能发生严重甚至危及生命的洪水，然后向东北方向蔓延至卡罗来纳州和佐治亚州。”据AccuWeather称，预计东南部地区的大雨将持续到周五，到周五，最大风险区域将从得克萨斯州东部和路易斯安那州转移到佐治亚州。对能源行业的潜在影响：亚瑟的路径靠近墨西哥湾沿岸的炼油区，该区域从科珀斯克里斯蒂延伸至密西西比州帕斯卡古拉，拥有美国约1840万桶/日炼油产能的一半。包括主要石油炼油商和液化天然气出口商在内的沿海运营商一直在监测该风暴。咨询公司地球科学协会基于过去风暴的模型预测，由于风暴路径上的海上平台停产，可能损失约2万桶石油。地球科学协会首席运营官托尼·杜邦在回复问题的电子邮件中表示：“过去的部分损失是由于对人员和其他危险的高度谨慎造成的，这也是模型数据的一部分，尽管对于当前风暴，我们尚未看到这些行动，因此很可能处于预测的低端。”"
-    },
-    {
-      "id": 4,
-      "category": "military",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-25/Pew-survey-finds-global-trust-in-US-falls-sharply--1Og22ePax8I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Pew survey finds global trust in US falls sharply",
-      "titleCn": "皮尤调查发现全球对美国信任度大幅下降",
-      "summary": "Global confidence in the United States has declined significantly in recent years, with fewer people around the world viewing it as a reliable partner, according to a new Pew Research Center survey.",
-      "summaryCn": "皮尤研究中心调查显示，全球对美国作为可靠伙伴的信任度显著下降，尤其在长期盟友中，同时对特朗普处理国际事务的信心普遍低迷。",
-      "wordCount": 408,
-      "paragraphs": [
-        {
-          "en": "Global {{0}} in the United States has {{1}} significantly in recent years, with fewer people around the world viewing it as a {{2}} partner, according to a new survey by the Pew Research Center. The survey found particularly {{3}} declines in countries that have long maintained close economic and security ties with Washington. In Canada, the share of people who described the United States as a reliable partner fell from 83% in 2022 to 35% in 2026. Similar declines were recorded in France, Germany and the United Kingdom, where the figures fell from 62% to 27%, 83% to 39%, and 82% to 49%, respectively. Australia, one of Washington's key Asia-Pacific {{4}}, also saw confidence fall sharply, from 79% in 2022 to 37% this year. The survey also revealed widespread {{5}} toward Trump.",
-          "cn": "根据皮尤研究中心的一项新调查，全球对美国的信心近年来显著下降，世界各地视其为可靠伙伴的人越来越少。调查发现，在与华盛顿长期保持密切经济和安全关系的国家中，下降幅度尤为剧烈。在加拿大，将美国描述为可靠伙伴的比例从2022年的83%降至2026年的35%。法国、德国和英国也出现了类似下降，比例分别从62%降至27%、83%降至39%和82%降至49%。澳大利亚作为华盛顿在亚太地区的关键盟友之一，信心也大幅下降，从2022年的79%降至今年的37%。调查还显示了对特朗普的普遍怀疑态度。"
-        },
-        {
-          "en": "Across the 36 countries surveyed, a {{6}} of just 23% of adults said they have confidence in his {{7}} of world affairs. Respondents gave Trump largely negative {{8}} on several major foreign policy issues, including {{9}}, the Gaza conflict, Iran, Greenland and the Russia-Ukraine conflict. Beyond perceptions of Trump, the survey pointed to a broader {{10}} in America's global image. A median of 35% of respondents said the United States {{11}} to peace and {{12}} around the world, down significantly from 2023. Views of Washington's {{13}} to consider other countries' interests have also weakened. In Germany, for example, the share of people who said the United States takes other nations' interests into {{14}} dropped from 60% in 2023 to 23% in 2026.",
-          "cn": "在接受调查的36个国家中，中位数仅有23%的成年人表示对特朗普处理国际事务有信心。受访者在多个主要外交政策问题上对特朗普给出了大体负面的评价，包括关税、加沙冲突、伊朗、格陵兰岛以及俄乌冲突。除了对特朗普的看法，调查还指出美国全球形象出现更广泛的恶化。中位数35%的受访者表示美国为世界和平与稳定做出了贡献，这一比例较2023年显著下降。对华盛顿是否愿意考虑其他国家利益的看法也有所减弱。例如，在德国，认为美国会考虑其他国家利益的比例从2023年的60%降至2026年的23%。"
-        },
-        {
-          "en": "Similarly, in Canada, Australia and the United Kingdom, the figures declined from 37%, 40% and 49% to 18%, 13% and 26%, respectively. The survey further found declining belief in America's {{15}} to individual {{16}}. The {{17}} of respondents who said the United States respects personal {{18}} has reached its lowest level in several countries surveyed by Pew over the years, including Australia, Canada and Greece. From 2021 to 2026, that figure fell from 57% to 33% in Australia, from 60% to 34% in Canada and from 53% to 36% in Greece. Overall {{19}} views of the United States also declined in many countries over the past year, including {{20}} drops in Indonesia, Italy, Nigeria, South Africa, South Korea and Türkiye. Some of the least favorable views came from {{21}} {{22}} populations, including Malaysia, Pakistan and {{23}} in the West Bank and East Jerusalem.",
-          "cn": "同样，在加拿大、澳大利亚和英国，这一比例分别从37%、40%和49%降至18%、13%和26%。调查还发现，对美国致力于个人自由的信念有所下降。表示美国尊重个人自由的受访者比例在皮尤多年来调查的多个国家中达到了最低水平，包括澳大利亚、加拿大和希腊。从2021年到2026年，这一比例在澳大利亚从57%降至33%，在加拿大从60%降至34%，在希腊从53%降至36%。过去一年中，许多国家对美国的总体好感度也有所下降，包括印度尼西亚、意大利、尼日利亚、南非、韩国和土耳其，降幅达两位数。一些最不友好的看法来自以穆斯林为主的人群，包括马来西亚、巴基斯坦以及约旦河西岸和东耶路撒冷的巴勒斯坦人。"
-        },
-        {
-          "en": "Israel recorded the highest level of {{24}} among the countries surveyed.",
-          "cn": "在接受调查的国家中，以色列的支持率最高。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "confidence",
-          "hint": "n. 信心",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "declined",
-          "hint": "v. 下降",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "reliable",
-          "hint": "adj. 可靠的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "steep",
-          "hint": "adj. 急剧的",
-          "difficulty": "hard"
-        },
-        {
           "id": 4,
-          "answer": "allies",
-          "hint": "n. 盟友",
+          "answer": "address",
+          "hint": "n. 讲话",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "skepticism",
-          "hint": "n. 怀疑态度",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "median",
-          "hint": "n. 中位数",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "handling",
-          "hint": "n. 处理",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "ratings",
-          "hint": "n. 评价",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "tariffs",
-          "hint": "n. 关税",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "deterioration",
-          "hint": "n. 恶化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "contributes",
-          "hint": "v. 贡献",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "stability",
-          "hint": "n. 稳定",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "willingness",
-          "hint": "n. 意愿",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "account",
-          "hint": "n. 考虑",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "commitment",
-          "hint": "n. 承诺",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "freedoms",
-          "hint": "n. 自由",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "proportion",
-          "hint": "n. 比例",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "liberty",
-          "hint": "n. 自由",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "favorable",
-          "hint": "adj. 有利的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "double-digit",
-          "hint": "adj. 两位数的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "predominantly",
-          "hint": "adv. 主要地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "Muslim",
-          "hint": "adj. 穆斯林的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 23,
-          "answer": "Palestinians",
-          "hint": "n. 巴勒斯坦人",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "support",
-          "hint": "n. 支持",
-          "difficulty": "easy"
-        }
-      ],
-      "fullText": "Global confidence in the United States has declined significantly in recent years, with fewer people around the world viewing it as a reliable partner, according to a new survey by the Pew Research Center.\nThe survey found particularly steep declines in countries that have long maintained close economic and security ties with Washington. In Canada, the share of people who described the United States as a reliable partner fell from 83% in 2022 to 35% in 2026. Similar declines were recorded in France, Germany and the United Kingdom, where the figures fell from 62% to 27%, 83% to 39%, and 82% to 49%, respectively.\nAustralia, one of Washington's key Asia-Pacific allies, also saw confidence fall sharply, from 79% in 2022 to 37% this year.\nThe survey also revealed widespread skepticism toward Trump. Across the 36 countries surveyed, a median of just 23% of adults said they have confidence in his handling of world affairs.\nRespondents gave Trump largely negative ratings on several major foreign policy issues, including tariffs, the Gaza conflict, Iran, Greenland and the Russia-Ukraine conflict.\nBeyond perceptions of Trump, the survey pointed to a broader deterioration in America's global image.\nA median of 35% of respondents said the United States contributes to peace and stability around the world, down significantly from 2023.\nViews of Washington's willingness to consider other countries' interests have also weakened. In Germany, for example, the share of people who said the United States takes other nations' interests into account dropped from 60% in 2023 to 23% in 2026.\nSimilarly, in Canada, Australia and the United Kingdom, the figures declined from 37%, 40% and 49% to 18%, 13% and 26%, respectively.\nThe survey further found declining belief in America's commitment to individual freedoms. The proportion of respondents who said the United States respects personal liberty has reached its lowest level in several countries surveyed by Pew over the years, including Australia, Canada and Greece.\nFrom 2021 to 2026, that figure fell from 57% to 33% in Australia, from 60% to 34% in Canada and from 53% to 36% in Greece.\nOverall favorable views of the United States also declined in many countries over the past year, including double-digit drops in Indonesia, Italy, Nigeria, South Africa, South Korea and Türkiye.\nSome of the least favorable views came from predominantly Muslim populations, including Malaysia, Pakistan and Palestinians in the West Bank and East Jerusalem. Israel recorded the highest level of support among the countries surveyed.",
-      "fullTextCn": "根据皮尤研究中心的一项新调查，全球对美国的信心近年来显著下降，世界各地视其为可靠伙伴的人越来越少。调查发现，在与华盛顿长期保持密切经济和安全关系的国家中，下降幅度尤为剧烈。在加拿大，将美国描述为可靠伙伴的比例从2022年的83%降至2026年的35%。法国、德国和英国也出现了类似下降，比例分别从62%降至27%、83%降至39%和82%降至49%。澳大利亚作为华盛顿在亚太地区的关键盟友之一，信心也大幅下降，从2022年的79%降至今年的37%。调查还显示了对特朗普的普遍怀疑态度。\n\n在接受调查的36个国家中，中位数仅有23%的成年人表示对特朗普处理国际事务有信心。受访者在多个主要外交政策问题上对特朗普给出了大体负面的评价，包括关税、加沙冲突、伊朗、格陵兰岛以及俄乌冲突。除了对特朗普的看法，调查还指出美国全球形象出现更广泛的恶化。中位数35%的受访者表示美国为世界和平与稳定做出了贡献，这一比例较2023年显著下降。对华盛顿是否愿意考虑其他国家利益的看法也有所减弱。例如，在德国，认为美国会考虑其他国家利益的比例从2023年的60%降至2026年的23%。\n\n同样，在加拿大、澳大利亚和英国，这一比例分别从37%、40%和49%降至18%、13%和26%。调查还发现，对美国致力于个人自由的信念有所下降。表示美国尊重个人自由的受访者比例在皮尤多年来调查的多个国家中达到了最低水平，包括澳大利亚、加拿大和希腊。从2021年到2026年，这一比例在澳大利亚从57%降至33%，在加拿大从60%降至34%，在希腊从53%降至36%。过去一年中，许多国家对美国的总体好感度也有所下降，包括印度尼西亚、意大利、尼日利亚、南非、韩国和土耳其，降幅达两位数。一些最不友好的看法来自以穆斯林为主的人群，包括马来西亚、巴基斯坦以及约旦河西岸和东耶路撒冷的巴勒斯坦人。\n\n在接受调查的国家中，以色列的支持率最高。"
-    },
-    {
-      "id": 5,
-      "category": "education",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-19/Science-cover-study-suggests-vertebrate-ancestors-had-complex-brains-1O6MEoQ4IxO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Science cover study suggests vertebrate ancestors had complex brains",
-      "titleCn": "《科学》封面研究揭示脊椎动物祖先拥有复杂大脑",
-      "summary": "Science cover study suggests vertebrate ancestors had complex brains",
-      "summaryCn": "一项由中国主导的研究发现，脊椎动物的共同祖先在5亿年前可能已经拥有高度区域化和复杂的脑结构。",
-      "wordCount": 375,
-      "paragraphs": [
-        {
-          "en": "A Chinese-led study {{0}} on the cover of Science {{1}} that one important {{2}} may lie in the brain of a lamprey, an ancient jawless fish often described as a living fossil. The research found that the common {{3}} of vertebrates may already have {{4}} a surprisingly {{5}} brain around 500 million years ago. The study was {{6}} by researchers from BGI Research, the Kunming Institute of Zoology under the Chinese Academy of Sciences, and Liaoning Normal University. The Far Eastern brook lamprey (Lethenteron reissneri) on the June 18, 2026, cover of Science. The cover highlights research on vertebrate brain evolution.",
-          "cn": "一项由中国主导的研究登上了《科学》杂志封面，该研究表明，一个重要的线索可能隐藏在七鳃鳗（一种常被描述为活化石的古老无颌鱼）的大脑中。研究发现，脊椎动物的共同祖先可能早在5亿年前就已经拥有一个令人惊讶的复杂大脑。这项研究由华大研究院、中国科学院昆明动物研究所和辽宁师范大学的研究人员共同完成。远东溪七鳃鳗（Lethenteron reissneri）出现在2026年6月18日的《科学》杂志封面上。该封面突出了关于脊椎动物大脑进化的研究。"
-        },
-        {
-          "en": "/ Science\nThe study focused on the Far Eastern brook lamprey (Lethenteron reissneri), a species whose ancestors {{7}} from those of modern fish, birds, mammals and humans hundreds of millions of years ago. Because its basic body plan has changed relatively little since then, scientists {{8}} it as one of the best living models for studying the {{9}} of vertebrate brains. Using spatial {{10}} and single-nucleus RNA sequencing, the team created the first three-dimensional single-cell atlas of a lamprey brain, {{11}} more than 460,000 cells across 14 major brain regions. A graphic from the study illustrates a three-dimensional transcriptomic atlas of the lamprey brain and key findings on vertebrate brain evolution. /Science\nThe researchers found that the vertebrate common ancestor already had a highly {{12}} brain, with distinct regions {{13}} for different functions.",
-          "cn": "该研究聚焦于远东溪七鳃鳗，其祖先在数亿年前就与现代鱼类、鸟类、哺乳动物和人类的祖先分化。由于它的基本身体结构自那时以来变化相对较小，科学家将其视为研究脊椎动物大脑起源的最佳活体模型之一。利用空间转录组学和单核RNA测序技术，研究团队创建了首个七鳃鳗大脑的三维单细胞图谱，分析了跨越14个主要脑区的超过46万个细胞。研究中的一张图表展示了七鳃鳗大脑的三维转录组图谱以及关于脊椎动物大脑进化的关键发现。研究人员发现，脊椎动物的共同祖先已经拥有一个高度区域化的大脑，不同区域专门负责不同的功能。"
-        },
-        {
-          "en": "Many of the basic brain structures seen in vertebrates today appear to have been {{14}} far earlier than previously understood. The findings {{15}} the idea that complex vertebrate brains gradually evolved from a simple ancestral nervous system. Instead, they suggest that much of the {{16}} for modern vertebrate brains was already in place half a billion years ago. By comparing lampreys with other vertebrates, the researchers also found evidence that brain evolution was {{17}} in part by increasing neuronal {{18}}. Early vertebrates appear to have {{19}} more heavily on broadly functioning nerve cells, while later vertebrate groups developed more specialized neurons with distinct roles.",
-          "cn": "如今脊椎动物中看到的许多基本脑结构似乎比之前认为的建立得更早。这些发现挑战了复杂脊椎动物大脑是从简单的祖先神经系统逐渐进化而来的观点。相反，它们表明，现代脊椎动物大脑的大部分蓝图在5亿年前就已经存在。通过将七鳃鳗与其他脊椎动物进行比较，研究人员还发现证据表明，大脑进化部分是由神经元特化程度的增加所驱动的。早期的脊椎动物似乎更依赖功能广泛的神经细胞，而较晚的脊椎动物群体则发展出具有不同角色的更特化的神经元。"
-        },
-        {
-          "en": "The findings provide new insight into how vertebrate brains became more {{20}} over time and offer a clearer picture of how the complex brains seen in modern animals – including humans – evolved from their ancient ancestors.",
-          "cn": "这些发现为脊椎动物大脑如何随时间变得更加多样化提供了新的见解，并更清晰地描绘了现代动物（包括人类）中看到的复杂大脑是如何从它们的古老祖先进化而来的。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "featured",
-          "hint": "v. 以……为特色",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "suggests",
-          "hint": "v. 表明，暗示",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "clue",
-          "hint": "n. 线索",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "ancestor",
-          "hint": "n. 祖先",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "possessed",
-          "hint": "v. 拥有",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "complex",
-          "hint": "adj. 复杂的",
+          "answer": "collapsed",
+          "hint": "v. 倒塌",
           "difficulty": "easy"
         },
         {
           "id": 6,
-          "answer": "conducted",
-          "hint": "v. 进行，实施",
+          "answer": "intense",
+          "hint": "adj. 紧张的",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "diverged",
-          "hint": "v. 分化，分歧",
+          "answer": "solidarity",
+          "hint": "n. 团结",
           "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "regard",
-          "hint": "v. 视为，认为",
-          "difficulty": "medium"
+          "answer": "condolences",
+          "hint": "n. 哀悼",
+          "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "origins",
-          "hint": "n. 起源",
+          "answer": "crews",
+          "hint": "n. 队伍",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "transcriptomics",
-          "hint": "n. 转录组学",
-          "difficulty": "hard"
+          "answer": "closure",
+          "hint": "n. 关闭",
+          "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "analyzing",
-          "hint": "v. 分析",
+          "answer": "suspended",
+          "hint": "v. 暂停",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "regionalized",
-          "hint": "adj. 区域化的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "specialized",
-          "hint": "adj. 专门的，特化的",
+          "answer": "evacuate",
+          "hint": "v. 撤离",
           "difficulty": "medium"
         },
         {
+          "id": 13,
+          "answer": "tremor",
+          "hint": "n. 震动",
+          "difficulty": "hard"
+        },
+        {
           "id": 14,
-          "answer": "established",
-          "hint": "v. 建立",
+          "answer": "shallow",
+          "hint": "adj. 浅的",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "challenge",
-          "hint": "v. 挑战",
-          "difficulty": "medium"
+          "answer": "toppled",
+          "hint": "v. 推倒",
+          "difficulty": "hard"
         },
         {
           "id": 16,
-          "answer": "blueprint",
-          "hint": "n. 蓝图",
+          "answer": "ruins",
+          "hint": "n. 废墟",
           "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "driven",
-          "hint": "v. 驱动",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "specialization",
-          "hint": "n. 特化，专门化",
+          "answer": "aftermath",
+          "hint": "n. 后果",
           "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "relied",
-          "hint": "v. 依赖",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "diverse",
-          "hint": "adj. 多样的",
-          "difficulty": "medium"
         }
       ],
-      "fullText": "A Chinese-led study featured on the cover of Science suggests that one important clue may lie in the brain of a lamprey, an ancient jawless fish often described as a living fossil. The research found that the common ancestor of vertebrates may already have possessed a surprisingly complex brain around 500 million years ago.\nThe study was conducted by researchers from BGI Research, the Kunming Institute of Zoology under the Chinese Academy of Sciences, and Liaoning Normal University.\nThe Far Eastern brook lamprey (Lethenteron reissneri) on the June 18, 2026, cover of Science. The cover highlights research on vertebrate brain evolution. / Science\nThe study focused on the Far Eastern brook lamprey (Lethenteron reissneri), a species whose ancestors diverged from those of modern fish, birds, mammals and humans hundreds of millions of years ago. Because its basic body plan has changed relatively little since then, scientists regard it as one of the best living models for studying the origins of vertebrate brains.\nUsing spatial transcriptomics and single-nucleus RNA sequencing, the team created the first three-dimensional single-cell atlas of a lamprey brain, analyzing more than 460,000 cells across 14 major brain regions.\nA graphic from the study illustrates a three-dimensional transcriptomic atlas of the lamprey brain and key findings on vertebrate brain evolution. /Science\nThe researchers found that the vertebrate common ancestor already had a highly regionalized brain, with distinct regions specialized for different functions. Many of the basic brain structures seen in vertebrates today appear to have been established far earlier than previously understood.\nThe findings challenge the idea that complex vertebrate brains gradually evolved from a simple ancestral nervous system. Instead, they suggest that much of the blueprint for modern vertebrate brains was already in place half a billion years ago.\nBy comparing lampreys with other vertebrates, the researchers also found evidence that brain evolution was driven in part by increasing neuronal specialization. Early vertebrates appear to have relied more heavily on broadly functioning nerve cells, while later vertebrate groups developed more specialized neurons with distinct roles.\nThe findings provide new insight into how vertebrate brains became more diverse over time and offer a clearer picture of how the complex brains seen in modern animals – including humans – evolved from their ancient ancestors.",
-      "fullTextCn": "一项由中国主导的研究登上了《科学》杂志封面，该研究表明，一个重要的线索可能隐藏在七鳃鳗（一种常被描述为活化石的古老无颌鱼）的大脑中。研究发现，脊椎动物的共同祖先可能早在5亿年前就已经拥有一个令人惊讶的复杂大脑。这项研究由华大研究院、中国科学院昆明动物研究所和辽宁师范大学的研究人员共同完成。远东溪七鳃鳗（Lethenteron reissneri）出现在2026年6月18日的《科学》杂志封面上。该封面突出了关于脊椎动物大脑进化的研究。\n\n该研究聚焦于远东溪七鳃鳗，其祖先在数亿年前就与现代鱼类、鸟类、哺乳动物和人类的祖先分化。由于它的基本身体结构自那时以来变化相对较小，科学家将其视为研究脊椎动物大脑起源的最佳活体模型之一。利用空间转录组学和单核RNA测序技术，研究团队创建了首个七鳃鳗大脑的三维单细胞图谱，分析了跨越14个主要脑区的超过46万个细胞。研究中的一张图表展示了七鳃鳗大脑的三维转录组图谱以及关于脊椎动物大脑进化的关键发现。研究人员发现，脊椎动物的共同祖先已经拥有一个高度区域化的大脑，不同区域专门负责不同的功能。\n\n如今脊椎动物中看到的许多基本脑结构似乎比之前认为的建立得更早。这些发现挑战了复杂脊椎动物大脑是从简单的祖先神经系统逐渐进化而来的观点。相反，它们表明，现代脊椎动物大脑的大部分蓝图在5亿年前就已经存在。通过将七鳃鳗与其他脊椎动物进行比较，研究人员还发现证据表明，大脑进化部分是由神经元特化程度的增加所驱动的。早期的脊椎动物似乎更依赖功能广泛的神经细胞，而较晚的脊椎动物群体则发展出具有不同角色的更特化的神经元。\n\n这些发现为脊椎动物大脑如何随时间变得更加多样化提供了新的见解，并更清晰地描绘了现代动物（包括人类）中看到的复杂大脑是如何从它们的古老祖先进化而来的。"
+      "fullText": ", Updated 14:44, 25-Jun-2026Rescue workers and municipal police officers work at the site of a collapsed building following the earthquake, Caracas, Venezuela, June 24, 2026. \nRescue operations are ongoing as Venezuela on Wednesday declared a state of emergency following strong earthquakes that could result in high casualties and extensive damage.\nVenezuelan Interim President Delcy Rodriguez said the earthquakes killed at least 32 people and injured 700, in an address on state television before 1 a.m. local time (0500 GMT) on Thursday.\n\"Dozens of buildings have collapsed, and we are currently carrying out very intense rescue efforts,\" she said. \"I also want to say that this is a true tragedy. From here, we send our message of solidarity, and to those families who have lost loved ones, we reaffirm our condolences and our support in these difficult hours.\"\nShe said rescue crews from other countries are arriving in the coming hours.\nRodriguez has earlier declared a state of emergency, and announced the closure of the main international airport in Maiquetía, which suffered severe damage, according to media reports. She also said the metro and train systems had been suspended.\nAccording to Rodriguez, in addition to two powerful earthquakes, 20 aftershocks were felt. She urged the people to evacuate damaged buildings and remain calm and united.\nA magnitude-7.2 earthquake hit about 160 km west of Caracas at 6:04 p.m. local time (2204 GMT) on Wednesday, followed less than a minute later by an even stronger magnitude-7.5 tremor at a shallow depth of 10 km, according to the US Geological Survey (USGS).\nRescue operations are underway after two powerful earthquakes, Caracas, Venezuela, June 24, 2026. \nShaking windows and toppled bookshelves were reported at the residences and images circulating on social media showed collapsed houses on the streets. Video footage also showed emergency workers climbing into the ruins of one collapsed building in the capital as night began to fall.\nMany Venezuelans were at home celebrating a public holiday when the quakes hit.\nVenezuela's Interior, Justice and Peace Minister Diosdado Cabello said the strong earthquakes have caused damage in cities across the country, giving no immediate details on casualties or injuries.\nCabello urged Venezuelans to avoid staying inside buildings in the coming hours due to the risk of strong aftershocks that could cause further collapses, while calling on the public to remain calm and united as the country deals with the quakes' aftermath.\nMeanwhile, Colombian media reported that the quakes were also felt strongly in several cities in neighboring Colombia.\nThe US Tsunami Warning System issued a tsunami threat for Puerto Rico and the US and British Virgin Islands following the earthquake, adding that islands off the coast from Venezuela to Aruba, Curacao and Bonaire could also be hit by hazardous waves.",
+      "fullTextCn": "救援人员和市政警察在委内瑞拉加拉加斯地震后倒塌的建筑现场工作，2026年6月24日。救援行动仍在进行中，委内瑞拉于周三宣布进入紧急状态，此前发生的强烈地震可能导致高伤亡和广泛破坏。委内瑞拉临时总统德尔西·罗德里格斯在周四当地时间凌晨1点前（格林威治时间0500）的国家电视讲话中表示，地震已造成至少32人死亡、700人受伤。她说：“数十栋建筑倒塌，我们正在进行非常紧张的救援工作。”\n\n“我还想说，这是一场真正的悲剧。在此，我们表达团结之情，并向那些失去亲人的家庭重申我们的哀悼和支持，在这艰难时刻。”她说，来自其他国家的救援队伍将在未来几小时内抵达。据媒体报道，罗德里格斯早些时候宣布进入紧急状态，并宣布关闭遭受严重破坏的迈克蒂亚主要国际机场。她还表示，地铁和铁路系统已暂停运营。据罗德里格斯称，除了两次强震外，还感受到了20次余震。\n\n她敦促民众撤离受损建筑，保持冷静和团结。据美国地质调查局（USGS）称，周三当地时间下午6点04分（格林威治时间2204），加拉加斯以西约160公里处发生7.2级地震，不到一分钟后，又发生了一次更强的7.5级浅源地震，震源深度10公里。2026年6月24日，委内瑞拉加拉加斯，两次强震后救援行动正在进行。据报道，住宅区窗户摇晃、书架倾倒，社交媒体上流传的图像显示街道上有房屋倒塌。\n\n视频画面还显示，夜幕降临时，急救人员爬进首都一栋倒塌建筑的废墟中。许多委内瑞拉人当时正在家中庆祝公共假日，地震突然袭来。委内瑞拉内政、司法与和平部长迪奥斯达多·卡贝略表示，强震已对全国多个城市造成破坏，但未立即提供伤亡细节。卡贝略敦促委内瑞拉人在未来几小时内避免待在建筑物内，因为强余震可能导致进一步倒塌，同时呼吁公众保持冷静和团结，共同应对地震后果。与此同时，哥伦比亚媒体报道称，邻国哥伦比亚的多个城市也感受到了强烈震感。\n\n美国海啸预警系统在地震后对波多黎各以及美属和英属维尔京群岛发布了海啸威胁，并补充说，从委内瑞拉到阿鲁巴、库拉索和博内尔岛的海岸附近岛屿也可能受到危险海浪的袭击。"
     }
   ]
 }
