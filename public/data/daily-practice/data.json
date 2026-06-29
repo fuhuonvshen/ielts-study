@@ -1,902 +1,691 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "articles": [
     {
       "id": 1,
       "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-06-27/detail-ihfftxzk2713780.shtml",
-      "title": "Insights | Responding to global energy crisis: China earns plaudits at 2026 Summer Davos Forum",
-      "titleCn": "洞察 | 应对全球能源危机：中国在2026夏季达沃斯论坛上赢得赞誉",
-      "summary": "(ECNS) -- The 2026 Summer Davos Forum was recently held in Dalian, Northeast China’s Liaoning Province, during which energy transition became a focal point of heated discussion among participants from various countries.",
-      "summaryCn": "2026夏季达沃斯论坛聚焦能源转型，中国凭借前瞻性政策和强大执行力在能源危机中表现突出，为发展中国家提供了宝贵经验。",
-      "wordCount": 765,
+      "source": "CGTN",
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-06-20/African-nations-push-fisheries-transparency-at-global-Mombasa-summit-1O6KpQgGBDa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "African nations push fisheries transparency at global Mombasa summit",
+      "titleCn": "非洲国家在全球蒙巴萨峰会上推动渔业透明度",
+      "summary": "African countries have been urged to accelerate fisheries transparency reforms to strengthen ocean governance, combat illegal fishing and protect the livelihoods of millions in coastal communities.",
+      "summaryCn": "在肯尼亚蒙巴萨举行的第11届我们的海洋大会上，非洲国家呼吁加速渔业透明度改革，以加强海洋治理、打击非法捕捞并保护沿海社区生计。",
+      "wordCount": 908,
       "paragraphs": [
         {
-          "en": "(ECNS) -- The 2026 Summer Davos Forum was recently held in Dalian, Northeast China’s Liaoning Province, during which energy {{0}} became a focal point of heated discussion among participants from various countries. How can developing countries find energy development paths that suit their own conditions? What lessons can China's energy transition offer? Multiple attendees engaged in in-depth discussions on these issues. Roberto Bocca, a member of the Executive Committee of the World Economic Forum, pointed out that although energy systems in many countries are undergoing profound transitions, and the {{1}}, security, and {{2}} of global energy are steadily improving, the {{3}} to energy transition have always differed from country to country.",
-          "cn": "（中国新闻网）——2026夏季达沃斯论坛近日在中国东北辽宁省大连市举行，期间能源转型成为各国与会者热烈讨论的焦点。发展中国家如何找到适合自身国情的能源发展道路？中国的能源转型能提供哪些经验？多位与会者就这些问题进行了深入探讨。世界经济论坛执行委员会成员罗伯托·博卡指出，尽管许多国家的能源系统正在经历深刻转型，全球能源的可持续性、安全性和可负担性正在稳步提升，但能源转型的路径始终因国而异。"
+          "en": "The 11th Our Ocean Conference, held in Mombasa, Kenya, concluded on Thursday with a call for African countries to {{0}} fisheries {{1}} reforms as part of efforts to strengthen ocean {{2}}, combat {{3}} fishing and protect the {{4}} of millions in coastal communities. Held in Africa for the first time, the gathering provided a {{5}} for governments, conservation groups and maritime {{6}} to highlight the growing role of transparency, technology and international cooperation in {{7}} marine resources. Participants applauded countries such as Ghana and Cameroon for {{8}} transparency and {{9}} measures into national and regional fisheries policies. These efforts are helping African governments translate commitments into {{10}} actions aimed at tackling illegal, unreported and unregulated fishing while improving enforcement and promoting sustainable fisheries management. \"What we've seen in Mombasa is clear evidence that ocean transparency is becoming a global expectation,\" said Tony Long, Chief Executive Officer of Global Fishing Watch.",
+          "cn": "第11届我们的海洋大会于周四在肯尼亚蒙巴萨闭幕，会议呼吁非洲国家加速渔业透明度改革，作为加强海洋治理、打击非法捕捞和保护沿海社区数百万人生计的一部分。这是该会议首次在非洲举行，为政府、保护组织和海洋利益相关方提供了一个平台，以强调透明度、技术和国际合作在保护海洋资源方面日益重要的作用。与会者赞扬了加纳和喀麦隆等国家将透明度和问责措施纳入国家和区域渔业政策。这些努力正在帮助非洲政府将承诺转化为具体行动，旨在解决非法、不报告和不管制的捕捞问题，同时加强执法并促进可持续渔业管理。全球渔业观察首席执行官托尼·朗表示：“我们在蒙巴萨看到的是明确证据，表明海洋透明度正成为全球期望。”"
         },
         {
-          "en": "\"Every country will choose its own pathway based on their environment resources, on their opportunity and so on. But now we see stronger choices in one direction and there are some countries that decide to go more on the traditional solution, some that really go on electrification and renewables. We have seen this {{4}} happening more and more.\"\nIn Bocca's view, the divergence in energy development pathways has become a notable feature of the current global energy transition. Against this backdrop, the direction of each country's efforts in the next phase should become a key focus of attention for all parties. In response, Gavin McKenzie, managing director at Accenture, said that the next phase of the global energy transition should shift its focus from merely adding more {{21}} to building a more {{5}}, reliable, and {{6}} energy system.",
-          "cn": "“每个国家都会根据其环境资源、机遇等选择自己的道路。但现在我们看到，朝着一个方向的选择更加强烈，有些国家决定更多地采用传统解决方案，有些则真正走向电气化和可再生能源。我们看到这种分歧越来越明显。”在博卡看来，能源发展路径的分歧已成为当前全球能源转型的一个显著特征。在此背景下，各国下一阶段努力的方向应成为各方关注的焦点。对此，埃森哲董事总经理加文·麦肯齐表示，全球能源转型的下一阶段应将重点从单纯增加产能转向构建更具韧性、更可靠、更值得投资的能源系统。"
+          "en": "\"From new government commitments and partnerships to advances in technology and data, {{11}} is building around a simple principle: we cannot {{12}} manage what we cannot see. The challenge now is to turn that momentum into lasting action and make transparency the standard for every fishery, every vessel and every ocean around the world.\"\nA photo of Amanzimtoti Beach near Durban, South Africa, December 11, 2020. /CFP\nTechnology driving transparency\nA key focus of the conference was the growing use of technology to improve the {{13}} of fishing activities at sea. Global Fishing Watch showcased new research using {{14}} intelligence and high-resolution satellite {{15}} to reveal small-scale fishing activities that have traditionally remained beyond the reach of conventional monitoring systems. Presenting the findings, Chief Scientist David Kroodsma said the analysis identified more than 30,000 small-scale fishing vessels operating along Africa's coastline and highlighted areas where industrial and artisanal fisheries compete for the same resources.",
+          "cn": "“从新的政府承诺和伙伴关系，到技术和数据的进步，围绕一个简单原则正在形成势头：我们无法可持续地管理我们看不见的东西。现在的挑战是将这一势头转化为持久的行动，并使透明度成为每个渔场、每艘船只和全球每个海洋的标准。”"
         },
         {
-          "en": "This shift, in turn, would help inject strong confidence into the global economy's continued investment in energy transition. As the direction of the transition becomes increasingly clear, investment opportunities and areas of focus for different countries have come into the spotlight. McKenzie suggested that, in the face of rapidly growing industrial demand driven by electrification in developing countries, ongoing industrialization and urbanization in some parts of the world, and the enormous energy consumption from digital {{8}} and artificial intelligence, the new opportunities for energy transition in developing countries mainly center on three {{7}}, namely investing in advanced energy storage solutions, building small-scale energy systems and grid infrastructure, and developing flexible power systems. Since the beginning of 2026, the U.S.-Iran {{9}} had a profound impact on the global energy {{10}}. Global oil supply once fell by about 15%.",
-          "cn": "这种转变反过来将有助于为全球经济持续投资能源转型注入强大信心。随着转型方向日益清晰，不同国家的投资机会和重点领域成为焦点。麦肯齐建议，面对发展中国家电气化带来的快速增长工业需求、世界部分地区持续的工业化和城市化，以及数字基础设施和人工智能带来的巨大能源消耗，发展中国家能源转型的新机遇主要集中在三大支柱上，即投资先进储能解决方案、建设小型能源系统和电网基础设施，以及发展灵活电力系统。自2026年初以来，美伊紧张局势对全球能源格局产生了深远影响。全球石油供应一度下降约15%。"
+          "en": "Stakeholders said the data provides governments with valuable insights to support fisheries management, strengthen ocean governance, and safeguard the livelihoods of coastal communities. \"For the first time, satellite imagery and artificial intelligence are giving us an {{16}} view of small-scale fishing activity across African waters, revealing the people, places, and pressures that have long remained hidden,\" Kroodsma said. \"This is about more than technology. It is about {{17}} governments and communities with the information they need to make better decisions for the future of the ocean,\" he added. Local residents prepare their traditional equipment for a day of fishing in the Indian Ocean in Manguily, Madagascar, April 18, 2026.",
+          "cn": "会议的一个关键焦点是越来越多地使用技术来提高海上捕捞活动的可见性。全球渔业观察展示了新研究，利用人工智能和高分辨率卫星图像来揭示传统上超出常规监测系统范围的小规模捕捞活动。首席科学家大卫·克鲁德马在介绍研究结果时表示，分析识别出超过3万艘沿非洲海岸线作业的小型渔船，并指出了工业和手工渔业争夺相同资源的区域。"
         },
         {
-          "en": "The {{11}} of the Strait of Hormuz cut off approximately 20% of global oil and liquefied natural gas flows, sending international oil prices {{12}} to as high as 120 U.S. dollars per barrel. Faced with the {{13}} effects of reduced fossil fuel production and high prices, From the observation of Kelly Sims Gallagher, a U.S.-China climate policy expert and dean of the Fletcher School at Tufts University in the U.S., China has not been {{14}} impacted by this round of global energy crisis. In her assessment, this can be {{15}} to the {{16}} measures it has taken across various sectors in recent years. She noted that in recent years, while building large strategic petroleum {{17}} and commercial {{18}}, China has been {{19}} developing renewable energy and electric vehicles.",
-          "cn": "霍尔木兹海峡的关闭切断了全球约20%的石油和液化天然气运输，导致国际油价飙升至每桶120美元。面对化石燃料产量减少和高价格的连锁反应，美国气候政策专家、塔夫茨大学弗莱彻学院院长凯莉·西姆斯·加拉格尔观察到，中国并未受到本轮全球能源危机的严重冲击。她评估认为，这归功于中国近年来在各领域采取的前瞻性措施。她指出，近年来，中国在建设大型战略石油储备和商业库存的同时，大力发展可再生能源和电动汽车。"
+          "en": "/CFP\nFrom {{18}} to policy action\nBeyond technological innovation, the conference underscored the growing importance of policy reforms, enforcement {{19}} and international partnerships in advancing fisheries transparency. Global Fishing Watch joined partners in the Coalition for Fisheries Transparency to showcase Africa's growing leadership in promoting accountability at sea. Participating governments {{20}} the Mombasa Declaration, reaffirming their commitment to transparency, accountability and cooperation in protecting marine ecosystems and ensuring sustainable fisheries. \"The message coming out of Mombasa is clear,\" Long said. \"The future of sustainable fisheries depends on making activities at sea visible and verifiable, and on holding fishers fully accountable.\"\nA major outcome of the conference was the adoption of the Mombasa Declaration, an international call to action on fisheries transparency endorsed by 16 governments from Africa, Asia, Latin America and the Caribbean, Europe and the Pacific.",
+          "cn": "利益相关方表示，这些数据为政府提供了宝贵的见解，以支持渔业管理、加强海洋治理并保障沿海社区的生计。克鲁德马说：“卫星图像和人工智能首次让我们对非洲水域的小规模捕捞活动有了前所未有的了解，揭示了长期隐藏的人群、地点和压力。”他补充道：“这不仅仅是技术问题。这是关于赋予政府和社区所需的信息，以便他们为海洋的未来做出更好的决策。”"
         },
         {
-          "en": "Having {{20}} the current energy crisis, China has demonstrated its strong capacity to withstand shocks and ensure energy security. \"China has done surprisingly well,\" commended Gallagher. Reflections on the {{23}} on traditional energy have opened up new directions for thinking about energy transition across countries. In Gallagher's view, China's achievements are {{22}}. Regarding China's outstanding performance in this energy crisis, Gallagher attributed it to its policy-making and implementation system.",
-          "cn": "经受住当前能源危机的考验，中国展示了其强大的抗冲击能力和保障能源安全的能力。“中国表现得令人惊讶地好，”加拉格尔称赞道。对传统能源过度依赖的反思，为各国思考能源转型开辟了新的方向。在加拉格尔看来，中国的成就值得称赞。对于中国在此次能源危机中的出色表现，加拉格尔将其归功于其政策制定和执行体系。"
+          "en": "The declaration commits signatories to improving public access to information on vessel ownership, licensing and fishing activities. It also seeks to strengthen global efforts to combat illegal fishing and promote more {{21}} and sustainable management of marine resources. \"From new transparency commitments on vessel tracking to deeper partnerships with governments in Africa and around the world, we're seeing growing recognition that sustainable fisheries begin with knowing who is fishing, where they are operating, and whether they are following the rules,\" Long added. Among the major announcements made at the conference was Panama's commitment to publicly share vessel monitoring system data from nearly 200 domestic fishing vessels through the Global Fishing Watch platform. The move is expected to significantly increase the transparency and visibility of fishing activity in Panama's waters.",
+          "cn": "除了技术创新，会议还强调了政策改革、执法机制和国际伙伴关系在推进渔业透明度方面日益增长的重要性。全球渔业观察与渔业透明度联盟的合作伙伴一起，展示了非洲在促进海上问责方面的领导力。参与政府签署了《蒙巴萨宣言》，重申了他们对透明度、问责和合作的承诺，以保护海洋生态系统并确保可持续渔业。朗说：“来自蒙巴萨的信息很明确。可持续渔业的未来取决于使海上活动可见和可验证，并让渔民完全负责。”会议的一个主要成果是通过了《蒙巴萨宣言》，这是一项关于渔业透明度的国际行动呼吁，得到了来自非洲、亚洲、拉丁美洲和加勒比、欧洲和太平洋的16个政府的支持。"
         },
         {
-          "en": "She pointed out that the two countries have {{24}} different approaches to policy formulation, with China tends to prioritize planning, establishing strategic frameworks that cover short-, medium-, and long-term cycles. For example, by {{25}} the Five-Year plans, Gallagher added. \"Because of that, China sets targets, and then it works on developing a stable policy infrastructure to achieve the targets. And it will {{26}} those policies as needed to achieve the targets. So I think the targets are always very clear in the Chinese system.",
-          "cn": "她指出，两国在政策制定方法上存在根本差异，中国倾向于优先规划，建立覆盖短、中、长期周期的战略框架。例如，通过制定五年规划，加拉格尔补充道。“正因为如此，中国设定目标，然后致力于发展稳定的政策基础设施来实现这些目标。并且会根据需要调整这些政策以实现目标。所以我认为，在中国体系中，目标始终非常明确。”"
+          "en": "Global Fishing Watch's Head of Latin America, Mónica Espinoza Miralles, described the decision as a significant {{22}} in Panama's evolution into a leading advocate for fisheries transparency and accountability. The announcement builds on a partnership launched in 2019 when Panama began publicly sharing tracking data from its international fishing fleet. According to Espinoza Miralles, the country's commitment demonstrates how political will, technology**, and** open data can strengthen fisheries governance and sustainable ocean management. Meanwhile, Madagascar's Ministry of Fisheries and Blue Economy announced plans to expand its partnership with Global Fishing Watch. The initiative will focus on vessel tracking, joint research, capacity building and enhanced monitoring, control and {{23}} operations, placing transparency at the center of the country's fisheries management strategy.",
+          "cn": "该宣言承诺签署国改善公众对船舶所有权、许可和捕捞活动信息的获取。它还旨在加强全球打击非法捕捞的努力，并促进更公平和可持续的海洋资源管理。朗补充道：“从关于船舶追踪的新透明度承诺，到与非洲及世界各地政府的更深层次伙伴关系，我们看到了越来越多的认识，即可持续渔业始于知道谁在捕捞、他们在哪里作业以及他们是否遵守规则。”会议上的重大宣布之一是巴拿马承诺通过全球渔业观察平台公开分享近200艘国内渔船的船舶监测系统数据。此举预计将显著提高巴拿马水域捕捞活动的透明度和可见性。"
         },
         {
-          "en": "China tends to use a wide variety of types of policies, fiscal policies, regulatory policies, and so forth,\" said Gallagher. As a U.S.-China climate policy expert who has personally participated in bilateral climate agreement negotiations, Gallagher noted that China has undergone profound changes in advancing its energy transition. She also believes that China's dual carbon goals, proposed in 2020, represent a landmark statement. At the same time, China's supporting commitments on reducing carbon intensity, increasing forest coverage, and cutting fossil fuel use collectively confirm that it is forming a {{27}} cycle of growing ambition and policy implementation capacity.",
-          "cn": "“中国倾向于使用多种类型的政策，财政政策、监管政策等等，”加拉格尔说。作为亲自参与双边气候协议谈判的美中气候政策专家，加拉格尔指出，中国在推进能源转型方面经历了深刻变化。她还认为，中国在2020年提出的双碳目标是一个里程碑式的声明。同时，中国在降低碳强度、增加森林覆盖率和减少化石燃料使用方面的配套承诺，共同证实了中国正在形成一个雄心与政策执行能力相互促进的良性循环。"
+          "en": "Building the world's most {{24}} fishing map\nConference participants also unveiled a new collaboration aimed at creating the first global map of fishing activity that includes both industrial fleets and small-scale fishing vessels. The initiative will combine vessel-tracking data with advanced satellite imagery and analytics to map millions of artisanal fishing boats that are largely absent from existing datasets. Scheduled for launch on July 1, 2026, the project is expected to provide governments and fisheries managers with a more complete understanding of human activity at sea. Stakeholders say the enhanced visibility will support efforts to combat {{25}}, improve fisheries management, and ensure the long-term {{26}} of marine resources worldwide.",
+          "cn": "全球渔业观察拉丁美洲负责人莫妮卡·埃斯皮诺萨·米拉莱斯称这一决定是巴拿马演变为渔业透明度和问责制主要倡导者的重要里程碑。这一宣布建立在2019年启动的伙伴关系基础上，当时巴拿马开始公开分享其国际捕捞船队的追踪数据。据埃斯皮诺萨·米拉莱斯称，该国的承诺展示了政治意愿、技术和开放数据如何加强渔业治理和可持续海洋管理。与此同时，马达加斯加渔业和蓝色经济部宣布计划扩大与全球渔业观察的伙伴关系。该倡议将侧重于船舶追踪、联合研究、能力建设以及加强监测、控制和监视行动，将透明度置于该国渔业管理战略的核心。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "transition",
-          "hint": "n. 过渡，转型",
+          "answer": "accelerate",
+          "hint": "v. 加速",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "sustainability",
-          "hint": "n. 可持续性",
+          "answer": "transparency",
+          "hint": "n. 透明度",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "affordability",
-          "hint": "n. 可负担性",
+          "answer": "governance",
+          "hint": "n. 治理",
           "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "pathways",
-          "hint": "n. 路径，途径",
-          "difficulty": "medium"
+          "answer": "illegal",
+          "hint": "adj. 非法的",
+          "difficulty": "easy"
         },
         {
           "id": 4,
-          "answer": "divergence",
-          "hint": "n. 分歧，差异",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "resilient",
-          "hint": "adj. 有韧性的",
+          "answer": "livelihoods",
+          "hint": "n. 生计",
           "difficulty": "medium"
         },
         {
+          "id": 5,
+          "answer": "platform",
+          "hint": "n. 平台",
+          "difficulty": "easy"
+        },
+        {
           "id": 6,
-          "answer": "investable",
-          "hint": "adj. 值得投资的",
+          "answer": "stakeholders",
+          "hint": "n. 利益相关方",
           "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "pillars",
-          "hint": "n. 支柱，核心",
+          "answer": "safeguarding",
+          "hint": "v. 保护",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "medium"
+          "answer": "embedding",
+          "hint": "v. 嵌入",
+          "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "tensions",
-          "hint": "n. 紧张局势",
-          "difficulty": "easy"
+          "answer": "accountability",
+          "hint": "n. 问责",
+          "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "landscape",
-          "hint": "n. 格局，形势",
+          "answer": "concrete",
+          "hint": "adj. 具体的",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "closure",
-          "hint": "n. 关闭",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "soaring",
-          "hint": "adj. 飙升的",
+          "answer": "momentum",
+          "hint": "n. 势头",
           "difficulty": "medium"
         },
         {
-          "id": 13,
-          "answer": "knock-on",
-          "hint": "adj. 连锁的",
+          "id": 12,
+          "answer": "sustainably",
+          "hint": "adv. 可持续地",
           "difficulty": "hard"
         },
         {
+          "id": 13,
+          "answer": "visibility",
+          "hint": "n. 可见性",
+          "difficulty": "medium"
+        },
+        {
           "id": 14,
-          "answer": "severely",
-          "hint": "adv. 严重地",
-          "difficulty": "easy"
+          "answer": "artificial",
+          "hint": "adj. 人工的",
+          "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "attributed",
-          "hint": "v. 归因于",
+          "answer": "imagery",
+          "hint": "n. 图像",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "forward-looking",
-          "hint": "adj. 前瞻性的",
-          "difficulty": "medium"
+          "answer": "unprecedented",
+          "hint": "adj. 前所未有的",
+          "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "reserves",
-          "hint": "n. 储备",
-          "difficulty": "easy"
+          "answer": "empowering",
+          "hint": "v. 赋予权力",
+          "difficulty": "hard"
         },
         {
           "id": 18,
-          "answer": "stockpiles",
-          "hint": "n. 库存",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "vigorously",
-          "hint": "adv. 大力地",
+          "answer": "innovation",
+          "hint": "n. 创新",
           "difficulty": "medium"
         },
         {
-          "id": 20,
-          "answer": "weathered",
-          "hint": "v. 经受住",
+          "id": 19,
+          "answer": "mechanisms",
+          "hint": "n. 机制",
           "difficulty": "hard"
         },
         {
+          "id": 20,
+          "answer": "endorsed",
+          "hint": "v. 支持",
+          "difficulty": "medium"
+        },
+        {
           "id": 21,
-          "answer": "capacity",
-          "hint": "n. 能力",
-          "difficulty": "easy"
+          "answer": "equitable",
+          "hint": "adj. 公平的",
+          "difficulty": "hard"
         },
         {
           "id": 22,
-          "answer": "commendable",
-          "hint": "adj. 值得称赞的",
+          "answer": "milestone",
+          "hint": "n. 里程碑",
           "difficulty": "medium"
         },
         {
           "id": 23,
-          "answer": "over-reliance",
-          "hint": "n. 过度依赖",
+          "answer": "surveillance",
+          "hint": "n. 监视",
           "difficulty": "hard"
         },
         {
           "id": 24,
-          "answer": "fundamentally",
-          "hint": "adv. 根本上",
+          "answer": "comprehensive",
+          "hint": "adj. 全面的",
           "difficulty": "medium"
         },
         {
           "id": 25,
-          "answer": "formulating",
-          "hint": "v. 制定",
+          "answer": "overfishing",
+          "hint": "n. 过度捕捞",
           "difficulty": "medium"
         },
         {
           "id": 26,
-          "answer": "modify",
-          "hint": "v. 修改",
-          "difficulty": "easy"
-        },
-        {
-          "id": 27,
-          "answer": "virtuous",
-          "hint": "adj. 良性的",
-          "difficulty": "hard"
+          "answer": "sustainability",
+          "hint": "n. 可持续性",
+          "difficulty": "medium"
         }
       ],
-      "fullText": "(ECNS) -- The 2026 Summer Davos Forum was recently held in Dalian, Northeast China’s Liaoning Province, during which energy transition became a focal point of heated discussion among participants from various countries.\nHow can developing countries find energy development paths that suit their own conditions? What lessons can China's energy transition offer? Multiple attendees engaged in in-depth discussions on these issues.\nRoberto Bocca, a member of the Executive Committee of the World Economic Forum, pointed out that although energy systems in many countries are undergoing profound transitions, and the sustainability, security, and affordability of global energy are steadily improving, the pathways to energy transition have always differed from country to country.\n\"Every country will choose its own pathway based on their environment resources, on their opportunity and so on. But now we see stronger choices in one direction and there are some countries that decide to go more on the traditional solution, some that really go on electrification and renewables. We have seen this divergence happening more and more.\"\nIn Bocca's view, the divergence in energy development pathways has become a notable feature of the current global energy transition. Against this backdrop, the direction of each country's efforts in the next phase should become a key focus of attention for all parties.\nIn response, Gavin McKenzie, managing director at Accenture, said that the next phase of the global energy transition should shift its focus from merely adding more capacity to building a more resilient, reliable, and investable energy system. This shift, in turn, would help inject strong confidence into the global economy's continued investment in energy transition.\nAs the direction of the transition becomes increasingly clear, investment opportunities and areas of focus for different countries have come into the spotlight.\nMcKenzie suggested that, in the face of rapidly growing industrial demand driven by electrification in developing countries, ongoing industrialization and urbanization in some parts of the world, and the enormous energy consumption from digital infrastructure and artificial intelligence, the new opportunities for energy transition in developing countries mainly center on three pillars, namely investing in advanced energy storage solutions, building small-scale energy systems and grid infrastructure, and developing flexible power systems.\nSince the beginning of 2026, the U.S.-Iran tensions had a profound impact on the global energy landscape. Global oil supply once fell by about 15%. The closure of the Strait of Hormuz cut off approximately 20% of global oil and liquefied natural gas flows, sending international oil prices soaring to as high as 120 U.S. dollars per barrel.\nFaced with the knock-on effects of reduced fossil fuel production and high prices, From the observation of Kelly Sims Gallagher, a U.S.-China climate policy expert and dean of the Fletcher School at Tufts University in the U.S., China has not been severely impacted by this round of global energy crisis. In her assessment, this can be attributed to the forward-looking measures it has taken across various sectors in recent years.\nShe noted that in recent years, while building large strategic petroleum reserves and commercial stockpiles, China has been vigorously developing renewable energy and electric vehicles. Having weathered the current energy crisis, China has demonstrated its strong capacity to withstand shocks and ensure energy security.\n\"China has done surprisingly well,\" commended Gallagher.\nReflections on the over-reliance on traditional energy have opened up new directions for thinking about energy transition across countries. In Gallagher's view, China's achievements are commendable.\nRegarding China's outstanding performance in this energy crisis, Gallagher attributed it to its policy-making and implementation system.\nShe pointed out that the two countries have fundamentally different approaches to policy formulation, with China tends to prioritize planning, establishing strategic frameworks that cover short-, medium-, and long-term cycles. For example, by formulating the Five-Year plans, Gallagher added.\n\"Because of that, China sets targets, and then it works on developing a stable policy infrastructure to achieve the targets. And it will modify those policies as needed to achieve the targets. So I think the targets are always very clear in the Chinese system. China tends to use a wide variety of types of policies, fiscal policies, regulatory policies, and so forth,\" said Gallagher.\nAs a U.S.-China climate policy expert who has personally participated in bilateral climate agreement negotiations, Gallagher noted that China has undergone profound changes in advancing its energy transition.\nShe also believes that China's dual carbon goals, proposed in 2020, represent a landmark statement. At the same time, China's supporting commitments on reducing carbon intensity, increasing forest coverage, and cutting fossil fuel use collectively confirm that it is forming a virtuous cycle of growing ambition and policy implementation capacity.",
-      "fullTextCn": "（中国新闻网）——2026夏季达沃斯论坛近日在中国东北辽宁省大连市举行，期间能源转型成为各国与会者热烈讨论的焦点。发展中国家如何找到适合自身国情的能源发展道路？中国的能源转型能提供哪些经验？多位与会者就这些问题进行了深入探讨。世界经济论坛执行委员会成员罗伯托·博卡指出，尽管许多国家的能源系统正在经历深刻转型，全球能源的可持续性、安全性和可负担性正在稳步提升，但能源转型的路径始终因国而异。\n\n“每个国家都会根据其环境资源、机遇等选择自己的道路。但现在我们看到，朝着一个方向的选择更加强烈，有些国家决定更多地采用传统解决方案，有些则真正走向电气化和可再生能源。我们看到这种分歧越来越明显。”在博卡看来，能源发展路径的分歧已成为当前全球能源转型的一个显著特征。在此背景下，各国下一阶段努力的方向应成为各方关注的焦点。对此，埃森哲董事总经理加文·麦肯齐表示，全球能源转型的下一阶段应将重点从单纯增加产能转向构建更具韧性、更可靠、更值得投资的能源系统。\n\n这种转变反过来将有助于为全球经济持续投资能源转型注入强大信心。随着转型方向日益清晰，不同国家的投资机会和重点领域成为焦点。麦肯齐建议，面对发展中国家电气化带来的快速增长工业需求、世界部分地区持续的工业化和城市化，以及数字基础设施和人工智能带来的巨大能源消耗，发展中国家能源转型的新机遇主要集中在三大支柱上，即投资先进储能解决方案、建设小型能源系统和电网基础设施，以及发展灵活电力系统。自2026年初以来，美伊紧张局势对全球能源格局产生了深远影响。全球石油供应一度下降约15%。\n\n霍尔木兹海峡的关闭切断了全球约20%的石油和液化天然气运输，导致国际油价飙升至每桶120美元。面对化石燃料产量减少和高价格的连锁反应，美国气候政策专家、塔夫茨大学弗莱彻学院院长凯莉·西姆斯·加拉格尔观察到，中国并未受到本轮全球能源危机的严重冲击。她评估认为，这归功于中国近年来在各领域采取的前瞻性措施。她指出，近年来，中国在建设大型战略石油储备和商业库存的同时，大力发展可再生能源和电动汽车。\n\n经受住当前能源危机的考验，中国展示了其强大的抗冲击能力和保障能源安全的能力。“中国表现得令人惊讶地好，”加拉格尔称赞道。对传统能源过度依赖的反思，为各国思考能源转型开辟了新的方向。在加拉格尔看来，中国的成就值得称赞。对于中国在此次能源危机中的出色表现，加拉格尔将其归功于其政策制定和执行体系。\n\n她指出，两国在政策制定方法上存在根本差异，中国倾向于优先规划，建立覆盖短、中、长期周期的战略框架。例如，通过制定五年规划，加拉格尔补充道。“正因为如此，中国设定目标，然后致力于发展稳定的政策基础设施来实现这些目标。并且会根据需要调整这些政策以实现目标。所以我认为，在中国体系中，目标始终非常明确。”\n\n“中国倾向于使用多种类型的政策，财政政策、监管政策等等，”加拉格尔说。作为亲自参与双边气候协议谈判的美中气候政策专家，加拉格尔指出，中国在推进能源转型方面经历了深刻变化。她还认为，中国在2020年提出的双碳目标是一个里程碑式的声明。同时，中国在降低碳强度、增加森林覆盖率和减少化石燃料使用方面的配套承诺，共同证实了中国正在形成一个雄心与政策执行能力相互促进的良性循环。"
+      "fullText": "The 11th Our Ocean Conference, held in Mombasa, Kenya, concluded on Thursday with a call for African countries to accelerate fisheries transparency reforms as part of efforts to strengthen ocean governance, combat illegal fishing and protect the livelihoods of millions in coastal communities.\nHeld in Africa for the first time, the gathering provided a platform for governments, conservation groups and maritime stakeholders to highlight the growing role of transparency, technology and international cooperation in safeguarding marine resources.\nParticipants applauded countries such as Ghana and Cameroon for embedding transparency and accountability measures into national and regional fisheries policies.\nThese efforts are helping African governments translate commitments into concrete actions aimed at tackling illegal, unreported and unregulated fishing while improving enforcement and promoting sustainable fisheries management.\n\"What we've seen in Mombasa is clear evidence that ocean transparency is becoming a global expectation,\" said Tony Long, Chief Executive Officer of Global Fishing Watch.\n\"From new government commitments and partnerships to advances in technology and data, momentum is building around a simple principle: we cannot sustainably manage what we cannot see. The challenge now is to turn that momentum into lasting action and make transparency the standard for every fishery, every vessel and every ocean around the world.\"\nA photo of Amanzimtoti Beach near Durban, South Africa, December 11, 2020. /CFP\nTechnology driving transparency\nA key focus of the conference was the growing use of technology to improve the visibility of fishing activities at sea.\nGlobal Fishing Watch showcased new research using artificial intelligence and high-resolution satellite imagery to reveal small-scale fishing activities that have traditionally remained beyond the reach of conventional monitoring systems.\nPresenting the findings, Chief Scientist David Kroodsma said the analysis identified more than 30,000 small-scale fishing vessels operating along Africa's coastline and highlighted areas where industrial and artisanal fisheries compete for the same resources.\nStakeholders said the data provides governments with valuable insights to support fisheries management, strengthen ocean governance, and safeguard the livelihoods of coastal communities.\n\"For the first time, satellite imagery and artificial intelligence are giving us an unprecedented view of small-scale fishing activity across African waters, revealing the people, places, and pressures that have long remained hidden,\" Kroodsma said.\n\"This is about more than technology. It is about empowering governments and communities with the information they need to make better decisions for the future of the ocean,\" he added.\nLocal residents prepare their traditional equipment for a day of fishing in the Indian Ocean in Manguily, Madagascar, April 18, 2026. /CFP\nFrom innovation to policy action\nBeyond technological innovation, the conference underscored the growing importance of policy reforms, enforcement mechanisms and international partnerships in advancing fisheries transparency.\nGlobal Fishing Watch joined partners in the Coalition for Fisheries Transparency to showcase Africa's growing leadership in promoting accountability at sea.\nParticipating governments endorsed the Mombasa Declaration, reaffirming their commitment to transparency, accountability and cooperation in protecting marine ecosystems and ensuring sustainable fisheries.\n\"The message coming out of Mombasa is clear,\" Long said. \"The future of sustainable fisheries depends on making activities at sea visible and verifiable, and on holding fishers fully accountable.\"\nA major outcome of the conference was the adoption of the Mombasa Declaration, an international call to action on fisheries transparency endorsed by 16 governments from Africa, Asia, Latin America and the Caribbean, Europe and the Pacific.\nThe declaration commits signatories to improving public access to information on vessel ownership, licensing and fishing activities. It also seeks to strengthen global efforts to combat illegal fishing and promote more equitable and sustainable management of marine resources.\n\"From new transparency commitments on vessel tracking to deeper partnerships with governments in Africa and around the world, we're seeing growing recognition that sustainable fisheries begin with knowing who is fishing, where they are operating, and whether they are following the rules,\" Long added.\nAmong the major announcements made at the conference was Panama's commitment to publicly share vessel monitoring system data from nearly 200 domestic fishing vessels through the Global Fishing Watch platform.\nThe move is expected to significantly increase the transparency and visibility of fishing activity in Panama's waters.\nGlobal Fishing Watch's Head of Latin America, Mónica Espinoza Miralles, described the decision as a significant milestone in Panama's evolution into a leading advocate for fisheries transparency and accountability.\nThe announcement builds on a partnership launched in 2019 when Panama began publicly sharing tracking data from its international fishing fleet.\nAccording to Espinoza Miralles, the country's commitment demonstrates how political will, technology**, and** open data can strengthen fisheries governance and sustainable ocean management.\nMeanwhile, Madagascar's Ministry of Fisheries and Blue Economy announced plans to expand its partnership with Global Fishing Watch.\nThe initiative will focus on vessel tracking, joint research, capacity building and enhanced monitoring, control and surveillance operations, placing transparency at the center of the country's fisheries management strategy.\nBuilding the world's most comprehensive fishing map\nConference participants also unveiled a new collaboration aimed at creating the first global map of fishing activity that includes both industrial fleets and small-scale fishing vessels.\nThe initiative will combine vessel-tracking data with advanced satellite imagery and analytics to map millions of artisanal fishing boats that are largely absent from existing datasets.\nScheduled for launch on July 1, 2026, the project is expected to provide governments and fisheries managers with a more complete understanding of human activity at sea.\nStakeholders say the enhanced visibility will support efforts to combat overfishing, improve fisheries management, and ensure the long-term sustainability of marine resources worldwide.",
+      "fullTextCn": "第11届我们的海洋大会于周四在肯尼亚蒙巴萨闭幕，会议呼吁非洲国家加速渔业透明度改革，作为加强海洋治理、打击非法捕捞和保护沿海社区数百万人生计的一部分。这是该会议首次在非洲举行，为政府、保护组织和海洋利益相关方提供了一个平台，以强调透明度、技术和国际合作在保护海洋资源方面日益重要的作用。与会者赞扬了加纳和喀麦隆等国家将透明度和问责措施纳入国家和区域渔业政策。这些努力正在帮助非洲政府将承诺转化为具体行动，旨在解决非法、不报告和不管制的捕捞问题，同时加强执法并促进可持续渔业管理。全球渔业观察首席执行官托尼·朗表示：“我们在蒙巴萨看到的是明确证据，表明海洋透明度正成为全球期望。”\n\n“从新的政府承诺和伙伴关系，到技术和数据的进步，围绕一个简单原则正在形成势头：我们无法可持续地管理我们看不见的东西。现在的挑战是将这一势头转化为持久的行动，并使透明度成为每个渔场、每艘船只和全球每个海洋的标准。”\n\n会议的一个关键焦点是越来越多地使用技术来提高海上捕捞活动的可见性。全球渔业观察展示了新研究，利用人工智能和高分辨率卫星图像来揭示传统上超出常规监测系统范围的小规模捕捞活动。首席科学家大卫·克鲁德马在介绍研究结果时表示，分析识别出超过3万艘沿非洲海岸线作业的小型渔船，并指出了工业和手工渔业争夺相同资源的区域。\n\n利益相关方表示，这些数据为政府提供了宝贵的见解，以支持渔业管理、加强海洋治理并保障沿海社区的生计。克鲁德马说：“卫星图像和人工智能首次让我们对非洲水域的小规模捕捞活动有了前所未有的了解，揭示了长期隐藏的人群、地点和压力。”他补充道：“这不仅仅是技术问题。这是关于赋予政府和社区所需的信息，以便他们为海洋的未来做出更好的决策。”\n\n除了技术创新，会议还强调了政策改革、执法机制和国际伙伴关系在推进渔业透明度方面日益增长的重要性。全球渔业观察与渔业透明度联盟的合作伙伴一起，展示了非洲在促进海上问责方面的领导力。参与政府签署了《蒙巴萨宣言》，重申了他们对透明度、问责和合作的承诺，以保护海洋生态系统并确保可持续渔业。朗说：“来自蒙巴萨的信息很明确。可持续渔业的未来取决于使海上活动可见和可验证，并让渔民完全负责。”会议的一个主要成果是通过了《蒙巴萨宣言》，这是一项关于渔业透明度的国际行动呼吁，得到了来自非洲、亚洲、拉丁美洲和加勒比、欧洲和太平洋的16个政府的支持。\n\n该宣言承诺签署国改善公众对船舶所有权、许可和捕捞活动信息的获取。它还旨在加强全球打击非法捕捞的努力，并促进更公平和可持续的海洋资源管理。朗补充道：“从关于船舶追踪的新透明度承诺，到与非洲及世界各地政府的更深层次伙伴关系，我们看到了越来越多的认识，即可持续渔业始于知道谁在捕捞、他们在哪里作业以及他们是否遵守规则。”会议上的重大宣布之一是巴拿马承诺通过全球渔业观察平台公开分享近200艘国内渔船的船舶监测系统数据。此举预计将显著提高巴拿马水域捕捞活动的透明度和可见性。\n\n全球渔业观察拉丁美洲负责人莫妮卡·埃斯皮诺萨·米拉莱斯称这一决定是巴拿马演变为渔业透明度和问责制主要倡导者的重要里程碑。这一宣布建立在2019年启动的伙伴关系基础上，当时巴拿马开始公开分享其国际捕捞船队的追踪数据。据埃斯皮诺萨·米拉莱斯称，该国的承诺展示了政治意愿、技术和开放数据如何加强渔业治理和可持续海洋管理。与此同时，马达加斯加渔业和蓝色经济部宣布计划扩大与全球渔业观察的伙伴关系。该倡议将侧重于船舶追踪、联合研究、能力建设以及加强监测、控制和监视行动，将透明度置于该国渔业管理战略的核心。\n\n与会者还公布了一项新的合作，旨在创建首个包括工业船队和小型渔船在内的全球捕捞活动地图。该倡议将结合船舶追踪数据与先进的卫星图像和分析，绘制现有数据集中基本缺失的数百万艘手工渔船。该项目计划于2026年7月1日启动，预计将为政府和渔业管理者提供对海上人类活动更全面的了解。利益相关方表示，增强的可见性将支持打击过度捕捞、改善渔业管理并确保全球海洋资源长期可持续性的努力。"
     },
     {
       "id": 2,
-      "category": "technology",
+      "category": "military",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-22/From-innovation-to-value-How-AI-is-empowering-China-s-manufacturing-1Obh8it7G36/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "From innovation to value: How AI is empowering China's manufacturing",
-      "titleCn": "从创新到价值：人工智能如何赋能中国制造业",
-      "summary": "As artificial intelligence (AI) moves beyond laboratory breakthroughs into large-scale industrial deployment, it is rapidly transforming China's manufacturing system across production, decision-making, human-machine collaboration and supply chain coordination.",
-      "summaryCn": "人工智能正大规模应用于中国制造业，提升生产效率、降低成本并推动产业协同发展。",
-      "wordCount": 663,
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-26/President-Xi-Jinping-meets-Bangladeshi-PM-Tarique-Rahman-1OhGkKtsTsI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "China, Bangladesh to build community with shared future in new era",
+      "titleCn": "中国与孟加拉国共建新时代命运共同体",
+      "summary": "Chinese President Xi Jinping met with Bangladeshi Prime Minister Tarique Rahman in Beijing on Friday, with the two leaders announcing the building of a China-Bangladesh community with a shared future in the new era to advance bilateral relations to a higher level.",
+      "summaryCn": "中国国家主席习近平与孟加拉国总理塔里克·拉赫曼会晤，宣布共建新时代中孟命运共同体，推动双边关系迈上新台阶。",
+      "wordCount": 673,
       "paragraphs": [
         {
-          "en": "As artificial intelligence (AI) moves beyond laboratory {{0}} into large-scale industrial {{1}}, it is rapidly {{2}} China's manufacturing system across production, decision-making, human-machine collaboration and supply chain {{3}}. Large-scale industrial application\nA production line of GAC Aion New Energy Automobile in Guangzhou, Guangdong Province. Located in Guangzhou, south China's Guangdong Province, the smart eco-factory of China's GAC Aion New Energy Automobile operates more than 600 industrial robots across stamping, welding and assembly processes. In the final assembly workshop, vehicles pass through more than 200 processing stations, many of which are fully automated and operated entirely by robots. Every 53 seconds, a vehicle advances to the next workstation, which means that at the same interval a new car rolls off the line.",
-          "cn": "随着人工智能从实验室突破走向大规模工业部署，它正在迅速改变中国制造业的生产、决策、人机协作和供应链协调体系。位于广东省广州市的广汽埃安新能源汽车智能生态工厂，在冲压、焊接和总装过程中运行着超过600台工业机器人。在总装车间，车辆经过200多个加工站，其中许多是完全自动化并由机器人操作的。每53秒，一辆车就前进到下一个工位，这意味着每隔相同的时间就有一辆新车下线。"
+          "en": ", Updated 21:32, 26-Jun-2026Chinese President Xi Jinping meets with Bangladeshi Prime Minister Tarique Rahman in Beijing, China, June 26, 2026. /Xinhua\nChinese President Xi Jinping met with Bangladeshi Prime Minister Tarique Rahman in Beijing on Friday, with the two leaders announcing the building of a China-Bangladesh {{0}} with a {{1}} future in the new era to {{2}} bilateral relations to a higher level. Xi said China has always {{3}} great importance to developing relations with Bangladesh and has consistently {{4}} a policy of good-neighborliness and friendship towards the Bangladeshi people. Regardless of changes in the international landscape, China will remain committed to the overall direction of China-Bangladesh friendship and will always be Bangladesh's {{5}} friend, good neighbor and reliable partner, Xi said. Noting that this year marks the 105th {{6}} of the founding of the Communist Party of China (CPC), Xi said that throughout its history, the CPC has united and led the Chinese people in successfully {{7}} a Chinese path to {{8}} from a poor and weak starting point by upholding independence and self-reliance and firmly keeping the nation's development in its own hands. China supports Bangladesh in {{9}} its national independence, {{10}} and {{11}} integrity and opposes external {{12}}, Xi said.",
+          "cn": "中国国家主席习近平周五在北京与孟加拉国总理塔里克·拉赫曼会晤，两国领导人宣布共建新时代中孟命运共同体，将双边关系提升至更高水平。习近平表示，中国始终高度重视发展同孟加拉国的关系，一贯对孟加拉国人民奉行睦邻友好政策。无论国际形势如何变化，中国都将坚持中孟友好的大方向，永远是孟加拉国值得信赖的朋友、好邻居和可靠伙伴。习近平指出，今年是中国共产党成立105周年，中国共产党在历史上团结带领中国人民，坚持独立自主、自力更生，牢牢把握国家发展主动权，成功走出了一条从贫弱起点走向现代化的中国道路。中国支持孟加拉国维护国家独立、主权和领土完整，反对外部干涉。"
         },
         {
-          "en": "As a {{4}} \"Lighthouse Factory,\" the plant integrates AI, big data, robotics, advanced process engineering, quality management and intelligent logistics systems, enabling more than 100,000 vehicle configuration options to meet {{6}} demand at scale. The transformation has delivered {{7}} gains: production {{8}} has increased by 50%, delivery time shortened by 33%, first-pass yield improved by 8%, and manufacturing costs decreased by 58%. Meanwhile, in Procter & Gamble's Huangpu factory in Guanghzou, technologies including AI, {{9}} automation and digital twin systems have been {{5}} into the supply chain operations, contributing to a 30% reduction in inventory and 15% in logistics costs, while maintaining a 99% on-time delivery over three years. Flexible manufacturing\nThe SANY Heavy Machinery Kunshan Industrial Park in Kunshan, Suzhou, Jiangsu Province. In China's Yangtze River Delta region, industrial AI is evolving toward higher flexibility and {{10}}.",
-          "cn": "作为公认的“灯塔工厂”，该工厂集成了人工智能、大数据、机器人技术、先进工艺工程、质量管理和智能物流系统，能够提供超过10万种车辆配置选项，以满足大规模的定制化需求。这一转型带来了可量化的成果：生产效率提高了50%，交付时间缩短了33%，首次通过率提高了8%，制造成本降低了58%。与此同时，在广州的宝洁黄埔工厂，包括人工智能、柔性自动化和数字孪生系统在内的技术已被整合到供应链运营中，使库存减少了30%，物流成本降低了15%，同时在三年的时间内保持了99%的准时交付率。位于江苏省苏州市昆山的三一重机昆山产业园，在中国长三角地区，工业人工智能正朝着更高的灵活性和自主性发展。"
+          "en": "Xi said China stands ready to strengthen exchanges with Bangladesh on {{13}}, enhance interactions at all levels, deepen strategic communication and increase political {{14}} trust. He said the two sides should continue to support each other on issues concerning their respective core interests and major concerns. Xi also stressed that China remains committed to fostering an {{15}}, secure and {{16}} neighborhood, as well as upholding the principles of amity, sincerity, mutual benefit and {{17}}. China's new development will continue to create new opportunities and inject fresh {{18}} into neighboring countries, he added. Xi said China supports Bangladesh's new government in its smooth administration and stands ready to carry out high-quality Belt and Road cooperation with Bangladesh, better align development strategies and share development experience. China is willing to map out key cooperation with Bangladesh and tap into the potential for collaboration in green and low-carbon development, digital economy, information technology, artificial intelligence and other fields, expand exchanges in areas including healthcare, culture and education, advance the China-Myanmar-Bangladesh Economic Corridor and strengthen regional connectivity, Xi said.",
+          "cn": "习近平表示，中国愿同孟加拉国加强治国理政经验交流，增进各层级交往，深化战略沟通，提升政治互信。双方应继续在涉及彼此核心利益和重大关切的问题上相互支持。习近平还强调，中国致力于营造和睦、安全、繁荣的周边环境，秉持亲诚惠容的周边外交理念。中国的新发展将继续为周边国家创造新机遇、注入新动力。习近平表示，中国支持孟加拉国新政府顺利施政，愿同孟加拉国开展高质量共建“一带一路”合作，更好对接发展战略，分享发展经验。中国愿同孟加拉国规划重点合作领域，挖掘绿色低碳发展、数字经济、信息技术、人工智能等领域的合作潜力，扩大医疗、文化、教育等领域交流，推进中缅孟经济走廊建设，加强区域互联互通。"
         },
         {
-          "en": "In a textile factory in Taicang, Suzhou City in east China's Jiangsu Province, over 500 air-jet looms have been connected to a centralized AI system that continuously {{11}} yarn tension, insertion speed and motor temperature. Through digital twin modeling and real-time {{12}} of 128 process parameters, fabric weight {{13}} has been controlled within 1.2%, while order response speed has been improved by 40%. The factory has also used AI to optimize its sizing process, cutting steam {{14}} by 300 kilograms for every tonne of yarn produced. In advanced equipment manufacturing, SANY Group's heavy machinery smart factory in Kunshan has built a highly flexible production system, in which its AI-driven {{15}} system {{16}} global orders into thousands of process nodes, and allocates tasks across multiple production lines. Automated guided vehicles, connected to a cloud-based manufacturing execution system, automatically plan routes based on order priority.",
-          "cn": "在江苏省苏州市太仓的一家纺织厂，超过500台喷气织机已连接到一个人工智能集中系统，该系统持续监测纱线张力、引纬速度和电机温度。通过数字孪生建模和128个工艺参数的实时优化，织物重量偏差被控制在1.2%以内，订单响应速度提高了40%。该工厂还利用人工智能优化了上浆工艺，每生产一吨纱线可减少300公斤的蒸汽消耗。在先进装备制造领域，三一集团位于昆山的重机智能工厂构建了一个高度灵活的生产系统，其人工智能驱动的调度系统将全球订单分解为数千个工艺节点，并在多条生产线上分配任务。自动导引车连接到基于云的制造执行系统，根据订单优先级自动规划路线。"
-        },
-        {
-          "en": "The factory even supports \"one-unit order,\" with customization rates reaching 75% for mini excavators. Expanding industrial intelligence\nAutomated guided vehicles operate in an intelligent production workshop in a local tech enterprise in Jinhua City, east China's Zhejiang Province. The impact of AI is extending beyond individual factories into broader industrial {{17}}. According to China's Ministry of Industry and Information Technology (MIIT), by the end of 2025, more than 30% of manufacturing enterprises with annual revenue of at least 20 million yuan (about $3 million) had {{18}} AI technologies. Industrial intelligent agents covered over 70% of business scenarios in pioneer-level smart factories, accumulating more than 6,000 vertical domain models.",
-          "cn": "该工厂甚至支持“单件订单”，微型挖掘机的定制化率达到75%。人工智能的影响正从单个工厂扩展到更广泛的工业生态系统。根据中国工业和信息化部的数据，到2025年底，年收入至少2000万元人民币（约合300万美元）的制造企业中，超过30%已采用人工智能技术。在先锋级智能工厂中，工业智能代理覆盖了超过70%的业务场景，积累了超过6000个垂直领域模型。"
-        },
-        {
-          "en": "A staff monitors the fully automated production lines in a local precision manufacturing company in Huayingshan Economic Development Zone, Sichuan Province. The MIIT, together with six other departments, recently issued an action plan to promote coordinated development among large, medium-sized and small enterprises in the platform economy from 2026 to 2028. The platform economy is a new form of economy built on internet platforms. The plan emphasizes strengthening innovation, ecosystem coordination, and openness across these enterprises, while deepening the integration of the real economy and the digital economy. It calls for greater openness in technology and data sharing, and encourages platform enterprises to strengthen AI innovation, improve algorithm governance and promote algorithm {{19}}.",
-          "cn": "一名工作人员在四川省华蓥山经济开发区的一家本地精密制造公司监控全自动化生产线。工业和信息化部近日会同其他六个部门发布了一项行动计划，以促进2026年至2028年平台经济中大、中、小型企业的协同发展。平台经济是一种基于互联网平台的新型经济形态。该计划强调加强这些企业的创新、生态系统协调和开放性，同时深化实体经济与数字经济的融合。它呼吁在技术和数据共享方面更加开放，并鼓励平台企业加强人工智能创新，改进算法治理，促进算法透明度。"
-        },
-        {
-          "en": "By 2028, China aims to significantly improve the level of coordinated development among platform enterprises, form a number of replicable models for collaborative innovation, and cultivate a group of leading firms specializing in niche manufacturing segments in the platform economy.",
-          "cn": "到2028年，中国旨在显著提高平台企业间的协同发展水平，形成一批可复制的协同创新模式，并在平台经济中培育一批专注于细分制造领域的领军企业。"
+          "en": "The two sides should tap the potential for cooperation in green and low-carbon development, the digital economy, information technology and artificial intelligence, expand exchanges in healthcare, culture, education and between local governments,\nChina is also ready to enhance communication and coordination with Bangladesh within the United Nations and other {{20}} frameworks to jointly promote an equal and orderly multipolar world and a universally beneficial and inclusive economic globalization, while better safeguarding the legitimate rights and interests of both countries and the common interests of the Global South, Xi said. Rahman extended congratulations on the 105th anniversary of the founding of the CPC, saying that China is a great country and has always held an important place in Bangladesh's foreign policy. Describing China as a partner that Bangladesh deeply values and trusts, the Bangladeshi prime minister said he was pleased that bilateral relations had been elevated to a new level with the building of a China-Bangladesh community with a shared future in the new era. Noting China has made remarkable development achievements and Chinese modernization serves as a model for Bangladesh to learn from, Rahman said Bangladesh hopes to strengthen inter-party exchanges with China and deepen cooperation under the Belt and Road Initiative while expanding collaboration in trade, connectivity, agriculture, science and technology, green energy, education, healthcare and other fields to support Bangladesh's modernization. Bangladesh firmly adheres to the one-China principle, recognizes Taiwan as an inalienable part of China's territory, opposes any form of \"Taiwan independence,\" and resolutely upholds the authority of UN General Assembly Resolution 2758, he added. Bangladesh is willing to strengthen coordination and cooperation with China on international and regional affairs to jointly uphold the outcomes of World War II and the international order with the United Nations at its core, Rahman said.",
+          "cn": "双方应挖掘绿色低碳发展、数字经济、信息技术和人工智能等领域的合作潜力，扩大医疗、文化、教育及地方政府间交流。习近平表示，中国还愿同孟加拉国在联合国等多边框架内加强沟通协调，共同促进平等有序的世界多极化和普惠包容的经济全球化，更好维护两国合法权益和全球南方共同利益。拉赫曼祝贺中国共产党成立105周年，表示中国是一个伟大的国家，始终在孟加拉国外交政策中占据重要地位。孟加拉国总理称中国是孟方高度重视和信任的伙伴，对双边关系因共建新时代中孟命运共同体而提升至新水平感到高兴。拉赫曼指出，中国取得了显著发展成就，中国式现代化是孟加拉国学习的榜样，孟方希望加强同中国党际交流，深化“一带一路”框架下合作，扩大贸易、互联互通、农业、科技、绿色能源、教育、医疗等领域合作，支持孟加拉国现代化建设。孟加拉国坚定奉行一个中国原则，承认台湾是中国领土不可分割的一部分，反对任何形式的“台独”，坚决维护联合国大会第2758号决议的权威。拉赫曼表示，孟方愿同中方加强国际和地区事务协调合作，共同维护二战胜利成果和以联合国为核心的国际秩序。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "breakthroughs",
-          "hint": "n. 突破",
+          "answer": "community",
+          "hint": "n. 共同体",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "deployment",
-          "hint": "n. 部署",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "transforming",
-          "hint": "v. 转变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "coordination",
-          "hint": "n. 协调",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "recognized",
-          "hint": "adj. 公认的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "integrated",
-          "hint": "v. 整合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "customized",
-          "hint": "adj. 定制的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "measurable",
-          "hint": "adj. 可量化的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "efficiency",
-          "hint": "n. 效率",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "flexible",
-          "hint": "adj. 灵活的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "autonomy",
-          "hint": "n. 自主性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "monitors",
-          "hint": "v. 监测",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "optimization",
-          "hint": "n. 优化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "deviation",
-          "hint": "n. 偏差",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "consumption",
-          "hint": "n. 消耗",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "scheduling",
-          "hint": "n. 调度",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "decomposes",
-          "hint": "v. 分解",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "ecosystems",
-          "hint": "n. 生态系统",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "adopted",
-          "hint": "v. 采用",
-          "difficulty": "easy"
-        },
-        {
-          "id": 19,
-          "answer": "transparency",
-          "hint": "n. 透明度",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "As artificial intelligence (AI) moves beyond laboratory breakthroughs into large-scale industrial deployment, it is rapidly transforming China's manufacturing system across production, decision-making, human-machine collaboration and supply chain coordination.\nLarge-scale industrial application\nA production line of GAC Aion New Energy Automobile in Guangzhou, Guangdong Province. \nLocated in Guangzhou, south China's Guangdong Province, the smart eco-factory of China's GAC Aion New Energy Automobile operates more than 600 industrial robots across stamping, welding and assembly processes. In the final assembly workshop, vehicles pass through more than 200 processing stations, many of which are fully automated and operated entirely by robots. Every 53 seconds, a vehicle advances to the next workstation, which means that at the same interval a new car rolls off the line.\nAs a recognized \"Lighthouse Factory,\" the plant integrates AI, big data, robotics, advanced process engineering, quality management and intelligent logistics systems, enabling more than 100,000 vehicle configuration options to meet customized demand at scale.\nThe transformation has delivered measurable gains: production efficiency has increased by 50%, delivery time shortened by 33%, first-pass yield improved by 8%, and manufacturing costs decreased by 58%.\nMeanwhile, in Procter & Gamble's Huangpu factory in Guanghzou, technologies including AI, flexible automation and digital twin systems have been integrated into the supply chain operations, contributing to a 30% reduction in inventory and 15% in logistics costs, while maintaining a 99% on-time delivery over three years.\nFlexible manufacturing\nThe SANY Heavy Machinery Kunshan Industrial Park in Kunshan, Suzhou, Jiangsu Province. \nIn China's Yangtze River Delta region, industrial AI is evolving toward higher flexibility and autonomy.\nIn a textile factory in Taicang, Suzhou City in east China's Jiangsu Province, over 500 air-jet looms have been connected to a centralized AI system that continuously monitors yarn tension, insertion speed and motor temperature. Through digital twin modeling and real-time optimization of 128 process parameters, fabric weight deviation has been controlled within 1.2%, while order response speed has been improved by 40%. The factory has also used AI to optimize its sizing process, cutting steam consumption by 300 kilograms for every tonne of yarn produced.\nIn advanced equipment manufacturing, SANY Group's heavy machinery smart factory in Kunshan has built a highly flexible production system, in which its AI-driven scheduling system decomposes global orders into thousands of process nodes, and allocates tasks across multiple production lines. Automated guided vehicles, connected to a cloud-based manufacturing execution system, automatically plan routes based on order priority. The factory even supports \"one-unit order,\" with customization rates reaching 75% for mini excavators.\nExpanding industrial intelligence\nAutomated guided vehicles operate in an intelligent production workshop in a local tech enterprise in Jinhua City, east China's Zhejiang Province. \nThe impact of AI is extending beyond individual factories into broader industrial ecosystems.\nAccording to China's Ministry of Industry and Information Technology (MIIT), by the end of 2025, more than 30% of manufacturing enterprises with annual revenue of at least 20 million yuan (about $3 million) had adopted AI technologies. Industrial intelligent agents covered over 70% of business scenarios in pioneer-level smart factories, accumulating more than 6,000 vertical domain models.\nA staff monitors the fully automated production lines in a local precision manufacturing company in Huayingshan Economic Development Zone, Sichuan Province. \nThe MIIT, together with six other departments, recently issued an action plan to promote coordinated development among large, medium-sized and small enterprises in the platform economy from 2026 to 2028.\nThe platform economy is a new form of economy built on internet platforms.\nThe plan emphasizes strengthening innovation, ecosystem coordination, and openness across these enterprises, while deepening the integration of the real economy and the digital economy. It calls for greater openness in technology and data sharing, and encourages platform enterprises to strengthen AI innovation, improve algorithm governance and promote algorithm transparency.\nBy 2028, China aims to significantly improve the level of coordinated development among platform enterprises, form a number of replicable models for collaborative innovation, and cultivate a group of leading firms specializing in niche manufacturing segments in the platform economy.",
-      "fullTextCn": "随着人工智能从实验室突破走向大规模工业部署，它正在迅速改变中国制造业的生产、决策、人机协作和供应链协调体系。位于广东省广州市的广汽埃安新能源汽车智能生态工厂，在冲压、焊接和总装过程中运行着超过600台工业机器人。在总装车间，车辆经过200多个加工站，其中许多是完全自动化并由机器人操作的。每53秒，一辆车就前进到下一个工位，这意味着每隔相同的时间就有一辆新车下线。\n\n作为公认的“灯塔工厂”，该工厂集成了人工智能、大数据、机器人技术、先进工艺工程、质量管理和智能物流系统，能够提供超过10万种车辆配置选项，以满足大规模的定制化需求。这一转型带来了可量化的成果：生产效率提高了50%，交付时间缩短了33%，首次通过率提高了8%，制造成本降低了58%。与此同时，在广州的宝洁黄埔工厂，包括人工智能、柔性自动化和数字孪生系统在内的技术已被整合到供应链运营中，使库存减少了30%，物流成本降低了15%，同时在三年的时间内保持了99%的准时交付率。位于江苏省苏州市昆山的三一重机昆山产业园，在中国长三角地区，工业人工智能正朝着更高的灵活性和自主性发展。\n\n在江苏省苏州市太仓的一家纺织厂，超过500台喷气织机已连接到一个人工智能集中系统，该系统持续监测纱线张力、引纬速度和电机温度。通过数字孪生建模和128个工艺参数的实时优化，织物重量偏差被控制在1.2%以内，订单响应速度提高了40%。该工厂还利用人工智能优化了上浆工艺，每生产一吨纱线可减少300公斤的蒸汽消耗。在先进装备制造领域，三一集团位于昆山的重机智能工厂构建了一个高度灵活的生产系统，其人工智能驱动的调度系统将全球订单分解为数千个工艺节点，并在多条生产线上分配任务。自动导引车连接到基于云的制造执行系统，根据订单优先级自动规划路线。\n\n该工厂甚至支持“单件订单”，微型挖掘机的定制化率达到75%。人工智能的影响正从单个工厂扩展到更广泛的工业生态系统。根据中国工业和信息化部的数据，到2025年底，年收入至少2000万元人民币（约合300万美元）的制造企业中，超过30%已采用人工智能技术。在先锋级智能工厂中，工业智能代理覆盖了超过70%的业务场景，积累了超过6000个垂直领域模型。\n\n一名工作人员在四川省华蓥山经济开发区的一家本地精密制造公司监控全自动化生产线。工业和信息化部近日会同其他六个部门发布了一项行动计划，以促进2026年至2028年平台经济中大、中、小型企业的协同发展。平台经济是一种基于互联网平台的新型经济形态。该计划强调加强这些企业的创新、生态系统协调和开放性，同时深化实体经济与数字经济的融合。它呼吁在技术和数据共享方面更加开放，并鼓励平台企业加强人工智能创新，改进算法治理，促进算法透明度。\n\n到2028年，中国旨在显著提高平台企业间的协同发展水平，形成一批可复制的协同创新模式，并在平台经济中培育一批专注于细分制造领域的领军企业。"
-    },
-    {
-      "id": 3,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-06-26/detail-ihfftxzk2712787.shtml",
-      "title": "Visit boosts confidence in rural future",
-      "titleCn": "视察提振农村未来信心",
-      "summary": "When President Xi Jinping visited Dongyujia village in Dezhou, Shandong province, during the busy summer farming season on Wednesday morning, Li Lianjun, 54, and other villagers shared with him their joy over this year's summer grain harvest.",
-      "summaryCn": "习近平主席视察山东德州东于家村，与农民亲切交流，强调粮食安全与农业现代化，增强了村民对未来发展的信心。",
-      "wordCount": 714,
-      "paragraphs": [
-        {
-          "en": "When President Xi Jinping visited Dongyujia village in Dezhou, Shandong province, during the busy summer farming season on Wednesday morning, Li Lianjun, 54, and other villagers shared with him their joy over this year's summer grain {{1}}. Xi was pleased to learn that wheat {{2}} had increased again this year and that corn was being planted rapidly without missing the {{3}} planting window. He encouraged the farmers to steadily increase both yields and returns, and strive for a {{4}} grain harvest for the whole year. \"With all the wheat harvested, we knew we had secured a good harvest,\" Li said, noting that yields had increased by about 300 to 375 kilograms per hectare compared with last year. Xi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, was on an {{5}} trip to Dezhou on Wednesday.",
-          "cn": "周三上午，正值繁忙的夏收时节，国家主席习近平来到山东省德州市东于家村视察。54岁的李连军和其他村民与他分享了今年夏粮丰收的喜悦。习近平得知今年小麦产量再次提高，玉米正在抢时播种、没有错过最佳播种期，感到欣慰。他鼓励农民稳步提高产量和收益，力争全年粮食丰收。李连军说：“小麦都收完了，我们知道丰收稳了。”他提到，与去年相比，每公顷产量增加了约300到375公斤。习近平还担任中共中央总书记、中央军委主席，他于周三在德州进行考察。"
-        },
-        {
-          "en": "For Li, who farms 6.7 hectares of land, the conversation in the fields remains {{6}}. \"I never imagined that the general secretary would come right up to us,\" he said. \"He was so warm and {{7}}.\"\nXi also asked Li about his household income, as well as his children's studies and lives. Li said that those questions made the {{8}} feel more like a warm and informal chat about everyday life rather than an official inspection. This year's bumper harvest, however, had not come easily for Dezhou's farmers.",
-          "cn": "对于耕种6.7公顷土地的李连军来说，田间的对话依然历历在目。“我从未想过总书记会直接走到我们面前，”他说，“他非常温暖、平易近人。”习近平还询问了李连军的家庭收入以及孩子们的学习和生活情况。李连军说，这些问题让这次会面更像是一次温馨随意的家常聊天，而非正式视察。然而，对于德州的农民来说，今年的丰收来之不易。"
-        },
-        {
-          "en": "Prolonged autumn rains in 2025 delayed wheat planting by more than 20 days, raising concerns about whether the crop could grow strongly enough before winter and recover in spring. With the help of agricultural {{10}} throughout the growing season, the crop had fully recovered by early April, when the wheat entered the jointing stage. Cui Xinyan, a local agricultural technician, said Xi showed a particular interest in the {{11}} {{12}} and {{13}} system used in the fields. \"He crouched down to take a close look and asked detailed questions about the system's operating costs and fertilizer mix,\" Cui recalled. According to Cui, the technology can increase planting {{14}} from around 67,500 to more than 82,500 plants per hectare, raising average yields by over 10 percent.",
-          "cn": "2025年秋季的持续降雨将小麦播种推迟了20多天，引发了对作物能否在冬季前茁壮生长并在春季恢复的担忧。在整个生长季节，在农业技术人员的帮助下，到4月初小麦进入拔节期时，作物已完全恢复。当地农业技术员崔新燕表示，习近平对田间使用的水肥一体化系统表现出特别兴趣。“他蹲下来仔细查看，并详细询问了系统的运行成本和肥料配比，”崔新燕回忆道。据崔新燕介绍，这项技术可以将种植密度从每公顷约67500株提高到超过82500株，使平均产量提高10%以上。"
-        },
-        {
-          "en": "Cui said that her strongest {{18}} from speaking face to face with Xi was his close attention to agriculture, food security and agricultural technology. \"His words and actions reflected his deep {{15}} for farmers,\" Cui said. Xi's visit then continued from the fields to the nearby Xiyujia village, where he was offered a closer look at how changes in agricultural production and rural employment are {{16}} villagers' lives. At the home of Yu Xinhui, 36, Xi looked around and sat down with the family for a conversation. He asked about their jobs and income, the health of elderly family members and the children's studies.",
-          "cn": "崔新燕说，与习近平面对面交谈给她最深的印象是他对农业、粮食安全和农业技术的高度关注。“他的一言一行都体现了他对农民的深厚感情，”崔新燕说。随后，习近平的视察从田间继续前往附近的西于家村，在那里他更深入地了解了农业生产和农村就业的变化如何重塑村民的生活。在36岁的于新辉家中，习近平环顾四周，并与一家人坐下交谈。他询问了他们的工作和收入、老人的健康状况以及孩子们的学习情况。"
-        },
-        {
-          "en": "He also asked in detail whether policies concerning agriculture, rural areas and farmers had been fully {{17}}. One question from Xi left a particularly deep impression on the villager. \"The general secretary asked whether there was anything I was unhappy with or wanted to complain about,\" Yu recalled. \"That really warmed my heart. He truly cares about young people like us.\"\nYu said that the conversation gave him and other villagers a stronger sense of {{0}} and security.",
-          "cn": "他还详细询问了关于农业、农村和农民的政策是否得到了全面落实。习近平提出的一个问题给这位村民留下了特别深刻的印象。“总书记问我有没有什么不满意或想抱怨的事情，”于新辉回忆道，“这让我心里很温暖。他真心关心我们这样的年轻人。”于新辉说，这次谈话让他和其他村民有了更强的安全感和信心。"
-        },
-        {
-          "en": "\"We feel more motivated and reassured,\" he said. \"It feels we have strong support behind us.\"\nThis year marks the beginning of China's 15th Five-Year Plan (2026-30) period. Agricultural and rural {{19}}, as outlined in the plan, has a major bearing on Chinese modernization as a whole. By 2030, the country aims to further strengthen food security, improve the quality, efficiency and competitiveness of agriculture, enhance agricultural sci-tech capabilities and continue raising farmers' incomes, among other goals. Xi's fact-finding trip, which came a week before the CPC marks its 105th anniversary, underscored the Party's long-standing priorities of safeguarding food security, raising farmers' incomes and improving people's well-being.",
-          "cn": "“我们感到更有动力、更安心了，”他说，“感觉背后有强大的支持。”今年是中国第十五个五年规划（2026-2030年）的开局之年。规划中提出的农业农村现代化，对中国式现代化具有重大意义。到2030年，国家旨在进一步加强粮食安全，提高农业质量、效率和竞争力，增强农业科技能力，并继续提高农民收入等。习近平的这次调研，恰逢中国共产党成立105周年前一周，突显了党长期以来保障粮食安全、提高农民收入、改善民生福祉的优先事项。"
-        },
-        {
-          "en": "As Xi left the village, residents gathered to give him a warm send-off. \"As we are marching on the new journey of building China into a modern socialist country in all respects, we must work together and keep up our stride on the new Long March to create a brighter future and continuously meet the people's {{20}} for a better life,\" Xi said to them.",
-          "cn": "习近平离开村庄时，居民们聚集在一起热情送别。“在全面建设社会主义现代化国家的新征程上，我们必须团结一心，在新长征路上继续前行，创造更加美好的未来，不断满足人民对美好生活的向往，”习近平对他们说。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "confidence",
-          "hint": "n. 信心",
-          "difficulty": "easy"
-        },
-        {
-          "id": 1,
-          "answer": "harvest",
-          "hint": "n. 收获",
+          "answer": "shared",
+          "hint": "adj. 共享的",
           "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "yields",
-          "hint": "n. 产量",
+          "answer": "advance",
+          "hint": "v. 推进",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "optimal",
-          "hint": "adj. 最佳的",
+          "answer": "attached",
+          "hint": "v. 重视",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "bumper",
-          "hint": "adj. 丰盛的",
+          "answer": "pursued",
+          "hint": "v. 奉行",
           "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "inspection",
-          "hint": "n. 视察",
+          "answer": "trustworthy",
+          "hint": "adj. 值得信赖的",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "vivid",
-          "hint": "adj. 生动的",
+          "answer": "anniversary",
+          "hint": "n. 周年纪念",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "approachable",
-          "hint": "adj. 平易近人的",
+          "answer": "forging",
+          "hint": "v. 锻造",
           "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "encounter",
-          "hint": "n. 相遇",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "technicians",
-          "hint": "n. 技术人员",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "integrated",
-          "hint": "adj. 综合的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "irrigation",
-          "hint": "n. 灌溉",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "fertilization",
-          "hint": "n. 施肥",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "density",
-          "hint": "n. 密度",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "affection",
-          "hint": "n. 感情",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "reshaping",
-          "hint": "v. 重塑",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "implemented",
-          "hint": "v. 实施",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "impression",
-          "hint": "n. 印象",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
           "answer": "modernization",
           "hint": "n. 现代化",
           "difficulty": "medium"
         },
         {
-          "id": 19,
-          "answer": "aspirations",
-          "hint": "n. 愿望",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "When President Xi Jinping visited Dongyujia village in Dezhou, Shandong province, during the busy summer farming season on Wednesday morning, Li Lianjun, 54, and other villagers shared with him their joy over this year's summer grain harvest.\nXi was pleased to learn that wheat yields had increased again this year and that corn was being planted rapidly without missing the optimal planting window. He encouraged the farmers to steadily increase both yields and returns, and strive for a bumper grain harvest for the whole year.\n\"With all the wheat harvested, we knew we had secured a good harvest,\" Li said, noting that yields had increased by about 300 to 375 kilograms per hectare compared with last year.\nXi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, was on an inspection trip to Dezhou on Wednesday.\nFor Li, who farms 6.7 hectares of land, the conversation in the fields remains vivid. \"I never imagined that the general secretary would come right up to us,\" he said. \"He was so warm and approachable.\"\nXi also asked Li about his household income, as well as his children's studies and lives.\nLi said that those questions made the encounter feel more like a warm and informal chat about everyday life rather than an official inspection.\nThis year's bumper harvest, however, had not come easily for Dezhou's farmers.\nProlonged autumn rains in 2025 delayed wheat planting by more than 20 days, raising concerns about whether the crop could grow strongly enough before winter and recover in spring.\nWith the help of agricultural technicians throughout the growing season, the crop had fully recovered by early April, when the wheat entered the jointing stage.\nCui Xinyan, a local agricultural technician, said Xi showed a particular interest in the integrated irrigation and fertilization system used in the fields.\n\"He crouched down to take a close look and asked detailed questions about the system's operating costs and fertilizer mix,\" Cui recalled.\nAccording to Cui, the technology can increase planting density from around 67,500 to more than 82,500 plants per hectare, raising average yields by over 10 percent.\nCui said that her strongest impression from speaking face to face with Xi was his close attention to agriculture, food security and agricultural technology.\n\"His words and actions reflected his deep affection for farmers,\" Cui said.\nXi's visit then continued from the fields to the nearby Xiyujia village, where he was offered a closer look at how changes in agricultural production and rural employment are reshaping villagers' lives.\nAt the home of Yu Xinhui, 36, Xi looked around and sat down with the family for a conversation. He asked about their jobs and income, the health of elderly family members and the children's studies. He also asked in detail whether policies concerning agriculture, rural areas and farmers had been fully implemented.\nOne question from Xi left a particularly deep impression on the villager.\n\"The general secretary asked whether there was anything I was unhappy with or wanted to complain about,\" Yu recalled. \"That really warmed my heart. He truly cares about young people like us.\"\nYu said that the conversation gave him and other villagers a stronger sense of confidence and security.\n\"We feel more motivated and reassured,\" he said. \"It feels we have strong support behind us.\"\nThis year marks the beginning of China's 15th Five-Year Plan (2026-30) period. Agricultural and rural modernization, as outlined in the plan, has a major bearing on Chinese modernization as a whole. By 2030, the country aims to further strengthen food security, improve the quality, efficiency and competitiveness of agriculture, enhance agricultural sci-tech capabilities and continue raising farmers' incomes, among other goals.\nXi's fact-finding trip, which came a week before the CPC marks its 105th anniversary, underscored the Party's long-standing priorities of safeguarding food security, raising farmers' incomes and improving people's well-being.\nAs Xi left the village, residents gathered to give him a warm send-off.\n\"As we are marching on the new journey of building China into a modern socialist country in all respects, we must work together and keep up our stride on the new Long March to create a brighter future and continuously meet the people's aspirations for a better life,\" Xi said to them.",
-      "fullTextCn": "周三上午，正值繁忙的夏收时节，国家主席习近平来到山东省德州市东于家村视察。54岁的李连军和其他村民与他分享了今年夏粮丰收的喜悦。习近平得知今年小麦产量再次提高，玉米正在抢时播种、没有错过最佳播种期，感到欣慰。他鼓励农民稳步提高产量和收益，力争全年粮食丰收。李连军说：“小麦都收完了，我们知道丰收稳了。”他提到，与去年相比，每公顷产量增加了约300到375公斤。习近平还担任中共中央总书记、中央军委主席，他于周三在德州进行考察。\n\n对于耕种6.7公顷土地的李连军来说，田间的对话依然历历在目。“我从未想过总书记会直接走到我们面前，”他说，“他非常温暖、平易近人。”习近平还询问了李连军的家庭收入以及孩子们的学习和生活情况。李连军说，这些问题让这次会面更像是一次温馨随意的家常聊天，而非正式视察。然而，对于德州的农民来说，今年的丰收来之不易。\n\n2025年秋季的持续降雨将小麦播种推迟了20多天，引发了对作物能否在冬季前茁壮生长并在春季恢复的担忧。在整个生长季节，在农业技术人员的帮助下，到4月初小麦进入拔节期时，作物已完全恢复。当地农业技术员崔新燕表示，习近平对田间使用的水肥一体化系统表现出特别兴趣。“他蹲下来仔细查看，并详细询问了系统的运行成本和肥料配比，”崔新燕回忆道。据崔新燕介绍，这项技术可以将种植密度从每公顷约67500株提高到超过82500株，使平均产量提高10%以上。\n\n崔新燕说，与习近平面对面交谈给她最深的印象是他对农业、粮食安全和农业技术的高度关注。“他的一言一行都体现了他对农民的深厚感情，”崔新燕说。随后，习近平的视察从田间继续前往附近的西于家村，在那里他更深入地了解了农业生产和农村就业的变化如何重塑村民的生活。在36岁的于新辉家中，习近平环顾四周，并与一家人坐下交谈。他询问了他们的工作和收入、老人的健康状况以及孩子们的学习情况。\n\n他还详细询问了关于农业、农村和农民的政策是否得到了全面落实。习近平提出的一个问题给这位村民留下了特别深刻的印象。“总书记问我有没有什么不满意或想抱怨的事情，”于新辉回忆道，“这让我心里很温暖。他真心关心我们这样的年轻人。”于新辉说，这次谈话让他和其他村民有了更强的安全感和信心。\n\n“我们感到更有动力、更安心了，”他说，“感觉背后有强大的支持。”今年是中国第十五个五年规划（2026-2030年）的开局之年。规划中提出的农业农村现代化，对中国式现代化具有重大意义。到2030年，国家旨在进一步加强粮食安全，提高农业质量、效率和竞争力，增强农业科技能力，并继续提高农民收入等。习近平的这次调研，恰逢中国共产党成立105周年前一周，突显了党长期以来保障粮食安全、提高农民收入、改善民生福祉的优先事项。\n\n习近平离开村庄时，居民们聚集在一起热情送别。“在全面建设社会主义现代化国家的新征程上，我们必须团结一心，在新长征路上继续前行，创造更加美好的未来，不断满足人民对美好生活的向往，”习近平对他们说。"
-    },
-    {
-      "id": 4,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://newsaf.cgtn.com/news/2026-06-24/-The-Polygamist-author-unpacks-Netflix-sensation-1Of2Y0O6eR2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "'The Polygamist' author unpacks Netflix sensation",
-      "titleCn": "《一夫多妻者》作者解读奈飞热剧",
-      "summary": "'The Polygamist', based on Sue Nyathi's 2012 debut novel, became one of Netflix's most-watched non-English series in the weeks following its June release, trending across Africa, the Caribbean, and parts of Europe.",
-      "summaryCn": "津巴布韦作家苏·尼亚蒂的自出版小说《一夫多妻者》被改编成奈飞热播剧，标志着非洲文学改编影视作品的新趋势。",
-      "wordCount": 695,
-      "paragraphs": [
-        {
-          "en": "File photo: Rows of books are neatly arranged on shelves at the Dalingshan Library in Dongguan, Guangdong Province, on October 21, 2021. /CFP\nA self-published novel by a Zimbabwean author that struggled to find a distributor is now the source of one of this year's biggest online hits. \"The Polygamist,\" based on Sue Nyathi's 2012 {{2}} novel, became one of Netflix's most-watched non-English series within weeks of its June release, {{3}} across Africa, the Caribbean, and parts of Europe. The series forms part of a wider {{4}} of works by African authors driving major screen productions at a scale and {{5}} not seen before. \"For a long time, the {{6}} was usually on African authors who are published overseas, and those books are sold down to the rest of the continent,\" Nyathi said in an interview with CGTN Africa.",
-          "cn": "资料照片：2021年10月21日，广东省东莞市大岭山图书馆的书架上整齐排列着成排的书籍。/CFP\n一位津巴布韦作家自出版的小说曾难以找到发行商，如今却成为今年最热门的网络作品之一。改编自苏·尼亚蒂2012年处女作的《一夫多妻者》，在6月上线后数周内便成为奈飞观看量最高的非英语剧集之一，在非洲、加勒比地区和欧洲部分地区掀起热潮。该剧是非洲作家作品推动大规模影视制作这一更广泛趋势的一部分，其规模和雄心前所未有。尼亚蒂在接受CGTN非洲频道采访时表示：“长期以来，聚光灯通常聚焦在海外出版的非洲作家身上，这些书随后被销往非洲大陆其他地区。”"
-        },
-        {
-          "en": "\"It is difficult to sell books. So for me, this is actually a {{7}} moment.\"\nNyathi, born in Bulawayo, Zimbabwe, described her journey to success as more of a {{8}}, with many challenges along the way. \"Being a writer, you need to be {{9}}. I mentioned that I couldn’t get a publisher for this book, The Polygamist, when it came out. I wrote it in 2010, and then I spent the whole of 2011 with my editor sending out {{10}} letters, and there was no interest,” she said.",
-          "cn": "“卖书很难。所以对我来说，这实际上是一个胜利的时刻。”\n出生于津巴布韦布拉瓦约的尼亚蒂将自己的成功之路描述为一条曲折的曲线，沿途充满挑战。“作为一名作家，你需要脸皮厚。我提到过，这本书《一夫多妻者》出版时，我找不到出版商。我是在2010年写的，然后2011年整年我和编辑都在发送征询信，但毫无兴趣。”她说。"
-        },
-        {
-          "en": "She kept writing. After The Polygamist came The Gold Diggers, A Family Affair, An Angel's Demise, and Rubies and Rain. In 2018, she left a decade-long career in {{11}} to write full-time. Netflix came on board in 2024, fourteen years after she first put the story to paper. \"You can imagine it's been a long time,\" she said.",
-          "cn": "她坚持写作。继《一夫多妻者》之后，她又出版了《淘金者》、《家庭事务》、《天使的陨落》以及《红宝石与雨》。2018年，她离开了从事十年的金融行业，全职写作。奈飞于2024年加入，距离她最初写下这个故事已经过去了14年。“你可以想象，这已经是很长时间了。”她说。"
-        },
-        {
-          "en": "\"And sometimes I would forget about it and carry on with life.\"\nThe series, produced by South Africa's Stained Glass Productions, takes Nyathi's Zimbabwean characters into a South African setting. Characters were {{12}} and storylines {{13}}, changes Nyathi said she does not {{14}}. \"The changes didn't take away from the story; they actually added to the story,\" she said. \"It still maintained the {{15}} of the original.\"\nThe production model is itself {{16}}. The source material was Zimbabwean; the production house was South African; and the series featured several directors, including Nigerian filmmaker Akin Omotoso—a pan-African {{17}} that delivered a story to a global audience.",
-          "cn": "“有时我会忘记它，继续生活。”\n该剧由南非的彩色玻璃制片公司制作，将尼亚蒂笔下的津巴布韦角色置于南非背景中。角色被合并，故事情节被扩展，尼亚蒂表示她不反对这些改动。“这些改动没有削弱故事，反而丰富了故事，”她说，“它仍然保持了原作的精髓。”\n这种制作模式本身就意义重大。原著素材来自津巴布韦；制作公司来自南非；剧集由多位导演执导，包括尼日利亚电影制作人阿金·奥莫托索——这是一次泛非合作，将一个故事呈现给了全球观众。"
-        },
-        {
-          "en": "Online, {{18}} has centered on whether the {{19}} Jonasi Gomora, played by S'dumo Mtshali, is a {{20}} or a {{21}}, and whether the women around him, led by Gugu Gumede's Joyce, were victims or {{22}}. \"I just wanted to write a story that would get people talking about the {{23}} things that, as a society, we tend to {{24}} under the rug,\" she said. \"People are saying their fathers are like Jonasi, or they could see their moms in some of the women in the story. It just goes to show that, as a society, there is a lot of {{25}} and we need healing.\"\nThe success of The Polygamist is not an {{26}} event. Nigerian author Sefi Atta's novel Swallow was adapted for Netflix in 2021 by director Kunle Afolayan.",
-          "cn": "在网上，争论的焦点集中在由S'dumo Mtshali饰演的 patriarch Jonasi Gomora 是反派还是受害者，以及他身边的女性——以Gugu Gumede饰演的Joyce为首——是受害者还是同谋。“我只是想写一个故事，让人们谈论那些作为社会我们往往掩盖起来的不舒服的事情，”她说，“人们说他们的父亲像Jonasi，或者他们能在故事中的一些女性身上看到自己的母亲。这恰恰表明，作为一个社会，存在很多破碎，我们需要疗愈。”\n《一夫多妻者》的成功并非孤立事件。尼日利亚作家塞菲·阿塔的小说《吞咽》于2021年被导演昆勒·阿弗拉扬改编为奈飞电影。"
-        },
-        {
-          "en": "South African crime writer Deon Meyer's Heart of the Hunter reached No. 1 on Netflix’s English Films chart after its March 2024 release, {{27}} millions of views in its first week. Each adaptation has found audiences well beyond its country of origin, testing and repeatedly confirming the {{29}} that African stories do not need to be {{28}} to travel. The argument is now being made at the level of the Hollywood blockbuster with Tomi Adeyemi's Children of Blood and Bone, a Nigerian-inspired fantasy novel whose trilogy has spent a combined 175 weeks on the New York Times bestseller list and sold nearly three million copies worldwide. Its film adaptation is currently in post-production at Paramount Pictures ahead of a January 15, 2027, IMAX release.",
-          "cn": "南非犯罪小说作家迪昂·迈耶的《猎人之心》在2024年3月上映后，登顶奈飞英语电影排行榜，首周便积累了数百万次观看。每一部改编作品都在其原产国之外找到了大量观众，检验并反复证实了一个前提：非洲故事无需被稀释就能传播。这一论点如今已在好莱坞大片层面得到体现，托米·阿德耶米的《血与骨之子》——一部受尼日利亚启发的奇幻小说，其三部曲在《纽约时报》畅销书排行榜上累计停留了175周，全球销量近300万册——其电影改编版目前正在派拉蒙影业进行后期制作，将于2027年1月15日以IMAX格式上映。"
-        },
-        {
-          "en": "The film features South Africa’s Thuso Mbedu in the lead role alongside Viola Davis, Idris Elba, Chiwetel Ejiofor, Cynthia Erivo, and Regina King. What both projects share, besides African authorship, is creative control retained closer to the source. Adeyemi co-wrote her own screenplay. Nyathi's book is credited in the series.",
-          "cn": "该片由南非的图索·姆贝杜领衔主演，其他主演包括维奥拉·戴维斯、伊德里斯·艾尔巴、切瓦特·埃加福特、辛西娅·埃里沃和雷吉娜·金。这两个项目除了非洲作者身份外，还有一个共同点：创作控制权更接近源头。阿德耶米共同撰写了她的剧本。尼亚蒂的书在剧集中被署名。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "debut",
-          "hint": "n. 处女作，首次亮相",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "trending",
-          "hint": "v. 流行，成为趋势",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "pattern",
-          "hint": "n. 模式，趋势",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "ambition",
-          "hint": "n. 雄心，抱负",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "spotlight",
-          "hint": "n. 聚光灯，关注焦点",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "triumphant",
-          "hint": "adj. 胜利的，成功的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "curve",
-          "hint": "n. 曲线，曲折",
-          "difficulty": "easy"
-        },
-        {
-          "id": 7,
-          "answer": "thick-skinned",
-          "hint": "adj. 厚脸皮的，坚韧的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "query",
-          "hint": "n. 询问，征询",
-          "difficulty": "medium"
-        },
-        {
           "id": 9,
-          "answer": "finance",
-          "hint": "n. 金融，财务",
-          "difficulty": "easy"
+          "answer": "safeguarding",
+          "hint": "v. 维护",
+          "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "consolidated",
-          "hint": "v. 合并，巩固",
+          "answer": "sovereignty",
+          "hint": "n. 主权",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "expanded",
-          "hint": "v. 扩展，扩大",
-          "difficulty": "easy"
+          "answer": "territorial",
+          "hint": "adj. 领土的",
+          "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "oppose",
-          "hint": "v. 反对",
+          "answer": "interference",
+          "hint": "n. 干涉",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "essence",
-          "hint": "n. 本质，精髓",
-          "difficulty": "medium"
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "significant",
-          "hint": "adj. 重要的，意义重大的",
+          "answer": "mutual",
+          "hint": "adj. 相互的",
           "difficulty": "easy"
         },
         {
           "id": 15,
-          "answer": "collaboration",
-          "hint": "n. 合作，协作",
-          "difficulty": "medium"
+          "answer": "amicable",
+          "hint": "adj. 和睦的",
+          "difficulty": "hard"
         },
         {
           "id": 16,
-          "answer": "debate",
-          "hint": "n. 辩论，争论",
-          "difficulty": "easy"
+          "answer": "prosperous",
+          "hint": "adj. 繁荣的",
+          "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "patriarch",
-          "hint": "n. 家长，族长",
+          "answer": "inclusiveness",
+          "hint": "n. 包容性",
           "difficulty": "hard"
         },
         {
           "id": 18,
-          "answer": "villain",
-          "hint": "n. 反派，恶人",
+          "answer": "momentum",
+          "hint": "n. 动力",
           "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "victim",
-          "hint": "n. 受害者",
-          "difficulty": "easy"
-        },
-        {
-          "id": 20,
-          "answer": "complicit",
-          "hint": "adj. 同谋的，串通的",
+          "answer": "multilateral",
+          "hint": "adj. 多边的",
           "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "uncomfortable",
-          "hint": "adj. 不舒服的，令人不安的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 22,
-          "answer": "shove",
-          "hint": "v. 推，塞",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "brokenness",
-          "hint": "n. 破碎，破裂",
-          "difficulty": "hard"
-        },
-        {
-          "id": 24,
-          "answer": "isolated",
-          "hint": "adj. 孤立的，单独的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "accumulating",
-          "hint": "v. 积累，累积",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "diluted",
-          "hint": "v. 稀释，削弱",
-          "difficulty": "hard"
-        },
-        {
-          "id": 27,
-          "answer": "premise",
-          "hint": "n. 前提，假设",
-          "difficulty": "medium"
         }
       ],
-      "fullText": "File photo: Rows of books are neatly arranged on shelves at the Dalingshan Library in Dongguan, Guangdong Province, on October 21, 2021. /CFP\nA self-published novel by a Zimbabwean author that struggled to find a distributor is now the source of one of this year's biggest online hits.\n\"The Polygamist,\" based on Sue Nyathi's 2012 debut novel, became one of Netflix's most-watched non-English series within weeks of its June release, trending across Africa, the Caribbean, and parts of Europe.\nThe series forms part of a wider pattern of works by African authors driving major screen productions at a scale and ambition not seen before.\n\"For a long time, the spotlight was usually on African authors who are published overseas, and those books are sold down to the rest of the continent,\" Nyathi said in an interview with CGTN Africa. \"It is difficult to sell books. So for me, this is actually a triumphant moment.\"\nNyathi, born in Bulawayo, Zimbabwe, described her journey to success as more of a curve, with many challenges along the way.\n\"Being a writer, you need to be thick-skinned. I mentioned that I couldn’t get a publisher for this book, The Polygamist, when it came out. I wrote it in 2010, and then I spent the whole of 2011 with my editor sending out query letters, and there was no interest,” she said.\nShe kept writing.\nAfter The Polygamist came The Gold Diggers, A Family Affair, An Angel's Demise, and Rubies and Rain.\nIn 2018, she left a decade-long career in finance to write full-time. Netflix came on board in 2024, fourteen years after she first put the story to paper.\n\"You can imagine it's been a long time,\" she said. \"And sometimes I would forget about it and carry on with life.\"\nThe series, produced by South Africa's Stained Glass Productions, takes Nyathi's Zimbabwean characters into a South African setting.\nCharacters were consolidated and storylines expanded, changes Nyathi said she does not oppose.\n\"The changes didn't take away from the story; they actually added to the story,\" she said. \"It still maintained the essence of the original.\"\nThe production model is itself significant. The source material was Zimbabwean; the production house was South African; and the series featured several directors, including Nigerian filmmaker Akin Omotoso—a pan-African collaboration that delivered a story to a global audience.\nOnline, debate has centered on whether the patriarch Jonasi Gomora, played by S'dumo Mtshali, is a villain or a victim, and whether the women around him, led by Gugu Gumede's Joyce, were victims or complicit.\n\"I just wanted to write a story that would get people talking about the uncomfortable things that, as a society, we tend to shove under the rug,\" she said. \"People are saying their fathers are like Jonasi, or they could see their moms in some of the women in the story. It just goes to show that, as a society, there is a lot of brokenness and we need healing.\"\nThe success of The Polygamist is not an isolated event.\nNigerian author Sefi Atta's novel Swallow was adapted for Netflix in 2021 by director Kunle Afolayan. South African crime writer Deon Meyer's Heart of the Hunter reached No. 1 on Netflix’s English Films chart after its March 2024 release, accumulating millions of views in its first week.\nEach adaptation has found audiences well beyond its country of origin, testing and repeatedly confirming the premise that African stories do not need to be diluted to travel.\nThe argument is now being made at the level of the Hollywood blockbuster with Tomi Adeyemi's Children of Blood and Bone, a Nigerian-inspired fantasy novel whose trilogy has spent a combined 175 weeks on the New York Times bestseller list and sold nearly three million copies worldwide. Its film adaptation is currently in post-production at Paramount Pictures ahead of a January 15, 2027, IMAX release.\nThe film features South Africa’s Thuso Mbedu in the lead role alongside Viola Davis, Idris Elba, Chiwetel Ejiofor, Cynthia Erivo, and Regina King.\nWhat both projects share, besides African authorship, is creative control retained closer to the source. Adeyemi co-wrote her own screenplay. Nyathi's book is credited in the series.",
-      "fullTextCn": "资料照片：2021年10月21日，广东省东莞市大岭山图书馆的书架上整齐排列着成排的书籍。/CFP\n一位津巴布韦作家自出版的小说曾难以找到发行商，如今却成为今年最热门的网络作品之一。改编自苏·尼亚蒂2012年处女作的《一夫多妻者》，在6月上线后数周内便成为奈飞观看量最高的非英语剧集之一，在非洲、加勒比地区和欧洲部分地区掀起热潮。该剧是非洲作家作品推动大规模影视制作这一更广泛趋势的一部分，其规模和雄心前所未有。尼亚蒂在接受CGTN非洲频道采访时表示：“长期以来，聚光灯通常聚焦在海外出版的非洲作家身上，这些书随后被销往非洲大陆其他地区。”\n\n“卖书很难。所以对我来说，这实际上是一个胜利的时刻。”\n出生于津巴布韦布拉瓦约的尼亚蒂将自己的成功之路描述为一条曲折的曲线，沿途充满挑战。“作为一名作家，你需要脸皮厚。我提到过，这本书《一夫多妻者》出版时，我找不到出版商。我是在2010年写的，然后2011年整年我和编辑都在发送征询信，但毫无兴趣。”她说。\n\n她坚持写作。继《一夫多妻者》之后，她又出版了《淘金者》、《家庭事务》、《天使的陨落》以及《红宝石与雨》。2018年，她离开了从事十年的金融行业，全职写作。奈飞于2024年加入，距离她最初写下这个故事已经过去了14年。“你可以想象，这已经是很长时间了。”她说。\n\n“有时我会忘记它，继续生活。”\n该剧由南非的彩色玻璃制片公司制作，将尼亚蒂笔下的津巴布韦角色置于南非背景中。角色被合并，故事情节被扩展，尼亚蒂表示她不反对这些改动。“这些改动没有削弱故事，反而丰富了故事，”她说，“它仍然保持了原作的精髓。”\n这种制作模式本身就意义重大。原著素材来自津巴布韦；制作公司来自南非；剧集由多位导演执导，包括尼日利亚电影制作人阿金·奥莫托索——这是一次泛非合作，将一个故事呈现给了全球观众。\n\n在网上，争论的焦点集中在由S'dumo Mtshali饰演的 patriarch Jonasi Gomora 是反派还是受害者，以及他身边的女性——以Gugu Gumede饰演的Joyce为首——是受害者还是同谋。“我只是想写一个故事，让人们谈论那些作为社会我们往往掩盖起来的不舒服的事情，”她说，“人们说他们的父亲像Jonasi，或者他们能在故事中的一些女性身上看到自己的母亲。这恰恰表明，作为一个社会，存在很多破碎，我们需要疗愈。”\n《一夫多妻者》的成功并非孤立事件。尼日利亚作家塞菲·阿塔的小说《吞咽》于2021年被导演昆勒·阿弗拉扬改编为奈飞电影。\n\n南非犯罪小说作家迪昂·迈耶的《猎人之心》在2024年3月上映后，登顶奈飞英语电影排行榜，首周便积累了数百万次观看。每一部改编作品都在其原产国之外找到了大量观众，检验并反复证实了一个前提：非洲故事无需被稀释就能传播。这一论点如今已在好莱坞大片层面得到体现，托米·阿德耶米的《血与骨之子》——一部受尼日利亚启发的奇幻小说，其三部曲在《纽约时报》畅销书排行榜上累计停留了175周，全球销量近300万册——其电影改编版目前正在派拉蒙影业进行后期制作，将于2027年1月15日以IMAX格式上映。\n\n该片由南非的图索·姆贝杜领衔主演，其他主演包括维奥拉·戴维斯、伊德里斯·艾尔巴、切瓦特·埃加福特、辛西娅·埃里沃和雷吉娜·金。这两个项目除了非洲作者身份外，还有一个共同点：创作控制权更接近源头。阿德耶米共同撰写了她的剧本。尼亚蒂的书在剧集中被署名。"
+      "fullText": ", Updated 21:32, 26-Jun-2026Chinese President Xi Jinping meets with Bangladeshi Prime Minister Tarique Rahman in Beijing, China, June 26, 2026. /Xinhua\nChinese President Xi Jinping met with Bangladeshi Prime Minister Tarique Rahman in Beijing on Friday, with the two leaders announcing the building of a China-Bangladesh community with a shared future in the new era to advance bilateral relations to a higher level.\nXi said China has always attached great importance to developing relations with Bangladesh and has consistently pursued a policy of good-neighborliness and friendship towards the Bangladeshi people.\nRegardless of changes in the international landscape, China will remain committed to the overall direction of China-Bangladesh friendship and will always be Bangladesh's trustworthy friend, good neighbor and reliable partner, Xi said.\nNoting that this year marks the 105th anniversary of the founding of the Communist Party of China (CPC), Xi said that throughout its history, the CPC has united and led the Chinese people in successfully forging a Chinese path to modernization from a poor and weak starting point by upholding independence and self-reliance and firmly keeping the nation's development in its own hands.\nChina supports Bangladesh in safeguarding its national independence, sovereignty and territorial integrity and opposes external interference, Xi said.\nXi said China stands ready to strengthen exchanges with Bangladesh on governance, enhance interactions at all levels, deepen strategic communication and increase political mutual trust.\nHe said the two sides should continue to support each other on issues concerning their respective core interests and major concerns.\nXi also stressed that China remains committed to fostering an amicable, secure and prosperous neighborhood, as well as upholding the principles of amity, sincerity, mutual benefit and inclusiveness.\nChina's new development will continue to create new opportunities and inject fresh momentum into neighboring countries, he added.\nXi said China supports Bangladesh's new government in its smooth administration and stands ready to carry out high-quality Belt and Road cooperation with Bangladesh, better align development strategies and share development experience.\nChina is willing to map out key cooperation with Bangladesh and tap into the potential for collaboration in green and low-carbon development, digital economy, information technology, artificial intelligence and other fields, expand exchanges in areas including healthcare, culture and education, advance the China-Myanmar-Bangladesh Economic Corridor and strengthen regional connectivity, Xi said.\nThe two sides should tap the potential for cooperation in green and low-carbon development, the digital economy, information technology and artificial intelligence, expand exchanges in healthcare, culture, education and between local governments,\nChina is also ready to enhance communication and coordination with Bangladesh within the United Nations and other multilateral frameworks to jointly promote an equal and orderly multipolar world and a universally beneficial and inclusive economic globalization, while better safeguarding the legitimate rights and interests of both countries and the common interests of the Global South, Xi said.\nRahman extended congratulations on the 105th anniversary of the founding of the CPC, saying that China is a great country and has always held an important place in Bangladesh's foreign policy.\nDescribing China as a partner that Bangladesh deeply values and trusts, the Bangladeshi prime minister said he was pleased that bilateral relations had been elevated to a new level with the building of a China-Bangladesh community with a shared future in the new era.\nNoting China has made remarkable development achievements and Chinese modernization serves as a model for Bangladesh to learn from, Rahman said Bangladesh hopes to strengthen inter-party exchanges with China and deepen cooperation under the Belt and Road Initiative while expanding collaboration in trade, connectivity, agriculture, science and technology, green energy, education, healthcare and other fields to support Bangladesh's modernization.\nBangladesh firmly adheres to the one-China principle, recognizes Taiwan as an inalienable part of China's territory, opposes any form of \"Taiwan independence,\" and resolutely upholds the authority of UN General Assembly Resolution 2758, he added.\nBangladesh is willing to strengthen coordination and cooperation with China on international and regional affairs to jointly uphold the outcomes of World War II and the international order with the United Nations at its core, Rahman said.",
+      "fullTextCn": "中国国家主席习近平周五在北京与孟加拉国总理塔里克·拉赫曼会晤，两国领导人宣布共建新时代中孟命运共同体，将双边关系提升至更高水平。习近平表示，中国始终高度重视发展同孟加拉国的关系，一贯对孟加拉国人民奉行睦邻友好政策。无论国际形势如何变化，中国都将坚持中孟友好的大方向，永远是孟加拉国值得信赖的朋友、好邻居和可靠伙伴。习近平指出，今年是中国共产党成立105周年，中国共产党在历史上团结带领中国人民，坚持独立自主、自力更生，牢牢把握国家发展主动权，成功走出了一条从贫弱起点走向现代化的中国道路。中国支持孟加拉国维护国家独立、主权和领土完整，反对外部干涉。\n\n习近平表示，中国愿同孟加拉国加强治国理政经验交流，增进各层级交往，深化战略沟通，提升政治互信。双方应继续在涉及彼此核心利益和重大关切的问题上相互支持。习近平还强调，中国致力于营造和睦、安全、繁荣的周边环境，秉持亲诚惠容的周边外交理念。中国的新发展将继续为周边国家创造新机遇、注入新动力。习近平表示，中国支持孟加拉国新政府顺利施政，愿同孟加拉国开展高质量共建“一带一路”合作，更好对接发展战略，分享发展经验。中国愿同孟加拉国规划重点合作领域，挖掘绿色低碳发展、数字经济、信息技术、人工智能等领域的合作潜力，扩大医疗、文化、教育等领域交流，推进中缅孟经济走廊建设，加强区域互联互通。\n\n双方应挖掘绿色低碳发展、数字经济、信息技术和人工智能等领域的合作潜力，扩大医疗、文化、教育及地方政府间交流。习近平表示，中国还愿同孟加拉国在联合国等多边框架内加强沟通协调，共同促进平等有序的世界多极化和普惠包容的经济全球化，更好维护两国合法权益和全球南方共同利益。拉赫曼祝贺中国共产党成立105周年，表示中国是一个伟大的国家，始终在孟加拉国外交政策中占据重要地位。孟加拉国总理称中国是孟方高度重视和信任的伙伴，对双边关系因共建新时代中孟命运共同体而提升至新水平感到高兴。拉赫曼指出，中国取得了显著发展成就，中国式现代化是孟加拉国学习的榜样，孟方希望加强同中国党际交流，深化“一带一路”框架下合作，扩大贸易、互联互通、农业、科技、绿色能源、教育、医疗等领域合作，支持孟加拉国现代化建设。孟加拉国坚定奉行一个中国原则，承认台湾是中国领土不可分割的一部分，反对任何形式的“台独”，坚决维护联合国大会第2758号决议的权威。拉赫曼表示，孟方愿同中方加强国际和地区事务协调合作，共同维护二战胜利成果和以联合国为核心的国际秩序。"
     },
     {
-      "id": 5,
-      "category": "society",
+      "id": 3,
+      "category": "military",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-25/news-1OfMTtp3lW8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Rescues underway in Venezuela as state of emergency declared",
-      "titleCn": "委内瑞拉宣布进入紧急状态，救援工作正在进行",
-      "summary": "Rescue operations are ongoing as Venezuela on Wednesday declared a state of emergency following strong earthquakes that could result in high casualties and extensive damage.",
-      "summaryCn": "委内瑞拉在强烈地震后宣布进入紧急状态，救援行动持续进行，已造成至少32人死亡、700人受伤。",
-      "wordCount": 458,
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-25/China-Bangladesh-economic-ties-in-focus-as-PM-Rahman-visits-China-1OgIMKnnrna/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "China-Bangladesh economic ties in focus as PM Rahman visits China",
+      "titleCn": "孟加拉国总理拉赫曼访华，中孟经济纽带备受关注",
+      "summary": "Bangladeshi Prime Minister Tarique Rahman arrived in Beijing on Wednesday for an official visit through June 26, his first overseas trip since taking office.",
+      "summaryCn": "孟加拉国总理拉赫曼访华聚焦深化中孟经贸合作，涵盖贸易、投资、绿色能源等领域。",
+      "wordCount": 654,
       "paragraphs": [
         {
-          "en": ", Updated 14:44, 25-Jun-2026Rescue workers and municipal police officers work at the site of a {{5}} building following the earthquake, Caracas, Venezuela, June 24, 2026. Rescue {{0}} are ongoing as Venezuela on Wednesday {{1}} a state of emergency following strong earthquakes that could result in high {{2}} and {{3}} damage. Venezuelan Interim President Delcy Rodriguez said the earthquakes killed at least 32 people and injured 700, in an {{4}} on state television before 1 a.m. local time (0500 GMT) on Thursday. \"Dozens of buildings have collapsed, and we are currently carrying out very {{6}} rescue efforts,\" she said.",
-          "cn": "救援人员和市政警察在委内瑞拉加拉加斯地震后倒塌的建筑现场工作，2026年6月24日。救援行动仍在进行中，委内瑞拉于周三宣布进入紧急状态，此前发生的强烈地震可能导致高伤亡和广泛破坏。委内瑞拉临时总统德尔西·罗德里格斯在周四当地时间凌晨1点前（格林威治时间0500）的国家电视讲话中表示，地震已造成至少32人死亡、700人受伤。她说：“数十栋建筑倒塌，我们正在进行非常紧张的救援工作。”"
+          "en": "A {{0}} of boats are seen {{1}} together as part of a floating fruit market in Rangamati, Bangladesh, on May 30, 2026. / VCG\nBangladesh's Prime Minister Tarique Rahman arrived in Beijing on Wednesday for an official visit through June 26, his first overseas trip since taking office. Before arriving in the Chinese capital, Rahman attended the 17th Annual Meeting of the New Champions, also known as the Summer Davos Forum, in China's northeastern coastal city of Dalian. The gathering brought together political and business leaders from around the world to discuss growth, innovation and emerging technologies. Economic and trade ties have long {{2}} China-Bangladesh relations.",
+          "cn": "2026年5月30日，孟加拉国兰加马蒂，一艘艘船只聚集在一起，构成一个浮动水果市场的一部分。/ VCG\n孟加拉国总理塔里克·拉赫曼于周三抵达北京，进行至6月26日的正式访问，这是他上任以来的首次海外之行。在抵达中国首都之前，拉赫曼出席了在中国东北沿海城市大连举行的第十七届新领军者年会，即夏季达沃斯论坛。此次会议汇聚了来自世界各地的政商领袖，共同探讨增长、创新和新兴技术。经贸关系长期以来一直是中孟关系的基石。"
         },
         {
-          "en": "\"I also want to say that this is a true tragedy. From here, we send our message of {{7}}, and to those families who have lost loved ones, we reaffirm our {{8}} and our support in these difficult hours.\"\nShe said rescue {{9}} from other countries are arriving in the coming hours. Rodriguez has earlier declared a state of emergency, and announced the {{10}} of the main international airport in Maiquetía, which suffered severe damage, according to media reports. She also said the metro and train systems had been {{11}}. According to Rodriguez, in addition to two powerful earthquakes, 20 aftershocks were felt.",
-          "cn": "“我还想说，这是一场真正的悲剧。在此，我们表达团结之情，并向那些失去亲人的家庭重申我们的哀悼和支持，在这艰难时刻。”她说，来自其他国家的救援队伍将在未来几小时内抵达。据媒体报道，罗德里格斯早些时候宣布进入紧急状态，并宣布关闭遭受严重破坏的迈克蒂亚主要国际机场。她还表示，地铁和铁路系统已暂停运营。据罗德里格斯称，除了两次强震外，还感受到了20次余震。"
+          "en": "Since establishing diplomatic ties in 1975, the two countries have steadily expanded cooperation across trade, investment and {{9}}. In 2024, bilateral ties were {{3}} to a comprehensive {{4}} cooperative partnership. Trade lays the foundation\nEconomic and trade cooperation continues to anchor China-Bangladesh ties. Bangladesh was among the first countries to join the Belt and Road Initiative and has become one of its most active partners. China has been Bangladesh's largest trading partner for 16 consecutive years from 2010 to 2025.",
+          "cn": "自1975年建交以来，两国在贸易、投资和基础设施领域的合作稳步扩大。2024年，双边关系提升为全面战略合作伙伴关系。贸易奠定基础\n经贸合作继续支撑着中孟关系。孟加拉国是首批加入“一带一路”倡议的国家之一，并已成为其最活跃的合作伙伴之一。从2010年到2025年，中国连续16年保持孟加拉国最大贸易伙伴地位。"
         },
         {
-          "en": "She urged the people to {{12}} damaged buildings and remain calm and united. A magnitude-7.2 earthquake hit about 160 km west of Caracas at 6:04 p.m. local time (2204 GMT) on Wednesday, followed less than a minute later by an even stronger magnitude-7.5 {{13}} at a {{14}} depth of 10 km, according to the US Geological Survey (USGS). Rescue operations are underway after two powerful earthquakes, Caracas, Venezuela, June 24, 2026. Shaking windows and {{15}} bookshelves were reported at the residences and images circulating on social media showed collapsed houses on the streets.",
-          "cn": "她敦促民众撤离受损建筑，保持冷静和团结。据美国地质调查局（USGS）称，周三当地时间下午6点04分（格林威治时间2204），加拉加斯以西约160公里处发生7.2级地震，不到一分钟后，又发生了一次更强的7.5级浅源地震，震源深度10公里。2026年6月24日，委内瑞拉加拉加斯，两次强震后救援行动正在进行。据报道，住宅区窗户摇晃、书架倾倒，社交媒体上流传的图像显示街道上有房屋倒塌。"
+          "en": "Bangladesh mainly exports garments and agricultural products to China, while importing machinery, industrial materials and other manufacturing equipment. The textile and apparel industry illustrates the {{5}} nature of the two economies. China supplies machinery and equipment for Bangladesh's textile sector, while Bangladesh exports finished garments and textile products to China. Trade ties received another boost after China granted Bangladesh zero-{{6}} treatment on 100% of tariff lines from December 1, 2024. The policy has made it easier for Bangladeshi agricultural and other products to enter the Chinese market.",
+          "cn": "孟加拉国主要向中国出口服装和农产品，同时进口机械、工业材料和其他制造设备。纺织服装业体现了两国经济的互补性。中国为孟加拉国纺织业供应机械和设备，而孟加拉国则向中国出口成衣和纺织品。自2024年12月1日起，中国给予孟加拉国100%税目产品零关税待遇，进一步促进了贸易联系。该政策使孟加拉国农产品及其他产品更容易进入中国市场。"
         },
         {
-          "en": "Video footage also showed emergency workers climbing into the {{16}} of one collapsed building in the capital as night began to fall. Many Venezuelans were at home celebrating a public holiday when the quakes hit. Venezuela's Interior, Justice and Peace Minister Diosdado Cabello said the strong earthquakes have caused damage in cities across the country, giving no immediate details on casualties or injuries. Cabello urged Venezuelans to avoid staying inside buildings in the coming hours due to the risk of strong aftershocks that could cause further collapses, while calling on the public to remain calm and united as the country deals with the quakes' {{17}}. Meanwhile, Colombian media reported that the quakes were also felt strongly in several cities in neighboring Colombia.",
-          "cn": "视频画面还显示，夜幕降临时，急救人员爬进首都一栋倒塌建筑的废墟中。许多委内瑞拉人当时正在家中庆祝公共假日，地震突然袭来。委内瑞拉内政、司法与和平部长迪奥斯达多·卡贝略表示，强震已对全国多个城市造成破坏，但未立即提供伤亡细节。卡贝略敦促委内瑞拉人在未来几小时内避免待在建筑物内，因为强余震可能导致进一步倒塌，同时呼吁公众保持冷静和团结，共同应对地震后果。与此同时，哥伦比亚媒体报道称，邻国哥伦比亚的多个城市也感受到了强烈震感。"
+          "en": "The first shipment of Bangladeshi mangoes to China departs from Hazrat Shahjalal International Airport in Dhaka, Bangladesh, May 28, 2025. / VCG\nInvestment powers development\nAs trade continues to grow, investment has become another major {{7}} of bilateral cooperation. China is Bangladesh's second-largest source of foreign investment, according to Chinese Ambassador to Bangladesh Yao Wen. Nearly 700 Chinese companies are registered in the country, with businesses spanning power, energy, transport, textiles and information and communications technology. Their investments have created hundreds of thousands of local jobs, Yao said.",
+          "cn": "2025年5月28日，首批孟加拉国芒果从孟加拉国达卡哈兹拉特·沙贾拉勒国际机场启运中国。/ VCG\n投资驱动发展\n随着贸易持续增长，投资已成为双边合作的另一大支柱。据中国驻孟加拉国大使姚文介绍，中国是孟加拉国第二大外国投资来源国。近700家中国企业在孟加拉国注册，业务涵盖电力、能源、交通、纺织以及信息和通信技术等领域。姚文表示，这些投资已为当地创造了数十万个就业岗位。"
         },
         {
-          "en": "The US Tsunami Warning System issued a tsunami threat for Puerto Rico and the US and British Virgin Islands following the earthquake, adding that islands off the coast from Venezuela to Aruba, Curacao and Bonaire could also be hit by hazardous waves.",
-          "cn": "美国海啸预警系统在地震后对波多黎各以及美属和英属维尔京群岛发布了海啸威胁，并补充说，从委内瑞拉到阿鲁巴、库拉索和博内尔岛的海岸附近岛屿也可能受到危险海浪的袭击。"
+          "en": "Chinese-built power projects, ranging from coal-fired plants to solar and wind farms, now have a combined installed {{8}} of more than 1 gigawatt, helping strengthen Bangladesh's electricity supply and support local industrial development. Ahead of Rahman's visit, Bangladesh approved an infrastructure project for the Chinese Economic and Industrial Zone in Chittagong, according to Reuters. The project is expected to create around 100,000 jobs and attract more than $500 million in foreign direct investment during its initial phase. Future cooperation gathers pace\nThe visit is expected to inject fresh {{10}} into bilateral cooperation. For Bangladesh, attracting more Chinese investment is high on the agenda.",
+          "cn": "中国承建的电力项目，从燃煤电厂到太阳能和风电场，总装机容量已超过1吉瓦，有助于加强孟加拉国的电力供应并支持当地工业发展。据路透社报道，在拉赫曼访华前夕，孟加拉国批准了吉大港中国经济与工业区的基础设施项目。该项目预计将在初期阶段创造约10万个就业岗位，并吸引超过5亿美元的外国直接投资。未来合作加速推进\n此次访问预计将为双边合作注入新动力。对孟加拉国而言，吸引更多中国投资是其重要议程。"
+        },
+        {
+          "en": "Bangladeshi foreign ministry officials told The Daily Star, one of Bangladesh's top newspapers, that investment promotion will be one of the main priorities during Rahman's visit. The two sides are expected to sign around a dozen {{11}} of understanding covering green energy, electric vehicles, port {{12}} and industrial parks, expanding economic cooperation beyond traditional trade and infrastructure into greener and higher-value sectors. Nahian Rahman Rochi, head of Business Development at the Bangladesh Investment Development Authority, told Xinhua that ensuring {{13}} energy supplies remains one of the country's biggest challenges. He described China as an ideal partner in helping Bangladesh develop solar, wind and hydropower. Bangladesh is also expected to announce its decision to join the Global Development Initiative proposed by China, according to The Daily Star.",
+          "cn": "孟加拉国外交部官员向孟加拉国主要报纸《每日星报》表示，投资促进将是拉赫曼此次访问的主要优先事项之一。双方预计将签署约十几份谅解备忘录，涵盖绿色能源、电动汽车、港口现代化和工业园区等领域，将经济合作从传统的贸易和基础设施扩展到更绿色、更高附加值的领域。孟加拉国投资发展局业务发展主管纳希安·拉赫曼·罗奇向新华社表示，确保可持续能源供应仍是该国面临的最大挑战之一。他将中国描述为帮助孟加拉国发展太阳能、风能和水电的理想合作伙伴。据《每日星报》报道，孟加拉国预计还将宣布加入中国提出的全球发展倡议。"
+        },
+        {
+          "en": "The {{14}} aims to advance international development cooperation and accelerate the implementation of the UN Sustainable Development Goals. Ahead of Rahman's visit, China said it looks forward to working with Bangladesh's new government to strengthen strategic communication, advance high-quality Belt and Road cooperation, expand practical cooperation and enhance {{15}} on multilateral affairs, Chinese Foreign Ministry spokesperson Guo Jiakun said at a regular press briefing.",
+          "cn": "该倡议旨在推进国际发展合作，加速落实联合国可持续发展目标。中国外交部发言人郭嘉昆在例行记者会上表示，在拉赫曼访华前夕，中方期待与孟加拉国新政府共同努力，加强战略沟通，推进高质量共建“一带一路”合作，拓展务实合作，加强多边事务协调。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "operations",
-          "hint": "n. 行动",
-          "difficulty": "medium"
+          "answer": "congregation",
+          "hint": "n. 聚集",
+          "difficulty": "hard"
         },
         {
           "id": 1,
-          "answer": "declared",
-          "hint": "v. 宣布",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "casualties",
-          "hint": "n. 伤亡",
+          "answer": "moored",
+          "hint": "v. 停泊",
           "difficulty": "medium"
         },
         {
+          "id": 2,
+          "answer": "underpinned",
+          "hint": "v. 支撑",
+          "difficulty": "hard"
+        },
+        {
           "id": 3,
-          "answer": "extensive",
-          "hint": "adj. 广泛的",
+          "answer": "elevated",
+          "hint": "v. 提升",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "address",
-          "hint": "n. 讲话",
+          "answer": "strategic",
+          "hint": "adj. 战略的",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "collapsed",
-          "hint": "v. 倒塌",
-          "difficulty": "easy"
+          "answer": "complementary",
+          "hint": "adj. 互补的",
+          "difficulty": "hard"
         },
         {
           "id": 6,
-          "answer": "intense",
-          "hint": "adj. 紧张的",
+          "answer": "tariff",
+          "hint": "n. 关税",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "solidarity",
-          "hint": "n. 团结",
-          "difficulty": "hard"
+          "answer": "pillar",
+          "hint": "n. 支柱",
+          "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "condolences",
-          "hint": "n. 哀悼",
-          "difficulty": "hard"
+          "answer": "capacity",
+          "hint": "n. 容量",
+          "difficulty": "easy"
         },
         {
           "id": 9,
-          "answer": "crews",
-          "hint": "n. 队伍",
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "closure",
-          "hint": "n. 关闭",
+          "answer": "momentum",
+          "hint": "n. 动力",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "suspended",
-          "hint": "v. 暂停",
-          "difficulty": "medium"
+          "answer": "memorandums",
+          "hint": "n. 备忘录",
+          "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "evacuate",
-          "hint": "v. 撤离",
+          "answer": "modernization",
+          "hint": "n. 现代化",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "tremor",
-          "hint": "n. 震动",
-          "difficulty": "hard"
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "shallow",
-          "hint": "adj. 浅的",
+          "answer": "initiative",
+          "hint": "n. 倡议",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "toppled",
-          "hint": "v. 推倒",
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "A congregation of boats are seen moored together as part of a floating fruit market in Rangamati, Bangladesh, on May 30, 2026. / VCG\nBangladesh's Prime Minister Tarique Rahman arrived in Beijing on Wednesday for an official visit through June 26, his first overseas trip since taking office.\nBefore arriving in the Chinese capital, Rahman attended the 17th Annual Meeting of the New Champions, also known as the Summer Davos Forum, in China's northeastern coastal city of Dalian. The gathering brought together political and business leaders from around the world to discuss growth, innovation and emerging technologies.\nEconomic and trade ties have long underpinned China-Bangladesh relations. Since establishing diplomatic ties in 1975, the two countries have steadily expanded cooperation across trade, investment and infrastructure. In 2024, bilateral ties were elevated to a comprehensive strategic cooperative partnership.\nTrade lays the foundation\nEconomic and trade cooperation continues to anchor China-Bangladesh ties. Bangladesh was among the first countries to join the Belt and Road Initiative and has become one of its most active partners.\nChina has been Bangladesh's largest trading partner for 16 consecutive years from 2010 to 2025.\nBangladesh mainly exports garments and agricultural products to China, while importing machinery, industrial materials and other manufacturing equipment.\nThe textile and apparel industry illustrates the complementary nature of the two economies. China supplies machinery and equipment for Bangladesh's textile sector, while Bangladesh exports finished garments and textile products to China.\nTrade ties received another boost after China granted Bangladesh zero-tariff treatment on 100% of tariff lines from December 1, 2024. The policy has made it easier for Bangladeshi agricultural and other products to enter the Chinese market.\nThe first shipment of Bangladeshi mangoes to China departs from Hazrat Shahjalal International Airport in Dhaka, Bangladesh, May 28, 2025. / VCG\nInvestment powers development\nAs trade continues to grow, investment has become another major pillar of bilateral cooperation.\nChina is Bangladesh's second-largest source of foreign investment, according to Chinese Ambassador to Bangladesh Yao Wen.\nNearly 700 Chinese companies are registered in the country, with businesses spanning power, energy, transport, textiles and information and communications technology. Their investments have created hundreds of thousands of local jobs, Yao said.\nChinese-built power projects, ranging from coal-fired plants to solar and wind farms, now have a combined installed capacity of more than 1 gigawatt, helping strengthen Bangladesh's electricity supply and support local industrial development.\nAhead of Rahman's visit, Bangladesh approved an infrastructure project for the Chinese Economic and Industrial Zone in Chittagong, according to Reuters. The project is expected to create around 100,000 jobs and attract more than $500 million in foreign direct investment during its initial phase.\nFuture cooperation gathers pace\nThe visit is expected to inject fresh momentum into bilateral cooperation.\nFor Bangladesh, attracting more Chinese investment is high on the agenda. Bangladeshi foreign ministry officials told The Daily Star, one of Bangladesh's top newspapers, that investment promotion will be one of the main priorities during Rahman's visit.\nThe two sides are expected to sign around a dozen memorandums of understanding covering green energy, electric vehicles, port modernization and industrial parks, expanding economic cooperation beyond traditional trade and infrastructure into greener and higher-value sectors.\nNahian Rahman Rochi, head of Business Development at the Bangladesh Investment Development Authority, told Xinhua that ensuring sustainable energy supplies remains one of the country's biggest challenges. He described China as an ideal partner in helping Bangladesh develop solar, wind and hydropower.\nBangladesh is also expected to announce its decision to join the Global Development Initiative proposed by China, according to The Daily Star. The initiative aims to advance international development cooperation and accelerate the implementation of the UN Sustainable Development Goals.\nAhead of Rahman's visit, China said it looks forward to working with Bangladesh's new government to strengthen strategic communication, advance high-quality Belt and Road cooperation, expand practical cooperation and enhance coordination on multilateral affairs, Chinese Foreign Ministry spokesperson Guo Jiakun said at a regular press briefing.",
+      "fullTextCn": "2026年5月30日，孟加拉国兰加马蒂，一艘艘船只聚集在一起，构成一个浮动水果市场的一部分。/ VCG\n孟加拉国总理塔里克·拉赫曼于周三抵达北京，进行至6月26日的正式访问，这是他上任以来的首次海外之行。在抵达中国首都之前，拉赫曼出席了在中国东北沿海城市大连举行的第十七届新领军者年会，即夏季达沃斯论坛。此次会议汇聚了来自世界各地的政商领袖，共同探讨增长、创新和新兴技术。经贸关系长期以来一直是中孟关系的基石。\n\n自1975年建交以来，两国在贸易、投资和基础设施领域的合作稳步扩大。2024年，双边关系提升为全面战略合作伙伴关系。贸易奠定基础\n经贸合作继续支撑着中孟关系。孟加拉国是首批加入“一带一路”倡议的国家之一，并已成为其最活跃的合作伙伴之一。从2010年到2025年，中国连续16年保持孟加拉国最大贸易伙伴地位。\n\n孟加拉国主要向中国出口服装和农产品，同时进口机械、工业材料和其他制造设备。纺织服装业体现了两国经济的互补性。中国为孟加拉国纺织业供应机械和设备，而孟加拉国则向中国出口成衣和纺织品。自2024年12月1日起，中国给予孟加拉国100%税目产品零关税待遇，进一步促进了贸易联系。该政策使孟加拉国农产品及其他产品更容易进入中国市场。\n\n2025年5月28日，首批孟加拉国芒果从孟加拉国达卡哈兹拉特·沙贾拉勒国际机场启运中国。/ VCG\n投资驱动发展\n随着贸易持续增长，投资已成为双边合作的另一大支柱。据中国驻孟加拉国大使姚文介绍，中国是孟加拉国第二大外国投资来源国。近700家中国企业在孟加拉国注册，业务涵盖电力、能源、交通、纺织以及信息和通信技术等领域。姚文表示，这些投资已为当地创造了数十万个就业岗位。\n\n中国承建的电力项目，从燃煤电厂到太阳能和风电场，总装机容量已超过1吉瓦，有助于加强孟加拉国的电力供应并支持当地工业发展。据路透社报道，在拉赫曼访华前夕，孟加拉国批准了吉大港中国经济与工业区的基础设施项目。该项目预计将在初期阶段创造约10万个就业岗位，并吸引超过5亿美元的外国直接投资。未来合作加速推进\n此次访问预计将为双边合作注入新动力。对孟加拉国而言，吸引更多中国投资是其重要议程。\n\n孟加拉国外交部官员向孟加拉国主要报纸《每日星报》表示，投资促进将是拉赫曼此次访问的主要优先事项之一。双方预计将签署约十几份谅解备忘录，涵盖绿色能源、电动汽车、港口现代化和工业园区等领域，将经济合作从传统的贸易和基础设施扩展到更绿色、更高附加值的领域。孟加拉国投资发展局业务发展主管纳希安·拉赫曼·罗奇向新华社表示，确保可持续能源供应仍是该国面临的最大挑战之一。他将中国描述为帮助孟加拉国发展太阳能、风能和水电的理想合作伙伴。据《每日星报》报道，孟加拉国预计还将宣布加入中国提出的全球发展倡议。\n\n该倡议旨在推进国际发展合作，加速落实联合国可持续发展目标。中国外交部发言人郭嘉昆在例行记者会上表示，在拉赫曼访华前夕，中方期待与孟加拉国新政府共同努力，加强战略沟通，推进高质量共建“一带一路”合作，拓展务实合作，加强多边事务协调。"
+    },
+    {
+      "id": 4,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-18/China-builds-computing-network-as-AI-token-usage-skyrockets-1O4tgBLAnxS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "China builds computing network as AI token usage skyrockets",
+      "titleCn": "中国建设算力网络应对AI代币使用量激增",
+      "summary": "As agent-based applications explode, cloud providers are shifting from resource-based billing to token-based metering, directly linking costs to usage volumes.",
+      "summaryCn": "中国正建设全国一体化算力网络以应对AI代币消耗量的指数级增长，并推动下一代通信基础设施发展。",
+      "wordCount": 585,
+      "paragraphs": [
+        {
+          "en": "In May 2024, ByteDance's AI assistant Doubao was {{0}} around 100 billion tokens per day. By March 2026, that figure had surpassed 120 trillion – a roughly 1,000-fold {{1}} in just two years, according to industry data. Doubao is far from alone. Across China, daily average token {{2}} reached 140 trillion in March 2026, up from just 100 billion in early 2024, a more than 1,000-fold increase, according to the National Data Bureau. The {{3}} growth reflects the deepening {{4}} of AI agents and large-scale model applications across industries.",
+          "cn": "2024年5月，字节跳动旗下AI助手豆包每天消耗约1000亿个代币。行业数据显示，到2026年3月，这一数字已超过120万亿——短短两年内增长约1000倍。豆包并非个例。据国家数据局统计，2026年3月中国日均代币消耗量达到140万亿，而2024年初仅为1000亿，增长超过1000倍。这种爆炸式增长反映了AI代理和大规模模型应用在各行业的深度普及。"
+        },
+        {
+          "en": "Globally, the trend is equally {{5}}. From training complex models to running AI agents, tokens – the basic units of data processed by large language models – have become a fundamental {{6}} of the AI era. And the world is burning through them at an {{7}} rate. OpenAI's flagship GPT-5.5 charges $5 per million input tokens and $30 per million output tokens via API. Anthropic's Claude series follows a {{8}} API pricing structure: Opus 4.8 at $5/$25 per million tokens (input/output), Sonnet 4.6 at $3/$15, and Haiku 4.5 at $1/$5.",
+          "cn": "全球范围内，这一趋势同样显著。从训练复杂模型到运行AI代理，代币——大语言模型处理的基本数据单元——已成为AI时代的基础计量单位。而全球的代币消耗速度前所未有。OpenAI的旗舰模型GPT-5.5通过API收费为每百万输入代币5美元、每百万输出代币30美元。Anthropic的Claude系列采用分层API定价结构：Opus 4.8为每百万代币5美元（输入）/25美元（输出），Sonnet 4.6为3美元/15美元，Haiku 4.5为1美元/5美元。"
+        },
+        {
+          "en": "Meanwhile, in coding agent scenarios, token consumption can run 10 to 50 times higher than in standard chat due to context {{9}} and search overhead. In China, pricing remains highly {{10}}. Alibaba Cloud's Qwen3.7-Max charges $2.5/$7.5 per million tokens. DeepSeek's V3.1 comes in at 2 yuan ($0.28) per million input tokens and 8 yuan ($1.10) for output – significantly cheaper than most global {{11}}. ByteDance's Doubao Lite is priced even lower, at just 0.3 yuan for input and 0.6 yuan for output per million tokens, while offering generous free {{12}}.",
+          "cn": "与此同时，在编码代理场景中，由于上下文积累和搜索开销，代币消耗量可能比标准对话高出10到50倍。在中国，定价竞争激烈。阿里云的Qwen3.7-Max收费为每百万代币2.5美元（输入）/7.5美元（输出）。DeepSeek的V3.1每百万输入代币仅2元（0.28美元），输出代币8元（1.10美元）——远低于大多数全球竞争对手。字节跳动的豆包Lite定价更低，每百万代币输入仅0.3元、输出0.6元，同时提供慷慨的免费额度。"
+        },
+        {
+          "en": "Other domestic providers, including Baidu's ERNIE, Zhipu's GLM, and Moonshot, have adopted similarly {{13}} pricing. But language matters. Chinese text processing consumes 11% to 64% more tokens than English on Claude and GPT models. On domestic models like Qwen and DeepSeek, however, Chinese is actually more token-{{14}} – a {{15}} advantage for local developers. Behind the price tags lies a vast and costly {{16}}.",
+          "cn": "其他国内供应商，包括百度的文心、智谱的GLM和月之暗面，也采用了类似的可及性定价。但语言差异不容忽视。在Claude和GPT模型上，中文文本处理消耗的代币比英文多11%至64%。然而，在Qwen和DeepSeek等国内模型上，中文实际上更节省代币——这对本地开发者来说是一个关键优势。价格标签背后是庞大而昂贵的基础设施。"
+        },
+        {
+          "en": "As agent-based applications explode, cloud providers are shifting from resource-based billing to token-based {{17}}, directly linking costs to usage volumes. According to industry estimates, monthly token expenses for enterprise users can run into the hundreds of thousands – or even millions – of yuan. To address the long-term {{18}} of AI computing, China is building a national {{19}} computing power network – a unified infrastructure that connects data centers, supercomputing centers, and edge computing facilities across the country, enabling on-demand resource {{20}} much like the national power grid. The network has been {{21}} a key infrastructure project for the 15th Five-Year Plan period, alongside water, power and transport networks. The National Development and Reform Commission has {{22}} that total investment in the network and related fields will exceed 7 trillion yuan ($968 billion) this year.",
+          "cn": "随着基于代理的应用爆发，云服务商正从按资源计费转向按代币计量，直接将成本与使用量挂钩。据行业估计，企业用户的月度代币费用可达数十万甚至数百万元。为解决AI计算的长期可持续性问题，中国正在建设全国一体化算力网络——一个连接全国数据中心、超算中心和边缘计算设施的统一基础设施，实现像国家电网一样的按需资源分配。该网络已被列为“十五五”规划期间的关键基础设施项目，与水利、电力和交通网络并列。国家发改委预计，今年该网络及相关领域的总投资将超过7万亿元（9680亿美元）。"
+        },
+        {
+          "en": "In telecommunications infrastructure, the foundation for this computing grid is already taking shape. As of April 2026, China had deployed over 5 million 5G base stations, covering 330 cities with 5G-A networks. During the 15th Five-Year Plan period, the network will evolve from \"dual-gigabit\" to \"dual-ten-gigabit,\" with 500,000 new 5G-A base stations planned. 6G is expected to be commercially launched around 2030, increasing network efficiency and connectivity capacity by more than tenfold. Thousands of low-orbit satellites will also be launched, enabling integrated air-space-ground-sea coverage across the entire territory.",
+          "cn": "在电信基础设施方面，这一算力网络的基础已初具规模。截至2026年4月，中国已部署超过500万个5G基站，覆盖330个城市，并建成5G-A网络。在“十五五”规划期间，网络将从“双千兆”演进为“双万兆”，计划新增50万个5G-A基站。6G预计将在2030年左右实现商用，网络效率和连接能力将提升十倍以上。还将发射数千颗低轨卫星，实现全国范围内的空天地海一体化覆盖。"
+        },
+        {
+          "en": "The next-generation communication network is expected to drive 7 trillion yuan in total industrial output across upstream and downstream sectors, {{23}} the digital economy, low-altitude economy, and embodied intelligence.",
+          "cn": "下一代通信网络预计将带动上下游产业总产出达7万亿元，赋能数字经济、低空经济和具身智能。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "consuming",
+          "hint": "v. 消耗",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "surge",
+          "hint": "n. 激增",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "consumption",
+          "hint": "n. 消耗量",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "explosive",
+          "hint": "adj. 爆炸性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "adoption",
+          "hint": "n. 采用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "striking",
+          "hint": "adj. 显著的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "metric",
+          "hint": "n. 度量标准",
           "difficulty": "hard"
         },
         {
+          "id": 7,
+          "answer": "unprecedented",
+          "hint": "adj. 前所未有的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "tiered",
+          "hint": "adj. 分层的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "accumulation",
+          "hint": "n. 积累",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "competitive",
+          "hint": "adj. 有竞争力的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "counterparts",
+          "hint": "n. 对应物",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "quotas",
+          "hint": "n. 配额",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "accessible",
+          "hint": "adj. 可及的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "efficient",
+          "hint": "adj. 高效的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "critical",
+          "hint": "adj. 关键的",
+          "difficulty": "easy"
+        },
+        {
           "id": 16,
-          "answer": "ruins",
-          "hint": "n. 废墟",
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
           "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "aftermath",
-          "hint": "n. 后果",
+          "answer": "metering",
+          "hint": "n. 计量",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "sustainability",
+          "hint": "n. 可持续性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "integrated",
+          "hint": "adj. 一体化的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "allocation",
+          "hint": "n. 分配",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "designated",
+          "hint": "v. 指定",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "projected",
+          "hint": "v. 预计",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "empowering",
+          "hint": "v. 赋能",
           "difficulty": "hard"
         }
       ],
-      "fullText": ", Updated 14:44, 25-Jun-2026Rescue workers and municipal police officers work at the site of a collapsed building following the earthquake, Caracas, Venezuela, June 24, 2026. \nRescue operations are ongoing as Venezuela on Wednesday declared a state of emergency following strong earthquakes that could result in high casualties and extensive damage.\nVenezuelan Interim President Delcy Rodriguez said the earthquakes killed at least 32 people and injured 700, in an address on state television before 1 a.m. local time (0500 GMT) on Thursday.\n\"Dozens of buildings have collapsed, and we are currently carrying out very intense rescue efforts,\" she said. \"I also want to say that this is a true tragedy. From here, we send our message of solidarity, and to those families who have lost loved ones, we reaffirm our condolences and our support in these difficult hours.\"\nShe said rescue crews from other countries are arriving in the coming hours.\nRodriguez has earlier declared a state of emergency, and announced the closure of the main international airport in Maiquetía, which suffered severe damage, according to media reports. She also said the metro and train systems had been suspended.\nAccording to Rodriguez, in addition to two powerful earthquakes, 20 aftershocks were felt. She urged the people to evacuate damaged buildings and remain calm and united.\nA magnitude-7.2 earthquake hit about 160 km west of Caracas at 6:04 p.m. local time (2204 GMT) on Wednesday, followed less than a minute later by an even stronger magnitude-7.5 tremor at a shallow depth of 10 km, according to the US Geological Survey (USGS).\nRescue operations are underway after two powerful earthquakes, Caracas, Venezuela, June 24, 2026. \nShaking windows and toppled bookshelves were reported at the residences and images circulating on social media showed collapsed houses on the streets. Video footage also showed emergency workers climbing into the ruins of one collapsed building in the capital as night began to fall.\nMany Venezuelans were at home celebrating a public holiday when the quakes hit.\nVenezuela's Interior, Justice and Peace Minister Diosdado Cabello said the strong earthquakes have caused damage in cities across the country, giving no immediate details on casualties or injuries.\nCabello urged Venezuelans to avoid staying inside buildings in the coming hours due to the risk of strong aftershocks that could cause further collapses, while calling on the public to remain calm and united as the country deals with the quakes' aftermath.\nMeanwhile, Colombian media reported that the quakes were also felt strongly in several cities in neighboring Colombia.\nThe US Tsunami Warning System issued a tsunami threat for Puerto Rico and the US and British Virgin Islands following the earthquake, adding that islands off the coast from Venezuela to Aruba, Curacao and Bonaire could also be hit by hazardous waves.",
-      "fullTextCn": "救援人员和市政警察在委内瑞拉加拉加斯地震后倒塌的建筑现场工作，2026年6月24日。救援行动仍在进行中，委内瑞拉于周三宣布进入紧急状态，此前发生的强烈地震可能导致高伤亡和广泛破坏。委内瑞拉临时总统德尔西·罗德里格斯在周四当地时间凌晨1点前（格林威治时间0500）的国家电视讲话中表示，地震已造成至少32人死亡、700人受伤。她说：“数十栋建筑倒塌，我们正在进行非常紧张的救援工作。”\n\n“我还想说，这是一场真正的悲剧。在此，我们表达团结之情，并向那些失去亲人的家庭重申我们的哀悼和支持，在这艰难时刻。”她说，来自其他国家的救援队伍将在未来几小时内抵达。据媒体报道，罗德里格斯早些时候宣布进入紧急状态，并宣布关闭遭受严重破坏的迈克蒂亚主要国际机场。她还表示，地铁和铁路系统已暂停运营。据罗德里格斯称，除了两次强震外，还感受到了20次余震。\n\n她敦促民众撤离受损建筑，保持冷静和团结。据美国地质调查局（USGS）称，周三当地时间下午6点04分（格林威治时间2204），加拉加斯以西约160公里处发生7.2级地震，不到一分钟后，又发生了一次更强的7.5级浅源地震，震源深度10公里。2026年6月24日，委内瑞拉加拉加斯，两次强震后救援行动正在进行。据报道，住宅区窗户摇晃、书架倾倒，社交媒体上流传的图像显示街道上有房屋倒塌。\n\n视频画面还显示，夜幕降临时，急救人员爬进首都一栋倒塌建筑的废墟中。许多委内瑞拉人当时正在家中庆祝公共假日，地震突然袭来。委内瑞拉内政、司法与和平部长迪奥斯达多·卡贝略表示，强震已对全国多个城市造成破坏，但未立即提供伤亡细节。卡贝略敦促委内瑞拉人在未来几小时内避免待在建筑物内，因为强余震可能导致进一步倒塌，同时呼吁公众保持冷静和团结，共同应对地震后果。与此同时，哥伦比亚媒体报道称，邻国哥伦比亚的多个城市也感受到了强烈震感。\n\n美国海啸预警系统在地震后对波多黎各以及美属和英属维尔京群岛发布了海啸威胁，并补充说，从委内瑞拉到阿鲁巴、库拉索和博内尔岛的海岸附近岛屿也可能受到危险海浪的袭击。"
+      "fullText": "In May 2024, ByteDance's AI assistant Doubao was consuming around 100 billion tokens per day. By March 2026, that figure had surpassed 120 trillion – a roughly 1,000-fold surge in just two years, according to industry data.\nDoubao is far from alone. Across China, daily average token consumption reached 140 trillion in March 2026, up from just 100 billion in early 2024, a more than 1,000-fold increase, according to the National Data Bureau.\nThe explosive growth reflects the deepening adoption of AI agents and large-scale model applications across industries.\nGlobally, the trend is equally striking. From training complex models to running AI agents, tokens – the basic units of data processed by large language models – have become a fundamental metric of the AI era. And the world is burning through them at an unprecedented rate.\nOpenAI's flagship GPT-5.5 charges $5 per million input tokens and $30 per million output tokens via API. Anthropic's Claude series follows a tiered API pricing structure: Opus 4.8 at $5/$25 per million tokens (input/output), Sonnet 4.6 at $3/$15, and Haiku 4.5 at $1/$5.\nMeanwhile, in coding agent scenarios, token consumption can run 10 to 50 times higher than in standard chat due to context accumulation and search overhead.\nIn China, pricing remains highly competitive. Alibaba Cloud's Qwen3.7-Max charges $2.5/$7.5 per million tokens. DeepSeek's V3.1 comes in at 2 yuan ($0.28) per million input tokens and 8 yuan ($1.10) for output – significantly cheaper than most global counterparts.\nByteDance's Doubao Lite is priced even lower, at just 0.3 yuan for input and 0.6 yuan for output per million tokens, while offering generous free quotas. Other domestic providers, including Baidu's ERNIE, Zhipu's GLM, and Moonshot, have adopted similarly accessible pricing.\nBut language matters. Chinese text processing consumes 11% to 64% more tokens than English on Claude and GPT models.\nOn domestic models like Qwen and DeepSeek, however, Chinese is actually more token-efficient – a critical advantage for local developers.\nBehind the price tags lies a vast and costly infrastructure. As agent-based applications explode, cloud providers are shifting from resource-based billing to token-based metering, directly linking costs to usage volumes.\nAccording to industry estimates, monthly token expenses for enterprise users can run into the hundreds of thousands – or even millions – of yuan.\nTo address the long-term sustainability of AI computing, China is building a national integrated computing power network – a unified infrastructure that connects data centers, supercomputing centers, and edge computing facilities across the country, enabling on-demand resource allocation much like the national power grid.\nThe network has been designated a key infrastructure project for the 15th Five-Year Plan period, alongside water, power and transport networks.\nThe National Development and Reform Commission has projected that total investment in the network and related fields will exceed 7 trillion yuan ($968 billion) this year.\nIn telecommunications infrastructure, the foundation for this computing grid is already taking shape. As of April 2026, China had deployed over 5 million 5G base stations, covering 330 cities with 5G-A networks.\nDuring the 15th Five-Year Plan period, the network will evolve from \"dual-gigabit\" to \"dual-ten-gigabit,\" with 500,000 new 5G-A base stations planned.\n6G is expected to be commercially launched around 2030, increasing network efficiency and connectivity capacity by more than tenfold. Thousands of low-orbit satellites will also be launched, enabling integrated air-space-ground-sea coverage across the entire territory.\nThe next-generation communication network is expected to drive 7 trillion yuan in total industrial output across upstream and downstream sectors, empowering the digital economy, low-altitude economy, and embodied intelligence.",
+      "fullTextCn": "2024年5月，字节跳动旗下AI助手豆包每天消耗约1000亿个代币。行业数据显示，到2026年3月，这一数字已超过120万亿——短短两年内增长约1000倍。豆包并非个例。据国家数据局统计，2026年3月中国日均代币消耗量达到140万亿，而2024年初仅为1000亿，增长超过1000倍。这种爆炸式增长反映了AI代理和大规模模型应用在各行业的深度普及。\n\n全球范围内，这一趋势同样显著。从训练复杂模型到运行AI代理，代币——大语言模型处理的基本数据单元——已成为AI时代的基础计量单位。而全球的代币消耗速度前所未有。OpenAI的旗舰模型GPT-5.5通过API收费为每百万输入代币5美元、每百万输出代币30美元。Anthropic的Claude系列采用分层API定价结构：Opus 4.8为每百万代币5美元（输入）/25美元（输出），Sonnet 4.6为3美元/15美元，Haiku 4.5为1美元/5美元。\n\n与此同时，在编码代理场景中，由于上下文积累和搜索开销，代币消耗量可能比标准对话高出10到50倍。在中国，定价竞争激烈。阿里云的Qwen3.7-Max收费为每百万代币2.5美元（输入）/7.5美元（输出）。DeepSeek的V3.1每百万输入代币仅2元（0.28美元），输出代币8元（1.10美元）——远低于大多数全球竞争对手。字节跳动的豆包Lite定价更低，每百万代币输入仅0.3元、输出0.6元，同时提供慷慨的免费额度。\n\n其他国内供应商，包括百度的文心、智谱的GLM和月之暗面，也采用了类似的可及性定价。但语言差异不容忽视。在Claude和GPT模型上，中文文本处理消耗的代币比英文多11%至64%。然而，在Qwen和DeepSeek等国内模型上，中文实际上更节省代币——这对本地开发者来说是一个关键优势。价格标签背后是庞大而昂贵的基础设施。\n\n随着基于代理的应用爆发，云服务商正从按资源计费转向按代币计量，直接将成本与使用量挂钩。据行业估计，企业用户的月度代币费用可达数十万甚至数百万元。为解决AI计算的长期可持续性问题，中国正在建设全国一体化算力网络——一个连接全国数据中心、超算中心和边缘计算设施的统一基础设施，实现像国家电网一样的按需资源分配。该网络已被列为“十五五”规划期间的关键基础设施项目，与水利、电力和交通网络并列。国家发改委预计，今年该网络及相关领域的总投资将超过7万亿元（9680亿美元）。\n\n在电信基础设施方面，这一算力网络的基础已初具规模。截至2026年4月，中国已部署超过500万个5G基站，覆盖330个城市，并建成5G-A网络。在“十五五”规划期间，网络将从“双千兆”演进为“双万兆”，计划新增50万个5G-A基站。6G预计将在2030年左右实现商用，网络效率和连接能力将提升十倍以上。还将发射数千颗低轨卫星，实现全国范围内的空天地海一体化覆盖。\n\n下一代通信网络预计将带动上下游产业总产出达7万亿元，赋能数字经济、低空经济和具身智能。"
     }
   ]
 }
