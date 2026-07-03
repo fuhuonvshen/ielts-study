@@ -1,53 +1,202 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "articles": [
     {
       "id": 1,
-      "category": "military",
+      "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-28/Rahman-s-China-visit-marks-new-milestone-in-China-Bangladesh-ties-1OkNKIeKLeM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Rahman's China visit marks new milestone in China-Bangladesh ties",
-      "titleCn": "拉赫曼访华：中孟关系新里程碑",
-      "summary": "China and Bangladesh are looking to translate long-standing political trust into more concrete cooperation, with a growing focus on emerging industries, connectivity and regional coordination. Against that backdrop, the two countries on Friday agreed to elevate their ties by building a China-Bangladesh community with a shared future in the new era, marking a milestone during Bangladeshi Prime Minister Tarique Rahman's first official visit to China since taking office.",
-      "summaryCn": "孟加拉国总理拉赫曼首次正式访华，双方同意共建新时代中孟命运共同体，标志着两国关系迈入新阶段。",
-      "wordCount": 848,
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-06-20/African-nations-push-fisheries-transparency-at-global-Mombasa-summit-1O6KpQgGBDa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "African nations push fisheries transparency at global Mombasa summit",
+      "titleCn": "非洲国家在全球蒙巴萨峰会上推动渔业透明度",
+      "summary": "African countries have been urged to accelerate fisheries transparency reforms to strengthen ocean governance, combat illegal fishing and protect the livelihoods of millions in coastal communities.",
+      "summaryCn": "在肯尼亚蒙巴萨举行的第11届我们的海洋大会上，非洲国家呼吁加速渔业透明度改革，以加强海洋治理、打击非法捕捞并保护沿海社区生计。",
+      "wordCount": 908,
       "paragraphs": [
         {
-          "en": "Chinese President Xi Jinping meets with Bangladeshi Prime Minister Tarique Rahman in Beijing, China, June 26, 2026. /Xinhua\nChina and Bangladesh are looking to translate long-standing political trust into more {{1}} {{2}}, with a growing focus on {{3}} industries, {{4}} and regional {{5}}. Against that backdrop, the two countries on Friday agreed to elevate their ties by building a China-Bangladesh community with a shared future in the new era, marking a {{0}} during Bangladeshi Prime Minister Tarique Rahman's first official visit to China since taking office. The agreement {{6}} growing political trust between the two countries and a shared {{7}} to expanding cooperation across both traditional and emerging sectors, while strengthening coordination on regional and global affairs. Rahman's visit also took him to northeastern China's Dalian, where he attended the 17th Annual Meeting of the New Champions, also known as Summer Davos, where leaders, policymakers and business executives gathered to discuss {{8}}-led development and the future of the global economy.",
-          "cn": "中国国家主席习近平于2026年6月26日在北京会见孟加拉国总理塔里克·拉赫曼。中国和孟加拉国正致力于将长期政治互信转化为更具体的合作，重点聚焦新兴产业、互联互通和区域协调。在此背景下，双方于周五同意提升双边关系，共建新时代中孟命运共同体，这标志着孟加拉国总理塔里克·拉赫曼就任后首次正式访华的重要里程碑。该协议凸显了两国日益增强的政治互信，以及扩大传统与新兴领域合作、加强区域和全球事务协调的共同承诺。拉赫曼还访问了中国东北部的大连，出席了第十七届新领军者年会（又称夏季达沃斯论坛），各国领导人、政策制定者和商界领袖齐聚一堂，探讨创新驱动发展和全球经济的未来。"
+          "en": "The 11th Our Ocean Conference, held in Mombasa, Kenya, concluded on Thursday with a call for African countries to accelerate fisheries {{0}} reforms as part of efforts to strengthen ocean {{1}}, combat {{2}} fishing and protect the {{3}} of millions in coastal communities. Held in Africa for the first time, the gathering provided a platform for governments, conservation groups and maritime {{4}} to highlight the growing role of transparency, technology and international cooperation in safeguarding marine resources. Participants applauded countries such as Ghana and Cameroon for embedding transparency and {{5}} measures into national and regional fisheries policies. These efforts are helping African governments translate commitments into concrete actions aimed at tackling illegal, unreported and unregulated fishing while improving enforcement and promoting {{7}} fisheries management. \"What we've seen in Mombasa is clear evidence that ocean transparency is becoming a global expectation,\" said Tony Long, Chief Executive Officer of Global Fishing Watch.",
+          "cn": "第11届我们的海洋大会于周四在肯尼亚蒙巴萨闭幕，会议呼吁非洲国家加速渔业透明度改革，作为加强海洋治理、打击非法捕捞和保护沿海社区数百万人生计的努力的一部分。这是该会议首次在非洲举行，为政府、保护组织和海洋利益相关方提供了一个平台，以强调透明度、技术和国际合作在保护海洋资源方面日益增长的作用。与会者赞扬了加纳和喀麦隆等国家将透明度和问责措施纳入国家和区域渔业政策。这些努力正在帮助非洲政府将承诺转化为具体行动，旨在解决非法、不报告和不管制的捕捞问题，同时加强执法并促进可持续渔业管理。全球渔业观察首席执行官托尼·朗表示：“我们在蒙巴萨看到的是明确证据，表明海洋透明度正成为一种全球期望。”"
         },
         {
-          "en": "His participation underscores Bangladesh's interest in expanding cooperation with China beyond traditional sectors into emerging industries and technological innovation. From political trust to a higher-level {{9}}\nWhen meeting with Prime Minister Rahman at the Great Hall of the People on Friday, President Xi Jinping said China has always attached great importance to its relations with Bangladesh and will remain \"a trustworthy good friend, good neighbor and good partner\" regardless of changes in the international landscape. Xi said China supports Bangladesh in safeguarding its national independence, {{10}} and territorial {{11}}, as well as the new government's governance efforts. Rahman congratulated the Communist Party of China on the 105th anniversary of its founding. He described China as a valued and trusted partner, and said Chinese {{18}} is an example for Bangladesh to learn from.",
-          "cn": "他的参与凸显了孟加拉国将合作从传统领域扩展到新兴产业和技术创新的兴趣。从政治互信到更高层次的伙伴关系：周五在人民大会堂会见拉赫曼总理时，习近平主席表示，中国始终高度重视与孟加拉国的关系，无论国际形势如何变化，中国都将是“值得信赖的好朋友、好邻居、好伙伴”。习近平表示，中国支持孟加拉国维护国家独立、主权和领土完整，支持新政府的治理努力。拉赫曼祝贺中国共产党成立105周年。他将中国描述为宝贵且值得信赖的伙伴，并表示中国现代化是孟加拉国学习的榜样。"
+          "en": "\"From new government commitments and partnerships to advances in technology and data, {{6}} is building around a simple principle: we cannot sustainably manage what we cannot see. The challenge now is to turn that momentum into lasting action and make transparency the standard for every fishery, every vessel and every ocean around the world.\"\nA photo of Amanzimtoti Beach near Durban, South Africa, December 11, 2020. /CFP\nTechnology driving transparency\nA key focus of the conference was the growing use of technology to improve the visibility of fishing activities at sea. Global Fishing Watch showcased new research using {{8}} intelligence and high-resolution satellite {{9}} to reveal small-scale fishing activities that have traditionally remained beyond the reach of conventional monitoring systems. Presenting the findings, Chief Scientist David Kroodsma said the analysis identified more than 30,000 small-scale fishing vessels operating along Africa's coastline and highlighted areas where industrial and artisanal fisheries compete for the same resources.",
+          "cn": "“从新的政府承诺和伙伴关系，到技术和数据的进步，围绕一个简单原则正在形成势头：我们无法可持续地管理我们看不见的东西。现在的挑战是将这种势头转化为持久的行动，并使透明度成为每个渔场、每艘船只和全球每个海洋的标准。”"
         },
         {
-          "en": "He also reaffirmed Bangladesh's firm commitment to the one-China principle and opposition to any form of \"Taiwan independence.\"\nBuilding on a solid foundation\nThe upgraded relationship has been {{12}} by decades of steadily expanding practical cooperation. Official data showed that China has been Bangladesh's largest trading partner for many consecutive years, with {{13}} trade exceeding $24.05 billion in 2024. Bangladesh was the first South Asian country to join the Belt and Road Initiative (BRI). Over the past decade, Chinese companies have participated in a series of landmark projects in Bangladesh, improving connectivity and supporting the country's economic development. Against this backdrop, Friday's meeting pointed to a new phase of bilateral cooperation, building on existing achievements while expanding into innovation-driven sectors.",
-          "cn": "他还重申了孟加拉国对一个中国原则的坚定承诺，以及对任何形式的“台独”的反对。基于坚实基础：升级后的关系建立在数十年来稳步扩大的务实合作之上。官方数据显示，中国连续多年是孟加拉国最大贸易伙伴，2024年双边贸易额超过240.5亿美元。孟加拉国是首个加入“一带一路”倡议的南亚国家。过去十年间，中国企业参与了一系列孟加拉国标志性项目，改善了互联互通并支持了该国经济发展。在此背景下，周五的会晤标志着双边合作进入新阶段，在现有成就基础上向创新驱动领域拓展。"
+          "en": "Stakeholders said the data provides governments with valuable insights to support fisheries management, strengthen ocean governance, and safeguard the livelihoods of coastal communities. \"For the first time, satellite imagery and artificial intelligence are giving us an {{10}} view of small-scale fishing activity across African waters, revealing the people, places, and pressures that have long remained hidden,\" Kroodsma said. \"This is about more than technology. It is about {{11}} governments and communities with the information they need to make better decisions for the future of the ocean,\" he added. Local residents prepare their traditional equipment for a day of fishing in the Indian Ocean in Manguily, Madagascar, April 18, 2026.",
+          "cn": "会议的一个关键焦点是越来越多地使用技术来提高海上捕捞活动的可见性。全球渔业观察展示了新研究，利用人工智能和高分辨率卫星图像揭示传统上超出常规监测系统覆盖范围的小规模捕捞活动。首席科学家大卫·克鲁德森在介绍研究结果时表示，分析识别出沿非洲海岸线运营的超过3万艘小规模渔船，并指出了工业和手工渔业争夺相同资源的区域。"
         },
         {
-          "en": "Expanding cooperation for the future\nXi said China is ready to work with Bangladesh to carry out high-quality Belt and Road cooperation and make sound plans for cooperation in priority areas. He flagged the China-Myanmar-Bangladesh Economic Corridor as a vehicle for greater regional connectivity. China is willing to strengthen cooperation with Bangladesh in trade, e-commerce, industrial and supply chains, and investment, help Bangladesh strengthen its export capacity, and jointly safeguard the {{15}} trading system, according to a joint statement released on Friday. Bangladesh said it is ready to create a favorable environment for Chinese enterprises investing in the country. The two sides also expressed readiness to advance major connectivity and industrial projects, including the modernization and expansion project of the Mongla Port and the development of the Chinese Economic and Industrial Zone in Chattogram.",
-          "cn": "拓展未来合作：习近平表示，中国愿与孟加拉国开展高质量“一带一路”合作，并妥善规划优先领域的合作。他将中缅孟经济走廊视为促进区域互联互通的载体。根据周五发布的联合声明，中国愿加强与孟加拉国在贸易、电子商务、产业链供应链和投资方面的合作，帮助孟加拉国提升出口能力，并共同维护多边贸易体系。孟加拉国表示愿为中国企业在孟投资创造有利环境。双方还表示愿推进重大互联互通和产业项目，包括蒙格拉港现代化扩建工程以及吉大港中国经济产业园区开发。"
+          "en": "/CFP\nFrom innovation to policy action\nBeyond technological innovation, the conference underscored the growing importance of policy reforms, enforcement {{12}} and international partnerships in advancing fisheries transparency. Global Fishing Watch joined partners in the Coalition for Fisheries Transparency to showcase Africa's growing leadership in promoting accountability at sea. Participating governments {{13}} the Mombasa Declaration, reaffirming their commitment to transparency, accountability and cooperation in protecting marine ecosystems and ensuring sustainable fisheries. \"The message coming out of Mombasa is clear,\" Long said. \"The future of sustainable fisheries depends on making activities at sea visible and {{14}}, and on holding fishers fully accountable.\"\nA major outcome of the conference was the adoption of the Mombasa Declaration, an international call to action on fisheries transparency endorsed by 16 governments from Africa, Asia, Latin America and the Caribbean, Europe and the Pacific.",
+          "cn": "利益相关方表示，这些数据为政府提供了宝贵的见解，以支持渔业管理、加强海洋治理并保障沿海社区的生计。克鲁德森说：“卫星图像和人工智能首次为我们提供了非洲水域小规模捕捞活动的空前视角，揭示了长期隐藏的人群、地点和压力。”他补充道：“这不仅仅是关于技术。这是关于赋予政府和社区所需的信息，以便为海洋的未来做出更好的决策。”"
         },
         {
-          "en": "Xi also called for exploring new cooperation potential in green and low-carbon development, the {{16}} economy, information technology and {{17}} intelligence (AI) – areas that featured prominently in this year's Summer Davos discussions on the future of global growth. Commenting on this strategic shift, Zhang Jiadong, director of the Center for South Asian Studies at Fudan University, said that green energy and the digital economy offer a more agile, cost-effective pathway for Bangladesh to accelerate growth compared to traditional heavy infrastructure. \"China has very good technology and a solid foundation in these sectors, and leveraging China-based AI models could help Bangladesh immensely in its future development,\" Zhang said. People-to-people exchanges are also expected to gain fresh momentum. Xi said China is willing to expand cooperation in healthcare, education and culture, increasing subnational exchanges.",
-          "cn": "习近平还呼吁在绿色低碳发展、数字经济、信息技术和人工智能等领域探索新的合作潜力——这些领域在今年夏季达沃斯论坛关于全球增长未来的讨论中占据突出地位。复旦大学南亚研究中心主任张家栋评论这一战略转变时表示，与传统重型基础设施相比，绿色能源和数字经济为孟加拉国加速增长提供了更灵活、更具成本效益的路径。张家栋说：“中国在这些领域拥有非常先进的技术和坚实基础，利用中国的人工智能模型可以极大地帮助孟加拉国未来发展。”人文交流也有望获得新动力。习近平表示，中国愿扩大在医疗、教育、文化领域的合作，增加地方交流。"
+          "en": "The declaration commits signatories to improving public access to information on vessel ownership, licensing and fishing activities. It also seeks to strengthen global efforts to combat illegal fishing and promote more equitable and sustainable management of marine resources. \"From new transparency commitments on vessel tracking to deeper partnerships with governments in Africa and around the world, we're seeing growing recognition that sustainable fisheries begin with knowing who is fishing, where they are operating, and whether they are following the rules,\" Long added. Among the major announcements made at the conference was Panama's commitment to publicly share vessel monitoring system data from nearly 200 domestic fishing vessels through the Global Fishing Watch platform. The move is expected to significantly increase the transparency and visibility of fishing activity in Panama's waters.",
+          "cn": "除了技术创新，会议还强调了政策改革、执法机制和国际伙伴关系在推进渔业透明度方面日益增长的重要性。全球渔业观察与渔业透明度联盟的合作伙伴一起，展示了非洲在促进海上问责方面的领导力。参与政府通过了《蒙巴萨宣言》，重申了对透明度、问责和合作保护海洋生态系统及确保可持续渔业的承诺。朗说：“蒙巴萨发出的信息很明确。可持续渔业的未来取决于使海上活动可见且可验证，并让渔民完全负责。”会议的一个主要成果是通过了《蒙巴萨宣言》，这是一项关于渔业透明度的国际行动呼吁，得到了来自非洲、亚洲、拉丁美洲和加勒比、欧洲及太平洋地区的16个政府的认可。"
         },
         {
-          "en": "Rahman said Bangladesh hopes to deepen cooperation with China in economy and trade, connectivity, agriculture, technology, green energy, education and health to support its modernization drive. A stronger voice for the Global South\nBeyond bilateral cooperation, Rahman's visit also highlighted growing coordination between the two countries on international affairs. Xi said China is ready to strengthen communication and coordination with Bangladesh under multilateral frameworks, including the United Nations, to jointly promote an equal and orderly multipolar world and a universally beneficial and inclusive economic {{19}}, while safeguarding the common interests of the Global South. Rahman said the vision of building a community with a shared future for humanity and the four global initiatives, referring to Global Development Initiative, Global Security Initiative, Global Civilization Initiative and Global Governance Initiative, proposed by President Xi, contribute to world peace, development and international fairness. He said Bangladesh is willing to strengthen coordination with China on regional and international affairs and uphold the outcomes of the victory of WWII and the UN-centered international order.",
-          "cn": "拉赫曼表示，孟加拉国希望深化与中国在经济贸易、互联互通、农业、技术、绿色能源、教育和卫生领域的合作，以支持其现代化进程。全球南方更强声音：除了双边合作，拉赫曼的访问还凸显了两国在国际事务中日益增强的协调。习近平表示，中国愿在联合国等多边框架下加强与孟加拉国的沟通协调，共同促进平等有序的多极世界和普惠包容的经济全球化，维护全球南方的共同利益。拉赫曼表示，构建人类命运共同体理念以及习近平主席提出的全球发展倡议、全球安全倡议、全球文明倡议和全球治理倡议，有助于世界和平、发展与国际公平。他表示，孟加拉国愿加强与中国在区域和国际事务上的协调，维护二战胜利成果和以联合国为核心的国际秩序。"
+          "en": "Global Fishing Watch's Head of Latin America, Mónica Espinoza Miralles, described the decision as a significant milestone in Panama's evolution into a leading advocate for fisheries transparency and accountability. The announcement builds on a partnership launched in 2019 when Panama began publicly sharing tracking data from its international fishing fleet. According to Espinoza Miralles, the country's commitment demonstrates how political will, technology**, and** open data can strengthen fisheries governance and sustainable ocean management. Meanwhile, Madagascar's Ministry of Fisheries and Blue Economy announced plans to expand its partnership with Global Fishing Watch. The initiative will focus on vessel tracking, joint research, capacity building and enhanced monitoring, control and {{15}} operations, placing transparency at the center of the country's fisheries management strategy.",
+          "cn": "该宣言承诺签署国改善公众对船舶所有权、许可和捕捞活动信息的获取。它还旨在加强全球打击非法捕捞的努力，并促进更公平和可持续的海洋资源管理。朗补充道：“从关于船舶追踪的新透明度承诺，到与非洲及世界各地政府更深入的伙伴关系，我们看到了越来越多的认识，即可持续渔业始于知道谁在捕捞、他们在哪里作业，以及他们是否遵守规则。”会议上的重大宣布之一是巴拿马承诺通过全球渔业观察平台公开分享近200艘国内渔船的船舶监测系统数据。此举预计将显著提高巴拿马水域捕捞活动的透明度和可见性。"
+        },
+        {
+          "en": "Building the world's most comprehensive fishing map\nConference participants also unveiled a new collaboration aimed at creating the first global map of fishing activity that includes both industrial fleets and small-scale fishing vessels. The initiative will combine vessel-tracking data with advanced satellite imagery and analytics to map millions of artisanal fishing boats that are largely absent from existing datasets. Scheduled for launch on July 1, 2026, the project is expected to provide governments and fisheries managers with a more complete understanding of human activity at sea. Stakeholders say the enhanced visibility will support efforts to combat overfishing, improve fisheries management, and ensure the long-term sustainability of marine resources worldwide.",
+          "cn": "全球渔业观察拉丁美洲负责人莫妮卡·埃斯皮诺萨·米拉莱斯称这一决定是巴拿马演变为渔业透明度和问责领先倡导者的重要里程碑。这一宣布建立在2019年启动的伙伴关系基础上，当时巴拿马开始公开分享其国际捕捞船队的追踪数据。据埃斯皮诺萨·米拉莱斯称，该国的承诺展示了政治意愿、技术和开放数据如何加强渔业治理和可持续海洋管理。与此同时，马达加斯加渔业和蓝色经济部宣布计划扩大与全球渔业观察的伙伴关系。该倡议将专注于船舶追踪、联合研究、能力建设以及加强监测、控制和监视行动，将透明度置于该国渔业管理战略的核心。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "milestone",
-          "hint": "n. 里程碑",
+          "answer": "transparency",
+          "hint": "n. 透明度",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "concrete",
-          "hint": "adj. 具体的",
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "illegal",
+          "hint": "adj. 非法的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "livelihoods",
+          "hint": "n. 生计",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "stakeholders",
+          "hint": "n. 利益相关方",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "accountability",
+          "hint": "n. 问责",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "momentum",
+          "hint": "n. 势头",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "artificial",
+          "hint": "adj. 人工的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "imagery",
+          "hint": "n. 图像",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "unprecedented",
+          "hint": "adj. 空前的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "empowering",
+          "hint": "v. 赋予权力",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "mechanisms",
+          "hint": "n. 机制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "endorsed",
+          "hint": "v. 认可",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "verifiable",
+          "hint": "adj. 可验证的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "surveillance",
+          "hint": "n. 监视",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "The 11th Our Ocean Conference, held in Mombasa, Kenya, concluded on Thursday with a call for African countries to accelerate fisheries transparency reforms as part of efforts to strengthen ocean governance, combat illegal fishing and protect the livelihoods of millions in coastal communities.\nHeld in Africa for the first time, the gathering provided a platform for governments, conservation groups and maritime stakeholders to highlight the growing role of transparency, technology and international cooperation in safeguarding marine resources.\nParticipants applauded countries such as Ghana and Cameroon for embedding transparency and accountability measures into national and regional fisheries policies.\nThese efforts are helping African governments translate commitments into concrete actions aimed at tackling illegal, unreported and unregulated fishing while improving enforcement and promoting sustainable fisheries management.\n\"What we've seen in Mombasa is clear evidence that ocean transparency is becoming a global expectation,\" said Tony Long, Chief Executive Officer of Global Fishing Watch.\n\"From new government commitments and partnerships to advances in technology and data, momentum is building around a simple principle: we cannot sustainably manage what we cannot see. The challenge now is to turn that momentum into lasting action and make transparency the standard for every fishery, every vessel and every ocean around the world.\"\nA photo of Amanzimtoti Beach near Durban, South Africa, December 11, 2020. /CFP\nTechnology driving transparency\nA key focus of the conference was the growing use of technology to improve the visibility of fishing activities at sea.\nGlobal Fishing Watch showcased new research using artificial intelligence and high-resolution satellite imagery to reveal small-scale fishing activities that have traditionally remained beyond the reach of conventional monitoring systems.\nPresenting the findings, Chief Scientist David Kroodsma said the analysis identified more than 30,000 small-scale fishing vessels operating along Africa's coastline and highlighted areas where industrial and artisanal fisheries compete for the same resources.\nStakeholders said the data provides governments with valuable insights to support fisheries management, strengthen ocean governance, and safeguard the livelihoods of coastal communities.\n\"For the first time, satellite imagery and artificial intelligence are giving us an unprecedented view of small-scale fishing activity across African waters, revealing the people, places, and pressures that have long remained hidden,\" Kroodsma said.\n\"This is about more than technology. It is about empowering governments and communities with the information they need to make better decisions for the future of the ocean,\" he added.\nLocal residents prepare their traditional equipment for a day of fishing in the Indian Ocean in Manguily, Madagascar, April 18, 2026. /CFP\nFrom innovation to policy action\nBeyond technological innovation, the conference underscored the growing importance of policy reforms, enforcement mechanisms and international partnerships in advancing fisheries transparency.\nGlobal Fishing Watch joined partners in the Coalition for Fisheries Transparency to showcase Africa's growing leadership in promoting accountability at sea.\nParticipating governments endorsed the Mombasa Declaration, reaffirming their commitment to transparency, accountability and cooperation in protecting marine ecosystems and ensuring sustainable fisheries.\n\"The message coming out of Mombasa is clear,\" Long said. \"The future of sustainable fisheries depends on making activities at sea visible and verifiable, and on holding fishers fully accountable.\"\nA major outcome of the conference was the adoption of the Mombasa Declaration, an international call to action on fisheries transparency endorsed by 16 governments from Africa, Asia, Latin America and the Caribbean, Europe and the Pacific.\nThe declaration commits signatories to improving public access to information on vessel ownership, licensing and fishing activities. It also seeks to strengthen global efforts to combat illegal fishing and promote more equitable and sustainable management of marine resources.\n\"From new transparency commitments on vessel tracking to deeper partnerships with governments in Africa and around the world, we're seeing growing recognition that sustainable fisheries begin with knowing who is fishing, where they are operating, and whether they are following the rules,\" Long added.\nAmong the major announcements made at the conference was Panama's commitment to publicly share vessel monitoring system data from nearly 200 domestic fishing vessels through the Global Fishing Watch platform.\nThe move is expected to significantly increase the transparency and visibility of fishing activity in Panama's waters.\nGlobal Fishing Watch's Head of Latin America, Mónica Espinoza Miralles, described the decision as a significant milestone in Panama's evolution into a leading advocate for fisheries transparency and accountability.\nThe announcement builds on a partnership launched in 2019 when Panama began publicly sharing tracking data from its international fishing fleet.\nAccording to Espinoza Miralles, the country's commitment demonstrates how political will, technology**, and** open data can strengthen fisheries governance and sustainable ocean management.\nMeanwhile, Madagascar's Ministry of Fisheries and Blue Economy announced plans to expand its partnership with Global Fishing Watch.\nThe initiative will focus on vessel tracking, joint research, capacity building and enhanced monitoring, control and surveillance operations, placing transparency at the center of the country's fisheries management strategy.\nBuilding the world's most comprehensive fishing map\nConference participants also unveiled a new collaboration aimed at creating the first global map of fishing activity that includes both industrial fleets and small-scale fishing vessels.\nThe initiative will combine vessel-tracking data with advanced satellite imagery and analytics to map millions of artisanal fishing boats that are largely absent from existing datasets.\nScheduled for launch on July 1, 2026, the project is expected to provide governments and fisheries managers with a more complete understanding of human activity at sea.\nStakeholders say the enhanced visibility will support efforts to combat overfishing, improve fisheries management, and ensure the long-term sustainability of marine resources worldwide.",
+      "fullTextCn": "第11届我们的海洋大会于周四在肯尼亚蒙巴萨闭幕，会议呼吁非洲国家加速渔业透明度改革，作为加强海洋治理、打击非法捕捞和保护沿海社区数百万人生计的努力的一部分。这是该会议首次在非洲举行，为政府、保护组织和海洋利益相关方提供了一个平台，以强调透明度、技术和国际合作在保护海洋资源方面日益增长的作用。与会者赞扬了加纳和喀麦隆等国家将透明度和问责措施纳入国家和区域渔业政策。这些努力正在帮助非洲政府将承诺转化为具体行动，旨在解决非法、不报告和不管制的捕捞问题，同时加强执法并促进可持续渔业管理。全球渔业观察首席执行官托尼·朗表示：“我们在蒙巴萨看到的是明确证据，表明海洋透明度正成为一种全球期望。”\n\n“从新的政府承诺和伙伴关系，到技术和数据的进步，围绕一个简单原则正在形成势头：我们无法可持续地管理我们看不见的东西。现在的挑战是将这种势头转化为持久的行动，并使透明度成为每个渔场、每艘船只和全球每个海洋的标准。”\n\n会议的一个关键焦点是越来越多地使用技术来提高海上捕捞活动的可见性。全球渔业观察展示了新研究，利用人工智能和高分辨率卫星图像揭示传统上超出常规监测系统覆盖范围的小规模捕捞活动。首席科学家大卫·克鲁德森在介绍研究结果时表示，分析识别出沿非洲海岸线运营的超过3万艘小规模渔船，并指出了工业和手工渔业争夺相同资源的区域。\n\n利益相关方表示，这些数据为政府提供了宝贵的见解，以支持渔业管理、加强海洋治理并保障沿海社区的生计。克鲁德森说：“卫星图像和人工智能首次为我们提供了非洲水域小规模捕捞活动的空前视角，揭示了长期隐藏的人群、地点和压力。”他补充道：“这不仅仅是关于技术。这是关于赋予政府和社区所需的信息，以便为海洋的未来做出更好的决策。”\n\n除了技术创新，会议还强调了政策改革、执法机制和国际伙伴关系在推进渔业透明度方面日益增长的重要性。全球渔业观察与渔业透明度联盟的合作伙伴一起，展示了非洲在促进海上问责方面的领导力。参与政府通过了《蒙巴萨宣言》，重申了对透明度、问责和合作保护海洋生态系统及确保可持续渔业的承诺。朗说：“蒙巴萨发出的信息很明确。可持续渔业的未来取决于使海上活动可见且可验证，并让渔民完全负责。”会议的一个主要成果是通过了《蒙巴萨宣言》，这是一项关于渔业透明度的国际行动呼吁，得到了来自非洲、亚洲、拉丁美洲和加勒比、欧洲及太平洋地区的16个政府的认可。\n\n该宣言承诺签署国改善公众对船舶所有权、许可和捕捞活动信息的获取。它还旨在加强全球打击非法捕捞的努力，并促进更公平和可持续的海洋资源管理。朗补充道：“从关于船舶追踪的新透明度承诺，到与非洲及世界各地政府更深入的伙伴关系，我们看到了越来越多的认识，即可持续渔业始于知道谁在捕捞、他们在哪里作业，以及他们是否遵守规则。”会议上的重大宣布之一是巴拿马承诺通过全球渔业观察平台公开分享近200艘国内渔船的船舶监测系统数据。此举预计将显著提高巴拿马水域捕捞活动的透明度和可见性。\n\n全球渔业观察拉丁美洲负责人莫妮卡·埃斯皮诺萨·米拉莱斯称这一决定是巴拿马演变为渔业透明度和问责领先倡导者的重要里程碑。这一宣布建立在2019年启动的伙伴关系基础上，当时巴拿马开始公开分享其国际捕捞船队的追踪数据。据埃斯皮诺萨·米拉莱斯称，该国的承诺展示了政治意愿、技术和开放数据如何加强渔业治理和可持续海洋管理。与此同时，马达加斯加渔业和蓝色经济部宣布计划扩大与全球渔业观察的伙伴关系。该倡议将专注于船舶追踪、联合研究、能力建设以及加强监测、控制和监视行动，将透明度置于该国渔业管理战略的核心。\n\n与会者还公布了一项新合作，旨在创建首个包括工业船队和小规模渔船在内的全球捕捞活动地图。该倡议将结合船舶追踪数据与先进的卫星图像和分析，绘制现有数据集中基本缺失的数百万艘手工渔船的地图。该项目计划于2026年7月1日启动，预计将为政府和渔业管理者提供对海上人类活动更全面的了解。利益相关方表示，增强的可见性将支持打击过度捕捞、改善渔业管理并确保全球海洋资源长期可持续性的努力。"
+    },
+    {
+      "id": 2,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-29/China-and-Seychelles-at-50-Five-decades-of-cooperation-and-exchanges-1On7pkAc5Ak/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "China and Seychelles at 50: Five decades of cooperation and exchanges",
+      "titleCn": "中国与塞舌尔建交50周年：五十载合作与交流",
+      "summary": "Fifty years ago, on June 30, 1976, China and Seychelles established diplomatic relations, just one day after the Indian Ocean island nation gained independence. Half a century later, cooperation between the two countries spans infrastructure, healthcare, education, trade, tourism and the blue economy.",
+      "summaryCn": "中国与塞舌尔建交50年来，合作从传统援助扩展到基础设施、医疗、教育、旅游、蓝色经济等多个领域，并提升为战略伙伴关系。",
+      "wordCount": 827,
+      "paragraphs": [
+        {
+          "en": "A man from the Seychelles waves the country's flag as he takes part in Africa Day 2026, an event held to mark the 70th anniversary of China-Africa {{1}} ties and the China-Africa Year, in Beijing, China, May 23, 2026. Fifty years ago, on June 30, 1976, China and Seychelles {{0}} diplomatic relations, just one day after the Indian Ocean island nation gained independence. Half a century later, {{2}} between the two countries spans {{3}}, healthcare, education, trade, tourism and the blue economy. From diplomatic ties to {{4}} {{5}}\nSince establishing diplomatic relations, China and Seychelles have maintained close ties based on mutual respect and support for each other's core interests and major concerns. A major milestone came in September 2024, when the two countries elevated their relationship to a strategic partnership during the Beijing Summit of Forum on China-Africa Cooperation (FOCAC).",
+          "cn": "一名塞舌尔男子在北京参加2026年非洲日庆祝活动时挥舞该国国旗，该活动旨在纪念中非建交70周年及中非年。五十年前，即1976年6月30日，中国与塞舌尔建立外交关系，仅在该印度洋岛国独立后一天。半个世纪后，两国合作涵盖基础设施、医疗、教育、贸易、旅游和蓝色经济。从外交关系到战略伙伴关系：自建交以来，中国与塞舌尔在相互尊重和支持彼此核心利益与重大关切的基础上保持密切关系。一个重要里程碑是2024年9月，两国在中非合作论坛北京峰会期间将关系提升为战略伙伴关系。"
+        },
+        {
+          "en": "Bilateral ties have continued to deepen. During a visit to Seychelles in March, Chinese Vice President Han Zheng attended events marking the 50th anniversary of diplomatic ties and visited the China-aided Seychelles Broadcasting and Television Center project that was handed over in 2025. The center has become one of the latest landmarks of bilateral cooperation. In May, Chinese Foreign Minister Wang Yi met Seychelles Foreign Minister Barry Faure in Beijing. Both sides {{7}} to deepen cooperation in areas including the blue economy, tourism, healthcare, environmental protection, climate change, energy and infrastructure development.",
+          "cn": "双边关系持续深化。今年3月，中国国家副主席韩正访问塞舌尔，出席建交50周年纪念活动，并参观了2025年移交的中国援建塞舌尔广播电视中心项目。该中心已成为双边合作的最新标志之一。5月，中国外交部长王毅在北京会见塞舌尔外交部长巴里·富尔。双方承诺深化在蓝色经济、旅游、医疗、环保、气候变化、能源和基础设施发展等领域的合作。"
+        },
+        {
+          "en": "Chinese Vice President Han Zheng meets with President of Seychelles Patrick Herminie in Victoria, Seychelles, March 29, 2026. /Xinhua\nBooming cooperation\nOver the past five decades, cooperation between China and Seychelles has expanded from traditional development assistance to a broad range of sectors linked to economic development and people's {{8}}. Chinese-supported projects can be found across the island nation, including housing developments, sports facilities, judicial and broadcasting infrastructure. These projects have accompanied Seychelles' development while reflecting the long-standing partnership between the two countries. Healthcare has been one of the longest-running {{9}} of bilateral cooperation.",
+          "cn": "中国国家副主席韩正2026年3月29日在塞舌尔维多利亚会见塞舌尔总统帕特里克·赫米尼。新华社发。蓬勃发展的合作：过去五十年间，中国与塞舌尔的合作从传统发展援助扩展到与经济发展和民生相关的广泛领域。中国支持的项目遍布这个岛国，包括住房开发、体育设施、司法和广播基础设施。这些项目伴随塞舌尔的发展，同时反映了两国长期的伙伴关系。医疗一直是双边合作历史最悠久的支柱之一。"
+        },
+        {
+          "en": "China began sending medical teams to Seychelles in 1985 and has {{10}} 20 batches of medical personnel over the past four decades. Chinese medical teams have also helped train more than 2,000 local {{11}} while providing clinical services and specialist support. Education and {{12}} have remained another important area of engagement. Through scholarship programs, professional training and technical {{13}}, generations of Seychellois students, teachers and public-sector professionals have received training opportunities in China, helping strengthen people-to-people ties alongside economic cooperation. Tourism and cultural exchanges have also become an increasingly {{14}} part of the relationship.",
+          "cn": "中国自1985年开始向塞舌尔派遣医疗队，四十年来已派出20批医疗人员。中国医疗队还帮助培训了2000多名当地专业人员，同时提供临床服务和专科支持。教育和能力建设一直是另一个重要的合作领域。通过奖学金项目、专业培训和技术交流，一代代塞舌尔学生、教师和公共部门专业人员在中国获得培训机会，在加强经济合作的同时也增进了人文交流。旅游和文化交流也成为双边关系中日益显著的部分。"
+        },
+        {
+          "en": "As the first African country to establish a {{15}} mutual visa-{{16}} agreement with China, Seychelles has sought to expand cooperation in tourism and people-to-people exchanges. In a recent interview with Xinhua, Seychelles Minister for Tourism and Culture Amanda Bernstein said China's large {{17}} tourism market presents opportunities for further cooperation, while closer exchanges help deepen mutual understanding between the two peoples. In recent years, the partnership has expanded into {{18}} sectors including {{19}}, {{20}} energy and the blue economy. Last year, China and Seychelles signed a fisheries cooperation agreement. According to information released by the Chinese Embassy in Seychelles, Seychelles' seafood exports to China increased more than eightfold after the agreement was signed.",
+          "cn": "作为第一个与中国签订全面互免签证协议的非洲国家，塞舌尔致力于扩大旅游和人文交流合作。塞舌尔旅游与文化部长阿曼达·伯恩斯坦近日在接受新华社采访时表示，中国庞大的出境旅游市场为进一步合作提供了机遇，而更密切的交流有助于加深两国人民的相互理解。近年来，伙伴关系扩展到渔业、可再生能源和蓝色经济等新兴领域。去年，中国与塞舌尔签署了渔业合作协议。据中国驻塞舌尔大使馆发布的信息，协议签署后，塞舌尔对华海产品出口增长了八倍以上。"
+        },
+        {
+          "en": "Renewable-energy cooperation has also expanded through projects such as the Africa Solar Belt Project, under which China has provided solar power equipment to support Seychelles' {{21}}-development efforts. Passengers prepare to board a seasonal direct flight from Chengdu to Seychelles at Chengdu Tianfu International Airport in southwest China's Sichuan Province, July 1, 2025. Working together on global challenges\nBeyond bilateral projects, China and Seychelles have maintained close communication in {{22}} forums, including the United Nations. As a small island developing state, Seychelles has placed particular emphasis on issues such as climate change, ocean {{23}} and sustainable development. These themes have also featured prominently in bilateral exchanges, particularly through cooperation related to the blue economy and marine resource management.",
+          "cn": "可再生能源合作也通过非洲太阳能带项目等项目得到扩展，中国提供太阳能设备支持塞舌尔的可持续发展努力。2025年7月1日，乘客在成都天府国际机场准备登机前往塞舌尔的季节性直飞航班。共同应对全球挑战：除了双边项目，中国与塞舌尔在联合国等多边论坛保持密切沟通。作为小岛屿发展中国家，塞舌尔特别重视气候变化、海洋治理和可持续发展等问题。这些主题在双边交流中也占据突出位置，特别是通过蓝色经济和海洋资源管理相关的合作。"
+        },
+        {
+          "en": "Discussions between the two sides have increasingly focused on areas such as environmental protection, climate {{24}} and sustainable use of marine resources. A delegate from Seychelles presents a city case study at the first UN Ocean Decade International Coastal Cities Conference in Qingdao, east China's Shandong Province, February 26, 2025. Looking ahead\nThe 50th anniversary comes as China expands market access for African exports. Effective May 1, China has extended {{25}} treatment to all 53 African countries with which it maintains diplomatic relations, Seychelles included. In an article published in May, Chinese Ambassador to Seychelles Lin Nan said the policy is expected to enhance the {{26}} of Seychellois seafood exports in the Chinese market, reduce trade costs and create new opportunities in areas including fisheries, logistics and the marine economy.",
+          "cn": "双方讨论日益集中在环境保护、气候韧性和海洋资源可持续利用等领域。2025年2月26日，一名塞舌尔代表在中国青岛举行的首届联合国海洋十年国际沿海城市会议上介绍城市案例研究。展望未来：建交50周年之际，中国正扩大对非洲出口的市场准入。自5月1日起，中国对所有与其保持外交关系的53个非洲国家给予零关税待遇，塞舌尔包括在内。中国驻塞舌尔大使林楠在5月发表的一篇文章中表示，该政策预计将提升塞舌尔海产品在中国市场的竞争力，降低贸易成本，并在渔业、物流和海洋经济等领域创造新机遇。"
+        },
+        {
+          "en": "Fifty years after establishing diplomatic relations, cooperation between China and Seychelles continues to {{27}} across both traditional and emerging sectors. From healthcare and education to fisheries, renewable energy and the blue economy, bilateral ties have developed alongside the changing priorities of both countries and their peoples.",
+          "cn": "建交50年后，中国与塞舌尔的合作在传统和新兴领域持续发展。从医疗、教育到渔业、可再生能源和蓝色经济，双边关系随着两国及人民不断变化的优先事项而发展。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "established",
+          "hint": "v. 建立",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "diplomatic",
+          "hint": "adj. 外交的",
           "difficulty": "medium"
         },
         {
@@ -58,799 +207,768 @@
         },
         {
           "id": 3,
-          "answer": "emerging",
-          "hint": "adj. 新兴的",
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "connectivity",
-          "hint": "n. 互联互通",
-          "difficulty": "hard"
+          "answer": "strategic",
+          "hint": "adj. 战略的",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "coordination",
-          "hint": "n. 协调",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "underscored",
-          "hint": "v. 强调",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "commitment",
-          "hint": "n. 承诺",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "innovation",
-          "hint": "n. 创新",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
           "answer": "partnership",
           "hint": "n. 伙伴关系",
           "difficulty": "easy"
         },
         {
-          "id": 10,
-          "answer": "sovereignty",
-          "hint": "n. 主权",
+          "id": 6,
+          "answer": "pledged",
+          "hint": "v. 承诺",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "livelihoods",
+          "hint": "n. 生计",
           "difficulty": "hard"
         },
         {
+          "id": 8,
+          "answer": "pillars",
+          "hint": "n. 支柱",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "dispatched",
+          "hint": "v. 派遣",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "professionals",
+          "hint": "n. 专业人员",
+          "difficulty": "easy"
+        },
+        {
           "id": 11,
-          "answer": "integrity",
-          "hint": "n. 完整",
+          "answer": "capacity-building",
+          "hint": "n. 能力建设",
           "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "underpinned",
-          "hint": "v. 支撑",
-          "difficulty": "hard"
+          "answer": "exchanges",
+          "hint": "n. 交流",
+          "difficulty": "easy"
         },
         {
           "id": 13,
-          "answer": "bilateral",
-          "hint": "adj. 双边的",
+          "answer": "visible",
+          "hint": "adj. 显著的",
           "difficulty": "medium"
         },
         {
           "id": 14,
+          "answer": "comprehensive",
+          "hint": "adj. 全面的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "exemption",
+          "hint": "n. 豁免",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "outbound",
+          "hint": "adj. 出境的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "emerging",
+          "hint": "adj. 新兴的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "fisheries",
+          "hint": "n. 渔业",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "renewable",
+          "hint": "adj. 可再生的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
           "answer": "multilateral",
           "hint": "adj. 多边的",
           "difficulty": "hard"
         },
         {
-          "id": 15,
-          "answer": "digital",
-          "hint": "adj. 数字的",
-          "difficulty": "easy"
+          "id": 22,
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "hard"
         },
         {
-          "id": 16,
-          "answer": "artificial",
-          "hint": "adj. 人工的",
+          "id": 23,
+          "answer": "resilience",
+          "hint": "n. 韧性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 24,
+          "answer": "zero-tariff",
+          "hint": "adj. 零关税的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 25,
+          "answer": "competitiveness",
+          "hint": "n. 竞争力",
           "difficulty": "medium"
         },
         {
-          "id": 17,
-          "answer": "modernization",
-          "hint": "n. 现代化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "globalization",
-          "hint": "n. 全球化",
+          "id": 26,
+          "answer": "evolve",
+          "hint": "v. 演变",
           "difficulty": "medium"
         }
       ],
-      "fullText": "Chinese President Xi Jinping meets with Bangladeshi Prime Minister Tarique Rahman in Beijing, China, June 26, 2026. /Xinhua\nChina and Bangladesh are looking to translate long-standing political trust into more concrete cooperation, with a growing focus on emerging industries, connectivity and regional coordination. Against that backdrop, the two countries on Friday agreed to elevate their ties by building a China-Bangladesh community with a shared future in the new era, marking a milestone during Bangladeshi Prime Minister Tarique Rahman's first official visit to China since taking office.\nThe agreement underscored growing political trust between the two countries and a shared commitment to expanding cooperation across both traditional and emerging sectors, while strengthening coordination on regional and global affairs.\nRahman's visit also took him to northeastern China's Dalian, where he attended the 17th Annual Meeting of the New Champions, also known as Summer Davos, where leaders, policymakers and business executives gathered to discuss innovation-led development and the future of the global economy. His participation underscores Bangladesh's interest in expanding cooperation with China beyond traditional sectors into emerging industries and technological innovation.\nFrom political trust to a higher-level partnership\nWhen meeting with Prime Minister Rahman at the Great Hall of the People on Friday, President Xi Jinping said China has always attached great importance to its relations with Bangladesh and will remain \"a trustworthy good friend, good neighbor and good partner\" regardless of changes in the international landscape.\nXi said China supports Bangladesh in safeguarding its national independence, sovereignty and territorial integrity, as well as the new government's governance efforts.\nRahman congratulated the Communist Party of China on the 105th anniversary of its founding. He described China as a valued and trusted partner, and said Chinese modernization is an example for Bangladesh to learn from. He also reaffirmed Bangladesh's firm commitment to the one-China principle and opposition to any form of \"Taiwan independence.\"\nBuilding on a solid foundation\nThe upgraded relationship has been underpinned by decades of steadily expanding practical cooperation. Official data showed that China has been Bangladesh's largest trading partner for many consecutive years, with bilateral trade exceeding $24.05 billion in 2024. Bangladesh was the first South Asian country to join the Belt and Road Initiative (BRI).\nOver the past decade, Chinese companies have participated in a series of landmark projects in Bangladesh, improving connectivity and supporting the country's economic development.\nAgainst this backdrop, Friday's meeting pointed to a new phase of bilateral cooperation, building on existing achievements while expanding into innovation-driven sectors.\nExpanding cooperation for the future\nXi said China is ready to work with Bangladesh to carry out high-quality Belt and Road cooperation and make sound plans for cooperation in priority areas. He flagged the China-Myanmar-Bangladesh Economic Corridor as a vehicle for greater regional connectivity.\nChina is willing to strengthen cooperation with Bangladesh in trade, e-commerce, industrial and supply chains, and investment, help Bangladesh strengthen its export capacity, and jointly safeguard the multilateral trading system, according to a joint statement released on Friday.\nBangladesh said it is ready to create a favorable environment for Chinese enterprises investing in the country. The two sides also expressed readiness to advance major connectivity and industrial projects, including the modernization and expansion project of the Mongla Port and the development of the Chinese Economic and Industrial Zone in Chattogram.\nXi also called for exploring new cooperation potential in green and low-carbon development, the digital economy, information technology and artificial intelligence (AI) – areas that featured prominently in this year's Summer Davos discussions on the future of global growth.\nCommenting on this strategic shift, Zhang Jiadong, director of the Center for South Asian Studies at Fudan University, said that green energy and the digital economy offer a more agile, cost-effective pathway for Bangladesh to accelerate growth compared to traditional heavy infrastructure. \"China has very good technology and a solid foundation in these sectors, and leveraging China-based AI models could help Bangladesh immensely in its future development,\" Zhang said.\nPeople-to-people exchanges are also expected to gain fresh momentum. Xi said China is willing to expand cooperation in healthcare, education and culture, increasing subnational exchanges.\nRahman said Bangladesh hopes to deepen cooperation with China in economy and trade, connectivity, agriculture, technology, green energy, education and health to support its modernization drive.\nA stronger voice for the Global South\nBeyond bilateral cooperation, Rahman's visit also highlighted growing coordination between the two countries on international affairs.\nXi said China is ready to strengthen communication and coordination with Bangladesh under multilateral frameworks, including the United Nations, to jointly promote an equal and orderly multipolar world and a universally beneficial and inclusive economic globalization, while safeguarding the common interests of the Global South.\nRahman said the vision of building a community with a shared future for humanity and the four global initiatives, referring to Global Development Initiative, Global Security Initiative, Global Civilization Initiative and Global Governance Initiative, proposed by President Xi, contribute to world peace, development and international fairness. He said Bangladesh is willing to strengthen coordination with China on regional and international affairs and uphold the outcomes of the victory of WWII and the UN-centered international order.",
-      "fullTextCn": "中国国家主席习近平于2026年6月26日在北京会见孟加拉国总理塔里克·拉赫曼。中国和孟加拉国正致力于将长期政治互信转化为更具体的合作，重点聚焦新兴产业、互联互通和区域协调。在此背景下，双方于周五同意提升双边关系，共建新时代中孟命运共同体，这标志着孟加拉国总理塔里克·拉赫曼就任后首次正式访华的重要里程碑。该协议凸显了两国日益增强的政治互信，以及扩大传统与新兴领域合作、加强区域和全球事务协调的共同承诺。拉赫曼还访问了中国东北部的大连，出席了第十七届新领军者年会（又称夏季达沃斯论坛），各国领导人、政策制定者和商界领袖齐聚一堂，探讨创新驱动发展和全球经济的未来。\n\n他的参与凸显了孟加拉国将合作从传统领域扩展到新兴产业和技术创新的兴趣。从政治互信到更高层次的伙伴关系：周五在人民大会堂会见拉赫曼总理时，习近平主席表示，中国始终高度重视与孟加拉国的关系，无论国际形势如何变化，中国都将是“值得信赖的好朋友、好邻居、好伙伴”。习近平表示，中国支持孟加拉国维护国家独立、主权和领土完整，支持新政府的治理努力。拉赫曼祝贺中国共产党成立105周年。他将中国描述为宝贵且值得信赖的伙伴，并表示中国现代化是孟加拉国学习的榜样。\n\n他还重申了孟加拉国对一个中国原则的坚定承诺，以及对任何形式的“台独”的反对。基于坚实基础：升级后的关系建立在数十年来稳步扩大的务实合作之上。官方数据显示，中国连续多年是孟加拉国最大贸易伙伴，2024年双边贸易额超过240.5亿美元。孟加拉国是首个加入“一带一路”倡议的南亚国家。过去十年间，中国企业参与了一系列孟加拉国标志性项目，改善了互联互通并支持了该国经济发展。在此背景下，周五的会晤标志着双边合作进入新阶段，在现有成就基础上向创新驱动领域拓展。\n\n拓展未来合作：习近平表示，中国愿与孟加拉国开展高质量“一带一路”合作，并妥善规划优先领域的合作。他将中缅孟经济走廊视为促进区域互联互通的载体。根据周五发布的联合声明，中国愿加强与孟加拉国在贸易、电子商务、产业链供应链和投资方面的合作，帮助孟加拉国提升出口能力，并共同维护多边贸易体系。孟加拉国表示愿为中国企业在孟投资创造有利环境。双方还表示愿推进重大互联互通和产业项目，包括蒙格拉港现代化扩建工程以及吉大港中国经济产业园区开发。\n\n习近平还呼吁在绿色低碳发展、数字经济、信息技术和人工智能等领域探索新的合作潜力——这些领域在今年夏季达沃斯论坛关于全球增长未来的讨论中占据突出地位。复旦大学南亚研究中心主任张家栋评论这一战略转变时表示，与传统重型基础设施相比，绿色能源和数字经济为孟加拉国加速增长提供了更灵活、更具成本效益的路径。张家栋说：“中国在这些领域拥有非常先进的技术和坚实基础，利用中国的人工智能模型可以极大地帮助孟加拉国未来发展。”人文交流也有望获得新动力。习近平表示，中国愿扩大在医疗、教育、文化领域的合作，增加地方交流。\n\n拉赫曼表示，孟加拉国希望深化与中国在经济贸易、互联互通、农业、技术、绿色能源、教育和卫生领域的合作，以支持其现代化进程。全球南方更强声音：除了双边合作，拉赫曼的访问还凸显了两国在国际事务中日益增强的协调。习近平表示，中国愿在联合国等多边框架下加强与孟加拉国的沟通协调，共同促进平等有序的多极世界和普惠包容的经济全球化，维护全球南方的共同利益。拉赫曼表示，构建人类命运共同体理念以及习近平主席提出的全球发展倡议、全球安全倡议、全球文明倡议和全球治理倡议，有助于世界和平、发展与国际公平。他表示，孟加拉国愿加强与中国在区域和国际事务上的协调，维护二战胜利成果和以联合国为核心的国际秩序。"
+      "fullText": "A man from the Seychelles waves the country's flag as he takes part in Africa Day 2026, an event held to mark the 70th anniversary of China-Africa diplomatic ties and the China-Africa Year, in Beijing, China, May 23, 2026. \nFifty years ago, on June 30, 1976, China and Seychelles established diplomatic relations, just one day after the Indian Ocean island nation gained independence. Half a century later, cooperation between the two countries spans infrastructure, healthcare, education, trade, tourism and the blue economy.\nFrom diplomatic ties to strategic partnership\nSince establishing diplomatic relations, China and Seychelles have maintained close ties based on mutual respect and support for each other's core interests and major concerns.\nA major milestone came in September 2024, when the two countries elevated their relationship to a strategic partnership during the Beijing Summit of Forum on China-Africa Cooperation (FOCAC).\nBilateral ties have continued to deepen. During a visit to Seychelles in March, Chinese Vice President Han Zheng attended events marking the 50th anniversary of diplomatic ties and visited the China-aided Seychelles Broadcasting and Television Center project that was handed over in 2025. The center has become one of the latest landmarks of bilateral cooperation.\nIn May, Chinese Foreign Minister Wang Yi met Seychelles Foreign Minister Barry Faure in Beijing. Both sides pledged to deepen cooperation in areas including the blue economy, tourism, healthcare, environmental protection, climate change, energy and infrastructure development.\nChinese Vice President Han Zheng meets with President of Seychelles Patrick Herminie in Victoria, Seychelles, March 29, 2026. /Xinhua\nBooming cooperation\nOver the past five decades, cooperation between China and Seychelles has expanded from traditional development assistance to a broad range of sectors linked to economic development and people's livelihoods.\nChinese-supported projects can be found across the island nation, including housing developments, sports facilities, judicial and broadcasting infrastructure. These projects have accompanied Seychelles' development while reflecting the long-standing partnership between the two countries.\nHealthcare has been one of the longest-running pillars of bilateral cooperation. China began sending medical teams to Seychelles in 1985 and has dispatched 20 batches of medical personnel over the past four decades. Chinese medical teams have also helped train more than 2,000 local professionals while providing clinical services and specialist support.\nEducation and capacity-building have remained another important area of engagement. Through scholarship programs, professional training and technical exchanges, generations of Seychellois students, teachers and public-sector professionals have received training opportunities in China, helping strengthen people-to-people ties alongside economic cooperation.\nTourism and cultural exchanges have also become an increasingly visible part of the relationship. As the first African country to establish a comprehensive mutual visa-exemption agreement with China, Seychelles has sought to expand cooperation in tourism and people-to-people exchanges. In a recent interview with Xinhua, Seychelles Minister for Tourism and Culture Amanda Bernstein said China's large outbound tourism market presents opportunities for further cooperation, while closer exchanges help deepen mutual understanding between the two peoples.\nIn recent years, the partnership has expanded into emerging sectors including fisheries, renewable energy and the blue economy. Last year, China and Seychelles signed a fisheries cooperation agreement. According to information released by the Chinese Embassy in Seychelles, Seychelles' seafood exports to China increased more than eightfold after the agreement was signed. Renewable-energy cooperation has also expanded through projects such as the Africa Solar Belt Project, under which China has provided solar power equipment to support Seychelles' sustainable-development efforts.\nPassengers prepare to board a seasonal direct flight from Chengdu to Seychelles at Chengdu Tianfu International Airport in southwest China's Sichuan Province, July 1, 2025. \nWorking together on global challenges\nBeyond bilateral projects, China and Seychelles have maintained close communication in multilateral forums, including the United Nations.\nAs a small island developing state, Seychelles has placed particular emphasis on issues such as climate change, ocean governance and sustainable development. These themes have also featured prominently in bilateral exchanges, particularly through cooperation related to the blue economy and marine resource management. Discussions between the two sides have increasingly focused on areas such as environmental protection, climate resilience and sustainable use of marine resources.\nA delegate from Seychelles presents a city case study at the first UN Ocean Decade International Coastal Cities Conference in Qingdao, east China's Shandong Province, February 26, 2025. \nLooking ahead\nThe 50th anniversary comes as China expands market access for African exports. Effective May 1, China has extended zero-tariff treatment to all 53 African countries with which it maintains diplomatic relations, Seychelles included. In an article published in May, Chinese Ambassador to Seychelles Lin Nan said the policy is expected to enhance the competitiveness of Seychellois seafood exports in the Chinese market, reduce trade costs and create new opportunities in areas including fisheries, logistics and the marine economy.\nFifty years after establishing diplomatic relations, cooperation between China and Seychelles continues to evolve across both traditional and emerging sectors. From healthcare and education to fisheries, renewable energy and the blue economy, bilateral ties have developed alongside the changing priorities of both countries and their peoples.",
+      "fullTextCn": "一名塞舌尔男子在北京参加2026年非洲日庆祝活动时挥舞该国国旗，该活动旨在纪念中非建交70周年及中非年。五十年前，即1976年6月30日，中国与塞舌尔建立外交关系，仅在该印度洋岛国独立后一天。半个世纪后，两国合作涵盖基础设施、医疗、教育、贸易、旅游和蓝色经济。从外交关系到战略伙伴关系：自建交以来，中国与塞舌尔在相互尊重和支持彼此核心利益与重大关切的基础上保持密切关系。一个重要里程碑是2024年9月，两国在中非合作论坛北京峰会期间将关系提升为战略伙伴关系。\n\n双边关系持续深化。今年3月，中国国家副主席韩正访问塞舌尔，出席建交50周年纪念活动，并参观了2025年移交的中国援建塞舌尔广播电视中心项目。该中心已成为双边合作的最新标志之一。5月，中国外交部长王毅在北京会见塞舌尔外交部长巴里·富尔。双方承诺深化在蓝色经济、旅游、医疗、环保、气候变化、能源和基础设施发展等领域的合作。\n\n中国国家副主席韩正2026年3月29日在塞舌尔维多利亚会见塞舌尔总统帕特里克·赫米尼。新华社发。蓬勃发展的合作：过去五十年间，中国与塞舌尔的合作从传统发展援助扩展到与经济发展和民生相关的广泛领域。中国支持的项目遍布这个岛国，包括住房开发、体育设施、司法和广播基础设施。这些项目伴随塞舌尔的发展，同时反映了两国长期的伙伴关系。医疗一直是双边合作历史最悠久的支柱之一。\n\n中国自1985年开始向塞舌尔派遣医疗队，四十年来已派出20批医疗人员。中国医疗队还帮助培训了2000多名当地专业人员，同时提供临床服务和专科支持。教育和能力建设一直是另一个重要的合作领域。通过奖学金项目、专业培训和技术交流，一代代塞舌尔学生、教师和公共部门专业人员在中国获得培训机会，在加强经济合作的同时也增进了人文交流。旅游和文化交流也成为双边关系中日益显著的部分。\n\n作为第一个与中国签订全面互免签证协议的非洲国家，塞舌尔致力于扩大旅游和人文交流合作。塞舌尔旅游与文化部长阿曼达·伯恩斯坦近日在接受新华社采访时表示，中国庞大的出境旅游市场为进一步合作提供了机遇，而更密切的交流有助于加深两国人民的相互理解。近年来，伙伴关系扩展到渔业、可再生能源和蓝色经济等新兴领域。去年，中国与塞舌尔签署了渔业合作协议。据中国驻塞舌尔大使馆发布的信息，协议签署后，塞舌尔对华海产品出口增长了八倍以上。\n\n可再生能源合作也通过非洲太阳能带项目等项目得到扩展，中国提供太阳能设备支持塞舌尔的可持续发展努力。2025年7月1日，乘客在成都天府国际机场准备登机前往塞舌尔的季节性直飞航班。共同应对全球挑战：除了双边项目，中国与塞舌尔在联合国等多边论坛保持密切沟通。作为小岛屿发展中国家，塞舌尔特别重视气候变化、海洋治理和可持续发展等问题。这些主题在双边交流中也占据突出位置，特别是通过蓝色经济和海洋资源管理相关的合作。\n\n双方讨论日益集中在环境保护、气候韧性和海洋资源可持续利用等领域。2025年2月26日，一名塞舌尔代表在中国青岛举行的首届联合国海洋十年国际沿海城市会议上介绍城市案例研究。展望未来：建交50周年之际，中国正扩大对非洲出口的市场准入。自5月1日起，中国对所有与其保持外交关系的53个非洲国家给予零关税待遇，塞舌尔包括在内。中国驻塞舌尔大使林楠在5月发表的一篇文章中表示，该政策预计将提升塞舌尔海产品在中国市场的竞争力，降低贸易成本，并在渔业、物流和海洋经济等领域创造新机遇。\n\n建交50年后，中国与塞舌尔的合作在传统和新兴领域持续发展。从医疗、教育到渔业、可再生能源和蓝色经济，双边关系随着两国及人民不断变化的优先事项而发展。"
     },
     {
-      "id": 2,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-07-02/detail-ihffyeqp1384220.shtml",
-      "title": "Party urged to build on legacy, forge ahead",
-      "titleCn": "中共呼吁继往开来、砥砺前行",
-      "summary": "Xi Jinping, general secretary of the Communist Party of China Central Committee, called on the Party not to rest on its past achievements, but to continue striving toward national rejuvenation and new historic accomplishments, at a grand gathering marking the 105th anniversary of the founding of the CPC on Wednesday in Beijing.",
-      "summaryCn": "在建党105周年纪念大会上，习近平强调党不能躺在过去的功劳簿上，而应继续为实现民族复兴和新的历史成就而奋斗。",
-      "wordCount": 773,
+      "id": 3,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-01/news-1OqormjSEh2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "US, Iran enter technical talks to secure peace deal, shipping restart",
+      "titleCn": "美国与伊朗展开技术性谈判以达成和平协议并重启航运",
+      "summary": "US, Iran enter technical talks to secure peace deal, shipping restart",
+      "summaryCn": "美国和伊朗在卡塔尔举行间接技术谈判，旨在确保霍尔木兹海峡航运安全并达成持久停火，但双方在临时协议解释上存在分歧。",
+      "wordCount": 658,
       "paragraphs": [
         {
-          "en": "Xi Jinping, general secretary of the Communist Party of China Central Committee, called on the Party not to rest on its past achievements, but to continue {{0}} toward national {{1}} and new historic {{2}}, at a grand gathering marking the 105th anniversary of the founding of the CPC on Wednesday in Beijing. The CPC's 105-year history is a source of pride, but the Party must never become {{3}} or stop moving forward, Xi said. He {{4}} the importance of meeting the goal of fully realizing socialist {{5}} by the middle of the century. \"Time stops for no one, and neither does history,\" he said. Xi, who is also Chinese president and chairman of the Central Military Commission, made the remarks while addressing an audience of around 3,000 at the Great Hall of the People in Beijing.",
-          "cn": "周三，中共中央总书记习近平在北京举行的庆祝中国共产党成立105周年大会上呼吁，党不能躺在过去的功劳簿上，而应继续为实现民族复兴和新的历史成就而奋斗。习近平表示，中共的105年历史值得骄傲，但党绝不能自满或停止前进。他强调，到本世纪中叶全面实现社会主义现代化这一目标的重要性。他说：“时间不等人，历史不等人。”习近平还担任国家主席和中央军委主席，他在北京人民大会堂向约3000名听众发表了上述讲话。"
+          "en": "The US and Iran held {{0}} {{1}} talks in Doha on Wednesday as they seek to agree on the flow of shipping through the Strait of Hormuz and secure a lasting {{2}}, a source with direct knowledge of the talks and an Iranian official said. The talks are based on a 14-point {{3}} {{4}} signed last month that was meant to {{5}} the war that began with US-Israeli strikes on Iran in February and reopen the strait while setting up 60 days of {{6}} for a permanent peace deal. However, the US and Iran have {{7}} publicly over the meaning of the interim pact, leading to {{8}} military strikes over the past week and leaving little sign of progress on more complex issues, including on Iran's nuclear program. Iran is determined to win international {{9}} of its control over the strait and its ability to {{10}} fees on ships entering or leaving the Gulf, even if it has to do so by force, according to two senior Iranian sources. Traffic has partially {{11}} through the waterway, which handled one-fifth of global oil and liquefied natural gas trade before the war.",
+          "cn": "美国和伊朗周三在卡塔尔多哈举行了间接技术谈判，一位直接了解谈判情况的消息人士和一名伊朗官员表示，双方正寻求就霍尔木兹海峡的航运流通达成一致，并确保持久停火。这些谈判基于上月签署的一份14点临时协议，该协议旨在停止始于2月美以对伊朗空袭的战争，重新开放海峡，同时为达成永久和平协议设立60天的谈判期。然而，美国和伊朗就临时协议的含义公开争执，导致过去一周发生针锋相对的军事打击，在更复杂的问题上（包括伊朗核计划）几乎没有进展迹象。据两名伊朗高级消息人士称，伊朗决心赢得国际社会对其控制海峡以及向进出海湾船只征收通行费能力的认可，即使不得不通过武力实现。这条水道在战前处理了全球五分之一的石油和液化天然气贸易，目前交通已部分恢复。"
         },
         {
-          "en": "Founded in 1921 against the backdrop of a weak China {{6}} by foreign {{7}} and poverty, the CPC has grown from a small group of just over 50 members into the world's largest governing party, with nearly 101.29 million members and {{8}} global influence. Xi said that over the past 105 years, the CPC has remained true to its founding mission of seeking happiness for the Chinese people and rejuvenation for the Chinese nation, achieving historic accomplishments through {{9}} struggle. The Party has led the Chinese people of all ethnic groups in writing the most magnificent {{10}} in the nation's history, he said. The CPC's 105 years of unremitting endeavor have fundamentally {{11}} the future and {{12}} of the Chinese people, opened up the right path toward national rejuvenation, demonstrated the strong {{13}} of Marxism, {{14}} influenced the course of world history and forged a strong CPC, Xi said. According to Xi, the fundamental reason that the CPC has continued to achieve remarkable success over the past 105 years, and why it has been chosen by history and the people, lies in its fine {{15}} with no parallel among other political parties and political forces.",
-          "cn": "中共成立于1921年，当时中国积贫积弱、备受外辱。如今，它已从最初只有50多名党员的小党，发展成为拥有近1.0129亿党员、具有巨大全球影响力的世界最大执政党。习近平表示，105年来，中共始终坚守为中国人民谋幸福、为中华民族谋复兴的初心使命，通过不懈奋斗取得了历史性成就。他说，党领导全国各族人民书写了中华民族历史上最壮丽的史诗。习近平指出，中共105年的不懈奋斗，从根本上改变了中国人民的前途命运，开辟了实现民族复兴的正确道路，展现了马克思主义的强大生命力，深刻影响了世界历史进程，锻造了坚强有力的中共。习近平认为，中共在过去105年里不断取得显著成功、被历史和人民选择的根本原因，在于其其他政党和政治力量无法比拟的优良品质。"
+          "en": "US President Donald Trump, who has said removing Iran's highly enriched uranium is a top {{13}}, told reporters on Wednesday that \"the {{12}} of Iran is moving along well,\" without giving details. \"They've had very good meetings, and we'll see,\" he said of the talks in Doha, where there was no evidence the nuclear issue had yet been discussed. Focus on Hormuz, frozen {{18}}\nThe indirect talks, {{14}} by Qatar and Pakistan, began on Tuesday night and were continuing on Wednesday, the Iranian official said. They are structured as sessions between chief negotiators and {{15}}, the source with knowledge of the talks said, adding that Trump's son-in-law Jared Kushner and envoy Steve Witkoff met Qatar's prime minister to lay groundwork for the talks but would not be attending. Iran's Deputy Foreign Minister Kazem Gharibabadi headed a {{16}} of {{17}} from Iran's Foreign Ministry, central bank and Agriculture Ministry, meeting Qatar's prime minister and holding talks with mediators.",
+          "cn": "美国总统唐纳德·特朗普曾表示，移除伊朗高浓缩铀是首要任务，他周三对记者称“伊朗无核化进展顺利”，但没有提供细节。他在谈到多哈谈判时说：“他们进行了非常好的会晤，我们会拭目以待。”目前没有证据表明核问题已在谈判中讨论。焦点在霍尔木兹海峡和冻结资产。伊朗官员表示，由卡塔尔和巴基斯坦斡旋的间接谈判于周二晚开始，周三继续进行。了解谈判情况的消息人士称，谈判以首席谈判代表和专家之间的会议形式进行，并补充说特朗普的女婿贾里德·库什纳和特使史蒂夫·维特科夫会见了卡塔尔首相，为谈判奠定基础，但不会出席。伊朗副外长卡齐姆·加里巴巴迪率领一个由伊朗外交部、中央银行和农业部代表组成的代表团，会见了卡塔尔首相，并与调解人进行了会谈。"
         },
         {
-          "en": "He said the CPC has remained committed to pursuing truth and keeping to the right direction, staying deeply rooted among the people and courageously {{16}} its historic missions while maintaining strategic {{17}}. The Party has also followed the trends of development to remain at the forefront of the times, demonstrated the courage and ability to struggle while maintaining confidence in victory, and strengthened itself through constant self-improvement to remain vibrant, he said. To fulfill the Party's missions in the new era and on the new journey, the entire Party must uphold its basic theory, basic line and basic policy to \"remain {{18}} by passing clouds and stay on course through wind and waves\", Xi said. Stressing that the Party must rely closely on the people to create new historical feats, Xi urged Party members to \"further {{19}} the enterprising spirit for getting things done\". He also called on the entire Party to actively respond to risks and challenges on the path ahead.",
-          "cn": "习近平表示，中共始终坚持追求真理、坚守正确方向，深深扎根于人民，勇于肩负历史使命，同时保持战略主动。他说，党还顺应发展潮流，始终走在时代前列；展现出斗争的勇气和能力，同时保持必胜信念；通过不断自我完善来增强自身活力，保持蓬勃生机。习近平强调，为完成新时代新征程上的党的使命，全党必须坚持党的基本理论、基本路线和基本方略，“不畏浮云遮望眼，乱云飞渡仍从容”。他强调党必须紧密依靠人民创造新的历史伟业，并敦促党员“进一步提振干事创业的精气神”。他还呼吁全党积极应对前进道路上的风险挑战。"
+          "en": "Iran has stated publicly that its priorities include agreeing on management of the strait and the release of $6 billion in Iranian frozen assets, and the Iranian official said the current round of discussions would focus on those two issues. The stated priority of the US is to ensure the free flow of traffic through the strait, the source with knowledge of the talks said. Iran's state media said on Wednesday a foreign container ship had {{19}} in the Strait of Hormuz after entering shallow waters outside the shipping route {{20}} by Iranian authorities. \"Hormuz continues to reopen, but it's {{21}}, {{22}} and not fully {{23}},\" said Vandana Hari, founder of oil market analysis provider Vanda Insights. The war triggered Iranian attacks on Gulf states hosting US military bases and killed thousands of people, mainly in Iran and Lebanon, as well as pushing up oil and fuel prices.",
+          "cn": "伊朗已公开表示，其优先事项包括就海峡管理达成一致以及解冻60亿美元的伊朗冻结资产，伊朗官员表示，本轮讨论将聚焦这两个问题。了解谈判情况的消息人士称，美国公开的优先事项是确保海峡交通自由流通。伊朗官方媒体周三称，一艘外国集装箱船在霍尔木兹海峡搁浅，原因是驶入了伊朗当局指定的航道外的浅水区。“霍尔木兹海峡继续重新开放，但情况不均衡、不可预测且不完全透明，”石油市场分析提供商Vanda Insights的创始人万达娜·哈里表示。这场战争引发了伊朗对拥有美国军事基地的海湾国家的袭击，导致数千人死亡（主要在伊朗和黎巴嫩），并推高了石油和燃料价格。"
         },
         {
-          "en": "\"China's development is now in a period where strategic opportunities coexist with risks and challenges, and where uncertain and unpredictable factors are on the rise. We must always be prepared to withstand major tests of high winds and raging waves, and even violent storms,\" he said. As profound changes unseen in a century accelerate, the world has entered a new period of {{20}} and transformation, with humanity once again standing at a crossroads of choice, Xi said. \"We must continuously promote the building of a community with a shared future for humanity,\" he said. Xi also stressed advancing full and rigorous Party self-governance and making sustained efforts to win \"the tough, {{21}} and all-out battle against corruption\".",
-          "cn": "习近平说：“我国发展进入战略机遇和风险挑战并存、不确定难预料因素增多的时期。我们必须时刻准备经受风高浪急甚至惊涛骇浪的重大考验。”他表示，百年未有之大变局加速演进，世界进入新的动荡变革期，人类再次站在抉择的十字路口。习近平说：“我们必须不断推动构建人类命运共同体。”他还强调要推进全面从严治党，持续努力打赢“反腐败斗争攻坚战持久战”。"
+          "en": "Trump faces domestic pressure to contain the economic {{24}} from the war before midterm elections in November, as well as criticism from his own party that the interim deal leaves US objectives unmet. In Iran, the theocratic leadership survived the war but faces domestic anger over a {{25}} economy. Oil prices fell around 1% on Wednesday, with US West Texas Intermediate crude reaching its lowest since February 27 – a day before the war's outbreak – at $69.12 a barrel. The interim deal between the US and Iran also provides for an end to a parallel conflict between Israel and Hezbollah in Lebanon. The US has backed a separate track of talks between Israel and Lebanon's government, which produced a {{26}} security deal that Hezbollah has dismissed and analysts warn could entrench Israel's occupation of Lebanon's south.",
+          "cn": "特朗普面临国内压力，需要在11月中期选举前控制战争的经济后果，同时还要面对本党派的批评，认为临时协议未能实现美国的目标。在伊朗，神权领导层在战争中幸存，但面临国内对经济崩溃的愤怒。周三油价下跌约1%，美国西德克萨斯中质原油跌至2月27日（战争爆发前一天）以来的最低点，每桶69.12美元。美伊临时协议还规定结束以色列与黎巴嫩真主党之间的平行冲突。美国支持以色列与黎巴嫩政府之间的另一轨谈判，该谈判产生了一项框架安全协议，但真主党予以否认，分析人士警告称，该协议可能巩固以色列对黎巴嫩南部的占领。"
         },
         {
-          "en": "\"It is imperative that all of us in the Party never forget our original aspiration and founding mission, that we always stay modest, prudent and hardworking, and that we have the courage and ability to carry on our fight,\" he added. Xi also stressed upholding the Party's absolute leadership over the people's armed forces. He called for efforts to achieve the goals for the centenary of the People's Liberation Army in 2027 and accelerate the development of the people's armed forces into a world-class military. Xi said that promoting the long-term prosperity and stability of the Hong Kong and Macao special administrative regions is essential to realizing national rejuvenation. On the Taiwan question, Xi reiterated that resolving the question and realizing China's complete reunification remain an unwavering historic mission of the Party and a shared aspiration of all Chinese people.",
-          "cn": "习近平补充说：“全党同志务必不忘初心、牢记使命，务必谦虚谨慎、艰苦奋斗，务必敢于斗争、善于斗争。”他还强调要坚持党对人民军队的绝对领导。他呼吁为实现2027年建军一百年奋斗目标而努力，并加快把人民军队建成世界一流军队。习近平表示，促进香港、澳门特别行政区长期繁荣稳定，是实现民族复兴的必然要求。在台湾问题上，习近平重申，解决台湾问题、实现祖国完全统一，是党矢志不渝的历史任务，是全体中华儿女的共同愿望。"
-        },
-        {
-          "en": "He also urged young people to shoulder the responsibilities of their time and run their leg of the historic relay toward national rejuvenation.",
-          "cn": "他还鼓励年轻人肩负起时代责任，跑好实现民族复兴的历史接力赛。"
+          "en": "There had been intensive diplomatic activity on Lebanon between parties, including the US, up to Tuesday evening, the source with knowledge of the talks said.",
+          "cn": "了解谈判情况的消息人士称，截至周二晚，各方（包括美国）在黎巴嫩问题上进行了密集的外交活动。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "striving",
-          "hint": "v. 奋斗",
+          "answer": "indirect",
+          "hint": "adj. 间接的",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "rejuvenation",
-          "hint": "n. 复兴",
-          "difficulty": "hard"
+          "answer": "technical",
+          "hint": "adj. 技术的",
+          "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "accomplishments",
-          "hint": "n. 成就",
+          "answer": "ceasefire",
+          "hint": "n. 停火",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "complacent",
-          "hint": "adj. 自满的",
+          "answer": "interim",
+          "hint": "adj. 临时的",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "underscored",
-          "hint": "v. 强调",
+          "answer": "accord",
+          "hint": "n. 协议",
           "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "modernization",
-          "hint": "n. 现代化",
-          "difficulty": "easy"
+          "answer": "halt",
+          "hint": "v. 停止",
+          "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "plagued",
-          "hint": "v. 困扰",
-          "difficulty": "hard"
+          "answer": "negotiations",
+          "hint": "n. 谈判",
+          "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "humiliation",
-          "hint": "n. 屈辱",
+          "answer": "sparred",
+          "hint": "v. 争执",
           "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "tremendous",
-          "hint": "adj. 巨大的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "unremitting",
-          "hint": "adj. 不懈的",
+          "answer": "tit-for-tat",
+          "hint": "adj. 针锋相对的",
           "difficulty": "hard"
         },
         {
-          "id": 10,
-          "answer": "epic",
-          "hint": "n. 史诗",
+          "id": 9,
+          "answer": "recognition",
+          "hint": "n. 认可",
           "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "levy",
+          "hint": "v. 征收",
+          "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "transformed",
-          "hint": "v. 改变",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "destiny",
-          "hint": "n. 命运",
+          "answer": "resumed",
+          "hint": "v. 恢复",
           "difficulty": "medium"
         },
         {
+          "id": 12,
+          "answer": "denuclearization",
+          "hint": "n. 无核化",
+          "difficulty": "hard"
+        },
+        {
           "id": 13,
-          "answer": "vitality",
-          "hint": "n. 生命力",
+          "answer": "priority",
+          "hint": "n. 优先事项",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "profoundly",
-          "hint": "adv. 深刻地",
-          "difficulty": "medium"
+          "answer": "mediated",
+          "hint": "v. 斡旋",
+          "difficulty": "hard"
         },
         {
           "id": 15,
-          "answer": "qualities",
-          "hint": "n. 品质",
-          "difficulty": "easy"
+          "answer": "specialists",
+          "hint": "n. 专家",
+          "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "shouldering",
-          "hint": "v. 承担",
+          "answer": "delegation",
+          "hint": "n. 代表团",
           "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "initiative",
-          "hint": "n. 主动权",
+          "answer": "representatives",
+          "hint": "n. 代表",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "undaunted",
-          "hint": "adj. 无畏的",
-          "difficulty": "hard"
+          "answer": "assets",
+          "hint": "n. 资产",
+          "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "reinvigorate",
-          "hint": "v. 重振",
+          "answer": "run aground",
+          "hint": "v. 搁浅",
           "difficulty": "hard"
         },
         {
           "id": 20,
-          "answer": "turbulence",
-          "hint": "n. 动荡",
+          "answer": "designated",
+          "hint": "adj. 指定的",
           "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "protracted",
-          "hint": "adj. 持久的",
+          "answer": "patchy",
+          "hint": "adj. 不均衡的",
           "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "unpredictable",
+          "hint": "adj. 不可预测的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "transparent",
+          "hint": "adj. 透明的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "fallout",
+          "hint": "n. 后果",
+          "difficulty": "hard"
+        },
+        {
+          "id": 25,
+          "answer": "shattered",
+          "hint": "adj. 崩溃的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "framework",
+          "hint": "n. 框架",
+          "difficulty": "medium"
         }
       ],
-      "fullText": "Xi Jinping, general secretary of the Communist Party of China Central Committee, called on the Party not to rest on its past achievements, but to continue striving toward national rejuvenation and new historic accomplishments, at a grand gathering marking the 105th anniversary of the founding of the CPC on Wednesday in Beijing.\nThe CPC's 105-year history is a source of pride, but the Party must never become complacent or stop moving forward, Xi said.\nHe underscored the importance of meeting the goal of fully realizing socialist modernization by the middle of the century.\n\"Time stops for no one, and neither does history,\" he said.\nXi, who is also Chinese president and chairman of the Central Military Commission, made the remarks while addressing an audience of around 3,000 at the Great Hall of the People in Beijing.\nFounded in 1921 against the backdrop of a weak China plagued by foreign humiliation and poverty, the CPC has grown from a small group of just over 50 members into the world's largest governing party, with nearly 101.29 million members and tremendous global influence.\nXi said that over the past 105 years, the CPC has remained true to its founding mission of seeking happiness for the Chinese people and rejuvenation for the Chinese nation, achieving historic accomplishments through unremitting struggle. The Party has led the Chinese people of all ethnic groups in writing the most magnificent epic in the nation's history, he said.\nThe CPC's 105 years of unremitting endeavor have fundamentally transformed the future and destiny of the Chinese people, opened up the right path toward national rejuvenation, demonstrated the strong vitality of Marxism, profoundly influenced the course of world history and forged a strong CPC, Xi said.\nAccording to Xi, the fundamental reason that the CPC has continued to achieve remarkable success over the past 105 years, and why it has been chosen by history and the people, lies in its fine qualities with no parallel among other political parties and political forces.\nHe said the CPC has remained committed to pursuing truth and keeping to the right direction, staying deeply rooted among the people and courageously shouldering its historic missions while maintaining strategic initiative.\nThe Party has also followed the trends of development to remain at the forefront of the times, demonstrated the courage and ability to struggle while maintaining confidence in victory, and strengthened itself through constant self-improvement to remain vibrant, he said.\nTo fulfill the Party's missions in the new era and on the new journey, the entire Party must uphold its basic theory, basic line and basic policy to \"remain undaunted by passing clouds and stay on course through wind and waves\", Xi said.\nStressing that the Party must rely closely on the people to create new historical feats, Xi urged Party members to \"further reinvigorate the enterprising spirit for getting things done\".\nHe also called on the entire Party to actively respond to risks and challenges on the path ahead.\n\"China's development is now in a period where strategic opportunities coexist with risks and challenges, and where uncertain and unpredictable factors are on the rise. We must always be prepared to withstand major tests of high winds and raging waves, and even violent storms,\" he said.\nAs profound changes unseen in a century accelerate, the world has entered a new period of turbulence and transformation, with humanity once again standing at a crossroads of choice, Xi said.\n\"We must continuously promote the building of a community with a shared future for humanity,\" he said.\nXi also stressed advancing full and rigorous Party self-governance and making sustained efforts to win \"the tough, protracted and all-out battle against corruption\".\n\"It is imperative that all of us in the Party never forget our original aspiration and founding mission, that we always stay modest, prudent and hardworking, and that we have the courage and ability to carry on our fight,\" he added.\nXi also stressed upholding the Party's absolute leadership over the people's armed forces.\nHe called for efforts to achieve the goals for the centenary of the People's Liberation Army in 2027 and accelerate the development of the people's armed forces into a world-class military.\nXi said that promoting the long-term prosperity and stability of the Hong Kong and Macao special administrative regions is essential to realizing national rejuvenation.\nOn the Taiwan question, Xi reiterated that resolving the question and realizing China's complete reunification remain an unwavering historic mission of the Party and a shared aspiration of all Chinese people.\nHe also urged young people to shoulder the responsibilities of their time and run their leg of the historic relay toward national rejuvenation.",
-      "fullTextCn": "周三，中共中央总书记习近平在北京举行的庆祝中国共产党成立105周年大会上呼吁，党不能躺在过去的功劳簿上，而应继续为实现民族复兴和新的历史成就而奋斗。习近平表示，中共的105年历史值得骄傲，但党绝不能自满或停止前进。他强调，到本世纪中叶全面实现社会主义现代化这一目标的重要性。他说：“时间不等人，历史不等人。”习近平还担任国家主席和中央军委主席，他在北京人民大会堂向约3000名听众发表了上述讲话。\n\n中共成立于1921年，当时中国积贫积弱、备受外辱。如今，它已从最初只有50多名党员的小党，发展成为拥有近1.0129亿党员、具有巨大全球影响力的世界最大执政党。习近平表示，105年来，中共始终坚守为中国人民谋幸福、为中华民族谋复兴的初心使命，通过不懈奋斗取得了历史性成就。他说，党领导全国各族人民书写了中华民族历史上最壮丽的史诗。习近平指出，中共105年的不懈奋斗，从根本上改变了中国人民的前途命运，开辟了实现民族复兴的正确道路，展现了马克思主义的强大生命力，深刻影响了世界历史进程，锻造了坚强有力的中共。习近平认为，中共在过去105年里不断取得显著成功、被历史和人民选择的根本原因，在于其其他政党和政治力量无法比拟的优良品质。\n\n习近平表示，中共始终坚持追求真理、坚守正确方向，深深扎根于人民，勇于肩负历史使命，同时保持战略主动。他说，党还顺应发展潮流，始终走在时代前列；展现出斗争的勇气和能力，同时保持必胜信念；通过不断自我完善来增强自身活力，保持蓬勃生机。习近平强调，为完成新时代新征程上的党的使命，全党必须坚持党的基本理论、基本路线和基本方略，“不畏浮云遮望眼，乱云飞渡仍从容”。他强调党必须紧密依靠人民创造新的历史伟业，并敦促党员“进一步提振干事创业的精气神”。他还呼吁全党积极应对前进道路上的风险挑战。\n\n习近平说：“我国发展进入战略机遇和风险挑战并存、不确定难预料因素增多的时期。我们必须时刻准备经受风高浪急甚至惊涛骇浪的重大考验。”他表示，百年未有之大变局加速演进，世界进入新的动荡变革期，人类再次站在抉择的十字路口。习近平说：“我们必须不断推动构建人类命运共同体。”他还强调要推进全面从严治党，持续努力打赢“反腐败斗争攻坚战持久战”。\n\n习近平补充说：“全党同志务必不忘初心、牢记使命，务必谦虚谨慎、艰苦奋斗，务必敢于斗争、善于斗争。”他还强调要坚持党对人民军队的绝对领导。他呼吁为实现2027年建军一百年奋斗目标而努力，并加快把人民军队建成世界一流军队。习近平表示，促进香港、澳门特别行政区长期繁荣稳定，是实现民族复兴的必然要求。在台湾问题上，习近平重申，解决台湾问题、实现祖国完全统一，是党矢志不渝的历史任务，是全体中华儿女的共同愿望。\n\n他还鼓励年轻人肩负起时代责任，跑好实现民族复兴的历史接力赛。"
+      "fullText": "The US and Iran held indirect technical talks in Doha on Wednesday as they seek to agree on the flow of shipping through the Strait of Hormuz and secure a lasting ceasefire, a source with direct knowledge of the talks and an Iranian official said.\nThe talks are based on a 14-point interim accord signed last month that was meant to halt the war that began with US-Israeli strikes on Iran in February and reopen the strait while setting up 60 days of negotiations for a permanent peace deal.\nHowever, the US and Iran have sparred publicly over the meaning of the interim pact, leading to tit-for-tat military strikes over the past week and leaving little sign of progress on more complex issues, including on Iran's nuclear program.\nIran is determined to win international recognition of its control over the strait and its ability to levy fees on ships entering or leaving the Gulf, even if it has to do so by force, according to two senior Iranian sources.\nTraffic has partially resumed through the waterway, which handled one-fifth of global oil and liquefied natural gas trade before the war.\nUS President Donald Trump, who has said removing Iran's highly enriched uranium is a top priority, told reporters on Wednesday that \"the denuclearization of Iran is moving along well,\" without giving details.\n\"They've had very good meetings, and we'll see,\" he said of the talks in Doha, where there was no evidence the nuclear issue had yet been discussed.\nFocus on Hormuz, frozen assets\nThe indirect talks, mediated by Qatar and Pakistan, began on Tuesday night and were continuing on Wednesday, the Iranian official said.\nThey are structured as sessions between chief negotiators and specialists, the source with knowledge of the talks said, adding that Trump's son-in-law Jared Kushner and envoy Steve Witkoff met Qatar's prime minister to lay groundwork for the talks but would not be attending.\nIran's Deputy Foreign Minister Kazem Gharibabadi headed a delegation of representatives from Iran's Foreign Ministry, central bank and Agriculture Ministry, meeting Qatar's prime minister and holding talks with mediators.\nIran has stated publicly that its priorities include agreeing on management of the strait and the release of $6 billion in Iranian frozen assets, and the Iranian official said the current round of discussions would focus on those two issues.\nThe stated priority of the US is to ensure the free flow of traffic through the strait, the source with knowledge of the talks said.\nIran's state media said on Wednesday a foreign container ship had run aground in the Strait of Hormuz after entering shallow waters outside the shipping route designated by Iranian authorities.\n\"Hormuz continues to reopen, but it's patchy, unpredictable and not fully transparent,\" said Vandana Hari, founder of oil market analysis provider Vanda Insights.\nThe war triggered Iranian attacks on Gulf states hosting US military bases and killed thousands of people, mainly in Iran and Lebanon, as well as pushing up oil and fuel prices.\nTrump faces domestic pressure to contain the economic fallout from the war before midterm elections in November, as well as criticism from his own party that the interim deal leaves US objectives unmet.\nIn Iran, the theocratic leadership survived the war but faces domestic anger over a shattered economy.\nOil prices fell around 1% on Wednesday, with US West Texas Intermediate crude reaching its lowest since February 27 – a day before the war's outbreak – at $69.12 a barrel.\nThe interim deal between the US and Iran also provides for an end to a parallel conflict between Israel and Hezbollah in Lebanon.\nThe US has backed a separate track of talks between Israel and Lebanon's government, which produced a framework security deal that Hezbollah has dismissed and analysts warn could entrench Israel's occupation of Lebanon's south.\nThere had been intensive diplomatic activity on Lebanon between parties, including the US, up to Tuesday evening, the source with knowledge of the talks said.",
+      "fullTextCn": "美国和伊朗周三在卡塔尔多哈举行了间接技术谈判，一位直接了解谈判情况的消息人士和一名伊朗官员表示，双方正寻求就霍尔木兹海峡的航运流通达成一致，并确保持久停火。这些谈判基于上月签署的一份14点临时协议，该协议旨在停止始于2月美以对伊朗空袭的战争，重新开放海峡，同时为达成永久和平协议设立60天的谈判期。然而，美国和伊朗就临时协议的含义公开争执，导致过去一周发生针锋相对的军事打击，在更复杂的问题上（包括伊朗核计划）几乎没有进展迹象。据两名伊朗高级消息人士称，伊朗决心赢得国际社会对其控制海峡以及向进出海湾船只征收通行费能力的认可，即使不得不通过武力实现。这条水道在战前处理了全球五分之一的石油和液化天然气贸易，目前交通已部分恢复。\n\n美国总统唐纳德·特朗普曾表示，移除伊朗高浓缩铀是首要任务，他周三对记者称“伊朗无核化进展顺利”，但没有提供细节。他在谈到多哈谈判时说：“他们进行了非常好的会晤，我们会拭目以待。”目前没有证据表明核问题已在谈判中讨论。焦点在霍尔木兹海峡和冻结资产。伊朗官员表示，由卡塔尔和巴基斯坦斡旋的间接谈判于周二晚开始，周三继续进行。了解谈判情况的消息人士称，谈判以首席谈判代表和专家之间的会议形式进行，并补充说特朗普的女婿贾里德·库什纳和特使史蒂夫·维特科夫会见了卡塔尔首相，为谈判奠定基础，但不会出席。伊朗副外长卡齐姆·加里巴巴迪率领一个由伊朗外交部、中央银行和农业部代表组成的代表团，会见了卡塔尔首相，并与调解人进行了会谈。\n\n伊朗已公开表示，其优先事项包括就海峡管理达成一致以及解冻60亿美元的伊朗冻结资产，伊朗官员表示，本轮讨论将聚焦这两个问题。了解谈判情况的消息人士称，美国公开的优先事项是确保海峡交通自由流通。伊朗官方媒体周三称，一艘外国集装箱船在霍尔木兹海峡搁浅，原因是驶入了伊朗当局指定的航道外的浅水区。“霍尔木兹海峡继续重新开放，但情况不均衡、不可预测且不完全透明，”石油市场分析提供商Vanda Insights的创始人万达娜·哈里表示。这场战争引发了伊朗对拥有美国军事基地的海湾国家的袭击，导致数千人死亡（主要在伊朗和黎巴嫩），并推高了石油和燃料价格。\n\n特朗普面临国内压力，需要在11月中期选举前控制战争的经济后果，同时还要面对本党派的批评，认为临时协议未能实现美国的目标。在伊朗，神权领导层在战争中幸存，但面临国内对经济崩溃的愤怒。周三油价下跌约1%，美国西德克萨斯中质原油跌至2月27日（战争爆发前一天）以来的最低点，每桶69.12美元。美伊临时协议还规定结束以色列与黎巴嫩真主党之间的平行冲突。美国支持以色列与黎巴嫩政府之间的另一轨谈判，该谈判产生了一项框架安全协议，但真主党予以否认，分析人士警告称，该协议可能巩固以色列对黎巴嫩南部的占领。\n\n了解谈判情况的消息人士称，截至周二晚，各方（包括美国）在黎巴嫩问题上进行了密集的外交活动。"
     },
     {
-      "id": 3,
+      "id": 4,
       "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-30/How-Chinese-companies-are-designing-for-European-consumers-1OoFnYS2Oqs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "How Chinese companies are designing for European consumers",
-      "titleCn": "中国企业如何为欧洲消费者设计产品",
-      "summary": "How Chinese companies are designing for European consumers",
-      "summaryCn": "中国企业正从单纯出口转向针对欧洲消费者习惯和需求进行本地化设计，以提升竞争力。",
-      "wordCount": 665,
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-29/How-Europe-s-heatwave-is-driving-demand-for-cooling-technology-1OmDdWzGHSw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "How Europe's heatwave is driving demand for cooling technology",
+      "titleCn": "欧洲热浪如何推动冷却技术需求",
+      "summary": "How Europe's heatwave is driving demand for cooling technology",
+      "summaryCn": "欧洲持续热浪暴露了建筑冷却能力不足，推动了便携式空调等创新冷却技术的需求增长。",
+      "wordCount": 545,
       "paragraphs": [
         {
-          "en": "Across China, factories are increasing production of items ranging from umbrellas and {{11}} fans to household ice makers. But for many manufacturers, meeting rising demand is no longer the only priority. More companies are {{23}} their focus beyond simply exporting products, placing greater emphasis on {{0}} designs to local consumer habits and lifestyles. At Midea's manufacturing base in Foshan, south China's Guangdong Province, engineers are presenting a portable split air conditioner designed specifically to meet the needs of European consumers. An animated image of the mobile split air conditioner.",
-          "cn": "在中国各地，工厂正在增加从雨伞、便携风扇到家用制冰机等各种产品的产量。但对许多制造商来说，满足日益增长的需求不再是唯一优先事项。越来越多的公司正将重心从单纯出口产品转移，更加注重根据当地消费者的习惯和生活方式来定制设计。在位于中国南方广东省佛山市的美的制造基地，工程师们正在展示一款专门为满足欧洲消费者需求而设计的便携式分体空调。这是一款移动分体空调的动画图像。"
+          "en": "A {{0}} heatwave holds a steady {{1}} over Europe, pushing temperatures above 40 degrees Celsius in several countries, breaking national {{2}}, and placing millions of people under extreme heat {{3}}. According to AFP, more than 190 million Europeans are expected to experience temperatures above 35 degrees Celsius, while around 381 million are {{4}} to see temperatures exceed 30 degrees Celsius. Scientists say Europe, the world's fastest-warming continent, is experiencing increasingly frequent and {{5}} heatwaves as the climate warms. The {{6}} temperatures are {{7}} more than a public health emergency. They are also revealing a challenge {{8}} in Europe's built environment – much of the continent's housing was designed for a cooler climate, where air conditioning has long been considered unnecessary rather than {{9}}. A worker services an air-conditioning unit outside a restaurant during a heatwave in Toulouse, France, June 24, 2026.",
+          "cn": "一场持续的热浪牢牢笼罩欧洲，使多个国家气温超过40摄氏度，打破国家纪录，并将数百万人置于极端高温警告之下。据法新社报道，预计超过1.9亿欧洲人将经历35摄氏度以上的高温，而约3.81亿人预计将面临超过30摄氏度的气温。科学家表示，作为全球变暖最快的大陆，欧洲正经历着日益频繁和强烈的热浪，随着气候变暖。灼热的气温不仅暴露了公共卫生紧急状况，还揭示了欧洲建筑环境中的一个挑战——该大陆大部分住房是为较冷气候设计的，长期以来空调被认为非必需而非必要。一名工人在法国图卢兹一家餐厅外维修空调机组，摄于2026年6月24日。"
         },
         {
-          "en": "/Midea\nUnlike {{1}} split air conditioners, the unit does not require professional {{2}}. The outdoor module weighs just 10 kilograms and can be mounted on a windowsill without drilling through walls, making it particularly suitable for renters and older buildings where exterior modifications are {{4}}. \"In Europe, the rental rate is relatively high, and people want products that can be installed and removed easily,\" said Xiong Xueqin, sales director for Midea's Europe RAC business. \"Compared with traditional portable air conditioners, this model is more energy {{5}}, quieter, and helps lower electricity costs. Those are the {{6}} European consumers value most.\"\nProduction lines of ice maker are seen.",
-          "cn": "与传统的分体空调不同，这款设备不需要专业安装。室外机仅重10公斤，可以安装在窗台上，无需在墙上钻孔，因此特别适合租房者和那些外部改造受限的老旧建筑。美的欧洲家用空调业务销售总监熊雪琴表示：“在欧洲，租房率相对较高，人们希望产品易于安装和拆卸。与传统的便携式空调相比，这款型号更节能、更安静，并有助于降低电费。这些正是欧洲消费者最看重的特点。”"
+          "en": "According to the International Energy Agency, only about 20% of European households have air conditioning. Many apartments and historic buildings cannot easily {{10}} {{11}} split air conditioners because {{12}} often requires drilling through exterior walls, while {{13}} rules, high labor costs, and long waiting times further complicate installation. Reuters reported that in some European countries, installation alone can cost more than 1,000 euros. Those {{14}} have created an opportunity for cooling technologies that require fewer {{15}} to buildings. Among the products drawing attention are {{16}} split air conditioners, which {{17}} the cooling performance of conventional split systems with easier installation. Unlike traditional units, they require little or no {{18}} {{19}} to buildings, making them more suitable for older apartments and historic homes.",
+          "cn": "据国际能源署称，只有约20%的欧洲家庭拥有空调。许多公寓和历史建筑难以轻松安装传统分体式空调，因为安装通常需要在外墙上钻孔，而保护规定、高人工成本和长时间等待进一步使安装复杂化。路透社报道，在一些欧洲国家，仅安装费用就可能超过1000欧元。这些限制为需要较少建筑改造的冷却技术创造了机会。引起关注的产品包括便携式分体空调，它们结合了传统分体系统的冷却性能和更简便的安装。与传统机组不同，它们几乎不需要或完全不需要对建筑进行永久性改造，使其更适合老式公寓和历史住宅。"
         },
         {
-          "en": "/CCTV Plus\nFrom local insight to local solutions\nThe product highlights a broader shift in the way Chinese manufacturers are approaching overseas markets. Instead of simply modifying an existing model, Midea's development team started by {{7}} the {{8}} challenges faced by European consumers: high installation costs, {{9}} of installers during the peak summer season, restrictions on adding outdoor units to many historic buildings, and a growing number of renters seeking more {{10}} and portable solutions. To address those needs, engineers in China worked with an industrial design team in Italy over a three-year development cycle. \"We start by identifying the needs of local consumers,\" said Zhao Ali, Europe product manager at Midea RAC Overseas. \"Once we identify a specific problem, we bring together a dedicated project team, working closely with our R&D teams in China and our industrial design team in Italy.",
-          "cn": "从本地洞察到本地解决方案\n这款产品凸显了中国制造商进军海外市场方式的更广泛转变。美的开发团队并非简单修改现有型号，而是从识别欧洲消费者面临的具体挑战入手：高昂的安装成本、夏季旺季安装工人短缺、许多历史建筑对安装室外机的限制，以及越来越多的租房者寻求更灵活、便携的解决方案。为了满足这些需求，中国的工程师与意大利的工业设计团队合作，经过三年的开发周期。美的家用空调海外欧洲产品经理赵阿里表示：“我们从识别当地消费者的需求开始。一旦发现具体问题，我们就组建一个专门的项目团队，与我们在中国的研发团队和意大利的工业设计团队紧密合作。”"
+          "en": "The growing demand has {{20}} manufacturers in Asia. Reuters reported that Samsung Electronics recorded double-digit growth in air conditioner sales in Italy, Spain, and France during the first half of the year. LG Electronics said production lines at one of its South Korean facilities have been operating at full {{21}} since April, while Japan's Mitsubishi Electric also reported strong sales in France, Spain, the United Kingdom, and Germany. A girl cools off in the Miroir d'Eau reflecting pool during a heatwave in Bordeaux, France, June 23, 2026. Chinese manufacturers have also seen rising demand, particularly for products designed to overcome Europe's installation challenges. Reuters reported that Midea's PortaSplit portable split air conditioner sold out through some sales channels after a late-May heatwave.",
+          "cn": "日益增长的需求使亚洲制造商受益。路透社报道，三星电子今年上半年在意大利、西班牙和法国的空调销售额实现了两位数增长。LG电子表示，其韩国一家工厂的生产线自4月以来一直满负荷运转，而日本三菱电机也报告在法国、西班牙、英国和德国销售强劲。一名女孩在法国波尔多的水镜池中降温，摄于2026年6月23日。中国制造商也看到了需求上升，特别是针对克服欧洲安装难题的产品。路透社报道，美的的PortaSplit便携式分体空调在5月底热浪后通过某些销售渠道售罄。"
         },
         {
-          "en": "It has become a successful example of turning local insights into locally {{12}} products.\"\nThe {{13}} appears to be paying off. Sales of the model in Europe have more than doubled this year, reaching around 200,000 units, according to the company. The same approach is {{14}} across China's consumer goods sector. Various kinds of handheld fans are seen at stores in Yiwu International Trade Market, east China's Zhejiang Province. /CCTV Plus\nIn Yiwu, east China's Zhejiang Province, vendors say overseas demand for portable cooling products has risen as Europe experiences another unusually hot summer.",
-          "cn": "这已成为将本地洞察转化为本地相关产品的成功范例。”\n这一策略似乎正在奏效。据该公司称，该型号在欧洲的销量今年已翻了一番多，达到约20万台。同样的方法正在中国消费品行业兴起。在中国东部浙江省义乌国际商贸城的商店里，可以看到各种手持风扇。\n在浙江省东部的义乌，商家表示，随着欧洲再次经历异常炎热的夏季，便携式冷却产品的海外需求有所上升。"
-        },
-        {
-          "en": "Exports of portable ice makers have also {{15}}, with a Ningbo-based manufacturer reporting that shipments to Europe increased by more than 70 percent during the first five months of this year. Chinese companies are also developing products {{16}} to the needs of entirely different markets. Manufacturers in Guangdong Province, for example, have introduced {{17}} portable fans that combine cooling features with LED lighting and Bluetooth speakers, targeting outdoor and camping lifestyles in Latin America. According to Liu Zhijie, director of the International Cooperation Department at the China Development Institute, these products reflect a broader {{18}} taking place across China's manufacturing sector. \"It's about technological {{19}},\" Liu told CGTN.",
-          "cn": "便携式制冰机的出口也大幅增长，一家宁波制造商报告称，今年前五个月对欧洲的发货量增长了70%以上。中国企业还在开发针对完全不同市场需求的产品。例如，广东省的制造商推出了多功能便携风扇，将冷却功能与LED照明和蓝牙音箱相结合，瞄准拉丁美洲的户外和露营生活方式。中国发展研究院国际合作部主任刘志杰表示，这些产品反映了中国制造业正在发生的更广泛转型。刘志杰告诉CGTN：“这关乎技术创新。”"
-        },
-        {
-          "en": "\"We've long moved beyond the traditional OEM model. Chinese companies are now able to bring {{20}} developed products to market much faster, driven by consumer demand.\"\nContainers are lined up at land ports. /CCTV Plus\nThe {{21}} China-Europe freight train network has also enabled manufacturers to {{22}} more rapidly to shifting market demand, with some shipments reaching Europe in as little as 15 days, roughly 25 days faster than traditional sea transport. As Europe's summer season gradually transitions into the colder months, production lines are already gearing up for the next wave of orders. For Chinese manufacturers, global {{25}} is increasingly being shaped not by the scale of production, but by the ability to understand and meet the specific needs of the markets they serve.",
-          "cn": "“我们早已超越了传统的代工模式。在消费者需求的驱动下，中国企业现在能够更快地将自主研发的产品推向市场。”\n陆港码头上排列着集装箱。\n不断扩大的中欧班列网络也使制造商能够更迅速地应对不断变化的市场需求，一些货物在短短15天内就能到达欧洲，比传统海运快约25天。随着欧洲夏季逐渐过渡到较冷的月份，生产线已开始为下一波订单做准备。对中国制造商而言，全球竞争日益不再由生产规模决定，而是取决于理解和满足所服务市场特定需求的能力。"
+          "en": "The company said sales through German e-commerce platforms increased by about 37% year on year in May, while shipments to Spain and France climbed by 108%. Chinese financial news outlet Yicai reported that manufacturers, including Midea and Gree, {{22}} the growing popularity of portable air conditioners to Western Europe's high installation costs, long waiting times, and older housing stock. Those factors have made portable systems a more {{23}} option for many households during this summer's heatwave. The trend is reflected in trade data. According to Yicai, China's exports of portable air conditioners to Western Europe {{24}} by more than 70% year on year in the first five months of 2026, while exports of electric fans also rose across major European markets. While the current heatwave has {{25}} demand for cooling products, it has also {{26}} a broader challenge – as hotter summers become more frequent, technologies that are {{27}} with Europe's older housing stock and {{28}} are becoming increasingly important.",
+          "cn": "该公司表示，5月通过德国电商平台的销售额同比增长约37%，而对西班牙和法国的出货量增长了108%。中国财经媒体《第一财经》报道，包括美的和格力在内的制造商将便携式空调日益受欢迎归因于西欧的高安装成本、长时间等待和老旧住房存量。这些因素使便携式系统在今年夏季热浪中成为许多家庭更实用的选择。这一趋势反映在贸易数据中。据《第一财经》报道，2026年前五个月，中国对西欧的便携式空调出口同比增长超过70%，而电风扇出口也在欧洲主要市场上升。虽然当前热浪推动了冷却产品需求，但它也凸显了一个更广泛的挑战——随着更炎热的夏季变得更加频繁，与欧洲老旧住房存量和基础设施兼容的技术正变得越来越重要。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "tailoring",
-          "hint": "v. 定制",
+          "answer": "prolonged",
+          "hint": "adj. 持续的",
           "difficulty": "medium"
         },
         {
           "id": 1,
+          "answer": "grip",
+          "hint": "n. 控制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "records",
+          "hint": "n. 记录",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "warnings",
+          "hint": "n. 警告",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "forecast",
+          "hint": "v. 预测",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "intense",
+          "hint": "adj. 强烈的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "scorching",
+          "hint": "adj. 灼热的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "exposing",
+          "hint": "v. 暴露",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "embedded",
+          "hint": "adj. 嵌入的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "essential",
+          "hint": "adj. 必要的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "accommodate",
+          "hint": "v. 容纳",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
           "answer": "conventional",
           "hint": "adj. 传统的",
           "difficulty": "medium"
         },
         {
-          "id": 2,
+          "id": 12,
           "answer": "installation",
           "hint": "n. 安装",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "restricted",
-          "hint": "adj. 受限制的",
           "difficulty": "medium"
         },
         {
-          "id": 4,
-          "answer": "efficient",
-          "hint": "adj. 高效的",
-          "difficulty": "easy"
+          "id": 13,
+          "answer": "preservation",
+          "hint": "n. 保护",
+          "difficulty": "hard"
         },
         {
-          "id": 5,
-          "answer": "features",
-          "hint": "n. 特点",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "identifying",
-          "hint": "v. 识别",
+          "id": 14,
+          "answer": "constraints",
+          "hint": "n. 限制",
           "difficulty": "medium"
         },
         {
-          "id": 7,
-          "answer": "specific",
-          "hint": "adj. 具体的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "shortages",
-          "hint": "n. 短缺",
+          "id": 15,
+          "answer": "modifications",
+          "hint": "n. 修改",
           "difficulty": "medium"
         },
         {
-          "id": 9,
-          "answer": "flexible",
-          "hint": "adj. 灵活的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
+          "id": 16,
           "answer": "portable",
           "hint": "adj. 便携的",
           "difficulty": "easy"
         },
         {
-          "id": 11,
-          "answer": "relevant",
-          "hint": "adj. 相关的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "strategy",
-          "hint": "n. 策略",
+          "id": 17,
+          "answer": "combine",
+          "hint": "v. 结合",
           "difficulty": "easy"
         },
         {
-          "id": 13,
-          "answer": "emerging",
-          "hint": "v. 出现",
+          "id": 18,
+          "answer": "permanent",
+          "hint": "adj. 永久的",
           "difficulty": "medium"
         },
         {
-          "id": 14,
+          "id": 19,
+          "answer": "alteration",
+          "hint": "n. 改动",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "benefited",
+          "hint": "v. 受益",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "capacity",
+          "hint": "n. 容量",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "attributed",
+          "hint": "v. 归因于",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "practical",
+          "hint": "adj. 实用的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 24,
           "answer": "surged",
           "hint": "v. 激增",
           "difficulty": "medium"
         },
         {
-          "id": 15,
-          "answer": "tailored",
-          "hint": "adj. 定制的",
+          "id": 25,
+          "answer": "fueled",
+          "hint": "v. 推动",
           "difficulty": "medium"
         },
         {
-          "id": 16,
-          "answer": "multifunctional",
-          "hint": "adj. 多功能的",
+          "id": 26,
+          "answer": "underscored",
+          "hint": "v. 强调",
           "difficulty": "hard"
         },
         {
-          "id": 17,
-          "answer": "transformation",
-          "hint": "n. 转型",
+          "id": 27,
+          "answer": "compatible",
+          "hint": "adj. 兼容的",
           "difficulty": "medium"
         },
         {
-          "id": 18,
-          "answer": "innovation",
-          "hint": "n. 创新",
-          "difficulty": "easy"
-        },
-        {
-          "id": 19,
-          "answer": "independently",
-          "hint": "adv. 独立地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
-          "answer": "expanding",
-          "hint": "v. 扩展",
+          "id": 28,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
           "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "respond",
-          "hint": "v. 响应",
-          "difficulty": "easy"
-        },
-        {
-          "id": 22,
-          "answer": "shifting",
-          "hint": "adj. 变化的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "competition",
-          "hint": "n. 竞争",
-          "difficulty": "easy"
         }
       ],
-      "fullText": "Across China, factories are increasing production of items ranging from umbrellas and portable fans to household ice makers. But for many manufacturers, meeting rising demand is no longer the only priority.\nMore companies are shifting their focus beyond simply exporting products, placing greater emphasis on tailoring designs to local consumer habits and lifestyles.\nAt Midea's manufacturing base in Foshan, south China's Guangdong Province, engineers are presenting a portable split air conditioner designed specifically to meet the needs of European consumers.\nAn animated image of the mobile split air conditioner. /Midea\nUnlike conventional split air conditioners, the unit does not require professional installation. The outdoor module weighs just 10 kilograms and can be mounted on a windowsill without drilling through walls, making it particularly suitable for renters and older buildings where exterior modifications are restricted.\n\"In Europe, the rental rate is relatively high, and people want products that can be installed and removed easily,\" said Xiong Xueqin, sales director for Midea's Europe RAC business. \"Compared with traditional portable air conditioners, this model is more energy efficient, quieter, and helps lower electricity costs. Those are the features European consumers value most.\"\nProduction lines of ice maker are seen. /CCTV Plus\nFrom local insight to local solutions\nThe product highlights a broader shift in the way Chinese manufacturers are approaching overseas markets.\nInstead of simply modifying an existing model, Midea's development team started by identifying the specific challenges faced by European consumers: high installation costs, shortages of installers during the peak summer season, restrictions on adding outdoor units to many historic buildings, and a growing number of renters seeking more flexible and portable solutions.\nTo address those needs, engineers in China worked with an industrial design team in Italy over a three-year development cycle.\n\"We start by identifying the needs of local consumers,\" said Zhao Ali, Europe product manager at Midea RAC Overseas. \"Once we identify a specific problem, we bring together a dedicated project team, working closely with our R&D teams in China and our industrial design team in Italy. It has become a successful example of turning local insights into locally relevant products.\"\nThe strategy appears to be paying off. Sales of the model in Europe have more than doubled this year, reaching around 200,000 units, according to the company.\nThe same approach is emerging across China's consumer goods sector.\nVarious kinds of handheld fans are seen at stores in Yiwu International Trade Market, east China's Zhejiang Province. /CCTV Plus\nIn Yiwu, east China's Zhejiang Province, vendors say overseas demand for portable cooling products has risen as Europe experiences another unusually hot summer. Exports of portable ice makers have also surged, with a Ningbo-based manufacturer reporting that shipments to Europe increased by more than 70 percent during the first five months of this year.\nChinese companies are also developing products tailored to the needs of entirely different markets. Manufacturers in Guangdong Province, for example, have introduced multifunctional portable fans that combine cooling features with LED lighting and Bluetooth speakers, targeting outdoor and camping lifestyles in Latin America.\nAccording to Liu Zhijie, director of the International Cooperation Department at the China Development Institute, these products reflect a broader transformation taking place across China's manufacturing sector.\n\"It's about technological innovation,\" Liu told CGTN. \"We've long moved beyond the traditional OEM model. Chinese companies are now able to bring independently developed products to market much faster, driven by consumer demand.\"\nContainers are lined up at land ports. /CCTV Plus\nThe expanding China-Europe freight train network has also enabled manufacturers to respond more rapidly to shifting market demand, with some shipments reaching Europe in as little as 15 days, roughly 25 days faster than traditional sea transport.\nAs Europe's summer season gradually transitions into the colder months, production lines are already gearing up for the next wave of orders.\nFor Chinese manufacturers, global competition is increasingly being shaped not by the scale of production, but by the ability to understand and meet the specific needs of the markets they serve.",
-      "fullTextCn": "在中国各地，工厂正在增加从雨伞、便携风扇到家用制冰机等各种产品的产量。但对许多制造商来说，满足日益增长的需求不再是唯一优先事项。越来越多的公司正将重心从单纯出口产品转移，更加注重根据当地消费者的习惯和生活方式来定制设计。在位于中国南方广东省佛山市的美的制造基地，工程师们正在展示一款专门为满足欧洲消费者需求而设计的便携式分体空调。这是一款移动分体空调的动画图像。\n\n与传统的分体空调不同，这款设备不需要专业安装。室外机仅重10公斤，可以安装在窗台上，无需在墙上钻孔，因此特别适合租房者和那些外部改造受限的老旧建筑。美的欧洲家用空调业务销售总监熊雪琴表示：“在欧洲，租房率相对较高，人们希望产品易于安装和拆卸。与传统的便携式空调相比，这款型号更节能、更安静，并有助于降低电费。这些正是欧洲消费者最看重的特点。”\n\n从本地洞察到本地解决方案\n这款产品凸显了中国制造商进军海外市场方式的更广泛转变。美的开发团队并非简单修改现有型号，而是从识别欧洲消费者面临的具体挑战入手：高昂的安装成本、夏季旺季安装工人短缺、许多历史建筑对安装室外机的限制，以及越来越多的租房者寻求更灵活、便携的解决方案。为了满足这些需求，中国的工程师与意大利的工业设计团队合作，经过三年的开发周期。美的家用空调海外欧洲产品经理赵阿里表示：“我们从识别当地消费者的需求开始。一旦发现具体问题，我们就组建一个专门的项目团队，与我们在中国的研发团队和意大利的工业设计团队紧密合作。”\n\n这已成为将本地洞察转化为本地相关产品的成功范例。”\n这一策略似乎正在奏效。据该公司称，该型号在欧洲的销量今年已翻了一番多，达到约20万台。同样的方法正在中国消费品行业兴起。在中国东部浙江省义乌国际商贸城的商店里，可以看到各种手持风扇。\n在浙江省东部的义乌，商家表示，随着欧洲再次经历异常炎热的夏季，便携式冷却产品的海外需求有所上升。\n\n便携式制冰机的出口也大幅增长，一家宁波制造商报告称，今年前五个月对欧洲的发货量增长了70%以上。中国企业还在开发针对完全不同市场需求的产品。例如，广东省的制造商推出了多功能便携风扇，将冷却功能与LED照明和蓝牙音箱相结合，瞄准拉丁美洲的户外和露营生活方式。中国发展研究院国际合作部主任刘志杰表示，这些产品反映了中国制造业正在发生的更广泛转型。刘志杰告诉CGTN：“这关乎技术创新。”\n\n“我们早已超越了传统的代工模式。在消费者需求的驱动下，中国企业现在能够更快地将自主研发的产品推向市场。”\n陆港码头上排列着集装箱。\n不断扩大的中欧班列网络也使制造商能够更迅速地应对不断变化的市场需求，一些货物在短短15天内就能到达欧洲，比传统海运快约25天。随着欧洲夏季逐渐过渡到较冷的月份，生产线已开始为下一波订单做准备。对中国制造商而言，全球竞争日益不再由生产规模决定，而是取决于理解和满足所服务市场特定需求的能力。"
-    },
-    {
-      "id": 4,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-28/Experts-explain-cause-of-Venezuela-s-two-consecutive-earthquakes-1OlK6oUuses/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Experts explain cause of Venezuela's two consecutive earthquakes",
-      "titleCn": "专家解释委内瑞拉连续两次地震的原因",
-      "summary": "Experts explain cause of Venezuela's two consecutive earthquakes",
-      "summaryCn": "专家指出，委内瑞拉连续两次地震是由加勒比板块与南美板块边界处两个相连断层系统的运动引起的，属于正常地质现象。",
-      "wordCount": 391,
-      "paragraphs": [
-        {
-          "en": "Two powerful earthquakes that struck Venezuela within a minute of each other on June 24 were caused by movements along two {{1}} fault systems at the {{2}} between the Caribbean and South American {{3}} plates, according to experts. According to the US Geological Survey, a magnitude-7.1 earthquake struck near Montalbán, Venezuela, on June 24, followed less than a minute later by a magnitude-7.5 quake. The magnitude of the first earthquake was later {{4}} to 7.2. Qu Guosheng, former chief engineer of the China Earthquake Emergency Search and Rescue Center, told China News Service that the first magnitude-7.2 earthquake occurred along the Central Range Fault, a thrust strike-slip fault at the eastern end of the Andes Mountains. The rupture {{5}} northeastward and subsequently {{6}} movement along the Boconó-San Sebastián-El Pilar fault system, an east-west {{7}} strike-slip fault zone, resulting in the second earthquake.",
-          "cn": "据专家称，6月24日，委内瑞拉在一分钟内接连发生两次强烈地震，是由加勒比板块与南美板块边界处两个相连断层系统的运动引起的。据美国地质调查局称，6月24日，委内瑞拉蒙塔尔万附近发生7.1级地震，不到一分钟后，又发生7.5级地震。第一次地震的震级后来修正为7.2级。中国地震应急搜救中心前总工程师曲国胜告诉中新社，第一次7.2级地震发生在中央山脉断层，这是安第斯山脉东端的一个逆冲走滑断层。破裂向东北方向传播，随后触发了博科诺-圣塞巴斯蒂安-埃尔皮拉尔断层系统（一个东西走向的走滑断层带）的运动，导致了第二次地震。"
-        },
-        {
-          "en": "Sergio Barrientos, director of the National Seismological Center at the University of Chile, said Caracas and surrounding areas have {{8}} several major earthquakes throughout history because the region lies along the boundary between the Caribbean and South American plates. Barrientos noted that major earthquakes struck Caracas in 1812, 1900 and 1967. The relative movement of the Caribbean Plate against the South American Plate, which shifts by about two centimeters each year, gradually builds up stress in the Earth's crust. When the {{9}} stress {{10}} the strength of the rocks, the crust {{11}} along the plate boundary, triggering earthquakes. He said the two recent earthquakes were caused by the same tectonic process.",
-          "cn": "智利大学国家地震中心主任塞尔吉奥·巴里恩托斯表示，加拉加斯及周边地区历史上曾发生过多次大地震，因为该地区位于加勒比板块与南美板块的边界上。巴里恩托斯指出，加拉加斯在1812年、1900年和1967年发生过大地震。加勒比板块相对于南美板块每年移动约两厘米，这种相对运动逐渐在地壳中积累应力。当积累的应力超过岩石强度时，地壳沿板块边界破裂，从而引发地震。他说，最近的两次地震是由相同的构造过程引起的。"
-        },
-        {
-          "en": "Barrientos added that both earthquakes were {{12}} and occurred along near-{{13}} faults, allowing the movement between the tectonic plates to release {{14}} energy, contributing to significant {{15}} and property damage. The two earthquakes, both exceeding magnitude 7, have raised concerns about whether the Earth is entering a period of {{16}} {{17}} activity. However, Barrientos said global {{18}} suggest earthquakes of this scale fall within the normal range of tectonic activity. On average, one magnitude 8 or stronger earthquake occurs worldwide each year, he said. Statistically, each magnitude 8 earthquake is {{19}} by about 10 magnitude 7 earthquakes, 100 magnitude 6 earthquakes and 1,000 magnitude 5 earthquakes over the same period.",
-          "cn": "巴里恩托斯补充说，两次地震都是浅源地震，发生在近乎垂直的断层上，这使得板块之间的运动释放出大量能量，导致了重大人员伤亡和财产损失。这两次震级均超过7级的地震引发了人们对地球是否进入地震活跃期的担忧。然而，巴里恩托斯表示，全球统计数据显示，这种规模的地震属于正常构造活动范围。他说，全球平均每年发生一次8级或以上地震。据统计，每发生一次8级地震，同期大约伴随10次7级地震、100次6级地震和1000次5级地震。"
-        },
-        {
-          "en": "Barrientos said earthquakes of the size recorded in Venezuela are a normal geological {{20}}, particularly within the {{21}} {{22}} Pacific Ring of Fire and other tectonically active regions.",
-          "cn": "巴里恩托斯表示，委内瑞拉记录到的这种规模的地震是一种正常的地质现象，特别是在地震活跃的环太平洋火山带和其他构造活跃地区。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "interconnected",
-          "hint": "adj. 相互连接的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 1,
-          "answer": "boundary",
-          "hint": "n. 边界",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "tectonic",
-          "hint": "adj. 构造的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "revised",
-          "hint": "v. 修正",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "propagated",
-          "hint": "v. 传播",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "triggered",
-          "hint": "v. 触发",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "trending",
-          "hint": "adj. 走向的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "experienced",
-          "hint": "v. 经历",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "accumulated",
-          "hint": "v. 积累",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "exceeds",
-          "hint": "v. 超过",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "ruptures",
-          "hint": "v. 破裂",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "shallow",
-          "hint": "adj. 浅的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "vertical",
-          "hint": "adj. 垂直的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "substantial",
-          "hint": "adj. 大量的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "casualties",
-          "hint": "n. 伤亡",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "heightened",
-          "hint": "adj. 增强的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "seismic",
-          "hint": "adj. 地震的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "statistics",
-          "hint": "n. 统计数据",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
-          "answer": "accompanied",
-          "hint": "v. 伴随",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "phenomenon",
-          "hint": "n. 现象",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "seismically",
-          "hint": "adv. 在地震方面",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "active",
-          "hint": "adj. 活跃的",
-          "difficulty": "easy"
-        }
-      ],
-      "fullText": "Two powerful earthquakes that struck Venezuela within a minute of each other on June 24 were caused by movements along two interconnected fault systems at the boundary between the Caribbean and South American tectonic plates, according to experts.\nAccording to the US Geological Survey, a magnitude-7.1 earthquake struck near Montalbán, Venezuela, on June 24, followed less than a minute later by a magnitude-7.5 quake. The magnitude of the first earthquake was later revised to 7.2.\nQu Guosheng, former chief engineer of the China Earthquake Emergency Search and Rescue Center, told China News Service that the first magnitude-7.2 earthquake occurred along the Central Range Fault, a thrust strike-slip fault at the eastern end of the Andes Mountains. The rupture propagated northeastward and subsequently triggered movement along the Boconó-San Sebastián-El Pilar fault system, an east-west trending strike-slip fault zone, resulting in the second earthquake.\nSergio Barrientos, director of the National Seismological Center at the University of Chile, said Caracas and surrounding areas have experienced several major earthquakes throughout history because the region lies along the boundary between the Caribbean and South American plates.\nBarrientos noted that major earthquakes struck Caracas in 1812, 1900 and 1967. The relative movement of the Caribbean Plate against the South American Plate, which shifts by about two centimeters each year, gradually builds up stress in the Earth's crust. When the accumulated stress exceeds the strength of the rocks, the crust ruptures along the plate boundary, triggering earthquakes. He said the two recent earthquakes were caused by the same tectonic process.\nBarrientos added that both earthquakes were shallow and occurred along near-vertical faults, allowing the movement between the tectonic plates to release substantial energy, contributing to significant casualties and property damage.\nThe two earthquakes, both exceeding magnitude 7, have raised concerns about whether the Earth is entering a period of heightened seismic activity. However, Barrientos said global statistics suggest earthquakes of this scale fall within the normal range of tectonic activity.\nOn average, one magnitude 8 or stronger earthquake occurs worldwide each year, he said. Statistically, each magnitude 8 earthquake is accompanied by about 10 magnitude 7 earthquakes, 100 magnitude 6 earthquakes and 1,000 magnitude 5 earthquakes over the same period. Barrientos said earthquakes of the size recorded in Venezuela are a normal geological phenomenon, particularly within the seismically active Pacific Ring of Fire and other tectonically active regions.",
-      "fullTextCn": "据专家称，6月24日，委内瑞拉在一分钟内接连发生两次强烈地震，是由加勒比板块与南美板块边界处两个相连断层系统的运动引起的。据美国地质调查局称，6月24日，委内瑞拉蒙塔尔万附近发生7.1级地震，不到一分钟后，又发生7.5级地震。第一次地震的震级后来修正为7.2级。中国地震应急搜救中心前总工程师曲国胜告诉中新社，第一次7.2级地震发生在中央山脉断层，这是安第斯山脉东端的一个逆冲走滑断层。破裂向东北方向传播，随后触发了博科诺-圣塞巴斯蒂安-埃尔皮拉尔断层系统（一个东西走向的走滑断层带）的运动，导致了第二次地震。\n\n智利大学国家地震中心主任塞尔吉奥·巴里恩托斯表示，加拉加斯及周边地区历史上曾发生过多次大地震，因为该地区位于加勒比板块与南美板块的边界上。巴里恩托斯指出，加拉加斯在1812年、1900年和1967年发生过大地震。加勒比板块相对于南美板块每年移动约两厘米，这种相对运动逐渐在地壳中积累应力。当积累的应力超过岩石强度时，地壳沿板块边界破裂，从而引发地震。他说，最近的两次地震是由相同的构造过程引起的。\n\n巴里恩托斯补充说，两次地震都是浅源地震，发生在近乎垂直的断层上，这使得板块之间的运动释放出大量能量，导致了重大人员伤亡和财产损失。这两次震级均超过7级的地震引发了人们对地球是否进入地震活跃期的担忧。然而，巴里恩托斯表示，全球统计数据显示，这种规模的地震属于正常构造活动范围。他说，全球平均每年发生一次8级或以上地震。据统计，每发生一次8级地震，同期大约伴随10次7级地震、100次6级地震和1000次5级地震。\n\n巴里恩托斯表示，委内瑞拉记录到的这种规模的地震是一种正常的地质现象，特别是在地震活跃的环太平洋火山带和其他构造活跃地区。"
+      "fullText": "A prolonged heatwave holds a steady grip over Europe, pushing temperatures above 40 degrees Celsius in several countries, breaking national records, and placing millions of people under extreme heat warnings.\nAccording to AFP, more than 190 million Europeans are expected to experience temperatures above 35 degrees Celsius, while around 381 million are forecast to see temperatures exceed 30 degrees Celsius. Scientists say Europe, the world's fastest-warming continent, is experiencing increasingly frequent and intense heatwaves as the climate warms.\nThe scorching temperatures are exposing more than a public health emergency. They are also revealing a challenge embedded in Europe's built environment – much of the continent's housing was designed for a cooler climate, where air conditioning has long been considered unnecessary rather than essential.\nA worker services an air-conditioning unit outside a restaurant during a heatwave in Toulouse, France, June 24, 2026. \nAccording to the International Energy Agency, only about 20% of European households have air conditioning. Many apartments and historic buildings cannot easily accommodate conventional split air conditioners because installation often requires drilling through exterior walls, while preservation rules, high labor costs, and long waiting times further complicate installation. Reuters reported that in some European countries, installation alone can cost more than 1,000 euros.\nThose constraints have created an opportunity for cooling technologies that require fewer modifications to buildings.\nAmong the products drawing attention are portable split air conditioners, which combine the cooling performance of conventional split systems with easier installation. Unlike traditional units, they require little or no permanent alteration to buildings, making them more suitable for older apartments and historic homes.\nThe growing demand has benefited manufacturers in Asia. Reuters reported that Samsung Electronics recorded double-digit growth in air conditioner sales in Italy, Spain, and France during the first half of the year. LG Electronics said production lines at one of its South Korean facilities have been operating at full capacity since April, while Japan's Mitsubishi Electric also reported strong sales in France, Spain, the United Kingdom, and Germany.\nA girl cools off in the Miroir d'Eau reflecting pool during a heatwave in Bordeaux, France, June 23, 2026. \nChinese manufacturers have also seen rising demand, particularly for products designed to overcome Europe's installation challenges. Reuters reported that Midea's PortaSplit portable split air conditioner sold out through some sales channels after a late-May heatwave. The company said sales through German e-commerce platforms increased by about 37% year on year in May, while shipments to Spain and France climbed by 108%.\nChinese financial news outlet Yicai reported that manufacturers, including Midea and Gree, attributed the growing popularity of portable air conditioners to Western Europe's high installation costs, long waiting times, and older housing stock. Those factors have made portable systems a more practical option for many households during this summer's heatwave.\nThe trend is reflected in trade data. According to Yicai, China's exports of portable air conditioners to Western Europe surged by more than 70% year on year in the first five months of 2026, while exports of electric fans also rose across major European markets.\nWhile the current heatwave has fueled demand for cooling products, it has also underscored a broader challenge – as hotter summers become more frequent, technologies that are compatible with Europe's older housing stock and infrastructure are becoming increasingly important.",
+      "fullTextCn": "一场持续的热浪牢牢笼罩欧洲，使多个国家气温超过40摄氏度，打破国家纪录，并将数百万人置于极端高温警告之下。据法新社报道，预计超过1.9亿欧洲人将经历35摄氏度以上的高温，而约3.81亿人预计将面临超过30摄氏度的气温。科学家表示，作为全球变暖最快的大陆，欧洲正经历着日益频繁和强烈的热浪，随着气候变暖。灼热的气温不仅暴露了公共卫生紧急状况，还揭示了欧洲建筑环境中的一个挑战——该大陆大部分住房是为较冷气候设计的，长期以来空调被认为非必需而非必要。一名工人在法国图卢兹一家餐厅外维修空调机组，摄于2026年6月24日。\n\n据国际能源署称，只有约20%的欧洲家庭拥有空调。许多公寓和历史建筑难以轻松安装传统分体式空调，因为安装通常需要在外墙上钻孔，而保护规定、高人工成本和长时间等待进一步使安装复杂化。路透社报道，在一些欧洲国家，仅安装费用就可能超过1000欧元。这些限制为需要较少建筑改造的冷却技术创造了机会。引起关注的产品包括便携式分体空调，它们结合了传统分体系统的冷却性能和更简便的安装。与传统机组不同，它们几乎不需要或完全不需要对建筑进行永久性改造，使其更适合老式公寓和历史住宅。\n\n日益增长的需求使亚洲制造商受益。路透社报道，三星电子今年上半年在意大利、西班牙和法国的空调销售额实现了两位数增长。LG电子表示，其韩国一家工厂的生产线自4月以来一直满负荷运转，而日本三菱电机也报告在法国、西班牙、英国和德国销售强劲。一名女孩在法国波尔多的水镜池中降温，摄于2026年6月23日。中国制造商也看到了需求上升，特别是针对克服欧洲安装难题的产品。路透社报道，美的的PortaSplit便携式分体空调在5月底热浪后通过某些销售渠道售罄。\n\n该公司表示，5月通过德国电商平台的销售额同比增长约37%，而对西班牙和法国的出货量增长了108%。中国财经媒体《第一财经》报道，包括美的和格力在内的制造商将便携式空调日益受欢迎归因于西欧的高安装成本、长时间等待和老旧住房存量。这些因素使便携式系统在今年夏季热浪中成为许多家庭更实用的选择。这一趋势反映在贸易数据中。据《第一财经》报道，2026年前五个月，中国对西欧的便携式空调出口同比增长超过70%，而电风扇出口也在欧洲主要市场上升。虽然当前热浪推动了冷却产品需求，但它也凸显了一个更广泛的挑战——随着更炎热的夏季变得更加频繁，与欧洲老旧住房存量和基础设施兼容的技术正变得越来越重要。"
     },
     {
       "id": 5,
       "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-20/China-s-Tech-Mosaic-Smart-cars-shine-at-Chongqing-auto-show-1O8wSFewvHq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "China's Tech Mosaic: Smart cars shine at Chongqing auto show",
-      "titleCn": "中国科技拼图：智能汽车闪耀重庆车展",
-      "summary": "Smart mobility and intelligent vehicle technologies were among the main highlights of the 2026 Chongqing International Auto Exhibition.",
-      "summaryCn": "2026重庆国际车展聚焦智能出行与新能源汽车，展示了自动驾驶、电池等前沿技术，并反映了中国新能源汽车市场渗透率超过60%的趋势。",
-      "wordCount": 396,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-01/China-to-build-space-ground-monitoring-network-for-asteroid-defense-1OqwkZDgVfG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "China to build space-ground monitoring network for asteroid defense",
+      "titleCn": "中国将建设小行星防御天地监测网络",
+      "summary": "China to build space-ground monitoring network for asteroid defense",
+      "summaryCn": "中国正规划建设天地一体化监测预警网络，作为行星防御系统的核心组成部分，以应对近地小行星撞击风险。",
+      "wordCount": 504,
       "paragraphs": [
         {
-          "en": ", Updated 10:46, 21-Jun-2026A view of the Chongqing International Auto Exhibition in southwest China's Chongqing Municipality. /Bridging News\nSmart {{0}} and {{1}} vehicle technologies are taking center stage at the 2026 Chongqing International Auto Exhibition, which is running from June 13 to June 21 and bringing together more than 100 global automotive brands, including BYD, Changan, and Tesla. Beyond the {{2}} of traditional automakers, the exhibition also features the 2026 Auto AI Expo, a {{3}} section for technologies powering the next generation of smart vehicles. Covering batteries, {{4}} driving, chips, and smart cockpits, it convenes industry leaders such as Bosch, CATL, and Huawei to showcase innovations shaping the future automotive {{5}}. Visitors explore cutting-edge battery technologies at the CATL booth at the 2026 Auto AI Expo, June 13, 2026. Intelligence has become an {{6}} trend in global technological development, according to Zhu Huarong, chairman of Changan Automobile.",
-          "cn": "智能出行和智能汽车技术正在2026年重庆国际汽车展览会上占据中心舞台，该展览于6月13日至21日举行，汇聚了包括比亚迪、长安和特斯拉在内的100多个全球汽车品牌。除了传统汽车制造商的展示外，展览还设有2026年汽车人工智能博览会，这是一个专门展示下一代智能汽车技术的专区。该专区涵盖电池、自动驾驶、芯片和智能座舱，汇集了博世、宁德时代和华为等行业领导者，展示塑造未来汽车生态系统的创新。2026年6月13日，参观者在2026年汽车人工智能博览会的宁德时代展位探索尖端电池技术。长安汽车董事长朱华荣表示，智能化已成为全球技术发展的必然趋势。"
+          "en": "China is working on a space-ground {{0}} {{1}} and early-warning network as a core component of a {{2}} defense system that is under a {{3}} study, according to a scientist familiar with the plan. Longma Astronomical Observatory in Jinzhai County, Anhui Province, May 10, 2026. Li Mingtao, chief scientist at the asteroid monitoring and early-warning research center under the China National Space Administration (CNSA), made the {{4}} on Tuesday, the International Asteroid Day {{5}} by the United Nations to raise global {{6}} about asteroid impact {{7}} and promote planetary defense education. Li noted that the network will combine ground-based telescopes with a space-based monitoring {{8}} to achieve round-the-clock {{9}} with no blind spots. To date, more than 40,000 near-Earth asteroids have been discovered and {{10}} worldwide.",
+          "cn": "据一位熟悉该计划的科学家透露，中国正在建设一个天地一体化监测预警网络，作为正在可行性研究中的行星防御系统的核心组成部分。2026年5月10日，安徽省金寨县的龙马天文台。中国国家航天局（CNSA）小行星监测预警研究中心首席科学家李明涛在周二（联合国指定的国际小行星日，旨在提高全球对小行星撞击危害的认识并推动行星防御教育）透露了这一消息。李明涛指出，该网络将结合地面望远镜与天基监测星座，实现全天候无盲区监测。迄今为止，全球已发现并编录了超过4万颗近地小行星。"
         },
         {
-          "en": "New energy vehicles (NEVs) have opened the {{7}} to a new era, while digital and intelligent vehicles will {{8}} the future, he said, adding that cars of the future will be self-evolving, intelligent {{9}} vehicles. AVATR's {{10}} car VISION XPECTRA at the 2026 Chongqing International Auto Exhibition, June 13, 2026. Several new products are making their debut at the show. AVATR's concept car, VISION XPECTRA, appears for the first time in Chongqing, drawing crowds with its {{11}} design. Volvo has {{12}} two new electric models, further {{13}} its EV lineup in the Chinese market. Changan has introduced the SDA Pilot 2.0 intelligent driving system, an {{14}} version set to roll out in new models this year and gradually across {{15}} vehicles.",
-          "cn": "他说，新能源汽车开启了新时代的序幕，而数字化和智能汽车将定义未来，并补充说，未来的汽车将是自我进化的智能机器人车辆。2026年6月13日，阿维塔的概念车VISION XPECTRA在2026年重庆国际汽车展览会上亮相。几款新产品在展会上首次亮相。阿维塔的概念车VISION XPECTRA首次在重庆展出，以其未来主义设计吸引了众多观众。沃尔沃推出了两款新的电动车型，进一步扩大了其在中国市场的电动汽车阵容。长安推出了SDA Pilot 2.0智能驾驶系统，这是一个升级版本，将于今年在新车型中推出，并逐步应用于适用车辆。"
+          "en": "\"No asteroid has so far been {{11}} that will definitely {{12}} with Earth in the {{13}} future, but concerns over impact risks are not {{14}}. Many near-Earth asteroids remain {{15}},\" Li was quoted as saying in a report on Wednesday. \"We must never let our guard down, but there is also no need for excessive {{16}},\" he added. On the ground, China will deploy multiple large-{{17}} optical telescopes at carefully chosen sites, forming a geographically balanced network for long-range, wide-coverage and precise night-sky {{18}}, Li said. Ground telescopes, however, are blinded by the sun's glare due to atmospheric {{19}}.",
+          "cn": "“目前尚未发现任何小行星会在可预见的未来与地球相撞，但对撞击风险的担忧并非毫无根据。许多近地小行星仍未被探测到，”李明涛在周三的一份报告中引述道。“我们绝不能掉以轻心，但也无需过度焦虑，”他补充说。李明涛表示，在地面，中国将在精心选定的地点部署多台大口径光学望远镜，形成一个地理分布均衡的网络，用于远程、广覆盖、高精度的夜空巡天观测。然而，由于大气散射，地面望远镜会受到太阳强光的干扰。"
         },
         {
-          "en": "Visitors view new car models at the 2026 Chongqing International Auto Exhibition, June 13, 2026. In the cockpit domain, automakers are pushing toward deeper {{16}}. The focus is on two fronts: upgrading the in-cabin experience by combining sound, lighting and electronics for better user-vehicle {{17}}, and cockpit-driving integration that brings different vehicle {{24}} together for a {{18}} intelligent experience. Global automotive brands gather at the 2026 Chongqing International Auto Exhibition, June 13, 2026. Electrification remains a major focus as traditional automakers {{20}} their shift towards new energy. According to the China Passenger Car Association, China's fuel car {{23}} sales fell 39% year on year in May, while the retail {{21}} rate of NEVs {{22}} 60% – meaning more than six in every 10 new cars sold were NEVs.",
-          "cn": "2026年6月13日，参观者在2026年重庆国际汽车展览会上观看新车模型。在座舱领域，汽车制造商正朝着更深层次的集成迈进。重点集中在两个方面：通过结合声音、照明和电子设备来提升车内体验，实现更好的人车交互；以及座舱驾驶集成，将不同的车辆域整合在一起，提供统一的智能体验。2026年6月13日，全球汽车品牌齐聚2026年重庆国际汽车展览会。电动化仍然是主要焦点，传统汽车制造商加速向新能源转型。根据中国乘用车市场信息联席会的数据，5月份中国燃油车零售销量同比下降39%，而新能源汽车的零售渗透率超过60%——这意味着每售出10辆新车中就有超过6辆是新能源汽车。"
+          "en": "China also intends to launch a space-based monitoring constellation, free from atmospheric and day-night {{20}}, specifically targeting threats from the sunward direction. Through coordinated ground-space operations, the system will achieve {{21}} day-and-night monitoring, he said. Early warning time, a key factor in asteroid monitoring, varies dramatically depending on the asteroid's size and when it is discovered, the expert noted. Larger asteroids, he explained, pose greater potential devastation but are easier to detect early due to their brightness. Smaller asteroids are harder to spot but cause less damage.",
+          "cn": "中国还计划发射一个天基监测星座，不受大气和昼夜限制，专门针对来自太阳方向的威胁。通过天地协同运行，该系统将实现无缝的昼夜监测，他说。这位专家指出，预警时间是小行星监测的关键因素，其长短因小行星的大小和发现时间而异。他解释说，较大的小行星潜在破坏力更大，但由于亮度较高，更容易被早期发现。较小的小行星更难被发现，但造成的损害也较小。"
+        },
+        {
+          "en": "This {{22}} {{23}} the critical importance of building a comprehensive monitoring system that can catch threats as early as possible. China has already made initial {{24}} in risk assessment models and {{25}} and is developing an operational near-Earth asteroid early-warning system. Once a telescope detects a suspicious target, the system will automatically calculate its orbit and assess impact probability, according to the report. If a {{26}} and urgent threat is confirmed, authorities will be notified immediately, and the public will receive clear information about the risk and recommended actions, Li said. Should an asteroid threaten Earth, there are two main {{27}}.",
+          "cn": "这种差异凸显了建立能够尽早捕捉威胁的全面监测系统的极端重要性。中国已在风险评估模型和算法方面取得初步突破，并正在开发一个运行中的近地小行星预警系统。据报道，一旦望远镜探测到可疑目标，系统将自动计算其轨道并评估撞击概率。李明涛说，如果确认存在可信且紧迫的威胁，将立即通知有关部门，并向公众提供关于风险及建议措施的明确信息。如果小行星威胁地球，主要有两种应对措施。"
+        },
+        {
+          "en": "The first is {{28}} impact, meaning a high-speed strike that instantly shifts the asteroid's orbit. It is simple, reliable and the most viable option, said Li. The second includes gravity tractors, ion beams and laser ablation, but these exert very weak forces and require over a decade of advance notice to be effective, he added. The greatest risk comes from undiscovered near-Earth asteroids, which are numerous, faint, and potentially approaching from the sun. \"That is why global scientists are racing to build monitoring and early-warning capabilities and catalog them,\" he said.",
+          "cn": "第一种是动能撞击，即通过高速撞击瞬间改变小行星轨道。李明涛说，这种方法简单、可靠，是最可行的选择。他补充说，第二种方法包括引力牵引器、离子束和激光烧蚀，但这些方法施加的力非常微弱，需要提前十多年预警才能有效。最大的风险来自未被发现的近地小行星，它们数量众多、亮度微弱，且可能从太阳方向接近。“这就是全球科学家竞相建设监测预警能力并对其进行编目的原因，”他说。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "mobility",
-          "hint": "n. 移动性",
+          "answer": "integrated",
+          "hint": "adj. 综合的",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "intelligent",
-          "hint": "adj. 智能的",
-          "difficulty": "medium"
+          "answer": "monitoring",
+          "hint": "n. 监测",
+          "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "showcases",
-          "hint": "v. 展示",
+          "answer": "planetary",
+          "hint": "adj. 行星的",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "dedicated",
-          "hint": "adj. 专用的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "autonomous",
-          "hint": "adj. 自主的",
+          "answer": "feasibility",
+          "hint": "n. 可行性",
           "difficulty": "hard"
         },
         {
+          "id": 4,
+          "answer": "revelation",
+          "hint": "n. 透露",
+          "difficulty": "medium"
+        },
+        {
           "id": 5,
-          "answer": "ecosystem",
-          "hint": "n. 生态系统",
+          "answer": "designated",
+          "hint": "v. 指定",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "inevitable",
-          "hint": "adj. 不可避免的",
-          "difficulty": "medium"
+          "answer": "awareness",
+          "hint": "n. 意识",
+          "difficulty": "easy"
         },
         {
           "id": 7,
-          "answer": "prelude",
-          "hint": "n. 序幕",
-          "difficulty": "hard"
+          "answer": "hazards",
+          "hint": "n. 危害",
+          "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "define",
-          "hint": "v. 定义",
-          "difficulty": "easy"
+          "answer": "constellation",
+          "hint": "n. 星座",
+          "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "robotic",
-          "hint": "adj. 机器人的",
-          "difficulty": "medium"
+          "answer": "surveillance",
+          "hint": "n. 监视",
+          "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "concept",
-          "hint": "n. 概念",
-          "difficulty": "easy"
-        },
-        {
-          "id": 11,
-          "answer": "futuristic",
-          "hint": "adj. 未来主义的",
+          "answer": "cataloged",
+          "hint": "v. 编录",
           "difficulty": "medium"
         },
         {
+          "id": 11,
+          "answer": "identified",
+          "hint": "v. 确认",
+          "difficulty": "easy"
+        },
+        {
           "id": 12,
-          "answer": "unveiled",
-          "hint": "v. 推出",
+          "answer": "collide",
+          "hint": "v. 碰撞",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "expanding",
-          "hint": "v. 扩大",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "upgraded",
-          "hint": "adj. 升级的",
+          "answer": "foreseeable",
+          "hint": "adj. 可预见的",
           "difficulty": "medium"
         },
         {
+          "id": 14,
+          "answer": "unfounded",
+          "hint": "adj. 无根据的",
+          "difficulty": "hard"
+        },
+        {
           "id": 15,
-          "answer": "applicable",
-          "hint": "adj. 适用的",
+          "answer": "undetected",
+          "hint": "adj. 未被发现的",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "integration",
-          "hint": "n. 集成",
-          "difficulty": "medium"
+          "answer": "anxiety",
+          "hint": "n. 焦虑",
+          "difficulty": "easy"
         },
         {
           "id": 17,
-          "answer": "interaction",
-          "hint": "n. 交互",
-          "difficulty": "medium"
+          "answer": "aperture",
+          "hint": "n. 孔径",
+          "difficulty": "hard"
         },
         {
           "id": 18,
-          "answer": "unified",
-          "hint": "adj. 统一的",
+          "answer": "surveys",
+          "hint": "n. 巡天观测",
           "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "accelerate",
-          "hint": "v. 加速",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "penetration",
-          "hint": "n. 渗透",
+          "answer": "scattering",
+          "hint": "n. 散射",
           "difficulty": "hard"
         },
         {
+          "id": 20,
+          "answer": "constraints",
+          "hint": "n. 限制",
+          "difficulty": "medium"
+        },
+        {
           "id": 21,
-          "answer": "exceeded",
-          "hint": "v. 超过",
+          "answer": "seamless",
+          "hint": "adj. 无缝的",
           "difficulty": "medium"
         },
         {
           "id": 22,
-          "answer": "retail",
-          "hint": "n. 零售",
-          "difficulty": "easy"
+          "answer": "disparity",
+          "hint": "n. 差异",
+          "difficulty": "hard"
         },
         {
           "id": 23,
-          "answer": "domains",
-          "hint": "n. 领域",
+          "answer": "underscores",
+          "hint": "v. 强调",
           "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "breakthroughs",
+          "hint": "n. 突破",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "algorithms",
+          "hint": "n. 算法",
+          "difficulty": "hard"
+        },
+        {
+          "id": 26,
+          "answer": "credible",
+          "hint": "adj. 可信的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "countermeasures",
+          "hint": "n. 应对措施",
+          "difficulty": "hard"
+        },
+        {
+          "id": 28,
+          "answer": "kinetic",
+          "hint": "adj. 动能的",
+          "difficulty": "hard"
         }
       ],
-      "fullText": ", Updated 10:46, 21-Jun-2026A view of the Chongqing International Auto Exhibition in southwest China's Chongqing Municipality. /Bridging News\nSmart mobility and intelligent vehicle technologies are taking center stage at the 2026 Chongqing International Auto Exhibition, which is running from June 13 to June 21 and bringing together more than 100 global automotive brands, including BYD, Changan, and Tesla.\nBeyond the showcases of traditional automakers, the exhibition also features the 2026 Auto AI Expo, a dedicated section for technologies powering the next generation of smart vehicles. Covering batteries, autonomous driving, chips, and smart cockpits, it convenes industry leaders such as Bosch, CATL, and Huawei to showcase innovations shaping the future automotive ecosystem.\nVisitors explore cutting-edge battery technologies at the CATL booth at the 2026 Auto AI Expo, June 13, 2026. \nIntelligence has become an inevitable trend in global technological development, according to Zhu Huarong, chairman of Changan Automobile. New energy vehicles (NEVs) have opened the prelude to a new era, while digital and intelligent vehicles will define the future, he said, adding that cars of the future will be self-evolving, intelligent robotic vehicles.\nAVATR's concept car VISION XPECTRA at the 2026 Chongqing International Auto Exhibition, June 13, 2026. \nSeveral new products are making their debut at the show. AVATR's concept car, VISION XPECTRA, appears for the first time in Chongqing, drawing crowds with its futuristic design. Volvo has unveiled two new electric models, further expanding its EV lineup in the Chinese market. Changan has introduced the SDA Pilot 2.0 intelligent driving system, an upgraded version set to roll out in new models this year and gradually across applicable vehicles.\nVisitors view new car models at the 2026 Chongqing International Auto Exhibition, June 13, 2026. \nIn the cockpit domain, automakers are pushing toward deeper integration. The focus is on two fronts: upgrading the in-cabin experience by combining sound, lighting and electronics for better user-vehicle interaction, and cockpit-driving integration that brings different vehicle domains together for a unified intelligent experience.\nGlobal automotive brands gather at the 2026 Chongqing International Auto Exhibition, June 13, 2026. \nElectrification remains a major focus as traditional automakers accelerate their shift towards new energy. According to the China Passenger Car Association, China's fuel car retail sales fell 39% year on year in May, while the retail penetration rate of NEVs exceeded 60% – meaning more than six in every 10 new cars sold were NEVs.",
-      "fullTextCn": "智能出行和智能汽车技术正在2026年重庆国际汽车展览会上占据中心舞台，该展览于6月13日至21日举行，汇聚了包括比亚迪、长安和特斯拉在内的100多个全球汽车品牌。除了传统汽车制造商的展示外，展览还设有2026年汽车人工智能博览会，这是一个专门展示下一代智能汽车技术的专区。该专区涵盖电池、自动驾驶、芯片和智能座舱，汇集了博世、宁德时代和华为等行业领导者，展示塑造未来汽车生态系统的创新。2026年6月13日，参观者在2026年汽车人工智能博览会的宁德时代展位探索尖端电池技术。长安汽车董事长朱华荣表示，智能化已成为全球技术发展的必然趋势。\n\n他说，新能源汽车开启了新时代的序幕，而数字化和智能汽车将定义未来，并补充说，未来的汽车将是自我进化的智能机器人车辆。2026年6月13日，阿维塔的概念车VISION XPECTRA在2026年重庆国际汽车展览会上亮相。几款新产品在展会上首次亮相。阿维塔的概念车VISION XPECTRA首次在重庆展出，以其未来主义设计吸引了众多观众。沃尔沃推出了两款新的电动车型，进一步扩大了其在中国市场的电动汽车阵容。长安推出了SDA Pilot 2.0智能驾驶系统，这是一个升级版本，将于今年在新车型中推出，并逐步应用于适用车辆。\n\n2026年6月13日，参观者在2026年重庆国际汽车展览会上观看新车模型。在座舱领域，汽车制造商正朝着更深层次的集成迈进。重点集中在两个方面：通过结合声音、照明和电子设备来提升车内体验，实现更好的人车交互；以及座舱驾驶集成，将不同的车辆域整合在一起，提供统一的智能体验。2026年6月13日，全球汽车品牌齐聚2026年重庆国际汽车展览会。电动化仍然是主要焦点，传统汽车制造商加速向新能源转型。根据中国乘用车市场信息联席会的数据，5月份中国燃油车零售销量同比下降39%，而新能源汽车的零售渗透率超过60%——这意味着每售出10辆新车中就有超过6辆是新能源汽车。"
+      "fullText": "China is working on a space-ground integrated monitoring and early-warning network as a core component of a planetary defense system that is under a feasibility study, according to a scientist familiar with the plan.\nLongma Astronomical Observatory in Jinzhai County, Anhui Province, May 10, 2026. \nLi Mingtao, chief scientist at the asteroid monitoring and early-warning research center under the China National Space Administration (CNSA), made the revelation on Tuesday, the International Asteroid Day designated by the United Nations to raise global awareness about asteroid impact hazards and promote planetary defense education.\nLi noted that the network will combine ground-based telescopes with a space-based monitoring constellation to achieve round-the-clock surveillance with no blind spots.\nTo date, more than 40,000 near-Earth asteroids have been discovered and cataloged worldwide. \"No asteroid has so far been identified that will definitely collide with Earth in the foreseeable future, but concerns over impact risks are not unfounded. Many near-Earth asteroids remain undetected,\" Li was quoted as saying in a report on Wednesday.\n\"We must never let our guard down, but there is also no need for excessive anxiety,\" he added.\nOn the ground, China will deploy multiple large-aperture optical telescopes at carefully chosen sites, forming a geographically balanced network for long-range, wide-coverage and precise night-sky surveys, Li said.\nGround telescopes, however, are blinded by the sun's glare due to atmospheric scattering. China also intends to launch a space-based monitoring constellation, free from atmospheric and day-night constraints, specifically targeting threats from the sunward direction.\nThrough coordinated ground-space operations, the system will achieve seamless day-and-night monitoring, he said.\nEarly warning time, a key factor in asteroid monitoring, varies dramatically depending on the asteroid's size and when it is discovered, the expert noted.\nLarger asteroids, he explained, pose greater potential devastation but are easier to detect early due to their brightness. Smaller asteroids are harder to spot but cause less damage. This disparity underscores the critical importance of building a comprehensive monitoring system that can catch threats as early as possible.\nChina has already made initial breakthroughs in risk assessment models and algorithms and is developing an operational near-Earth asteroid early-warning system. Once a telescope detects a suspicious target, the system will automatically calculate its orbit and assess impact probability, according to the report.\nIf a credible and urgent threat is confirmed, authorities will be notified immediately, and the public will receive clear information about the risk and recommended actions, Li said.\nShould an asteroid threaten Earth, there are two main countermeasures. The first is kinetic impact, meaning a high-speed strike that instantly shifts the asteroid's orbit. It is simple, reliable and the most viable option, said Li.\nThe second includes gravity tractors, ion beams and laser ablation, but these exert very weak forces and require over a decade of advance notice to be effective, he added.\nThe greatest risk comes from undiscovered near-Earth asteroids, which are numerous, faint, and potentially approaching from the sun. \"That is why global scientists are racing to build monitoring and early-warning capabilities and catalog them,\" he said.",
+      "fullTextCn": "据一位熟悉该计划的科学家透露，中国正在建设一个天地一体化监测预警网络，作为正在可行性研究中的行星防御系统的核心组成部分。2026年5月10日，安徽省金寨县的龙马天文台。中国国家航天局（CNSA）小行星监测预警研究中心首席科学家李明涛在周二（联合国指定的国际小行星日，旨在提高全球对小行星撞击危害的认识并推动行星防御教育）透露了这一消息。李明涛指出，该网络将结合地面望远镜与天基监测星座，实现全天候无盲区监测。迄今为止，全球已发现并编录了超过4万颗近地小行星。\n\n“目前尚未发现任何小行星会在可预见的未来与地球相撞，但对撞击风险的担忧并非毫无根据。许多近地小行星仍未被探测到，”李明涛在周三的一份报告中引述道。“我们绝不能掉以轻心，但也无需过度焦虑，”他补充说。李明涛表示，在地面，中国将在精心选定的地点部署多台大口径光学望远镜，形成一个地理分布均衡的网络，用于远程、广覆盖、高精度的夜空巡天观测。然而，由于大气散射，地面望远镜会受到太阳强光的干扰。\n\n中国还计划发射一个天基监测星座，不受大气和昼夜限制，专门针对来自太阳方向的威胁。通过天地协同运行，该系统将实现无缝的昼夜监测，他说。这位专家指出，预警时间是小行星监测的关键因素，其长短因小行星的大小和发现时间而异。他解释说，较大的小行星潜在破坏力更大，但由于亮度较高，更容易被早期发现。较小的小行星更难被发现，但造成的损害也较小。\n\n这种差异凸显了建立能够尽早捕捉威胁的全面监测系统的极端重要性。中国已在风险评估模型和算法方面取得初步突破，并正在开发一个运行中的近地小行星预警系统。据报道，一旦望远镜探测到可疑目标，系统将自动计算其轨道并评估撞击概率。李明涛说，如果确认存在可信且紧迫的威胁，将立即通知有关部门，并向公众提供关于风险及建议措施的明确信息。如果小行星威胁地球，主要有两种应对措施。\n\n第一种是动能撞击，即通过高速撞击瞬间改变小行星轨道。李明涛说，这种方法简单、可靠，是最可行的选择。他补充说，第二种方法包括引力牵引器、离子束和激光烧蚀，但这些方法施加的力非常微弱，需要提前十多年预警才能有效。最大的风险来自未被发现的近地小行星，它们数量众多、亮度微弱，且可能从太阳方向接近。“这就是全球科学家竞相建设监测预警能力并对其进行编目的原因，”他说。"
     }
   ]
 }
