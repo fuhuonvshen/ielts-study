@@ -1,874 +1,844 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "articles": [
     {
       "id": 1,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-07-03/detail-ihffyeqp1387316.shtml",
-      "title": "(W.E. Talk) The ocean as a bridge: how China advances global ocean governance",
-      "titleCn": "（东西问）海洋作为桥梁：中国如何推动全球海洋治理",
-      "summary": "The ocean belongs to all humanity as our shared home, and constitutes a key arena for global governance. Since its adoption, the United Nations Convention on the Law of the Sea (UNCLOS) has played a pivotal role in enabling humanity to better understand, protect and utilize the ocean.",
-      "summaryCn": "中国作为联合国海洋法公约缔约国，积极参与全球海洋治理，推动海洋可持续发展，并倡导构建海洋命运共同体。",
-      "wordCount": 1473,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-02/Why-computing-in-space-is-the-world-s-next-tech-battleground-1OrBzSQ2UPm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Why 'computing in space' is the world's next tech battleground",
+      "titleCn": "为什么“太空计算”是下一个全球科技战场",
+      "summary": "As artificial intelligence and Earth-observation data grow exponentially, computing is beginning to move beyond terrestrial data centers into orbit. China is accelerating its push into space computing through system planning and technological breakthroughs, joining an increasingly competitive global race to build the next generation of space-based digital infrastructure.",
+      "summaryCn": "随着人工智能对算力需求激增，中国正通过部署太空计算星座来应对地面数据中心的能耗与气候挑战，并推动全球竞争格局转变。",
+      "wordCount": 896,
       "paragraphs": [
         {
-          "en": "(CNS)-- The ocean belongs to all humanity as our shared home, and constitutes a key {{0}} for global governance. Since its adoption, the United Nations Convention on the Law of the Sea (UNCLOS) has played a {{1}} role in enabling humanity to better understand, protect and utilize the ocean. As the international maritime order undergoes {{2}} readjustment, it has become a common concern of all countries how to advance marine sustainable development and strengthen global ocean governance. 2026 marks the 30th anniversary of China's status as a State Party to UNCLOS. As a major maritime developing country, China stands ready to work with all other countries to forge a new journey in ocean governance with the bridge of the ocean.",
-          "cn": "海洋是全人类共同的家园，也是全球治理的关键领域。自通过以来，《联合国海洋法公约》在帮助人类更好地认识、保护和利用海洋方面发挥了关键作用。随着国际海洋秩序深刻调整，如何推进海洋可持续发展、加强全球海洋治理已成为各国共同关切。2026年是中国成为《公约》缔约国30周年。作为一个海洋大国和发展中国家，中国愿与各国一道，以海洋为桥梁，开启海洋治理的新征程。"
+          "en": "As record-breaking heat waves sweep across parts of the world, another challenge is {{0}} the artificial intelligence boom: keeping the high-performance chips inside data centers cool enough to keep running. The challenge extends far beyond seasonal heat. As AI models become larger and more computationally {{1}}, demand for computing power is rising at a pace that is testing the physical limits of conventional data centers. According to the International Energy Agency (IEA), data centers accounted for about 1.5% of global electricity {{2}} in 2024, with power demand expected to rise sharply as AI deployment accelerates. Rising electricity use, cooling costs and increasing exposure to climate-related {{3}} are prompting governments and technology companies to rethink where future computing {{4}} should be built.",
+          "cn": "随着创纪录的热浪席卷全球部分地区，人工智能热潮正面临另一项挑战：保持数据中心内高性能芯片足够冷却以持续运行。这一挑战远不止于季节性高温。随着人工智能模型变得更大、计算密集度更高，对计算能力的需求正以考验传统数据中心物理极限的速度增长。根据国际能源署的数据，2024年数据中心约占全球电力消耗的1.5%，随着人工智能部署加速，电力需求预计将急剧上升。不断增长的电力消耗、冷却成本以及日益增加的气候相关干扰风险，正促使各国政府和技术公司重新思考未来计算基础设施应建在哪里。"
         },
         {
-          "en": "As one of the original {{3}}, China has consistently ensured the full and faithful {{4}} of UNCLOS provisions, standing as an active participant, builder, and contributor to UNCLOS and its mechanisms. Historically, the Third United Nations Conference on the Law of the Sea marked the first important international legislative process in which China participated following the restoration of its lawful seat in the United Nations. Taking into account the interests of itself, developing countries, and the international community as a whole, China actively promoted the establishment of a just and {{5}} international maritime order. Standing side by side with numerous developing countries, China jointly advocated for the reaffirmation of vital principles and systems of the law of the sea, such as 'the common {{6}} of mankind', thereby making a significant contribution to the adoption of UNCLOS. Since becoming a State Party, China has adhered to the spirit of UNCLOS, implemented its provisions fully and faithfully, and promoted the full implementation of UNCLOS in domestic maritime legislation, law enforcement, and judicial practice.",
-          "cn": "作为最初的签署国之一，中国始终坚持全面、忠实地履行《公约》条款，是《公约》及其机制的积极参与者、建设者和贡献者。历史上，第三次联合国海洋法会议是中国恢复联合国合法席位后参与的第一个重要国际立法进程。中国兼顾自身、发展中国家和国际社会的整体利益，积极推动建立公正合理的国际海洋秩序。中国与众多发展中国家并肩，共同倡导重申'人类共同继承财产'等海洋法的重要原则和制度，为《公约》的通过作出了重要贡献。成为缔约国以来，中国恪守《公约》精神，全面、忠实地履行其条款，并在国内海洋立法、执法和司法实践中推动《公约》的全面实施。"
+          "en": "Translating this background into action, a multi-city layout is taking shape in China. Beijing serves as the anchor for research and development and standard setting through its new innovation center. Tianjin focuses on space-ground computing {{5}} and hardware development. Shanghai is building out the broader industrial {{6}}. Hangzhou leans into intelligent applications, anchored by the \"Three-Body Computing Constellation,\" which has already been deployed in orbit.",
+          "cn": "将这一背景转化为行动，中国正在形成多城市布局。北京通过其新创新中心，作为研发和标准制定的锚点。天津专注于天地计算集成和硬件开发。上海正在建设更广泛的产业生态系统。杭州则侧重于智能应用，以已部署在轨的“三体计算星座”为依托。"
         },
         {
-          "en": "China takes an active and in-depth part in developing the global ocean governance system, and continuously supports and facilitates the effective functioning of the three important institutions established under UNCLOS: the International Tribunal for the Law of the Sea (ITLOS), the International Seabed Authority (ISA), and the Commission on the Limits of the Continental Shelf (CLCS). China keeps advancing the development of a modern maritime order and actively participates in negotiations on UNCLOS implementing agreements, such as the Agreement Relating to the Implementation of Part XI of the United Nations Convention on the Law of the Sea of 10 December 1982 (1994 Implementation Agreement) and the Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 Relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks (UN Fish Stocks Agreement). The Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction (BBNJ Agreement) represents an outcome of 19 years of negotiations. China took part in the relevant process throughout and actively pushed for the entry-into-force of the BBNJ Agreement this January, and supports Xiamen's application to host the Secretariat of the BBNJ Agreement, thereby demonstrating its sense of responsibility as a major country. In addition, China has engaged constructively in significant international rule-making processes, such as consultations on regulations for the {{9}} of deep-sea mineral resources.",
-          "cn": "中国积极深入参与全球海洋治理体系的建设，持续支持并促进《公约》设立的三大重要机构——国际海洋法法庭、国际海底管理局和大陆架界限委员会的有效运作。中国不断推进现代海洋秩序的发展，积极参与《公约》执行协定的谈判，例如《关于执行1982年12月10日〈联合国海洋法公约〉第十一部分的协定》和《执行1982年12月10日〈联合国海洋法公约〉有关养护和管理跨界鱼类种群和高度洄游鱼类种群的规定的协定》。《国家管辖范围以外区域海洋生物多样性的养护和可持续利用协定》是19年谈判的成果。中国全程参与了相关进程，并于今年1月积极推动该协定生效，支持厦门申请作为该协定秘书处所在地，展现了大国担当。此外，中国还建设性地参与了深海矿产资源开发规章磋商等重要国际规则制定进程。"
+          "en": "Led by Zhejiang Lab (ZJ Lab), it aims to build a network of thousands of satellites with a total computing power of 1,000 peta operations per second. The {{7}} will enable real-time in-orbit data processing with intelligent {{8}}. Why move computing power into space? Traditional satellites act like \"cameras that only take pictures\": they collect raw data in orbit, beam it all down to ground stations and wait for Earth-based supercomputers to process it. Industry estimates suggest less than 10% of collected data ever gets used, with {{9}} running to hours or days.",
+          "cn": "由之江实验室牵头，该项目旨在构建一个由数千颗卫星组成的网络，总计算能力达到每秒1000千万亿次运算。该星座将利用智能有效载荷实现实时在轨数据处理。为什么要把计算能力送入太空？传统卫星就像“只拍照的相机”：它们在轨道上收集原始数据，将所有数据波束传回地面站，然后等待地球上的超级计算机进行处理。行业估计表明，收集到的数据中只有不到10%被实际使用，延迟长达数小时或数天。"
         },
         {
-          "en": "The ocean constitutes a treasure trove of resources and a {{10}} space underpinning future development. China has consistently integrated its own development into the global sustainable development framework, expanded blue partnerships, engaged deeply in global ocean governance, and actively advanced the building of a maritime community with a shared future. Over the years, China has taken proactive measures to safeguard freedom of navigation and navigational safety and keep international shipping lanes unimpeded. China respects and upholds the freedom of navigation and overflight to which all countries are entitled under international law, and firmly opposes acts that undermine the {{11}} and security of other countries under the pretext of so-called 'freedom of navigation'. Moreover, China continues to upgrade maritime support services such as maritime search and rescue, greatly boosting navigational safety.",
-          "cn": "海洋是资源宝库和支撑未来发展的战略空间。中国始终将自身发展融入全球可持续发展框架，拓展蓝色伙伴关系，深度参与全球海洋治理，积极推动构建海洋命运共同体。多年来，中国采取积极措施保障航行自由和航行安全，维护国际航道畅通。中国尊重和维护各国根据国际法享有的航行和飞越自由，坚决反对以所谓'航行自由'为名损害他国主权和安全的行为。此外，中国不断提升海上搜救等海上保障服务能力，极大地促进了航行安全。"
+          "en": "Space computing flips the model. Satellites are equipped with {{10}} chips, onboard servers and storage, linked into constellations that can collect, analyze and decide in orbit, sending back only high-value results. According to industry insiders, space computing mainly comprises three operating models: \"in-orbit processing of space-collected data,\" which processes data gathered in space on board and downlinks only high-value results; \"space-based processing of ground-uploaded data,\" which leverages the advantages of space computing to process data uploaded from the ground and \"integrated space-ground collaborative computing,\" which builds a global distributed computing network to achieve efficient {{11}} of space and terrestrial resources. Bandwidth consumption can drop by more than 90%; response times shrink from hours to seconds. Applications range from real-time wildfire and flood alerts to crop-stress tracking, illegal-fishing {{13}} in remote oceans and polar-ice monitoring – all without waiting for a downlink window.",
+          "cn": "太空计算颠覆了这一模式。卫星配备了抗辐射芯片、机载服务器和存储设备，连接成星座，可以在轨道上收集、分析并做出决策，只传回高价值的结果。据业内人士称，太空计算主要包括三种运行模式：“天基数据在轨处理”，即在轨处理太空收集的数据，仅下传高价值结果；“天基处理地上传数据”，即利用太空计算的优势处理从地面上传的数据；以及“天地协同计算”，即构建全球分布式计算网络，实现空间和地面资源的高效互补。带宽消耗可降低90%以上；响应时间从数小时缩短到数秒。应用范围从实时野火和洪水警报，到作物胁迫跟踪、偏远海域非法捕捞检测以及极地冰盖监测——所有这些都无需等待下传窗口。"
         },
         {
-          "en": "The maritime public goods supplied by China deliver shared benefits to all stakeholders. The source codes for the Mazu series ocean current and wave {{12}} models have been open-sourced globally. The South China Sea Tsunami Advisory Centre (SCSTAC) is capable of releasing its initial advisory within 10 minutes, boasting world-leading speed and accuracy. China has long offered neighboring countries round-the-clock tsunami forecasting and warning services as well as personnel training. Its emergency remote sensing monitoring services for disasters have received favorable feedback from government authorities of Pacific island countries such as Kiribati and the Solomon Islands.",
-          "cn": "中国提供的海洋公共产品惠及所有利益攸关方。'妈祖'系列海流和海浪预报模型源代码已向全球开源。南海海啸预警中心能在10分钟内发布初始预警，速度和精度均居世界前列。中国长期为周边国家提供全天候的海啸预报预警服务和人员培训。其灾害应急遥感监测服务获得了基里巴斯、所罗门群岛等太平洋岛国政府部门的积极反馈。"
+          "en": "A Long March-2D rocket launches 12 satellites from the Jiuquan Satellite Launch Center, May 14, 2025. Accelerating tech breakthroughs to {{14}} space intelligent infrastructure\nProgress across computing, energy and communications is reinforcing the foundations of China's space-based intelligent infrastructure. On the computing front, the country is prioritizing constellation-scale in-orbit clusters and homegrown anti-radiation technologies. The Three-Body Computing Constellation serves as a reference case: the 12-satellite network, equipped with domestically produced space-borne AI servers, delivers a peak of 744 TOPS per satellite and 5 POPS in aggregate, with core components fully {{15}} through native aerospace-grade chips and tailored processes. On the energy front, efforts center on high-efficiency space power generation and radiative thermal management.",
+          "cn": "加速技术突破以强化太空智能基础设施。计算、能源和通信方面的进展正在巩固中国天基智能基础设施的基础。在计算方面，国家优先发展星座级在轨集群和国产抗辐射技术。三体计算星座是一个参考案例：这个由12颗卫星组成的网络，配备了国产星载AI服务器，每颗卫星峰值性能达744 TOPS，总计5 POPS，核心组件通过本土航天级芯片和定制工艺实现完全本地化。在能源方面，工作重点集中在高效太空发电和辐射热管理上。"
         },
         {
-          "en": "By advancing digital and intelligent technological transformation, China deepens maritime cooperation and provides solid support for {{13}}-building in developing countries. Jointly with African countries, China has released and launched the Xinghai Multi-scale Comprehensive Marine Dataset. It includes an online marine remote sensing analysis platform, remote sensing monitoring of the coastal zones of Africa and the Indian Ocean, and AI-based integrated four-dimensional chlorophyll datasets. It has also developed the 'Toolkit for Marine Solutions for Sustainable Development of Coastal Cities' to deliver convenient marine information services and efficient decision-making support for integrated governance to developing countries. China advances practical maritime cooperation driven by 'small yet beautiful' projects.",
-          "cn": "通过推进数字化、智能化技术转型，中国深化海洋合作，为发展中国家能力建设提供坚实支撑。中国与非洲国家共同发布并启动了'星海'多尺度综合海洋数据集。该数据集包括在线海洋遥感分析平台、非洲和印度洋海岸带遥感监测以及基于人工智能的四维叶绿素综合数据集。中国还开发了'沿海城市可持续发展海洋解决方案工具包'，为发展中国家提供便捷的海洋信息服务和高效的综合治理决策支持。中国以'小而美'项目推动务实海洋合作。"
+          "en": "Galactic Aerospace's Lingxi 03, China's first flat-stack satellite with flexible solar wings, illustrates the direction: the \"flexible wings\" are compact, lightweight and modular, easier to stow and per unit mass, larger in area to capture more solar energy. On the thermal side, the company has broken through in pump-driven fluid-loop heat {{16}}, technologies that Zhang Shijie, chief scientist at Galactic Aerospace, says will underpin high-power space computing payloads. On the communication front, the focus is on a regionally {{17}} architecture. With dense ground-station coverage domestically and selective nodes overseas, inter-satellite laser links have stabilized at 100 Gbps and satellite-to-ground laser tests have reached 120 Gbps, while round-trip latency within China and the Asia-Pacific is held at 30 to 50 milliseconds, sufficient for time-sensitive scenarios such as emergency communications, with core devices 100% domestically controlled, according to Xu Zifan, a prominent technology analyst and the deputy director of the Advanced Computing Research Office at the Electronics Research Institute, which is part of the China Center for Information Industry Development. In an aerial view, a SpaceX Falcon 9 rocket rises after launching from Vandenberg Space Force Base carrying 24 Starlink internet satellites in Pasadena, California, US, June 24, 2026.",
+          "cn": "银河航天的灵犀03是中国首颗带有柔性太阳翼的平板式卫星，它指明了方向：“柔性翼”紧凑、轻便且模块化，更易于收纳，单位质量面积更大，可捕获更多太阳能。在热控方面，该公司在泵驱流体回路散热技术上取得突破，银河航天首席科学家张世杰表示，这些技术将为高功率太空计算有效载荷提供支撑。在通信方面，重点在于构建区域弹性架构。据知名技术分析师、中国电子信息产业发展研究院电子信息研究所先进计算研究室副主任徐子凡称，凭借国内密集的地面站覆盖和海外选择性节点，星间激光链路已稳定在100 Gbps，星地激光测试达到120 Gbps，而中国及亚太地区的往返延迟控制在30至50毫秒，足以满足应急通信等时间敏感场景，核心设备100%国产化。"
         },
         {
-          "en": "Leveraging its extensive network and institutional platforms of blue partnerships, China and Madagascar jointly established a sea level change observation station to carry out long-term, continuous and high-precision sea level monitoring in the South Indian Ocean region. The station has been officially incorporated into the UNESCO Global Sea Level Observing System (GLOSS), contributing to climate change responses. China has also joined forces with relevant countries and international organizations to launch the Blue Citizens Initiative. Together with Thailand, Indonesia, Cambodia and other countries, China has delivered marine classroom and nature education programs, and jointly built Blue Communities, effectively raising ocean literacy within coastal communities. The ocean unites the world into a community where we all rise and fall together.",
-          "cn": "依托广泛的蓝色伙伴关系网络和机构平台，中国与马达加斯加共同建立了海平面变化观测站，在南印度洋区域开展长期、连续、高精度的海平面监测。该站已正式纳入联合国教科文组织全球海平面观测系统，为应对气候变化作出贡献。中国还联合相关国家和国际组织发起'蓝色公民'倡议。中国与泰国、印度尼西亚、柬埔寨等国共同开展海洋课堂和自然教育项目，共建蓝色社区，有效提升了沿海社区的海洋素养。海洋将世界联结成一个休戚与共的共同体。"
+          "en": "The global race intensifies\nThe global race is {{18}}. SpaceX has outlined a long-term vision of deploying up to one million low-Earth orbit (LEO) satellites as orbital data centers, while the European Union is advancing its Space Data Center initiative. Russia is enhancing onboard computing capabilities for its Sfera constellation, and Japan is investing in in-orbit processing for Earth-observation satellites. Some recent studies estimate that the LEO region between 300 and 2,000 km could safely accommodate only around 175,000 satellites under current collision-avoidance assumptions. Meanwhile, under the International Telecommunication Union's spectrum filing framework, satellite operators generally have seven years to bring frequency filings into use, followed by phased deployment milestones for non-geostationary constellations.",
+          "cn": "全球竞赛正在加剧。SpaceX已勾勒出长期愿景，计划部署多达100万颗低地球轨道卫星作为轨道数据中心，而欧盟正在推进其太空数据中心计划。俄罗斯正在增强其Sfera星座的星载计算能力，日本则投资于地球观测卫星的在轨处理。一些近期研究估计，根据当前的碰撞规避假设，300至2000公里之间的低地球轨道区域只能安全容纳约17.5万颗卫星。与此同时，根据国际电信联盟的频谱申报框架，卫星运营商通常有七年时间将频率申报投入使用，随后是非静止轨道星座的分阶段部署里程碑。"
         },
         {
-          "en": "To achieve the object of promoting 'the economic and social advancement of all peoples of the world', there is no reason for UNCLOS to remain stagnant and unchanging. Instead, it ought to embrace new wisdom, concepts, and approaches to ocean governance with a more open, inclusive and forward-looking stance. The international community needs to join hands to uphold {{16}} and international law, including UNCLOS. UNCLOS provides a comprehensive legal framework to safeguard the overall interests of the international community. Together with other maritime treaties and agreements, as well as customary international law, it underpins the modern system of the law of the sea.",
-          "cn": "为了实现促进'世界各国人民的经济和社会进步'的目标，《公约》没有理由停滞不前。相反，它应以更加开放、包容和前瞻的姿态，吸纳海洋治理的新智慧、新理念和新方法。国际社会需要携手维护多边主义和国际法，包括《公约》。《公约》为维护国际社会的整体利益提供了全面的法律框架。它与其它海洋条约、协定以及习惯国际法一道，构成了现代海洋法体系的基础。"
-        },
-        {
-          "en": "Valuing this milestone achieved through joint efforts of the entire international community, China advocates squarely addressing the internal constraints and external challenges in the implementation of UNCLOS. For instance, UNCLOS contains inherent limitations. It cannot cover all matters of the law of the sea, and lacks sufficient institutional provisions to address newly emerging ocean affairs, which undermines its enforcement outcomes. Its implementation is simultaneously hindered by multiple obstacles, such as the misinterpretation of its provisions and the abuse of its procedures. Meanwhile, unilateral moves further erode the legal order founded under UNCLOS and damage its solemnity and authority.",
-          "cn": "珍视这一国际社会共同努力取得的里程碑，中国主张正视《公约》实施中的内在制约和外部挑战。例如，《公约》存在固有局限性。它无法涵盖所有海洋法事项，且缺乏足够的制度规定来应对新出现的海洋事务，这削弱了其执行效果。其执行同时受到多种障碍的阻碍，例如对其条款的曲解和对其程序的滥用。同时，单边行动进一步侵蚀了《公约》所确立的法律秩序，损害了其严肃性和权威性。"
-        },
-        {
-          "en": "It demonstrates due respect for its negotiating history and spirit of compromise to view UNCLOS in an objective, holistic and dialectical manner. It is essential to calibrate its positioning within the modern legal order for the seas and oceans-without underestimating or overstating its value-so as to properly balance continuity and development in the law of the sea. It represents the right approach to uphold UNCLOS by interpreting and applying it fully, accurately, and in good faith. Rights conferred by UNCLOS should be exercised in a reasonable manner, and obligations thereunder discharged in good faith. The object and purpose of UNCLOS must be safeguarded, its built-in balance preserved, and abusive practices-such as interpretive distortions, abuse of process, and {{18}} overreach-opposed.",
-          "cn": "客观、全面、辩证地看待《公约》，是对其谈判历史和妥协精神的应有尊重。必须校准其在现代海洋法律秩序中的定位——既不低估也不夸大其价值——从而妥善平衡海洋法的延续与发展。全面、准确、善意地解释和适用《公约》，是维护《公约》的正确途径。《公约》赋予的权利应合理行使，其项下的义务应善意履行。必须维护《公约》的目标和宗旨，保持其内在平衡，反对解释扭曲、程序滥用和管辖权过度扩张等滥用行为。"
-        },
-        {
-          "en": "It provides viable solutions to address persistent difficulties and challenges in UNCLOS implementation and improve global ocean governance by jointly advancing China's Four Global Initiatives. In the pursuit of the Sustainable Development Goals, modern law of the sea and China's cultural ethos can {{19}} in values. The path forward lies in practicing true multilateralism, accelerating the delivery of tangible outcomes under these Initiatives, and fostering a more just and equitable system for global ocean governance so as to advance steadily toward a community with a shared future for mankind. Against the accelerating once-in-a-century global transformation, the ocean should serve as a vital platform to build consensus and pursue shared development. All countries need to regard win-win cooperation as a priority, jointly sustain and deepen solidarity in maritime cooperation and governance, and devote greater wisdom and strength to building our shared blue homeland.",
-          "cn": "通过共同推进中国的'四大全球倡议'，可以为解决《公约》实施中持续存在的困难和挑战、改善全球海洋治理提供可行方案。在追求可持续发展目标的过程中，现代海洋法与中国文化精神可以产生价值共鸣。前进的道路在于践行真正的多边主义，加快落实这些倡议下的切实成果，并建立一个更加公正合理的全球海洋治理体系，从而稳步迈向人类命运共同体。在百年未有之大变局加速演进的背景下，海洋应成为凝聚共识、谋求共同发展的重要平台。各国需以合作共赢为重，共同维护和深化海洋合作与治理中的团结，为建设我们共同的蓝色家园贡献更多智慧和力量。"
-        },
-        {
-          "en": "The author, Shu Zhenya, is a research fellow of the China Institute for Marine Affairs, Ministry of Natural Resources of China.",
-          "cn": "作者舒振亚，系自然资源部海洋发展战略研究所研究员。"
+          "en": "As AI models become larger and Earth observation grows exponentially, the competition is no longer about who can launch more satellites, but who can process information first. The next frontier of the digital economy may therefore be measured not only by computing power on Earth, but also by intelligence deployed in orbit.",
+          "cn": "随着人工智能模型变得更大，地球观测数据呈指数级增长，竞争已不再是关于谁能发射更多卫星，而是谁能首先处理信息。因此，数字经济的下一个前沿可能不仅取决于地球上的计算能力，还取决于部署在轨道上的智能水平。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "arena",
-          "hint": "n. 领域；舞台",
+          "answer": "confronting",
+          "hint": "v. 面对",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "pivotal",
-          "hint": "adj. 关键的",
+          "answer": "intensive",
+          "hint": "adj. 密集的",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "profound",
-          "hint": "adj. 深刻的；重大的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "signatories",
-          "hint": "n. 签署国",
-          "difficulty": "hard"
-        },
-        {
-          "id": 4,
-          "answer": "implementation",
-          "hint": "n. 实施；执行",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "equitable",
-          "hint": "adj. 公平的；公正的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "heritage",
-          "hint": "n. 遗产",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "exploitation",
-          "hint": "n. 开发；开采",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "strategic",
-          "hint": "adj. 战略的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "sovereignty",
-          "hint": "n. 主权",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "forecasting",
-          "hint": "n. 预测；预报",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "capacity",
-          "hint": "n. 能力；容量",
+          "answer": "consumption",
+          "hint": "n. 消耗",
           "difficulty": "easy"
         },
         {
-          "id": 12,
-          "answer": "multilateralism",
-          "hint": "n. 多边主义",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "jurisdictional",
-          "hint": "adj. 司法管辖的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "resonate",
-          "hint": "v. 共鸣；回响",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "(CNS)-- The ocean belongs to all humanity as our shared home, and constitutes a key arena for global governance. Since its adoption, the United Nations Convention on the Law of the Sea (UNCLOS) has played a pivotal role in enabling humanity to better understand, protect and utilize the ocean.\nAs the international maritime order undergoes profound readjustment, it has become a common concern of all countries how to advance marine sustainable development and strengthen global ocean governance. 2026 marks the 30th anniversary of China's status as a State Party to UNCLOS. As a major maritime developing country, China stands ready to work with all other countries to forge a new journey in ocean governance with the bridge of the ocean.\nAs one of the original signatories, China has consistently ensured the full and faithful implementation of UNCLOS provisions, standing as an active participant, builder, and contributor to UNCLOS and its mechanisms.\nHistorically, the Third United Nations Conference on the Law of the Sea marked the first important international legislative process in which China participated following the restoration of its lawful seat in the United Nations. Taking into account the interests of itself, developing countries, and the international community as a whole, China actively promoted the establishment of a just and equitable international maritime order. Standing side by side with numerous developing countries, China jointly advocated for the reaffirmation of vital principles and systems of the law of the sea, such as 'the common heritage of mankind', thereby making a significant contribution to the adoption of UNCLOS.\nSince becoming a State Party, China has adhered to the spirit of UNCLOS, implemented its provisions fully and faithfully, and promoted the full implementation of UNCLOS in domestic maritime legislation, law enforcement, and judicial practice.\nChina takes an active and in-depth part in developing the global ocean governance system, and continuously supports and facilitates the effective functioning of the three important institutions established under UNCLOS: the International Tribunal for the Law of the Sea (ITLOS), the International Seabed Authority (ISA), and the Commission on the Limits of the Continental Shelf (CLCS).\nChina keeps advancing the development of a modern maritime order and actively participates in negotiations on UNCLOS implementing agreements, such as the Agreement Relating to the Implementation of Part XI of the United Nations Convention on the Law of the Sea of 10 December 1982 (1994 Implementation Agreement) and the Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 Relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks (UN Fish Stocks Agreement). The Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction (BBNJ Agreement) represents an outcome of 19 years of negotiations. China took part in the relevant process throughout and actively pushed for the entry-into-force of the BBNJ Agreement this January, and supports Xiamen's application to host the Secretariat of the BBNJ Agreement, thereby demonstrating its sense of responsibility as a major country. In addition, China has engaged constructively in significant international rule-making processes, such as consultations on regulations for the exploitation of deep-sea mineral resources.\nThe ocean constitutes a treasure trove of resources and a strategic space underpinning future development. China has consistently integrated its own development into the global sustainable development framework, expanded blue partnerships, engaged deeply in global ocean governance, and actively advanced the building of a maritime community with a shared future.\nOver the years, China has taken proactive measures to safeguard freedom of navigation and navigational safety and keep international shipping lanes unimpeded. China respects and upholds the freedom of navigation and overflight to which all countries are entitled under international law, and firmly opposes acts that undermine the sovereignty and security of other countries under the pretext of so-called 'freedom of navigation'. Moreover, China continues to upgrade maritime support services such as maritime search and rescue, greatly boosting navigational safety.\nThe maritime public goods supplied by China deliver shared benefits to all stakeholders. The source codes for the Mazu series ocean current and wave forecasting models have been open-sourced globally. The South China Sea Tsunami Advisory Centre (SCSTAC) is capable of releasing its initial advisory within 10 minutes, boasting world-leading speed and accuracy. China has long offered neighboring countries round-the-clock tsunami forecasting and warning services as well as personnel training. Its emergency remote sensing monitoring services for disasters have received favorable feedback from government authorities of Pacific island countries such as Kiribati and the Solomon Islands.\nBy advancing digital and intelligent technological transformation, China deepens maritime cooperation and provides solid support for capacity-building in developing countries. Jointly with African countries, China has released and launched the Xinghai Multi-scale Comprehensive Marine Dataset. It includes an online marine remote sensing analysis platform, remote sensing monitoring of the coastal zones of Africa and the Indian Ocean, and AI-based integrated four-dimensional chlorophyll datasets. It has also developed the 'Toolkit for Marine Solutions for Sustainable Development of Coastal Cities' to deliver convenient marine information services and efficient decision-making support for integrated governance to developing countries.\nChina advances practical maritime cooperation driven by 'small yet beautiful' projects. Leveraging its extensive network and institutional platforms of blue partnerships, China and Madagascar jointly established a sea level change observation station to carry out long-term, continuous and high-precision sea level monitoring in the South Indian Ocean region. The station has been officially incorporated into the UNESCO Global Sea Level Observing System (GLOSS), contributing to climate change responses. China has also joined forces with relevant countries and international organizations to launch the Blue Citizens Initiative. Together with Thailand, Indonesia, Cambodia and other countries, China has delivered marine classroom and nature education programs, and jointly built Blue Communities, effectively raising ocean literacy within coastal communities.\nThe ocean unites the world into a community where we all rise and fall together. To achieve the object of promoting 'the economic and social advancement of all peoples of the world', there is no reason for UNCLOS to remain stagnant and unchanging. Instead, it ought to embrace new wisdom, concepts, and approaches to ocean governance with a more open, inclusive and forward-looking stance. The international community needs to join hands to uphold multilateralism and international law, including UNCLOS.\nUNCLOS provides a comprehensive legal framework to safeguard the overall interests of the international community. Together with other maritime treaties and agreements, as well as customary international law, it underpins the modern system of the law of the sea. Valuing this milestone achieved through joint efforts of the entire international community, China advocates squarely addressing the internal constraints and external challenges in the implementation of UNCLOS.\nFor instance, UNCLOS contains inherent limitations. It cannot cover all matters of the law of the sea, and lacks sufficient institutional provisions to address newly emerging ocean affairs, which undermines its enforcement outcomes. Its implementation is simultaneously hindered by multiple obstacles, such as the misinterpretation of its provisions and the abuse of its procedures. Meanwhile, unilateral moves further erode the legal order founded under UNCLOS and damage its solemnity and authority.\nIt demonstrates due respect for its negotiating history and spirit of compromise to view UNCLOS in an objective, holistic and dialectical manner. It is essential to calibrate its positioning within the modern legal order for the seas and oceans-without underestimating or overstating its value-so as to properly balance continuity and development in the law of the sea.\nIt represents the right approach to uphold UNCLOS by interpreting and applying it fully, accurately, and in good faith. Rights conferred by UNCLOS should be exercised in a reasonable manner, and obligations thereunder discharged in good faith. The object and purpose of UNCLOS must be safeguarded, its built-in balance preserved, and abusive practices-such as interpretive distortions, abuse of process, and jurisdictional overreach-opposed.\nIt provides viable solutions to address persistent difficulties and challenges in UNCLOS implementation and improve global ocean governance by jointly advancing China's Four Global Initiatives. In the pursuit of the Sustainable Development Goals, modern law of the sea and China's cultural ethos can resonate in values. The path forward lies in practicing true multilateralism, accelerating the delivery of tangible outcomes under these Initiatives, and fostering a more just and equitable system for global ocean governance so as to advance steadily toward a community with a shared future for mankind.\nAgainst the accelerating once-in-a-century global transformation, the ocean should serve as a vital platform to build consensus and pursue shared development. All countries need to regard win-win cooperation as a priority, jointly sustain and deepen solidarity in maritime cooperation and governance, and devote greater wisdom and strength to building our shared blue homeland.\nThe author, Shu Zhenya, is a research fellow of the China Institute for Marine Affairs, Ministry of Natural Resources of China.",
-      "fullTextCn": "海洋是全人类共同的家园，也是全球治理的关键领域。自通过以来，《联合国海洋法公约》在帮助人类更好地认识、保护和利用海洋方面发挥了关键作用。随着国际海洋秩序深刻调整，如何推进海洋可持续发展、加强全球海洋治理已成为各国共同关切。2026年是中国成为《公约》缔约国30周年。作为一个海洋大国和发展中国家，中国愿与各国一道，以海洋为桥梁，开启海洋治理的新征程。\n\n作为最初的签署国之一，中国始终坚持全面、忠实地履行《公约》条款，是《公约》及其机制的积极参与者、建设者和贡献者。历史上，第三次联合国海洋法会议是中国恢复联合国合法席位后参与的第一个重要国际立法进程。中国兼顾自身、发展中国家和国际社会的整体利益，积极推动建立公正合理的国际海洋秩序。中国与众多发展中国家并肩，共同倡导重申'人类共同继承财产'等海洋法的重要原则和制度，为《公约》的通过作出了重要贡献。成为缔约国以来，中国恪守《公约》精神，全面、忠实地履行其条款，并在国内海洋立法、执法和司法实践中推动《公约》的全面实施。\n\n中国积极深入参与全球海洋治理体系的建设，持续支持并促进《公约》设立的三大重要机构——国际海洋法法庭、国际海底管理局和大陆架界限委员会的有效运作。中国不断推进现代海洋秩序的发展，积极参与《公约》执行协定的谈判，例如《关于执行1982年12月10日〈联合国海洋法公约〉第十一部分的协定》和《执行1982年12月10日〈联合国海洋法公约〉有关养护和管理跨界鱼类种群和高度洄游鱼类种群的规定的协定》。《国家管辖范围以外区域海洋生物多样性的养护和可持续利用协定》是19年谈判的成果。中国全程参与了相关进程，并于今年1月积极推动该协定生效，支持厦门申请作为该协定秘书处所在地，展现了大国担当。此外，中国还建设性地参与了深海矿产资源开发规章磋商等重要国际规则制定进程。\n\n海洋是资源宝库和支撑未来发展的战略空间。中国始终将自身发展融入全球可持续发展框架，拓展蓝色伙伴关系，深度参与全球海洋治理，积极推动构建海洋命运共同体。多年来，中国采取积极措施保障航行自由和航行安全，维护国际航道畅通。中国尊重和维护各国根据国际法享有的航行和飞越自由，坚决反对以所谓'航行自由'为名损害他国主权和安全的行为。此外，中国不断提升海上搜救等海上保障服务能力，极大地促进了航行安全。\n\n中国提供的海洋公共产品惠及所有利益攸关方。'妈祖'系列海流和海浪预报模型源代码已向全球开源。南海海啸预警中心能在10分钟内发布初始预警，速度和精度均居世界前列。中国长期为周边国家提供全天候的海啸预报预警服务和人员培训。其灾害应急遥感监测服务获得了基里巴斯、所罗门群岛等太平洋岛国政府部门的积极反馈。\n\n通过推进数字化、智能化技术转型，中国深化海洋合作，为发展中国家能力建设提供坚实支撑。中国与非洲国家共同发布并启动了'星海'多尺度综合海洋数据集。该数据集包括在线海洋遥感分析平台、非洲和印度洋海岸带遥感监测以及基于人工智能的四维叶绿素综合数据集。中国还开发了'沿海城市可持续发展海洋解决方案工具包'，为发展中国家提供便捷的海洋信息服务和高效的综合治理决策支持。中国以'小而美'项目推动务实海洋合作。\n\n依托广泛的蓝色伙伴关系网络和机构平台，中国与马达加斯加共同建立了海平面变化观测站，在南印度洋区域开展长期、连续、高精度的海平面监测。该站已正式纳入联合国教科文组织全球海平面观测系统，为应对气候变化作出贡献。中国还联合相关国家和国际组织发起'蓝色公民'倡议。中国与泰国、印度尼西亚、柬埔寨等国共同开展海洋课堂和自然教育项目，共建蓝色社区，有效提升了沿海社区的海洋素养。海洋将世界联结成一个休戚与共的共同体。\n\n为了实现促进'世界各国人民的经济和社会进步'的目标，《公约》没有理由停滞不前。相反，它应以更加开放、包容和前瞻的姿态，吸纳海洋治理的新智慧、新理念和新方法。国际社会需要携手维护多边主义和国际法，包括《公约》。《公约》为维护国际社会的整体利益提供了全面的法律框架。它与其它海洋条约、协定以及习惯国际法一道，构成了现代海洋法体系的基础。\n\n珍视这一国际社会共同努力取得的里程碑，中国主张正视《公约》实施中的内在制约和外部挑战。例如，《公约》存在固有局限性。它无法涵盖所有海洋法事项，且缺乏足够的制度规定来应对新出现的海洋事务，这削弱了其执行效果。其执行同时受到多种障碍的阻碍，例如对其条款的曲解和对其程序的滥用。同时，单边行动进一步侵蚀了《公约》所确立的法律秩序，损害了其严肃性和权威性。\n\n客观、全面、辩证地看待《公约》，是对其谈判历史和妥协精神的应有尊重。必须校准其在现代海洋法律秩序中的定位——既不低估也不夸大其价值——从而妥善平衡海洋法的延续与发展。全面、准确、善意地解释和适用《公约》，是维护《公约》的正确途径。《公约》赋予的权利应合理行使，其项下的义务应善意履行。必须维护《公约》的目标和宗旨，保持其内在平衡，反对解释扭曲、程序滥用和管辖权过度扩张等滥用行为。\n\n通过共同推进中国的'四大全球倡议'，可以为解决《公约》实施中持续存在的困难和挑战、改善全球海洋治理提供可行方案。在追求可持续发展目标的过程中，现代海洋法与中国文化精神可以产生价值共鸣。前进的道路在于践行真正的多边主义，加快落实这些倡议下的切实成果，并建立一个更加公正合理的全球海洋治理体系，从而稳步迈向人类命运共同体。在百年未有之大变局加速演进的背景下，海洋应成为凝聚共识、谋求共同发展的重要平台。各国需以合作共赢为重，共同维护和深化海洋合作与治理中的团结，为建设我们共同的蓝色家园贡献更多智慧和力量。\n\n作者舒振亚，系自然资源部海洋发展战略研究所研究员。"
-    },
-    {
-      "id": 2,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-07-04/detail-ihffyeqp1388197.shtml",
-      "title": "Insights | One-character shift, governance upgrade: why China's 15th Five-Year Plan become a global focus",
-      "titleCn": "洞见 | 一字之变，治理升级：为何中国“十五五”规划成为全球焦点",
-      "summary": "(ECNS) -- \"In the current moment, China's 15th Five-Year budget plan at the beginning of this year, is of actual fascination and concentration.",
-      "summaryCn": "国际学者认为中国从“计划”到“规划”的术语转变体现了治理现代化，而“十五五”规划聚焦创新驱动与消费扩张，将开启“中国机遇2.0”。",
-      "wordCount": 1002,
-      "paragraphs": [
-        {
-          "en": "(ECNS) -- \"In the current moment, China's 15th Five-Year budget plan at the beginning of this year, is of actual {{0}} and {{1}}. I don't remember a five-year plan in many years that has received as much attention as this one,\" said Adam Tooze, director of the European Institute at Columbia University in the U.S., in a recent interview with China News Network. Against the backdrop of global governance challenges, including energy shocks, supply chain restructuring, and the risk of technological {{2}}, China entered its 15th Five-Year Plan period in 2026, with its policy {{3}} center on expanding domestic demand, driving industrial upgrading through innovation, and accelerating the green {{4}} across sectors ranging from advanced manufacturing to new energy. On the topic of China's positioning during the 15th Five-Year Plan period, international scholars believe that the key to understanding the plan lies in {{5}} the {{6}} of China's planning vocabulary itself. The dynamic innovation of China's governance\nThe 15th Five-Year Plan, which kicks off in 2026, places greater emphasis on innovation and highlights innovation-driven high-quality development.",
-          "cn": "（中新网）——美国哥伦比亚大学欧洲研究所所长亚当·图泽近日在接受中新网采访时表示：“在当下这个时刻，中国今年年初开始的‘十五五’规划预算，确实令人着迷且值得关注。我不记得多年来有哪个五年计划像这次一样受到如此多的关注。”在全球治理面临能源冲击、供应链重组和技术脱钩风险的背景下，中国于2026年进入“十五五”规划期，其政策重点聚焦于扩大内需、以创新驱动产业升级，并加速从先进制造业到新能源等各领域的绿色转型。关于中国在“十五五”规划期的定位，国际学者认为，理解该规划的关键在于解读中国规划词汇本身的演变。中国治理的动态创新：2026年启动的“十五五”规划更加注重创新，并强调创新驱动的高质量发展。"
-        },
-        {
-          "en": "This reflects a {{7}} of China's development planning toward more {{8}} policy implementation and improved governance {{9}}. In Tooze's view, the new five-year plan budget edited by the Chinese government reflects a {{10}} of its policy. He noted that this budget is not a simple extension of past practices, but rather an effort to continuously adjust the direction of planning and pursue planning innovation. \"This constant {{11}} of governance within China is easily {{12}} from the outside,\" Tooze added. Tooze also made an {{13}} observation that the Western understanding of China's five-year planning often fails to grasp the {{14}} difference between the Chinese terms \"jihua\" (plan) and \"guihua\" (programming).",
-          "cn": "这反映了中国发展规划正朝着更具针对性的政策实施和更高的治理效能深化。在图泽看来，中国政府编制的新五年规划预算体现了其政策的连续性。他指出，这一预算并非过去做法的简单延续，而是不断调整规划方向、追求规划创新的努力。“中国治理内部的这种持续调整，很容易被外界低估，”图泽补充道。图泽还提出了一个有趣的观察：西方对中国五年规划的理解，往往未能把握中文“计划”与“规划”这两个术语之间的微妙差异。"
-        },
-        {
-          "en": "He pointed out that in the first decade of this century, China's five-year planning terminology had already undergone a {{15}} shift from \"plan\" to \"programming\". In his view, this shift essentially introduced a governance evaluation {{16}} centered on a {{17}} {{18}}, moving closer to the deeper logic of \"governance\" itself. \"In my eyes, this is a clear, long-term {{19}} for modern governance,\" Tooze said approvingly. \"It is a refreshing {{20}} to the reality to replace the challenges,\" added him. Tooze's observation was {{21}} by Yuen Yuen Ang, Alfred Chandler Chair professor of political economy at Johns Hopkins University in the U.S..",
-          "cn": "他指出，在本世纪头十年，中国五年规划的术语已经经历了从“计划”到“规划”的根本性转变。在他看来，这一转变本质上引入了一个以统计矩阵为核心的治理评估框架，更贴近“治理”本身的深层逻辑。“在我看来，这是一份清晰的现代治理长期蓝图，”图泽赞许地说。“对于现实挑战而言，这是一剂令人耳目一新的解药。”他补充道。图泽的观察得到了美国约翰霍普金斯大学政治经济学阿尔弗雷德·钱德里讲席教授洪源远的共鸣。"
-        },
-        {
-          "en": "In her view, the profound depth of China’s evolution from \"plan\" to \"programming\" is {{22}}. And to understand why this shift is so critical, she suggested, one must first look back at China's growth model of the past. Ang noted that since the 1980s, {{23}} into the global system, export {{24}}, consumer goods manufacturing, investment, and infrastructure have together formed the main engines of China's economic growth. Early five-year plans, if likened to driving, were like moving straight ahead with a clear direction, making adjustments every five years and continuing forward. \"Now why is the 15th Five-Year Plan even more important than the past five-year plans？Because it is grabbing onto the steering wheel with a steady hand and making a short turn.",
-          "cn": "在她看来，中国从“计划”到“规划”的演变所蕴含的深刻内涵令人瞩目。她认为，要理解这一转变为何如此关键，首先必须回顾中国过去的增长模式。洪源远指出，自20世纪80年代以来，融入全球体系、出口导向、消费品制造、投资和基础设施共同构成了中国经济增长的主要引擎。早期的五年计划，如果比作驾驶，就像是沿着明确方向直线行驶，每五年调整一次，然后继续前进。“那么，为什么‘十五五’规划比以往的五年计划更为重要？因为它正稳稳地握住方向盘，进行一个短距离转弯。"
-        },
-        {
-          "en": "There is a diving document for China's {{25}} {{26}} from simply pursuing growth in terms of the quantity of GDP towards high quality growth,\" said Ang. She analyzed that high-quality development depends on cutting-edge innovation in specific fields. China has historically been an important innovator, as she noted, and that is beyond doubt. She explained that over the past decades, China's innovative strengths have been more prominent in incremental innovation from \"1 to 10\" at the application level and in scaling from \"10 to 100.\" The 15th Five-Year Plan, however, indicates that China now also aspires to excel in \"0 to 1\" innovation, which focuses more on basic research and original R&D. \"China's goal is not just to continue expanding the scale of its economy, but to become a '0 to 1' innovator.",
-          "cn": "这是一份指导中国从单纯追求GDP数量增长向高质量发展进行结构性转型的纲领性文件，”洪源远说。她分析道，高质量发展依赖于特定领域的尖端创新。她指出，中国历史上一直是一个重要的创新者，这一点毋庸置疑。她解释说，过去几十年，中国的创新优势更多体现在应用层面“从1到10”的增量创新以及“从10到100”的规模化创新上。然而，“十五五”规划表明，中国现在也渴望在“从0到1”的创新上取得卓越成就，这种创新更侧重于基础研究和原创性研发。“中国的目标不仅仅是继续扩大经济规模，而是要成为一个‘从0到1’的创新者。"
-        },
-        {
-          "en": "This is the broad context in which it's helpful to understand the significance of the 15th Five-Year Plan.\"\nDual engines: technological catch-up and consumption expansion in parallel\n\"If the 14th Five-Year Plan focused on catching up in cutting-edge technology, the 15th Five-Year Plan continues that technological catch-up while also making consumption promotion a core priority,\" Ang said of China’s positioning in the 15th Five-Year Plan period. She emphasized that \"0 to 1\" innovation breakthroughs and \"consumption expansion\" are not parallel lines. She pointed out that the goals of cutting-edge technology and consumption promotion are highly complementary, because China currently has the world's leading manufacturing capabilities. Whether simple consumer goods or advanced technology products, all can be produced at scale and at low cost. If China can continue to boost domestic consumption to absorb this production capacity, it will give rise to a genuine \"China Opportunity 2.0.\" And this, she said, is the key juncture where the two major goals intersect.",
-          "cn": "这正是理解‘十五五’规划重要性的广阔背景。”\n双引擎：技术追赶与消费扩张并行\n“如果说‘十四五’规划侧重于尖端技术的追赶，那么‘十五五’规划在延续技术追赶的同时，也将促进消费作为核心优先事项，”洪源远在谈到中国在“十五五”规划期的定位时表示。她强调，“从0到1”的创新突破与“消费扩张”并非平行线。她指出，尖端技术目标和促进消费目标高度互补，因为中国目前拥有世界领先的制造能力。无论是简单的消费品还是先进的技术产品，都可以大规模、低成本地生产。如果中国能够持续提振国内消费以吸收这部分产能，就将催生真正的“中国机遇2.0”。她表示，这正是两大目标交汇的关键节点。"
-        },
-        {
-          "en": "She suggested that, to further expand domestic consumption, China should appropriately pivot some focus back to applied innovation, commercialization, and scaling, such as in e-commerce development. \"This is where China was very good at,\" she said, \"and these are the kinds of innovations that produces the mass employment and participation in the labor market.\"\nOn this point, Tooze added that, beyond e-commerce, China's development of energy storage batteries is also a good example. As a representative of \"10 to 100\" scaling innovation, energy storage batteries are not only an extension of technological application but also create new scenarios for downstream consumption. \"Globally, this was an industry that didn't previously exists and its impact has been positive. It is one that transforms the possibilities of electrification, above all in poor countries, above all in sub-Saharan Africa.",
-          "cn": "她建议，为进一步扩大国内消费，中国应适当将部分重心重新转向应用创新、商业化和规模化，例如在电子商务发展方面。“这是中国过去非常擅长的领域，”她说，“而且这类创新能够产生大规模就业和劳动力市场参与。”\n在这一点上，图泽补充道，除了电子商务，中国储能电池的发展也是一个很好的例子。作为“从10到100”规模化创新的代表，储能电池不仅是技术应用的延伸，也为下游消费创造了新场景。“在全球范围内，这是一个以前不存在的行业，其影响是积极的。它改变了电气化的可能性，尤其是在贫穷国家，尤其是在撒哈拉以南非洲地区。"
-        },
-        {
-          "en": "China should continue in this direction,\" Tooze said. His ideas were echoed by Ang, who gave further projections that during the 15th Five-Year Plan period, China will establish two pillars — \"0 to 1\" innovation and consumption promotion. Looking ahead to the 16th Five-Year Plan, she believes more innovation scenarios involving broad consumer participation will emerge, which would further create jobs and ultimately release consumption momentum.",
-          "cn": "中国应该继续朝这个方向努力，”图泽说。他的观点得到了洪源远的赞同，她进一步预测，在“十五五”规划期间，中国将建立两大支柱——“从0到1”的创新和促进消费。展望“十六五”规划，她相信将会出现更多涉及广泛消费者参与的创新场景，这将进一步创造就业机会，并最终释放消费动力。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "fascination",
-          "hint": "n. 魅力，吸引力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "concentration",
-          "hint": "n. 关注，集中",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "decoupling",
-          "hint": "n. 脱钩",
-          "difficulty": "hard"
-        },
-        {
           "id": 3,
-          "answer": "priorities",
-          "hint": "n. 优先事项",
+          "answer": "disruptions",
+          "hint": "n. 中断",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "transition",
-          "hint": "n. 转型，过渡",
-          "difficulty": "medium"
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "easy"
         },
         {
           "id": 5,
-          "answer": "deciphering",
-          "hint": "v. 解读，破译",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "evolution",
-          "hint": "n. 演变，进化",
+          "answer": "integration",
+          "hint": "n. 整合",
           "difficulty": "medium"
         },
         {
+          "id": 6,
+          "answer": "ecosystem",
+          "hint": "n. 生态系统",
+          "difficulty": "easy"
+        },
+        {
           "id": 7,
-          "answer": "deepening",
-          "hint": "n. 深化",
+          "answer": "constellation",
+          "hint": "n. 星座",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "targeted",
-          "hint": "adj. 有针对性的",
-          "difficulty": "medium"
+          "answer": "payloads",
+          "hint": "n. 有效载荷",
+          "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "effectiveness",
-          "hint": "n. 有效性，效能",
+          "answer": "latency",
+          "hint": "n. 延迟",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "continuity",
-          "hint": "n. 连续性",
-          "difficulty": "medium"
+          "answer": "radiation-hardened",
+          "hint": "adj. 抗辐射的",
+          "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "modification",
-          "hint": "n. 调整，修改",
+          "answer": "complementarity",
+          "hint": "n. 互补性",
           "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "underestimated",
-          "hint": "v. 低估",
-          "difficulty": "medium"
+          "answer": "detection",
+          "hint": "n. 检测",
+          "difficulty": "easy"
         },
         {
           "id": 13,
-          "answer": "intriguing",
-          "hint": "adj. 有趣的，引人入胜的",
+          "answer": "fortify",
+          "hint": "v. 加强",
           "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "subtle",
-          "hint": "adj. 微妙的",
+          "answer": "localized",
+          "hint": "adj. 本地化的",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "fundamental",
-          "hint": "adj. 根本的",
-          "difficulty": "medium"
+          "answer": "dissipation",
+          "hint": "n. 散热",
+          "difficulty": "hard"
         },
         {
           "id": 16,
-          "answer": "framework",
-          "hint": "n. 框架",
+          "answer": "resilient",
+          "hint": "adj. 有弹性的",
           "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "statistical",
-          "hint": "adj. 统计的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "matrix",
-          "hint": "n. 矩阵",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "blueprint",
-          "hint": "n. 蓝图",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "antidote",
-          "hint": "n. 解药，矫正方法",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "resonated",
-          "hint": "v. 引起共鸣",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "striking",
-          "hint": "adj. 显著的，引人注目的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "integration",
-          "hint": "n. 融入，整合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "orientation",
-          "hint": "n. 导向，方向",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "structural",
-          "hint": "adj. 结构性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "transformation",
-          "hint": "n. 转型，转变",
+          "answer": "intensifying",
+          "hint": "v. 加剧",
           "difficulty": "medium"
         }
       ],
-      "fullText": "(ECNS) -- \"In the current moment, China's 15th Five-Year budget plan at the beginning of this year, is of actual fascination and concentration. I don't remember a five-year plan in many years that has received as much attention as this one,\" said Adam Tooze, director of the European Institute at Columbia University in the U.S., in a recent interview with China News Network.\nAgainst the backdrop of global governance challenges, including energy shocks, supply chain restructuring, and the risk of technological decoupling, China entered its 15th Five-Year Plan period in 2026, with its policy priorities center on expanding domestic demand, driving industrial upgrading through innovation, and accelerating the green transition across sectors ranging from advanced manufacturing to new energy.\nOn the topic of China's positioning during the 15th Five-Year Plan period, international scholars believe that the key to understanding the plan lies in deciphering the evolution of China's planning vocabulary itself.\nThe dynamic innovation of China's governance\nThe 15th Five-Year Plan, which kicks off in 2026, places greater emphasis on innovation and highlights innovation-driven high-quality development. This reflects a deepening of China's development planning toward more targeted policy implementation and improved governance effectiveness.\nIn Tooze's view, the new five-year plan budget edited by the Chinese government reflects a continuity of its policy. He noted that this budget is not a simple extension of past practices, but rather an effort to continuously adjust the direction of planning and pursue planning innovation.\n\"This constant modification of governance within China is easily underestimated from the outside,\" Tooze added.\nTooze also made an intriguing observation that the Western understanding of China's five-year planning often fails to grasp the subtle difference between the Chinese terms \"jihua\" (plan) and \"guihua\" (programming).\nHe pointed out that in the first decade of this century, China's five-year planning terminology had already undergone a fundamental shift from \"plan\" to \"programming\". In his view, this shift essentially introduced a governance evaluation framework centered on a statistical matrix, moving closer to the deeper logic of \"governance\" itself.\n\"In my eyes, this is a clear, long-term blueprint for modern governance,\" Tooze said approvingly. \"It is a refreshing antidote to the reality to replace the challenges,\" added him.\nTooze's observation was resonated by Yuen Yuen Ang, Alfred Chandler Chair professor of political economy at Johns Hopkins University in the U.S.. In her view, the profound depth of China’s evolution from \"plan\" to \"programming\" is striking. And to understand why this shift is so critical, she suggested, one must first look back at China's growth model of the past.\nAng noted that since the 1980s, integration into the global system, export orientation, consumer goods manufacturing, investment, and infrastructure have together formed the main engines of China's economic growth. Early five-year plans, if likened to driving, were like moving straight ahead with a clear direction, making adjustments every five years and continuing forward.\n\"Now why is the 15th Five-Year Plan even more important than the past five-year plans？Because it is grabbing onto the steering wheel with a steady hand and making a short turn. There is a diving document for China's structural transformation from simply pursuing growth in terms of the quantity of GDP towards high quality growth,\" said Ang.\nShe analyzed that high-quality development depends on cutting-edge innovation in specific fields.\nChina has historically been an important innovator, as she noted, and that is beyond doubt. She explained that over the past decades, China's innovative strengths have been more prominent in incremental innovation from \"1 to 10\" at the application level and in scaling from \"10 to 100.\" The 15th Five-Year Plan, however, indicates that China now also aspires to excel in \"0 to 1\" innovation, which focuses more on basic research and original R&D.\n\"China's goal is not just to continue expanding the scale of its economy, but to become a '0 to 1' innovator. This is the broad context in which it's helpful to understand the significance of the 15th Five-Year Plan.\"\nDual engines: technological catch-up and consumption expansion in parallel\n\"If the 14th Five-Year Plan focused on catching up in cutting-edge technology, the 15th Five-Year Plan continues that technological catch-up while also making consumption promotion a core priority,\" Ang said of China’s positioning in the 15th Five-Year Plan period.\nShe emphasized that \"0 to 1\" innovation breakthroughs and \"consumption expansion\" are not parallel lines.\nShe pointed out that the goals of cutting-edge technology and consumption promotion are highly complementary, because China currently has the world's leading manufacturing capabilities. Whether simple consumer goods or advanced technology products, all can be produced at scale and at low cost. If China can continue to boost domestic consumption to absorb this production capacity, it will give rise to a genuine \"China Opportunity 2.0.\" And this, she said, is the key juncture where the two major goals intersect.\nShe suggested that, to further expand domestic consumption, China should appropriately pivot some focus back to applied innovation, commercialization, and scaling, such as in e-commerce development.\n\"This is where China was very good at,\" she said, \"and these are the kinds of innovations that produces the mass employment and participation in the labor market.\"\nOn this point, Tooze added that, beyond e-commerce, China's development of energy storage batteries is also a good example. As a representative of \"10 to 100\" scaling innovation, energy storage batteries are not only an extension of technological application but also create new scenarios for downstream consumption.\n\"Globally, this was an industry that didn't previously exists and its impact has been positive. It is one that transforms the possibilities of electrification, above all in poor countries, above all in sub-Saharan Africa. China should continue in this direction,\" Tooze said.\nHis ideas were echoed by Ang, who gave further projections that during the 15th Five-Year Plan period, China will establish two pillars — \"0 to 1\" innovation and consumption promotion.\nLooking ahead to the 16th Five-Year Plan, she believes more innovation scenarios involving broad consumer participation will emerge, which would further create jobs and ultimately release consumption momentum.",
-      "fullTextCn": "（中新网）——美国哥伦比亚大学欧洲研究所所长亚当·图泽近日在接受中新网采访时表示：“在当下这个时刻，中国今年年初开始的‘十五五’规划预算，确实令人着迷且值得关注。我不记得多年来有哪个五年计划像这次一样受到如此多的关注。”在全球治理面临能源冲击、供应链重组和技术脱钩风险的背景下，中国于2026年进入“十五五”规划期，其政策重点聚焦于扩大内需、以创新驱动产业升级，并加速从先进制造业到新能源等各领域的绿色转型。关于中国在“十五五”规划期的定位，国际学者认为，理解该规划的关键在于解读中国规划词汇本身的演变。中国治理的动态创新：2026年启动的“十五五”规划更加注重创新，并强调创新驱动的高质量发展。\n\n这反映了中国发展规划正朝着更具针对性的政策实施和更高的治理效能深化。在图泽看来，中国政府编制的新五年规划预算体现了其政策的连续性。他指出，这一预算并非过去做法的简单延续，而是不断调整规划方向、追求规划创新的努力。“中国治理内部的这种持续调整，很容易被外界低估，”图泽补充道。图泽还提出了一个有趣的观察：西方对中国五年规划的理解，往往未能把握中文“计划”与“规划”这两个术语之间的微妙差异。\n\n他指出，在本世纪头十年，中国五年规划的术语已经经历了从“计划”到“规划”的根本性转变。在他看来，这一转变本质上引入了一个以统计矩阵为核心的治理评估框架，更贴近“治理”本身的深层逻辑。“在我看来，这是一份清晰的现代治理长期蓝图，”图泽赞许地说。“对于现实挑战而言，这是一剂令人耳目一新的解药。”他补充道。图泽的观察得到了美国约翰霍普金斯大学政治经济学阿尔弗雷德·钱德里讲席教授洪源远的共鸣。\n\n在她看来，中国从“计划”到“规划”的演变所蕴含的深刻内涵令人瞩目。她认为，要理解这一转变为何如此关键，首先必须回顾中国过去的增长模式。洪源远指出，自20世纪80年代以来，融入全球体系、出口导向、消费品制造、投资和基础设施共同构成了中国经济增长的主要引擎。早期的五年计划，如果比作驾驶，就像是沿着明确方向直线行驶，每五年调整一次，然后继续前进。“那么，为什么‘十五五’规划比以往的五年计划更为重要？因为它正稳稳地握住方向盘，进行一个短距离转弯。\n\n这是一份指导中国从单纯追求GDP数量增长向高质量发展进行结构性转型的纲领性文件，”洪源远说。她分析道，高质量发展依赖于特定领域的尖端创新。她指出，中国历史上一直是一个重要的创新者，这一点毋庸置疑。她解释说，过去几十年，中国的创新优势更多体现在应用层面“从1到10”的增量创新以及“从10到100”的规模化创新上。然而，“十五五”规划表明，中国现在也渴望在“从0到1”的创新上取得卓越成就，这种创新更侧重于基础研究和原创性研发。“中国的目标不仅仅是继续扩大经济规模，而是要成为一个‘从0到1’的创新者。\n\n这正是理解‘十五五’规划重要性的广阔背景。”\n双引擎：技术追赶与消费扩张并行\n“如果说‘十四五’规划侧重于尖端技术的追赶，那么‘十五五’规划在延续技术追赶的同时，也将促进消费作为核心优先事项，”洪源远在谈到中国在“十五五”规划期的定位时表示。她强调，“从0到1”的创新突破与“消费扩张”并非平行线。她指出，尖端技术目标和促进消费目标高度互补，因为中国目前拥有世界领先的制造能力。无论是简单的消费品还是先进的技术产品，都可以大规模、低成本地生产。如果中国能够持续提振国内消费以吸收这部分产能，就将催生真正的“中国机遇2.0”。她表示，这正是两大目标交汇的关键节点。\n\n她建议，为进一步扩大国内消费，中国应适当将部分重心重新转向应用创新、商业化和规模化，例如在电子商务发展方面。“这是中国过去非常擅长的领域，”她说，“而且这类创新能够产生大规模就业和劳动力市场参与。”\n在这一点上，图泽补充道，除了电子商务，中国储能电池的发展也是一个很好的例子。作为“从10到100”规模化创新的代表，储能电池不仅是技术应用的延伸，也为下游消费创造了新场景。“在全球范围内，这是一个以前不存在的行业，其影响是积极的。它改变了电气化的可能性，尤其是在贫穷国家，尤其是在撒哈拉以南非洲地区。\n\n中国应该继续朝这个方向努力，”图泽说。他的观点得到了洪源远的赞同，她进一步预测，在“十五五”规划期间，中国将建立两大支柱——“从0到1”的创新和促进消费。展望“十六五”规划，她相信将会出现更多涉及广泛消费者参与的创新场景，这将进一步创造就业机会，并最终释放消费动力。"
+      "fullText": "As record-breaking heat waves sweep across parts of the world, another challenge is confronting the artificial intelligence boom: keeping the high-performance chips inside data centers cool enough to keep running.\nThe challenge extends far beyond seasonal heat. As AI models become larger and more computationally intensive, demand for computing power is rising at a pace that is testing the physical limits of conventional data centers.\nAccording to the International Energy Agency (IEA), data centers accounted for about 1.5% of global electricity consumption in 2024, with power demand expected to rise sharply as AI deployment accelerates.\nRising electricity use, cooling costs and increasing exposure to climate-related disruptions are prompting governments and technology companies to rethink where future computing infrastructure should be built.\nTranslating this background into action, a multi-city layout is taking shape in China. Beijing serves as the anchor for research and development and standard setting through its new innovation center. Tianjin focuses on space-ground computing integration and hardware development. Shanghai is building out the broader industrial ecosystem. Hangzhou leans into intelligent applications, anchored by the \"Three-Body Computing Constellation,\" which has already been deployed in orbit. Led by Zhejiang Lab (ZJ Lab), it aims to build a network of thousands of satellites with a total computing power of 1,000 peta operations per second. The constellation will enable real-time in-orbit data processing with intelligent payloads.\nWhy move computing power into space?\nTraditional satellites act like \"cameras that only take pictures\": they collect raw data in orbit, beam it all down to ground stations and wait for Earth-based supercomputers to process it. Industry estimates suggest less than 10% of collected data ever gets used, with latency running to hours or days.\nSpace computing flips the model. Satellites are equipped with radiation-hardened chips, onboard servers and storage, linked into constellations that can collect, analyze and decide in orbit, sending back only high-value results.\nAccording to industry insiders, space computing mainly comprises three operating models: \"in-orbit processing of space-collected data,\" which processes data gathered in space on board and downlinks only high-value results; \"space-based processing of ground-uploaded data,\" which leverages the advantages of space computing to process data uploaded from the ground and \"integrated space-ground collaborative computing,\" which builds a global distributed computing network to achieve efficient complementarity of space and terrestrial resources.\nBandwidth consumption can drop by more than 90%; response times shrink from hours to seconds. Applications range from real-time wildfire and flood alerts to crop-stress tracking, illegal-fishing detection in remote oceans and polar-ice monitoring – all without waiting for a downlink window.\nA Long March-2D rocket launches 12 satellites from the Jiuquan Satellite Launch Center, May 14, 2025. \nAccelerating tech breakthroughs to fortify space intelligent infrastructure\nProgress across computing, energy and communications is reinforcing the foundations of China's space-based intelligent infrastructure.\nOn the computing front, the country is prioritizing constellation-scale in-orbit clusters and homegrown anti-radiation technologies. The Three-Body Computing Constellation serves as a reference case: the 12-satellite network, equipped with domestically produced space-borne AI servers, delivers a peak of 744 TOPS per satellite and 5 POPS in aggregate, with core components fully localized through native aerospace-grade chips and tailored processes.\nOn the energy front, efforts center on high-efficiency space power generation and radiative thermal management. Galactic Aerospace's Lingxi 03, China's first flat-stack satellite with flexible solar wings, illustrates the direction: the \"flexible wings\" are compact, lightweight and modular, easier to stow and per unit mass, larger in area to capture more solar energy. On the thermal side, the company has broken through in pump-driven fluid-loop heat dissipation, technologies that Zhang Shijie, chief scientist at Galactic Aerospace, says will underpin high-power space computing payloads.\nOn the communication front, the focus is on a regionally resilient architecture. With dense ground-station coverage domestically and selective nodes overseas, inter-satellite laser links have stabilized at 100 Gbps and satellite-to-ground laser tests have reached 120 Gbps, while round-trip latency within China and the Asia-Pacific is held at 30 to 50 milliseconds, sufficient for time-sensitive scenarios such as emergency communications, with core devices 100% domestically controlled, according to Xu Zifan, a prominent technology analyst and the deputy director of the Advanced Computing Research Office at the Electronics Research Institute, which is part of the China Center for Information Industry Development.\nIn an aerial view, a SpaceX Falcon 9 rocket rises after launching from Vandenberg Space Force Base carrying 24 Starlink internet satellites in Pasadena, California, US, June 24, 2026. \nThe global race intensifies\nThe global race is intensifying. SpaceX has outlined a long-term vision of deploying up to one million low-Earth orbit (LEO) satellites as orbital data centers, while the European Union is advancing its Space Data Center initiative. Russia is enhancing onboard computing capabilities for its Sfera constellation, and Japan is investing in in-orbit processing for Earth-observation satellites. Some recent studies estimate that the LEO region between 300 and 2,000 km could safely accommodate only around 175,000 satellites under current collision-avoidance assumptions.\nMeanwhile, under the International Telecommunication Union's spectrum filing framework, satellite operators generally have seven years to bring frequency filings into use, followed by phased deployment milestones for non-geostationary constellations.\nAs AI models become larger and Earth observation grows exponentially, the competition is no longer about who can launch more satellites, but who can process information first. The next frontier of the digital economy may therefore be measured not only by computing power on Earth, but also by intelligence deployed in orbit.",
+      "fullTextCn": "随着创纪录的热浪席卷全球部分地区，人工智能热潮正面临另一项挑战：保持数据中心内高性能芯片足够冷却以持续运行。这一挑战远不止于季节性高温。随着人工智能模型变得更大、计算密集度更高，对计算能力的需求正以考验传统数据中心物理极限的速度增长。根据国际能源署的数据，2024年数据中心约占全球电力消耗的1.5%，随着人工智能部署加速，电力需求预计将急剧上升。不断增长的电力消耗、冷却成本以及日益增加的气候相关干扰风险，正促使各国政府和技术公司重新思考未来计算基础设施应建在哪里。\n\n将这一背景转化为行动，中国正在形成多城市布局。北京通过其新创新中心，作为研发和标准制定的锚点。天津专注于天地计算集成和硬件开发。上海正在建设更广泛的产业生态系统。杭州则侧重于智能应用，以已部署在轨的“三体计算星座”为依托。\n\n由之江实验室牵头，该项目旨在构建一个由数千颗卫星组成的网络，总计算能力达到每秒1000千万亿次运算。该星座将利用智能有效载荷实现实时在轨数据处理。为什么要把计算能力送入太空？传统卫星就像“只拍照的相机”：它们在轨道上收集原始数据，将所有数据波束传回地面站，然后等待地球上的超级计算机进行处理。行业估计表明，收集到的数据中只有不到10%被实际使用，延迟长达数小时或数天。\n\n太空计算颠覆了这一模式。卫星配备了抗辐射芯片、机载服务器和存储设备，连接成星座，可以在轨道上收集、分析并做出决策，只传回高价值的结果。据业内人士称，太空计算主要包括三种运行模式：“天基数据在轨处理”，即在轨处理太空收集的数据，仅下传高价值结果；“天基处理地上传数据”，即利用太空计算的优势处理从地面上传的数据；以及“天地协同计算”，即构建全球分布式计算网络，实现空间和地面资源的高效互补。带宽消耗可降低90%以上；响应时间从数小时缩短到数秒。应用范围从实时野火和洪水警报，到作物胁迫跟踪、偏远海域非法捕捞检测以及极地冰盖监测——所有这些都无需等待下传窗口。\n\n加速技术突破以强化太空智能基础设施。计算、能源和通信方面的进展正在巩固中国天基智能基础设施的基础。在计算方面，国家优先发展星座级在轨集群和国产抗辐射技术。三体计算星座是一个参考案例：这个由12颗卫星组成的网络，配备了国产星载AI服务器，每颗卫星峰值性能达744 TOPS，总计5 POPS，核心组件通过本土航天级芯片和定制工艺实现完全本地化。在能源方面，工作重点集中在高效太空发电和辐射热管理上。\n\n银河航天的灵犀03是中国首颗带有柔性太阳翼的平板式卫星，它指明了方向：“柔性翼”紧凑、轻便且模块化，更易于收纳，单位质量面积更大，可捕获更多太阳能。在热控方面，该公司在泵驱流体回路散热技术上取得突破，银河航天首席科学家张世杰表示，这些技术将为高功率太空计算有效载荷提供支撑。在通信方面，重点在于构建区域弹性架构。据知名技术分析师、中国电子信息产业发展研究院电子信息研究所先进计算研究室副主任徐子凡称，凭借国内密集的地面站覆盖和海外选择性节点，星间激光链路已稳定在100 Gbps，星地激光测试达到120 Gbps，而中国及亚太地区的往返延迟控制在30至50毫秒，足以满足应急通信等时间敏感场景，核心设备100%国产化。\n\n全球竞赛正在加剧。SpaceX已勾勒出长期愿景，计划部署多达100万颗低地球轨道卫星作为轨道数据中心，而欧盟正在推进其太空数据中心计划。俄罗斯正在增强其Sfera星座的星载计算能力，日本则投资于地球观测卫星的在轨处理。一些近期研究估计，根据当前的碰撞规避假设，300至2000公里之间的低地球轨道区域只能安全容纳约17.5万颗卫星。与此同时，根据国际电信联盟的频谱申报框架，卫星运营商通常有七年时间将频率申报投入使用，随后是非静止轨道星座的分阶段部署里程碑。\n\n随着人工智能模型变得更大，地球观测数据呈指数级增长，竞争已不再是关于谁能发射更多卫星，而是谁能首先处理信息。因此，数字经济的下一个前沿可能不仅取决于地球上的计算能力，还取决于部署在轨道上的智能水平。"
+    },
+    {
+      "id": 2,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-27/Europe-enduring-record-breaking-heatwave-health-systems-under-strain-1OjoNGKa4Xm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Europe enduring record-breaking heatwave, health systems under strain",
+      "titleCn": "欧洲遭遇创纪录热浪，医疗系统承压",
+      "summary": "Europe is experiencing an extremely severe heatwave that has swept across the continent, with scientists describing it as one of the worst recorded.",
+      "summaryCn": "欧洲遭遇创纪录热浪，多国医疗系统面临巨大压力，基础设施受损，政府采取紧急措施应对。",
+      "wordCount": 857,
+      "paragraphs": [
+        {
+          "en": "Europe is experiencing an extremely severe {{0}} that has swept across the continent, with scientists describing it as one of the worst recorded. Health authorities across multiple countries have issued high-level {{2}} as extreme temperatures {{1}} hospitals, transport systems, {{13}} and public services, while governments have introduced emergency {{3}} such as alcohol limits, event cancellations and public safety measures. The UK recorded its hottest June day on record on Friday, with a {{7}} temperature of 37.3 degrees Celsius recorded in Santon Downham, Suffolk, surpassing a previous record of 36.7 degrees Celsius set just a day earlier in Merryfield, Somerset. In London, pavement temperatures in parts of the capital were reported to have reached up to 57 degrees Celsius, while the London Ambulance Service said emergency 999 calls {{5}} by 50% during the heatwave. Sheffield's tram network was also {{6}} due to extreme temperatures.",
+          "cn": "欧洲正经历一场席卷整个大陆的极端严重热浪，科学家称其为有记录以来最严重的热浪之一。多个国家的卫生部门已发布高级别警报，极端气温给医院、交通系统、基础设施和公共服务带来压力，政府出台了酒精限制、活动取消和公共安全措施等紧急限制。英国周五录得有史以来最热的六月天，萨福克郡桑顿唐纳姆的临时气温达到37.3摄氏度，超过了前一天在萨默塞特郡梅里菲尔德创下的36.7摄氏度的纪录。在伦敦，据报道首都部分地区的路面温度高达57摄氏度，而伦敦救护车服务中心表示，热浪期间紧急999电话激增了50%。谢菲尔德的电车网络也因极端气温而暂停运营。"
+        },
+        {
+          "en": "People sit at the side of the Dortmund-Ems Canal in Dortmund, western Germany during a heatwave in Europe, June 26, 2026. Germany reported a provisional national temperature record of 41.3 degrees Celsius on Friday in Saarbruecken-Burbach, surpassing its previous record of 41.2 degrees Celsius from 2019. The country also {{8}} for the possibility of an even hotter weekend. Its emergency departments reported a significant rise in heat-related illnesses such as dizziness, heatstroke and {{9}}. Italy remained under severe heat stress, with 18 cities placed under a red alert, the highest heat warning level, including Rome, Milan, Turin, Florence, Bologna, Venice and Verona.",
+          "cn": "2026年6月26日，欧洲热浪期间，人们坐在德国西部多特蒙德的埃姆斯运河边。德国周五在萨尔布吕肯-布尔巴赫报告了41.3摄氏度的全国临时气温纪录，超过了2019年创下的41.2摄氏度的纪录。该国还面临周末气温可能更高的可能性。其急诊部门报告称，与高温相关的疾病如头晕、中暑和脱水显著增加。意大利仍处于严重热应激状态，18个城市被列入红色警报，这是最高级别的热浪警告，包括罗马、米兰、都灵、佛罗伦萨、博洛尼亚、威尼斯和维罗纳。"
+        },
+        {
+          "en": "Temperatures in parts of central and northern Italy are forecast to reach 38 to 40 degrees Celsius. Authorities have also warned of an {{10}} {{11}} risk, particularly in Sardinia and southern regions, where civil protection agencies have issued alerts as {{12}} has dried out after weeks of unusually hot and dry weather. A digital pharmacy thermometer displays 40 degree Celsius during a heat wave in Orvieto, Umbria, Italy, June 25, 2026. Switzerland also recorded its hottest June temperature on Friday, hitting 38.8 degrees Celsius in the northern city of Basel, breaking a record just set there a day earlier. The extreme heat has also affected infrastructure and industry.",
+          "cn": "意大利中部和北部部分地区的温度预计将达到38至40摄氏度。当局还警告了野火风险升高，特别是在撒丁岛和南部地区，经过数周异常炎热干燥的天气后，植被干枯，民防机构已发布警报。2026年6月25日，意大利翁布里亚奥维耶托，一个数字药房温度计显示40摄氏度。瑞士周五也录得有史以来最热的六月天，北部城市巴塞尔达到38.8摄氏度，打破了前一天刚在那里创下的纪录。极端高温也影响了基础设施和工业。"
+        },
+        {
+          "en": "In Switzerland, the heat forced the {{14}} of reactors at Europe's oldest nuclear plant due to elevated river temperatures affecting cooling systems. In Germany, older concrete sections of highways expanded and broke apart, forcing temporary closures, while in Sweden, rail infrastructure was reportedly {{15}} by extreme heat. In France, Paris hit a June record of 40.9 degree Celsius earlier in the week, with authorities warning of rising heat-related deaths and a surge in emergency calls. \"There will be consequences in terms of the number of additional deaths,\" said French Health Minister Stephanie Rist. Hospitals under pressure\nFirefighters from the Paris Fire Brigade assist a person, who became unwell during an intense heatwave, into an ambulance, Paris, France, June 25, 2026.",
+          "cn": "在瑞士，高温迫使欧洲最古老的核电站因河水温度升高影响冷却系统而关闭反应堆。在德国，较老的混凝土高速公路路段膨胀破裂，导致临时关闭，而在瑞典，据报道铁路基础设施因极端高温而变形。在法国，巴黎本周早些时候达到了40.9摄氏度的六月纪录，当局警告与高温相关的死亡人数上升以及紧急电话激增。“这将导致额外死亡人数的增加，”法国卫生部长斯蒂芬妮·里斯特说。医院面临压力。2026年6月25日，法国巴黎，巴黎消防队的消防员帮助一名在强烈热浪中感到不适的人上救护车。"
+        },
+        {
+          "en": "Hospitals reported {{16}} and difficulty coping with the volume of patients, and scientists have highlighted the danger of sweltering night-time temperatures. Temperatures overnight have not dropped below 22 degrees Celsius, {{17}} the human body of the ability to recover and shed the excess heat from the day, and which can drive excess deaths, said John Kennedy, head of Climate Information at the World Meteorological Organization. France saw a fourfold increase in heat-related hospital visits and a surge of cardiac arrests. \"We are reaching a {{18}} point in hospital facilities,\" Paris police chief Patrice Faure said, announcing a rare ban on evening alcohol sales in Paris over the weekend. In the UK, Hilary Williams, clinical vice president of Britain's Royal College of Physicians, said overcrowding and heat in hospital wards were putting patients, staff and infrastructure under severe strain.",
+          "cn": "医院报告人满为患，难以应对患者数量，科学家强调了夜间闷热气温的危险。世界气象组织气候信息负责人约翰·肯尼迪表示，夜间气温没有低于22摄氏度，使人体无法恢复并排出白天多余的热量，这可能导致额外死亡。法国与高温相关的医院就诊次数增加了四倍，心脏骤停病例激增。“我们正在达到医院设施的饱和点，”巴黎警察局长帕特里斯·福尔说，他宣布周末在巴黎罕见地禁止晚间酒精销售。在英国，英国皇家内科医学院临床副主席希拉里·威廉姆斯表示，医院病房的人满为患和高温正使患者、员工和基础设施承受严重压力。"
+        },
+        {
+          "en": "\"People are far too hot,\" she told BBC Radio, adding that some critical equipment, including MRI scanners and cancer treatment machines, was being affected by the heat. Heatwave heads east\nA storm broke the heat overnight in France's western region of Brittany, bringing some {{19}} on Friday. People walk outside office buildings during a Code Red heat alert in The Hague, Netherlands, June 26, 2026. But much of the Netherlands remained under red alert, with authorities advising people to travel only if necessary and most schools closed. Organizers cancelled the four-day techno music festival Defqon.1 in the central Netherlands.",
+          "cn": "\"人们太热了，\"她告诉BBC广播，并补充说一些关键设备，包括核磁共振扫描仪和癌症治疗机器，正受到高温影响。热浪向东移动。周五，一场风暴打破了法国西部布列塔尼地区的炎热，带来了一些缓解。2026年6月26日，荷兰海牙，人们在红色高温警报期间走出办公楼。但荷兰大部分地区仍处于红色警报之下，当局建议人们只在必要时出行，大多数学校关闭。组织者取消了荷兰中部为期四天的电子音乐节Defqon.1。"
+        },
+        {
+          "en": "Slovakia forecast temperatures up to 36 degrees Celsius, with Bratislava extending swimming pool opening hours and deploying tanker trucks of drinking water. The Czech Republic and Hungary were on red alert for the weekend, with temperatures of up to 40 degrees Celsius forecast. Hungary's Prime Minister Peter Magyar said authorities were preparing millions of bags of drinking water for possible public distribution and urging residents to conserve water. People cool off during a French Film Festival in Belgrade as Serbia endures a heatwave, June 26, 2026. The Balkans are also bracing for sustained heat.",
+          "cn": "斯洛伐克预测气温高达36摄氏度，布拉迪斯拉发延长了游泳池开放时间，并部署了饮用水罐车。捷克共和国和匈牙利周末处于红色警报状态，预测气温高达40摄氏度。匈牙利总理彼得·马扎尔表示，当局正在准备数百万袋饮用水以备可能的公共分发，并敦促居民节约用水。2026年6月26日，塞尔维亚贝尔格莱德，人们在法国电影节期间降温。巴尔干地区也面临持续高温。"
+        },
+        {
+          "en": "Serbia is facing an intense and prolonged heatwave starting Friday, with maximum temperatures forecasted to reach up to 39 degrees Celsius through early next week. In Bosnia and Herzegovina (BiH), heat warnings were issued for large parts of the country on Friday as temperatures were forecast to reach up to 38 degrees Celsius.",
+          "cn": "塞尔维亚从周五开始面临一场强烈且持久的热浪，预测最高气温将持续到下周一，达到39摄氏度。在波斯尼亚和黑塞哥维那，周五全国大部分地区发布了高温警告，预测气温高达38摄氏度。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "heatwave",
+          "hint": "n. 热浪",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "strain",
+          "hint": "v. 使紧张，使承受压力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "alerts",
+          "hint": "n. 警报",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "restrictions",
+          "hint": "n. 限制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "surged",
+          "hint": "v. 激增",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "suspended",
+          "hint": "v. 暂停",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "provisional",
+          "hint": "adj. 临时的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "braces",
+          "hint": "v. 准备迎接",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "dehydration",
+          "hint": "n. 脱水",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "elevated",
+          "hint": "adj. 升高的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "wildfire",
+          "hint": "n. 野火",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "vegetation",
+          "hint": "n. 植被",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "shutdown",
+          "hint": "n. 关闭",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "distorted",
+          "hint": "v. 变形",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "overcrowding",
+          "hint": "n. 过度拥挤",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "depriving",
+          "hint": "v. 剥夺",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "saturation",
+          "hint": "n. 饱和",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "respite",
+          "hint": "n. 缓解",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Europe is experiencing an extremely severe heatwave that has swept across the continent, with scientists describing it as one of the worst recorded.\nHealth authorities across multiple countries have issued high-level alerts as extreme temperatures strain hospitals, transport systems, infrastructure and public services, while governments have introduced emergency restrictions such as alcohol limits, event cancellations and public safety measures.\nThe UK recorded its hottest June day on record on Friday, with a provisional temperature of 37.3 degrees Celsius recorded in Santon Downham, Suffolk, surpassing a previous record of 36.7 degrees Celsius set just a day earlier in Merryfield, Somerset. In London, pavement temperatures in parts of the capital were reported to have reached up to 57 degrees Celsius, while the London Ambulance Service said emergency 999 calls surged by 50% during the heatwave. Sheffield's tram network was also suspended due to extreme temperatures.\nPeople sit at the side of the Dortmund-Ems Canal in Dortmund, western Germany during a heatwave in Europe, June 26, 2026. \nGermany reported a provisional national temperature record of 41.3 degrees Celsius on Friday in Saarbruecken-Burbach, surpassing its previous record of 41.2 degrees Celsius from 2019. The country also braces for the possibility of an even hotter weekend. Its emergency departments reported a significant rise in heat-related illnesses such as dizziness, heatstroke and dehydration.\nItaly remained under severe heat stress, with 18 cities placed under a red alert, the highest heat warning level, including Rome, Milan, Turin, Florence, Bologna, Venice and Verona. Temperatures in parts of central and northern Italy are forecast to reach 38 to 40 degrees Celsius. Authorities have also warned of an elevated wildfire risk, particularly in Sardinia and southern regions, where civil protection agencies have issued alerts as vegetation has dried out after weeks of unusually hot and dry weather.\nA digital pharmacy thermometer displays 40 degree Celsius during a heat wave in Orvieto, Umbria, Italy, June 25, 2026. \nSwitzerland also recorded its hottest June temperature on Friday, hitting 38.8 degrees Celsius in the northern city of Basel, breaking a record just set there a day earlier.\nThe extreme heat has also affected infrastructure and industry. In Switzerland, the heat forced the shutdown of reactors at Europe's oldest nuclear plant due to elevated river temperatures affecting cooling systems. In Germany, older concrete sections of highways expanded and broke apart, forcing temporary closures, while in Sweden, rail infrastructure was reportedly distorted by extreme heat.\nIn France, Paris hit a June record of 40.9 degree Celsius earlier in the week, with authorities warning of rising heat-related deaths and a surge in emergency calls.\n\"There will be consequences in terms of the number of additional deaths,\" said French Health Minister Stephanie Rist.\nHospitals under pressure\nFirefighters from the Paris Fire Brigade assist a person, who became unwell during an intense heatwave, into an ambulance, Paris, France, June 25, 2026. \nHospitals reported overcrowding and difficulty coping with the volume of patients, and scientists have highlighted the danger of sweltering night-time temperatures.\nTemperatures overnight have not dropped below 22 degrees Celsius, depriving the human body of the ability to recover and shed the excess heat from the day, and which can drive excess deaths, said John Kennedy, head of Climate Information at the World Meteorological Organization.\nFrance saw a fourfold increase in heat-related hospital visits and a surge of cardiac arrests.\n\"We are reaching a saturation point in hospital facilities,\" Paris police chief Patrice Faure said, announcing a rare ban on evening alcohol sales in Paris over the weekend.\nIn the UK, Hilary Williams, clinical vice president of Britain's Royal College of Physicians, said overcrowding and heat in hospital wards were putting patients, staff and infrastructure under severe strain.\n\"People are far too hot,\" she told BBC Radio, adding that some critical equipment, including MRI scanners and cancer treatment machines, was being affected by the heat.\nHeatwave heads east\nA storm broke the heat overnight in France's western region of Brittany, bringing some respite on Friday.\nPeople walk outside office buildings during a Code Red heat alert in The Hague, Netherlands, June 26, 2026. \nBut much of the Netherlands remained under red alert, with authorities advising people to travel only if necessary and most schools closed. Organizers cancelled the four-day techno music festival Defqon.1 in the central Netherlands.\nSlovakia forecast temperatures up to 36 degrees Celsius, with Bratislava extending swimming pool opening hours and deploying tanker trucks of drinking water.\nThe Czech Republic and Hungary were on red alert for the weekend, with temperatures of up to 40 degrees Celsius forecast.\nHungary's Prime Minister Peter Magyar said authorities were preparing millions of bags of drinking water for possible public distribution and urging residents to conserve water.\nPeople cool off during a French Film Festival in Belgrade as Serbia endures a heatwave, June 26, 2026. \nThe Balkans are also bracing for sustained heat. Serbia is facing an intense and prolonged heatwave starting Friday, with maximum temperatures forecasted to reach up to 39 degrees Celsius through early next week. In Bosnia and Herzegovina (BiH), heat warnings were issued for large parts of the country on Friday as temperatures were forecast to reach up to 38 degrees Celsius.",
+      "fullTextCn": "欧洲正经历一场席卷整个大陆的极端严重热浪，科学家称其为有记录以来最严重的热浪之一。多个国家的卫生部门已发布高级别警报，极端气温给医院、交通系统、基础设施和公共服务带来压力，政府出台了酒精限制、活动取消和公共安全措施等紧急限制。英国周五录得有史以来最热的六月天，萨福克郡桑顿唐纳姆的临时气温达到37.3摄氏度，超过了前一天在萨默塞特郡梅里菲尔德创下的36.7摄氏度的纪录。在伦敦，据报道首都部分地区的路面温度高达57摄氏度，而伦敦救护车服务中心表示，热浪期间紧急999电话激增了50%。谢菲尔德的电车网络也因极端气温而暂停运营。\n\n2026年6月26日，欧洲热浪期间，人们坐在德国西部多特蒙德的埃姆斯运河边。德国周五在萨尔布吕肯-布尔巴赫报告了41.3摄氏度的全国临时气温纪录，超过了2019年创下的41.2摄氏度的纪录。该国还面临周末气温可能更高的可能性。其急诊部门报告称，与高温相关的疾病如头晕、中暑和脱水显著增加。意大利仍处于严重热应激状态，18个城市被列入红色警报，这是最高级别的热浪警告，包括罗马、米兰、都灵、佛罗伦萨、博洛尼亚、威尼斯和维罗纳。\n\n意大利中部和北部部分地区的温度预计将达到38至40摄氏度。当局还警告了野火风险升高，特别是在撒丁岛和南部地区，经过数周异常炎热干燥的天气后，植被干枯，民防机构已发布警报。2026年6月25日，意大利翁布里亚奥维耶托，一个数字药房温度计显示40摄氏度。瑞士周五也录得有史以来最热的六月天，北部城市巴塞尔达到38.8摄氏度，打破了前一天刚在那里创下的纪录。极端高温也影响了基础设施和工业。\n\n在瑞士，高温迫使欧洲最古老的核电站因河水温度升高影响冷却系统而关闭反应堆。在德国，较老的混凝土高速公路路段膨胀破裂，导致临时关闭，而在瑞典，据报道铁路基础设施因极端高温而变形。在法国，巴黎本周早些时候达到了40.9摄氏度的六月纪录，当局警告与高温相关的死亡人数上升以及紧急电话激增。“这将导致额外死亡人数的增加，”法国卫生部长斯蒂芬妮·里斯特说。医院面临压力。2026年6月25日，法国巴黎，巴黎消防队的消防员帮助一名在强烈热浪中感到不适的人上救护车。\n\n医院报告人满为患，难以应对患者数量，科学家强调了夜间闷热气温的危险。世界气象组织气候信息负责人约翰·肯尼迪表示，夜间气温没有低于22摄氏度，使人体无法恢复并排出白天多余的热量，这可能导致额外死亡。法国与高温相关的医院就诊次数增加了四倍，心脏骤停病例激增。“我们正在达到医院设施的饱和点，”巴黎警察局长帕特里斯·福尔说，他宣布周末在巴黎罕见地禁止晚间酒精销售。在英国，英国皇家内科医学院临床副主席希拉里·威廉姆斯表示，医院病房的人满为患和高温正使患者、员工和基础设施承受严重压力。\n\n\"人们太热了，\"她告诉BBC广播，并补充说一些关键设备，包括核磁共振扫描仪和癌症治疗机器，正受到高温影响。热浪向东移动。周五，一场风暴打破了法国西部布列塔尼地区的炎热，带来了一些缓解。2026年6月26日，荷兰海牙，人们在红色高温警报期间走出办公楼。但荷兰大部分地区仍处于红色警报之下，当局建议人们只在必要时出行，大多数学校关闭。组织者取消了荷兰中部为期四天的电子音乐节Defqon.1。\n\n斯洛伐克预测气温高达36摄氏度，布拉迪斯拉发延长了游泳池开放时间，并部署了饮用水罐车。捷克共和国和匈牙利周末处于红色警报状态，预测气温高达40摄氏度。匈牙利总理彼得·马扎尔表示，当局正在准备数百万袋饮用水以备可能的公共分发，并敦促居民节约用水。2026年6月26日，塞尔维亚贝尔格莱德，人们在法国电影节期间降温。巴尔干地区也面临持续高温。\n\n塞尔维亚从周五开始面临一场强烈且持久的热浪，预测最高气温将持续到下周一，达到39摄氏度。在波斯尼亚和黑塞哥维那，周五全国大部分地区发布了高温警告，预测气温高达38摄氏度。"
     },
     {
       "id": 3,
       "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-22/From-innovation-to-value-How-AI-is-empowering-China-s-manufacturing-1Obh8it7G36/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "From innovation to value: How AI is empowering China's manufacturing",
-      "titleCn": "从创新到价值：人工智能如何赋能中国制造业",
-      "summary": "As artificial intelligence (AI) moves beyond laboratory breakthroughs into large-scale industrial deployment, it is rapidly transforming China's manufacturing system across production, decision-making, human-machine collaboration and supply chain coordination.",
-      "summaryCn": "人工智能正大规模部署于中国制造业，通过智能工厂、柔性生产和供应链优化显著提升效率、降低成本并推动产业升级。",
-      "wordCount": 663,
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-07-03/Ethiopia-s-digital-ID-registrations-surpass-46-million-people-1Os6p7gnjiM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Ethiopia's digital ID registrations surpass 46 million people",
+      "titleCn": "埃塞俄比亚数字身份证注册人数突破4600万",
+      "summary": "Ethiopia's national digital identification program, known as Fayda, has registered more than 46 million people in just three years, making it one of Africa's fastest-growing digital identity initiatives.",
+      "summaryCn": "埃塞俄比亚的Fayda数字身份证计划在三年内注册超4600万人，成为非洲增长最快的数字身份倡议之一，并推动金融包容性和公共服务整合。",
+      "wordCount": 683,
       "paragraphs": [
         {
-          "en": "As artificial intelligence (AI) moves beyond laboratory {{0}} into large-scale industrial {{1}}, it is rapidly {{2}} China's manufacturing system across production, decision-making, human-machine {{3}} and supply chain {{4}}. Large-scale industrial application\nA production line of GAC Aion New Energy Automobile in Guangzhou, Guangdong Province. Located in Guangzhou, south China's Guangdong Province, the smart eco-factory of China's GAC Aion New Energy Automobile operates more than 600 industrial robots across stamping, welding and assembly processes. In the final assembly workshop, vehicles pass through more than 200 processing stations, many of which are fully automated and operated entirely by robots. Every 53 seconds, a vehicle advances to the next workstation, which means that at the same interval a new car rolls off the line.",
-          "cn": "随着人工智能从实验室突破走向大规模工业部署，它正在迅速改变中国制造业的生产、决策、人机协作和供应链协调。大规模工业应用：位于广东省广州市的广汽埃安新能源汽车智能生态工厂，在冲压、焊接和装配过程中运行着超过600台工业机器人。在总装车间，车辆经过200多个加工站，其中许多是完全自动化并由机器人操作的。每53秒，一辆车进入下一个工作站，这意味着每隔相同时间就有一辆新车下线。"
+          "en": "Ethiopia's national digital identification program, known as Fayda, has registered more than 46 million people in just three years, making it one of Africa's fastest-growing digital identity {{1}} and a central {{2}} of the country's digital transformation strategy. The {{3}} and {{4}} identification system is designed to provide every resident with a unique and {{5}} digital identity, enabling easier access to {{17}} services, government programs, and other {{13}} services. According to officials, nearly 165 institutions, including banks, digital payment providers, startups, and public service agencies have already {{6}} with the national database. The integrations allow for {{7}} identity {{8}}, faster service delivery, and secure data exchange across sectors. \"When you get a driver's license, you have a different address.",
+          "cn": "埃塞俄比亚的国家数字身份识别计划，即Fayda，在短短三年内已注册超过4600万人，使其成为非洲增长最快的数字身份倡议之一，也是该国数字化转型战略的核心支柱。这一生物识别和人口统计识别系统旨在为每位居民提供独特且可验证的数字身份，从而更方便地获取金融服务、政府项目及其他基本服务。据官员称，包括银行、数字支付提供商、初创公司和公共服务机构在内的近165家机构已与国家数据库整合。这些整合实现了跨部门的无缝身份验证、更快的服务交付和安全的数据交换。“当你拿到驾照时，你有一个不同的地址。"
         },
         {
-          "en": "As a {{5}} \"Lighthouse Factory,\" the plant {{6}} AI, big data, robotics, advanced process engineering, quality management and intelligent logistics systems, enabling more than 100,000 vehicle {{7}} options to meet {{8}} demand at scale. The transformation has delivered {{9}} gains: production {{10}} has increased by 50%, delivery time shortened by 33%, first-pass yield improved by 8%, and manufacturing costs decreased by 58%. Meanwhile, in Procter & Gamble's Huangpu factory in Guanghzou, technologies including AI, {{11}} automation and digital twin systems have been integrated into the supply chain operations, contributing to a 30% reduction in inventory and 15% in logistics costs, while maintaining a 99% on-time delivery over three years. Flexible manufacturing\nThe SANY Heavy Machinery Kunshan Industrial Park in Kunshan, Suzhou, Jiangsu Province. In China's Yangtze River Delta region, industrial AI is evolving toward higher flexibility and {{12}}.",
-          "cn": "作为公认的“灯塔工厂”，该工厂整合了人工智能、大数据、机器人技术、先进工艺工程、质量管理和智能物流系统，实现了超过10万种车辆配置选项，以满足大规模定制化需求。这一转型带来了可衡量的收益：生产效率提高了50%，交付时间缩短了33%，一次合格率提升了8%，制造成本降低了58%。与此同时，在广州的宝洁黄埔工厂，包括人工智能、柔性自动化和数字孪生系统在内的技术已整合到供应链运营中，使库存减少了30%，物流成本降低了15%，同时三年内保持了99%的准时交付率。柔性制造：位于江苏省苏州市昆山的三一重机昆山产业园。在中国长三角地区，工业人工智能正朝着更高的灵活性和自主性发展。"
+          "en": "When you get a kebele ID, you have one address. When you open a bank account, you enter a different address. So there is no single source of truth for the service provider and for you, it's inconvenient because you have to spend a lot of time entering all of this data again and again, the same data,\" said Yodahe Zemichael, executive director of Ethiopia's National ID Program. \"With Fayda, the process becomes {{9}}. Users only need to provide their identification number, and their {{10}} Know Your Customer information can be securely shared with authorized service providers,\"\nWhile the government had initially targeted {{11}} 90 million people by the end of 2026, authorities have now shifted their focus toward achieving {{12}} enrollment over the coming years.",
+          "cn": "当你拿到kebele身份证时，你有一个地址。当你开立银行账户时，你又输入一个不同的地址。因此，对于服务提供商和你来说，都没有单一的真实信息来源，这很不方便，因为你必须反复花费大量时间输入所有这些相同的数据，”埃塞俄比亚国家身份证计划执行主任Yodahe Zemichael说。“有了Fayda，这一过程变得无摩擦。用户只需提供他们的身份证号码，他们经过验证的‘了解你的客户’信息就可以安全地与授权服务提供商共享。”虽然政府最初的目标是到2026年底注册9000万人，但当局现在已将重点转向在未来几年实现全民注册。"
         },
         {
-          "en": "In a textile factory in Taicang, Suzhou City in east China's Jiangsu Province, over 500 air-jet looms have been connected to a centralized AI system that continuously {{13}} yarn tension, insertion speed and motor temperature. Through digital twin modeling and real-time {{14}} of 128 process parameters, fabric weight {{15}} has been controlled within 1.2%, while order response speed has been improved by 40%. The factory has also used AI to optimize its sizing process, cutting steam {{16}} by 300 kilograms for every tonne of yarn produced. In advanced equipment manufacturing, SANY Group's heavy machinery smart factory in Kunshan has built a highly flexible production system, in which its AI-driven {{17}} system {{18}} global orders into thousands of process nodes, and {{19}} tasks across multiple production lines. Automated guided vehicles, connected to a cloud-based manufacturing execution system, automatically plan routes based on order priority.",
-          "cn": "在江苏省苏州市太仓的一家纺织厂，超过500台喷气织机已连接到集中式人工智能系统，该系统持续监测纱线张力、引纬速度和电机温度。通过数字孪生建模和128个工艺参数的实时优化，织物重量偏差控制在1.2%以内，订单响应速度提高了40%。该工厂还利用人工智能优化上浆工艺，每生产一吨纱线可减少300公斤蒸汽消耗。在先进装备制造领域，三一集团位于昆山的重机智能工厂构建了高度灵活的生产系统，其人工智能驱动的调度系统将全球订单分解为数千个工艺节点，并在多条生产线上分配任务。自动导引车连接到基于云的制造执行系统，根据订单优先级自动规划路线。"
+          "en": "Growing demand as digital ID becomes key for public services\nDespite registration campaigns having covered most major urban centers, enrollment facilities in the capital, Addis Ababa, continue to experience high demand as citizens seek to register or update their records. For many Ethiopians, possessing a Fayda ID is increasingly becoming essential for accessing public and financial services. \"I live in South Africa, but I travel frequently to Ethiopia for business,\" said Abreham Tilahun, one of the program's {{14}}. \"People like me often face challenges accessing services because we are not {{15}} residents. Fayda became a much-needed solution.",
+          "cn": "随着数字身份成为公共服务的关键，需求日益增长。尽管注册活动已覆盖大多数主要城市中心，但首都亚的斯亚贝巴的注册设施仍面临高需求，因为公民寻求注册或更新记录。对许多埃塞俄比亚人来说，拥有Fayda身份证对于获取公共和金融服务正变得越来越必要。“我住在南非，但我经常因商务前往埃塞俄比亚，”该计划的受益者之一Abreham Tilahun说。“像我这样的人在获取服务时经常面临挑战，因为我们不是永久居民。Fayda成了一个急需的解决方案。"
         },
         {
-          "en": "The factory even supports \"one-unit order,\" with customization rates reaching 75% for mini excavators. Expanding industrial intelligence\nAutomated guided vehicles operate in an intelligent production workshop in a local tech enterprise in Jinhua City, east China's Zhejiang Province. The impact of AI is extending beyond individual factories into broader industrial {{20}}. According to China's Ministry of Industry and Information Technology (MIIT), by the end of 2025, more than 30% of manufacturing enterprises with annual revenue of at least 20 million yuan (about $3 million) had adopted AI technologies. Industrial intelligent agents covered over 70% of business scenarios in pioneer-level smart factories, accumulating more than 6,000 vertical domain models.",
-          "cn": "该工厂甚至支持“单件订单”，微型挖掘机的定制化率达到75%。拓展工业智能：自动导引车在浙江省金华市一家本地科技企业的智能生产车间内运行。人工智能的影响正从单个工厂扩展到更广泛的工业生态系统。据中国工业和信息化部称，到2025年底，年营收至少2000万元（约合300万美元）的制造业企业中，超过30%已采用人工智能技术。工业智能体覆盖了先锋级智能工厂中超过70%的业务场景，积累了超过6000个垂直领域模型。"
+          "en": "I was able to renew my passport and open bank accounts without difficulty. It has been very useful.\"\nPrime Minister Abiy Ahmed recently highlighted the role of digital identity systems in promoting economic {{16}} and expanding access to financial services. \"Imagine a woman running a small business in a market,\" the prime minister said in a recent address. \"For years, she operated outside the formal financial system. She had no bank account, no credit history, and no registered business.",
+          "cn": "我能够毫无困难地更新护照和开立银行账户。它非常有用。”总理阿比·艾哈迈德最近强调了数字身份系统在促进经济包容性和扩大金融服务获取方面的作用。“想象一下，一位女性在市场上经营一家小企业，”总理在最近的一次讲话中说。“多年来，她在正规金融体系之外运营。她没有银行账户，没有信用记录，也没有注册的企业。"
         },
         {
-          "en": "A staff monitors the fully automated production lines in a local precision manufacturing company in Huayingshan Economic Development Zone, Sichuan Province. The MIIT, together with six other departments, recently issued an action plan to promote coordinated development among large, medium-sized and small enterprises in the platform economy from 2026 to 2028. The platform economy is a new form of economy built on internet platforms. The plan emphasizes strengthening innovation, ecosystem coordination, and openness across these enterprises, while deepening the integration of the real economy and the digital economy. It calls for greater openness in technology and data sharing, and encourages platform enterprises to strengthen AI innovation, improve algorithm governance and promote algorithm {{21}}.",
-          "cn": "一名工作人员在四川省华蓥山经济开发区一家精密制造公司的全自动化生产线上进行监控。工信部近日会同其他六个部门发布了《关于促进平台经济大中小企业融通发展行动计划（2026-2028年）》。平台经济是一种基于互联网平台的新型经济形态。该计划强调加强这些企业的创新、生态协调和开放，同时深化实体经济与数字经济的融合。它呼吁在技术和数据共享方面更加开放，并鼓励平台企业加强人工智能创新、改进算法治理并促进算法透明度。"
+          "en": "After enrolling in Fayda and beginning to use digital payments, she started building a financial record. That record became trust, and that trust opened the door to finance.\"\nPrime Minister Abiy Ahmed highlights the role of digital identity systems in promoting economic inclusion in Addis Ababa, Ethiopia, July 1, 2026. Africa\nPrivacy concerns remain as officials pledge strong {{19}}\nAs the digital ID system expands, concerns have emerged over data {{18}} and the potential misuse of personal information. Ethiopian officials, however, insist that robust legal and technical safeguards have been established to protect citizens' data. Yodahe Zemichael, the executive director of the Ethiopian National ID Program, July 1, 2026.",
+          "cn": "在注册Fayda并开始使用数字支付后，她开始建立金融记录。这份记录变成了信任，而信任为她打开了融资的大门。”总理阿比·艾哈迈德在2026年7月1日于埃塞俄比亚亚的斯亚贝巴强调数字身份系统在促进经济包容性方面的作用。随着数字身份系统的扩展，人们对数据隐私和个人信息可能被滥用的担忧也随之出现。然而，埃塞俄比亚官员坚称，已经建立了强有力的法律和技术保障措施来保护公民数据。埃塞俄比亚国家身份证计划执行主任Yodahe Zemichael，2026年7月1日。"
         },
         {
-          "en": "By 2028, China aims to significantly improve the level of coordinated development among platform enterprises, form a number of replicable models for collaborative innovation, and cultivate a group of leading firms specializing in niche manufacturing segments in the platform economy.",
-          "cn": "到2028年，中国旨在显著提升平台企业间的融通发展水平，形成一批可复制的协同创新模式，并培育一批在平台经济中专注于细分制造领域的领军企业。"
+          "en": "Africa\n\"For instance, the courts can request data on any individual for law enforcement purposes. It's legally put in the law. But when it comes to privacy, no third party can access it without your {{20}}. \" Zemichael said. \"However, no third party can access personal data without the individual's consent.\"\nHe emphasized that citizens retain {{21}} of their personal information.",
+          "cn": "非洲“例如，法院可以出于执法目的要求获取任何个人的数据。这在法律中有明确规定。但在隐私方面，未经你的同意，任何第三方都无法访问它，”Zemichael说。“然而，未经个人同意，任何第三方都无法访问个人数据。”他强调，公民保留对其个人信息的拥有权。"
+        },
+        {
+          "en": "\"The citizen is the owner of the data. Fayda's role is only to safeguard the database,\" he said. \"It's similar to a bank: the money belongs to the customer, while the bank is responsible for keeping it secure.\"\nThe national digital ID program has recently {{22}} into a state-owned enterprise model, allowing it to generate its own revenue. Ethiopian officials say the program has also begun partnering with several African countries seeking to establish their own digital identity systems, positioning Ethiopia as an emerging leader in digital public {{23}} across the continent.",
+          "cn": "“公民是数据的所有者。Fayda的角色只是保护数据库，”他说。“这类似于银行：钱属于客户，而银行负责确保其安全。”国家数字身份证计划最近转型为国有企业模式，使其能够产生自己的收入。埃塞俄比亚官员表示，该计划已开始与几个寻求建立自己数字身份系统的非洲国家合作，使埃塞俄比亚成为非洲大陆数字公共基础设施领域的新兴领导者。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "breakthroughs",
-          "hint": "n. 突破",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "deployment",
-          "hint": "n. 部署",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "transforming",
-          "hint": "v. 转变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "collaboration",
-          "hint": "n. 协作",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "coordination",
-          "hint": "n. 协调",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "recognized",
-          "hint": "adj. 公认的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "integrates",
-          "hint": "v. 整合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "configuration",
-          "hint": "n. 配置",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "customized",
-          "hint": "adj. 定制的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "measurable",
-          "hint": "adj. 可衡量的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "efficiency",
-          "hint": "n. 效率",
-          "difficulty": "easy"
-        },
-        {
-          "id": 11,
-          "answer": "flexible",
-          "hint": "adj. 灵活的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "autonomy",
-          "hint": "n. 自主性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "monitors",
-          "hint": "v. 监测",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "optimization",
-          "hint": "n. 优化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "deviation",
-          "hint": "n. 偏差",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "consumption",
-          "hint": "n. 消耗",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "scheduling",
-          "hint": "n. 调度",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "decomposes",
-          "hint": "v. 分解",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "allocates",
-          "hint": "v. 分配",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "ecosystems",
-          "hint": "n. 生态系统",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "transparency",
-          "hint": "n. 透明度",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "As artificial intelligence (AI) moves beyond laboratory breakthroughs into large-scale industrial deployment, it is rapidly transforming China's manufacturing system across production, decision-making, human-machine collaboration and supply chain coordination.\nLarge-scale industrial application\nA production line of GAC Aion New Energy Automobile in Guangzhou, Guangdong Province. \nLocated in Guangzhou, south China's Guangdong Province, the smart eco-factory of China's GAC Aion New Energy Automobile operates more than 600 industrial robots across stamping, welding and assembly processes. In the final assembly workshop, vehicles pass through more than 200 processing stations, many of which are fully automated and operated entirely by robots. Every 53 seconds, a vehicle advances to the next workstation, which means that at the same interval a new car rolls off the line.\nAs a recognized \"Lighthouse Factory,\" the plant integrates AI, big data, robotics, advanced process engineering, quality management and intelligent logistics systems, enabling more than 100,000 vehicle configuration options to meet customized demand at scale.\nThe transformation has delivered measurable gains: production efficiency has increased by 50%, delivery time shortened by 33%, first-pass yield improved by 8%, and manufacturing costs decreased by 58%.\nMeanwhile, in Procter & Gamble's Huangpu factory in Guanghzou, technologies including AI, flexible automation and digital twin systems have been integrated into the supply chain operations, contributing to a 30% reduction in inventory and 15% in logistics costs, while maintaining a 99% on-time delivery over three years.\nFlexible manufacturing\nThe SANY Heavy Machinery Kunshan Industrial Park in Kunshan, Suzhou, Jiangsu Province. \nIn China's Yangtze River Delta region, industrial AI is evolving toward higher flexibility and autonomy.\nIn a textile factory in Taicang, Suzhou City in east China's Jiangsu Province, over 500 air-jet looms have been connected to a centralized AI system that continuously monitors yarn tension, insertion speed and motor temperature. Through digital twin modeling and real-time optimization of 128 process parameters, fabric weight deviation has been controlled within 1.2%, while order response speed has been improved by 40%. The factory has also used AI to optimize its sizing process, cutting steam consumption by 300 kilograms for every tonne of yarn produced.\nIn advanced equipment manufacturing, SANY Group's heavy machinery smart factory in Kunshan has built a highly flexible production system, in which its AI-driven scheduling system decomposes global orders into thousands of process nodes, and allocates tasks across multiple production lines. Automated guided vehicles, connected to a cloud-based manufacturing execution system, automatically plan routes based on order priority. The factory even supports \"one-unit order,\" with customization rates reaching 75% for mini excavators.\nExpanding industrial intelligence\nAutomated guided vehicles operate in an intelligent production workshop in a local tech enterprise in Jinhua City, east China's Zhejiang Province. \nThe impact of AI is extending beyond individual factories into broader industrial ecosystems.\nAccording to China's Ministry of Industry and Information Technology (MIIT), by the end of 2025, more than 30% of manufacturing enterprises with annual revenue of at least 20 million yuan (about $3 million) had adopted AI technologies. Industrial intelligent agents covered over 70% of business scenarios in pioneer-level smart factories, accumulating more than 6,000 vertical domain models.\nA staff monitors the fully automated production lines in a local precision manufacturing company in Huayingshan Economic Development Zone, Sichuan Province. \nThe MIIT, together with six other departments, recently issued an action plan to promote coordinated development among large, medium-sized and small enterprises in the platform economy from 2026 to 2028.\nThe platform economy is a new form of economy built on internet platforms.\nThe plan emphasizes strengthening innovation, ecosystem coordination, and openness across these enterprises, while deepening the integration of the real economy and the digital economy. It calls for greater openness in technology and data sharing, and encourages platform enterprises to strengthen AI innovation, improve algorithm governance and promote algorithm transparency.\nBy 2028, China aims to significantly improve the level of coordinated development among platform enterprises, form a number of replicable models for collaborative innovation, and cultivate a group of leading firms specializing in niche manufacturing segments in the platform economy.",
-      "fullTextCn": "随着人工智能从实验室突破走向大规模工业部署，它正在迅速改变中国制造业的生产、决策、人机协作和供应链协调。大规模工业应用：位于广东省广州市的广汽埃安新能源汽车智能生态工厂，在冲压、焊接和装配过程中运行着超过600台工业机器人。在总装车间，车辆经过200多个加工站，其中许多是完全自动化并由机器人操作的。每53秒，一辆车进入下一个工作站，这意味着每隔相同时间就有一辆新车下线。\n\n作为公认的“灯塔工厂”，该工厂整合了人工智能、大数据、机器人技术、先进工艺工程、质量管理和智能物流系统，实现了超过10万种车辆配置选项，以满足大规模定制化需求。这一转型带来了可衡量的收益：生产效率提高了50%，交付时间缩短了33%，一次合格率提升了8%，制造成本降低了58%。与此同时，在广州的宝洁黄埔工厂，包括人工智能、柔性自动化和数字孪生系统在内的技术已整合到供应链运营中，使库存减少了30%，物流成本降低了15%，同时三年内保持了99%的准时交付率。柔性制造：位于江苏省苏州市昆山的三一重机昆山产业园。在中国长三角地区，工业人工智能正朝着更高的灵活性和自主性发展。\n\n在江苏省苏州市太仓的一家纺织厂，超过500台喷气织机已连接到集中式人工智能系统，该系统持续监测纱线张力、引纬速度和电机温度。通过数字孪生建模和128个工艺参数的实时优化，织物重量偏差控制在1.2%以内，订单响应速度提高了40%。该工厂还利用人工智能优化上浆工艺，每生产一吨纱线可减少300公斤蒸汽消耗。在先进装备制造领域，三一集团位于昆山的重机智能工厂构建了高度灵活的生产系统，其人工智能驱动的调度系统将全球订单分解为数千个工艺节点，并在多条生产线上分配任务。自动导引车连接到基于云的制造执行系统，根据订单优先级自动规划路线。\n\n该工厂甚至支持“单件订单”，微型挖掘机的定制化率达到75%。拓展工业智能：自动导引车在浙江省金华市一家本地科技企业的智能生产车间内运行。人工智能的影响正从单个工厂扩展到更广泛的工业生态系统。据中国工业和信息化部称，到2025年底，年营收至少2000万元（约合300万美元）的制造业企业中，超过30%已采用人工智能技术。工业智能体覆盖了先锋级智能工厂中超过70%的业务场景，积累了超过6000个垂直领域模型。\n\n一名工作人员在四川省华蓥山经济开发区一家精密制造公司的全自动化生产线上进行监控。工信部近日会同其他六个部门发布了《关于促进平台经济大中小企业融通发展行动计划（2026-2028年）》。平台经济是一种基于互联网平台的新型经济形态。该计划强调加强这些企业的创新、生态协调和开放，同时深化实体经济与数字经济的融合。它呼吁在技术和数据共享方面更加开放，并鼓励平台企业加强人工智能创新、改进算法治理并促进算法透明度。\n\n到2028年，中国旨在显著提升平台企业间的融通发展水平，形成一批可复制的协同创新模式，并培育一批在平台经济中专注于细分制造领域的领军企业。"
-    },
-    {
-      "id": 4,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-01/World-leaders-congratulate-CPC-on-105th-anniversary-1OqHiTbdbUs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "World leaders congratulate CPC on 105th anniversary",
-      "titleCn": "世界各国领导人祝贺中国共产党建党105周年",
-      "summary": "World leaders congratulate CPC on 105th anniversary",
-      "summaryCn": "多国政党和政府领导人致贺中国共产党建党105周年，赞扬中国发展成就并表达加强合作的意愿。",
-      "wordCount": 617,
-      "paragraphs": [
-        {
-          "en": "Leaders of political parties and governments from around the world have sent {{0}} messages to the Communist Party of China (CPC)'s 105th founding {{1}}, {{2}} China's development under the CPC and expressing support for closer ties with China. Kim Jong Un, general secretary of the Workers' Party of Korea and president of the State Affairs of the Democratic People's Republic of Korea, said the CPC has led China through {{3}} {{4}}, {{5}} socialism with Chinese characteristics and opened a brilliant new chapter in the history of the Chinese nation's development. Indonesian President and Great Indonesia Movement Party General Chairman Prabowo Subianto said China has developed into an advanced, strong and {{6}} country under the CPC's leadership, adding that the CPC's success in {{7}} people out of poverty and improving {{8}} serves as a {{9}} for his party. Maldivian President and People's National Congress leader Mohamed Muizzu said the CPC had {{10}} China to lift hundreds of millions of people out of poverty and become a global {{11}} power. He thanked China for supporting the Maldives' development and said {{12}} ties between the two parties was more important than ever amid a {{13}} international environment.",
-          "cn": "世界各国政党和政府领导人纷纷向中国共产党建党105周年发来贺电，赞扬中国共产党领导下的中国发展，并表达支持与中国加强关系。朝鲜劳动党总书记、国务委员长金正恩表示，中国共产党领导中国克服了众多挑战，推进了中国特色社会主义，开创了中华民族发展史上的辉煌新篇章。印度尼西亚总统、大印尼运动党总主席普拉博沃·苏比安托表示，在中国共产党的领导下，中国已发展成为一个先进、强大且独具特色的国家，并补充说，中国共产党在消除贫困和改善民生方面的成功为其政党树立了榜样。马尔代夫总统、人民国家大会党领袖穆罕默德·穆伊兹表示，中国共产党使中国使数亿人摆脱贫困，成为全球经济强国。他感谢中国支持马尔代夫的发展，并表示在复杂的国际环境下，深化两党关系比以往任何时候都更为重要。"
-        },
-        {
-          "en": "Turkish President and Justice and Development Party leader Recep Tayyip Erdogan said China had achieved {{14}} global development under the CPC's leadership. He praised the China-proposed {{15}} for {{16}} global {{17}} and {{18}} and said his party hoped to {{19}} {{20}} with the CPC and {{21}} bilateral cooperation. Mahmoud Abbas, president of Palestine and chairman of the Palestine Liberation Organization Executive Committee, praised China's {{22}} and thanked Beijing for its {{23}} support for the Palestinian cause. He reaffirmed support for the one-China principle and China's {{24}} and {{25}} {{26}}. Kenyan President and United Democratic Alliance leader William Ruto said CPC's achievements have prompted countries in the Global South to rethink approaches to national development and governance, while further strengthening Kenya's resolve to pursue a path of transformative growth.",
-          "cn": "土耳其总统、正义与发展党主席雷杰普·塔伊普·埃尔多安表示，在中国共产党的领导下，中国取得了显著的全球发展成就。他赞扬了中国提出的促进全球稳定与繁荣的倡议，并表示其政党希望加强与中国共产党的交流，深化双边合作。巴勒斯坦总统、巴勒斯坦解放组织执行委员会主席马哈茂德·阿巴斯赞扬了中国的成就，并感谢北京长期以来对巴勒斯坦事业的支持。他重申支持一个中国原则以及中国的主权和领土完整。肯尼亚总统、联合民主联盟领袖威廉·鲁托表示，中国共产党的成就促使全球南方国家重新思考国家发展和治理的方式，同时进一步坚定了肯尼亚追求变革性增长道路的决心。"
-        },
-        {
-          "en": "Belarusian President Alexander Lukashenko said the CPC has demonstrated an outstanding ability to address complex global challenges while maintaining political continuity and long-term stability. He said the four global initiatives proposed by China would strengthen international cooperation and promote a fairer world order. Serbian President Aleksandar Vucic said the CPC had led China to rapid development over the past 105 years, with its resilience offering hope to those committed to peace, development and multilateralism. He said Serbia was proud of its ironclad friendship with China and supported implementing global initiatives proposed by China. Nauruan President David Adeang said the CPC has played a vital role in China's transformation, prosperity and improvements in people's well-being over the past 105 years.",
-          "cn": "白俄罗斯总统亚历山大·卢卡申科表示，中国共产党展现了应对复杂全球挑战的卓越能力，同时保持了政治连续性和长期稳定。他表示，中国提出的四大全球倡议将加强国际合作，促进更公平的世界秩序。塞尔维亚总统亚历山大·武契奇表示，中国共产党在过去105年中领导中国实现了快速发展，其韧性为致力于和平、发展和多边主义的人们带来了希望。他表示，塞尔维亚为与中国钢铁般的友谊感到自豪，并支持实施中国提出的全球倡议。瑙鲁总统戴维·阿迪昂表示，在过去105年中，中国共产党在中国的转型、繁荣和人民福祉改善方面发挥了至关重要的作用。"
-        },
-        {
-          "en": "He said Nauru would continue strengthening bilateral relations and expanding cooperation with China. Malaysian Prime Minister and People's Justice Party President Anwar Ibrahim said the ideals that began in Shanghai more than a century ago have become a vivid reality for the Chinese nation. He said the CPC has drawn on China's rich civilization while carrying forward its cultural heritage. Singaporean Prime Minister and People's Action Party Secretary-General Lawrence Wong said China's profound transformation over the past century stemmed from the CPC's people-centered governance philosophy. He said both parties shared commitments to serving the people and clean governance, and looked forward to expanding cooperation.",
-          "cn": "他表示，瑙鲁将继续加强双边关系，扩大与中国的合作。马来西亚总理、人民公正党主席安瓦尔·伊卜拉欣表示，一个多世纪前在上海开始的理想已成为中华民族的生动现实。他表示，中国共产党借鉴了中国丰富的文明，同时传承了其文化遗产。新加坡总理、人民行动党秘书长黄循财表示，中国过去一个世纪的深刻变革源于中国共产党以人民为中心的执政理念。他表示，两党都致力于为人民服务和廉洁治理，并期待扩大合作。"
-        },
-        {
-          "en": "Vanuatu Prime Minister and Leaders Party President Jotham Napat said the CPC has maintained its vitality through strong leadership, resilience and commitment to the people, leading China through profound transformation while contributing to world peace and development. Samoan Prime Minister and Samoa United in Faith Party leader Laʻauli Leuatea Schmidt praised China's 15th Five-Year Plan and said it would further promote the country's long-term stability and high-quality development under the CPC's leadership.",
-          "cn": "瓦努阿图总理、领导人党主席乔瑟姆·纳帕特表示，中国共产党通过强有力的领导、韧性和对人民的承诺保持了活力，领导中国实现了深刻变革，同时为世界和平与发展做出了贡献。萨摩亚总理、信仰统一萨摩亚党领袖拉乌利·莱乌阿特阿·施密特赞扬了中国第十五个五年规划，并表示在中国共产党的领导下，该规划将进一步促进国家的长期稳定和高质量发展。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "congratulatory",
-          "hint": "adj. 祝贺的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "anniversary",
-          "hint": "n. 周年纪念",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "praising",
-          "hint": "v. 赞扬",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "numerous",
-          "hint": "adj. 众多的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "challenges",
-          "hint": "n. 挑战",
-          "difficulty": "easy"
-        },
-        {
-          "id": 5,
-          "answer": "advanced",
-          "hint": "v. 推进",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "distinctive",
-          "hint": "adj. 独特的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "lifting",
-          "hint": "v. 提升",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "livelihoods",
-          "hint": "n. 生计",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "model",
-          "hint": "n. 榜样",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "enabled",
-          "hint": "v. 使能够",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "economic",
-          "hint": "adj. 经济的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "deepening",
-          "hint": "v. 加深",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "complex",
-          "hint": "adj. 复杂的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "remarkable",
-          "hint": "adj. 显著的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
           "answer": "initiatives",
           "hint": "n. 倡议",
           "difficulty": "medium"
         },
         {
+          "id": 1,
+          "answer": "pillar",
+          "hint": "n. 支柱",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "biometric",
+          "hint": "adj. 生物识别的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "demographic",
+          "hint": "adj. 人口统计的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "verifiable",
+          "hint": "adj. 可验证的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "integrated",
+          "hint": "v. 整合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "seamless",
+          "hint": "adj. 无缝的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "verification",
+          "hint": "n. 验证",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "frictionless",
+          "hint": "adj. 无摩擦的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "verified",
+          "hint": "adj. 经核实的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "enrolling",
+          "hint": "v. 注册",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "universal",
+          "hint": "adj. 普遍的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "essential",
+          "hint": "adj. 必要的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "beneficiaries",
+          "hint": "n. 受益者",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "permanent",
+          "hint": "adj. 永久的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "inclusion",
+          "hint": "n. 包容性",
+          "difficulty": "medium"
+        },
+        {
           "id": 16,
-          "answer": "promoting",
-          "hint": "v. 促进",
+          "answer": "financial",
+          "hint": "adj. 金融的",
           "difficulty": "easy"
         },
         {
           "id": 17,
-          "answer": "stability",
-          "hint": "n. 稳定",
+          "answer": "privacy",
+          "hint": "n. 隐私",
           "difficulty": "easy"
         },
         {
           "id": 18,
-          "answer": "prosperity",
-          "hint": "n. 繁荣",
+          "answer": "safeguards",
+          "hint": "n. 保障措施",
           "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "strengthen",
-          "hint": "v. 加强",
-          "difficulty": "easy"
+          "answer": "consent",
+          "hint": "n. 同意",
+          "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "exchanges",
-          "hint": "n. 交流",
-          "difficulty": "easy"
+          "answer": "ownership",
+          "hint": "n. 所有权",
+          "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "deepen",
-          "hint": "v. 深化",
-          "difficulty": "medium"
+          "answer": "transitioned",
+          "hint": "v. 转型",
+          "difficulty": "hard"
         },
         {
           "id": 22,
-          "answer": "achievements",
-          "hint": "n. 成就",
-          "difficulty": "easy"
-        },
-        {
-          "id": 23,
-          "answer": "longstanding",
-          "hint": "adj. 长期的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 24,
-          "answer": "sovereignty",
-          "hint": "n. 主权",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "territorial",
-          "hint": "adj. 领土的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 26,
-          "answer": "integrity",
-          "hint": "n. 完整",
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
           "difficulty": "medium"
         }
       ],
-      "fullText": "Leaders of political parties and governments from around the world have sent congratulatory messages to the Communist Party of China (CPC)'s 105th founding anniversary, praising China's development under the CPC and expressing support for closer ties with China.\nKim Jong Un, general secretary of the Workers' Party of Korea and president of the State Affairs of the Democratic People's Republic of Korea, said the CPC has led China through numerous challenges, advanced socialism with Chinese characteristics and opened a brilliant new chapter in the history of the Chinese nation's development.\nIndonesian President and Great Indonesia Movement Party General Chairman Prabowo Subianto said China has developed into an advanced, strong and distinctive country under the CPC's leadership, adding that the CPC's success in lifting people out of poverty and improving livelihoods serves as a model for his party.\nMaldivian President and People's National Congress leader Mohamed Muizzu said the CPC had enabled China to lift hundreds of millions of people out of poverty and become a global economic power. He thanked China for supporting the Maldives' development and said deepening ties between the two parties was more important than ever amid a complex international environment.\nTurkish President and Justice and Development Party leader Recep Tayyip Erdogan said China had achieved remarkable global development under the CPC's leadership. He praised the China-proposed initiatives for promoting global stability and prosperity and said his party hoped to strengthen exchanges with the CPC and deepen bilateral cooperation.\nMahmoud Abbas, president of Palestine and chairman of the Palestine Liberation Organization Executive Committee, praised China's achievements and thanked Beijing for its longstanding support for the Palestinian cause. He reaffirmed support for the one-China principle and China's sovereignty and territorial integrity.\nKenyan President and United Democratic Alliance leader William Ruto said CPC's achievements have prompted countries in the Global South to rethink approaches to national development and governance, while further strengthening Kenya's resolve to pursue a path of transformative growth.\nBelarusian President Alexander Lukashenko said the CPC has demonstrated an outstanding ability to address complex global challenges while maintaining political continuity and long-term stability. He said the four global initiatives proposed by China would strengthen international cooperation and promote a fairer world order.\nSerbian President Aleksandar Vucic said the CPC had led China to rapid development over the past 105 years, with its resilience offering hope to those committed to peace, development and multilateralism. He said Serbia was proud of its ironclad friendship with China and supported implementing global initiatives proposed by China.\nNauruan President David Adeang said the CPC has played a vital role in China's transformation, prosperity and improvements in people's well-being over the past 105 years. He said Nauru would continue strengthening bilateral relations and expanding cooperation with China.\nMalaysian Prime Minister and People's Justice Party President Anwar Ibrahim said the ideals that began in Shanghai more than a century ago have become a vivid reality for the Chinese nation. He said the CPC has drawn on China's rich civilization while carrying forward its cultural heritage.\nSingaporean Prime Minister and People's Action Party Secretary-General Lawrence Wong said China's profound transformation over the past century stemmed from the CPC's people-centered governance philosophy. He said both parties shared commitments to serving the people and clean governance, and looked forward to expanding cooperation.\nVanuatu Prime Minister and Leaders Party President Jotham Napat said the CPC has maintained its vitality through strong leadership, resilience and commitment to the people, leading China through profound transformation while contributing to world peace and development.\nSamoan Prime Minister and Samoa United in Faith Party leader Laʻauli Leuatea Schmidt praised China's 15th Five-Year Plan and said it would further promote the country's long-term stability and high-quality development under the CPC's leadership.",
-      "fullTextCn": "世界各国政党和政府领导人纷纷向中国共产党建党105周年发来贺电，赞扬中国共产党领导下的中国发展，并表达支持与中国加强关系。朝鲜劳动党总书记、国务委员长金正恩表示，中国共产党领导中国克服了众多挑战，推进了中国特色社会主义，开创了中华民族发展史上的辉煌新篇章。印度尼西亚总统、大印尼运动党总主席普拉博沃·苏比安托表示，在中国共产党的领导下，中国已发展成为一个先进、强大且独具特色的国家，并补充说，中国共产党在消除贫困和改善民生方面的成功为其政党树立了榜样。马尔代夫总统、人民国家大会党领袖穆罕默德·穆伊兹表示，中国共产党使中国使数亿人摆脱贫困，成为全球经济强国。他感谢中国支持马尔代夫的发展，并表示在复杂的国际环境下，深化两党关系比以往任何时候都更为重要。\n\n土耳其总统、正义与发展党主席雷杰普·塔伊普·埃尔多安表示，在中国共产党的领导下，中国取得了显著的全球发展成就。他赞扬了中国提出的促进全球稳定与繁荣的倡议，并表示其政党希望加强与中国共产党的交流，深化双边合作。巴勒斯坦总统、巴勒斯坦解放组织执行委员会主席马哈茂德·阿巴斯赞扬了中国的成就，并感谢北京长期以来对巴勒斯坦事业的支持。他重申支持一个中国原则以及中国的主权和领土完整。肯尼亚总统、联合民主联盟领袖威廉·鲁托表示，中国共产党的成就促使全球南方国家重新思考国家发展和治理的方式，同时进一步坚定了肯尼亚追求变革性增长道路的决心。\n\n白俄罗斯总统亚历山大·卢卡申科表示，中国共产党展现了应对复杂全球挑战的卓越能力，同时保持了政治连续性和长期稳定。他表示，中国提出的四大全球倡议将加强国际合作，促进更公平的世界秩序。塞尔维亚总统亚历山大·武契奇表示，中国共产党在过去105年中领导中国实现了快速发展，其韧性为致力于和平、发展和多边主义的人们带来了希望。他表示，塞尔维亚为与中国钢铁般的友谊感到自豪，并支持实施中国提出的全球倡议。瑙鲁总统戴维·阿迪昂表示，在过去105年中，中国共产党在中国的转型、繁荣和人民福祉改善方面发挥了至关重要的作用。\n\n他表示，瑙鲁将继续加强双边关系，扩大与中国的合作。马来西亚总理、人民公正党主席安瓦尔·伊卜拉欣表示，一个多世纪前在上海开始的理想已成为中华民族的生动现实。他表示，中国共产党借鉴了中国丰富的文明，同时传承了其文化遗产。新加坡总理、人民行动党秘书长黄循财表示，中国过去一个世纪的深刻变革源于中国共产党以人民为中心的执政理念。他表示，两党都致力于为人民服务和廉洁治理，并期待扩大合作。\n\n瓦努阿图总理、领导人党主席乔瑟姆·纳帕特表示，中国共产党通过强有力的领导、韧性和对人民的承诺保持了活力，领导中国实现了深刻变革，同时为世界和平与发展做出了贡献。萨摩亚总理、信仰统一萨摩亚党领袖拉乌利·莱乌阿特阿·施密特赞扬了中国第十五个五年规划，并表示在中国共产党的领导下，该规划将进一步促进国家的长期稳定和高质量发展。"
+      "fullText": "Ethiopia's national digital identification program, known as Fayda, has registered more than 46 million people in just three years, making it one of Africa's fastest-growing digital identity initiatives and a central pillar of the country's digital transformation strategy.\nThe biometric and demographic identification system is designed to provide every resident with a unique and verifiable digital identity, enabling easier access to financial services, government programs, and other essential services.\nAccording to officials, nearly 165 institutions, including banks, digital payment providers, startups, and public service agencies have already integrated with the national database. The integrations allow for seamless identity verification, faster service delivery, and secure data exchange across sectors.\n\"When you get a driver's license, you have a different address. When you get a kebele ID, you have one address. When you open a bank account, you enter a different address. So there is no single source of truth for the service provider and for you, it's inconvenient because you have to spend a lot of time entering all of this data again and again, the same data,\" said Yodahe Zemichael, executive director of Ethiopia's National ID Program. \"With Fayda, the process becomes frictionless. Users only need to provide their identification number, and their verified Know Your Customer information can be securely shared with authorized service providers,\"\nWhile the government had initially targeted enrolling 90 million people by the end of 2026, authorities have now shifted their focus toward achieving universal enrollment over the coming years.\nGrowing demand as digital ID becomes key for public services\nDespite registration campaigns having covered most major urban centers, enrollment facilities in the capital, Addis Ababa, continue to experience high demand as citizens seek to register or update their records.\nFor many Ethiopians, possessing a Fayda ID is increasingly becoming essential for accessing public and financial services.\n\"I live in South Africa, but I travel frequently to Ethiopia for business,\" said Abreham Tilahun, one of the program's beneficiaries. \"People like me often face challenges accessing services because we are not permanent residents. Fayda became a much-needed solution. I was able to renew my passport and open bank accounts without difficulty. It has been very useful.\"\nPrime Minister Abiy Ahmed recently highlighted the role of digital identity systems in promoting economic inclusion and expanding access to financial services.\n\"Imagine a woman running a small business in a market,\" the prime minister said in a recent address. \"For years, she operated outside the formal financial system. She had no bank account, no credit history, and no registered business. After enrolling in Fayda and beginning to use digital payments, she started building a financial record. That record became trust, and that trust opened the door to finance.\"\nPrime Minister Abiy Ahmed highlights the role of digital identity systems in promoting economic inclusion in Addis Ababa, Ethiopia, July 1, 2026. \n Africa\nPrivacy concerns remain as officials pledge strong safeguards\nAs the digital ID system expands, concerns have emerged over data privacy and the potential misuse of personal information. Ethiopian officials, however, insist that robust legal and technical safeguards have been established to protect citizens' data.\nYodahe Zemichael, the executive director of the Ethiopian National ID Program, July 1, 2026. \n Africa\n\"For instance, the courts can request data on any individual for law enforcement purposes. It's legally put in the law. But when it comes to privacy, no third party can access it without your consent. \" Zemichael said. \"However, no third party can access personal data without the individual's consent.\"\nHe emphasized that citizens retain ownership of their personal information.\n\"The citizen is the owner of the data. Fayda's role is only to safeguard the database,\" he said. \"It's similar to a bank: the money belongs to the customer, while the bank is responsible for keeping it secure.\"\nThe national digital ID program has recently transitioned into a state-owned enterprise model, allowing it to generate its own revenue. Ethiopian officials say the program has also begun partnering with several African countries seeking to establish their own digital identity systems, positioning Ethiopia as an emerging leader in digital public infrastructure across the continent.",
+      "fullTextCn": "埃塞俄比亚的国家数字身份识别计划，即Fayda，在短短三年内已注册超过4600万人，使其成为非洲增长最快的数字身份倡议之一，也是该国数字化转型战略的核心支柱。这一生物识别和人口统计识别系统旨在为每位居民提供独特且可验证的数字身份，从而更方便地获取金融服务、政府项目及其他基本服务。据官员称，包括银行、数字支付提供商、初创公司和公共服务机构在内的近165家机构已与国家数据库整合。这些整合实现了跨部门的无缝身份验证、更快的服务交付和安全的数据交换。“当你拿到驾照时，你有一个不同的地址。\n\n当你拿到kebele身份证时，你有一个地址。当你开立银行账户时，你又输入一个不同的地址。因此，对于服务提供商和你来说，都没有单一的真实信息来源，这很不方便，因为你必须反复花费大量时间输入所有这些相同的数据，”埃塞俄比亚国家身份证计划执行主任Yodahe Zemichael说。“有了Fayda，这一过程变得无摩擦。用户只需提供他们的身份证号码，他们经过验证的‘了解你的客户’信息就可以安全地与授权服务提供商共享。”虽然政府最初的目标是到2026年底注册9000万人，但当局现在已将重点转向在未来几年实现全民注册。\n\n随着数字身份成为公共服务的关键，需求日益增长。尽管注册活动已覆盖大多数主要城市中心，但首都亚的斯亚贝巴的注册设施仍面临高需求，因为公民寻求注册或更新记录。对许多埃塞俄比亚人来说，拥有Fayda身份证对于获取公共和金融服务正变得越来越必要。“我住在南非，但我经常因商务前往埃塞俄比亚，”该计划的受益者之一Abreham Tilahun说。“像我这样的人在获取服务时经常面临挑战，因为我们不是永久居民。Fayda成了一个急需的解决方案。\n\n我能够毫无困难地更新护照和开立银行账户。它非常有用。”总理阿比·艾哈迈德最近强调了数字身份系统在促进经济包容性和扩大金融服务获取方面的作用。“想象一下，一位女性在市场上经营一家小企业，”总理在最近的一次讲话中说。“多年来，她在正规金融体系之外运营。她没有银行账户，没有信用记录，也没有注册的企业。\n\n在注册Fayda并开始使用数字支付后，她开始建立金融记录。这份记录变成了信任，而信任为她打开了融资的大门。”总理阿比·艾哈迈德在2026年7月1日于埃塞俄比亚亚的斯亚贝巴强调数字身份系统在促进经济包容性方面的作用。随着数字身份系统的扩展，人们对数据隐私和个人信息可能被滥用的担忧也随之出现。然而，埃塞俄比亚官员坚称，已经建立了强有力的法律和技术保障措施来保护公民数据。埃塞俄比亚国家身份证计划执行主任Yodahe Zemichael，2026年7月1日。\n\n非洲“例如，法院可以出于执法目的要求获取任何个人的数据。这在法律中有明确规定。但在隐私方面，未经你的同意，任何第三方都无法访问它，”Zemichael说。“然而，未经个人同意，任何第三方都无法访问个人数据。”他强调，公民保留对其个人信息的拥有权。\n\n“公民是数据的所有者。Fayda的角色只是保护数据库，”他说。“这类似于银行：钱属于客户，而银行负责确保其安全。”国家数字身份证计划最近转型为国有企业模式，使其能够产生自己的收入。埃塞俄比亚官员表示，该计划已开始与几个寻求建立自己数字身份系统的非洲国家合作，使埃塞俄比亚成为非洲大陆数字公共基础设施领域的新兴领导者。"
     },
     {
-      "id": 5,
-      "category": "military",
+      "id": 4,
+      "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-02/PLA-naval-ships-Nanning-Hengyang-start-maiden-call-in-Hong-Kong-1OrM3ZiIC7m/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "PLA naval ships Nanning, Hengyang start maiden call in Hong Kong",
-      "titleCn": "解放军海军南宁舰、衡阳舰首次访问香港",
-      "summary": "Hong Kong Special Administrative Region celebrated the 29th anniversary of the city's return to China with a significant visit on Thursday by a Chinese People's Liberation Army Navy fleet.",
-      "summaryCn": "解放军海军南宁舰和衡阳舰于2026年7月2日首次访问香港，庆祝香港回归29周年，并举办开放日和文化交流活动。",
-      "wordCount": 300,
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-28/Experts-explain-cause-of-Venezuela-s-two-consecutive-earthquakes-1OlK6oUuses/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Experts explain cause of Venezuela's two consecutive earthquakes",
+      "titleCn": "专家解释委内瑞拉连续两次地震的原因",
+      "summary": "Experts explain cause of Venezuela's two consecutive earthquakes",
+      "summaryCn": "专家指出，委内瑞拉连续两次地震是由加勒比板块与南美板块边界处两个相互连接的断层系统运动引起的，属于正常地质现象。",
+      "wordCount": 391,
       "paragraphs": [
         {
-          "en": "Hong Kong Special Administrative Region {{0}} the 29th anniversary of the city's return to China with a {{1}} visit by a Chinese People's Liberation Army Navy {{2}} on July 2, 2026. Hong Kong Special Administrative Region (HKSAR) celebrated the 29th anniversary of the city's return to China with a significant visit on Thursday by a Chinese People's Liberation Army (PLA) Navy fleet. The fleet {{3}} of {{4}} {{5}} Nanning and guided-missile {{6}} Hengyang, along with ship-borne helicopters and {{7}}. It {{8}} into HKSAR waters on Thursday morning for a five-day visit, featuring open-house events and cultural exchange activities. The HKSAR government held a welcome {{9}} for the fleet at the PLA Hong Kong Garrison's naval base on Stonecutters Island. The fleet sailed into Victoria Harbour in column {{11}} at around 7 a.m.",
-          "cn": "香港特别行政区于2026年7月2日庆祝回归祖国29周年，中国人民解放军海军舰队到访，意义重大。香港特别行政区周四庆祝回归祖国29周年，中国人民解放军海军舰队到访。该舰队由导弹驱逐舰南宁舰和导弹护卫舰衡阳舰组成，并搭载舰载直升机和海军陆战队员。舰队于周四上午驶入香港特别行政区水域，进行为期五天的访问，期间将举办开放日和文化交流活动。香港特别行政区政府在昂船洲解放军驻港部队海军基地为舰队举行了欢迎仪式。舰队于早上7点左右以纵队队形驶入维多利亚港。"
+          "en": "Two {{0}} earthquakes that {{1}} Venezuela within a minute of each other on June 24 were caused by movements along two {{2}} fault systems at the {{3}} between the Caribbean and South American {{4}} plates, according to experts. According to the US Geological Survey, a magnitude-7.1 earthquake struck near Montalbán, Venezuela, on June 24, followed less than a minute later by a magnitude-7.5 quake. The magnitude of the first earthquake was later {{5}} to 7.2. Qu Guosheng, former chief engineer of the China Earthquake Emergency Search and Rescue Center, told China News Service that the first magnitude-7.2 earthquake occurred along the Central Range Fault, a thrust strike-slip fault at the eastern end of the Andes Mountains. The {{6}} {{7}} northeastward and subsequently {{8}} movement along the Boconó-San Sebastián-El Pilar fault system, an east-west trending strike-slip fault zone, resulting in the second earthquake.",
+          "cn": "据专家称，6月24日，委内瑞拉在一分钟内接连发生两次强烈地震，原因是加勒比板块与南美板块边界处两个相互连接的断层系统发生了运动。根据美国地质调查局的数据，6月24日，委内瑞拉蒙塔尔万附近发生7.1级地震，不到一分钟后，又发生7.5级地震。第一次地震的震级后来修正为7.2级。中国地震应急搜救中心原总工程师曲国胜向中新社表示，第一次7.2级地震发生在中央山脉断层，这是安第斯山脉东端的一个逆冲走滑断层。破裂向东北方向传播，随后触发了博科诺-圣塞巴斯蒂安-埃尔皮拉尔断层系统（一个东西走向的走滑断层带）的运动，导致了第二次地震。"
         },
         {
-          "en": "local time, {{12}} by vessels from the HKSAR government fleet and the PLA Hong Kong Garrison, before {{13}} at approximately 10 a.m. Senior PLA Navy officers and the visiting fleet, alongside crew representatives, {{14}} and received a warm welcome {{15}} by officials from the offices of the Central People's Government in HKSAR, representatives of the PLA Hong Kong Garrison, local residents and young students. People take photos in front of the guided-missile destroyer Nanning at Victoria Harbour in Hong Kong Special Administrative Region, China, July 2, 2026. The opening ceremony kicked off with the playing of the national anthem, after which HKSAR Chief Executive John Lee delivered a welcoming address. The officials and representatives then boarded the naval vessels for a tour. This marks the maiden Hong Kong call for both Nanning and Hengyang.",
-          "cn": "当地时间，由香港特别行政区政府船队和解放军驻港部队船只护航，约上午10时停泊。解放军海军高级军官及到访舰队，与船员代表一同下船，受到中央人民政府驻香港特别行政区办公室官员、解放军驻港部队代表、当地居民和青年学生的热烈欢迎。2026年7月2日，人们在香港特别行政区维多利亚港的导弹驱逐舰南宁舰前拍照。开幕式在奏国歌中开始，随后香港特别行政区行政长官李家超致欢迎辞。官员和代表随后登舰参观。这是南宁舰和衡阳舰首次访问香港。"
+          "en": "Sergio Barrientos, director of the National Seismological Center at the University of Chile, said Caracas and surrounding areas have {{9}} several major earthquakes throughout history because the region lies along the boundary between the Caribbean and South American plates. Barrientos noted that major earthquakes struck Caracas in 1812, 1900 and 1967. The {{10}} movement of the Caribbean Plate against the South American Plate, which shifts by about two centimeters each year, gradually builds up stress in the Earth's {{14}}. When the {{11}} stress {{12}} the {{13}} of the rocks, the crust ruptures along the plate boundary, triggering earthquakes. He said the two recent earthquakes were caused by the same tectonic process.",
+          "cn": "智利大学国家地震中心主任塞尔吉奥·巴里恩托斯表示，加拉加斯及周边地区历史上曾发生过多次大地震，因为该地区位于加勒比板块和南美板块的边界上。巴里恩托斯指出，加拉加斯在1812年、1900年和1967年都发生过大地震。加勒比板块相对于南美板块每年移动约两厘米，这种相对运动逐渐在地壳中积累应力。当累积的应力超过岩石的强度时，地壳会沿着板块边界破裂，从而引发地震。他说，最近的两次地震是由相同的构造过程引起的。"
         },
         {
-          "en": "The two naval ships will open to Hong Kong and Macao residents and students from Friday through Sunday, enabling {{16}} to gain first-hand insight into advances in China's new-era national defense and military {{17}}.",
-          "cn": "这两艘军舰将于周五至周日向香港和澳门居民及学生开放，让同胞们亲身了解中国新时代国防和军队现代化的进展。"
+          "en": "Barrientos added that both earthquakes were {{15}} and occurred along near-{{16}} faults, allowing the movement between the tectonic plates to release {{17}} energy, contributing to significant {{18}} and property damage. The two earthquakes, both exceeding magnitude 7, have raised {{19}} about whether the Earth is entering a period of {{20}} {{21}} activity. However, Barrientos said global {{22}} suggest earthquakes of this {{23}} fall within the normal range of tectonic activity. On average, one magnitude 8 or stronger earthquake occurs worldwide each year, he said. Statistically, each magnitude 8 earthquake is {{24}} by about 10 magnitude 7 earthquakes, 100 magnitude 6 earthquakes and 1,000 magnitude 5 earthquakes over the same period.",
+          "cn": "巴里恩托斯补充说，这两次地震都是浅源地震，且发生在近乎垂直的断层上，这使得板块之间的运动释放出大量能量，造成了重大人员伤亡和财产损失。这两次震级均超过7级的地震引发了人们对地球是否进入地震活跃期的担忧。然而，巴里恩托斯表示，全球统计数据表明，这种规模的地震属于正常构造活动范围。他说，全球平均每年发生一次8级或以上的地震。据统计，每发生一次8级地震，同期大约会伴随发生10次7级地震、100次6级地震和1000次5级地震。"
+        },
+        {
+          "en": "Barrientos said earthquakes of the size recorded in Venezuela are a normal geological {{25}}, {{26}} within the {{27}} {{28}} Pacific Ring of Fire and other {{29}} active regions.",
+          "cn": "巴里恩托斯说，委内瑞拉记录到的这种规模的地震是一种正常的地质现象，尤其是在地震活跃的环太平洋火山带和其他构造活跃地区。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "celebrates",
-          "hint": "v. 庆祝",
+          "answer": "powerful",
+          "hint": "adj. 强大的",
           "difficulty": "easy"
         },
         {
           "id": 1,
-          "answer": "significant",
-          "hint": "adj. 重要的",
+          "answer": "struck",
+          "hint": "v. 袭击",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "fleet",
-          "hint": "n. 舰队",
-          "difficulty": "medium"
+          "answer": "interconnected",
+          "hint": "adj. 相互连接的",
+          "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "consists",
-          "hint": "v. 由...组成",
+          "answer": "boundary",
+          "hint": "n. 边界",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "guided-missile",
-          "hint": "adj. 导弹制导的",
+          "answer": "tectonic",
+          "hint": "adj. 构造的",
           "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "destroyer",
-          "hint": "n. 驱逐舰",
-          "difficulty": "hard"
+          "answer": "revised",
+          "hint": "v. 修正",
+          "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "frigate",
-          "hint": "n. 护卫舰",
+          "answer": "rupture",
+          "hint": "n. 破裂",
           "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "marines",
-          "hint": "n. 海军陆战队员",
-          "difficulty": "medium"
+          "answer": "propagated",
+          "hint": "v. 传播",
+          "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "sailed",
-          "hint": "v. 航行",
-          "difficulty": "easy"
+          "answer": "triggered",
+          "hint": "v. 触发",
+          "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "ceremony",
-          "hint": "n. 仪式",
+          "answer": "experienced",
+          "hint": "v. 经历",
           "difficulty": "easy"
         },
         {
           "id": 10,
-          "answer": "formation",
-          "hint": "n. 队形",
+          "answer": "relative",
+          "hint": "adj. 相对的",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "escorted",
-          "hint": "v. 护送",
+          "answer": "accumulated",
+          "hint": "v. 累积",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "mooring",
-          "hint": "v. 停泊",
-          "difficulty": "hard"
+          "answer": "exceeds",
+          "hint": "v. 超过",
+          "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "disembarked",
-          "hint": "v. 下船",
-          "difficulty": "hard"
+          "answer": "strength",
+          "hint": "n. 强度",
+          "difficulty": "easy"
         },
         {
           "id": 14,
-          "answer": "extended",
-          "hint": "v. 给予",
+          "answer": "crust",
+          "hint": "n. 地壳",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "compatriots",
-          "hint": "n. 同胞",
+          "answer": "shallow",
+          "hint": "adj. 浅的",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "modernization",
-          "hint": "n. 现代化",
+          "answer": "vertical",
+          "hint": "adj. 垂直的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "substantial",
+          "hint": "adj. 大量的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "casualties",
+          "hint": "n. 伤亡",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "concerns",
+          "hint": "n. 担忧",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "heightened",
+          "hint": "adj. 加剧的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "seismic",
+          "hint": "adj. 地震的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "statistics",
+          "hint": "n. 统计数据",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "scale",
+          "hint": "n. 规模",
+          "difficulty": "easy"
+        },
+        {
+          "id": 24,
+          "answer": "accompanied",
+          "hint": "v. 伴随",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "phenomenon",
+          "hint": "n. 现象",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "particularly",
+          "hint": "adv. 尤其",
+          "difficulty": "easy"
+        },
+        {
+          "id": 27,
+          "answer": "seismically",
+          "hint": "adv. 在地震方面",
+          "difficulty": "hard"
+        },
+        {
+          "id": 28,
+          "answer": "active",
+          "hint": "adj. 活跃的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 29,
+          "answer": "tectonically",
+          "hint": "adv. 在构造上",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Two powerful earthquakes that struck Venezuela within a minute of each other on June 24 were caused by movements along two interconnected fault systems at the boundary between the Caribbean and South American tectonic plates, according to experts.\nAccording to the US Geological Survey, a magnitude-7.1 earthquake struck near Montalbán, Venezuela, on June 24, followed less than a minute later by a magnitude-7.5 quake. The magnitude of the first earthquake was later revised to 7.2.\nQu Guosheng, former chief engineer of the China Earthquake Emergency Search and Rescue Center, told China News Service that the first magnitude-7.2 earthquake occurred along the Central Range Fault, a thrust strike-slip fault at the eastern end of the Andes Mountains. The rupture propagated northeastward and subsequently triggered movement along the Boconó-San Sebastián-El Pilar fault system, an east-west trending strike-slip fault zone, resulting in the second earthquake.\nSergio Barrientos, director of the National Seismological Center at the University of Chile, said Caracas and surrounding areas have experienced several major earthquakes throughout history because the region lies along the boundary between the Caribbean and South American plates.\nBarrientos noted that major earthquakes struck Caracas in 1812, 1900 and 1967. The relative movement of the Caribbean Plate against the South American Plate, which shifts by about two centimeters each year, gradually builds up stress in the Earth's crust. When the accumulated stress exceeds the strength of the rocks, the crust ruptures along the plate boundary, triggering earthquakes. He said the two recent earthquakes were caused by the same tectonic process.\nBarrientos added that both earthquakes were shallow and occurred along near-vertical faults, allowing the movement between the tectonic plates to release substantial energy, contributing to significant casualties and property damage.\nThe two earthquakes, both exceeding magnitude 7, have raised concerns about whether the Earth is entering a period of heightened seismic activity. However, Barrientos said global statistics suggest earthquakes of this scale fall within the normal range of tectonic activity.\nOn average, one magnitude 8 or stronger earthquake occurs worldwide each year, he said. Statistically, each magnitude 8 earthquake is accompanied by about 10 magnitude 7 earthquakes, 100 magnitude 6 earthquakes and 1,000 magnitude 5 earthquakes over the same period. Barrientos said earthquakes of the size recorded in Venezuela are a normal geological phenomenon, particularly within the seismically active Pacific Ring of Fire and other tectonically active regions.",
+      "fullTextCn": "据专家称，6月24日，委内瑞拉在一分钟内接连发生两次强烈地震，原因是加勒比板块与南美板块边界处两个相互连接的断层系统发生了运动。根据美国地质调查局的数据，6月24日，委内瑞拉蒙塔尔万附近发生7.1级地震，不到一分钟后，又发生7.5级地震。第一次地震的震级后来修正为7.2级。中国地震应急搜救中心原总工程师曲国胜向中新社表示，第一次7.2级地震发生在中央山脉断层，这是安第斯山脉东端的一个逆冲走滑断层。破裂向东北方向传播，随后触发了博科诺-圣塞巴斯蒂安-埃尔皮拉尔断层系统（一个东西走向的走滑断层带）的运动，导致了第二次地震。\n\n智利大学国家地震中心主任塞尔吉奥·巴里恩托斯表示，加拉加斯及周边地区历史上曾发生过多次大地震，因为该地区位于加勒比板块和南美板块的边界上。巴里恩托斯指出，加拉加斯在1812年、1900年和1967年都发生过大地震。加勒比板块相对于南美板块每年移动约两厘米，这种相对运动逐渐在地壳中积累应力。当累积的应力超过岩石的强度时，地壳会沿着板块边界破裂，从而引发地震。他说，最近的两次地震是由相同的构造过程引起的。\n\n巴里恩托斯补充说，这两次地震都是浅源地震，且发生在近乎垂直的断层上，这使得板块之间的运动释放出大量能量，造成了重大人员伤亡和财产损失。这两次震级均超过7级的地震引发了人们对地球是否进入地震活跃期的担忧。然而，巴里恩托斯表示，全球统计数据表明，这种规模的地震属于正常构造活动范围。他说，全球平均每年发生一次8级或以上的地震。据统计，每发生一次8级地震，同期大约会伴随发生10次7级地震、100次6级地震和1000次5级地震。\n\n巴里恩托斯说，委内瑞拉记录到的这种规模的地震是一种正常的地质现象，尤其是在地震活跃的环太平洋火山带和其他构造活跃地区。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-07-02/WFP-warns-hunger-in-northern-Nigeria-at-highest-levels-1OslvaThPnW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "WFP warns hunger in northern Nigeria at highest levels",
+      "titleCn": "世界粮食计划署警告尼日利亚北部饥饿问题达到最高水平",
+      "summary": "The UN World Food Programme says conflict, displacement and funding cuts have pushed hunger in northern Nigeria to its worst levels in almost a decade, with more than 17 million people facing acute food insecurity.",
+      "summaryCn": "联合国世界粮食计划署警告称，受冲突影响的尼日利亚北部地区饥饿问题达到近十年最高水平，超过1700万人面临严重粮食不安全。",
+      "wordCount": 344,
+      "paragraphs": [
+        {
+          "en": "People line up to receive food donations from the United Nations World Food Programme in Damasak, northeastern Nigeria, October 6, 2024. /CFP\nHunger across {{0}} northern Nigeria has reached its highest levels in nearly a decade, with more than 17 million people experiencing {{1}}, {{2}} or {{3}} food {{4}}, the UN World Food Programme (WFP) warned on Thursday. The agency said worsening insecurity, {{5}} armed violence and shrinking humanitarian funding are driving the crisis, as conflict spreads beyond the northeast into parts of northwestern Nigeria. \"What concerns us most is how this crisis is expanding,\" WFP Regional Director for West and Central Africa, Kinday Samba, said in a statement. He noted that growing insecurity is forcing people off their farmland, {{6}} communities and {{7}} humanitarian access.",
+          "cn": "2024年10月6日，尼日利亚东北部达马萨克，人们排队领取联合国世界粮食计划署的食品捐赠。/CFP\n联合国世界粮食计划署周四警告称，受冲突影响的尼日利亚北部地区饥饿问题已达到近十年来的最高水平，超过1700万人面临危机、紧急或灾难性的粮食不安全。该机构表示，日益恶化的安全局势、不断扩大的武装暴力以及人道主义资金的缩减正在推动这场危机，冲突已从东北部蔓延至尼日利亚西北部部分地区。世界粮食计划署西非和中非区域主任金迪·桑巴在一份声明中表示：“我们最担心的是这场危机正在扩大。”他指出，日益加剧的不安全局势正迫使人们离开农田，导致社区流离失所，并限制人道主义援助的进入。"
+        },
+        {
+          "en": "Nigeria has battled a militant {{8}} centered in the northeast since 2009, with violence intensifying again since 2025. Armed bandit groups have also expanded operations in the northwest, {{9}} the humanitarian crisis. According to the WFP, the number of areas {{10}} to humanitarian workers has doubled, with 15 additional locations now considered only partially accessible because of insecurity. The agency said the food security situation is {{11}} faster than previously anticipated. In Borno State, the epicenter of the insurgency, more than three million people are {{12}} food insecure, including around 10,000 facing catastrophic hunger.",
+          "cn": "自2009年以来，尼日利亚一直在与以东北部为中心的武装叛乱作斗争，自2025年以来暴力再次加剧。武装匪帮也在西北部扩大了行动，加剧了人道主义危机。据世界粮食计划署称，人道主义工作者无法进入的地区数量翻了一番，另有15个地点因安全局势仅被视为部分可进入。该机构表示，粮食安全状况的恶化速度超出预期。在叛乱中心博尔诺州，超过300万人严重粮食不安全，其中约1万人面临灾难性饥饿。"
+        },
+        {
+          "en": "Despite rising needs, humanitarian assistance is declining because of severe funding {{13}}. During the 2025 lean season, the WFP provided food and nutrition assistance to 1.3 million people. This year, it expects to reach just over half that number. Across northeastern Nigeria, 6.2 million people are now food insecure, but the agency says it can assist only about 740,000 people, leaving roughly 5.5 million, many of them children, without food assistance. The WFP warned that dwindling aid is forcing vulnerable households to adopt increasingly desperate {{14}} strategies, including reports of some people joining armed groups in search of food or income.",
+          "cn": "尽管需求不断上升，但由于严重的资金短缺，人道主义援助正在减少。在2025年淡季，世界粮食计划署向130万人提供了粮食和营养援助。今年，该机构预计只能覆盖这一数字的一半多一点。在尼日利亚东北部，620万人目前处于粮食不安全状态，但该机构表示只能援助约74万人，这意味着大约550万人（其中许多是儿童）无法获得粮食援助。世界粮食计划署警告称，援助的减少正迫使脆弱家庭采取越来越绝望的应对策略，包括有报道称一些人为了寻找食物或收入而加入武装团体。"
+        },
+        {
+          "en": "The warning comes amid broader economic challenges in Nigeria, where rising poverty, inflation and conflict continue to strain livelihoods despite ongoing economic reforms.",
+          "cn": "这一警告是在尼日利亚面临更广泛经济挑战的背景下发出的，尽管正在进行经济改革，但不断加剧的贫困、通货膨胀和冲突仍在持续影响民生。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "conflict-affected",
+          "hint": "adj. 受冲突影响的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "crisis",
+          "hint": "n. 危机",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "emergency",
+          "hint": "n. 紧急情况",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "catastrophic",
+          "hint": "adj. 灾难性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "insecurity",
+          "hint": "n. 不安全",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "expanding",
+          "hint": "v. 扩大",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "displacing",
+          "hint": "v. 使流离失所",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "restricting",
+          "hint": "v. 限制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "insurgency",
+          "hint": "n. 叛乱",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "compounding",
+          "hint": "v. 加剧",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "inaccessible",
+          "hint": "adj. 无法进入的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "deteriorating",
+          "hint": "v. 恶化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "acutely",
+          "hint": "adv. 严重地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "shortages",
+          "hint": "n. 短缺",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "coping",
+          "hint": "v. 应对",
           "difficulty": "medium"
         }
       ],
-      "fullText": "Hong Kong Special Administrative Region celebrates the 29th anniversary of the city's return to China with a significant visit by a Chinese People's Liberation Army Navy fleet on July 2, 2026. \nHong Kong Special Administrative Region (HKSAR) celebrated the 29th anniversary of the city's return to China with a significant visit on Thursday by a Chinese People's Liberation Army (PLA) Navy fleet.\nThe fleet consists of guided-missile destroyer Nanning and guided-missile frigate Hengyang, along with ship-borne helicopters and marines. It sailed into HKSAR waters on Thursday morning for a five-day visit, featuring open-house events and cultural exchange activities.\nThe HKSAR government held a welcome ceremony for the fleet at the PLA Hong Kong Garrison's naval base on Stonecutters Island.\nThe fleet sailed into Victoria Harbour in column formation at around 7 a.m. local time, escorted by vessels from the HKSAR government fleet and the PLA Hong Kong Garrison, before mooring at approximately 10 a.m. Senior PLA Navy officers and the visiting fleet, alongside crew representatives, disembarked and received a warm welcome extended by officials from the offices of the Central People's Government in HKSAR, representatives of the PLA Hong Kong Garrison, local residents and young students.\nPeople take photos in front of the guided-missile destroyer Nanning at Victoria Harbour in Hong Kong Special Administrative Region, China, July 2, 2026. \nThe opening ceremony kicked off with the playing of the national anthem, after which HKSAR Chief Executive John Lee delivered a welcoming address. The officials and representatives then boarded the naval vessels for a tour.\nThis marks the maiden Hong Kong call for both Nanning and Hengyang. The two naval ships will open to Hong Kong and Macao residents and students from Friday through Sunday, enabling compatriots to gain first-hand insight into advances in China's new-era national defense and military modernization.",
-      "fullTextCn": "香港特别行政区于2026年7月2日庆祝回归祖国29周年，中国人民解放军海军舰队到访，意义重大。香港特别行政区周四庆祝回归祖国29周年，中国人民解放军海军舰队到访。该舰队由导弹驱逐舰南宁舰和导弹护卫舰衡阳舰组成，并搭载舰载直升机和海军陆战队员。舰队于周四上午驶入香港特别行政区水域，进行为期五天的访问，期间将举办开放日和文化交流活动。香港特别行政区政府在昂船洲解放军驻港部队海军基地为舰队举行了欢迎仪式。舰队于早上7点左右以纵队队形驶入维多利亚港。\n\n当地时间，由香港特别行政区政府船队和解放军驻港部队船只护航，约上午10时停泊。解放军海军高级军官及到访舰队，与船员代表一同下船，受到中央人民政府驻香港特别行政区办公室官员、解放军驻港部队代表、当地居民和青年学生的热烈欢迎。2026年7月2日，人们在香港特别行政区维多利亚港的导弹驱逐舰南宁舰前拍照。开幕式在奏国歌中开始，随后香港特别行政区行政长官李家超致欢迎辞。官员和代表随后登舰参观。这是南宁舰和衡阳舰首次访问香港。\n\n这两艘军舰将于周五至周日向香港和澳门居民及学生开放，让同胞们亲身了解中国新时代国防和军队现代化的进展。"
+      "fullText": "People line up to receive food donations from the United Nations World Food Programme in Damasak, northeastern Nigeria, October 6, 2024. /CFP\nHunger across conflict-affected northern Nigeria has reached its highest levels in nearly a decade, with more than 17 million people experiencing crisis, emergency or catastrophic food insecurity, the UN World Food Programme (WFP) warned on Thursday.\nThe agency said worsening insecurity, expanding armed violence and shrinking humanitarian funding are driving the crisis, as conflict spreads beyond the northeast into parts of northwestern Nigeria.\n\"What concerns us most is how this crisis is expanding,\" WFP Regional Director for West and Central Africa, Kinday Samba, said in a statement. He noted that growing insecurity is forcing people off their farmland, displacing communities and restricting humanitarian access.\nNigeria has battled a militant insurgency centered in the northeast since 2009, with violence intensifying again since 2025. Armed bandit groups have also expanded operations in the northwest, compounding the humanitarian crisis.\nAccording to the WFP, the number of areas inaccessible to humanitarian workers has doubled, with 15 additional locations now considered only partially accessible because of insecurity.\nThe agency said the food security situation is deteriorating faster than previously anticipated. In Borno State, the epicenter of the insurgency, more than three million people are acutely food insecure, including around 10,000 facing catastrophic hunger.\nDespite rising needs, humanitarian assistance is declining because of severe funding shortages. During the 2025 lean season, the WFP provided food and nutrition assistance to 1.3 million people. This year, it expects to reach just over half that number.\nAcross northeastern Nigeria, 6.2 million people are now food insecure, but the agency says it can assist only about 740,000 people, leaving roughly 5.5 million, many of them children, without food assistance.\nThe WFP warned that dwindling aid is forcing vulnerable households to adopt increasingly desperate coping strategies, including reports of some people joining armed groups in search of food or income.\nThe warning comes amid broader economic challenges in Nigeria, where rising poverty, inflation and conflict continue to strain livelihoods despite ongoing economic reforms.",
+      "fullTextCn": "2024年10月6日，尼日利亚东北部达马萨克，人们排队领取联合国世界粮食计划署的食品捐赠。/CFP\n联合国世界粮食计划署周四警告称，受冲突影响的尼日利亚北部地区饥饿问题已达到近十年来的最高水平，超过1700万人面临危机、紧急或灾难性的粮食不安全。该机构表示，日益恶化的安全局势、不断扩大的武装暴力以及人道主义资金的缩减正在推动这场危机，冲突已从东北部蔓延至尼日利亚西北部部分地区。世界粮食计划署西非和中非区域主任金迪·桑巴在一份声明中表示：“我们最担心的是这场危机正在扩大。”他指出，日益加剧的不安全局势正迫使人们离开农田，导致社区流离失所，并限制人道主义援助的进入。\n\n自2009年以来，尼日利亚一直在与以东北部为中心的武装叛乱作斗争，自2025年以来暴力再次加剧。武装匪帮也在西北部扩大了行动，加剧了人道主义危机。据世界粮食计划署称，人道主义工作者无法进入的地区数量翻了一番，另有15个地点因安全局势仅被视为部分可进入。该机构表示，粮食安全状况的恶化速度超出预期。在叛乱中心博尔诺州，超过300万人严重粮食不安全，其中约1万人面临灾难性饥饿。\n\n尽管需求不断上升，但由于严重的资金短缺，人道主义援助正在减少。在2025年淡季，世界粮食计划署向130万人提供了粮食和营养援助。今年，该机构预计只能覆盖这一数字的一半多一点。在尼日利亚东北部，620万人目前处于粮食不安全状态，但该机构表示只能援助约74万人，这意味着大约550万人（其中许多是儿童）无法获得粮食援助。世界粮食计划署警告称，援助的减少正迫使脆弱家庭采取越来越绝望的应对策略，包括有报道称一些人为了寻找食物或收入而加入武装团体。\n\n这一警告是在尼日利亚面临更广泛经济挑战的背景下发出的，尽管正在进行经济改革，但不断加剧的贫困、通货膨胀和冲突仍在持续影响民生。"
     }
   ]
 }
