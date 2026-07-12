@@ -1,325 +1,681 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "articles": [
     {
       "id": 1,
-      "category": "society",
+      "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-27/Europe-enduring-record-breaking-heatwave-health-systems-under-strain-1OjoNGKa4Xm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Europe enduring record-breaking heatwave, health systems under strain",
-      "titleCn": "欧洲遭遇创纪录热浪，医疗系统承压",
-      "summary": "Europe is experiencing an extremely severe heatwave that has swept across the continent, with scientists describing it as one of the worst recorded.",
-      "summaryCn": "欧洲正经历一场严重热浪，多国创下高温纪录，导致医疗系统超负荷、基础设施受损，并引发一系列公共卫生紧急措施。",
-      "wordCount": 857,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-11/Marine-technologies-shape-China-s-blue-future-1OGCsZ4J28g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Marine technologies shape China's blue future",
+      "titleCn": "海洋技术塑造中国的蓝色未来",
+      "summary": "July 11 marks China's National Maritime Day. As China accelerates the digital transformation of its maritime sector, technologies such as the BeiDou Navigation Satellite System, intelligent vessels and integrated ocean observation networks are playing an increasingly important role in improving navigation safety, advancing marine research and supporting sustainable ocean development.",
+      "summaryCn": "中国通过北斗导航、智能船舶和综合观测网络等数字技术，提升航运安全、海洋科研和生态保护能力，并深化国际海洋合作。",
+      "wordCount": 973,
       "paragraphs": [
         {
-          "en": "Europe is experiencing an extremely severe {{0}} that has swept across the continent, with scientists describing it as one of the worst recorded. Health authorities across multiple countries have issued high-level {{2}} as extreme temperatures {{1}} hospitals, transport systems, infrastructure and public services, while governments have introduced emergency restrictions such as alcohol limits, event cancellations and public safety measures. The UK recorded its hottest June day on record on Friday, with a {{6}} temperature of 37.3 degrees Celsius recorded in Santon Downham, Suffolk, surpassing a previous record of 36.7 degrees Celsius set just a day earlier in Merryfield, Somerset. In London, pavement temperatures in parts of the capital were reported to have reached up to 57 degrees Celsius, while the London Ambulance Service said emergency 999 calls {{4}} by 50% during the heatwave. Sheffield's tram network was also {{5}} due to extreme temperatures.",
-          "cn": "欧洲正经历一场席卷整个大陆的极端严重热浪，科学家称其为有记录以来最严重的热浪之一。多个国家的卫生部门已发布高级别警报，极端气温使医院、交通系统、基础设施和公共服务承受巨大压力，而各国政府则出台了紧急限制措施，如酒精限售、活动取消和公共安全措施。英国周五录得有史以来最热的六月天，萨福克郡桑顿唐纳姆的临时气温达到37.3摄氏度，超过了前一天在萨默塞特郡梅里菲尔德创下的36.7摄氏度的先前纪录。在伦敦，据报道首都部分地区的路面温度高达57摄氏度，而伦敦救护车服务表示，热浪期间紧急999电话激增了50%。谢菲尔德的电车网络也因极端气温而暂停运营。"
+          "en": "A stunning bird's-eye view of white sands, crystal-clear blue waters and breathtaking island scenery, Wanning, Hainan province, south China, December 18, 2025. July 11 marks China's National Maritime Day. As China accelerates the digital {{0}} of its maritime sector, technologies such as the BeiDou Navigation Satellite System, {{2}} vessels and integrated ocean {{11}} networks are playing an increasingly important role in improving {{1}} safety, advancing marine research and supporting {{3}} ocean development. Smarter shipping enhances maritime safety\nDigital technologies are reshaping China's shipping industry through the {{4}} of satellite navigation, artificial intelligence (AI) and automated vessel management. The BeiDou Navigation Satellite System provides global positioning, navigation and timing services that support route {{5}}, {{6}} avoidance and emergency response for commercial shipping, fisheries and maritime rescue.",
+          "cn": "2025年12月18日，中国海南省万宁市，鸟瞰视角下洁白的沙滩、清澈湛蓝的海水和令人叹为观止的岛屿风光。7月11日是中国航海日。随着中国加速海洋领域的数字化转型，北斗卫星导航系统、智能船舶和综合海洋观测网络等技术在提升航行安全、推进海洋研究和支持可持续海洋发展方面发挥着越来越重要的作用。更智能的航运提升海上安全。数字技术通过整合卫星导航、人工智能和自动化船舶管理，正在重塑中国的航运业。北斗卫星导航系统提供全球定位、导航和授时服务，支持商业航运、渔业和海上救援的航线优化、碰撞规避和应急响应。"
         },
         {
-          "en": "People sit at the side of the Dortmund-Ems Canal in Dortmund, western Germany during a heatwave in Europe, June 26, 2026. Germany reported a provisional national temperature record of 41.3 degrees Celsius on Friday in Saarbruecken-Burbach, surpassing its previous record of 41.2 degrees Celsius from 2019. The country also {{7}} for the possibility of an even hotter weekend. Its emergency departments reported a significant rise in heat-related {{8}} such as dizziness, heatstroke and dehydration. Italy remained under severe heat stress, with 18 cities placed under a red alert, the highest heat warning level, including Rome, Milan, Turin, Florence, Bologna, Venice and Verona.",
-          "cn": "2026年6月26日，欧洲热浪期间，人们坐在德国西部多特蒙德的埃姆斯运河边。德国周五在萨尔布吕肯-布尔巴赫报告了41.3摄氏度的临时全国气温纪录，超过了2019年创下的41.2摄氏度的先前纪录。该国还面临着周末可能更热的可能性。其急诊部门报告称，与热相关的疾病如头晕、中暑和脱水显著增加。意大利仍处于严重热应激状态，18个城市被置于红色警报（最高热浪警告级别）之下，包括罗马、米兰、都灵、佛罗伦萨、博洛尼亚、威尼斯和维罗纳。"
+          "en": "File photo of the Pinglu Canal project. Recent pilot projects demonstrate the growing application of intelligent shipping. In June, nine new-energy smart vessels – including {{7}} and Level-2 assisted ships – completed trial operations in Nanning, Guangxi, providing a model for green and intelligent inland shipping. Meanwhile, the Pinglu Canal project is developing an integrated \"ship-port-lock-waterway-shore\" management system using BeiDou, 5G communications and digital twin technologies. \"The entire canal will be equipped with {{8}} systems powered by the BeiDou Navigation Satellite System, cloud computing and AI, enabling {{9}} management across the full waterway and the early identification of navigation risks,\" Lyu Jin, deputy director of the Qinzhou Maritime Safety Administration, said.",
+          "cn": "平陆运河项目资料照片。近期的试点项目展示了智能航运日益广泛的应用。今年6月，九艘新能源智能船舶——包括无人船和二级辅助船——在广西南宁完成试运行，为绿色智能内河航运提供了范例。与此同时，平陆运河项目正在利用北斗、5G通信和数字孪生技术，开发集成的“船-港-闸-航道-岸”管理系统。钦州海事局副局长吕进表示：“整条运河将配备由北斗卫星导航系统、云计算和人工智能驱动的监控系统，实现全航道的可视化管理和航行风险的早期识别。”"
         },
         {
-          "en": "Temperatures in parts of central and northern Italy are forecast to reach 38 to 40 degrees Celsius. Authorities have also warned of an {{9}} {{10}} risk, particularly in Sardinia and southern regions, where civil protection agencies have issued alerts as {{11}} has dried out after weeks of unusually hot and dry weather. A digital pharmacy thermometer displays 40 degree Celsius during a heat wave in Orvieto, Umbria, Italy, June 25, 2026. Switzerland also recorded its hottest June temperature on Friday, hitting 38.8 degrees Celsius in the northern city of Basel, breaking a record just set there a day earlier. The extreme heat has also affected infrastructure and industry.",
-          "cn": "意大利中部和北部部分地区的气温预计将达到38至40摄氏度。当局还警告了野火风险升高，特别是在撒丁岛和南部地区，经过数周异常炎热干燥的天气后，植被已经干枯，民防机构已发出警报。2026年6月25日，意大利翁布里亚奥维耶托，一家数字药房温度计显示40摄氏度。瑞士周五也录得有史以来最热的六月气温，北部城市巴塞尔达到38.8摄氏度，打破了前一天刚刚创下的纪录。极端高温也影响了基础设施和工业。"
+          "en": "\"AI will also support more refined, intelligent and efficient operational management after the canal enters service.\"\nAccording to China's Ministry of Transport, China plans to {{10}} more than 100 smart ships and establish more than five pilot intelligent shipping routes by 2027 under its Action Plan for Intelligent Shipping Development, reflecting broader efforts to accelerate digital transformation across the shipping industry. Integrated observation network strengthens marine science\nChina has also expanded its ocean observation capabilities through an integrated monitoring system that combines satellites, coastal stations, offshore buoys and {{12}} underwater vehicles. According to the Ministry of Natural Resources, the country's marine observation network includes 11 remote-sensing satellites, 456 ocean buoys and 557 coastal monitoring stations. Together, they provide real-time information on sea surface temperature, ocean currents, waves, wind conditions and marine disasters, supporting marine weather forecasting, resource surveys and disaster preparedness. A Long March-4B rocket, carrying the Haiyang-2E satellite, lifts off from the Jiuquan Satellite Launch Center, July 2, 2026.",
+          "cn": "“人工智能还将在运河投入运营后支持更精细、更智能、更高效的运营管理。”据中国交通运输部消息，根据《智能航运发展行动计划》，中国计划到2027年部署超过100艘智能船舶，并建立5条以上智能航运试点航线，这反映了加速航运业数字化转型的更广泛努力。综合观测网络加强海洋科学。中国还通过一个结合卫星、海岸站、近海浮标和自主水下航行器的综合监测系统，扩展了其海洋观测能力。据自然资源部称，中国的海洋观测网络包括11颗遥感卫星、456个海洋浮标和557个海岸监测站。它们共同提供海面温度、洋流、海浪、风况和海洋灾害的实时信息，支持海洋天气预报、资源调查和灾害防备。2026年7月2日，搭载海洋二号E卫星的长征四号乙运载火箭在酒泉卫星发射中心点火升空。"
         },
         {
-          "en": "In Switzerland, the heat forced the {{12}} of {{13}} at Europe's oldest nuclear plant due to elevated river temperatures affecting cooling systems. In Germany, older concrete sections of highways expanded and broke apart, forcing temporary closures, while in Sweden, rail infrastructure was reportedly {{14}} by extreme heat. In France, Paris hit a June record of 40.9 degree Celsius earlier in the week, with authorities warning of rising heat-related deaths and a surge in emergency calls. \"There will be consequences in terms of the number of additional deaths,\" said French Health Minister Stephanie Rist. Hospitals under pressure\nFirefighters from the Paris Fire Brigade assist a person, who became unwell during an intense heatwave, into an ambulance, Paris, France, June 25, 2026.",
-          "cn": "在瑞士，由于河流温度升高影响冷却系统，高温迫使欧洲最古老的核电站关闭反应堆。在德国，较旧的混凝土高速公路路段膨胀并破裂，导致临时关闭；而在瑞典，据报道铁路基础设施因极端高温而变形。在法国，巴黎本周早些时候达到了六月纪录的40.9摄氏度，当局警告与热相关的死亡人数上升以及紧急呼叫激增。法国卫生部长斯特凡妮·里斯特表示：“在额外死亡人数方面将会有后果。”医院面临压力。2026年6月25日，法国巴黎，巴黎消防队的消防员帮助一名在强烈热浪中感到不适的人上救护车。"
+          "en": "/CMG\nThe launch of Haiyang-2E, China's latest ocean dynamics satellite, on July 2 has further strengthened the country's marine observation capabilities. Equipped with a radar altimeter, microwave scatterometer, microwave radiometer and calibration radiometer, the satellite can accurately measure sea surface height, significant wave height, ocean wind fields and sea surface temperature. The data will provide important support for marine weather forecasting as well as global climate research, including studies of El Niño and other large-scale climate {{13}}. Coastal waters remain one of the most challenging environments for satellite observation because signals are easily affected by {{14}} from nearby land. \"Nearshore observation has long been recognized as one of the industry's most difficult tasks.",
+          "cn": "/中央广播电视总台。7月2日发射的中国最新海洋动力卫星海洋二号E，进一步增强了国家的海洋观测能力。该卫星配备雷达高度计、微波散射计、微波辐射计和定标辐射计，能够精确测量海面高度、有效波高、海洋风场和海面温度。这些数据将为海洋天气预报以及全球气候研究（包括厄尔尼诺等大规模气候现象的研究）提供重要支持。沿海水域仍然是卫星观测最具挑战性的环境之一，因为信号容易受到邻近陆地干扰的影响。中国空间技术研究院工程师张庆军表示：“近岸观测长期以来被认为是行业中最困难的任务之一。观测点离陆地越近，杂波干扰就越强，探测性能下降得就越快。”"
         },
         {
-          "en": "Hospitals reported {{15}} and difficulty coping with the volume of patients, and scientists have highlighted the danger of sweltering night-time temperatures. Temperatures overnight have not dropped below 22 degrees Celsius, {{16}} the human body of the ability to recover and shed the excess heat from the day, and which can drive excess deaths, said John Kennedy, head of Climate Information at the World Meteorological Organization. France saw a fourfold increase in heat-related hospital visits and a surge of cardiac arrests. \"We are reaching a {{17}} point in hospital facilities,\" Paris police chief Patrice Faure said, announcing a rare ban on evening alcohol sales in Paris over the weekend. In the UK, Hilary Williams, clinical vice president of Britain's Royal College of Physicians, said overcrowding and heat in hospital wards were putting patients, staff and infrastructure under severe strain.",
-          "cn": "医院报告了过度拥挤和难以应对患者数量的问题，科学家强调了闷热夜间气温的危险。世界气象组织气候信息负责人约翰·肯尼迪表示，夜间气温没有降至22摄氏度以下，剥夺了人体恢复和排出白天多余热量的能力，这可能导致超额死亡。法国与热相关的医院就诊次数增加了四倍，心脏骤停病例激增。巴黎警察局长帕特里斯·富尔表示：“我们正在达到医院设施的饱和点”，并宣布周末巴黎罕见地禁止晚间酒精销售。在英国，英国皇家内科医学院临床副总裁希拉里·威廉姆斯表示，医院病房的过度拥挤和高温正使患者、工作人员和基础设施承受严重压力。"
+          "en": "The closer the observation is to land, the stronger the clutter interference becomes and the more rapidly detection performance declines,\" said Zhang Qingjun, an engineer at the China Academy of Space Technology. He said researchers optimized both the satellite payload and nearshore data-processing algorithms, significantly reducing land interference and improving observation capabilities in coastal waters. \"Filling the gap in nearshore ocean dynamic observations will also provide space-based data for the routine monitoring of mangroves, seagrass meadows and other coastal wetland ecosystems, helping {{15}} shift from broad management to more precise protection,\" Zhang added. A view of the white lighthouse at Yuehai Park, with seagulls flying in the sky, Weihai, Shandong province, east China, June 26, 2026. Digital technologies safeguard coastal ecosystems\nDigital technologies are also improving the monitoring and protection of coastal ecosystems, including coral reefs, seagrass meadows and mangrove forests.",
+          "cn": "他说，研究人员优化了卫星载荷和近岸数据处理算法，显著减少了陆地干扰，提高了沿海水域的观测能力。张庆军补充道：“填补近岸海洋动力观测的空白，还将为红树林、海草床等沿海湿地生态系统的常规监测提供天基数据，帮助保护工作从粗放管理转向更精准的保护。”2026年6月26日，中国东部山东省威海市悦海公园白色灯塔景观，海鸥在天空飞翔。数字技术保护沿海生态系统。数字技术也在改善珊瑚礁、海草床和红树林等沿海生态系统的监测和保护。"
         },
         {
-          "en": "\"People are far too hot,\" she told BBC Radio, adding that some critical equipment, including MRI scanners and cancer treatment machines, was being affected by the heat. Heatwave heads east\nA storm broke the heat overnight in France's western region of Brittany, bringing some {{18}} on Friday. People walk outside office buildings during a Code Red heat alert in The Hague, Netherlands, June 26, 2026. But much of the Netherlands remained under red alert, with authorities advising people to travel only if necessary and most schools closed. Organizers cancelled the four-day techno music festival Defqon.1 in the central Netherlands.",
-          "cn": "她告诉BBC广播电台：“人们太热了”，并补充说一些关键设备，包括核磁共振扫描仪和癌症治疗机器，正受到高温影响。热浪向东移动。周五，一场风暴打破了法国西部布列塔尼地区的炎热，带来了一些缓解。2026年6月26日，荷兰海牙，人们在红色高温警报期间走出办公楼。但荷兰大部分地区仍处于红色警报之下，当局建议人们仅在必要时出行，大多数学校关闭。组织者取消了荷兰中部为期四天的电子音乐节Defqon.1。"
+          "en": "In Guangxi's Beibu Gulf, hyperspectral drone imaging is being used to map mangrove distribution, vegetation density and canopy height, while underwater sensors continuously monitor coral reef conditions. Together with satellite observations, these technologies form part of a national ecological monitoring network covering representative coastal ecosystems. AI is also making marine ecological monitoring faster and more efficient. \"AI technologies have greatly facilitated our research on corals and reef fish, allowing scientists to spend much more time on data analysis instead of manually identifying underwater images,\" said Liu Min, professor at the College of Ocean and Earth Sciences at Xiamen University. At the Dongshan Coral Reef Nature Reserve in Fujian Province, an AI-assisted monitoring platform jointly developed by researchers and industry partners has significantly improved the efficiency of coral identification and underwater image analysis.",
+          "cn": "在广西北部湾，高光谱无人机成像被用于绘制红树林分布、植被密度和冠层高度，而水下传感器则持续监测珊瑚礁状况。结合卫星观测，这些技术构成了覆盖代表性沿海生态系统的国家生态监测网络的一部分。人工智能也使海洋生态监测更快、更高效。厦门大学海洋与地球科学学院教授刘敏表示：“人工智能技术极大地促进了我们对珊瑚和珊瑚礁鱼类的研究，使科学家能够将更多时间用于数据分析，而不是手动识别水下图像。”在福建省东山珊瑚礁自然保护区，由研究人员和行业合作伙伴联合开发的人工智能辅助监测平台显著提高了珊瑚识别和水下图像分析的效率。"
         },
         {
-          "en": "Slovakia forecast temperatures up to 36 degrees Celsius, with Bratislava extending swimming pool opening hours and deploying tanker trucks of drinking water. The Czech Republic and Hungary were on red alert for the weekend, with temperatures of up to 40 degrees Celsius forecast. Hungary's Prime Minister Peter Magyar said authorities were preparing millions of bags of drinking water for possible public distribution and urging residents to conserve water. People cool off during a French Film Festival in Belgrade as Serbia endures a heatwave, June 26, 2026. The Balkans are also bracing for sustained heat.",
-          "cn": "斯洛伐克预报气温高达36摄氏度，布拉迪斯拉发延长了游泳池开放时间，并部署了饮用水罐车。捷克共和国和匈牙利周末处于红色警报状态，预报气温高达40摄氏度。匈牙利总理彼得·马扎尔表示，当局正在准备数百万袋饮用水以备可能的公共分发，并敦促居民节约用水。2026年6月26日，塞尔维亚贝尔格莱德，人们在法国电影节期间纳凉。巴尔干地区也在准备应对持续高温。"
+          "en": "In Caofeidian, Hebei Province, smart monitoring stations collect real-time data on water quality, turbidity and vessel activities, providing scientific support for ecological conservation, ecological restoration and coastal management. Scenery of Jiajing Island, Wanning, Hainan province, south China, June 24, 2025. Expanding international marine cooperation\nChina is also deepening international cooperation in marine science, navigation and disaster prevention. According to the Ministry of Natural Resources, China has signed more than 50 intergovernmental marine cooperation agreements and established nine joint marine research centers and laboratories with international partners. The South China Sea Tsunami Advisory Center provides tsunami information services to neighboring countries.",
+          "cn": "在河北省曹妃甸，智能监测站收集水质、浊度和船舶活动的实时数据，为生态保护、生态修复和海岸管理提供科学支持。2025年6月24日，中国海南省万宁市加井岛风光。扩大国际海洋合作。中国还在海洋科学、航海和防灾方面深化国际合作。据自然资源部称，中国已签署50多项政府间海洋合作协议，并与国际伙伴建立了9个联合海洋研究中心和实验室。南海海啸咨询中心为周边国家提供海啸信息服务。"
         },
         {
-          "en": "Serbia is facing an intense and prolonged heatwave starting Friday, with maximum temperatures forecasted to reach up to 39 degrees Celsius through early next week. In Bosnia and Herzegovina (BiH), heat warnings were issued for large parts of the country on Friday as temperatures were forecast to reach up to 38 degrees Celsius.",
-          "cn": "塞尔维亚从周五开始面临一场强烈且持久的热浪，最高气温预计将持续到下周初达到39摄氏度。在波斯尼亚和黑塞哥维那，周五全国大部分地区发布了高温警告，预报气温高达38摄氏度。"
+          "en": "China has also expanded international talent exchanges through the Marine Scholarship of China, which supports young marine professionals from developing countries. According to the white paper of Marine Eco-Environmental Protection in China issued on 2024, the program has trained more than 300 scholars from over 45 countries, helping strengthen international cooperation and capacity building in marine science and sustainable ocean {{16}}. As digital technologies become increasingly integrated into shipping, marine observation and ecological conservation, they are helping improve maritime safety, strengthen scientific research and support the sustainable use of marine resources.",
+          "cn": "中国还通过中国政府海洋奖学金扩大国际人才交流，该奖学金支持来自发展中国家的青年海洋专业人员。根据2024年发布的《中国的海洋生态环境保护》白皮书，该项目已培训来自45个以上国家的300多名学者，有助于加强海洋科学和可持续海洋治理方面的国际合作和能力建设。随着数字技术日益融入航运、海洋观测和生态保护，它们正在帮助提升海上安全、加强科学研究并支持海洋资源的可持续利用。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "heatwave",
-          "hint": "n. 热浪",
-          "difficulty": "easy"
-        },
-        {
-          "id": 1,
-          "answer": "strain",
-          "hint": "v. 使紧张，使承受压力",
+          "answer": "transformation",
+          "hint": "n. 转型",
           "difficulty": "medium"
         },
         {
+          "id": 1,
+          "answer": "navigation",
+          "hint": "n. 导航",
+          "difficulty": "easy"
+        },
+        {
           "id": 2,
-          "answer": "alerts",
-          "hint": "n. 警报",
+          "answer": "intelligent",
+          "hint": "adj. 智能的",
           "difficulty": "easy"
         },
         {
           "id": 3,
-          "answer": "surged",
-          "hint": "v. 激增，猛增",
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "suspended",
-          "hint": "v. 暂停，中止",
+          "answer": "integration",
+          "hint": "n. 整合",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "provisional",
-          "hint": "adj. 临时的，暂定的",
+          "answer": "optimization",
+          "hint": "n. 优化",
           "difficulty": "hard"
         },
         {
           "id": 6,
-          "answer": "braces",
-          "hint": "v. 准备，防备",
+          "answer": "collision",
+          "hint": "n. 碰撞",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "illnesses",
-          "hint": "n. 疾病",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "elevated",
-          "hint": "adj. 升高的，提高的",
+          "answer": "unmanned",
+          "hint": "adj. 无人驾驶的",
           "difficulty": "medium"
         },
         {
-          "id": 9,
-          "answer": "wildfire",
-          "hint": "n. 野火",
+          "id": 8,
+          "answer": "monitoring",
+          "hint": "n. 监测",
           "difficulty": "easy"
         },
         {
+          "id": 9,
+          "answer": "visualized",
+          "hint": "adj. 可视化的",
+          "difficulty": "hard"
+        },
+        {
           "id": 10,
-          "answer": "vegetation",
-          "hint": "n. 植被，植物",
+          "answer": "deploy",
+          "hint": "v. 部署",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "shutdown",
-          "hint": "n. 关闭，停工",
-          "difficulty": "medium"
+          "answer": "observation",
+          "hint": "n. 观测",
+          "difficulty": "easy"
         },
         {
           "id": 12,
-          "answer": "reactors",
-          "hint": "n. 反应堆",
-          "difficulty": "hard"
+          "answer": "autonomous",
+          "hint": "adj. 自主的",
+          "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "distorted",
-          "hint": "v. 扭曲，变形",
+          "answer": "phenomena",
+          "hint": "n. 现象",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "overcrowding",
-          "hint": "n. 过度拥挤",
+          "answer": "interference",
+          "hint": "n. 干扰",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "depriving",
-          "hint": "v. 剥夺，使丧失",
-          "difficulty": "hard"
+          "answer": "conservation",
+          "hint": "n. 保护",
+          "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "saturation",
-          "hint": "n. 饱和",
+          "answer": "governance",
+          "hint": "n. 治理",
           "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "respite",
-          "hint": "n. 缓解，暂缓",
-          "difficulty": "medium"
         }
       ],
-      "fullText": "Europe is experiencing an extremely severe heatwave that has swept across the continent, with scientists describing it as one of the worst recorded.\nHealth authorities across multiple countries have issued high-level alerts as extreme temperatures strain hospitals, transport systems, infrastructure and public services, while governments have introduced emergency restrictions such as alcohol limits, event cancellations and public safety measures.\nThe UK recorded its hottest June day on record on Friday, with a provisional temperature of 37.3 degrees Celsius recorded in Santon Downham, Suffolk, surpassing a previous record of 36.7 degrees Celsius set just a day earlier in Merryfield, Somerset. In London, pavement temperatures in parts of the capital were reported to have reached up to 57 degrees Celsius, while the London Ambulance Service said emergency 999 calls surged by 50% during the heatwave. Sheffield's tram network was also suspended due to extreme temperatures.\nPeople sit at the side of the Dortmund-Ems Canal in Dortmund, western Germany during a heatwave in Europe, June 26, 2026. \nGermany reported a provisional national temperature record of 41.3 degrees Celsius on Friday in Saarbruecken-Burbach, surpassing its previous record of 41.2 degrees Celsius from 2019. The country also braces for the possibility of an even hotter weekend. Its emergency departments reported a significant rise in heat-related illnesses such as dizziness, heatstroke and dehydration.\nItaly remained under severe heat stress, with 18 cities placed under a red alert, the highest heat warning level, including Rome, Milan, Turin, Florence, Bologna, Venice and Verona. Temperatures in parts of central and northern Italy are forecast to reach 38 to 40 degrees Celsius. Authorities have also warned of an elevated wildfire risk, particularly in Sardinia and southern regions, where civil protection agencies have issued alerts as vegetation has dried out after weeks of unusually hot and dry weather.\nA digital pharmacy thermometer displays 40 degree Celsius during a heat wave in Orvieto, Umbria, Italy, June 25, 2026. \nSwitzerland also recorded its hottest June temperature on Friday, hitting 38.8 degrees Celsius in the northern city of Basel, breaking a record just set there a day earlier.\nThe extreme heat has also affected infrastructure and industry. In Switzerland, the heat forced the shutdown of reactors at Europe's oldest nuclear plant due to elevated river temperatures affecting cooling systems. In Germany, older concrete sections of highways expanded and broke apart, forcing temporary closures, while in Sweden, rail infrastructure was reportedly distorted by extreme heat.\nIn France, Paris hit a June record of 40.9 degree Celsius earlier in the week, with authorities warning of rising heat-related deaths and a surge in emergency calls.\n\"There will be consequences in terms of the number of additional deaths,\" said French Health Minister Stephanie Rist.\nHospitals under pressure\nFirefighters from the Paris Fire Brigade assist a person, who became unwell during an intense heatwave, into an ambulance, Paris, France, June 25, 2026. \nHospitals reported overcrowding and difficulty coping with the volume of patients, and scientists have highlighted the danger of sweltering night-time temperatures.\nTemperatures overnight have not dropped below 22 degrees Celsius, depriving the human body of the ability to recover and shed the excess heat from the day, and which can drive excess deaths, said John Kennedy, head of Climate Information at the World Meteorological Organization.\nFrance saw a fourfold increase in heat-related hospital visits and a surge of cardiac arrests.\n\"We are reaching a saturation point in hospital facilities,\" Paris police chief Patrice Faure said, announcing a rare ban on evening alcohol sales in Paris over the weekend.\nIn the UK, Hilary Williams, clinical vice president of Britain's Royal College of Physicians, said overcrowding and heat in hospital wards were putting patients, staff and infrastructure under severe strain.\n\"People are far too hot,\" she told BBC Radio, adding that some critical equipment, including MRI scanners and cancer treatment machines, was being affected by the heat.\nHeatwave heads east\nA storm broke the heat overnight in France's western region of Brittany, bringing some respite on Friday.\nPeople walk outside office buildings during a Code Red heat alert in The Hague, Netherlands, June 26, 2026. \nBut much of the Netherlands remained under red alert, with authorities advising people to travel only if necessary and most schools closed. Organizers cancelled the four-day techno music festival Defqon.1 in the central Netherlands.\nSlovakia forecast temperatures up to 36 degrees Celsius, with Bratislava extending swimming pool opening hours and deploying tanker trucks of drinking water.\nThe Czech Republic and Hungary were on red alert for the weekend, with temperatures of up to 40 degrees Celsius forecast.\nHungary's Prime Minister Peter Magyar said authorities were preparing millions of bags of drinking water for possible public distribution and urging residents to conserve water.\nPeople cool off during a French Film Festival in Belgrade as Serbia endures a heatwave, June 26, 2026. \nThe Balkans are also bracing for sustained heat. Serbia is facing an intense and prolonged heatwave starting Friday, with maximum temperatures forecasted to reach up to 39 degrees Celsius through early next week. In Bosnia and Herzegovina (BiH), heat warnings were issued for large parts of the country on Friday as temperatures were forecast to reach up to 38 degrees Celsius.",
-      "fullTextCn": "欧洲正经历一场席卷整个大陆的极端严重热浪，科学家称其为有记录以来最严重的热浪之一。多个国家的卫生部门已发布高级别警报，极端气温使医院、交通系统、基础设施和公共服务承受巨大压力，而各国政府则出台了紧急限制措施，如酒精限售、活动取消和公共安全措施。英国周五录得有史以来最热的六月天，萨福克郡桑顿唐纳姆的临时气温达到37.3摄氏度，超过了前一天在萨默塞特郡梅里菲尔德创下的36.7摄氏度的先前纪录。在伦敦，据报道首都部分地区的路面温度高达57摄氏度，而伦敦救护车服务表示，热浪期间紧急999电话激增了50%。谢菲尔德的电车网络也因极端气温而暂停运营。\n\n2026年6月26日，欧洲热浪期间，人们坐在德国西部多特蒙德的埃姆斯运河边。德国周五在萨尔布吕肯-布尔巴赫报告了41.3摄氏度的临时全国气温纪录，超过了2019年创下的41.2摄氏度的先前纪录。该国还面临着周末可能更热的可能性。其急诊部门报告称，与热相关的疾病如头晕、中暑和脱水显著增加。意大利仍处于严重热应激状态，18个城市被置于红色警报（最高热浪警告级别）之下，包括罗马、米兰、都灵、佛罗伦萨、博洛尼亚、威尼斯和维罗纳。\n\n意大利中部和北部部分地区的气温预计将达到38至40摄氏度。当局还警告了野火风险升高，特别是在撒丁岛和南部地区，经过数周异常炎热干燥的天气后，植被已经干枯，民防机构已发出警报。2026年6月25日，意大利翁布里亚奥维耶托，一家数字药房温度计显示40摄氏度。瑞士周五也录得有史以来最热的六月气温，北部城市巴塞尔达到38.8摄氏度，打破了前一天刚刚创下的纪录。极端高温也影响了基础设施和工业。\n\n在瑞士，由于河流温度升高影响冷却系统，高温迫使欧洲最古老的核电站关闭反应堆。在德国，较旧的混凝土高速公路路段膨胀并破裂，导致临时关闭；而在瑞典，据报道铁路基础设施因极端高温而变形。在法国，巴黎本周早些时候达到了六月纪录的40.9摄氏度，当局警告与热相关的死亡人数上升以及紧急呼叫激增。法国卫生部长斯特凡妮·里斯特表示：“在额外死亡人数方面将会有后果。”医院面临压力。2026年6月25日，法国巴黎，巴黎消防队的消防员帮助一名在强烈热浪中感到不适的人上救护车。\n\n医院报告了过度拥挤和难以应对患者数量的问题，科学家强调了闷热夜间气温的危险。世界气象组织气候信息负责人约翰·肯尼迪表示，夜间气温没有降至22摄氏度以下，剥夺了人体恢复和排出白天多余热量的能力，这可能导致超额死亡。法国与热相关的医院就诊次数增加了四倍，心脏骤停病例激增。巴黎警察局长帕特里斯·富尔表示：“我们正在达到医院设施的饱和点”，并宣布周末巴黎罕见地禁止晚间酒精销售。在英国，英国皇家内科医学院临床副总裁希拉里·威廉姆斯表示，医院病房的过度拥挤和高温正使患者、工作人员和基础设施承受严重压力。\n\n她告诉BBC广播电台：“人们太热了”，并补充说一些关键设备，包括核磁共振扫描仪和癌症治疗机器，正受到高温影响。热浪向东移动。周五，一场风暴打破了法国西部布列塔尼地区的炎热，带来了一些缓解。2026年6月26日，荷兰海牙，人们在红色高温警报期间走出办公楼。但荷兰大部分地区仍处于红色警报之下，当局建议人们仅在必要时出行，大多数学校关闭。组织者取消了荷兰中部为期四天的电子音乐节Defqon.1。\n\n斯洛伐克预报气温高达36摄氏度，布拉迪斯拉发延长了游泳池开放时间，并部署了饮用水罐车。捷克共和国和匈牙利周末处于红色警报状态，预报气温高达40摄氏度。匈牙利总理彼得·马扎尔表示，当局正在准备数百万袋饮用水以备可能的公共分发，并敦促居民节约用水。2026年6月26日，塞尔维亚贝尔格莱德，人们在法国电影节期间纳凉。巴尔干地区也在准备应对持续高温。\n\n塞尔维亚从周五开始面临一场强烈且持久的热浪，最高气温预计将持续到下周初达到39摄氏度。在波斯尼亚和黑塞哥维那，周五全国大部分地区发布了高温警告，预报气温高达38摄氏度。"
+      "fullText": "A stunning bird's-eye view of white sands, crystal-clear blue waters and breathtaking island scenery, Wanning, Hainan province, south China, December 18, 2025. \nJuly 11 marks China's National Maritime Day. As China accelerates the digital transformation of its maritime sector, technologies such as the BeiDou Navigation Satellite System, intelligent vessels and integrated ocean observation networks are playing an increasingly important role in improving navigation safety, advancing marine research and supporting sustainable ocean development.\nSmarter shipping enhances maritime safety\nDigital technologies are reshaping China's shipping industry through the integration of satellite navigation, artificial intelligence (AI) and automated vessel management. The BeiDou Navigation Satellite System provides global positioning, navigation and timing services that support route optimization, collision avoidance and emergency response for commercial shipping, fisheries and maritime rescue.\nFile photo of the Pinglu Canal project. \nRecent pilot projects demonstrate the growing application of intelligent shipping. In June, nine new-energy smart vessels – including unmanned and Level-2 assisted ships – completed trial operations in Nanning, Guangxi, providing a model for green and intelligent inland shipping. Meanwhile, the Pinglu Canal project is developing an integrated \"ship-port-lock-waterway-shore\" management system using BeiDou, 5G communications and digital twin technologies.\n\"The entire canal will be equipped with monitoring systems powered by the BeiDou Navigation Satellite System, cloud computing and AI, enabling visualized management across the full waterway and the early identification of navigation risks,\" Lyu Jin, deputy director of the Qinzhou Maritime Safety Administration, said. \"AI will also support more refined, intelligent and efficient operational management after the canal enters service.\"\nAccording to China's Ministry of Transport, China plans to deploy more than 100 smart ships and establish more than five pilot intelligent shipping routes by 2027 under its Action Plan for Intelligent Shipping Development, reflecting broader efforts to accelerate digital transformation across the shipping industry.\nIntegrated observation network strengthens marine science\nChina has also expanded its ocean observation capabilities through an integrated monitoring system that combines satellites, coastal stations, offshore buoys and autonomous underwater vehicles.\nAccording to the Ministry of Natural Resources, the country's marine observation network includes 11 remote-sensing satellites, 456 ocean buoys and 557 coastal monitoring stations. Together, they provide real-time information on sea surface temperature, ocean currents, waves, wind conditions and marine disasters, supporting marine weather forecasting, resource surveys and disaster preparedness.\nA Long March-4B rocket, carrying the Haiyang-2E satellite, lifts off from the Jiuquan Satellite Launch Center, July 2, 2026. /CMG\nThe launch of Haiyang-2E, China's latest ocean dynamics satellite, on July 2 has further strengthened the country's marine observation capabilities. Equipped with a radar altimeter, microwave scatterometer, microwave radiometer and calibration radiometer, the satellite can accurately measure sea surface height, significant wave height, ocean wind fields and sea surface temperature. The data will provide important support for marine weather forecasting as well as global climate research, including studies of El Niño and other large-scale climate phenomena.\nCoastal waters remain one of the most challenging environments for satellite observation because signals are easily affected by interference from nearby land.\n\"Nearshore observation has long been recognized as one of the industry's most difficult tasks. The closer the observation is to land, the stronger the clutter interference becomes and the more rapidly detection performance declines,\" said Zhang Qingjun, an engineer at the China Academy of Space Technology.\nHe said researchers optimized both the satellite payload and nearshore data-processing algorithms, significantly reducing land interference and improving observation capabilities in coastal waters.\n\"Filling the gap in nearshore ocean dynamic observations will also provide space-based data for the routine monitoring of mangroves, seagrass meadows and other coastal wetland ecosystems, helping conservation shift from broad management to more precise protection,\" Zhang added.\nA view of the white lighthouse at Yuehai Park, with seagulls flying in the sky, Weihai, Shandong province, east China, June 26, 2026. \nDigital technologies safeguard coastal ecosystems\nDigital technologies are also improving the monitoring and protection of coastal ecosystems, including coral reefs, seagrass meadows and mangrove forests.\nIn Guangxi's Beibu Gulf, hyperspectral drone imaging is being used to map mangrove distribution, vegetation density and canopy height, while underwater sensors continuously monitor coral reef conditions. Together with satellite observations, these technologies form part of a national ecological monitoring network covering representative coastal ecosystems.\nAI is also making marine ecological monitoring faster and more efficient.\n\"AI technologies have greatly facilitated our research on corals and reef fish, allowing scientists to spend much more time on data analysis instead of manually identifying underwater images,\" said Liu Min, professor at the College of Ocean and Earth Sciences at Xiamen University.\nAt the Dongshan Coral Reef Nature Reserve in Fujian Province, an AI-assisted monitoring platform jointly developed by researchers and industry partners has significantly improved the efficiency of coral identification and underwater image analysis. In Caofeidian, Hebei Province, smart monitoring stations collect real-time data on water quality, turbidity and vessel activities, providing scientific support for ecological conservation, ecological restoration and coastal management.\nScenery of Jiajing Island, Wanning, Hainan province, south China, June 24, 2025. \nExpanding international marine cooperation\nChina is also deepening international cooperation in marine science, navigation and disaster prevention.\nAccording to the Ministry of Natural Resources, China has signed more than 50 intergovernmental marine cooperation agreements and established nine joint marine research centers and laboratories with international partners. The South China Sea Tsunami Advisory Center provides tsunami information services to neighboring countries.\nChina has also expanded international talent exchanges through the Marine Scholarship of China, which supports young marine professionals from developing countries. According to the white paper of Marine Eco-Environmental Protection in China issued on 2024, the program has trained more than 300 scholars from over 45 countries, helping strengthen international cooperation and capacity building in marine science and sustainable ocean governance.\nAs digital technologies become increasingly integrated into shipping, marine observation and ecological conservation, they are helping improve maritime safety, strengthen scientific research and support the sustainable use of marine resources.",
+      "fullTextCn": "2025年12月18日，中国海南省万宁市，鸟瞰视角下洁白的沙滩、清澈湛蓝的海水和令人叹为观止的岛屿风光。7月11日是中国航海日。随着中国加速海洋领域的数字化转型，北斗卫星导航系统、智能船舶和综合海洋观测网络等技术在提升航行安全、推进海洋研究和支持可持续海洋发展方面发挥着越来越重要的作用。更智能的航运提升海上安全。数字技术通过整合卫星导航、人工智能和自动化船舶管理，正在重塑中国的航运业。北斗卫星导航系统提供全球定位、导航和授时服务，支持商业航运、渔业和海上救援的航线优化、碰撞规避和应急响应。\n\n平陆运河项目资料照片。近期的试点项目展示了智能航运日益广泛的应用。今年6月，九艘新能源智能船舶——包括无人船和二级辅助船——在广西南宁完成试运行，为绿色智能内河航运提供了范例。与此同时，平陆运河项目正在利用北斗、5G通信和数字孪生技术，开发集成的“船-港-闸-航道-岸”管理系统。钦州海事局副局长吕进表示：“整条运河将配备由北斗卫星导航系统、云计算和人工智能驱动的监控系统，实现全航道的可视化管理和航行风险的早期识别。”\n\n“人工智能还将在运河投入运营后支持更精细、更智能、更高效的运营管理。”据中国交通运输部消息，根据《智能航运发展行动计划》，中国计划到2027年部署超过100艘智能船舶，并建立5条以上智能航运试点航线，这反映了加速航运业数字化转型的更广泛努力。综合观测网络加强海洋科学。中国还通过一个结合卫星、海岸站、近海浮标和自主水下航行器的综合监测系统，扩展了其海洋观测能力。据自然资源部称，中国的海洋观测网络包括11颗遥感卫星、456个海洋浮标和557个海岸监测站。它们共同提供海面温度、洋流、海浪、风况和海洋灾害的实时信息，支持海洋天气预报、资源调查和灾害防备。2026年7月2日，搭载海洋二号E卫星的长征四号乙运载火箭在酒泉卫星发射中心点火升空。\n\n/中央广播电视总台。7月2日发射的中国最新海洋动力卫星海洋二号E，进一步增强了国家的海洋观测能力。该卫星配备雷达高度计、微波散射计、微波辐射计和定标辐射计，能够精确测量海面高度、有效波高、海洋风场和海面温度。这些数据将为海洋天气预报以及全球气候研究（包括厄尔尼诺等大规模气候现象的研究）提供重要支持。沿海水域仍然是卫星观测最具挑战性的环境之一，因为信号容易受到邻近陆地干扰的影响。中国空间技术研究院工程师张庆军表示：“近岸观测长期以来被认为是行业中最困难的任务之一。观测点离陆地越近，杂波干扰就越强，探测性能下降得就越快。”\n\n他说，研究人员优化了卫星载荷和近岸数据处理算法，显著减少了陆地干扰，提高了沿海水域的观测能力。张庆军补充道：“填补近岸海洋动力观测的空白，还将为红树林、海草床等沿海湿地生态系统的常规监测提供天基数据，帮助保护工作从粗放管理转向更精准的保护。”2026年6月26日，中国东部山东省威海市悦海公园白色灯塔景观，海鸥在天空飞翔。数字技术保护沿海生态系统。数字技术也在改善珊瑚礁、海草床和红树林等沿海生态系统的监测和保护。\n\n在广西北部湾，高光谱无人机成像被用于绘制红树林分布、植被密度和冠层高度，而水下传感器则持续监测珊瑚礁状况。结合卫星观测，这些技术构成了覆盖代表性沿海生态系统的国家生态监测网络的一部分。人工智能也使海洋生态监测更快、更高效。厦门大学海洋与地球科学学院教授刘敏表示：“人工智能技术极大地促进了我们对珊瑚和珊瑚礁鱼类的研究，使科学家能够将更多时间用于数据分析，而不是手动识别水下图像。”在福建省东山珊瑚礁自然保护区，由研究人员和行业合作伙伴联合开发的人工智能辅助监测平台显著提高了珊瑚识别和水下图像分析的效率。\n\n在河北省曹妃甸，智能监测站收集水质、浊度和船舶活动的实时数据，为生态保护、生态修复和海岸管理提供科学支持。2025年6月24日，中国海南省万宁市加井岛风光。扩大国际海洋合作。中国还在海洋科学、航海和防灾方面深化国际合作。据自然资源部称，中国已签署50多项政府间海洋合作协议，并与国际伙伴建立了9个联合海洋研究中心和实验室。南海海啸咨询中心为周边国家提供海啸信息服务。\n\n中国还通过中国政府海洋奖学金扩大国际人才交流，该奖学金支持来自发展中国家的青年海洋专业人员。根据2024年发布的《中国的海洋生态环境保护》白皮书，该项目已培训来自45个以上国家的300多名学者，有助于加强海洋科学和可持续海洋治理方面的国际合作和能力建设。随着数字技术日益融入航运、海洋观测和生态保护，它们正在帮助提升海上安全、加强科学研究并支持海洋资源的可持续利用。"
     },
     {
       "id": 2,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://newsaf.cgtn.com/news/2026-06-29/Electric-vehicles-accelerate-shift-in-Cote-d-Ivoire-1On7155e4Pm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Electric vehicles accelerate shift in Cote d'Ivoire",
-      "titleCn": "电动汽车加速科特迪瓦出行方式转变",
-      "summary": "Electric vehicles (EVs) are steadily gaining traction in Côte d'Ivoire, particularly in the ride-hailing sector, as drivers seek to reduce fuel expenses and operating costs.",
-      "summaryCn": "科特迪瓦电动汽车在网约车领域普及，政府计划扩大充电基础设施以推动清洁交通转型。",
-      "wordCount": 619,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/china/2026-07-11/detail-ihfhemcv3620543.shtml",
+      "title": "‘Cultural genocide’ in Xinjiang? Central Asian journalists see something very different",
+      "titleCn": "新疆“文化灭绝”？中亚记者看到截然不同的景象",
+      "summary": "Two groups of journalists from Central Asian media outlets recently travelled to Aksu prefecture and Bortala Mongol Autonomous Prefecture in northern and southern Xinjiang, documenting what they say is the careful preservation of ethnic minority culture and rejecting allegations of \"cultural genocide\" outright.",
+      "summaryCn": "中亚记者团走访新疆多地，亲眼见证少数民族文化得到精心保护，驳斥了“文化灭绝”的指控。",
+      "wordCount": 815,
       "paragraphs": [
         {
-          "en": "Electric vehicles (EVs) are steadily gaining {{0}} in Cote d'Ivoire, particularly in the {{1}} sector, as drivers seek to reduce fuel {{2}} and operating costs. In Abidjan, many drivers working with ride-hailing platforms such as Yango are switching to Chinese-made electric vehicles, citing lower {{3}} costs, longer driving {{4}} and improved passenger {{5}}. Drivers estimate they can reduce daily operating costs by between 30 and 40% compared with {{6}} {{7}} vehicles, making EVs an increasingly {{8}} option for {{21}} transport. For electric vehicle driver Cisse Abass Loukmane, the benefits extend beyond fuel savings. \"In my opinion, Chinese electric vehicles are of excellent quality.",
-          "cn": "电动汽车在科特迪瓦正稳步获得发展势头，尤其是在网约车领域，司机们寻求降低燃油费用和运营成本。在阿比让，许多与Yango等网约车平台合作的司机正在转向中国制造的电动汽车，理由是维护成本更低、续航里程更长以及乘客舒适度提高。司机们估计，与传统的汽油动力汽车相比，他们可以将每日运营成本降低30%至40%，这使得电动汽车成为商业运输越来越有吸引力的选择。对于电动汽车司机Cisse Abass Loukmane来说，好处不仅限于节省燃油。“在我看来，中国电动汽车质量上乘。"
+          "en": "(ECNS)--Two groups of journalists from Central Asian media outlets recently travelled to Aksu prefecture and Bortala Mongol Autonomous Prefecture in northern and southern Xinjiang, documenting what they say is the careful {{0}} of ethnic minority culture and rejecting {{1}} of \"cultural {{7}}\" outright. In Bortala, which borders Kazakhstan, reporters visited villages in Bole city and Wenquan county to observe local traditions up close. The prefecture is home to 35 ethnic groups, including Mongols, Han, Uygurs, Kazakhs, and Hui; {{2}} account for 38 percent of the population. At Aliongbai New Village in Bole, the journalists watched Uygur and Mongolian dances, listened to folk songs, and joined locals in learning traditional steps. \"The care with which locals protect and promote their own culture is {{3}}.",
+          "cn": "（中国新闻网）——来自中亚媒体的两组记者近日走访了新疆北部和南部的阿克苏地区和博尔塔拉蒙古自治州，记录了他们所认为的少数民族文化得到精心保护的情况，并直接驳斥了“文化灭绝”的指控。在与哈萨克斯坦接壤的博尔塔拉，记者们参观了博乐市和温泉县的村庄，近距离观察当地传统。该自治州有35个民族，包括蒙古族、汉族、维吾尔族、哈萨克族和回族；少数民族占总人口的38%。在博乐的阿里翁拜新村，记者们观看了维吾尔族和蒙古族舞蹈，聆听了民歌，并和当地人一起学习传统舞步。“当地人保护和推广自己文化的用心程度非同寻常。"
         },
         {
-          "en": "They are fast, {{9}} and comfortable. Their batteries have a long {{10}} and the air conditioning is excellent.\"\n\"My vehicle, for example, can travel around 400 kilometers on a single charge, which lasts me a week. Electric vehicles require no special maintenance as there are no oil changes to perform.\"\nFILE: Electric bus is cleaned and maintained while charging in Nairobi, the capital of Kenya, August 17, 2023. /CFP\nDespite growing interest, the transition to electric mobility continues to face significant {{11}}. Drivers say the {{12}} of public charging stations and {{13}} repair centres remains one of the biggest {{14}} to wider {{15}}.",
-          "cn": "它们速度快、耐用且舒适。电池寿命长，空调效果也很好。”“例如，我的车一次充电可以行驶大约400公里，这够我用一周。电动汽车不需要特殊维护，因为无需更换机油。”文件：2023年8月17日，肯尼亚首都内罗毕，一辆电动公交车正在充电和保养。/CFP尽管兴趣日益增长，但向电动出行转型仍面临重大障碍。司机们表示，公共充电站和专业维修中心的短缺仍然是更广泛普及的最大障碍之一。"
+          "en": "The government supports their values and {{4}},\" said Akmal Talibov, a correspondent for Tajikistan's ASAL News. He pointed to a guesthouse built in an ethnic style as an example. \"You see it in the architecture of local hotels, too. It gives both tourists and residents a way to {{5}} themselves in the culture.\"\nIn Bogdar village, Wenquan county, the group took in Mongolian song and dance performances and a display of a traditional Kazakh wedding. They also visited a cooperative run by local embroiderers, where Mongolian artisans were making traditional garments.",
+          "cn": "政府支持他们的价值观和独特性，”塔吉克斯坦ASAL新闻的记者阿克马尔·塔利博夫说。他指着一座民族风格的民宿作为例子。“你在当地酒店的建筑中也能看到这一点。它让游客和居民都能沉浸在文化中。”在温泉县的博格达尔村，记者团欣赏了蒙古族歌舞表演和一场传统的哈萨克族婚礼展示。他们还参观了一家由当地刺绣者经营的合作社，蒙古族工匠正在那里制作传统服装。"
         },
         {
-          "en": "Loukmane says greater government support is needed to build {{16}} among {{17}} considering the switch. \"The only challenges are the lack of specialized repair shops and charging stations. This is why we are asking the Ivorian government to address the situation by increasing the number of charging points and repair shops.\"\nVehicle {{18}} are responding to rising demand by expanding their electric vehicle offerings. Companies such as Huanyu Auto and {{19}} including Sinoafrik are introducing a wider range of electric {{20}} and SUVs aimed at both private motorists and commercial operators. Huanyu Auto Sales Manager Kenny Li says Chinese manufacturers are increasingly {{22}} in Cote d'Ivoire's market.",
-          "cn": "Loukmane表示，需要政府加大支持力度，以建立考虑转型的驾驶者的信心。“唯一的挑战是缺乏专业维修店和充电站。这就是为什么我们要求科特迪瓦政府通过增加充电点和维修店的数量来解决这种情况。”汽车经销商正在通过扩大电动汽车产品供应来应对日益增长的需求。Huanyu Auto等公司和包括Sinoafrik在内的经销商正在推出更多种类的电动轿车和SUV，面向私家车主和商业运营商。Huanyu Auto销售经理Kenny Li表示，中国制造商在科特迪瓦市场中的地位日益稳固。"
+          "en": "Several reporters tried on the costumes. All of them said they felt the government's {{6}} to protecting the cultures of Xinjiang's different ethnic groups. \"There is no 'cultural genocide' here,\" they concluded. Mukhammad Obidov, chief editor of the Uzbekistan National News Agency, who has visited Xinjiang several times, said: \"Every time I come to China, I am {{8}} by how the government treats all ethnic groups equally, Han, Uygur, Mongolian, Kazakh. Everyone is Chinese.\"\nSpeaking of a village of just over 200 people that the group toured, Obidov added: \"It has all the necessary {{9}}, even a sports hall for cultural activities.",
+          "cn": "几位记者试穿了这些服装。他们都说感受到了政府保护新疆不同民族文化的承诺。“这里没有‘文化灭绝’，”他们总结道。多次访问过新疆的乌兹别克斯坦国家新闻社总编辑穆罕默德·奥比多夫说：“每次我来中国，我都惊讶于政府如何平等对待所有民族——汉族、维吾尔族、蒙古族、哈萨克族。每个人都是中国人。”谈到记者团参观的一个只有200多人的村庄，奥比多夫补充道：“它有所有必要的设施，甚至还有一个用于文化活动的体育馆。"
         },
         {
-          "en": "\"Our Chinese electric cars are well-regarded in the market, though they face competition from fuel-powered vehicles such as the Jetour and Changan models. Based on our deliveries and current market trends, demand continues to grow. \"The government has the capacity to provide the necessary {{23}} for these vehicles. They also have the potential to improve environmental {{24}} and transform the electric vehicle landscape.\"\nCote d'Ivoire's government has made electric mobility a key part of its strategy to reduce greenhouse gas {{25}} and lower dependence on {{26}} fuels. Authorities aim for electric vehicles to account for 10% of the public administration {{27}} by 2030 while expanding charging infrastructure across the country.",
-          "cn": "“我们的中国电动汽车在市场上受到好评，尽管它们面临来自燃油动力汽车（如Jetour和长安车型）的竞争。根据我们的交付量和当前市场趋势，需求持续增长。”“政府有能力为这些车辆提供必要的基础设施。他们也有潜力改善环境可持续性并改变电动汽车格局。”科特迪瓦政府已将电动出行作为其减少温室气体排放和降低对化石燃料依赖战略的关键部分。当局的目标是到2030年电动汽车占公共行政车队总数的10%，同时在全国范围内扩大充电基础设施。"
+          "en": "Most importantly, the scenery is beautiful, and the air is clean. You can see that the government's care for minorities has taken root. The people here feel they are as equal as anyone else in the country.\"\nHe said achieving that level of {{10}} for 56 ethnic groups required {{11}} effort, but China had delivered. \"Regrettably, some foreign media spread {{12}}, claiming that ethnic minorities live under pressure. I don't even want to mention this — it's a {{13}} lie.",
+          "cn": "最重要的是，风景优美，空气清新。你可以看到政府对少数民族的关怀已经扎根。这里的人们觉得他们和国家的其他人一样平等。”他说，为56个民族实现这种程度的平等需要巨大的努力，但中国做到了。“遗憾的是，一些外国媒体散布虚假信息，声称少数民族生活在压力之下。我甚至不想提这个——这是一个卑鄙的谎言。"
         },
         {
-          "en": "According to Atche Jean Marc, Deputy Chief of Staff at the Ministry of Transport and Maritime Affairs, Cote d'Ivoire's electric vehicle fleet has grown rapidly over the past two years. \"We now have a fleet of more than two thousand electric vehicles. Just two years ago, Cote d'Ivoire's electric vehicle fleet stood at around four hundred units.\"\nThe government plans to significantly increase charging capacity through a nationwide rollout of solar-powered charging stations. \"Our aim is to install a minimum of 500 or 600 charging points, or even 1,000. Once our current project is implemented, it will enable the installation of 300 solar-powered charging points nationwide.",
-          "cn": "据交通和海事事务部副参谋长Atche Jean Marc称，科特迪瓦的电动汽车车队在过去两年中迅速增长。“我们现在拥有超过两千辆电动汽车的车队。就在两年前，科特迪瓦的电动汽车车队大约只有四百辆。”政府计划通过在全国推广太阳能充电站来大幅提高充电能力。“我们的目标是安装至少500或600个充电点，甚至1000个。一旦我们目前的项目实施，将能够在全国安装300个太阳能充电点。"
+          "en": "I would say to those outlets: come to China, walk across this vast land, visit the homes of different ethnic groups, and see for yourselves how they live. Our mission as journalists is to bring the truth to our people.\"\nFrom hats to knives: crafts tell a different story\nIn Aksu Prefecture, another group of Central Asian reporters visited a showroom for Karakul fetal lamb fur caps in Shaya County. The Uygur handicraft was placed on China's national {{14}} cultural heritage list in 2008. There, journalists watched {{15}} Aimaier Tuniyazi make the traditional headwear. Azamat from Kazakhstan's KTK television said, \"AKarakul fetal lamb fur cap is not just an accessory; it's a symbol of status and respect.",
+          "cn": "我想对那些媒体说：来中国吧，走遍这片广阔的土地，走访不同民族的家庭，亲眼看看他们是如何生活的。我们作为记者的使命就是把真相带给我们的民众。”从帽子到刀具：手工艺讲述不同的故事在阿克苏地区，另一组中亚记者参观了沙雅县的一间卡拉库尔胎羔皮帽展示厅。这项维吾尔族手工艺于2008年被列入中国国家级非物质文化遗产名录。在那里，记者们观看了传承人艾麦尔·吐尼亚孜制作这种传统头饰。哈萨克斯坦KTK电视台的记者阿扎马特说：“卡拉库尔胎羔皮帽不仅仅是一件配饰；它是地位和尊重的象征。"
         },
         {
-          "en": "Our target is to have 5,480 vehicles by 2035.\"\nIndustry analysts say the economic case for electric mobility is already becoming evident. Electricity costs for the 349-kilometer journey between Abidjan and Bouake are less than half the equivalent fuel costs for conventional vehicles. Meanwhile, local assembly of electric vehicles is beginning to reduce prices further, making the technology increasingly accessible to consumers. As investment in charging infrastructure and local manufacturing gathers pace, Cote d'Ivoire is positioning itself as one of West Africa's emerging leaders in the transition to cleaner transport.",
-          "cn": "我们的目标是到2035年拥有5480辆汽车。”行业分析师表示，电动出行的经济优势已经显现。从阿比让到布瓦凯349公里行程的电力成本不到传统汽车等效燃油成本的一半。与此同时，电动汽车的本地组装开始进一步降低价格，使这项技术越来越容易被消费者接受。随着对充电基础设施和本地制造的投资加速，科特迪瓦正将自己定位为西非向更清洁交通转型的新兴领导者之一。"
+          "en": "The inheritor has created more than 20 new styles based on tradition; such dedication and {{16}} are admirable, and they couldn't happen without government support. The real Xinjiang is in the {{17}} of these old craftsmen, and we will show those details through our cameras.\"\nAt the Yanming Knife Workshop in Shaya county, journalists tried their hand at {{18}} their own blades. The Shaya knife-making craft involves more than 200 manual steps for a quality piece. The skill was included in Xinjiang's first batch of regional intangible cultural heritage in 2007, and in 2024, Shaya knives were {{19}} a national geographical indication product. \"These recognitions show that the ancient craft has been preserved and developed here.",
+          "cn": "传承人在传统基础上创造了20多种新款式；这种奉献精神和创新令人钦佩，没有政府的支持是不可能实现的。真正的新疆就在这些老工匠的针线活里，我们将通过镜头展示这些细节。”在沙雅县的燕鸣刀坊，记者们亲手尝试锻造自己的刀片。沙雅制刀工艺制作一件优质产品需要200多道手工工序。这项技艺于2007年被列入新疆第一批自治区级非物质文化遗产，2024年，沙雅刀被认定为国家地理标志产品。“这些认可表明，古老的手工艺在这里得到了保护和传承。"
+        },
+        {
+          "en": "There is no 'cultural genocide' in Xinjiang; ethnic cultures are being protected and passed on,\" one journalist said, addressing those who believe Western allegations. 'Living culture' in an ancient alley\nIn Kuqa's Qiuci Alley, where old houses, ancient trees, and weathered lanes still stand, Kyrgyz editor Suyunbek Shamshiev of the Silk Road Observer said, \"Walking into this alley, I see not only carefully protected historic buildings but also the {{20}} smiles on people's faces. This 'living culture' is what moves me most. 'Cultural genocide' does not exist in Xinjiang, and culture is very much alive here.\"\nAfter watching the immersive performance \"Apricot Blossom Rendezvous: Silk Road Qiuci\" at Kuqa's Big Naan City, the editor-in-chief of Tajikistan's ASAL News said, \"The dances that stepped out of the frescoes were so {{21}}. The show gave me a deep understanding of ancient Qiuci as a crossroads of civilizations, and I saw how seriously China takes the protection of its cultural heritage and the results; Kuqa is not only a historic city but also a living window into Xinjiang.",
+          "cn": "新疆没有‘文化灭绝’；民族文化正在得到保护和传承，”一位记者在回应那些相信西方指控的人时说。古巷中的“活态文化”在库车的秋孜巷，老房子、古树和历经风霜的巷道依然矗立，吉尔吉斯斯坦《丝路观察家》的编辑苏云别克·沙姆希耶夫说：“走进这条巷子，我不仅看到了精心保护的历史建筑，还看到了人们脸上真诚的笑容。这种‘活态文化’最让我感动。新疆不存在‘文化灭绝’，文化在这里充满活力。”在库车的大馕城观看了沉浸式演出《杏花之约·丝路龟兹》后，塔吉克斯坦ASAL新闻的总编辑说：“从壁画中走出的舞蹈如此生动。这场演出让我深刻理解了作为文明交汇点的古龟兹，我看到了中国对保护文化遗产的重视程度和成果；库车不仅是一座历史名城，也是新疆的一扇活生生的窗口。"
+        },
+        {
+          "en": "I hope our readers will see the truth in my reporting.\"",
+          "cn": "我希望我们的读者能从我的报道中看到真相。”"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "traction",
-          "hint": "n. 势头",
+          "answer": "preservation",
+          "hint": "n. 保护",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "ride-hailing",
-          "hint": "n. 网约车",
+          "answer": "allegations",
+          "hint": "n. 指控",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "expenses",
-          "hint": "n. 费用",
+          "answer": "minorities",
+          "hint": "n. 少数民族",
           "difficulty": "easy"
         },
         {
           "id": 3,
-          "answer": "maintenance",
-          "hint": "n. 维护",
+          "answer": "extraordinary",
+          "hint": "adj. 非凡的",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "ranges",
-          "hint": "n. 里程",
-          "difficulty": "medium"
+          "answer": "uniqueness",
+          "hint": "n. 独特性",
+          "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "comfort",
-          "hint": "n. 舒适度",
-          "difficulty": "easy"
+          "answer": "immerse",
+          "hint": "v. 沉浸",
+          "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "conventional",
-          "hint": "adj. 传统的",
+          "answer": "commitment",
+          "hint": "n. 承诺",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "petrol-powered",
-          "hint": "adj. 汽油动力的",
+          "answer": "genocide",
+          "hint": "n. 种族灭绝",
           "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "attractive",
-          "hint": "adj. 有吸引力的",
-          "difficulty": "easy"
+          "answer": "struck",
+          "hint": "v. 使印象深刻",
+          "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "durable",
-          "hint": "adj. 耐用的",
-          "difficulty": "medium"
+          "answer": "facilities",
+          "hint": "n. 设施",
+          "difficulty": "easy"
         },
         {
           "id": 10,
-          "answer": "lifespan",
-          "hint": "n. 寿命",
-          "difficulty": "medium"
+          "answer": "equality",
+          "hint": "n. 平等",
+          "difficulty": "easy"
         },
         {
           "id": 11,
-          "answer": "obstacles",
-          "hint": "n. 障碍",
+          "answer": "enormous",
+          "hint": "adj. 巨大的",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "shortage",
-          "hint": "n. 短缺",
-          "difficulty": "easy"
+          "answer": "disinformation",
+          "hint": "n. 虚假信息",
+          "difficulty": "hard"
         },
         {
           "id": 13,
-          "answer": "specialised",
-          "hint": "adj. 专业的",
-          "difficulty": "medium"
+          "answer": "despicable",
+          "hint": "adj. 卑鄙的",
+          "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "barriers",
-          "hint": "n. 障碍",
-          "difficulty": "medium"
+          "answer": "intangible",
+          "hint": "adj. 无形的",
+          "difficulty": "hard"
         },
         {
           "id": 15,
-          "answer": "adoption",
-          "hint": "n. 采用",
+          "answer": "inheritor",
+          "hint": "n. 传承人",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "confidence",
-          "hint": "n. 信心",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "motorists",
-          "hint": "n. 驾驶者",
+          "answer": "innovation",
+          "hint": "n. 创新",
           "difficulty": "medium"
         },
         {
-          "id": 18,
-          "answer": "dealerships",
-          "hint": "n. 经销商",
+          "id": 17,
+          "answer": "needlework",
+          "hint": "n. 针线活",
           "difficulty": "hard"
         },
         {
+          "id": 18,
+          "answer": "forging",
+          "hint": "v. 锻造",
+          "difficulty": "medium"
+        },
+        {
           "id": 19,
-          "answer": "distributors",
-          "hint": "n. 分销商",
+          "answer": "designated",
+          "hint": "v. 指定",
           "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "sedans",
-          "hint": "n. 轿车",
+          "answer": "genuine",
+          "hint": "adj. 真诚的",
           "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "vivid",
+          "hint": "adj. 生动的",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "(ECNS)--Two groups of journalists from Central Asian media outlets recently travelled to Aksu prefecture and Bortala Mongol Autonomous Prefecture in northern and southern Xinjiang, documenting what they say is the careful preservation of ethnic minority culture and rejecting allegations of \"cultural genocide\" outright.\nIn Bortala, which borders Kazakhstan, reporters visited villages in Bole city and Wenquan county to observe local traditions up close. The prefecture is home to 35 ethnic groups, including Mongols, Han, Uygurs, Kazakhs, and Hui; minorities account for 38 percent of the population.\nAt Aliongbai New Village in Bole, the journalists watched Uygur and Mongolian dances, listened to folk songs, and joined locals in learning traditional steps.\n\"The care with which locals protect and promote their own culture is extraordinary. The government supports their values and uniqueness,\" said Akmal Talibov, a correspondent for Tajikistan's ASAL News. He pointed to a guesthouse built in an ethnic style as an example. \"You see it in the architecture of local hotels, too. It gives both tourists and residents a way to immerse themselves in the culture.\"\nIn Bogdar village, Wenquan county, the group took in Mongolian song and dance performances and a display of a traditional Kazakh wedding. They also visited a cooperative run by local embroiderers, where Mongolian artisans were making traditional garments. Several reporters tried on the costumes.\nAll of them said they felt the government's commitment to protecting the cultures of Xinjiang's different ethnic groups. \"There is no 'cultural genocide' here,\" they concluded.\nMukhammad Obidov, chief editor of the Uzbekistan National News Agency, who has visited Xinjiang several times, said: \"Every time I come to China, I am struck by how the government treats all ethnic groups equally, Han, Uygur, Mongolian, Kazakh. Everyone is Chinese.\"\nSpeaking of a village of just over 200 people that the group toured, Obidov added: \"It has all the necessary facilities, even a sports hall for cultural activities. Most importantly, the scenery is beautiful, and the air is clean. You can see that the government's care for minorities has taken root. The people here feel they are as equal as anyone else in the country.\"\nHe said achieving that level of equality for 56 ethnic groups required enormous effort, but China had delivered. \"Regrettably, some foreign media spread disinformation, claiming that ethnic minorities live under pressure. I don't even want to mention this — it's a despicable lie. I would say to those outlets: come to China, walk across this vast land, visit the homes of different ethnic groups, and see for yourselves how they live. Our mission as journalists is to bring the truth to our people.\"\nFrom hats to knives: crafts tell a different story\nIn Aksu Prefecture, another group of Central Asian reporters visited a showroom for Karakul fetal lamb fur caps in Shaya County. The Uygur handicraft was placed on China's national intangible cultural heritage list in 2008. There, journalists watched inheritor Aimaier Tuniyazi make the traditional headwear.\nAzamat from Kazakhstan's KTK television said, \"AKarakul fetal lamb fur cap is not just an accessory; it's a symbol of status and respect. The inheritor has created more than 20 new styles based on tradition; such dedication and innovation are admirable, and they couldn't happen without government support. The real Xinjiang is in the needlework of these old craftsmen, and we will show those details through our cameras.\"\nAt the Yanming Knife Workshop in Shaya county, journalists tried their hand at forging their own blades. The Shaya knife-making craft involves more than 200 manual steps for a quality piece. The skill was included in Xinjiang's first batch of regional intangible cultural heritage in 2007, and in 2024, Shaya knives were designated a national geographical indication product.\n\"These recognitions show that the ancient craft has been preserved and developed here. There is no 'cultural genocide' in Xinjiang; ethnic cultures are being protected and passed on,\" one journalist said, addressing those who believe Western allegations.\n'Living culture' in an ancient alley\nIn Kuqa's Qiuci Alley, where old houses, ancient trees, and weathered lanes still stand, Kyrgyz editor Suyunbek Shamshiev of the Silk Road Observer said, \"Walking into this alley, I see not only carefully protected historic buildings but also the genuine smiles on people's faces. This 'living culture' is what moves me most. 'Cultural genocide' does not exist in Xinjiang, and culture is very much alive here.\"\nAfter watching the immersive performance \"Apricot Blossom Rendezvous: Silk Road Qiuci\" at Kuqa's Big Naan City, the editor-in-chief of Tajikistan's ASAL News said, \"The dances that stepped out of the frescoes were so vivid. The show gave me a deep understanding of ancient Qiuci as a crossroads of civilizations, and I saw how seriously China takes the protection of its cultural heritage and the results; Kuqa is not only a historic city but also a living window into Xinjiang. I hope our readers will see the truth in my reporting.\"",
+      "fullTextCn": "（中国新闻网）——来自中亚媒体的两组记者近日走访了新疆北部和南部的阿克苏地区和博尔塔拉蒙古自治州，记录了他们所认为的少数民族文化得到精心保护的情况，并直接驳斥了“文化灭绝”的指控。在与哈萨克斯坦接壤的博尔塔拉，记者们参观了博乐市和温泉县的村庄，近距离观察当地传统。该自治州有35个民族，包括蒙古族、汉族、维吾尔族、哈萨克族和回族；少数民族占总人口的38%。在博乐的阿里翁拜新村，记者们观看了维吾尔族和蒙古族舞蹈，聆听了民歌，并和当地人一起学习传统舞步。“当地人保护和推广自己文化的用心程度非同寻常。\n\n政府支持他们的价值观和独特性，”塔吉克斯坦ASAL新闻的记者阿克马尔·塔利博夫说。他指着一座民族风格的民宿作为例子。“你在当地酒店的建筑中也能看到这一点。它让游客和居民都能沉浸在文化中。”在温泉县的博格达尔村，记者团欣赏了蒙古族歌舞表演和一场传统的哈萨克族婚礼展示。他们还参观了一家由当地刺绣者经营的合作社，蒙古族工匠正在那里制作传统服装。\n\n几位记者试穿了这些服装。他们都说感受到了政府保护新疆不同民族文化的承诺。“这里没有‘文化灭绝’，”他们总结道。多次访问过新疆的乌兹别克斯坦国家新闻社总编辑穆罕默德·奥比多夫说：“每次我来中国，我都惊讶于政府如何平等对待所有民族——汉族、维吾尔族、蒙古族、哈萨克族。每个人都是中国人。”谈到记者团参观的一个只有200多人的村庄，奥比多夫补充道：“它有所有必要的设施，甚至还有一个用于文化活动的体育馆。\n\n最重要的是，风景优美，空气清新。你可以看到政府对少数民族的关怀已经扎根。这里的人们觉得他们和国家的其他人一样平等。”他说，为56个民族实现这种程度的平等需要巨大的努力，但中国做到了。“遗憾的是，一些外国媒体散布虚假信息，声称少数民族生活在压力之下。我甚至不想提这个——这是一个卑鄙的谎言。\n\n我想对那些媒体说：来中国吧，走遍这片广阔的土地，走访不同民族的家庭，亲眼看看他们是如何生活的。我们作为记者的使命就是把真相带给我们的民众。”从帽子到刀具：手工艺讲述不同的故事在阿克苏地区，另一组中亚记者参观了沙雅县的一间卡拉库尔胎羔皮帽展示厅。这项维吾尔族手工艺于2008年被列入中国国家级非物质文化遗产名录。在那里，记者们观看了传承人艾麦尔·吐尼亚孜制作这种传统头饰。哈萨克斯坦KTK电视台的记者阿扎马特说：“卡拉库尔胎羔皮帽不仅仅是一件配饰；它是地位和尊重的象征。\n\n传承人在传统基础上创造了20多种新款式；这种奉献精神和创新令人钦佩，没有政府的支持是不可能实现的。真正的新疆就在这些老工匠的针线活里，我们将通过镜头展示这些细节。”在沙雅县的燕鸣刀坊，记者们亲手尝试锻造自己的刀片。沙雅制刀工艺制作一件优质产品需要200多道手工工序。这项技艺于2007年被列入新疆第一批自治区级非物质文化遗产，2024年，沙雅刀被认定为国家地理标志产品。“这些认可表明，古老的手工艺在这里得到了保护和传承。\n\n新疆没有‘文化灭绝’；民族文化正在得到保护和传承，”一位记者在回应那些相信西方指控的人时说。古巷中的“活态文化”在库车的秋孜巷，老房子、古树和历经风霜的巷道依然矗立，吉尔吉斯斯坦《丝路观察家》的编辑苏云别克·沙姆希耶夫说：“走进这条巷子，我不仅看到了精心保护的历史建筑，还看到了人们脸上真诚的笑容。这种‘活态文化’最让我感动。新疆不存在‘文化灭绝’，文化在这里充满活力。”在库车的大馕城观看了沉浸式演出《杏花之约·丝路龟兹》后，塔吉克斯坦ASAL新闻的总编辑说：“从壁画中走出的舞蹈如此生动。这场演出让我深刻理解了作为文明交汇点的古龟兹，我看到了中国对保护文化遗产的重视程度和成果；库车不仅是一座历史名城，也是新疆的一扇活生生的窗口。\n\n我希望我们的读者能从我的报道中看到真相。”"
+    },
+    {
+      "id": 3,
+      "category": "military",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/china/2026-07-11/detail-ihfhemcv3620116.shtml",
+      "title": "Xi, Kim exchange congratulations over 65th anniversary of China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance",
+      "titleCn": "习近平与金正恩就中朝友好合作互助条约签署65周年互致贺电",
+      "summary": "Xi Jinping, general secretary of the Communist Party of China Central Committee and Chinese president, and Kim Jong Un, general secretary of the Workers' Party of Korea (WPK) and president of the State Affairs of the Democratic People's Republic of Korea (DPRK), exchanged congratulations on Saturday over the 65th anniversary of the signing of the China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance.",
+      "summaryCn": "中朝领导人互致贺电，强调传统友谊与战略合作，推动双边关系在新时代持续发展。",
+      "wordCount": 694,
+      "paragraphs": [
+        {
+          "en": "Xi Jinping, general secretary of the Communist Party of China Central Committee and Chinese president, and Kim Jong Un, general secretary of the Workers' Party of Korea (WPK) and president of the State Affairs of the Democratic People's Republic of Korea (DPRK), {{0}} congratulations on Saturday over the 65th {{1}} of the signing of the China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance. In his message, Xi said that in 1961, the older generations of leaders of China and the DPRK signed the China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance, laying an important political and legal foundation for {{2}} the friendship {{3}} in blood between the two peoples. The treaty has played an important role in carrying forward China-DPRK friendship and {{4}} peace and {{5}} in the region and beyond, he said. Over the past 65 years, the two sides have {{6}} the spirit of the treaty, supported each other, stood united, cooperated closely and worked together, {{7}} demonstrating the defining features of China-DPRK relations -- friendship passed down from generation to generation, a shared future and mutual support, he said. Xi pointed to a successful state visit to the DPRK in June, when he reached important consensus with Kim on consolidating and carrying forward the traditional friendship between China and the DPRK and enriching it with new {{8}}, providing {{9}} guidance and a new blueprint for the development of China-DPRK relations in the new era. Facing a rapidly {{10}} world undergoing {{11}} changes unseen in a century, Xi voiced {{12}} to work with Kim to further strengthen strategic communication, keep China-DPRK relations on the right track and guide bilateral friendly cooperation to deliver greater benefits to the two peoples, so as to make positive contributions to promoting regional peace and development.",
+          "cn": "中共中央总书记、国家主席习近平与朝鲜劳动党总书记、国务委员长金正恩于周六就《中朝友好合作互助条约》签署65周年互致贺电。习近平在贺电中指出，1961年，中朝老一辈领导人签署了《中朝友好合作互助条约》，为巩固两国人民用鲜血凝成的友谊奠定了重要的政治和法律基础。该条约为传承中朝友谊、维护地区和世界和平稳定发挥了重要作用。65年来，双方秉持条约精神，相互支持、团结合作、密切协作，生动展现了中朝关系世代相传、命运与共、相互支持的鲜明特征。习近平提到，他于6月成功对朝鲜进行国事访问，与金正恩就巩固和传承中朝传统友谊、赋予其新内涵达成重要共识，为新时代中朝关系发展提供了战略指引和新的蓝图。面对百年未有之大变局加速演进的形势，习近平表示愿与金正恩进一步加强战略沟通，确保中朝关系沿着正确轨道前进，引导双边友好合作惠及两国人民，为促进地区和平与发展作出积极贡献。"
+        },
+        {
+          "en": "No matter how the international landscape evolves, the firm position of China's Party and government to attach great importance to the traditional friendship between China and the DPRK will remain unchanged; the firm support for Kim in leading the DPRK's socialist cause will remain unchanged; and the determination to safeguard the common interests of both sides and maintain a {{13}} strategic environment will remain unchanged, he said. Xi expressed confidence that, under the leadership of the WPK headed by Kim, the DPRK people will fully {{14}} the decisions and arrangements of the Ninth Congress of the WPK and continue to achieve new and greater successes in their socialist cause. For his part, Kim said the two sides signed the DPRK-China Treaty of Friendship, Cooperation and Mutual Assistance 65 years ago, laying a solid legal foundation for the {{15}} development of the fighting friendship and unity of mutual assistance and cooperation between the DPRK and China, forged in the bloody struggle for independence against imperialism and for the great cause of peace and socialism. Over the past period, through all the {{16}} of history, the DPRK and China have stood by each other with {{17}} support and close cooperation, fully demonstrating to the world the {{18}} and unbreakable nature of their friendship -- a relationship that is special in terms of traditional bonds, shared socialist cause, and firm commitment to carrying it forward from generation to generation, Kim said. The friendly and cooperative relations between the DPRK and China, as a strategic choice and precious common wealth of the two parties and two peoples, are being elevated to a new strategic height and are making important contributions to safeguarding the {{19}}, security and development interests of the two countries and upholding regional and global peace and stability amid the complex and {{20}} international situation, Kim said. It is the unwavering position of the WPK and the DPRK government to advance the traditional friendly and cooperative relations between the DPRK and China, with socialism at its core, to keep pace with the changes of the times and the {{21}} of the two peoples and to achieve more {{22}} development in all fields, he added.",
+          "cn": "习近平表示，无论国际风云如何变幻，中国党和政府高度重视中朝传统友谊的坚定立场不会改变；坚定支持金正恩领导朝鲜社会主义事业的立场不会改变；维护双方共同利益、维护良好战略环境的决心不会改变。习近平相信，在以金正恩为首的朝鲜劳动党领导下，朝鲜人民将全面贯彻落实朝鲜劳动党第九次代表大会的决议和部署，在社会主义事业中不断取得新的更大成就。金正恩表示，65年前双方签署了《朝中友好合作互助条约》，为在争取民族独立、抗击帝国主义、争取和平与社会主义伟大事业的浴血斗争中凝结的朝中战斗友谊和互助合作关系的持久发展奠定了坚实的法律基础。过去一段时期，历经历史沧桑，朝中两国始终坚定相互支持、密切合作，充分向世界展示了牢不可破、历久弥坚的友谊——这是一种在传统纽带、共同社会主义事业以及代代相传的坚定承诺方面具有特殊性的关系。金正恩说，朝中友好合作关系作为两党两国人民的战略选择和宝贵共同财富，正被提升到新的战略高度，并在复杂多变的国际形势下，为维护两国主权、安全和发展利益，维护地区和世界和平稳定作出重要贡献。他补充道，以社会主义为核心的朝中传统友好合作关系，是朝鲜劳动党和政府坚定不移的立场，要顺应时代变化和两国人民愿望，实现各领域更加充满活力的发展。"
+        },
+        {
+          "en": "Kim voiced his {{23}} to work with Xi to lead the DPRK-China friendship, rooted in a long history and fine {{24}}, to new heights, and develop it into the strongest and most strategic {{25}} of relations between socialist countries.",
+          "cn": "金正恩表示愿与习近平一道，引领根植于悠久历史和优良传统的朝中友谊迈向新高度，将其发展成为社会主义国家关系中最强大、最具战略性的典范。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "exchanged",
+          "hint": "v. 交换",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "anniversary",
+          "hint": "n. 周年纪念",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "consolidating",
+          "hint": "v. 巩固",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "forged",
+          "hint": "v. 锻造",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "safeguarding",
+          "hint": "v. 维护",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "stability",
+          "hint": "n. 稳定",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "upheld",
+          "hint": "v. 坚持",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "vividly",
+          "hint": "adv. 生动地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "dimensions",
+          "hint": "n. 维度",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "strategic",
+          "hint": "adj. 战略的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "evolving",
+          "hint": "v. 演变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "profound",
+          "hint": "adj. 深刻的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "willingness",
+          "hint": "n. 意愿",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "favorable",
+          "hint": "adj. 有利的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "implement",
+          "hint": "v. 实施",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "enduring",
+          "hint": "adj. 持久的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "vicissitudes",
+          "hint": "n. 变迁",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "unwavering",
+          "hint": "adj. 坚定的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "everlasting",
+          "hint": "adj. 永恒的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "sovereignty",
+          "hint": "n. 主权",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "volatile",
+          "hint": "adj. 动荡的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "aspirations",
+          "hint": "n. 愿望",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "dynamic",
+          "hint": "adj. 动态的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 23,
+          "answer": "readiness",
+          "hint": "n. 愿意",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "traditions",
+          "hint": "n. 传统",
+          "difficulty": "easy"
+        },
+        {
+          "id": 25,
+          "answer": "model",
+          "hint": "n. 典范",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "Xi Jinping, general secretary of the Communist Party of China Central Committee and Chinese president, and Kim Jong Un, general secretary of the Workers' Party of Korea (WPK) and president of the State Affairs of the Democratic People's Republic of Korea (DPRK), exchanged congratulations on Saturday over the 65th anniversary of the signing of the China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance.\nIn his message, Xi said that in 1961, the older generations of leaders of China and the DPRK signed the China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance, laying an important political and legal foundation for consolidating the friendship forged in blood between the two peoples.\nThe treaty has played an important role in carrying forward China-DPRK friendship and safeguarding peace and stability in the region and beyond, he said.\nOver the past 65 years, the two sides have upheld the spirit of the treaty, supported each other, stood united, cooperated closely and worked together, vividly demonstrating the defining features of China-DPRK relations -- friendship passed down from generation to generation, a shared future and mutual support, he said.\nXi pointed to a successful state visit to the DPRK in June, when he reached important consensus with Kim on consolidating and carrying forward the traditional friendship between China and the DPRK and enriching it with new dimensions, providing strategic guidance and a new blueprint for the development of China-DPRK relations in the new era.\nFacing a rapidly evolving world undergoing profound changes unseen in a century, Xi voiced willingness to work with Kim to further strengthen strategic communication, keep China-DPRK relations on the right track and guide bilateral friendly cooperation to deliver greater benefits to the two peoples, so as to make positive contributions to promoting regional peace and development.\nNo matter how the international landscape evolves, the firm position of China's Party and government to attach great importance to the traditional friendship between China and the DPRK will remain unchanged; the firm support for Kim in leading the DPRK's socialist cause will remain unchanged; and the determination to safeguard the common interests of both sides and maintain a favorable strategic environment will remain unchanged, he said.\nXi expressed confidence that, under the leadership of the WPK headed by Kim, the DPRK people will fully implement the decisions and arrangements of the Ninth Congress of the WPK and continue to achieve new and greater successes in their socialist cause.\nFor his part, Kim said the two sides signed the DPRK-China Treaty of Friendship, Cooperation and Mutual Assistance 65 years ago, laying a solid legal foundation for the enduring development of the fighting friendship and unity of mutual assistance and cooperation between the DPRK and China, forged in the bloody struggle for independence against imperialism and for the great cause of peace and socialism.\nOver the past period, through all the vicissitudes of history, the DPRK and China have stood by each other with unwavering support and close cooperation, fully demonstrating to the world the everlasting and unbreakable nature of their friendship -- a relationship that is special in terms of traditional bonds, shared socialist cause, and firm commitment to carrying it forward from generation to generation, Kim said.\nThe friendly and cooperative relations between the DPRK and China, as a strategic choice and precious common wealth of the two parties and two peoples, are being elevated to a new strategic height and are making important contributions to safeguarding the sovereignty, security and development interests of the two countries and upholding regional and global peace and stability amid the complex and volatile international situation, Kim said.\nIt is the unwavering position of the WPK and the DPRK government to advance the traditional friendly and cooperative relations between the DPRK and China, with socialism at its core, to keep pace with the changes of the times and the aspirations of the two peoples and to achieve more dynamic development in all fields, he added.\nKim voiced his readiness to work with Xi to lead the DPRK-China friendship, rooted in a long history and fine traditions, to new heights, and develop it into the strongest and most strategic model of relations between socialist countries.",
+      "fullTextCn": "中共中央总书记、国家主席习近平与朝鲜劳动党总书记、国务委员长金正恩于周六就《中朝友好合作互助条约》签署65周年互致贺电。习近平在贺电中指出，1961年，中朝老一辈领导人签署了《中朝友好合作互助条约》，为巩固两国人民用鲜血凝成的友谊奠定了重要的政治和法律基础。该条约为传承中朝友谊、维护地区和世界和平稳定发挥了重要作用。65年来，双方秉持条约精神，相互支持、团结合作、密切协作，生动展现了中朝关系世代相传、命运与共、相互支持的鲜明特征。习近平提到，他于6月成功对朝鲜进行国事访问，与金正恩就巩固和传承中朝传统友谊、赋予其新内涵达成重要共识，为新时代中朝关系发展提供了战略指引和新的蓝图。面对百年未有之大变局加速演进的形势，习近平表示愿与金正恩进一步加强战略沟通，确保中朝关系沿着正确轨道前进，引导双边友好合作惠及两国人民，为促进地区和平与发展作出积极贡献。\n\n习近平表示，无论国际风云如何变幻，中国党和政府高度重视中朝传统友谊的坚定立场不会改变；坚定支持金正恩领导朝鲜社会主义事业的立场不会改变；维护双方共同利益、维护良好战略环境的决心不会改变。习近平相信，在以金正恩为首的朝鲜劳动党领导下，朝鲜人民将全面贯彻落实朝鲜劳动党第九次代表大会的决议和部署，在社会主义事业中不断取得新的更大成就。金正恩表示，65年前双方签署了《朝中友好合作互助条约》，为在争取民族独立、抗击帝国主义、争取和平与社会主义伟大事业的浴血斗争中凝结的朝中战斗友谊和互助合作关系的持久发展奠定了坚实的法律基础。过去一段时期，历经历史沧桑，朝中两国始终坚定相互支持、密切合作，充分向世界展示了牢不可破、历久弥坚的友谊——这是一种在传统纽带、共同社会主义事业以及代代相传的坚定承诺方面具有特殊性的关系。金正恩说，朝中友好合作关系作为两党两国人民的战略选择和宝贵共同财富，正被提升到新的战略高度，并在复杂多变的国际形势下，为维护两国主权、安全和发展利益，维护地区和世界和平稳定作出重要贡献。他补充道，以社会主义为核心的朝中传统友好合作关系，是朝鲜劳动党和政府坚定不移的立场，要顺应时代变化和两国人民愿望，实现各领域更加充满活力的发展。\n\n金正恩表示愿与习近平一道，引领根植于悠久历史和优良传统的朝中友谊迈向新高度，将其发展成为社会主义国家关系中最强大、最具战略性的典范。"
+    },
+    {
+      "id": 4,
+      "category": "military",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/china/politics/2026-07-11/detail-ihfhemcv3619410.shtml",
+      "title": "China, Namibia announce to build community with shared future for new era",
+      "titleCn": "中国与纳米比亚宣布构建新时代命运共同体",
+      "summary": "Chinese President Xi Jinping and Namibian President Netumbo Nandi-Ndaitwah announced the elevation of bilateral relations to a China-Namibia community with a shared future for the new era during their talks held Friday in Beijing.",
+      "summaryCn": "中纳两国元首在北京会谈，宣布提升双边关系为新时代命运共同体，并提出深化合作的三项建议。",
+      "wordCount": 652,
+      "paragraphs": [
+        {
+          "en": "Chinese President Xi Jinping and Namibian President Netumbo Nandi-Ndaitwah announced the {{0}} of bilateral relations to a China-Namibia community with a shared future for the new era during their talks held Friday in Beijing. Xi said China and Namibia enjoy {{1}} traditional friendship and share common {{2}} for development, adding that since the establishment of diplomatic ties, the two countries have always treated each other as equals and supported each other. Noting that bilateral friendly cooperation has continued to deepen, delivering tangible benefits to the two peoples, Xi said China stands ready to work with Namibia to enhance exchanges of development philosophies and {{3}} development strategies, and partner with each other on their paths to {{4}}. Xi put forward three {{5}} for building a China-Namibia community with a shared future for the new era. China and Namibia should maintain close high-level exchanges, deepen experience sharing on {{6}}, stay in regular communication on issues of overall and {{7}} importance in bilateral relations, and continue to support each other on issues concerning their respective {{8}} interests and major concerns, Xi said.",
+          "cn": "中国国家主席习近平与纳米比亚总统内通博·南迪-恩代特瓦周五在北京举行会谈，宣布将双边关系提升为新时代中纳命运共同体。习近平表示，中纳两国拥有深厚的传统友谊和共同的发展愿望，自建交以来始终平等相待、相互支持。他指出，双边友好合作不断深化，为两国人民带来了实实在在的利益，中方愿与纳方加强发展理念交流和发展战略对接，携手迈向现代化。习近平就构建新时代中纳命运共同体提出三项建议：中纳应保持高层密切交往，深化治国理政经验交流，就双边关系中具有全局性和战略性的问题保持经常性沟通，并在涉及各自核心利益和重大关切的问题上继续相互支持。"
+        },
+        {
+          "en": "Xi also urged the two sides to tap the {{9}} of cooperation and take it to higher levels, encouraging Namibia to make full use of the zero-{{10}} access, the upgraded fast track for Namibian exports to reach China, and other favorable policies. China is ready to deepen cooperation with Namibia in such areas as {{11}}, energy, mining, agriculture, education, youth, science and technology, he noted. Xi added that the two countries should uphold {{12}} and coordination to safeguard {{13}}. China is willing to work with African countries, including Namibia, to enhance the strength and voice of the Global South, and make new contributions to building a community with a shared future for humanity, Xi said. Noting that helping Africa develop its abundant mineral resources and effectively translate its resource advantage into development {{14}} is an important way to accelerate Africa's modernization, Xi said China stands ready to continue strengthening mining cooperation with African countries, including Namibia, based on three {{15}}.",
+          "cn": "习近平还敦促双方挖掘合作潜力，提升合作水平，鼓励纳米比亚充分利用零关税准入、升级版纳米比亚对华出口快速通道等优惠政策。他指出，中方愿在基础设施、能源、矿业、农业、教育、青年、科技等领域深化与纳米比亚的合作。习近平强调，两国应坚持团结协作，维护多边主义。中方愿与包括纳米比亚在内的非洲国家一道，增强“全球南方”的力量和声音，为构建人类命运共同体作出新贡献。习近平指出，帮助非洲开发丰富的矿产资源，有效将资源优势转化为发展动力，是加速非洲现代化的重要途径，中方愿继续在三个原则基础上加强与包括纳米比亚在内的非洲国家的矿业合作。"
+        },
+        {
+          "en": "The first is pursuing {{16}} benefit and win-win cooperation, Xi said, adding that the two sides should fully {{17}} their complementary strengths and deepen the {{18}} of interests. Xi said the second is conducting friendly {{19}}, calling for proceeding from the big picture of China-Africa friendship, and properly resolving issues in cooperation through communication and consultation. He noted the third is breaking new ground, adding that China stands ready to work with Africa to explore new {{20}} to cooperation in accordance with market-oriented and {{21}} principles, with a view to upgrading the quality of China-Africa cooperation in the mining {{22}}. For her part, Nandi-Ndaitwah extended warm congratulations on the 105th anniversary of the founding of the Communist Party of China. Namibia attaches great importance to its relations with China and firmly {{23}} to the one-China principle, she added.",
+          "cn": "习近平表示，第一是坚持互利共赢合作，双方应充分发挥互补优势，深化利益融合。第二是开展友好协商，呼吁从中非友谊大局出发，通过沟通协商妥善解决合作中的问题。第三是开拓创新，中方愿与非洲一道，按照市场化和商业化原则探索新的合作方式，以提升中非矿业合作的质量。南迪-恩代特瓦热烈祝贺中国共产党成立105周年。她表示，纳米比亚高度重视对华关系，坚定恪守一个中国原则。"
+        },
+        {
+          "en": "Namibia welcomes more Chinese enterprises to invest and operate in the country, and hopes to strengthen cooperation in areas such as industry, mining, infrastructure, aviation and space, science and technology, agriculture and water resources, said Nandi-Ndaitwah. China has long provided {{24}} support and assistance to African countries, including Namibia, and has always upheld a just position in international and regional affairs, said the president. She added that Namibia will enhance communication and coordination with China to safeguard the common interests of developing countries and jointly build a community with a shared future for humanity. Following the talks, the two presidents {{25}} the signing of multiple cooperation documents in areas such as economy and trade, healthcare, education and human resources. The two sides also issued a joint statement on building a China-Namibia community with a shared future for the new era.",
+          "cn": "南迪-恩代特瓦表示，纳米比亚欢迎更多中国企业来纳投资兴业，希望加强在工业、矿业、基础设施、航空航天、科技、农业和水资源等领域的合作。她指出，中国长期以来向包括纳米比亚在内的非洲国家提供了无私支持和援助，并在国际和地区事务中始终秉持公正立场。她表示，纳米比亚将加强与中国的沟通协调，维护发展中国家的共同利益，共同构建人类命运共同体。会谈后，两国元首见证了经贸、医疗、教育和人力资源等领域多项合作文件的签署。双方还发表了关于构建新时代中纳命运共同体的联合声明。"
+        },
+        {
+          "en": "Prior to the talks, Xi and his wife Peng Liyuan held a welcome ceremony for Nandi-Ndaitwah and her spouse Epaphras Denga Ndaitwah. Xi and Peng also held a welcome banquet for them in the evening.",
+          "cn": "会谈前，习近平和夫人彭丽媛为南迪-恩代特瓦和丈夫埃帕弗拉斯·登加·恩代特瓦举行了欢迎仪式。当晚，习近平和彭丽媛还为他们举行了欢迎宴会。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "elevation",
+          "hint": "n. 提升",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "profound",
+          "hint": "adj. 深厚的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "aspirations",
+          "hint": "n. 愿望",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "synergize",
+          "hint": "v. 协同",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "modernization",
+          "hint": "n. 现代化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "proposals",
+          "hint": "n. 建议",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "strategic",
+          "hint": "adj. 战略性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "core",
+          "hint": "adj. 核心的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "potential",
+          "hint": "n. 潜力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "tariff",
+          "hint": "n. 关税",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "solidarity",
+          "hint": "n. 团结",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "multilateralism",
+          "hint": "n. 多边主义",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "momentum",
+          "hint": "n. 动力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "principles",
+          "hint": "n. 原则",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "mutual",
+          "hint": "adj. 相互的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "leverage",
+          "hint": "v. 利用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "convergence",
+          "hint": "n. 融合",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "consultation",
+          "hint": "n. 协商",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "approaches",
+          "hint": "n. 方式",
+          "difficulty": "easy"
         },
         {
           "id": 21,
@@ -329,564 +685,154 @@
         },
         {
           "id": 22,
-          "answer": "well-positioned",
-          "hint": "adj. 定位良好的",
-          "difficulty": "hard"
+          "answer": "sector",
+          "hint": "n. 部门",
+          "difficulty": "easy"
         },
         {
           "id": 23,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
+          "answer": "adheres",
+          "hint": "v. 坚持",
           "difficulty": "medium"
         },
         {
           "id": 24,
-          "answer": "sustainability",
-          "hint": "n. 可持续性",
+          "answer": "selfless",
+          "hint": "adj. 无私的",
           "difficulty": "medium"
         },
         {
           "id": 25,
-          "answer": "emissions",
-          "hint": "n. 排放",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "fossil",
-          "hint": "adj. 化石的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 27,
-          "answer": "fleet",
-          "hint": "n. 车队",
+          "answer": "witnessed",
+          "hint": "v. 见证",
           "difficulty": "medium"
         }
       ],
-      "fullText": "Electric vehicles (EVs) are steadily gaining traction in Cote d'Ivoire, particularly in the ride-hailing sector, as drivers seek to reduce fuel expenses and operating costs.\nIn Abidjan, many drivers working with ride-hailing platforms such as Yango are switching to Chinese-made electric vehicles, citing lower maintenance costs, longer driving ranges and improved passenger comfort.\nDrivers estimate they can reduce daily operating costs by between 30 and 40% compared with conventional petrol-powered vehicles, making EVs an increasingly attractive option for commercial transport.\nFor electric vehicle driver Cisse Abass Loukmane, the benefits extend beyond fuel savings.\n\"In my opinion, Chinese electric vehicles are of excellent quality. They are fast, durable and comfortable. Their batteries have a long lifespan and the air conditioning is excellent.\"\n\"My vehicle, for example, can travel around 400 kilometers on a single charge, which lasts me a week. Electric vehicles require no special maintenance as there are no oil changes to perform.\"\nFILE: Electric bus is cleaned and maintained while charging in Nairobi, the capital of Kenya, August 17, 2023. /CFP\nDespite growing interest, the transition to electric mobility continues to face significant obstacles.\nDrivers say the shortage of public charging stations and specialised repair centres remains one of the biggest barriers to wider adoption.\nLoukmane says greater government support is needed to build confidence among motorists considering the switch.\n\"The only challenges are the lack of specialized repair shops and charging stations. This is why we are asking the Ivorian government to address the situation by increasing the number of charging points and repair shops.\"\nVehicle dealerships are responding to rising demand by expanding their electric vehicle offerings.\nCompanies such as Huanyu Auto and distributors including Sinoafrik are introducing a wider range of electric sedans and SUVs aimed at both private motorists and commercial operators.\nHuanyu Auto Sales Manager Kenny Li says Chinese manufacturers are increasingly well-positioned in Cote d'Ivoire's market.\n\"Our Chinese electric cars are well-regarded in the market, though they face competition from fuel-powered vehicles such as the Jetour and Changan models. Based on our deliveries and current market trends, demand continues to grow.\n\"The government has the capacity to provide the necessary infrastructure for these vehicles. They also have the potential to improve environmental sustainability and transform the electric vehicle landscape.\"\nCote d'Ivoire's government has made electric mobility a key part of its strategy to reduce greenhouse gas emissions and lower dependence on fossil fuels.\nAuthorities aim for electric vehicles to account for 10% of the public administration fleet by 2030 while expanding charging infrastructure across the country.\nAccording to Atche Jean Marc, Deputy Chief of Staff at the Ministry of Transport and Maritime Affairs, Cote d'Ivoire's electric vehicle fleet has grown rapidly over the past two years.\n\"We now have a fleet of more than two thousand electric vehicles. Just two years ago, Cote d'Ivoire's electric vehicle fleet stood at around four hundred units.\"\nThe government plans to significantly increase charging capacity through a nationwide rollout of solar-powered charging stations.\n\"Our aim is to install a minimum of 500 or 600 charging points, or even 1,000. Once our current project is implemented, it will enable the installation of 300 solar-powered charging points nationwide. Our target is to have 5,480 vehicles by 2035.\"\nIndustry analysts say the economic case for electric mobility is already becoming evident. Electricity costs for the 349-kilometer journey between Abidjan and Bouake are less than half the equivalent fuel costs for conventional vehicles. Meanwhile, local assembly of electric vehicles is beginning to reduce prices further, making the technology increasingly accessible to consumers.\nAs investment in charging infrastructure and local manufacturing gathers pace, Cote d'Ivoire is positioning itself as one of West Africa's emerging leaders in the transition to cleaner transport.",
-      "fullTextCn": "电动汽车在科特迪瓦正稳步获得发展势头，尤其是在网约车领域，司机们寻求降低燃油费用和运营成本。在阿比让，许多与Yango等网约车平台合作的司机正在转向中国制造的电动汽车，理由是维护成本更低、续航里程更长以及乘客舒适度提高。司机们估计，与传统的汽油动力汽车相比，他们可以将每日运营成本降低30%至40%，这使得电动汽车成为商业运输越来越有吸引力的选择。对于电动汽车司机Cisse Abass Loukmane来说，好处不仅限于节省燃油。“在我看来，中国电动汽车质量上乘。\n\n它们速度快、耐用且舒适。电池寿命长，空调效果也很好。”“例如，我的车一次充电可以行驶大约400公里，这够我用一周。电动汽车不需要特殊维护，因为无需更换机油。”文件：2023年8月17日，肯尼亚首都内罗毕，一辆电动公交车正在充电和保养。/CFP尽管兴趣日益增长，但向电动出行转型仍面临重大障碍。司机们表示，公共充电站和专业维修中心的短缺仍然是更广泛普及的最大障碍之一。\n\nLoukmane表示，需要政府加大支持力度，以建立考虑转型的驾驶者的信心。“唯一的挑战是缺乏专业维修店和充电站。这就是为什么我们要求科特迪瓦政府通过增加充电点和维修店的数量来解决这种情况。”汽车经销商正在通过扩大电动汽车产品供应来应对日益增长的需求。Huanyu Auto等公司和包括Sinoafrik在内的经销商正在推出更多种类的电动轿车和SUV，面向私家车主和商业运营商。Huanyu Auto销售经理Kenny Li表示，中国制造商在科特迪瓦市场中的地位日益稳固。\n\n“我们的中国电动汽车在市场上受到好评，尽管它们面临来自燃油动力汽车（如Jetour和长安车型）的竞争。根据我们的交付量和当前市场趋势，需求持续增长。”“政府有能力为这些车辆提供必要的基础设施。他们也有潜力改善环境可持续性并改变电动汽车格局。”科特迪瓦政府已将电动出行作为其减少温室气体排放和降低对化石燃料依赖战略的关键部分。当局的目标是到2030年电动汽车占公共行政车队总数的10%，同时在全国范围内扩大充电基础设施。\n\n据交通和海事事务部副参谋长Atche Jean Marc称，科特迪瓦的电动汽车车队在过去两年中迅速增长。“我们现在拥有超过两千辆电动汽车的车队。就在两年前，科特迪瓦的电动汽车车队大约只有四百辆。”政府计划通过在全国推广太阳能充电站来大幅提高充电能力。“我们的目标是安装至少500或600个充电点，甚至1000个。一旦我们目前的项目实施，将能够在全国安装300个太阳能充电点。\n\n我们的目标是到2035年拥有5480辆汽车。”行业分析师表示，电动出行的经济优势已经显现。从阿比让到布瓦凯349公里行程的电力成本不到传统汽车等效燃油成本的一半。与此同时，电动汽车的本地组装开始进一步降低价格，使这项技术越来越容易被消费者接受。随着对充电基础设施和本地制造的投资加速，科特迪瓦正将自己定位为西非向更清洁交通转型的新兴领导者之一。"
-    },
-    {
-      "id": 3,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-09/How-Xi-Jinping-s-latest-sci-tech-remarks-chart-China-s-innovation-path-1ODSgLV2q9a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "How Xi Jinping's latest sci-tech remarks chart China's innovation path",
-      "titleCn": "习近平最新科技讲话指明中国创新路径",
-      "summary": "What priorities did Xi Jinping's latest remarks on sci-tech highlight? In interviews with CGTN, two Chinese scholars said the speech points to two key areas: strengthening the talent pipeline to accelerate innovation and advancing high-level self-reliance and strength in science and technology.",
-      "summaryCn": "习近平强调加快实现高水平科技自立自强，通过培养青年人才和加强国际合作推动中国式现代化。",
-      "wordCount": 520,
-      "paragraphs": [
-        {
-          "en": "Chinese President Xi Jinping on Tuesday called for accelerated efforts to achieve high-level {{0}} and strength in science and technology and leverage sci-tech innovation to underpin and drive Chinese {{1}}. Speaking at a meeting that brought together the national science and technology award conference, the general {{2}} of the members of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE), and the 11th national congress of the China Association for Science and Technology, Xi outlined priorities for building China into a science and technology {{3}}. What priorities did Xi's latest remarks highlight? In interviews with CGTN, two Chinese scholars said the speech points to two key areas: strengthening the talent {{4}} to accelerate innovation and advancing high-level self-reliance and strength in science and technology. Building the talent pipeline for innovation\nIn his speech, Xi highlighted the importance of {{5}} young sci-tech talent, saying research should be {{6}} with education, and that greater support should be provided to researchers to help them overcome practical challenges.",
-          "cn": "中国国家主席习近平周二呼吁加快实现高水平科技自立自强，并利用科技创新支撑和引领中国式现代化。在全国科技大会、中国科学院第二十一次院士大会、中国工程院第十七次院士大会和中国科学技术协会第十一次全国代表大会上，习近平阐述了建设科技强国的优先事项。他的最新讲话强调了哪些重点？在接受CGTN采访时，两位中国学者表示，讲话指出了两个关键领域：加强人才队伍建设以加速创新，以及推进高水平科技自立自强。在讲话中，习近平强调了培养青年科技人才的重要性，指出研究应与教育相结合，并应为研究人员提供更多支持，帮助他们克服实际挑战。"
-        },
-        {
-          "en": "Efforts should be made to identify and nurture young people's interests, strengths, scientific {{7}} and {{8}} skills, inspiring more young talents to pursue careers in science and technology, he added. For Liu Shaoxuan, vice dean of the Antai College of Economics and Management at Shanghai Jiao Tong University, talent is the critical link connecting scientific research with industrial application. \"Talent is the fundamental support for overcoming {{9}} in the {{10}} of scientific achievements,\" Liu said. He noted that China needs professionals who not only understand science and technology but also possess expertise in industry, finance, law and management to facilitate the {{11}} of research. Liu cited Shanghai Jiao Tong University's Master of Technology Transfer (MTT) program, the first degree program of its kind in China, as an example of cultivating {{12}} professionals.",
-          "cn": "习近平补充说，应努力发现和培养年轻人的兴趣、优势、科学素养和实验技能，激励更多青年人才投身科技事业。对于上海交通大学安泰经济与管理学院副院长刘少轩来说，人才是连接科学研究与产业应用的关键纽带。刘少轩说：“人才是克服科技成果转化瓶颈的根本支撑。”他指出，中国需要既懂科技又具备产业、金融、法律和管理专业知识的人才，以促进研究的商业化。刘少轩以上海交通大学的技术转移硕士项目为例，这是中国首个此类学位项目，旨在培养跨学科专业人才。"
-        },
-        {
-          "en": "By integrating education with real-world industrial practice and involving experienced experts as {{13}}, the program aims to prepare professionals capable of supporting the entire process of transforming scientific research into industrial innovation. According to Liu, such efforts respond directly to Xi's call for deeper collaboration between education and scientific research and will help provide {{14}} talent support for China's innovation-driven development. High-level self-reliance\n\"We must seize the historic opportunity, rise to the challenges of the times, accelerate efforts to achieve high-level self-reliance and strength in science and technology, and make steady progress toward the 2035 goal of becoming a leading country in science and technology,\" Xi said in his speech. Cui Yong, professor with the Department of Computer Science and Technology at Tsinghua University, said Xi's remarks underscore that high-level self-reliance and strength in science and technology are {{15}} with greater international cooperation. \"Self-reliance does not mean closing the door to innovation,\" Cui pointed out.",
-          "cn": "通过将教育与实际产业实践相结合，并邀请经验丰富的专家担任导师，该项目旨在培养能够支持将科学研究转化为产业创新全过程的人才。刘少轩表示，这些努力直接回应了习近平关于深化教育与科研合作的号召，并将为中国创新驱动发展提供持续的人才支持。习近平在讲话中说：“我们必须抓住历史机遇，应对时代挑战，加快实现高水平科技自立自强，稳步迈向2035年建成科技强国的目标。”清华大学计算机科学与技术系教授崔勇表示，习近平的讲话强调高水平科技自立自强与更大程度的国际合作是兼容的。崔勇指出：“自立自强并不意味着关起门来搞创新。”"
-        },
-        {
-          "en": "He said China should continue strengthening research in key core technologies while actively participating in international cooperation in {{16}} fields such as artificial intelligence and biotechnology, as well as contributing to discussions on global technology {{17}}. Maintaining a balance between security and openness, he added, will enable China to enhance its scientific {{18}} while contributing more actively to global innovation through cooperation and {{19}} learning.",
-          "cn": "他说，中国应继续加强关键核心技术的研发，同时积极参与人工智能和生物技术等前沿领域的国际合作，并为全球技术治理的讨论做出贡献。他补充说，在安全与开放之间保持平衡，将使中国能够增强其科学能力，同时通过合作与相互学习为全球创新做出更积极的贡献。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "self-reliance",
-          "hint": "n. 自立",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "modernization",
-          "hint": "n. 现代化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "assemblies",
-          "hint": "n. 大会",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "powerhouse",
-          "hint": "n. 强国",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "pipeline",
-          "hint": "n. 渠道",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "cultivating",
-          "hint": "v. 培养",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "integrated",
-          "hint": "adj. 整合的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "literacy",
-          "hint": "n. 素养",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "experimental",
-          "hint": "adj. 实验的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "bottlenecks",
-          "hint": "n. 瓶颈",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "transformation",
-          "hint": "n. 转化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "commercialization",
-          "hint": "n. 商业化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "interdisciplinary",
-          "hint": "adj. 跨学科的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "mentors",
-          "hint": "n. 导师",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "sustained",
-          "hint": "adj. 持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "compatible",
-          "hint": "adj. 兼容的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "frontier",
-          "hint": "n. 前沿",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "governance",
-          "hint": "n. 治理",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "capabilities",
-          "hint": "n. 能力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "mutual",
-          "hint": "adj. 相互的",
-          "difficulty": "easy"
-        }
-      ],
-      "fullText": "Chinese President Xi Jinping on Tuesday called for accelerated efforts to achieve high-level self-reliance and strength in science and technology and leverage sci-tech innovation to underpin and drive Chinese modernization.\nSpeaking at a meeting that brought together the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE), and the 11th national congress of the China Association for Science and Technology, Xi outlined priorities for building China into a science and technology powerhouse.\nWhat priorities did Xi's latest remarks highlight? In interviews with CGTN, two Chinese scholars said the speech points to two key areas: strengthening the talent pipeline to accelerate innovation and advancing high-level self-reliance and strength in science and technology.\nBuilding the talent pipeline for innovation\nIn his speech, Xi highlighted the importance of cultivating young sci-tech talent, saying research should be integrated with education, and that greater support should be provided to researchers to help them overcome practical challenges.\nEfforts should be made to identify and nurture young people's interests, strengths, scientific literacy and experimental skills, inspiring more young talents to pursue careers in science and technology, he added.\nFor Liu Shaoxuan, vice dean of the Antai College of Economics and Management at Shanghai Jiao Tong University, talent is the critical link connecting scientific research with industrial application.\n\"Talent is the fundamental support for overcoming bottlenecks in the transformation of scientific achievements,\" Liu said.\nHe noted that China needs professionals who not only understand science and technology but also possess expertise in industry, finance, law and management to facilitate the commercialization of research.\nLiu cited Shanghai Jiao Tong University's Master of Technology Transfer (MTT) program, the first degree program of its kind in China, as an example of cultivating interdisciplinary professionals. By integrating education with real-world industrial practice and involving experienced experts as mentors, the program aims to prepare professionals capable of supporting the entire process of transforming scientific research into industrial innovation.\nAccording to Liu, such efforts respond directly to Xi's call for deeper collaboration between education and scientific research and will help provide sustained talent support for China's innovation-driven development.\nHigh-level self-reliance\n\"We must seize the historic opportunity, rise to the challenges of the times, accelerate efforts to achieve high-level self-reliance and strength in science and technology, and make steady progress toward the 2035 goal of becoming a leading country in science and technology,\" Xi said in his speech.\nCui Yong, professor with the Department of Computer Science and Technology at Tsinghua University, said Xi's remarks underscore that high-level self-reliance and strength in science and technology are compatible with greater international cooperation.\n\"Self-reliance does not mean closing the door to innovation,\" Cui pointed out.\nHe said China should continue strengthening research in key core technologies while actively participating in international cooperation in frontier fields such as artificial intelligence and biotechnology, as well as contributing to discussions on global technology governance.\nMaintaining a balance between security and openness, he added, will enable China to enhance its scientific capabilities while contributing more actively to global innovation through cooperation and mutual learning.",
-      "fullTextCn": "中国国家主席习近平周二呼吁加快实现高水平科技自立自强，并利用科技创新支撑和引领中国式现代化。在全国科技大会、中国科学院第二十一次院士大会、中国工程院第十七次院士大会和中国科学技术协会第十一次全国代表大会上，习近平阐述了建设科技强国的优先事项。他的最新讲话强调了哪些重点？在接受CGTN采访时，两位中国学者表示，讲话指出了两个关键领域：加强人才队伍建设以加速创新，以及推进高水平科技自立自强。在讲话中，习近平强调了培养青年科技人才的重要性，指出研究应与教育相结合，并应为研究人员提供更多支持，帮助他们克服实际挑战。\n\n习近平补充说，应努力发现和培养年轻人的兴趣、优势、科学素养和实验技能，激励更多青年人才投身科技事业。对于上海交通大学安泰经济与管理学院副院长刘少轩来说，人才是连接科学研究与产业应用的关键纽带。刘少轩说：“人才是克服科技成果转化瓶颈的根本支撑。”他指出，中国需要既懂科技又具备产业、金融、法律和管理专业知识的人才，以促进研究的商业化。刘少轩以上海交通大学的技术转移硕士项目为例，这是中国首个此类学位项目，旨在培养跨学科专业人才。\n\n通过将教育与实际产业实践相结合，并邀请经验丰富的专家担任导师，该项目旨在培养能够支持将科学研究转化为产业创新全过程的人才。刘少轩表示，这些努力直接回应了习近平关于深化教育与科研合作的号召，并将为中国创新驱动发展提供持续的人才支持。习近平在讲话中说：“我们必须抓住历史机遇，应对时代挑战，加快实现高水平科技自立自强，稳步迈向2035年建成科技强国的目标。”清华大学计算机科学与技术系教授崔勇表示，习近平的讲话强调高水平科技自立自强与更大程度的国际合作是兼容的。崔勇指出：“自立自强并不意味着关起门来搞创新。”\n\n他说，中国应继续加强关键核心技术的研发，同时积极参与人工智能和生物技术等前沿领域的国际合作，并为全球技术治理的讨论做出贡献。他补充说，在安全与开放之间保持平衡，将使中国能够增强其科学能力，同时通过合作与相互学习为全球创新做出更积极的贡献。"
-    },
-    {
-      "id": 4,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-06-30/Qingzhou-cargo-spacecraft-test-vehicle-releases-new-space-achievements-1Ooi3r7ovrG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Qingzhou cargo spacecraft test vehicle releases new space achievements",
-      "titleCn": "轻舟货运飞船试验船发布新一批空间科技成果",
-      "summary": "China's Qingzhou cargo spacecraft test vehicle on Monday released the second batch of results from its in-orbit experiments, demonstrating significant advancements in space precision detection, cost-effective space operations, future space medicine and space biology.",
-      "summaryCn": "中国轻舟货运飞船试验船发布了第二批在轨实验成果，展示了空间精密探测、低成本空间操作、未来空间医学和空间生物学等领域的显著进展。",
-      "wordCount": 459,
-      "paragraphs": [
-        {
-          "en": "China's Qingzhou {{0}} spacecraft {{1}} {{2}} on Monday {{3}} the second {{4}} of {{5}} from its {{6}} {{7}}, {{8}} {{9}} {{10}} in space {{11}} {{12}}, {{13}} space {{14}}, future space {{15}} and space {{16}}. The Innovation Academy for Microsatellites of the Chinese Academy of Sciences (IAMCAS), which {{17}} the {{18}} of the test vehicle, said the latest achievements will provide {{19}} {{20}} {{21}} for the {{22}} of new space {{23}}, the {{24}} operation of China's space station and the {{25}} of space {{26}}. To reduce the {{28}} of space operations, an {{29}} steam-compression space refrigerator successfully overcame the challenges of gas-liquid separation and stable operation in microgravity, offering a cost-effective solution for cold chain transport. Additionally, a space rescue and maintenance diagnostic camera has completed its in-orbit performance verification and is operating smoothly. Multiple space medicine and biology experiments completed\nThe electromyography testing device. /CMG\nIn support of future space medical care, an electromyography testing device equipped with a self-developed neural chip successfully verified the continuous acquisition and real-time transmission of weak muscle signals in orbit.",
-          "cn": "中国轻舟货运飞船试验船于周一发布了第二批在轨实验成果，展示了空间精密探测、低成本空间操作、未来空间医学和空间生物学等领域的显著进展。领导该试验船开发的中国科学院微小卫星创新研究院表示，这些最新成果将为新空间技术的应用、中国空间站的安全运行以及空间资源的利用提供关键技术支撑。为降低空间操作成本，一台改进型蒸汽压缩空间制冷机成功克服了微重力环境下气液分离和稳定运行的挑战，为冷链运输提供了一种经济高效的解决方案。此外，一台空间救援与维护诊断相机已完成在轨性能验证并运行平稳。多项空间医学与生物学实验已完成。肌电测试设备。为支持未来空间医疗，一台配备自主研发神经芯片的肌电测试设备成功验证了在轨连续采集和实时传输微弱肌肉信号的能力。"
-        },
-        {
-          "en": "A handheld blood cell analyzer was also tested, providing key technical support for real-time health assessments for astronauts without relying on large-scale medical equipment or ground guidance. Comparison images show the in-orbit growth (top) and revival of Syntrichia caninervis. /CMG\nIn the field of space biology, an industrial-grade, low-cost biological support cabin successfully completed its maiden in-orbit test, establishing a standardized and reusable platform for space life science experiments. The test vehicle also verified the survival of Syntrichia caninervis, an extremophile moss known for its exceptional tolerance to environmental stress, under harsh conditions including microgravity, radiation and drought, providing theoretical support for future extraterrestrial ecological improvement. Flight model scheduled for 2027 launch\nA 1:1 scale model of China's Qingzhou cargo spacecraft. Launched on March 30 with a design lifespan of three years, the 4.2-tonne test vehicle features a integrated single-cabin design.",
-          "cn": "一台手持式血细胞分析仪也进行了测试，为宇航员在不依赖大型医疗设备或地面指导的情况下进行实时健康评估提供了关键技术支撑。对比图像显示了齿肋藓的在轨生长和复苏情况。在空间生物学领域，一个工业级、低成本的生物支持舱成功完成了首次在轨测试，为空间生命科学实验建立了一个标准化、可重复使用的平台。该试验船还验证了齿肋藓（一种以其对环境胁迫的卓越耐受性而闻名的极端环境苔藓）在微重力、辐射和干旱等恶劣条件下的生存能力，为未来地外生态改善提供了理论支持。飞行模型计划于2027年发射。中国轻舟货运飞船的1:1比例模型。该重4.2吨的试验船于3月30日发射，设计寿命为三年，采用集成式单舱设计。"
-        },
-        {
-          "en": "Its main sealed cabin offers a total volume of about 27 cubic meters and accommodates 40 cargo slots for astronauts' supplies and scientific payloads. The vehicle released the first batch of in-orbit test results on April 15. Following a series of critical technology tests, the first formal Qingzhou cargo spacecraft is scheduled for launch in 2027 to provide uplink cargo transport services for China's space station. The test flight is designed to pave the way for in-orbit verification of the flight model while validating key technologies, including the pressurized module and propulsion systems, said Chang Liang, chief designer of the Qingzhou cargo spacecraft at the IAMCAS. Chang said the formal Qingzhou spacecraft is expected to launch in early 2027 and dock with the space station. It will complement the country's Tianzhou cargo spacecraft by undertaking missions such as relatively low-cost cargo transport.",
-          "cn": "其主密封舱总容积约27立方米，设有40个货物槽，用于存放宇航员补给品和科学有效载荷。该飞船于4月15日发布了首批在轨测试结果。在一系列关键技术测试之后，首艘正式轻舟货运飞船计划于2027年发射，为中国空间站提供上行货物运输服务。轻舟货运飞船总设计师、中科院微小卫星创新研究院的张亮表示，此次试飞旨在为飞行模型的在轨验证铺平道路，同时验证加压舱和推进系统等关键技术。张亮表示，正式版轻舟飞船预计于2027年初发射并与空间站对接。它将与中国天舟货运飞船互补，承担相对低成本的货物运输等任务。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "cargo",
-          "hint": "n. 货物",
-          "difficulty": "easy"
-        },
-        {
-          "id": 1,
-          "answer": "test",
-          "hint": "n. 测试",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "vehicle",
-          "hint": "n. 运载工具",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "released",
-          "hint": "v. 发布",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "batch",
-          "hint": "n. 批次",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "results",
-          "hint": "n. 结果",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "in-orbit",
-          "hint": "adj. 在轨的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "experiments",
-          "hint": "n. 实验",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "demonstrating",
-          "hint": "v. 展示",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "significant",
-          "hint": "adj. 显著的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "advancements",
-          "hint": "n. 进展",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "precision",
-          "hint": "n. 精密",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "detection",
-          "hint": "n. 探测",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "cost-effective",
-          "hint": "adj. 经济高效的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "operations",
-          "hint": "n. 操作",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "medicine",
-          "hint": "n. 医学",
-          "difficulty": "easy"
-        },
-        {
-          "id": 16,
-          "answer": "biology",
-          "hint": "n. 生物学",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "spearheaded",
-          "hint": "v. 领导",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "development",
-          "hint": "n. 开发",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "crucial",
-          "hint": "adj. 关键的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "technical",
-          "hint": "adj. 技术的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "support",
-          "hint": "n. 支撑",
-          "difficulty": "easy"
-        },
-        {
-          "id": 22,
-          "answer": "application",
-          "hint": "n. 应用",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "technologies",
-          "hint": "n. 技术",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "safe",
-          "hint": "adj. 安全的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 25,
-          "answer": "utilization",
-          "hint": "n. 利用",
-          "difficulty": "hard"
-        },
-        {
-          "id": 26,
-          "answer": "resources",
-          "hint": "n. 资源",
-          "difficulty": "medium"
-        },
-        {
-          "id": 27,
-          "answer": "costs",
-          "hint": "n. 成本",
-          "difficulty": "easy"
-        },
-        {
-          "id": 28,
-          "answer": "improved",
-          "hint": "adj. 改进的",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "China's Qingzhou cargo spacecraft test vehicle on Monday released the second batch of results from its in-orbit experiments, demonstrating significant advancements in space precision detection, cost-effective space operations, future space medicine and space biology.\nThe Innovation Academy for Microsatellites of the Chinese Academy of Sciences (IAMCAS), which spearheaded the development of the test vehicle, said the latest achievements will provide crucial technical support for the application of new space technologies, the safe operation of China's space station and the utilization of space resources.\nTo reduce the costs of space operations, an improved steam-compression space refrigerator successfully overcame the challenges of gas-liquid separation and stable operation in microgravity, offering a cost-effective solution for cold chain transport. Additionally, a space rescue and maintenance diagnostic camera has completed its in-orbit performance verification and is operating smoothly.\nMultiple space medicine and biology experiments completed\nThe electromyography testing device. /CMG\nIn support of future space medical care, an electromyography testing device equipped with a self-developed neural chip successfully verified the continuous acquisition and real-time transmission of weak muscle signals in orbit. A handheld blood cell analyzer was also tested, providing key technical support for real-time health assessments for astronauts without relying on large-scale medical equipment or ground guidance.\nComparison images show the in-orbit growth (top) and revival of Syntrichia caninervis. /CMG\nIn the field of space biology, an industrial-grade, low-cost biological support cabin successfully completed its maiden in-orbit test, establishing a standardized and reusable platform for space life science experiments. The test vehicle also verified the survival of Syntrichia caninervis, an extremophile moss known for its exceptional tolerance to environmental stress, under harsh conditions including microgravity, radiation and drought, providing theoretical support for future extraterrestrial ecological improvement.\nFlight model scheduled for 2027 launch\nA 1:1 scale model of China's Qingzhou cargo spacecraft. \nLaunched on March 30 with a design lifespan of three years, the 4.2-tonne test vehicle features a integrated single-cabin design. Its main sealed cabin offers a total volume of about 27 cubic meters and accommodates 40 cargo slots for astronauts' supplies and scientific payloads. The vehicle released the first batch of in-orbit test results on April 15.\nFollowing a series of critical technology tests, the first formal Qingzhou cargo spacecraft is scheduled for launch in 2027 to provide uplink cargo transport services for China's space station.\nThe test flight is designed to pave the way for in-orbit verification of the flight model while validating key technologies, including the pressurized module and propulsion systems, said Chang Liang, chief designer of the Qingzhou cargo spacecraft at the IAMCAS.\nChang said the formal Qingzhou spacecraft is expected to launch in early 2027 and dock with the space station. It will complement the country's Tianzhou cargo spacecraft by undertaking missions such as relatively low-cost cargo transport.",
-      "fullTextCn": "中国轻舟货运飞船试验船于周一发布了第二批在轨实验成果，展示了空间精密探测、低成本空间操作、未来空间医学和空间生物学等领域的显著进展。领导该试验船开发的中国科学院微小卫星创新研究院表示，这些最新成果将为新空间技术的应用、中国空间站的安全运行以及空间资源的利用提供关键技术支撑。为降低空间操作成本，一台改进型蒸汽压缩空间制冷机成功克服了微重力环境下气液分离和稳定运行的挑战，为冷链运输提供了一种经济高效的解决方案。此外，一台空间救援与维护诊断相机已完成在轨性能验证并运行平稳。多项空间医学与生物学实验已完成。肌电测试设备。为支持未来空间医疗，一台配备自主研发神经芯片的肌电测试设备成功验证了在轨连续采集和实时传输微弱肌肉信号的能力。\n\n一台手持式血细胞分析仪也进行了测试，为宇航员在不依赖大型医疗设备或地面指导的情况下进行实时健康评估提供了关键技术支撑。对比图像显示了齿肋藓的在轨生长和复苏情况。在空间生物学领域，一个工业级、低成本的生物支持舱成功完成了首次在轨测试，为空间生命科学实验建立了一个标准化、可重复使用的平台。该试验船还验证了齿肋藓（一种以其对环境胁迫的卓越耐受性而闻名的极端环境苔藓）在微重力、辐射和干旱等恶劣条件下的生存能力，为未来地外生态改善提供了理论支持。飞行模型计划于2027年发射。中国轻舟货运飞船的1:1比例模型。该重4.2吨的试验船于3月30日发射，设计寿命为三年，采用集成式单舱设计。\n\n其主密封舱总容积约27立方米，设有40个货物槽，用于存放宇航员补给品和科学有效载荷。该飞船于4月15日发布了首批在轨测试结果。在一系列关键技术测试之后，首艘正式轻舟货运飞船计划于2027年发射，为中国空间站提供上行货物运输服务。轻舟货运飞船总设计师、中科院微小卫星创新研究院的张亮表示，此次试飞旨在为飞行模型的在轨验证铺平道路，同时验证加压舱和推进系统等关键技术。张亮表示，正式版轻舟飞船预计于2027年初发射并与空间站对接。它将与中国天舟货运飞船互补，承担相对低成本的货物运输等任务。"
+      "fullText": "Chinese President Xi Jinping and Namibian President Netumbo Nandi-Ndaitwah announced the elevation of bilateral relations to a China-Namibia community with a shared future for the new era during their talks held Friday in Beijing.\nXi said China and Namibia enjoy profound traditional friendship and share common aspirations for development, adding that since the establishment of diplomatic ties, the two countries have always treated each other as equals and supported each other.\nNoting that bilateral friendly cooperation has continued to deepen, delivering tangible benefits to the two peoples, Xi said China stands ready to work with Namibia to enhance exchanges of development philosophies and synergize development strategies, and partner with each other on their paths to modernization.\nXi put forward three proposals for building a China-Namibia community with a shared future for the new era.\nChina and Namibia should maintain close high-level exchanges, deepen experience sharing on governance, stay in regular communication on issues of overall and strategic importance in bilateral relations, and continue to support each other on issues concerning their respective core interests and major concerns, Xi said.\nXi also urged the two sides to tap the potential of cooperation and take it to higher levels, encouraging Namibia to make full use of the zero-tariff access, the upgraded fast track for Namibian exports to reach China, and other favorable policies.\nChina is ready to deepen cooperation with Namibia in such areas as infrastructure, energy, mining, agriculture, education, youth, science and technology, he noted.\nXi added that the two countries should uphold solidarity and coordination to safeguard multilateralism. China is willing to work with African countries, including Namibia, to enhance the strength and voice of the Global South, and make new contributions to building a community with a shared future for humanity, Xi said.\nNoting that helping Africa develop its abundant mineral resources and effectively translate its resource advantage into development momentum is an important way to accelerate Africa's modernization, Xi said China stands ready to continue strengthening mining cooperation with African countries, including Namibia, based on three principles.\nThe first is pursuing mutual benefit and win-win cooperation, Xi said, adding that the two sides should fully leverage their complementary strengths and deepen the convergence of interests.\nXi said the second is conducting friendly consultation, calling for proceeding from the big picture of China-Africa friendship, and properly resolving issues in cooperation through communication and consultation.\nHe noted the third is breaking new ground, adding that China stands ready to work with Africa to explore new approaches to cooperation in accordance with market-oriented and commercial principles, with a view to upgrading the quality of China-Africa cooperation in the mining sector.\nFor her part, Nandi-Ndaitwah extended warm congratulations on the 105th anniversary of the founding of the Communist Party of China. Namibia attaches great importance to its relations with China and firmly adheres to the one-China principle, she added.\nNamibia welcomes more Chinese enterprises to invest and operate in the country, and hopes to strengthen cooperation in areas such as industry, mining, infrastructure, aviation and space, science and technology, agriculture and water resources, said Nandi-Ndaitwah.\nChina has long provided selfless support and assistance to African countries, including Namibia, and has always upheld a just position in international and regional affairs, said the president. She added that Namibia will enhance communication and coordination with China to safeguard the common interests of developing countries and jointly build a community with a shared future for humanity.\nFollowing the talks, the two presidents witnessed the signing of multiple cooperation documents in areas such as economy and trade, healthcare, education and human resources.\nThe two sides also issued a joint statement on building a China-Namibia community with a shared future for the new era.\nPrior to the talks, Xi and his wife Peng Liyuan held a welcome ceremony for Nandi-Ndaitwah and her spouse Epaphras Denga Ndaitwah. Xi and Peng also held a welcome banquet for them in the evening.",
+      "fullTextCn": "中国国家主席习近平与纳米比亚总统内通博·南迪-恩代特瓦周五在北京举行会谈，宣布将双边关系提升为新时代中纳命运共同体。习近平表示，中纳两国拥有深厚的传统友谊和共同的发展愿望，自建交以来始终平等相待、相互支持。他指出，双边友好合作不断深化，为两国人民带来了实实在在的利益，中方愿与纳方加强发展理念交流和发展战略对接，携手迈向现代化。习近平就构建新时代中纳命运共同体提出三项建议：中纳应保持高层密切交往，深化治国理政经验交流，就双边关系中具有全局性和战略性的问题保持经常性沟通，并在涉及各自核心利益和重大关切的问题上继续相互支持。\n\n习近平还敦促双方挖掘合作潜力，提升合作水平，鼓励纳米比亚充分利用零关税准入、升级版纳米比亚对华出口快速通道等优惠政策。他指出，中方愿在基础设施、能源、矿业、农业、教育、青年、科技等领域深化与纳米比亚的合作。习近平强调，两国应坚持团结协作，维护多边主义。中方愿与包括纳米比亚在内的非洲国家一道，增强“全球南方”的力量和声音，为构建人类命运共同体作出新贡献。习近平指出，帮助非洲开发丰富的矿产资源，有效将资源优势转化为发展动力，是加速非洲现代化的重要途径，中方愿继续在三个原则基础上加强与包括纳米比亚在内的非洲国家的矿业合作。\n\n习近平表示，第一是坚持互利共赢合作，双方应充分发挥互补优势，深化利益融合。第二是开展友好协商，呼吁从中非友谊大局出发，通过沟通协商妥善解决合作中的问题。第三是开拓创新，中方愿与非洲一道，按照市场化和商业化原则探索新的合作方式，以提升中非矿业合作的质量。南迪-恩代特瓦热烈祝贺中国共产党成立105周年。她表示，纳米比亚高度重视对华关系，坚定恪守一个中国原则。\n\n南迪-恩代特瓦表示，纳米比亚欢迎更多中国企业来纳投资兴业，希望加强在工业、矿业、基础设施、航空航天、科技、农业和水资源等领域的合作。她指出，中国长期以来向包括纳米比亚在内的非洲国家提供了无私支持和援助，并在国际和地区事务中始终秉持公正立场。她表示，纳米比亚将加强与中国的沟通协调，维护发展中国家的共同利益，共同构建人类命运共同体。会谈后，两国元首见证了经贸、医疗、教育和人力资源等领域多项合作文件的签署。双方还发表了关于构建新时代中纳命运共同体的联合声明。\n\n会谈前，习近平和夫人彭丽媛为南迪-恩代特瓦和丈夫埃帕弗拉斯·登加·恩代特瓦举行了欢迎仪式。当晚，习近平和彭丽媛还为他们举行了欢迎宴会。"
     },
     {
       "id": 5,
       "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-07/Shanghai-to-host-record-breaking-World-AI-Conference-July-17-to-20-1OAHU3xSEog/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Shanghai to host record-breaking World AI Conference in July",
-      "titleCn": "上海将于七月举办创纪录的世界人工智能大会",
-      "summary": "Shanghai to host record-breaking World AI Conference in July",
-      "summaryCn": "2026年世界人工智能大会将在上海创纪录地扩大规模，展示前沿技术并推动行业增长。",
-      "wordCount": 424,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-03/Amazon-to-launch-initial-Leo-satellite-internet-service-this-year-1OtaNfcFb9e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Amazon to launch initial Leo satellite internet service this year",
+      "titleCn": "亚马逊将于今年推出首批Leo卫星互联网服务",
+      "summary": "Amazon expects to roll out initial internet service with its Leo broadband satellite ​network later this year after the company's latest launch put the orbiting constellation's satellite count over 390, a ‌company executive said on Thursday.",
+      "summaryCn": "亚马逊计划今年晚些时候通过其Leo宽带卫星网络启动初始互联网服务，目前卫星数量已超过390颗，并逐步扩大覆盖范围。",
+      "wordCount": 524,
       "paragraphs": [
         {
-          "en": "The 2026 World AI Conference (WAIC) will be held in Shanghai from July 17 to 20, organizers said at a press conference on Tuesday, with {{1}} space, new product launches and forum sessions all hitting record highs. The conference will span three locations in the metropolis across four exhibition halls, with total floor space exceeding 100,000 square meters for the first time. More than 1,000 exhibitors will showcase over 3,000 {{2}} technologies, and more than 300 AI products are set to make their global {{3}}. The event will host over 140 forums featuring 1,400-plus experts from China and abroad. For the first time, the conference will feature a dedicated {{4}} track.",
-          "cn": "2026年世界人工智能大会（WAIC）将于7月17日至20日在上海举行，组织者在周二的一场新闻发布会上表示，展览面积、新产品发布和论坛场次均创下历史新高。大会将横跨这座大都市的三个地点，共四个展馆，总展览面积首次超过10万平方米。超过1000家参展商将展示3000多项前沿技术，300多款人工智能产品将全球首发。活动将举办140多场论坛，邀请1400多位国内外专家。大会将首次设立专门的学术轨道。"
+          "en": "Amazon Leo Satellite Connectivity signage is displayed during the annual Consumer Electronics Show (CES) in Las Vegas, Nevada on January 6, 2026. Amazon expects to roll out initial internet service with its Leo broadband satellite network later this year after the company's latest launch put the orbiting {{9}}'s satellite count over 390, a company {{1}} said on Thursday. Amazon's latest {{2}} of 29 satellites lifted off from Florida early on Thursday aboard an Atlas V rocket from United Launch Alliance, marking the company's 14th launch of dozens more planned to {{3}} more than 3,200 satellites that will provide global internet {{4}} from space. \"Still lots of work ahead – including raising all these new satellites to their {{5}} {{6}},\" Amazon's Leo chief Chris Weber said in a post on X. \"But we've completed enough launches for initial service this yr, and future missions just add coverage and capacity.\"\nWeber did not say in which {{7}} Amazon plans to begin service, but initial service is expected to begin near Earth's north and south poles and gradually spread inward toward the {{8}} as more satellites are added.",
+          "cn": "2026年1月6日，内华达州拉斯维加斯举行的年度消费电子展（CES）上，展示了亚马逊Leo卫星连接标识。亚马逊一位高管周四表示，在公司最新发射后，其Leo宽带卫星网络的在轨星座卫星数量已超过390颗，预计今年晚些时候将推出初始互联网服务。亚马逊最新一批29颗卫星于周四凌晨从佛罗里达州搭乘联合发射联盟的Atlas V火箭升空，这是该公司计划部署超过3200颗卫星以提供全球太空互联网覆盖的14次发射之一。“前方仍有大量工作——包括将所有新卫星提升至指定轨道高度，”亚马逊Leo项目负责人克里斯·韦伯在X平台上发帖称。“但我们已完成足够多的发射，可在今年提供初始服务，未来的任务将增加覆盖范围和容量。”韦伯未说明亚马逊计划在哪个区域启动服务，但初始服务预计将在地球南北极附近开始，并随着更多卫星的加入逐渐向赤道方向扩展。"
         },
         {
-          "en": "WAIC Academic, a high-level international AI academic conference led by Turing Award winners and international academicians, will serve as a {{5}} for scholarly exchange. The entrance to a WAIC venue, Shanghai, China, July 29, 2025. The conference focuses on two core tracks – {{6}} computing and {{7}} intelligence – each gathering more than 200 {{8}}. Dozens of industry leaders, key players in supply chains, state-owned enterprises and leading international firms will present AI applications across {{9}}. Industry growth exceeds 30%\nOrganizers noted on Tuesday that the National Development and Reform Commission (NDRC) has said China's AI-related industry {{10}} one trillion yuan (about $147 billion) last year and is {{11}} to grow over 30% in 2026.",
-          "cn": "WAIC学术会议是一个由图灵奖得主和国际院士领导的高级别国际人工智能学术会议，将作为学术交流的平台。2025年7月29日，中国上海，WAIC会场入口。会议聚焦两大核心轨道——智能计算和具身智能，每个轨道聚集了200多家企业。数十家行业领导者、供应链关键企业、国有企业和领先的国际公司将在各个垂直领域展示人工智能应用。行业增长超过30%。组织者周二指出，国家发展和改革委员会（NDRC）表示，中国人工智能相关产业去年已超过1万亿元人民币（约1470亿美元），预计2026年将增长超过30%。"
+          "en": "The constellation has 394 satellites in orbit so far of 398 launched since April 2025, according to spaceflight analyst and Harvard astronomer Jonathan McDowell. The growing Leo constellation is a budding {{10}} to SpaceX's established Starlink, which has a growing tally of roughly 10,000 satellites. Like Starlink, Amazon plans to offer internet service to consumers with Leo {{11}} - sized from roughly the size of a laptop to larger and more powerful versions - as well as governments and companies such as airlines. Amazon has been targeting a service start of mid-2026, relying on tens of billions of dollars worth of rocket {{12}} to loft its satellites into space. ULA's Atlas V has become a workhorse for the network as the other rockets Amazon plans to use, Blue Origin's New Glenn and ULA's Vulcan, are grounded.",
+          "cn": "据太空飞行分析师兼哈佛天文学家乔纳森·麦克道尔称，自2025年4月以来发射的398颗卫星中，目前已有394颗在轨。不断壮大的Leo星座正成为SpaceX已建立的Starlink的新兴竞争对手，后者拥有约1万颗卫星且数量持续增长。与Starlink类似，亚马逊计划通过Leo终端——尺寸从大约笔记本电脑大小到更大更强大的版本——向消费者、政府以及航空公司等企业提供互联网服务。亚马逊一直将服务启动目标定在2026年年中，依靠价值数百亿美元的火箭预订将卫星送入太空。ULA的Atlas V已成为该网络的主力火箭，而亚马逊计划使用的其他火箭——蓝色起源的New Glenn和ULA的Vulcan——目前均处于停飞状态。"
         },
         {
-          "en": "The NDRC has set up more than 30 national AI pilot bases and encouraged state-owned enterprises to open over 1,000 application scenarios. General AI {{12}} in key industries has surpassed 80%. NDRC official Wang Ruomeng said the agency will release two {{13}} at the conference: a success case {{14}} covering over 20 countries in agriculture, industry, energy and research, and an action plan for AI cooperation and development covering eight areas including intelligent computing, open ecosystem, AI empowerment and security {{15}}. A logo of WAIC is displayed outside a venue, Shanghai, China, July 29, 2025. China {{16}} over 100 million AI-powered smart devices in 2025, and sales of AI devices are expected to surpass non-AI models for the first time this year, according to the NDRC.",
-          "cn": "国家发改委已设立30多个国家人工智能试点基地，并鼓励国有企业开放1000多个应用场景。关键行业的人工智能普及率已超过80%。国家发改委官员王若蒙表示，该机构将在大会上发布两项成果：一份涵盖20多个国家在农业、工业、能源和研究领域的成功案例集，以及一份涵盖智能计算、开放生态系统、人工智能赋能和安全治理等八个领域的人工智能合作与发展行动计划。2025年7月29日，中国上海，WAIC标志在会场外展示。据国家发改委称，中国在2025年出货了超过1亿台人工智能驱动的智能设备，人工智能设备的销售额预计将在今年首次超过非人工智能型号。"
+          "en": "A New Glenn rocket {{13}} on its launchpad last month, destroying the launch tower and other hardware. The company's CEO Dave Limp expects to resume New Glenn launches by the end of the year as engineers zero in on the rocket's engine section to figure out what caused the explosion. ULA's new Vulcan rocket, which is booked to launch at least 40 Leo missions for Amazon, is also grounded over a solid rocket motor separation issue it encountered in February. Vulcan uses the same Blue Origin-built BE-4 engines as New Glenn and may see its return-to-flight further delayed if Blue Origin finds the BE-4 engines at fault for the New Glenn explosion. ULA spokeswoman Jessica Rye said Blue Origin engineers \"are being transparent with us as they work through the {{14}}.",
+          "cn": "上个月，一枚New Glenn火箭在发射台上爆炸，摧毁了发射塔和其他硬件。该公司首席执行官戴夫·林普预计，随着工程师们集中排查火箭发动机部分以查明爆炸原因，New Glenn发射将在年底前恢复。ULA的新型Vulcan火箭——已预订为亚马逊执行至少40次Leo任务——也因2月份遇到的固体火箭发动机分离问题而停飞。Vulcan使用与New Glenn相同的蓝色起源制造的BE-4发动机，如果蓝色起源发现BE-4发动机是New Glenn爆炸的原因，其复飞可能进一步延迟。ULA发言人杰西卡·赖表示，蓝色起源工程师“在调查过程中对我们保持透明。如果存在与BE-4发动机相关的交叉问题，我们将与团队合作找出根本原因并加以解决。”"
         },
         {
-          "en": "Native AI office agents in China now log over 20 million monthly visits, with daily token {{17}} reaching hundreds of {{18}} – a sharp increase from last year. Wang said during the 15th Five-Year Plan period (2026-2030), China will {{19}} independent {{20}} in models, computing power and data, find high-value scenarios and build {{21}} applications, while also studying AI's impact on {{22}} and promoting its use in dangerous, dirty and labor-intensive tasks.",
-          "cn": "中国本土的人工智能办公代理现在每月访问量超过2000万次，每日令牌消耗达到数百万亿次——比去年大幅增加。王若蒙表示，在“十五五”规划期间（2026-2030年），中国将加速在模型、计算能力和数据方面的自主创新，寻找高价值场景并构建标杆应用，同时研究人工智能对就业的影响，并推动其在危险、肮脏和劳动密集型任务中的使用。"
+          "en": "If there are crossover items with the BE-4 engines, we will collaborate with the team to find root cause and address it.\"\nAmazon has roughly 100 rocket launches booked worth at least $82 billion in total to build out the constellation. Its other launch providers include French rocket maker Arianespace's Ariane 6 and SpaceX's Falcon 9, the partially reusable rocket that has been vital to SpaceX's {{15}} of its own Starlink satellites.",
+          "cn": "亚马逊已预订约100次火箭发射，总价值至少820亿美元，用于建设该星座。其其他发射供应商包括法国火箭制造商阿丽亚娜空间公司的Ariane 6和SpaceX的Falcon 9——这种部分可重复使用的火箭对SpaceX部署自己的Starlink卫星至关重要。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "exhibition",
-          "hint": "n. 展览",
-          "difficulty": "easy"
-        },
-        {
-          "id": 1,
-          "answer": "frontier",
-          "hint": "n. 前沿",
+          "answer": "executive",
+          "hint": "n. 高管",
           "difficulty": "medium"
         },
         {
+          "id": 1,
+          "answer": "batch",
+          "hint": "n. 一批",
+          "difficulty": "easy"
+        },
+        {
           "id": 2,
-          "answer": "debut",
-          "hint": "n. 首次亮相",
+          "answer": "deploy",
+          "hint": "v. 部署",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "academic",
-          "hint": "adj. 学术的",
-          "difficulty": "easy"
+          "answer": "coverage",
+          "hint": "n. 覆盖范围",
+          "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "platform",
-          "hint": "n. 平台",
-          "difficulty": "easy"
+          "answer": "assigned",
+          "hint": "adj. 指定的",
+          "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "intelligent",
-          "hint": "adj. 智能的",
-          "difficulty": "easy"
+          "answer": "altitude",
+          "hint": "n. 高度",
+          "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "embodied",
-          "hint": "adj. 具身的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "enterprises",
-          "hint": "n. 企业",
+          "answer": "region",
+          "hint": "n. 区域",
           "difficulty": "easy"
         },
         {
-          "id": 8,
-          "answer": "verticals",
-          "hint": "n. 垂直领域",
+          "id": 7,
+          "answer": "equator",
+          "hint": "n. 赤道",
           "difficulty": "hard"
         },
         {
+          "id": 8,
+          "answer": "constellation",
+          "hint": "n. 星座",
+          "difficulty": "medium"
+        },
+        {
           "id": 9,
-          "answer": "exceeded",
-          "hint": "v. 超过",
+          "answer": "rival",
+          "hint": "n. 竞争对手",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "projected",
-          "hint": "v. 预计",
+          "answer": "terminals",
+          "hint": "n. 终端",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "penetration",
-          "hint": "n. 普及率",
-          "difficulty": "hard"
+          "answer": "bookings",
+          "hint": "n. 预订",
+          "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "outcomes",
-          "hint": "n. 成果",
-          "difficulty": "medium"
+          "answer": "exploded",
+          "hint": "v. 爆炸",
+          "difficulty": "easy"
         },
         {
           "id": 13,
-          "answer": "collection",
-          "hint": "n. 收集",
-          "difficulty": "easy"
+          "answer": "investigation",
+          "hint": "n. 调查",
+          "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "governance",
-          "hint": "n. 治理",
+          "answer": "deployment",
+          "hint": "n. 部署",
           "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "shipped",
-          "hint": "v. 出货",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "consumption",
-          "hint": "n. 消耗",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "trillions",
-          "hint": "n. 万亿",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "accelerate",
-          "hint": "v. 加速",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "innovation",
-          "hint": "n. 创新",
-          "difficulty": "easy"
-        },
-        {
-          "id": 20,
-          "answer": "benchmark",
-          "hint": "n. 标杆",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "employment",
-          "hint": "n. 就业",
-          "difficulty": "easy"
         }
       ],
-      "fullText": "The 2026 World AI Conference (WAIC) will be held in Shanghai from July 17 to 20, organizers said at a press conference on Tuesday, with exhibition space, new product launches and forum sessions all hitting record highs.\nThe conference will span three locations in the metropolis across four exhibition halls, with total floor space exceeding 100,000 square meters for the first time. More than 1,000 exhibitors will showcase over 3,000 frontier technologies, and more than 300 AI products are set to make their global debut. The event will host over 140 forums featuring 1,400-plus experts from China and abroad.\nFor the first time, the conference will feature a dedicated academic track. WAIC Academic, a high-level international AI academic conference led by Turing Award winners and international academicians, will serve as a platform for scholarly exchange.\nThe entrance to a WAIC venue, Shanghai, China, July 29, 2025. \nThe conference focuses on two core tracks – intelligent computing and embodied intelligence – each gathering more than 200 enterprises. Dozens of industry leaders, key players in supply chains, state-owned enterprises and leading international firms will present AI applications across verticals.\nIndustry growth exceeds 30%\nOrganizers noted on Tuesday that the National Development and Reform Commission (NDRC) has said China's AI-related industry exceeded one trillion yuan (about $147 billion) last year and is projected to grow over 30% in 2026.\nThe NDRC has set up more than 30 national AI pilot bases and encouraged state-owned enterprises to open over 1,000 application scenarios. General AI penetration in key industries has surpassed 80%.\nNDRC official Wang Ruomeng said the agency will release two outcomes at the conference: a success case collection covering over 20 countries in agriculture, industry, energy and research, and an action plan for AI cooperation and development covering eight areas including intelligent computing, open ecosystem, AI empowerment and security governance.\nA logo of WAIC is displayed outside a venue, Shanghai, China, July 29, 2025. \nChina shipped over 100 million AI-powered smart devices in 2025, and sales of AI devices are expected to surpass non-AI models for the first time this year, according to the NDRC. Native AI office agents in China now log over 20 million monthly visits, with daily token consumption reaching hundreds of trillions – a sharp increase from last year.\nWang said during the 15th Five-Year Plan period (2026-2030), China will accelerate independent innovation in models, computing power and data, find high-value scenarios and build benchmark applications, while also studying AI's impact on employment and promoting its use in dangerous, dirty and labor-intensive tasks.",
-      "fullTextCn": "2026年世界人工智能大会（WAIC）将于7月17日至20日在上海举行，组织者在周二的一场新闻发布会上表示，展览面积、新产品发布和论坛场次均创下历史新高。大会将横跨这座大都市的三个地点，共四个展馆，总展览面积首次超过10万平方米。超过1000家参展商将展示3000多项前沿技术，300多款人工智能产品将全球首发。活动将举办140多场论坛，邀请1400多位国内外专家。大会将首次设立专门的学术轨道。\n\nWAIC学术会议是一个由图灵奖得主和国际院士领导的高级别国际人工智能学术会议，将作为学术交流的平台。2025年7月29日，中国上海，WAIC会场入口。会议聚焦两大核心轨道——智能计算和具身智能，每个轨道聚集了200多家企业。数十家行业领导者、供应链关键企业、国有企业和领先的国际公司将在各个垂直领域展示人工智能应用。行业增长超过30%。组织者周二指出，国家发展和改革委员会（NDRC）表示，中国人工智能相关产业去年已超过1万亿元人民币（约1470亿美元），预计2026年将增长超过30%。\n\n国家发改委已设立30多个国家人工智能试点基地，并鼓励国有企业开放1000多个应用场景。关键行业的人工智能普及率已超过80%。国家发改委官员王若蒙表示，该机构将在大会上发布两项成果：一份涵盖20多个国家在农业、工业、能源和研究领域的成功案例集，以及一份涵盖智能计算、开放生态系统、人工智能赋能和安全治理等八个领域的人工智能合作与发展行动计划。2025年7月29日，中国上海，WAIC标志在会场外展示。据国家发改委称，中国在2025年出货了超过1亿台人工智能驱动的智能设备，人工智能设备的销售额预计将在今年首次超过非人工智能型号。\n\n中国本土的人工智能办公代理现在每月访问量超过2000万次，每日令牌消耗达到数百万亿次——比去年大幅增加。王若蒙表示，在“十五五”规划期间（2026-2030年），中国将加速在模型、计算能力和数据方面的自主创新，寻找高价值场景并构建标杆应用，同时研究人工智能对就业的影响，并推动其在危险、肮脏和劳动密集型任务中的使用。"
+      "fullText": "Amazon Leo Satellite Connectivity signage is displayed during the annual Consumer Electronics Show (CES) in Las Vegas, Nevada on January 6, 2026. \nAmazon expects to roll out initial internet service with its Leo broadband satellite network later this year after the company's latest launch put the orbiting constellation's satellite count over 390, a company executive said on Thursday.\nAmazon's latest batch of 29 satellites lifted off from Florida early on Thursday aboard an Atlas V rocket from United Launch Alliance, marking the company's 14th launch of dozens more planned to deploy more than 3,200 satellites that will provide global internet coverage from space.\n\"Still lots of work ahead – including raising all these new satellites to their assigned altitude,\" Amazon's Leo chief Chris Weber said in a post on X. \"But we've completed enough launches for initial service this yr, and future missions just add coverage and capacity.\"\nWeber did not say in which region Amazon plans to begin service, but initial service is expected to begin near Earth's north and south poles and gradually spread inward toward the equator as more satellites are added.\nThe constellation has 394 satellites in orbit so far of 398 launched since April 2025, according to spaceflight analyst and Harvard astronomer Jonathan McDowell.\nThe growing Leo constellation is a budding rival to SpaceX's established Starlink, which has a growing tally of roughly 10,000 satellites. Like Starlink, Amazon plans to offer internet service to consumers with Leo terminals - sized from roughly the size of a laptop to larger and more powerful versions - as well as governments and companies such as airlines.\nAmazon has been targeting a service start of mid-2026, relying on tens of billions of dollars worth of rocket bookings to loft its satellites into space. ULA's Atlas V has become a workhorse for the network as the other rockets Amazon plans to use, Blue Origin's New Glenn and ULA's Vulcan, are grounded.\nA New Glenn rocket exploded on its launchpad last month, destroying the launch tower and other hardware. The company's CEO Dave Limp expects to resume New Glenn launches by the end of the year as engineers zero in on the rocket's engine section to figure out what caused the explosion.\nULA's new Vulcan rocket, which is booked to launch at least 40 Leo missions for Amazon, is also grounded over a solid rocket motor separation issue it encountered in February. Vulcan uses the same Blue Origin-built BE-4 engines as New Glenn and may see its return-to-flight further delayed if Blue Origin finds the BE-4 engines at fault for the New Glenn explosion.\nULA spokeswoman Jessica Rye said Blue Origin engineers \"are being transparent with us as they work through the investigation. If there are crossover items with the BE-4 engines, we will collaborate with the team to find root cause and address it.\"\nAmazon has roughly 100 rocket launches booked worth at least $82 billion in total to build out the constellation. Its other launch providers include French rocket maker Arianespace's Ariane 6 and SpaceX's Falcon 9, the partially reusable rocket that has been vital to SpaceX's deployment of its own Starlink satellites.",
+      "fullTextCn": "2026年1月6日，内华达州拉斯维加斯举行的年度消费电子展（CES）上，展示了亚马逊Leo卫星连接标识。亚马逊一位高管周四表示，在公司最新发射后，其Leo宽带卫星网络的在轨星座卫星数量已超过390颗，预计今年晚些时候将推出初始互联网服务。亚马逊最新一批29颗卫星于周四凌晨从佛罗里达州搭乘联合发射联盟的Atlas V火箭升空，这是该公司计划部署超过3200颗卫星以提供全球太空互联网覆盖的14次发射之一。“前方仍有大量工作——包括将所有新卫星提升至指定轨道高度，”亚马逊Leo项目负责人克里斯·韦伯在X平台上发帖称。“但我们已完成足够多的发射，可在今年提供初始服务，未来的任务将增加覆盖范围和容量。”韦伯未说明亚马逊计划在哪个区域启动服务，但初始服务预计将在地球南北极附近开始，并随着更多卫星的加入逐渐向赤道方向扩展。\n\n据太空飞行分析师兼哈佛天文学家乔纳森·麦克道尔称，自2025年4月以来发射的398颗卫星中，目前已有394颗在轨。不断壮大的Leo星座正成为SpaceX已建立的Starlink的新兴竞争对手，后者拥有约1万颗卫星且数量持续增长。与Starlink类似，亚马逊计划通过Leo终端——尺寸从大约笔记本电脑大小到更大更强大的版本——向消费者、政府以及航空公司等企业提供互联网服务。亚马逊一直将服务启动目标定在2026年年中，依靠价值数百亿美元的火箭预订将卫星送入太空。ULA的Atlas V已成为该网络的主力火箭，而亚马逊计划使用的其他火箭——蓝色起源的New Glenn和ULA的Vulcan——目前均处于停飞状态。\n\n上个月，一枚New Glenn火箭在发射台上爆炸，摧毁了发射塔和其他硬件。该公司首席执行官戴夫·林普预计，随着工程师们集中排查火箭发动机部分以查明爆炸原因，New Glenn发射将在年底前恢复。ULA的新型Vulcan火箭——已预订为亚马逊执行至少40次Leo任务——也因2月份遇到的固体火箭发动机分离问题而停飞。Vulcan使用与New Glenn相同的蓝色起源制造的BE-4发动机，如果蓝色起源发现BE-4发动机是New Glenn爆炸的原因，其复飞可能进一步延迟。ULA发言人杰西卡·赖表示，蓝色起源工程师“在调查过程中对我们保持透明。如果存在与BE-4发动机相关的交叉问题，我们将与团队合作找出根本原因并加以解决。”\n\n亚马逊已预订约100次火箭发射，总价值至少820亿美元，用于建设该星座。其其他发射供应商包括法国火箭制造商阿丽亚娜空间公司的Ariane 6和SpaceX的Falcon 9——这种部分可重复使用的火箭对SpaceX部署自己的Starlink卫星至关重要。"
     }
   ]
 }
