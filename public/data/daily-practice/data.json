@@ -1,838 +1,750 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "articles": [
     {
       "id": 1,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-11/Marine-technologies-shape-China-s-blue-future-1OGCsZ4J28g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Marine technologies shape China's blue future",
-      "titleCn": "海洋技术塑造中国的蓝色未来",
-      "summary": "July 11 marks China's National Maritime Day. As China accelerates the digital transformation of its maritime sector, technologies such as the BeiDou Navigation Satellite System, intelligent vessels and integrated ocean observation networks are playing an increasingly important role in improving navigation safety, advancing marine research and supporting sustainable ocean development.",
-      "summaryCn": "中国通过北斗导航、智能船舶和综合观测网络等数字技术，提升航运安全、海洋科研和生态保护能力，并深化国际海洋合作。",
-      "wordCount": 973,
-      "paragraphs": [
-        {
-          "en": "A stunning bird's-eye view of white sands, crystal-clear blue waters and breathtaking island scenery, Wanning, Hainan province, south China, December 18, 2025. July 11 marks China's National Maritime Day. As China accelerates the digital {{0}} of its maritime sector, technologies such as the BeiDou Navigation Satellite System, {{2}} vessels and integrated ocean {{11}} networks are playing an increasingly important role in improving {{1}} safety, advancing marine research and supporting {{3}} ocean development. Smarter shipping enhances maritime safety\nDigital technologies are reshaping China's shipping industry through the {{4}} of satellite navigation, artificial intelligence (AI) and automated vessel management. The BeiDou Navigation Satellite System provides global positioning, navigation and timing services that support route {{5}}, {{6}} avoidance and emergency response for commercial shipping, fisheries and maritime rescue.",
-          "cn": "2025年12月18日，中国海南省万宁市，鸟瞰视角下洁白的沙滩、清澈湛蓝的海水和令人叹为观止的岛屿风光。7月11日是中国航海日。随着中国加速海洋领域的数字化转型，北斗卫星导航系统、智能船舶和综合海洋观测网络等技术在提升航行安全、推进海洋研究和支持可持续海洋发展方面发挥着越来越重要的作用。更智能的航运提升海上安全。数字技术通过整合卫星导航、人工智能和自动化船舶管理，正在重塑中国的航运业。北斗卫星导航系统提供全球定位、导航和授时服务，支持商业航运、渔业和海上救援的航线优化、碰撞规避和应急响应。"
-        },
-        {
-          "en": "File photo of the Pinglu Canal project. Recent pilot projects demonstrate the growing application of intelligent shipping. In June, nine new-energy smart vessels – including {{7}} and Level-2 assisted ships – completed trial operations in Nanning, Guangxi, providing a model for green and intelligent inland shipping. Meanwhile, the Pinglu Canal project is developing an integrated \"ship-port-lock-waterway-shore\" management system using BeiDou, 5G communications and digital twin technologies. \"The entire canal will be equipped with {{8}} systems powered by the BeiDou Navigation Satellite System, cloud computing and AI, enabling {{9}} management across the full waterway and the early identification of navigation risks,\" Lyu Jin, deputy director of the Qinzhou Maritime Safety Administration, said.",
-          "cn": "平陆运河项目资料照片。近期的试点项目展示了智能航运日益广泛的应用。今年6月，九艘新能源智能船舶——包括无人船和二级辅助船——在广西南宁完成试运行，为绿色智能内河航运提供了范例。与此同时，平陆运河项目正在利用北斗、5G通信和数字孪生技术，开发集成的“船-港-闸-航道-岸”管理系统。钦州海事局副局长吕进表示：“整条运河将配备由北斗卫星导航系统、云计算和人工智能驱动的监控系统，实现全航道的可视化管理和航行风险的早期识别。”"
-        },
-        {
-          "en": "\"AI will also support more refined, intelligent and efficient operational management after the canal enters service.\"\nAccording to China's Ministry of Transport, China plans to {{10}} more than 100 smart ships and establish more than five pilot intelligent shipping routes by 2027 under its Action Plan for Intelligent Shipping Development, reflecting broader efforts to accelerate digital transformation across the shipping industry. Integrated observation network strengthens marine science\nChina has also expanded its ocean observation capabilities through an integrated monitoring system that combines satellites, coastal stations, offshore buoys and {{12}} underwater vehicles. According to the Ministry of Natural Resources, the country's marine observation network includes 11 remote-sensing satellites, 456 ocean buoys and 557 coastal monitoring stations. Together, they provide real-time information on sea surface temperature, ocean currents, waves, wind conditions and marine disasters, supporting marine weather forecasting, resource surveys and disaster preparedness. A Long March-4B rocket, carrying the Haiyang-2E satellite, lifts off from the Jiuquan Satellite Launch Center, July 2, 2026.",
-          "cn": "“人工智能还将在运河投入运营后支持更精细、更智能、更高效的运营管理。”据中国交通运输部消息，根据《智能航运发展行动计划》，中国计划到2027年部署超过100艘智能船舶，并建立5条以上智能航运试点航线，这反映了加速航运业数字化转型的更广泛努力。综合观测网络加强海洋科学。中国还通过一个结合卫星、海岸站、近海浮标和自主水下航行器的综合监测系统，扩展了其海洋观测能力。据自然资源部称，中国的海洋观测网络包括11颗遥感卫星、456个海洋浮标和557个海岸监测站。它们共同提供海面温度、洋流、海浪、风况和海洋灾害的实时信息，支持海洋天气预报、资源调查和灾害防备。2026年7月2日，搭载海洋二号E卫星的长征四号乙运载火箭在酒泉卫星发射中心点火升空。"
-        },
-        {
-          "en": "/CMG\nThe launch of Haiyang-2E, China's latest ocean dynamics satellite, on July 2 has further strengthened the country's marine observation capabilities. Equipped with a radar altimeter, microwave scatterometer, microwave radiometer and calibration radiometer, the satellite can accurately measure sea surface height, significant wave height, ocean wind fields and sea surface temperature. The data will provide important support for marine weather forecasting as well as global climate research, including studies of El Niño and other large-scale climate {{13}}. Coastal waters remain one of the most challenging environments for satellite observation because signals are easily affected by {{14}} from nearby land. \"Nearshore observation has long been recognized as one of the industry's most difficult tasks.",
-          "cn": "/中央广播电视总台。7月2日发射的中国最新海洋动力卫星海洋二号E，进一步增强了国家的海洋观测能力。该卫星配备雷达高度计、微波散射计、微波辐射计和定标辐射计，能够精确测量海面高度、有效波高、海洋风场和海面温度。这些数据将为海洋天气预报以及全球气候研究（包括厄尔尼诺等大规模气候现象的研究）提供重要支持。沿海水域仍然是卫星观测最具挑战性的环境之一，因为信号容易受到邻近陆地干扰的影响。中国空间技术研究院工程师张庆军表示：“近岸观测长期以来被认为是行业中最困难的任务之一。观测点离陆地越近，杂波干扰就越强，探测性能下降得就越快。”"
-        },
-        {
-          "en": "The closer the observation is to land, the stronger the clutter interference becomes and the more rapidly detection performance declines,\" said Zhang Qingjun, an engineer at the China Academy of Space Technology. He said researchers optimized both the satellite payload and nearshore data-processing algorithms, significantly reducing land interference and improving observation capabilities in coastal waters. \"Filling the gap in nearshore ocean dynamic observations will also provide space-based data for the routine monitoring of mangroves, seagrass meadows and other coastal wetland ecosystems, helping {{15}} shift from broad management to more precise protection,\" Zhang added. A view of the white lighthouse at Yuehai Park, with seagulls flying in the sky, Weihai, Shandong province, east China, June 26, 2026. Digital technologies safeguard coastal ecosystems\nDigital technologies are also improving the monitoring and protection of coastal ecosystems, including coral reefs, seagrass meadows and mangrove forests.",
-          "cn": "他说，研究人员优化了卫星载荷和近岸数据处理算法，显著减少了陆地干扰，提高了沿海水域的观测能力。张庆军补充道：“填补近岸海洋动力观测的空白，还将为红树林、海草床等沿海湿地生态系统的常规监测提供天基数据，帮助保护工作从粗放管理转向更精准的保护。”2026年6月26日，中国东部山东省威海市悦海公园白色灯塔景观，海鸥在天空飞翔。数字技术保护沿海生态系统。数字技术也在改善珊瑚礁、海草床和红树林等沿海生态系统的监测和保护。"
-        },
-        {
-          "en": "In Guangxi's Beibu Gulf, hyperspectral drone imaging is being used to map mangrove distribution, vegetation density and canopy height, while underwater sensors continuously monitor coral reef conditions. Together with satellite observations, these technologies form part of a national ecological monitoring network covering representative coastal ecosystems. AI is also making marine ecological monitoring faster and more efficient. \"AI technologies have greatly facilitated our research on corals and reef fish, allowing scientists to spend much more time on data analysis instead of manually identifying underwater images,\" said Liu Min, professor at the College of Ocean and Earth Sciences at Xiamen University. At the Dongshan Coral Reef Nature Reserve in Fujian Province, an AI-assisted monitoring platform jointly developed by researchers and industry partners has significantly improved the efficiency of coral identification and underwater image analysis.",
-          "cn": "在广西北部湾，高光谱无人机成像被用于绘制红树林分布、植被密度和冠层高度，而水下传感器则持续监测珊瑚礁状况。结合卫星观测，这些技术构成了覆盖代表性沿海生态系统的国家生态监测网络的一部分。人工智能也使海洋生态监测更快、更高效。厦门大学海洋与地球科学学院教授刘敏表示：“人工智能技术极大地促进了我们对珊瑚和珊瑚礁鱼类的研究，使科学家能够将更多时间用于数据分析，而不是手动识别水下图像。”在福建省东山珊瑚礁自然保护区，由研究人员和行业合作伙伴联合开发的人工智能辅助监测平台显著提高了珊瑚识别和水下图像分析的效率。"
-        },
-        {
-          "en": "In Caofeidian, Hebei Province, smart monitoring stations collect real-time data on water quality, turbidity and vessel activities, providing scientific support for ecological conservation, ecological restoration and coastal management. Scenery of Jiajing Island, Wanning, Hainan province, south China, June 24, 2025. Expanding international marine cooperation\nChina is also deepening international cooperation in marine science, navigation and disaster prevention. According to the Ministry of Natural Resources, China has signed more than 50 intergovernmental marine cooperation agreements and established nine joint marine research centers and laboratories with international partners. The South China Sea Tsunami Advisory Center provides tsunami information services to neighboring countries.",
-          "cn": "在河北省曹妃甸，智能监测站收集水质、浊度和船舶活动的实时数据，为生态保护、生态修复和海岸管理提供科学支持。2025年6月24日，中国海南省万宁市加井岛风光。扩大国际海洋合作。中国还在海洋科学、航海和防灾方面深化国际合作。据自然资源部称，中国已签署50多项政府间海洋合作协议，并与国际伙伴建立了9个联合海洋研究中心和实验室。南海海啸咨询中心为周边国家提供海啸信息服务。"
-        },
-        {
-          "en": "China has also expanded international talent exchanges through the Marine Scholarship of China, which supports young marine professionals from developing countries. According to the white paper of Marine Eco-Environmental Protection in China issued on 2024, the program has trained more than 300 scholars from over 45 countries, helping strengthen international cooperation and capacity building in marine science and sustainable ocean {{16}}. As digital technologies become increasingly integrated into shipping, marine observation and ecological conservation, they are helping improve maritime safety, strengthen scientific research and support the sustainable use of marine resources.",
-          "cn": "中国还通过中国政府海洋奖学金扩大国际人才交流，该奖学金支持来自发展中国家的青年海洋专业人员。根据2024年发布的《中国的海洋生态环境保护》白皮书，该项目已培训来自45个以上国家的300多名学者，有助于加强海洋科学和可持续海洋治理方面的国际合作和能力建设。随着数字技术日益融入航运、海洋观测和生态保护，它们正在帮助提升海上安全、加强科学研究并支持海洋资源的可持续利用。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "transformation",
-          "hint": "n. 转型",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "navigation",
-          "hint": "n. 导航",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "intelligent",
-          "hint": "adj. 智能的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "sustainable",
-          "hint": "adj. 可持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "integration",
-          "hint": "n. 整合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "optimization",
-          "hint": "n. 优化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "collision",
-          "hint": "n. 碰撞",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "unmanned",
-          "hint": "adj. 无人驾驶的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "monitoring",
-          "hint": "n. 监测",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "visualized",
-          "hint": "adj. 可视化的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "deploy",
-          "hint": "v. 部署",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "observation",
-          "hint": "n. 观测",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "autonomous",
-          "hint": "adj. 自主的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "phenomena",
-          "hint": "n. 现象",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "interference",
-          "hint": "n. 干扰",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "conservation",
-          "hint": "n. 保护",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "governance",
-          "hint": "n. 治理",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "A stunning bird's-eye view of white sands, crystal-clear blue waters and breathtaking island scenery, Wanning, Hainan province, south China, December 18, 2025. \nJuly 11 marks China's National Maritime Day. As China accelerates the digital transformation of its maritime sector, technologies such as the BeiDou Navigation Satellite System, intelligent vessels and integrated ocean observation networks are playing an increasingly important role in improving navigation safety, advancing marine research and supporting sustainable ocean development.\nSmarter shipping enhances maritime safety\nDigital technologies are reshaping China's shipping industry through the integration of satellite navigation, artificial intelligence (AI) and automated vessel management. The BeiDou Navigation Satellite System provides global positioning, navigation and timing services that support route optimization, collision avoidance and emergency response for commercial shipping, fisheries and maritime rescue.\nFile photo of the Pinglu Canal project. \nRecent pilot projects demonstrate the growing application of intelligent shipping. In June, nine new-energy smart vessels – including unmanned and Level-2 assisted ships – completed trial operations in Nanning, Guangxi, providing a model for green and intelligent inland shipping. Meanwhile, the Pinglu Canal project is developing an integrated \"ship-port-lock-waterway-shore\" management system using BeiDou, 5G communications and digital twin technologies.\n\"The entire canal will be equipped with monitoring systems powered by the BeiDou Navigation Satellite System, cloud computing and AI, enabling visualized management across the full waterway and the early identification of navigation risks,\" Lyu Jin, deputy director of the Qinzhou Maritime Safety Administration, said. \"AI will also support more refined, intelligent and efficient operational management after the canal enters service.\"\nAccording to China's Ministry of Transport, China plans to deploy more than 100 smart ships and establish more than five pilot intelligent shipping routes by 2027 under its Action Plan for Intelligent Shipping Development, reflecting broader efforts to accelerate digital transformation across the shipping industry.\nIntegrated observation network strengthens marine science\nChina has also expanded its ocean observation capabilities through an integrated monitoring system that combines satellites, coastal stations, offshore buoys and autonomous underwater vehicles.\nAccording to the Ministry of Natural Resources, the country's marine observation network includes 11 remote-sensing satellites, 456 ocean buoys and 557 coastal monitoring stations. Together, they provide real-time information on sea surface temperature, ocean currents, waves, wind conditions and marine disasters, supporting marine weather forecasting, resource surveys and disaster preparedness.\nA Long March-4B rocket, carrying the Haiyang-2E satellite, lifts off from the Jiuquan Satellite Launch Center, July 2, 2026. /CMG\nThe launch of Haiyang-2E, China's latest ocean dynamics satellite, on July 2 has further strengthened the country's marine observation capabilities. Equipped with a radar altimeter, microwave scatterometer, microwave radiometer and calibration radiometer, the satellite can accurately measure sea surface height, significant wave height, ocean wind fields and sea surface temperature. The data will provide important support for marine weather forecasting as well as global climate research, including studies of El Niño and other large-scale climate phenomena.\nCoastal waters remain one of the most challenging environments for satellite observation because signals are easily affected by interference from nearby land.\n\"Nearshore observation has long been recognized as one of the industry's most difficult tasks. The closer the observation is to land, the stronger the clutter interference becomes and the more rapidly detection performance declines,\" said Zhang Qingjun, an engineer at the China Academy of Space Technology.\nHe said researchers optimized both the satellite payload and nearshore data-processing algorithms, significantly reducing land interference and improving observation capabilities in coastal waters.\n\"Filling the gap in nearshore ocean dynamic observations will also provide space-based data for the routine monitoring of mangroves, seagrass meadows and other coastal wetland ecosystems, helping conservation shift from broad management to more precise protection,\" Zhang added.\nA view of the white lighthouse at Yuehai Park, with seagulls flying in the sky, Weihai, Shandong province, east China, June 26, 2026. \nDigital technologies safeguard coastal ecosystems\nDigital technologies are also improving the monitoring and protection of coastal ecosystems, including coral reefs, seagrass meadows and mangrove forests.\nIn Guangxi's Beibu Gulf, hyperspectral drone imaging is being used to map mangrove distribution, vegetation density and canopy height, while underwater sensors continuously monitor coral reef conditions. Together with satellite observations, these technologies form part of a national ecological monitoring network covering representative coastal ecosystems.\nAI is also making marine ecological monitoring faster and more efficient.\n\"AI technologies have greatly facilitated our research on corals and reef fish, allowing scientists to spend much more time on data analysis instead of manually identifying underwater images,\" said Liu Min, professor at the College of Ocean and Earth Sciences at Xiamen University.\nAt the Dongshan Coral Reef Nature Reserve in Fujian Province, an AI-assisted monitoring platform jointly developed by researchers and industry partners has significantly improved the efficiency of coral identification and underwater image analysis. In Caofeidian, Hebei Province, smart monitoring stations collect real-time data on water quality, turbidity and vessel activities, providing scientific support for ecological conservation, ecological restoration and coastal management.\nScenery of Jiajing Island, Wanning, Hainan province, south China, June 24, 2025. \nExpanding international marine cooperation\nChina is also deepening international cooperation in marine science, navigation and disaster prevention.\nAccording to the Ministry of Natural Resources, China has signed more than 50 intergovernmental marine cooperation agreements and established nine joint marine research centers and laboratories with international partners. The South China Sea Tsunami Advisory Center provides tsunami information services to neighboring countries.\nChina has also expanded international talent exchanges through the Marine Scholarship of China, which supports young marine professionals from developing countries. According to the white paper of Marine Eco-Environmental Protection in China issued on 2024, the program has trained more than 300 scholars from over 45 countries, helping strengthen international cooperation and capacity building in marine science and sustainable ocean governance.\nAs digital technologies become increasingly integrated into shipping, marine observation and ecological conservation, they are helping improve maritime safety, strengthen scientific research and support the sustainable use of marine resources.",
-      "fullTextCn": "2025年12月18日，中国海南省万宁市，鸟瞰视角下洁白的沙滩、清澈湛蓝的海水和令人叹为观止的岛屿风光。7月11日是中国航海日。随着中国加速海洋领域的数字化转型，北斗卫星导航系统、智能船舶和综合海洋观测网络等技术在提升航行安全、推进海洋研究和支持可持续海洋发展方面发挥着越来越重要的作用。更智能的航运提升海上安全。数字技术通过整合卫星导航、人工智能和自动化船舶管理，正在重塑中国的航运业。北斗卫星导航系统提供全球定位、导航和授时服务，支持商业航运、渔业和海上救援的航线优化、碰撞规避和应急响应。\n\n平陆运河项目资料照片。近期的试点项目展示了智能航运日益广泛的应用。今年6月，九艘新能源智能船舶——包括无人船和二级辅助船——在广西南宁完成试运行，为绿色智能内河航运提供了范例。与此同时，平陆运河项目正在利用北斗、5G通信和数字孪生技术，开发集成的“船-港-闸-航道-岸”管理系统。钦州海事局副局长吕进表示：“整条运河将配备由北斗卫星导航系统、云计算和人工智能驱动的监控系统，实现全航道的可视化管理和航行风险的早期识别。”\n\n“人工智能还将在运河投入运营后支持更精细、更智能、更高效的运营管理。”据中国交通运输部消息，根据《智能航运发展行动计划》，中国计划到2027年部署超过100艘智能船舶，并建立5条以上智能航运试点航线，这反映了加速航运业数字化转型的更广泛努力。综合观测网络加强海洋科学。中国还通过一个结合卫星、海岸站、近海浮标和自主水下航行器的综合监测系统，扩展了其海洋观测能力。据自然资源部称，中国的海洋观测网络包括11颗遥感卫星、456个海洋浮标和557个海岸监测站。它们共同提供海面温度、洋流、海浪、风况和海洋灾害的实时信息，支持海洋天气预报、资源调查和灾害防备。2026年7月2日，搭载海洋二号E卫星的长征四号乙运载火箭在酒泉卫星发射中心点火升空。\n\n/中央广播电视总台。7月2日发射的中国最新海洋动力卫星海洋二号E，进一步增强了国家的海洋观测能力。该卫星配备雷达高度计、微波散射计、微波辐射计和定标辐射计，能够精确测量海面高度、有效波高、海洋风场和海面温度。这些数据将为海洋天气预报以及全球气候研究（包括厄尔尼诺等大规模气候现象的研究）提供重要支持。沿海水域仍然是卫星观测最具挑战性的环境之一，因为信号容易受到邻近陆地干扰的影响。中国空间技术研究院工程师张庆军表示：“近岸观测长期以来被认为是行业中最困难的任务之一。观测点离陆地越近，杂波干扰就越强，探测性能下降得就越快。”\n\n他说，研究人员优化了卫星载荷和近岸数据处理算法，显著减少了陆地干扰，提高了沿海水域的观测能力。张庆军补充道：“填补近岸海洋动力观测的空白，还将为红树林、海草床等沿海湿地生态系统的常规监测提供天基数据，帮助保护工作从粗放管理转向更精准的保护。”2026年6月26日，中国东部山东省威海市悦海公园白色灯塔景观，海鸥在天空飞翔。数字技术保护沿海生态系统。数字技术也在改善珊瑚礁、海草床和红树林等沿海生态系统的监测和保护。\n\n在广西北部湾，高光谱无人机成像被用于绘制红树林分布、植被密度和冠层高度，而水下传感器则持续监测珊瑚礁状况。结合卫星观测，这些技术构成了覆盖代表性沿海生态系统的国家生态监测网络的一部分。人工智能也使海洋生态监测更快、更高效。厦门大学海洋与地球科学学院教授刘敏表示：“人工智能技术极大地促进了我们对珊瑚和珊瑚礁鱼类的研究，使科学家能够将更多时间用于数据分析，而不是手动识别水下图像。”在福建省东山珊瑚礁自然保护区，由研究人员和行业合作伙伴联合开发的人工智能辅助监测平台显著提高了珊瑚识别和水下图像分析的效率。\n\n在河北省曹妃甸，智能监测站收集水质、浊度和船舶活动的实时数据，为生态保护、生态修复和海岸管理提供科学支持。2025年6月24日，中国海南省万宁市加井岛风光。扩大国际海洋合作。中国还在海洋科学、航海和防灾方面深化国际合作。据自然资源部称，中国已签署50多项政府间海洋合作协议，并与国际伙伴建立了9个联合海洋研究中心和实验室。南海海啸咨询中心为周边国家提供海啸信息服务。\n\n中国还通过中国政府海洋奖学金扩大国际人才交流，该奖学金支持来自发展中国家的青年海洋专业人员。根据2024年发布的《中国的海洋生态环境保护》白皮书，该项目已培训来自45个以上国家的300多名学者，有助于加强海洋科学和可持续海洋治理方面的国际合作和能力建设。随着数字技术日益融入航运、海洋观测和生态保护，它们正在帮助提升海上安全、加强科学研究并支持海洋资源的可持续利用。"
-    },
-    {
-      "id": 2,
       "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-07-11/detail-ihfhemcv3620543.shtml",
-      "title": "‘Cultural genocide’ in Xinjiang? Central Asian journalists see something very different",
-      "titleCn": "新疆“文化灭绝”？中亚记者看到截然不同的景象",
-      "summary": "Two groups of journalists from Central Asian media outlets recently travelled to Aksu prefecture and Bortala Mongol Autonomous Prefecture in northern and southern Xinjiang, documenting what they say is the careful preservation of ethnic minority culture and rejecting allegations of \"cultural genocide\" outright.",
-      "summaryCn": "中亚记者团走访新疆多地，亲眼见证少数民族文化得到精心保护，驳斥了“文化灭绝”的指控。",
-      "wordCount": 815,
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-11/Europe-s-heatwaves-highlight-need-for-sustainable-cooling-1OGMOz19kJy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Europe's heatwaves highlight need for sustainable cooling",
+      "titleCn": "欧洲热浪凸显可持续冷却需求",
+      "summary": "As extreme heat becomes more frequent across Europe, demand for cooling is rising rapidly. This article explores how the world can meet growing cooling needs while making air conditioning more efficient, cleaner and more sustainable.",
+      "summaryCn": "欧洲热浪频发推动冷却需求激增，但关键在于实现可持续冷却而非完全放弃空调。",
+      "wordCount": 693,
       "paragraphs": [
         {
-          "en": "(ECNS)--Two groups of journalists from Central Asian media outlets recently travelled to Aksu prefecture and Bortala Mongol Autonomous Prefecture in northern and southern Xinjiang, documenting what they say is the careful {{0}} of ethnic minority culture and rejecting {{1}} of \"cultural {{7}}\" outright. In Bortala, which borders Kazakhstan, reporters visited villages in Bole city and Wenquan county to observe local traditions up close. The prefecture is home to 35 ethnic groups, including Mongols, Han, Uygurs, Kazakhs, and Hui; {{2}} account for 38 percent of the population. At Aliongbai New Village in Bole, the journalists watched Uygur and Mongolian dances, listened to folk songs, and joined locals in learning traditional steps. \"The care with which locals protect and promote their own culture is {{3}}.",
-          "cn": "（中国新闻网）——来自中亚媒体的两组记者近日走访了新疆北部和南部的阿克苏地区和博尔塔拉蒙古自治州，记录了他们所认为的少数民族文化得到精心保护的情况，并直接驳斥了“文化灭绝”的指控。在与哈萨克斯坦接壤的博尔塔拉，记者们参观了博乐市和温泉县的村庄，近距离观察当地传统。该自治州有35个民族，包括蒙古族、汉族、维吾尔族、哈萨克族和回族；少数民族占总人口的38%。在博乐的阿里翁拜新村，记者们观看了维吾尔族和蒙古族舞蹈，聆听了民歌，并和当地人一起学习传统舞步。“当地人保护和推广自己文化的用心程度非同寻常。"
+          "en": "The EU's Copernicus Climate Change Service reported that Western Europe recently experienced its hottest June on record. In the UK, the Met Office said the country has already recorded eight days with temperatures above 34 degrees Celsius this year, {{0}} the previous annual record. Extreme heat is no longer an occasional weather event. It is becoming a growing challenge for public health, urban {{1}} and daily life. As temperatures rise, one demand is increasing rapidly: cooling.",
+          "cn": "欧盟哥白尼气候变化服务机构报告称，西欧最近经历了有记录以来最热的六月。英国气象局表示，该国今年已记录到八天气温超过34摄氏度，超过了之前的年度纪录。极端高温不再是偶发天气事件，它正成为公共卫生、城市基础设施和日常生活的日益严峻的挑战。随着气温上升，一个需求正在迅速增长：冷却。"
         },
         {
-          "en": "The government supports their values and {{4}},\" said Akmal Talibov, a correspondent for Tajikistan's ASAL News. He pointed to a guesthouse built in an ethnic style as an example. \"You see it in the architecture of local hotels, too. It gives both tourists and residents a way to {{5}} themselves in the culture.\"\nIn Bogdar village, Wenquan county, the group took in Mongolian song and dance performances and a display of a traditional Kazakh wedding. They also visited a cooperative run by local embroiderers, where Mongolian artisans were making traditional garments.",
-          "cn": "政府支持他们的价值观和独特性，”塔吉克斯坦ASAL新闻的记者阿克马尔·塔利博夫说。他指着一座民族风格的民宿作为例子。“你在当地酒店的建筑中也能看到这一点。它让游客和居民都能沉浸在文化中。”在温泉县的博格达尔村，记者团欣赏了蒙古族歌舞表演和一场传统的哈萨克族婚礼展示。他们还参观了一家由当地刺绣者经营的合作社，蒙古族工匠正在那里制作传统服装。"
+          "en": "A view of the China-Europe Railway Express. /CMG\nA hotter world is driving demand for cooling\nFor decades, many European homes relied on natural {{2}} and building designs suited to colder climates rather than widespread air conditioning. But repeated heatwaves are changing {{3}}. This summer, demand for cooling equipment has increased across Europe. A China-Europe freight train departing Guangzhou, Guangdong Province, south China, recently carried 55 containers of air conditioners and household appliances to Poland and other European destinations.",
+          "cn": "一个更热的世界正在推动冷却需求。几十年来，许多欧洲家庭依赖自然通风和适应寒冷气候的建筑设计，而非广泛使用空调。但反复的热浪正在改变人们的观念。今年夏天，欧洲对冷却设备的需求有所增加。一列从中国南方广东省广州市出发的中欧班列，最近运载了55个集装箱的空调和家用电器前往波兰等欧洲目的地。"
         },
         {
-          "en": "Several reporters tried on the costumes. All of them said they felt the government's {{6}} to protecting the cultures of Xinjiang's different ethnic groups. \"There is no 'cultural genocide' here,\" they concluded. Mukhammad Obidov, chief editor of the Uzbekistan National News Agency, who has visited Xinjiang several times, said: \"Every time I come to China, I am {{8}} by how the government treats all ethnic groups equally, Han, Uygur, Mongolian, Kazakh. Everyone is Chinese.\"\nSpeaking of a village of just over 200 people that the group toured, Obidov added: \"It has all the necessary {{9}}, even a sports hall for cultural activities.",
-          "cn": "几位记者试穿了这些服装。他们都说感受到了政府保护新疆不同民族文化的承诺。“这里没有‘文化灭绝’，”他们总结道。多次访问过新疆的乌兹别克斯坦国家新闻社总编辑穆罕默德·奥比多夫说：“每次我来中国，我都惊讶于政府如何平等对待所有民族——汉族、维吾尔族、蒙古族、哈萨克族。每个人都是中国人。”谈到记者团参观的一个只有200多人的村庄，奥比多夫补充道：“它有所有必要的设施，甚至还有一个用于文化活动的体育馆。"
+          "en": "Between April and June, more than 100,000 portable air conditioners and related {{4}} were shipped via the China-Europe Railway Express. The trend reflects a wider global reality: as the planet warms, cooling is increasingly becoming part of climate {{5}}. But it also raises a difficult question: Does using more air conditioners {{6}} climate goals? A resident rests beside a fountain basin in the gardens of the Palais-Royal during a heat wave in Paris, France, on July 10, 2026. The problem is not cooling itself, but how cooling is provided\nAir conditioning has long been criticized for its environmental impact.",
+          "cn": "今年4月至6月间，超过10万台便携式空调及相关部件通过中欧班列运输。这一趋势反映了更广泛的全球现实：随着地球变暖，冷却正日益成为气候适应的一部分。但这也引发了一个难题：使用更多空调是否会破坏气候目标？问题不在于冷却本身，而在于冷却如何提供。长期以来，空调因其环境影响而受到批评。"
         },
         {
-          "en": "Most importantly, the scenery is beautiful, and the air is clean. You can see that the government's care for minorities has taken root. The people here feel they are as equal as anyone else in the country.\"\nHe said achieving that level of {{10}} for 56 ethnic groups required {{11}} effort, but China had delivered. \"Regrettably, some foreign media spread {{12}}, claiming that ethnic minorities live under pressure. I don't even want to mention this — it's a {{13}} lie.",
-          "cn": "最重要的是，风景优美，空气清新。你可以看到政府对少数民族的关怀已经扎根。这里的人们觉得他们和国家的其他人一样平等。”他说，为56个民族实现这种程度的平等需要巨大的努力，但中国做到了。“遗憾的是，一些外国媒体散布虚假信息，声称少数民族生活在压力之下。我甚至不想提这个——这是一个卑鄙的谎言。"
+          "en": "The concerns are real: Cooling requires electricity, and older {{7}} could contribute significantly to global warming if they leak. However, international organizations argue that the debate is more complicated. The United Nations Environment Programme (UNEP) says cooling is essential for human health, food security, economic productivity and climate {{13}}. Its report Keeping Cool: A Global Cooling Watch Report emphasizes that the challenge is not {{8}} cooling, but making it {{15}}. The International Energy Agency (IEA) has also warned that global demand for air conditioning will continue to rise as temperatures increase.",
+          "cn": "这些担忧是真实的：冷却需要电力，而较旧的制冷剂如果泄漏可能显著加剧全球变暖。然而，国际组织认为这一争论更为复杂。联合国环境规划署表示，冷却对人类健康、粮食安全、经济生产力和气候韧性至关重要。其报告《保持冷却：全球冷却观察报告》强调，挑战不在于消除冷却，而在于使其可持续。国际能源署也警告称，随着气温升高，全球对空调的需求将继续上升。"
         },
         {
-          "en": "I would say to those outlets: come to China, walk across this vast land, visit the homes of different ethnic groups, and see for yourselves how they live. Our mission as journalists is to bring the truth to our people.\"\nFrom hats to knives: crafts tell a different story\nIn Aksu Prefecture, another group of Central Asian reporters visited a showroom for Karakul fetal lamb fur caps in Shaya County. The Uygur handicraft was placed on China's national {{14}} cultural heritage list in 2008. There, journalists watched {{15}} Aimaier Tuniyazi make the traditional headwear. Azamat from Kazakhstan's KTK television said, \"AKarakul fetal lamb fur cap is not just an accessory; it's a symbol of status and respect.",
-          "cn": "我想对那些媒体说：来中国吧，走遍这片广阔的土地，走访不同民族的家庭，亲眼看看他们是如何生活的。我们作为记者的使命就是把真相带给我们的民众。”从帽子到刀具：手工艺讲述不同的故事在阿克苏地区，另一组中亚记者参观了沙雅县的一间卡拉库尔胎羔皮帽展示厅。这项维吾尔族手工艺于2008年被列入中国国家级非物质文化遗产名录。在那里，记者们观看了传承人艾麦尔·吐尼亚孜制作这种传统头饰。哈萨克斯坦KTK电视台的记者阿扎马特说：“卡拉库尔胎羔皮帽不仅仅是一件配饰；它是地位和尊重的象征。"
+          "en": "Without {{9}} improvements, cooling-related electricity demand could {{10}} dramatically. But with high-efficiency technologies, cleaner power systems and better building design, {{11}} can be significantly reduced. In other words, the environmental impact of air conditioning depends largely on energy sources, equipment efficiency and refrigerant management, rather than simply whether people use air conditioners. From air conditioning to sustainable cooling\nCountries are increasingly exploring ways to make cooling cleaner and more sustainable. Modern inverter air conditioners can significantly reduce electricity consumption compared with older models, while newer refrigerants such as R-32 and R-290 have much lower global warming potential than many refrigerants used in previous generations.",
+          "cn": "如果不提高效率，与冷却相关的电力需求可能会急剧增加。但通过高效技术、更清洁的电力系统和更好的建筑设计，排放可以显著减少。换句话说，空调的环境影响主要取决于能源来源、设备效率和制冷剂管理，而不仅仅是人们是否使用空调。各国正越来越多地探索使冷却更清洁、更可持续的方法。与现代机型相比，现代变频空调可以显著降低电力消耗，而R-32和R-290等新型制冷剂的全球变暖潜能值远低于前几代使用的许多制冷剂。"
         },
         {
-          "en": "The inheritor has created more than 20 new styles based on tradition; such dedication and {{16}} are admirable, and they couldn't happen without government support. The real Xinjiang is in the {{17}} of these old craftsmen, and we will show those details through our cameras.\"\nAt the Yanming Knife Workshop in Shaya county, journalists tried their hand at {{18}} their own blades. The Shaya knife-making craft involves more than 200 manual steps for a quality piece. The skill was included in Xinjiang's first batch of regional intangible cultural heritage in 2007, and in 2024, Shaya knives were {{19}} a national geographical indication product. \"These recognitions show that the ancient craft has been preserved and developed here.",
-          "cn": "传承人在传统基础上创造了20多种新款式；这种奉献精神和创新令人钦佩，没有政府的支持是不可能实现的。真正的新疆就在这些老工匠的针线活里，我们将通过镜头展示这些细节。”在沙雅县的燕鸣刀坊，记者们亲手尝试锻造自己的刀片。沙雅制刀工艺制作一件优质产品需要200多道手工工序。这项技艺于2007年被列入新疆第一批自治区级非物质文化遗产，2024年，沙雅刀被认定为国家地理标志产品。“这些认可表明，古老的手工艺在这里得到了保护和传承。"
+          "en": "Beyond individual appliances, countries are also {{12}} renewable energy, energy storage and smart cooling systems into buildings and urban infrastructure. In places including China, rooftop solar power is being combined with efficient cooling technologies to reduce emissions. Since cooling demand often peaks during sunny and hot periods, solar-powered cooling offers a promising way to align renewable energy generation with rising electricity needs. An infographic titled \"France places 9 departments on red heat wave alert as wildfires continue,\" created in Ankara, Türkiye, on July 10, 2026. Cooling is also a public health issue\nThe debate over air conditioning is not only about energy – it is also about protecting people.",
+          "cn": "除了单个设备，各国还在将可再生能源、储能和智能冷却系统整合到建筑和城市基础设施中。在中国等地，屋顶太阳能正与高效冷却技术结合以减少排放。由于冷却需求通常在晴朗炎热的时段达到峰值，太阳能冷却提供了一种有前景的方式，使可再生能源发电与不断增长的电力需求相匹配。关于空调的争论不仅关乎能源，也关乎保护人民。"
         },
         {
-          "en": "There is no 'cultural genocide' in Xinjiang; ethnic cultures are being protected and passed on,\" one journalist said, addressing those who believe Western allegations. 'Living culture' in an ancient alley\nIn Kuqa's Qiuci Alley, where old houses, ancient trees, and weathered lanes still stand, Kyrgyz editor Suyunbek Shamshiev of the Silk Road Observer said, \"Walking into this alley, I see not only carefully protected historic buildings but also the {{20}} smiles on people's faces. This 'living culture' is what moves me most. 'Cultural genocide' does not exist in Xinjiang, and culture is very much alive here.\"\nAfter watching the immersive performance \"Apricot Blossom Rendezvous: Silk Road Qiuci\" at Kuqa's Big Naan City, the editor-in-chief of Tajikistan's ASAL News said, \"The dances that stepped out of the frescoes were so {{21}}. The show gave me a deep understanding of ancient Qiuci as a crossroads of civilizations, and I saw how seriously China takes the protection of its cultural heritage and the results; Kuqa is not only a historic city but also a living window into Xinjiang.",
-          "cn": "新疆没有‘文化灭绝’；民族文化正在得到保护和传承，”一位记者在回应那些相信西方指控的人时说。古巷中的“活态文化”在库车的秋孜巷，老房子、古树和历经风霜的巷道依然矗立，吉尔吉斯斯坦《丝路观察家》的编辑苏云别克·沙姆希耶夫说：“走进这条巷子，我不仅看到了精心保护的历史建筑，还看到了人们脸上真诚的笑容。这种‘活态文化’最让我感动。新疆不存在‘文化灭绝’，文化在这里充满活力。”在库车的大馕城观看了沉浸式演出《杏花之约·丝路龟兹》后，塔吉克斯坦ASAL新闻的总编辑说：“从壁画中走出的舞蹈如此生动。这场演出让我深刻理解了作为文明交汇点的古龟兹，我看到了中国对保护文化遗产的重视程度和成果；库车不仅是一座历史名城，也是新疆的一扇活生生的窗口。"
+          "en": "The World Health Organization (WHO) has identified extreme heat as a major climate-related health risk, particularly for older people, children and those with existing health conditions. As heatwaves become more {{14}}, many experts argue that access to cooling should be viewed as part of climate resilience, alongside heat warning systems, urban greening and better building design. The future challenge is therefore not simply choosing between using air conditioning and protecting the environment. The real task is creating a new model of sustainable cooling – one that allows societies to stay safe in a warmer world while reducing emissions. As Europe and the rest of the world adapt to rising temperatures, cooling may no longer be seen as the opposite of climate action.",
+          "cn": "世界卫生组织已将极端高温确定为与气候相关的主要健康风险，特别是对老年人、儿童和已有健康问题的人群。随着热浪变得更加频繁，许多专家认为，获得冷却应被视为气候韧性的一部分，与高温预警系统、城市绿化和更好的建筑设计并列。因此，未来的挑战不仅仅是在使用空调和保护环境之间做出选择。真正的任务是创建一种可持续冷却的新模式——一种能让社会在更热的世界中保持安全同时减少排放的模式。随着欧洲和世界其他地区适应气温上升，冷却可能不再被视为气候行动的对立面。"
         },
         {
-          "en": "I hope our readers will see the truth in my reporting.\"",
-          "cn": "我希望我们的读者能从我的报道中看到真相。”"
+          "en": "With cleaner energy and smarter technologies, it could become part of the solution.",
+          "cn": "借助更清洁的能源和更智能的技术，它可能成为解决方案的一部分。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "preservation",
-          "hint": "n. 保护",
+          "answer": "surpassing",
+          "hint": "v. 超过",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "allegations",
-          "hint": "n. 指控",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "minorities",
-          "hint": "n. 少数民族",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "extraordinary",
-          "hint": "adj. 非凡的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "uniqueness",
-          "hint": "n. 独特性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "immerse",
-          "hint": "v. 沉浸",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "commitment",
-          "hint": "n. 承诺",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "genocide",
-          "hint": "n. 种族灭绝",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "struck",
-          "hint": "v. 使印象深刻",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "facilities",
-          "hint": "n. 设施",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "equality",
-          "hint": "n. 平等",
-          "difficulty": "easy"
-        },
-        {
-          "id": 11,
-          "answer": "enormous",
-          "hint": "adj. 巨大的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "disinformation",
-          "hint": "n. 虚假信息",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "despicable",
-          "hint": "adj. 卑鄙的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "intangible",
-          "hint": "adj. 无形的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "inheritor",
-          "hint": "n. 传承人",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "innovation",
-          "hint": "n. 创新",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "needlework",
-          "hint": "n. 针线活",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "forging",
-          "hint": "v. 锻造",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "designated",
-          "hint": "v. 指定",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "genuine",
-          "hint": "adj. 真诚的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "vivid",
-          "hint": "adj. 生动的",
-          "difficulty": "easy"
-        }
-      ],
-      "fullText": "(ECNS)--Two groups of journalists from Central Asian media outlets recently travelled to Aksu prefecture and Bortala Mongol Autonomous Prefecture in northern and southern Xinjiang, documenting what they say is the careful preservation of ethnic minority culture and rejecting allegations of \"cultural genocide\" outright.\nIn Bortala, which borders Kazakhstan, reporters visited villages in Bole city and Wenquan county to observe local traditions up close. The prefecture is home to 35 ethnic groups, including Mongols, Han, Uygurs, Kazakhs, and Hui; minorities account for 38 percent of the population.\nAt Aliongbai New Village in Bole, the journalists watched Uygur and Mongolian dances, listened to folk songs, and joined locals in learning traditional steps.\n\"The care with which locals protect and promote their own culture is extraordinary. The government supports their values and uniqueness,\" said Akmal Talibov, a correspondent for Tajikistan's ASAL News. He pointed to a guesthouse built in an ethnic style as an example. \"You see it in the architecture of local hotels, too. It gives both tourists and residents a way to immerse themselves in the culture.\"\nIn Bogdar village, Wenquan county, the group took in Mongolian song and dance performances and a display of a traditional Kazakh wedding. They also visited a cooperative run by local embroiderers, where Mongolian artisans were making traditional garments. Several reporters tried on the costumes.\nAll of them said they felt the government's commitment to protecting the cultures of Xinjiang's different ethnic groups. \"There is no 'cultural genocide' here,\" they concluded.\nMukhammad Obidov, chief editor of the Uzbekistan National News Agency, who has visited Xinjiang several times, said: \"Every time I come to China, I am struck by how the government treats all ethnic groups equally, Han, Uygur, Mongolian, Kazakh. Everyone is Chinese.\"\nSpeaking of a village of just over 200 people that the group toured, Obidov added: \"It has all the necessary facilities, even a sports hall for cultural activities. Most importantly, the scenery is beautiful, and the air is clean. You can see that the government's care for minorities has taken root. The people here feel they are as equal as anyone else in the country.\"\nHe said achieving that level of equality for 56 ethnic groups required enormous effort, but China had delivered. \"Regrettably, some foreign media spread disinformation, claiming that ethnic minorities live under pressure. I don't even want to mention this — it's a despicable lie. I would say to those outlets: come to China, walk across this vast land, visit the homes of different ethnic groups, and see for yourselves how they live. Our mission as journalists is to bring the truth to our people.\"\nFrom hats to knives: crafts tell a different story\nIn Aksu Prefecture, another group of Central Asian reporters visited a showroom for Karakul fetal lamb fur caps in Shaya County. The Uygur handicraft was placed on China's national intangible cultural heritage list in 2008. There, journalists watched inheritor Aimaier Tuniyazi make the traditional headwear.\nAzamat from Kazakhstan's KTK television said, \"AKarakul fetal lamb fur cap is not just an accessory; it's a symbol of status and respect. The inheritor has created more than 20 new styles based on tradition; such dedication and innovation are admirable, and they couldn't happen without government support. The real Xinjiang is in the needlework of these old craftsmen, and we will show those details through our cameras.\"\nAt the Yanming Knife Workshop in Shaya county, journalists tried their hand at forging their own blades. The Shaya knife-making craft involves more than 200 manual steps for a quality piece. The skill was included in Xinjiang's first batch of regional intangible cultural heritage in 2007, and in 2024, Shaya knives were designated a national geographical indication product.\n\"These recognitions show that the ancient craft has been preserved and developed here. There is no 'cultural genocide' in Xinjiang; ethnic cultures are being protected and passed on,\" one journalist said, addressing those who believe Western allegations.\n'Living culture' in an ancient alley\nIn Kuqa's Qiuci Alley, where old houses, ancient trees, and weathered lanes still stand, Kyrgyz editor Suyunbek Shamshiev of the Silk Road Observer said, \"Walking into this alley, I see not only carefully protected historic buildings but also the genuine smiles on people's faces. This 'living culture' is what moves me most. 'Cultural genocide' does not exist in Xinjiang, and culture is very much alive here.\"\nAfter watching the immersive performance \"Apricot Blossom Rendezvous: Silk Road Qiuci\" at Kuqa's Big Naan City, the editor-in-chief of Tajikistan's ASAL News said, \"The dances that stepped out of the frescoes were so vivid. The show gave me a deep understanding of ancient Qiuci as a crossroads of civilizations, and I saw how seriously China takes the protection of its cultural heritage and the results; Kuqa is not only a historic city but also a living window into Xinjiang. I hope our readers will see the truth in my reporting.\"",
-      "fullTextCn": "（中国新闻网）——来自中亚媒体的两组记者近日走访了新疆北部和南部的阿克苏地区和博尔塔拉蒙古自治州，记录了他们所认为的少数民族文化得到精心保护的情况，并直接驳斥了“文化灭绝”的指控。在与哈萨克斯坦接壤的博尔塔拉，记者们参观了博乐市和温泉县的村庄，近距离观察当地传统。该自治州有35个民族，包括蒙古族、汉族、维吾尔族、哈萨克族和回族；少数民族占总人口的38%。在博乐的阿里翁拜新村，记者们观看了维吾尔族和蒙古族舞蹈，聆听了民歌，并和当地人一起学习传统舞步。“当地人保护和推广自己文化的用心程度非同寻常。\n\n政府支持他们的价值观和独特性，”塔吉克斯坦ASAL新闻的记者阿克马尔·塔利博夫说。他指着一座民族风格的民宿作为例子。“你在当地酒店的建筑中也能看到这一点。它让游客和居民都能沉浸在文化中。”在温泉县的博格达尔村，记者团欣赏了蒙古族歌舞表演和一场传统的哈萨克族婚礼展示。他们还参观了一家由当地刺绣者经营的合作社，蒙古族工匠正在那里制作传统服装。\n\n几位记者试穿了这些服装。他们都说感受到了政府保护新疆不同民族文化的承诺。“这里没有‘文化灭绝’，”他们总结道。多次访问过新疆的乌兹别克斯坦国家新闻社总编辑穆罕默德·奥比多夫说：“每次我来中国，我都惊讶于政府如何平等对待所有民族——汉族、维吾尔族、蒙古族、哈萨克族。每个人都是中国人。”谈到记者团参观的一个只有200多人的村庄，奥比多夫补充道：“它有所有必要的设施，甚至还有一个用于文化活动的体育馆。\n\n最重要的是，风景优美，空气清新。你可以看到政府对少数民族的关怀已经扎根。这里的人们觉得他们和国家的其他人一样平等。”他说，为56个民族实现这种程度的平等需要巨大的努力，但中国做到了。“遗憾的是，一些外国媒体散布虚假信息，声称少数民族生活在压力之下。我甚至不想提这个——这是一个卑鄙的谎言。\n\n我想对那些媒体说：来中国吧，走遍这片广阔的土地，走访不同民族的家庭，亲眼看看他们是如何生活的。我们作为记者的使命就是把真相带给我们的民众。”从帽子到刀具：手工艺讲述不同的故事在阿克苏地区，另一组中亚记者参观了沙雅县的一间卡拉库尔胎羔皮帽展示厅。这项维吾尔族手工艺于2008年被列入中国国家级非物质文化遗产名录。在那里，记者们观看了传承人艾麦尔·吐尼亚孜制作这种传统头饰。哈萨克斯坦KTK电视台的记者阿扎马特说：“卡拉库尔胎羔皮帽不仅仅是一件配饰；它是地位和尊重的象征。\n\n传承人在传统基础上创造了20多种新款式；这种奉献精神和创新令人钦佩，没有政府的支持是不可能实现的。真正的新疆就在这些老工匠的针线活里，我们将通过镜头展示这些细节。”在沙雅县的燕鸣刀坊，记者们亲手尝试锻造自己的刀片。沙雅制刀工艺制作一件优质产品需要200多道手工工序。这项技艺于2007年被列入新疆第一批自治区级非物质文化遗产，2024年，沙雅刀被认定为国家地理标志产品。“这些认可表明，古老的手工艺在这里得到了保护和传承。\n\n新疆没有‘文化灭绝’；民族文化正在得到保护和传承，”一位记者在回应那些相信西方指控的人时说。古巷中的“活态文化”在库车的秋孜巷，老房子、古树和历经风霜的巷道依然矗立，吉尔吉斯斯坦《丝路观察家》的编辑苏云别克·沙姆希耶夫说：“走进这条巷子，我不仅看到了精心保护的历史建筑，还看到了人们脸上真诚的笑容。这种‘活态文化’最让我感动。新疆不存在‘文化灭绝’，文化在这里充满活力。”在库车的大馕城观看了沉浸式演出《杏花之约·丝路龟兹》后，塔吉克斯坦ASAL新闻的总编辑说：“从壁画中走出的舞蹈如此生动。这场演出让我深刻理解了作为文明交汇点的古龟兹，我看到了中国对保护文化遗产的重视程度和成果；库车不仅是一座历史名城，也是新疆的一扇活生生的窗口。\n\n我希望我们的读者能从我的报道中看到真相。”"
-    },
-    {
-      "id": 3,
-      "category": "military",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-07-11/detail-ihfhemcv3620116.shtml",
-      "title": "Xi, Kim exchange congratulations over 65th anniversary of China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance",
-      "titleCn": "习近平与金正恩就中朝友好合作互助条约签署65周年互致贺电",
-      "summary": "Xi Jinping, general secretary of the Communist Party of China Central Committee and Chinese president, and Kim Jong Un, general secretary of the Workers' Party of Korea (WPK) and president of the State Affairs of the Democratic People's Republic of Korea (DPRK), exchanged congratulations on Saturday over the 65th anniversary of the signing of the China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance.",
-      "summaryCn": "中朝领导人互致贺电，强调传统友谊与战略合作，推动双边关系在新时代持续发展。",
-      "wordCount": 694,
-      "paragraphs": [
-        {
-          "en": "Xi Jinping, general secretary of the Communist Party of China Central Committee and Chinese president, and Kim Jong Un, general secretary of the Workers' Party of Korea (WPK) and president of the State Affairs of the Democratic People's Republic of Korea (DPRK), {{0}} congratulations on Saturday over the 65th {{1}} of the signing of the China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance. In his message, Xi said that in 1961, the older generations of leaders of China and the DPRK signed the China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance, laying an important political and legal foundation for {{2}} the friendship {{3}} in blood between the two peoples. The treaty has played an important role in carrying forward China-DPRK friendship and {{4}} peace and {{5}} in the region and beyond, he said. Over the past 65 years, the two sides have {{6}} the spirit of the treaty, supported each other, stood united, cooperated closely and worked together, {{7}} demonstrating the defining features of China-DPRK relations -- friendship passed down from generation to generation, a shared future and mutual support, he said. Xi pointed to a successful state visit to the DPRK in June, when he reached important consensus with Kim on consolidating and carrying forward the traditional friendship between China and the DPRK and enriching it with new {{8}}, providing {{9}} guidance and a new blueprint for the development of China-DPRK relations in the new era. Facing a rapidly {{10}} world undergoing {{11}} changes unseen in a century, Xi voiced {{12}} to work with Kim to further strengthen strategic communication, keep China-DPRK relations on the right track and guide bilateral friendly cooperation to deliver greater benefits to the two peoples, so as to make positive contributions to promoting regional peace and development.",
-          "cn": "中共中央总书记、国家主席习近平与朝鲜劳动党总书记、国务委员长金正恩于周六就《中朝友好合作互助条约》签署65周年互致贺电。习近平在贺电中指出，1961年，中朝老一辈领导人签署了《中朝友好合作互助条约》，为巩固两国人民用鲜血凝成的友谊奠定了重要的政治和法律基础。该条约为传承中朝友谊、维护地区和世界和平稳定发挥了重要作用。65年来，双方秉持条约精神，相互支持、团结合作、密切协作，生动展现了中朝关系世代相传、命运与共、相互支持的鲜明特征。习近平提到，他于6月成功对朝鲜进行国事访问，与金正恩就巩固和传承中朝传统友谊、赋予其新内涵达成重要共识，为新时代中朝关系发展提供了战略指引和新的蓝图。面对百年未有之大变局加速演进的形势，习近平表示愿与金正恩进一步加强战略沟通，确保中朝关系沿着正确轨道前进，引导双边友好合作惠及两国人民，为促进地区和平与发展作出积极贡献。"
-        },
-        {
-          "en": "No matter how the international landscape evolves, the firm position of China's Party and government to attach great importance to the traditional friendship between China and the DPRK will remain unchanged; the firm support for Kim in leading the DPRK's socialist cause will remain unchanged; and the determination to safeguard the common interests of both sides and maintain a {{13}} strategic environment will remain unchanged, he said. Xi expressed confidence that, under the leadership of the WPK headed by Kim, the DPRK people will fully {{14}} the decisions and arrangements of the Ninth Congress of the WPK and continue to achieve new and greater successes in their socialist cause. For his part, Kim said the two sides signed the DPRK-China Treaty of Friendship, Cooperation and Mutual Assistance 65 years ago, laying a solid legal foundation for the {{15}} development of the fighting friendship and unity of mutual assistance and cooperation between the DPRK and China, forged in the bloody struggle for independence against imperialism and for the great cause of peace and socialism. Over the past period, through all the {{16}} of history, the DPRK and China have stood by each other with {{17}} support and close cooperation, fully demonstrating to the world the {{18}} and unbreakable nature of their friendship -- a relationship that is special in terms of traditional bonds, shared socialist cause, and firm commitment to carrying it forward from generation to generation, Kim said. The friendly and cooperative relations between the DPRK and China, as a strategic choice and precious common wealth of the two parties and two peoples, are being elevated to a new strategic height and are making important contributions to safeguarding the {{19}}, security and development interests of the two countries and upholding regional and global peace and stability amid the complex and {{20}} international situation, Kim said. It is the unwavering position of the WPK and the DPRK government to advance the traditional friendly and cooperative relations between the DPRK and China, with socialism at its core, to keep pace with the changes of the times and the {{21}} of the two peoples and to achieve more {{22}} development in all fields, he added.",
-          "cn": "习近平表示，无论国际风云如何变幻，中国党和政府高度重视中朝传统友谊的坚定立场不会改变；坚定支持金正恩领导朝鲜社会主义事业的立场不会改变；维护双方共同利益、维护良好战略环境的决心不会改变。习近平相信，在以金正恩为首的朝鲜劳动党领导下，朝鲜人民将全面贯彻落实朝鲜劳动党第九次代表大会的决议和部署，在社会主义事业中不断取得新的更大成就。金正恩表示，65年前双方签署了《朝中友好合作互助条约》，为在争取民族独立、抗击帝国主义、争取和平与社会主义伟大事业的浴血斗争中凝结的朝中战斗友谊和互助合作关系的持久发展奠定了坚实的法律基础。过去一段时期，历经历史沧桑，朝中两国始终坚定相互支持、密切合作，充分向世界展示了牢不可破、历久弥坚的友谊——这是一种在传统纽带、共同社会主义事业以及代代相传的坚定承诺方面具有特殊性的关系。金正恩说，朝中友好合作关系作为两党两国人民的战略选择和宝贵共同财富，正被提升到新的战略高度，并在复杂多变的国际形势下，为维护两国主权、安全和发展利益，维护地区和世界和平稳定作出重要贡献。他补充道，以社会主义为核心的朝中传统友好合作关系，是朝鲜劳动党和政府坚定不移的立场，要顺应时代变化和两国人民愿望，实现各领域更加充满活力的发展。"
-        },
-        {
-          "en": "Kim voiced his {{23}} to work with Xi to lead the DPRK-China friendship, rooted in a long history and fine {{24}}, to new heights, and develop it into the strongest and most strategic {{25}} of relations between socialist countries.",
-          "cn": "金正恩表示愿与习近平一道，引领根植于悠久历史和优良传统的朝中友谊迈向新高度，将其发展成为社会主义国家关系中最强大、最具战略性的典范。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "exchanged",
-          "hint": "v. 交换",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "anniversary",
-          "hint": "n. 周年纪念",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "consolidating",
-          "hint": "v. 巩固",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "forged",
-          "hint": "v. 锻造",
-          "difficulty": "hard"
-        },
-        {
-          "id": 4,
-          "answer": "safeguarding",
-          "hint": "v. 维护",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "stability",
-          "hint": "n. 稳定",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "upheld",
-          "hint": "v. 坚持",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "vividly",
-          "hint": "adv. 生动地",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "dimensions",
-          "hint": "n. 维度",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "strategic",
-          "hint": "adj. 战略的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "evolving",
-          "hint": "v. 演变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "profound",
-          "hint": "adj. 深刻的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "willingness",
-          "hint": "n. 意愿",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "favorable",
-          "hint": "adj. 有利的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "implement",
-          "hint": "v. 实施",
-          "difficulty": "easy"
-        },
-        {
-          "id": 15,
-          "answer": "enduring",
-          "hint": "adj. 持久的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "vicissitudes",
-          "hint": "n. 变迁",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "unwavering",
-          "hint": "adj. 坚定的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "everlasting",
-          "hint": "adj. 永恒的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "sovereignty",
-          "hint": "n. 主权",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "volatile",
-          "hint": "adj. 动荡的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "aspirations",
-          "hint": "n. 愿望",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "dynamic",
-          "hint": "adj. 动态的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 23,
-          "answer": "readiness",
-          "hint": "n. 愿意",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "traditions",
-          "hint": "n. 传统",
-          "difficulty": "easy"
-        },
-        {
-          "id": 25,
-          "answer": "model",
-          "hint": "n. 典范",
-          "difficulty": "easy"
-        }
-      ],
-      "fullText": "Xi Jinping, general secretary of the Communist Party of China Central Committee and Chinese president, and Kim Jong Un, general secretary of the Workers' Party of Korea (WPK) and president of the State Affairs of the Democratic People's Republic of Korea (DPRK), exchanged congratulations on Saturday over the 65th anniversary of the signing of the China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance.\nIn his message, Xi said that in 1961, the older generations of leaders of China and the DPRK signed the China-DPRK Treaty of Friendship, Cooperation and Mutual Assistance, laying an important political and legal foundation for consolidating the friendship forged in blood between the two peoples.\nThe treaty has played an important role in carrying forward China-DPRK friendship and safeguarding peace and stability in the region and beyond, he said.\nOver the past 65 years, the two sides have upheld the spirit of the treaty, supported each other, stood united, cooperated closely and worked together, vividly demonstrating the defining features of China-DPRK relations -- friendship passed down from generation to generation, a shared future and mutual support, he said.\nXi pointed to a successful state visit to the DPRK in June, when he reached important consensus with Kim on consolidating and carrying forward the traditional friendship between China and the DPRK and enriching it with new dimensions, providing strategic guidance and a new blueprint for the development of China-DPRK relations in the new era.\nFacing a rapidly evolving world undergoing profound changes unseen in a century, Xi voiced willingness to work with Kim to further strengthen strategic communication, keep China-DPRK relations on the right track and guide bilateral friendly cooperation to deliver greater benefits to the two peoples, so as to make positive contributions to promoting regional peace and development.\nNo matter how the international landscape evolves, the firm position of China's Party and government to attach great importance to the traditional friendship between China and the DPRK will remain unchanged; the firm support for Kim in leading the DPRK's socialist cause will remain unchanged; and the determination to safeguard the common interests of both sides and maintain a favorable strategic environment will remain unchanged, he said.\nXi expressed confidence that, under the leadership of the WPK headed by Kim, the DPRK people will fully implement the decisions and arrangements of the Ninth Congress of the WPK and continue to achieve new and greater successes in their socialist cause.\nFor his part, Kim said the two sides signed the DPRK-China Treaty of Friendship, Cooperation and Mutual Assistance 65 years ago, laying a solid legal foundation for the enduring development of the fighting friendship and unity of mutual assistance and cooperation between the DPRK and China, forged in the bloody struggle for independence against imperialism and for the great cause of peace and socialism.\nOver the past period, through all the vicissitudes of history, the DPRK and China have stood by each other with unwavering support and close cooperation, fully demonstrating to the world the everlasting and unbreakable nature of their friendship -- a relationship that is special in terms of traditional bonds, shared socialist cause, and firm commitment to carrying it forward from generation to generation, Kim said.\nThe friendly and cooperative relations between the DPRK and China, as a strategic choice and precious common wealth of the two parties and two peoples, are being elevated to a new strategic height and are making important contributions to safeguarding the sovereignty, security and development interests of the two countries and upholding regional and global peace and stability amid the complex and volatile international situation, Kim said.\nIt is the unwavering position of the WPK and the DPRK government to advance the traditional friendly and cooperative relations between the DPRK and China, with socialism at its core, to keep pace with the changes of the times and the aspirations of the two peoples and to achieve more dynamic development in all fields, he added.\nKim voiced his readiness to work with Xi to lead the DPRK-China friendship, rooted in a long history and fine traditions, to new heights, and develop it into the strongest and most strategic model of relations between socialist countries.",
-      "fullTextCn": "中共中央总书记、国家主席习近平与朝鲜劳动党总书记、国务委员长金正恩于周六就《中朝友好合作互助条约》签署65周年互致贺电。习近平在贺电中指出，1961年，中朝老一辈领导人签署了《中朝友好合作互助条约》，为巩固两国人民用鲜血凝成的友谊奠定了重要的政治和法律基础。该条约为传承中朝友谊、维护地区和世界和平稳定发挥了重要作用。65年来，双方秉持条约精神，相互支持、团结合作、密切协作，生动展现了中朝关系世代相传、命运与共、相互支持的鲜明特征。习近平提到，他于6月成功对朝鲜进行国事访问，与金正恩就巩固和传承中朝传统友谊、赋予其新内涵达成重要共识，为新时代中朝关系发展提供了战略指引和新的蓝图。面对百年未有之大变局加速演进的形势，习近平表示愿与金正恩进一步加强战略沟通，确保中朝关系沿着正确轨道前进，引导双边友好合作惠及两国人民，为促进地区和平与发展作出积极贡献。\n\n习近平表示，无论国际风云如何变幻，中国党和政府高度重视中朝传统友谊的坚定立场不会改变；坚定支持金正恩领导朝鲜社会主义事业的立场不会改变；维护双方共同利益、维护良好战略环境的决心不会改变。习近平相信，在以金正恩为首的朝鲜劳动党领导下，朝鲜人民将全面贯彻落实朝鲜劳动党第九次代表大会的决议和部署，在社会主义事业中不断取得新的更大成就。金正恩表示，65年前双方签署了《朝中友好合作互助条约》，为在争取民族独立、抗击帝国主义、争取和平与社会主义伟大事业的浴血斗争中凝结的朝中战斗友谊和互助合作关系的持久发展奠定了坚实的法律基础。过去一段时期，历经历史沧桑，朝中两国始终坚定相互支持、密切合作，充分向世界展示了牢不可破、历久弥坚的友谊——这是一种在传统纽带、共同社会主义事业以及代代相传的坚定承诺方面具有特殊性的关系。金正恩说，朝中友好合作关系作为两党两国人民的战略选择和宝贵共同财富，正被提升到新的战略高度，并在复杂多变的国际形势下，为维护两国主权、安全和发展利益，维护地区和世界和平稳定作出重要贡献。他补充道，以社会主义为核心的朝中传统友好合作关系，是朝鲜劳动党和政府坚定不移的立场，要顺应时代变化和两国人民愿望，实现各领域更加充满活力的发展。\n\n金正恩表示愿与习近平一道，引领根植于悠久历史和优良传统的朝中友谊迈向新高度，将其发展成为社会主义国家关系中最强大、最具战略性的典范。"
-    },
-    {
-      "id": 4,
-      "category": "military",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/politics/2026-07-11/detail-ihfhemcv3619410.shtml",
-      "title": "China, Namibia announce to build community with shared future for new era",
-      "titleCn": "中国与纳米比亚宣布构建新时代命运共同体",
-      "summary": "Chinese President Xi Jinping and Namibian President Netumbo Nandi-Ndaitwah announced the elevation of bilateral relations to a China-Namibia community with a shared future for the new era during their talks held Friday in Beijing.",
-      "summaryCn": "中纳两国元首在北京会谈，宣布提升双边关系为新时代命运共同体，并提出深化合作的三项建议。",
-      "wordCount": 652,
-      "paragraphs": [
-        {
-          "en": "Chinese President Xi Jinping and Namibian President Netumbo Nandi-Ndaitwah announced the {{0}} of bilateral relations to a China-Namibia community with a shared future for the new era during their talks held Friday in Beijing. Xi said China and Namibia enjoy {{1}} traditional friendship and share common {{2}} for development, adding that since the establishment of diplomatic ties, the two countries have always treated each other as equals and supported each other. Noting that bilateral friendly cooperation has continued to deepen, delivering tangible benefits to the two peoples, Xi said China stands ready to work with Namibia to enhance exchanges of development philosophies and {{3}} development strategies, and partner with each other on their paths to {{4}}. Xi put forward three {{5}} for building a China-Namibia community with a shared future for the new era. China and Namibia should maintain close high-level exchanges, deepen experience sharing on {{6}}, stay in regular communication on issues of overall and {{7}} importance in bilateral relations, and continue to support each other on issues concerning their respective {{8}} interests and major concerns, Xi said.",
-          "cn": "中国国家主席习近平与纳米比亚总统内通博·南迪-恩代特瓦周五在北京举行会谈，宣布将双边关系提升为新时代中纳命运共同体。习近平表示，中纳两国拥有深厚的传统友谊和共同的发展愿望，自建交以来始终平等相待、相互支持。他指出，双边友好合作不断深化，为两国人民带来了实实在在的利益，中方愿与纳方加强发展理念交流和发展战略对接，携手迈向现代化。习近平就构建新时代中纳命运共同体提出三项建议：中纳应保持高层密切交往，深化治国理政经验交流，就双边关系中具有全局性和战略性的问题保持经常性沟通，并在涉及各自核心利益和重大关切的问题上继续相互支持。"
-        },
-        {
-          "en": "Xi also urged the two sides to tap the {{9}} of cooperation and take it to higher levels, encouraging Namibia to make full use of the zero-{{10}} access, the upgraded fast track for Namibian exports to reach China, and other favorable policies. China is ready to deepen cooperation with Namibia in such areas as {{11}}, energy, mining, agriculture, education, youth, science and technology, he noted. Xi added that the two countries should uphold {{12}} and coordination to safeguard {{13}}. China is willing to work with African countries, including Namibia, to enhance the strength and voice of the Global South, and make new contributions to building a community with a shared future for humanity, Xi said. Noting that helping Africa develop its abundant mineral resources and effectively translate its resource advantage into development {{14}} is an important way to accelerate Africa's modernization, Xi said China stands ready to continue strengthening mining cooperation with African countries, including Namibia, based on three {{15}}.",
-          "cn": "习近平还敦促双方挖掘合作潜力，提升合作水平，鼓励纳米比亚充分利用零关税准入、升级版纳米比亚对华出口快速通道等优惠政策。他指出，中方愿在基础设施、能源、矿业、农业、教育、青年、科技等领域深化与纳米比亚的合作。习近平强调，两国应坚持团结协作，维护多边主义。中方愿与包括纳米比亚在内的非洲国家一道，增强“全球南方”的力量和声音，为构建人类命运共同体作出新贡献。习近平指出，帮助非洲开发丰富的矿产资源，有效将资源优势转化为发展动力，是加速非洲现代化的重要途径，中方愿继续在三个原则基础上加强与包括纳米比亚在内的非洲国家的矿业合作。"
-        },
-        {
-          "en": "The first is pursuing {{16}} benefit and win-win cooperation, Xi said, adding that the two sides should fully {{17}} their complementary strengths and deepen the {{18}} of interests. Xi said the second is conducting friendly {{19}}, calling for proceeding from the big picture of China-Africa friendship, and properly resolving issues in cooperation through communication and consultation. He noted the third is breaking new ground, adding that China stands ready to work with Africa to explore new {{20}} to cooperation in accordance with market-oriented and {{21}} principles, with a view to upgrading the quality of China-Africa cooperation in the mining {{22}}. For her part, Nandi-Ndaitwah extended warm congratulations on the 105th anniversary of the founding of the Communist Party of China. Namibia attaches great importance to its relations with China and firmly {{23}} to the one-China principle, she added.",
-          "cn": "习近平表示，第一是坚持互利共赢合作，双方应充分发挥互补优势，深化利益融合。第二是开展友好协商，呼吁从中非友谊大局出发，通过沟通协商妥善解决合作中的问题。第三是开拓创新，中方愿与非洲一道，按照市场化和商业化原则探索新的合作方式，以提升中非矿业合作的质量。南迪-恩代特瓦热烈祝贺中国共产党成立105周年。她表示，纳米比亚高度重视对华关系，坚定恪守一个中国原则。"
-        },
-        {
-          "en": "Namibia welcomes more Chinese enterprises to invest and operate in the country, and hopes to strengthen cooperation in areas such as industry, mining, infrastructure, aviation and space, science and technology, agriculture and water resources, said Nandi-Ndaitwah. China has long provided {{24}} support and assistance to African countries, including Namibia, and has always upheld a just position in international and regional affairs, said the president. She added that Namibia will enhance communication and coordination with China to safeguard the common interests of developing countries and jointly build a community with a shared future for humanity. Following the talks, the two presidents {{25}} the signing of multiple cooperation documents in areas such as economy and trade, healthcare, education and human resources. The two sides also issued a joint statement on building a China-Namibia community with a shared future for the new era.",
-          "cn": "南迪-恩代特瓦表示，纳米比亚欢迎更多中国企业来纳投资兴业，希望加强在工业、矿业、基础设施、航空航天、科技、农业和水资源等领域的合作。她指出，中国长期以来向包括纳米比亚在内的非洲国家提供了无私支持和援助，并在国际和地区事务中始终秉持公正立场。她表示，纳米比亚将加强与中国的沟通协调，维护发展中国家的共同利益，共同构建人类命运共同体。会谈后，两国元首见证了经贸、医疗、教育和人力资源等领域多项合作文件的签署。双方还发表了关于构建新时代中纳命运共同体的联合声明。"
-        },
-        {
-          "en": "Prior to the talks, Xi and his wife Peng Liyuan held a welcome ceremony for Nandi-Ndaitwah and her spouse Epaphras Denga Ndaitwah. Xi and Peng also held a welcome banquet for them in the evening.",
-          "cn": "会谈前，习近平和夫人彭丽媛为南迪-恩代特瓦和丈夫埃帕弗拉斯·登加·恩代特瓦举行了欢迎仪式。当晚，习近平和彭丽媛还为他们举行了欢迎宴会。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "elevation",
-          "hint": "n. 提升",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "profound",
-          "hint": "adj. 深厚的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "aspirations",
-          "hint": "n. 愿望",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "synergize",
-          "hint": "v. 协同",
-          "difficulty": "hard"
-        },
-        {
-          "id": 4,
-          "answer": "modernization",
-          "hint": "n. 现代化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "proposals",
-          "hint": "n. 建议",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "governance",
-          "hint": "n. 治理",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "strategic",
-          "hint": "adj. 战略性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "core",
-          "hint": "adj. 核心的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "potential",
-          "hint": "n. 潜力",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "tariff",
-          "hint": "n. 关税",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
           "answer": "infrastructure",
           "hint": "n. 基础设施",
           "difficulty": "medium"
         },
         {
-          "id": 12,
-          "answer": "solidarity",
-          "hint": "n. 团结",
+          "id": 2,
+          "answer": "ventilation",
+          "hint": "n. 通风",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "attitudes",
+          "hint": "n. 态度",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "components",
+          "hint": "n. 部件",
           "difficulty": "medium"
         },
         {
+          "id": 5,
+          "answer": "adaptation",
+          "hint": "n. 适应",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "undermine",
+          "hint": "v. 破坏",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "refrigerants",
+          "hint": "n. 制冷剂",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "eliminating",
+          "hint": "v. 消除",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "efficiency",
+          "hint": "n. 效率",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "surge",
+          "hint": "v. 激增",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "emissions",
+          "hint": "n. 排放",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "integrating",
+          "hint": "v. 整合",
+          "difficulty": "hard"
+        },
+        {
           "id": 13,
-          "answer": "multilateralism",
-          "hint": "n. 多边主义",
+          "answer": "resilience",
+          "hint": "n. 韧性",
           "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "momentum",
-          "hint": "n. 动力",
-          "difficulty": "medium"
+          "answer": "frequent",
+          "hint": "adj. 频繁的",
+          "difficulty": "easy"
         },
         {
           "id": 15,
-          "answer": "principles",
-          "hint": "n. 原则",
-          "difficulty": "easy"
-        },
-        {
-          "id": 16,
-          "answer": "mutual",
-          "hint": "adj. 相互的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "leverage",
-          "hint": "v. 利用",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "convergence",
-          "hint": "n. 融合",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "consultation",
-          "hint": "n. 协商",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "approaches",
-          "hint": "n. 方式",
-          "difficulty": "easy"
-        },
-        {
-          "id": 21,
-          "answer": "commercial",
-          "hint": "adj. 商业的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 22,
-          "answer": "sector",
-          "hint": "n. 部门",
-          "difficulty": "easy"
-        },
-        {
-          "id": 23,
-          "answer": "adheres",
-          "hint": "v. 坚持",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "selfless",
-          "hint": "adj. 无私的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "witnessed",
-          "hint": "v. 见证",
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
           "difficulty": "medium"
         }
       ],
-      "fullText": "Chinese President Xi Jinping and Namibian President Netumbo Nandi-Ndaitwah announced the elevation of bilateral relations to a China-Namibia community with a shared future for the new era during their talks held Friday in Beijing.\nXi said China and Namibia enjoy profound traditional friendship and share common aspirations for development, adding that since the establishment of diplomatic ties, the two countries have always treated each other as equals and supported each other.\nNoting that bilateral friendly cooperation has continued to deepen, delivering tangible benefits to the two peoples, Xi said China stands ready to work with Namibia to enhance exchanges of development philosophies and synergize development strategies, and partner with each other on their paths to modernization.\nXi put forward three proposals for building a China-Namibia community with a shared future for the new era.\nChina and Namibia should maintain close high-level exchanges, deepen experience sharing on governance, stay in regular communication on issues of overall and strategic importance in bilateral relations, and continue to support each other on issues concerning their respective core interests and major concerns, Xi said.\nXi also urged the two sides to tap the potential of cooperation and take it to higher levels, encouraging Namibia to make full use of the zero-tariff access, the upgraded fast track for Namibian exports to reach China, and other favorable policies.\nChina is ready to deepen cooperation with Namibia in such areas as infrastructure, energy, mining, agriculture, education, youth, science and technology, he noted.\nXi added that the two countries should uphold solidarity and coordination to safeguard multilateralism. China is willing to work with African countries, including Namibia, to enhance the strength and voice of the Global South, and make new contributions to building a community with a shared future for humanity, Xi said.\nNoting that helping Africa develop its abundant mineral resources and effectively translate its resource advantage into development momentum is an important way to accelerate Africa's modernization, Xi said China stands ready to continue strengthening mining cooperation with African countries, including Namibia, based on three principles.\nThe first is pursuing mutual benefit and win-win cooperation, Xi said, adding that the two sides should fully leverage their complementary strengths and deepen the convergence of interests.\nXi said the second is conducting friendly consultation, calling for proceeding from the big picture of China-Africa friendship, and properly resolving issues in cooperation through communication and consultation.\nHe noted the third is breaking new ground, adding that China stands ready to work with Africa to explore new approaches to cooperation in accordance with market-oriented and commercial principles, with a view to upgrading the quality of China-Africa cooperation in the mining sector.\nFor her part, Nandi-Ndaitwah extended warm congratulations on the 105th anniversary of the founding of the Communist Party of China. Namibia attaches great importance to its relations with China and firmly adheres to the one-China principle, she added.\nNamibia welcomes more Chinese enterprises to invest and operate in the country, and hopes to strengthen cooperation in areas such as industry, mining, infrastructure, aviation and space, science and technology, agriculture and water resources, said Nandi-Ndaitwah.\nChina has long provided selfless support and assistance to African countries, including Namibia, and has always upheld a just position in international and regional affairs, said the president. She added that Namibia will enhance communication and coordination with China to safeguard the common interests of developing countries and jointly build a community with a shared future for humanity.\nFollowing the talks, the two presidents witnessed the signing of multiple cooperation documents in areas such as economy and trade, healthcare, education and human resources.\nThe two sides also issued a joint statement on building a China-Namibia community with a shared future for the new era.\nPrior to the talks, Xi and his wife Peng Liyuan held a welcome ceremony for Nandi-Ndaitwah and her spouse Epaphras Denga Ndaitwah. Xi and Peng also held a welcome banquet for them in the evening.",
-      "fullTextCn": "中国国家主席习近平与纳米比亚总统内通博·南迪-恩代特瓦周五在北京举行会谈，宣布将双边关系提升为新时代中纳命运共同体。习近平表示，中纳两国拥有深厚的传统友谊和共同的发展愿望，自建交以来始终平等相待、相互支持。他指出，双边友好合作不断深化，为两国人民带来了实实在在的利益，中方愿与纳方加强发展理念交流和发展战略对接，携手迈向现代化。习近平就构建新时代中纳命运共同体提出三项建议：中纳应保持高层密切交往，深化治国理政经验交流，就双边关系中具有全局性和战略性的问题保持经常性沟通，并在涉及各自核心利益和重大关切的问题上继续相互支持。\n\n习近平还敦促双方挖掘合作潜力，提升合作水平，鼓励纳米比亚充分利用零关税准入、升级版纳米比亚对华出口快速通道等优惠政策。他指出，中方愿在基础设施、能源、矿业、农业、教育、青年、科技等领域深化与纳米比亚的合作。习近平强调，两国应坚持团结协作，维护多边主义。中方愿与包括纳米比亚在内的非洲国家一道，增强“全球南方”的力量和声音，为构建人类命运共同体作出新贡献。习近平指出，帮助非洲开发丰富的矿产资源，有效将资源优势转化为发展动力，是加速非洲现代化的重要途径，中方愿继续在三个原则基础上加强与包括纳米比亚在内的非洲国家的矿业合作。\n\n习近平表示，第一是坚持互利共赢合作，双方应充分发挥互补优势，深化利益融合。第二是开展友好协商，呼吁从中非友谊大局出发，通过沟通协商妥善解决合作中的问题。第三是开拓创新，中方愿与非洲一道，按照市场化和商业化原则探索新的合作方式，以提升中非矿业合作的质量。南迪-恩代特瓦热烈祝贺中国共产党成立105周年。她表示，纳米比亚高度重视对华关系，坚定恪守一个中国原则。\n\n南迪-恩代特瓦表示，纳米比亚欢迎更多中国企业来纳投资兴业，希望加强在工业、矿业、基础设施、航空航天、科技、农业和水资源等领域的合作。她指出，中国长期以来向包括纳米比亚在内的非洲国家提供了无私支持和援助，并在国际和地区事务中始终秉持公正立场。她表示，纳米比亚将加强与中国的沟通协调，维护发展中国家的共同利益，共同构建人类命运共同体。会谈后，两国元首见证了经贸、医疗、教育和人力资源等领域多项合作文件的签署。双方还发表了关于构建新时代中纳命运共同体的联合声明。\n\n会谈前，习近平和夫人彭丽媛为南迪-恩代特瓦和丈夫埃帕弗拉斯·登加·恩代特瓦举行了欢迎仪式。当晚，习近平和彭丽媛还为他们举行了欢迎宴会。"
+      "fullText": "The EU's Copernicus Climate Change Service reported that Western Europe recently experienced its hottest June on record. In the UK, the Met Office said the country has already recorded eight days with temperatures above 34 degrees Celsius this year, surpassing the previous annual record.\nExtreme heat is no longer an occasional weather event. It is becoming a growing challenge for public health, urban infrastructure and daily life.\nAs temperatures rise, one demand is increasing rapidly: cooling.\nA view of the China-Europe Railway Express. /CMG\nA hotter world is driving demand for cooling\nFor decades, many European homes relied on natural ventilation and building designs suited to colder climates rather than widespread air conditioning. But repeated heatwaves are changing attitudes.\nThis summer, demand for cooling equipment has increased across Europe. A China-Europe freight train departing Guangzhou, Guangdong Province, south China, recently carried 55 containers of air conditioners and household appliances to Poland and other European destinations. Between April and June, more than 100,000 portable air conditioners and related components were shipped via the China-Europe Railway Express.\nThe trend reflects a wider global reality: as the planet warms, cooling is increasingly becoming part of climate adaptation.\nBut it also raises a difficult question: Does using more air conditioners undermine climate goals?\nA resident rests beside a fountain basin in the gardens of the Palais-Royal during a heat wave in Paris, France, on July 10, 2026. \nThe problem is not cooling itself, but how cooling is provided\nAir conditioning has long been criticized for its environmental impact. The concerns are real: Cooling requires electricity, and older refrigerants could contribute significantly to global warming if they leak.\nHowever, international organizations argue that the debate is more complicated.\nThe United Nations Environment Programme (UNEP) says cooling is essential for human health, food security, economic productivity and climate resilience. Its report Keeping Cool: A Global Cooling Watch Report emphasizes that the challenge is not eliminating cooling, but making it sustainable.\nThe International Energy Agency (IEA) has also warned that global demand for air conditioning will continue to rise as temperatures increase. Without efficiency improvements, cooling-related electricity demand could surge dramatically. But with high-efficiency technologies, cleaner power systems and better building design, emissions can be significantly reduced.\nIn other words, the environmental impact of air conditioning depends largely on energy sources, equipment efficiency and refrigerant management, rather than simply whether people use air conditioners.\nFrom air conditioning to sustainable cooling\nCountries are increasingly exploring ways to make cooling cleaner and more sustainable.\nModern inverter air conditioners can significantly reduce electricity consumption compared with older models, while newer refrigerants such as R-32 and R-290 have much lower global warming potential than many refrigerants used in previous generations.\nBeyond individual appliances, countries are also integrating renewable energy, energy storage and smart cooling systems into buildings and urban infrastructure. In places including China, rooftop solar power is being combined with efficient cooling technologies to reduce emissions. Since cooling demand often peaks during sunny and hot periods, solar-powered cooling offers a promising way to align renewable energy generation with rising electricity needs.\nAn infographic titled \"France places 9 departments on red heat wave alert as wildfires continue,\" created in Ankara, Türkiye, on July 10, 2026. \nCooling is also a public health issue\nThe debate over air conditioning is not only about energy – it is also about protecting people.\nThe World Health Organization (WHO) has identified extreme heat as a major climate-related health risk, particularly for older people, children and those with existing health conditions.\nAs heatwaves become more frequent, many experts argue that access to cooling should be viewed as part of climate resilience, alongside heat warning systems, urban greening and better building design.\nThe future challenge is therefore not simply choosing between using air conditioning and protecting the environment.\nThe real task is creating a new model of sustainable cooling – one that allows societies to stay safe in a warmer world while reducing emissions.\nAs Europe and the rest of the world adapt to rising temperatures, cooling may no longer be seen as the opposite of climate action. With cleaner energy and smarter technologies, it could become part of the solution.",
+      "fullTextCn": "欧盟哥白尼气候变化服务机构报告称，西欧最近经历了有记录以来最热的六月。英国气象局表示，该国今年已记录到八天气温超过34摄氏度，超过了之前的年度纪录。极端高温不再是偶发天气事件，它正成为公共卫生、城市基础设施和日常生活的日益严峻的挑战。随着气温上升，一个需求正在迅速增长：冷却。\n\n一个更热的世界正在推动冷却需求。几十年来，许多欧洲家庭依赖自然通风和适应寒冷气候的建筑设计，而非广泛使用空调。但反复的热浪正在改变人们的观念。今年夏天，欧洲对冷却设备的需求有所增加。一列从中国南方广东省广州市出发的中欧班列，最近运载了55个集装箱的空调和家用电器前往波兰等欧洲目的地。\n\n今年4月至6月间，超过10万台便携式空调及相关部件通过中欧班列运输。这一趋势反映了更广泛的全球现实：随着地球变暖，冷却正日益成为气候适应的一部分。但这也引发了一个难题：使用更多空调是否会破坏气候目标？问题不在于冷却本身，而在于冷却如何提供。长期以来，空调因其环境影响而受到批评。\n\n这些担忧是真实的：冷却需要电力，而较旧的制冷剂如果泄漏可能显著加剧全球变暖。然而，国际组织认为这一争论更为复杂。联合国环境规划署表示，冷却对人类健康、粮食安全、经济生产力和气候韧性至关重要。其报告《保持冷却：全球冷却观察报告》强调，挑战不在于消除冷却，而在于使其可持续。国际能源署也警告称，随着气温升高，全球对空调的需求将继续上升。\n\n如果不提高效率，与冷却相关的电力需求可能会急剧增加。但通过高效技术、更清洁的电力系统和更好的建筑设计，排放可以显著减少。换句话说，空调的环境影响主要取决于能源来源、设备效率和制冷剂管理，而不仅仅是人们是否使用空调。各国正越来越多地探索使冷却更清洁、更可持续的方法。与现代机型相比，现代变频空调可以显著降低电力消耗，而R-32和R-290等新型制冷剂的全球变暖潜能值远低于前几代使用的许多制冷剂。\n\n除了单个设备，各国还在将可再生能源、储能和智能冷却系统整合到建筑和城市基础设施中。在中国等地，屋顶太阳能正与高效冷却技术结合以减少排放。由于冷却需求通常在晴朗炎热的时段达到峰值，太阳能冷却提供了一种有前景的方式，使可再生能源发电与不断增长的电力需求相匹配。关于空调的争论不仅关乎能源，也关乎保护人民。\n\n世界卫生组织已将极端高温确定为与气候相关的主要健康风险，特别是对老年人、儿童和已有健康问题的人群。随着热浪变得更加频繁，许多专家认为，获得冷却应被视为气候韧性的一部分，与高温预警系统、城市绿化和更好的建筑设计并列。因此，未来的挑战不仅仅是在使用空调和保护环境之间做出选择。真正的任务是创建一种可持续冷却的新模式——一种能让社会在更热的世界中保持安全同时减少排放的模式。随着欧洲和世界其他地区适应气温上升，冷却可能不再被视为气候行动的对立面。\n\n借助更清洁的能源和更智能的技术，它可能成为解决方案的一部分。"
     },
     {
-      "id": 5,
-      "category": "technology",
+      "id": 2,
+      "category": "military",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-03/Amazon-to-launch-initial-Leo-satellite-internet-service-this-year-1OtaNfcFb9e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Amazon to launch initial Leo satellite internet service this year",
-      "titleCn": "亚马逊将于今年推出首批Leo卫星互联网服务",
-      "summary": "Amazon expects to roll out initial internet service with its Leo broadband satellite ​network later this year after the company's latest launch put the orbiting constellation's satellite count over 390, a ‌company executive said on Thursday.",
-      "summaryCn": "亚马逊计划今年晚些时候通过其Leo宽带卫星网络启动初始互联网服务，目前卫星数量已超过390颗，并逐步扩大覆盖范围。",
-      "wordCount": 524,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-11/China-calls-for-restraint-and-dialogue-to-uphold-US-Iran-ceasefire-1OGCPVSdJ84/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "China calls for restraint and dialogue to uphold US-Iran ceasefire",
+      "titleCn": "中国呼吁克制与对话以维护美伊停火",
+      "summary": "China on Friday called for efforts to preserve the ceasefire and prevent further escalation in the Middle East, stressing that dialogue and diplomacy remain the only viable path to resolving the Iran nuclear issue.",
+      "summaryCn": "中国在联合国安理会呼吁各方保持克制，通过对话和外交途径解决伊朗核问题，维护中东停火局面。",
+      "wordCount": 613,
       "paragraphs": [
         {
-          "en": "Amazon Leo Satellite Connectivity signage is displayed during the annual Consumer Electronics Show (CES) in Las Vegas, Nevada on January 6, 2026. Amazon expects to roll out initial internet service with its Leo broadband satellite network later this year after the company's latest launch put the orbiting {{9}}'s satellite count over 390, a company {{1}} said on Thursday. Amazon's latest {{2}} of 29 satellites lifted off from Florida early on Thursday aboard an Atlas V rocket from United Launch Alliance, marking the company's 14th launch of dozens more planned to {{3}} more than 3,200 satellites that will provide global internet {{4}} from space. \"Still lots of work ahead – including raising all these new satellites to their {{5}} {{6}},\" Amazon's Leo chief Chris Weber said in a post on X. \"But we've completed enough launches for initial service this yr, and future missions just add coverage and capacity.\"\nWeber did not say in which {{7}} Amazon plans to begin service, but initial service is expected to begin near Earth's north and south poles and gradually spread inward toward the {{8}} as more satellites are added.",
-          "cn": "2026年1月6日，内华达州拉斯维加斯举行的年度消费电子展（CES）上，展示了亚马逊Leo卫星连接标识。亚马逊一位高管周四表示，在公司最新发射后，其Leo宽带卫星网络的在轨星座卫星数量已超过390颗，预计今年晚些时候将推出初始互联网服务。亚马逊最新一批29颗卫星于周四凌晨从佛罗里达州搭乘联合发射联盟的Atlas V火箭升空，这是该公司计划部署超过3200颗卫星以提供全球太空互联网覆盖的14次发射之一。“前方仍有大量工作——包括将所有新卫星提升至指定轨道高度，”亚马逊Leo项目负责人克里斯·韦伯在X平台上发帖称。“但我们已完成足够多的发射，可在今年提供初始服务，未来的任务将增加覆盖范围和容量。”韦伯未说明亚马逊计划在哪个区域启动服务，但初始服务预计将在地球南北极附近开始，并随着更多卫星的加入逐渐向赤道方向扩展。"
+          "en": "A file photo of Sun Lei, China's deputy permanent representative to the United Nations, speaking at a United Nations Security Council meeting, New York, US, December 23, 2025. China on Friday called for efforts to {{3}} the {{2}} and prevent further {{4}} in the Middle East, stressing that {{1}} and diplomacy remain the only {{5}} path to resolving the Iran nuclear issue. Speaking at an open meeting of the UN Security Council on the Iran nuclear issue on Friday, Sun Lei, China's deputy permanent representative to the United Nations, said {{6}} in the region had eased {{7}} after the United States and Iran signed a memorandum of understanding (MoU), but the ceasefire situation has since faced {{8}} and {{9}} for negotiations remain complicated. \"The proper resolution of the Iran nuclear issue bears on whether the Middle East can return to peace and stability, as well as the common interests of the international community,\" Sun said. He urged all relevant parties to advance negotiations with a {{10}} and {{11}} approach.",
+          "cn": "中国周五呼吁努力维护停火并防止中东局势进一步升级，强调对话和外交仍是解决伊朗核问题的唯一可行途径。中国常驻联合国副代表孙磊在周五联合国安理会关于伊朗核问题的公开会议上表示，美国和伊朗签署谅解备忘录后，地区紧张局势暂时缓解，但停火局面此后遭遇挫折，谈判前景依然复杂。孙磊说：“妥善解决伊朗核问题，关系到中东能否恢复和平稳定，也关系到国际社会的共同利益。”他敦促所有相关方以理性务实的态度推进谈判。"
         },
         {
-          "en": "The constellation has 394 satellites in orbit so far of 398 launched since April 2025, according to spaceflight analyst and Harvard astronomer Jonathan McDowell. The growing Leo constellation is a budding {{10}} to SpaceX's established Starlink, which has a growing tally of roughly 10,000 satellites. Like Starlink, Amazon plans to offer internet service to consumers with Leo {{11}} - sized from roughly the size of a laptop to larger and more powerful versions - as well as governments and companies such as airlines. Amazon has been targeting a service start of mid-2026, relying on tens of billions of dollars worth of rocket {{12}} to loft its satellites into space. ULA's Atlas V has become a workhorse for the network as the other rockets Amazon plans to use, Blue Origin's New Glenn and ULA's Vulcan, are grounded.",
-          "cn": "据太空飞行分析师兼哈佛天文学家乔纳森·麦克道尔称，自2025年4月以来发射的398颗卫星中，目前已有394颗在轨。不断壮大的Leo星座正成为SpaceX已建立的Starlink的新兴竞争对手，后者拥有约1万颗卫星且数量持续增长。与Starlink类似，亚马逊计划通过Leo终端——尺寸从大约笔记本电脑大小到更大更强大的版本——向消费者、政府以及航空公司等企业提供互联网服务。亚马逊一直将服务启动目标定在2026年年中，依靠价值数百亿美元的火箭预订将卫星送入太空。ULA的Atlas V已成为该网络的主力火箭，而亚马逊计划使用的其他火箭——蓝色起源的New Glenn和ULA的Vulcan——目前均处于停飞状态。"
+          "en": "Sun noted that under the MoU, the United States and Iran committed to respecting each other's {{12}} and {{13}} {{14}}, permanently halting military activities on all fronts, and establishing a roadmap for negotiations and {{15}} relief. China called on all parties to remove obstacles, refrain from resorting to force or threatening the use of force, and uphold and implement the outcomes of the MoU, Sun said. He also urged efforts to reach a solution that addresses the concerns of all sides, lift sanctions against Iran as soon as possible, and make {{16}} progress toward a political settlement. Sun stressed that resolving the Iran nuclear issue requires respecting the legitimate concerns and lawful rights of all parties. \"Iran should continue to uphold its commitment not to develop nuclear weapons, while its legitimate right to the peaceful use of nuclear energy should be respected,\" he said.",
+          "cn": "孙磊指出，根据谅解备忘录，美国和伊朗承诺尊重彼此的主权和领土完整，永久停止所有战线上的军事活动，并制定谈判和制裁解除的路线图。孙磊表示，中国呼吁各方排除障碍，避免诉诸武力或威胁使用武力，维护并落实谅解备忘录的成果。他还敦促努力达成一项解决各方关切的方案，尽快解除对伊朗的制裁，并在政治解决方面取得实质性进展。孙磊强调，解决伊朗核问题需要尊重各方的合理关切和合法权利。他说：“伊朗应继续坚持不发展核武器的承诺，同时其和平利用核能的合法权利应得到尊重。”"
         },
         {
-          "en": "A New Glenn rocket {{13}} on its launchpad last month, destroying the launch tower and other hardware. The company's CEO Dave Limp expects to resume New Glenn launches by the end of the year as engineers zero in on the rocket's engine section to figure out what caused the explosion. ULA's new Vulcan rocket, which is booked to launch at least 40 Leo missions for Amazon, is also grounded over a solid rocket motor separation issue it encountered in February. Vulcan uses the same Blue Origin-built BE-4 engines as New Glenn and may see its return-to-flight further delayed if Blue Origin finds the BE-4 engines at fault for the New Glenn explosion. ULA spokeswoman Jessica Rye said Blue Origin engineers \"are being transparent with us as they work through the {{14}}.",
-          "cn": "上个月，一枚New Glenn火箭在发射台上爆炸，摧毁了发射塔和其他硬件。该公司首席执行官戴夫·林普预计，随着工程师们集中排查火箭发动机部分以查明爆炸原因，New Glenn发射将在年底前恢复。ULA的新型Vulcan火箭——已预订为亚马逊执行至少40次Leo任务——也因2月份遇到的固体火箭发动机分离问题而停飞。Vulcan使用与New Glenn相同的蓝色起源制造的BE-4发动机，如果蓝色起源发现BE-4发动机是New Glenn爆炸的原因，其复飞可能进一步延迟。ULA发言人杰西卡·赖表示，蓝色起源工程师“在调查过程中对我们保持透明。如果存在与BE-4发动机相关的交叉问题，我们将与团队合作找出根本原因并加以解决。”"
+          "en": "Sun called on the United States to take concrete actions to create conditions for a political solution, adding that the Security Council's immediate priority should be to maintain an objective and {{17}} stance, provide time and space for diplomatic efforts, and create a favorable environment for negotiations. He stressed that the UN Security Council should not become a tool for individual countries to advance their political agendas or exert pressure. Before the meeting began, the Russian representative said that the UN Security Council Resolution 2231, which endorsed the Joint Comprehensive Plan of Action (JCPOA) on Iran's nuclear program, had expired and that the Iran nuclear issue had been removed from the Council's agenda. Russia requested a procedural vote on whether to proceed with the meeting. Sun later spoke in support of Russia's position.",
+          "cn": "孙磊呼吁美国采取具体行动，为政治解决创造条件。他补充说，安理会的当务之急应是保持客观公正的立场，为外交努力提供时间和空间，为谈判创造有利环境。他强调，联合国安理会不应成为个别国家推进政治议程或施压的工具。会议开始前，俄罗斯代表表示，认可伊朗核问题全面协议的联合国安理会第2231号决议已经到期，伊朗核问题已从安理会议程中删除。俄罗斯请求就是否继续举行会议进行程序性投票。孙磊随后发言支持俄罗斯的立场。"
         },
         {
-          "en": "If there are crossover items with the BE-4 engines, we will collaborate with the team to find root cause and address it.\"\nAmazon has roughly 100 rocket launches booked worth at least $82 billion in total to build out the constellation. Its other launch providers include French rocket maker Arianespace's Ariane 6 and SpaceX's Falcon 9, the partially reusable rocket that has been vital to SpaceX's {{15}} of its own Starlink satellites.",
-          "cn": "亚马逊已预订约100次火箭发射，总价值至少820亿美元，用于建设该星座。其其他发射供应商包括法国火箭制造商阿丽亚娜空间公司的Ariane 6和SpaceX的Falcon 9——这种部分可重复使用的火箭对SpaceX部署自己的Starlink卫星至关重要。"
+          "en": "Sun said China has repeatedly stated that Resolution 2231 expired on October 18, 2025, after which the Security Council terminated its consideration of the Iran nuclear issue and the UN secretary-general should stop submitting related reports. \"The current situation in the Middle East and the Iran nuclear issue are at a critical juncture. The Security Council should play a constructive role in promoting negotiations and easing tensions,\" Sun said. He expressed concern that some Security Council members had insisted on holding a meeting under an agenda item that had already been terminated, claiming to support diplomatic efforts. Such actions, he said, would not only deepen divisions within the Security Council, but also undermine the atmosphere for negotiations and seriously hinder a political resolution of the Iran nuclear issue.",
+          "cn": "孙磊表示，中国多次指出，第2231号决议已于2025年10月18日到期，此后安理会终止了对伊朗核问题的审议，联合国秘书长应停止提交相关报告。孙磊说：“当前中东局势和伊朗核问题正处于关键节点。安理会应在推动谈判和缓和紧张局势方面发挥建设性作用。”他对一些安理会成员坚持在已经终止的议程项目下举行会议、声称支持外交努力表示关切。他说，此类行动不仅会加深安理会内部的分歧，还会破坏谈判氛围，严重阻碍伊朗核问题的政治解决。"
+        },
+        {
+          "en": "China urged relevant countries to stop political manipulation at the Security Council, implement the termination provisions of Resolution 2231, safeguard the authority of the Council and the credibility of multilateral diplomacy, and create favorable conditions for a political settlement.",
+          "cn": "中国敦促相关国家停止在安理会的政治操弄，落实第2231号决议的终止条款，维护安理会的权威和多边外交的公信力，为政治解决创造有利条件。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "executive",
-          "hint": "n. 高管",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "batch",
-          "hint": "n. 一批",
+          "answer": "dialogue",
+          "hint": "n. 对话",
           "difficulty": "easy"
         },
         {
+          "id": 1,
+          "answer": "ceasefire",
+          "hint": "n. 停火",
+          "difficulty": "medium"
+        },
+        {
           "id": 2,
-          "answer": "deploy",
-          "hint": "v. 部署",
+          "answer": "preserve",
+          "hint": "v. 维护",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "coverage",
-          "hint": "n. 覆盖范围",
-          "difficulty": "medium"
+          "answer": "escalation",
+          "hint": "n. 升级",
+          "difficulty": "hard"
         },
         {
           "id": 4,
-          "answer": "assigned",
-          "hint": "adj. 指定的",
+          "answer": "viable",
+          "hint": "adj. 可行的",
           "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "altitude",
-          "hint": "n. 高度",
+          "answer": "tensions",
+          "hint": "n. 紧张局势",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "region",
-          "hint": "n. 区域",
-          "difficulty": "easy"
+          "answer": "temporarily",
+          "hint": "adv. 暂时地",
+          "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "equator",
-          "hint": "n. 赤道",
-          "difficulty": "hard"
+          "answer": "setbacks",
+          "hint": "n. 挫折",
+          "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "constellation",
-          "hint": "n. 星座",
+          "answer": "prospects",
+          "hint": "n. 前景",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "rival",
-          "hint": "n. 竞争对手",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "terminals",
-          "hint": "n. 终端",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "bookings",
-          "hint": "n. 预订",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "exploded",
-          "hint": "v. 爆炸",
+          "answer": "rational",
+          "hint": "adj. 理性的",
           "difficulty": "easy"
         },
         {
+          "id": 10,
+          "answer": "pragmatic",
+          "hint": "adj. 务实的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "sovereignty",
+          "hint": "n. 主权",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "territorial",
+          "hint": "adj. 领土的",
+          "difficulty": "medium"
+        },
+        {
           "id": 13,
-          "answer": "investigation",
-          "hint": "n. 调查",
+          "answer": "integrity",
+          "hint": "n. 完整",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "deployment",
-          "hint": "n. 部署",
+          "answer": "sanctions",
+          "hint": "n. 制裁",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "substantive",
+          "hint": "adj. 实质性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "impartial",
+          "hint": "adj. 公正的",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "A file photo of Sun Lei, China's deputy permanent representative to the United Nations, speaking at a United Nations Security Council meeting, New York, US, December 23, 2025. \nChina on Friday called for efforts to preserve the ceasefire and prevent further escalation in the Middle East, stressing that dialogue and diplomacy remain the only viable path to resolving the Iran nuclear issue.\nSpeaking at an open meeting of the UN Security Council on the Iran nuclear issue on Friday, Sun Lei, China's deputy permanent representative to the United Nations, said tensions in the region had eased temporarily after the United States and Iran signed a memorandum of understanding (MoU), but the ceasefire situation has since faced setbacks and prospects for negotiations remain complicated.\n\"The proper resolution of the Iran nuclear issue bears on whether the Middle East can return to peace and stability, as well as the common interests of the international community,\" Sun said.\nHe urged all relevant parties to advance negotiations with a rational and pragmatic approach.\nSun noted that under the MoU, the United States and Iran committed to respecting each other's sovereignty and territorial integrity, permanently halting military activities on all fronts, and establishing a roadmap for negotiations and sanctions relief.\nChina called on all parties to remove obstacles, refrain from resorting to force or threatening the use of force, and uphold and implement the outcomes of the MoU, Sun said. He also urged efforts to reach a solution that addresses the concerns of all sides, lift sanctions against Iran as soon as possible, and make substantive progress toward a political settlement.\nSun stressed that resolving the Iran nuclear issue requires respecting the legitimate concerns and lawful rights of all parties.\n\"Iran should continue to uphold its commitment not to develop nuclear weapons, while its legitimate right to the peaceful use of nuclear energy should be respected,\" he said.\nSun called on the United States to take concrete actions to create conditions for a political solution, adding that the Security Council's immediate priority should be to maintain an objective and impartial stance, provide time and space for diplomatic efforts, and create a favorable environment for negotiations.\nHe stressed that the UN Security Council should not become a tool for individual countries to advance their political agendas or exert pressure.\nBefore the meeting began, the Russian representative said that the UN Security Council Resolution 2231, which endorsed the Joint Comprehensive Plan of Action (JCPOA) on Iran's nuclear program, had expired and that the Iran nuclear issue had been removed from the Council's agenda.\nRussia requested a procedural vote on whether to proceed with the meeting. Sun later spoke in support of Russia's position.\nSun said China has repeatedly stated that Resolution 2231 expired on October 18, 2025, after which the Security Council terminated its consideration of the Iran nuclear issue and the UN secretary-general should stop submitting related reports.\n\"The current situation in the Middle East and the Iran nuclear issue are at a critical juncture. The Security Council should play a constructive role in promoting negotiations and easing tensions,\" Sun said.\nHe expressed concern that some Security Council members had insisted on holding a meeting under an agenda item that had already been terminated, claiming to support diplomatic efforts.\nSuch actions, he said, would not only deepen divisions within the Security Council, but also undermine the atmosphere for negotiations and seriously hinder a political resolution of the Iran nuclear issue.\nChina urged relevant countries to stop political manipulation at the Security Council, implement the termination provisions of Resolution 2231, safeguard the authority of the Council and the credibility of multilateral diplomacy, and create favorable conditions for a political settlement.",
+      "fullTextCn": "中国周五呼吁努力维护停火并防止中东局势进一步升级，强调对话和外交仍是解决伊朗核问题的唯一可行途径。中国常驻联合国副代表孙磊在周五联合国安理会关于伊朗核问题的公开会议上表示，美国和伊朗签署谅解备忘录后，地区紧张局势暂时缓解，但停火局面此后遭遇挫折，谈判前景依然复杂。孙磊说：“妥善解决伊朗核问题，关系到中东能否恢复和平稳定，也关系到国际社会的共同利益。”他敦促所有相关方以理性务实的态度推进谈判。\n\n孙磊指出，根据谅解备忘录，美国和伊朗承诺尊重彼此的主权和领土完整，永久停止所有战线上的军事活动，并制定谈判和制裁解除的路线图。孙磊表示，中国呼吁各方排除障碍，避免诉诸武力或威胁使用武力，维护并落实谅解备忘录的成果。他还敦促努力达成一项解决各方关切的方案，尽快解除对伊朗的制裁，并在政治解决方面取得实质性进展。孙磊强调，解决伊朗核问题需要尊重各方的合理关切和合法权利。他说：“伊朗应继续坚持不发展核武器的承诺，同时其和平利用核能的合法权利应得到尊重。”\n\n孙磊呼吁美国采取具体行动，为政治解决创造条件。他补充说，安理会的当务之急应是保持客观公正的立场，为外交努力提供时间和空间，为谈判创造有利环境。他强调，联合国安理会不应成为个别国家推进政治议程或施压的工具。会议开始前，俄罗斯代表表示，认可伊朗核问题全面协议的联合国安理会第2231号决议已经到期，伊朗核问题已从安理会议程中删除。俄罗斯请求就是否继续举行会议进行程序性投票。孙磊随后发言支持俄罗斯的立场。\n\n孙磊表示，中国多次指出，第2231号决议已于2025年10月18日到期，此后安理会终止了对伊朗核问题的审议，联合国秘书长应停止提交相关报告。孙磊说：“当前中东局势和伊朗核问题正处于关键节点。安理会应在推动谈判和缓和紧张局势方面发挥建设性作用。”他对一些安理会成员坚持在已经终止的议程项目下举行会议、声称支持外交努力表示关切。他说，此类行动不仅会加深安理会内部的分歧，还会破坏谈判氛围，严重阻碍伊朗核问题的政治解决。\n\n中国敦促相关国家停止在安理会的政治操弄，落实第2231号决议的终止条款，维护安理会的权威和多边外交的公信力，为政治解决创造有利条件。"
+    },
+    {
+      "id": 3,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-07-11/Nigerian-troops-kill-over-300-terrorists-in-Zamfara-state--1OGYVLpiVEc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Nigerian troops kill over 300 'terrorists' in Zamfara state",
+      "titleCn": "尼日利亚军队在扎姆法拉州击毙逾300名“恐怖分子”",
+      "summary": "Nigerian troops killed over 300 members of kidnapping and cattle rustling gangs in the northwestern state of Zamfara this week, a state official said Friday.",
+      "summaryCn": "尼日利亚军队在扎姆法拉州的一次行动中击毙了300多名绑架和偷牛团伙成员。",
+      "wordCount": 384,
+      "paragraphs": [
+        {
+          "en": "FILE: Nigerian soldiers prepare to patrol during the visit of Nigeria's Chief of Defense Staff General Olufemi Oluyede at the Headquarters Theatre Command Joint Task Force in Maiduguri on March 18, 2026, after one of the deadliest attacks in the Borno state capital in years. /CFP\nNigerian {{0}} killed over 300 members of {{1}} and cattle {{2}} gangs in the northwestern state of Zamfara this week, a state official said Friday. Troops targeted the gangs in Gummi district in a two-day operation that \"led to the {{3}} of more than 300 {{4}},\" Zamfara information commissioner Mahmud Muhammad Dantawasa said in a statement. Jihadists and \"bandit\" gangs specializing in kidnapping for {{6}} {{7}} communities in northern and central Nigeria, where they launch deadly {{8}} and impose {{9}} on farmers wishing to access their own fields. Abubakar Muhammad, a Gummi resident, said soldiers and local {{10}} fought around 1,000 bandits who were {{11}} from their camp with hundreds of stolen herd late on Wednesday through Thursday. \"The soldiers and the vigilantes killed more than 300 bandits in the fight, which raged throughout the night and into the following morning,” Muhammad said. Abubakar Kudi-Kasa, another resident, said the offensive began around 2130 GMT on Wednesday, with the sound of gunfire and explosions keeping the town awake throughout the night.",
+          "cn": "资料图：2026年3月18日，尼日利亚博尔诺州首府迈杜古里发生数年来最致命袭击后，尼日利亚国防参谋长奥卢费米·奥卢耶德将军视察联合特遣部队战区司令部总部，尼日利亚士兵准备巡逻。/CFP\n尼日利亚一名州官员周五表示，本周尼日利亚军队在西北部扎姆法拉州击毙了300多名绑架和偷牛团伙成员。扎姆法拉州信息专员马哈茂德·穆罕默德·丹塔瓦萨在一份声明中表示，军队在古米地区针对这些团伙展开为期两天的行动，“导致300多名恐怖分子被消灭”。圣战分子和专门从事绑架勒索的“匪帮”在尼日利亚北部和中部地区恐吓社区，他们发动致命袭击，并对希望进入自己田地的农民征收费用。古米居民阿布巴卡尔·穆罕默德表示，周三深夜至周四，士兵和当地治安人员与约1000名正带着数百头偷来的牲畜从营地转移的匪徒交战。穆罕默德说：“士兵和治安人员在战斗中击毙了300多名匪徒，战斗持续了整夜，直到第二天早上。”另一名居民阿布巴卡尔·库迪-卡萨表示，进攻于格林尼治标准时间周三21时30分左右开始，枪声和爆炸声让小镇彻夜未眠。"
+        },
+        {
+          "en": "\"The bandits are still under {{12}} by soldiers and vigilantes,\" Kudi-Kasa said. Troops tried to {{13}} the bandits' camp two weeks ago but were forced to withdraw due to the \"sheer number of the well-armed bandits\", Kudi-Kasa said. \"The soldiers prepared well and returned to hit them hard,” he added. Another resident, Shehu Dandare, gave a similar death toll after troops \"pounded\" the gangs. In July last year, Nigerian soldiers killed at least 150 bandits in an ambush on a massive convoy of around 350 bandits in nearby Kebbi state as they were heading to their camp in neighbouring Niger state, local officials said. A month later, the military killed more than 100 bandits in Zamfara's Bukkuyum local government area, where fighter jets in coordination with ground troops pounded a gathering of more than 400 gang members in a forest camp, according to a security report prepared for the United Nations. The Zamfara government described this week's operation as a \"significant {{14}}\" in the fight against violent crime.",
+          "cn": "库迪-卡萨说：“匪徒仍被士兵和治安人员围困。”库迪-卡萨表示，两周前，军队曾试图攻占匪徒的营地，但因“全副武装的匪徒人数众多”而被迫撤退。“士兵们做好了充分准备，回来给了他们沉重打击，”他补充道。另一名居民谢胡·丹达雷在军队“猛攻”这些团伙后给出了类似的死亡人数。当地官员称，去年7月，尼日利亚士兵在邻近的凯比州伏击了约350名匪徒的大规模车队，当时他们正前往邻国尼日尔州的营地，至少击毙了150名匪徒。一个月后，军方在扎姆法拉州布库尤姆地方政府区击毙了100多名匪徒。根据为联合国准备的一份安全报告，战斗机与地面部队协调，对森林营地中聚集的400多名团伙成员进行了猛烈攻击。扎姆法拉州政府将本周的行动描述为打击暴力犯罪的“重大突破”。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "troops",
+          "hint": "n. 军队",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "kidnapping",
+          "hint": "n. 绑架",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "rustling",
+          "hint": "n. 偷窃（牲畜）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "elimination",
+          "hint": "n. 消灭",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "terrorists",
+          "hint": "n. 恐怖分子",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "ransom",
+          "hint": "n. 赎金",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "terrorise",
+          "hint": "v. 恐吓",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "raids",
+          "hint": "n. 袭击",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "levies",
+          "hint": "n. 征收（费用）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "vigilantes",
+          "hint": "n. 治安人员",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "relocating",
+          "hint": "v. 转移",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "siege",
+          "hint": "n. 围困",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "overrun",
+          "hint": "v. 攻占",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "breakthrough",
+          "hint": "n. 突破",
           "difficulty": "medium"
         }
       ],
-      "fullText": "Amazon Leo Satellite Connectivity signage is displayed during the annual Consumer Electronics Show (CES) in Las Vegas, Nevada on January 6, 2026. \nAmazon expects to roll out initial internet service with its Leo broadband satellite network later this year after the company's latest launch put the orbiting constellation's satellite count over 390, a company executive said on Thursday.\nAmazon's latest batch of 29 satellites lifted off from Florida early on Thursday aboard an Atlas V rocket from United Launch Alliance, marking the company's 14th launch of dozens more planned to deploy more than 3,200 satellites that will provide global internet coverage from space.\n\"Still lots of work ahead – including raising all these new satellites to their assigned altitude,\" Amazon's Leo chief Chris Weber said in a post on X. \"But we've completed enough launches for initial service this yr, and future missions just add coverage and capacity.\"\nWeber did not say in which region Amazon plans to begin service, but initial service is expected to begin near Earth's north and south poles and gradually spread inward toward the equator as more satellites are added.\nThe constellation has 394 satellites in orbit so far of 398 launched since April 2025, according to spaceflight analyst and Harvard astronomer Jonathan McDowell.\nThe growing Leo constellation is a budding rival to SpaceX's established Starlink, which has a growing tally of roughly 10,000 satellites. Like Starlink, Amazon plans to offer internet service to consumers with Leo terminals - sized from roughly the size of a laptop to larger and more powerful versions - as well as governments and companies such as airlines.\nAmazon has been targeting a service start of mid-2026, relying on tens of billions of dollars worth of rocket bookings to loft its satellites into space. ULA's Atlas V has become a workhorse for the network as the other rockets Amazon plans to use, Blue Origin's New Glenn and ULA's Vulcan, are grounded.\nA New Glenn rocket exploded on its launchpad last month, destroying the launch tower and other hardware. The company's CEO Dave Limp expects to resume New Glenn launches by the end of the year as engineers zero in on the rocket's engine section to figure out what caused the explosion.\nULA's new Vulcan rocket, which is booked to launch at least 40 Leo missions for Amazon, is also grounded over a solid rocket motor separation issue it encountered in February. Vulcan uses the same Blue Origin-built BE-4 engines as New Glenn and may see its return-to-flight further delayed if Blue Origin finds the BE-4 engines at fault for the New Glenn explosion.\nULA spokeswoman Jessica Rye said Blue Origin engineers \"are being transparent with us as they work through the investigation. If there are crossover items with the BE-4 engines, we will collaborate with the team to find root cause and address it.\"\nAmazon has roughly 100 rocket launches booked worth at least $82 billion in total to build out the constellation. Its other launch providers include French rocket maker Arianespace's Ariane 6 and SpaceX's Falcon 9, the partially reusable rocket that has been vital to SpaceX's deployment of its own Starlink satellites.",
-      "fullTextCn": "2026年1月6日，内华达州拉斯维加斯举行的年度消费电子展（CES）上，展示了亚马逊Leo卫星连接标识。亚马逊一位高管周四表示，在公司最新发射后，其Leo宽带卫星网络的在轨星座卫星数量已超过390颗，预计今年晚些时候将推出初始互联网服务。亚马逊最新一批29颗卫星于周四凌晨从佛罗里达州搭乘联合发射联盟的Atlas V火箭升空，这是该公司计划部署超过3200颗卫星以提供全球太空互联网覆盖的14次发射之一。“前方仍有大量工作——包括将所有新卫星提升至指定轨道高度，”亚马逊Leo项目负责人克里斯·韦伯在X平台上发帖称。“但我们已完成足够多的发射，可在今年提供初始服务，未来的任务将增加覆盖范围和容量。”韦伯未说明亚马逊计划在哪个区域启动服务，但初始服务预计将在地球南北极附近开始，并随着更多卫星的加入逐渐向赤道方向扩展。\n\n据太空飞行分析师兼哈佛天文学家乔纳森·麦克道尔称，自2025年4月以来发射的398颗卫星中，目前已有394颗在轨。不断壮大的Leo星座正成为SpaceX已建立的Starlink的新兴竞争对手，后者拥有约1万颗卫星且数量持续增长。与Starlink类似，亚马逊计划通过Leo终端——尺寸从大约笔记本电脑大小到更大更强大的版本——向消费者、政府以及航空公司等企业提供互联网服务。亚马逊一直将服务启动目标定在2026年年中，依靠价值数百亿美元的火箭预订将卫星送入太空。ULA的Atlas V已成为该网络的主力火箭，而亚马逊计划使用的其他火箭——蓝色起源的New Glenn和ULA的Vulcan——目前均处于停飞状态。\n\n上个月，一枚New Glenn火箭在发射台上爆炸，摧毁了发射塔和其他硬件。该公司首席执行官戴夫·林普预计，随着工程师们集中排查火箭发动机部分以查明爆炸原因，New Glenn发射将在年底前恢复。ULA的新型Vulcan火箭——已预订为亚马逊执行至少40次Leo任务——也因2月份遇到的固体火箭发动机分离问题而停飞。Vulcan使用与New Glenn相同的蓝色起源制造的BE-4发动机，如果蓝色起源发现BE-4发动机是New Glenn爆炸的原因，其复飞可能进一步延迟。ULA发言人杰西卡·赖表示，蓝色起源工程师“在调查过程中对我们保持透明。如果存在与BE-4发动机相关的交叉问题，我们将与团队合作找出根本原因并加以解决。”\n\n亚马逊已预订约100次火箭发射，总价值至少820亿美元，用于建设该星座。其其他发射供应商包括法国火箭制造商阿丽亚娜空间公司的Ariane 6和SpaceX的Falcon 9——这种部分可重复使用的火箭对SpaceX部署自己的Starlink卫星至关重要。"
+      "fullText": "FILE: Nigerian soldiers prepare to patrol during the visit of Nigeria's Chief of Defense Staff General Olufemi Oluyede at the Headquarters Theatre Command Joint Task Force in Maiduguri on March 18, 2026, after one of the deadliest attacks in the Borno state capital in years. /CFP\nNigerian troops killed over 300 members of kidnapping and cattle rustling gangs in the northwestern state of Zamfara this week, a state official said Friday.\nTroops targeted the gangs in Gummi district in a two-day operation that \"led to the elimination of more than 300 terrorists,\" Zamfara information commissioner Mahmud Muhammad Dantawasa said in a statement.\nJihadists and \"bandit\" gangs specializing in kidnapping for ransom terrorise communities in northern and central Nigeria, where they launch deadly raids and impose levies on farmers wishing to access their own fields.\nAbubakar Muhammad, a Gummi resident, said soldiers and local vigilantes fought around 1,000 bandits who were relocating from their camp with hundreds of stolen herd late on Wednesday through Thursday.\n\"The soldiers and the vigilantes killed more than 300 bandits in the fight, which raged throughout the night and into the following morning,” Muhammad said.\nAbubakar Kudi-Kasa, another resident, said the offensive began around 2130 GMT on Wednesday, with the sound of gunfire and explosions keeping the town awake throughout the night.\n\"The bandits are still under siege by soldiers and vigilantes,\" Kudi-Kasa said.\nTroops tried to overrun the bandits' camp two weeks ago but were forced to withdraw due to the \"sheer number of the well-armed bandits\", Kudi-Kasa said.\n\"The soldiers prepared well and returned to hit them hard,” he added.\nAnother resident, Shehu Dandare, gave a similar death toll after troops \"pounded\" the gangs.\nIn July last year, Nigerian soldiers killed at least 150 bandits in an ambush on a massive convoy of around 350 bandits in nearby Kebbi state as they were heading to their camp in neighbouring Niger state, local officials said.\nA month later, the military killed more than 100 bandits in Zamfara's Bukkuyum local government area, where fighter jets in coordination with ground troops pounded a gathering of more than 400 gang members in a forest camp, according to a security report prepared for the United Nations.\nThe Zamfara government described this week's operation as a \"significant breakthrough\" in the fight against violent crime.",
+      "fullTextCn": "资料图：2026年3月18日，尼日利亚博尔诺州首府迈杜古里发生数年来最致命袭击后，尼日利亚国防参谋长奥卢费米·奥卢耶德将军视察联合特遣部队战区司令部总部，尼日利亚士兵准备巡逻。/CFP\n尼日利亚一名州官员周五表示，本周尼日利亚军队在西北部扎姆法拉州击毙了300多名绑架和偷牛团伙成员。扎姆法拉州信息专员马哈茂德·穆罕默德·丹塔瓦萨在一份声明中表示，军队在古米地区针对这些团伙展开为期两天的行动，“导致300多名恐怖分子被消灭”。圣战分子和专门从事绑架勒索的“匪帮”在尼日利亚北部和中部地区恐吓社区，他们发动致命袭击，并对希望进入自己田地的农民征收费用。古米居民阿布巴卡尔·穆罕默德表示，周三深夜至周四，士兵和当地治安人员与约1000名正带着数百头偷来的牲畜从营地转移的匪徒交战。穆罕默德说：“士兵和治安人员在战斗中击毙了300多名匪徒，战斗持续了整夜，直到第二天早上。”另一名居民阿布巴卡尔·库迪-卡萨表示，进攻于格林尼治标准时间周三21时30分左右开始，枪声和爆炸声让小镇彻夜未眠。\n\n库迪-卡萨说：“匪徒仍被士兵和治安人员围困。”库迪-卡萨表示，两周前，军队曾试图攻占匪徒的营地，但因“全副武装的匪徒人数众多”而被迫撤退。“士兵们做好了充分准备，回来给了他们沉重打击，”他补充道。另一名居民谢胡·丹达雷在军队“猛攻”这些团伙后给出了类似的死亡人数。当地官员称，去年7月，尼日利亚士兵在邻近的凯比州伏击了约350名匪徒的大规模车队，当时他们正前往邻国尼日尔州的营地，至少击毙了150名匪徒。一个月后，军方在扎姆法拉州布库尤姆地方政府区击毙了100多名匪徒。根据为联合国准备的一份安全报告，战斗机与地面部队协调，对森林营地中聚集的400多名团伙成员进行了猛烈攻击。扎姆法拉州政府将本周的行动描述为打击暴力犯罪的“重大突破”。"
+    },
+    {
+      "id": 4,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-09/Chinese-premier-meets-Namibian-president-in-Beijing-1ODY0gFUG7m/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Chinese premier meets Namibian president in Beijing",
+      "titleCn": "中国总理在北京会见纳米比亚总统",
+      "summary": "Chinese Premier Li Qiang met with Namibian President Netumbo Nandi-Ndaitwah in Beijing on Thursday.",
+      "summaryCn": "中国总理李强与纳米比亚总统会谈，强调深化传统友谊与互利合作，推动两国现代化进程。",
+      "wordCount": 351,
+      "paragraphs": [
+        {
+          "en": ", Updated 14:26, 10-Jul-2026Chinese Premier Li Qiang meets with Namibian President Netumbo Nandi-Ndaitwah, who is on a state visit to China, at the Great Hall of the People in Beijing, China, July 9, 2026. /Xinhua\nChinese Premier Li Qiang met with Namibian President Netumbo Nandi-Ndaitwah in Beijing on Thursday. Noting that Namibia is an important {{0}} of China in Africa, Li said China is willing to work with Namibia to {{1}} traditional friendship, {{2}} support each other's {{3}} interests and major concerns, and promote {{4}} {{5}} cooperation, in order to advance the {{6}} of the two countries. Li called on both sides to enhance {{7}} of development strategies, {{8}} the {{9}} of bilateral trade, and strengthen cooperation in {{10}} construction, {{11}}, oil and gas, new energy, and other fields. China stands ready to import more high-quality agricultural and fishery products from Namibia, support {{12}} Chinese {{13}} to invest in Namibia, and encourage Namibia to fully {{14}} China's {{15}} and other policies to expand exports to China, Li added. The two sides should {{16}} exchanges and cooperation in areas such as tourism, health, education, science and technology, and youth, said Li, adding that China is willing to strengthen {{17}} and cooperation with Namibia under {{18}} such as the United Nations and work with all parties to promote true {{19}}, implement the four major global {{20}} proposed by China, advance an equal and orderly {{21}} world and universally beneficial and inclusive economic {{22}}. Nandi-Ndaitwah, who is on a state visit to China, said the Namibian side always remembers the valuable assistance China provided to Namibia in its {{23}} of national independence and development. Noting that the current {{24}} in bilateral ties is strong, she said Namibia firmly {{25}} to the one-China principle and looks forward to working with China to achieve more in the {{26}} {{27}} cooperative partnership between Namibia and China and to better benefit the two peoples. Namibia attaches great importance to China's important role and influence in international affairs and is willing to strengthen multilateral communication and coordination with China to promote regional peace, stability and development, said Nandi-Ndaitwah.",
+          "cn": "中国总理李强周四在北京会见了纳米比亚总统内通博·南迪-恩代特瓦。李强指出，纳米比亚是中国在非洲的重要合作伙伴，中方愿与纳方共同传承传统友谊，坚定支持彼此核心利益和重大关切，推动互利合作，以促进两国现代化进程。李强呼吁双方加强发展战略对接，扩大双边贸易规模，并在基础设施建设、矿业、油气、新能源等领域深化合作。中方愿进口更多纳米比亚优质农产品和水产品，支持有能力的中国企业赴纳投资，并鼓励纳米比亚充分利用中国的零关税等政策扩大对华出口。双方应深化旅游、卫生、教育、科技、青年等领域的交流合作，中方愿在联合国等机制下与纳方加强协调合作，与各方共同推动真正的多边主义，落实中国提出的四大全球倡议，推进平等有序的世界多极化和普惠包容的经济全球化。正在对中国进行国事访问的南迪-恩代特瓦表示，纳米比亚始终铭记中国在纳争取民族独立和发展过程中提供的宝贵援助。她指出，当前双边关系势头强劲，纳方坚定奉行一个中国原则，期待与中方共同努力，在纳中全面战略合作伙伴关系框架下取得更多成果，更好造福两国人民。南迪-恩代特瓦强调，纳米比亚高度重视中国在国际事务中的重要角色和影响力，愿与中方加强多边沟通协调，促进地区和平、稳定与发展。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "partner",
+          "hint": "n. 伙伴",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "carry forward",
+          "hint": "v. 传承",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "firmly",
+          "hint": "adv. 坚定地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "core",
+          "hint": "adj. 核心的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "mutually",
+          "hint": "adv. 相互地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "beneficial",
+          "hint": "adj. 有益的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "modernization",
+          "hint": "n. 现代化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "alignment",
+          "hint": "n. 对接",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "expand",
+          "hint": "v. 扩大",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "scale",
+          "hint": "n. 规模",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "mining",
+          "hint": "n. 矿业",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "capable",
+          "hint": "adj. 有能力的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "enterprises",
+          "hint": "n. 企业",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "leverage",
+          "hint": "v. 利用",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "zero-tariff",
+          "hint": "adj. 零关税的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "deepen",
+          "hint": "v. 深化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "mechanisms",
+          "hint": "n. 机制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "multilateralism",
+          "hint": "n. 多边主义",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "initiatives",
+          "hint": "n. 倡议",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "multipolar",
+          "hint": "adj. 多极的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "globalization",
+          "hint": "n. 全球化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "pursuit",
+          "hint": "n. 追求",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "momentum",
+          "hint": "n. 势头",
+          "difficulty": "hard"
+        },
+        {
+          "id": 25,
+          "answer": "adheres",
+          "hint": "v. 坚持",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "comprehensive",
+          "hint": "adj. 全面的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "strategic",
+          "hint": "adj. 战略的",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": ", Updated 14:26, 10-Jul-2026Chinese Premier Li Qiang meets with Namibian President Netumbo Nandi-Ndaitwah, who is on a state visit to China, at the Great Hall of the People in Beijing, China, July 9, 2026. /Xinhua\nChinese Premier Li Qiang met with Namibian President Netumbo Nandi-Ndaitwah in Beijing on Thursday.\nNoting that Namibia is an important partner of China in Africa, Li said China is willing to work with Namibia to carry forward traditional friendship, firmly support each other's core interests and major concerns, and promote mutually beneficial cooperation, in order to advance the modernization of the two countries.\nLi called on both sides to enhance alignment of development strategies, expand the scale of bilateral trade, and strengthen cooperation in infrastructure construction, mining, oil and gas, new energy, and other fields. China stands ready to import more high-quality agricultural and fishery products from Namibia, support capable Chinese enterprises to invest in Namibia, and encourage Namibia to fully leverage China's zero-tariff and other policies to expand exports to China, Li added.\nThe two sides should deepen exchanges and cooperation in areas such as tourism, health, education, science and technology, and youth, said Li, adding that China is willing to strengthen coordination and cooperation with Namibia under mechanisms such as the United Nations and work with all parties to promote true multilateralism, implement the four major global initiatives proposed by China, advance an equal and orderly multipolar world and universally beneficial and inclusive economic globalization.\nNandi-Ndaitwah, who is on a state visit to China, said the Namibian side always remembers the valuable assistance China provided to Namibia in its pursuit of national independence and development.\nNoting that the current momentum in bilateral ties is strong, she said Namibia firmly adheres to the one-China principle and looks forward to working with China to achieve more in the comprehensive strategic cooperative partnership between Namibia and China and to better benefit the two peoples.\nNamibia attaches great importance to China's important role and influence in international affairs and is willing to strengthen multilateral communication and coordination with China to promote regional peace, stability and development, said Nandi-Ndaitwah.",
+      "fullTextCn": "中国总理李强周四在北京会见了纳米比亚总统内通博·南迪-恩代特瓦。李强指出，纳米比亚是中国在非洲的重要合作伙伴，中方愿与纳方共同传承传统友谊，坚定支持彼此核心利益和重大关切，推动互利合作，以促进两国现代化进程。李强呼吁双方加强发展战略对接，扩大双边贸易规模，并在基础设施建设、矿业、油气、新能源等领域深化合作。中方愿进口更多纳米比亚优质农产品和水产品，支持有能力的中国企业赴纳投资，并鼓励纳米比亚充分利用中国的零关税等政策扩大对华出口。双方应深化旅游、卫生、教育、科技、青年等领域的交流合作，中方愿在联合国等机制下与纳方加强协调合作，与各方共同推动真正的多边主义，落实中国提出的四大全球倡议，推进平等有序的世界多极化和普惠包容的经济全球化。正在对中国进行国事访问的南迪-恩代特瓦表示，纳米比亚始终铭记中国在纳争取民族独立和发展过程中提供的宝贵援助。她指出，当前双边关系势头强劲，纳方坚定奉行一个中国原则，期待与中方共同努力，在纳中全面战略合作伙伴关系框架下取得更多成果，更好造福两国人民。南迪-恩代特瓦强调，纳米比亚高度重视中国在国际事务中的重要角色和影响力，愿与中方加强多边沟通协调，促进地区和平、稳定与发展。"
+    },
+    {
+      "id": 5,
+      "category": "education",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-09/Why-boarding-schools-matter-A-veteran-teacher-s-30-years-in-Xizang-1ODaLsbHFoQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Why boarding schools matter: A veteran teacher's 30 years in Xizang",
+      "titleCn": "为什么寄宿学校很重要：一位资深教师在西藏的30年",
+      "summary": "Why boarding schools matter: A veteran teacher's 30 years in Xizang",
+      "summaryCn": "一位在西藏高海拔地区任教33年的教师通过寄宿学校帮助偏远牧区儿童获得优质教育，见证了多代学生的成长。",
+      "wordCount": 253,
+      "paragraphs": [
+        {
+          "en": "Thondup Drolma spends time with {{22}} during a break at Nimajiangre Township Central Primary School, Maizhokunggar County, Lhasa, Xizang Autonomous Region, October 15, 2025. Thondup Drolma spends time with students during a break at Nimajiangre Township Central Primary School, Maizhokunggar County, Lhasa, Xizang Autonomous Region, October 15, 2025. Thondup Drolma teaches a mathematics class at Nimajiangre Township Central Primary School, Maizhokunggar County, Lhasa, Xizang Autonomous Region, October 15, 2025. Thondup Drolma runs alongside students during a morning exercise session at Nimajiangre Township Central Primary School, Maizhokunggar County, Lhasa, Xizang Autonomous Region, October 15, 2025. Thondup Drolma tucks a student into bed during her nightly dormitory rounds at Nimajiangre Township Central Primary School, Maizhokunggar County, Lhasa, Xizang Autonomous Region, October 15, 2025. For 33 years, Thondup Drolma has taught {{23}} in one of China's highest and most {{3}} regions.",
+          "cn": "2025年10月15日，西藏自治区拉萨市墨竹工卡县尼玛江热乡中心小学，索朗卓玛在课间休息时与学生们在一起。索朗卓玛在尼玛江热乡中心小学给学生们上数学课。索朗卓玛在晨练时与学生们一起跑步。索朗卓玛在夜间查寝时帮学生掖好被子。33年来，索朗卓玛一直在中国海拔最高、最偏远的地区之一教书。"
+        },
+        {
+          "en": "At more than 4,000 meters above sea level, her work {{4}} far {{20}} the {{21}}. She also {{5}} students to meals, checks on them in the {{6}} every night and {{7}} them when they are sick. When Drolma first began teaching in 1992, she worked in a {{8}} mountain classroom with just 17 students. Back then, many children never made it beyond the early {{9}}. Today, thanks to the {{10}} of {{0}} schools, children from even the most remote {{18}} {{19}} have {{11}} to a {{12}} {{24}}. Looking back on more than three decades, Drolma says the greatest {{14}} is {{15}} {{13}} of children grow up and {{16}} lives their parents once could only {{17}}.",
+          "cn": "在海拔4000多米的地方，她的工作远不止课堂。她还陪学生吃饭，每晚去宿舍查看他们，在他们生病时给予安慰。1992年，卓玛刚开始教书时，在一间只有17名学生的小山村里上课。那时，很多孩子连低年级都读不完。如今，得益于寄宿学校的普及，即使是最偏远牧区的孩子也能接受优质教育。回顾三十多年，卓玛说最大的回报是看着一代代孩子长大成人，过上他们父母曾经只能想象的生活。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "boarding",
+          "hint": "adj. 寄宿的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "remote",
+          "hint": "adj. 偏远的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "extends",
+          "hint": "v. 延伸",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "accompanies",
+          "hint": "v. 陪伴",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "dormitories",
+          "hint": "n. 宿舍",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "comforts",
+          "hint": "v. 安慰",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "tiny",
+          "hint": "adj. 极小的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "grades",
+          "hint": "n. 年级",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "expansion",
+          "hint": "n. 扩展",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "access",
+          "hint": "n. 机会；通道",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "quality",
+          "hint": "adj. 优质的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "generations",
+          "hint": "n. 代；辈",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "reward",
+          "hint": "n. 回报",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "watching",
+          "hint": "v. 看着",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "build",
+          "hint": "v. 建立；创造",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "imagine",
+          "hint": "v. 想象",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "pastoral",
+          "hint": "adj. 牧区的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "communities",
+          "hint": "n. 社区",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "beyond",
+          "hint": "prep. 超出",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "classroom",
+          "hint": "n. 教室",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "students",
+          "hint": "n. 学生",
+          "difficulty": "easy"
+        },
+        {
+          "id": 21,
+          "answer": "children",
+          "hint": "n. 孩子们",
+          "difficulty": "easy"
+        },
+        {
+          "id": 22,
+          "answer": "education",
+          "hint": "n. 教育",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "Thondup Drolma spends time with students during a break at Nimajiangre Township Central Primary School, Maizhokunggar County, Lhasa, Xizang Autonomous Region, October 15, 2025. \nThondup Drolma spends time with students during a break at Nimajiangre Township Central Primary School, Maizhokunggar County, Lhasa, Xizang Autonomous Region, October 15, 2025. \nThondup Drolma teaches a mathematics class at Nimajiangre Township Central Primary School, Maizhokunggar County, Lhasa, Xizang Autonomous Region, October 15, 2025. \nThondup Drolma runs alongside students during a morning exercise session at Nimajiangre Township Central Primary School, Maizhokunggar County, Lhasa, Xizang Autonomous Region, October 15, 2025. \nThondup Drolma tucks a student into bed during her nightly dormitory rounds at Nimajiangre Township Central Primary School, Maizhokunggar County, Lhasa, Xizang Autonomous Region, October 15, 2025. \nFor 33 years, Thondup Drolma has taught children in one of China's highest and most remote regions.\nAt more than 4,000 meters above sea level, her work extends far beyond the classroom. She also accompanies students to meals, checks on them in the dormitories every night and comforts them when they are sick.\nWhen Drolma first began teaching in 1992, she worked in a tiny mountain classroom with just 17 students. Back then, many children never made it beyond the early grades.\nToday, thanks to the expansion of boarding schools, children from even the most remote pastoral communities have access to a quality education.\nLooking back on more than three decades, Drolma says the greatest reward is watching generations of children grow up and build lives their parents once could only imagine.",
+      "fullTextCn": "2025年10月15日，西藏自治区拉萨市墨竹工卡县尼玛江热乡中心小学，索朗卓玛在课间休息时与学生们在一起。索朗卓玛在尼玛江热乡中心小学给学生们上数学课。索朗卓玛在晨练时与学生们一起跑步。索朗卓玛在夜间查寝时帮学生掖好被子。33年来，索朗卓玛一直在中国海拔最高、最偏远的地区之一教书。\n\n在海拔4000多米的地方，她的工作远不止课堂。她还陪学生吃饭，每晚去宿舍查看他们，在他们生病时给予安慰。1992年，卓玛刚开始教书时，在一间只有17名学生的小山村里上课。那时，很多孩子连低年级都读不完。如今，得益于寄宿学校的普及，即使是最偏远牧区的孩子也能接受优质教育。回顾三十多年，卓玛说最大的回报是看着一代代孩子长大成人，过上他们父母曾经只能想象的生活。"
     }
   ]
 }
