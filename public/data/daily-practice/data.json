@@ -1,428 +1,116 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "articles": [
     {
       "id": 1,
-      "category": "society",
+      "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-14/China-s-H1-foreign-trade-posts-16-9-growth-with-optimized-structure-1OLZ63lrxGU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "China's H1 foreign trade posts 16.9% growth with optimized structure",
-      "titleCn": "中国上半年外贸增长16.9%，结构优化",
-      "summary": "China's foreign trade jumped 16.9% year on year in the first half of 2026 (H1) to 25.47 trillion yuan (about $3.75 trillion), marking the first time the figure has exceeded 25 trillion yuan for the same period, official data showed Tuesday.",
-      "summaryCn": "2026年上半年中国外贸进出口总值达25.47万亿元，同比增长16.9%，结构持续优化，机电产品和高新技术产品出口表现强劲。",
-      "wordCount": 754,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-08/Xi-presents-China-s-top-sci-tech-award-delivers-important-speech-1OBE7Ude4s8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "President Xi presents China's top sci-tech award, stresses innovation",
+      "titleCn": "习近平主席颁发中国最高科学技术奖，强调科技创新",
+      "summary": "Chinese President Xi Jinping on Wednesday called for accelerated efforts to achieve high-level self-reliance and strength in science and technology, and leverage sci-tech innovation to underpin and drive Chinese modernization.",
+      "summaryCn": "习近平主席在2026年国家科技奖励大会上强调加速实现高水平科技自立自强，以科技创新支撑中国式现代化。",
+      "wordCount": 1225,
       "paragraphs": [
         {
-          "en": "Cargo ships dock at a berth for container loading and unloading in Lianyungang, east China's Jiangsu Province, July 14, 2026. China's foreign trade {{0}} 16.9% year on year in the first half of 2026 (H1) to 25.47 trillion yuan (about $3.75 trillion), marking the first time the figure has {{1}} 25 trillion yuan for the same period, official data showed Tuesday. China retains its position as the world's largest goods trader amid the {{2}} performance, according to the data from the General Administration of Customs (GAC). Of the total, exports rose 13.4% year on year to 14.73 trillion yuan, maintaining growth for 11 consecutive quarters, while imports {{3}} 22.1% to 10.74 trillion yuan, 8.7 percentage points higher than the export growth rate, {{4}} more balanced trade development. In H1, the volume of bulk commodity imports, including energy and metal ores, increased 3.4%, imports of mechanical and electrical products rose 28%, and agricultural product imports grew 8.6%.",
-          "cn": "2026年7月14日，货船停靠在中国东部江苏省连云港的一个集装箱装卸泊位。官方数据显示，2026年上半年中国外贸进出口总值同比增长16.9%，达到25.47万亿元人民币（约合3.75万亿美元），首次在同一时期突破25万亿元大关。根据海关总署的数据，中国凭借这一强劲表现，继续保持全球最大货物贸易国的地位。其中，出口同比增长13.4%至14.73万亿元，连续11个季度保持增长；进口增长22.1%至10.74万亿元，增速高于出口8.7个百分点，促进了更加平衡的贸易发展。上半年，包括能源和金属矿石在内的大宗商品进口量增长3.4%，机电产品进口增长28%，农产品进口增长8.6%。"
+          "en": ", Updated 10:17, 09-Jul-2026Chinese President Xi Jinping attends a meeting bringing together the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE), and the 11th national congress of the China Association for Science and Technology at the Great Hall of the People in Beijing, capital of China, July 8, 2026. /Xinhua\nChinese President Xi Jinping on Wednesday called for accelerated efforts to achieve high-level {{0}} and strength in science and technology, and leverage sci-tech {{1}} to underpin and drive Chinese {{2}}. Xi, also general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission, made the remarks at a meeting in Beijing that brought together the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE), and the 11th national congress of the China Association for Science and Technology. He said the 15th Five-Year Plan period (2026-2030) is a {{3}} phase for {{4}} tough challenges in building up the country's strength in science and technology. \"We must {{5}} the historic opportunity, rise to the challenges of the times, accelerate efforts to achieve high-level self-reliance and strength in science and technology, and make steady progress toward the 2035 goal of becoming a leading country in science and technology,\" he said.",
+          "cn": "2026年7月8日，中国国家主席习近平在北京人民大会堂出席国家科学技术奖励大会、中国科学院第二十一次院士大会、中国工程院第十七次院士大会和中国科学技术协会第十一次全国代表大会。习近平强调，要加快实现高水平科技自立自强，以科技创新支撑和引领中国式现代化。他指出，“十五五”时期（2026-2030年）是建设科技强国的关键攻关期，“我们必须抓住历史机遇，迎接时代挑战，加快实现高水平科技自立自强，稳步迈向2035年建成科技强国的目标。”"
         },
         {
-          "en": "\"China's foreign trade has sustained sound {{5}} in the first half, with strong growth and stable operation, and {{6}} progress has been made in stabilizing scale and improving structure,\" said Wang Jun, deputy head of the GAC, at a media conference of the State Council Information Office. In the second quarter this year, total imports and exports hit 13.61 trillion yuan, up 18.4% year on year, the highest quarterly growth rate since the third quarter of 2021. Trade value in June alone rose 24.2% year on year, marking 17 consecutive months of growth. Trade with countries participating in the Belt and Road Initiative rose 14.8% to 12.97 trillion yuan in H1, accounting for 50.9% of total foreign trade. Trade with neighboring countries jumped 20.6%, while trade with Latin America, Africa and the EU {{7}} growth of 16.2%, 19.6% and 10.2% respectively.",
-          "cn": "海关总署副署长王军在国务院新闻办公室举行的新闻发布会上表示：“上半年我国外贸持续向好态势，增长强劲、运行稳定，在稳定规模、优化结构方面取得了显著进展。”今年第二季度，进出口总值达13.61万亿元，同比增长18.4%，为2021年第三季度以来的最高季度增速。6月份贸易额同比增长24.2%，连续17个月保持增长。上半年，与“一带一路”沿线国家的贸易额增长14.8%，达到12.97万亿元，占外贸总值的50.9%。与周边国家的贸易额增长20.6%，与拉丁美洲、非洲和欧盟的贸易额分别增长16.2%、19.6%和10.2%。"
+          "en": "At the meeting, Xi presented China's top sci-tech award for the year 2025 to Chen Liquan, a researcher at the Institute of Physics under the CAS and a CAE academician, and Ben De, a researcher at the China Electronics Technology Group Corporation and also a CAE academician. After presenting the medals and certificates to the two scientists, Xi shook hands with them and extended his congratulations. Xi Jinping presents China's top sci-tech award for the year 2025 to Chen Liquan (R), a researcher at the Institute of Physics under the CAS and a CAE academician, and Ben De (L), a researcher at the China Electronics Technology Group Corporation and also a CAE academician, Beijing, capital of China, July 8, 2026. /Xinhua\nXi and other Party and state leaders, together with the two top-award winners, presented certificates to representatives of recipients of other awards. Li Qiang presided over the meeting.",
+          "cn": "会上，习近平向2025年度国家最高科学技术奖获得者——中国科学院物理研究所研究员、中国工程院院士陈立泉，以及中国电子科技集团公司研究员、中国工程院院士贲德颁发奖章和证书，并与两位科学家握手表示祝贺。习近平等党和国家领导人同两位最高奖获得者一起，为其他获奖代表颁发证书。李强主持大会。"
         },
         {
-          "en": "Trade with Central and Eastern European countries also grew 11% in H1, {{8}} 10 straight years of growth. During the January-June period, private enterprises {{9}} 57% of total trade value, with their imports and exports rising 17% to 14.53 trillion yuan. Foreign-invested enterprises and state-owned enterprises registered a growth rate of 17.1% and 16.8% respectively. China's eastern regions led the scale with over 20 trillion yuan of imports and exports, up 16.5%, accounting for 78.8% of the national total, while western, central, and northeastern regions posted growth of 20.3%, 20% and 8.6% respectively. Exports of mechanical and electrical products rose 20.1% to 9.36 trillion yuan, taking up 63.5% of total exports, up 3.5 percentage points year on year.",
-          "cn": "上半年，中国与中东欧国家的贸易额也增长了11%，延续了连续10年的增长态势。1月至6月期间，民营企业贡献了贸易总值的57%，其进出口额增长17%，达到14.53万亿元。外商投资企业和国有企业的增长率分别为17.1%和16.8%。中国东部地区以超过20万亿元的进出口额领先，增长16.5%，占全国总值的78.8%；而西部、中部和东北地区的增长率分别为20.3%、20%和8.6%。机电产品出口增长20.1%，达到9.36万亿元，占出口总值的63.5%，同比上升3.5个百分点。"
+          "en": "Zhao Leji, Wang Huning, Cai Qi and Li Xi attended the meeting. Ding Xuexiang announced the award decision. Xi noted that China is now accelerating its {{6}} from a global participant and contributor in science and technology to a pioneer and leader, and has become one of the countries with the fastest growing innovation {{9}}. Over the past two years, China has achieved a string of remarkable sci-tech {{7}}, including Chang'e-6 completing humanity's first-ever sample return from the moon's far side, smart robots and drones making strides in both R&D and industrial application, innovative drugs leaping from {{8}} and follow-on research to world-first development, as well as domestically-bred crop varieties covering over 95 percent of the country's farmland. But Xi also pointed out that China still faces gaps in original innovation capacity, an {{10}} talent structure, and inefficient use of science and technology investment, which demand serious attention and {{11}}.",
+          "cn": "赵乐际、王沪宁、蔡奇、李希出席大会。丁薛祥宣读授奖决定。习近平指出，我国正加速从全球科技参与者和贡献者向引领者转变，已成为创新能力增长最快的国家之一。过去两年，我国取得了一系列重大科技突破，包括嫦娥六号完成人类首次月背采样返回，智能机器人和无人机在研发和产业化方面取得进展，创新药物从模仿和跟踪研究跃升至全球首创，以及国产农作物品种覆盖全国95%以上的耕地。但习近平也指出，我国在原始创新能力、人才结构失衡和科技投入效率等方面仍存在差距，需要高度重视并加以解决。"
         },
         {
-          "en": "High-tech product exports {{10}} 39% to 3.26 trillion yuan, and exports of self-owned brands grew 25.4%, with their share in total exports rising 2.4 percentage points. The H1 trade performance {{11}} key features of China's current economic operation – stability, innovation, vitality and integration with the rest of the world, Wang said. New growth impetus is also gaining {{12}}. Imports and exports of computing hardware, such as electronic components and computer parts, jumped 56.6% to 5.13 trillion yuan in H1, while AI-powered products, green low-carbon products and high-end equipment all saw strong export expansion, according to Wang. A total of 267,000 foreign trade enterprises expanded their business to new markets in H1, whose combined trade value grew 22.6%, accounting for nearly 70% of the national total, Wang said.",
-          "cn": "高新技术产品出口激增39%，达到3.26万亿元；自主品牌出口增长25.4%，占出口总值的比重上升2.4个百分点。王军表示，上半年的贸易表现体现了中国经济当前运行的关键特征——稳定、创新、活力以及与世界的融合。新的增长动力也在增强。王军介绍，上半年，电子元件和计算机零件等计算硬件产品的进出口额增长56.6%，达到5.13万亿元；而人工智能产品、绿色低碳产品和高端装备均实现了强劲的出口扩张。王军说，上半年共有26.7万家外贸企业拓展了新市场，其合计贸易额增长22.6%，占全国总值的近70%。"
+          "en": "He stressed that the new round of sci-tech revolution and industrial transformation is {{12}} changing the way humanity produces and lives, as well as the landscape of global development. \"We must adapt to the new situation and requirements, take more forceful measures to address the problems existing in China's sci-tech development, and make every effort to ensure the implementation of the various arrangements made by the Party Central Committee on sci-tech undertakings,\" he said. Xi called for further strengthening of {{13}} in sci-tech strategic planning, policies and measures, major tasks, research strength, resource platforms, and regional innovation. \"We should improve the mechanisms for deploying and organizing major national sci-tech innovation tasks, and strengthen the self-sufficiency for sci-tech {{14}},\" he said. Major projects should be planned {{15}} across frontier fields like AI, quantum tech and life sciences, in priority sectors such as integrated circuits and advanced manufacturing, as well as in strategic domains, including deep sea, deep space, and deep earth, he noted.",
+          "cn": "他强调，新一轮科技革命和产业变革正深刻改变人类生产生活方式和全球发展格局。“我们必须适应新形势新要求，采取更有力措施解决我国科技发展存在的问题，全力确保党中央关于科技事业各项部署落到实处。”习近平要求进一步加强科技战略规划、政策措施、重大任务、科研力量、资源平台和区域创新的统筹协调。“要完善国家重大科技创新任务部署和组织机制，加强科技基础设施的自给能力。”他指出，重大项目的规划应涵盖人工智能、量子技术和生命科学等前沿领域，集成电路和先进制造等优先领域，以及深海、深空和深地等战略领域。"
         },
         {
-          "en": "Lyu Daliang, director of GAC's Department of Statistics and Analysis, noted that China has long held the position of the world's largest exporter of sporting goods, accounting for over 40% of global exports, and many Chinese products have been spotted at the ongoing 2026 FIFA World Cup. In the first half of 2026, China's exports of sporting goods and equipment reached 67.53 billion yuan, among which exports of balls hit 3.08 billion yuan. In the first half of the year, China's home appliance exports reached 360.96 billion yuan. Among them, amid frequent global heatwaves, exports of cooling appliances such as air conditioners, electric fans, and refrigerators totaled 107.91 billion yuan, meeting the needs of numerous households, according to Lyu. While the country faces external {{13}} for foreign trade in the second half of the year, Wang noted that China's foreign trade {{14}} remain solid, supported by strong innovation momentum, {{15}} market entities and high-level opening up.",
-          "cn": "海关总署统计分析司司长吕大良指出，中国长期保持全球最大体育用品出口国的地位，占全球出口的40%以上，许多中国产品出现在正在进行的2026年国际足联世界杯上。2026年上半年，中国体育用品和设备出口达675.3亿元，其中球类出口达30.8亿元。上半年，中国家电出口达3609.6亿元。吕大良表示，其中，在全球频繁出现热浪的情况下，空调、电风扇和冰箱等制冷设备出口总计1079.1亿元，满足了众多家庭的需求。尽管下半年中国外贸面临外部逆风，但王军指出，在强劲的创新动力、充满活力的市场主体和高水平对外开放的支持下，中国外贸的基本面依然稳固。"
+          "en": "Xi emphasized the need to promote the deep {{16}} of sci-tech innovation with industrial innovation, opening up channels for accelerating the transformation of sci-tech achievements into real productive forces. \"Sci-tech innovation should highlight an application-oriented approach, while industrial innovation should raise scientific questions. We must strengthen the national technology {{17}} system, create diversified application scenarios and high-level industrial {{18}}, and facilitate the promotion, application and {{19}} upgrading of self-developed technologies and products,\" he said. Xi also called for improving the {{20}} property protection system and building a financial system {{21}} with sci-tech innovation. When speaking of cultivating young sci-tech talents, Xi pointed out that research should be integrated with education, and greater support should be provided to researchers to help them overcome practical challenges.",
+          "cn": "习近平强调，要推动科技创新与产业创新深度融合，打通加速科技成果转化为现实生产力的通道。“科技创新要坚持应用导向，产业创新要提出科学问题。要加强国家技术转移体系建设，创造多元化应用场景和高水平产业集群，促进自主技术和产品的推广、应用和迭代升级。”习近平还要求完善知识产权保护体系，构建与科技创新相适应的金融体系。在谈到培养青年科技人才时，习近平指出，科研要与教育相结合，为科研人员克服实际困难提供更大支持。"
         },
         {
-          "en": "\"We have the confidence and capability to sustain the sound development momentum of foreign trade,\" Wang said. Customs authorities will continue to strengthen supervision, optimize services, and advance cross-border trade facilitation to maintain the sound development momentum of foreign trade, and contribute to a good start for the 15th Five-Year Plan period (2026-2030), Wang added.",
-          "cn": "王军表示：“我们有信心、有能力保持外贸良好发展势头。”王军补充说，海关部门将继续加强监管、优化服务、推进跨境贸易便利化，以保持外贸良好发展势头，并为“十五五”规划（2026-2030年）的良好开局做出贡献。"
+          "en": "Efforts should be made to identify and nurture the teenagers' interests, specialties, scientific {{22}} and experimental skills, inspiring more promising youth to pursue careers in science and technology, he said. Xi stressed the need to boost the effectiveness of innovation investment. During the 14th Five-Year Plan period (2021-2025), China's total R&D spending grew by an average of 10 percent annually, which was no small feat. \"Yet in practice, problems such as wasteful spending and inefficient {{23}} in investment still persist to varying degrees,\" he noted, calling for improving systems and management to ensure that every penny is not only spent right but spent well to match greater investment with greater efficiency. He said that enterprises should be encouraged to increase their R&D spending, and broader social resources should be mobilized to support sci-tech innovation.",
+          "cn": "要发现和培养青少年的兴趣、特长、科学素养和实验技能，激励更多有潜力的青年投身科技事业。习近平强调要提高创新投入的效益。“十四五”期间（2021-2025年），我国研发经费投入年均增长10%，成绩来之不易。“但在实践中，投资浪费和低效重复的问题仍然不同程度存在，”他指出，要完善制度和管理，确保每一分钱不仅花得对，还要花得好，使更大投入带来更高效率。他表示，要鼓励企业增加研发投入，调动更广泛的社会资源支持科技创新。"
+        },
+        {
+          "en": "Xi pointed out that it is necessary to deepen reforms on sci-tech evaluation, making it a good \"conductor's baton.\" Project reviews, institutional assessments, and talent evaluations should all be guided by innovation capability, quality, actual effect, and contribution. He stressed the need to strengthen {{24}} of sci-tech ethics and security. \"Science and technology should pursue positive and ethical progress, maintain security and controllability, and deliver benefits to the people,\" he said. Ethical standards and guidelines for key areas should be clarified, and the assessment, monitoring and early warning, as well as emergency response of sci-tech security risks, should be enhanced, he added. Xi urged the CAS and the CAE to rally the nation's scientific community to keep abreast of the new sci-tech revolution and scale new heights in global science, while requiring the China Association for Science and Technology to go all out to serve researchers, innovation-driven development, public scientific literacy enhancement and sound policymaking by the Party and government.",
+          "cn": "习近平指出，要深化科技评价改革，使其成为好的“指挥棒”。项目评审、机构评估和人才评价都要以创新能力、质量、实效和贡献为导向。他强调要加强科技伦理和安全治理。“科技要追求积极向善的进步，保持安全可控，造福人民。”要明确重点领域的伦理标准和指南，加强科技安全风险的评估、监测预警和应急处置。习近平要求中国科学院和中国工程院引领全国科技界紧跟新科技革命步伐，攀登全球科学新高峰；同时要求中国科学技术协会全力服务科研人员、创新驱动发展、提升公众科学素养以及党和政府的科学决策。"
+        },
+        {
+          "en": "Li Qiang pointed out that Xi's important speech fully affirmed the nation's major scientific achievements in recent years, analyzed the new situation facing sci-tech development and laid out clear requirements for implementing the Party Central Committee's plans for sci-tech development during the 15th Five-Year Plan period. Wednesday's meeting honored 258 projects and 11 scientific and technological experts. Among them, 51 projects received the State Natural Science Award, 58 projects the State Technological Invention Award, and 149 projects the State Scientific and Technological Progress Award. In addition to the two recipients of the top award, nine foreign experts were conferred the China International Science and Technology Cooperation Award.",
+          "cn": "李强指出，习近平的重要讲话充分肯定了近年来我国取得的重大科技成就，分析了科技发展面临的新形势，并对落实党中央关于“十五五”时期科技发展的规划提出了明确要求。当天的会议表彰了258个项目和11位科技专家。其中，国家自然科学奖51项，国家技术发明奖58项，国家科学技术进步奖149项。除两位最高奖获得者外，还有9位外国专家获得中华人民共和国国际科学技术合作奖。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "jumped",
-          "hint": "v. 猛增",
+          "answer": "self-reliance",
+          "hint": "n. 自立",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "exceeded",
-          "hint": "v. 超过",
-          "difficulty": "medium"
+          "answer": "innovation",
+          "hint": "n. 创新",
+          "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "robust",
-          "hint": "adj. 强劲的",
-          "difficulty": "medium"
+          "answer": "modernization",
+          "hint": "n. 现代化",
+          "difficulty": "easy"
         },
         {
           "id": 3,
-          "answer": "expanded",
-          "hint": "v. 扩大",
+          "answer": "critical",
+          "hint": "adj. 关键的",
           "difficulty": "easy"
         },
         {
           "id": 4,
-          "answer": "facilitating",
-          "hint": "v. 促进",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "momentum",
-          "hint": "n. 势头",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "notable",
-          "hint": "adj. 显著的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "registered",
-          "hint": "v. 录得",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "extending",
-          "hint": "v. 延续",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "contributed",
-          "hint": "v. 贡献",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "surged",
-          "hint": "v. 激增",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "embodies",
-          "hint": "v. 体现",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "traction",
-          "hint": "n. 势头",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "headwinds",
-          "hint": "n. 逆风",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "fundamentals",
-          "hint": "n. 基本面",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "vibrant",
-          "hint": "adj. 充满活力的",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "Cargo ships dock at a berth for container loading and unloading in Lianyungang, east China's Jiangsu Province, July 14, 2026. \nChina's foreign trade jumped 16.9% year on year in the first half of 2026 (H1) to 25.47 trillion yuan (about $3.75 trillion), marking the first time the figure has exceeded 25 trillion yuan for the same period, official data showed Tuesday.\nChina retains its position as the world's largest goods trader amid the robust performance, according to the data from the General Administration of Customs (GAC).\nOf the total, exports rose 13.4% year on year to 14.73 trillion yuan, maintaining growth for 11 consecutive quarters, while imports expanded 22.1% to 10.74 trillion yuan, 8.7 percentage points higher than the export growth rate, facilitating more balanced trade development.\nIn H1, the volume of bulk commodity imports, including energy and metal ores, increased 3.4%, imports of mechanical and electrical products rose 28%, and agricultural product imports grew 8.6%.\n\"China's foreign trade has sustained sound momentum in the first half, with strong growth and stable operation, and notable progress has been made in stabilizing scale and improving structure,\" said Wang Jun, deputy head of the GAC, at a media conference of the State Council Information Office.\nIn the second quarter this year, total imports and exports hit 13.61 trillion yuan, up 18.4% year on year, the highest quarterly growth rate since the third quarter of 2021. Trade value in June alone rose 24.2% year on year, marking 17 consecutive months of growth.\nTrade with countries participating in the Belt and Road Initiative rose 14.8% to 12.97 trillion yuan in H1, accounting for 50.9% of total foreign trade. Trade with neighboring countries jumped 20.6%, while trade with Latin America, Africa and the EU registered growth of 16.2%, 19.6% and 10.2% respectively. Trade with Central and Eastern European countries also grew 11% in H1, extending 10 straight years of growth.\nDuring the January-June period, private enterprises contributed 57% of total trade value, with their imports and exports rising 17% to 14.53 trillion yuan. Foreign-invested enterprises and state-owned enterprises registered a growth rate of 17.1% and 16.8% respectively.\nChina's eastern regions led the scale with over 20 trillion yuan of imports and exports, up 16.5%, accounting for 78.8% of the national total, while western, central, and northeastern regions posted growth of 20.3%, 20% and 8.6% respectively.\nExports of mechanical and electrical products rose 20.1% to 9.36 trillion yuan, taking up 63.5% of total exports, up 3.5 percentage points year on year. High-tech product exports surged 39% to 3.26 trillion yuan, and exports of self-owned brands grew 25.4%, with their share in total exports rising 2.4 percentage points.\nThe H1 trade performance embodies key features of China's current economic operation – stability, innovation, vitality and integration with the rest of the world, Wang said.\nNew growth impetus is also gaining traction. Imports and exports of computing hardware, such as electronic components and computer parts, jumped 56.6% to 5.13 trillion yuan in H1, while AI-powered products, green low-carbon products and high-end equipment all saw strong export expansion, according to Wang.\nA total of 267,000 foreign trade enterprises expanded their business to new markets in H1, whose combined trade value grew 22.6%, accounting for nearly 70% of the national total, Wang said.\nLyu Daliang, director of GAC's Department of Statistics and Analysis, noted that China has long held the position of the world's largest exporter of sporting goods, accounting for over 40% of global exports, and many Chinese products have been spotted at the ongoing 2026 FIFA World Cup. In the first half of 2026, China's exports of sporting goods and equipment reached 67.53 billion yuan, among which exports of balls hit 3.08 billion yuan.\nIn the first half of the year, China's home appliance exports reached 360.96 billion yuan. Among them, amid frequent global heatwaves, exports of cooling appliances such as air conditioners, electric fans, and refrigerators totaled 107.91 billion yuan, meeting the needs of numerous households, according to Lyu.\nWhile the country faces external headwinds for foreign trade in the second half of the year, Wang noted that China's foreign trade fundamentals remain solid, supported by strong innovation momentum, vibrant market entities and high-level opening up.\n\"We have the confidence and capability to sustain the sound development momentum of foreign trade,\" Wang said. Customs authorities will continue to strengthen supervision, optimize services, and advance cross-border trade facilitation to maintain the sound development momentum of foreign trade, and contribute to a good start for the 15th Five-Year Plan period (2026-2030), Wang added.",
-      "fullTextCn": "2026年7月14日，货船停靠在中国东部江苏省连云港的一个集装箱装卸泊位。官方数据显示，2026年上半年中国外贸进出口总值同比增长16.9%，达到25.47万亿元人民币（约合3.75万亿美元），首次在同一时期突破25万亿元大关。根据海关总署的数据，中国凭借这一强劲表现，继续保持全球最大货物贸易国的地位。其中，出口同比增长13.4%至14.73万亿元，连续11个季度保持增长；进口增长22.1%至10.74万亿元，增速高于出口8.7个百分点，促进了更加平衡的贸易发展。上半年，包括能源和金属矿石在内的大宗商品进口量增长3.4%，机电产品进口增长28%，农产品进口增长8.6%。\n\n海关总署副署长王军在国务院新闻办公室举行的新闻发布会上表示：“上半年我国外贸持续向好态势，增长强劲、运行稳定，在稳定规模、优化结构方面取得了显著进展。”今年第二季度，进出口总值达13.61万亿元，同比增长18.4%，为2021年第三季度以来的最高季度增速。6月份贸易额同比增长24.2%，连续17个月保持增长。上半年，与“一带一路”沿线国家的贸易额增长14.8%，达到12.97万亿元，占外贸总值的50.9%。与周边国家的贸易额增长20.6%，与拉丁美洲、非洲和欧盟的贸易额分别增长16.2%、19.6%和10.2%。\n\n上半年，中国与中东欧国家的贸易额也增长了11%，延续了连续10年的增长态势。1月至6月期间，民营企业贡献了贸易总值的57%，其进出口额增长17%，达到14.53万亿元。外商投资企业和国有企业的增长率分别为17.1%和16.8%。中国东部地区以超过20万亿元的进出口额领先，增长16.5%，占全国总值的78.8%；而西部、中部和东北地区的增长率分别为20.3%、20%和8.6%。机电产品出口增长20.1%，达到9.36万亿元，占出口总值的63.5%，同比上升3.5个百分点。\n\n高新技术产品出口激增39%，达到3.26万亿元；自主品牌出口增长25.4%，占出口总值的比重上升2.4个百分点。王军表示，上半年的贸易表现体现了中国经济当前运行的关键特征——稳定、创新、活力以及与世界的融合。新的增长动力也在增强。王军介绍，上半年，电子元件和计算机零件等计算硬件产品的进出口额增长56.6%，达到5.13万亿元；而人工智能产品、绿色低碳产品和高端装备均实现了强劲的出口扩张。王军说，上半年共有26.7万家外贸企业拓展了新市场，其合计贸易额增长22.6%，占全国总值的近70%。\n\n海关总署统计分析司司长吕大良指出，中国长期保持全球最大体育用品出口国的地位，占全球出口的40%以上，许多中国产品出现在正在进行的2026年国际足联世界杯上。2026年上半年，中国体育用品和设备出口达675.3亿元，其中球类出口达30.8亿元。上半年，中国家电出口达3609.6亿元。吕大良表示，其中，在全球频繁出现热浪的情况下，空调、电风扇和冰箱等制冷设备出口总计1079.1亿元，满足了众多家庭的需求。尽管下半年中国外贸面临外部逆风，但王军指出，在强劲的创新动力、充满活力的市场主体和高水平对外开放的支持下，中国外贸的基本面依然稳固。\n\n王军表示：“我们有信心、有能力保持外贸良好发展势头。”王军补充说，海关部门将继续加强监管、优化服务、推进跨境贸易便利化，以保持外贸良好发展势头，并为“十五五”规划（2026-2030年）的良好开局做出贡献。"
-    },
-    {
-      "id": 2,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-14/China-s-H1-foreign-trade-posts-16-9-growth-with-optimized-structure-1OLZ63lrxGU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "China's H1 foreign trade posts 16.9% growth with optimized structure",
-      "titleCn": "中国上半年外贸增长16.9%，结构优化",
-      "summary": "China's foreign trade jumped 16.9% year on year in the first half of 2026 (H1) to 25.47 trillion yuan (about $3.75 trillion), marking the first time the figure has exceeded 25 trillion yuan for the same period, official data showed Tuesday.",
-      "summaryCn": "2026年上半年中国外贸总额首次突破25万亿元，同比增长16.9%，结构持续优化。",
-      "wordCount": 754,
-      "paragraphs": [
-        {
-          "en": "Cargo ships dock at a {{1}} for container loading and unloading in Lianyungang, east China's Jiangsu Province, July 14, 2026. China's foreign trade {{2}} 16.9% year on year in the first half of 2026 (H1) to 25.47 trillion yuan (about $3.75 trillion), marking the first time the figure has {{3}} 25 trillion yuan for the same period, official data showed Tuesday. China {{4}} its position as the world's largest goods trader amid the {{5}} performance, according to the data from the General Administration of Customs (GAC). Of the total, exports rose 13.4% year on year to 14.73 trillion yuan, maintaining growth for 11 consecutive quarters, while imports {{6}} 22.1% to 10.74 trillion yuan, 8.7 percentage points higher than the export growth rate, {{7}} more balanced trade development. In H1, the volume of bulk commodity imports, including energy and metal ores, increased 3.4%, imports of mechanical and electrical products rose 28%, and agricultural product imports grew 8.6%.",
-          "cn": "2026年7月14日，货船停靠在中国东部江苏省连云港的一个集装箱装卸泊位。官方数据显示，2026年上半年中国外贸同比增长16.9%，达到25.47万亿元（约3.75万亿美元），首次同期突破25万亿元。根据海关总署的数据，中国在这一强劲表现中保持了全球最大货物贸易国的地位。其中，出口同比增长13.4%，达到14.73万亿元，连续11个季度保持增长；进口增长22.1%，达到10.74万亿元，比出口增速高出8.7个百分点，促进了更平衡的贸易发展。上半年，包括能源和金属矿石在内的大宗商品进口量增长3.4%，机电产品进口增长28%，农产品进口增长8.6%。"
-        },
-        {
-          "en": "\"China's foreign trade has {{8}} sound {{9}} in the first half, with strong growth and stable operation, and {{10}} progress has been made in stabilizing scale and improving structure,\" said Wang Jun, {{11}} head of the GAC, at a media {{12}} of the State Council Information Office. In the second quarter this year, total imports and exports hit 13.61 trillion yuan, up 18.4% year on year, the highest quarterly growth rate since the third quarter of 2021. Trade value in June alone rose 24.2% year on year, marking 17 consecutive months of growth. Trade with countries {{13}} in the Belt and Road Initiative rose 14.8% to 12.97 trillion yuan in H1, {{14}} for 50.9% of total foreign trade. Trade with neighboring countries jumped 20.6%, while trade with Latin America, Africa and the EU {{15}} growth of 16.2%, 19.6% and 10.2% respectively.",
-          "cn": "海关总署副署长王军在国务院新闻办公室的新闻发布会上表示：“上半年中国外贸保持了良好势头，增长强劲、运行稳定，在稳定规模和优化结构方面取得了显著进展。”今年第二季度，进出口总额达到13.61万亿元，同比增长18.4%，为2021年第三季度以来的最高季度增长率。仅6月份贸易额同比增长24.2%，连续17个月增长。上半年与“一带一路”沿线国家的贸易额增长14.8%，达到12.97万亿元，占外贸总额的50.9%。与周边国家的贸易额增长20.6%，而与拉丁美洲、非洲和欧盟的贸易额分别增长16.2%、19.6%和10.2%。"
-        },
-        {
-          "en": "Trade with Central and Eastern European countries also grew 11% in H1, {{16}} 10 straight years of growth. During the January-June period, private enterprises {{17}} 57% of total trade value, with their imports and exports rising 17% to 14.53 trillion yuan. Foreign-invested enterprises and state-owned enterprises registered a growth rate of 17.1% and 16.8% respectively. China's eastern regions led the scale with over 20 trillion yuan of imports and exports, up 16.5%, accounting for 78.8% of the national total, while western, central, and northeastern regions posted growth of 20.3%, 20% and 8.6% respectively. Exports of mechanical and electrical products rose 20.1% to 9.36 trillion yuan, taking up 63.5% of total exports, up 3.5 percentage points year on year.",
-          "cn": "上半年与中东欧国家的贸易额也增长了11%，延续了连续10年的增长。1月至6月期间，民营企业贡献了贸易总额的57%，其进出口额增长17%，达到14.53万亿元。外商投资企业和国有企业的增长率分别为17.1%和16.8%。中国东部地区以超过20万亿元的进出口额领先，增长16.5%，占全国总额的78.8%，而西部、中部和东北地区的增长率分别为20.3%、20%和8.6%。机电产品出口增长20.1%，达到9.36万亿元，占出口总额的63.5%，同比上升3.5个百分点。"
-        },
-        {
-          "en": "High-tech product exports {{18}} 39% to 3.26 trillion yuan, and exports of self-owned brands grew 25.4%, with their share in total exports rising 2.4 percentage points. The H1 trade performance {{19}} key features of China's current economic operation – stability, innovation, vitality and integration with the rest of the world, Wang said. New growth {{20}} is also gaining {{21}}. Imports and exports of computing hardware, such as electronic components and computer parts, jumped 56.6% to 5.13 trillion yuan in H1, while AI-powered products, green low-carbon products and high-end equipment all saw strong export expansion, according to Wang. A total of 267,000 foreign trade enterprises expanded their business to new markets in H1, whose combined trade value grew 22.6%, accounting for nearly 70% of the national total, Wang said.",
-          "cn": "高科技产品出口激增39%，达到3.26万亿元，自主品牌出口增长25.4%，占出口总额的比重上升2.4个百分点。王军表示，上半年的贸易表现体现了中国经济当前运行的关键特征——稳定、创新、活力和与世界融合。新的增长动力也在增强。王军介绍，上半年电子元件和计算机零件等计算硬件的进出口额增长56.6%，达到5.13万亿元，而人工智能产品、绿色低碳产品和高档设备均出现强劲的出口扩张。王军表示，上半年共有26.7万家外贸企业将业务拓展到新市场，其合计贸易额增长22.6%，占全国总额的近70%。"
-        },
-        {
-          "en": "Lyu Daliang, director of GAC's Department of Statistics and Analysis, noted that China has long held the position of the world's largest exporter of sporting goods, accounting for over 40% of global exports, and many Chinese products have been {{22}} at the ongoing 2026 FIFA World Cup. In the first half of 2026, China's exports of sporting goods and equipment reached 67.53 billion yuan, among which exports of balls hit 3.08 billion yuan. In the first half of the year, China's home appliance exports reached 360.96 billion yuan. Among them, amid frequent global heatwaves, exports of cooling appliances such as air conditioners, electric fans, and refrigerators totaled 107.91 billion yuan, meeting the needs of numerous households, according to Lyu. While the country faces external {{23}} for foreign trade in the second half of the year, Wang noted that China's foreign trade {{24}} remain solid, supported by strong innovation momentum, vibrant market entities and high-level opening up.",
-          "cn": "海关总署统计分析司司长吕大良指出，中国长期保持全球最大体育用品出口国地位，占全球出口的40%以上，许多中国产品出现在正在进行的2026年国际足联世界杯上。2026年上半年，中国体育用品和设备出口达到675.3亿元，其中球类出口达到30.8亿元。上半年，中国家电出口达到3609.6亿元。吕大良表示，在全球热浪频发的情况下，空调、电风扇和冰箱等制冷设备出口总额达到1079.1亿元，满足了许多家庭的需求。尽管下半年中国外贸面临外部逆风，但王军指出，在强劲的创新动力、活跃的市场主体和高水平开放的支持下，中国外贸基本面依然稳固。"
-        },
-        {
-          "en": "\"We have the confidence and capability to sustain the sound development momentum of foreign trade,\" Wang said. Customs authorities will continue to strengthen supervision, optimize services, and advance cross-border trade {{25}} to maintain the sound development momentum of foreign trade, and contribute to a good start for the 15th Five-Year Plan period (2026-2030), Wang added.",
-          "cn": "王军表示：“我们有信心和能力保持外贸的良好发展势头。”王军补充说，海关部门将继续加强监管、优化服务、推进跨境贸易便利化，以保持外贸的良好发展势头，并为“十五五”规划期（2026-2030年）的良好开局做出贡献。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "berth",
-          "hint": "n. 泊位",
-          "difficulty": "hard"
-        },
-        {
-          "id": 1,
-          "answer": "jumped",
-          "hint": "v. 猛增",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "exceeded",
-          "hint": "v. 超过",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "retains",
-          "hint": "v. 保持",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "robust",
-          "hint": "adj. 强劲的",
+          "answer": "tackling",
+          "hint": "v. 应对",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "expanded",
-          "hint": "v. 扩大",
+          "answer": "seize",
+          "hint": "v. 抓住",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "facilitating",
-          "hint": "v. 促进",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "sustained",
-          "hint": "v. 维持",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "momentum",
-          "hint": "n. 势头",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "notable",
-          "hint": "adj. 显著的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "deputy",
-          "hint": "n. 副职",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "conference",
-          "hint": "n. 发布会",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "participating",
-          "hint": "v. 参与",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "accounting",
-          "hint": "v. 占（比例）",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "registered",
-          "hint": "v. 录得",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "extending",
-          "hint": "v. 延续",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "contributed",
-          "hint": "v. 贡献",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "surged",
-          "hint": "v. 激增",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "embodies",
-          "hint": "v. 体现",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "impetus",
-          "hint": "n. 动力",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
-          "answer": "traction",
-          "hint": "n. 牵引力",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "spotted",
-          "hint": "v. 被发现",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "headwinds",
-          "hint": "n. 逆风",
-          "difficulty": "hard"
-        },
-        {
-          "id": 23,
-          "answer": "fundamentals",
-          "hint": "n. 基本面",
-          "difficulty": "hard"
-        },
-        {
-          "id": 24,
-          "answer": "facilitation",
-          "hint": "n. 便利化",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "Cargo ships dock at a berth for container loading and unloading in Lianyungang, east China's Jiangsu Province, July 14, 2026. \nChina's foreign trade jumped 16.9% year on year in the first half of 2026 (H1) to 25.47 trillion yuan (about $3.75 trillion), marking the first time the figure has exceeded 25 trillion yuan for the same period, official data showed Tuesday.\nChina retains its position as the world's largest goods trader amid the robust performance, according to the data from the General Administration of Customs (GAC).\nOf the total, exports rose 13.4% year on year to 14.73 trillion yuan, maintaining growth for 11 consecutive quarters, while imports expanded 22.1% to 10.74 trillion yuan, 8.7 percentage points higher than the export growth rate, facilitating more balanced trade development.\nIn H1, the volume of bulk commodity imports, including energy and metal ores, increased 3.4%, imports of mechanical and electrical products rose 28%, and agricultural product imports grew 8.6%.\n\"China's foreign trade has sustained sound momentum in the first half, with strong growth and stable operation, and notable progress has been made in stabilizing scale and improving structure,\" said Wang Jun, deputy head of the GAC, at a media conference of the State Council Information Office.\nIn the second quarter this year, total imports and exports hit 13.61 trillion yuan, up 18.4% year on year, the highest quarterly growth rate since the third quarter of 2021. Trade value in June alone rose 24.2% year on year, marking 17 consecutive months of growth.\nTrade with countries participating in the Belt and Road Initiative rose 14.8% to 12.97 trillion yuan in H1, accounting for 50.9% of total foreign trade. Trade with neighboring countries jumped 20.6%, while trade with Latin America, Africa and the EU registered growth of 16.2%, 19.6% and 10.2% respectively. Trade with Central and Eastern European countries also grew 11% in H1, extending 10 straight years of growth.\nDuring the January-June period, private enterprises contributed 57% of total trade value, with their imports and exports rising 17% to 14.53 trillion yuan. Foreign-invested enterprises and state-owned enterprises registered a growth rate of 17.1% and 16.8% respectively.\nChina's eastern regions led the scale with over 20 trillion yuan of imports and exports, up 16.5%, accounting for 78.8% of the national total, while western, central, and northeastern regions posted growth of 20.3%, 20% and 8.6% respectively.\nExports of mechanical and electrical products rose 20.1% to 9.36 trillion yuan, taking up 63.5% of total exports, up 3.5 percentage points year on year. High-tech product exports surged 39% to 3.26 trillion yuan, and exports of self-owned brands grew 25.4%, with their share in total exports rising 2.4 percentage points.\nThe H1 trade performance embodies key features of China's current economic operation – stability, innovation, vitality and integration with the rest of the world, Wang said.\nNew growth impetus is also gaining traction. Imports and exports of computing hardware, such as electronic components and computer parts, jumped 56.6% to 5.13 trillion yuan in H1, while AI-powered products, green low-carbon products and high-end equipment all saw strong export expansion, according to Wang.\nA total of 267,000 foreign trade enterprises expanded their business to new markets in H1, whose combined trade value grew 22.6%, accounting for nearly 70% of the national total, Wang said.\nLyu Daliang, director of GAC's Department of Statistics and Analysis, noted that China has long held the position of the world's largest exporter of sporting goods, accounting for over 40% of global exports, and many Chinese products have been spotted at the ongoing 2026 FIFA World Cup. In the first half of 2026, China's exports of sporting goods and equipment reached 67.53 billion yuan, among which exports of balls hit 3.08 billion yuan.\nIn the first half of the year, China's home appliance exports reached 360.96 billion yuan. Among them, amid frequent global heatwaves, exports of cooling appliances such as air conditioners, electric fans, and refrigerators totaled 107.91 billion yuan, meeting the needs of numerous households, according to Lyu.\nWhile the country faces external headwinds for foreign trade in the second half of the year, Wang noted that China's foreign trade fundamentals remain solid, supported by strong innovation momentum, vibrant market entities and high-level opening up.\n\"We have the confidence and capability to sustain the sound development momentum of foreign trade,\" Wang said. Customs authorities will continue to strengthen supervision, optimize services, and advance cross-border trade facilitation to maintain the sound development momentum of foreign trade, and contribute to a good start for the 15th Five-Year Plan period (2026-2030), Wang added.",
-      "fullTextCn": "2026年7月14日，货船停靠在中国东部江苏省连云港的一个集装箱装卸泊位。官方数据显示，2026年上半年中国外贸同比增长16.9%，达到25.47万亿元（约3.75万亿美元），首次同期突破25万亿元。根据海关总署的数据，中国在这一强劲表现中保持了全球最大货物贸易国的地位。其中，出口同比增长13.4%，达到14.73万亿元，连续11个季度保持增长；进口增长22.1%，达到10.74万亿元，比出口增速高出8.7个百分点，促进了更平衡的贸易发展。上半年，包括能源和金属矿石在内的大宗商品进口量增长3.4%，机电产品进口增长28%，农产品进口增长8.6%。\n\n海关总署副署长王军在国务院新闻办公室的新闻发布会上表示：“上半年中国外贸保持了良好势头，增长强劲、运行稳定，在稳定规模和优化结构方面取得了显著进展。”今年第二季度，进出口总额达到13.61万亿元，同比增长18.4%，为2021年第三季度以来的最高季度增长率。仅6月份贸易额同比增长24.2%，连续17个月增长。上半年与“一带一路”沿线国家的贸易额增长14.8%，达到12.97万亿元，占外贸总额的50.9%。与周边国家的贸易额增长20.6%，而与拉丁美洲、非洲和欧盟的贸易额分别增长16.2%、19.6%和10.2%。\n\n上半年与中东欧国家的贸易额也增长了11%，延续了连续10年的增长。1月至6月期间，民营企业贡献了贸易总额的57%，其进出口额增长17%，达到14.53万亿元。外商投资企业和国有企业的增长率分别为17.1%和16.8%。中国东部地区以超过20万亿元的进出口额领先，增长16.5%，占全国总额的78.8%，而西部、中部和东北地区的增长率分别为20.3%、20%和8.6%。机电产品出口增长20.1%，达到9.36万亿元，占出口总额的63.5%，同比上升3.5个百分点。\n\n高科技产品出口激增39%，达到3.26万亿元，自主品牌出口增长25.4%，占出口总额的比重上升2.4个百分点。王军表示，上半年的贸易表现体现了中国经济当前运行的关键特征——稳定、创新、活力和与世界融合。新的增长动力也在增强。王军介绍，上半年电子元件和计算机零件等计算硬件的进出口额增长56.6%，达到5.13万亿元，而人工智能产品、绿色低碳产品和高档设备均出现强劲的出口扩张。王军表示，上半年共有26.7万家外贸企业将业务拓展到新市场，其合计贸易额增长22.6%，占全国总额的近70%。\n\n海关总署统计分析司司长吕大良指出，中国长期保持全球最大体育用品出口国地位，占全球出口的40%以上，许多中国产品出现在正在进行的2026年国际足联世界杯上。2026年上半年，中国体育用品和设备出口达到675.3亿元，其中球类出口达到30.8亿元。上半年，中国家电出口达到3609.6亿元。吕大良表示，在全球热浪频发的情况下，空调、电风扇和冰箱等制冷设备出口总额达到1079.1亿元，满足了许多家庭的需求。尽管下半年中国外贸面临外部逆风，但王军指出，在强劲的创新动力、活跃的市场主体和高水平开放的支持下，中国外贸基本面依然稳固。\n\n王军表示：“我们有信心和能力保持外贸的良好发展势头。”王军补充说，海关部门将继续加强监管、优化服务、推进跨境贸易便利化，以保持外贸的良好发展势头，并为“十五五”规划期（2026-2030年）的良好开局做出贡献。"
-    },
-    {
-      "id": 3,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-07-16/detail-ihfhkrtk6175064.shtml",
-      "title": "Xi urges high-quality urban renewal",
-      "titleCn": "习近平强调推进高质量城市更新",
-      "summary": "President Xi Jinping stressed advancing high-quality urban renewal during an inspection tour in Shanghai on Wednesday, calling for comprehensive efforts to fully embrace the people-centered philosophy of urban development and keep enhancing urban residents' sense of gain, happiness and security.",
-      "summaryCn": "习近平在上海考察时强调以人民为中心推进高质量城市更新，改善居民生活条件。",
-      "wordCount": 572,
-      "paragraphs": [
-        {
-          "en": "President Xi Jinping stressed advancing high-quality {{0}} {{1}} during an inspection tour in Shanghai on Wednesday, calling for {{2}} efforts to fully {{3}} the people-centered {{4}} of urban development and keep {{5}} urban residents' sense of gain, happiness and security. In advancing urban renewal, {{6}} efforts must be made to listen to the people's needs, draw on their {{7}} and assess results through their {{8}}, said Xi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission. During the tour, Xi spoke with residents and community workers at a residential community in Shanghai's Huangpu district. He listened to a briefing on Shanghai's efforts to {{9}} old residential buildings lacking {{10}} facilities and on the city's {{11}} of the long-standing problem of residents in old neighborhoods having to carry chamber pots. He stressed that the CPC Central Committee has made urban work a policy {{12}}, outlining steps to build modern cities of the people that are {{13}}, desirable to live in, beautiful, {{14}}, culturally advanced and smart. Renovating aging urban residential communities is an important part of this {{15}}, Xi said.",
-          "cn": "国家主席习近平周三在上海考察时强调推进高质量城市更新，要求全面贯彻以人民为中心的城市发展理念，不断提升城市居民的获得感、幸福感、安全感。在推进城市更新过程中，必须持续倾听人民需求、汲取人民建议、通过人民反馈评估成效，习近平说，他也是中共中央总书记、中央军委主席。考察期间，习近平在上海黄浦区一个居民社区与居民和社区工作者交谈。他听取了上海改造缺乏卫生设施的旧住宅楼以及解决老城区居民长期携带马桶问题的汇报。他强调，党中央已将城市工作列为政策重点，规划建设创新、宜居、美丽、韧性、文化先进、智慧的现代化人民城市。改造老旧城市居民社区是这项工作的重要组成部分，习近平说。"
-        },
-        {
-          "en": "During the Central Urban Work Conference in July last year, Xi stressed that the nation must take urban renewal as a key driver and {{16}} {{17}} urban structure, foster new growth drivers, improve urban quality, advance green transformation, preserve cultural heritage and enhance {{18}} {{19}}. The State Council, China's Cabinet, released in May an urban renewal plan, outlining key {{20}} and policy measures for the country's urban renewal efforts during the 15th Five-Year Plan (2026-30) period. According to the plan, the nation will launch renovation projects for 115,000 aging urban residential communities and carry out comprehensive community {{22}} in 5,000 neighborhoods during the 2026-30 period, with the aim of creating higher-quality urban living spaces. Xi underscored on Wednesday that officials must firmly establish and practice a correct understanding of governance performance, think about what concerns the people, respond to their most pressing needs, formulate and implement effective policies, and {{23}} in improving people's {{24}} over the long term. He also called for improving property management and community services with what he described as the {{25}} of \"needlework\", {{26}} to better meet residents' {{27}}. At the home of retired resident Zhu Guoli, Xi carefully checked the family's living conditions.",
-          "cn": "在去年7月召开的中央城市工作会议上，习近平强调，国家必须以城市更新为关键驱动力，大力优化城市结构、培育新增长动力、提升城市品质、推进绿色转型、保护文化遗产、提高治理效率。国务院今年5月发布了城市更新计划，明确了国家在“十五五”规划（2026-2030年）期间城市更新工作的关键目标和政策措施。根据该计划，国家将在2026-2030年期间启动11.5万个老旧城市居民社区的改造项目，并在5000个社区开展全面社区升级，旨在创造更高质量的城市生活空间。习近平周三强调，官员必须牢固树立和践行正确的政绩观，思考人民关心什么、回应人民最迫切的需求、制定并实施有效政策，并长期坚持改善民生。他还要求以“绣花”般的精准度改进物业管理和社区服务，努力更好地满足居民期望。在退休居民朱国利家中，习近平仔细查看了家庭生活条件。"
-        },
-        {
-          "en": "He told the family that the lives of ordinary people are both family affairs and affairs of the State. The CPC is dedicated to serving the people, and only when the people live in peace and contentment can the Party and the government rest assured, he said. The president also checked the supply of fruits and vegetables and spoke with community representatives, subdistrict officials and community workers. He pointed out that communities are the basic units of the urban governance system. Xi also called for steps to improve the level of community governance, directing more resources, services and management to the grassroots, while continuing to reduce burdens on primary-level organizations and empower them. With the nation now at a critical stage of flood control and prevention, Xi called on various regions and departments to establish worst-case scenario thinking, closely monitor rainfall, flood conditions and typhoon developments, and carry out detailed investigations of potential risks and hazards.",
-          "cn": "他告诉这家人，普通百姓的生活既是家事也是国事。中国共产党致力于为人民服务，只有人民安居乐业，党和政府才能放心，他说。主席还查看了水果蔬菜供应，并与社区代表、街道官员和社区工作者交谈。他指出，社区是城市治理体系的基本单元。习近平还要求采取措施提高社区治理水平，将更多资源、服务和管理下放到基层，同时继续减轻基层组织负担并赋予其权力。在国家处于防汛关键阶段之际，习近平要求各地区各部门树立底线思维，密切监测降雨、汛情和台风发展，并详细排查潜在风险隐患。"
-        },
-        {
-          "en": "He highlighted the importance of making solid preparations for flood prevention and control, emergency rescue and disaster relief, and effectively safeguarding the lives and property of the people.",
-          "cn": "他强调了做好防汛、应急抢险和救灾准备的扎实工作，有效保障人民生命财产安全的重要性。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "urban",
-          "hint": "adj. 城市的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 1,
-          "answer": "renewal",
-          "hint": "n. 更新",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "comprehensive",
-          "hint": "adj. 全面的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "embrace",
-          "hint": "v. 拥抱；采纳",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "philosophy",
-          "hint": "n. 理念",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "enhancing",
-          "hint": "v. 提升",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "sustained",
-          "hint": "adj. 持续的",
+          "answer": "transition",
+          "hint": "n. 转变",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "suggestions",
-          "hint": "n. 建议",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "feedback",
-          "hint": "n. 反馈",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "renovate",
-          "hint": "v. 改造",
+          "answer": "breakthroughs",
+          "hint": "n. 突破",
           "difficulty": "medium"
         },
         {
-          "id": 10,
-          "answer": "sanitary",
-          "hint": "adj. 卫生的",
+          "id": 8,
+          "answer": "imitation",
+          "hint": "n. 模仿",
           "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "capacity",
+          "hint": "n. 能力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "imbalanced",
+          "hint": "adj. 不平衡的",
+          "difficulty": "medium"
         },
         {
           "id": 11,
@@ -432,393 +120,769 @@
         },
         {
           "id": 12,
-          "answer": "priority",
-          "hint": "n. 优先事项",
-          "difficulty": "medium"
+          "answer": "profoundly",
+          "hint": "adv. 深刻地",
+          "difficulty": "hard"
         },
         {
           "id": 13,
-          "answer": "innovative",
-          "hint": "adj. 创新的",
+          "answer": "coordination",
+          "hint": "n. 协调",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "resilient",
-          "hint": "adj. 有韧性的",
-          "difficulty": "hard"
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "endeavor",
-          "hint": "n. 努力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "vigorously",
-          "hint": "adv. 大力地",
+          "answer": "holistically",
+          "hint": "adv. 整体地",
           "difficulty": "hard"
         },
         {
-          "id": 17,
-          "answer": "optimize",
-          "hint": "v. 优化",
+          "id": 16,
+          "answer": "integration",
+          "hint": "n. 融合",
           "difficulty": "medium"
         },
         {
+          "id": 17,
+          "answer": "transfer",
+          "hint": "n. 转移",
+          "difficulty": "easy"
+        },
+        {
           "id": 18,
-          "answer": "governance",
-          "hint": "n. 治理",
+          "answer": "clusters",
+          "hint": "n. 集群",
           "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "efficiency",
-          "hint": "n. 效率",
-          "difficulty": "easy"
+          "answer": "iterative",
+          "hint": "adj. 迭代的",
+          "difficulty": "hard"
         },
         {
           "id": 20,
-          "answer": "targets",
-          "hint": "n. 目标",
-          "difficulty": "easy"
+          "answer": "intellectual",
+          "hint": "adj. 知识产权的",
+          "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "upgrading",
-          "hint": "n. 升级",
+          "answer": "compatible",
+          "hint": "adj. 兼容的",
           "difficulty": "medium"
         },
         {
           "id": 22,
-          "answer": "persevere",
-          "hint": "v. 坚持",
-          "difficulty": "hard"
+          "answer": "literacy",
+          "hint": "n. 素养",
+          "difficulty": "medium"
         },
         {
           "id": 23,
-          "answer": "livelihoods",
-          "hint": "n. 生计",
-          "difficulty": "medium"
+          "answer": "duplication",
+          "hint": "n. 重复",
+          "difficulty": "hard"
         },
         {
           "id": 24,
-          "answer": "precision",
-          "hint": "n. 精准度",
+          "answer": "governance",
+          "hint": "n. 治理",
           "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "striving",
-          "hint": "v. 努力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "expectations",
-          "hint": "n. 期望",
-          "difficulty": "easy"
         }
       ],
-      "fullText": "President Xi Jinping stressed advancing high-quality urban renewal during an inspection tour in Shanghai on Wednesday, calling for comprehensive efforts to fully embrace the people-centered philosophy of urban development and keep enhancing urban residents' sense of gain, happiness and security.\nIn advancing urban renewal, sustained efforts must be made to listen to the people's needs, draw on their suggestions and assess results through their feedback, said Xi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission.\nDuring the tour, Xi spoke with residents and community workers at a residential community in Shanghai's Huangpu district. He listened to a briefing on Shanghai's efforts to renovate old residential buildings lacking sanitary facilities and on the city's resolution of the long-standing problem of residents in old neighborhoods having to carry chamber pots.\nHe stressed that the CPC Central Committee has made urban work a policy priority, outlining steps to build modern cities of the people that are innovative, desirable to live in, beautiful, resilient, culturally advanced and smart.\nRenovating aging urban residential communities is an important part of this endeavor, Xi said.\nDuring the Central Urban Work Conference in July last year, Xi stressed that the nation must take urban renewal as a key driver and vigorously optimize urban structure, foster new growth drivers, improve urban quality, advance green transformation, preserve cultural heritage and enhance governance efficiency.\nThe State Council, China's Cabinet, released in May an urban renewal plan, outlining key targets and policy measures for the country's urban renewal efforts during the 15th Five-Year Plan (2026-30) period.\nAccording to the plan, the nation will launch renovation projects for 115,000 aging urban residential communities and carry out comprehensive community upgrading in 5,000 neighborhoods during the 2026-30 period, with the aim of creating higher-quality urban living spaces.\nXi underscored on Wednesday that officials must firmly establish and practice a correct understanding of governance performance, think about what concerns the people, respond to their most pressing needs, formulate and implement effective policies, and persevere in improving people's livelihoods over the long term.\nHe also called for improving property management and community services with what he described as the precision of \"needlework\", striving to better meet residents' expectations.\nAt the home of retired resident Zhu Guoli, Xi carefully checked the family's living conditions.\nHe told the family that the lives of ordinary people are both family affairs and affairs of the State.\nThe CPC is dedicated to serving the people, and only when the people live in peace and contentment can the Party and the government rest assured, he said.\nThe president also checked the supply of fruits and vegetables and spoke with community representatives, subdistrict officials and community workers.\nHe pointed out that communities are the basic units of the urban governance system.\nXi also called for steps to improve the level of community governance, directing more resources, services and management to the grassroots, while continuing to reduce burdens on primary-level organizations and empower them.\nWith the nation now at a critical stage of flood control and prevention, Xi called on various regions and departments to establish worst-case scenario thinking, closely monitor rainfall, flood conditions and typhoon developments, and carry out detailed investigations of potential risks and hazards. He highlighted the importance of making solid preparations for flood prevention and control, emergency rescue and disaster relief, and effectively safeguarding the lives and property of the people.",
-      "fullTextCn": "国家主席习近平周三在上海考察时强调推进高质量城市更新，要求全面贯彻以人民为中心的城市发展理念，不断提升城市居民的获得感、幸福感、安全感。在推进城市更新过程中，必须持续倾听人民需求、汲取人民建议、通过人民反馈评估成效，习近平说，他也是中共中央总书记、中央军委主席。考察期间，习近平在上海黄浦区一个居民社区与居民和社区工作者交谈。他听取了上海改造缺乏卫生设施的旧住宅楼以及解决老城区居民长期携带马桶问题的汇报。他强调，党中央已将城市工作列为政策重点，规划建设创新、宜居、美丽、韧性、文化先进、智慧的现代化人民城市。改造老旧城市居民社区是这项工作的重要组成部分，习近平说。\n\n在去年7月召开的中央城市工作会议上，习近平强调，国家必须以城市更新为关键驱动力，大力优化城市结构、培育新增长动力、提升城市品质、推进绿色转型、保护文化遗产、提高治理效率。国务院今年5月发布了城市更新计划，明确了国家在“十五五”规划（2026-2030年）期间城市更新工作的关键目标和政策措施。根据该计划，国家将在2026-2030年期间启动11.5万个老旧城市居民社区的改造项目，并在5000个社区开展全面社区升级，旨在创造更高质量的城市生活空间。习近平周三强调，官员必须牢固树立和践行正确的政绩观，思考人民关心什么、回应人民最迫切的需求、制定并实施有效政策，并长期坚持改善民生。他还要求以“绣花”般的精准度改进物业管理和社区服务，努力更好地满足居民期望。在退休居民朱国利家中，习近平仔细查看了家庭生活条件。\n\n他告诉这家人，普通百姓的生活既是家事也是国事。中国共产党致力于为人民服务，只有人民安居乐业，党和政府才能放心，他说。主席还查看了水果蔬菜供应，并与社区代表、街道官员和社区工作者交谈。他指出，社区是城市治理体系的基本单元。习近平还要求采取措施提高社区治理水平，将更多资源、服务和管理下放到基层，同时继续减轻基层组织负担并赋予其权力。在国家处于防汛关键阶段之际，习近平要求各地区各部门树立底线思维，密切监测降雨、汛情和台风发展，并详细排查潜在风险隐患。\n\n他强调了做好防汛、应急抢险和救灾准备的扎实工作，有效保障人民生命财产安全的重要性。"
+      "fullText": ", Updated 10:17, 09-Jul-2026Chinese President Xi Jinping attends a meeting bringing together the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE), and the 11th national congress of the China Association for Science and Technology at the Great Hall of the People in Beijing, capital of China, July 8, 2026. /Xinhua\nChinese President Xi Jinping on Wednesday called for accelerated efforts to achieve high-level self-reliance and strength in science and technology, and leverage sci-tech innovation to underpin and drive Chinese modernization.\nXi, also general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission, made the remarks at a meeting in Beijing that brought together the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE), and the 11th national congress of the China Association for Science and Technology.\nHe said the 15th Five-Year Plan period (2026-2030) is a critical phase for tackling tough challenges in building up the country's strength in science and technology.\n\"We must seize the historic opportunity, rise to the challenges of the times, accelerate efforts to achieve high-level self-reliance and strength in science and technology, and make steady progress toward the 2035 goal of becoming a leading country in science and technology,\" he said.\nAt the meeting, Xi presented China's top sci-tech award for the year 2025 to Chen Liquan, a researcher at the Institute of Physics under the CAS and a CAE academician, and Ben De, a researcher at the China Electronics Technology Group Corporation and also a CAE academician. After presenting the medals and certificates to the two scientists, Xi shook hands with them and extended his congratulations.\nXi Jinping presents China's top sci-tech award for the year 2025 to Chen Liquan (R), a researcher at the Institute of Physics under the CAS and a CAE academician, and Ben De (L), a researcher at the China Electronics Technology Group Corporation and also a CAE academician, Beijing, capital of China, July 8, 2026. /Xinhua\nXi and other Party and state leaders, together with the two top-award winners, presented certificates to representatives of recipients of other awards.\nLi Qiang presided over the meeting. Zhao Leji, Wang Huning, Cai Qi and Li Xi attended the meeting. Ding Xuexiang announced the award decision.\nXi noted that China is now accelerating its transition from a global participant and contributor in science and technology to a pioneer and leader, and has become one of the countries with the fastest growing innovation capacity.\nOver the past two years, China has achieved a string of remarkable sci-tech breakthroughs, including Chang'e-6 completing humanity's first-ever sample return from the moon's far side, smart robots and drones making strides in both R&D and industrial application, innovative drugs leaping from imitation and follow-on research to world-first development, as well as domestically-bred crop varieties covering over 95 percent of the country's farmland.\nBut Xi also pointed out that China still faces gaps in original innovation capacity, an imbalanced talent structure, and inefficient use of science and technology investment, which demand serious attention and resolution.\nHe stressed that the new round of sci-tech revolution and industrial transformation is profoundly changing the way humanity produces and lives, as well as the landscape of global development.\n\"We must adapt to the new situation and requirements, take more forceful measures to address the problems existing in China's sci-tech development, and make every effort to ensure the implementation of the various arrangements made by the Party Central Committee on sci-tech undertakings,\" he said.\nXi called for further strengthening of coordination in sci-tech strategic planning, policies and measures, major tasks, research strength, resource platforms, and regional innovation. \"We should improve the mechanisms for deploying and organizing major national sci-tech innovation tasks, and strengthen the self-sufficiency for sci-tech infrastructure,\" he said.\nMajor projects should be planned holistically across frontier fields like AI, quantum tech and life sciences, in priority sectors such as integrated circuits and advanced manufacturing, as well as in strategic domains, including deep sea, deep space, and deep earth, he noted.\nXi emphasized the need to promote the deep integration of sci-tech innovation with industrial innovation, opening up channels for accelerating the transformation of sci-tech achievements into real productive forces.\n\"Sci-tech innovation should highlight an application-oriented approach, while industrial innovation should raise scientific questions. We must strengthen the national technology transfer system, create diversified application scenarios and high-level industrial clusters, and facilitate the promotion, application and iterative upgrading of self-developed technologies and products,\" he said.\nXi also called for improving the intellectual property protection system and building a financial system compatible with sci-tech innovation.\nWhen speaking of cultivating young sci-tech talents, Xi pointed out that research should be integrated with education, and greater support should be provided to researchers to help them overcome practical challenges.\nEfforts should be made to identify and nurture the teenagers' interests, specialties, scientific literacy and experimental skills, inspiring more promising youth to pursue careers in science and technology, he said.\nXi stressed the need to boost the effectiveness of innovation investment. During the 14th Five-Year Plan period (2021-2025), China's total R&D spending grew by an average of 10 percent annually, which was no small feat.\n\"Yet in practice, problems such as wasteful spending and inefficient duplication in investment still persist to varying degrees,\" he noted, calling for improving systems and management to ensure that every penny is not only spent right but spent well to match greater investment with greater efficiency.\nHe said that enterprises should be encouraged to increase their R&D spending, and broader social resources should be mobilized to support sci-tech innovation.\nXi pointed out that it is necessary to deepen reforms on sci-tech evaluation, making it a good \"conductor's baton.\" Project reviews, institutional assessments, and talent evaluations should all be guided by innovation capability, quality, actual effect, and contribution.\nHe stressed the need to strengthen governance of sci-tech ethics and security. \"Science and technology should pursue positive and ethical progress, maintain security and controllability, and deliver benefits to the people,\" he said.\nEthical standards and guidelines for key areas should be clarified, and the assessment, monitoring and early warning, as well as emergency response of sci-tech security risks, should be enhanced, he added.\nXi urged the CAS and the CAE to rally the nation's scientific community to keep abreast of the new sci-tech revolution and scale new heights in global science, while requiring the China Association for Science and Technology to go all out to serve researchers, innovation-driven development, public scientific literacy enhancement and sound policymaking by the Party and government.\nLi Qiang pointed out that Xi's important speech fully affirmed the nation's major scientific achievements in recent years, analyzed the new situation facing sci-tech development and laid out clear requirements for implementing the Party Central Committee's plans for sci-tech development during the 15th Five-Year Plan period.\nWednesday's meeting honored 258 projects and 11 scientific and technological experts. Among them, 51 projects received the State Natural Science Award, 58 projects the State Technological Invention Award, and 149 projects the State Scientific and Technological Progress Award.\nIn addition to the two recipients of the top award, nine foreign experts were conferred the China International Science and Technology Cooperation Award.",
+      "fullTextCn": "2026年7月8日，中国国家主席习近平在北京人民大会堂出席国家科学技术奖励大会、中国科学院第二十一次院士大会、中国工程院第十七次院士大会和中国科学技术协会第十一次全国代表大会。习近平强调，要加快实现高水平科技自立自强，以科技创新支撑和引领中国式现代化。他指出，“十五五”时期（2026-2030年）是建设科技强国的关键攻关期，“我们必须抓住历史机遇，迎接时代挑战，加快实现高水平科技自立自强，稳步迈向2035年建成科技强国的目标。”\n\n会上，习近平向2025年度国家最高科学技术奖获得者——中国科学院物理研究所研究员、中国工程院院士陈立泉，以及中国电子科技集团公司研究员、中国工程院院士贲德颁发奖章和证书，并与两位科学家握手表示祝贺。习近平等党和国家领导人同两位最高奖获得者一起，为其他获奖代表颁发证书。李强主持大会。\n\n赵乐际、王沪宁、蔡奇、李希出席大会。丁薛祥宣读授奖决定。习近平指出，我国正加速从全球科技参与者和贡献者向引领者转变，已成为创新能力增长最快的国家之一。过去两年，我国取得了一系列重大科技突破，包括嫦娥六号完成人类首次月背采样返回，智能机器人和无人机在研发和产业化方面取得进展，创新药物从模仿和跟踪研究跃升至全球首创，以及国产农作物品种覆盖全国95%以上的耕地。但习近平也指出，我国在原始创新能力、人才结构失衡和科技投入效率等方面仍存在差距，需要高度重视并加以解决。\n\n他强调，新一轮科技革命和产业变革正深刻改变人类生产生活方式和全球发展格局。“我们必须适应新形势新要求，采取更有力措施解决我国科技发展存在的问题，全力确保党中央关于科技事业各项部署落到实处。”习近平要求进一步加强科技战略规划、政策措施、重大任务、科研力量、资源平台和区域创新的统筹协调。“要完善国家重大科技创新任务部署和组织机制，加强科技基础设施的自给能力。”他指出，重大项目的规划应涵盖人工智能、量子技术和生命科学等前沿领域，集成电路和先进制造等优先领域，以及深海、深空和深地等战略领域。\n\n习近平强调，要推动科技创新与产业创新深度融合，打通加速科技成果转化为现实生产力的通道。“科技创新要坚持应用导向，产业创新要提出科学问题。要加强国家技术转移体系建设，创造多元化应用场景和高水平产业集群，促进自主技术和产品的推广、应用和迭代升级。”习近平还要求完善知识产权保护体系，构建与科技创新相适应的金融体系。在谈到培养青年科技人才时，习近平指出，科研要与教育相结合，为科研人员克服实际困难提供更大支持。\n\n要发现和培养青少年的兴趣、特长、科学素养和实验技能，激励更多有潜力的青年投身科技事业。习近平强调要提高创新投入的效益。“十四五”期间（2021-2025年），我国研发经费投入年均增长10%，成绩来之不易。“但在实践中，投资浪费和低效重复的问题仍然不同程度存在，”他指出，要完善制度和管理，确保每一分钱不仅花得对，还要花得好，使更大投入带来更高效率。他表示，要鼓励企业增加研发投入，调动更广泛的社会资源支持科技创新。\n\n习近平指出，要深化科技评价改革，使其成为好的“指挥棒”。项目评审、机构评估和人才评价都要以创新能力、质量、实效和贡献为导向。他强调要加强科技伦理和安全治理。“科技要追求积极向善的进步，保持安全可控，造福人民。”要明确重点领域的伦理标准和指南，加强科技安全风险的评估、监测预警和应急处置。习近平要求中国科学院和中国工程院引领全国科技界紧跟新科技革命步伐，攀登全球科学新高峰；同时要求中国科学技术协会全力服务科研人员、创新驱动发展、提升公众科学素养以及党和政府的科学决策。\n\n李强指出，习近平的重要讲话充分肯定了近年来我国取得的重大科技成就，分析了科技发展面临的新形势，并对落实党中央关于“十五五”时期科技发展的规划提出了明确要求。当天的会议表彰了258个项目和11位科技专家。其中，国家自然科学奖51项，国家技术发明奖58项，国家科学技术进步奖149项。除两位最高奖获得者外，还有9位外国专家获得中华人民共和国国际科学技术合作奖。"
     },
     {
-      "id": 4,
-      "category": "sports",
+      "id": 2,
+      "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-12/Bellingham-s-brace-fires-England-past-Norway-into-World-Cup-semifinals-1OIgrooUPfi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Bellingham's brace fires England past Norway into World Cup semifinals",
-      "titleCn": "贝林厄姆梅开二度，英格兰力克挪威挺进世界杯半决赛",
-      "summary": "Bellingham's brace fires England past Norway into World Cup semifinals",
-      "summaryCn": "英格兰凭借贝林厄姆的梅开二度在加时赛中以2-1战胜挪威，晋级世界杯半决赛，而阿根廷同样通过加时赛以3-1击败瑞士，继续卫冕之路。",
-      "wordCount": 610,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-16/Tech-innovation-unlocks-new-growth-momentum-for-China-s-economy-1OOMQp36DmM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Tech innovation unlocks new growth momentum for China's economy",
+      "titleCn": "科技创新为中国经济注入新增长动力",
+      "summary": "China's technology-driven industrial transformation is emerging as a key source of economic resilience, as advances in artificial intelligence (AI), high-end manufacturing and the aerospace information industry continue to generate new growth momentum despite a complex global economic environment.",
+      "summaryCn": "中国通过人工智能、高端制造和航天信息产业的技术创新，在全球经济复杂环境下推动经济转型并实现稳定增长。",
+      "wordCount": 813,
       "paragraphs": [
         {
-          "en": "England midfielder Jude Bellingham (#10) celebrates after scoring a goal in the quarterfinal match against Norway at the 2026 FIFA World Cup in Miami Gardens, Florida, July 11, 2026. Jude Bellingham scored twice as England {{1}} a major {{2}} from Norway to reach the {{3}} of the 2026 FIFA World Cup with a 2-1 {{4}} victory in Florida on Saturday. Thomas Tuchel's side fell behind against one of the tournament surprise packages in the first half after Norway's Andreas Schjelderup broke the deadlock in the 36th minute, putting the {{5}} in sight of another {{6}} result after their {{7}} run to the quarterfinals which included a {{8}} 2-1 win over five time Champions Brazil in the Round of 16. The Three Lions responded just before the {{9}} when Bellingham struck to level the contest. The Real Madrid midfielder showed his attacking {{10}} inside the box, reacting quickly to keep England alive after Norway had {{11}} them for much of the opening period.",
-          "cn": "2026年7月11日，佛罗里达州迈阿密花园，在2026年国际足联世界杯四分之一决赛对阵挪威的比赛中，英格兰中场裘德·贝林厄姆（10号）进球后庆祝。裘德·贝林厄姆梅开二度，帮助英格兰在周六于佛罗里达州以2-1加时赛战胜挪威，惊险晋级2026年世界杯半决赛。托马斯·图赫尔的球队在比赛初期落后于本届赛事的一大黑马——挪威队，挪威的安德烈亚斯·谢尔德鲁普在第36分钟打破僵局，让这支弱旅有望再创历史佳绩，此前他们已惊人地闯入四分之一决赛，其中包括在16强赛中令人难忘地以2-1战胜五届冠军巴西队。三狮军团在中场休息前做出回应，贝林厄姆破门扳平比分。这位皇家马德里中场在禁区内展现了他的进攻本能，迅速反应，在挪威队上半场大部分时间压制住英格兰队后，为球队保留了生机。"
+          "en": "Multiple vessels are under construction at Nantong Xiangyu Marine Equipment Co., Ltd., with production proceeding in a busy and orderly manner, Nantong, Jiangsu Province, east China, July 15, 2026. China's technology-driven industrial transformation is emerging as a key source of economic {{1}}, as advances in artificial intelligence (AI), high-end manufacturing and the aerospace information industry continue to generate new growth {{0}} despite a complex global economic environment. Official data released on Wednesday point to China's steady economic performance supported by expanding digital {{2}}, robust exports of high-tech products and accelerating {{3}} of {{19}} technologies. According to the National Bureau of Statistics, China's GDP grew 4.7% year on year in the first half of 2026, while industrial production maintained stable expansion, highlighting the economy's continued {{4}} toward innovation-led growth. Meanwhile, data released by the General Administration of Customs showed that China's total goods trade reached 25.47 trillion yuan (about $3.55 trillion) in the first six months of the year, up 16.9% from a year earlier.",
+          "cn": "2026年7月15日，位于中国东部江苏省南通市的南通翔宇海洋装备有限公司内，多艘船舶正在建造中，生产繁忙而有序。尽管全球经济环境复杂，中国以技术驱动的产业转型正成为经济韧性的关键来源，人工智能、高端制造和航天信息产业的进步持续创造新的增长动力。周三发布的官方数据显示，在数字基础设施扩大、高科技产品出口强劲以及前沿技术商业化加速的支持下，中国经济表现稳定。根据国家统计局数据，2026年上半年中国GDP同比增长4.7%，工业生产保持稳定扩张，凸显经济持续向创新驱动增长转型。同时，海关总署数据显示，今年前六个月中国货物贸易总额达25.47万亿元人民币（约3.55万亿美元），同比增长16.9%。"
         },
         {
-          "en": "England midfielder Jude Bellingham (#10) shoots to score a goal in the quarterfinal match against Norway at the 2026 FIFA World Cup in Miami Gardens, Florida, July 11, 2026. The game remained {{12}} {{13}} after the restart, with neither side able to find a {{17}} {{14}} inside 90 minutes Norway continued to {{15}} a threat through their attacking players, while England relied on their experience and {{16}} quality to create opportunities. The decisive moment arrived three minutes into extra time when Bellingham {{18}} his {{0}}, finishing after Norway goalkeeper Orjan Nyland failed to fully deal with the situation. The goal secured England's place in the last four and ended the Vikings memorable {{19}}. The victory continued an impressive tournament for Bellingham, who has {{20}} as one of England's most {{21}} players during their knockout-stage run.",
-          "cn": "2026年7月11日，佛罗里达州迈阿密花园，在2026年国际足联世界杯四分之一决赛对阵挪威的比赛中，英格兰中场裘德·贝林厄姆（10号）射门得分。比赛重新开始后依然势均力敌，双方在90分钟内均未能取得决定性突破。挪威继续通过他们的进攻球员制造威胁，而英格兰则依靠经验和个人能力创造机会。决定性时刻出现在加时赛第三分钟，贝林厄姆完成梅开二度，在挪威门将厄尔扬·尼兰未能完全处理好局面后补射得手。这个进球确保了英格兰的四强席位，并终结了维京人令人难忘的征程。这场胜利延续了贝林厄姆在本届赛事中的出色表现，他在淘汰赛阶段已成为英格兰最具影响力的球员之一。"
+          "en": "Exports of technology-{{5}} products, including electronic components, computer parts and intelligent manufacturing equipment, remained among the fastest-growing categories, reflecting robust international demand for China's advanced manufacturing {{6}}. The world's first high-voltage AC/DC {{7}} power supply station for a computing center (known as the \"Compute Power Island\") is officially unveiled on June 6, 2026, Laoshan District, Qingdao, Shandong Province, east China. Computing power becomes the foundation of the 'AI economy'\nThe rapid commercialization of large AI models has significantly increased demand for computing infrastructure, making digital hardware and computing networks a {{8}} pillar of industrial development. China has accelerated the construction of national computing infrastructure through projects such as the \"Eastern Data, Western Computing\" initiative, which optimizes the {{9}} of computing resources across regions while improving energy efficiency and network {{10}}. According to the China Academy of Information and Communications Technology (CAICT), computing power has become a core production factor in the digital economy, alongside data and algorithms.",
+          "cn": "包括电子元件、计算机零件和智能制造设备在内的技术密集型产品出口仍属增长最快的类别之一，反映出国际市场对中国先进制造能力的强劲需求。2026年6月6日，全球首个为计算中心设计的高压交直流预制式电源站（称为“算力岛”）在中国东部山东省青岛市崂山区正式亮相。算力成为“AI经济”的基础。大型AI模型的快速商业化显著增加了对计算基础设施的需求，使数字硬件和计算网络成为产业发展的战略支柱。中国通过“东数西算”等项目加速国家计算基础设施建设，该项目优化了计算资源在区域间的配置，同时提高了能源效率和网络协调性。根据中国信息通信研究院的数据，算力已成为数字经济中与数据和算法并列的核心生产要素。"
         },
         {
-          "en": "For Norway, the defeat brought an end to a historic World Cup journey that included a first appearance in the quarterfinals since 1998. The Three Lions will battle Argentina next in Atlanta on Wednesday. Argentina striker Julian Alvarez (L) shoots to score a goal in the quarterfinal match against Switzerland at the 2026 FIFA World Cup in Kansas City, Missouri, July 11, 2026. The defending champions defeated Switzerland 3-1 following extra time in a hard-fought quarterfinal on the same day. Alexis Mac Allister gave Argentina the perfect start in the 10th minute, heading home to put the defending champions in front.",
-          "cn": "对于挪威来说，这场失利结束了一段历史性的世界杯之旅，这是他们自1998年以来首次闯入四分之一决赛。三狮军团将于周三在亚特兰大与阿根廷队交锋。2026年7月11日，密苏里州堪萨斯城，在2026年国际足联世界杯四分之一决赛对阵瑞士的比赛中，阿根廷前锋朱利安·阿尔瓦雷斯（左）射门得分。卫冕冠军在同一天的一场艰苦的四分之一决赛中，经过加时赛以3-1击败瑞士。亚历克西斯·麦克·阿利斯特在第10分钟为阿根廷取得完美开局，头球破门，让卫冕冠军取得领先。"
+          "en": "Continued investment in intelligent computing centers and high-speed data transmission networks is expected to support the next stage of AI {{11}} across manufacturing, healthcare, finance and public services. Yu Xiaohui, president of CAICT, has argued that AI development is moving from model innovation toward industrial application, with computing infrastructure set to determine the pace of technological {{12}}. In his view, {{13}} computing networks are becoming critical infrastructure for cross-industry digital transformation. Workers fit components into an electric vehicle at a manufacturing plant. Intelligent manufacturing strengthens global competitiveness\nChina's high-end manufacturing sector is also gaining international market share as intelligent equipment becomes an important driver of export growth.",
+          "cn": "对智能计算中心和高速度数据传输网络的持续投资预计将支持AI在制造业、医疗、金融和公共服务领域的下一阶段部署。中国信通院院长余晓晖认为，AI发展正从模型创新转向工业应用，计算基础设施将决定技术扩散的速度。在他看来，集成计算网络正成为跨行业数字化转型的关键基础设施。工人在制造工厂为电动汽车安装组件。智能制造增强全球竞争力。随着智能设备成为出口增长的重要驱动力，中国的高端制造业也在扩大国际市场份额。"
         },
         {
-          "en": "Switzerland gradually grew into the match and found an equalizer in the 67th minute when Dan Ndoye finished from close range to force the contest into extra time. Switzerland's hopes suffered a major blow late in regulation when Breel Embolo was shown a second yellow card following a VAR review under FIFA's mistaken-identity protocol, leaving Murat Yakin's side to play the remainder of the match with 10 men. Argentina players celebrate after scoring a goal in the quarterfinal match against Switzerland at the 2026 FIFA World Cup in Kansas City, Missouri, July 11, 2026. Argentina finally regained the lead in the 112th minute as Julian Alvarez found space in the box and struck a clinical shot into the net, before Lautaro Martinez added a third goal deep into extra-time stoppage time to seal the victory after Switzerland were forced to commit more players into forward positions in search of a second equalizer. The result kept Argentina's title defense alive after another dramatic knockout match.",
-          "cn": "瑞士逐渐进入比赛状态，并在第67分钟由丹·恩多耶近距离射门扳平比分，将比赛拖入加时赛。瑞士队的希望在常规时间尾声遭受重大打击，布雷尔·恩博洛在国际足联误认身份规则下的VAR回放后被出示第二张黄牌，导致穆拉特·雅金的球队在剩余比赛中只能以10人应战。2026年7月11日，密苏里州堪萨斯城，在2026年国际足联世界杯四分之一决赛对阵瑞士的比赛中，阿根廷球员进球后庆祝。阿根廷最终在第112分钟重新取得领先，朱利安·阿尔瓦雷斯在禁区内找到空间，冷静射门入网，随后劳塔罗·马丁内斯在加时赛补时阶段打入第三球，锁定胜局，当时瑞士被迫投入更多球员前压，试图再次扳平。结果使阿根廷的卫冕之路得以延续，这又是一场戏剧性的淘汰赛。"
+          "en": "Industrial robots, automation systems and smart manufacturing solutions have seen expanding overseas demand, supported by continuous technological upgrading and increasingly complete industrial supply chains. The International Federation of Robotics (IFR) has ranked China the world's largest industrial robot market by annual {{15}} for 12 consecutive years, with 295,000 units installed in 2024 alone, accounting for 54% of global demand. Domestic brands captured a 57% domestic market share in 2024, {{16}} foreign suppliers for the first time, according to IFR. Chinese industrial robot exports reached 94,200 units in the first six months of 2025, up nearly 60% year on year, signaling broader {{17}} of Chinese intelligent equipment in overseas manufacturing projects. China has moved beyond being a fast {{18}} to become a system-level competitor in global innovation, Stephen Ezell, vice president for global innovation policy at the US-based Information Technology and Innovation Foundation, said in an interview with West China International Communication Organization in April.",
+          "cn": "在持续技术升级和日益完善的工业供应链支持下，工业机器人、自动化系统和智能制造解决方案的海外需求不断扩大。国际机器人联合会的数据显示，中国已连续12年成为全球最大的工业机器人市场，2024年安装量达29.5万台，占全球需求的54%。根据IFR数据，2024年国产品牌在国内市场份额达57%，首次超过外国供应商。2025年上半年，中国工业机器人出口量达9.42万台，同比增长近60%，表明中国智能设备在海外制造项目中的采用范围更广。美国信息技术与创新基金会全球创新政策副总裁斯蒂芬·埃泽尔今年4月在接受西部国际传播中心采访时表示，中国已从快速追随者转变为全球创新中的系统级竞争者。"
         },
         {
-          "en": "Lionel Scaloni's side had also needed a late comeback to eliminate Egypt in the round of 16 and Cape Verde in the round of 32. However, their depth, composure and big tournament experience was again a big factor which helped them overcome challenges and get over the line.",
-          "cn": "利昂内尔·斯卡洛尼的球队此前在16强赛和32强赛中分别需要后来居上才淘汰埃及和佛得角。然而，他们的阵容深度、沉着冷静以及丰富的大赛经验再次成为关键因素，帮助他们克服挑战并最终取胜。"
+          "en": "File photo of the \"computing power town\" in Hangzhou, Zhejiang Province, east China. Aerospace information industry opens new growth frontier\nParallel to the manufacturing story, a more futuristic lane is taking shape in Wuxi, Jiangsu, where the 2026 Aerospace Information Conference runs July 16 to 17, showcasing the latest developments in satellite {{20}} sensing, the integrated BeiDou navigation-communication-remote sensing system and space computing technologies. Experts believe these innovations are accelerating the commercialization of aerospace technologies across agriculture, transportation, emergency management, environmental monitoring and smart cities. \"With the advanced networking and intelligence of space-based information systems, {{21}} computing has emerged as a strategic high ground in global technological competition,\" said Hao Xuetao, vice president of Geovis Technology Co., Ltd. and general manager of its Commercial Aerospace Strategy Department.",
+          "cn": "资料照片：中国东部浙江省杭州市的“算力小镇”。航天信息产业开辟新的增长前沿。与制造业故事并行，一个更具未来感的赛道正在江苏无锡形成，2026年航天信息会议于7月16日至17日在此举行，展示卫星遥感、北斗导航通信遥感一体化系统以及空间计算技术的最新发展。专家认为，这些创新正在加速航天技术在农业、交通、应急管理、环境监测和智慧城市等领域的商业化。中科星图股份有限公司副总裁兼商业航天战略部总经理郝雪涛表示：“随着天基信息系统的先进组网和智能化，轨道计算已成为全球技术竞争的战略制高点。”"
+        },
+        {
+          "en": "China has incorporated the development of the aerospace information industry, along with the construction of the satellite internet and an integrated space-ground information network, into several national strategies, including the Digital China Initiative. Enterprises and research institutions are seizing the opportunities presented by these strategic initiatives. Hao said orbital computing is expected to play a {{22}} role in the next stage of digital and intelligent development, with applications spanning communications, remote sensing and navigation. Its ability to enable rapid global {{23}}, real-time data processing and intelligent decision-making will support a wide range of sectors, including smart cities, public security, {{24}} services and environmental monitoring.",
+          "cn": "中国已将航天信息产业发展以及卫星互联网和天地一体化信息网络建设纳入包括数字中国倡议在内的多项国家战略。企业和研究机构正抓住这些战略举措带来的机遇。郝雪涛表示，轨道计算预计将在下一阶段数字化和智能化发展中发挥关键作用，应用涵盖通信、遥感和导航。其实现快速全球连接、实时数据处理和智能决策的能力将支持智慧城市、公共安全、气象服务和环境监测等多个领域。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "brace",
-          "hint": "n. 梅开二度",
+          "answer": "momentum",
+          "hint": "n. 动力",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "survived",
-          "hint": "v. 幸存，挺过",
-          "difficulty": "medium"
+          "answer": "resilience",
+          "hint": "n. 韧性",
+          "difficulty": "hard"
         },
         {
           "id": 2,
-          "answer": "scare",
-          "hint": "n. 惊吓，恐慌",
-          "difficulty": "easy"
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "semifinals",
-          "hint": "n. 半决赛",
-          "difficulty": "easy"
+          "answer": "commercialization",
+          "hint": "n. 商业化",
+          "difficulty": "hard"
         },
         {
           "id": 4,
-          "answer": "extra-time",
-          "hint": "n. 加时赛",
+          "answer": "transition",
+          "hint": "n. 转型",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "underdogs",
-          "hint": "n. 弱旅，不被看好的一方",
+          "answer": "intensive",
+          "hint": "adj. 密集的",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "historic",
-          "hint": "adj. 历史性的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 7,
-          "answer": "stunning",
-          "hint": "adj. 惊人的，令人震惊的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "memorable",
-          "hint": "adj. 难忘的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "interval",
-          "hint": "n. 间隔，中场休息",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "instincts",
-          "hint": "n. 本能，直觉",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "frustrated",
-          "hint": "v. 使沮丧，挫败",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "finely",
-          "hint": "adv. 精细地，微妙地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "balanced",
-          "hint": "adj. 平衡的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "breakthrough",
-          "hint": "n. 突破",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "pose",
-          "hint": "v. 构成，造成",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "individual",
-          "hint": "adj. 个人的，个体的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "decisive",
-          "hint": "adj. 决定性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "completed",
-          "hint": "v. 完成",
-          "difficulty": "easy"
-        },
-        {
-          "id": 19,
-          "answer": "campaign",
-          "hint": "n. 战役，征程",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "emerged",
-          "hint": "v. 出现，浮现",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "influential",
-          "hint": "adj. 有影响力的",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "England midfielder Jude Bellingham (#10) celebrates after scoring a goal in the quarterfinal match against Norway at the 2026 FIFA World Cup in Miami Gardens, Florida, July 11, 2026. \nJude Bellingham scored twice as England survived a major scare from Norway to reach the semifinals of the 2026 FIFA World Cup with a 2-1 extra-time victory in Florida on Saturday.\nThomas Tuchel's side fell behind against one of the tournament surprise packages in the first half after Norway's Andreas Schjelderup broke the deadlock in the 36th minute, putting the underdogs in sight of another historic result after their stunning run to the quarterfinals which included a memorable 2-1 win over five time Champions Brazil in the Round of 16.\nThe Three Lions responded just before the interval when Bellingham struck to level the contest. The Real Madrid midfielder showed his attacking instincts inside the box, reacting quickly to keep England alive after Norway had frustrated them for much of the opening period.\nEngland midfielder Jude Bellingham (#10) shoots to score a goal in the quarterfinal match against Norway at the 2026 FIFA World Cup in Miami Gardens, Florida, July 11, 2026. \nThe game remained finely balanced after the restart, with neither side able to find a decisive breakthrough inside 90 minutes Norway continued to pose a threat through their attacking players, while England relied on their experience and individual quality to create opportunities.\nThe decisive moment arrived three minutes into extra time when Bellingham completed his brace, finishing after Norway goalkeeper Orjan Nyland failed to fully deal with the situation. The goal secured England's place in the last four and ended the Vikings memorable campaign.\nThe victory continued an impressive tournament for Bellingham, who has emerged as one of England's most influential players during their knockout-stage run. For Norway, the defeat brought an end to a historic World Cup journey that included a first appearance in the quarterfinals since 1998.\nThe Three Lions will battle Argentina next in Atlanta on Wednesday.\nArgentina striker Julian Alvarez (L) shoots to score a goal in the quarterfinal match against Switzerland at the 2026 FIFA World Cup in Kansas City, Missouri, July 11, 2026. \nThe defending champions defeated Switzerland 3-1 following extra time in a hard-fought quarterfinal on the same day.\nAlexis Mac Allister gave Argentina the perfect start in the 10th minute, heading home to put the defending champions in front. Switzerland gradually grew into the match and found an equalizer in the 67th minute when Dan Ndoye finished from close range to force the contest into extra time.\nSwitzerland's hopes suffered a major blow late in regulation when Breel Embolo was shown a second yellow card following a VAR review under FIFA's mistaken-identity protocol, leaving Murat Yakin's side to play the remainder of the match with 10 men.\nArgentina players celebrate after scoring a goal in the quarterfinal match against Switzerland at the 2026 FIFA World Cup in Kansas City, Missouri, July 11, 2026. \nArgentina finally regained the lead in the 112th minute as Julian Alvarez found space in the box and struck a clinical shot into the net, before Lautaro Martinez added a third goal deep into extra-time stoppage time to seal the victory after Switzerland were forced to commit more players into forward positions in search of a second equalizer.\nThe result kept Argentina's title defense alive after another dramatic knockout match. Lionel Scaloni's side had also needed a late comeback to eliminate Egypt in the round of 16 and Cape Verde in the round of 32. However, their depth, composure and big tournament experience was again a big factor which helped them overcome challenges and get over the line.",
-      "fullTextCn": "2026年7月11日，佛罗里达州迈阿密花园，在2026年国际足联世界杯四分之一决赛对阵挪威的比赛中，英格兰中场裘德·贝林厄姆（10号）进球后庆祝。裘德·贝林厄姆梅开二度，帮助英格兰在周六于佛罗里达州以2-1加时赛战胜挪威，惊险晋级2026年世界杯半决赛。托马斯·图赫尔的球队在比赛初期落后于本届赛事的一大黑马——挪威队，挪威的安德烈亚斯·谢尔德鲁普在第36分钟打破僵局，让这支弱旅有望再创历史佳绩，此前他们已惊人地闯入四分之一决赛，其中包括在16强赛中令人难忘地以2-1战胜五届冠军巴西队。三狮军团在中场休息前做出回应，贝林厄姆破门扳平比分。这位皇家马德里中场在禁区内展现了他的进攻本能，迅速反应，在挪威队上半场大部分时间压制住英格兰队后，为球队保留了生机。\n\n2026年7月11日，佛罗里达州迈阿密花园，在2026年国际足联世界杯四分之一决赛对阵挪威的比赛中，英格兰中场裘德·贝林厄姆（10号）射门得分。比赛重新开始后依然势均力敌，双方在90分钟内均未能取得决定性突破。挪威继续通过他们的进攻球员制造威胁，而英格兰则依靠经验和个人能力创造机会。决定性时刻出现在加时赛第三分钟，贝林厄姆完成梅开二度，在挪威门将厄尔扬·尼兰未能完全处理好局面后补射得手。这个进球确保了英格兰的四强席位，并终结了维京人令人难忘的征程。这场胜利延续了贝林厄姆在本届赛事中的出色表现，他在淘汰赛阶段已成为英格兰最具影响力的球员之一。\n\n对于挪威来说，这场失利结束了一段历史性的世界杯之旅，这是他们自1998年以来首次闯入四分之一决赛。三狮军团将于周三在亚特兰大与阿根廷队交锋。2026年7月11日，密苏里州堪萨斯城，在2026年国际足联世界杯四分之一决赛对阵瑞士的比赛中，阿根廷前锋朱利安·阿尔瓦雷斯（左）射门得分。卫冕冠军在同一天的一场艰苦的四分之一决赛中，经过加时赛以3-1击败瑞士。亚历克西斯·麦克·阿利斯特在第10分钟为阿根廷取得完美开局，头球破门，让卫冕冠军取得领先。\n\n瑞士逐渐进入比赛状态，并在第67分钟由丹·恩多耶近距离射门扳平比分，将比赛拖入加时赛。瑞士队的希望在常规时间尾声遭受重大打击，布雷尔·恩博洛在国际足联误认身份规则下的VAR回放后被出示第二张黄牌，导致穆拉特·雅金的球队在剩余比赛中只能以10人应战。2026年7月11日，密苏里州堪萨斯城，在2026年国际足联世界杯四分之一决赛对阵瑞士的比赛中，阿根廷球员进球后庆祝。阿根廷最终在第112分钟重新取得领先，朱利安·阿尔瓦雷斯在禁区内找到空间，冷静射门入网，随后劳塔罗·马丁内斯在加时赛补时阶段打入第三球，锁定胜局，当时瑞士被迫投入更多球员前压，试图再次扳平。结果使阿根廷的卫冕之路得以延续，这又是一场戏剧性的淘汰赛。\n\n利昂内尔·斯卡洛尼的球队此前在16强赛和32强赛中分别需要后来居上才淘汰埃及和佛得角。然而，他们的阵容深度、沉着冷静以及丰富的大赛经验再次成为关键因素，帮助他们克服挑战并最终取胜。"
-    },
-    {
-      "id": 5,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-02/AI-gives-China-s-forecasters-a-head-start-on-extreme-weather-1OrTNXsA5AQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "AI gives China's forecasters a head start on extreme weather",
-      "titleCn": "人工智能助力中国极端天气预警抢占先机",
-      "summary": "AI gives China's forecasters a head start on extreme weather",
-      "summaryCn": "中国利用人工智能技术提升极端天气预报能力，通过庞大的气象观测网络和智能模型实现更快速、更准确的预警。",
-      "wordCount": 416,
-      "paragraphs": [
-        {
-          "en": "China has recently {{0}} a new plan for {{1}} disaster prevention covering the 2026-2030 period, calling for stronger {{2}} in monitoring and forecasting extreme weather, as well as greater use of {{3}} forecasting and digital technologies. As extreme weather becomes more frequent and intense, artificial intelligence (AI) is already helping turn those goals into practical improvements in forecasting and early warning. A weather radar tower in Wuhan, Hubei Province, central China, March 23, 2026. The advances are supported by China's expanding meteorological observation network. The country has built what it describes as the world's largest {{4}} space-air-ground meteorological observation network, combining Fengyun meteorological satellites, new-generation weather radars and automatic weather stations.",
-          "cn": "中国近日发布了2026-2030年气象灾害防御新规划，要求加强极端天气监测预报能力，并更大程度应用智能预报和数字技术。随着极端天气愈发频繁和剧烈，人工智能已在帮助将这些目标转化为预报和预警的实际改进。2026年3月23日，中国中部湖北省武汉市的一座天气雷达塔。这些进展得到了中国不断扩展的气象观测网络的支持。中国已建成其自称全球最大的空地一体化气象观测网络，融合了风云气象卫星、新一代天气雷达和自动气象站。"
-        },
-        {
-          "en": "The network supplies AI models with massive {{5}} of real-time data, enabling faster and more accurate weather forecasts. It supports forecasts ranging from seasonal outlooks to minute-level {{6}}. AI is already transforming severe weather forecasting in east China's Jiangsu Province. An AI nowcasting model developed by Jiangsu meteorological authorities and research institutions provides forecasts up to 12 hours ahead. During a severe {{7}} weather event in September 2025, it {{8}} signals indicating the development of organized severe convective weather about six hours in advance.",
-          "cn": "该网络为人工智能模型提供海量实时数据，从而实现更快、更准确的天气预报。它支持从季节展望到分钟级临近预报的各类预报。人工智能已在改变中国东部江苏省的强天气预报。由江苏气象部门和研究机构开发的人工智能临近预报模型可提供长达12小时的预报。在2025年9月一次强对流天气事件中，该模型提前约6小时检测到组织化强对流天气发展的信号。"
-        },
-        {
-          "en": "The event later produced an EF0 tornado and force-12 thunderstorm winds. Provincial meteorological authorities say the average lead time for severe convective weather warnings has increased to 53 minutes, while forecast {{9}} has improved by 22% over {{10}} methods. Another AI-powered warning system further {{11}} the warning process by automatically identifying severe weather, assessing risks, generating warning reports and distributing alerts. Tasks that once took around 10 minutes can now be completed in about one minute. During nine major severe convective weather events in Jiangsu in 2025, the system successfully identified storm initiation and organization trends in five cases, providing an average lead time of 5.4 hours.",
-          "cn": "该事件后来产生了EF0级龙卷风和12级雷暴大风。省级气象部门表示，强对流天气预警的平均提前时间已增至53分钟，预报准确率比传统方法提高了22%。另一个由人工智能驱动的预警系统通过自动识别强天气、评估风险、生成预警报告和发布警报，进一步简化了预警流程。过去需要约10分钟完成的任务现在可在约1分钟内完成。在2025年江苏省九次重大强对流天气事件中，该系统成功识别了五次风暴的起始和组织趋势，平均提前时间为5.4小时。"
-        },
-        {
-          "en": "AI-powered weather services are also being applied in transportation and energy, from detecting highway fog to helping wind farms {{12}} power generation and reduce operational risks. China is also extending these technologies through international {{13}}. An upgraded version of MAZU, China's early warning solution supporting the United Nations' Early Warnings for All initiative, was released in April integrating AI across the platform. It offers tailored services covering weather monitoring, early warning and impact-based forecasting. The solution has already been {{14}} in several countries and provides cloud-based services to users in more than 40 countries.",
-          "cn": "人工智能驱动的气象服务也应用于交通和能源领域，从检测高速公路大雾到帮助风电场优化发电和降低运营风险。中国还通过国际合作推广这些技术。支持联合国全民预警倡议的中国预警解决方案“妈祖”的升级版于4月发布，将人工智能整合到整个平台中。它提供涵盖天气监测、预警和基于影响的预报的定制服务。该解决方案已在多个国家部署，并向40多个国家的用户提供云服务。"
-        },
-        {
-          "en": "As extreme weather poses growing challenges, faster and more accurate forecasts are becoming an increasingly important part of disaster preparedness.",
-          "cn": "随着极端天气带来日益严峻的挑战，更快、更准确的预报正成为备灾工作中越来越重要的一部分。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "unveiled",
-          "hint": "v. 公布",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "meteorological",
-          "hint": "adj. 气象的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 2,
           "answer": "capabilities",
           "hint": "n. 能力",
           "difficulty": "medium"
         },
         {
-          "id": 3,
-          "answer": "intelligent",
-          "hint": "adj. 智能的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "integrated",
-          "hint": "adj. 综合的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "volumes",
-          "hint": "n. 大量",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "nowcasting",
-          "hint": "n. 临近预报",
-          "difficulty": "hard"
-        },
-        {
           "id": 7,
-          "answer": "convective",
-          "hint": "adj. 对流的",
+          "answer": "prefabricated",
+          "hint": "adj. 预制的",
           "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "detected",
-          "hint": "v. 检测到",
+          "answer": "strategic",
+          "hint": "adj. 战略的",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "accuracy",
-          "hint": "n. 准确率",
-          "difficulty": "medium"
+          "answer": "allocation",
+          "hint": "n. 分配",
+          "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "conventional",
-          "hint": "adj. 传统的",
+          "answer": "coordination",
+          "hint": "n. 协调",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "streamlines",
-          "hint": "v. 简化",
+          "answer": "deployment",
+          "hint": "n. 部署",
           "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "optimize",
-          "hint": "v. 优化",
+          "answer": "diffusion",
+          "hint": "n. 扩散",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "integrated",
+          "hint": "adj. 集成的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "installations",
+          "hint": "n. 安装量",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "surpassing",
+          "hint": "v. 超过",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "adoption",
+          "hint": "n. 采用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "follower",
+          "hint": "n. 追随者",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "frontier",
+          "hint": "n. 前沿",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "remote",
+          "hint": "adj. 遥感的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "orbital",
+          "hint": "adj. 轨道的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "pivotal",
+          "hint": "adj. 关键的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "connectivity",
+          "hint": "n. 连接性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "meteorological",
+          "hint": "adj. 气象的",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Multiple vessels are under construction at Nantong Xiangyu Marine Equipment Co., Ltd., with production proceeding in a busy and orderly manner, Nantong, Jiangsu Province, east China, July 15, 2026. \nChina's technology-driven industrial transformation is emerging as a key source of economic resilience, as advances in artificial intelligence (AI), high-end manufacturing and the aerospace information industry continue to generate new growth momentum despite a complex global economic environment.\nOfficial data released on Wednesday point to China's steady economic performance supported by expanding digital infrastructure, robust exports of high-tech products and accelerating commercialization of frontier technologies.\nAccording to the National Bureau of Statistics, China's GDP grew 4.7% year on year in the first half of 2026, while industrial production maintained stable expansion, highlighting the economy's continued transition toward innovation-led growth.\nMeanwhile, data released by the General Administration of Customs showed that China's total goods trade reached 25.47 trillion yuan (about $3.55 trillion) in the first six months of the year, up 16.9% from a year earlier. Exports of technology-intensive products, including electronic components, computer parts and intelligent manufacturing equipment, remained among the fastest-growing categories, reflecting robust international demand for China's advanced manufacturing capabilities.\nThe world's first high-voltage AC/DC prefabricated power supply station for a computing center (known as the \"Compute Power Island\") is officially unveiled on June 6, 2026, Laoshan District, Qingdao, Shandong Province, east China. \nComputing power becomes the foundation of the 'AI economy'\nThe rapid commercialization of large AI models has significantly increased demand for computing infrastructure, making digital hardware and computing networks a strategic pillar of industrial development.\nChina has accelerated the construction of national computing infrastructure through projects such as the \"Eastern Data, Western Computing\" initiative, which optimizes the allocation of computing resources across regions while improving energy efficiency and network coordination.\nAccording to the China Academy of Information and Communications Technology (CAICT), computing power has become a core production factor in the digital economy, alongside data and algorithms. Continued investment in intelligent computing centers and high-speed data transmission networks is expected to support the next stage of AI deployment across manufacturing, healthcare, finance and public services.\nYu Xiaohui, president of CAICT, has argued that AI development is moving from model innovation toward industrial application, with computing infrastructure set to determine the pace of technological diffusion. In his view, integrated computing networks are becoming critical infrastructure for cross-industry digital transformation.\nWorkers fit components into an electric vehicle at a manufacturing plant. \nIntelligent manufacturing strengthens global competitiveness\nChina's high-end manufacturing sector is also gaining international market share as intelligent equipment becomes an important driver of export growth.\nIndustrial robots, automation systems and smart manufacturing solutions have seen expanding overseas demand, supported by continuous technological upgrading and increasingly complete industrial supply chains.\nThe International Federation of Robotics (IFR) has ranked China the world's largest industrial robot market by annual installations for 12 consecutive years, with 295,000 units installed in 2024 alone, accounting for 54% of global demand. Domestic brands captured a 57% domestic market share in 2024, surpassing foreign suppliers for the first time, according to IFR. Chinese industrial robot exports reached 94,200 units in the first six months of 2025, up nearly 60% year on year, signaling broader adoption of Chinese intelligent equipment in overseas manufacturing projects.\nChina has moved beyond being a fast follower to become a system-level competitor in global innovation, Stephen Ezell, vice president for global innovation policy at the US-based Information Technology and Innovation Foundation, said in an interview with West China International Communication Organization in April.\nFile photo of the \"computing power town\" in Hangzhou, Zhejiang Province, east China. \nAerospace information industry opens new growth frontier\nParallel to the manufacturing story, a more futuristic lane is taking shape in Wuxi, Jiangsu, where the 2026 Aerospace Information Conference runs July 16 to 17, showcasing the latest developments in satellite remote sensing, the integrated BeiDou navigation-communication-remote sensing system and space computing technologies.\nExperts believe these innovations are accelerating the commercialization of aerospace technologies across agriculture, transportation, emergency management, environmental monitoring and smart cities.\n\"With the advanced networking and intelligence of space-based information systems, orbital computing has emerged as a strategic high ground in global technological competition,\" said Hao Xuetao, vice president of Geovis Technology Co., Ltd. and general manager of its Commercial Aerospace Strategy Department.\nChina has incorporated the development of the aerospace information industry, along with the construction of the satellite internet and an integrated space-ground information network, into several national strategies, including the Digital China Initiative. Enterprises and research institutions are seizing the opportunities presented by these strategic initiatives.\nHao said orbital computing is expected to play a pivotal role in the next stage of digital and intelligent development, with applications spanning communications, remote sensing and navigation. Its ability to enable rapid global connectivity, real-time data processing and intelligent decision-making will support a wide range of sectors, including smart cities, public security, meteorological services and environmental monitoring.",
+      "fullTextCn": "2026年7月15日，位于中国东部江苏省南通市的南通翔宇海洋装备有限公司内，多艘船舶正在建造中，生产繁忙而有序。尽管全球经济环境复杂，中国以技术驱动的产业转型正成为经济韧性的关键来源，人工智能、高端制造和航天信息产业的进步持续创造新的增长动力。周三发布的官方数据显示，在数字基础设施扩大、高科技产品出口强劲以及前沿技术商业化加速的支持下，中国经济表现稳定。根据国家统计局数据，2026年上半年中国GDP同比增长4.7%，工业生产保持稳定扩张，凸显经济持续向创新驱动增长转型。同时，海关总署数据显示，今年前六个月中国货物贸易总额达25.47万亿元人民币（约3.55万亿美元），同比增长16.9%。\n\n包括电子元件、计算机零件和智能制造设备在内的技术密集型产品出口仍属增长最快的类别之一，反映出国际市场对中国先进制造能力的强劲需求。2026年6月6日，全球首个为计算中心设计的高压交直流预制式电源站（称为“算力岛”）在中国东部山东省青岛市崂山区正式亮相。算力成为“AI经济”的基础。大型AI模型的快速商业化显著增加了对计算基础设施的需求，使数字硬件和计算网络成为产业发展的战略支柱。中国通过“东数西算”等项目加速国家计算基础设施建设，该项目优化了计算资源在区域间的配置，同时提高了能源效率和网络协调性。根据中国信息通信研究院的数据，算力已成为数字经济中与数据和算法并列的核心生产要素。\n\n对智能计算中心和高速度数据传输网络的持续投资预计将支持AI在制造业、医疗、金融和公共服务领域的下一阶段部署。中国信通院院长余晓晖认为，AI发展正从模型创新转向工业应用，计算基础设施将决定技术扩散的速度。在他看来，集成计算网络正成为跨行业数字化转型的关键基础设施。工人在制造工厂为电动汽车安装组件。智能制造增强全球竞争力。随着智能设备成为出口增长的重要驱动力，中国的高端制造业也在扩大国际市场份额。\n\n在持续技术升级和日益完善的工业供应链支持下，工业机器人、自动化系统和智能制造解决方案的海外需求不断扩大。国际机器人联合会的数据显示，中国已连续12年成为全球最大的工业机器人市场，2024年安装量达29.5万台，占全球需求的54%。根据IFR数据，2024年国产品牌在国内市场份额达57%，首次超过外国供应商。2025年上半年，中国工业机器人出口量达9.42万台，同比增长近60%，表明中国智能设备在海外制造项目中的采用范围更广。美国信息技术与创新基金会全球创新政策副总裁斯蒂芬·埃泽尔今年4月在接受西部国际传播中心采访时表示，中国已从快速追随者转变为全球创新中的系统级竞争者。\n\n资料照片：中国东部浙江省杭州市的“算力小镇”。航天信息产业开辟新的增长前沿。与制造业故事并行，一个更具未来感的赛道正在江苏无锡形成，2026年航天信息会议于7月16日至17日在此举行，展示卫星遥感、北斗导航通信遥感一体化系统以及空间计算技术的最新发展。专家认为，这些创新正在加速航天技术在农业、交通、应急管理、环境监测和智慧城市等领域的商业化。中科星图股份有限公司副总裁兼商业航天战略部总经理郝雪涛表示：“随着天基信息系统的先进组网和智能化，轨道计算已成为全球技术竞争的战略制高点。”\n\n中国已将航天信息产业发展以及卫星互联网和天地一体化信息网络建设纳入包括数字中国倡议在内的多项国家战略。企业和研究机构正抓住这些战略举措带来的机遇。郝雪涛表示，轨道计算预计将在下一阶段数字化和智能化发展中发挥关键作用，应用涵盖通信、遥感和导航。其实现快速全球连接、实时数据处理和智能决策的能力将支持智慧城市、公共安全、气象服务和环境监测等多个领域。"
+    },
+    {
+      "id": 3,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-15/From-wildlife-rescue-to-China-s-biodiversity-conservation-1ONwNFwq2sw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "From wildlife rescue to China's biodiversity conservation",
+      "titleCn": "从野生动物救援到中国生物多样性保护",
+      "summary": "From wildlife rescue to China's biodiversity conservation",
+      "summaryCn": "西宁野生动物园通过救援、康复和放归雪豹等珍稀动物，展示了中国在生物多样性保护方面的努力与成就。",
+      "wordCount": 637,
+      "paragraphs": [
+        {
+          "en": "\"Only if we understand, will we care. Only if we care, will we help. Only if we help shall all be saved.\" The famous words of renowned {{0}} Jane Goodall greet visitors at Xining Wildlife Park. More than just a zoo, Xining Wildlife Park is also known as the Qinghai Wildlife Rescue and Breeding Center, an institution dedicated to wildlife rescue, {{1}}, breeding research and conservation education. Since 2010, it has rescued more than 2,700 wild animals from over 60 species, with around one-third successfully released back into the wild.",
+          "cn": "“唯有了解，我们才会关心；唯有关心，我们才会行动；唯有行动，生命才有希望。”著名灵长类动物学家珍·古道尔的这句名言迎接着西宁野生动物园的游客。西宁野生动物园不仅仅是一座动物园，它也被称为青海野生动物救护繁育中心，是一个致力于野生动物救援、康复、繁育研究和保护教育的机构。自2010年以来，它已救助了来自60多个物种的2700多只野生动物，其中约三分之一成功放归野外。"
+        },
+        {
+          "en": "Among its best-known residents are four iconic highland {{2}} – the snow leopard, Eurasian lynx, Pallas's cat and Chinese mountain cat. Their stories have become a window into wildlife conservation on the Qinghai-Xizang Plateau. Ling Xiaozhe, a rescued snow leopard, after a period of rehabilitation. /Xining Wildlife Park\nThe snow leopard is the park's biggest star. In March 2025, a severely injured {{4}} was found in the Sanjiangyuan area.",
+          "cn": "在其最著名的居民中，有四种标志性的高原食肉动物——雪豹、欧亚猞猁、兔狲和荒漠猫。它们的故事已成为了解青藏高原野生动物保护的一扇窗口。雪豹是动物园里最大的明星。2025年3月，在三江源地区发现了一只严重受伤的幼崽。"
+        },
+        {
+          "en": "Rescue workers drove hundreds of kilometers to bring the cub, later named Ling Xiaozhe, to Xining for emergency treatment. His injuries were likely caused by a fall from a significant height, leaving him with a {{5}} {{6}} spine, systemic {{7}} and {{8}}. After months of {{9}} care, he gradually recovered, while his rescue attracted nationwide attention through {{10}} that offered the public a rare look inside China's wildlife rescue efforts. \"Ling Xiaozhe's rescue has advanced our work in rescuing {{11}} wildlife, conservation communication and public education,\" said He Shunfu, head of the rescue department at the Qinghai Wildlife Rescue and Breeding Center. \"Whenever an animal has a chance to return to the wild, we do everything we can to make it happen,\" said {{12}} Wang Lu.",
+          "cn": "救援人员驱车数百公里，将这只后来被命名为“凌小蛰”的幼崽送往西宁进行紧急治疗。它的伤势很可能是从高处坠落造成的，导致颈椎骨折、全身炎症和体温过低。经过数月的精心护理，它逐渐康复，而它的救援过程通过直播引起了全国关注，让公众难得一窥中国野生动物救援工作的内部情况。“凌小蛰的救援推进了我们在濒危野生动物救援、保护传播和公众教育方面的工作，”青海野生动物救护繁育中心救护部主任何顺福说。“只要动物有机会重返野外，我们就会尽一切努力实现它，”兽医王璐说。"
+        },
+        {
+          "en": "\"So far, the center has successfully released three rescued snow leopards.\"\nAdult snow leopards can often be released after rehabilitation, but cubs rescued at a very young age often cannot survive {{13}} in the wild, as they miss the opportunity to learn hunting and survival skills from their mothers, explained veterinarian Zhao Hailong. Even so, these animals continue to make important contributions. Veterinary examinations and long-term monitoring have helped researchers establish valuable baseline data on snow leopard {{14}}, health {{15}} and medical treatment, improving future rescue efforts for wild populations. Ongoing conservation efforts at both the national and local levels have improved habitat quality and supported a steady increase in the snow leopard population. Today, Qinghai is home to an estimated 1,200 snow leopards, making it one of the world's most important habitats for this species.",
+          "cn": "“到目前为止，该中心已成功放归了三只获救的雪豹。”兽医赵海龙解释说，成年雪豹在康复后通常可以放归，但很小就被救起的幼崽往往无法在野外独立生存，因为它们错过了向母亲学习捕猎和生存技能的机会。即便如此，这些动物仍在做出重要贡献。兽医检查和长期监测帮助研究人员建立了关于雪豹麻醉、健康指标和医疗处理的宝贵基线数据，改善了未来对野生种群的救援工作。国家和地方层面的持续保护工作改善了栖息地质量，并支持了雪豹种群的稳步增长。如今，青海估计有1200只雪豹，使其成为该物种在全球最重要的栖息地之一。"
+        },
+        {
+          "en": "The other three species each tell their own conservation story. The Eurasian lynx, recognizable by its distinctive black ear tufts, is considered an important indicator of {{16}} health. The Pallas's cat, famous for its expressive face and exceptionally {{17}} fur, helps maintain {{18}} balance by preying on pikas and other small mammals. A rescued Pallas's cat with its characteristically expressive face. /Xining Wildlife Park\nThe Chinese mountain cat is a species found only in China and listed as a national first-class protected animal.",
+          "cn": "其他三种物种各自讲述着自己的保护故事。欧亚猞猁以其独特的黑色耳簇而闻名，被认为是生态系统健康的重要指标。兔狲以其富有表情的面孔和异常浓密的皮毛而闻名，通过捕食鼠兔和其他小型哺乳动物来维持生态平衡。荒漠猫是中国特有的物种，被列为国家一级保护动物。"
+        },
+        {
+          "en": "In 2024, the park successfully released a Chinese mountain cat fitted with a satellite {{19}} collar, allowing researchers to study its movements while enabling faster rescue if the animal encounters danger. A view of a rescued Chinese mountain cat. /Xining Wildlife Park\nBehind these four animals lies a much bigger conservation story. From emergency rescue and veterinary care to scientific research, conservation breeding, public education and {{20}}, their stories reflect China's growing {{21}} to {{22}} conservation. With major biodiversity conservation projects included in China's 15th Five-Year Plan for achieving the Beautiful China vision, institutions like Xining Wildlife Park are helping bridge the gap between science and public awareness.",
+          "cn": "2024年，该园成功放归了一只佩戴卫星追踪项圈的荒漠猫，使研究人员能够研究其活动，同时在动物遇到危险时能更快地实施救援。在这四种动物背后，是一个更大的保护故事。从紧急救援和兽医护理到科学研究、保护性繁育、公众教育和再引入，它们的故事反映了中国对生物多样性保护日益增长的承诺。随着重大生物多样性保护项目被纳入中国实现“美丽中国”愿景的“十五五”规划，像西宁野生动物园这样的机构正在帮助弥合科学与公众意识之间的鸿沟。"
+        },
+        {
+          "en": "Every rescued animal deepens scientific understanding, every successful release strengthens wild populations, and every story inspires more people to care about the future of wildlife.",
+          "cn": "每一只获救的动物都加深了科学理解，每一次成功的放归都加强了野生种群，每一个故事都激励着更多人关心野生动物的未来。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "primatologist",
+          "hint": "n. 灵长类动物学家",
+          "difficulty": "hard"
+        },
+        {
+          "id": 1,
+          "answer": "rehabilitation",
+          "hint": "n. 康复；恢复",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "predators",
+          "hint": "n. 捕食者；食肉动物",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "cub",
+          "hint": "n. 幼兽",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "fractured",
+          "hint": "adj. 骨折的；断裂的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "cervical",
+          "hint": "adj. 颈部的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "inflammation",
+          "hint": "n. 炎症",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "hypothermia",
+          "hint": "n. 体温过低",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "intensive",
+          "hint": "adj. 精心的；密集的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "livestreams",
+          "hint": "n. 直播",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "endangered",
+          "hint": "adj. 濒危的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "veterinarian",
+          "hint": "n. 兽医",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "independently",
+          "hint": "adv. 独立地",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "cooperation",
-          "hint": "n. 合作",
+          "answer": "anesthesia",
+          "hint": "n. 麻醉",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "indicators",
+          "hint": "n. 指标；指示物",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "ecosystem",
+          "hint": "n. 生态系统",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "dense",
+          "hint": "adj. 浓密的；密集的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "ecological",
+          "hint": "adj. 生态的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "tracking",
+          "hint": "n. 追踪；跟踪",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
+          "answer": "reintroduction",
+          "hint": "n. 再引入；重新引入",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "commitment",
+          "hint": "n. 承诺；投入",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "biodiversity",
+          "hint": "n. 生物多样性",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "\"Only if we understand, will we care. Only if we care, will we help. Only if we help shall all be saved.\" The famous words of renowned primatologist Jane Goodall greet visitors at Xining Wildlife Park.\nMore than just a zoo, Xining Wildlife Park is also known as the Qinghai Wildlife Rescue and Breeding Center, an institution dedicated to wildlife rescue, rehabilitation, breeding research and conservation education. Since 2010, it has rescued more than 2,700 wild animals from over 60 species, with around one-third successfully released back into the wild.\nAmong its best-known residents are four iconic highland predators – the snow leopard, Eurasian lynx, Pallas's cat and Chinese mountain cat. Their stories have become a window into wildlife conservation on the Qinghai-Xizang Plateau.\nLing Xiaozhe, a rescued snow leopard, after a period of rehabilitation. /Xining Wildlife Park\nThe snow leopard is the park's biggest star. In March 2025, a severely injured cub was found in the Sanjiangyuan area. Rescue workers drove hundreds of kilometers to bring the cub, later named Ling Xiaozhe, to Xining for emergency treatment. His injuries were likely caused by a fall from a significant height, leaving him with a fractured cervical spine, systemic inflammation and hypothermia. After months of intensive care, he gradually recovered, while his rescue attracted nationwide attention through livestreams that offered the public a rare look inside China's wildlife rescue efforts.\n\"Ling Xiaozhe's rescue has advanced our work in rescuing endangered wildlife, conservation communication and public education,\" said He Shunfu, head of the rescue department at the Qinghai Wildlife Rescue and Breeding Center.\n\"Whenever an animal has a chance to return to the wild, we do everything we can to make it happen,\" said veterinarian Wang Lu. \"So far, the center has successfully released three rescued snow leopards.\"\nAdult snow leopards can often be released after rehabilitation, but cubs rescued at a very young age often cannot survive independently in the wild, as they miss the opportunity to learn hunting and survival skills from their mothers, explained veterinarian Zhao Hailong.\nEven so, these animals continue to make important contributions. Veterinary examinations and long-term monitoring have helped researchers establish valuable baseline data on snow leopard anesthesia, health indicators and medical treatment, improving future rescue efforts for wild populations.\nOngoing conservation efforts at both the national and local levels have improved habitat quality and supported a steady increase in the snow leopard population. Today, Qinghai is home to an estimated 1,200 snow leopards, making it one of the world's most important habitats for this species.\nThe other three species each tell their own conservation story. The Eurasian lynx, recognizable by its distinctive black ear tufts, is considered an important indicator of ecosystem health.\nThe Pallas's cat, famous for its expressive face and exceptionally dense fur, helps maintain ecological balance by preying on pikas and other small mammals.\nA rescued Pallas's cat with its characteristically expressive face. /Xining Wildlife Park\nThe Chinese mountain cat is a species found only in China and listed as a national first-class protected animal. In 2024, the park successfully released a Chinese mountain cat fitted with a satellite tracking collar, allowing researchers to study its movements while enabling faster rescue if the animal encounters danger.\nA view of a rescued Chinese mountain cat. /Xining Wildlife Park\nBehind these four animals lies a much bigger conservation story. From emergency rescue and veterinary care to scientific research, conservation breeding, public education and reintroduction, their stories reflect China's growing commitment to biodiversity conservation.\nWith major biodiversity conservation projects included in China's 15th Five-Year Plan for achieving the Beautiful China vision, institutions like Xining Wildlife Park are helping bridge the gap between science and public awareness. Every rescued animal deepens scientific understanding, every successful release strengthens wild populations, and every story inspires more people to care about the future of wildlife.",
+      "fullTextCn": "“唯有了解，我们才会关心；唯有关心，我们才会行动；唯有行动，生命才有希望。”著名灵长类动物学家珍·古道尔的这句名言迎接着西宁野生动物园的游客。西宁野生动物园不仅仅是一座动物园，它也被称为青海野生动物救护繁育中心，是一个致力于野生动物救援、康复、繁育研究和保护教育的机构。自2010年以来，它已救助了来自60多个物种的2700多只野生动物，其中约三分之一成功放归野外。\n\n在其最著名的居民中，有四种标志性的高原食肉动物——雪豹、欧亚猞猁、兔狲和荒漠猫。它们的故事已成为了解青藏高原野生动物保护的一扇窗口。雪豹是动物园里最大的明星。2025年3月，在三江源地区发现了一只严重受伤的幼崽。\n\n救援人员驱车数百公里，将这只后来被命名为“凌小蛰”的幼崽送往西宁进行紧急治疗。它的伤势很可能是从高处坠落造成的，导致颈椎骨折、全身炎症和体温过低。经过数月的精心护理，它逐渐康复，而它的救援过程通过直播引起了全国关注，让公众难得一窥中国野生动物救援工作的内部情况。“凌小蛰的救援推进了我们在濒危野生动物救援、保护传播和公众教育方面的工作，”青海野生动物救护繁育中心救护部主任何顺福说。“只要动物有机会重返野外，我们就会尽一切努力实现它，”兽医王璐说。\n\n“到目前为止，该中心已成功放归了三只获救的雪豹。”兽医赵海龙解释说，成年雪豹在康复后通常可以放归，但很小就被救起的幼崽往往无法在野外独立生存，因为它们错过了向母亲学习捕猎和生存技能的机会。即便如此，这些动物仍在做出重要贡献。兽医检查和长期监测帮助研究人员建立了关于雪豹麻醉、健康指标和医疗处理的宝贵基线数据，改善了未来对野生种群的救援工作。国家和地方层面的持续保护工作改善了栖息地质量，并支持了雪豹种群的稳步增长。如今，青海估计有1200只雪豹，使其成为该物种在全球最重要的栖息地之一。\n\n其他三种物种各自讲述着自己的保护故事。欧亚猞猁以其独特的黑色耳簇而闻名，被认为是生态系统健康的重要指标。兔狲以其富有表情的面孔和异常浓密的皮毛而闻名，通过捕食鼠兔和其他小型哺乳动物来维持生态平衡。荒漠猫是中国特有的物种，被列为国家一级保护动物。\n\n2024年，该园成功放归了一只佩戴卫星追踪项圈的荒漠猫，使研究人员能够研究其活动，同时在动物遇到危险时能更快地实施救援。在这四种动物背后，是一个更大的保护故事。从紧急救援和兽医护理到科学研究、保护性繁育、公众教育和再引入，它们的故事反映了中国对生物多样性保护日益增长的承诺。随着重大生物多样性保护项目被纳入中国实现“美丽中国”愿景的“十五五”规划，像西宁野生动物园这样的机构正在帮助弥合科学与公众意识之间的鸿沟。\n\n每一只获救的动物都加深了科学理解，每一次成功的放归都加强了野生种群，每一个故事都激励着更多人关心野生动物的未来。"
+    },
+    {
+      "id": 4,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-14/How-is-China-protecting-the-South-China-Sea-on-all-fronts--1OLGwRpgV2M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "How is China protecting the South China Sea on all fronts?",
+      "titleCn": "中国如何全方位守护南海？",
+      "summary": "How is China protecting the South China Sea on all fronts?",
+      "summaryCn": "中国通过岛屿绿化、珊瑚礁修复、野生动物恢复和先进技术应用，在南海生态保护方面取得显著进展。",
+      "wordCount": 555,
+      "paragraphs": [
+        {
+          "en": "Editor's Note: Ten years after the so-called \"South China Sea Arbitration Award\" case, CGTN presents a special series examining China's position on the South China Sea from four {{0}}. Drawing on historical evidence and insights from Chinese and international experts, the series seeks to highlight that, rather than resolving disputes, the so-called arbitration has become a {{1}} {{2}} – fueling {{3}}, {{4}} the application of international law, and {{5}} peace and stability in the region. China has made significant progress in marine {{6}} protection across the South China Sea in recent years, transforming once-barren reefs into {{7}} {{8}} through sustained conservation efforts, scientific innovation and robust {{9}}. Island greening\nOn Yongshu Reef in the Nansha Qundao, what foreign experts once {{10}} as having a plant {{11}} rate of less than 5% has been {{12}} into a \"marine forest.\" The number of plant {{13}} on the reef has grown from fewer than 20 to over 120, with greenery rates now {{14}} many urban planning standards, Zhong Chaohua, a member of the island-reef ecological and environmental protection management authorities, told Science and Technology Daily in December 2025. Through {{15}} organic {{16}} methods, the reef's sand {{17}} dropped from 1.38‰ to 0.443‰, boosting plant survival rates to over 90%.",
+          "cn": "编者按：在所谓的“南海仲裁案”十年后，CGTN推出特别系列，从四个角度审视中国在南海的立场。该系列基于历史证据以及中外专家的见解，旨在强调所谓的仲裁非但没有解决争端，反而成为一份有毒的遗产——加剧对抗、扭曲国际法的适用，并破坏地区的和平与稳定。近年来，中国在南海海洋生态保护方面取得了重大进展，通过持续的保护努力、科学创新和强有力的治理，将曾经贫瘠的礁石转变为繁荣的生态系统。岛屿绿化：在南沙群岛的永暑礁，外国专家曾认为植物存活率不到5%的地方，如今已变成一片“海上森林”。岛屿礁石生态环境保护管理机构的成员钟朝华在2025年12月告诉《科技日报》，礁石上的植物种类已从不到20种增加到120多种，绿化率现已超过许多城市规划标准。通过创新的有机施肥方法，礁石的沙质盐度从1.38‰降至0.443‰，植物存活率提高到90%以上。"
+        },
+        {
+          "en": "Coral reef {{18}}\nAn aerial view of the Weizhou Island, south China's Guangxi Zhuang Autonomous Region, March 20, 2026. Around Weizhou Island off the coast of south China's Guangxi Zhuang Autonomous Region, a 2,000-square-meter restoration demonstration zone built by a research team from Guangxi University's School of Marine Sciences saw live coral {{19}} rise from approximately 5% to 20% in just three years. \"In 2023, with strong support from the Beihai municipal government and the Weizhou Island Management Committee, the team further deployed 1,520 artificial reefs and {{20}} more than 80,000 coral {{21}}, restoring 450 mu (about 30 hectares) of sea area,\" said Huang Wen, an associate professor at Guangxi University's School of Marine Sciences. Coral species increased from 46 to 62, and the area has become the only part of China's coastal waters where large whales are regularly sighted. Wildlife recovery\nA green sea turtle in the sea.",
+          "cn": "珊瑚礁修复：2026年3月20日，中国南部广西壮族自治区的涠洲岛鸟瞰图。在广西壮族自治区沿海的涠洲岛周围，由广西大学海洋学院研究团队建立的一个2000平方米的修复示范区，在短短三年内，活珊瑚覆盖率从大约5%上升到20%。广西大学海洋学院副教授黄文说：“2023年，在北海市政府和涠洲岛管理委员会的大力支持下，该团队进一步部署了1520个人工礁，移植了超过8万株珊瑚，恢复了450亩（约30公顷）的海域。”珊瑚种类从46种增加到62种，该区域已成为中国沿海水域中唯一经常发现大型鲸鱼的地方。野生动物恢复：一只绿海龟在海中。"
+        },
+        {
+          "en": "/South China Sea Institute of Oceanology, Chinese Academy of Sciences\nIn June, a scientific expedition team from the Chinese Academy of Sciences' South China Sea Institute of Oceanology discovered a large population of green sea turtles – a nationally protected wild animal – in the seagrass beds of Huangyan Dao's lagoon, with {{22}} observations counting more than 50 individuals. The discovery, made possible by drone-based survey technology, indicates that the lagoon has developed a mature coral reef-seagrass {{23}} ecosystem, providing an ideal habitat for ecologically important marine species. Technology at the forefront\nPicture of mangroves took during the remote sensing monitoring mission. /South China Sea Bureau of the Ministry of Natural Resources\nAdvanced technology is enhancing the precision of conservation efforts. In January, the South China Sea Bureau of the Ministry of Natural Resources completed its first comprehensive remote sensing monitoring mission for mangroves across the region.",
+          "cn": "中国科学院南海海洋研究所：6月，中国科学院南海海洋研究所的一个科学考察队在黄岩岛泻湖的海草床中发现了一个大型绿海龟种群——这是一种国家保护的野生动物，初步观察统计超过50只。这一发现得益于无人机调查技术，表明泻湖已发展出成熟的珊瑚礁-海草复合生态系统，为生态重要的海洋物种提供了理想的栖息地。技术前沿：红树林遥感监测任务中的图片。自然资源部南海局：先进技术正在提高保护工作的精确度。1月，自然资源部南海局完成了该地区首次全面的红树林遥感监测任务。"
+        },
+        {
+          "en": "The mission successfully monitored over 20,000 mangrove patches, identified 39 sites of human disturbance, and assessed 174 restoration projects, securing two national invention patents in the process. On Zhubi Reef, an ocean environment monitoring station now provides round-the-clock {{24}} of surrounding waters, with water temperature, salinity and pH readings updated every 10 minutes.",
+          "cn": "该任务成功监测了超过2万片红树林，识别了39处人为干扰地点，评估了174个修复项目，并在此过程中获得了两项国家发明专利。在渚碧礁，一个海洋环境监测站现在对周围水域提供全天候监控，每10分钟更新一次水温、盐度和pH值读数。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "perspectives",
+          "hint": "n. 视角",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "poisoned",
+          "hint": "adj. 有毒的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 2,
+          "answer": "legacy",
+          "hint": "n. 遗产",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "confrontation",
+          "hint": "n. 对抗",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "distorting",
+          "hint": "v. 扭曲",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "undermining",
+          "hint": "v. 破坏",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "ecological",
+          "hint": "adj. 生态的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "thriving",
+          "hint": "adj. 繁荣的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "ecosystems",
+          "hint": "n. 生态系统",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "dismissed",
+          "hint": "v. 不予考虑",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "survival",
+          "hint": "n. 存活",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "transformed",
+          "hint": "v. 转变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "species",
+          "hint": "n. 物种",
           "difficulty": "easy"
         },
         {
           "id": 14,
-          "answer": "deployed",
-          "hint": "v. 部署",
+          "answer": "exceeding",
+          "hint": "v. 超过",
           "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "innovative",
+          "hint": "adj. 创新的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "fertilization",
+          "hint": "n. 施肥",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "salinity",
+          "hint": "n. 盐度",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "restoration",
+          "hint": "n. 修复",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "coverage",
+          "hint": "n. 覆盖率",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "transplanted",
+          "hint": "v. 移植",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "colonies",
+          "hint": "n. 群体",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "preliminary",
+          "hint": "adj. 初步的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "composite",
+          "hint": "adj. 复合的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 24,
+          "answer": "surveillance",
+          "hint": "n. 监控",
+          "difficulty": "hard"
         }
       ],
-      "fullText": "China has recently unveiled a new plan for meteorological disaster prevention covering the 2026-2030 period, calling for stronger capabilities in monitoring and forecasting extreme weather, as well as greater use of intelligent forecasting and digital technologies.\nAs extreme weather becomes more frequent and intense, artificial intelligence (AI) is already helping turn those goals into practical improvements in forecasting and early warning.\nA weather radar tower in Wuhan, Hubei Province, central China, March 23, 2026. \nThe advances are supported by China's expanding meteorological observation network. The country has built what it describes as the world's largest integrated space-air-ground meteorological observation network, combining Fengyun meteorological satellites, new-generation weather radars and automatic weather stations.\nThe network supplies AI models with massive volumes of real-time data, enabling faster and more accurate weather forecasts. It supports forecasts ranging from seasonal outlooks to minute-level nowcasting.\nAI is already transforming severe weather forecasting in east China's Jiangsu Province. An AI nowcasting model developed by Jiangsu meteorological authorities and research institutions provides forecasts up to 12 hours ahead. During a severe convective weather event in September 2025, it detected signals indicating the development of organized severe convective weather about six hours in advance. The event later produced an EF0 tornado and force-12 thunderstorm winds.\nProvincial meteorological authorities say the average lead time for severe convective weather warnings has increased to 53 minutes, while forecast accuracy has improved by 22% over conventional methods.\nAnother AI-powered warning system further streamlines the warning process by automatically identifying severe weather, assessing risks, generating warning reports and distributing alerts. Tasks that once took around 10 minutes can now be completed in about one minute. During nine major severe convective weather events in Jiangsu in 2025, the system successfully identified storm initiation and organization trends in five cases, providing an average lead time of 5.4 hours.\nAI-powered weather services are also being applied in transportation and energy, from detecting highway fog to helping wind farms optimize power generation and reduce operational risks.\nChina is also extending these technologies through international cooperation. An upgraded version of MAZU, China's early warning solution supporting the United Nations' Early Warnings for All initiative, was released in April integrating AI across the platform.\nIt offers tailored services covering weather monitoring, early warning and impact-based forecasting. The solution has already been deployed in several countries and provides cloud-based services to users in more than 40 countries.\nAs extreme weather poses growing challenges, faster and more accurate forecasts are becoming an increasingly important part of disaster preparedness.",
-      "fullTextCn": "中国近日发布了2026-2030年气象灾害防御新规划，要求加强极端天气监测预报能力，并更大程度应用智能预报和数字技术。随着极端天气愈发频繁和剧烈，人工智能已在帮助将这些目标转化为预报和预警的实际改进。2026年3月23日，中国中部湖北省武汉市的一座天气雷达塔。这些进展得到了中国不断扩展的气象观测网络的支持。中国已建成其自称全球最大的空地一体化气象观测网络，融合了风云气象卫星、新一代天气雷达和自动气象站。\n\n该网络为人工智能模型提供海量实时数据，从而实现更快、更准确的天气预报。它支持从季节展望到分钟级临近预报的各类预报。人工智能已在改变中国东部江苏省的强天气预报。由江苏气象部门和研究机构开发的人工智能临近预报模型可提供长达12小时的预报。在2025年9月一次强对流天气事件中，该模型提前约6小时检测到组织化强对流天气发展的信号。\n\n该事件后来产生了EF0级龙卷风和12级雷暴大风。省级气象部门表示，强对流天气预警的平均提前时间已增至53分钟，预报准确率比传统方法提高了22%。另一个由人工智能驱动的预警系统通过自动识别强天气、评估风险、生成预警报告和发布警报，进一步简化了预警流程。过去需要约10分钟完成的任务现在可在约1分钟内完成。在2025年江苏省九次重大强对流天气事件中，该系统成功识别了五次风暴的起始和组织趋势，平均提前时间为5.4小时。\n\n人工智能驱动的气象服务也应用于交通和能源领域，从检测高速公路大雾到帮助风电场优化发电和降低运营风险。中国还通过国际合作推广这些技术。支持联合国全民预警倡议的中国预警解决方案“妈祖”的升级版于4月发布，将人工智能整合到整个平台中。它提供涵盖天气监测、预警和基于影响的预报的定制服务。该解决方案已在多个国家部署，并向40多个国家的用户提供云服务。\n\n随着极端天气带来日益严峻的挑战，更快、更准确的预报正成为备灾工作中越来越重要的一部分。"
+      "fullText": "Editor's Note: Ten years after the so-called \"South China Sea Arbitration Award\" case, CGTN presents a special series examining China's position on the South China Sea from four perspectives. Drawing on historical evidence and insights from Chinese and international experts, the series seeks to highlight that, rather than resolving disputes, the so-called arbitration has become a poisoned legacy – fueling confrontation, distorting the application of international law, and undermining peace and stability in the region.\nChina has made significant progress in marine ecological protection across the South China Sea in recent years, transforming once-barren reefs into thriving ecosystems through sustained conservation efforts, scientific innovation and robust governance.\nIsland greening\nOn Yongshu Reef in the Nansha Qundao, what foreign experts once dismissed as having a plant survival rate of less than 5% has been transformed into a \"marine forest.\" The number of plant species on the reef has grown from fewer than 20 to over 120, with greenery rates now exceeding many urban planning standards, Zhong Chaohua, a member of the island-reef ecological and environmental protection management authorities, told Science and Technology Daily in December 2025. Through innovative organic fertilization methods, the reef's sand salinity dropped from 1.38‰ to 0.443‰, boosting plant survival rates to over 90%.\nCoral reef restoration\nAn aerial view of the Weizhou Island, south China's Guangxi Zhuang Autonomous Region, March 20, 2026. \nAround Weizhou Island off the coast of south China's Guangxi Zhuang Autonomous Region, a 2,000-square-meter restoration demonstration zone built by a research team from Guangxi University's School of Marine Sciences saw live coral coverage rise from approximately 5% to 20% in just three years.\n\"In 2023, with strong support from the Beihai municipal government and the Weizhou Island Management Committee, the team further deployed 1,520 artificial reefs and transplanted more than 80,000 coral colonies, restoring 450 mu (about 30 hectares) of sea area,\" said Huang Wen, an associate professor at Guangxi University's School of Marine Sciences. Coral species increased from 46 to 62, and the area has become the only part of China's coastal waters where large whales are regularly sighted.\nWildlife recovery\nA green sea turtle in the sea. /South China Sea Institute of Oceanology, Chinese Academy of Sciences\nIn June, a scientific expedition team from the Chinese Academy of Sciences' South China Sea Institute of Oceanology discovered a large population of green sea turtles – a nationally protected wild animal – in the seagrass beds of Huangyan Dao's lagoon, with preliminary observations counting more than 50 individuals.\nThe discovery, made possible by drone-based survey technology, indicates that the lagoon has developed a mature coral reef-seagrass composite ecosystem, providing an ideal habitat for ecologically important marine species.\nTechnology at the forefront\nPicture of mangroves took during the remote sensing monitoring mission. /South China Sea Bureau of the Ministry of Natural Resources\nAdvanced technology is enhancing the precision of conservation efforts.\nIn January, the South China Sea Bureau of the Ministry of Natural Resources completed its first comprehensive remote sensing monitoring mission for mangroves across the region. The mission successfully monitored over 20,000 mangrove patches, identified 39 sites of human disturbance, and assessed 174 restoration projects, securing two national invention patents in the process.\nOn Zhubi Reef, an ocean environment monitoring station now provides round-the-clock surveillance of surrounding waters, with water temperature, salinity and pH readings updated every 10 minutes.",
+      "fullTextCn": "编者按：在所谓的“南海仲裁案”十年后，CGTN推出特别系列，从四个角度审视中国在南海的立场。该系列基于历史证据以及中外专家的见解，旨在强调所谓的仲裁非但没有解决争端，反而成为一份有毒的遗产——加剧对抗、扭曲国际法的适用，并破坏地区的和平与稳定。近年来，中国在南海海洋生态保护方面取得了重大进展，通过持续的保护努力、科学创新和强有力的治理，将曾经贫瘠的礁石转变为繁荣的生态系统。岛屿绿化：在南沙群岛的永暑礁，外国专家曾认为植物存活率不到5%的地方，如今已变成一片“海上森林”。岛屿礁石生态环境保护管理机构的成员钟朝华在2025年12月告诉《科技日报》，礁石上的植物种类已从不到20种增加到120多种，绿化率现已超过许多城市规划标准。通过创新的有机施肥方法，礁石的沙质盐度从1.38‰降至0.443‰，植物存活率提高到90%以上。\n\n珊瑚礁修复：2026年3月20日，中国南部广西壮族自治区的涠洲岛鸟瞰图。在广西壮族自治区沿海的涠洲岛周围，由广西大学海洋学院研究团队建立的一个2000平方米的修复示范区，在短短三年内，活珊瑚覆盖率从大约5%上升到20%。广西大学海洋学院副教授黄文说：“2023年，在北海市政府和涠洲岛管理委员会的大力支持下，该团队进一步部署了1520个人工礁，移植了超过8万株珊瑚，恢复了450亩（约30公顷）的海域。”珊瑚种类从46种增加到62种，该区域已成为中国沿海水域中唯一经常发现大型鲸鱼的地方。野生动物恢复：一只绿海龟在海中。\n\n中国科学院南海海洋研究所：6月，中国科学院南海海洋研究所的一个科学考察队在黄岩岛泻湖的海草床中发现了一个大型绿海龟种群——这是一种国家保护的野生动物，初步观察统计超过50只。这一发现得益于无人机调查技术，表明泻湖已发展出成熟的珊瑚礁-海草复合生态系统，为生态重要的海洋物种提供了理想的栖息地。技术前沿：红树林遥感监测任务中的图片。自然资源部南海局：先进技术正在提高保护工作的精确度。1月，自然资源部南海局完成了该地区首次全面的红树林遥感监测任务。\n\n该任务成功监测了超过2万片红树林，识别了39处人为干扰地点，评估了174个修复项目，并在此过程中获得了两项国家发明专利。在渚碧礁，一个海洋环境监测站现在对周围水域提供全天候监控，每10分钟更新一次水温、盐度和pH值读数。"
+    },
+    {
+      "id": 5,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-15/news-1OMYdwd8mk0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Trump resumes Iran's naval blockade, threatens strikes on power plants",
+      "titleCn": "特朗普恢复对伊朗海上封锁，威胁打击发电厂",
+      "summary": "US President Donald Trump resumed the naval blockade of Iranian ports on Tuesday and threatened new strikes on the country's power plants and bridges if Tehran refuses to return to talks.",
+      "summaryCn": "美国恢复对伊朗海上封锁并威胁打击其能源设施，伊朗则发动无人机袭击回应，导致地区紧张局势进一步升级。",
+      "wordCount": 558,
+      "paragraphs": [
+        {
+          "en": ", Updated 11:44, 15-Jul-2026This picture shows ships sailing near the Strait of Hormuz off the eastern coast of the United Arab Emirates at Khor Fakkan on July 13, 2026. US President Donald Trump {{0}} the naval {{1}} of Iranian ports on Tuesday and {{2}} new {{3}} on the country's power plants and bridges if Tehran refuses to return to talks. The US also launched a new wave of strikes aimed at \"continuing to {{4}} Iranian capabilities used to attack commercial shipping in the Strait of Hormuz,\" the US military said. The moves mark a further {{5}} in the renewed {{6}} between the US and Iran, which resumed hostilities last week and put a {{7}} June truce under mounting strain. Tehran says it has again shut the Strait of Hormuz, a key {{8}} for global energy trade.",
+          "cn": "这张照片拍摄于2026年7月13日，显示船只航行在阿拉伯联合酋长国东海岸霍尔木兹海峡附近的豪尔费坎。美国总统唐纳德·特朗普周二恢复了对伊朗港口的海上封锁，并威胁如果德黑兰拒绝重返谈判，将对伊朗的发电厂和桥梁发动新的打击。美国军方表示，美国还发动了新一波打击，旨在“继续削弱伊朗用于攻击霍尔木兹海峡商业航运的能力”。这些举措标志着美伊之间重新爆发的对抗进一步升级，双方于上周恢复敌对行动，使脆弱的六月休战协议面临越来越大的压力。德黑兰表示已再次关闭霍尔木兹海峡，这是全球能源贸易的关键咽喉要道。"
+        },
+        {
+          "en": "\"I'll save the energy {{9}} for last, but ultimately we'll hit energy targets,\" Trump told Fox News in an interview that aired Tuesday night on \"Special Report with Bret Baier.\"\n\"Next week comes the power plants, next week comes the bridges,\" Trump said, \"unless they get to the table and {{10}}.\"\nTrump said US negotiators had contacted Iranian {{11}} with a message that Tehran \"better make a deal.\"\nIran, meanwhile, reported fresh attacks on US positions and facilities in Gulf countries. Its army said early on Wednesday that drones had been launched at US positions at Jordan's Azraq base. Iran's Islamic Revolutionary Guard Corps separately said it struck weapons and storage facilities in Bahrain and Kuwait. The latest exchange of attacks has deepened {{12}} over the future of a memorandum of understanding signed last month, which had raised hopes of a more durable end to the fighting. The war has spread beyond Iran's borders, drawn neighboring countries into the hostilities and {{13}} international energy flows.",
+          "cn": "“我会把能源目标留到最后，但最终我们会打击能源目标，”特朗普在接受福克斯新闻采访时表示，该采访于周二晚间在《与布雷特·拜尔的特别报道》节目中播出。“下周轮到发电厂，下周轮到桥梁，”特朗普说，“除非他们坐到谈判桌前进行谈判。”特朗普表示，美国谈判代表已联系伊朗同行，传达德黑兰“最好达成协议”的信息。与此同时，伊朗报告了对海湾国家美国阵地和设施的新袭击。其军方周三早些时候表示，已向约旦阿兹拉克基地的美国阵地发射了无人机。伊朗伊斯兰革命卫队单独表示，它袭击了巴林和科威特的武器和储存设施。最新的攻击交换加深了人们对上月签署的谅解备忘录未来的不确定性，该备忘录曾给人们带来更持久结束战斗的希望。战争已蔓延至伊朗境外，将邻国卷入敌对行动，并扰乱了国际能源流动。"
+        },
+        {
+          "en": "In southern Iran, authorities reported US attacks at several locations near the Strait of Hormuz. American {{14}} struck an area around Bandar Abbas, the provincial governor's office told state media late on Tuesday. State news agency IRNA separately reported a strike near Sirik. \"If the US thinks that by tightening its measures against us, its military actions and its economic blockade, we will return to negotiations, it is making a mistake,\" Iran's Deputy Foreign Minister Kazem Gharibabadi said in an earlier interview with state television. Roughly a fifth of global oil and gas shipments moved through the Strait of Hormuz each day before the war erupted in February, underscoring the wider economic {{15}} of the renewed fighting.",
+          "cn": "在伊朗南部，当局报告称美国在霍尔木兹海峡附近的多个地点发动了袭击。省长办公室周二晚些时候告诉官方媒体，美国炮弹击中了阿巴斯港附近的一个区域。官方通讯社伊朗伊斯兰共和国通讯社单独报道了锡里克附近的一次袭击。“如果美国认为通过加强对我们的措施、军事行动和经济封锁，我们会重返谈判，那它就错了，”伊朗副外长卡齐姆·加里巴巴迪早些时候在接受国家电视台采访时表示。在2月份战争爆发前，全球约五分之一的石油和天然气运输每天通过霍尔木兹海峡，这突显了重新开战带来的更广泛经济风险。"
+        },
+        {
+          "en": "Trump had proposed on Monday imposing a 20% charge on ships using the waterway, prompting sharp criticism from the UN shipping agency and others. By Tuesday, he had dropped the proposal and said he would pursue investment agreements with Gulf countries instead, though he offered few details. The {{16}} US naval blockade, covering vessels traveling to and from Iranian ports and coastal areas, took effect at 8 p.m. GMT on Tuesday. The measure had been suspended in June.",
+          "cn": "特朗普周一曾提议对使用该水道的船只征收20%的费用，此举遭到联合国航运机构和其他方面的尖锐批评。到周二，他放弃了这一提议，并表示将转而寻求与海湾国家达成投资协议，尽管他提供的细节很少。恢复的美国海上封锁覆盖往返伊朗港口和沿海地区的船只，于周二格林威治标准时间晚上8点生效。该措施于6月暂停。"
+        },
+        {
+          "en": "Trump said vessels from other countries remained free to use the strait, with the restrictions applying to Iranian shipping. More than 20 US Navy warships and hundreds of military aircraft are now deployed across the region, according to the US military. At home, the war has become increasingly politically costly for Trump as gasoline prices rise and November's congressional elections draw closer.",
+          "cn": "特朗普表示，其他国家的船只仍可自由使用海峡，限制仅适用于伊朗航运。据美国军方称，目前有20多艘美国海军军舰和数百架军用飞机部署在该地区。在国内，随着汽油价格上涨和11月国会选举临近，这场战争对特朗普来说在政治上越来越代价高昂。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "resumed",
+          "hint": "v. 恢复",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "blockade",
+          "hint": "n. 封锁",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "threatened",
+          "hint": "v. 威胁",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "strikes",
+          "hint": "n. 打击",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "degrade",
+          "hint": "v. 削弱",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "escalation",
+          "hint": "n. 升级",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "confrontation",
+          "hint": "n. 对抗",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "fragile",
+          "hint": "adj. 脆弱的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "chokepoint",
+          "hint": "n. 咽喉要道",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "targets",
+          "hint": "n. 目标",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "negotiate",
+          "hint": "v. 谈判",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "counterparts",
+          "hint": "n. 对应方",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "uncertainty",
+          "hint": "n. 不确定性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "disrupted",
+          "hint": "v. 扰乱",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "projectiles",
+          "hint": "n. 炮弹",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "stakes",
+          "hint": "n. 风险",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "reinstated",
+          "hint": "v. 恢复",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": ", Updated 11:44, 15-Jul-2026This picture shows ships sailing near the Strait of Hormuz off the eastern coast of the United Arab Emirates at Khor Fakkan on July 13, 2026. \nUS President Donald Trump resumed the naval blockade of Iranian ports on Tuesday and threatened new strikes on the country's power plants and bridges if Tehran refuses to return to talks.\nThe US also launched a new wave of strikes aimed at \"continuing to degrade Iranian capabilities used to attack commercial shipping in the Strait of Hormuz,\" the US military said.\nThe moves mark a further escalation in the renewed confrontation between the US and Iran, which resumed hostilities last week and put a fragile June truce under mounting strain. Tehran says it has again shut the Strait of Hormuz, a key chokepoint for global energy trade.\n\"I'll save the energy targets for last, but ultimately we'll hit energy targets,\" Trump told Fox News in an interview that aired Tuesday night on \"Special Report with Bret Baier.\"\n\"Next week comes the power plants, next week comes the bridges,\" Trump said, \"unless they get to the table and negotiate.\"\nTrump said US negotiators had contacted Iranian counterparts with a message that Tehran \"better make a deal.\"\nIran, meanwhile, reported fresh attacks on US positions and facilities in Gulf countries. Its army said early on Wednesday that drones had been launched at US positions at Jordan's Azraq base.\nIran's Islamic Revolutionary Guard Corps separately said it struck weapons and storage facilities in Bahrain and Kuwait.\nThe latest exchange of attacks has deepened uncertainty over the future of a memorandum of understanding signed last month, which had raised hopes of a more durable end to the fighting. The war has spread beyond Iran's borders, drawn neighboring countries into the hostilities and disrupted international energy flows.\nIn southern Iran, authorities reported US attacks at several locations near the Strait of Hormuz. American projectiles struck an area around Bandar Abbas, the provincial governor's office told state media late on Tuesday. State news agency IRNA separately reported a strike near Sirik.\n\"If the US thinks that by tightening its measures against us, its military actions and its economic blockade, we will return to negotiations, it is making a mistake,\" Iran's Deputy Foreign Minister Kazem Gharibabadi said in an earlier interview with state television.\nRoughly a fifth of global oil and gas shipments moved through the Strait of Hormuz each day before the war erupted in February, underscoring the wider economic stakes of the renewed fighting.\nTrump had proposed on Monday imposing a 20% charge on ships using the waterway, prompting sharp criticism from the UN shipping agency and others. By Tuesday, he had dropped the proposal and said he would pursue investment agreements with Gulf countries instead, though he offered few details.\nThe reinstated US naval blockade, covering vessels traveling to and from Iranian ports and coastal areas, took effect at 8 p.m. GMT on Tuesday. The measure had been suspended in June.\nTrump said vessels from other countries remained free to use the strait, with the restrictions applying to Iranian shipping. More than 20 US Navy warships and hundreds of military aircraft are now deployed across the region, according to the US military.\nAt home, the war has become increasingly politically costly for Trump as gasoline prices rise and November's congressional elections draw closer.",
+      "fullTextCn": "这张照片拍摄于2026年7月13日，显示船只航行在阿拉伯联合酋长国东海岸霍尔木兹海峡附近的豪尔费坎。美国总统唐纳德·特朗普周二恢复了对伊朗港口的海上封锁，并威胁如果德黑兰拒绝重返谈判，将对伊朗的发电厂和桥梁发动新的打击。美国军方表示，美国还发动了新一波打击，旨在“继续削弱伊朗用于攻击霍尔木兹海峡商业航运的能力”。这些举措标志着美伊之间重新爆发的对抗进一步升级，双方于上周恢复敌对行动，使脆弱的六月休战协议面临越来越大的压力。德黑兰表示已再次关闭霍尔木兹海峡，这是全球能源贸易的关键咽喉要道。\n\n“我会把能源目标留到最后，但最终我们会打击能源目标，”特朗普在接受福克斯新闻采访时表示，该采访于周二晚间在《与布雷特·拜尔的特别报道》节目中播出。“下周轮到发电厂，下周轮到桥梁，”特朗普说，“除非他们坐到谈判桌前进行谈判。”特朗普表示，美国谈判代表已联系伊朗同行，传达德黑兰“最好达成协议”的信息。与此同时，伊朗报告了对海湾国家美国阵地和设施的新袭击。其军方周三早些时候表示，已向约旦阿兹拉克基地的美国阵地发射了无人机。伊朗伊斯兰革命卫队单独表示，它袭击了巴林和科威特的武器和储存设施。最新的攻击交换加深了人们对上月签署的谅解备忘录未来的不确定性，该备忘录曾给人们带来更持久结束战斗的希望。战争已蔓延至伊朗境外，将邻国卷入敌对行动，并扰乱了国际能源流动。\n\n在伊朗南部，当局报告称美国在霍尔木兹海峡附近的多个地点发动了袭击。省长办公室周二晚些时候告诉官方媒体，美国炮弹击中了阿巴斯港附近的一个区域。官方通讯社伊朗伊斯兰共和国通讯社单独报道了锡里克附近的一次袭击。“如果美国认为通过加强对我们的措施、军事行动和经济封锁，我们会重返谈判，那它就错了，”伊朗副外长卡齐姆·加里巴巴迪早些时候在接受国家电视台采访时表示。在2月份战争爆发前，全球约五分之一的石油和天然气运输每天通过霍尔木兹海峡，这突显了重新开战带来的更广泛经济风险。\n\n特朗普周一曾提议对使用该水道的船只征收20%的费用，此举遭到联合国航运机构和其他方面的尖锐批评。到周二，他放弃了这一提议，并表示将转而寻求与海湾国家达成投资协议，尽管他提供的细节很少。恢复的美国海上封锁覆盖往返伊朗港口和沿海地区的船只，于周二格林威治标准时间晚上8点生效。该措施于6月暂停。\n\n特朗普表示，其他国家的船只仍可自由使用海峡，限制仅适用于伊朗航运。据美国军方称，目前有20多艘美国海军军舰和数百架军用飞机部署在该地区。在国内，随着汽油价格上涨和11月国会选举临近，这场战争对特朗普来说在政治上越来越代价高昂。"
     }
   ]
 }
