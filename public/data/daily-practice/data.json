@@ -1,888 +1,792 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "articles": [
     {
       "id": 1,
       "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-08/Xi-presents-China-s-top-sci-tech-award-delivers-important-speech-1OBE7Ude4s8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "President Xi presents China's top sci-tech award, stresses innovation",
-      "titleCn": "习近平主席颁发中国最高科学技术奖，强调科技创新",
-      "summary": "Chinese President Xi Jinping on Wednesday called for accelerated efforts to achieve high-level self-reliance and strength in science and technology, and leverage sci-tech innovation to underpin and drive Chinese modernization.",
-      "summaryCn": "习近平主席在2026年国家科技奖励大会上强调加速实现高水平科技自立自强，以科技创新支撑中国式现代化。",
-      "wordCount": 1225,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-16/Co-creating-the-AI-Future-China-s-vision-for-global-AI-governance-1OPgvR3focw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Co-creating the AI Future: China's vision for global AI governance",
+      "titleCn": "共创AI未来：中国对全球人工智能治理的愿景",
+      "summary": "As the world looks toward WAIC 2026, China is leveraging its innovative resources to promote inclusive and shared global AI development and unlock greater benefits from intelligent technologies.",
+      "summaryCn": "中国提出以人民为中心、多边合作的全球AI治理框架，通过能力建设、国际合作和倡议推动包容性发展，确保AI成为惠及全人类的国际公共产品。",
+      "wordCount": 1039,
       "paragraphs": [
         {
-          "en": ", Updated 10:17, 09-Jul-2026Chinese President Xi Jinping attends a meeting bringing together the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE), and the 11th national congress of the China Association for Science and Technology at the Great Hall of the People in Beijing, capital of China, July 8, 2026. /Xinhua\nChinese President Xi Jinping on Wednesday called for accelerated efforts to achieve high-level {{0}} and strength in science and technology, and leverage sci-tech {{1}} to underpin and drive Chinese {{2}}. Xi, also general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission, made the remarks at a meeting in Beijing that brought together the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE), and the 11th national congress of the China Association for Science and Technology. He said the 15th Five-Year Plan period (2026-2030) is a {{3}} phase for {{4}} tough challenges in building up the country's strength in science and technology. \"We must {{5}} the historic opportunity, rise to the challenges of the times, accelerate efforts to achieve high-level self-reliance and strength in science and technology, and make steady progress toward the 2035 goal of becoming a leading country in science and technology,\" he said.",
-          "cn": "2026年7月8日，中国国家主席习近平在北京人民大会堂出席国家科学技术奖励大会、中国科学院第二十一次院士大会、中国工程院第十七次院士大会和中国科学技术协会第十一次全国代表大会。习近平强调，要加快实现高水平科技自立自强，以科技创新支撑和引领中国式现代化。他指出，“十五五”时期（2026-2030年）是建设科技强国的关键攻关期，“我们必须抓住历史机遇，迎接时代挑战，加快实现高水平科技自立自强，稳步迈向2035年建成科技强国的目标。”"
+          "en": "Editor's note: Professor Chen Zhimin is vice president of Fudan University, Shanghai, and executive director of the Center for Global AI Innovative Governance (CGAIG). Officially launched at the opening ceremony of the 2025 World AI Conference (WAIC) and High-Level Meeting on Global AI Governance, the CGAIG serves as an international platform dedicated to research, dialogue, and collaboration on global AI innovative governance. The article reflects the author's opinions and not necessarily the views of CGTN. Artificial intelligence (AI) is opening a new {{0}} for human development. Expanding humanity's ability to understand and reshape the world, it is a key driver of scientific and technological revolution as well as significant industrial {{2}}.",
+          "cn": "编者按：陈志敏教授是复旦大学副校长、上海全球人工智能创新治理中心（CGAIG）执行主任。该中心在2025年世界人工智能大会（WAIC）暨全球AI治理高级别会议开幕式上正式启动，是一个致力于全球AI创新治理研究、对话与合作的国际平台。本文反映作者观点，不一定代表CGTN立场。人工智能（AI）正在为人类发展开辟新前沿。它扩展了人类理解和改造世界的能力，是科技革命和重大产业转型的关键驱动力。"
         },
         {
-          "en": "At the meeting, Xi presented China's top sci-tech award for the year 2025 to Chen Liquan, a researcher at the Institute of Physics under the CAS and a CAE academician, and Ben De, a researcher at the China Electronics Technology Group Corporation and also a CAE academician. After presenting the medals and certificates to the two scientists, Xi shook hands with them and extended his congratulations. Xi Jinping presents China's top sci-tech award for the year 2025 to Chen Liquan (R), a researcher at the Institute of Physics under the CAS and a CAE academician, and Ben De (L), a researcher at the China Electronics Technology Group Corporation and also a CAE academician, Beijing, capital of China, July 8, 2026. /Xinhua\nXi and other Party and state leaders, together with the two top-award winners, presented certificates to representatives of recipients of other awards. Li Qiang presided over the meeting.",
-          "cn": "会上，习近平向2025年度国家最高科学技术奖获得者——中国科学院物理研究所研究员、中国工程院院士陈立泉，以及中国电子科技集团公司研究员、中国工程院院士贲德颁发奖章和证书，并与两位科学家握手表示祝贺。习近平等党和国家领导人同两位最高奖获得者一起，为其他获奖代表颁发证书。李强主持大会。"
+          "en": "While AI presents unprecedented opportunities for development, it also brings risks and challenges, including security concerns, ethical {{3}} and technological {{4}}. Therefore, determining how to promote innovative development, effectively prevent risks and deliver benefits to people in all countries in a fairer manner is a major issue facing the entire international community. China has consistently {{5}} a people-centered approach to global AI governance and international cooperation, following the underlying principle of \"AI for good.\" Upholding equality, mutual benefit and inclusive growth for all while balancing development and security {{6}}, China has advanced new ideas and taken concrete steps to building a more open, inclusive, efficient and fairer global AI governance system. Building global {{7}} on AI governance\nChina attaches great importance to the development and governance of AI, and has outlined its vision and approach to addressing shared challenges as the technology advances. China is committed to {{8}} and promotes coordinated global governance.",
+          "cn": "虽然AI带来了前所未有的发展机遇，但也带来了风险和挑战，包括安全隐患、伦理困境和技术鸿沟。因此，如何促进创新发展、有效防范风险、以更公平的方式惠及各国人民，是整个国际社会面临的重大课题。中国一贯倡导以人民为中心的全球AI治理和国际合作，遵循“AI向善”的基本原则。秉持平等、互利、包容增长，同时平衡发展与安全需求，中国提出了新理念并采取了具体措施，致力于构建更加开放、包容、高效、公平的全球AI治理体系。凝聚全球AI治理共识：中国高度重视AI的发展与治理，并阐述了其应对技术发展过程中共同挑战的愿景和方法。中国致力于多边主义，推动协调的全球治理。"
         },
         {
-          "en": "Zhao Leji, Wang Huning, Cai Qi and Li Xi attended the meeting. Ding Xuexiang announced the award decision. Xi noted that China is now accelerating its {{6}} from a global participant and contributor in science and technology to a pioneer and leader, and has become one of the countries with the fastest growing innovation {{9}}. Over the past two years, China has achieved a string of remarkable sci-tech {{7}}, including Chang'e-6 completing humanity's first-ever sample return from the moon's far side, smart robots and drones making strides in both R&D and industrial application, innovative drugs leaping from {{8}} and follow-on research to world-first development, as well as domestically-bred crop varieties covering over 95 percent of the country's farmland. But Xi also pointed out that China still faces gaps in original innovation capacity, an {{10}} talent structure, and inefficient use of science and technology investment, which demand serious attention and {{11}}.",
-          "cn": "赵乐际、王沪宁、蔡奇、李希出席大会。丁薛祥宣读授奖决定。习近平指出，我国正加速从全球科技参与者和贡献者向引领者转变，已成为创新能力增长最快的国家之一。过去两年，我国取得了一系列重大科技突破，包括嫦娥六号完成人类首次月背采样返回，智能机器人和无人机在研发和产业化方面取得进展，创新药物从模仿和跟踪研究跃升至全球首创，以及国产农作物品种覆盖全国95%以上的耕地。但习近平也指出，我国在原始创新能力、人才结构失衡和科技投入效率等方面仍存在差距，需要高度重视并加以解决。"
+          "en": "The international community still lacks consensus on major issues concerning global AI governance. Countries have different understandings regarding AI security, ethics and the boundaries of responsibility, and have yet to align governance rules and technical standards. China proposed the Global AI Governance Initiative in 2023, outlining the principles of developing AI for good, ensuring security and {{9}}, and promoting {{10}} and fairness. Calling for developing open, fair and efficient governing mechanisms, the initiative has provided systematic, practical and workable guidance for global AI governance. China bridges gaps through {{11}} building and promotes inclusive development of AI.",
+          "cn": "国际社会在涉及全球AI治理的重大问题上仍缺乏共识。各国对AI安全、伦理和责任边界有不同的理解，尚未统一治理规则和技术标准。中国于2023年提出了《全球人工智能治理倡议》，阐述了发展AI向善、确保安全可控、促进包容公平的原则。该倡议呼吁建立开放、公平、高效的治理机制，为全球AI治理提供了系统、实用、可操作的指导。中国通过能力建设弥合差距，促进AI的包容性发展。"
         },
         {
-          "en": "He stressed that the new round of sci-tech revolution and industrial transformation is {{12}} changing the way humanity produces and lives, as well as the landscape of global development. \"We must adapt to the new situation and requirements, take more forceful measures to address the problems existing in China's sci-tech development, and make every effort to ensure the implementation of the various arrangements made by the Party Central Committee on sci-tech undertakings,\" he said. Xi called for further strengthening of {{13}} in sci-tech strategic planning, policies and measures, major tasks, research strength, resource platforms, and regional innovation. \"We should improve the mechanisms for deploying and organizing major national sci-tech innovation tasks, and strengthen the self-sufficiency for sci-tech {{14}},\" he said. Major projects should be planned {{15}} across frontier fields like AI, quantum tech and life sciences, in priority sectors such as integrated circuits and advanced manufacturing, as well as in strategic domains, including deep sea, deep space, and deep earth, he noted.",
-          "cn": "他强调，新一轮科技革命和产业变革正深刻改变人类生产生活方式和全球发展格局。“我们必须适应新形势新要求，采取更有力措施解决我国科技发展存在的问题，全力确保党中央关于科技事业各项部署落到实处。”习近平要求进一步加强科技战略规划、政策措施、重大任务、科研力量、资源平台和区域创新的统筹协调。“要完善国家重大科技创新任务部署和组织机制，加强科技基础设施的自给能力。”他指出，重大项目的规划应涵盖人工智能、量子技术和生命科学等前沿领域，集成电路和先进制造等优先领域，以及深海、深空和深地等战略领域。"
+          "en": "All countries should have equal rights to develop and use AI. Yet the global AI landscape remains uneven, with many developing countries, especially in the Global South, facing challenges in AI application and governance. An AI assistant operates at a merchandise shop in Nanjing, east China's Jiangsu Province, June 5, 2026. As a major AI-developing country, China has placed capacity building and technological inclusiveness at the center of its efforts to advance global AI governance. China has proposed initiatives including the AI Capacity-Building Action Plan for Good and for All and the AI+ International Cooperation Initiative.The country has also promoted the adoption of the first United Nations General Assembly resolution focused on AI capacity building, and played an active role in the establishment of the UN-supported Global AI Capacity-Building Network.",
+          "cn": "所有国家都应享有平等发展和使用AI的权利。然而，全球AI格局仍然不平衡，许多发展中国家，特别是全球南方国家，在AI应用和治理方面面临挑战。2026年6月5日，中国东部江苏省南京市的一家商品店内，一名AI助手正在操作。作为AI发展大国，中国将能力建设和技术包容性置于推进全球AI治理努力的核心。中国提出了包括“AI向善和普惠能力建设行动计划”和“AI+国际合作倡议”在内的多项倡议。该国还推动了首个聚焦AI能力建设的联合国大会决议的通过，并在联合国支持的全球AI能力建设网络的建立中发挥了积极作用。"
         },
         {
-          "en": "Xi emphasized the need to promote the deep {{16}} of sci-tech innovation with industrial innovation, opening up channels for accelerating the transformation of sci-tech achievements into real productive forces. \"Sci-tech innovation should highlight an application-oriented approach, while industrial innovation should raise scientific questions. We must strengthen the national technology {{17}} system, create diversified application scenarios and high-level industrial {{18}}, and facilitate the promotion, application and {{19}} upgrading of self-developed technologies and products,\" he said. Xi also called for improving the {{20}} property protection system and building a financial system {{21}} with sci-tech innovation. When speaking of cultivating young sci-tech talents, Xi pointed out that research should be integrated with education, and greater support should be provided to researchers to help them overcome practical challenges.",
-          "cn": "习近平强调，要推动科技创新与产业创新深度融合，打通加速科技成果转化为现实生产力的通道。“科技创新要坚持应用导向，产业创新要提出科学问题。要加强国家技术转移体系建设，创造多元化应用场景和高水平产业集群，促进自主技术和产品的推广、应用和迭代升级。”习近平还要求完善知识产权保护体系，构建与科技创新相适应的金融体系。在谈到培养青年科技人才时，习近平指出，科研要与教育相结合，为科研人员克服实际困难提供更大支持。"
+          "en": "Through regular international exchanges and training programs, China is helping developing countries strengthen their capabilities and {{13}} the digital divide. China promotes practical cooperation to improve the international AI governance and cooperation system. While a range of principles and initiatives regarding AI governance have been reached within the global community, greater efforts are needed to translate these shared visions into {{14}} actions. Through cooperation in areas such as AI development strategies, governance rules and technical standards, China seeks to offer AI-related public goods globally. The goal is to foster practical collaboration among nations and {{15}} existing mechanisms with an enhanced global AI governance system.",
+          "cn": "通过定期的国际交流与培训项目，中国正在帮助发展中国家加强能力，缩小数字鸿沟。中国推动务实合作，完善国际AI治理与合作体系。虽然国际社会已就AI治理达成了一系列原则和倡议，但仍需付出更大努力将这些共同愿景转化为具体行动。通过在AI发展战略、治理规则和技术标准等领域的合作，中国力求向全球提供AI相关公共产品。目标是促进国家间的务实合作，并以强化的全球AI治理体系补充现有机制。"
         },
         {
-          "en": "Efforts should be made to identify and nurture the teenagers' interests, specialties, scientific {{22}} and experimental skills, inspiring more promising youth to pursue careers in science and technology, he said. Xi stressed the need to boost the effectiveness of innovation investment. During the 14th Five-Year Plan period (2021-2025), China's total R&D spending grew by an average of 10 percent annually, which was no small feat. \"Yet in practice, problems such as wasteful spending and inefficient {{23}} in investment still persist to varying degrees,\" he noted, calling for improving systems and management to ensure that every penny is not only spent right but spent well to match greater investment with greater efficiency. He said that enterprises should be encouraged to increase their R&D spending, and broader social resources should be mobilized to support sci-tech innovation.",
-          "cn": "要发现和培养青少年的兴趣、特长、科学素养和实验技能，激励更多有潜力的青年投身科技事业。习近平强调要提高创新投入的效益。“十四五”期间（2021-2025年），我国研发经费投入年均增长10%，成绩来之不易。“但在实践中，投资浪费和低效重复的问题仍然不同程度存在，”他指出，要完善制度和管理，确保每一分钱不仅花得对，还要花得好，使更大投入带来更高效率。他表示，要鼓励企业增加研发投入，调动更广泛的社会资源支持科技创新。"
+          "en": "Expanding shared opportunities through cooperation\nChina has consistently pursued AI development through an open and cooperative global vision. The 2026 World AI Conference (WAIC) and High-Level Meeting on Global AI Governance will soon be held in Shanghai under the theme \"Intelligent Partners, Co-create the Future.\" The event will bring together participants from around the world to showcase the latest advances in AI innovation, industrial applications and governance practices, while providing an important platform to exchange governance ideas and experiences. The conference carries special significance as it takes place at the beginning of China's 15th Five-Year Plan (2026–2030) period. China aims to further promote the integration of technological and industrial innovation, advance and expand the AI+ Initiative, cultivate and strengthen the intelligent industry and empower high-quality economic and social development. These efforts will contribute broader technological options, industrial opportunities and real-world applications to global AI innovation and cooperation.",
+          "cn": "通过合作扩大共享机遇：中国始终以开放合作的全球视野推进AI发展。2026年世界人工智能大会（WAIC）暨全球AI治理高级别会议即将在上海举行，主题为“智能伙伴，共创未来”。此次盛会将汇聚全球参与者，展示AI创新、产业应用和治理实践的最新进展，同时为交流治理理念和经验提供重要平台。此次会议在中国“十五五”规划（2026-2030年）开局之际举行，具有特殊意义。中国旨在进一步促进技术与产业创新的融合，推进和拓展“AI+”倡议，培育和壮大智能产业，赋能高质量经济社会发展。这些努力将为全球AI创新与合作贡献更广泛的技术选择、产业机遇和实际应用。"
         },
         {
-          "en": "Xi pointed out that it is necessary to deepen reforms on sci-tech evaluation, making it a good \"conductor's baton.\" Project reviews, institutional assessments, and talent evaluations should all be guided by innovation capability, quality, actual effect, and contribution. He stressed the need to strengthen {{24}} of sci-tech ethics and security. \"Science and technology should pursue positive and ethical progress, maintain security and controllability, and deliver benefits to the people,\" he said. Ethical standards and guidelines for key areas should be clarified, and the assessment, monitoring and early warning, as well as emergency response of sci-tech security risks, should be enhanced, he added. Xi urged the CAS and the CAE to rally the nation's scientific community to keep abreast of the new sci-tech revolution and scale new heights in global science, while requiring the China Association for Science and Technology to go all out to serve researchers, innovation-driven development, public scientific literacy enhancement and sound policymaking by the Party and government.",
-          "cn": "习近平指出，要深化科技评价改革，使其成为好的“指挥棒”。项目评审、机构评估和人才评价都要以创新能力、质量、实效和贡献为导向。他强调要加强科技伦理和安全治理。“科技要追求积极向善的进步，保持安全可控，造福人民。”要明确重点领域的伦理标准和指南，加强科技安全风险的评估、监测预警和应急处置。习近平要求中国科学院和中国工程院引领全国科技界紧跟新科技革命步伐，攀登全球科学新高峰；同时要求中国科学技术协会全力服务科研人员、创新驱动发展、提升公众科学素养以及党和政府的科学决策。"
+          "en": "The Global Network of Centers for Exchange and Cooperation on AI Capacity Building is officially {{17}} at the World Trade Organization headquarters. The CGAIG attended the ceremony as China's representative institution and one of the network's founding members, Geneva, Switzerland, July 5, 2026. /CGAIG\nShanghai, a leading hub for AI development, has built a comprehensive AI industrial ecosystem supported by abundant research resources and extensive international networks, positioning the city as a key platform to facilitate global AI cooperation. Since its launch at the opening ceremony of WAIC 2025, the Center for Global AI Innovative Governance (CGAIG) has worked to promote China's proposals on global AI governance and to advance practical cooperation in AI governance and international collaboration. The United Nations-promoted Global Network of Centers for Exchange and Cooperation on AI Capacity Building was recently established at the World Trade Organization headquarters in Geneva, Switzerland.",
+          "cn": "全球AI能力建设交流与合作中心网络在世界贸易组织总部正式启动。CGAIG作为中国代表机构和网络创始成员之一出席了仪式，瑞士日内瓦，2026年7月5日。/CGAIG。上海作为AI发展的领先枢纽，已构建了由丰富研究资源和广泛国际网络支持的综合性AI产业生态系统，使该市成为促进全球AI合作的关键平台。自WAIC 2025开幕式启动以来，全球AI创新治理中心（CGAIG）一直致力于推广中国在全球AI治理方面的提议，并推进AI治理和国际合作中的务实合作。联合国推动的全球AI能力建设交流与合作中心网络最近在瑞士日内瓦的世界贸易组织总部成立。"
         },
         {
-          "en": "Li Qiang pointed out that Xi's important speech fully affirmed the nation's major scientific achievements in recent years, analyzed the new situation facing sci-tech development and laid out clear requirements for implementing the Party Central Committee's plans for sci-tech development during the 15th Five-Year Plan period. Wednesday's meeting honored 258 projects and 11 scientific and technological experts. Among them, 51 projects received the State Natural Science Award, 58 projects the State Technological Invention Award, and 149 projects the State Scientific and Technological Progress Award. In addition to the two recipients of the top award, nine foreign experts were conferred the China International Science and Technology Cooperation Award.",
-          "cn": "李强指出，习近平的重要讲话充分肯定了近年来我国取得的重大科技成就，分析了科技发展面临的新形势，并对落实党中央关于“十五五”时期科技发展的规划提出了明确要求。当天的会议表彰了258个项目和11位科技专家。其中，国家自然科学奖51项，国家技术发明奖58项，国家科学技术进步奖149项。除两位最高奖获得者外，还有9位外国专家获得中华人民共和国国际科学技术合作奖。"
+          "en": "As China's representative institution and one of the network's founding members, the CGAIG has worked to {{18}} AI capacity-building expertise and international public goods into the network's institutional design and advance an inclusive, mutually beneficial vision for global AI cooperation. As the world looks toward WAIC 2026, China is leveraging its innovative resources to promote inclusive and shared global AI development and unlock greater benefits from intelligent technologies. Given the uncertainty and complexity of AI, it is essential for all parties to enhance mutual trust, build consensus, and promote the secure and reliable development. China stands ready to work with the international community to address common challenges through cooperation, enhance common well-being through innovation and build a globally recognized AI governance framework. Together, we can ensure that AI becomes an international public good that truly benefits humanity, enabling people around the world to share in the vast opportunities brought by this transformative technology.",
+          "cn": "作为中国代表机构和网络创始成员之一，CGAIG致力于将AI能力建设专业知识和国际公共产品嵌入网络制度设计，并推进全球AI合作的包容性、互利愿景。随着世界期待WAIC 2026，中国正利用其创新资源促进包容性和共享的全球AI发展，释放智能技术的更大效益。鉴于AI的不确定性和复杂性，各方必须增进互信、凝聚共识，促进安全可靠的发展。中国愿与国际社会一道，通过合作应对共同挑战，通过创新增进共同福祉，构建全球公认的AI治理框架。共同努力，我们可以确保AI成为真正惠及人类的国际公共产品，使世界各地的人们能够分享这一变革性技术带来的巨大机遇。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "self-reliance",
-          "hint": "n. 自立",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "innovation",
-          "hint": "n. 创新",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "modernization",
-          "hint": "n. 现代化",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "critical",
-          "hint": "adj. 关键的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "tackling",
-          "hint": "v. 应对",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "seize",
-          "hint": "v. 抓住",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "transition",
-          "hint": "n. 转变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "breakthroughs",
-          "hint": "n. 突破",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "imitation",
-          "hint": "n. 模仿",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "capacity",
-          "hint": "n. 能力",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "imbalanced",
-          "hint": "adj. 不平衡的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "resolution",
-          "hint": "n. 解决",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "profoundly",
-          "hint": "adv. 深刻地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "coordination",
-          "hint": "n. 协调",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "holistically",
-          "hint": "adv. 整体地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "integration",
-          "hint": "n. 融合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "transfer",
-          "hint": "n. 转移",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
-          "answer": "clusters",
-          "hint": "n. 集群",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "iterative",
-          "hint": "adj. 迭代的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
-          "answer": "intellectual",
-          "hint": "adj. 知识产权的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "compatible",
-          "hint": "adj. 兼容的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "literacy",
-          "hint": "n. 素养",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "duplication",
-          "hint": "n. 重复",
-          "difficulty": "hard"
-        },
-        {
-          "id": 24,
-          "answer": "governance",
-          "hint": "n. 治理",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": ", Updated 10:17, 09-Jul-2026Chinese President Xi Jinping attends a meeting bringing together the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE), and the 11th national congress of the China Association for Science and Technology at the Great Hall of the People in Beijing, capital of China, July 8, 2026. /Xinhua\nChinese President Xi Jinping on Wednesday called for accelerated efforts to achieve high-level self-reliance and strength in science and technology, and leverage sci-tech innovation to underpin and drive Chinese modernization.\nXi, also general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission, made the remarks at a meeting in Beijing that brought together the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE), and the 11th national congress of the China Association for Science and Technology.\nHe said the 15th Five-Year Plan period (2026-2030) is a critical phase for tackling tough challenges in building up the country's strength in science and technology.\n\"We must seize the historic opportunity, rise to the challenges of the times, accelerate efforts to achieve high-level self-reliance and strength in science and technology, and make steady progress toward the 2035 goal of becoming a leading country in science and technology,\" he said.\nAt the meeting, Xi presented China's top sci-tech award for the year 2025 to Chen Liquan, a researcher at the Institute of Physics under the CAS and a CAE academician, and Ben De, a researcher at the China Electronics Technology Group Corporation and also a CAE academician. After presenting the medals and certificates to the two scientists, Xi shook hands with them and extended his congratulations.\nXi Jinping presents China's top sci-tech award for the year 2025 to Chen Liquan (R), a researcher at the Institute of Physics under the CAS and a CAE academician, and Ben De (L), a researcher at the China Electronics Technology Group Corporation and also a CAE academician, Beijing, capital of China, July 8, 2026. /Xinhua\nXi and other Party and state leaders, together with the two top-award winners, presented certificates to representatives of recipients of other awards.\nLi Qiang presided over the meeting. Zhao Leji, Wang Huning, Cai Qi and Li Xi attended the meeting. Ding Xuexiang announced the award decision.\nXi noted that China is now accelerating its transition from a global participant and contributor in science and technology to a pioneer and leader, and has become one of the countries with the fastest growing innovation capacity.\nOver the past two years, China has achieved a string of remarkable sci-tech breakthroughs, including Chang'e-6 completing humanity's first-ever sample return from the moon's far side, smart robots and drones making strides in both R&D and industrial application, innovative drugs leaping from imitation and follow-on research to world-first development, as well as domestically-bred crop varieties covering over 95 percent of the country's farmland.\nBut Xi also pointed out that China still faces gaps in original innovation capacity, an imbalanced talent structure, and inefficient use of science and technology investment, which demand serious attention and resolution.\nHe stressed that the new round of sci-tech revolution and industrial transformation is profoundly changing the way humanity produces and lives, as well as the landscape of global development.\n\"We must adapt to the new situation and requirements, take more forceful measures to address the problems existing in China's sci-tech development, and make every effort to ensure the implementation of the various arrangements made by the Party Central Committee on sci-tech undertakings,\" he said.\nXi called for further strengthening of coordination in sci-tech strategic planning, policies and measures, major tasks, research strength, resource platforms, and regional innovation. \"We should improve the mechanisms for deploying and organizing major national sci-tech innovation tasks, and strengthen the self-sufficiency for sci-tech infrastructure,\" he said.\nMajor projects should be planned holistically across frontier fields like AI, quantum tech and life sciences, in priority sectors such as integrated circuits and advanced manufacturing, as well as in strategic domains, including deep sea, deep space, and deep earth, he noted.\nXi emphasized the need to promote the deep integration of sci-tech innovation with industrial innovation, opening up channels for accelerating the transformation of sci-tech achievements into real productive forces.\n\"Sci-tech innovation should highlight an application-oriented approach, while industrial innovation should raise scientific questions. We must strengthen the national technology transfer system, create diversified application scenarios and high-level industrial clusters, and facilitate the promotion, application and iterative upgrading of self-developed technologies and products,\" he said.\nXi also called for improving the intellectual property protection system and building a financial system compatible with sci-tech innovation.\nWhen speaking of cultivating young sci-tech talents, Xi pointed out that research should be integrated with education, and greater support should be provided to researchers to help them overcome practical challenges.\nEfforts should be made to identify and nurture the teenagers' interests, specialties, scientific literacy and experimental skills, inspiring more promising youth to pursue careers in science and technology, he said.\nXi stressed the need to boost the effectiveness of innovation investment. During the 14th Five-Year Plan period (2021-2025), China's total R&D spending grew by an average of 10 percent annually, which was no small feat.\n\"Yet in practice, problems such as wasteful spending and inefficient duplication in investment still persist to varying degrees,\" he noted, calling for improving systems and management to ensure that every penny is not only spent right but spent well to match greater investment with greater efficiency.\nHe said that enterprises should be encouraged to increase their R&D spending, and broader social resources should be mobilized to support sci-tech innovation.\nXi pointed out that it is necessary to deepen reforms on sci-tech evaluation, making it a good \"conductor's baton.\" Project reviews, institutional assessments, and talent evaluations should all be guided by innovation capability, quality, actual effect, and contribution.\nHe stressed the need to strengthen governance of sci-tech ethics and security. \"Science and technology should pursue positive and ethical progress, maintain security and controllability, and deliver benefits to the people,\" he said.\nEthical standards and guidelines for key areas should be clarified, and the assessment, monitoring and early warning, as well as emergency response of sci-tech security risks, should be enhanced, he added.\nXi urged the CAS and the CAE to rally the nation's scientific community to keep abreast of the new sci-tech revolution and scale new heights in global science, while requiring the China Association for Science and Technology to go all out to serve researchers, innovation-driven development, public scientific literacy enhancement and sound policymaking by the Party and government.\nLi Qiang pointed out that Xi's important speech fully affirmed the nation's major scientific achievements in recent years, analyzed the new situation facing sci-tech development and laid out clear requirements for implementing the Party Central Committee's plans for sci-tech development during the 15th Five-Year Plan period.\nWednesday's meeting honored 258 projects and 11 scientific and technological experts. Among them, 51 projects received the State Natural Science Award, 58 projects the State Technological Invention Award, and 149 projects the State Scientific and Technological Progress Award.\nIn addition to the two recipients of the top award, nine foreign experts were conferred the China International Science and Technology Cooperation Award.",
-      "fullTextCn": "2026年7月8日，中国国家主席习近平在北京人民大会堂出席国家科学技术奖励大会、中国科学院第二十一次院士大会、中国工程院第十七次院士大会和中国科学技术协会第十一次全国代表大会。习近平强调，要加快实现高水平科技自立自强，以科技创新支撑和引领中国式现代化。他指出，“十五五”时期（2026-2030年）是建设科技强国的关键攻关期，“我们必须抓住历史机遇，迎接时代挑战，加快实现高水平科技自立自强，稳步迈向2035年建成科技强国的目标。”\n\n会上，习近平向2025年度国家最高科学技术奖获得者——中国科学院物理研究所研究员、中国工程院院士陈立泉，以及中国电子科技集团公司研究员、中国工程院院士贲德颁发奖章和证书，并与两位科学家握手表示祝贺。习近平等党和国家领导人同两位最高奖获得者一起，为其他获奖代表颁发证书。李强主持大会。\n\n赵乐际、王沪宁、蔡奇、李希出席大会。丁薛祥宣读授奖决定。习近平指出，我国正加速从全球科技参与者和贡献者向引领者转变，已成为创新能力增长最快的国家之一。过去两年，我国取得了一系列重大科技突破，包括嫦娥六号完成人类首次月背采样返回，智能机器人和无人机在研发和产业化方面取得进展，创新药物从模仿和跟踪研究跃升至全球首创，以及国产农作物品种覆盖全国95%以上的耕地。但习近平也指出，我国在原始创新能力、人才结构失衡和科技投入效率等方面仍存在差距，需要高度重视并加以解决。\n\n他强调，新一轮科技革命和产业变革正深刻改变人类生产生活方式和全球发展格局。“我们必须适应新形势新要求，采取更有力措施解决我国科技发展存在的问题，全力确保党中央关于科技事业各项部署落到实处。”习近平要求进一步加强科技战略规划、政策措施、重大任务、科研力量、资源平台和区域创新的统筹协调。“要完善国家重大科技创新任务部署和组织机制，加强科技基础设施的自给能力。”他指出，重大项目的规划应涵盖人工智能、量子技术和生命科学等前沿领域，集成电路和先进制造等优先领域，以及深海、深空和深地等战略领域。\n\n习近平强调，要推动科技创新与产业创新深度融合，打通加速科技成果转化为现实生产力的通道。“科技创新要坚持应用导向，产业创新要提出科学问题。要加强国家技术转移体系建设，创造多元化应用场景和高水平产业集群，促进自主技术和产品的推广、应用和迭代升级。”习近平还要求完善知识产权保护体系，构建与科技创新相适应的金融体系。在谈到培养青年科技人才时，习近平指出，科研要与教育相结合，为科研人员克服实际困难提供更大支持。\n\n要发现和培养青少年的兴趣、特长、科学素养和实验技能，激励更多有潜力的青年投身科技事业。习近平强调要提高创新投入的效益。“十四五”期间（2021-2025年），我国研发经费投入年均增长10%，成绩来之不易。“但在实践中，投资浪费和低效重复的问题仍然不同程度存在，”他指出，要完善制度和管理，确保每一分钱不仅花得对，还要花得好，使更大投入带来更高效率。他表示，要鼓励企业增加研发投入，调动更广泛的社会资源支持科技创新。\n\n习近平指出，要深化科技评价改革，使其成为好的“指挥棒”。项目评审、机构评估和人才评价都要以创新能力、质量、实效和贡献为导向。他强调要加强科技伦理和安全治理。“科技要追求积极向善的进步，保持安全可控，造福人民。”要明确重点领域的伦理标准和指南，加强科技安全风险的评估、监测预警和应急处置。习近平要求中国科学院和中国工程院引领全国科技界紧跟新科技革命步伐，攀登全球科学新高峰；同时要求中国科学技术协会全力服务科研人员、创新驱动发展、提升公众科学素养以及党和政府的科学决策。\n\n李强指出，习近平的重要讲话充分肯定了近年来我国取得的重大科技成就，分析了科技发展面临的新形势，并对落实党中央关于“十五五”时期科技发展的规划提出了明确要求。当天的会议表彰了258个项目和11位科技专家。其中，国家自然科学奖51项，国家技术发明奖58项，国家科学技术进步奖149项。除两位最高奖获得者外，还有9位外国专家获得中华人民共和国国际科学技术合作奖。"
-    },
-    {
-      "id": 2,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-16/Tech-innovation-unlocks-new-growth-momentum-for-China-s-economy-1OOMQp36DmM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "Tech innovation unlocks new growth momentum for China's economy",
-      "titleCn": "科技创新为中国经济注入新增长动力",
-      "summary": "China's technology-driven industrial transformation is emerging as a key source of economic resilience, as advances in artificial intelligence (AI), high-end manufacturing and the aerospace information industry continue to generate new growth momentum despite a complex global economic environment.",
-      "summaryCn": "中国通过人工智能、高端制造和航天信息产业的技术创新，在全球经济复杂环境下推动经济转型并实现稳定增长。",
-      "wordCount": 813,
-      "paragraphs": [
-        {
-          "en": "Multiple vessels are under construction at Nantong Xiangyu Marine Equipment Co., Ltd., with production proceeding in a busy and orderly manner, Nantong, Jiangsu Province, east China, July 15, 2026. China's technology-driven industrial transformation is emerging as a key source of economic {{1}}, as advances in artificial intelligence (AI), high-end manufacturing and the aerospace information industry continue to generate new growth {{0}} despite a complex global economic environment. Official data released on Wednesday point to China's steady economic performance supported by expanding digital {{2}}, robust exports of high-tech products and accelerating {{3}} of {{19}} technologies. According to the National Bureau of Statistics, China's GDP grew 4.7% year on year in the first half of 2026, while industrial production maintained stable expansion, highlighting the economy's continued {{4}} toward innovation-led growth. Meanwhile, data released by the General Administration of Customs showed that China's total goods trade reached 25.47 trillion yuan (about $3.55 trillion) in the first six months of the year, up 16.9% from a year earlier.",
-          "cn": "2026年7月15日，位于中国东部江苏省南通市的南通翔宇海洋装备有限公司内，多艘船舶正在建造中，生产繁忙而有序。尽管全球经济环境复杂，中国以技术驱动的产业转型正成为经济韧性的关键来源，人工智能、高端制造和航天信息产业的进步持续创造新的增长动力。周三发布的官方数据显示，在数字基础设施扩大、高科技产品出口强劲以及前沿技术商业化加速的支持下，中国经济表现稳定。根据国家统计局数据，2026年上半年中国GDP同比增长4.7%，工业生产保持稳定扩张，凸显经济持续向创新驱动增长转型。同时，海关总署数据显示，今年前六个月中国货物贸易总额达25.47万亿元人民币（约3.55万亿美元），同比增长16.9%。"
-        },
-        {
-          "en": "Exports of technology-{{5}} products, including electronic components, computer parts and intelligent manufacturing equipment, remained among the fastest-growing categories, reflecting robust international demand for China's advanced manufacturing {{6}}. The world's first high-voltage AC/DC {{7}} power supply station for a computing center (known as the \"Compute Power Island\") is officially unveiled on June 6, 2026, Laoshan District, Qingdao, Shandong Province, east China. Computing power becomes the foundation of the 'AI economy'\nThe rapid commercialization of large AI models has significantly increased demand for computing infrastructure, making digital hardware and computing networks a {{8}} pillar of industrial development. China has accelerated the construction of national computing infrastructure through projects such as the \"Eastern Data, Western Computing\" initiative, which optimizes the {{9}} of computing resources across regions while improving energy efficiency and network {{10}}. According to the China Academy of Information and Communications Technology (CAICT), computing power has become a core production factor in the digital economy, alongside data and algorithms.",
-          "cn": "包括电子元件、计算机零件和智能制造设备在内的技术密集型产品出口仍属增长最快的类别之一，反映出国际市场对中国先进制造能力的强劲需求。2026年6月6日，全球首个为计算中心设计的高压交直流预制式电源站（称为“算力岛”）在中国东部山东省青岛市崂山区正式亮相。算力成为“AI经济”的基础。大型AI模型的快速商业化显著增加了对计算基础设施的需求，使数字硬件和计算网络成为产业发展的战略支柱。中国通过“东数西算”等项目加速国家计算基础设施建设，该项目优化了计算资源在区域间的配置，同时提高了能源效率和网络协调性。根据中国信息通信研究院的数据，算力已成为数字经济中与数据和算法并列的核心生产要素。"
-        },
-        {
-          "en": "Continued investment in intelligent computing centers and high-speed data transmission networks is expected to support the next stage of AI {{11}} across manufacturing, healthcare, finance and public services. Yu Xiaohui, president of CAICT, has argued that AI development is moving from model innovation toward industrial application, with computing infrastructure set to determine the pace of technological {{12}}. In his view, {{13}} computing networks are becoming critical infrastructure for cross-industry digital transformation. Workers fit components into an electric vehicle at a manufacturing plant. Intelligent manufacturing strengthens global competitiveness\nChina's high-end manufacturing sector is also gaining international market share as intelligent equipment becomes an important driver of export growth.",
-          "cn": "对智能计算中心和高速度数据传输网络的持续投资预计将支持AI在制造业、医疗、金融和公共服务领域的下一阶段部署。中国信通院院长余晓晖认为，AI发展正从模型创新转向工业应用，计算基础设施将决定技术扩散的速度。在他看来，集成计算网络正成为跨行业数字化转型的关键基础设施。工人在制造工厂为电动汽车安装组件。智能制造增强全球竞争力。随着智能设备成为出口增长的重要驱动力，中国的高端制造业也在扩大国际市场份额。"
-        },
-        {
-          "en": "Industrial robots, automation systems and smart manufacturing solutions have seen expanding overseas demand, supported by continuous technological upgrading and increasingly complete industrial supply chains. The International Federation of Robotics (IFR) has ranked China the world's largest industrial robot market by annual {{15}} for 12 consecutive years, with 295,000 units installed in 2024 alone, accounting for 54% of global demand. Domestic brands captured a 57% domestic market share in 2024, {{16}} foreign suppliers for the first time, according to IFR. Chinese industrial robot exports reached 94,200 units in the first six months of 2025, up nearly 60% year on year, signaling broader {{17}} of Chinese intelligent equipment in overseas manufacturing projects. China has moved beyond being a fast {{18}} to become a system-level competitor in global innovation, Stephen Ezell, vice president for global innovation policy at the US-based Information Technology and Innovation Foundation, said in an interview with West China International Communication Organization in April.",
-          "cn": "在持续技术升级和日益完善的工业供应链支持下，工业机器人、自动化系统和智能制造解决方案的海外需求不断扩大。国际机器人联合会的数据显示，中国已连续12年成为全球最大的工业机器人市场，2024年安装量达29.5万台，占全球需求的54%。根据IFR数据，2024年国产品牌在国内市场份额达57%，首次超过外国供应商。2025年上半年，中国工业机器人出口量达9.42万台，同比增长近60%，表明中国智能设备在海外制造项目中的采用范围更广。美国信息技术与创新基金会全球创新政策副总裁斯蒂芬·埃泽尔今年4月在接受西部国际传播中心采访时表示，中国已从快速追随者转变为全球创新中的系统级竞争者。"
-        },
-        {
-          "en": "File photo of the \"computing power town\" in Hangzhou, Zhejiang Province, east China. Aerospace information industry opens new growth frontier\nParallel to the manufacturing story, a more futuristic lane is taking shape in Wuxi, Jiangsu, where the 2026 Aerospace Information Conference runs July 16 to 17, showcasing the latest developments in satellite {{20}} sensing, the integrated BeiDou navigation-communication-remote sensing system and space computing technologies. Experts believe these innovations are accelerating the commercialization of aerospace technologies across agriculture, transportation, emergency management, environmental monitoring and smart cities. \"With the advanced networking and intelligence of space-based information systems, {{21}} computing has emerged as a strategic high ground in global technological competition,\" said Hao Xuetao, vice president of Geovis Technology Co., Ltd. and general manager of its Commercial Aerospace Strategy Department.",
-          "cn": "资料照片：中国东部浙江省杭州市的“算力小镇”。航天信息产业开辟新的增长前沿。与制造业故事并行，一个更具未来感的赛道正在江苏无锡形成，2026年航天信息会议于7月16日至17日在此举行，展示卫星遥感、北斗导航通信遥感一体化系统以及空间计算技术的最新发展。专家认为，这些创新正在加速航天技术在农业、交通、应急管理、环境监测和智慧城市等领域的商业化。中科星图股份有限公司副总裁兼商业航天战略部总经理郝雪涛表示：“随着天基信息系统的先进组网和智能化，轨道计算已成为全球技术竞争的战略制高点。”"
-        },
-        {
-          "en": "China has incorporated the development of the aerospace information industry, along with the construction of the satellite internet and an integrated space-ground information network, into several national strategies, including the Digital China Initiative. Enterprises and research institutions are seizing the opportunities presented by these strategic initiatives. Hao said orbital computing is expected to play a {{22}} role in the next stage of digital and intelligent development, with applications spanning communications, remote sensing and navigation. Its ability to enable rapid global {{23}}, real-time data processing and intelligent decision-making will support a wide range of sectors, including smart cities, public security, {{24}} services and environmental monitoring.",
-          "cn": "中国已将航天信息产业发展以及卫星互联网和天地一体化信息网络建设纳入包括数字中国倡议在内的多项国家战略。企业和研究机构正抓住这些战略举措带来的机遇。郝雪涛表示，轨道计算预计将在下一阶段数字化和智能化发展中发挥关键作用，应用涵盖通信、遥感和导航。其实现快速全球连接、实时数据处理和智能决策的能力将支持智慧城市、公共安全、气象服务和环境监测等多个领域。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "momentum",
-          "hint": "n. 动力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "resilience",
-          "hint": "n. 韧性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 2,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "commercialization",
-          "hint": "n. 商业化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 4,
-          "answer": "transition",
-          "hint": "n. 转型",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "intensive",
-          "hint": "adj. 密集的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "capabilities",
-          "hint": "n. 能力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "prefabricated",
-          "hint": "adj. 预制的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "strategic",
-          "hint": "adj. 战略的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "allocation",
-          "hint": "n. 分配",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "coordination",
-          "hint": "n. 协调",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "deployment",
-          "hint": "n. 部署",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "diffusion",
-          "hint": "n. 扩散",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "integrated",
-          "hint": "adj. 集成的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "installations",
-          "hint": "n. 安装量",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "surpassing",
-          "hint": "v. 超过",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "adoption",
-          "hint": "n. 采用",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "follower",
-          "hint": "n. 追随者",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
           "answer": "frontier",
           "hint": "n. 前沿",
           "difficulty": "medium"
         },
         {
-          "id": 19,
-          "answer": "remote",
-          "hint": "adj. 遥感的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 20,
-          "answer": "orbital",
-          "hint": "adj. 轨道的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "pivotal",
-          "hint": "adj. 关键的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "connectivity",
-          "hint": "n. 连接性",
+          "id": 1,
+          "answer": "transformation",
+          "hint": "n. 转型",
           "difficulty": "medium"
         },
         {
-          "id": 23,
-          "answer": "meteorological",
-          "hint": "adj. 气象的",
+          "id": 2,
+          "answer": "dilemmas",
+          "hint": "n. 困境",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "divides",
+          "hint": "n. 鸿沟",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "advocated",
+          "hint": "v. 倡导",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "imperatives",
+          "hint": "n. 必要性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "consensus",
+          "hint": "n. 共识",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "multilateralism",
+          "hint": "n. 多边主义",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "controllability",
+          "hint": "n. 可控性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "inclusiveness",
+          "hint": "n. 包容性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "capacity",
+          "hint": "n. 能力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "narrow",
+          "hint": "v. 缩小",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "tangible",
+          "hint": "adj. 实际的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "complement",
+          "hint": "v. 补充",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "inaugurated",
+          "hint": "v. 启动",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "embed",
+          "hint": "v. 嵌入",
           "difficulty": "hard"
         }
       ],
-      "fullText": "Multiple vessels are under construction at Nantong Xiangyu Marine Equipment Co., Ltd., with production proceeding in a busy and orderly manner, Nantong, Jiangsu Province, east China, July 15, 2026. \nChina's technology-driven industrial transformation is emerging as a key source of economic resilience, as advances in artificial intelligence (AI), high-end manufacturing and the aerospace information industry continue to generate new growth momentum despite a complex global economic environment.\nOfficial data released on Wednesday point to China's steady economic performance supported by expanding digital infrastructure, robust exports of high-tech products and accelerating commercialization of frontier technologies.\nAccording to the National Bureau of Statistics, China's GDP grew 4.7% year on year in the first half of 2026, while industrial production maintained stable expansion, highlighting the economy's continued transition toward innovation-led growth.\nMeanwhile, data released by the General Administration of Customs showed that China's total goods trade reached 25.47 trillion yuan (about $3.55 trillion) in the first six months of the year, up 16.9% from a year earlier. Exports of technology-intensive products, including electronic components, computer parts and intelligent manufacturing equipment, remained among the fastest-growing categories, reflecting robust international demand for China's advanced manufacturing capabilities.\nThe world's first high-voltage AC/DC prefabricated power supply station for a computing center (known as the \"Compute Power Island\") is officially unveiled on June 6, 2026, Laoshan District, Qingdao, Shandong Province, east China. \nComputing power becomes the foundation of the 'AI economy'\nThe rapid commercialization of large AI models has significantly increased demand for computing infrastructure, making digital hardware and computing networks a strategic pillar of industrial development.\nChina has accelerated the construction of national computing infrastructure through projects such as the \"Eastern Data, Western Computing\" initiative, which optimizes the allocation of computing resources across regions while improving energy efficiency and network coordination.\nAccording to the China Academy of Information and Communications Technology (CAICT), computing power has become a core production factor in the digital economy, alongside data and algorithms. Continued investment in intelligent computing centers and high-speed data transmission networks is expected to support the next stage of AI deployment across manufacturing, healthcare, finance and public services.\nYu Xiaohui, president of CAICT, has argued that AI development is moving from model innovation toward industrial application, with computing infrastructure set to determine the pace of technological diffusion. In his view, integrated computing networks are becoming critical infrastructure for cross-industry digital transformation.\nWorkers fit components into an electric vehicle at a manufacturing plant. \nIntelligent manufacturing strengthens global competitiveness\nChina's high-end manufacturing sector is also gaining international market share as intelligent equipment becomes an important driver of export growth.\nIndustrial robots, automation systems and smart manufacturing solutions have seen expanding overseas demand, supported by continuous technological upgrading and increasingly complete industrial supply chains.\nThe International Federation of Robotics (IFR) has ranked China the world's largest industrial robot market by annual installations for 12 consecutive years, with 295,000 units installed in 2024 alone, accounting for 54% of global demand. Domestic brands captured a 57% domestic market share in 2024, surpassing foreign suppliers for the first time, according to IFR. Chinese industrial robot exports reached 94,200 units in the first six months of 2025, up nearly 60% year on year, signaling broader adoption of Chinese intelligent equipment in overseas manufacturing projects.\nChina has moved beyond being a fast follower to become a system-level competitor in global innovation, Stephen Ezell, vice president for global innovation policy at the US-based Information Technology and Innovation Foundation, said in an interview with West China International Communication Organization in April.\nFile photo of the \"computing power town\" in Hangzhou, Zhejiang Province, east China. \nAerospace information industry opens new growth frontier\nParallel to the manufacturing story, a more futuristic lane is taking shape in Wuxi, Jiangsu, where the 2026 Aerospace Information Conference runs July 16 to 17, showcasing the latest developments in satellite remote sensing, the integrated BeiDou navigation-communication-remote sensing system and space computing technologies.\nExperts believe these innovations are accelerating the commercialization of aerospace technologies across agriculture, transportation, emergency management, environmental monitoring and smart cities.\n\"With the advanced networking and intelligence of space-based information systems, orbital computing has emerged as a strategic high ground in global technological competition,\" said Hao Xuetao, vice president of Geovis Technology Co., Ltd. and general manager of its Commercial Aerospace Strategy Department.\nChina has incorporated the development of the aerospace information industry, along with the construction of the satellite internet and an integrated space-ground information network, into several national strategies, including the Digital China Initiative. Enterprises and research institutions are seizing the opportunities presented by these strategic initiatives.\nHao said orbital computing is expected to play a pivotal role in the next stage of digital and intelligent development, with applications spanning communications, remote sensing and navigation. Its ability to enable rapid global connectivity, real-time data processing and intelligent decision-making will support a wide range of sectors, including smart cities, public security, meteorological services and environmental monitoring.",
-      "fullTextCn": "2026年7月15日，位于中国东部江苏省南通市的南通翔宇海洋装备有限公司内，多艘船舶正在建造中，生产繁忙而有序。尽管全球经济环境复杂，中国以技术驱动的产业转型正成为经济韧性的关键来源，人工智能、高端制造和航天信息产业的进步持续创造新的增长动力。周三发布的官方数据显示，在数字基础设施扩大、高科技产品出口强劲以及前沿技术商业化加速的支持下，中国经济表现稳定。根据国家统计局数据，2026年上半年中国GDP同比增长4.7%，工业生产保持稳定扩张，凸显经济持续向创新驱动增长转型。同时，海关总署数据显示，今年前六个月中国货物贸易总额达25.47万亿元人民币（约3.55万亿美元），同比增长16.9%。\n\n包括电子元件、计算机零件和智能制造设备在内的技术密集型产品出口仍属增长最快的类别之一，反映出国际市场对中国先进制造能力的强劲需求。2026年6月6日，全球首个为计算中心设计的高压交直流预制式电源站（称为“算力岛”）在中国东部山东省青岛市崂山区正式亮相。算力成为“AI经济”的基础。大型AI模型的快速商业化显著增加了对计算基础设施的需求，使数字硬件和计算网络成为产业发展的战略支柱。中国通过“东数西算”等项目加速国家计算基础设施建设，该项目优化了计算资源在区域间的配置，同时提高了能源效率和网络协调性。根据中国信息通信研究院的数据，算力已成为数字经济中与数据和算法并列的核心生产要素。\n\n对智能计算中心和高速度数据传输网络的持续投资预计将支持AI在制造业、医疗、金融和公共服务领域的下一阶段部署。中国信通院院长余晓晖认为，AI发展正从模型创新转向工业应用，计算基础设施将决定技术扩散的速度。在他看来，集成计算网络正成为跨行业数字化转型的关键基础设施。工人在制造工厂为电动汽车安装组件。智能制造增强全球竞争力。随着智能设备成为出口增长的重要驱动力，中国的高端制造业也在扩大国际市场份额。\n\n在持续技术升级和日益完善的工业供应链支持下，工业机器人、自动化系统和智能制造解决方案的海外需求不断扩大。国际机器人联合会的数据显示，中国已连续12年成为全球最大的工业机器人市场，2024年安装量达29.5万台，占全球需求的54%。根据IFR数据，2024年国产品牌在国内市场份额达57%，首次超过外国供应商。2025年上半年，中国工业机器人出口量达9.42万台，同比增长近60%，表明中国智能设备在海外制造项目中的采用范围更广。美国信息技术与创新基金会全球创新政策副总裁斯蒂芬·埃泽尔今年4月在接受西部国际传播中心采访时表示，中国已从快速追随者转变为全球创新中的系统级竞争者。\n\n资料照片：中国东部浙江省杭州市的“算力小镇”。航天信息产业开辟新的增长前沿。与制造业故事并行，一个更具未来感的赛道正在江苏无锡形成，2026年航天信息会议于7月16日至17日在此举行，展示卫星遥感、北斗导航通信遥感一体化系统以及空间计算技术的最新发展。专家认为，这些创新正在加速航天技术在农业、交通、应急管理、环境监测和智慧城市等领域的商业化。中科星图股份有限公司副总裁兼商业航天战略部总经理郝雪涛表示：“随着天基信息系统的先进组网和智能化，轨道计算已成为全球技术竞争的战略制高点。”\n\n中国已将航天信息产业发展以及卫星互联网和天地一体化信息网络建设纳入包括数字中国倡议在内的多项国家战略。企业和研究机构正抓住这些战略举措带来的机遇。郝雪涛表示，轨道计算预计将在下一阶段数字化和智能化发展中发挥关键作用，应用涵盖通信、遥感和导航。其实现快速全球连接、实时数据处理和智能决策的能力将支持智慧城市、公共安全、气象服务和环境监测等多个领域。"
+      "fullText": "Editor's note: Professor Chen Zhimin is vice president of Fudan University, Shanghai, and executive director of the Center for Global AI Innovative Governance (CGAIG). Officially launched at the opening ceremony of the 2025 World AI Conference (WAIC) and High-Level Meeting on Global AI Governance, the CGAIG serves as an international platform dedicated to research, dialogue, and collaboration on global AI innovative governance. The article reflects the author's opinions and not necessarily the views of CGTN.\nArtificial intelligence (AI) is opening a new frontier for human development. Expanding humanity's ability to understand and reshape the world, it is a key driver of scientific and technological revolution as well as significant industrial transformation.\nWhile AI presents unprecedented opportunities for development, it also brings risks and challenges, including security concerns, ethical dilemmas and technological divides. Therefore, determining how to promote innovative development, effectively prevent risks and deliver benefits to people in all countries in a fairer manner is a major issue facing the entire international community.\nChina has consistently advocated a people-centered approach to global AI governance and international cooperation, following the underlying principle of \"AI for good.\" Upholding equality, mutual benefit and inclusive growth for all while balancing development and security imperatives, China has advanced new ideas and taken concrete steps to building a more open, inclusive, efficient and fairer global AI governance system.\nBuilding global consensus on AI governance\nChina attaches great importance to the development and governance of AI, and has outlined its vision and approach to addressing shared challenges as the technology advances.\nChina is committed to multilateralism and promotes coordinated global governance. The international community still lacks consensus on major issues concerning global AI governance. Countries have different understandings regarding AI security, ethics and the boundaries of responsibility, and have yet to align governance rules and technical standards.\nChina proposed the Global AI Governance Initiative in 2023, outlining the principles of developing AI for good, ensuring security and controllability, and promoting inclusiveness and fairness. Calling for developing open, fair and efficient governing mechanisms, the initiative has provided systematic, practical and workable guidance for global AI governance.\nChina bridges gaps through capacity building and promotes inclusive development of AI. All countries should have equal rights to develop and use AI. Yet the global AI landscape remains uneven, with many developing countries, especially in the Global South, facing challenges in AI application and governance.\nAn AI assistant operates at a merchandise shop in Nanjing, east China's Jiangsu Province, June 5, 2026. \nAs a major AI-developing country, China has placed capacity building and technological inclusiveness at the center of its efforts to advance global AI governance. China has proposed initiatives including the AI Capacity-Building Action Plan for Good and for All and the AI+ International Cooperation Initiative.The country has also promoted the adoption of the first United Nations General Assembly resolution focused on AI capacity building, and played an active role in the establishment of the UN-supported Global AI Capacity-Building Network.\nThrough regular international exchanges and training programs, China is helping developing countries strengthen their capabilities and narrow the digital divide.\nChina promotes practical cooperation to improve the international AI governance and cooperation system. While a range of principles and initiatives regarding AI governance have been reached within the global community, greater efforts are needed to translate these shared visions into tangible actions.\nThrough cooperation in areas such as AI development strategies, governance rules and technical standards, China seeks to offer AI-related public goods globally. The goal is to foster practical collaboration among nations and complement existing mechanisms with an enhanced global AI governance system.\nExpanding shared opportunities through cooperation\nChina has consistently pursued AI development through an open and cooperative global vision.\nThe 2026 World AI Conference (WAIC) and High-Level Meeting on Global AI Governance will soon be held in Shanghai under the theme \"Intelligent Partners, Co-create the Future.\" The event will bring together participants from around the world to showcase the latest advances in AI innovation, industrial applications and governance practices, while providing an important platform to exchange governance ideas and experiences.\nThe conference carries special significance as it takes place at the beginning of China's 15th Five-Year Plan (2026–2030) period. China aims to further promote the integration of technological and industrial innovation, advance and expand the AI+ Initiative, cultivate and strengthen the intelligent industry and empower high-quality economic and social development.\nThese efforts will contribute broader technological options, industrial opportunities and real-world applications to global AI innovation and cooperation.\nThe Global Network of Centers for Exchange and Cooperation on AI Capacity Building is officially inaugurated at the World Trade Organization headquarters. The CGAIG attended the ceremony as China's representative institution and one of the network's founding members, Geneva, Switzerland, July 5, 2026. /CGAIG\nShanghai, a leading hub for AI development, has built a comprehensive AI industrial ecosystem supported by abundant research resources and extensive international networks, positioning the city as a key platform to facilitate global AI cooperation.\nSince its launch at the opening ceremony of WAIC 2025, the Center for Global AI Innovative Governance (CGAIG) has worked to promote China's proposals on global AI governance and to advance practical cooperation in AI governance and international collaboration.\nThe United Nations-promoted Global Network of Centers for Exchange and Cooperation on AI Capacity Building was recently established at the World Trade Organization headquarters in Geneva, Switzerland. As China's representative institution and one of the network's founding members, the CGAIG has worked to embed AI capacity-building expertise and international public goods into the network's institutional design and advance an inclusive, mutually beneficial vision for global AI cooperation.\nAs the world looks toward WAIC 2026, China is leveraging its innovative resources to promote inclusive and shared global AI development and unlock greater benefits from intelligent technologies.\nGiven the uncertainty and complexity of AI, it is essential for all parties to enhance mutual trust, build consensus, and promote the secure and reliable development.\nChina stands ready to work with the international community to address common challenges through cooperation, enhance common well-being through innovation and build a globally recognized AI governance framework.\nTogether, we can ensure that AI becomes an international public good that truly benefits humanity, enabling people around the world to share in the vast opportunities brought by this transformative technology.",
+      "fullTextCn": "编者按：陈志敏教授是复旦大学副校长、上海全球人工智能创新治理中心（CGAIG）执行主任。该中心在2025年世界人工智能大会（WAIC）暨全球AI治理高级别会议开幕式上正式启动，是一个致力于全球AI创新治理研究、对话与合作的国际平台。本文反映作者观点，不一定代表CGTN立场。人工智能（AI）正在为人类发展开辟新前沿。它扩展了人类理解和改造世界的能力，是科技革命和重大产业转型的关键驱动力。\n\n虽然AI带来了前所未有的发展机遇，但也带来了风险和挑战，包括安全隐患、伦理困境和技术鸿沟。因此，如何促进创新发展、有效防范风险、以更公平的方式惠及各国人民，是整个国际社会面临的重大课题。中国一贯倡导以人民为中心的全球AI治理和国际合作，遵循“AI向善”的基本原则。秉持平等、互利、包容增长，同时平衡发展与安全需求，中国提出了新理念并采取了具体措施，致力于构建更加开放、包容、高效、公平的全球AI治理体系。凝聚全球AI治理共识：中国高度重视AI的发展与治理，并阐述了其应对技术发展过程中共同挑战的愿景和方法。中国致力于多边主义，推动协调的全球治理。\n\n国际社会在涉及全球AI治理的重大问题上仍缺乏共识。各国对AI安全、伦理和责任边界有不同的理解，尚未统一治理规则和技术标准。中国于2023年提出了《全球人工智能治理倡议》，阐述了发展AI向善、确保安全可控、促进包容公平的原则。该倡议呼吁建立开放、公平、高效的治理机制，为全球AI治理提供了系统、实用、可操作的指导。中国通过能力建设弥合差距，促进AI的包容性发展。\n\n所有国家都应享有平等发展和使用AI的权利。然而，全球AI格局仍然不平衡，许多发展中国家，特别是全球南方国家，在AI应用和治理方面面临挑战。2026年6月5日，中国东部江苏省南京市的一家商品店内，一名AI助手正在操作。作为AI发展大国，中国将能力建设和技术包容性置于推进全球AI治理努力的核心。中国提出了包括“AI向善和普惠能力建设行动计划”和“AI+国际合作倡议”在内的多项倡议。该国还推动了首个聚焦AI能力建设的联合国大会决议的通过，并在联合国支持的全球AI能力建设网络的建立中发挥了积极作用。\n\n通过定期的国际交流与培训项目，中国正在帮助发展中国家加强能力，缩小数字鸿沟。中国推动务实合作，完善国际AI治理与合作体系。虽然国际社会已就AI治理达成了一系列原则和倡议，但仍需付出更大努力将这些共同愿景转化为具体行动。通过在AI发展战略、治理规则和技术标准等领域的合作，中国力求向全球提供AI相关公共产品。目标是促进国家间的务实合作，并以强化的全球AI治理体系补充现有机制。\n\n通过合作扩大共享机遇：中国始终以开放合作的全球视野推进AI发展。2026年世界人工智能大会（WAIC）暨全球AI治理高级别会议即将在上海举行，主题为“智能伙伴，共创未来”。此次盛会将汇聚全球参与者，展示AI创新、产业应用和治理实践的最新进展，同时为交流治理理念和经验提供重要平台。此次会议在中国“十五五”规划（2026-2030年）开局之际举行，具有特殊意义。中国旨在进一步促进技术与产业创新的融合，推进和拓展“AI+”倡议，培育和壮大智能产业，赋能高质量经济社会发展。这些努力将为全球AI创新与合作贡献更广泛的技术选择、产业机遇和实际应用。\n\n全球AI能力建设交流与合作中心网络在世界贸易组织总部正式启动。CGAIG作为中国代表机构和网络创始成员之一出席了仪式，瑞士日内瓦，2026年7月5日。/CGAIG。上海作为AI发展的领先枢纽，已构建了由丰富研究资源和广泛国际网络支持的综合性AI产业生态系统，使该市成为促进全球AI合作的关键平台。自WAIC 2025开幕式启动以来，全球AI创新治理中心（CGAIG）一直致力于推广中国在全球AI治理方面的提议，并推进AI治理和国际合作中的务实合作。联合国推动的全球AI能力建设交流与合作中心网络最近在瑞士日内瓦的世界贸易组织总部成立。\n\n作为中国代表机构和网络创始成员之一，CGAIG致力于将AI能力建设专业知识和国际公共产品嵌入网络制度设计，并推进全球AI合作的包容性、互利愿景。随着世界期待WAIC 2026，中国正利用其创新资源促进包容性和共享的全球AI发展，释放智能技术的更大效益。鉴于AI的不确定性和复杂性，各方必须增进互信、凝聚共识，促进安全可靠的发展。中国愿与国际社会一道，通过合作应对共同挑战，通过创新增进共同福祉，构建全球公认的AI治理框架。共同努力，我们可以确保AI成为真正惠及人类的国际公共产品，使世界各地的人们能够分享这一变革性技术带来的巨大机遇。"
     },
     {
-      "id": 3,
+      "id": 2,
       "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-15/From-wildlife-rescue-to-China-s-biodiversity-conservation-1ONwNFwq2sw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "From wildlife rescue to China's biodiversity conservation",
-      "titleCn": "从野生动物救援到中国生物多样性保护",
-      "summary": "From wildlife rescue to China's biodiversity conservation",
-      "summaryCn": "西宁野生动物园通过救援、康复和放归雪豹等珍稀动物，展示了中国在生物多样性保护方面的努力与成就。",
-      "wordCount": 637,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-14/US-ICE-agent-fatally-shoots-driver-in-Maine-after-similar-Texas-death-1OM4h5owzT2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "US ICE agent fatally shoots driver in Maine after similar Texas death",
+      "titleCn": "美国移民执法人员在缅因州枪杀一名司机，此前得克萨斯州发生类似事件",
+      "summary": "US Immigration and Customs Enforcement officers fatally shot a driver in a coastal town in Maine on Monday, less than a week after an ICE agent in Houston, Texas, shot and killed a man in a traffic stop during a deportation crackdown there.",
+      "summaryCn": "美国移民执法人员在缅因州和得克萨斯州接连枪杀司机，引发抗议和调查。",
+      "wordCount": 948,
       "paragraphs": [
         {
-          "en": "\"Only if we understand, will we care. Only if we care, will we help. Only if we help shall all be saved.\" The famous words of renowned {{0}} Jane Goodall greet visitors at Xining Wildlife Park. More than just a zoo, Xining Wildlife Park is also known as the Qinghai Wildlife Rescue and Breeding Center, an institution dedicated to wildlife rescue, {{1}}, breeding research and conservation education. Since 2010, it has rescued more than 2,700 wild animals from over 60 species, with around one-third successfully released back into the wild.",
-          "cn": "“唯有了解，我们才会关心；唯有关心，我们才会行动；唯有行动，生命才有希望。”著名灵长类动物学家珍·古道尔的这句名言迎接着西宁野生动物园的游客。西宁野生动物园不仅仅是一座动物园，它也被称为青海野生动物救护繁育中心，是一个致力于野生动物救援、康复、繁育研究和保护教育的机构。自2010年以来，它已救助了来自60多个物种的2700多只野生动物，其中约三分之一成功放归野外。"
+          "en": "US Immigration and Customs Enforcement (ICE) officers {{0}} shot a driver in a coastal town in Maine on Monday, less than a week after an ICE agent in Houston, Texas, shot and killed a man in a traffic stop during a {{1}} {{2}} there. Commenting on Monday's shooting nearly 12 hours after the fact, the US Department of Homeland Security (DHS) said an ICE officer, \"{{3}} for public safety,\" opened fire on the man when he attempted to flee agents trying to stop his vehicle. The DHS statement made no mention of how the driver might have {{4}} a threat. The {{5}} occurred around 7 a.m. EDT (1100 GMT) in Biddeford, Maine, about 24 km south of the state's largest city, Portland.",
+          "cn": "美国移民和海关执法局（ICE）官员周一在缅因州一个沿海城镇枪杀了一名司机，不到一周前，得克萨斯州休斯顿的一名ICE特工在一次交通拦截中开枪打死了一名男子，这是驱逐行动的一部分。在事发近12小时后，美国国土安全部（DHS）发表评论称，一名ICE官员“担心公共安全”，在该男子试图逃离特工拦截车辆时开枪射击。DHS的声明没有提及司机可能如何构成威胁。这起事件发生在美东时间早上7点左右（格林尼治标准时间1100点），地点在缅因州比迪福德，距离该州最大城市波特兰以南约24公里。"
         },
         {
-          "en": "Among its best-known residents are four iconic highland {{2}} – the snow leopard, Eurasian lynx, Pallas's cat and Chinese mountain cat. Their stories have become a window into wildlife conservation on the Qinghai-Xizang Plateau. Ling Xiaozhe, a rescued snow leopard, after a period of rehabilitation. /Xining Wildlife Park\nThe snow leopard is the park's biggest star. In March 2025, a severely injured {{4}} was found in the Sanjiangyuan area.",
-          "cn": "在其最著名的居民中，有四种标志性的高原食肉动物——雪豹、欧亚猞猁、兔狲和荒漠猫。它们的故事已成为了解青藏高原野生动物保护的一扇窗口。雪豹是动物园里最大的明星。2025年3月，在三江源地区发现了一只严重受伤的幼崽。"
+          "en": "DHS, the parent agency of ICE, gave few other details, except to say that the agents involved were \"conducting targeted {{6}} on the last known address of an illegal alien with a final order of removal.\"\nAccording to DHS, \"an illegal alien {{7}} the residence in a vehicle,\" with ICE officers in {{8}}. The agency did not say that the person seen leaving the residence was the same individual whose address was under surveillance. DHS said the Biddeford Police Department and the FBI \"responded to the scene.\"\nImmigration {{9}} said the person shot was a 26-year-old Colombian man who was {{10}} to work in the US and had a Social Security number, though they did not name him or say how they were able to identify him. \"This is {{11}}, {{12}}, and {{13}},\" the Maine Immigrants' Rights Coalition and Presente! Maine said in a joint statement.",
+          "cn": "DHS是ICE的上级机构，除了表示涉案特工正在“对一名有最终驱逐令的非法移民的最后已知地址进行有针对性的监视”外，几乎没有提供其他细节。据DHS称，“一名非法移民乘坐车辆离开了住所”，ICE官员进行了追捕。该机构没有说明离开住所的人就是被监视地址的那个人。DHS表示，比迪福德警察局和联邦调查局（FBI）“已赶到现场”。移民倡导者表示，被枪杀的人是一名26岁的哥伦比亚男子，他有权在美国工作，并有社会安全号码，但他们没有透露他的姓名，也没有说明他们是如何识别他的。缅因州移民权利联盟和Presente! Maine在一份联合声明中表示：“这是毁灭性的、令人愤怒的、不可接受的。”"
         },
         {
-          "en": "Rescue workers drove hundreds of kilometers to bring the cub, later named Ling Xiaozhe, to Xining for emergency treatment. His injuries were likely caused by a fall from a significant height, leaving him with a {{5}} {{6}} spine, systemic {{7}} and {{8}}. After months of {{9}} care, he gradually recovered, while his rescue attracted nationwide attention through {{10}} that offered the public a rare look inside China's wildlife rescue efforts. \"Ling Xiaozhe's rescue has advanced our work in rescuing {{11}} wildlife, conservation communication and public education,\" said He Shunfu, head of the rescue department at the Qinghai Wildlife Rescue and Breeding Center. \"Whenever an animal has a chance to return to the wild, we do everything we can to make it happen,\" said {{12}} Wang Lu.",
-          "cn": "救援人员驱车数百公里，将这只后来被命名为“凌小蛰”的幼崽送往西宁进行紧急治疗。它的伤势很可能是从高处坠落造成的，导致颈椎骨折、全身炎症和体温过低。经过数月的精心护理，它逐渐康复，而它的救援过程通过直播引起了全国关注，让公众难得一窥中国野生动物救援工作的内部情况。“凌小蛰的救援推进了我们在濒危野生动物救援、保护传播和公众教育方面的工作，”青海野生动物救护繁育中心救护部主任何顺福说。“只要动物有机会重返野外，我们就会尽一切努力实现它，”兽医王璐说。"
+          "en": "Escalating enforcement actions\nMonday's ICE-involved killing in Maine, and the one last Tuesday in Texas, brought to at least seven the number of people shot dead during immigration enforcement operations since January 2025, when President Donald Trump returned to office and launched a campaign of mass deportations. Immigration roundups have increased even more nationwide in recent weeks. Since the beginning of June, ICE arrests in Maine have more than {{15}} to around 70 per day in early July, according to internal ICE data shared with Reuters by a source. For much of the day on Monday, what few official details were known of the latest deadly ICE shooting came from elected officials citing second-hand information shared with them by various law enforcement authorities. US Senator Angus King of Maine, a political independent who caucuses in the Senate with the Democrats, told reporters that Homeland Security Secretary Markwayne Mullin had informed him that the person shot dead by ICE was a man in his 20s who had \"{{16}}\" his vehicle against officers.",
+          "cn": "不断升级的执法行动。周一在缅因州发生的ICE枪杀事件，以及上周二在得克萨斯州发生的事件，使自2025年1月唐纳德·特朗普总统重返白宫并发起大规模驱逐运动以来，在移民执法行动中被枪杀的人数至少达到7人。最近几周，全国范围内的移民搜捕行动进一步增加。根据路透社从一位消息人士处获得的ICE内部数据，自6月初以来，缅因州的ICE逮捕人数增加了三倍多，到7月初达到每天约70人。周一的大部分时间里，关于最新的ICE致命枪击事件，官方细节很少，主要来自民选官员引用各种执法机构与他们分享的二手信息。缅因州参议员安格斯·金（Angus King）是一位政治独立人士，在参议院与民主党人一起参加党团会议，他告诉记者，国土安全部部长马克韦恩·穆林（Markwayne Mullin）告诉他，被ICE枪杀的人是一名20多岁的男子，他“将车辆武器化”对付官员。"
         },
         {
-          "en": "\"So far, the center has successfully released three rescued snow leopards.\"\nAdult snow leopards can often be released after rehabilitation, but cubs rescued at a very young age often cannot survive {{13}} in the wild, as they miss the opportunity to learn hunting and survival skills from their mothers, explained veterinarian Zhao Hailong. Even so, these animals continue to make important contributions. Veterinary examinations and long-term monitoring have helped researchers establish valuable baseline data on snow leopard {{14}}, health {{15}} and medical treatment, improving future rescue efforts for wild populations. Ongoing conservation efforts at both the national and local levels have improved habitat quality and supported a steady increase in the snow leopard population. Today, Qinghai is home to an estimated 1,200 snow leopards, making it one of the world's most important habitats for this species.",
-          "cn": "“到目前为止，该中心已成功放归了三只获救的雪豹。”兽医赵海龙解释说，成年雪豹在康复后通常可以放归，但很小就被救起的幼崽往往无法在野外独立生存，因为它们错过了向母亲学习捕猎和生存技能的机会。即便如此，这些动物仍在做出重要贡献。兽医检查和长期监测帮助研究人员建立了关于雪豹麻醉、健康指标和医疗处理的宝贵基线数据，改善了未来对野生种群的救援工作。国家和地方层面的持续保护工作改善了栖息地质量，并支持了雪豹种群的稳步增长。如今，青海估计有1200只雪豹，使其成为该物种在全球最重要的栖息地之一。"
+          "en": "According to Mullin, King said, the man killed was the subject of an \"arrest warrant based upon his immigration status.\" But the senator's spokesperson said Mullin later conveyed to him new information that the victim was not the target of a warrant. King said inquiries into the shooting should focus not on the driver's immigration status but on whether his actions posed a threat to ICE officers \"rising to the level that {{17}} deadly force. That's what this investigation is all about.\"\nEyewitness account\nOne witness, Daniel Boucher, 71, a caregiver and part-time draftsman who lives in downtown Biddeford, told Reuters he was on the second floor of his apartment when he heard what sounded like firecrackers around 7:30 a.m. He ran to the window and saw a white SUV ram a smaller white car. After running down to the street level, and from a {{18}} point just 6 meters away, Boucher saw an ICE officer emerge from the SUV, open a door of the car, and pull the driver out, he recalled, adding that the man had blood on his face and head.",
+          "cn": "金说，据穆林称，被杀男子是“基于其移民身份的逮捕令”的对象。但这位参议员的发言人表示，穆林后来向他传达了新的信息，即受害者不是逮捕令的目标。金表示，对枪击事件的调查不应关注司机的移民身份，而应关注他的行为是否对ICE官员构成威胁，“达到了证明使用致命武力合理的程度。这就是这次调查的全部内容。”目击者描述。一位目击者，71岁的丹尼尔·布歇（Daniel Boucher），是住在比迪福德市中心的一名护理员和兼职绘图员，他告诉路透社，早上7点30分左右，他在公寓二楼听到像鞭炮一样的声音。他跑到窗户边，看到一辆白色SUV撞上了一辆较小的白色轿车。他回忆说，跑到街上后，从仅6米远的一个有利位置，他看到一名ICE官员从SUV里出来，打开轿车的一扇门，把司机拉了出来，并补充说该男子脸上和头上都有血。"
         },
         {
-          "en": "The other three species each tell their own conservation story. The Eurasian lynx, recognizable by its distinctive black ear tufts, is considered an important indicator of {{16}} health. The Pallas's cat, famous for its expressive face and exceptionally {{17}} fur, helps maintain {{18}} balance by preying on pikas and other small mammals. A rescued Pallas's cat with its characteristically expressive face. /Xining Wildlife Park\nThe Chinese mountain cat is a species found only in China and listed as a national first-class protected animal.",
-          "cn": "其他三种物种各自讲述着自己的保护故事。欧亚猞猁以其独特的黑色耳簇而闻名，被认为是生态系统健康的重要指标。兔狲以其富有表情的面孔和异常浓密的皮毛而闻名，通过捕食鼠兔和其他小型哺乳动物来维持生态平衡。荒漠猫是中国特有的物种，被列为国家一级保护动物。"
+          "en": "\"I remember hearing the victim say, 'But I tried to stop,'\" Boucher said, before the wounded man appeared to stop breathing. Boucher recounted one of the officers on the scene as appearing \"very {{19}}, almost in shock.\"\nIn a video clip verified by Reuters, the white car was seen appearing to {{20}} directionless with two men wearing vests on foot trying to stop it, but it was unclear whether the footage was recorded before or after the shooting. A Reuters photo of the car after it was loaded onto a flatbed tow truck showed the driver's side of the windshield visibly {{21}} by what looked like four bullet holes. Protests break out\nLater in the day, scores of demonstrators carried signs and chanted as they marched about a quarter-mile from a Biddeford park to the office of Republican US Senator Susan Collins, who is running for reelection this year. Ten protesters entered the building's foyer, chanting \"ICE out!\" and \"Vote her out!\" and screaming obscenities.",
+          "cn": "“我记得听到受害者说，‘但我试图停下来，’”布歇说，然后受伤的男子似乎停止了呼吸。布歇描述说，现场的一名官员看起来“非常沮丧，几乎处于震惊状态”。在一段经路透社核实的视频片段中，可以看到那辆白色轿车似乎漫无目的地蜿蜒行驶，两名穿着背心的男子试图徒步阻止它，但尚不清楚这段视频是在枪击前还是枪击后拍摄的。路透社的一张照片显示，轿车被装上平板拖车后，驾驶员一侧的挡风玻璃明显被四个看起来像弹孔的东西穿透。抗议活动爆发。当天晚些时候，数十名示威者举着标语，高喊口号，从比迪福德的一个公园游行约四分之一英里，到达共和党参议员苏珊·柯林斯（Susan Collins）的办公室，她今年正在竞选连任。十名抗议者进入大楼门厅，高喊“ICE滚出去！”和“投票让她下台！”，并尖叫着脏话。"
         },
         {
-          "en": "In 2024, the park successfully released a Chinese mountain cat fitted with a satellite {{19}} collar, allowing researchers to study its movements while enabling faster rescue if the animal encounters danger. A view of a rescued Chinese mountain cat. /Xining Wildlife Park\nBehind these four animals lies a much bigger conservation story. From emergency rescue and veterinary care to scientific research, conservation breeding, public education and {{20}}, their stories reflect China's growing {{21}} to {{22}} conservation. With major biodiversity conservation projects included in China's 15th Five-Year Plan for achieving the Beautiful China vision, institutions like Xining Wildlife Park are helping bridge the gap between science and public awareness.",
-          "cn": "2024年，该园成功放归了一只佩戴卫星追踪项圈的荒漠猫，使研究人员能够研究其活动，同时在动物遇到危险时能更快地实施救援。在这四种动物背后，是一个更大的保护故事。从紧急救援和兽医护理到科学研究、保护性繁育、公众教育和再引入，它们的故事反映了中国对生物多样性保护日益增长的承诺。随着重大生物多样性保护项目被纳入中国实现“美丽中国”愿景的“十五五”规划，像西宁野生动物园这样的机构正在帮助弥合科学与公众意识之间的鸿沟。"
+          "en": "There were no arrests or violence. About 200 protesters marched through town Monday evening carrying banners and chanting \"ICE out of Maine.\" The rally culminated at Mechanics Park, where members of the crowd lit candles and displayed written messages expressing support for migrants. The shooting came six days after an ICE agent in Houston's heavily Hispanic East End fatally shot a 52-year-old man, Lorenzo Salgado Araujo, during a traffic stop in what the agency said was a targeted immigration enforcement operation. ICE said in a statement after that shooting that Salgado, a Mexican national living in the US illegally for over three decades, rammed a law enforcement vehicle with his van and attempted to run down an officer who fired in self-defense. The agency offered no evidence to support its account.",
+          "cn": "没有逮捕或暴力事件。周一晚上，大约200名抗议者举着横幅，高喊“ICE滚出缅因州”，穿过小镇。集会在Mechanics Park达到高潮，人群中的成员点燃蜡烛，展示表达支持移民的书面信息。这起枪击事件发生六天前，休斯顿西班牙裔聚居的东区的一名ICE特工在一次交通拦截中枪杀了一名52岁的男子洛伦佐·萨尔加多·阿劳霍（Lorenzo Salgado Araujo），该机构称这是一次有针对性的移民执法行动。ICE在那次枪击事件后发表声明称，萨尔加多是一名墨西哥公民，在美国非法居留超过三十年，他用面包车撞击了一辆执法车辆，并试图碾压一名特工，该特工出于自卫开枪。该机构没有提供证据支持其说法。"
         },
         {
-          "en": "Every rescued animal deepens scientific understanding, every successful release strengthens wild populations, and every story inspires more people to care about the future of wildlife.",
-          "cn": "每一只获救的动物都加深了科学理解，每一次成功的放归都加强了野生种群，每一个故事都激励着更多人关心野生动物的未来。"
+          "en": "In similar instances over the past year, initial ICE and DHS statements about the use of force have been contradicted by video footage or other evidence, sometimes in court.",
+          "cn": "在过去一年中，类似的ICE和DHS关于使用武力的初步声明有时会被视频片段或其他证据（有时在法庭上）所推翻。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "primatologist",
-          "hint": "n. 灵长类动物学家",
-          "difficulty": "hard"
+          "answer": "fatally",
+          "hint": "adv. 致命地",
+          "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "rehabilitation",
-          "hint": "n. 康复；恢复",
+          "answer": "deportation",
+          "hint": "n. 驱逐出境",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "predators",
-          "hint": "n. 捕食者；食肉动物",
-          "difficulty": "medium"
+          "answer": "crackdown",
+          "hint": "n. 镇压",
+          "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "cub",
-          "hint": "n. 幼兽",
+          "answer": "fearing",
+          "hint": "v. 担心",
           "difficulty": "easy"
         },
         {
           "id": 4,
-          "answer": "fractured",
-          "hint": "adj. 骨折的；断裂的",
+          "answer": "posed",
+          "hint": "v. 构成",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "cervical",
-          "hint": "adj. 颈部的",
-          "difficulty": "hard"
+          "answer": "encounter",
+          "hint": "n. 遭遇",
+          "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "inflammation",
-          "hint": "n. 炎症",
+          "answer": "surveillance",
+          "hint": "n. 监视",
           "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "hypothermia",
-          "hint": "n. 体温过低",
-          "difficulty": "hard"
+          "answer": "departed",
+          "hint": "v. 离开",
+          "difficulty": "easy"
         },
         {
           "id": 8,
-          "answer": "intensive",
-          "hint": "adj. 精心的；密集的",
+          "answer": "pursuit",
+          "hint": "n. 追捕",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "livestreams",
-          "hint": "n. 直播",
-          "difficulty": "easy"
+          "answer": "advocates",
+          "hint": "n. 倡导者",
+          "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "endangered",
-          "hint": "adj. 濒危的",
-          "difficulty": "easy"
+          "answer": "authorized",
+          "hint": "adj. 授权的",
+          "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "veterinarian",
-          "hint": "n. 兽医",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "independently",
-          "hint": "adv. 独立地",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "anesthesia",
-          "hint": "n. 麻醉",
+          "answer": "devastating",
+          "hint": "adj. 毁灭性的",
           "difficulty": "hard"
         },
         {
+          "id": 12,
+          "answer": "enraging",
+          "hint": "adj. 令人愤怒的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "unacceptable",
+          "hint": "adj. 不可接受的",
+          "difficulty": "easy"
+        },
+        {
           "id": 14,
-          "answer": "indicators",
-          "hint": "n. 指标；指示物",
-          "difficulty": "medium"
+          "answer": "quadrupled",
+          "hint": "v. 翻两番",
+          "difficulty": "hard"
         },
         {
           "id": 15,
-          "answer": "ecosystem",
-          "hint": "n. 生态系统",
-          "difficulty": "medium"
+          "answer": "weaponized",
+          "hint": "v. 武器化",
+          "difficulty": "hard"
         },
         {
           "id": 16,
-          "answer": "dense",
-          "hint": "adj. 浓密的；密集的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "ecological",
-          "hint": "adj. 生态的",
+          "answer": "justified",
+          "hint": "adj. 合理的",
           "difficulty": "medium"
         },
         {
+          "id": 17,
+          "answer": "vantage",
+          "hint": "n. 有利位置",
+          "difficulty": "hard"
+        },
+        {
           "id": 18,
-          "answer": "tracking",
-          "hint": "n. 追踪；跟踪",
-          "difficulty": "easy"
+          "answer": "distraught",
+          "hint": "adj. 心烦意乱的",
+          "difficulty": "hard"
         },
         {
           "id": 19,
-          "answer": "reintroduction",
-          "hint": "n. 再引入；重新引入",
+          "answer": "meander",
+          "hint": "v. 蜿蜒",
           "difficulty": "hard"
         },
         {
           "id": 20,
-          "answer": "commitment",
-          "hint": "n. 承诺；投入",
+          "answer": "penetrated",
+          "hint": "v. 穿透",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "US Immigration and Customs Enforcement (ICE) officers fatally shot a driver in a coastal town in Maine on Monday, less than a week after an ICE agent in Houston, Texas, shot and killed a man in a traffic stop during a deportation crackdown there.\nCommenting on Monday's shooting nearly 12 hours after the fact, the US Department of Homeland Security (DHS) said an ICE officer, \"fearing for public safety,\" opened fire on the man when he attempted to flee agents trying to stop his vehicle.\nThe DHS statement made no mention of how the driver might have posed a threat. The encounter occurred around 7 a.m. EDT (1100 GMT) in Biddeford, Maine, about 24 km south of the state's largest city, Portland.\nDHS, the parent agency of ICE, gave few other details, except to say that the agents involved were \"conducting targeted surveillance on the last known address of an illegal alien with a final order of removal.\"\nAccording to DHS, \"an illegal alien departed the residence in a vehicle,\" with ICE officers in pursuit. The agency did not say that the person seen leaving the residence was the same individual whose address was under surveillance.\nDHS said the Biddeford Police Department and the FBI \"responded to the scene.\"\nImmigration advocates said the person shot was a 26-year-old Colombian man who was authorized to work in the US and had a Social Security number, though they did not name him or say how they were able to identify him.\n\"This is devastating, enraging, and unacceptable,\" the Maine Immigrants' Rights Coalition and Presente! Maine said in a joint statement.\nEscalating enforcement actions\nMonday's ICE-involved killing in Maine, and the one last Tuesday in Texas, brought to at least seven the number of people shot dead during immigration enforcement operations since January 2025, when President Donald Trump returned to office and launched a campaign of mass deportations.\nImmigration roundups have increased even more nationwide in recent weeks. Since the beginning of June, ICE arrests in Maine have more than quadrupled to around 70 per day in early July, according to internal ICE data shared with Reuters by a source.\nFor much of the day on Monday, what few official details were known of the latest deadly ICE shooting came from elected officials citing second-hand information shared with them by various law enforcement authorities.\nUS Senator Angus King of Maine, a political independent who caucuses in the Senate with the Democrats, told reporters that Homeland Security Secretary Markwayne Mullin had informed him that the person shot dead by ICE was a man in his 20s who had \"weaponized\" his vehicle against officers.\nAccording to Mullin, King said, the man killed was the subject of an \"arrest warrant based upon his immigration status.\" But the senator's spokesperson said Mullin later conveyed to him new information that the victim was not the target of a warrant.\nKing said inquiries into the shooting should focus not on the driver's immigration status but on whether his actions posed a threat to ICE officers \"rising to the level that justified deadly force. That's what this investigation is all about.\"\nEyewitness account\nOne witness, Daniel Boucher, 71, a caregiver and part-time draftsman who lives in downtown Biddeford, told Reuters he was on the second floor of his apartment when he heard what sounded like firecrackers around 7:30 a.m.\nHe ran to the window and saw a white SUV ram a smaller white car. After running down to the street level, and from a vantage point just 6 meters away, Boucher saw an ICE officer emerge from the SUV, open a door of the car, and pull the driver out, he recalled, adding that the man had blood on his face and head.\n\"I remember hearing the victim say, 'But I tried to stop,'\" Boucher said, before the wounded man appeared to stop breathing.\nBoucher recounted one of the officers on the scene as appearing \"very distraught, almost in shock.\"\nIn a video clip verified by Reuters, the white car was seen appearing to meander directionless with two men wearing vests on foot trying to stop it, but it was unclear whether the footage was recorded before or after the shooting.\nA Reuters photo of the car after it was loaded onto a flatbed tow truck showed the driver's side of the windshield visibly penetrated by what looked like four bullet holes.\nProtests break out\nLater in the day, scores of demonstrators carried signs and chanted as they marched about a quarter-mile from a Biddeford park to the office of Republican US Senator Susan Collins, who is running for reelection this year.\nTen protesters entered the building's foyer, chanting \"ICE out!\" and \"Vote her out!\" and screaming obscenities. There were no arrests or violence.\nAbout 200 protesters marched through town Monday evening carrying banners and chanting \"ICE out of Maine.\" The rally culminated at Mechanics Park, where members of the crowd lit candles and displayed written messages expressing support for migrants.\nThe shooting came six days after an ICE agent in Houston's heavily Hispanic East End fatally shot a 52-year-old man, Lorenzo Salgado Araujo, during a traffic stop in what the agency said was a targeted immigration enforcement operation.\nICE said in a statement after that shooting that Salgado, a Mexican national living in the US illegally for over three decades, rammed a law enforcement vehicle with his van and attempted to run down an officer who fired in self-defense.\nThe agency offered no evidence to support its account. In similar instances over the past year, initial ICE and DHS statements about the use of force have been contradicted by video footage or other evidence, sometimes in court.",
+      "fullTextCn": "美国移民和海关执法局（ICE）官员周一在缅因州一个沿海城镇枪杀了一名司机，不到一周前，得克萨斯州休斯顿的一名ICE特工在一次交通拦截中开枪打死了一名男子，这是驱逐行动的一部分。在事发近12小时后，美国国土安全部（DHS）发表评论称，一名ICE官员“担心公共安全”，在该男子试图逃离特工拦截车辆时开枪射击。DHS的声明没有提及司机可能如何构成威胁。这起事件发生在美东时间早上7点左右（格林尼治标准时间1100点），地点在缅因州比迪福德，距离该州最大城市波特兰以南约24公里。\n\nDHS是ICE的上级机构，除了表示涉案特工正在“对一名有最终驱逐令的非法移民的最后已知地址进行有针对性的监视”外，几乎没有提供其他细节。据DHS称，“一名非法移民乘坐车辆离开了住所”，ICE官员进行了追捕。该机构没有说明离开住所的人就是被监视地址的那个人。DHS表示，比迪福德警察局和联邦调查局（FBI）“已赶到现场”。移民倡导者表示，被枪杀的人是一名26岁的哥伦比亚男子，他有权在美国工作，并有社会安全号码，但他们没有透露他的姓名，也没有说明他们是如何识别他的。缅因州移民权利联盟和Presente! Maine在一份联合声明中表示：“这是毁灭性的、令人愤怒的、不可接受的。”\n\n不断升级的执法行动。周一在缅因州发生的ICE枪杀事件，以及上周二在得克萨斯州发生的事件，使自2025年1月唐纳德·特朗普总统重返白宫并发起大规模驱逐运动以来，在移民执法行动中被枪杀的人数至少达到7人。最近几周，全国范围内的移民搜捕行动进一步增加。根据路透社从一位消息人士处获得的ICE内部数据，自6月初以来，缅因州的ICE逮捕人数增加了三倍多，到7月初达到每天约70人。周一的大部分时间里，关于最新的ICE致命枪击事件，官方细节很少，主要来自民选官员引用各种执法机构与他们分享的二手信息。缅因州参议员安格斯·金（Angus King）是一位政治独立人士，在参议院与民主党人一起参加党团会议，他告诉记者，国土安全部部长马克韦恩·穆林（Markwayne Mullin）告诉他，被ICE枪杀的人是一名20多岁的男子，他“将车辆武器化”对付官员。\n\n金说，据穆林称，被杀男子是“基于其移民身份的逮捕令”的对象。但这位参议员的发言人表示，穆林后来向他传达了新的信息，即受害者不是逮捕令的目标。金表示，对枪击事件的调查不应关注司机的移民身份，而应关注他的行为是否对ICE官员构成威胁，“达到了证明使用致命武力合理的程度。这就是这次调查的全部内容。”目击者描述。一位目击者，71岁的丹尼尔·布歇（Daniel Boucher），是住在比迪福德市中心的一名护理员和兼职绘图员，他告诉路透社，早上7点30分左右，他在公寓二楼听到像鞭炮一样的声音。他跑到窗户边，看到一辆白色SUV撞上了一辆较小的白色轿车。他回忆说，跑到街上后，从仅6米远的一个有利位置，他看到一名ICE官员从SUV里出来，打开轿车的一扇门，把司机拉了出来，并补充说该男子脸上和头上都有血。\n\n“我记得听到受害者说，‘但我试图停下来，’”布歇说，然后受伤的男子似乎停止了呼吸。布歇描述说，现场的一名官员看起来“非常沮丧，几乎处于震惊状态”。在一段经路透社核实的视频片段中，可以看到那辆白色轿车似乎漫无目的地蜿蜒行驶，两名穿着背心的男子试图徒步阻止它，但尚不清楚这段视频是在枪击前还是枪击后拍摄的。路透社的一张照片显示，轿车被装上平板拖车后，驾驶员一侧的挡风玻璃明显被四个看起来像弹孔的东西穿透。抗议活动爆发。当天晚些时候，数十名示威者举着标语，高喊口号，从比迪福德的一个公园游行约四分之一英里，到达共和党参议员苏珊·柯林斯（Susan Collins）的办公室，她今年正在竞选连任。十名抗议者进入大楼门厅，高喊“ICE滚出去！”和“投票让她下台！”，并尖叫着脏话。\n\n没有逮捕或暴力事件。周一晚上，大约200名抗议者举着横幅，高喊“ICE滚出缅因州”，穿过小镇。集会在Mechanics Park达到高潮，人群中的成员点燃蜡烛，展示表达支持移民的书面信息。这起枪击事件发生六天前，休斯顿西班牙裔聚居的东区的一名ICE特工在一次交通拦截中枪杀了一名52岁的男子洛伦佐·萨尔加多·阿劳霍（Lorenzo Salgado Araujo），该机构称这是一次有针对性的移民执法行动。ICE在那次枪击事件后发表声明称，萨尔加多是一名墨西哥公民，在美国非法居留超过三十年，他用面包车撞击了一辆执法车辆，并试图碾压一名特工，该特工出于自卫开枪。该机构没有提供证据支持其说法。\n\n在过去一年中，类似的ICE和DHS关于使用武力的初步声明有时会被视频片段或其他证据（有时在法庭上）所推翻。"
+    },
+    {
+      "id": 3,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-06/UN-chief-warns-AI-outpaces-oversight-urges-child-protection-rules-1OyJvDZdPnq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "UN chief warns AI outpaces oversight, urges child protection rules",
+      "titleCn": "联合国秘书长警告人工智能发展超越监管，呼吁制定儿童保护规则",
+      "summary": "UN Secretary-General Antonio Guterres on Monday warned that artificial intelligence is developing faster than anyone ‌can keep up, calling for globally harmonised rules to reduce potential risks – especially to children.",
+      "summaryCn": "联合国秘书长古特雷斯在首次全球人工智能治理对话中警告AI发展速度超越监管能力，并呼吁优先制定保护儿童安全的全球统一规则。",
+      "wordCount": 484,
+      "paragraphs": [
+        {
+          "en": "UN Secretary-General Antonio Guterres gives an address during the opening ceremony of the Global Dialogue on AI Governance, at the Palexpo, in Geneva, Switzerland, 06 July 2026. UN Secretary-General Antonio Guterres on Monday warned that artificial intelligence is developing faster than anyone can keep up, calling for globally harmonised rules to reduce potential risks – especially to children. \"A technology that can reshape economies, {{4}} the world of work, {{5}} elections and {{6}} the balance of security is being {{7}} faster than anyone, including the people building it, can keep up,\" Guterres told delegates at the first-ever government-level global dialogue on AI in Geneva. \"Innovation needs {{8}}.… If AI is to be powerful, it must be {{9}},\" Guterres told delegates. The two-day {{10}} UN Global Dialogue on AI Governance is not intended to {{11}} a treaty, but to discuss how to set rules to {{12}} the potential harms of AI and take advantage of its opportunities. Delegates will consider a report by a UN-backed independent scientific panel of 40 experts, who will present their findings from the first global, independent scientific assessment of AI.",
+          "cn": "联合国秘书长安东尼奥·古特雷斯于2026年7月6日在瑞士日内瓦帕尔展览中心举行的全球人工智能治理对话开幕式上发表讲话。联合国秘书长古特雷斯周一警告称，人工智能的发展速度超过了任何人的跟进能力，呼吁制定全球统一的规则以减少潜在风险——尤其是对儿童的风险。古特雷斯在日内瓦举行的首次政府级全球人工智能对话中对代表们表示：“一项能够重塑经济、改变工作世界、影响选举并改变安全平衡的技术，其部署速度超过了任何人，包括其建造者的跟进能力。”他补充道：“创新需要护栏……如果人工智能要强大，就必须受到治理。”为期两天的首届联合国全球人工智能治理对话并非旨在达成条约，而是讨论如何制定规则以减轻人工智能的潜在危害并利用其机遇。代表们将审议由联合国支持的独立科学专家小组（由40名专家组成）的报告，该报告将呈现首次全球独立科学评估人工智能的发现。"
+        },
+        {
+          "en": "A more {{23}} report is planned next year, alongside a second global meeting in New York. Need for global rules on AI\nGuterres stressed that globally harmonised rules on AI must {{24}} safety for children after examples of minors being {{13}} towards self-harm and being {{14}} by machines {{15}} as friends. \"We do not let medicine reach a child until it is proven safe. We test every toy. Yet AI has reached our children – their learning, their friendships, their most private questions – before anyone asked what it would do to them,\" he said. He called for an AI Child Safety Pledge, where companies building systems would have to prove they are safe before making them {{25}} to children.",
+          "cn": "明年计划发布一份更全面的报告，同时在纽约举行第二次全球会议。关于人工智能全球规则的必要性，古特雷斯强调，在出现未成年人被引导自残或被伪装成朋友的机器欺骗的案例后，全球统一的人工智能规则必须优先考虑儿童安全。他说：“我们不会让药物在证明安全之前到达儿童手中。我们测试每一件玩具。然而，人工智能已经触及我们的孩子——他们的学习、他们的友谊、他们最私密的问题——却没有人问过它会对他们造成什么影响。”他呼吁制定一项人工智能儿童安全承诺，要求构建系统的公司在向儿童开放使用前必须证明其安全性。"
+        },
+        {
+          "en": "Systems should also not be allowed to generate sexual images of children, and when a child shows signs of {{17}}, the system should stop and connect them to a human for help. While AI poses significant opportunities, such as in healthcare, Guterres said the world's institutions were not prepared for machines that make decisions – and that AI's {{18}} speed of development meant machines were increasingly making choices with little human or government {{1}}. \"The internet took 15 years to reach a billion people. AI got there in two,\" Guterres told delegates. He also warned about the {{19}} of the most advanced AI systems within a handful of companies and countries, meaning developing countries have little say in the progress of AI and risk being left behind. The independent report of scientific experts found that AI development is even more concentrated, with the US {{20}} for 75% of the computing power among the world's top 500 AI supercomputers, and China 15%.",
+          "cn": "系统也不应被允许生成儿童性图像，当儿童表现出痛苦迹象时，系统应停止运行并连接人类寻求帮助。尽管人工智能在医疗保健等领域带来了重大机遇，但古特雷斯表示，世界机构尚未准备好应对能够做出决策的机器——人工智能的飞速发展意味着机器在几乎没有人类或政府监督的情况下做出越来越多的选择。古特雷斯对代表们说：“互联网用了15年时间才达到十亿用户。人工智能只用了两年。”他还警告称，最先进的人工智能系统集中在少数公司和少数国家，这意味着发展中国家在人工智能进展中几乎没有发言权，并面临被落下的风险。独立科学专家报告发现，人工智能发展甚至更加集中，美国占全球前500名人工智能超级计算机计算能力的75%，中国占15%。"
+        },
+        {
+          "en": "While globally over a billion people now use conversational AI weekly, {{22}} in developing countries {{21}}, the report added.",
+          "cn": "报告补充说，尽管全球每周有超过十亿人使用对话式人工智能，但发展中国家的采用率仍然滞后。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "oversight",
+          "hint": "n. 监督",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "transform",
+          "hint": "v. 改变",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "sway",
+          "hint": "v. 影响",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "tilt",
+          "hint": "v. 倾斜",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "deployed",
+          "hint": "v. 部署",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "guardrails",
+          "hint": "n. 护栏",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "governed",
+          "hint": "v. 治理",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "inaugural",
+          "hint": "adj. 首次的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "forge",
+          "hint": "v. 达成",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "mitigate",
+          "hint": "v. 减轻",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "steered",
+          "hint": "v. 引导",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "deceived",
+          "hint": "v. 欺骗",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "posing",
+          "hint": "v. 伪装",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "distress",
+          "hint": "n. 痛苦",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "breakneck",
+          "hint": "adj. 极快的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "concentration",
+          "hint": "n. 集中",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "accounting",
+          "hint": "v. 占",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "lags",
+          "hint": "v. 滞后",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "adoption",
+          "hint": "n. 采用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "comprehensive",
+          "hint": "adj. 全面的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "prioritise",
+          "hint": "v. 优先考虑",
           "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "biodiversity",
-          "hint": "n. 生物多样性",
+          "answer": "accessible",
+          "hint": "adj. 可使用的",
           "difficulty": "medium"
         }
       ],
-      "fullText": "\"Only if we understand, will we care. Only if we care, will we help. Only if we help shall all be saved.\" The famous words of renowned primatologist Jane Goodall greet visitors at Xining Wildlife Park.\nMore than just a zoo, Xining Wildlife Park is also known as the Qinghai Wildlife Rescue and Breeding Center, an institution dedicated to wildlife rescue, rehabilitation, breeding research and conservation education. Since 2010, it has rescued more than 2,700 wild animals from over 60 species, with around one-third successfully released back into the wild.\nAmong its best-known residents are four iconic highland predators – the snow leopard, Eurasian lynx, Pallas's cat and Chinese mountain cat. Their stories have become a window into wildlife conservation on the Qinghai-Xizang Plateau.\nLing Xiaozhe, a rescued snow leopard, after a period of rehabilitation. /Xining Wildlife Park\nThe snow leopard is the park's biggest star. In March 2025, a severely injured cub was found in the Sanjiangyuan area. Rescue workers drove hundreds of kilometers to bring the cub, later named Ling Xiaozhe, to Xining for emergency treatment. His injuries were likely caused by a fall from a significant height, leaving him with a fractured cervical spine, systemic inflammation and hypothermia. After months of intensive care, he gradually recovered, while his rescue attracted nationwide attention through livestreams that offered the public a rare look inside China's wildlife rescue efforts.\n\"Ling Xiaozhe's rescue has advanced our work in rescuing endangered wildlife, conservation communication and public education,\" said He Shunfu, head of the rescue department at the Qinghai Wildlife Rescue and Breeding Center.\n\"Whenever an animal has a chance to return to the wild, we do everything we can to make it happen,\" said veterinarian Wang Lu. \"So far, the center has successfully released three rescued snow leopards.\"\nAdult snow leopards can often be released after rehabilitation, but cubs rescued at a very young age often cannot survive independently in the wild, as they miss the opportunity to learn hunting and survival skills from their mothers, explained veterinarian Zhao Hailong.\nEven so, these animals continue to make important contributions. Veterinary examinations and long-term monitoring have helped researchers establish valuable baseline data on snow leopard anesthesia, health indicators and medical treatment, improving future rescue efforts for wild populations.\nOngoing conservation efforts at both the national and local levels have improved habitat quality and supported a steady increase in the snow leopard population. Today, Qinghai is home to an estimated 1,200 snow leopards, making it one of the world's most important habitats for this species.\nThe other three species each tell their own conservation story. The Eurasian lynx, recognizable by its distinctive black ear tufts, is considered an important indicator of ecosystem health.\nThe Pallas's cat, famous for its expressive face and exceptionally dense fur, helps maintain ecological balance by preying on pikas and other small mammals.\nA rescued Pallas's cat with its characteristically expressive face. /Xining Wildlife Park\nThe Chinese mountain cat is a species found only in China and listed as a national first-class protected animal. In 2024, the park successfully released a Chinese mountain cat fitted with a satellite tracking collar, allowing researchers to study its movements while enabling faster rescue if the animal encounters danger.\nA view of a rescued Chinese mountain cat. /Xining Wildlife Park\nBehind these four animals lies a much bigger conservation story. From emergency rescue and veterinary care to scientific research, conservation breeding, public education and reintroduction, their stories reflect China's growing commitment to biodiversity conservation.\nWith major biodiversity conservation projects included in China's 15th Five-Year Plan for achieving the Beautiful China vision, institutions like Xining Wildlife Park are helping bridge the gap between science and public awareness. Every rescued animal deepens scientific understanding, every successful release strengthens wild populations, and every story inspires more people to care about the future of wildlife.",
-      "fullTextCn": "“唯有了解，我们才会关心；唯有关心，我们才会行动；唯有行动，生命才有希望。”著名灵长类动物学家珍·古道尔的这句名言迎接着西宁野生动物园的游客。西宁野生动物园不仅仅是一座动物园，它也被称为青海野生动物救护繁育中心，是一个致力于野生动物救援、康复、繁育研究和保护教育的机构。自2010年以来，它已救助了来自60多个物种的2700多只野生动物，其中约三分之一成功放归野外。\n\n在其最著名的居民中，有四种标志性的高原食肉动物——雪豹、欧亚猞猁、兔狲和荒漠猫。它们的故事已成为了解青藏高原野生动物保护的一扇窗口。雪豹是动物园里最大的明星。2025年3月，在三江源地区发现了一只严重受伤的幼崽。\n\n救援人员驱车数百公里，将这只后来被命名为“凌小蛰”的幼崽送往西宁进行紧急治疗。它的伤势很可能是从高处坠落造成的，导致颈椎骨折、全身炎症和体温过低。经过数月的精心护理，它逐渐康复，而它的救援过程通过直播引起了全国关注，让公众难得一窥中国野生动物救援工作的内部情况。“凌小蛰的救援推进了我们在濒危野生动物救援、保护传播和公众教育方面的工作，”青海野生动物救护繁育中心救护部主任何顺福说。“只要动物有机会重返野外，我们就会尽一切努力实现它，”兽医王璐说。\n\n“到目前为止，该中心已成功放归了三只获救的雪豹。”兽医赵海龙解释说，成年雪豹在康复后通常可以放归，但很小就被救起的幼崽往往无法在野外独立生存，因为它们错过了向母亲学习捕猎和生存技能的机会。即便如此，这些动物仍在做出重要贡献。兽医检查和长期监测帮助研究人员建立了关于雪豹麻醉、健康指标和医疗处理的宝贵基线数据，改善了未来对野生种群的救援工作。国家和地方层面的持续保护工作改善了栖息地质量，并支持了雪豹种群的稳步增长。如今，青海估计有1200只雪豹，使其成为该物种在全球最重要的栖息地之一。\n\n其他三种物种各自讲述着自己的保护故事。欧亚猞猁以其独特的黑色耳簇而闻名，被认为是生态系统健康的重要指标。兔狲以其富有表情的面孔和异常浓密的皮毛而闻名，通过捕食鼠兔和其他小型哺乳动物来维持生态平衡。荒漠猫是中国特有的物种，被列为国家一级保护动物。\n\n2024年，该园成功放归了一只佩戴卫星追踪项圈的荒漠猫，使研究人员能够研究其活动，同时在动物遇到危险时能更快地实施救援。在这四种动物背后，是一个更大的保护故事。从紧急救援和兽医护理到科学研究、保护性繁育、公众教育和再引入，它们的故事反映了中国对生物多样性保护日益增长的承诺。随着重大生物多样性保护项目被纳入中国实现“美丽中国”愿景的“十五五”规划，像西宁野生动物园这样的机构正在帮助弥合科学与公众意识之间的鸿沟。\n\n每一只获救的动物都加深了科学理解，每一次成功的放归都加强了野生种群，每一个故事都激励着更多人关心野生动物的未来。"
+      "fullText": "UN Secretary-General Antonio Guterres gives an address during the opening ceremony of the Global Dialogue on AI Governance, at the Palexpo, in Geneva, Switzerland, 06 July 2026. \nUN Secretary-General Antonio Guterres on Monday warned that artificial intelligence is developing faster than anyone can keep up, calling for globally harmonised rules to reduce potential risks – especially to children.\n\"A technology that can reshape economies, transform the world of work, sway elections and tilt the balance of security is being deployed faster than anyone, including the people building it, can keep up,\" Guterres told delegates at the first-ever government-level global dialogue on AI in Geneva.\n\"Innovation needs guardrails.… If AI is to be powerful, it must be governed,\" Guterres told delegates.\nThe two-day inaugural UN Global Dialogue on AI Governance is not intended to forge a treaty, but to discuss how to set rules to mitigate the potential harms of AI and take advantage of its opportunities.\nDelegates will consider a report by a UN-backed independent scientific panel of 40 experts, who will present their findings from the first global, independent scientific assessment of AI.\nA more comprehensive report is planned next year, alongside a second global meeting in New York.\nNeed for global rules on AI\nGuterres stressed that globally harmonised rules on AI must prioritise safety for children after examples of minors being steered towards self-harm and being deceived by machines posing as friends.\n\"We do not let medicine reach a child until it is proven safe. We test every toy. Yet AI has reached our children – their learning, their friendships, their most private questions – before anyone asked what it would do to them,\" he said.\nHe called for an AI Child Safety Pledge, where companies building systems would have to prove they are safe before making them accessible to children.\nSystems should also not be allowed to generate sexual images of children, and when a child shows signs of distress, the system should stop and connect them to a human for help.\nWhile AI poses significant opportunities, such as in healthcare, Guterres said the world's institutions were not prepared for machines that make decisions – and that AI's breakneck speed of development meant machines were increasingly making choices with little human or government oversight.\n\"The internet took 15 years to reach a billion people. AI got there in two,\" Guterres told delegates.\nHe also warned about the concentration of the most advanced AI systems within a handful of companies and countries, meaning developing countries have little say in the progress of AI and risk being left behind.\nThe independent report of scientific experts found that AI development is even more concentrated, with the US accounting for 75% of the computing power among the world's top 500 AI supercomputers, and China 15%.\nWhile globally over a billion people now use conversational AI weekly, adoption in developing countries lags, the report added.",
+      "fullTextCn": "联合国秘书长安东尼奥·古特雷斯于2026年7月6日在瑞士日内瓦帕尔展览中心举行的全球人工智能治理对话开幕式上发表讲话。联合国秘书长古特雷斯周一警告称，人工智能的发展速度超过了任何人的跟进能力，呼吁制定全球统一的规则以减少潜在风险——尤其是对儿童的风险。古特雷斯在日内瓦举行的首次政府级全球人工智能对话中对代表们表示：“一项能够重塑经济、改变工作世界、影响选举并改变安全平衡的技术，其部署速度超过了任何人，包括其建造者的跟进能力。”他补充道：“创新需要护栏……如果人工智能要强大，就必须受到治理。”为期两天的首届联合国全球人工智能治理对话并非旨在达成条约，而是讨论如何制定规则以减轻人工智能的潜在危害并利用其机遇。代表们将审议由联合国支持的独立科学专家小组（由40名专家组成）的报告，该报告将呈现首次全球独立科学评估人工智能的发现。\n\n明年计划发布一份更全面的报告，同时在纽约举行第二次全球会议。关于人工智能全球规则的必要性，古特雷斯强调，在出现未成年人被引导自残或被伪装成朋友的机器欺骗的案例后，全球统一的人工智能规则必须优先考虑儿童安全。他说：“我们不会让药物在证明安全之前到达儿童手中。我们测试每一件玩具。然而，人工智能已经触及我们的孩子——他们的学习、他们的友谊、他们最私密的问题——却没有人问过它会对他们造成什么影响。”他呼吁制定一项人工智能儿童安全承诺，要求构建系统的公司在向儿童开放使用前必须证明其安全性。\n\n系统也不应被允许生成儿童性图像，当儿童表现出痛苦迹象时，系统应停止运行并连接人类寻求帮助。尽管人工智能在医疗保健等领域带来了重大机遇，但古特雷斯表示，世界机构尚未准备好应对能够做出决策的机器——人工智能的飞速发展意味着机器在几乎没有人类或政府监督的情况下做出越来越多的选择。古特雷斯对代表们说：“互联网用了15年时间才达到十亿用户。人工智能只用了两年。”他还警告称，最先进的人工智能系统集中在少数公司和少数国家，这意味着发展中国家在人工智能进展中几乎没有发言权，并面临被落下的风险。独立科学专家报告发现，人工智能发展甚至更加集中，美国占全球前500名人工智能超级计算机计算能力的75%，中国占15%。\n\n报告补充说，尽管全球每周有超过十亿人使用对话式人工智能，但发展中国家的采用率仍然滞后。"
     },
     {
       "id": 4,
       "category": "military",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-14/How-is-China-protecting-the-South-China-Sea-on-all-fronts--1OLGwRpgV2M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "How is China protecting the South China Sea on all fronts?",
-      "titleCn": "中国如何全方位守护南海？",
-      "summary": "How is China protecting the South China Sea on all fronts?",
-      "summaryCn": "中国通过岛屿绿化、珊瑚礁修复、野生动物恢复和先进技术应用，在南海生态保护方面取得显著进展。",
-      "wordCount": 555,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-14/China-s-top-diplomat-holds-talks-with-Solomon-Islands-FM-1OMfu8qL0gU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "China's top diplomat holds talks with Solomon Islands FM",
+      "titleCn": "中国外长与所罗门群岛外长举行会谈",
+      "summary": "Chinese Foreign Minister Wang Yi held talks with Rick Houenipwela, minister for foreign affairs and external trade of the Solomon Islands, in Beijing on Tuesday.",
+      "summaryCn": "中国外交部长王毅与所罗门群岛外长举行会谈，强调深化双边合作并支持南南合作。",
+      "wordCount": 323,
       "paragraphs": [
         {
-          "en": "Editor's Note: Ten years after the so-called \"South China Sea Arbitration Award\" case, CGTN presents a special series examining China's position on the South China Sea from four {{0}}. Drawing on historical evidence and insights from Chinese and international experts, the series seeks to highlight that, rather than resolving disputes, the so-called arbitration has become a {{1}} {{2}} – fueling {{3}}, {{4}} the application of international law, and {{5}} peace and stability in the region. China has made significant progress in marine {{6}} protection across the South China Sea in recent years, transforming once-barren reefs into {{7}} {{8}} through sustained conservation efforts, scientific innovation and robust {{9}}. Island greening\nOn Yongshu Reef in the Nansha Qundao, what foreign experts once {{10}} as having a plant {{11}} rate of less than 5% has been {{12}} into a \"marine forest.\" The number of plant {{13}} on the reef has grown from fewer than 20 to over 120, with greenery rates now {{14}} many urban planning standards, Zhong Chaohua, a member of the island-reef ecological and environmental protection management authorities, told Science and Technology Daily in December 2025. Through {{15}} organic {{16}} methods, the reef's sand {{17}} dropped from 1.38‰ to 0.443‰, boosting plant survival rates to over 90%.",
-          "cn": "编者按：在所谓的“南海仲裁案”十年后，CGTN推出特别系列，从四个角度审视中国在南海的立场。该系列基于历史证据以及中外专家的见解，旨在强调所谓的仲裁非但没有解决争端，反而成为一份有毒的遗产——加剧对抗、扭曲国际法的适用，并破坏地区的和平与稳定。近年来，中国在南海海洋生态保护方面取得了重大进展，通过持续的保护努力、科学创新和强有力的治理，将曾经贫瘠的礁石转变为繁荣的生态系统。岛屿绿化：在南沙群岛的永暑礁，外国专家曾认为植物存活率不到5%的地方，如今已变成一片“海上森林”。岛屿礁石生态环境保护管理机构的成员钟朝华在2025年12月告诉《科技日报》，礁石上的植物种类已从不到20种增加到120多种，绿化率现已超过许多城市规划标准。通过创新的有机施肥方法，礁石的沙质盐度从1.38‰降至0.443‰，植物存活率提高到90%以上。"
-        },
-        {
-          "en": "Coral reef {{18}}\nAn aerial view of the Weizhou Island, south China's Guangxi Zhuang Autonomous Region, March 20, 2026. Around Weizhou Island off the coast of south China's Guangxi Zhuang Autonomous Region, a 2,000-square-meter restoration demonstration zone built by a research team from Guangxi University's School of Marine Sciences saw live coral {{19}} rise from approximately 5% to 20% in just three years. \"In 2023, with strong support from the Beihai municipal government and the Weizhou Island Management Committee, the team further deployed 1,520 artificial reefs and {{20}} more than 80,000 coral {{21}}, restoring 450 mu (about 30 hectares) of sea area,\" said Huang Wen, an associate professor at Guangxi University's School of Marine Sciences. Coral species increased from 46 to 62, and the area has become the only part of China's coastal waters where large whales are regularly sighted. Wildlife recovery\nA green sea turtle in the sea.",
-          "cn": "珊瑚礁修复：2026年3月20日，中国南部广西壮族自治区的涠洲岛鸟瞰图。在广西壮族自治区沿海的涠洲岛周围，由广西大学海洋学院研究团队建立的一个2000平方米的修复示范区，在短短三年内，活珊瑚覆盖率从大约5%上升到20%。广西大学海洋学院副教授黄文说：“2023年，在北海市政府和涠洲岛管理委员会的大力支持下，该团队进一步部署了1520个人工礁，移植了超过8万株珊瑚，恢复了450亩（约30公顷）的海域。”珊瑚种类从46种增加到62种，该区域已成为中国沿海水域中唯一经常发现大型鲸鱼的地方。野生动物恢复：一只绿海龟在海中。"
-        },
-        {
-          "en": "/South China Sea Institute of Oceanology, Chinese Academy of Sciences\nIn June, a scientific expedition team from the Chinese Academy of Sciences' South China Sea Institute of Oceanology discovered a large population of green sea turtles – a nationally protected wild animal – in the seagrass beds of Huangyan Dao's lagoon, with {{22}} observations counting more than 50 individuals. The discovery, made possible by drone-based survey technology, indicates that the lagoon has developed a mature coral reef-seagrass {{23}} ecosystem, providing an ideal habitat for ecologically important marine species. Technology at the forefront\nPicture of mangroves took during the remote sensing monitoring mission. /South China Sea Bureau of the Ministry of Natural Resources\nAdvanced technology is enhancing the precision of conservation efforts. In January, the South China Sea Bureau of the Ministry of Natural Resources completed its first comprehensive remote sensing monitoring mission for mangroves across the region.",
-          "cn": "中国科学院南海海洋研究所：6月，中国科学院南海海洋研究所的一个科学考察队在黄岩岛泻湖的海草床中发现了一个大型绿海龟种群——这是一种国家保护的野生动物，初步观察统计超过50只。这一发现得益于无人机调查技术，表明泻湖已发展出成熟的珊瑚礁-海草复合生态系统，为生态重要的海洋物种提供了理想的栖息地。技术前沿：红树林遥感监测任务中的图片。自然资源部南海局：先进技术正在提高保护工作的精确度。1月，自然资源部南海局完成了该地区首次全面的红树林遥感监测任务。"
-        },
-        {
-          "en": "The mission successfully monitored over 20,000 mangrove patches, identified 39 sites of human disturbance, and assessed 174 restoration projects, securing two national invention patents in the process. On Zhubi Reef, an ocean environment monitoring station now provides round-the-clock {{24}} of surrounding waters, with water temperature, salinity and pH readings updated every 10 minutes.",
-          "cn": "该任务成功监测了超过2万片红树林，识别了39处人为干扰地点，评估了174个修复项目，并在此过程中获得了两项国家发明专利。在渚碧礁，一个海洋环境监测站现在对周围水域提供全天候监控，每10分钟更新一次水温、盐度和pH值读数。"
+          "en": "Chinese Foreign Minister Wang Yi, also a member of the Political Bureau of the Communist Party of China (CPC) Central Committee, {{0}} {{1}} with Rick Houenipwela, minister for foreign affairs and external trade of the Solomon Islands, in Beijing, China, July 14, 2026. /Chinese Foreign Ministry\nChinese Foreign Minister Wang Yi held talks with Rick Houenipwela, minister for foreign affairs and external trade of the Solomon Islands, in Beijing on Tuesday. Wang, also a member of the Political Bureau of the Communist Party of China Central Committee, said that since the {{2}} of {{3}} relations between China and the Solomon Islands in 2019, {{4}} relations have {{5}} strong development, adding that bilateral {{14}} has achieved {{6}} results in various fields and brought {{7}} to the people of the Solomon Islands. China is willing to make joint efforts with the new government of the Solomon Islands to {{8}} {{9}} at all levels, maintain sound cooperation in various fields, and continue to take China-Solomon Islands {{10}} {{11}} {{12}} for a new era to new heights, Wang said. Noting that China's development of relations with Pacific island countries is aimed at {{13}} South-South cooperation and {{15}} common development, Wang said that this should not be {{16}} by any third party. Wang also said that Pacific island nations have the right to {{17}} choose their development partners. Noting that the Solomon Islands attaches great importance to its relations with China, Houenipwela expressed gratitude to China for its long-term and positive {{18}} to the economic and social development of the Solomon Islands. Houenipwela said the Solomon Islands is firmly {{19}} to the one-China principle, supports the vision of building a community with a shared future for humanity and the four major global {{20}}, and is willing to make active efforts to deepen relations between Pacific island nations and China, while continuing to step up coordination and cooperation with China within multilateral organizations such as the UN and WTO.",
+          "cn": "中国外交部长王毅，同时也是中共中央政治局委员，于2026年7月14日在北京与所罗门群岛外交与外贸部长里克·霍尼普韦拉举行会谈。/中国外交部\n中国外交部长王毅周二在北京与所罗门群岛外交与外贸部长里克·霍尼普韦拉举行会谈。王毅，中共中央政治局委员，表示自2019年中国与所罗门群岛建立外交关系以来，双边关系保持强劲发展，双边合作在各个领域取得了切实成果，为所罗门群岛人民带来了福祉。中国愿与所罗门群岛新政府共同努力，深化各级别沟通，保持各领域良好合作，继续将新时代中国-所罗门群岛全面战略伙伴关系推向新高度。王毅指出，中国发展与太平洋岛国关系旨在加强南南合作、促进共同发展，不应受到任何第三方干扰。王毅还表示，太平洋岛国有权自主选择发展伙伴。霍尼普韦拉表示，所罗门群岛高度重视与中国的关系，感谢中国长期以来对所罗门群岛经济社会发展的积极援助。霍尼普韦拉说，所罗门群岛坚定奉行一个中国原则，支持构建人类命运共同体愿景和四大全球倡议，愿为深化太平洋岛国与中国的关系作出积极努力，同时继续在联合国和世贸组织等多边组织内加强与中国的协调与合作。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "perspectives",
-          "hint": "n. 视角",
-          "difficulty": "medium"
+          "answer": "holds",
+          "hint": "v. 举行",
+          "difficulty": "easy"
         },
         {
           "id": 1,
-          "answer": "poisoned",
-          "hint": "adj. 有毒的",
-          "difficulty": "hard"
+          "answer": "talks",
+          "hint": "n. 会谈",
+          "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "legacy",
-          "hint": "n. 遗产",
+          "answer": "establishment",
+          "hint": "n. 建立",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "confrontation",
-          "hint": "n. 对抗",
-          "difficulty": "hard"
+          "answer": "diplomatic",
+          "hint": "adj. 外交的",
+          "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "distorting",
-          "hint": "v. 扭曲",
-          "difficulty": "hard"
+          "answer": "bilateral",
+          "hint": "adj. 双边的",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "undermining",
-          "hint": "v. 破坏",
-          "difficulty": "hard"
+          "answer": "maintained",
+          "hint": "v. 保持",
+          "difficulty": "medium"
         },
         {
           "id": 6,
+          "answer": "tangible",
+          "hint": "adj. 切实的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "benefits",
+          "hint": "n. 福祉",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "deepen",
+          "hint": "v. 深化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "communication",
+          "hint": "n. 沟通",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "comprehensive",
+          "hint": "adj. 全面的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "strategic",
+          "hint": "adj. 战略的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "partnership",
+          "hint": "n. 伙伴关系",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "strengthening",
+          "hint": "v. 加强",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "cooperation",
+          "hint": "n. 合作",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "promoting",
+          "hint": "v. 促进",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "disrupted",
+          "hint": "v. 干扰",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "independently",
+          "hint": "adv. 自主地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "assistance",
+          "hint": "n. 援助",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
+          "answer": "committed",
+          "hint": "adj. 坚定的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "initiatives",
+          "hint": "n. 倡议",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Chinese Foreign Minister Wang Yi, also a member of the Political Bureau of the Communist Party of China (CPC) Central Committee, holds talks with Rick Houenipwela, minister for foreign affairs and external trade of the Solomon Islands, in Beijing, China, July 14, 2026. /Chinese Foreign Ministry\nChinese Foreign Minister Wang Yi held talks with Rick Houenipwela, minister for foreign affairs and external trade of the Solomon Islands, in Beijing on Tuesday.\nWang, also a member of the Political Bureau of the Communist Party of China Central Committee, said that since the establishment of diplomatic relations between China and the Solomon Islands in 2019, bilateral relations have maintained strong development, adding that bilateral cooperation has achieved tangible results in various fields and brought benefits to the people of the Solomon Islands.\nChina is willing to make joint efforts with the new government of the Solomon Islands to deepen communication at all levels, maintain sound cooperation in various fields, and continue to take China-Solomon Islands comprehensive strategic partnership for a new era to new heights, Wang said.\nNoting that China's development of relations with Pacific island countries is aimed at strengthening South-South cooperation and promoting common development, Wang said that this should not be disrupted by any third party.\nWang also said that Pacific island nations have the right to independently choose their development partners.\nNoting that the Solomon Islands attaches great importance to its relations with China, Houenipwela expressed gratitude to China for its long-term and positive assistance to the economic and social development of the Solomon Islands.\nHouenipwela said the Solomon Islands is firmly committed to the one-China principle, supports the vision of building a community with a shared future for humanity and the four major global initiatives, and is willing to make active efforts to deepen relations between Pacific island nations and China, while continuing to step up coordination and cooperation with China within multilateral organizations such as the UN and WTO.",
+      "fullTextCn": "中国外交部长王毅，同时也是中共中央政治局委员，于2026年7月14日在北京与所罗门群岛外交与外贸部长里克·霍尼普韦拉举行会谈。/中国外交部\n中国外交部长王毅周二在北京与所罗门群岛外交与外贸部长里克·霍尼普韦拉举行会谈。王毅，中共中央政治局委员，表示自2019年中国与所罗门群岛建立外交关系以来，双边关系保持强劲发展，双边合作在各个领域取得了切实成果，为所罗门群岛人民带来了福祉。中国愿与所罗门群岛新政府共同努力，深化各级别沟通，保持各领域良好合作，继续将新时代中国-所罗门群岛全面战略伙伴关系推向新高度。王毅指出，中国发展与太平洋岛国关系旨在加强南南合作、促进共同发展，不应受到任何第三方干扰。王毅还表示，太平洋岛国有权自主选择发展伙伴。霍尼普韦拉表示，所罗门群岛高度重视与中国的关系，感谢中国长期以来对所罗门群岛经济社会发展的积极援助。霍尼普韦拉说，所罗门群岛坚定奉行一个中国原则，支持构建人类命运共同体愿景和四大全球倡议，愿为深化太平洋岛国与中国的关系作出积极努力，同时继续在联合国和世贸组织等多边组织内加强与中国的协调与合作。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-16/Global-mayors-advance-vision-for-green-inclusive-urban-development-1OPfDtaffRC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Global mayors advance vision for green, inclusive urban development",
+      "titleCn": "全球市长推进绿色包容性城市发展愿景",
+      "summary": "City leaders from around the world gathered in Xishuangbanna, southwest China's Yunnan Province, from July 14 to 16 for the 2026 Global Mayors Dialogue, where they exchanged views on sustainable urban development and called for deeper cooperation in promoting harmony between urban growth and ecological conservation.",
+      "summaryCn": "2026年全球市长对话在中国西双版纳举行，与会者通过《西双版纳倡议》推动绿色、包容和互联的城市发展。",
+      "wordCount": 276,
+      "paragraphs": [
+        {
+          "en": "The 2026 Global Mayors {{0}} is held in Xishuangbanna, southwest China's Yunnan Province, from July 14 to 16, 2026. /CMG\nCity leaders from around the world {{1}} in Xishuangbanna, southwest China's Yunnan Province, from July 14 to 16 for the 2026 Global Mayors Dialogue, where they {{2}} views on {{3}} {{4}} development and called for deeper cooperation in promoting harmony between urban growth and {{5}} {{6}}. Under the theme \"Rainforest & Home: Coexist, Co-create, Share,\" the dialogue brought together {{7}} from countries such as China, Myanmar, Laos, Nepal and Sri Lanka to {{8}} in {{9}} on ecological conservation, sustainable urban development and international cooperation. During the event, participants visited local rainforests, museums and rural communities to gain firsthand {{10}} into Xishuangbanna's efforts in {{11}} conservation, cultural {{22}} and rural {{12}}. Drawing on these exchanges and experiences, the Xishuangbanna Initiative was introduced, {{14}} a shared vision for greener, more {{15}} and {{16}} urban development. The {{13}} calls for greater efforts to protect rainforests, rivers and biodiversity, while promoting green and {{17}} industries and exploring sustainable {{18}} to unlocking the value of ecological resources. It also highlights the importance of strengthening industrial connectivity by {{19}} regional advantages in agriculture, forestry, cultural tourism, {{20}} cultural heritage and trade, as well as facilitating cross-border cooperation and creating more opportunities for local communities. On urban {{21}}, the initiative emphasizes a people-centered approach, calling for improved access to public services, the preservation of cultural heritage and greater inclusion of diverse communities. It further encourages cities to expand exchanges through platforms such as the Global Mayors Dialogue, develop sister-city partnerships, and enhance cooperation in areas including urban governance, talent development and people-to-people exchanges.",
+          "cn": "2026年全球市长对话于7月14日至16日在中国西南部云南省西双版纳举行。/CMG"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "Dialogue",
+          "hint": "n. 对话",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "gathered",
+          "hint": "v. 聚集",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "exchanged",
+          "hint": "v. 交换",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "urban",
+          "hint": "adj. 城市的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
           "answer": "ecological",
           "hint": "adj. 生态的",
           "difficulty": "medium"
         },
         {
-          "id": 7,
-          "answer": "thriving",
-          "hint": "adj. 繁荣的",
+          "id": 6,
+          "answer": "conservation",
+          "hint": "n. 保护",
           "difficulty": "medium"
         },
         {
+          "id": 7,
+          "answer": "representatives",
+          "hint": "n. 代表",
+          "difficulty": "easy"
+        },
+        {
           "id": 8,
-          "answer": "ecosystems",
-          "hint": "n. 生态系统",
+          "answer": "engage",
+          "hint": "v. 参与",
           "difficulty": "medium"
         },
         {
           "id": 9,
+          "answer": "discussions",
+          "hint": "n. 讨论",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "insights",
+          "hint": "n. 见解",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "biodiversity",
+          "hint": "n. 生物多样性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "revitalization",
+          "hint": "n. 振兴",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "initiative",
+          "hint": "n. 倡议",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "outlining",
+          "hint": "v. 概述",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "inclusive",
+          "hint": "adj. 包容的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "interconnected",
+          "hint": "adj. 互联的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "low-carbon",
+          "hint": "adj. 低碳的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "approaches",
+          "hint": "n. 方法",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "leveraging",
+          "hint": "v. 利用",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "intangible",
+          "hint": "adj. 无形的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
           "answer": "governance",
           "hint": "n. 治理",
           "difficulty": "medium"
         },
         {
-          "id": 10,
-          "answer": "dismissed",
-          "hint": "v. 不予考虑",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "survival",
-          "hint": "n. 存活",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "transformed",
-          "hint": "v. 转变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "species",
-          "hint": "n. 物种",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "exceeding",
-          "hint": "v. 超过",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "innovative",
-          "hint": "adj. 创新的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "fertilization",
-          "hint": "n. 施肥",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "salinity",
-          "hint": "n. 盐度",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "restoration",
-          "hint": "n. 修复",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "coverage",
-          "hint": "n. 覆盖率",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "transplanted",
-          "hint": "v. 移植",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "colonies",
-          "hint": "n. 群体",
-          "difficulty": "medium"
-        },
-        {
           "id": 22,
-          "answer": "preliminary",
-          "hint": "adj. 初步的",
+          "answer": "preservation",
+          "hint": "n. 保存",
           "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "composite",
-          "hint": "adj. 复合的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 24,
-          "answer": "surveillance",
-          "hint": "n. 监控",
-          "difficulty": "hard"
         }
       ],
-      "fullText": "Editor's Note: Ten years after the so-called \"South China Sea Arbitration Award\" case, CGTN presents a special series examining China's position on the South China Sea from four perspectives. Drawing on historical evidence and insights from Chinese and international experts, the series seeks to highlight that, rather than resolving disputes, the so-called arbitration has become a poisoned legacy – fueling confrontation, distorting the application of international law, and undermining peace and stability in the region.\nChina has made significant progress in marine ecological protection across the South China Sea in recent years, transforming once-barren reefs into thriving ecosystems through sustained conservation efforts, scientific innovation and robust governance.\nIsland greening\nOn Yongshu Reef in the Nansha Qundao, what foreign experts once dismissed as having a plant survival rate of less than 5% has been transformed into a \"marine forest.\" The number of plant species on the reef has grown from fewer than 20 to over 120, with greenery rates now exceeding many urban planning standards, Zhong Chaohua, a member of the island-reef ecological and environmental protection management authorities, told Science and Technology Daily in December 2025. Through innovative organic fertilization methods, the reef's sand salinity dropped from 1.38‰ to 0.443‰, boosting plant survival rates to over 90%.\nCoral reef restoration\nAn aerial view of the Weizhou Island, south China's Guangxi Zhuang Autonomous Region, March 20, 2026. \nAround Weizhou Island off the coast of south China's Guangxi Zhuang Autonomous Region, a 2,000-square-meter restoration demonstration zone built by a research team from Guangxi University's School of Marine Sciences saw live coral coverage rise from approximately 5% to 20% in just three years.\n\"In 2023, with strong support from the Beihai municipal government and the Weizhou Island Management Committee, the team further deployed 1,520 artificial reefs and transplanted more than 80,000 coral colonies, restoring 450 mu (about 30 hectares) of sea area,\" said Huang Wen, an associate professor at Guangxi University's School of Marine Sciences. Coral species increased from 46 to 62, and the area has become the only part of China's coastal waters where large whales are regularly sighted.\nWildlife recovery\nA green sea turtle in the sea. /South China Sea Institute of Oceanology, Chinese Academy of Sciences\nIn June, a scientific expedition team from the Chinese Academy of Sciences' South China Sea Institute of Oceanology discovered a large population of green sea turtles – a nationally protected wild animal – in the seagrass beds of Huangyan Dao's lagoon, with preliminary observations counting more than 50 individuals.\nThe discovery, made possible by drone-based survey technology, indicates that the lagoon has developed a mature coral reef-seagrass composite ecosystem, providing an ideal habitat for ecologically important marine species.\nTechnology at the forefront\nPicture of mangroves took during the remote sensing monitoring mission. /South China Sea Bureau of the Ministry of Natural Resources\nAdvanced technology is enhancing the precision of conservation efforts.\nIn January, the South China Sea Bureau of the Ministry of Natural Resources completed its first comprehensive remote sensing monitoring mission for mangroves across the region. The mission successfully monitored over 20,000 mangrove patches, identified 39 sites of human disturbance, and assessed 174 restoration projects, securing two national invention patents in the process.\nOn Zhubi Reef, an ocean environment monitoring station now provides round-the-clock surveillance of surrounding waters, with water temperature, salinity and pH readings updated every 10 minutes.",
-      "fullTextCn": "编者按：在所谓的“南海仲裁案”十年后，CGTN推出特别系列，从四个角度审视中国在南海的立场。该系列基于历史证据以及中外专家的见解，旨在强调所谓的仲裁非但没有解决争端，反而成为一份有毒的遗产——加剧对抗、扭曲国际法的适用，并破坏地区的和平与稳定。近年来，中国在南海海洋生态保护方面取得了重大进展，通过持续的保护努力、科学创新和强有力的治理，将曾经贫瘠的礁石转变为繁荣的生态系统。岛屿绿化：在南沙群岛的永暑礁，外国专家曾认为植物存活率不到5%的地方，如今已变成一片“海上森林”。岛屿礁石生态环境保护管理机构的成员钟朝华在2025年12月告诉《科技日报》，礁石上的植物种类已从不到20种增加到120多种，绿化率现已超过许多城市规划标准。通过创新的有机施肥方法，礁石的沙质盐度从1.38‰降至0.443‰，植物存活率提高到90%以上。\n\n珊瑚礁修复：2026年3月20日，中国南部广西壮族自治区的涠洲岛鸟瞰图。在广西壮族自治区沿海的涠洲岛周围，由广西大学海洋学院研究团队建立的一个2000平方米的修复示范区，在短短三年内，活珊瑚覆盖率从大约5%上升到20%。广西大学海洋学院副教授黄文说：“2023年，在北海市政府和涠洲岛管理委员会的大力支持下，该团队进一步部署了1520个人工礁，移植了超过8万株珊瑚，恢复了450亩（约30公顷）的海域。”珊瑚种类从46种增加到62种，该区域已成为中国沿海水域中唯一经常发现大型鲸鱼的地方。野生动物恢复：一只绿海龟在海中。\n\n中国科学院南海海洋研究所：6月，中国科学院南海海洋研究所的一个科学考察队在黄岩岛泻湖的海草床中发现了一个大型绿海龟种群——这是一种国家保护的野生动物，初步观察统计超过50只。这一发现得益于无人机调查技术，表明泻湖已发展出成熟的珊瑚礁-海草复合生态系统，为生态重要的海洋物种提供了理想的栖息地。技术前沿：红树林遥感监测任务中的图片。自然资源部南海局：先进技术正在提高保护工作的精确度。1月，自然资源部南海局完成了该地区首次全面的红树林遥感监测任务。\n\n该任务成功监测了超过2万片红树林，识别了39处人为干扰地点，评估了174个修复项目，并在此过程中获得了两项国家发明专利。在渚碧礁，一个海洋环境监测站现在对周围水域提供全天候监控，每10分钟更新一次水温、盐度和pH值读数。"
-    },
-    {
-      "id": 5,
-      "category": "military",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-15/news-1OMYdwd8mk0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Trump resumes Iran's naval blockade, threatens strikes on power plants",
-      "titleCn": "特朗普恢复对伊朗海上封锁，威胁打击发电厂",
-      "summary": "US President Donald Trump resumed the naval blockade of Iranian ports on Tuesday and threatened new strikes on the country's power plants and bridges if Tehran refuses to return to talks.",
-      "summaryCn": "美国恢复对伊朗海上封锁并威胁打击其能源设施，伊朗则发动无人机袭击回应，导致地区紧张局势进一步升级。",
-      "wordCount": 558,
-      "paragraphs": [
-        {
-          "en": ", Updated 11:44, 15-Jul-2026This picture shows ships sailing near the Strait of Hormuz off the eastern coast of the United Arab Emirates at Khor Fakkan on July 13, 2026. US President Donald Trump {{0}} the naval {{1}} of Iranian ports on Tuesday and {{2}} new {{3}} on the country's power plants and bridges if Tehran refuses to return to talks. The US also launched a new wave of strikes aimed at \"continuing to {{4}} Iranian capabilities used to attack commercial shipping in the Strait of Hormuz,\" the US military said. The moves mark a further {{5}} in the renewed {{6}} between the US and Iran, which resumed hostilities last week and put a {{7}} June truce under mounting strain. Tehran says it has again shut the Strait of Hormuz, a key {{8}} for global energy trade.",
-          "cn": "这张照片拍摄于2026年7月13日，显示船只航行在阿拉伯联合酋长国东海岸霍尔木兹海峡附近的豪尔费坎。美国总统唐纳德·特朗普周二恢复了对伊朗港口的海上封锁，并威胁如果德黑兰拒绝重返谈判，将对伊朗的发电厂和桥梁发动新的打击。美国军方表示，美国还发动了新一波打击，旨在“继续削弱伊朗用于攻击霍尔木兹海峡商业航运的能力”。这些举措标志着美伊之间重新爆发的对抗进一步升级，双方于上周恢复敌对行动，使脆弱的六月休战协议面临越来越大的压力。德黑兰表示已再次关闭霍尔木兹海峡，这是全球能源贸易的关键咽喉要道。"
-        },
-        {
-          "en": "\"I'll save the energy {{9}} for last, but ultimately we'll hit energy targets,\" Trump told Fox News in an interview that aired Tuesday night on \"Special Report with Bret Baier.\"\n\"Next week comes the power plants, next week comes the bridges,\" Trump said, \"unless they get to the table and {{10}}.\"\nTrump said US negotiators had contacted Iranian {{11}} with a message that Tehran \"better make a deal.\"\nIran, meanwhile, reported fresh attacks on US positions and facilities in Gulf countries. Its army said early on Wednesday that drones had been launched at US positions at Jordan's Azraq base. Iran's Islamic Revolutionary Guard Corps separately said it struck weapons and storage facilities in Bahrain and Kuwait. The latest exchange of attacks has deepened {{12}} over the future of a memorandum of understanding signed last month, which had raised hopes of a more durable end to the fighting. The war has spread beyond Iran's borders, drawn neighboring countries into the hostilities and {{13}} international energy flows.",
-          "cn": "“我会把能源目标留到最后，但最终我们会打击能源目标，”特朗普在接受福克斯新闻采访时表示，该采访于周二晚间在《与布雷特·拜尔的特别报道》节目中播出。“下周轮到发电厂，下周轮到桥梁，”特朗普说，“除非他们坐到谈判桌前进行谈判。”特朗普表示，美国谈判代表已联系伊朗同行，传达德黑兰“最好达成协议”的信息。与此同时，伊朗报告了对海湾国家美国阵地和设施的新袭击。其军方周三早些时候表示，已向约旦阿兹拉克基地的美国阵地发射了无人机。伊朗伊斯兰革命卫队单独表示，它袭击了巴林和科威特的武器和储存设施。最新的攻击交换加深了人们对上月签署的谅解备忘录未来的不确定性，该备忘录曾给人们带来更持久结束战斗的希望。战争已蔓延至伊朗境外，将邻国卷入敌对行动，并扰乱了国际能源流动。"
-        },
-        {
-          "en": "In southern Iran, authorities reported US attacks at several locations near the Strait of Hormuz. American {{14}} struck an area around Bandar Abbas, the provincial governor's office told state media late on Tuesday. State news agency IRNA separately reported a strike near Sirik. \"If the US thinks that by tightening its measures against us, its military actions and its economic blockade, we will return to negotiations, it is making a mistake,\" Iran's Deputy Foreign Minister Kazem Gharibabadi said in an earlier interview with state television. Roughly a fifth of global oil and gas shipments moved through the Strait of Hormuz each day before the war erupted in February, underscoring the wider economic {{15}} of the renewed fighting.",
-          "cn": "在伊朗南部，当局报告称美国在霍尔木兹海峡附近的多个地点发动了袭击。省长办公室周二晚些时候告诉官方媒体，美国炮弹击中了阿巴斯港附近的一个区域。官方通讯社伊朗伊斯兰共和国通讯社单独报道了锡里克附近的一次袭击。“如果美国认为通过加强对我们的措施、军事行动和经济封锁，我们会重返谈判，那它就错了，”伊朗副外长卡齐姆·加里巴巴迪早些时候在接受国家电视台采访时表示。在2月份战争爆发前，全球约五分之一的石油和天然气运输每天通过霍尔木兹海峡，这突显了重新开战带来的更广泛经济风险。"
-        },
-        {
-          "en": "Trump had proposed on Monday imposing a 20% charge on ships using the waterway, prompting sharp criticism from the UN shipping agency and others. By Tuesday, he had dropped the proposal and said he would pursue investment agreements with Gulf countries instead, though he offered few details. The {{16}} US naval blockade, covering vessels traveling to and from Iranian ports and coastal areas, took effect at 8 p.m. GMT on Tuesday. The measure had been suspended in June.",
-          "cn": "特朗普周一曾提议对使用该水道的船只征收20%的费用，此举遭到联合国航运机构和其他方面的尖锐批评。到周二，他放弃了这一提议，并表示将转而寻求与海湾国家达成投资协议，尽管他提供的细节很少。恢复的美国海上封锁覆盖往返伊朗港口和沿海地区的船只，于周二格林威治标准时间晚上8点生效。该措施于6月暂停。"
-        },
-        {
-          "en": "Trump said vessels from other countries remained free to use the strait, with the restrictions applying to Iranian shipping. More than 20 US Navy warships and hundreds of military aircraft are now deployed across the region, according to the US military. At home, the war has become increasingly politically costly for Trump as gasoline prices rise and November's congressional elections draw closer.",
-          "cn": "特朗普表示，其他国家的船只仍可自由使用海峡，限制仅适用于伊朗航运。据美国军方称，目前有20多艘美国海军军舰和数百架军用飞机部署在该地区。在国内，随着汽油价格上涨和11月国会选举临近，这场战争对特朗普来说在政治上越来越代价高昂。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "resumed",
-          "hint": "v. 恢复",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "blockade",
-          "hint": "n. 封锁",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "threatened",
-          "hint": "v. 威胁",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "strikes",
-          "hint": "n. 打击",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "degrade",
-          "hint": "v. 削弱",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "escalation",
-          "hint": "n. 升级",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "confrontation",
-          "hint": "n. 对抗",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "fragile",
-          "hint": "adj. 脆弱的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "chokepoint",
-          "hint": "n. 咽喉要道",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "targets",
-          "hint": "n. 目标",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "negotiate",
-          "hint": "v. 谈判",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "counterparts",
-          "hint": "n. 对应方",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "uncertainty",
-          "hint": "n. 不确定性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "disrupted",
-          "hint": "v. 扰乱",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "projectiles",
-          "hint": "n. 炮弹",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "stakes",
-          "hint": "n. 风险",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "reinstated",
-          "hint": "v. 恢复",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": ", Updated 11:44, 15-Jul-2026This picture shows ships sailing near the Strait of Hormuz off the eastern coast of the United Arab Emirates at Khor Fakkan on July 13, 2026. \nUS President Donald Trump resumed the naval blockade of Iranian ports on Tuesday and threatened new strikes on the country's power plants and bridges if Tehran refuses to return to talks.\nThe US also launched a new wave of strikes aimed at \"continuing to degrade Iranian capabilities used to attack commercial shipping in the Strait of Hormuz,\" the US military said.\nThe moves mark a further escalation in the renewed confrontation between the US and Iran, which resumed hostilities last week and put a fragile June truce under mounting strain. Tehran says it has again shut the Strait of Hormuz, a key chokepoint for global energy trade.\n\"I'll save the energy targets for last, but ultimately we'll hit energy targets,\" Trump told Fox News in an interview that aired Tuesday night on \"Special Report with Bret Baier.\"\n\"Next week comes the power plants, next week comes the bridges,\" Trump said, \"unless they get to the table and negotiate.\"\nTrump said US negotiators had contacted Iranian counterparts with a message that Tehran \"better make a deal.\"\nIran, meanwhile, reported fresh attacks on US positions and facilities in Gulf countries. Its army said early on Wednesday that drones had been launched at US positions at Jordan's Azraq base.\nIran's Islamic Revolutionary Guard Corps separately said it struck weapons and storage facilities in Bahrain and Kuwait.\nThe latest exchange of attacks has deepened uncertainty over the future of a memorandum of understanding signed last month, which had raised hopes of a more durable end to the fighting. The war has spread beyond Iran's borders, drawn neighboring countries into the hostilities and disrupted international energy flows.\nIn southern Iran, authorities reported US attacks at several locations near the Strait of Hormuz. American projectiles struck an area around Bandar Abbas, the provincial governor's office told state media late on Tuesday. State news agency IRNA separately reported a strike near Sirik.\n\"If the US thinks that by tightening its measures against us, its military actions and its economic blockade, we will return to negotiations, it is making a mistake,\" Iran's Deputy Foreign Minister Kazem Gharibabadi said in an earlier interview with state television.\nRoughly a fifth of global oil and gas shipments moved through the Strait of Hormuz each day before the war erupted in February, underscoring the wider economic stakes of the renewed fighting.\nTrump had proposed on Monday imposing a 20% charge on ships using the waterway, prompting sharp criticism from the UN shipping agency and others. By Tuesday, he had dropped the proposal and said he would pursue investment agreements with Gulf countries instead, though he offered few details.\nThe reinstated US naval blockade, covering vessels traveling to and from Iranian ports and coastal areas, took effect at 8 p.m. GMT on Tuesday. The measure had been suspended in June.\nTrump said vessels from other countries remained free to use the strait, with the restrictions applying to Iranian shipping. More than 20 US Navy warships and hundreds of military aircraft are now deployed across the region, according to the US military.\nAt home, the war has become increasingly politically costly for Trump as gasoline prices rise and November's congressional elections draw closer.",
-      "fullTextCn": "这张照片拍摄于2026年7月13日，显示船只航行在阿拉伯联合酋长国东海岸霍尔木兹海峡附近的豪尔费坎。美国总统唐纳德·特朗普周二恢复了对伊朗港口的海上封锁，并威胁如果德黑兰拒绝重返谈判，将对伊朗的发电厂和桥梁发动新的打击。美国军方表示，美国还发动了新一波打击，旨在“继续削弱伊朗用于攻击霍尔木兹海峡商业航运的能力”。这些举措标志着美伊之间重新爆发的对抗进一步升级，双方于上周恢复敌对行动，使脆弱的六月休战协议面临越来越大的压力。德黑兰表示已再次关闭霍尔木兹海峡，这是全球能源贸易的关键咽喉要道。\n\n“我会把能源目标留到最后，但最终我们会打击能源目标，”特朗普在接受福克斯新闻采访时表示，该采访于周二晚间在《与布雷特·拜尔的特别报道》节目中播出。“下周轮到发电厂，下周轮到桥梁，”特朗普说，“除非他们坐到谈判桌前进行谈判。”特朗普表示，美国谈判代表已联系伊朗同行，传达德黑兰“最好达成协议”的信息。与此同时，伊朗报告了对海湾国家美国阵地和设施的新袭击。其军方周三早些时候表示，已向约旦阿兹拉克基地的美国阵地发射了无人机。伊朗伊斯兰革命卫队单独表示，它袭击了巴林和科威特的武器和储存设施。最新的攻击交换加深了人们对上月签署的谅解备忘录未来的不确定性，该备忘录曾给人们带来更持久结束战斗的希望。战争已蔓延至伊朗境外，将邻国卷入敌对行动，并扰乱了国际能源流动。\n\n在伊朗南部，当局报告称美国在霍尔木兹海峡附近的多个地点发动了袭击。省长办公室周二晚些时候告诉官方媒体，美国炮弹击中了阿巴斯港附近的一个区域。官方通讯社伊朗伊斯兰共和国通讯社单独报道了锡里克附近的一次袭击。“如果美国认为通过加强对我们的措施、军事行动和经济封锁，我们会重返谈判，那它就错了，”伊朗副外长卡齐姆·加里巴巴迪早些时候在接受国家电视台采访时表示。在2月份战争爆发前，全球约五分之一的石油和天然气运输每天通过霍尔木兹海峡，这突显了重新开战带来的更广泛经济风险。\n\n特朗普周一曾提议对使用该水道的船只征收20%的费用，此举遭到联合国航运机构和其他方面的尖锐批评。到周二，他放弃了这一提议，并表示将转而寻求与海湾国家达成投资协议，尽管他提供的细节很少。恢复的美国海上封锁覆盖往返伊朗港口和沿海地区的船只，于周二格林威治标准时间晚上8点生效。该措施于6月暂停。\n\n特朗普表示，其他国家的船只仍可自由使用海峡，限制仅适用于伊朗航运。据美国军方称，目前有20多艘美国海军军舰和数百架军用飞机部署在该地区。在国内，随着汽油价格上涨和11月国会选举临近，这场战争对特朗普来说在政治上越来越代价高昂。"
+      "fullText": "The 2026 Global Mayors Dialogue is held in Xishuangbanna, southwest China's Yunnan Province, from July 14 to 16, 2026. /CMG\nCity leaders from around the world gathered in Xishuangbanna, southwest China's Yunnan Province, from July 14 to 16 for the 2026 Global Mayors Dialogue, where they exchanged views on sustainable urban development and called for deeper cooperation in promoting harmony between urban growth and ecological conservation.\nUnder the theme \"Rainforest & Home: Coexist, Co-create, Share,\" the dialogue brought together representatives from countries such as China, Myanmar, Laos, Nepal and Sri Lanka to engage in discussions on ecological conservation, sustainable urban development and international cooperation.\nDuring the event, participants visited local rainforests, museums and rural communities to gain firsthand insights into Xishuangbanna's efforts in biodiversity conservation, cultural preservation and rural revitalization. Drawing on these exchanges and experiences, the Xishuangbanna Initiative was introduced, outlining a shared vision for greener, more inclusive and interconnected urban development.\nThe initiative calls for greater efforts to protect rainforests, rivers and biodiversity, while promoting green and low-carbon industries and exploring sustainable approaches to unlocking the value of ecological resources.\nIt also highlights the importance of strengthening industrial connectivity by leveraging regional advantages in agriculture, forestry, cultural tourism, intangible cultural heritage and trade, as well as facilitating cross-border cooperation and creating more opportunities for local communities.\nOn urban governance, the initiative emphasizes a people-centered approach, calling for improved access to public services, the preservation of cultural heritage and greater inclusion of diverse communities.\nIt further encourages cities to expand exchanges through platforms such as the Global Mayors Dialogue, develop sister-city partnerships, and enhance cooperation in areas including urban governance, talent development and people-to-people exchanges.",
+      "fullTextCn": "2026年全球市长对话于7月14日至16日在中国西南部云南省西双版纳举行。/CMG\n\n来自世界各地的城市领导人于7月14日至16日齐聚中国西南部云南省西双版纳，参加2026年全球市长对话，就可持续城市发展交换意见，并呼吁加强合作，促进城市增长与生态保护之间的和谐。\n\n以“雨林与家园：共存、共创、共享”为主题，对话汇聚了来自中国、缅甸、老挝、尼泊尔和斯里兰卡等国的代表，就生态保护、可持续城市发展和国际合作展开讨论。\n\n活动期间，与会者参观了当地雨林、博物馆和乡村社区，深入了解西双版纳在生物多样性保护、文化保护和乡村振兴方面的努力。\n\n基于这些交流与经验，会议提出了《西双版纳倡议》，概述了更绿色、更包容、更互联的城市发展共同愿景。\n\n该倡议呼吁加大力度保护雨林、河流和生物多样性，同时推广绿色低碳产业，探索可持续途径以释放生态资源的价值。\n\n它还强调了通过发挥农业、林业、文化旅游、非物质文化遗产和贸易等区域优势来加强产业互联的重要性，以及促进跨境合作并为当地社区创造更多机会。\n\n在城市治理方面，该倡议强调以人为本的方法，呼吁改善公共服务可及性、保护文化遗产并增强多元社区的包容性。\n\n它进一步鼓励城市通过全球市长对话等平台扩大交流，发展姐妹城市伙伴关系，并在城市治理、人才培养和人文交流等领域加强合作。"
     }
   ]
 }
