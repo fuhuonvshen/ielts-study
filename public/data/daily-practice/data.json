@@ -1,318 +1,829 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "articles": [
     {
       "id": 1,
       "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-09/How-Xi-Jinping-s-latest-sci-tech-remarks-chart-China-s-innovation-path-1ODSgLV2q9a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "How Xi Jinping's latest sci-tech remarks chart China's innovation path",
-      "titleCn": "习近平最新科技讲话指明中国创新路径",
-      "summary": "What priorities did Xi Jinping's latest remarks on sci-tech highlight? In interviews with CGTN, two Chinese scholars said the speech points to two key areas: strengthening the talent pipeline to accelerate innovation and advancing high-level self-reliance and strength in science and technology.",
-      "summaryCn": "习近平强调加速实现高水平科技自立自强，以科技创新支撑中国式现代化，重点聚焦人才培养和高水平自立自强。",
-      "wordCount": 520,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-16/Co-creating-the-AI-Future-China-s-vision-for-global-AI-governance-1OPgvR3focw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Co-creating the AI Future: China's vision for global AI governance",
+      "titleCn": "共同开创人工智能未来：中国对全球人工智能治理的愿景",
+      "summary": "As the world looks toward WAIC 2026, China is leveraging its innovative resources to promote inclusive and shared global AI development and unlock greater benefits from intelligent technologies.",
+      "summaryCn": "中国倡导以人为本、包容公平的全球人工智能治理体系，通过能力建设与国际合作缩小数字鸿沟，推动人工智能成为惠及全人类的国际公共产品。",
+      "wordCount": 1039,
       "paragraphs": [
         {
-          "en": "Chinese President Xi Jinping on Tuesday called for accelerated efforts to achieve high-level {{0}} and strength in science and technology and leverage sci-tech innovation to underpin and drive Chinese {{1}}. Speaking at a meeting that brought together the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE), and the 11th national congress of the China Association for Science and Technology, Xi outlined {{2}} for building China into a science and technology powerhouse. What priorities did Xi's latest remarks highlight? In interviews with CGTN, two Chinese scholars said the speech points to two key areas: strengthening the talent {{3}} to accelerate innovation and advancing high-level self-reliance and strength in science and technology. Building the talent pipeline for innovation\nIn his speech, Xi highlighted the importance of {{4}} young sci-tech talent, saying research should be {{5}} with education, and that greater support should be provided to researchers to help them overcome practical challenges.",
-          "cn": "中国国家主席习近平周二呼吁加速实现高水平科技自立自强，并利用科技创新支撑和驱动中国式现代化。在全国科技大会、中国科学院第二十一次院士大会、中国工程院第十七次院士大会和中国科学技术协会第十一次全国代表大会上，习近平阐述了建设科技强国的优先事项。习近平的最新讲话强调了哪些优先事项？在接受CGTN采访时，两位中国学者表示，讲话指出了两个关键领域：加强人才队伍建设以加速创新，以及推进高水平科技自立自强。在讲话中，习近平强调了培养青年科技人才的重要性，指出研究应与教育相结合，并应为研究人员提供更多支持，帮助他们克服实际挑战。"
+          "en": "Editor's note: Professor Chen Zhimin is vice president of Fudan University, Shanghai, and executive director of the Center for Global AI Innovative Governance (CGAIG). Officially launched at the opening ceremony of the 2025 World AI Conference (WAIC) and High-Level Meeting on Global AI Governance, the CGAIG serves as an international platform dedicated to research, dialogue, and collaboration on global AI innovative governance. The article reflects the author's opinions and not necessarily the views of CGTN. Artificial intelligence (AI) is opening a new {{0}} for human development. Expanding humanity's ability to understand and reshape the world, it is a key driver of scientific and technological revolution as well as significant industrial {{1}}.",
+          "cn": "编者按：陈志敏教授是上海复旦大学副校长、全球人工智能创新治理中心（CGAIG）执行主任。该中心在2025年世界人工智能大会（WAIC）暨全球人工智能治理高级别会议开幕式上正式启动，是一个致力于全球人工智能创新治理研究、对话与合作的国际平台。本文仅代表作者观点，不代表CGTN立场。人工智能正为人类发展开辟新前沿。它扩展了人类理解和改造世界的能力，是科技革命和重大产业转型的关键驱动力。"
         },
         {
-          "en": "Efforts should be made to identify and nurture young people's interests, strengths, scientific {{6}} and {{7}} skills, {{8}} more young talents to pursue careers in science and technology, he added. For Liu Shaoxuan, vice dean of the Antai College of Economics and Management at Shanghai Jiao Tong University, talent is the {{9}} link connecting scientific research with industrial application. \"Talent is the fundamental support for overcoming {{10}} in the {{11}} of scientific achievements,\" Liu said. He noted that China needs professionals who not only understand science and technology but also possess expertise in industry, finance, law and management to facilitate the {{12}} of research. Liu cited Shanghai Jiao Tong University's Master of Technology Transfer (MTT) program, the first degree program of its kind in China, as an example of cultivating {{13}} professionals.",
-          "cn": "他补充说，应努力发现和培养年轻人的兴趣、优势、科学素养和实验技能，激励更多青年人才投身科技事业。对于上海交通大学安泰经济与管理学院副院长刘少轩来说，人才是连接科学研究与产业应用的关键纽带。刘少轩说：“人才是克服科技成果转化瓶颈的根本支撑。”他指出，中国需要既懂科技又具备产业、金融、法律和管理专业知识的人才，以促进研究的商业化。刘少轩以上海交通大学的技术转移硕士项目为例，这是中国首个此类学位项目，旨在培养跨学科专业人才。"
+          "en": "While AI presents {{2}} opportunities for development, it also brings risks and challenges, including security concerns, ethical {{3}} and technological {{4}}. Therefore, determining how to promote innovative development, effectively prevent risks and deliver benefits to people in all countries in a fairer manner is a major issue facing the entire international community. China has {{5}} advocated a people-centered approach to global AI governance and international cooperation, following the {{6}} principle of \"AI for good.\" Upholding equality, mutual benefit and inclusive growth for all while balancing development and security {{7}}, China has advanced new ideas and taken concrete steps to building a more open, inclusive, efficient and fairer global AI governance system. Building global {{8}} on AI governance\nChina attaches great importance to the development and governance of AI, and has outlined its vision and approach to addressing shared challenges as the technology advances. China is committed to {{9}} and promotes coordinated global governance.",
+          "cn": "尽管人工智能带来了前所未有的发展机遇，但也带来了风险与挑战，包括安全隐患、伦理困境和技术鸿沟。因此，如何促进创新发展、有效防范风险、以更公平的方式惠及各国人民，是整个国际社会面临的重大课题。中国一贯倡导以人为本的全球人工智能治理与国际合作，遵循“人工智能向善”的基本原则。秉持平等、互利和包容增长，同时平衡发展与安全需求，中国提出了新理念并采取了具体行动，致力于构建更加开放、包容、高效、公平的全球人工智能治理体系。凝聚全球人工智能治理共识：中国高度重视人工智能的发展与治理，并随着技术进步，阐述了应对共同挑战的愿景与方法。中国坚持多边主义，推动协调一致的全球治理。"
         },
         {
-          "en": "By integrating education with real-world industrial practice and involving experienced experts as {{14}}, the program aims to prepare professionals capable of supporting the entire process of transforming scientific research into industrial innovation. According to Liu, such efforts respond directly to Xi's call for deeper collaboration between education and scientific research and will help provide {{15}} talent support for China's innovation-driven development. High-level self-reliance\n\"We must seize the {{16}} opportunity, rise to the challenges of the times, accelerate efforts to achieve high-level self-reliance and strength in science and technology, and make {{17}} progress toward the 2035 goal of becoming a leading country in science and technology,\" Xi said in his speech. Cui Yong, professor with the Department of Computer Science and Technology at Tsinghua University, said Xi's remarks {{18}} that high-level self-reliance and strength in science and technology are {{19}} with greater international cooperation. \"Self-reliance does not mean closing the door to innovation,\" Cui pointed out.",
-          "cn": "通过将教育与实际产业实践相结合，并邀请经验丰富的专家担任导师，该项目旨在培养能够支持将科学研究转化为产业创新全过程的人才。刘少轩认为，这些努力直接回应了习近平关于深化教育与科研合作的号召，并将为中国创新驱动发展提供持续的人才支持。习近平在讲话中说：“我们必须抓住历史机遇，迎接时代挑战，加快实现高水平科技自立自强，稳步迈向2035年建成科技强国的目标。”清华大学计算机科学与技术系教授崔勇表示，习近平的讲话强调高水平科技自立自强与更大程度的国际合作是兼容的。崔勇指出：“自立自强并不意味着关闭创新的大门。”"
+          "en": "The international community still lacks consensus on major issues concerning global AI governance. Countries have different understandings regarding AI security, ethics and the {{10}} of responsibility, and have yet to {{11}} governance rules and technical standards. China proposed the Global AI Governance Initiative in 2023, outlining the principles of developing AI for good, ensuring security and controllability, and promoting {{12}} and fairness. Calling for developing open, fair and efficient governing mechanisms, the initiative has provided systematic, practical and workable guidance for global AI governance. China {{13}} gaps through capacity building and promotes inclusive development of AI.",
+          "cn": "国际社会在涉及全球人工智能治理的重大问题上仍缺乏共识。各国对人工智能安全、伦理和责任边界存在不同理解，治理规则和技术标准尚未统一。中国于2023年提出《全球人工智能治理倡议》，阐述了发展人工智能向善、确保安全可控、促进包容公平的原则。该倡议呼吁建立开放、公平、高效的治理机制，为全球人工智能治理提供了系统、实用且可操作的指导。中国通过能力建设弥合差距，促进人工智能的包容性发展。"
         },
         {
-          "en": "He said China should continue strengthening research in key core technologies while actively participating in international cooperation in {{20}} fields such as artificial intelligence and biotechnology, as well as contributing to discussions on global technology {{21}}. Maintaining a {{23}} between security and openness, he added, will enable China to enhance its scientific {{24}} while contributing more actively to global innovation through cooperation and {{25}} learning.",
-          "cn": "他表示，中国应继续加强关键核心技术的研发，同时积极参与人工智能和生物技术等前沿领域的国际合作，并为全球技术治理的讨论做出贡献。他补充说，在安全与开放之间保持平衡，将使中国能够增强其科学能力，同时通过合作与互学互鉴，为全球创新做出更积极的贡献。"
+          "en": "All countries should have equal rights to develop and use AI. Yet the global AI landscape remains {{14}}, with many developing countries, especially in the Global South, facing challenges in AI application and governance. An AI assistant operates at a merchandise shop in Nanjing, east China's Jiangsu Province, June 5, 2026. As a major AI-developing country, China has placed capacity building and technological inclusiveness at the center of its efforts to advance global AI governance. China has proposed initiatives including the AI Capacity-Building Action Plan for Good and for All and the AI+ International Cooperation Initiative.The country has also promoted the {{16}} of the first United Nations General Assembly resolution focused on AI capacity building, and played an active role in the establishment of the UN-supported Global AI Capacity-Building Network.",
+          "cn": "所有国家都应拥有平等发展和使用人工智能的权利。然而，全球人工智能格局仍不平衡，许多发展中国家，尤其是全球南方国家，在人工智能应用和治理方面面临挑战。2026年6月5日，中国东部江苏省南京市的一家商品店内，一个人工智能助手正在运行。作为一个主要的人工智能发展国家，中国将能力建设和技术包容性置于推进全球人工智能治理努力的核心。中国提出了“人工智能向善和普惠能力建设行动计划”和“人工智能+国际合作倡议”。中国还推动通过了首个聚焦人工智能能力建设的联合国大会决议，并在联合国支持的全球人工智能能力建设网络中发挥了积极作用。"
+        },
+        {
+          "en": "Through regular international exchanges and training programs, China is helping developing countries strengthen their capabilities and {{17}} the digital divide. China promotes practical cooperation to improve the international AI governance and cooperation system. While a range of principles and initiatives regarding AI governance have been reached within the global community, greater efforts are needed to translate these shared visions into {{18}} actions. Through cooperation in areas such as AI development strategies, governance rules and technical standards, China seeks to offer AI-related public goods globally. The goal is to foster practical collaboration among nations and {{19}} existing mechanisms with an enhanced global AI governance system.",
+          "cn": "通过定期的国际交流与培训项目，中国正在帮助发展中国家增强能力、缩小数字鸿沟。中国推动务实合作，完善国际人工智能治理与合作体系。尽管国际社会已就人工智能治理达成一系列原则和倡议，但仍需付出更大努力，将这些共同愿景转化为切实行动。通过在人工智能发展战略、治理规则和技术标准等领域的合作，中国力求向全球提供人工智能相关公共产品。目标是促进国家间的务实协作，并用强化的全球人工智能治理体系补充现有机制。"
+        },
+        {
+          "en": "Expanding shared opportunities through cooperation\nChina has consistently pursued AI development through an open and cooperative global vision. The 2026 World AI Conference (WAIC) and High-Level Meeting on Global AI Governance will soon be held in Shanghai under the theme \"Intelligent Partners, Co-create the Future.\" The event will bring together participants from around the world to showcase the latest advances in AI innovation, industrial applications and governance practices, while providing an important platform to exchange governance ideas and experiences. The conference carries special significance as it takes place at the beginning of China's 15th Five-Year Plan (2026–2030) period. China aims to further promote the {{20}} of technological and industrial innovation, advance and expand the AI+ Initiative, {{21}} and strengthen the intelligent industry and {{22}} high-quality economic and social development. These efforts will contribute broader technological options, industrial opportunities and real-world applications to global AI innovation and cooperation.",
+          "cn": "通过合作扩大共享机遇：中国始终秉持开放合作的全球视野推动人工智能发展。2026年世界人工智能大会暨全球人工智能治理高级别会议即将在上海举行，主题为“智能伙伴，共创未来”。会议将汇聚全球参与者，展示人工智能创新、产业应用和治理实践的最新进展，同时为交流治理理念和经验提供重要平台。此次会议在中国“十五五”规划（2026-2030年）开局之际举行，具有特殊意义。中国旨在进一步促进科技与产业创新融合，推进并拓展“人工智能+”行动，培育壮大智能产业，赋能经济社会高质量发展。这些努力将为全球人工智能创新与合作贡献更广泛的技术选择、产业机遇和实际应用。"
+        },
+        {
+          "en": "The Global Network of Centers for Exchange and Cooperation on AI Capacity Building is officially {{23}} at the World Trade Organization headquarters. The CGAIG attended the ceremony as China's representative institution and one of the network's founding members, Geneva, Switzerland, July 5, 2026. /CGAIG\nShanghai, a leading hub for AI development, has built a comprehensive AI industrial ecosystem supported by abundant research resources and extensive international networks, positioning the city as a key platform to facilitate global AI cooperation. Since its launch at the opening ceremony of WAIC 2025, the Center for Global AI Innovative Governance (CGAIG) has worked to promote China's proposals on global AI governance and to advance practical cooperation in AI governance and international collaboration. The United Nations-promoted Global Network of Centers for Exchange and Cooperation on AI Capacity Building was recently established at the World Trade Organization headquarters in Geneva, Switzerland.",
+          "cn": "全球人工智能能力建设交流合作中心网络在世界贸易组织总部正式启动。全球人工智能创新治理中心作为中国代表机构和网络创始成员之一出席了仪式，瑞士日内瓦，2026年7月5日。/全球人工智能创新治理中心。上海作为人工智能发展的领先枢纽，已构建起由丰富研究资源和广泛国际网络支撑的综合性人工智能产业生态系统，使该市成为促进全球人工智能合作的关键平台。自2025年世界人工智能大会开幕式上启动以来，全球人工智能创新治理中心一直致力于推广中国在全球人工智能治理方面的主张，并推动人工智能治理和国际合作领域的务实合作。联合国推动的全球人工智能能力建设交流合作中心网络近日在瑞士日内瓦的世界贸易组织总部成立。"
+        },
+        {
+          "en": "As China's representative institution and one of the network's founding members, the CGAIG has worked to {{24}} AI capacity-building expertise and international public goods into the network's institutional design and advance an inclusive, mutually beneficial vision for global AI cooperation. As the world looks toward WAIC 2026, China is {{25}} its innovative resources to promote inclusive and shared global AI development and unlock greater benefits from intelligent technologies. Given the {{26}} and {{27}} of AI, it is essential for all parties to enhance mutual trust, build consensus, and promote the secure and reliable development. China stands ready to work with the international community to address common challenges through cooperation, enhance common well-being through innovation and build a globally recognized AI governance framework. Together, we can ensure that AI becomes an international public good that truly benefits humanity, enabling people around the world to share in the vast opportunities brought by this {{28}} technology.",
+          "cn": "作为中国代表机构和网络创始成员之一，全球人工智能创新治理中心致力于将人工智能能力建设专长和国际公共产品嵌入网络制度设计，并推进包容互利的全球人工智能合作愿景。随着世界期待2026年世界人工智能大会，中国正利用其创新资源促进包容共享的全球人工智能发展，释放智能技术的更大效益。鉴于人工智能的不确定性和复杂性，各方必须增进互信、凝聚共识，促进安全可靠的发展。中国愿与国际社会一道，通过合作应对共同挑战，通过创新增进共同福祉，构建全球认可的人工智能治理框架。让我们共同努力，确保人工智能成为真正惠及人类的国际公共产品，使世界各地的人们能够共享这项变革性技术带来的巨大机遇。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "self-reliance",
-          "hint": "n. 自立",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "modernization",
-          "hint": "n. 现代化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "priorities",
-          "hint": "n. 优先事项",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "pipeline",
-          "hint": "n. 管道；渠道",
-          "difficulty": "hard"
-        },
-        {
-          "id": 4,
-          "answer": "cultivating",
-          "hint": "v. 培养",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "integrated",
-          "hint": "v. 整合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "literacy",
-          "hint": "n. 素养",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "experimental",
-          "hint": "adj. 实验的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "inspiring",
-          "hint": "v. 激励",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "critical",
-          "hint": "adj. 关键的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "bottlenecks",
-          "hint": "n. 瓶颈",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "transformation",
-          "hint": "n. 转化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "commercialization",
-          "hint": "n. 商业化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "interdisciplinary",
-          "hint": "adj. 跨学科的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "mentors",
-          "hint": "n. 导师",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "sustained",
-          "hint": "adj. 持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "historic",
-          "hint": "adj. 历史性的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "steady",
-          "hint": "adj. 稳步的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
-          "answer": "underscore",
-          "hint": "v. 强调",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "compatible",
-          "hint": "adj. 兼容的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
           "answer": "frontier",
           "hint": "n. 前沿",
           "difficulty": "medium"
         },
         {
+          "id": 1,
+          "answer": "transformation",
+          "hint": "n. 转型",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "unprecedented",
+          "hint": "adj. 前所未有的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "dilemmas",
+          "hint": "n. 困境",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "divides",
+          "hint": "n. 鸿沟",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "consistently",
+          "hint": "adv. 一贯地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "underlying",
+          "hint": "adj. 基本的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "imperatives",
+          "hint": "n. 要务",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "consensus",
+          "hint": "n. 共识",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "multilateralism",
+          "hint": "n. 多边主义",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "boundaries",
+          "hint": "n. 边界",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "align",
+          "hint": "v. 对齐",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "inclusiveness",
+          "hint": "n. 包容性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "bridges",
+          "hint": "v. 弥合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "uneven",
+          "hint": "adj. 不平衡的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "adoption",
+          "hint": "n. 通过",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "narrow",
+          "hint": "v. 缩小",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "tangible",
+          "hint": "adj. 切实的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "complement",
+          "hint": "v. 补充",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "integration",
+          "hint": "n. 融合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "cultivate",
+          "hint": "v. 培育",
+          "difficulty": "medium"
+        },
+        {
           "id": 21,
-          "answer": "governance",
-          "hint": "n. 治理",
+          "answer": "empower",
+          "hint": "v. 赋能",
           "difficulty": "medium"
         },
         {
           "id": 22,
-          "answer": "balance",
-          "hint": "n. 平衡",
-          "difficulty": "easy"
+          "answer": "inaugurated",
+          "hint": "v. 启动",
+          "difficulty": "hard"
         },
         {
           "id": 23,
-          "answer": "capabilities",
-          "hint": "n. 能力",
-          "difficulty": "medium"
+          "answer": "embed",
+          "hint": "v. 嵌入",
+          "difficulty": "hard"
         },
         {
           "id": 24,
-          "answer": "mutual",
-          "hint": "adj. 相互的",
+          "answer": "leveraging",
+          "hint": "v. 利用",
           "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "uncertainty",
+          "hint": "n. 不确定性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "complexity",
+          "hint": "n. 复杂性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "transformative",
+          "hint": "adj. 变革性的",
+          "difficulty": "hard"
         }
       ],
-      "fullText": "Chinese President Xi Jinping on Tuesday called for accelerated efforts to achieve high-level self-reliance and strength in science and technology and leverage sci-tech innovation to underpin and drive Chinese modernization.\nSpeaking at a meeting that brought together the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE), and the 11th national congress of the China Association for Science and Technology, Xi outlined priorities for building China into a science and technology powerhouse.\nWhat priorities did Xi's latest remarks highlight? In interviews with CGTN, two Chinese scholars said the speech points to two key areas: strengthening the talent pipeline to accelerate innovation and advancing high-level self-reliance and strength in science and technology.\nBuilding the talent pipeline for innovation\nIn his speech, Xi highlighted the importance of cultivating young sci-tech talent, saying research should be integrated with education, and that greater support should be provided to researchers to help them overcome practical challenges.\nEfforts should be made to identify and nurture young people's interests, strengths, scientific literacy and experimental skills, inspiring more young talents to pursue careers in science and technology, he added.\nFor Liu Shaoxuan, vice dean of the Antai College of Economics and Management at Shanghai Jiao Tong University, talent is the critical link connecting scientific research with industrial application.\n\"Talent is the fundamental support for overcoming bottlenecks in the transformation of scientific achievements,\" Liu said.\nHe noted that China needs professionals who not only understand science and technology but also possess expertise in industry, finance, law and management to facilitate the commercialization of research.\nLiu cited Shanghai Jiao Tong University's Master of Technology Transfer (MTT) program, the first degree program of its kind in China, as an example of cultivating interdisciplinary professionals. By integrating education with real-world industrial practice and involving experienced experts as mentors, the program aims to prepare professionals capable of supporting the entire process of transforming scientific research into industrial innovation.\nAccording to Liu, such efforts respond directly to Xi's call for deeper collaboration between education and scientific research and will help provide sustained talent support for China's innovation-driven development.\nHigh-level self-reliance\n\"We must seize the historic opportunity, rise to the challenges of the times, accelerate efforts to achieve high-level self-reliance and strength in science and technology, and make steady progress toward the 2035 goal of becoming a leading country in science and technology,\" Xi said in his speech.\nCui Yong, professor with the Department of Computer Science and Technology at Tsinghua University, said Xi's remarks underscore that high-level self-reliance and strength in science and technology are compatible with greater international cooperation.\n\"Self-reliance does not mean closing the door to innovation,\" Cui pointed out.\nHe said China should continue strengthening research in key core technologies while actively participating in international cooperation in frontier fields such as artificial intelligence and biotechnology, as well as contributing to discussions on global technology governance.\nMaintaining a balance between security and openness, he added, will enable China to enhance its scientific capabilities while contributing more actively to global innovation through cooperation and mutual learning.",
-      "fullTextCn": "中国国家主席习近平周二呼吁加速实现高水平科技自立自强，并利用科技创新支撑和驱动中国式现代化。在全国科技大会、中国科学院第二十一次院士大会、中国工程院第十七次院士大会和中国科学技术协会第十一次全国代表大会上，习近平阐述了建设科技强国的优先事项。习近平的最新讲话强调了哪些优先事项？在接受CGTN采访时，两位中国学者表示，讲话指出了两个关键领域：加强人才队伍建设以加速创新，以及推进高水平科技自立自强。在讲话中，习近平强调了培养青年科技人才的重要性，指出研究应与教育相结合，并应为研究人员提供更多支持，帮助他们克服实际挑战。\n\n他补充说，应努力发现和培养年轻人的兴趣、优势、科学素养和实验技能，激励更多青年人才投身科技事业。对于上海交通大学安泰经济与管理学院副院长刘少轩来说，人才是连接科学研究与产业应用的关键纽带。刘少轩说：“人才是克服科技成果转化瓶颈的根本支撑。”他指出，中国需要既懂科技又具备产业、金融、法律和管理专业知识的人才，以促进研究的商业化。刘少轩以上海交通大学的技术转移硕士项目为例，这是中国首个此类学位项目，旨在培养跨学科专业人才。\n\n通过将教育与实际产业实践相结合，并邀请经验丰富的专家担任导师，该项目旨在培养能够支持将科学研究转化为产业创新全过程的人才。刘少轩认为，这些努力直接回应了习近平关于深化教育与科研合作的号召，并将为中国创新驱动发展提供持续的人才支持。习近平在讲话中说：“我们必须抓住历史机遇，迎接时代挑战，加快实现高水平科技自立自强，稳步迈向2035年建成科技强国的目标。”清华大学计算机科学与技术系教授崔勇表示，习近平的讲话强调高水平科技自立自强与更大程度的国际合作是兼容的。崔勇指出：“自立自强并不意味着关闭创新的大门。”\n\n他表示，中国应继续加强关键核心技术的研发，同时积极参与人工智能和生物技术等前沿领域的国际合作，并为全球技术治理的讨论做出贡献。他补充说，在安全与开放之间保持平衡，将使中国能够增强其科学能力，同时通过合作与互学互鉴，为全球创新做出更积极的贡献。"
+      "fullText": "Editor's note: Professor Chen Zhimin is vice president of Fudan University, Shanghai, and executive director of the Center for Global AI Innovative Governance (CGAIG). Officially launched at the opening ceremony of the 2025 World AI Conference (WAIC) and High-Level Meeting on Global AI Governance, the CGAIG serves as an international platform dedicated to research, dialogue, and collaboration on global AI innovative governance. The article reflects the author's opinions and not necessarily the views of CGTN.\nArtificial intelligence (AI) is opening a new frontier for human development. Expanding humanity's ability to understand and reshape the world, it is a key driver of scientific and technological revolution as well as significant industrial transformation.\nWhile AI presents unprecedented opportunities for development, it also brings risks and challenges, including security concerns, ethical dilemmas and technological divides. Therefore, determining how to promote innovative development, effectively prevent risks and deliver benefits to people in all countries in a fairer manner is a major issue facing the entire international community.\nChina has consistently advocated a people-centered approach to global AI governance and international cooperation, following the underlying principle of \"AI for good.\" Upholding equality, mutual benefit and inclusive growth for all while balancing development and security imperatives, China has advanced new ideas and taken concrete steps to building a more open, inclusive, efficient and fairer global AI governance system.\nBuilding global consensus on AI governance\nChina attaches great importance to the development and governance of AI, and has outlined its vision and approach to addressing shared challenges as the technology advances.\nChina is committed to multilateralism and promotes coordinated global governance. The international community still lacks consensus on major issues concerning global AI governance. Countries have different understandings regarding AI security, ethics and the boundaries of responsibility, and have yet to align governance rules and technical standards.\nChina proposed the Global AI Governance Initiative in 2023, outlining the principles of developing AI for good, ensuring security and controllability, and promoting inclusiveness and fairness. Calling for developing open, fair and efficient governing mechanisms, the initiative has provided systematic, practical and workable guidance for global AI governance.\nChina bridges gaps through capacity building and promotes inclusive development of AI. All countries should have equal rights to develop and use AI. Yet the global AI landscape remains uneven, with many developing countries, especially in the Global South, facing challenges in AI application and governance.\nAn AI assistant operates at a merchandise shop in Nanjing, east China's Jiangsu Province, June 5, 2026. \nAs a major AI-developing country, China has placed capacity building and technological inclusiveness at the center of its efforts to advance global AI governance. China has proposed initiatives including the AI Capacity-Building Action Plan for Good and for All and the AI+ International Cooperation Initiative.The country has also promoted the adoption of the first United Nations General Assembly resolution focused on AI capacity building, and played an active role in the establishment of the UN-supported Global AI Capacity-Building Network.\nThrough regular international exchanges and training programs, China is helping developing countries strengthen their capabilities and narrow the digital divide.\nChina promotes practical cooperation to improve the international AI governance and cooperation system. While a range of principles and initiatives regarding AI governance have been reached within the global community, greater efforts are needed to translate these shared visions into tangible actions.\nThrough cooperation in areas such as AI development strategies, governance rules and technical standards, China seeks to offer AI-related public goods globally. The goal is to foster practical collaboration among nations and complement existing mechanisms with an enhanced global AI governance system.\nExpanding shared opportunities through cooperation\nChina has consistently pursued AI development through an open and cooperative global vision.\nThe 2026 World AI Conference (WAIC) and High-Level Meeting on Global AI Governance will soon be held in Shanghai under the theme \"Intelligent Partners, Co-create the Future.\" The event will bring together participants from around the world to showcase the latest advances in AI innovation, industrial applications and governance practices, while providing an important platform to exchange governance ideas and experiences.\nThe conference carries special significance as it takes place at the beginning of China's 15th Five-Year Plan (2026–2030) period. China aims to further promote the integration of technological and industrial innovation, advance and expand the AI+ Initiative, cultivate and strengthen the intelligent industry and empower high-quality economic and social development.\nThese efforts will contribute broader technological options, industrial opportunities and real-world applications to global AI innovation and cooperation.\nThe Global Network of Centers for Exchange and Cooperation on AI Capacity Building is officially inaugurated at the World Trade Organization headquarters. The CGAIG attended the ceremony as China's representative institution and one of the network's founding members, Geneva, Switzerland, July 5, 2026. /CGAIG\nShanghai, a leading hub for AI development, has built a comprehensive AI industrial ecosystem supported by abundant research resources and extensive international networks, positioning the city as a key platform to facilitate global AI cooperation.\nSince its launch at the opening ceremony of WAIC 2025, the Center for Global AI Innovative Governance (CGAIG) has worked to promote China's proposals on global AI governance and to advance practical cooperation in AI governance and international collaboration.\nThe United Nations-promoted Global Network of Centers for Exchange and Cooperation on AI Capacity Building was recently established at the World Trade Organization headquarters in Geneva, Switzerland. As China's representative institution and one of the network's founding members, the CGAIG has worked to embed AI capacity-building expertise and international public goods into the network's institutional design and advance an inclusive, mutually beneficial vision for global AI cooperation.\nAs the world looks toward WAIC 2026, China is leveraging its innovative resources to promote inclusive and shared global AI development and unlock greater benefits from intelligent technologies.\nGiven the uncertainty and complexity of AI, it is essential for all parties to enhance mutual trust, build consensus, and promote the secure and reliable development.\nChina stands ready to work with the international community to address common challenges through cooperation, enhance common well-being through innovation and build a globally recognized AI governance framework.\nTogether, we can ensure that AI becomes an international public good that truly benefits humanity, enabling people around the world to share in the vast opportunities brought by this transformative technology.",
+      "fullTextCn": "编者按：陈志敏教授是上海复旦大学副校长、全球人工智能创新治理中心（CGAIG）执行主任。该中心在2025年世界人工智能大会（WAIC）暨全球人工智能治理高级别会议开幕式上正式启动，是一个致力于全球人工智能创新治理研究、对话与合作的国际平台。本文仅代表作者观点，不代表CGTN立场。人工智能正为人类发展开辟新前沿。它扩展了人类理解和改造世界的能力，是科技革命和重大产业转型的关键驱动力。\n\n尽管人工智能带来了前所未有的发展机遇，但也带来了风险与挑战，包括安全隐患、伦理困境和技术鸿沟。因此，如何促进创新发展、有效防范风险、以更公平的方式惠及各国人民，是整个国际社会面临的重大课题。中国一贯倡导以人为本的全球人工智能治理与国际合作，遵循“人工智能向善”的基本原则。秉持平等、互利和包容增长，同时平衡发展与安全需求，中国提出了新理念并采取了具体行动，致力于构建更加开放、包容、高效、公平的全球人工智能治理体系。凝聚全球人工智能治理共识：中国高度重视人工智能的发展与治理，并随着技术进步，阐述了应对共同挑战的愿景与方法。中国坚持多边主义，推动协调一致的全球治理。\n\n国际社会在涉及全球人工智能治理的重大问题上仍缺乏共识。各国对人工智能安全、伦理和责任边界存在不同理解，治理规则和技术标准尚未统一。中国于2023年提出《全球人工智能治理倡议》，阐述了发展人工智能向善、确保安全可控、促进包容公平的原则。该倡议呼吁建立开放、公平、高效的治理机制，为全球人工智能治理提供了系统、实用且可操作的指导。中国通过能力建设弥合差距，促进人工智能的包容性发展。\n\n所有国家都应拥有平等发展和使用人工智能的权利。然而，全球人工智能格局仍不平衡，许多发展中国家，尤其是全球南方国家，在人工智能应用和治理方面面临挑战。2026年6月5日，中国东部江苏省南京市的一家商品店内，一个人工智能助手正在运行。作为一个主要的人工智能发展国家，中国将能力建设和技术包容性置于推进全球人工智能治理努力的核心。中国提出了“人工智能向善和普惠能力建设行动计划”和“人工智能+国际合作倡议”。中国还推动通过了首个聚焦人工智能能力建设的联合国大会决议，并在联合国支持的全球人工智能能力建设网络中发挥了积极作用。\n\n通过定期的国际交流与培训项目，中国正在帮助发展中国家增强能力、缩小数字鸿沟。中国推动务实合作，完善国际人工智能治理与合作体系。尽管国际社会已就人工智能治理达成一系列原则和倡议，但仍需付出更大努力，将这些共同愿景转化为切实行动。通过在人工智能发展战略、治理规则和技术标准等领域的合作，中国力求向全球提供人工智能相关公共产品。目标是促进国家间的务实协作，并用强化的全球人工智能治理体系补充现有机制。\n\n通过合作扩大共享机遇：中国始终秉持开放合作的全球视野推动人工智能发展。2026年世界人工智能大会暨全球人工智能治理高级别会议即将在上海举行，主题为“智能伙伴，共创未来”。会议将汇聚全球参与者，展示人工智能创新、产业应用和治理实践的最新进展，同时为交流治理理念和经验提供重要平台。此次会议在中国“十五五”规划（2026-2030年）开局之际举行，具有特殊意义。中国旨在进一步促进科技与产业创新融合，推进并拓展“人工智能+”行动，培育壮大智能产业，赋能经济社会高质量发展。这些努力将为全球人工智能创新与合作贡献更广泛的技术选择、产业机遇和实际应用。\n\n全球人工智能能力建设交流合作中心网络在世界贸易组织总部正式启动。全球人工智能创新治理中心作为中国代表机构和网络创始成员之一出席了仪式，瑞士日内瓦，2026年7月5日。/全球人工智能创新治理中心。上海作为人工智能发展的领先枢纽，已构建起由丰富研究资源和广泛国际网络支撑的综合性人工智能产业生态系统，使该市成为促进全球人工智能合作的关键平台。自2025年世界人工智能大会开幕式上启动以来，全球人工智能创新治理中心一直致力于推广中国在全球人工智能治理方面的主张，并推动人工智能治理和国际合作领域的务实合作。联合国推动的全球人工智能能力建设交流合作中心网络近日在瑞士日内瓦的世界贸易组织总部成立。\n\n作为中国代表机构和网络创始成员之一，全球人工智能创新治理中心致力于将人工智能能力建设专长和国际公共产品嵌入网络制度设计，并推进包容互利的全球人工智能合作愿景。随着世界期待2026年世界人工智能大会，中国正利用其创新资源促进包容共享的全球人工智能发展，释放智能技术的更大效益。鉴于人工智能的不确定性和复杂性，各方必须增进互信、凝聚共识，促进安全可靠的发展。中国愿与国际社会一道，通过合作应对共同挑战，通过创新增进共同福祉，构建全球认可的人工智能治理框架。让我们共同努力，确保人工智能成为真正惠及人类的国际公共产品，使世界各地的人们能够共享这项变革性技术带来的巨大机遇。"
     },
     {
       "id": 2,
       "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-09/Super-Typhoon-Bavi-threatens-China-s-coast-and-far-beyond-1ODTkURTlQY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Super Typhoon Bavi threatens coast, brings rain far beyond its track",
-      "titleCn": "超强台风巴威威胁沿海，远距离带来强降雨",
-      "summary": "Super Typhoon Bavi threatens coast, brings rain far beyond its track",
-      "summaryCn": "超强台风巴威逼近中国沿海，预计将带来广泛强降雨，影响范围远超其路径。",
-      "wordCount": 471,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-17/Scientists-reveal-how-aging-weakens-the-brain-s-protective-barrier-1OQlBVmo6Vq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Scientists reveal how aging weakens the brain's protective barrier",
+      "titleCn": "科学家揭示衰老如何削弱大脑的保护屏障",
+      "summary": "Scientists reveal how aging weakens the brain's protective barrier",
+      "summaryCn": "研究发现衰老通过TGF-β1信号通路增加脑内皮细胞转运活性，导致血脑屏障渗漏，进而影响认知功能。",
+      "wordCount": 526,
       "paragraphs": [
         {
-          "en": ", Updated 22:20, 09-Jul-2026Cargo {{0}} {{1}} along the Zhangjiagang section of the Shenzhang Waterway in east China's Jiangsu Province on July 9, 2026, after leaving the Yangtze River to {{2}} ahead of Super Typhoon Bavi. China on Thursday {{3}} its national {{4}} {{5}} for flooding and typhoons from Level IV to Level III as Super Typhoon Bavi {{6}} over the western Pacific. Forecasters warned it could bring heavy rain not only to the country's southeastern coast but also to parts of north and northeast China far from its {{8}} track. As of 2 p.m. Thursday, Bavi's center was located about 1,030 kilometers southeast of Keelung in China's Taiwan region, {{9}} {{11}} {{10}} winds of 52 meters per second near its center. The storm is moving northwest at 10 to 15 kilometers per hour.",
-          "cn": "2026年7月9日，在中国东部江苏省，货船驶离长江后停泊在申张水道张家港段，以躲避超强台风巴威。随着超强台风巴威在太平洋西部增强，中国于周四将防洪防台风国家应急响应从四级提升至三级。预报员警告称，巴威不仅可能给中国东南沿海带来强降雨，还可能影响远离其预测路径的华北和东北部分地区。截至周四下午2点，巴威的中心位于中国台湾地区基隆东南约1030公里处，中心附近最大持续风速为每秒52米。风暴正以每小时10至15公里的速度向西北移动。"
+          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive impairment. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{2}} by which aging weakens the blood-brain barrier, the brain's protective {{3}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial {{4}} drives blood-brain barrier {{5}} during aging.\"\nThe study shows how aging disrupts transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a selective security system.",
+          "cn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是，大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院的科学家们发现了一种机制，通过这种机制，衰老会削弱血脑屏障——大脑与血液之间的保护性界面。这项研究发表在《神经元》期刊上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究显示，衰老如何破坏脑血管细胞中的运输过程，导致血脑屏障渗漏。血脑屏障（BBB）就像一个选择性安全系统。"
         },
         {
-          "en": "According to Chinese meteorological authorities, Bavi is expected to {{12}} or make {{13}} along the northern coast of Taiwan on Saturday before making a second landfall between Fuqing in Fujian Province and Wenling in Zhejiang Province later that night. The storm is forecast to remain at super typhoon or strong typhoon strength near the Taiwan region before weakening slightly to strong typhoon or typhoon strength by its second landfall on the mainland. But Bavi's impact is expected to extend far beyond its projected track. The China Meteorological Administration forecasts heavy to {{14}} rain from Thursday to Saturday across parts of northern Shaanxi Province, the Beijing-Tianjin-Hebei region and central and southern northeast China, with some areas expected to receive {{15}} heavy {{16}}. Forecasters warned that some regions could see {{17}} rainfall and unusually high {{18}} totals. In Beijing, the upcoming event could become the strongest rainfall {{19}} since this year's flood season began in July.",
-          "cn": "据中国气象部门称，预计巴威将于周六擦过或登陆台湾北部沿海，随后于当晚在福建省福清市和浙江省温岭市之间第二次登陆。预计风暴在台湾地区附近仍将保持超强台风或强台风强度，随后在第二次登陆大陆前略有减弱至强台风或台风强度。但巴威的影响预计将远远超出其预测路径。中国气象局预测，从周四到周六，陕西中北部、京津冀地区以及东北中南部将出现大到暴雨，部分地区预计将出现异常强降水。预报员警告称，一些地区可能出现持续降雨和异常高的累积总量。在北京，即将到来的这次降雨可能成为自今年7月汛期开始以来最强的一次降雨过程。"
+          "en": "It allows essential {{6}} to reach the brain while preventing potentially harmful substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{7}} disorders. Scientists have traditionally {{8}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{9}} in middle-aged mice and worsened in older animals.",
+          "cn": "它允许必需营养物质进入大脑，同时阻止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上认为，BBB渗漏主要源于脑内壁血管细胞之间紧密连接的损伤。然而，这项新研究发现，在衰老过程中，另一种过程发生得更早。通过检查不同年龄的小鼠，研究人员发现，BBB渗漏在中年小鼠中已经可检测到，并在老年动物中进一步恶化。"
         },
         {
-          "en": "To support preparations for Typhoon Bavi, the Office of the National Flood Control and Drought Relief Headquarters, the Ministry of Emergency Management, and the National Food and Strategic Reserves Administration have {{20}} 50,000 centrally stored disaster relief supplies to Zhejiang and Fujian provinces. The supplies, including folding beds, summer quilts and family emergency kits, will support the {{21}}, temporary shelter and {{22}} of affected residents. Meteorologists say Bavi's vast circulation will draw warm, moisture-rich air from the Pacific deep into inland China, even hundreds of kilometers from the storm itself. As that moisture collides with cooler air moving south, conditions become favorable for widespread rainfall. Sun Qianqian, a meteorological analyst with China Weather Network, said the northward shift of the subtropical high will help steer that moisture toward north and northeast China, creating favorable conditions for intense downpours far from the typhoon itself. Authorities said they will continue to monitor Bavi's development and adjust the emergency response as needed.",
-          "cn": "为支持台风巴威的防御工作，国家防汛抗旱总指挥部办公室、应急管理部和国家粮食和物资储备局已向浙江和福建两省调拨了5万件中央储备救灾物资。这些物资包括折叠床、夏凉被和家庭应急包，将用于支持受影响居民的疏散、临时安置和转移安置。气象学家表示，巴威庞大的环流将把太平洋温暖潮湿的空气深入内陆，甚至远至距离风暴本身数百公里的地方。当这些水汽与南下的冷空气相遇时，就形成了有利于大范围降雨的条件。中国天气网气象分析师孙倩倩表示，副热带高压的北移将引导这些水汽向华北和东北地区输送，为远离台风本身的地区出现强降雨创造了有利条件。有关部门表示，将继续监测巴威的发展情况，并根据需要调整应急响应。"
+          "en": "The change appeared early in the {{10}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{11}}. Instead, the cells' internal transport system became {{12}} active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
+          "cn": "这种变化最早出现在海马体——一个对学习和记忆至关重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制。”研究团队确定了一种名为Mfsd2a的蛋白质是这一保护系统的重要组成部分。"
         },
         {
-          "en": "Forecasters also noted that the typhoon's track after making landfall remains uncertain, meaning the location and intensity of rainfall across inland regions could still change.",
-          "cn": "预报员还指出，台风登陆后的路径仍不确定，这意味着内陆地区降雨的位置和强度仍可能发生变化。"
+          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport {{13}}, increased. When the researchers {{14}} endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a {{15}} molecule involved in {{16}}, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
+          "cn": "Mfsd2a通常限制不必要的跨脑血管运输。其水平随年龄增长而下降，而参与形成运输囊泡的蛋白质Caveolin-1则增加。当研究人员恢复衰老小鼠内皮细胞中Mfsd2a的表达或敲低Caveolin-1时，异常囊泡运输和BBB渗漏显著减少。随后，研究人员探究了Mfsd2a在衰老过程中下降的原因。他们发现，随着小鼠年龄增长，TGF-β1（一种参与炎症、组织修复和衰老的信号分子）在脑和血液中的水平均升高。"
+        },
+        {
+          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage. By contrast, {{18}} TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
+          "cn": "过量的TGF-β1降低了脑内壁血管细胞中Mfsd2a的表达，导致其运输活性增加。提高年轻小鼠的TGF-β1水平，使它们出现了通常见于衰老BBB的几种特征，包括渗漏增加。相反，阻断衰老小鼠的TGF-β信号，则减少了BBB渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的BBB损伤并非仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。"
+        },
+        {
+          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing {{17}} activation of TGF-β signaling. Further research will be needed to determine whether these {{19}} can be safely translated into treatments for humans.",
+          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号的过度激活。需要进一步研究来确定这些策略能否安全地转化为人类的治疗方法。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "vessels",
-          "hint": "n. 船只",
+          "answer": "cognitive",
+          "hint": "adj. 认知的",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "berth",
-          "hint": "v. 停泊",
+          "answer": "cerebrovascular",
+          "hint": "adj. 脑血管的",
           "difficulty": "hard"
         },
         {
           "id": 2,
-          "answer": "shelter",
-          "hint": "v. 躲避",
+          "answer": "mechanism",
+          "hint": "n. 机制",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "upgraded",
-          "hint": "v. 升级",
+          "answer": "interface",
+          "hint": "n. 界面",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "emergency",
-          "hint": "n. 紧急情况",
-          "difficulty": "easy"
-        },
-        {
-          "id": 5,
-          "answer": "response",
-          "hint": "n. 响应",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "intensified",
-          "hint": "v. 增强",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "projected",
-          "hint": "adj. 预测的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "packing",
-          "hint": "v. 携带",
+          "answer": "transcytosis",
+          "hint": "n. 转胞吞作用",
           "difficulty": "hard"
         },
         {
+          "id": 5,
+          "answer": "leakage",
+          "hint": "n. 渗漏",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "nutrients",
+          "hint": "n. 营养物质",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "neurodegenerative",
+          "hint": "adj. 神经退行性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "attributed",
+          "hint": "v. 归因于",
+          "difficulty": "medium"
+        },
+        {
           "id": 9,
-          "answer": "sustained",
-          "hint": "adj. 持续的",
+          "answer": "detectable",
+          "hint": "adj. 可检测的",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "maximum",
-          "hint": "adj. 最大的",
-          "difficulty": "easy"
+          "answer": "hippocampus",
+          "hint": "n. 海马体",
+          "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "brush",
-          "hint": "v. 擦过",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "landfall",
-          "hint": "n. 登陆",
+          "answer": "intact",
+          "hint": "adj. 完整的",
           "difficulty": "medium"
         },
         {
-          "id": 13,
-          "answer": "torrential",
-          "hint": "adj. 倾盆的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "exceptionally",
+          "id": 12,
+          "answer": "abnormally",
           "hint": "adv. 异常地",
           "difficulty": "medium"
         },
         {
+          "id": 13,
+          "answer": "vesicles",
+          "hint": "n. 囊泡",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "restored",
+          "hint": "v. 恢复",
+          "difficulty": "easy"
+        },
+        {
           "id": 15,
-          "answer": "precipitation",
-          "hint": "n. 降水",
+          "answer": "signaling",
+          "hint": "n. 信号传导",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "prolonged",
-          "hint": "adj. 持续的",
+          "answer": "inflammation",
+          "hint": "n. 炎症",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "excessive",
+          "hint": "adj. 过量的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "blocking",
+          "hint": "v. 阻断",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
+          "answer": "strategies",
+          "hint": "n. 策略",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "As people age, many experience memory decline and slower cognitive processing, along with a higher risk of cerebrovascular disease and cognitive impairment. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline.\nScientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a mechanism by which aging weakens the blood-brain barrier, the brain's protective interface with the bloodstream.\nThe study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier leakage during aging.\"\nThe study shows how aging disrupts transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a selective security system. It allows essential nutrients to reach the brain while preventing potentially harmful substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several neurodegenerative disorders.\nScientists have traditionally attributed BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging.\nBy examining mice at different ages, the researchers found that BBB leakage was already detectable in middle-aged mice and worsened in older animals. The change appeared early in the hippocampus, a brain region important for learning and memory.\nAt this stage, the seals between blood vessel cells remained largely intact. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue.\n\"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said.\nThe team identified a protein called Mfsd2a as an important part of this protective system. Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased.\nWhen the researchers restored endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced.\nThe researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.\nExcessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage.\nBy contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests.\nThe findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.\nThe study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing excessive activation of TGF-β signaling. Further research will be needed to determine whether these strategies can be safely translated into treatments for humans.",
+      "fullTextCn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是，大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院的科学家们发现了一种机制，通过这种机制，衰老会削弱血脑屏障——大脑与血液之间的保护性界面。这项研究发表在《神经元》期刊上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究显示，衰老如何破坏脑血管细胞中的运输过程，导致血脑屏障渗漏。血脑屏障（BBB）就像一个选择性安全系统。\n\n它允许必需营养物质进入大脑，同时阻止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上认为，BBB渗漏主要源于脑内壁血管细胞之间紧密连接的损伤。然而，这项新研究发现，在衰老过程中，另一种过程发生得更早。通过检查不同年龄的小鼠，研究人员发现，BBB渗漏在中年小鼠中已经可检测到，并在老年动物中进一步恶化。\n\n这种变化最早出现在海马体——一个对学习和记忆至关重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制。”研究团队确定了一种名为Mfsd2a的蛋白质是这一保护系统的重要组成部分。\n\nMfsd2a通常限制不必要的跨脑血管运输。其水平随年龄增长而下降，而参与形成运输囊泡的蛋白质Caveolin-1则增加。当研究人员恢复衰老小鼠内皮细胞中Mfsd2a的表达或敲低Caveolin-1时，异常囊泡运输和BBB渗漏显著减少。随后，研究人员探究了Mfsd2a在衰老过程中下降的原因。他们发现，随着小鼠年龄增长，TGF-β1（一种参与炎症、组织修复和衰老的信号分子）在脑和血液中的水平均升高。\n\n过量的TGF-β1降低了脑内壁血管细胞中Mfsd2a的表达，导致其运输活性增加。提高年轻小鼠的TGF-β1水平，使它们出现了通常见于衰老BBB的几种特征，包括渗漏增加。相反，阻断衰老小鼠的TGF-β信号，则减少了BBB渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的BBB损伤并非仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号的过度激活。需要进一步研究来确定这些策略能否安全地转化为人类的治疗方法。"
+    },
+    {
+      "id": 3,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-09/AI-applications-move-into-more-everyday-scenarios-1ODhOvc9w7S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "AI applications move into more everyday scenarios",
+      "titleCn": "人工智能应用进入更多日常场景",
+      "summary": "The 25th China Internet Conference held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.",
+      "summaryCn": "第25届中国互联网大会展示了人工智能在城市治理、工业制造、零售和公共服务等领域的实际应用，专家预测到2030年AI生成流量将占全球互联网流量的60%。",
+      "wordCount": 463,
+      "paragraphs": [
+        {
+          "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders {{1}} new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{2}} into sectors ranging from urban {{3}} and industrial {{4}} to {{5}} and public services. Speaking via video at the opening ceremony, Wu Hequan, an {{6}} of the Chinese Academy of Engineering, said AI-native technologies are {{7}} the internet itself. While large language models excel at general reasoning, AI agents are designed to {{8}} specific tasks and future digital {{9}} will increasingly rely on {{10}} among multiple intelligent agents rather than {{11}} AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
+          "cn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验技术走向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI解决方案。大会于7月8日至10日举行，重点展示了AI代理、大型语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士吴贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大型语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心试用VR产品。"
+        },
+        {
+          "en": "According to Wu, AI-generated {{12}} is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the {{13}} source of token-based {{14}}. The shift, he said, will require internet {{15}} to {{16}} toward higher bandwidth, lower {{17}} and stronger computing {{18}}. The conference also demonstrated how AI is being {{19}} in practical {{20}}. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{21}} and building maintenance, providing city managers with real-time {{22}} and decision-making tools. Industry representatives also emphasized that AI innovation is creating {{23}} economic value.",
+          "cn": "据吴贺铨称，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。大会还展示了AI在实际场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
+        },
+        {
+          "en": "Participants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily {{24}} {{25}} value while significantly reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{26}} across different computing chips, reflects broader efforts to build more efficient and {{27}} AI infrastructure. As AI technologies continue to {{28}}, industry experts believe the focus is shifting from developing models to deploying them at scale.",
+          "cn": "第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在大会上，快手表示其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，参会者还将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的推出是一个开放AI软件平台，旨在提高不同计算芯片之间的兼容性，反映了构建更高效、更可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。"
+        },
+        {
+          "en": "The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
+          "cn": "大会强调了中国加速在实体经济中采用AI的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "experimental",
+          "hint": "adj. 实验性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "showcased",
+          "hint": "v. 展示",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "integrated",
+          "hint": "v. 整合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "manufacturing",
+          "hint": "n. 制造业",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "retail",
+          "hint": "n. 零售",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "academician",
+          "hint": "n. 院士",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "reshaping",
+          "hint": "v. 重塑",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "execute",
+          "hint": "v. 执行",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "ecosystems",
+          "hint": "n. 生态系统",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "collaboration",
+          "hint": "n. 协作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "isolated",
+          "hint": "adj. 孤立的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "traffic",
+          "hint": "n. 流量",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "dominant",
+          "hint": "adj. 主要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "interactions",
+          "hint": "n. 交互",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "evolve",
+          "hint": "v. 演进",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "latency",
+          "hint": "n. 延迟",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "capabilities",
+          "hint": "n. 能力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
+          "answer": "deployed",
+          "hint": "v. 部署",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "scenarios",
+          "hint": "n. 场景",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "optimization",
+          "hint": "n. 优化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "visualization",
+          "hint": "n. 可视化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 23,
+          "answer": "measurable",
+          "hint": "adj. 可衡量的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "gross",
+          "hint": "adj. 总的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 25,
+          "answer": "merchandise",
+          "hint": "n. 商品",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "compatibility",
+          "hint": "n. 兼容性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 27,
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 28,
+          "answer": "mature",
+          "hint": "v. 成熟",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nArtificial intelligence is moving rapidly from experimental technology to real-world applications, as industry leaders showcased new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing.\nHeld from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.\nSpeaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are reshaping the internet itself.\nWhile large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on collaboration among multiple intelligent agents rather than isolated AI systems.\nParticipants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAccording to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the dominant source of token-based interactions. The shift, he said, will require internet infrastructure to evolve toward higher bandwidth, lower latency and stronger computing capabilities.\nThe conference also demonstrated how AI is being deployed in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy optimization and building maintenance, providing city managers with real-time visualization and decision-making tools.\nIndustry representatives also emphasized that AI innovation is creating measurable economic value.\nParticipants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAt the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while significantly reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services.\nBeyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve compatibility across different computing chips, reflects broader efforts to build more efficient and sustainable AI infrastructure.\nAs AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale. The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
+      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验技术走向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI解决方案。大会于7月8日至10日举行，重点展示了AI代理、大型语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士吴贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大型语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心试用VR产品。\n\n据吴贺铨称，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。大会还展示了AI在实际场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在大会上，快手表示其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，参会者还将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的推出是一个开放AI软件平台，旨在提高不同计算芯片之间的兼容性，反映了构建更高效、更可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。\n\n大会强调了中国加速在实体经济中采用AI的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+    },
+    {
+      "id": 4,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-16/China-viewed-more-favorably-than-US-for-first-time-Pew-survey-finds-1OPcsstylnq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "China viewed more favorably than US, Pew survey finds",
+      "titleCn": "皮尤调查显示中国全球好感度超过美国",
+      "summary": "A newly released Pew Research Center survey revealed that China now boasts more favorable global perceptions than the United States across a wide range of countries.",
+      "summaryCn": "皮尤研究中心最新调查显示，中国在全球多数国家中的好感度已超越美国，尤其在美国传统盟友中表现显著。",
+      "wordCount": 296,
+      "paragraphs": [
+        {
+          "en": "A newly released Pew Research Center survey revealed that China now boasts more {{0}} global {{1}} than the United States across a wide range of countries. Published on Wednesday, the latest findings {{2}} from a survey of 42,151 adults conducted between February 8 and May 13. Among the 36 {{3}} nations, {{4}} in most countries hold a more positive view of China than the US. Notably, the {{5}} extends to longtime US {{6}}, including Britain, Canada, France and Germany. According to the Washington Post, people in these four countries viewed the US as favorably as, or more favorably than, China last year. By {{7}}, only six countries hold more favorable {{8}} toward the US: India, Japan, the Philippines, South Korea, Israel and Poland. \"Some of the views that we see of the US are at or near {{9}} lows,\" said Laura Silver, associate director of Pew's Global Attitudes Research and one of the researchers of the study, as reported by the Washington Post.",
+          "cn": "皮尤研究中心最新发布的一项调查显示，在众多国家中，中国目前在全球的正面形象比美国更受认可。这份于周三公布的最新调查结果，基于2月8日至5月13日期间对42151名成年人进行的问卷调查。在36个受调查国家中，大多数国家民众对中国的看法比美国更为积极。值得注意的是，这种转变也延伸到了美国的长期盟友，包括英国、加拿大、法国和德国。据《华盛顿邮报》报道，去年这四个国家的民众对美国的好感度与对中国相当或更高。相比之下，只有六个国家（印度、日本、菲律宾、韩国、以色列和波兰）对美国持更积极态度。皮尤全球态度研究副主任、该研究的参与者之一劳拉·西尔弗向《华盛顿邮报》表示：“我们看到美国的一些形象评价正处于或接近历史低点。”"
+        },
+        {
+          "en": "Pew's findings {{10}} with independent global polling trends. Last year, according to the BBC, polling company Gallup showed that China had {{11}} the US in global {{12}} ratings. The survey further highlights {{13}} global views on foreign policy and global {{14}}. According to Bloomberg, respondents in 17 middle-income countries express greater concern about US foreign policy than about China's. More respondents in these countries regard China as a more credible partner than the US and believe that China makes greater contributions to global peace and stability. Across Latin America specifically, public opinion has tilted slightly in China's favor, driven primarily by declining confidence in the United States. Survey participants are much more likely to say the US {{15}} in the affairs of other countries than they are to say the same of China.",
+          "cn": "皮尤的调查结果与全球独立民调趋势一致。据英国广播公司报道，去年民调机构盖洛普显示，中国在全球支持率上已超越美国。该调查进一步凸显了全球对外交政策和全球治理的不同看法。据彭博社报道，17个中等收入国家的受访者对美国外交政策的担忧程度高于对中国外交政策的担忧。这些国家中，更多受访者认为中国比美国更可靠的合作伙伴，并认为中国对全球和平与稳定做出了更大贡献。特别是在拉丁美洲，公众舆论略微倾向于中国，这主要是由于对美国信心的下降。调查参与者更倾向于认为美国干涉他国内政，而非中国。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "favorable",
+          "hint": "adj. 有利的；赞同的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "perceptions",
+          "hint": "n. 看法；认知",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "stemmed",
+          "hint": "v. 源于；来自",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "surveyed",
+          "hint": "v. 调查；审视",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "majorities",
+          "hint": "n. 多数；大多数",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "shift",
+          "hint": "n. 转变；变化",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "allies",
+          "hint": "n. 盟友；同盟国",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "contrast",
+          "hint": "n. 对比；差异",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "attitudes",
+          "hint": "n. 态度；看法",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "historic",
+          "hint": "adj. 历史性的；有历史意义的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "aligned",
+          "hint": "v. 与……一致；对齐",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "surpassed",
+          "hint": "v. 超过；超越",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "approval",
+          "hint": "n. 赞成；认可",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "contrasting",
+          "hint": "adj. 形成对比的；截然不同的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "governance",
+          "hint": "n. 治理；管理",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "interferes",
+          "hint": "v. 干涉；干预",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "A newly released Pew Research Center survey revealed that China now boasts more favorable global perceptions than the United States across a wide range of countries.\nPublished on Wednesday, the latest findings stemmed from a survey of 42,151 adults conducted between February 8 and May 13. Among the 36 surveyed nations, majorities in most countries hold a more positive view of China than the US.\nNotably, the shift extends to longtime US allies, including Britain, Canada, France and Germany. According to the Washington Post, people in these four countries viewed the US as favorably as, or more favorably than, China last year.\nBy contrast, only six countries hold more favorable attitudes toward the US: India, Japan, the Philippines, South Korea, Israel and Poland.\n\"Some of the views that we see of the US are at or near historic lows,\" said Laura Silver, associate director of Pew's Global Attitudes Research and one of the researchers of the study, as reported by the Washington Post.\nPew's findings aligned with independent global polling trends. Last year, according to the BBC, polling company Gallup showed that China had surpassed the US in global approval ratings.\nThe survey further highlights contrasting global views on foreign policy and global governance. According to Bloomberg, respondents in 17 middle-income countries express greater concern about US foreign policy than about China's. More respondents in these countries regard China as a more credible partner than the US and believe that China makes greater contributions to global peace and stability.\nAcross Latin America specifically, public opinion has tilted slightly in China's favor, driven primarily by declining confidence in the United States. Survey participants are much more likely to say the US interferes in the affairs of other countries than they are to say the same of China.",
+      "fullTextCn": "皮尤研究中心最新发布的一项调查显示，在众多国家中，中国目前在全球的正面形象比美国更受认可。这份于周三公布的最新调查结果，基于2月8日至5月13日期间对42151名成年人进行的问卷调查。在36个受调查国家中，大多数国家民众对中国的看法比美国更为积极。值得注意的是，这种转变也延伸到了美国的长期盟友，包括英国、加拿大、法国和德国。据《华盛顿邮报》报道，去年这四个国家的民众对美国的好感度与对中国相当或更高。相比之下，只有六个国家（印度、日本、菲律宾、韩国、以色列和波兰）对美国持更积极态度。皮尤全球态度研究副主任、该研究的参与者之一劳拉·西尔弗向《华盛顿邮报》表示：“我们看到美国的一些形象评价正处于或接近历史低点。”\n\n皮尤的调查结果与全球独立民调趋势一致。据英国广播公司报道，去年民调机构盖洛普显示，中国在全球支持率上已超越美国。该调查进一步凸显了全球对外交政策和全球治理的不同看法。据彭博社报道，17个中等收入国家的受访者对美国外交政策的担忧程度高于对中国外交政策的担忧。这些国家中，更多受访者认为中国比美国更可靠的合作伙伴，并认为中国对全球和平与稳定做出了更大贡献。特别是在拉丁美洲，公众舆论略微倾向于中国，这主要是由于对美国信心的下降。调查参与者更倾向于认为美国干涉他国内政，而非中国。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-07-20/detail-ihfhkrtk6181054.shtml",
+      "title": "Chinese state-owned capital operation firms announce share purchase plans for confidence in China's capital market",
+      "titleCn": "中国国有资本运营公司宣布增持计划以提振资本市场信心",
+      "summary": "Chinese state-owned investment firms, China Reform Holdings Corporation Ltd. and China Chengtong Holdings Group Ltd. announced on Sunday that they remain firmly confident in the prospects of China's capital market and will continue to increase holdings in stocks of central state-owned enterprises (SOEs), Xinhua News Agency reported.",
+      "summaryCn": "中国两家国有资本运营公司宣布将通过增持央企股票和使用再贷款工具来维护资本市场稳定。",
+      "wordCount": 215,
+      "paragraphs": [
+        {
+          "en": "(ECNS) -- Chinese state-owned investment {{0}}, China Reform Holdings Corporation Ltd. and China Chengtong Holdings Group Ltd. {{1}} on Sunday that they remain firmly {{2}} in the {{3}} of China's {{27}} {{28}} and will continue to {{4}} {{5}} in stocks of central state-owned enterprises (SOEs), Xinhua News Agency reported. China Reform Holdings said that it firmly supports the {{6}} {{7}} and high-quality development of central SOEs. Its {{8}} has {{9}} over 50 billion yuan (about $7.4 billion) from the special re-lending {{10}} for share buybacks and stake increases, along with matching {{24}}, to {{11}} market {{12}}. The company said it will continue to make full use of the re-lending policy tool while also using its own funds to increase holdings in stocks of central SOEs, {{13}} {{14}} the {{15}} value of core capital market {{16}}. On Sunday evening, China Chengtong said that it and its subsidiaries have recently made {{17}} {{18}} of nearly 10 billion yuan worth of stocks of central SOEs. China Chengtong added that it firmly {{19}} in the prospects of China's {{20}} and capital market, and will continue to use its own funds and stock buyback re-lending facilities to make {{21}} purchases of SOE and technology {{22}} stocks and {{23}} funds, fully {{25}} to maintaining the stable {{26}} of the capital market.",
+          "cn": "据新华社报道，中国国有投资公司中国国新控股有限责任公司和中国诚通控股集团有限公司于周日宣布，他们对中国资本市场的前景保持坚定信心，并将继续增持中央国有企业股票。中国国新表示，坚定支持中央企业的科技创新和高质量发展。其子公司已利用超过500亿元人民币（约合74亿美元）的专项再贷款资金用于股票回购和增持，并配合自有资金，以维护市场稳定。该公司表示，将继续充分利用再贷款政策工具，同时使用自有资金增持央企股票，坚决维护核心资本市场资产的战略价值。周日晚间，中国诚通表示，其及子公司近期累计购买了近100亿元人民币的央企股票。中国诚通补充道，其坚信中国经济和资本市场的前景，并将继续使用自有资金和股票回购再贷款工具，大规模购买国有企业、科技企业股票及交易所交易基金，全力维护资本市场的稳定运行。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "firms",
+          "hint": "n. 公司",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "announced",
+          "hint": "v. 宣布",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "confident",
+          "hint": "adj. 有信心的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "prospects",
+          "hint": "n. 前景",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "increase",
+          "hint": "v. 增加",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "holdings",
+          "hint": "n. 持股",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "technological",
+          "hint": "adj. 技术的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "innovation",
+          "hint": "n. 创新",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "subsidiary",
+          "hint": "n. 子公司",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "utilized",
+          "hint": "v. 利用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "facility",
+          "hint": "n. 设施；工具",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "maintain",
+          "hint": "v. 维持",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "stability",
+          "hint": "n. 稳定",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "resolutely",
+          "hint": "adv. 坚决地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "safeguarding",
+          "hint": "v. 保护",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "strategic",
+          "hint": "adj. 战略的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "assets",
+          "hint": "n. 资产",
           "difficulty": "medium"
         },
         {
@@ -323,488 +834,73 @@
         },
         {
           "id": 18,
-          "answer": "episode",
-          "hint": "n. 事件",
-          "difficulty": "medium"
+          "answer": "purchases",
+          "hint": "n. 购买",
+          "difficulty": "easy"
         },
         {
           "id": 19,
-          "answer": "allocated",
-          "hint": "v. 调拨",
-          "difficulty": "medium"
+          "answer": "believes",
+          "hint": "v. 相信",
+          "difficulty": "easy"
         },
         {
           "id": 20,
-          "answer": "evacuation",
-          "hint": "n. 疏散",
-          "difficulty": "medium"
+          "answer": "economy",
+          "hint": "n. 经济",
+          "difficulty": "easy"
         },
         {
           "id": 21,
-          "answer": "resettlement",
-          "hint": "n. 安置",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": ", Updated 22:20, 09-Jul-2026Cargo vessels berth along the Zhangjiagang section of the Shenzhang Waterway in east China's Jiangsu Province on July 9, 2026, after leaving the Yangtze River to shelter ahead of Super Typhoon Bavi. \nChina on Thursday upgraded its national emergency response for flooding and typhoons from Level IV to Level III as Super Typhoon Bavi intensified over the western Pacific.\nForecasters warned it could bring heavy rain not only to the country's southeastern coast but also to parts of north and northeast China far from its projected track.\nAs of 2 p.m. Thursday, Bavi's center was located about 1,030 kilometers southeast of Keelung in China's Taiwan region, packing maximum sustained winds of 52 meters per second near its center. The storm is moving northwest at 10 to 15 kilometers per hour.\nAccording to Chinese meteorological authorities, Bavi is expected to brush or make landfall along the northern coast of Taiwan on Saturday before making a second landfall between Fuqing in Fujian Province and Wenling in Zhejiang Province later that night. The storm is forecast to remain at super typhoon or strong typhoon strength near the Taiwan region before weakening slightly to strong typhoon or typhoon strength by its second landfall on the mainland.\nBut Bavi's impact is expected to extend far beyond its projected track.\nThe China Meteorological Administration forecasts heavy to torrential rain from Thursday to Saturday across parts of northern Shaanxi Province, the Beijing-Tianjin-Hebei region and central and southern northeast China, with some areas expected to receive exceptionally heavy precipitation.\nForecasters warned that some regions could see prolonged rainfall and unusually high cumulative totals. In Beijing, the upcoming event could become the strongest rainfall episode since this year's flood season began in July.\nTo support preparations for Typhoon Bavi, the Office of the National Flood Control and Drought Relief Headquarters, the Ministry of Emergency Management, and the National Food and Strategic Reserves Administration have allocated 50,000 centrally stored disaster relief supplies to Zhejiang and Fujian provinces. The supplies, including folding beds, summer quilts and family emergency kits, will support the evacuation, temporary shelter and resettlement of affected residents.\nMeteorologists say Bavi's vast circulation will draw warm, moisture-rich air from the Pacific deep into inland China, even hundreds of kilometers from the storm itself. As that moisture collides with cooler air moving south, conditions become favorable for widespread rainfall.\nSun Qianqian, a meteorological analyst with China Weather Network, said the northward shift of the subtropical high will help steer that moisture toward north and northeast China, creating favorable conditions for intense downpours far from the typhoon itself.\nAuthorities said they will continue to monitor Bavi's development and adjust the emergency response as needed. Forecasters also noted that the typhoon's track after making landfall remains uncertain, meaning the location and intensity of rainfall across inland regions could still change.",
-      "fullTextCn": "2026年7月9日，在中国东部江苏省，货船驶离长江后停泊在申张水道张家港段，以躲避超强台风巴威。随着超强台风巴威在太平洋西部增强，中国于周四将防洪防台风国家应急响应从四级提升至三级。预报员警告称，巴威不仅可能给中国东南沿海带来强降雨，还可能影响远离其预测路径的华北和东北部分地区。截至周四下午2点，巴威的中心位于中国台湾地区基隆东南约1030公里处，中心附近最大持续风速为每秒52米。风暴正以每小时10至15公里的速度向西北移动。\n\n据中国气象部门称，预计巴威将于周六擦过或登陆台湾北部沿海，随后于当晚在福建省福清市和浙江省温岭市之间第二次登陆。预计风暴在台湾地区附近仍将保持超强台风或强台风强度，随后在第二次登陆大陆前略有减弱至强台风或台风强度。但巴威的影响预计将远远超出其预测路径。中国气象局预测，从周四到周六，陕西中北部、京津冀地区以及东北中南部将出现大到暴雨，部分地区预计将出现异常强降水。预报员警告称，一些地区可能出现持续降雨和异常高的累积总量。在北京，即将到来的这次降雨可能成为自今年7月汛期开始以来最强的一次降雨过程。\n\n为支持台风巴威的防御工作，国家防汛抗旱总指挥部办公室、应急管理部和国家粮食和物资储备局已向浙江和福建两省调拨了5万件中央储备救灾物资。这些物资包括折叠床、夏凉被和家庭应急包，将用于支持受影响居民的疏散、临时安置和转移安置。气象学家表示，巴威庞大的环流将把太平洋温暖潮湿的空气深入内陆，甚至远至距离风暴本身数百公里的地方。当这些水汽与南下的冷空气相遇时，就形成了有利于大范围降雨的条件。中国天气网气象分析师孙倩倩表示，副热带高压的北移将引导这些水汽向华北和东北地区输送，为远离台风本身的地区出现强降雨创造了有利条件。有关部门表示，将继续监测巴威的发展情况，并根据需要调整应急响应。\n\n预报员还指出，台风登陆后的路径仍不确定，这意味着内陆地区降雨的位置和强度仍可能发生变化。"
-    },
-    {
-      "id": 3,
-      "category": "military",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-17/President-Xi-meets-Thai-PM-1OQUE6SDAdy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "Xi: China supports new Thai administration in carrying out governance",
-      "titleCn": "习近平：中国支持泰国新政府有效施政",
-      "summary": "Chinese President Xi Jinping met with Thai Prime Minister Anutin Charnvirakul in Shanghai on Friday.",
-      "summaryCn": "中国国家主席习近平表示支持泰国新政府，并呼吁加强中泰铁路建设及打击跨境犯罪合作。",
-      "wordCount": 419,
-      "paragraphs": [
-        {
-          "en": ", Updated 22:12, 17-Jul-2026Chinese President Xi Jinping (R) shakes hands with Thai Prime Minister Anutin Charnvirakul, who is in China to attend the 2026 World Artificial Intelligence Conference and High-Level Meeting on Global AI Governance in Shanghai, east China, July 17, 2026. /Xinhua\nChinese President Xi Jinping on Friday said China firmly supports Thailand in {{0}} a development path suited to its national conditions, and supports the new Thai administration in carrying out {{1}} effectively. Xi made the {{2}} in his meeting with Thai Prime Minister Anutin Charnvirakul, who is in Shanghai to attend the 2026 World AI Conference and High-Level Meeting on Global AI Governance in Shanghai and on his official visit to China. Noting that China places the development of China-Thailand relations in an important position in its {{3}} {{4}}, Xi said China has always been a reliable and {{5}} {{6}} cooperative partner for Thailand. He said the two countries should {{7}} the building of a more stable, prosperous and {{8}} China-Thailand community with a shared future to {{9}} their respective {{10}} and contribute to peace, stability, development and {{11}} in the region. Xi also called on both sides to accelerate the construction of the China-Thailand railway and the railway {{12}} among China, Laos, and Thailand and expand cooperation in {{13}} sectors, including artificial intelligence, aerospace and clean energy.",
-          "cn": "中国国家主席习近平周五表示，中国坚定支持泰国走符合自身国情的发展道路，并支持泰国新政府有效施政。习近平是在会见泰国总理阿努廷·查恩维拉库尔时作出上述表示的。阿努廷正在上海出席2026年世界人工智能大会暨全球人工智能治理高级别会议，并对中国进行正式访问。习近平指出，中国始终将发展中泰关系置于周边外交的重要位置，中国一直是泰国可靠、值得信赖的战略合作伙伴。他表示，两国应加快构建更加稳定、繁荣、可持续的中泰命运共同体，助力各自现代化建设，为地区和平、稳定、发展、繁荣作出贡献。习近平还呼吁双方加快中泰铁路以及中老泰铁路联通建设，拓展人工智能、航空航天、清洁能源等新兴领域合作。"
-        },
-        {
-          "en": "Xi stressed that China and Thailand will continue to step up efforts to {{14}} cross-border crimes, including online gambling and telecom {{15}}, in order to {{16}} a secure environment for practical cooperation and people-to-people exchanges between the two countries. China supports Thailand in playing a greater role in international and regional affairs, he said. Properly handling the Thailand-Cambodia border {{17}} serves the common and long-term interests of both countries and their peoples, he said, expressing the hope that the two sides will remain committed to dialogue and consultation and settle the dispute peacefully. China stands ready to continue playing a constructive role in this process, he added. Thailand is committed to deepening relations with China by maintaining close high-level exchanges and expanding practical cooperation in such areas as trade, investment, high technology and connectivity, Anutin said. Thailand is willing to work with China to jointly combat online gambling and telecom fraud, strengthen cooperation on global AI governance, and enhance coordination and collaboration to promote regional and global peace, stability, development and prosperity, he said.",
-          "cn": "习近平强调，中泰将继续加大力度打击跨境犯罪，包括网络赌博和电信诈骗，为两国务实合作和人文交流营造安全环境。他表示，中国支持泰国在国际和地区事务中发挥更大作用。妥善处理泰柬边境争端符合两国和两国人民的共同和长远利益，希望双方坚持对话协商，和平解决争端。中国愿继续在这一进程中发挥建设性作用。阿努廷表示，泰国致力于通过保持密切高层交往、扩大贸易、投资、高科技和互联互通等领域的务实合作来深化对华关系。泰国愿与中国共同打击网络赌博和电信诈骗，加强全球人工智能治理合作，加强协调协作，促进地区和全球和平、稳定、发展、繁荣。"
-        },
-        {
-          "en": "Thailand remains committed to the peaceful settlement of the Thailand-Cambodia conflict and appreciates China's fair and {{18}} role in facilitating that process, he added.",
-          "cn": "阿努廷补充说，泰国仍致力于和平解决泰柬冲突，并赞赏中国在推动这一进程中发挥的公平公正作用。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "pursuing",
-          "hint": "v. 追求",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "governance",
-          "hint": "n. 治理",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "remarks",
-          "hint": "n. 言论",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "neighborhood",
-          "hint": "n. 周边",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "diplomacy",
-          "hint": "n. 外交",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "trustworthy",
-          "hint": "adj. 值得信赖的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "strategic",
-          "hint": "adj. 战略的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "accelerate",
-          "hint": "v. 加速",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "sustainable",
-          "hint": "adj. 可持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "bolster",
-          "hint": "v. 支持",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "modernization",
-          "hint": "n. 现代化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "prosperity",
-          "hint": "n. 繁荣",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "connectivity",
-          "hint": "n. 连通性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "emerging",
-          "hint": "adj. 新兴的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "combat",
-          "hint": "v. 打击",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "fraud",
-          "hint": "n. 诈骗",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "foster",
-          "hint": "v. 促进",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "dispute",
-          "hint": "n. 争端",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "impartial",
-          "hint": "adj. 公正的",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": ", Updated 22:12, 17-Jul-2026Chinese President Xi Jinping (R) shakes hands with Thai Prime Minister Anutin Charnvirakul, who is in China to attend the 2026 World Artificial Intelligence Conference and High-Level Meeting on Global AI Governance in Shanghai, east China, July 17, 2026. /Xinhua\nChinese President Xi Jinping on Friday said China firmly supports Thailand in pursuing a development path suited to its national conditions, and supports the new Thai administration in carrying out governance effectively.\nXi made the remarks in his meeting with Thai Prime Minister Anutin Charnvirakul, who is in Shanghai to attend the 2026 World AI Conference and High-Level Meeting on Global AI Governance in Shanghai and on his official visit to China.\nNoting that China places the development of China-Thailand relations in an important position in its neighborhood diplomacy, Xi said China has always been a reliable and trustworthy strategic cooperative partner for Thailand.\nHe said the two countries should accelerate the building of a more stable, prosperous and sustainable China-Thailand community with a shared future to bolster their respective modernization and contribute to peace, stability, development and prosperity in the region.\nXi also called on both sides to accelerate the construction of the China-Thailand railway and the railway connectivity among China, Laos, and Thailand and expand cooperation in emerging sectors, including artificial intelligence, aerospace and clean energy.\nXi stressed that China and Thailand will continue to step up efforts to combat cross-border crimes, including online gambling and telecom fraud, in order to foster a secure environment for practical cooperation and people-to-people exchanges between the two countries.\nChina supports Thailand in playing a greater role in international and regional affairs, he said.\nProperly handling the Thailand-Cambodia border dispute serves the common and long-term interests of both countries and their peoples, he said, expressing the hope that the two sides will remain committed to dialogue and consultation and settle the dispute peacefully.\nChina stands ready to continue playing a constructive role in this process, he added.\nThailand is committed to deepening relations with China by maintaining close high-level exchanges and expanding practical cooperation in such areas as trade, investment, high technology and connectivity, Anutin said.\nThailand is willing to work with China to jointly combat online gambling and telecom fraud, strengthen cooperation on global AI governance, and enhance coordination and collaboration to promote regional and global peace, stability, development and prosperity, he said.\nThailand remains committed to the peaceful settlement of the Thailand-Cambodia conflict and appreciates China's fair and impartial role in facilitating that process, he added.",
-      "fullTextCn": "中国国家主席习近平周五表示，中国坚定支持泰国走符合自身国情的发展道路，并支持泰国新政府有效施政。习近平是在会见泰国总理阿努廷·查恩维拉库尔时作出上述表示的。阿努廷正在上海出席2026年世界人工智能大会暨全球人工智能治理高级别会议，并对中国进行正式访问。习近平指出，中国始终将发展中泰关系置于周边外交的重要位置，中国一直是泰国可靠、值得信赖的战略合作伙伴。他表示，两国应加快构建更加稳定、繁荣、可持续的中泰命运共同体，助力各自现代化建设，为地区和平、稳定、发展、繁荣作出贡献。习近平还呼吁双方加快中泰铁路以及中老泰铁路联通建设，拓展人工智能、航空航天、清洁能源等新兴领域合作。\n\n习近平强调，中泰将继续加大力度打击跨境犯罪，包括网络赌博和电信诈骗，为两国务实合作和人文交流营造安全环境。他表示，中国支持泰国在国际和地区事务中发挥更大作用。妥善处理泰柬边境争端符合两国和两国人民的共同和长远利益，希望双方坚持对话协商，和平解决争端。中国愿继续在这一进程中发挥建设性作用。阿努廷表示，泰国致力于通过保持密切高层交往、扩大贸易、投资、高科技和互联互通等领域的务实合作来深化对华关系。泰国愿与中国共同打击网络赌博和电信诈骗，加强全球人工智能治理合作，加强协调协作，促进地区和全球和平、稳定、发展、繁荣。\n\n阿努廷补充说，泰国仍致力于和平解决泰柬冲突，并赞赏中国在推动这一进程中发挥的公平公正作用。"
-    },
-    {
-      "id": 4,
-      "category": "military",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-16/-Xi-Jinping-meets-Kazakh-president-1OPgaH8nMuk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "Xi Jinping meets Kazakh president",
-      "titleCn": "习近平会见哈萨克斯坦总统",
-      "summary": "Chinese President Xi Jinping on Thursday met with Kazakh President Kassym-Jomart Tokayev in Shanghai.",
-      "summaryCn": "习近平与哈萨克斯坦总统托卡耶夫在上海会晤，强调深化中哈永久全面战略伙伴关系，推动多领域合作。",
-      "wordCount": 396,
-      "paragraphs": [
-        {
-          "en": ", Updated 21:55, 16-Jul-2026Chinese President Xi Jinping on Thursday met with Kazakh President Kassym-Jomart Tokayev in Shanghai. Tokayev is in China to attend the 2026 World Artificial Intelligence Conference and High-Level Meeting on Global AI Governance. Chinese President Xi Jinping meets with Kazakh President Kassym-Jomart Tokayev in Shanghai, China, July 16, 2026. /Xinhua\nXi said that the China-Kazakhstan permanent {{0}} {{1}} partnership has maintained strong {{2}}, demonstrating {{3}} {{4}} for cooperation and broad {{5}} for future development. He called on the two sides to strengthen the {{6}} of their development strategies and policies to continuously {{7}} practical cooperation.",
-          "cn": "中国国家主席习近平周四在上海会见了哈萨克斯坦总统卡西姆若马尔特·托卡耶夫。托卡耶夫来华出席2026年世界人工智能大会暨全球人工智能治理高级别会议。习近平表示，中哈永久全面战略伙伴关系保持强劲势头，展现出巨大的合作潜力和广阔的发展前景。他呼吁双方加强发展战略和政策对接，不断提升务实合作水平。"
-        },
-        {
-          "en": "Xi stressed the need to {{8}} the trade structure and {{9}} new forms of business in {{10}} e-commerce and trade in services. He also called for expanding cooperation in energy and mineral resources and {{11}} the {{12}} of key projects. Xi urged efforts to advance {{13}} by increasing the number of direct flights and improving the {{14}} of international road transport. China stands ready to share technologies in areas such as the {{15}} economy and artificial intelligence to support Kazakhstan's digital {{16}}, Xi added. Chinese President Xi Jinping meets with a Kazakh delegation led by Kazakh President Kassym-Jomart Tokayev in Shanghai, China, July 16, 2026.",
-          "cn": "习近平强调，要优化贸易结构，培育跨境电商和服务贸易等新业态。他还呼吁扩大能源和矿产资源合作，加快重点项目实施。习近平敦促双方努力推进互联互通，增加直航航班数量，提高国际道路运输便利化水平。习近平补充说，中国愿在数字经济、人工智能等领域分享技术，支持哈萨克斯坦的数字化转型。"
-        },
-        {
-          "en": "/Xinhua\nBoth sides should also work together to make the China-Kazakhstan Year of Cultural Exchange a success, and expand cooperation in education, science and technology, medical care, public health, sports and media, Xi said. China is ready to work with Kazakhstan to implement the four global {{18}}, and further {{19}} and cooperate in {{20}} frameworks, including the United Nations, the Shanghai Cooperation Organization and the China-Central Asia mechanism, so as to jointly {{21}} international {{22}} and {{23}}, he said. Tokayev said he was delighted to be in Shanghai, a city {{24}} with innovative {{25}}, to attend the World Artificial Intelligence Conference. Kazakhstan views its relations with China as the top {{26}} of its foreign policy, said Tokayev, noting that Kazakhstan looks forward to maintaining close high-level exchanges with China and strengthening practical cooperation in various areas, including trade, investment, transportation, energy, agriculture and the digital economy. Kazakhstan is ready to maintain high-level coordination with China across multilateral platforms and actively cooperate on global AI governance, Tokayev said.",
-          "cn": "习近平表示，双方还应共同努力，办好中哈文化交流年，扩大教育、科技、医疗、公共卫生、体育和媒体等领域的合作。中国愿同哈萨克斯坦一道，落实全球发展倡议、全球安全倡议、全球文明倡议和全球人工智能治理倡议，并在联合国、上海合作组织、中国—中亚机制等多边框架内进一步协调合作，共同维护国际公平正义。托卡耶夫表示，很高兴来到充满创新活力的上海出席世界人工智能大会。哈萨克斯坦将对华关系视为外交政策的首要优先方向，期待同中国保持密切高层交往，加强贸易、投资、交通、能源、农业、数字经济等各领域务实合作。托卡耶夫说，哈萨克斯坦愿同中国在多边平台上保持高水平协调，并在全球人工智能治理方面积极合作。"
-        },
-        {
-          "en": "After the meeting, the two presidents witnessed the signing of a series of cooperation documents in the fields of economy and trade, transport, finance and media.",
-          "cn": "会见后，两国元首见证了经贸、交通、金融、媒体等领域一系列合作文件的签署。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "comprehensive",
-          "hint": "adj. 全面的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "strategic",
-          "hint": "adj. 战略的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "momentum",
-          "hint": "n. 势头",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "enormous",
-          "hint": "adj. 巨大的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "potential",
-          "hint": "n. 潜力",
-          "difficulty": "easy"
-        },
-        {
-          "id": 5,
-          "answer": "prospects",
-          "hint": "n. 前景",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "alignment",
-          "hint": "n. 对接",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "elevate",
-          "hint": "v. 提升",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "optimize",
-          "hint": "v. 优化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "foster",
-          "hint": "v. 培育",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "cross-border",
-          "hint": "adj. 跨境的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "accelerating",
-          "hint": "v. 加快",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "implementation",
-          "hint": "n. 实施",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "connectivity",
-          "hint": "n. 互联互通",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "facilitation",
-          "hint": "n. 便利化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "digital",
-          "hint": "adj. 数字的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 16,
-          "answer": "transformation",
-          "hint": "n. 转型",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "initiatives",
-          "hint": "n. 倡议",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "coordinate",
-          "hint": "v. 协调",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "multilateral",
-          "hint": "adj. 多边的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
-          "answer": "uphold",
-          "hint": "v. 维护",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "equity",
-          "hint": "n. 公平",
+          "answer": "large-scale",
+          "hint": "adj. 大规模的",
           "difficulty": "medium"
         },
         {
           "id": 22,
-          "answer": "justice",
-          "hint": "n. 正义",
-          "difficulty": "easy"
+          "answer": "enterprise",
+          "hint": "n. 企业",
+          "difficulty": "medium"
         },
         {
           "id": 23,
-          "answer": "brimming",
-          "hint": "v. 充满",
+          "answer": "exchange-traded",
+          "hint": "adj. 交易所交易的",
           "difficulty": "hard"
         },
         {
           "id": 24,
-          "answer": "vitality",
-          "hint": "n. 活力",
-          "difficulty": "medium"
+          "answer": "funds",
+          "hint": "n. 基金",
+          "difficulty": "easy"
         },
         {
           "id": 25,
-          "answer": "priority",
-          "hint": "n. 优先",
+          "answer": "committed",
+          "hint": "adj. 致力于",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "operation",
+          "hint": "n. 运行",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "capital",
+          "hint": "n. 资本",
+          "difficulty": "medium"
+        },
+        {
+          "id": 28,
+          "answer": "market",
+          "hint": "n. 市场",
           "difficulty": "easy"
         }
       ],
-      "fullText": ", Updated 21:55, 16-Jul-2026Chinese President Xi Jinping on Thursday met with Kazakh President Kassym-Jomart Tokayev in Shanghai.\nTokayev is in China to attend the 2026 World Artificial Intelligence Conference and High-Level Meeting on Global AI Governance.\nChinese President Xi Jinping meets with Kazakh President Kassym-Jomart Tokayev in Shanghai, China, July 16, 2026. /Xinhua\nXi said that the China-Kazakhstan permanent comprehensive strategic partnership has maintained strong momentum, demonstrating enormous potential for cooperation and broad prospects for future development.\nHe called on the two sides to strengthen the alignment of their development strategies and policies to continuously elevate practical cooperation.\nXi stressed the need to optimize the trade structure and foster new forms of business in cross-border e-commerce and trade in services. He also called for expanding cooperation in energy and mineral resources and accelerating the implementation of key projects.\nXi urged efforts to advance connectivity by increasing the number of direct flights and improving the facilitation of international road transport.\nChina stands ready to share technologies in areas such as the digital economy and artificial intelligence to support Kazakhstan's digital transformation, Xi added.\nChinese President Xi Jinping meets with a Kazakh delegation led by Kazakh President Kassym-Jomart Tokayev in Shanghai, China, July 16, 2026. /Xinhua\nBoth sides should also work together to make the China-Kazakhstan Year of Cultural Exchange a success, and expand cooperation in education, science and technology, medical care, public health, sports and media, Xi said.\nChina is ready to work with Kazakhstan to implement the four global initiatives, and further coordinate and cooperate in multilateral frameworks, including the United Nations, the Shanghai Cooperation Organization and the China-Central Asia mechanism, so as to jointly uphold international equity and justice, he said.\nTokayev said he was delighted to be in Shanghai, a city brimming with innovative vitality, to attend the World Artificial Intelligence Conference.\nKazakhstan views its relations with China as the top priority of its foreign policy, said Tokayev, noting that Kazakhstan looks forward to maintaining close high-level exchanges with China and strengthening practical cooperation in various areas, including trade, investment, transportation, energy, agriculture and the digital economy.\nKazakhstan is ready to maintain high-level coordination with China across multilateral platforms and actively cooperate on global AI governance, Tokayev said.\nAfter the meeting, the two presidents witnessed the signing of a series of cooperation documents in the fields of economy and trade, transport, finance and media.",
-      "fullTextCn": "中国国家主席习近平周四在上海会见了哈萨克斯坦总统卡西姆若马尔特·托卡耶夫。托卡耶夫来华出席2026年世界人工智能大会暨全球人工智能治理高级别会议。习近平表示，中哈永久全面战略伙伴关系保持强劲势头，展现出巨大的合作潜力和广阔的发展前景。他呼吁双方加强发展战略和政策对接，不断提升务实合作水平。\n\n习近平强调，要优化贸易结构，培育跨境电商和服务贸易等新业态。他还呼吁扩大能源和矿产资源合作，加快重点项目实施。习近平敦促双方努力推进互联互通，增加直航航班数量，提高国际道路运输便利化水平。习近平补充说，中国愿在数字经济、人工智能等领域分享技术，支持哈萨克斯坦的数字化转型。\n\n习近平表示，双方还应共同努力，办好中哈文化交流年，扩大教育、科技、医疗、公共卫生、体育和媒体等领域的合作。中国愿同哈萨克斯坦一道，落实全球发展倡议、全球安全倡议、全球文明倡议和全球人工智能治理倡议，并在联合国、上海合作组织、中国—中亚机制等多边框架内进一步协调合作，共同维护国际公平正义。托卡耶夫表示，很高兴来到充满创新活力的上海出席世界人工智能大会。哈萨克斯坦将对华关系视为外交政策的首要优先方向，期待同中国保持密切高层交往，加强贸易、投资、交通、能源、农业、数字经济等各领域务实合作。托卡耶夫说，哈萨克斯坦愿同中国在多边平台上保持高水平协调，并在全球人工智能治理方面积极合作。\n\n会见后，两国元首见证了经贸、交通、金融、媒体等领域一系列合作文件的签署。"
-    },
-    {
-      "id": 5,
-      "category": "military",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-07-18/detail-ihfhkrtk6179671.shtml",
-      "title": "Mainland criticizes Lai for smearing Anti-Secession Law",
-      "titleCn": "大陆批评赖清德污蔑《反分裂国家法》",
-      "summary": "A Chinese mainland spokesman on Thursday criticized Taiwan leader Lai Ching-te over remarks on the Anti-Secession Law and the Law on Promoting Ethnic Unity and Progress, accusing him of attempting to intimidate the people of Taiwan and create a \"chilling effect\" on the island.",
-      "summaryCn": "大陆发言人批评台湾地区领导人赖清德污蔑《反分裂国家法》和《民族团结进步法》，强调这些法律旨在维护国家主权和领土完整，反对“台独”分裂活动。",
-      "wordCount": 371,
-      "paragraphs": [
-        {
-          "en": "A Chinese mainland spokesman on Thursday criticized Taiwan leader Lai Ching-te over remarks on the Anti-Secession Law and the Law on Promoting Ethnic Unity and Progress, accusing him of attempting to {{1}} the people of Taiwan and create a \"{{2}} effect\" on the island. Speaking at a meeting of the Democratic Progressive Party on Wednesday, Lai claimed that \"China has continued to expand the {{3}} application of its laws\", citing the Anti-Secession Law and the Law on Promoting Ethnic Unity and Progress. He alleged that the two laws had enabled \"long-arm {{4}} and transnational {{5}}\". Responding to the remarks, Chen Binhua, spokesman for the State Council Taiwan Affairs Office, said Lai's comments were {{6}} smears intended to {{7}} the public by inventing risks. Chen said the Anti-Secession Law {{8}} China's national {{9}} and {{10}} integrity, {{11}} \"Taiwan independence\" separatist activities, maintains peace and stability across the Taiwan Strait, promotes the peaceful development of cross-Strait relations, and advances national {{12}}. The law {{13}} the shared will of all Chinese people, he said.",
-          "cn": "大陆发言人周四批评台湾地区领导人赖清德关于《反分裂国家法》和《民族团结进步法》的言论，指责他试图恐吓台湾同胞并在岛内制造“寒蝉效应”。赖清德周三在民进党的一次会议上声称“中国持续扩大其法律的域外适用”，援引《反分裂国家法》和《民族团结进步法》。他声称这两部法律导致了“长臂管辖和跨国镇压”。对此，国务院台湾事务办公室发言人陈斌华表示，赖清德的言论是捏造的污蔑，旨在通过制造风险误导公众。陈斌华说，《反分裂国家法》维护国家主权和领土完整，震慑“台独”分裂活动，维护台海和平稳定，促进两岸关系和平发展，推动国家统一。该法律体现了全体中国人民的共同意志。"
-        },
-        {
-          "en": "He added that the Law on Promoting Ethnic Unity and Progress is intended to safeguard the fundamental and overall interests of the Chinese nation and unite people of all ethnic groups, including Taiwan compatriots, in advancing national {{14}}. Chen accused Lai of continuously pursuing \"Taiwan independence\" {{15}}, promoting the false narrative of \"democracy versus authoritarianism\", escalating cross-Strait tensions and obstructing cross-Strait exchanges since taking office. \"Lai's authorities have trampled on democracy, undermined the rule of law, restricted freedoms and carried out 'green terror',\" Chen said. He added that the DPP authorities are not qualified to speak of democracy because they have sought to tie the people of Taiwan to the \"Taiwan independence\" chariot and push the island toward the dangers of conflict and war. \"'Taiwan independence' is fundamentally {{16}} with peace across the Taiwan Strait and runs counter to the mainstream public opinion in Taiwan, which seeks peace, development, exchanges and cooperation,\" Chen said. He emphasized that the Lai authorities' words and actions could neither change the fundamental trajectory of cross-Strait relations nor halt the historical trend toward national reunification.",
-          "cn": "他补充说，《民族团结进步法》旨在维护中华民族的根本和整体利益，团结包括台湾同胞在内的各族人民，推进民族复兴。陈斌华指责赖清德自上任以来持续进行“台独”挑衅，宣扬“民主对抗威权”的虚假叙事，加剧两岸紧张局势，阻碍两岸交流。陈斌华说：“赖清德当局践踏民主，破坏法治，限制自由，实施‘绿色恐怖’。”他补充说，民进党当局没有资格谈论民主，因为他们试图将台湾同胞绑上“台独”战车，将台湾推向冲突和战争的危险境地。陈斌华说：“‘台独’与台海和平根本不相容，违背了台湾主流民意——追求和平、发展、交流与合作。”他强调，赖清德当局的言行既不能改变两岸关系的基本走向，也无法阻挡国家统一的历史趋势。"
-        },
-        {
-          "en": "He urged people in Taiwan to recognize the self-serving motives of the Lai authorities and the \"Taiwan independence\" separatist forces.",
-          "cn": "他敦促台湾同胞认清赖清德当局和“台独”分裂势力的自私动机。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "intimidate",
-          "hint": "v. 恐吓",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "chilling",
-          "hint": "adj. 令人寒心的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 2,
-          "answer": "extraterritorial",
-          "hint": "adj. 域外的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "jurisdiction",
-          "hint": "n. 管辖权",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "repression",
-          "hint": "n. 镇压",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "fabricated",
-          "hint": "adj. 捏造的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "mislead",
-          "hint": "v. 误导",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "safeguards",
-          "hint": "v. 维护",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "sovereignty",
-          "hint": "n. 主权",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "territorial",
-          "hint": "adj. 领土的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "deters",
-          "hint": "v. 震慑",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "reunification",
-          "hint": "n. 统一",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "embodies",
-          "hint": "v. 体现",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "rejuvenation",
-          "hint": "n. 复兴",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "provocations",
-          "hint": "n. 挑衅",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "incompatible",
-          "hint": "adj. 不相容的",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "A Chinese mainland spokesman on Thursday criticized Taiwan leader Lai Ching-te over remarks on the Anti-Secession Law and the Law on Promoting Ethnic Unity and Progress, accusing him of attempting to intimidate the people of Taiwan and create a \"chilling effect\" on the island.\nSpeaking at a meeting of the Democratic Progressive Party on Wednesday, Lai claimed that \"China has continued to expand the extraterritorial application of its laws\", citing the Anti-Secession Law and the Law on Promoting Ethnic Unity and Progress. He alleged that the two laws had enabled \"long-arm jurisdiction and transnational repression\".\nResponding to the remarks, Chen Binhua, spokesman for the State Council Taiwan Affairs Office, said Lai's comments were fabricated smears intended to mislead the public by inventing risks.\nChen said the Anti-Secession Law safeguards China's national sovereignty and territorial integrity, deters \"Taiwan independence\" separatist activities, maintains peace and stability across the Taiwan Strait, promotes the peaceful development of cross-Strait relations, and advances national reunification. The law embodies the shared will of all Chinese people, he said.\nHe added that the Law on Promoting Ethnic Unity and Progress is intended to safeguard the fundamental and overall interests of the Chinese nation and unite people of all ethnic groups, including Taiwan compatriots, in advancing national rejuvenation.\nChen accused Lai of continuously pursuing \"Taiwan independence\" provocations, promoting the false narrative of \"democracy versus authoritarianism\", escalating cross-Strait tensions and obstructing cross-Strait exchanges since taking office.\n\"Lai's authorities have trampled on democracy, undermined the rule of law, restricted freedoms and carried out 'green terror',\" Chen said.\nHe added that the DPP authorities are not qualified to speak of democracy because they have sought to tie the people of Taiwan to the \"Taiwan independence\" chariot and push the island toward the dangers of conflict and war.\n\"'Taiwan independence' is fundamentally incompatible with peace across the Taiwan Strait and runs counter to the mainstream public opinion in Taiwan, which seeks peace, development, exchanges and cooperation,\" Chen said.\nHe emphasized that the Lai authorities' words and actions could neither change the fundamental trajectory of cross-Strait relations nor halt the historical trend toward national reunification. He urged people in Taiwan to recognize the self-serving motives of the Lai authorities and the \"Taiwan independence\" separatist forces.",
-      "fullTextCn": "大陆发言人周四批评台湾地区领导人赖清德关于《反分裂国家法》和《民族团结进步法》的言论，指责他试图恐吓台湾同胞并在岛内制造“寒蝉效应”。赖清德周三在民进党的一次会议上声称“中国持续扩大其法律的域外适用”，援引《反分裂国家法》和《民族团结进步法》。他声称这两部法律导致了“长臂管辖和跨国镇压”。对此，国务院台湾事务办公室发言人陈斌华表示，赖清德的言论是捏造的污蔑，旨在通过制造风险误导公众。陈斌华说，《反分裂国家法》维护国家主权和领土完整，震慑“台独”分裂活动，维护台海和平稳定，促进两岸关系和平发展，推动国家统一。该法律体现了全体中国人民的共同意志。\n\n他补充说，《民族团结进步法》旨在维护中华民族的根本和整体利益，团结包括台湾同胞在内的各族人民，推进民族复兴。陈斌华指责赖清德自上任以来持续进行“台独”挑衅，宣扬“民主对抗威权”的虚假叙事，加剧两岸紧张局势，阻碍两岸交流。陈斌华说：“赖清德当局践踏民主，破坏法治，限制自由，实施‘绿色恐怖’。”他补充说，民进党当局没有资格谈论民主，因为他们试图将台湾同胞绑上“台独”战车，将台湾推向冲突和战争的危险境地。陈斌华说：“‘台独’与台海和平根本不相容，违背了台湾主流民意——追求和平、发展、交流与合作。”他强调，赖清德当局的言行既不能改变两岸关系的基本走向，也无法阻挡国家统一的历史趋势。\n\n他敦促台湾同胞认清赖清德当局和“台独”分裂势力的自私动机。"
+      "fullText": "(ECNS) -- Chinese state-owned investment firms, China Reform Holdings Corporation Ltd. and China Chengtong Holdings Group Ltd. announced on Sunday that they remain firmly confident in the prospects of China's capital market and will continue to increase holdings in stocks of central state-owned enterprises (SOEs), Xinhua News Agency reported.\nChina Reform Holdings said that it firmly supports the technological innovation and high-quality development of central SOEs.\nIts subsidiary has utilized over 50 billion yuan (about $7.4 billion) from the special re-lending facility for share buybacks and stake increases, along with matching funds, to maintain market stability.\nThe company said it will continue to make full use of the re-lending policy tool while also using its own funds to increase holdings in stocks of central SOEs, resolutely safeguarding the strategic value of core capital market assets.\nOn Sunday evening, China Chengtong said that it and its subsidiaries have recently made cumulative purchases of nearly 10 billion yuan worth of stocks of central SOEs.\nChina Chengtong added that it firmly believes in the prospects of China's economy and capital market, and will continue to use its own funds and stock buyback re-lending facilities to make large-scale purchases of SOE and technology enterprise stocks and exchange-traded funds, fully committed to maintaining the stable operation of the capital market.",
+      "fullTextCn": "据新华社报道，中国国有投资公司中国国新控股有限责任公司和中国诚通控股集团有限公司于周日宣布，他们对中国资本市场的前景保持坚定信心，并将继续增持中央国有企业股票。中国国新表示，坚定支持中央企业的科技创新和高质量发展。其子公司已利用超过500亿元人民币（约合74亿美元）的专项再贷款资金用于股票回购和增持，并配合自有资金，以维护市场稳定。该公司表示，将继续充分利用再贷款政策工具，同时使用自有资金增持央企股票，坚决维护核心资本市场资产的战略价值。周日晚间，中国诚通表示，其及子公司近期累计购买了近100亿元人民币的央企股票。中国诚通补充道，其坚信中国经济和资本市场的前景，并将继续使用自有资金和股票回购再贷款工具，大规模购买国有企业、科技企业股票及交易所交易基金，全力维护资本市场的稳定运行。"
     }
   ]
 }
