@@ -1,536 +1,186 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "articles": [
     {
       "id": 1,
       "category": "military",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-19/news-1OTBJdJVYli/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "US renews strikes on Iran after two killed by Iranian attack",
-      "titleCn": "美国在伊朗袭击造成两人死亡后再次对伊朗发动打击",
-      "summary": "US renews strikes on Iran after two killed by Iranian attack",
-      "summaryCn": "美国在伊朗袭击导致两名美军死亡后对伊朗发动新一轮空袭，双方冲突升级，中东局势紧张。",
-      "wordCount": 878,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-21/Yemen-s-Houthis-ban-Saudi-shipping-raising-fears-over-Bab-el-Mandeb-1OXW0fljCMM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Yemen's Houthis ban Saudi shipping, raising fears over Bab el-Mandeb",
+      "titleCn": "也门胡塞武装禁止沙特航运，引发曼德海峡安全担忧",
+      "summary": "Yemen's Houthi group on Monday announced a maritime ban on Saudi shipping, raising concerns over security of navigation in the Bab el-Mandeb trade route.",
+      "summaryCn": "胡塞武装宣布禁止沙特航运，加剧红海航运风险，沙特联盟誓言保护船只。",
+      "wordCount": 911,
       "paragraphs": [
         {
-          "en": ", Updated 09:31, 19-Jul-2026People stand on a bridge destroyed after a strike in Hormozgan Province, southern Iran, July 18, 2026. The United States launched new {{1}} against Iran, US Central Command said, after it earlier announced that two US military {{2}} were killed in Jordan and another was missing following an Iranian attack. Before the strikes on Saturday, Iran's {{3}} leader said Washington would pay for \"seeking to {{4}} the conflict.\"\nUS Central Command said in a statement that the airstrikes began at 6 p.m. ET (2200 GMT), at President Donald Trump's direction. \"The strikes are designed to further {{5}} Iran's ability to {{6}} {{7}} shipping in the Strait of Hormuz and {{8}} punish Islamic Revolutionary Guard Corps forces who launched attacks against American service members in Jordan last night,\" it said, without providing further details.",
-          "cn": "美国中央司令部表示，美国对伊朗发动了新的打击，此前该司令部宣布两名美军人员在约旦被伊朗袭击身亡，另一人失踪。在周六的打击之前，伊朗最高领袖表示，华盛顿将为“试图升级冲突”付出代价。美国中央司令部在一份声明中称，空袭于美国东部时间下午6点（格林威治标准时间22:00）开始，由总统唐纳德·特朗普下令。声明称：“这些打击旨在进一步削弱伊朗威胁霍尔木兹海峡商业航运的能力，并迅速惩罚昨晚在约旦对美国军人发动袭击的伊斯兰革命卫队部队。”但未提供更多细节。"
+          "en": "Armed men loyal to the Houthi group participate in an armed tribal rally supporting the resumption of attacks against Israeli ships, in Sanaa, Yemen, on March 11, 2025. /Xinhua\nYemen's Houthi group on Monday announced a {{0}} ban on Saudi shipping, marking a significant {{1}} and raising concerns over security of {{2}} in the Red Sea and nearby shipping lanes. In a statement aired by the group's Al-Masirah television, Houthi military spokesman Yahya Sarea said the decision took effect immediately following the announcement, without specifying how and where the ban would be {{3}}. He said the move, based on what he described as the {{4}} of \"blockade for blockade,\" was in response to Saudi Arabia's \"{{5}} for nearly 12 years\" through a \"blockade on ports and airports.\"\nCiting a recent attack on the Houthi-controlled Sanaa International Airport, the spokesman said the group \"has the right\" to respond through \"all available means.\"\nThe move marks one of the strongest measures announced by the Houthis since tensions {{6}} last week following strikes, claimed by the Saudi-backed Yemeni government, on Sanaa International Airport, barring an Iranian aircraft carrying a senior Houthi {{7}} from landing. The delegation was returning from Tehran after attending the funeral ceremonies of Iran's late Supreme Leader Ali Khamenei.",
+          "cn": "2025年3月11日，忠于胡塞武装的武装人员在也门萨那参加一场支持恢复对以色列船只袭击的武装部落集会。新华社发。也门胡塞武装周一宣布对沙特航运实施海上禁令，标志着局势显著升级，并引发对红海及附近航道航行安全的担忧。在该组织控制的马西拉电视台播出的一份声明中，胡塞武装军事发言人叶海亚·萨雷亚表示，该决定在宣布后立即生效，但未具体说明禁令将如何及在何处执行。他表示，此举基于他所谓的“以封锁回应封锁”原则，是对沙特阿拉伯“近12年来通过封锁港口和机场实施的围困”的回应。"
         },
         {
-          "en": "Iran's Mehr news agency said the US carried out an attack near Sirik in southern Iran, adding that no {{9}} or damage to {{10}} have been reported. The US and Iran have {{11}} attacks since an interim {{12}} deal signed a month ago fell apart last week, raising the possibility of a return to all-out war. US Central Command said the two deaths occurred on Friday and that a third US service member was missing in action. The announcement brought the number of US service members killed since the war began to 16, while more than 420 have been wounded. US Defense Secretary Pete Hegseth posted on X: \"Their sacrifice only stiffens our {{13}}.\"\nIran appeared to target Saudi Arabia as well as other US Gulf allies and Jordan on Saturday after US attacks on Iranian bridges, power facilities and other infrastructure.",
-          "cn": "伊朗梅尔通讯社称，美国在伊朗南部锡里克附近发动了袭击，并补充说没有人员伤亡或基础设施损坏的报告。自一个月前签署的临时停火协议上周破裂以来，美国和伊朗加强了攻击，增加了全面战争的可能性。美国中央司令部表示，两起死亡事件发生在周五，第三名美军士兵在行动中失踪。这一声明使自战争开始以来阵亡的美军人数达到16人，而受伤人数超过420人。美国国防部长皮特·赫格塞斯在X上发帖称：“他们的牺牲只会坚定我们的决心。”在美军袭击伊朗桥梁、电力设施和其他基础设施后，伊朗周六似乎将目标对准了沙特阿拉伯以及美国其他海湾盟友和约旦。"
+          "en": "The Houthis blamed the attack on Riyadh and responded by launching missiles and drones. Houthi leader Abdulmalik al-Houthi warned that Saudi oil installations and other {{15}} {{8}} could become targets if Riyadh becomes involved in broader military operations against the group. Saudi Arabia vows to protect vessels\nThe Saudi-led {{9}} in Yemen responded to the shipping ban on Monday night, saying that it would take necessary measures to protect its {{10}} vessels in the Bab al-Mandeb Strait and react firmly to any threats. Coalition spokesperson Turki Al-Malki said in a statement on social media platform X that the Joint Forces Command of the coalition is taking all necessary and decisive operational measures in line with international law to protect coalition vessels passing through the strait. He dismissed the Houthi maritime ban as \"{{11}} and escalation,\" saying more than 300 commercial vessels had entered Houthi-controlled ports in the first half of this year, carrying food and fuel, among others.",
+          "cn": "萨雷亚发言人援引最近对胡塞武装控制的萨那国际机场的袭击，称该组织“有权”通过“一切可用手段”进行回应。此举是自上周紧张局势加剧以来胡塞武装宣布的最强硬措施之一。此前，沙特支持的也门政府声称对萨那国际机场发动了袭击，导致一架载有胡塞高级代表团的伊朗飞机无法降落。该代表团当时正从德黑兰返回，此前参加了伊朗已故最高领袖阿里·哈梅内伊的葬礼。"
         },
         {
-          "en": "In a written statement carried by the official social media accounts of Iran's supreme leader and Iranian state media, Ayatollah Mojtaba Khamenei said US actions have shown that Trump's signature was \"utterly worthless and devoid of credibility.\"\nThe statement warned of \"even heavier costs and further humiliation\" for the United States. The White House did not immediately respond to a request for comment. Khamenei's whereabouts remain a mystery. The conflict, which began when the US and Israel launched strikes on Iran at the end of February hoping to disable its missile program, has led to major {{14}} to energy supplies, fears over global inflation and a battle for control of the Strait of Hormuz. On Saturday, Kuwait came under sustained attack, with the armed forces saying they had intercepted Iranian ballistic missiles and drones, and that some firefighters and oil sector workers had been injured while responding to the attacks.",
-          "cn": "在伊朗最高领袖和伊朗官方媒体的官方社交媒体账号上发布的一份书面声明中，阿亚图拉莫杰塔巴·哈梅内伊表示，美国的行动表明特朗普的签名“毫无价值且缺乏可信度”。该声明警告美国将面临“更沉重的代价和进一步的羞辱”。白宫没有立即回应置评请求。哈梅内伊的下落仍然是个谜。这场冲突始于2月底美国和以色列对伊朗发动打击，试图摧毁其导弹计划，目前已导致能源供应严重中断，引发全球通胀担忧，并引发对霍尔木兹海峡控制权的争夺。周六，科威特遭受持续攻击，武装部队表示他们拦截了伊朗的弹道导弹和无人机，一些消防员和石油行业工人在应对袭击时受伤。"
+          "en": "In a statement, the Saudi Foreign Ministry condemned Houthi {{12}} of a blockade, saying the kingdom has worked to ease Yemenis' suffering through development projects and budget support. Shipping risks in the Red Sea mount\nAlthough the Houthis did not specify how the maritime ban would be enforced, analysts warned that the move could further escalate tensions with Saudi Arabia and increase risks to commercial shipping in the Red Sea. The Bab el-Mandeb Strait, which links the Red Sea to the Gulf of Aden, lies within the strike range of Houthi forces. Since the outbreak of the latest Israel-Hamas conflict in late 2023, the group has repeatedly attacked vessels it said were linked to Israel in the Red Sea and Gulf of Aden, prompting many shipping companies to reroute vessels around the Cape of Good Hope. The Houthis do not need to sink large numbers of ships or impose a complete blockade to {{13}} maritime trade, said Petras Katinas, a researcher at the Royal United Services Institute.",
+          "cn": "胡塞武装将此次袭击归咎于利雅得，并发射导弹和无人机作为回应。胡塞武装领导人阿卜杜勒马利克·胡塞警告称，如果利雅得参与针对该组织的更广泛军事行动，沙特石油设施和其他战略基础设施可能成为目标。沙特誓言保护船只。沙特领导的也门联军周一晚间对航运禁令作出回应，表示将采取必要措施保护其在曼德海峡的商业船只，并对任何威胁作出坚决反应。联军发言人图尔基·马尔基在社交媒体平台X上的一份声明中表示，联军联合部队司令部正根据国际法采取一切必要和果断的行动措施，以保护通过该海峡的联军船只。他驳斥胡塞武装的海上禁令是“谬论和升级”，称今年上半年已有300多艘商业船只进入胡塞武装控制的港口，运载食品和燃料等物资。"
         },
         {
-          "en": "Iran's IRGC said it had struck a US military support center at Kuwait's Camp Arifjan and destroyed a radar facility at Ali Al Salem Air Base. Kuwait Petroleum Corporation later said one of its oil facilities had been hit in \"repeated Iranian attacks,\" causing significant damage and some injuries, according to the state news agency. The IRGC also targeted a site in Bahrain where US combat aircraft were gathered at Sheikh Isa Air Base and an intelligence data center, Iranian media said. The Guards also destroyed at least two US fighter aircraft and three other aircraft during a missile and drone attack early on Saturday on the US base in Al Azraq, Jordan, according to Iranian state TV. Reuters could not independently verify the reports.",
-          "cn": "伊朗伊斯兰革命卫队表示，他们袭击了科威特阿里夫詹营地的美军支援中心，并摧毁了阿里萨勒姆空军基地的一个雷达设施。科威特石油公司后来表示，其一个石油设施在“伊朗的反复袭击”中遭到袭击，造成重大损坏和一些人受伤，据国家通讯社报道。伊朗媒体称，革命卫队还袭击了巴林谢赫伊萨空军基地美军作战飞机集结地和一个情报数据中心。据伊朗国家电视台报道，革命卫队周六早些时候在约旦阿兹拉克美军基地的导弹和无人机袭击中摧毁了至少两架美军战斗机和另外三架飞机。路透社无法独立核实这些报道。"
+          "en": "\"A handful of strikes, or even credible threats, are enough to push insurers to halt coverage and hike war-risk {{14}}, forcing many operators to reroute vessels around the Cape of Good Hope,\" he added, citing the similar disruptions in the past. Smoke rises after airstrikes on Sanaa International Airport in Sanaa, Yemen, July 13, 2026. /Xinhua\nThe latest warning comes as the strategic importance of the Bab el-Mandeb Strait has grown amid continued disruptions to shipping through the Strait of Hormuz. Increasing volumes of Middle Eastern crude have been rerouted through the Red Sea as exporters seek {{16}} to the Gulf route. According to energy analytics firm Kpler, oil shipments {{17}} the Bab el-Mandeb Strait averaged 7.4 million barrels per day in June, up from 4.2 million barrels per day a year earlier.",
+          "cn": "在一份声明中，沙特外交部谴责了胡塞武装关于封锁的指控，称沙特王国通过发展项目和预算支持努力减轻也门人民的苦难。红海航运风险加剧。尽管胡塞武装未具体说明海上禁令将如何执行，但分析人士警告称，此举可能进一步加剧与沙特的紧张关系，并增加红海商业航运的风险。连接红海与亚丁湾的曼德海峡位于胡塞武装的打击范围内。自2023年底最新一轮以色列-哈马斯冲突爆发以来，该组织多次袭击其声称与以色列有关的红海和亚丁湾船只，促使许多航运公司绕道好望角。皇家联合军种研究所研究员佩特拉斯·卡蒂纳斯表示，胡塞武装无需击沉大量船只或实施完全封锁就能扰乱海上贸易。"
         },
         {
-          "en": "Saudi Arabia's early warning system issued alerts early on Saturday urging residents of Al-Kharj and Yanbu to seek shelter. Al-Kharj, east of Riyadh, is home to a military base that hosts US troops, while Yanbu, on the Red Sea, has a key oil export terminal. Two people briefed on the matter said an Iranian missile attack, the first on Saudi Arabia in more than three months, had triggered the alerts. The government media office did not respond to a request for comment. The IRGC made no mention of any attack on Saudi Arabia.",
-          "cn": "沙特阿拉伯的预警系统周六早些时候发出警报，敦促阿尔哈吉和延布的居民寻求庇护。阿尔哈吉位于利雅得以东，是一个驻扎美军的军事基地所在地，而延布位于红海，拥有一个重要的石油出口终端。两名知情人士表示，伊朗的导弹袭击（三个多月来首次针对沙特）触发了警报。政府媒体办公室没有回应置评请求。革命卫队没有提及对沙特阿拉伯的任何袭击。"
+          "en": "Analysts warned that any disruption to the waterway could threaten one of the few remaining alternative export routes for Gulf energy supplies. \"The Red Sea is no longer just a conventional trade route linking Europe and Asia,\" Katinas said. \"It has become one of the principal alternatives to the Strait of Hormuz.\"\nSaudi Arabia faces growing export risks\nSaudi Arabia would likely be among the countries most affected by any disruption to the Bab el-Mandeb route. Following disruptions to shipping through the Strait of Hormuz, Saudi Aramco has increasingly relied on the kingdom's East-West pipeline to transport crude from oil fields in the Gulf to the Red Sea port of Yanbu, allowing exports to bypass Hormuz. Kpler estimates that Saudi Arabia has exported more than 3.6 million barrels per day of crude oil and refined products via the Bab el-Mandeb Strait in recent months.",
+          "cn": "“几次袭击，甚至可信的威胁，就足以促使保险公司暂停承保并提高战争风险保费，迫使许多运营商绕道好望角，”他补充道，并援引了过去的类似干扰。2026年7月13日，也门萨那，萨那国际机场遭空袭后升起浓烟。新华社发。最新警告发布之际，曼德海峡的战略重要性因霍尔木兹海峡航运持续中断而上升。越来越多的中东原油改道红海，因为出口商寻求替代海湾航线。根据能源分析公司Kpler的数据，6月份通过曼德海峡的石油运输量平均为每天740万桶，高于一年前的每天420万桶。"
         },
         {
-          "en": "The US State Department issued a worldwide travel alert for Americans abroad on Saturday, citing heightened tensions in the Middle East \"with the potential for unforeseen escalation.\" The advisory said flight cancellations and periodic airspace closures could disrupt travel. Earlier, US Central Command said it had hit Iranian surveillance sites, military logistics infrastructure, underground weapons storage and maritime capabilities. US air strikes early on Saturday killed three people and wounded eight others in the southern Hormozgan Province, which borders the Strait of Hormuz, while two bridges and a road tunnel were damaged, Iranian state TV reported. Iran's Health Ministry said on Saturday that 50 people had been killed and more than 500 wounded in US strikes on the country over the past three weeks. Battle for control of the strait\nIranian Foreign Ministry spokesperson Esmaeil Baghaei accused the United States of seeking control over the Strait of Hormuz, which usually handles around one-fifth of the world's oil supply.",
-          "cn": "美国国务院周六发布全球旅行警告，称中东紧张局势加剧，“可能发生不可预见的升级”。该警告称，航班取消和定期空域关闭可能扰乱旅行。早些时候，美国中央司令部表示，已打击了伊朗的监视站点、军事后勤基础设施、地下武器储存和海上能力。伊朗国家电视台报道，美国周六早些时候的空袭在南部霍尔木兹斯坦省（与霍尔木兹海峡接壤）造成三人死亡、八人受伤，两座桥梁和一条公路隧道受损。伊朗卫生部周六表示，在过去三周内，美国对伊朗的打击已造成50人死亡、500多人受伤。伊朗外交部发言人伊斯梅尔·巴加埃指责美国试图控制霍尔木兹海峡，该海峡通常处理全球约五分之一的石油供应。"
-        },
-        {
-          "en": "Both sides have taken aim at shipping traffic, with the US saying it is enforcing a naval blockade and Iran saying it targets vessels violating its rules on navigating the strait. The European Union and Gulf states called on Iran to immediately and unconditionally halt all attacks and interference with maritime navigation and to keep the strait open without conditions or fees, according to a joint statement reported by Saudi state TV on Saturday.",
-          "cn": "双方都将目标对准了航运交通，美国称其正在实施海上封锁，而伊朗则表示其目标是违反其海峡航行规则的船只。据沙特国家电视台周六报道，欧盟和海湾国家在一份联合声明中呼吁伊朗立即无条件停止所有攻击和对海上航行的干扰，并保持海峡开放，不附加条件或收费。"
+          "en": "Saudi Aramco Chairman Yasir Al-Rumayyan recently described the Red Sea export route as an economic lifeline for the kingdom. Farea Al-Muslimi, a Middle East and North Africa expert at Chatham House, said Saudi Arabia's ability to {{18}} risks stemming from disruptions in the Strait of Hormuz has depended largely on access to the Red Sea route. \"If shipping through the Red Sea is also disrupted, Saudi Arabia would face much greater pressure,\" he said. \"That would not only further strain government revenues but could also complicate the kingdom's efforts to achieve its Vision 2030 goals and host major international events.\"",
+          "cn": "分析人士警告称，该水道的任何中断都可能威胁到海湾能源供应为数不多的剩余替代出口路线之一。“红海不再只是连接欧洲和亚洲的传统贸易路线，”卡蒂纳斯说。“它已成为霍尔木兹海峡的主要替代路线之一。”沙特面临日益增长的出口风险。沙特阿拉伯很可能是受曼德海峡航线中断影响最严重的国家之一。在霍尔木兹海峡航运中断后，沙特阿美公司越来越依赖该国的东西向管道，将原油从海湾油田运往红海港口延布，使出口能够绕过霍尔木兹。Kpler估计，沙特阿拉伯近几个月通过曼德海峡出口了超过每天360万桶的原油和成品油。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "strikes",
-          "hint": "n. 打击",
-          "difficulty": "easy"
+          "answer": "maritime",
+          "hint": "adj. 海上的",
+          "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "personnel",
-          "hint": "n. 人员",
+          "answer": "escalation",
+          "hint": "n. 升级",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "supreme",
-          "hint": "adj. 最高的",
+          "answer": "navigation",
+          "hint": "n. 航行",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "escalate",
-          "hint": "v. 升级",
-          "difficulty": "hard"
+          "answer": "enforced",
+          "hint": "v. 执行",
+          "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "degrade",
-          "hint": "v. 削弱",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "threaten",
-          "hint": "v. 威胁",
+          "answer": "principle",
+          "hint": "n. 原则",
           "difficulty": "easy"
         },
         {
+          "id": 5,
+          "answer": "siege",
+          "hint": "n. 围困",
+          "difficulty": "hard"
+        },
+        {
           "id": 6,
-          "answer": "commercial",
-          "hint": "adj. 商业的",
+          "answer": "intensified",
+          "hint": "v. 加剧",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "swiftly",
-          "hint": "adv. 迅速地",
-          "difficulty": "medium"
+          "answer": "delegation",
+          "hint": "n. 代表团",
+          "difficulty": "easy"
         },
         {
           "id": 8,
-          "answer": "casualties",
-          "hint": "n. 伤亡",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
           "answer": "infrastructure",
           "hint": "n. 基础设施",
           "difficulty": "medium"
         },
         {
-          "id": 10,
-          "answer": "intensified",
-          "hint": "v. 加剧",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "ceasefire",
-          "hint": "n. 停火",
+          "id": 9,
+          "answer": "coalition",
+          "hint": "n. 联盟",
           "difficulty": "medium"
         },
         {
+          "id": 10,
+          "answer": "commercial",
+          "hint": "adj. 商业的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "fallacies",
+          "hint": "n. 谬论",
+          "difficulty": "hard"
+        },
+        {
           "id": 12,
-          "answer": "resolve",
-          "hint": "n. 决心",
+          "answer": "allegations",
+          "hint": "n. 指控",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "disruption",
-          "hint": "n. 中断",
+          "answer": "disrupt",
+          "hint": "v. 扰乱",
           "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "premiums",
+          "hint": "n. 保费",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "strategic",
+          "hint": "adj. 战略的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "alternatives",
+          "hint": "n. 替代方案",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "transiting",
+          "hint": "v. 通过",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "mitigate",
+          "hint": "v. 减轻",
+          "difficulty": "hard"
         }
       ],
-      "fullText": ", Updated 09:31, 19-Jul-2026People stand on a bridge destroyed after a strike in Hormozgan Province, southern Iran, July 18, 2026. \nThe United States launched new strikes against Iran, US Central Command said, after it earlier announced that two US military personnel were killed in Jordan and another was missing following an Iranian attack.\nBefore the strikes on Saturday, Iran's supreme leader said Washington would pay for \"seeking to escalate the conflict.\"\nUS Central Command said in a statement that the airstrikes began at 6 p.m. ET (2200 GMT), at President Donald Trump's direction.\n\"The strikes are designed to further degrade Iran's ability to threaten commercial shipping in the Strait of Hormuz and swiftly punish Islamic Revolutionary Guard Corps forces who launched attacks against American service members in Jordan last night,\" it said, without providing further details.\nIran's Mehr news agency said the US carried out an attack near Sirik in southern Iran, adding that no casualties or damage to infrastructure have been reported.\nThe US and Iran have intensified attacks since an interim ceasefire deal signed a month ago fell apart last week, raising the possibility of a return to all-out war.\nUS Central Command said the two deaths occurred on Friday and that a third US service member was missing in action. The announcement brought the number of US service members killed since the war began to 16, while more than 420 have been wounded.\nUS Defense Secretary Pete Hegseth posted on X: \"Their sacrifice only stiffens our resolve.\"\nIran appeared to target Saudi Arabia as well as other US Gulf allies and Jordan on Saturday after US attacks on Iranian bridges, power facilities and other infrastructure.\nIn a written statement carried by the official social media accounts of Iran's supreme leader and Iranian state media, Ayatollah Mojtaba Khamenei said US actions have shown that Trump's signature was \"utterly worthless and devoid of credibility.\"\nThe statement warned of \"even heavier costs and further humiliation\" for the United States. The White House did not immediately respond to a request for comment.\nKhamenei's whereabouts remain a mystery.\nThe conflict, which began when the US and Israel launched strikes on Iran at the end of February hoping to disable its missile program, has led to major disruption to energy supplies, fears over global inflation and a battle for control of the Strait of Hormuz.\nOn Saturday, Kuwait came under sustained attack, with the armed forces saying they had intercepted Iranian ballistic missiles and drones, and that some firefighters and oil sector workers had been injured while responding to the attacks.\nIran's IRGC said it had struck a US military support center at Kuwait's Camp Arifjan and destroyed a radar facility at Ali Al Salem Air Base. Kuwait Petroleum Corporation later said one of its oil facilities had been hit in \"repeated Iranian attacks,\" causing significant damage and some injuries, according to the state news agency.\nThe IRGC also targeted a site in Bahrain where US combat aircraft were gathered at Sheikh Isa Air Base and an intelligence data center, Iranian media said.\nThe Guards also destroyed at least two US fighter aircraft and three other aircraft during a missile and drone attack early on Saturday on the US base in Al Azraq, Jordan, according to Iranian state TV.\nReuters could not independently verify the reports.\nSaudi Arabia's early warning system issued alerts early on Saturday urging residents of Al-Kharj and Yanbu to seek shelter. Al-Kharj, east of Riyadh, is home to a military base that hosts US troops, while Yanbu, on the Red Sea, has a key oil export terminal.\nTwo people briefed on the matter said an Iranian missile attack, the first on Saudi Arabia in more than three months, had triggered the alerts. The government media office did not respond to a request for comment.\nThe IRGC made no mention of any attack on Saudi Arabia.\nThe US State Department issued a worldwide travel alert for Americans abroad on Saturday, citing heightened tensions in the Middle East \"with the potential for unforeseen escalation.\" The advisory said flight cancellations and periodic airspace closures could disrupt travel.\nEarlier, US Central Command said it had hit Iranian surveillance sites, military logistics infrastructure, underground weapons storage and maritime capabilities.\nUS air strikes early on Saturday killed three people and wounded eight others in the southern Hormozgan Province, which borders the Strait of Hormuz, while two bridges and a road tunnel were damaged, Iranian state TV reported.\nIran's Health Ministry said on Saturday that 50 people had been killed and more than 500 wounded in US strikes on the country over the past three weeks.\nBattle for control of the strait\nIranian Foreign Ministry spokesperson Esmaeil Baghaei accused the United States of seeking control over the Strait of Hormuz, which usually handles around one-fifth of the world's oil supply.\nBoth sides have taken aim at shipping traffic, with the US saying it is enforcing a naval blockade and Iran saying it targets vessels violating its rules on navigating the strait.\nThe European Union and Gulf states called on Iran to immediately and unconditionally halt all attacks and interference with maritime navigation and to keep the strait open without conditions or fees, according to a joint statement reported by Saudi state TV on Saturday.",
-      "fullTextCn": "美国中央司令部表示，美国对伊朗发动了新的打击，此前该司令部宣布两名美军人员在约旦被伊朗袭击身亡，另一人失踪。在周六的打击之前，伊朗最高领袖表示，华盛顿将为“试图升级冲突”付出代价。美国中央司令部在一份声明中称，空袭于美国东部时间下午6点（格林威治标准时间22:00）开始，由总统唐纳德·特朗普下令。声明称：“这些打击旨在进一步削弱伊朗威胁霍尔木兹海峡商业航运的能力，并迅速惩罚昨晚在约旦对美国军人发动袭击的伊斯兰革命卫队部队。”但未提供更多细节。\n\n伊朗梅尔通讯社称，美国在伊朗南部锡里克附近发动了袭击，并补充说没有人员伤亡或基础设施损坏的报告。自一个月前签署的临时停火协议上周破裂以来，美国和伊朗加强了攻击，增加了全面战争的可能性。美国中央司令部表示，两起死亡事件发生在周五，第三名美军士兵在行动中失踪。这一声明使自战争开始以来阵亡的美军人数达到16人，而受伤人数超过420人。美国国防部长皮特·赫格塞斯在X上发帖称：“他们的牺牲只会坚定我们的决心。”在美军袭击伊朗桥梁、电力设施和其他基础设施后，伊朗周六似乎将目标对准了沙特阿拉伯以及美国其他海湾盟友和约旦。\n\n在伊朗最高领袖和伊朗官方媒体的官方社交媒体账号上发布的一份书面声明中，阿亚图拉莫杰塔巴·哈梅内伊表示，美国的行动表明特朗普的签名“毫无价值且缺乏可信度”。该声明警告美国将面临“更沉重的代价和进一步的羞辱”。白宫没有立即回应置评请求。哈梅内伊的下落仍然是个谜。这场冲突始于2月底美国和以色列对伊朗发动打击，试图摧毁其导弹计划，目前已导致能源供应严重中断，引发全球通胀担忧，并引发对霍尔木兹海峡控制权的争夺。周六，科威特遭受持续攻击，武装部队表示他们拦截了伊朗的弹道导弹和无人机，一些消防员和石油行业工人在应对袭击时受伤。\n\n伊朗伊斯兰革命卫队表示，他们袭击了科威特阿里夫詹营地的美军支援中心，并摧毁了阿里萨勒姆空军基地的一个雷达设施。科威特石油公司后来表示，其一个石油设施在“伊朗的反复袭击”中遭到袭击，造成重大损坏和一些人受伤，据国家通讯社报道。伊朗媒体称，革命卫队还袭击了巴林谢赫伊萨空军基地美军作战飞机集结地和一个情报数据中心。据伊朗国家电视台报道，革命卫队周六早些时候在约旦阿兹拉克美军基地的导弹和无人机袭击中摧毁了至少两架美军战斗机和另外三架飞机。路透社无法独立核实这些报道。\n\n沙特阿拉伯的预警系统周六早些时候发出警报，敦促阿尔哈吉和延布的居民寻求庇护。阿尔哈吉位于利雅得以东，是一个驻扎美军的军事基地所在地，而延布位于红海，拥有一个重要的石油出口终端。两名知情人士表示，伊朗的导弹袭击（三个多月来首次针对沙特）触发了警报。政府媒体办公室没有回应置评请求。革命卫队没有提及对沙特阿拉伯的任何袭击。\n\n美国国务院周六发布全球旅行警告，称中东紧张局势加剧，“可能发生不可预见的升级”。该警告称，航班取消和定期空域关闭可能扰乱旅行。早些时候，美国中央司令部表示，已打击了伊朗的监视站点、军事后勤基础设施、地下武器储存和海上能力。伊朗国家电视台报道，美国周六早些时候的空袭在南部霍尔木兹斯坦省（与霍尔木兹海峡接壤）造成三人死亡、八人受伤，两座桥梁和一条公路隧道受损。伊朗卫生部周六表示，在过去三周内，美国对伊朗的打击已造成50人死亡、500多人受伤。伊朗外交部发言人伊斯梅尔·巴加埃指责美国试图控制霍尔木兹海峡，该海峡通常处理全球约五分之一的石油供应。\n\n双方都将目标对准了航运交通，美国称其正在实施海上封锁，而伊朗则表示其目标是违反其海峡航行规则的船只。据沙特国家电视台周六报道，欧盟和海湾国家在一份联合声明中呼吁伊朗立即无条件停止所有攻击和对海上航行的干扰，并保持海峡开放，不附加条件或收费。"
+      "fullText": "Armed men loyal to the Houthi group participate in an armed tribal rally supporting the resumption of attacks against Israeli ships, in Sanaa, Yemen, on March 11, 2025. /Xinhua\nYemen's Houthi group on Monday announced a maritime ban on Saudi shipping, marking a significant escalation and raising concerns over security of navigation in the Red Sea and nearby shipping lanes.\nIn a statement aired by the group's Al-Masirah television, Houthi military spokesman Yahya Sarea said the decision took effect immediately following the announcement, without specifying how and where the ban would be enforced.\nHe said the move, based on what he described as the principle of \"blockade for blockade,\" was in response to Saudi Arabia's \"siege for nearly 12 years\" through a \"blockade on ports and airports.\"\nCiting a recent attack on the Houthi-controlled Sanaa International Airport, the spokesman said the group \"has the right\" to respond through \"all available means.\"\nThe move marks one of the strongest measures announced by the Houthis since tensions intensified last week following strikes, claimed by the Saudi-backed Yemeni government, on Sanaa International Airport, barring an Iranian aircraft carrying a senior Houthi delegation from landing. The delegation was returning from Tehran after attending the funeral ceremonies of Iran's late Supreme Leader Ali Khamenei.\nThe Houthis blamed the attack on Riyadh and responded by launching missiles and drones. Houthi leader Abdulmalik al-Houthi warned that Saudi oil installations and other strategic infrastructure could become targets if Riyadh becomes involved in broader military operations against the group.\nSaudi Arabia vows to protect vessels\nThe Saudi-led coalition in Yemen responded to the shipping ban on Monday night, saying that it would take necessary measures to protect its commercial vessels in the Bab al-Mandeb Strait and react firmly to any threats.\nCoalition spokesperson Turki Al-Malki said in a statement on social media platform X that the Joint Forces Command of the coalition is taking all necessary and decisive operational measures in line with international law to protect coalition vessels passing through the strait.\nHe dismissed the Houthi maritime ban as \"fallacies and escalation,\" saying more than 300 commercial vessels had entered Houthi-controlled ports in the first half of this year, carrying food and fuel, among others.\nIn a statement, the Saudi Foreign Ministry condemned Houthi allegations of a blockade, saying the kingdom has worked to ease Yemenis' suffering through development projects and budget support.\nShipping risks in the Red Sea mount\nAlthough the Houthis did not specify how the maritime ban would be enforced, analysts warned that the move could further escalate tensions with Saudi Arabia and increase risks to commercial shipping in the Red Sea.\nThe Bab el-Mandeb Strait, which links the Red Sea to the Gulf of Aden, lies within the strike range of Houthi forces. Since the outbreak of the latest Israel-Hamas conflict in late 2023, the group has repeatedly attacked vessels it said were linked to Israel in the Red Sea and Gulf of Aden, prompting many shipping companies to reroute vessels around the Cape of Good Hope.\nThe Houthis do not need to sink large numbers of ships or impose a complete blockade to disrupt maritime trade, said Petras Katinas, a researcher at the Royal United Services Institute. \"A handful of strikes, or even credible threats, are enough to push insurers to halt coverage and hike war-risk premiums, forcing many operators to reroute vessels around the Cape of Good Hope,\" he added, citing the similar disruptions in the past.\nSmoke rises after airstrikes on Sanaa International Airport in Sanaa, Yemen, July 13, 2026. /Xinhua\nThe latest warning comes as the strategic importance of the Bab el-Mandeb Strait has grown amid continued disruptions to shipping through the Strait of Hormuz. Increasing volumes of Middle Eastern crude have been rerouted through the Red Sea as exporters seek alternatives to the Gulf route.\nAccording to energy analytics firm Kpler, oil shipments transiting the Bab el-Mandeb Strait averaged 7.4 million barrels per day in June, up from 4.2 million barrels per day a year earlier. Analysts warned that any disruption to the waterway could threaten one of the few remaining alternative export routes for Gulf energy supplies.\n\"The Red Sea is no longer just a conventional trade route linking Europe and Asia,\" Katinas said. \"It has become one of the principal alternatives to the Strait of Hormuz.\"\nSaudi Arabia faces growing export risks\nSaudi Arabia would likely be among the countries most affected by any disruption to the Bab el-Mandeb route.\nFollowing disruptions to shipping through the Strait of Hormuz, Saudi Aramco has increasingly relied on the kingdom's East-West pipeline to transport crude from oil fields in the Gulf to the Red Sea port of Yanbu, allowing exports to bypass Hormuz.\nKpler estimates that Saudi Arabia has exported more than 3.6 million barrels per day of crude oil and refined products via the Bab el-Mandeb Strait in recent months.\nSaudi Aramco Chairman Yasir Al-Rumayyan recently described the Red Sea export route as an economic lifeline for the kingdom.\nFarea Al-Muslimi, a Middle East and North Africa expert at Chatham House, said Saudi Arabia's ability to mitigate risks stemming from disruptions in the Strait of Hormuz has depended largely on access to the Red Sea route.\n\"If shipping through the Red Sea is also disrupted, Saudi Arabia would face much greater pressure,\" he said. \"That would not only further strain government revenues but could also complicate the kingdom's efforts to achieve its Vision 2030 goals and host major international events.\"",
+      "fullTextCn": "2025年3月11日，忠于胡塞武装的武装人员在也门萨那参加一场支持恢复对以色列船只袭击的武装部落集会。新华社发。也门胡塞武装周一宣布对沙特航运实施海上禁令，标志着局势显著升级，并引发对红海及附近航道航行安全的担忧。在该组织控制的马西拉电视台播出的一份声明中，胡塞武装军事发言人叶海亚·萨雷亚表示，该决定在宣布后立即生效，但未具体说明禁令将如何及在何处执行。他表示，此举基于他所谓的“以封锁回应封锁”原则，是对沙特阿拉伯“近12年来通过封锁港口和机场实施的围困”的回应。\n\n萨雷亚发言人援引最近对胡塞武装控制的萨那国际机场的袭击，称该组织“有权”通过“一切可用手段”进行回应。此举是自上周紧张局势加剧以来胡塞武装宣布的最强硬措施之一。此前，沙特支持的也门政府声称对萨那国际机场发动了袭击，导致一架载有胡塞高级代表团的伊朗飞机无法降落。该代表团当时正从德黑兰返回，此前参加了伊朗已故最高领袖阿里·哈梅内伊的葬礼。\n\n胡塞武装将此次袭击归咎于利雅得，并发射导弹和无人机作为回应。胡塞武装领导人阿卜杜勒马利克·胡塞警告称，如果利雅得参与针对该组织的更广泛军事行动，沙特石油设施和其他战略基础设施可能成为目标。沙特誓言保护船只。沙特领导的也门联军周一晚间对航运禁令作出回应，表示将采取必要措施保护其在曼德海峡的商业船只，并对任何威胁作出坚决反应。联军发言人图尔基·马尔基在社交媒体平台X上的一份声明中表示，联军联合部队司令部正根据国际法采取一切必要和果断的行动措施，以保护通过该海峡的联军船只。他驳斥胡塞武装的海上禁令是“谬论和升级”，称今年上半年已有300多艘商业船只进入胡塞武装控制的港口，运载食品和燃料等物资。\n\n在一份声明中，沙特外交部谴责了胡塞武装关于封锁的指控，称沙特王国通过发展项目和预算支持努力减轻也门人民的苦难。红海航运风险加剧。尽管胡塞武装未具体说明海上禁令将如何执行，但分析人士警告称，此举可能进一步加剧与沙特的紧张关系，并增加红海商业航运的风险。连接红海与亚丁湾的曼德海峡位于胡塞武装的打击范围内。自2023年底最新一轮以色列-哈马斯冲突爆发以来，该组织多次袭击其声称与以色列有关的红海和亚丁湾船只，促使许多航运公司绕道好望角。皇家联合军种研究所研究员佩特拉斯·卡蒂纳斯表示，胡塞武装无需击沉大量船只或实施完全封锁就能扰乱海上贸易。\n\n“几次袭击，甚至可信的威胁，就足以促使保险公司暂停承保并提高战争风险保费，迫使许多运营商绕道好望角，”他补充道，并援引了过去的类似干扰。2026年7月13日，也门萨那，萨那国际机场遭空袭后升起浓烟。新华社发。最新警告发布之际，曼德海峡的战略重要性因霍尔木兹海峡航运持续中断而上升。越来越多的中东原油改道红海，因为出口商寻求替代海湾航线。根据能源分析公司Kpler的数据，6月份通过曼德海峡的石油运输量平均为每天740万桶，高于一年前的每天420万桶。\n\n分析人士警告称，该水道的任何中断都可能威胁到海湾能源供应为数不多的剩余替代出口路线之一。“红海不再只是连接欧洲和亚洲的传统贸易路线，”卡蒂纳斯说。“它已成为霍尔木兹海峡的主要替代路线之一。”沙特面临日益增长的出口风险。沙特阿拉伯很可能是受曼德海峡航线中断影响最严重的国家之一。在霍尔木兹海峡航运中断后，沙特阿美公司越来越依赖该国的东西向管道，将原油从海湾油田运往红海港口延布，使出口能够绕过霍尔木兹。Kpler估计，沙特阿拉伯近几个月通过曼德海峡出口了超过每天360万桶的原油和成品油。\n\n沙特阿美公司董事长亚西尔·鲁迈延最近将红海出口路线描述为沙特王国的经济命脉。查塔姆研究所的中东和北非专家法雷亚·穆斯林表示，沙特阿拉伯减轻霍尔木兹海峡中断风险的能力在很大程度上取决于红海航线的畅通。“如果红海的航运也中断，沙特将面临更大的压力，”他说。“这不仅会进一步给政府收入带来压力，还可能使沙特王国实现‘2030愿景’目标和举办重大国际活动的努力复杂化。”"
     },
     {
       "id": 2,
-      "category": "technology",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-07-22/detail-ihfhqwkz8163536.shtml",
-      "title": "Push to make AI a resource for all hailed",
-      "titleCn": "推动人工智能成为全民共享的资源获赞誉",
-      "summary": "China's vision to turn artificial intelligence from an expensive frontier technology into a resource for affordable, widely accessible applications will bring huge benefits to more countries, businesses and ordinary people worldwide, said leading industry experts and company executives.",
-      "summaryCn": "中国致力于将人工智能从昂贵的前沿技术转变为普惠资源，为全球各国、企业和普通人带来巨大利益。",
-      "wordCount": 740,
-      "paragraphs": [
-        {
-          "en": "China's {{2}} to turn artificial intelligence from an expensive {{0}} technology into a resource for affordable, widely {{1}} applications will bring huge benefits to more countries, businesses and ordinary people worldwide, said leading industry experts and company executives. They made the comments on Tuesday after President Xi Jinping, in his keynote speech on Friday at the 2026 World AI Conference and High-Level Meeting on Global AI Governance in Shanghai, said that AI should be developed \"for the positive, for good and for humanity\". \"AI development should not be a solo performance by a single country, but a {{3}} of international cooperation,\" Xi said. He called for {{4}} advances in the {{5}} and upgrade of traditional industries, the {{6}} and growth of {{7}} industries, and {{8}} planning for future industries, so that all sectors and businesses can benefit from AI. Long Yongtu, China's former chief {{9}} for its {{10}} to the World Trade Organization, said the rise of AI has become another turning point in the country's economic development.",
-          "cn": "领先的行业专家和公司高管表示，中国将人工智能从昂贵的前沿技术转变为价格合理、广泛可用的应用资源的愿景，将为全球更多国家、企业和普通人带来巨大利益。他们是在周二发表上述评论的，此前国家主席习近平在上周五于上海举行的2026年世界人工智能大会暨全球人工智能治理高级别会议的主旨演讲中表示，人工智能应该“向善、为善、造福人类”。习近平说：“人工智能发展不应是单一国家的独角戏，而应是国际合作的交响乐。”他呼吁协调推进传统产业转型升级、新兴产业培育壮大和未来产业前瞻布局，使所有行业和企业都能从人工智能中受益。中国前加入世界贸易组织首席谈判代表龙永图表示，人工智能的崛起已成为中国经济发展的另一个转折点。"
-        },
-        {
-          "en": "He said that China's entry into the WTO in 2001 {{11}} the {{12}} of millions of market participants after {{13}} on foreign trade rights were relaxed, helping the country grow into the world's largest trader in goods and allowing ordinary people to increase their income through international commerce. \"Now, entering the age of AI {{14}} a new era of opening-up. AI is triggering a similarly profound transformation by {{15}} production relationships, corporate structures and the cost of starting a business in the country,\" Long said. According to the Ministry of Industry and Information Technology, China has {{16}} AI with open arms, with the value of its core AI industries {{17}} 1.2 trillion yuan ($177 billion) last year, maintaining annual growth of more than 20 percent for several {{18}} years. Furthermore, the country is seeking to turn AI into real-world applications and a driver of economic growth.",
-          "cn": "他表示，2001年中国加入世贸组织后，随着外贸权限制的放宽，释放了数百万市场参与者的活力，帮助中国成长为全球最大的货物贸易国，并让普通民众通过国际贸易增加收入。“现在，进入人工智能时代预示着新一轮开放。人工智能正在重塑生产关系、企业结构和创业成本，引发同样深刻的变革，”龙永图说。据工业和信息化部称，中国张开双臂拥抱人工智能，去年核心人工智能产业价值超过1.2万亿元人民币（约合1770亿美元），连续多年保持20%以上的年增长率。此外，中国正致力于将人工智能转化为实际应用和经济增长的驱动力。"
-        },
-        {
-          "en": "In the first half of this year, the industrial output of AI-related sectors, including integrated circuit manufacturing and in-vehicle intelligent equipment manufacturing, grew more than 30 percent. Long predicted that more individuals and small, specialized companies that use AI to perform work that previously required much larger organizations will emerge to become new drivers of the economy. \"Success should ultimately be judged not by model rankings or investment valuations, but by whether AI really improves people's lives,\" he added. Efforts to push AI beyond chatbots and benchmark rankings into the physical economy include China's \"AI Plus\" initiative, which seeks to {{19}} AI in manufacturing, finance, healthcare, energy and public services. President Xi also said in his speech that China should facilitate technological innovation, industrial development and \"{{20}} application of AI\".",
-          "cn": "今年上半年，包括集成电路制造和车载智能设备制造在内的人工智能相关产业的工业产值增长了30%以上。龙永图预测，更多利用人工智能完成以往需要更大规模组织才能完成工作的个人和小型专业公司将涌现，成为经济的新驱动力。“成功最终不应由模型排名或投资估值来判断，而应看人工智能是否真正改善了人们的生活，”他补充道。将人工智能从聊天机器人和基准排名推向实体经济的努力包括中国的“人工智能+”行动，该行动旨在将人工智能嵌入制造业、金融、医疗、能源和公共服务领域。习近平主席也在讲话中表示，中国应推动技术创新、产业发展和“人工智能的场景化应用”。"
-        },
-        {
-          "en": "Huo Fupeng, director of the innovation-driven development center of the National Development and Reform Commission, said that \"China is {{21}} its complete industrial system, enormous range of application scenarios and super-sized market to accelerate AI's {{22}} across thousands of industries\". \"Its dense industrial supply chains and vast domestic market give developers an environment in which technologies can be tested, {{23}} and {{24}} at scale,\" he said. Data from Counterpoint Research showed that approximately 16,000 {{27}} robots were deployed globally in 2025, with China accounting for more than 80 percent of them. At the World AI Conference, Chinese robotics company PrimeBOT unveiled a new, {{25}} robot that is capable of switching between {{26}} and humanoid forms. Tian Hua, CEO of leading materials maker Swancor Advanced Materials Co and head of PrimeBOT, said: \"The robotics supply chain comprises more than 1,600 components.",
-          "cn": "国家发展和改革委员会创新驱动发展中心主任霍福鹏表示，“中国正利用其完整的工业体系、庞大的应用场景范围和超大规模市场，加速人工智能在数千个行业的部署。”“其密集的工业供应链和广阔的国内市场为开发者提供了技术可以大规模测试、完善和部署的环境，”他说。Counterpoint Research的数据显示，2025年全球部署了约16000台人形机器人，其中中国占80%以上。在世界人工智能大会上，中国机器人公司普美机器人发布了一款新型可变形机器人，能够在四足和人形形态之间切换。领先材料制造商上纬先进材料股份有限公司首席执行官兼普美机器人负责人田华表示：“机器人供应链包含1600多个组件。"
-        },
-        {
-          "en": "At least 1,000 companies are capable of building a robot globally, but only a handful can manufacture 10,000 robots at consistent quality and scale.\"\n\"That's China's advantage — transforming personal robots from custom-built machines into mass-produced consumer products,\" he said. \"We are also confident of making such robots really affordable for ordinary people.\"\nSuch industrial depth could also help lower the cost of AI products for overseas users. While global attention has focused on Western technology companies competing for lucrative enterprise contracts in the United States and the Middle East, Chinese companies are promoting open-source products across developing countries. Alex Zhavoronkov, founder and CEO of AI-driven drug discovery company Insilico Medicine, said China's emphasis on open-source development will amplify those gains internationally. \"China is already leading the world in the open-source model,\" he said.",
-          "cn": "“全球至少有1000家公司能够制造机器人，但只有少数几家能够以一致的质量和规模生产10000台机器人。”“这就是中国的优势——将个人机器人从定制机器转变为大规模生产的消费产品，”他说。“我们也有信心让这类机器人真正让普通人负担得起。”这种工业深度也有助于降低海外用户使用人工智能产品的成本。当全球关注西方科技公司在美国和中东争夺利润丰厚的企业合同时，中国公司正在发展中国家推广开源产品。人工智能驱动的药物发现公司英矽智能的创始人兼首席执行官亚历克斯·扎沃龙科夫表示，中国对开源开发的重视将放大这些成果的国际影响力。“中国已经在开源模式方面领先世界，”他说。"
-        },
-        {
-          "en": "\"The Chinese approach and its AI policies are paving the way for the entire industry, and everyone on the planet will benefit.\"",
-          "cn": "“中国的做法及其人工智能政策正在为整个行业铺平道路，地球上的每个人都将受益。”"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "frontier",
-          "hint": "n. 前沿",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "accessible",
-          "hint": "adj. 可获得的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "vision",
-          "hint": "n. 愿景",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "symphony",
-          "hint": "n. 交响乐",
-          "difficulty": "hard"
-        },
-        {
-          "id": 4,
-          "answer": "coordinated",
-          "hint": "adj. 协调的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "transformation",
-          "hint": "n. 转型",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "cultivation",
-          "hint": "n. 培育",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "emerging",
-          "hint": "adj. 新兴的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "forward-looking",
-          "hint": "adj. 前瞻性的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "negotiator",
-          "hint": "n. 谈判代表",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "accession",
-          "hint": "n. 加入",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "unleashed",
-          "hint": "v. 释放",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "vitality",
-          "hint": "n. 活力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "restrictions",
-          "hint": "n. 限制",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "heralds",
-          "hint": "v. 预示",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "reshaping",
-          "hint": "v. 重塑",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "embraced",
-          "hint": "v. 拥抱",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "exceeding",
-          "hint": "v. 超过",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "consecutive",
-          "hint": "adj. 连续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "embed",
-          "hint": "v. 嵌入",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "scenario-based",
-          "hint": "adj. 基于场景的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "leveraging",
-          "hint": "v. 利用",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "deployment",
-          "hint": "n. 部署",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "refined",
-          "hint": "v. 完善",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "deployed",
-          "hint": "v. 部署",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "transformable",
-          "hint": "adj. 可变形",
-          "difficulty": "hard"
-        },
-        {
-          "id": 26,
-          "answer": "quadruped",
-          "hint": "n. 四足",
-          "difficulty": "hard"
-        },
-        {
-          "id": 27,
-          "answer": "humanoid",
-          "hint": "adj. 人形的",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "China's vision to turn artificial intelligence from an expensive frontier technology into a resource for affordable, widely accessible applications will bring huge benefits to more countries, businesses and ordinary people worldwide, said leading industry experts and company executives.\nThey made the comments on Tuesday after President Xi Jinping, in his keynote speech on Friday at the 2026 World AI Conference and High-Level Meeting on Global AI Governance in Shanghai, said that AI should be developed \"for the positive, for good and for humanity\".\n\"AI development should not be a solo performance by a single country, but a symphony of international cooperation,\" Xi said.\nHe called for coordinated advances in the transformation and upgrade of traditional industries, the cultivation and growth of emerging industries, and forward-looking planning for future industries, so that all sectors and businesses can benefit from AI.\nLong Yongtu, China's former chief negotiator for its accession to the World Trade Organization, said the rise of AI has become another turning point in the country's economic development.\nHe said that China's entry into the WTO in 2001 unleashed the vitality of millions of market participants after restrictions on foreign trade rights were relaxed, helping the country grow into the world's largest trader in goods and allowing ordinary people to increase their income through international commerce.\n\"Now, entering the age of AI heralds a new era of opening-up. AI is triggering a similarly profound transformation by reshaping production relationships, corporate structures and the cost of starting a business in the country,\" Long said.\nAccording to the Ministry of Industry and Information Technology, China has embraced AI with open arms, with the value of its core AI industries exceeding 1.2 trillion yuan ($177 billion) last year, maintaining annual growth of more than 20 percent for several consecutive years.\nFurthermore, the country is seeking to turn AI into real-world applications and a driver of economic growth.\nIn the first half of this year, the industrial output of AI-related sectors, including integrated circuit manufacturing and in-vehicle intelligent equipment manufacturing, grew more than 30 percent.\nLong predicted that more individuals and small, specialized companies that use AI to perform work that previously required much larger organizations will emerge to become new drivers of the economy.\n\"Success should ultimately be judged not by model rankings or investment valuations, but by whether AI really improves people's lives,\" he added.\nEfforts to push AI beyond chatbots and benchmark rankings into the physical economy include China's \"AI Plus\" initiative, which seeks to embed AI in manufacturing, finance, healthcare, energy and public services.\nPresident Xi also said in his speech that China should facilitate technological innovation, industrial development and \"scenario-based application of AI\".\nHuo Fupeng, director of the innovation-driven development center of the National Development and Reform Commission, said that \"China is leveraging its complete industrial system, enormous range of application scenarios and super-sized market to accelerate AI's deployment across thousands of industries\".\n\"Its dense industrial supply chains and vast domestic market give developers an environment in which technologies can be tested, refined and deployed at scale,\" he said.\nData from Counterpoint Research showed that approximately 16,000 humanoid robots were deployed globally in 2025, with China accounting for more than 80 percent of them.\nAt the World AI Conference, Chinese robotics company PrimeBOT unveiled a new, transformable robot that is capable of switching between quadruped and humanoid forms.\nTian Hua, CEO of leading materials maker Swancor Advanced Materials Co and head of PrimeBOT, said: \"The robotics supply chain comprises more than 1,600 components. At least 1,000 companies are capable of building a robot globally, but only a handful can manufacture 10,000 robots at consistent quality and scale.\"\n\"That's China's advantage — transforming personal robots from custom-built machines into mass-produced consumer products,\" he said. \"We are also confident of making such robots really affordable for ordinary people.\"\nSuch industrial depth could also help lower the cost of AI products for overseas users. While global attention has focused on Western technology companies competing for lucrative enterprise contracts in the United States and the Middle East, Chinese companies are promoting open-source products across developing countries.\nAlex Zhavoronkov, founder and CEO of AI-driven drug discovery company Insilico Medicine, said China's emphasis on open-source development will amplify those gains internationally.\n\"China is already leading the world in the open-source model,\" he said.\n\"The Chinese approach and its AI policies are paving the way for the entire industry, and everyone on the planet will benefit.\"",
-      "fullTextCn": "领先的行业专家和公司高管表示，中国将人工智能从昂贵的前沿技术转变为价格合理、广泛可用的应用资源的愿景，将为全球更多国家、企业和普通人带来巨大利益。他们是在周二发表上述评论的，此前国家主席习近平在上周五于上海举行的2026年世界人工智能大会暨全球人工智能治理高级别会议的主旨演讲中表示，人工智能应该“向善、为善、造福人类”。习近平说：“人工智能发展不应是单一国家的独角戏，而应是国际合作的交响乐。”他呼吁协调推进传统产业转型升级、新兴产业培育壮大和未来产业前瞻布局，使所有行业和企业都能从人工智能中受益。中国前加入世界贸易组织首席谈判代表龙永图表示，人工智能的崛起已成为中国经济发展的另一个转折点。\n\n他表示，2001年中国加入世贸组织后，随着外贸权限制的放宽，释放了数百万市场参与者的活力，帮助中国成长为全球最大的货物贸易国，并让普通民众通过国际贸易增加收入。“现在，进入人工智能时代预示着新一轮开放。人工智能正在重塑生产关系、企业结构和创业成本，引发同样深刻的变革，”龙永图说。据工业和信息化部称，中国张开双臂拥抱人工智能，去年核心人工智能产业价值超过1.2万亿元人民币（约合1770亿美元），连续多年保持20%以上的年增长率。此外，中国正致力于将人工智能转化为实际应用和经济增长的驱动力。\n\n今年上半年，包括集成电路制造和车载智能设备制造在内的人工智能相关产业的工业产值增长了30%以上。龙永图预测，更多利用人工智能完成以往需要更大规模组织才能完成工作的个人和小型专业公司将涌现，成为经济的新驱动力。“成功最终不应由模型排名或投资估值来判断，而应看人工智能是否真正改善了人们的生活，”他补充道。将人工智能从聊天机器人和基准排名推向实体经济的努力包括中国的“人工智能+”行动，该行动旨在将人工智能嵌入制造业、金融、医疗、能源和公共服务领域。习近平主席也在讲话中表示，中国应推动技术创新、产业发展和“人工智能的场景化应用”。\n\n国家发展和改革委员会创新驱动发展中心主任霍福鹏表示，“中国正利用其完整的工业体系、庞大的应用场景范围和超大规模市场，加速人工智能在数千个行业的部署。”“其密集的工业供应链和广阔的国内市场为开发者提供了技术可以大规模测试、完善和部署的环境，”他说。Counterpoint Research的数据显示，2025年全球部署了约16000台人形机器人，其中中国占80%以上。在世界人工智能大会上，中国机器人公司普美机器人发布了一款新型可变形机器人，能够在四足和人形形态之间切换。领先材料制造商上纬先进材料股份有限公司首席执行官兼普美机器人负责人田华表示：“机器人供应链包含1600多个组件。\n\n“全球至少有1000家公司能够制造机器人，但只有少数几家能够以一致的质量和规模生产10000台机器人。”“这就是中国的优势——将个人机器人从定制机器转变为大规模生产的消费产品，”他说。“我们也有信心让这类机器人真正让普通人负担得起。”这种工业深度也有助于降低海外用户使用人工智能产品的成本。当全球关注西方科技公司在美国和中东争夺利润丰厚的企业合同时，中国公司正在发展中国家推广开源产品。人工智能驱动的药物发现公司英矽智能的创始人兼首席执行官亚历克斯·扎沃龙科夫表示，中国对开源开发的重视将放大这些成果的国际影响力。“中国已经在开源模式方面领先世界，”他说。\n\n“中国的做法及其人工智能政策正在为整个行业铺平道路，地球上的每个人都将受益。”"
-    },
-    {
-      "id": 3,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-17/Scientists-reveal-how-aging-weakens-the-brain-s-protective-barrier-1OQlBVmo6Vq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "Scientists reveal how aging weakens the brain's protective barrier",
-      "titleCn": "科学家揭示衰老如何削弱大脑的保护屏障",
-      "summary": "Scientists reveal how aging weakens the brain's protective barrier",
-      "summaryCn": "研究发现衰老通过TGF-β1信号通路降低Mfsd2a蛋白水平，导致血脑屏障渗漏和认知衰退。",
-      "wordCount": 526,
-      "paragraphs": [
-        {
-          "en": "As people age, many experience memory {{0}} and slower {{1}} processing, along with a higher risk of {{2}} disease and cognitive {{3}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{4}} by which aging weakens the blood-brain {{5}}, the brain's protective {{6}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier {{8}} during aging.\"\nThe study shows how aging {{7}} {{17}} in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{9}} security system.",
-          "cn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也更高。衰老研究中的一个重要问题是，大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院的科学家们发现了一种机制，通过该机制衰老会削弱血脑屏障——大脑与血液之间的保护性界面。该研究发表在《神经元》期刊上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示，衰老如何破坏脑血管细胞中的运输功能，导致血脑屏障渗漏。血脑屏障（BBB）就像一个选择性安全系统。"
-        },
-        {
-          "en": "It allows essential {{10}} to reach the brain while preventing potentially harmful {{11}} in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{12}} disorders. Scientists have traditionally {{13}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{14}} in middle-aged mice and worsened in older animals.",
-          "cn": "它允许必需营养物质进入大脑，同时阻止血液中潜在的有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上认为，BBB渗漏主要源于大脑血管内壁细胞之间紧密连接的损伤。然而，这项新研究发现，在衰老过程中另一种更早发生的机制。通过检查不同年龄的小鼠，研究人员发现，BBB渗漏在中年小鼠中已可检测到，并在老年小鼠中进一步恶化。"
-        },
-        {
-          "en": "The change appeared early in the {{15}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{16}}. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
-          "cn": "这种变化最早出现在海马体——一个对学习和记忆至关重要的大脑区域。在此阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，使得血液中的物质能够穿过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎并非首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制。”研究团队发现一种名为Mfsd2a的蛋白是该保护系统的重要组成部分。"
-        },
-        {
-          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport {{18}}, increased. When the researchers restored endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a {{19}} molecule involved in {{20}}, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
-          "cn": "Mfsd2a通常限制脑部血管中不必要的运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮细胞Mfsd2a的表达或敲低Caveolin-1时，异常囊泡运输和BBB渗漏显著减少。随后，研究人员探究了Mfsd2a在衰老过程中下降的原因。他们发现，TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平在小鼠的大脑和血液中均随年龄增长而升高。"
-        },
-        {
-          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage. By contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
-          "cn": "过量的TGF-β1降低了脑部血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，会使它们出现通常见于衰老BBB的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号，则减少了BBB渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的BBB损伤并非仅仅是被动磨损的结果，而是涉及改变脑部血管细胞运输物质的生物信号。"
-        },
-        {
-          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing excessive activation of TGF-β signaling. Further research will be needed to determine whether these strategies can be safely translated into treatments for humans.",
-          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号的过度激活。需要进一步研究来确定这些策略能否安全地转化为人类的治疗方法。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "decline",
-          "hint": "n. 下降",
-          "difficulty": "easy"
-        },
-        {
-          "id": 1,
-          "answer": "cognitive",
-          "hint": "adj. 认知的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "cerebrovascular",
-          "hint": "adj. 脑血管的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "impairment",
-          "hint": "n. 损伤",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "mechanism",
-          "hint": "n. 机制",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "barrier",
-          "hint": "n. 屏障",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "interface",
-          "hint": "n. 界面",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "disrupts",
-          "hint": "v. 破坏",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "leakage",
-          "hint": "n. 渗漏",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "selective",
-          "hint": "adj. 选择性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "nutrients",
-          "hint": "n. 营养物质",
-          "difficulty": "easy"
-        },
-        {
-          "id": 11,
-          "answer": "substances",
-          "hint": "n. 物质",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "neurodegenerative",
-          "hint": "adj. 神经退行性的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "attributed",
-          "hint": "v. 归因于",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "detectable",
-          "hint": "adj. 可检测的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "hippocampus",
-          "hint": "n. 海马体",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "intact",
-          "hint": "adj. 完整的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "transport",
-          "hint": "n. 运输",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
-          "answer": "vesicles",
-          "hint": "n. 囊泡",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "signaling",
-          "hint": "n. 信号传导",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "inflammation",
-          "hint": "n. 炎症",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "As people age, many experience memory decline and slower cognitive processing, along with a higher risk of cerebrovascular disease and cognitive impairment. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline.\nScientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a mechanism by which aging weakens the blood-brain barrier, the brain's protective interface with the bloodstream.\nThe study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier leakage during aging.\"\nThe study shows how aging disrupts transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a selective security system. It allows essential nutrients to reach the brain while preventing potentially harmful substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several neurodegenerative disorders.\nScientists have traditionally attributed BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging.\nBy examining mice at different ages, the researchers found that BBB leakage was already detectable in middle-aged mice and worsened in older animals. The change appeared early in the hippocampus, a brain region important for learning and memory.\nAt this stage, the seals between blood vessel cells remained largely intact. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue.\n\"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said.\nThe team identified a protein called Mfsd2a as an important part of this protective system. Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased.\nWhen the researchers restored endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced.\nThe researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.\nExcessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage.\nBy contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests.\nThe findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.\nThe study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing excessive activation of TGF-β signaling. Further research will be needed to determine whether these strategies can be safely translated into treatments for humans.",
-      "fullTextCn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也更高。衰老研究中的一个重要问题是，大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院的科学家们发现了一种机制，通过该机制衰老会削弱血脑屏障——大脑与血液之间的保护性界面。该研究发表在《神经元》期刊上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示，衰老如何破坏脑血管细胞中的运输功能，导致血脑屏障渗漏。血脑屏障（BBB）就像一个选择性安全系统。\n\n它允许必需营养物质进入大脑，同时阻止血液中潜在的有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上认为，BBB渗漏主要源于大脑血管内壁细胞之间紧密连接的损伤。然而，这项新研究发现，在衰老过程中另一种更早发生的机制。通过检查不同年龄的小鼠，研究人员发现，BBB渗漏在中年小鼠中已可检测到，并在老年小鼠中进一步恶化。\n\n这种变化最早出现在海马体——一个对学习和记忆至关重要的大脑区域。在此阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，使得血液中的物质能够穿过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎并非首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制。”研究团队发现一种名为Mfsd2a的蛋白是该保护系统的重要组成部分。\n\nMfsd2a通常限制脑部血管中不必要的运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮细胞Mfsd2a的表达或敲低Caveolin-1时，异常囊泡运输和BBB渗漏显著减少。随后，研究人员探究了Mfsd2a在衰老过程中下降的原因。他们发现，TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平在小鼠的大脑和血液中均随年龄增长而升高。\n\n过量的TGF-β1降低了脑部血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，会使它们出现通常见于衰老BBB的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号，则减少了BBB渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的BBB损伤并非仅仅是被动磨损的结果，而是涉及改变脑部血管细胞运输物质的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号的过度激活。需要进一步研究来确定这些策略能否安全地转化为人类的治疗方法。"
-    },
-    {
-      "id": 4,
       "category": "technology",
       "source": "CGTN",
       "sourceUrl": "https://news.cgtn.com/news/2026-07-09/AI-applications-move-into-more-everyday-scenarios-1ODhOvc9w7S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
       "title": "AI applications move into more everyday scenarios",
       "titleCn": "人工智能应用进入更多日常场景",
       "summary": "The 25th China Internet Conference held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.",
-      "summaryCn": "第25届中国互联网大会展示了AI在城市治理、工业制造和零售等领域的实际应用，并预测到2030年AI生成流量将占全球互联网流量的60%。",
+      "summaryCn": "第25届中国互联网大会展示了AI在城市治理、工业制造和零售等领域的实际应用，强调AI代理和数字孪生技术正重塑互联网生态。",
       "wordCount": 463,
       "paragraphs": [
         {
-          "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders {{1}} new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{2}} into sectors ranging from urban {{3}} and industrial {{4}} to retail and public services. Speaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are {{5}} the internet itself. While large language models excel at general reasoning, AI agents are designed to {{6}} specific tasks and future digital ecosystems will increasingly rely on {{7}} among multiple intelligent agents rather than {{8}} AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
-          "cn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI驱动解决方案。大会于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心试用VR产品。"
+          "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders showcased new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{1}} into sectors ranging from urban {{2}} and industrial {{3}} to retail and public services. Speaking via video at the opening ceremony, Wu Hequan, an {{4}} of the Chinese Academy of Engineering, said AI-native technologies are reshaping the internet itself. While large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital {{5}} will increasingly rely on {{6}} among multiple intelligent agents rather than {{7}} AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
+          "cn": "第25届中国互联网大会于2026年7月8日在北京国家会议中心开幕。人工智能正迅速从实验技术转向实际应用，行业领袖在本次大会上展示了面向城市、企业和消费者的新型AI解决方案。大会于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何融入城市治理、工业制造、零售和公共服务等领域。中国工程院院士邬贺铨在开幕式视频致辞中表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。2026年7月8日，第25届中国互联网大会参会者在北京国家会议中心体验VR产品。"
         },
         {
-          "en": "According to Wu, AI-generated {{9}} is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the {{10}} source of token-based interactions. The shift, he said, will require internet {{11}} to {{12}} toward higher bandwidth, lower {{13}} and stronger computing {{14}}. The conference also demonstrated how AI is being {{15}} in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered {{16}} systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{17}} and building maintenance, providing city managers with real-time {{18}} and decision-making tools. Industry representatives also emphasized that AI {{19}} is creating {{20}} economic value.",
-          "cn": "据邬贺铨称，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。大会还展示了AI如何在实际场景中部署。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
+          "en": "According to Wu, AI-generated {{8}} is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the dominant source of token-based interactions. The shift, he said, will require internet {{14}} to evolve toward higher bandwidth, lower {{9}} and stronger computing capabilities. The conference also demonstrated how AI is being deployed in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy optimization and building maintenance, providing city managers with real-time {{10}} and decision-making tools. Industry representatives also emphasized that AI {{11}} is creating measurable economic value.",
+          "cn": "据邬贺铨介绍，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。大会还展示了AI在实践场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术使交通管理、能源优化和建筑维护更加高效，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
         },
         {
-          "en": "Participants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video {{21}} model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while {{22}} reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling {{23}} shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified {{24}} AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{25}} across different computing chips, reflects broader efforts to build more efficient and {{26}} AI infrastructure. As AI technologies continue to {{27}}, industry experts believe the focus is shifting from developing models to {{28}} them at scale.",
-          "cn": "第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在大会上，快手表示其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，参会者还将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动——一个旨在提高不同计算芯片兼容性的开放AI软件平台——反映了构建更高效、更可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。"
+          "en": "Participants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross {{12}} value while significantly reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{13}} across different computing chips, reflects broader efforts to build more efficient and sustainable AI infrastructure. As AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale.",
+          "cn": "2026年7月8日，第25届中国互联网大会参会者在北京国家会议中心与人形机器人互动。在大会上，快手表示其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，与会者将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动——一个旨在提高不同计算芯片兼容性的开放AI软件平台——反映了构建更高效、更可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。"
         },
         {
-          "en": "The conference highlighted China's efforts to accelerate AI {{29}} across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
+          "en": "The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
           "cn": "大会强调了中国加速AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
         }
       ],
@@ -543,222 +193,21 @@
         },
         {
           "id": 1,
-          "answer": "showcased",
-          "hint": "v. 展示",
+          "answer": "integrated",
+          "hint": "v. 整合，融入",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "integrated",
-          "hint": "v. 整合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
           "answer": "governance",
           "hint": "n. 治理",
           "difficulty": "hard"
         },
         {
-          "id": 4,
+          "id": 3,
           "answer": "manufacturing",
           "hint": "n. 制造业",
           "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "reshaping",
-          "hint": "v. 重塑",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "execute",
-          "hint": "v. 执行",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "collaboration",
-          "hint": "n. 协作",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "isolated",
-          "hint": "adj. 孤立的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "traffic",
-          "hint": "n. 流量",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "dominant",
-          "hint": "adj. 主要的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "evolve",
-          "hint": "v. 演进",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "latency",
-          "hint": "n. 延迟",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "capabilities",
-          "hint": "n. 能力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "deployed",
-          "hint": "v. 部署",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "inspection",
-          "hint": "n. 检测",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "optimization",
-          "hint": "n. 优化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "visualization",
-          "hint": "n. 可视化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "innovation",
-          "hint": "n. 创新",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "measurable",
-          "hint": "adj. 可衡量的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "generation",
-          "hint": "n. 生成",
-          "difficulty": "easy"
-        },
-        {
-          "id": 22,
-          "answer": "significantly",
-          "hint": "adv. 显著地",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "complex",
-          "hint": "adj. 复杂的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 24,
-          "answer": "trustworthy",
-          "hint": "adj. 可信的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 25,
-          "answer": "compatibility",
-          "hint": "n. 兼容性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 26,
-          "answer": "sustainable",
-          "hint": "adj. 可持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 27,
-          "answer": "mature",
-          "hint": "v. 成熟",
-          "difficulty": "medium"
-        },
-        {
-          "id": 28,
-          "answer": "deploying",
-          "hint": "v. 部署",
-          "difficulty": "medium"
-        },
-        {
-          "id": 29,
-          "answer": "adoption",
-          "hint": "n. 采用",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nArtificial intelligence is moving rapidly from experimental technology to real-world applications, as industry leaders showcased new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing.\nHeld from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.\nSpeaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are reshaping the internet itself.\nWhile large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on collaboration among multiple intelligent agents rather than isolated AI systems.\nParticipants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAccording to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the dominant source of token-based interactions. The shift, he said, will require internet infrastructure to evolve toward higher bandwidth, lower latency and stronger computing capabilities.\nThe conference also demonstrated how AI is being deployed in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy optimization and building maintenance, providing city managers with real-time visualization and decision-making tools.\nIndustry representatives also emphasized that AI innovation is creating measurable economic value.\nParticipants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAt the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while significantly reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services.\nBeyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve compatibility across different computing chips, reflects broader efforts to build more efficient and sustainable AI infrastructure.\nAs AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale. The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI驱动解决方案。大会于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心试用VR产品。\n\n据邬贺铨称，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。大会还展示了AI如何在实际场景中部署。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在大会上，快手表示其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，参会者还将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动——一个旨在提高不同计算芯片兼容性的开放AI软件平台——反映了构建更高效、更可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。\n\n大会强调了中国加速AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
-    },
-    {
-      "id": 5,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-08/China-honors-pioneers-of-lithium-batteries-and-radar-technology-1OBPLBmhTNe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "China honors pioneers of lithium batteries and radar technology",
-      "titleCn": "中国表彰锂电池与雷达技术先驱",
-      "summary": "China honors pioneers of lithium batteries and radar technology",
-      "summaryCn": "中国授予2025年度国家最高科学技术奖给锂电池先驱陈立泉和雷达专家贲德，以表彰他们在各自领域的开创性贡献。",
-      "wordCount": 214,
-      "paragraphs": [
-        {
-          "en": ", Updated 16:18, 08-Jul-2026Lithium battery {{0}} Chen Liquan (L) and radar expert Ben De won China's national top sci-tech award for 2025 in Beijing, July 8 2026. /CMG\nCGTN infographics by Li Wenyi. China has {{1}} its top science and technology prize for 2025 to lithium battery pioneer Chen Liquan and radar expert Ben De in a {{2}} in Beijing. Chen, 86, is a {{3}} at the Institute of Physics under the Chinese Academy of Sciences, and an {{4}} of the Chinese Academy of Engineering (CAE). He is widely {{5}} as the {{6}} of China's lithium battery {{7}}. Ben, 88, is a researcher at the China Electronics Technology Group Corporation and a CAE academician. He is {{8}} as the founder of China's {{9}} {{10}} {{11}} radar technology, and a pioneer in both {{12}} {{13}} and space-based {{14}} radar technology. The ceremony was held alongside the national science and technology award conference, the general {{15}} of the members of the Chinese Academy of Sciences and the CAE, and the 11th national {{16}} of the China Association for Science and Technology. Wednesday's meeting {{17}} 258 {{18}} and 11 scientific and technological {{19}}, with 51 projects receiving the State {{20}} Science Award, 58 the State {{21}} Invention Award, and 149 the State Scientific and Technological Progress Award.",
-          "cn": "中国在北京举行的颁奖典礼上，将2025年度国家最高科学技术奖授予了锂电池先驱陈立泉和雷达专家贲德。现年86岁的陈立泉是中国科学院物理研究所研究员、中国工程院院士，被公认为中国锂电池产业的奠基人。现年88岁的贲德是中国电子科技集团公司研究员、中国工程院院士，被誉为中国机载脉冲多普勒雷达技术的创始人，也是相控阵雷达和天基监视雷达技术的先驱。颁奖典礼与国家科学技术奖励大会、中国科学院和中国工程院院士大会、中国科学技术协会第十一次全国代表大会同期举行。周三的会议表彰了258个项目和11位科技专家，其中51个项目获得国家自然科学奖，58个项目获得国家技术发明奖，149个项目获得国家科学技术进步奖。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "pioneer",
-          "hint": "n. 先驱",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "awarded",
-          "hint": "v. 授予",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "ceremony",
-          "hint": "n. 典礼",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "researcher",
-          "hint": "n. 研究员",
-          "difficulty": "easy"
         },
         {
           "id": 4,
@@ -768,109 +217,228 @@
         },
         {
           "id": 5,
-          "answer": "recognized",
-          "hint": "v. 公认",
+          "answer": "ecosystems",
+          "hint": "n. 生态系统",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "founder",
-          "hint": "n. 创始人",
-          "difficulty": "easy"
+          "answer": "collaboration",
+          "hint": "n. 协作",
+          "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "sector",
-          "hint": "n. 领域",
+          "answer": "isolated",
+          "hint": "adj. 孤立的",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "acclaimed",
-          "hint": "v. 被誉为",
-          "difficulty": "hard"
+          "answer": "traffic",
+          "hint": "n. 流量",
+          "difficulty": "easy"
         },
         {
           "id": 9,
-          "answer": "airborne",
-          "hint": "adj. 机载的",
+          "answer": "latency",
+          "hint": "n. 延迟",
           "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "pulse",
-          "hint": "n. 脉冲",
+          "answer": "visualization",
+          "hint": "n. 可视化",
           "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "Doppler",
-          "hint": "n. 多普勒",
-          "difficulty": "hard"
+          "answer": "innovation",
+          "hint": "n. 创新",
+          "difficulty": "easy"
         },
         {
           "id": 12,
-          "answer": "phased",
-          "hint": "adj. 相控的",
-          "difficulty": "hard"
+          "answer": "merchandise",
+          "hint": "n. 商品",
+          "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "array",
-          "hint": "n. 阵列",
+          "answer": "compatibility",
+          "hint": "n. 兼容性",
           "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "surveillance",
-          "hint": "n. 监视",
-          "difficulty": "hard"
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nArtificial intelligence is moving rapidly from experimental technology to real-world applications, as industry leaders showcased new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing.\nHeld from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.\nSpeaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are reshaping the internet itself.\nWhile large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on collaboration among multiple intelligent agents rather than isolated AI systems.\nParticipants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAccording to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the dominant source of token-based interactions. The shift, he said, will require internet infrastructure to evolve toward higher bandwidth, lower latency and stronger computing capabilities.\nThe conference also demonstrated how AI is being deployed in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy optimization and building maintenance, providing city managers with real-time visualization and decision-making tools.\nIndustry representatives also emphasized that AI innovation is creating measurable economic value.\nParticipants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAt the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while significantly reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services.\nBeyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve compatibility across different computing chips, reflects broader efforts to build more efficient and sustainable AI infrastructure.\nAs AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale. The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
+      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京国家会议中心开幕。人工智能正迅速从实验技术转向实际应用，行业领袖在本次大会上展示了面向城市、企业和消费者的新型AI解决方案。大会于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何融入城市治理、工业制造、零售和公共服务等领域。中国工程院院士邬贺铨在开幕式视频致辞中表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。2026年7月8日，第25届中国互联网大会参会者在北京国家会议中心体验VR产品。\n\n据邬贺铨介绍，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。大会还展示了AI在实践场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术使交通管理、能源优化和建筑维护更加高效，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n2026年7月8日，第25届中国互联网大会参会者在北京国家会议中心与人形机器人互动。在大会上，快手表示其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，与会者将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动——一个旨在提高不同计算芯片兼容性的开放AI软件平台——反映了构建更高效、更可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。\n\n大会强调了中国加速AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+    },
+    {
+      "id": 3,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-07-23/detail-ihfhqwkz8166404.shtml",
+      "title": "China issues $301 billion in new special-purpose bonds in H1",
+      "titleCn": "中国上半年发行新增专项债券3010亿美元",
+      "summary": "China issued 2.07 trillion yuan (about $301.4 billion) in new special-purpose bonds (SPBs) in the first half of this year, accounting for 47% of the annual quota, a finance ministry official said Wednesday.",
+      "summaryCn": "中国上半年发行新增专项债券2.07万亿元，主要用于基础设施和城市更新，并扩大试点范围以提高资金使用效率。",
+      "wordCount": 285,
+      "paragraphs": [
+        {
+          "en": "(ECNS) -- China {{0}} 2.07 trillion yuan (about $301.4 billion) in new special-purpose bonds (SPBs) in the first half of this year, {{1}} for 47% of the annual {{2}}, a finance ministry official said Wednesday. The {{3}} were mainly used for {{4}} in {{5}} and industrial parks, transportation, {{6}} {{7}} and social programs, with over 170 billion yuan {{8}} as project {{9}}, according to Zhao Zeyong, deputy director-general of the Debt Management Department at the Ministry of Finance. Speaking at a press conference, Zhao said the policy effects of SPBs have continued to gain {{10}}, with a number of major projects breaking ground and existing {{11}} debt being replaced in an orderly manner. The \"self-{{15}} and self-issuance\" {{13}} program for SPB projects has been {{12}} expanded. This year, Hebei, Jiangxi, Hubei and Chongqing were added to the pilot.",
+          "cn": "（中国新闻网）——财政部官员周三表示，今年上半年中国发行新增专项债券2.07万亿元（约3014亿美元），占全年限额的47%。财政部债务管理司副司长赵泽永表示，资金主要用于市政和产业园区基础设施、交通、城市更新和社会事业，其中超过1700亿元用作项目资本金。赵泽永在新闻发布会上表示，专项债券的政策效应持续显现，一批重大项目开工建设，存量隐性债务有序置换。专项债券项目“自审自发”试点稳步扩大，今年新增河北、江西、湖北、重庆四省市。"
         },
         {
-          "id": 15,
-          "answer": "assemblies",
-          "hint": "n. 大会",
+          "en": "Under the pilot, provincial-level governments are {{14}} to review and approve local project lists without needing {{16}} from the National Development and Reform Commission or the Ministry of Finance. Zhao said the pilot regions have seen significantly faster bond issuance and fund {{17}}. By the end of June, the pilot regions had issued 1.6 trillion yuan in new SPBs, accounting for 77% of the national total. Zhao also said the ministry will guide local governments to strengthen the full-cycle management of SPBs, accelerate fund {{18}} to ensure {{19}} progress, strictly enforce the \"negative list\" management approach and {{20}} the establishment of debt service {{21}} systems. Separate data from the ministry showed that in the first half, China's government-managed fund revenue fell 21.6% year on year to 1.52 trillion yuan, while expenditure dropped 16.4% to 3.87 trillion yuan.",
+          "cn": "在试点下，省级政府被授权审核批准地方项目清单，无需国家发展改革委或财政部审批。赵泽永表示，试点地区债券发行和资金使用速度显著加快。截至6月底，试点地区发行新增专项债券1.6万亿元，占全国总量的77%。赵泽永还表示，财政部将指导地方加强专项债券全生命周期管理，加快资金拨付确保形成实物工作量，严格执行“负面清单”管理，并加快建立偿债备付金制度。财政部另据数据显示，上半年全国政府性基金预算收入1.52万亿元，同比下降21.6%；支出3.87万亿元，同比下降16.4%。"
+        },
+        {
+          "en": "Local government-managed fund expenditure declined 8.8% to 3.65 trillion yuan.",
+          "cn": "地方政府性基金预算支出3.65万亿元，同比下降8.8%。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "issued",
+          "hint": "v. 发行",
           "difficulty": "medium"
         },
         {
+          "id": 1,
+          "answer": "accounting",
+          "hint": "v. 占（比例）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "quota",
+          "hint": "n. 限额",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "proceeds",
+          "hint": "n. 收入，资金",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "municipal",
+          "hint": "adj. 市政的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "urban",
+          "hint": "adj. 城市的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "renewal",
+          "hint": "n. 更新，改造",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "allocated",
+          "hint": "v. 分配，拨出",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "capital",
+          "hint": "n. 资本金",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "traction",
+          "hint": "n. 牵引力，势头",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "implicit",
+          "hint": "adj. 隐性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "steadily",
+          "hint": "adv. 稳步地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "pilot",
+          "hint": "n. 试点",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "authorized",
+          "hint": "v. 授权",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "review",
+          "hint": "v. 审核",
+          "difficulty": "easy"
+        },
+        {
           "id": 16,
-          "answer": "congress",
-          "hint": "n. 代表大会",
+          "answer": "approval",
+          "hint": "n. 批准",
           "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "honored",
-          "hint": "v. 表彰",
-          "difficulty": "medium"
+          "answer": "utilization",
+          "hint": "n. 利用，使用",
+          "difficulty": "hard"
         },
         {
           "id": 18,
-          "answer": "projects",
-          "hint": "n. 项目",
-          "difficulty": "easy"
+          "answer": "disbursement",
+          "hint": "n. 拨付，支出",
+          "difficulty": "hard"
         },
         {
           "id": 19,
-          "answer": "experts",
-          "hint": "n. 专家",
-          "difficulty": "easy"
+          "answer": "tangible",
+          "hint": "adj. 有形的，实际的",
+          "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "Natural",
-          "hint": "adj. 自然的",
-          "difficulty": "easy"
+          "answer": "expedite",
+          "hint": "v. 加快，促进",
+          "difficulty": "hard"
         },
         {
           "id": 21,
-          "answer": "Technological",
-          "hint": "adj. 技术的",
+          "answer": "reserve",
+          "hint": "n. 储备金",
           "difficulty": "medium"
         }
       ],
-      "fullText": ", Updated 16:18, 08-Jul-2026Lithium battery pioneer Chen Liquan (L) and radar expert Ben De won China's national top sci-tech award for 2025 in Beijing, July 8 2026. /CMG\nCGTN infographics by Li Wenyi.\nChina has awarded its top science and technology prize for 2025 to lithium battery pioneer Chen Liquan and radar expert Ben De in a ceremony in Beijing.\nChen, 86, is a researcher at the Institute of Physics under the Chinese Academy of Sciences, and an academician of the Chinese Academy of Engineering (CAE). He is widely recognized as the founder of China's lithium battery sector.\nBen, 88, is a researcher at the China Electronics Technology Group Corporation and a CAE academician. He is acclaimed as the founder of China's airborne pulse Doppler radar technology, and a pioneer in both phased array and space-based surveillance radar technology.\nThe ceremony was held alongside the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences and the CAE, and the 11th national congress of the China Association for Science and Technology.\nWednesday's meeting honored 258 projects and 11 scientific and technological experts, with 51 projects receiving the State Natural Science Award, 58 the State Technological Invention Award, and 149 the State Scientific and Technological Progress Award.",
-      "fullTextCn": "中国在北京举行的颁奖典礼上，将2025年度国家最高科学技术奖授予了锂电池先驱陈立泉和雷达专家贲德。现年86岁的陈立泉是中国科学院物理研究所研究员、中国工程院院士，被公认为中国锂电池产业的奠基人。现年88岁的贲德是中国电子科技集团公司研究员、中国工程院院士，被誉为中国机载脉冲多普勒雷达技术的创始人，也是相控阵雷达和天基监视雷达技术的先驱。颁奖典礼与国家科学技术奖励大会、中国科学院和中国工程院院士大会、中国科学技术协会第十一次全国代表大会同期举行。周三的会议表彰了258个项目和11位科技专家，其中51个项目获得国家自然科学奖，58个项目获得国家技术发明奖，149个项目获得国家科学技术进步奖。"
+      "fullText": "(ECNS) -- China issued 2.07 trillion yuan (about $301.4 billion) in new special-purpose bonds (SPBs) in the first half of this year, accounting for 47% of the annual quota, a finance ministry official said Wednesday.\nThe proceeds were mainly used for infrastructure in municipal and industrial parks, transportation, urban renewal and social programs, with over 170 billion yuan allocated as project capital, according to Zhao Zeyong, deputy director-general of the Debt Management Department at the Ministry of Finance.\nSpeaking at a press conference, Zhao said the policy effects of SPBs have continued to gain traction, with a number of major projects breaking ground and existing implicit debt being replaced in an orderly manner.\nThe \"self-review and self-issuance\" pilot program for SPB projects has been steadily expanded. This year, Hebei, Jiangxi, Hubei and Chongqing were added to the pilot. Under the pilot, provincial-level governments are authorized to review and approve local project lists without needing approval from the National Development and Reform Commission or the Ministry of Finance.\nZhao said the pilot regions have seen significantly faster bond issuance and fund utilization. By the end of June, the pilot regions had issued 1.6 trillion yuan in new SPBs, accounting for 77% of the national total.\nZhao also said the ministry will guide local governments to strengthen the full-cycle management of SPBs, accelerate fund disbursement to ensure tangible progress, strictly enforce the \"negative list\" management approach and expedite the establishment of debt service reserve systems.\nSeparate data from the ministry showed that in the first half, China's government-managed fund revenue fell 21.6% year on year to 1.52 trillion yuan, while expenditure dropped 16.4% to 3.87 trillion yuan. Local government-managed fund expenditure declined 8.8% to 3.65 trillion yuan.",
+      "fullTextCn": "（中国新闻网）——财政部官员周三表示，今年上半年中国发行新增专项债券2.07万亿元（约3014亿美元），占全年限额的47%。财政部债务管理司副司长赵泽永表示，资金主要用于市政和产业园区基础设施、交通、城市更新和社会事业，其中超过1700亿元用作项目资本金。赵泽永在新闻发布会上表示，专项债券的政策效应持续显现，一批重大项目开工建设，存量隐性债务有序置换。专项债券项目“自审自发”试点稳步扩大，今年新增河北、江西、湖北、重庆四省市。\n\n在试点下，省级政府被授权审核批准地方项目清单，无需国家发展改革委或财政部审批。赵泽永表示，试点地区债券发行和资金使用速度显著加快。截至6月底，试点地区发行新增专项债券1.6万亿元，占全国总量的77%。赵泽永还表示，财政部将指导地方加强专项债券全生命周期管理，加快资金拨付确保形成实物工作量，严格执行“负面清单”管理，并加快建立偿债备付金制度。财政部另据数据显示，上半年全国政府性基金预算收入1.52万亿元，同比下降21.6%；支出3.87万亿元，同比下降16.4%。\n\n地方政府性基金预算支出3.65万亿元，同比下降8.8%。"
     }
   ]
 }
