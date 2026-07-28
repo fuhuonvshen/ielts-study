@@ -1,539 +1,40 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "articles": [
     {
       "id": 1,
-      "category": "education",
-      "source": "CGTN",
-      "sourceUrl": "https://newsaf.cgtn.com/news/2026-07-23/Mobile-science-labs-improve-science-results-in-South-Africa-1Oxju0ssA4o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Mobile science labs improve science results in South Africa",
-      "titleCn": "移动科学实验室提升南非科学成绩",
-      "summary": "South African innovation companies that design and deploy modular and mobile science laboratories for schools are helping learners improve their marks in science.",
-      "summaryCn": "南非移动科学实验室通过提供实践机会，显著改善了学生的科学成绩和学习信心。",
-      "wordCount": 973,
-      "paragraphs": [
-        {
-          "en": "e the {{22}} mobile science room at Pine Ridge Combined School in Mpumalanga, South Africa, October 22, 2022. /Kusile Labs & Technology\nFor years, Benjamin Ndlovu studied chemistry and physics using only textbooks because his school had no {{0}}. \"Before we had access to the laboratory, we mostly learned from textbooks,\" Ndlovu said. \"Being able to carry out the experiments ourselves has helped me understand {{1}} I used to struggle with and has given me more {{2}} ahead of my exams.\"\nNdlovu is one of thousands of South African students {{3}} by the lack of science laboratories in most public schools in the country. That gap helps explain why national pass rates have barely moved in years, even as the government has made improving science results a {{4}}.",
-          "cn": "多年来，本杰明·恩德洛武仅凭教科书学习化学和物理，因为他的学校没有实验室。恩德洛武说：“在能使用实验室之前，我们主要靠课本学习。能够亲自进行实验，帮助我理解了曾经难以掌握的概念，并在考试前给了我更多信心。”恩德洛武是南非数千名受公立学校缺乏科学实验室影响的学生之一。这一差距解释了为何尽管政府将提高科学成绩列为优先事项，全国通过率多年来却几乎未变。"
-        },
-        {
-          "en": "South Africa's Department of Basic Education has made improving mathematics and physical sciences results a national priority. The goal is to address {{5}} of technical and scientific skills in the economy but progress has been slow. Physical sciences pass rates in the 2025 matric exams edged up only slightly, from 76% to 77%, even as more students {{6}} in the subject. Mathematics results, another {{7}} subject for careers in science and engineering, actually {{8}} over the same period. Ndlovu's classmate at Pine Ridge Senior Secondary School, Zamahlubi Sefoloko, said hands-on lab work has changed how she thinks about her future.",
-          "cn": "南非基础教育部已将提高数学和物理科学成绩列为国家优先事项。目标是解决经济中技术和科学技能的短缺问题，但进展缓慢。2025年高考中，物理科学通过率仅从76%微升至77%，尽管选修该科目的学生人数有所增加。另一门通往科学和工程职业的关键科目——数学，同期成绩实际上有所下降。恩德洛武在松岭高中的同学扎马赫卢比·塞福洛科表示，动手实验改变了她对未来的看法。"
-        },
-        {
-          "en": "\"Science feels different when you can actually see the reactions and use the equipment yourself,\" Sefoloko said. \"It makes the lessons more interesting and has {{9}} me to work harder because I can now picture myself studying towards becoming a lab technologist.\"\nAcross the country, Abenathi Mkhize, another student at Simanyene High School in the Western Cape, said practical work has changed how many students {{10}} the subject. \"The practical lessons have changed the way many of us think about physical sciences,\" Mkhize said. \"Instead of {{11}} theory, we can test what we've learned, and that has helped improve our understanding and our results.\"\nA modular structure built by Kusile Labs & Technology at Pine Ridge Combined School in South Africa's Mpumalanga province, October 22, 2022. /Kusile Labs & Technology\nA gap in school {{12}}\nBehind the national numbers is a {{13}} infrastructure gap.",
-          "cn": "塞福洛科说：“当你亲眼看到反应并亲自使用设备时，科学的感觉完全不同。这让课程更有趣，也激励我更加努力，因为我现在能想象自己正在努力学习成为实验室技术员。”在全国范围内，西开普省西马尼耶内高中的另一名学生阿贝纳西·姆基泽表示，实践工作改变了许多学生学习这门科目的方式。姆基泽说：“实践课改变了许多人对物理科学的看法。我们不再死记硬背理论，而是可以检验所学内容，这有助于提高我们的理解和成绩。”"
-        },
-        {
-          "en": "Department of Basic Education data has repeatedly shown that only about one in five public schools has a science laboratory. Roughly three-quarters lack a library. The shortages are worse in poorer provinces such as Limpopo and the Eastern Cape. Government {{14}} put the cost of closing school infrastructure gaps nationwide in the tens of billions of rand. The small national gain in physical sciences came even as enrollment in the subject grew.",
-          "cn": "国家数据背后是严峻的基础设施差距。基础教育部数据反复显示，只有约五分之一的公立学校拥有科学实验室。大约四分之三的学校缺乏图书馆。在林波波省和东开普省等较贫困省份，短缺情况更为严重。政府估计，填补全国学校基础设施差距的成本高达数百亿兰特。物理科学的小幅全国性进步是在选修人数增长的情况下实现的。"
-        },
-        {
-          "en": "South Africa's Basic Education Minister, Siviwe Gwarube, has pointed out that the country is seeing growth in learner numbers without a {{15}} gain in educational quality. Teachers say access to laboratory equipment is making a real difference. Velile Njobe, a science teacher at Pine Ridge Combined School in Mpumalanga, says the resources are {{16}} how students learn. \"Practical work allows learners to connect theory with real-life applications,\" Njobe said. \"We've seen students become more {{17}} in class, ask better questions and develop greater confidence.",
-          "cn": "南非基础教育部部长西维韦·瓜鲁贝指出，该国学生人数增长，但教育质量并未相应提升。教师们表示，实验室设备的获取正在带来切实的改变。姆普马兰加省松岭联合学校的科学教师维利莱·恩乔贝说，这些资源正在改变学生的学习方式。恩乔贝说：“实践工作让学生将理论与实际应用联系起来。我们看到学生课堂参与度更高，提出更好的问题，并培养了更强的自信心。”"
-        },
-        {
-          "en": "Access to a laboratory gives them the opportunity to build the skills that Physical Sciences requires.\"\nAt Simanyene High School, Principal Miss Gxagxama has seen a similar shift since a mobile laboratory was installed there in 2018. \"We received a donated mobile lab to the school and now the learners are able to do practicals and not only learn physical sciences through theory and textbook learning. Our school had a non-functioning lab and {{18}} chemicals, now Kusile Labs sends us chemicals annually. Since working with them, our school's results have gradually improved,\" she said. At Simanyene High School, physical sciences results have undergone a {{19}} transformation.",
-          "cn": "“实验室的访问机会让他们能够培养物理科学所需的技能。”在西马尼耶内高中，校长格萨格萨马女士自2018年移动实验室安装以来也看到了类似的变化。她说：“我们收到一个捐赠的移动实验室，现在学生能够进行实践，而不仅仅通过理论和课本学习物理科学。我们学校曾有一个无法使用的实验室和过期的化学品，现在库西莱实验室每年给我们送化学品。自与他们合作以来，我们学校的成绩逐渐提高。”在西马尼耶内高中，物理科学成绩经历了显著转变。"
-        },
-        {
-          "en": "The matric pass rate rose from 37.5% in 2020 to 65.3% in 2021, before climbing above 95% in 2022 and reaching 100% in 2025. Pine Ridge Combined School has followed a similar path, recording steady gains in physical sciences performance since 2022. Kusile Labs & Technology workers assemble a modular science structure at Pine Ridge Combined School in Mpumalanga, September 2, 2022. /Kusile Labs & Technology\nWhere the laboratories come from\nKusile Labs & Technology built the laboratories at both schools. The South African company designs modular and mobile units for schools that cannot afford, or do not have space for, {{20}} laboratories.",
-          "cn": "高考通过率从2020年的37.5%上升到2021年的65.3%，然后在2022年攀升至95%以上，并在2025年达到100%。松岭联合学校也遵循了类似路径，自2022年以来物理科学成绩稳步提升。"
-        },
-        {
-          "en": "According to co-founder Pamella Maseko, the company does not determine which schools benefit from the laboratory projects. That decision is generally made by the corporate {{21}} providing the funding. A school with no room to build gets a mobile laboratory that can be wheeled between classrooms. A school with available land can get a modular unit, assembled on-site from prefabricated parts. Maseko explained that the process takes only a few weeks, compared with roughly three years for a conventional laboratory.",
-          "cn": "库西莱实验室与技术公司为两所学校建造了实验室。这家南非公司为无力建造或没有空间建造传统实验室的学校设计模块化和移动式单元。据联合创始人帕梅拉·马塞科介绍，公司并不决定哪些学校受益于实验室项目。这一决定通常由提供资金的企业赞助商做出。没有空间建造的学校会获得一个可在教室之间移动的移动实验室。有可用土地的学校可以获得一个模块化单元，在现场用预制部件组装。马塞科解释说，这个过程只需几周，而传统实验室大约需要三年。"
-        },
-        {
-          "en": "\"The modular structure does not necessarily require all the {{23}} frameworks that often take so long to implement and fulfill,\" she added. Kusile Labs also hires young people from the communities where it builds laboratories, training them to work alongside its own staff during installation, which {{24}} {{25}} in a country where joblessness among 15- to 24-year-olds reached 60.9% in the first quarter of 2026, according to Statistics South Africa. Equipment that comes with the science laboratorties seen at Solomon Mahlungu High School in Uitenhage, Eastern Cape, in March 2018. /Kusile Labs & Technology\nA larger, unfinished project\nSimanyene and Pine Ridge are two examples in a much bigger challenge. Five decades since the Soweto Uprising, access to quality science education remains {{27}} for millions of South African learners.",
-          "cn": "她补充说：“模块化结构不一定需要所有通常需要很长时间才能实施和满足的监管框架。”库西莱实验室还从建造实验室的社区招聘年轻人，培训他们在安装期间与公司员工一起工作，这有助于缓解南非的失业问题——根据南非统计局数据，2026年第一季度15至24岁青年的失业率达到60.9%。"
-        },
-        {
-          "en": "For students like Ndlovu, Sefoloko and Mkhize, that is starting to change. They can now do the experiments themselves, instead of only reading about them.",
-          "cn": "西马尼耶内和松岭只是更大挑战中的两个例子。自索韦托起义以来五十年，数百万南非学生仍无法获得优质科学教育。对于像恩德洛武、塞福洛科和姆基泽这样的学生来说，情况正在开始改变。他们现在可以亲自做实验，而不仅仅是阅读相关内容。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "laboratory",
-          "hint": "n. 实验室",
-          "difficulty": "easy"
-        },
-        {
-          "id": 1,
-          "answer": "concepts",
-          "hint": "n. 概念",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "confidence",
-          "hint": "n. 信心",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "affected",
-          "hint": "v. 影响",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "priority",
-          "hint": "n. 优先事项",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "shortages",
-          "hint": "n. 短缺",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "enrolled",
-          "hint": "v. 注册",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "gateway",
-          "hint": "n. 通道",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "declined",
-          "hint": "v. 下降",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "motivated",
-          "hint": "v. 激励",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "approach",
-          "hint": "v. 对待",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "memorizing",
-          "hint": "v. 记忆",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "stark",
-          "hint": "adj. 严峻的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "estimates",
-          "hint": "n. 估计",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "corresponding",
-          "hint": "adj. 相应的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "transforming",
-          "hint": "v. 转变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "engaged",
-          "hint": "adj. 投入的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "expired",
-          "hint": "adj. 过期的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "remarkable",
-          "hint": "adj. 显著的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "conventional",
-          "hint": "adj. 传统的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "sponsors",
-          "hint": "n. 赞助商",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "modular",
-          "hint": "adj. 模块化的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 23,
-          "answer": "regulatory",
-          "hint": "adj. 监管的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 24,
-          "answer": "alleviates",
-          "hint": "v. 缓解",
-          "difficulty": "hard"
-        },
-        {
-          "id": 25,
-          "answer": "unemployment",
-          "hint": "n. 失业",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "out of reach",
-          "hint": "短语 无法获得",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "e the modular mobile science room at Pine Ridge Combined School in Mpumalanga, South Africa, October 22, 2022. /Kusile Labs & Technology\nFor years, Benjamin Ndlovu studied chemistry and physics using only textbooks because his school had no laboratory.\n\"Before we had access to the laboratory, we mostly learned from textbooks,\" Ndlovu said. \"Being able to carry out the experiments ourselves has helped me understand concepts I used to struggle with and has given me more confidence ahead of my exams.\"\nNdlovu is one of thousands of South African students affected by the lack of science laboratories in most public schools in the country. That gap helps explain why national pass rates have barely moved in years, even as the government has made improving science results a priority.\nSouth Africa's Department of Basic Education has made improving mathematics and physical sciences results a national priority.\nThe goal is to address shortages of technical and scientific skills in the economy but progress has been slow.\nPhysical sciences pass rates in the 2025 matric exams edged up only slightly, from 76% to 77%, even as more students enrolled in the subject. Mathematics results, another gateway subject for careers in science and engineering, actually declined over the same period.\nNdlovu's classmate at Pine Ridge Senior Secondary School, Zamahlubi Sefoloko, said hands-on lab work has changed how she thinks about her future.\n\"Science feels different when you can actually see the reactions and use the equipment yourself,\" Sefoloko said. \"It makes the lessons more interesting and has motivated me to work harder because I can now picture myself studying towards becoming a lab technologist.\"\nAcross the country, Abenathi Mkhize, another student at Simanyene High School in the Western Cape, said practical work has changed how many students approach the subject.\n\"The practical lessons have changed the way many of us think about physical sciences,\" Mkhize said. \"Instead of memorizing theory, we can test what we've learned, and that has helped improve our understanding and our results.\"\nA modular structure built by Kusile Labs & Technology at Pine Ridge Combined School in South Africa's Mpumalanga province, October 22, 2022. /Kusile Labs & Technology\nA gap in school infrastructure\nBehind the national numbers is a stark infrastructure gap. Department of Basic Education data has repeatedly shown that only about one in five public schools has a science laboratory. Roughly three-quarters lack a library. The shortages are worse in poorer provinces such as Limpopo and the Eastern Cape. Government estimates put the cost of closing school infrastructure gaps nationwide in the tens of billions of rand.\nThe small national gain in physical sciences came even as enrollment in the subject grew. South Africa's Basic Education Minister, Siviwe Gwarube, has pointed out that the country is seeing growth in learner numbers without a corresponding gain in educational quality.\nTeachers say access to laboratory equipment is making a real difference. Velile Njobe, a science teacher at Pine Ridge Combined School in Mpumalanga, says the resources are transforming how students learn.\n\"Practical work allows learners to connect theory with real-life applications,\" Njobe said. \"We've seen students become more engaged in class, ask better questions and develop greater confidence. Access to a laboratory gives them the opportunity to build the skills that Physical Sciences requires.\"\nAt Simanyene High School, Principal Miss Gxagxama has seen a similar shift since a mobile laboratory was installed there in 2018.\n\"We received a donated mobile lab to the school and now the learners are able to do practicals and not only learn physical sciences through theory and textbook learning. Our school had a non-functioning lab and expired chemicals, now Kusile Labs sends us chemicals annually. Since working with them, our school's results have gradually improved,\" she said.\nAt Simanyene High School, physical sciences results have undergone a remarkable transformation. The matric pass rate rose from 37.5% in 2020 to 65.3% in 2021, before climbing above 95% in 2022 and reaching 100% in 2025. Pine Ridge Combined School has followed a similar path, recording steady gains in physical sciences performance since 2022.\nKusile Labs & Technology workers assemble a modular science structure at Pine Ridge Combined School in Mpumalanga, September 2, 2022. /Kusile Labs & Technology\nWhere the laboratories come from\nKusile Labs & Technology built the laboratories at both schools. The South African company designs modular and mobile units for schools that cannot afford, or do not have space for, conventional laboratories.\nAccording to co-founder Pamella Maseko, the company does not determine which schools benefit from the laboratory projects. That decision is generally made by the corporate sponsors providing the funding.\nA school with no room to build gets a mobile laboratory that can be wheeled between classrooms. A school with available land can get a modular unit, assembled on-site from prefabricated parts.\nMaseko explained that the process takes only a few weeks, compared with roughly three years for a conventional laboratory. \"The modular structure does not necessarily require all the regulatory frameworks that often take so long to implement and fulfill,\" she added.\nKusile Labs also hires young people from the communities where it builds laboratories, training them to work alongside its own staff during installation, which alleviates unemployment in a country where joblessness among 15- to 24-year-olds reached 60.9% in the first quarter of 2026, according to Statistics South Africa.\nEquipment that comes with the science laboratorties seen at Solomon Mahlungu High School in Uitenhage, Eastern Cape, in March 2018. /Kusile Labs & Technology\nA larger, unfinished project\nSimanyene and Pine Ridge are two examples in a much bigger challenge. Five decades since the Soweto Uprising, access to quality science education remains out of reach for millions of South African learners.\nFor students like Ndlovu, Sefoloko and Mkhize, that is starting to change. They can now do the experiments themselves, instead of only reading about them.",
-      "fullTextCn": "多年来，本杰明·恩德洛武仅凭教科书学习化学和物理，因为他的学校没有实验室。恩德洛武说：“在能使用实验室之前，我们主要靠课本学习。能够亲自进行实验，帮助我理解了曾经难以掌握的概念，并在考试前给了我更多信心。”恩德洛武是南非数千名受公立学校缺乏科学实验室影响的学生之一。这一差距解释了为何尽管政府将提高科学成绩列为优先事项，全国通过率多年来却几乎未变。\n\n南非基础教育部已将提高数学和物理科学成绩列为国家优先事项。目标是解决经济中技术和科学技能的短缺问题，但进展缓慢。2025年高考中，物理科学通过率仅从76%微升至77%，尽管选修该科目的学生人数有所增加。另一门通往科学和工程职业的关键科目——数学，同期成绩实际上有所下降。恩德洛武在松岭高中的同学扎马赫卢比·塞福洛科表示，动手实验改变了她对未来的看法。\n\n塞福洛科说：“当你亲眼看到反应并亲自使用设备时，科学的感觉完全不同。这让课程更有趣，也激励我更加努力，因为我现在能想象自己正在努力学习成为实验室技术员。”在全国范围内，西开普省西马尼耶内高中的另一名学生阿贝纳西·姆基泽表示，实践工作改变了许多学生学习这门科目的方式。姆基泽说：“实践课改变了许多人对物理科学的看法。我们不再死记硬背理论，而是可以检验所学内容，这有助于提高我们的理解和成绩。”\n\n国家数据背后是严峻的基础设施差距。基础教育部数据反复显示，只有约五分之一的公立学校拥有科学实验室。大约四分之三的学校缺乏图书馆。在林波波省和东开普省等较贫困省份，短缺情况更为严重。政府估计，填补全国学校基础设施差距的成本高达数百亿兰特。物理科学的小幅全国性进步是在选修人数增长的情况下实现的。\n\n南非基础教育部部长西维韦·瓜鲁贝指出，该国学生人数增长，但教育质量并未相应提升。教师们表示，实验室设备的获取正在带来切实的改变。姆普马兰加省松岭联合学校的科学教师维利莱·恩乔贝说，这些资源正在改变学生的学习方式。恩乔贝说：“实践工作让学生将理论与实际应用联系起来。我们看到学生课堂参与度更高，提出更好的问题，并培养了更强的自信心。”\n\n“实验室的访问机会让他们能够培养物理科学所需的技能。”在西马尼耶内高中，校长格萨格萨马女士自2018年移动实验室安装以来也看到了类似的变化。她说：“我们收到一个捐赠的移动实验室，现在学生能够进行实践，而不仅仅通过理论和课本学习物理科学。我们学校曾有一个无法使用的实验室和过期的化学品，现在库西莱实验室每年给我们送化学品。自与他们合作以来，我们学校的成绩逐渐提高。”在西马尼耶内高中，物理科学成绩经历了显著转变。\n\n高考通过率从2020年的37.5%上升到2021年的65.3%，然后在2022年攀升至95%以上，并在2025年达到100%。松岭联合学校也遵循了类似路径，自2022年以来物理科学成绩稳步提升。\n\n库西莱实验室与技术公司为两所学校建造了实验室。这家南非公司为无力建造或没有空间建造传统实验室的学校设计模块化和移动式单元。据联合创始人帕梅拉·马塞科介绍，公司并不决定哪些学校受益于实验室项目。这一决定通常由提供资金的企业赞助商做出。没有空间建造的学校会获得一个可在教室之间移动的移动实验室。有可用土地的学校可以获得一个模块化单元，在现场用预制部件组装。马塞科解释说，这个过程只需几周，而传统实验室大约需要三年。\n\n她补充说：“模块化结构不一定需要所有通常需要很长时间才能实施和满足的监管框架。”库西莱实验室还从建造实验室的社区招聘年轻人，培训他们在安装期间与公司员工一起工作，这有助于缓解南非的失业问题——根据南非统计局数据，2026年第一季度15至24岁青年的失业率达到60.9%。\n\n西马尼耶内和松岭只是更大挑战中的两个例子。自索韦托起义以来五十年，数百万南非学生仍无法获得优质科学教育。对于像恩德洛武、塞福洛科和姆基泽这样的学生来说，情况正在开始改变。他们现在可以亲自做实验，而不仅仅是阅读相关内容。"
-    },
-    {
-      "id": 2,
-      "category": "military",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-24/Chinese-foreign-minister-meets-Uzbek-counterpart-1P1XnvXfadq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Chinese foreign minister meets Uzbek counterpart",
-      "titleCn": "中国外交部长与乌兹别克斯坦外长会晤",
-      "summary": "Chinese Foreign Minister Wang Yi met with Uzbek Foreign Minister Bakhtiyor Saidov on Thursday evening ahead of the Meeting of the Council of the Ministers of Foreign Affairs of the Shanghai Cooperation Organization Member States in Kyrgyzstan.",
-      "summaryCn": "中国外长王毅与乌兹别克斯坦外长赛义多夫在吉尔吉斯斯坦上合组织外长会议前夕会晤，双方强调深化战略互信与务实合作。",
-      "wordCount": 627,
-      "paragraphs": [
-        {
-          "en": "Chinese Foreign Minister Wang Yi (R), also a member of the Political Bureau of the Communist Party of China Central Committee, shakes hands with Uzbek Foreign Minister Bakhtiyor Saidov ahead of the Meeting of the Council of the Ministers of Foreign Affairs of the Shanghai Cooperation Organization Member States in Kyrgyzstan, July 23, 2026. /Chinese Foreign Ministry\nChinese Foreign Minister Wang Yi met with Uzbek Foreign Minister Bakhtiyor Saidov on Thursday evening ahead of the Meeting of the Council of the Ministers of Foreign Affairs of the Shanghai Cooperation Organization (SCO) Member States in Kyrgyzstan. Wang, also a member of the Political Bureau of the Communist Party of China (CPC) Central Committee, said this year marks the 10th {{3}} of the establishment of the {{0}} {{1}} {{2}} between China and Uzbekistan, a year that builds on past achievements and opens up a new future. Wang said that strategic {{4}} trust has continued to deepen and {{6}} {{7}} has expanded across all fields over the past decade, with bilateral relations achieving a {{8}} {{9}} from a comprehensive strategic partnership to an all-weather comprehensive strategic partnership for a new era. Noting that this year marks the 35th anniversary of Uzbekistan's {{10}}, Wang expressed {{11}} in Uzbekistan's development under the leadership of President Shavkat Mirziyoyev, saying China will firmly support Uzbekistan in pursuing a development path suited to its national {{12}} and believes Uzbekistan will continue to firmly support China on issues concerning China's core interests.",
-          "cn": "中国外交部长王毅（右），也是中共中央政治局委员，于2026年7月23日在吉尔吉斯斯坦举行的上海合作组织成员国外长理事会会议前夕，与乌兹别克斯坦外长巴赫季约尔·赛义多夫握手。/中国外交部\n中国外交部长王毅于周四晚在吉尔吉斯斯坦举行的上海合作组织成员国外长理事会会议前夕，与乌兹别克斯坦外长巴赫季约尔·赛义多夫会晤。王毅也是中共中央政治局委员，他表示今年是中乌建立全面战略伙伴关系10周年，是承前启后、继往开来的年份。王毅说，过去十年，战略互信持续深化，各领域务实合作不断扩大，双边关系实现了从全面战略伙伴关系到新时代全天候全面战略伙伴关系的历史性跨越。王毅指出，今年是乌兹别克斯坦独立35周年，他对乌兹别克斯坦在总统沙夫卡特·米尔济约耶夫领导下的发展充满信心，表示中国将坚定支持乌兹别克斯坦走符合本国国情的发展道路，并相信乌兹别克斯坦将继续坚定支持中国在涉及中国核心利益问题上的立场。"
-        },
-        {
-          "en": "China is ready to work with Uzbekistan to fully unlock the {{13}} for cooperation, promote the high-quality construction of the China-Kyrgyzstan-Uzbekistan railway, and create more landmark projects in new {{14}}, Wang said. Noting that China {{15}} the establishment of the World Artificial Intelligence Cooperation Organization to help developing countries strengthen AI {{18}} building and advance their {{19}}, Wang congratulated Uzbekistan on becoming a founding member of the organization. He also said that both sides should make good use of the China-Uzbekistan law enforcement and security cooperation mechanism to {{20}} the \"three evil forces\" of {{21}}, {{22}} and separatism, as well as transnational organized crime, and strengthen coordination on multilateral platforms to promote a more just and equitable global governance system. Saidov said Uzbekistan cherishes its brotherly friendship with China, and developing relations with China remains a priority of its foreign policy. He extended warm congratulations on the 105th anniversary of the founding of the CPC, saying that, from its founding, the CPC has upheld the principle of serving the people wholeheartedly and has led the Chinese people to tremendous achievements.",
-          "cn": "王毅表示，中国愿与乌兹别克斯坦共同努力，充分释放合作潜力，推动中吉乌铁路高质量建设，在新工业化领域打造更多标志性项目。王毅指出，中国发起成立世界人工智能合作组织，旨在帮助发展中国家加强人工智能能力建设，推进其现代化进程，他祝贺乌兹别克斯坦成为该组织的创始成员国。他还表示，双方应充分利用中乌执法安全合作机制，打击恐怖主义、极端主义和分裂主义“三股势力”以及跨国有组织犯罪，并在多边平台上加强协调，推动构建更加公正合理的全球治理体系。赛义多夫表示，乌兹别克斯坦珍视与中国的兄弟情谊，发展对华关系是其外交政策的优先方向。他热烈祝贺中国共产党成立105周年，并表示中国共产党自成立以来始终坚持全心全意为人民服务的宗旨，领导中国人民取得了巨大成就。"
-        },
-        {
-          "en": "Uzbekistan is ready to learn from China's experience in governance, align its \"Uzbekistan-2030\" strategy with the Belt and Road Initiative, and accelerate its own development and revitalization. Chinese Foreign Minister Wang Yi, also a member of the Political Bureau of the Communist Party of China Central Committee, meets with Uzbek Foreign Minister Bakhtiyor Saidov ahead of the Meeting of the Council of the Ministers of Foreign Affairs of the Shanghai Cooperation Organization (SCO) Member States in Kyrgyzstan, July 23, 2026. /Chinese Foreign Ministry\nSaidov said Uzbekistan firmly adheres to the one-China principle, opposes any actions that undermine China's sovereignty and territorial integrity, and stands ready to strengthen exchanges at all levels with China, deepen practical cooperation in trade, investment, energy, critical minerals and the digital economy, jointly combat the \"three evil forces,\" and tap the potential for subnational cooperation. He said that Uzbekistan supports the vision of building a community with a shared future for humanity and the four global initiatives proposed by China. Uzbekistan is pleased to join the World Artificial Intelligence Cooperation Organization and is willing to continue strengthening communication and coordination with China on multilateral platforms, promote the development of the SCO and the China-Central Asia mechanism, and jointly uphold multilateralism.",
-          "cn": "乌兹别克斯坦愿学习中国的治国理政经验，将“乌兹别克斯坦-2030”战略与“一带一路”倡议对接，加速自身发展与振兴。中国外交部长王毅，也是中共中央政治局委员，于2026年7月23日在吉尔吉斯斯坦举行的上海合作组织成员国外长理事会会议前夕，与乌兹别克斯坦外长巴赫季约尔·赛义多夫会晤。/中国外交部\n赛义多夫表示，乌兹别克斯坦坚定恪守一个中国原则，反对任何损害中国主权和领土完整的行为，愿与中方加强各层级交流，深化贸易、投资、能源、关键矿产和数字经济等领域的务实合作，共同打击“三股势力”，挖掘地方合作潜力。他表示，乌兹别克斯坦支持构建人类命运共同体的愿景以及中国提出的四大全球倡议。乌兹别克斯坦很高兴加入世界人工智能合作组织，并愿继续在多边平台上与中方加强沟通协调，推动上合组织和中国-中亚机制发展，共同维护多边主义。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "comprehensive",
-          "hint": "adj. 全面的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "strategic",
-          "hint": "adj. 战略的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "partnership",
-          "hint": "n. 伙伴关系",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "anniversary",
-          "hint": "n. 周年纪念",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "mutual",
-          "hint": "adj. 相互的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "practical",
-          "hint": "adj. 实际的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "cooperation",
-          "hint": "n. 合作",
-          "difficulty": "easy"
-        },
-        {
-          "id": 7,
-          "answer": "historic",
-          "hint": "adj. 历史性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "leap",
-          "hint": "n. 飞跃",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "independence",
-          "hint": "n. 独立",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "confidence",
-          "hint": "n. 信心",
-          "difficulty": "easy"
-        },
-        {
-          "id": 11,
-          "answer": "conditions",
-          "hint": "n. 条件",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "potential",
-          "hint": "n. 潜力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "industrialization",
-          "hint": "n. 工业化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "initiated",
-          "hint": "v. 发起",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "capacity",
-          "hint": "n. 能力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "modernization",
-          "hint": "n. 现代化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "combat",
-          "hint": "v. 打击",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "terrorism",
-          "hint": "n. 恐怖主义",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "extremism",
-          "hint": "n. 极端主义",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "Chinese Foreign Minister Wang Yi (R), also a member of the Political Bureau of the Communist Party of China Central Committee, shakes hands with Uzbek Foreign Minister Bakhtiyor Saidov ahead of the Meeting of the Council of the Ministers of Foreign Affairs of the Shanghai Cooperation Organization Member States in Kyrgyzstan, July 23, 2026. /Chinese Foreign Ministry\nChinese Foreign Minister Wang Yi met with Uzbek Foreign Minister Bakhtiyor Saidov on Thursday evening ahead of the Meeting of the Council of the Ministers of Foreign Affairs of the Shanghai Cooperation Organization (SCO) Member States in Kyrgyzstan.\nWang, also a member of the Political Bureau of the Communist Party of China (CPC) Central Committee, said this year marks the 10th anniversary of the establishment of the comprehensive strategic partnership between China and Uzbekistan, a year that builds on past achievements and opens up a new future.\nWang said that strategic mutual trust has continued to deepen and practical cooperation has expanded across all fields over the past decade, with bilateral relations achieving a historic leap from a comprehensive strategic partnership to an all-weather comprehensive strategic partnership for a new era.\nNoting that this year marks the 35th anniversary of Uzbekistan's independence, Wang expressed confidence in Uzbekistan's development under the leadership of President Shavkat Mirziyoyev, saying China will firmly support Uzbekistan in pursuing a development path suited to its national conditions and believes Uzbekistan will continue to firmly support China on issues concerning China's core interests.\nChina is ready to work with Uzbekistan to fully unlock the potential for cooperation, promote the high-quality construction of the China-Kyrgyzstan-Uzbekistan railway, and create more landmark projects in new industrialization, Wang said.\nNoting that China initiated the establishment of the World Artificial Intelligence Cooperation Organization to help developing countries strengthen AI capacity building and advance their modernization, Wang congratulated Uzbekistan on becoming a founding member of the organization.\nHe also said that both sides should make good use of the China-Uzbekistan law enforcement and security cooperation mechanism to combat the \"three evil forces\" of terrorism, extremism and separatism, as well as transnational organized crime, and strengthen coordination on multilateral platforms to promote a more just and equitable global governance system.\nSaidov said Uzbekistan cherishes its brotherly friendship with China, and developing relations with China remains a priority of its foreign policy.\nHe extended warm congratulations on the 105th anniversary of the founding of the CPC, saying that, from its founding, the CPC has upheld the principle of serving the people wholeheartedly and has led the Chinese people to tremendous achievements. Uzbekistan is ready to learn from China's experience in governance, align its \"Uzbekistan-2030\" strategy with the Belt and Road Initiative, and accelerate its own development and revitalization.\nChinese Foreign Minister Wang Yi, also a member of the Political Bureau of the Communist Party of China Central Committee, meets with Uzbek Foreign Minister Bakhtiyor Saidov ahead of the Meeting of the Council of the Ministers of Foreign Affairs of the Shanghai Cooperation Organization (SCO) Member States in Kyrgyzstan, July 23, 2026. /Chinese Foreign Ministry\nSaidov said Uzbekistan firmly adheres to the one-China principle, opposes any actions that undermine China's sovereignty and territorial integrity, and stands ready to strengthen exchanges at all levels with China, deepen practical cooperation in trade, investment, energy, critical minerals and the digital economy, jointly combat the \"three evil forces,\" and tap the potential for subnational cooperation.\nHe said that Uzbekistan supports the vision of building a community with a shared future for humanity and the four global initiatives proposed by China. Uzbekistan is pleased to join the World Artificial Intelligence Cooperation Organization and is willing to continue strengthening communication and coordination with China on multilateral platforms, promote the development of the SCO and the China-Central Asia mechanism, and jointly uphold multilateralism.",
-      "fullTextCn": "中国外交部长王毅（右），也是中共中央政治局委员，于2026年7月23日在吉尔吉斯斯坦举行的上海合作组织成员国外长理事会会议前夕，与乌兹别克斯坦外长巴赫季约尔·赛义多夫握手。/中国外交部\n中国外交部长王毅于周四晚在吉尔吉斯斯坦举行的上海合作组织成员国外长理事会会议前夕，与乌兹别克斯坦外长巴赫季约尔·赛义多夫会晤。王毅也是中共中央政治局委员，他表示今年是中乌建立全面战略伙伴关系10周年，是承前启后、继往开来的年份。王毅说，过去十年，战略互信持续深化，各领域务实合作不断扩大，双边关系实现了从全面战略伙伴关系到新时代全天候全面战略伙伴关系的历史性跨越。王毅指出，今年是乌兹别克斯坦独立35周年，他对乌兹别克斯坦在总统沙夫卡特·米尔济约耶夫领导下的发展充满信心，表示中国将坚定支持乌兹别克斯坦走符合本国国情的发展道路，并相信乌兹别克斯坦将继续坚定支持中国在涉及中国核心利益问题上的立场。\n\n王毅表示，中国愿与乌兹别克斯坦共同努力，充分释放合作潜力，推动中吉乌铁路高质量建设，在新工业化领域打造更多标志性项目。王毅指出，中国发起成立世界人工智能合作组织，旨在帮助发展中国家加强人工智能能力建设，推进其现代化进程，他祝贺乌兹别克斯坦成为该组织的创始成员国。他还表示，双方应充分利用中乌执法安全合作机制，打击恐怖主义、极端主义和分裂主义“三股势力”以及跨国有组织犯罪，并在多边平台上加强协调，推动构建更加公正合理的全球治理体系。赛义多夫表示，乌兹别克斯坦珍视与中国的兄弟情谊，发展对华关系是其外交政策的优先方向。他热烈祝贺中国共产党成立105周年，并表示中国共产党自成立以来始终坚持全心全意为人民服务的宗旨，领导中国人民取得了巨大成就。\n\n乌兹别克斯坦愿学习中国的治国理政经验，将“乌兹别克斯坦-2030”战略与“一带一路”倡议对接，加速自身发展与振兴。中国外交部长王毅，也是中共中央政治局委员，于2026年7月23日在吉尔吉斯斯坦举行的上海合作组织成员国外长理事会会议前夕，与乌兹别克斯坦外长巴赫季约尔·赛义多夫会晤。/中国外交部\n赛义多夫表示，乌兹别克斯坦坚定恪守一个中国原则，反对任何损害中国主权和领土完整的行为，愿与中方加强各层级交流，深化贸易、投资、能源、关键矿产和数字经济等领域的务实合作，共同打击“三股势力”，挖掘地方合作潜力。他表示，乌兹别克斯坦支持构建人类命运共同体的愿景以及中国提出的四大全球倡议。乌兹别克斯坦很高兴加入世界人工智能合作组织，并愿继续在多边平台上与中方加强沟通协调，推动上合组织和中国-中亚机制发展，共同维护多边主义。"
-    },
-    {
-      "id": 3,
-      "category": "military",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-07-27/detail-ihfhqwkz8172685.shtml",
-      "title": "Central Asia ties in focus on Kyrgyzstan trip",
-      "titleCn": "聚焦吉尔吉斯斯坦之行：中亚关系成重点",
-      "summary": "Mutual respect for each other's core interests and sustained pragmatic cooperation have brought China's relations with its Central Asian neighbors to a new level of maturity, as reflected in Foreign Minister Wang Yi's latest visit to Kyrgyzstan, observers said.",
-      "summaryCn": "中国外长王毅访问吉尔吉斯斯坦，强调与中亚国家在核心利益和务实合作上的成熟关系，并推动上海合作组织及中国-中亚机制的发展。",
-      "wordCount": 591,
-      "paragraphs": [
-        {
-          "en": "Mutual respect for each other's core interests and {{1}} {{2}} cooperation have brought China's relations with its Central Asian neighbors to a new level of {{3}}, as reflected in Foreign Minister Wang Yi's latest visit to Kyrgyzstan, observers said. Wang attended the Meeting of the Council of the Ministers of Foreign Affairs of the Shanghai Cooperation Organization Member States in Cholpon-Ata, Kyrgyzstan, on Friday and also held bilateral talks with leaders from Kyrgyzstan, Uzbekistan and Tajikistan. According to China's Foreign Ministry, the discussions focused on strengthening {{4}} on {{5}} platforms and promoting the development of the SCO and the China-Central Asia {{6}}. Kyrgyzstan was recently elected as a {{7}} member of the United Nations Security Council, and it is set to host the SCO Bishkek Summit later this year. Kyrgyzstan has joined the World Artificial Intelligence Cooperation Organization, which was founded earlier this month in Shanghai, as well as the International Organization for Mediation. During his meeting with Wang on Friday, Kyrgyz President Sadyr Japarov said that his country is demonstrating through {{8}} actions its support for the four global {{9}} proposed by China — the Global Development Initiative, the Global Security Initiative, the Global Civilization Initiative, and the Global Governance Initiative.",
-          "cn": "观察人士指出，相互尊重彼此核心利益和持续务实合作已将中国与中亚邻国的关系提升至新的成熟水平，这体现在中国外长王毅最近对吉尔吉斯斯坦的访问中。王毅周五在吉尔吉斯斯坦乔尔蓬阿塔出席了上海合作组织成员国外长理事会会议，并与吉尔吉斯斯坦、乌兹别克斯坦和塔吉克斯坦领导人举行了双边会谈。据中国外交部称，讨论重点是在多边平台上加强协调，推动上合组织及中国-中亚机制的发展。吉尔吉斯斯坦最近当选为联合国安理会非常任理事国，并计划于今年晚些时候主办上合组织比什凯克峰会。吉尔吉斯斯坦已加入本月早些时候在上海成立的世界人工智能合作组织，以及国际调解组织。周五与王毅会晤时，吉尔吉斯总统萨德尔·扎帕罗夫表示，他的国家正通过具体行动展示对中国提出的四项全球倡议——全球发展倡议、全球安全倡议、全球文明倡议和全球治理倡议——的支持。"
-        },
-        {
-          "en": "Kyrgyzstan is willing to further strengthen communication and coordination with China within multilateral frameworks, including the UN and the China-Central Asia mechanism, to jointly promote regional and global peace and development, Japarov added. Wang said that China will, as always, firmly support Kyrgyzstan's independence, {{10}} and territorial {{11}}. He also expressed China's readiness to strengthen coordination and cooperation with Kyrgyzstan on UN affairs and to support Kyrgyzstan in successfully hosting the SCO Bishkek Summit. Liu Shiguo, a researcher at the Chinese Academy of Social Sciences' Institute of World Economics and Politics, said that Wang's visit was a journey of friendship, cooperation and peace, adding that \"China has always been a {{12}} neighbor, partner and friend to the Central Asian countries\". The Central Asian region is one of the core areas for jointly building the Belt and Road Initiative, and China and Kyrgyzstan \"have significant {{13}} for cooperation in emerging fields such as AI-powered social governance, smart agriculture and cross-border data governance\", Liu told China Youth Daily. During his meeting with Uzbek Foreign Minister Bakhtiyor Saidov on Thursday, Wang said that China is ready to work with Uzbekistan to promote the high-quality construction of the China-Kyrgyzstan-Uzbekistan Railway, a major BRI project, and to create more landmark projects in new industrialization.",
-          "cn": "扎帕罗夫补充说，吉尔吉斯斯坦愿在联合国和中国-中亚机制等多边框架内进一步加强与中国的沟通协调，共同促进地区和全球和平与发展。王毅表示，中国将一如既往坚定支持吉尔吉斯斯坦的独立、主权和领土完整。他还表示，中国愿在联合国事务中加强与吉尔吉斯斯坦的协调合作，支持吉尔吉斯斯坦成功举办上合组织比什凯克峰会。中国社会科学院世界经济与政治研究所研究员刘仕国表示，王毅的访问是一次友谊、合作与和平之旅，并补充说“中国始终是中亚国家值得信赖的邻居、伙伴和朋友”。刘仕国在接受《中国青年报》采访时表示，中亚地区是共建“一带一路”倡议的核心区域之一，中国和吉尔吉斯斯坦“在人工智能驱动的社会治理、智慧农业和跨境数据治理等新兴领域具有巨大合作潜力”。周四与乌兹别克外长巴赫蒂约尔·赛义多夫会晤时，王毅表示，中国愿与乌兹别克斯坦共同推动中吉乌铁路这一“一带一路”重大项目的高质量建设，并在新工业化领域打造更多标志性项目。"
-        },
-        {
-          "en": "Saidov said that Uzbekistan opposes any actions undermining China's sovereignty and territorial integrity, and that his country is pleased to join the World Artificial Intelligence Cooperation Organization. Sirojiddin Rahmonov, a senior specialist at the Center for the Study of Transport and Logistics Development Problems under Uzbekistan's Ministry of Transport, said that continued improvements in cross-border {{14}} can help build a {{15}} safeguard against a {{16}} into poverty. Uzbekistan will continue to deepen pragmatic and multilateral cooperation with China in areas such as connectivity, trade and investment, and advance regional integration, Rahmonov said at a seminar held this month in Urumqi, Xinjiang Uygur autonomous region. Tajik President Emomali Rahmon paid a successful visit to China in May. The most important outcome of his visit was the signing of the China-Tajikistan Treaty on Permanent Good-Neighborliness, Friendship and Cooperation, which \"set a {{17}} in Central Asia\", Wang said during a meeting on Friday with Tajik Foreign Minister Sirojiddin Muhriddin. Muhriddin said that his country is confident about the prospects of bilateral cooperation and is ready to strengthen practical cooperation in areas including energy.",
-          "cn": "赛义多夫表示，乌兹别克斯坦反对任何损害中国主权和领土完整的行为，并很高兴加入世界人工智能合作组织。乌兹别克斯坦交通部运输与物流发展问题研究中心高级专家西罗吉丁·拉赫莫诺夫表示，跨境基础设施的持续改善有助于建立防止返贫的坚实保障。拉赫莫诺夫本月在新疆乌鲁木齐举行的一次研讨会上表示，乌兹别克斯坦将继续在互联互通、贸易和投资等领域深化与中国的务实和多边合作，并推进区域一体化。塔吉克总统埃莫马利·拉赫蒙于五月成功访华。王毅周五与塔吉克外长西罗吉丁·穆赫里丁会晤时表示，此次访问最重要的成果是签署了《中塔永久睦邻友好合作条约》，这“在中亚开创了先例”。穆赫里丁表示，他的国家对双边合作前景充满信心，并愿在能源等领域加强务实合作。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "sustained",
-          "hint": "adj. 持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "pragmatic",
-          "hint": "adj. 务实的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "maturity",
-          "hint": "n. 成熟",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "coordination",
-          "hint": "n. 协调",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "multilateral",
-          "hint": "adj. 多边的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "mechanism",
-          "hint": "n. 机制",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "nonpermanent",
-          "hint": "adj. 非常任的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "concrete",
-          "hint": "adj. 具体的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "initiatives",
-          "hint": "n. 倡议",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "sovereignty",
-          "hint": "n. 主权",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "integrity",
-          "hint": "n. 完整",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "trustworthy",
-          "hint": "adj. 值得信赖的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "potential",
-          "hint": "n. 潜力",
-          "difficulty": "easy"
-        },
-        {
-          "id": 13,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "robust",
-          "hint": "adj. 稳健的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "relapse",
-          "hint": "n. 复发",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "precedent",
-          "hint": "n. 先例",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "Mutual respect for each other's core interests and sustained pragmatic cooperation have brought China's relations with its Central Asian neighbors to a new level of maturity, as reflected in Foreign Minister Wang Yi's latest visit to Kyrgyzstan, observers said.\nWang attended the Meeting of the Council of the Ministers of Foreign Affairs of the Shanghai Cooperation Organization Member States in Cholpon-Ata, Kyrgyzstan, on Friday and also held bilateral talks with leaders from Kyrgyzstan, Uzbekistan and Tajikistan.\nAccording to China's Foreign Ministry, the discussions focused on strengthening coordination on multilateral platforms and promoting the development of the SCO and the China-Central Asia mechanism.\nKyrgyzstan was recently elected as a nonpermanent member of the United Nations Security Council, and it is set to host the SCO Bishkek Summit later this year.\nKyrgyzstan has joined the World Artificial Intelligence Cooperation Organization, which was founded earlier this month in Shanghai, as well as the International Organization for Mediation.\nDuring his meeting with Wang on Friday, Kyrgyz President Sadyr Japarov said that his country is demonstrating through concrete actions its support for the four global initiatives proposed by China — the Global Development Initiative, the Global Security Initiative, the Global Civilization Initiative, and the Global Governance Initiative.\nKyrgyzstan is willing to further strengthen communication and coordination with China within multilateral frameworks, including the UN and the China-Central Asia mechanism, to jointly promote regional and global peace and development, Japarov added.\nWang said that China will, as always, firmly support Kyrgyzstan's independence, sovereignty and territorial integrity.\nHe also expressed China's readiness to strengthen coordination and cooperation with Kyrgyzstan on UN affairs and to support Kyrgyzstan in successfully hosting the SCO Bishkek Summit.\nLiu Shiguo, a researcher at the Chinese Academy of Social Sciences' Institute of World Economics and Politics, said that Wang's visit was a journey of friendship, cooperation and peace, adding that \"China has always been a trustworthy neighbor, partner and friend to the Central Asian countries\".\nThe Central Asian region is one of the core areas for jointly building the Belt and Road Initiative, and China and Kyrgyzstan \"have significant potential for cooperation in emerging fields such as AI-powered social governance, smart agriculture and cross-border data governance\", Liu told China Youth Daily.\nDuring his meeting with Uzbek Foreign Minister Bakhtiyor Saidov on Thursday, Wang said that China is ready to work with Uzbekistan to promote the high-quality construction of the China-Kyrgyzstan-Uzbekistan Railway, a major BRI project, and to create more landmark projects in new industrialization.\nSaidov said that Uzbekistan opposes any actions undermining China's sovereignty and territorial integrity, and that his country is pleased to join the World Artificial Intelligence Cooperation Organization.\nSirojiddin Rahmonov, a senior specialist at the Center for the Study of Transport and Logistics Development Problems under Uzbekistan's Ministry of Transport, said that continued improvements in cross-border infrastructure can help build a robust safeguard against a relapse into poverty.\nUzbekistan will continue to deepen pragmatic and multilateral cooperation with China in areas such as connectivity, trade and investment, and advance regional integration, Rahmonov said at a seminar held this month in Urumqi, Xinjiang Uygur autonomous region.\nTajik President Emomali Rahmon paid a successful visit to China in May. The most important outcome of his visit was the signing of the China-Tajikistan Treaty on Permanent Good-Neighborliness, Friendship and Cooperation, which \"set a precedent in Central Asia\", Wang said during a meeting on Friday with Tajik Foreign Minister Sirojiddin Muhriddin.\nMuhriddin said that his country is confident about the prospects of bilateral cooperation and is ready to strengthen practical cooperation in areas including energy.",
-      "fullTextCn": "观察人士指出，相互尊重彼此核心利益和持续务实合作已将中国与中亚邻国的关系提升至新的成熟水平，这体现在中国外长王毅最近对吉尔吉斯斯坦的访问中。王毅周五在吉尔吉斯斯坦乔尔蓬阿塔出席了上海合作组织成员国外长理事会会议，并与吉尔吉斯斯坦、乌兹别克斯坦和塔吉克斯坦领导人举行了双边会谈。据中国外交部称，讨论重点是在多边平台上加强协调，推动上合组织及中国-中亚机制的发展。吉尔吉斯斯坦最近当选为联合国安理会非常任理事国，并计划于今年晚些时候主办上合组织比什凯克峰会。吉尔吉斯斯坦已加入本月早些时候在上海成立的世界人工智能合作组织，以及国际调解组织。周五与王毅会晤时，吉尔吉斯总统萨德尔·扎帕罗夫表示，他的国家正通过具体行动展示对中国提出的四项全球倡议——全球发展倡议、全球安全倡议、全球文明倡议和全球治理倡议——的支持。\n\n扎帕罗夫补充说，吉尔吉斯斯坦愿在联合国和中国-中亚机制等多边框架内进一步加强与中国的沟通协调，共同促进地区和全球和平与发展。王毅表示，中国将一如既往坚定支持吉尔吉斯斯坦的独立、主权和领土完整。他还表示，中国愿在联合国事务中加强与吉尔吉斯斯坦的协调合作，支持吉尔吉斯斯坦成功举办上合组织比什凯克峰会。中国社会科学院世界经济与政治研究所研究员刘仕国表示，王毅的访问是一次友谊、合作与和平之旅，并补充说“中国始终是中亚国家值得信赖的邻居、伙伴和朋友”。刘仕国在接受《中国青年报》采访时表示，中亚地区是共建“一带一路”倡议的核心区域之一，中国和吉尔吉斯斯坦“在人工智能驱动的社会治理、智慧农业和跨境数据治理等新兴领域具有巨大合作潜力”。周四与乌兹别克外长巴赫蒂约尔·赛义多夫会晤时，王毅表示，中国愿与乌兹别克斯坦共同推动中吉乌铁路这一“一带一路”重大项目的高质量建设，并在新工业化领域打造更多标志性项目。\n\n赛义多夫表示，乌兹别克斯坦反对任何损害中国主权和领土完整的行为，并很高兴加入世界人工智能合作组织。乌兹别克斯坦交通部运输与物流发展问题研究中心高级专家西罗吉丁·拉赫莫诺夫表示，跨境基础设施的持续改善有助于建立防止返贫的坚实保障。拉赫莫诺夫本月在新疆乌鲁木齐举行的一次研讨会上表示，乌兹别克斯坦将继续在互联互通、贸易和投资等领域深化与中国的务实和多边合作，并推进区域一体化。塔吉克总统埃莫马利·拉赫蒙于五月成功访华。王毅周五与塔吉克外长西罗吉丁·穆赫里丁会晤时表示，此次访问最重要的成果是签署了《中塔永久睦邻友好合作条约》，这“在中亚开创了先例”。穆赫里丁表示，他的国家对双边合作前景充满信心，并愿在能源等领域加强务实合作。"
-    },
-    {
-      "id": 4,
       "category": "society",
       "source": "CGTN",
       "sourceUrl": "https://news.cgtn.com/news/2026-07-17/Scientists-reveal-how-aging-weakens-the-brain-s-protective-barrier-1OQlBVmo6Vq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
       "title": "Scientists reveal how aging weakens the brain's protective barrier",
       "titleCn": "科学家揭示衰老如何削弱大脑的保护屏障",
       "summary": "Scientists reveal how aging weakens the brain's protective barrier",
-      "summaryCn": "研究发现衰老通过TGF-β1信号通路降低Mfsd2a蛋白水平，导致血脑屏障内吞转运异常增加，从而引发认知功能下降。",
+      "summaryCn": "研究发现衰老通过TGF-β1信号通路降低Mfsd2a蛋白水平，导致血脑屏障内吞运输异常增加，从而引发认知衰退。",
       "wordCount": 526,
       "paragraphs": [
         {
-          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive {{2}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{3}} by which aging weakens the blood-brain barrier, the brain's protective {{4}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial {{5}} drives blood-brain barrier {{6}} during aging.\"\nThe study shows how aging disrupts transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{7}} security system.",
-          "cn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是，大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院的科学家们发现了一种机制，通过这种机制，衰老会削弱血脑屏障——大脑与血液之间的保护性界面。该研究发表在《神经元》期刊上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究显示，衰老如何破坏脑血管细胞中的运输功能，导致血脑屏障渗漏。血脑屏障（BBB）就像一个选择性安全系统。"
+          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive {{2}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{3}} by which aging weakens the blood-brain {{4}}, the brain's protective {{5}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier {{6}} during aging.\"\nThe study shows how aging {{7}} transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{8}} security system.",
+          "cn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是，大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院的科学家们发现了一种机制，通过这种机制，衰老会削弱血脑屏障——大脑与血液之间的保护性界面。该研究发表在《神经元》期刊上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究显示，衰老如何破坏脑血管细胞中的运输过程，导致血脑屏障渗漏。血脑屏障（BBB）就像一个选择性安全系统。"
         },
         {
-          "en": "It allows essential {{8}} to reach the brain while preventing potentially harmful {{9}} in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{10}} disorders. Scientists have traditionally {{11}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{12}} in middle-aged mice and worsened in older animals.",
-          "cn": "它允许必需营养物质进入大脑，同时防止血液中潜在的有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上认为，BBB渗漏主要源于脑内壁血管细胞之间紧密连接的损伤。然而，这项新研究发现，在衰老过程中，另一种机制更早出现。通过检查不同年龄的小鼠，研究人员发现，BBB渗漏在中年小鼠中已经可以检测到，并在老年动物中进一步恶化。"
+          "en": "It allows essential {{9}} to reach the brain while preventing potentially harmful {{10}} in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{11}} disorders. Scientists have traditionally {{12}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already detectable in middle-aged mice and worsened in older animals.",
+          "cn": "它允许必需营养物质进入大脑，同时阻止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接的损伤。然而，这项新研究发现，在衰老过程中，另一种过程发生得更早。通过检查不同年龄的小鼠，研究人员发现，血脑屏障渗漏在中年小鼠中已经可以检测到，并在老年小鼠中进一步恶化。"
         },
         {
-          "en": "The change appeared early in the {{13}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{14}}. Instead, the cells' internal transport system became {{15}} active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport {{16}} inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
-          "cn": "这种变化最早出现在海马体——一个对学习和记忆至关重要的大脑区域。在这一阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，使得血液中的物质能够穿过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎并非首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制。”研究团队发现，一种名为Mfsd2a的蛋白是这一保护系统的关键组成部分。"
+          "en": "The change appeared early in the {{13}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{14}}. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
+          "cn": "这种变化最早出现在海马体——一个对学习和记忆至关重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎不是首先通过细胞之间的间隙渗漏，而是失去了对细胞内运输途径的控制。”研究团队确定了一种名为Mfsd2a的蛋白质是这一保护系统的重要组成部分。"
         },
         {
-          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased. When the researchers {{17}} endothelial Mfsd2a {{18}} or knocked down Caveolin-1 in aged mice, abnormal {{19}} transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a {{20}} molecule involved in {{21}}, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
-          "cn": "Mfsd2a通常限制不必要的物质穿过脑血管运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮细胞Mfsd2a的表达或敲低Caveolin-1时，异常的囊泡运输和BBB渗漏显著减少。随后，研究人员探究了Mfsd2a在衰老过程中下降的原因。他们发现，TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平在小鼠的大脑和血液中均随年龄增长而升高。"
+          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport {{15}}, increased. When the researchers restored endothelial Mfsd2a {{16}} or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a {{17}} molecule involved in {{18}}, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
+          "cn": "Mfsd2a通常限制脑部血管中不必要的运输。其水平随年龄增长而下降，而Caveolin-1（一种参与运输囊泡形成的蛋白质）则增加。当研究人员在老年小鼠中恢复内皮细胞Mfsd2a的表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。随后，研究人员探究了Mfsd2a在衰老过程中下降的原因。他们发现，TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平在小鼠的大脑和血液中均随年龄增长而升高。"
         },
         {
-          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage. By contrast, {{23}} TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related {{24}} tests. The findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
-          "cn": "过量的TGF-β1降低了脑血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，会使它们出现通常仅在衰老BBB中观察到的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号，则减少了BBB渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的BBB损伤并非仅仅是被动磨损的结果。相反，它涉及改变脑内血管细胞运输物质的生物信号。"
+          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage. By contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
+          "cn": "过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，会使它们出现通常在衰老血脑屏障中观察到的几种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号传导，则减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤并非仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。"
         },
         {
-          "en": "The study may help explain how {{25}} changes contribute to cognitive aging. It also points to potential {{26}} for protecting the aging brain, including maintaining Mfsd2a function or preventing {{22}} activation of TGF-β signaling. Further research will be needed to determine whether these {{27}} can be safely {{28}} into treatments for humans.",
-          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略能否安全地转化为人类治疗方法。"
+          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing excessive activation of TGF-β signaling. Further research will be needed to determine whether these {{19}} can be safely translated into treatments for humans.",
+          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类的治疗方法。"
         }
       ],
       "blanks": [
@@ -563,15 +64,15 @@
         },
         {
           "id": 4,
-          "answer": "interface",
-          "hint": "n. 界面，接口",
-          "difficulty": "medium"
+          "answer": "barrier",
+          "hint": "n. 屏障",
+          "difficulty": "easy"
         },
         {
           "id": 5,
-          "answer": "transcytosis",
-          "hint": "n. 转胞吞作用",
-          "difficulty": "hard"
+          "answer": "interface",
+          "hint": "n. 界面，接口",
+          "difficulty": "medium"
         },
         {
           "id": 6,
@@ -581,38 +82,38 @@
         },
         {
           "id": 7,
+          "answer": "disrupts",
+          "hint": "v. 破坏，扰乱",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
           "answer": "selective",
           "hint": "adj. 选择性的",
           "difficulty": "medium"
         },
         {
-          "id": 8,
+          "id": 9,
           "answer": "nutrients",
           "hint": "n. 营养物质",
           "difficulty": "easy"
         },
         {
-          "id": 9,
+          "id": 10,
           "answer": "substances",
           "hint": "n. 物质",
           "difficulty": "easy"
         },
         {
-          "id": 10,
+          "id": 11,
           "answer": "neurodegenerative",
           "hint": "adj. 神经退行性的",
           "difficulty": "hard"
         },
         {
-          "id": 11,
+          "id": 12,
           "answer": "attributed",
           "hint": "v. 归因于",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "detectable",
-          "hint": "adj. 可检测到的",
           "difficulty": "medium"
         },
         {
@@ -629,118 +130,64 @@
         },
         {
           "id": 15,
-          "answer": "abnormally",
-          "hint": "adv. 异常地",
-          "difficulty": "medium"
+          "answer": "vesicles",
+          "hint": "n. 囊泡",
+          "difficulty": "hard"
         },
         {
           "id": 16,
-          "answer": "pathways",
-          "hint": "n. 途径，通路",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "restored",
-          "hint": "v. 恢复",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
           "answer": "expression",
           "hint": "n. 表达",
           "difficulty": "medium"
         },
         {
-          "id": 19,
-          "answer": "vesicle",
-          "hint": "n. 囊泡",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
+          "id": 17,
           "answer": "signaling",
           "hint": "n. 信号传导",
           "difficulty": "medium"
         },
         {
-          "id": 21,
+          "id": 18,
           "answer": "inflammation",
           "hint": "n. 炎症",
           "difficulty": "medium"
         },
         {
-          "id": 22,
-          "answer": "excessive",
-          "hint": "adj. 过量的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 23,
-          "answer": "blocking",
-          "hint": "v. 阻断",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "behavioral",
-          "hint": "adj. 行为的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "vascular",
-          "hint": "adj. 血管的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "approaches",
-          "hint": "n. 方法，途径",
-          "difficulty": "medium"
-        },
-        {
-          "id": 27,
+          "id": 19,
           "answer": "strategies",
           "hint": "n. 策略",
           "difficulty": "easy"
-        },
-        {
-          "id": 28,
-          "answer": "translated",
-          "hint": "v. 转化，翻译",
-          "difficulty": "medium"
         }
       ],
       "fullText": "As people age, many experience memory decline and slower cognitive processing, along with a higher risk of cerebrovascular disease and cognitive impairment. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline.\nScientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a mechanism by which aging weakens the blood-brain barrier, the brain's protective interface with the bloodstream.\nThe study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier leakage during aging.\"\nThe study shows how aging disrupts transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a selective security system. It allows essential nutrients to reach the brain while preventing potentially harmful substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several neurodegenerative disorders.\nScientists have traditionally attributed BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging.\nBy examining mice at different ages, the researchers found that BBB leakage was already detectable in middle-aged mice and worsened in older animals. The change appeared early in the hippocampus, a brain region important for learning and memory.\nAt this stage, the seals between blood vessel cells remained largely intact. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue.\n\"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said.\nThe team identified a protein called Mfsd2a as an important part of this protective system. Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased.\nWhen the researchers restored endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced.\nThe researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.\nExcessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage.\nBy contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests.\nThe findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.\nThe study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing excessive activation of TGF-β signaling. Further research will be needed to determine whether these strategies can be safely translated into treatments for humans.",
-      "fullTextCn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是，大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院的科学家们发现了一种机制，通过这种机制，衰老会削弱血脑屏障——大脑与血液之间的保护性界面。该研究发表在《神经元》期刊上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究显示，衰老如何破坏脑血管细胞中的运输功能，导致血脑屏障渗漏。血脑屏障（BBB）就像一个选择性安全系统。\n\n它允许必需营养物质进入大脑，同时防止血液中潜在的有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上认为，BBB渗漏主要源于脑内壁血管细胞之间紧密连接的损伤。然而，这项新研究发现，在衰老过程中，另一种机制更早出现。通过检查不同年龄的小鼠，研究人员发现，BBB渗漏在中年小鼠中已经可以检测到，并在老年动物中进一步恶化。\n\n这种变化最早出现在海马体——一个对学习和记忆至关重要的大脑区域。在这一阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，使得血液中的物质能够穿过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎并非首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制。”研究团队发现，一种名为Mfsd2a的蛋白是这一保护系统的关键组成部分。\n\nMfsd2a通常限制不必要的物质穿过脑血管运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮细胞Mfsd2a的表达或敲低Caveolin-1时，异常的囊泡运输和BBB渗漏显著减少。随后，研究人员探究了Mfsd2a在衰老过程中下降的原因。他们发现，TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平在小鼠的大脑和血液中均随年龄增长而升高。\n\n过量的TGF-β1降低了脑血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，会使它们出现通常仅在衰老BBB中观察到的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号，则减少了BBB渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的BBB损伤并非仅仅是被动磨损的结果。相反，它涉及改变脑内血管细胞运输物质的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略能否安全地转化为人类治疗方法。"
+      "fullTextCn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是，大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院的科学家们发现了一种机制，通过这种机制，衰老会削弱血脑屏障——大脑与血液之间的保护性界面。该研究发表在《神经元》期刊上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究显示，衰老如何破坏脑血管细胞中的运输过程，导致血脑屏障渗漏。血脑屏障（BBB）就像一个选择性安全系统。\n\n它允许必需营养物质进入大脑，同时阻止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接的损伤。然而，这项新研究发现，在衰老过程中，另一种过程发生得更早。通过检查不同年龄的小鼠，研究人员发现，血脑屏障渗漏在中年小鼠中已经可以检测到，并在老年小鼠中进一步恶化。\n\n这种变化最早出现在海马体——一个对学习和记忆至关重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎不是首先通过细胞之间的间隙渗漏，而是失去了对细胞内运输途径的控制。”研究团队确定了一种名为Mfsd2a的蛋白质是这一保护系统的重要组成部分。\n\nMfsd2a通常限制脑部血管中不必要的运输。其水平随年龄增长而下降，而Caveolin-1（一种参与运输囊泡形成的蛋白质）则增加。当研究人员在老年小鼠中恢复内皮细胞Mfsd2a的表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。随后，研究人员探究了Mfsd2a在衰老过程中下降的原因。他们发现，TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平在小鼠的大脑和血液中均随年龄增长而升高。\n\n过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，会使它们出现通常在衰老血脑屏障中观察到的几种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号传导，则减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤并非仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类的治疗方法。"
     },
     {
-      "id": 5,
+      "id": 2,
       "category": "technology",
       "source": "CGTN",
       "sourceUrl": "https://news.cgtn.com/news/2026-07-09/AI-applications-move-into-more-everyday-scenarios-1ODhOvc9w7S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
       "title": "AI applications move into more everyday scenarios",
-      "titleCn": "人工智能应用迈向更多日常场景",
+      "titleCn": "人工智能应用进入更多日常场景",
       "summary": "The 25th China Internet Conference held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.",
-      "summaryCn": "第25届中国互联网大会展示了人工智能在城市治理、工业制造、零售和公共服务等领域的实际应用，并强调了AI代理、大语言模型和数字孪生技术对互联网生态的重塑。",
+      "summaryCn": "第25届中国互联网大会展示了人工智能在城市治理、工业制造、零售和公共服务等领域的实际应用，并强调AI代理和数字孪生技术正推动互联网基础设施向更高带宽、更低延迟和更强计算能力演进。",
       "wordCount": 463,
       "paragraphs": [
         {
-          "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders {{1}} new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{2}} into sectors ranging from urban governance and industrial manufacturing to retail and public services. Speaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are {{3}} the internet itself. While large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on {{4}} among multiple intelligent agents rather than isolated AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
-          "cn": "第25届中国互联网大会于2026年7月8日在北京国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的全新AI解决方案。大会于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何融入城市治理、工业制造、零售和公共服务等领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的参会者于2026年7月8日在北京国家会议中心体验VR产品。"
+          "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders {{1}} new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{2}} into sectors ranging from urban governance and industrial manufacturing to retail and public services. Speaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are {{3}} the internet itself. While large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on {{4}} among multiple intelligent agents rather than {{5}} AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
+          "cn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正从实验性技术快速转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI驱动解决方案。大会于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何融入从城市治理、工业制造到零售和公共服务等领域。中国工程院院士吴贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心体验VR产品。"
         },
         {
-          "en": "According to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the dominant source of token-based interactions. The shift, he said, will require internet {{5}} to evolve toward higher bandwidth, lower latency and stronger computing capabilities. The conference also demonstrated how AI is being {{6}} in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{7}} and building maintenance, providing city managers with real-time {{8}} and decision-making tools. Industry representatives also emphasized that AI innovation is creating {{9}} economic value.",
-          "cn": "据邬贺铨介绍，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。大会还展示了AI在实践场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
+          "en": "According to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the {{6}} source of token-based interactions. The shift, he said, will require internet infrastructure to {{7}} toward higher bandwidth, lower latency and stronger computing capabilities. The conference also demonstrated how AI is being {{8}} in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{9}} and building maintenance, providing city managers with real-time {{10}} and decision-making tools. Industry representatives also emphasized that AI innovation is creating {{11}} economic value.",
+          "cn": "据吴贺铨介绍，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。大会还展示了AI在实际场景中的应用。数字助手正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
         },
         {
-          "en": "Participants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while {{10}} reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling {{11}} shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified {{12}} AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{13}} across different computing chips, reflects broader efforts to build more efficient and {{14}} AI infrastructure. As AI technologies continue to {{15}}, industry experts believe the focus is shifting from developing models to deploying them at scale.",
-          "cn": "第25届中国互联网大会的参会者于2026年7月8日在北京国家会议中心与人形机器人互动。在大会上，快手表示其AI驱动的视频生成模型和数字人直播平台已帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，与会者还将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的发布——一个旨在提高不同计算芯片兼容性的开放AI软件平台——反映了构建更高效、更可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。"
+          "en": "Participants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while {{12}} reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling {{13}} shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{14}} across different computing chips, reflects broader efforts to build more efficient and {{15}} AI infrastructure. As AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale.",
+          "cn": "第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在大会上，快手表示其AI驱动的视频生成模型和数字人直播平台已帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，参会者还将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动是一个开放AI软件平台，旨在提高不同计算芯片之间的兼容性，反映了构建更高效、更可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。"
         },
         {
           "en": "The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-          "cn": "大会强调了中国加速AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+          "cn": "大会强调了中国加速AI在实体经济中应用的举措，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
         }
       ],
       "blanks": [
@@ -766,7 +213,7 @@
           "id": 3,
           "answer": "reshaping",
           "hint": "v. 重塑",
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": 4,
@@ -776,73 +223,520 @@
         },
         {
           "id": 5,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
+          "answer": "isolated",
+          "hint": "adj. 孤立的",
           "difficulty": "medium"
         },
         {
           "id": 6,
+          "answer": "dominant",
+          "hint": "adj. 主要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "evolve",
+          "hint": "v. 演进",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
           "answer": "deployed",
           "hint": "v. 部署",
           "difficulty": "medium"
         },
         {
-          "id": 7,
+          "id": 9,
           "answer": "optimization",
           "hint": "n. 优化",
           "difficulty": "hard"
         },
         {
-          "id": 8,
+          "id": 10,
           "answer": "visualization",
           "hint": "n. 可视化",
           "difficulty": "hard"
         },
         {
-          "id": 9,
+          "id": 11,
           "answer": "measurable",
           "hint": "adj. 可衡量的",
           "difficulty": "medium"
         },
         {
-          "id": 10,
+          "id": 12,
           "answer": "significantly",
           "hint": "adv. 显著地",
           "difficulty": "medium"
         },
         {
-          "id": 11,
+          "id": 13,
           "answer": "complex",
           "hint": "adj. 复杂的",
           "difficulty": "easy"
         },
         {
-          "id": 12,
-          "answer": "trustworthy",
-          "hint": "adj. 可信的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
+          "id": 14,
           "answer": "compatibility",
           "hint": "n. 兼容性",
           "difficulty": "hard"
         },
         {
-          "id": 14,
+          "id": 15,
           "answer": "sustainable",
           "hint": "adj. 可持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "mature",
-          "hint": "v. 成熟",
           "difficulty": "medium"
         }
       ],
       "fullText": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nArtificial intelligence is moving rapidly from experimental technology to real-world applications, as industry leaders showcased new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing.\nHeld from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.\nSpeaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are reshaping the internet itself.\nWhile large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on collaboration among multiple intelligent agents rather than isolated AI systems.\nParticipants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAccording to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the dominant source of token-based interactions. The shift, he said, will require internet infrastructure to evolve toward higher bandwidth, lower latency and stronger computing capabilities.\nThe conference also demonstrated how AI is being deployed in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy optimization and building maintenance, providing city managers with real-time visualization and decision-making tools.\nIndustry representatives also emphasized that AI innovation is creating measurable economic value.\nParticipants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAt the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while significantly reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services.\nBeyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve compatibility across different computing chips, reflects broader efforts to build more efficient and sustainable AI infrastructure.\nAs AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale. The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的全新AI解决方案。大会于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何融入城市治理、工业制造、零售和公共服务等领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的参会者于2026年7月8日在北京国家会议中心体验VR产品。\n\n据邬贺铨介绍，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。大会还展示了AI在实践场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n第25届中国互联网大会的参会者于2026年7月8日在北京国家会议中心与人形机器人互动。在大会上，快手表示其AI驱动的视频生成模型和数字人直播平台已帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，与会者还将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的发布——一个旨在提高不同计算芯片兼容性的开放AI软件平台——反映了构建更高效、更可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。\n\n大会强调了中国加速AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正从实验性技术快速转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI驱动解决方案。大会于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何融入从城市治理、工业制造到零售和公共服务等领域。中国工程院院士吴贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心体验VR产品。\n\n据吴贺铨介绍，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。大会还展示了AI在实际场景中的应用。数字助手正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在大会上，快手表示其AI驱动的视频生成模型和数字人直播平台已帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，参会者还将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动是一个开放AI软件平台，旨在提高不同计算芯片之间的兼容性，反映了构建更高效、更可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。\n\n大会强调了中国加速AI在实体经济中应用的举措，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+    },
+    {
+      "id": 3,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-08/China-honors-pioneers-of-lithium-batteries-and-radar-technology-1OBPLBmhTNe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "China honors pioneers of lithium batteries and radar technology",
+      "titleCn": "中国表彰锂电池与雷达技术先驱",
+      "summary": "China honors pioneers of lithium batteries and radar technology",
+      "summaryCn": "中国授予锂电池先驱陈立泉和雷达专家贲德2025年度国家最高科学技术奖，同时表彰了258个项目和11位科技专家。",
+      "wordCount": 214,
+      "paragraphs": [
+        {
+          "en": ", Updated 16:18, 08-Jul-2026Lithium battery {{0}} Chen Liquan (L) and {{2}} expert Ben De won China's national top sci-tech award for 2025 in Beijing, July 8 2026. /CMG\nCGTN infographics by Li Wenyi. China has {{3}} its top science and technology prize for 2025 to {{1}} battery pioneer Chen Liquan and radar expert Ben De in a {{4}} in Beijing. Chen, 86, is a {{5}} at the Institute of Physics under the Chinese Academy of Sciences, and an {{6}} of the Chinese Academy of Engineering (CAE). He is widely {{7}} as the {{8}} of China's lithium battery {{9}}. Ben, 88, is a researcher at the China Electronics Technology Group Corporation and a CAE academician. He is {{10}} as the founder of China's {{11}} {{12}} {{13}} radar technology, and a pioneer in both {{14}} {{15}} and space-based {{16}} radar technology. The ceremony was held alongside the national science and technology award conference, the general {{17}} of the members of the Chinese Academy of Sciences and the CAE, and the 11th national {{18}} of the China Association for Science and Technology. Wednesday's meeting {{19}} 258 {{20}} and 11 scientific and technological {{21}}, with 51 projects receiving the State Natural Science Award, 58 the State Technological Invention Award, and 149 the State Scientific and Technological Progress Award.",
+          "cn": "中国在北京举行的颁奖典礼上，将2025年度国家最高科学技术奖授予了锂电池先驱陈立泉和雷达专家贲德。现年86岁的陈立泉是中国科学院物理研究所研究员、中国工程院院士，被广泛认为是我国锂电池产业的奠基人。88岁的贲德是中国电子科技集团公司研究员、中国工程院院士，被誉为我国机载脉冲多普勒雷达技术的开创者，以及相控阵雷达和天基监视雷达技术的先驱。此次颁奖典礼与国家科学技术奖励大会、中国科学院和中国工程院院士大会、中国科学技术协会第十一次全国代表大会同期举行。周三的会议共表彰了258个项目和11位科技专家，其中51个项目获得国家自然科学奖，58个项目获得国家技术发明奖，149个项目获得国家科学技术进步奖。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "pioneer",
+          "hint": "n. 先驱",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "lithium",
+          "hint": "n. 锂",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "radar",
+          "hint": "n. 雷达",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "awarded",
+          "hint": "v. 授予",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "ceremony",
+          "hint": "n. 典礼",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "researcher",
+          "hint": "n. 研究员",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "academician",
+          "hint": "n. 院士",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "recognized",
+          "hint": "v. 认可",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "founder",
+          "hint": "n. 创始人",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "sector",
+          "hint": "n. 领域",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "acclaimed",
+          "hint": "v. 赞誉",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "airborne",
+          "hint": "adj. 机载的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "pulse",
+          "hint": "n. 脉冲",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "Doppler",
+          "hint": "n. 多普勒",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "phased",
+          "hint": "adj. 相控的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "array",
+          "hint": "n. 阵列",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "surveillance",
+          "hint": "n. 监视",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "assemblies",
+          "hint": "n. 大会",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "congress",
+          "hint": "n. 代表大会",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "honored",
+          "hint": "v. 表彰",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "projects",
+          "hint": "n. 项目",
+          "difficulty": "easy"
+        },
+        {
+          "id": 21,
+          "answer": "experts",
+          "hint": "n. 专家",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": ", Updated 16:18, 08-Jul-2026Lithium battery pioneer Chen Liquan (L) and radar expert Ben De won China's national top sci-tech award for 2025 in Beijing, July 8 2026. /CMG\nCGTN infographics by Li Wenyi.\nChina has awarded its top science and technology prize for 2025 to lithium battery pioneer Chen Liquan and radar expert Ben De in a ceremony in Beijing.\nChen, 86, is a researcher at the Institute of Physics under the Chinese Academy of Sciences, and an academician of the Chinese Academy of Engineering (CAE). He is widely recognized as the founder of China's lithium battery sector.\nBen, 88, is a researcher at the China Electronics Technology Group Corporation and a CAE academician. He is acclaimed as the founder of China's airborne pulse Doppler radar technology, and a pioneer in both phased array and space-based surveillance radar technology.\nThe ceremony was held alongside the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences and the CAE, and the 11th national congress of the China Association for Science and Technology.\nWednesday's meeting honored 258 projects and 11 scientific and technological experts, with 51 projects receiving the State Natural Science Award, 58 the State Technological Invention Award, and 149 the State Scientific and Technological Progress Award.",
+      "fullTextCn": "中国在北京举行的颁奖典礼上，将2025年度国家最高科学技术奖授予了锂电池先驱陈立泉和雷达专家贲德。现年86岁的陈立泉是中国科学院物理研究所研究员、中国工程院院士，被广泛认为是我国锂电池产业的奠基人。88岁的贲德是中国电子科技集团公司研究员、中国工程院院士，被誉为我国机载脉冲多普勒雷达技术的开创者，以及相控阵雷达和天基监视雷达技术的先驱。此次颁奖典礼与国家科学技术奖励大会、中国科学院和中国工程院院士大会、中国科学技术协会第十一次全国代表大会同期举行。周三的会议共表彰了258个项目和11位科技专家，其中51个项目获得国家自然科学奖，58个项目获得国家技术发明奖，149个项目获得国家科学技术进步奖。"
+    },
+    {
+      "id": 4,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-18/China-Indonesia-investment-cooperation-holds-potential-official-says-1OSOEHF0un6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "China, Indonesia investment cooperation holds potential, official says",
+      "titleCn": "官员称中国与印尼投资合作潜力巨大",
+      "summary": "Luhut Binsar Pandjaitan, chairman of Indonesia's National Economic Council, stated recently that Indonesia will take steps to strengthen investor confidence, noting that China's support and assistance are indispensable, and there are broad prospects for investment cooperation between the two countries.",
+      "summaryCn": "印尼国家经济委员会主席卢胡特表示，中国支持不可或缺，两国在数字基础设施、人工智能等领域投资合作前景广阔。",
+      "wordCount": 188,
+      "paragraphs": [
+        {
+          "en": "Luhut Binsar Pandjaitan, {{0}} of Indonesia's National Economic Council, stated recently that Indonesia will take steps to strengthen investor {{1}}, noting that China's support and assistance are {{2}}, and there are broad {{3}} for investment cooperation between the two countries. He made the {{4}} when {{5}} the G20 Bali Global Blended Finance Forum in May. Luhut noted that with rapid development, Indonesia's national development has entered a new {{6}}, making it {{7}} for the country to {{8}} foreign investment and introduce {{16}} technologies.o has explicitly demanded fostering a {{10}} business {{11}} for foreign investment and instructed that necessary {{12}} be taken to {{13}} investor confidence. Luhut said that investment cooperation with China and Indonesia has {{14}} in recent years. Experience shows that China not only {{15}} advanced technology but is also {{17}} to share its development experience with Indonesia {{18}}, rather than merely offering {{19}} {{20}}. In the future, Indonesia will {{21}} investment in areas such as digital {{22}}, {{23}} {{24}}, healthcare and the construction of international financial centers. China's support and assistance will be indispensable, and the two sides have vast {{25}} for investment cooperation, Luhut added.",
+          "cn": "印尼国家经济委员会主席卢胡特·宾萨·潘查伊坦近日表示，印尼将采取措施增强投资者信心，并指出中国的支持与帮助不可或缺，两国投资合作前景广阔。他是在今年5月出席G20巴厘全球混合融资论坛时发表上述言论的。卢胡特指出，随着快速发展，印尼国家发展已进入新阶段，扩大外国投资和引进先进技术对国家至关重要。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "chairman",
+          "hint": "n. 主席",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "confidence",
+          "hint": "n. 信心",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "indispensable",
+          "hint": "adj. 不可或缺的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "prospects",
+          "hint": "n. 前景",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "remarks",
+          "hint": "n. 言论",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "attending",
+          "hint": "v. 参加",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "phase",
+          "hint": "n. 阶段",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "vital",
+          "hint": "adj. 至关重要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "expand",
+          "hint": "v. 扩大",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "favorable",
+          "hint": "adj. 有利的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "environment",
+          "hint": "n. 环境",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "measures",
+          "hint": "n. 措施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "boost",
+          "hint": "v. 提升",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "deepened",
+          "hint": "v. 深化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "possesses",
+          "hint": "v. 拥有",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "advanced",
+          "hint": "adj. 先进的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "willing",
+          "hint": "adj. 愿意的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "genuinely",
+          "hint": "adv. 真诚地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "verbal",
+          "hint": "adj. 口头的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "promises",
+          "hint": "n. 承诺",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "increase",
+          "hint": "v. 增加",
+          "difficulty": "easy"
+        },
+        {
+          "id": 21,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "artificial",
+          "hint": "adj. 人工的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "intelligence",
+          "hint": "n. 智能",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "potential",
+          "hint": "n. 潜力",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Luhut Binsar Pandjaitan, chairman of Indonesia's National Economic Council, stated recently that Indonesia will take steps to strengthen investor confidence, noting that China's support and assistance are indispensable, and there are broad prospects for investment cooperation between the two countries.\nHe made the remarks when attending the G20 Bali Global Blended Finance Forum in May.\nLuhut noted that with rapid development, Indonesia's national development has entered a new phase, making it vital for the country to expand foreign investment and introduce advanced technologies.o has explicitly demanded fostering a favorable business environment for foreign investment and instructed that necessary measures be taken to boost investor confidence.\nLuhut said that investment cooperation with China and Indonesia has deepened in recent years. Experience shows that China not only possesses advanced technology but is also willing to share its development experience with Indonesia genuinely, rather than merely offering verbal promises.\nIn the future, Indonesia will increase investment in areas such as digital infrastructure, artificial intelligence, healthcare and the construction of international financial centers. China's support and assistance will be indispensable, and the two sides have vast potential for investment cooperation, Luhut added.",
+      "fullTextCn": "印尼国家经济委员会主席卢胡特·宾萨·潘查伊坦近日表示，印尼将采取措施增强投资者信心，并指出中国的支持与帮助不可或缺，两国投资合作前景广阔。他是在今年5月出席G20巴厘全球混合融资论坛时发表上述言论的。卢胡特指出，随着快速发展，印尼国家发展已进入新阶段，扩大外国投资和引进先进技术对国家至关重要。\n\n卢胡特明确要求为外国投资营造有利的商业环境，并指示采取必要措施提升投资者信心。他表示，近年来印尼与中国的投资合作不断深化。经验表明，中国不仅拥有先进技术，还愿意真诚地与印尼分享发展经验，而不仅仅是口头承诺。未来，印尼将加大对数字基础设施、人工智能、医疗保健和国际金融中心建设等领域的投资。卢胡特补充说，中国的支持与帮助不可或缺，双方投资合作潜力巨大。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-07-27/detail-ihfhqwkz8174347.shtml",
+      "title": "New Indonesian museum showcases Chinese dinosaur fossils",
+      "titleCn": "印尼新博物馆展出中国恐龙化石",
+      "summary": "The Tahir Solo Museum in Surakarta, Indonesia, opened on Friday, with a special exhibition featuring dinosaur fossils from China as one of its inaugural displays.",
+      "summaryCn": "印尼梭罗市塔希尔博物馆开幕，展出中国自贡恐龙化石，促进中印尼文化遗产与科学教育合作。",
+      "wordCount": 168,
+      "paragraphs": [
+        {
+          "en": "(ECNS) -- The Tahir Solo Museum in Surakarta, Indonesia, opened on Friday, with a special exhibition featuring dinosaur fossils from China as one of its {{1}} displays. The museum, {{2}} by Indonesian Chinese entrepreneur Dato Sri Tahir to the Surakarta {{3}} government, will be open to the public as a cultural {{4}} {{5}} education, tourism and research. Dinosaur fossils from Zigong Dinosaur Museum are on display at the Tahir Solo Museum. (\nOfficials from Indonesia’s culture ministry, Surakarta city, China’s embassy and the Zigong Dinosaur Museum joined the opening {{6}}. Tahir said the donation was “a gift of {{7}} and love” to his mother’s {{8}}. The exhibition features fossils including a 20-meter Tianfu Emeilong adult, a 6-meter {{9}}, and the Taibai Huayanglong, known as the “{{10}} of stegosaurs.”\nCurator Luo Yingying said the display {{12}} shared {{13}} by China and Indonesia to {{14}} protection and science education. Zeng Xiaoyun, {{11}} of the Zigong Dinosaur Museum, said the {{15}} will expand into joint research, fossil {{16}} and science {{17}}.",
+          "cn": "（中新网）——位于印度尼西亚梭罗市的塔希尔博物馆于周五开幕，其开幕展览之一特别展出了来自中国的恐龙化石。该博物馆由印尼华裔企业家拿督斯里塔希尔捐赠给梭罗市政府，将作为融合教育、旅游和研究的文化地标向公众开放。来自自贡恐龙博物馆的恐龙化石正在塔希尔博物馆展出。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "inaugural",
+          "hint": "adj. 开幕的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 1,
+          "answer": "donated",
+          "hint": "v. 捐赠",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "municipal",
+          "hint": "adj. 市政的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "landmark",
+          "hint": "n. 地标",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "integrating",
+          "hint": "v. 融合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "ceremony",
+          "hint": "n. 仪式",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "gratitude",
+          "hint": "n. 感激",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "birthplace",
+          "hint": "n. 出生地",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "juvenile",
+          "hint": "n. 幼年个体",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "ancestor",
+          "hint": "n. 祖先",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "curator",
+          "hint": "n. 馆长",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "highlights",
+          "hint": "v. 凸显",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "commitments",
+          "hint": "n. 承诺",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "heritage",
+          "hint": "n. 遗产",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "collaboration",
+          "hint": "n. 合作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "restoration",
+          "hint": "n. 修复",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "outreach",
+          "hint": "n. 推广",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "(ECNS) -- The Tahir Solo Museum in Surakarta, Indonesia, opened on Friday, with a special exhibition featuring dinosaur fossils from China as one of its inaugural displays.\nThe museum, donated by Indonesian Chinese entrepreneur Dato Sri Tahir to the Surakarta municipal government, will be open to the public as a cultural landmark integrating education, tourism and research.\nDinosaur fossils from Zigong Dinosaur Museum are on display at the Tahir Solo Museum. (\nOfficials from Indonesia’s culture ministry, Surakarta city, China’s embassy and the Zigong Dinosaur Museum joined the opening ceremony.\nTahir said the donation was “a gift of gratitude and love” to his mother’s birthplace.\nThe exhibition features fossils including a 20-meter Tianfu Emeilong adult, a 6-meter juvenile, and the Taibai Huayanglong, known as the “ancestor of stegosaurs.”\nCurator Luo Yingying said the display highlights shared commitments by China and Indonesia to heritage protection and science education.\nZeng Xiaoyun, curator of the Zigong Dinosaur Museum, said the collaboration will expand into joint research, fossil restoration and science outreach.",
+      "fullTextCn": "（中新网）——位于印度尼西亚梭罗市的塔希尔博物馆于周五开幕，其开幕展览之一特别展出了来自中国的恐龙化石。该博物馆由印尼华裔企业家拿督斯里塔希尔捐赠给梭罗市政府，将作为融合教育、旅游和研究的文化地标向公众开放。来自自贡恐龙博物馆的恐龙化石正在塔希尔博物馆展出。\n\n印尼文化部、梭罗市政府、中国大使馆及自贡恐龙博物馆的官员共同出席了开幕式。塔希尔表示，此次捐赠是“一份感恩与爱的礼物”，献给他母亲的出生地。展览展出的化石包括一具20米长的天府峨眉龙成年个体、一具6米长的幼年个体，以及被称为“剑龙祖先”的太白华阳龙。\n\n馆长罗莹莹表示，此次展览凸显了中国和印尼在遗产保护与科学教育方面的共同承诺。自贡恐龙博物馆馆长曾晓云表示，双方合作将拓展至联合研究、化石修复和科学推广等领域。"
     }
   ]
 }
