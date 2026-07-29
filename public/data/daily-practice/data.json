@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "articles": [
     {
       "id": 1,
@@ -9,32 +9,32 @@
       "title": "Scientists reveal how aging weakens the brain's protective barrier",
       "titleCn": "科学家揭示衰老如何削弱大脑的保护屏障",
       "summary": "Scientists reveal how aging weakens the brain's protective barrier",
-      "summaryCn": "研究发现衰老通过TGF-β1信号通路降低Mfsd2a蛋白水平，导致血脑屏障内吞运输异常增加，从而引发认知衰退。",
+      "summaryCn": "研究发现衰老通过TGF-β1信号增加脑内皮细胞转胞吞作用，导致血脑屏障渗漏，进而影响认知功能。",
       "wordCount": 526,
       "paragraphs": [
         {
-          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive {{2}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{3}} by which aging weakens the blood-brain {{4}}, the brain's protective {{5}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier {{6}} during aging.\"\nThe study shows how aging {{7}} transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{8}} security system.",
-          "cn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是，大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院的科学家们发现了一种机制，通过这种机制，衰老会削弱血脑屏障——大脑与血液之间的保护性界面。该研究发表在《神经元》期刊上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究显示，衰老如何破坏脑血管细胞中的运输过程，导致血脑屏障渗漏。血脑屏障（BBB）就像一个选择性安全系统。"
+          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive impairment. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{2}} by which aging weakens the blood-brain {{3}}, the brain's protective interface with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier leakage during aging.\"\nThe study shows how aging disrupts {{9}} in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a selective security system.",
+          "cn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也更高。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院的科学家们发现了一种机制，即衰老如何削弱血脑屏障——大脑与血液之间的保护性界面。该研究发表在《神经元》期刊上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示，衰老如何破坏脑血管细胞中的运输，导致血脑屏障渗漏。血脑屏障（BBB）就像一个选择性的安全系统。"
         },
         {
-          "en": "It allows essential {{9}} to reach the brain while preventing potentially harmful {{10}} in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{11}} disorders. Scientists have traditionally {{12}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already detectable in middle-aged mice and worsened in older animals.",
-          "cn": "它允许必需营养物质进入大脑，同时阻止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接的损伤。然而，这项新研究发现，在衰老过程中，另一种过程发生得更早。通过检查不同年龄的小鼠，研究人员发现，血脑屏障渗漏在中年小鼠中已经可以检测到，并在老年小鼠中进一步恶化。"
+          "en": "It allows essential {{4}} to reach the brain while preventing potentially harmful substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several neurodegenerative {{5}}. Scientists have traditionally {{6}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{7}} in middle-aged mice and worsened in older animals.",
+          "cn": "它允许必要的营养物质进入大脑，同时防止血液中潜在的有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上认为BBB渗漏主要是由于脑内壁血管细胞之间紧密连接的损伤。然而，这项新研究发现，在衰老过程中另一个过程发生得更早。通过检查不同年龄的小鼠，研究人员发现BBB渗漏在中年小鼠中已经可检测到，并在老年动物中恶化。"
         },
         {
-          "en": "The change appeared early in the {{13}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{14}}. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
-          "cn": "这种变化最早出现在海马体——一个对学习和记忆至关重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎不是首先通过细胞之间的间隙渗漏，而是失去了对细胞内运输途径的控制。”研究团队确定了一种名为Mfsd2a的蛋白质是这一保护系统的重要组成部分。"
+          "en": "The change appeared early in the {{8}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely intact. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
+          "cn": "这种变化早期出现在海马体——一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质通过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎不是首先通过细胞间的间隙渗漏，而是失去了对细胞内运输途径的控制。”研究团队确定了一种名为Mfsd2a的蛋白质是这一保护系统的重要组成部分。"
         },
         {
-          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport {{15}}, increased. When the researchers restored endothelial Mfsd2a {{16}} or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a {{17}} molecule involved in {{18}}, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
-          "cn": "Mfsd2a通常限制脑部血管中不必要的运输。其水平随年龄增长而下降，而Caveolin-1（一种参与运输囊泡形成的蛋白质）则增加。当研究人员在老年小鼠中恢复内皮细胞Mfsd2a的表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。随后，研究人员探究了Mfsd2a在衰老过程中下降的原因。他们发现，TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平在小鼠的大脑和血液中均随年龄增长而升高。"
+          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport {{10}}, increased. When the researchers restored endothelial Mfsd2a {{11}} or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a {{12}} molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
+          "cn": "Mfsd2a通常限制不必要的跨脑血管运输。其水平随年龄增长而下降，而Caveolin-1——一种参与运输囊泡形成的蛋白质——则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和BBB渗漏显著减少。随后，研究人员探究了Mfsd2a在衰老过程中下降的原因。他们发现，TGF-β1——一种参与炎症、组织修复和衰老的信号分子——在小鼠的大脑和血液中的水平均随年龄增长而增加。"
         },
         {
           "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage. By contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
-          "cn": "过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，会使它们出现通常在衰老血脑屏障中观察到的几种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号传导，则减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤并非仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。"
+          "cn": "过量的TGF-β1降低了脑内壁血管细胞中Mfsd2a的表达，导致其运输活性增加。提高年轻小鼠的TGF-β1水平，使它们出现了通常在衰老BBB中观察到的几个特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号减少了BBB渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的BBB损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。"
         },
         {
-          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing excessive activation of TGF-β signaling. Further research will be needed to determine whether these {{19}} can be safely translated into treatments for humans.",
-          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类的治疗方法。"
+          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing {{13}} activation of TGF-β signaling. Further research will be needed to determine whether these {{14}} can be safely translated into treatments for humans.",
+          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号的过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类的治疗方法。"
         }
       ],
       "blanks": [
@@ -52,115 +52,85 @@
         },
         {
           "id": 2,
-          "answer": "impairment",
-          "hint": "n. 损伤，障碍",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
           "answer": "mechanism",
           "hint": "n. 机制",
           "difficulty": "medium"
         },
         {
-          "id": 4,
+          "id": 3,
           "answer": "barrier",
           "hint": "n. 屏障",
           "difficulty": "easy"
         },
         {
+          "id": 4,
+          "answer": "nutrients",
+          "hint": "n. 营养物质",
+          "difficulty": "medium"
+        },
+        {
           "id": 5,
-          "answer": "interface",
-          "hint": "n. 界面，接口",
+          "answer": "disorders",
+          "hint": "n. 疾病",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "leakage",
-          "hint": "n. 渗漏",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "disrupts",
-          "hint": "v. 破坏，扰乱",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "selective",
-          "hint": "adj. 选择性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "nutrients",
-          "hint": "n. 营养物质",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "substances",
-          "hint": "n. 物质",
-          "difficulty": "easy"
-        },
-        {
-          "id": 11,
-          "answer": "neurodegenerative",
-          "hint": "adj. 神经退行性的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
           "answer": "attributed",
           "hint": "v. 归因于",
           "difficulty": "medium"
         },
         {
-          "id": 13,
+          "id": 7,
+          "answer": "detectable",
+          "hint": "adj. 可检测的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
           "answer": "hippocampus",
           "hint": "n. 海马体",
           "difficulty": "hard"
         },
         {
-          "id": 14,
-          "answer": "intact",
-          "hint": "adj. 完整的",
-          "difficulty": "medium"
+          "id": 9,
+          "answer": "transport",
+          "hint": "n. 运输",
+          "difficulty": "easy"
         },
         {
-          "id": 15,
+          "id": 10,
           "answer": "vesicles",
           "hint": "n. 囊泡",
           "difficulty": "hard"
         },
         {
-          "id": 16,
+          "id": 11,
           "answer": "expression",
           "hint": "n. 表达",
           "difficulty": "medium"
         },
         {
-          "id": 17,
+          "id": 12,
           "answer": "signaling",
           "hint": "n. 信号传导",
           "difficulty": "medium"
         },
         {
-          "id": 18,
-          "answer": "inflammation",
-          "hint": "n. 炎症",
+          "id": 13,
+          "answer": "excessive",
+          "hint": "adj. 过量的",
           "difficulty": "medium"
         },
         {
-          "id": 19,
+          "id": 14,
           "answer": "strategies",
           "hint": "n. 策略",
           "difficulty": "easy"
         }
       ],
       "fullText": "As people age, many experience memory decline and slower cognitive processing, along with a higher risk of cerebrovascular disease and cognitive impairment. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline.\nScientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a mechanism by which aging weakens the blood-brain barrier, the brain's protective interface with the bloodstream.\nThe study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier leakage during aging.\"\nThe study shows how aging disrupts transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a selective security system. It allows essential nutrients to reach the brain while preventing potentially harmful substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several neurodegenerative disorders.\nScientists have traditionally attributed BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging.\nBy examining mice at different ages, the researchers found that BBB leakage was already detectable in middle-aged mice and worsened in older animals. The change appeared early in the hippocampus, a brain region important for learning and memory.\nAt this stage, the seals between blood vessel cells remained largely intact. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue.\n\"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said.\nThe team identified a protein called Mfsd2a as an important part of this protective system. Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased.\nWhen the researchers restored endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced.\nThe researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.\nExcessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage.\nBy contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests.\nThe findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.\nThe study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing excessive activation of TGF-β signaling. Further research will be needed to determine whether these strategies can be safely translated into treatments for humans.",
-      "fullTextCn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是，大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院的科学家们发现了一种机制，通过这种机制，衰老会削弱血脑屏障——大脑与血液之间的保护性界面。该研究发表在《神经元》期刊上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究显示，衰老如何破坏脑血管细胞中的运输过程，导致血脑屏障渗漏。血脑屏障（BBB）就像一个选择性安全系统。\n\n它允许必需营养物质进入大脑，同时阻止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接的损伤。然而，这项新研究发现，在衰老过程中，另一种过程发生得更早。通过检查不同年龄的小鼠，研究人员发现，血脑屏障渗漏在中年小鼠中已经可以检测到，并在老年小鼠中进一步恶化。\n\n这种变化最早出现在海马体——一个对学习和记忆至关重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎不是首先通过细胞之间的间隙渗漏，而是失去了对细胞内运输途径的控制。”研究团队确定了一种名为Mfsd2a的蛋白质是这一保护系统的重要组成部分。\n\nMfsd2a通常限制脑部血管中不必要的运输。其水平随年龄增长而下降，而Caveolin-1（一种参与运输囊泡形成的蛋白质）则增加。当研究人员在老年小鼠中恢复内皮细胞Mfsd2a的表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。随后，研究人员探究了Mfsd2a在衰老过程中下降的原因。他们发现，TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平在小鼠的大脑和血液中均随年龄增长而升高。\n\n过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，会使它们出现通常在衰老血脑屏障中观察到的几种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号传导，则减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤并非仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类的治疗方法。"
+      "fullTextCn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也更高。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院的科学家们发现了一种机制，即衰老如何削弱血脑屏障——大脑与血液之间的保护性界面。该研究发表在《神经元》期刊上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示，衰老如何破坏脑血管细胞中的运输，导致血脑屏障渗漏。血脑屏障（BBB）就像一个选择性的安全系统。\n\n它允许必要的营养物质进入大脑，同时防止血液中潜在的有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上认为BBB渗漏主要是由于脑内壁血管细胞之间紧密连接的损伤。然而，这项新研究发现，在衰老过程中另一个过程发生得更早。通过检查不同年龄的小鼠，研究人员发现BBB渗漏在中年小鼠中已经可检测到，并在老年动物中恶化。\n\n这种变化早期出现在海马体——一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质通过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎不是首先通过细胞间的间隙渗漏，而是失去了对细胞内运输途径的控制。”研究团队确定了一种名为Mfsd2a的蛋白质是这一保护系统的重要组成部分。\n\nMfsd2a通常限制不必要的跨脑血管运输。其水平随年龄增长而下降，而Caveolin-1——一种参与运输囊泡形成的蛋白质——则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和BBB渗漏显著减少。随后，研究人员探究了Mfsd2a在衰老过程中下降的原因。他们发现，TGF-β1——一种参与炎症、组织修复和衰老的信号分子——在小鼠的大脑和血液中的水平均随年龄增长而增加。\n\n过量的TGF-β1降低了脑内壁血管细胞中Mfsd2a的表达，导致其运输活性增加。提高年轻小鼠的TGF-β1水平，使它们出现了通常在衰老BBB中观察到的几个特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号减少了BBB渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的BBB损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号的过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类的治疗方法。"
     },
     {
       "id": 2,
@@ -170,24 +140,24 @@
       "title": "AI applications move into more everyday scenarios",
       "titleCn": "人工智能应用进入更多日常场景",
       "summary": "The 25th China Internet Conference held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.",
-      "summaryCn": "第25届中国互联网大会展示了人工智能在城市治理、工业制造、零售和公共服务等领域的实际应用，并强调AI代理和数字孪生技术正推动互联网基础设施向更高带宽、更低延迟和更强计算能力演进。",
+      "summaryCn": "第25届中国互联网大会展示了人工智能在城市治理、工业制造和零售等领域的实际应用，并强调了AI代理、大语言模型和数字孪生技术对互联网和经济的重塑作用。",
       "wordCount": 463,
       "paragraphs": [
         {
-          "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders {{1}} new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{2}} into sectors ranging from urban governance and industrial manufacturing to retail and public services. Speaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are {{3}} the internet itself. While large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on {{4}} among multiple intelligent agents rather than {{5}} AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
-          "cn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正从实验性技术快速转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI驱动解决方案。大会于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何融入从城市治理、工业制造到零售和公共服务等领域。中国工程院院士吴贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心体验VR产品。"
+          "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders {{1}} new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{2}} into sectors ranging from urban {{3}} and industrial {{4}} to {{5}} and public services. Speaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are {{6}} the internet itself. While large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on {{7}} among multiple intelligent agents rather than {{8}} AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
+          "cn": "第25届中国互联网大会于2026年7月8日在北京国家会议中心开幕。人工智能正迅速从实验技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI解决方案。会议于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何融入从城市治理、工业制造到零售和公共服务等领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的与会者于2026年7月8日在北京国家会议中心体验VR产品。"
         },
         {
-          "en": "According to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the {{6}} source of token-based interactions. The shift, he said, will require internet infrastructure to {{7}} toward higher bandwidth, lower latency and stronger computing capabilities. The conference also demonstrated how AI is being {{8}} in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{9}} and building maintenance, providing city managers with real-time {{10}} and decision-making tools. Industry representatives also emphasized that AI innovation is creating {{11}} economic value.",
-          "cn": "据吴贺铨介绍，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。大会还展示了AI在实际场景中的应用。数字助手正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
+          "en": "According to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the dominant source of token-based interactions. The shift, he said, will require internet {{9}} to {{10}} toward higher {{11}}, lower {{12}} and stronger {{13}} capabilities. The conference also demonstrated how AI is being {{14}} in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{15}} and building maintenance, providing city managers with real-time {{16}} and decision-making tools. Industry representatives also emphasized that AI innovation is creating {{17}} economic value.",
+          "cn": "据邬贺铨称，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。会议还展示了AI在实践场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
         },
         {
-          "en": "Participants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while {{12}} reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling {{13}} shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{14}} across different computing chips, reflects broader efforts to build more efficient and {{15}} AI infrastructure. As AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale.",
-          "cn": "第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在大会上，快手表示其AI驱动的视频生成模型和数字人直播平台已帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，参会者还将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动是一个开放AI软件平台，旨在提高不同计算芯片之间的兼容性，反映了构建更高效、更可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。"
+          "en": "Participants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video {{18}} model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while {{19}} reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling {{20}} shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified {{21}} AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{23}} across different computing chips, reflects broader efforts to build more efficient and {{22}} AI infrastructure. As AI technologies continue to {{24}}, industry experts believe the focus is shifting from developing models to {{25}} them at scale.",
+          "cn": "第25届中国互联网大会的与会者于2026年7月8日在北京国家会议中心与人形机器人互动。在会议上，快手表示其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，与会者还确定了可信AI和绿色计算作为行业下一阶段发展的关键优先事项。FlagOS倡议的推出是一个开放的人工智能软件平台，旨在提高不同计算芯片之间的兼容性，反映了构建更高效、更可持续的AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。"
         },
         {
-          "en": "The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-          "cn": "大会强调了中国加速AI在实体经济中应用的举措，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+          "en": "The conference highlighted China's efforts to accelerate AI {{26}} across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital {{27}} and high-quality economic development.",
+          "cn": "会议强调了中国加速在实体经济中采用AI的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
         }
       ],
       "blanks": [
@@ -211,327 +181,369 @@
         },
         {
           "id": 3,
-          "answer": "reshaping",
-          "hint": "v. 重塑",
-          "difficulty": "medium"
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "hard"
         },
         {
           "id": 4,
+          "answer": "manufacturing",
+          "hint": "n. 制造业",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "retail",
+          "hint": "n. 零售",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "reshaping",
+          "hint": "v. 重塑",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
           "answer": "collaboration",
           "hint": "n. 协作",
           "difficulty": "medium"
         },
         {
-          "id": 5,
+          "id": 8,
           "answer": "isolated",
           "hint": "adj. 孤立的",
           "difficulty": "medium"
         },
         {
-          "id": 6,
-          "answer": "dominant",
-          "hint": "adj. 主要的",
-          "difficulty": "medium"
+          "id": 9,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "hard"
         },
         {
-          "id": 7,
+          "id": 10,
           "answer": "evolve",
           "hint": "v. 演进",
           "difficulty": "medium"
         },
         {
-          "id": 8,
+          "id": 11,
+          "answer": "bandwidth",
+          "hint": "n. 带宽",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "latency",
+          "hint": "n. 延迟",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "computing",
+          "hint": "n. 计算",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
           "answer": "deployed",
           "hint": "v. 部署",
           "difficulty": "medium"
         },
         {
-          "id": 9,
+          "id": 15,
           "answer": "optimization",
           "hint": "n. 优化",
           "difficulty": "hard"
         },
         {
-          "id": 10,
+          "id": 16,
           "answer": "visualization",
           "hint": "n. 可视化",
           "difficulty": "hard"
         },
         {
-          "id": 11,
+          "id": 17,
           "answer": "measurable",
           "hint": "adj. 可衡量的",
           "difficulty": "medium"
         },
         {
-          "id": 12,
+          "id": 18,
+          "answer": "generation",
+          "hint": "n. 生成",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
           "answer": "significantly",
           "hint": "adv. 显著地",
           "difficulty": "medium"
         },
         {
-          "id": 13,
+          "id": 20,
           "answer": "complex",
           "hint": "adj. 复杂的",
           "difficulty": "easy"
         },
         {
-          "id": 14,
+          "id": 21,
+          "answer": "trustworthy",
+          "hint": "adj. 可信的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
           "answer": "compatibility",
           "hint": "n. 兼容性",
           "difficulty": "hard"
         },
         {
-          "id": 15,
-          "answer": "sustainable",
-          "hint": "adj. 可持续的",
+          "id": 24,
+          "answer": "mature",
+          "hint": "v. 成熟",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "deploying",
+          "hint": "v. 部署",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "adoption",
+          "hint": "n. 采用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "transformation",
+          "hint": "n. 转型",
           "difficulty": "medium"
         }
       ],
       "fullText": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nArtificial intelligence is moving rapidly from experimental technology to real-world applications, as industry leaders showcased new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing.\nHeld from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.\nSpeaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are reshaping the internet itself.\nWhile large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on collaboration among multiple intelligent agents rather than isolated AI systems.\nParticipants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAccording to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the dominant source of token-based interactions. The shift, he said, will require internet infrastructure to evolve toward higher bandwidth, lower latency and stronger computing capabilities.\nThe conference also demonstrated how AI is being deployed in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy optimization and building maintenance, providing city managers with real-time visualization and decision-making tools.\nIndustry representatives also emphasized that AI innovation is creating measurable economic value.\nParticipants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAt the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while significantly reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services.\nBeyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve compatibility across different computing chips, reflects broader efforts to build more efficient and sustainable AI infrastructure.\nAs AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale. The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正从实验性技术快速转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI驱动解决方案。大会于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何融入从城市治理、工业制造到零售和公共服务等领域。中国工程院院士吴贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心体验VR产品。\n\n据吴贺铨介绍，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。大会还展示了AI在实际场景中的应用。数字助手正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n第25届中国互联网大会的参会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在大会上，快手表示其AI驱动的视频生成模型和数字人直播平台已帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，参会者还将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动是一个开放AI软件平台，旨在提高不同计算芯片之间的兼容性，反映了构建更高效、更可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。\n\n大会强调了中国加速AI在实体经济中应用的举措，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京国家会议中心开幕。人工智能正迅速从实验技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI解决方案。会议于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何融入从城市治理、工业制造到零售和公共服务等领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的与会者于2026年7月8日在北京国家会议中心体验VR产品。\n\n据邬贺铨称，到2030年，AI生成的流量预计将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力演进。会议还展示了AI在实践场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n第25届中国互联网大会的与会者于2026年7月8日在北京国家会议中心与人形机器人互动。在会议上，快手表示其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在处理越来越复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，与会者还确定了可信AI和绿色计算作为行业下一阶段发展的关键优先事项。FlagOS倡议的推出是一个开放的人工智能软件平台，旨在提高不同计算芯片之间的兼容性，反映了构建更高效、更可持续的AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。\n\n会议强调了中国加速在实体经济中采用AI的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
     },
     {
       "id": 3,
       "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-08/China-honors-pioneers-of-lithium-batteries-and-radar-technology-1OBPLBmhTNe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "China honors pioneers of lithium batteries and radar technology",
-      "titleCn": "中国表彰锂电池与雷达技术先驱",
-      "summary": "China honors pioneers of lithium batteries and radar technology",
-      "summaryCn": "中国授予锂电池先驱陈立泉和雷达专家贲德2025年度国家最高科学技术奖，同时表彰了258个项目和11位科技专家。",
-      "wordCount": 214,
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-07-29/detail-ihfhvays7501452.shtml",
+      "title": "Guangzhou's digital economy core industry value expected to exceed 500 bln yuan in 2026",
+      "titleCn": "广州数字经济核心产业增加值预计2026年突破5000亿元",
+      "summary": "The value added by Guangzhou's core digital economy industries is expected to exceed 500 billion yuan (about $69.6 billion) in 2026, according to the Blue Book of Guangzhou's Digital Economy Development (2026), jointly released by the Guangzhou Academy of Social Sciences and the Social Sciences Academic Press on Monday.",
+      "summaryCn": "广州数字经济核心产业持续高速增长，预计2026年增加值超5000亿元，并计划到2030年建成全国有影响力的智能经济发展高地。",
+      "wordCount": 289,
       "paragraphs": [
         {
-          "en": ", Updated 16:18, 08-Jul-2026Lithium battery {{0}} Chen Liquan (L) and {{2}} expert Ben De won China's national top sci-tech award for 2025 in Beijing, July 8 2026. /CMG\nCGTN infographics by Li Wenyi. China has {{3}} its top science and technology prize for 2025 to {{1}} battery pioneer Chen Liquan and radar expert Ben De in a {{4}} in Beijing. Chen, 86, is a {{5}} at the Institute of Physics under the Chinese Academy of Sciences, and an {{6}} of the Chinese Academy of Engineering (CAE). He is widely {{7}} as the {{8}} of China's lithium battery {{9}}. Ben, 88, is a researcher at the China Electronics Technology Group Corporation and a CAE academician. He is {{10}} as the founder of China's {{11}} {{12}} {{13}} radar technology, and a pioneer in both {{14}} {{15}} and space-based {{16}} radar technology. The ceremony was held alongside the national science and technology award conference, the general {{17}} of the members of the Chinese Academy of Sciences and the CAE, and the 11th national {{18}} of the China Association for Science and Technology. Wednesday's meeting {{19}} 258 {{20}} and 11 scientific and technological {{21}}, with 51 projects receiving the State Natural Science Award, 58 the State Technological Invention Award, and 149 the State Scientific and Technological Progress Award.",
-          "cn": "中国在北京举行的颁奖典礼上，将2025年度国家最高科学技术奖授予了锂电池先驱陈立泉和雷达专家贲德。现年86岁的陈立泉是中国科学院物理研究所研究员、中国工程院院士，被广泛认为是我国锂电池产业的奠基人。88岁的贲德是中国电子科技集团公司研究员、中国工程院院士，被誉为我国机载脉冲多普勒雷达技术的开创者，以及相控阵雷达和天基监视雷达技术的先驱。此次颁奖典礼与国家科学技术奖励大会、中国科学院和中国工程院院士大会、中国科学技术协会第十一次全国代表大会同期举行。周三的会议共表彰了258个项目和11位科技专家，其中51个项目获得国家自然科学奖，58个项目获得国家技术发明奖，149个项目获得国家科学技术进步奖。"
+          "en": "(ECNS) -- The value added by Guangzhou's core digital economy industries is expected to {{0}} 500 billion yuan (about $69.6 billion) in 2026, according to the Blue Book of Guangzhou's Digital Economy Development (2026), {{1}} {{2}} by the Guangzhou Academy of Social Sciences and the Social Sciences Academic Press on Monday. Since the start of the 14th Five-Year Plan period (2021-2025), the value added by Guangzhou's core digital economy industries has grown at an average {{3}} rate of over 10%, rising from 12.1% of the city's GDP in 2020 to 15% in 2025, contributing more than 60% to the city's economic growth. The blue book noted that Guangzhou's computing {{5}} ranks among the top tier nationally. The city has built a {{6}} computing system integrating general, intelligent and supercomputing capabilities. By June 2025, Guangzhou had established general computing {{7}} of 31,000 Pflops (petaflops, or quadrillion floating-point operations per second), intelligent computing capacity of over 10,000 Pflops, and supercomputing capacity of 145 Pflops.",
+          "cn": "（中新网）——广州市社会科学院与社会科学文献出版社周一联合发布的《广州数字经济发展蓝皮书（2026）》显示，广州数字经济核心产业增加值预计在2026年超过5000亿元人民币（约合696亿美元）。自“十四五”规划（2021-2025年）启动以来，广州数字经济核心产业增加值年均增长率超过10%，占全市GDP的比重从2020年的12.1%上升至2025年的15%，对全市经济增长的贡献率超过60%。蓝皮书指出，广州的算力基础设施位居全国前列。该市已建成集通用算力、智能算力和超算能力于一体的综合算力体系。截至2025年6月，广州已建成通用算力3.1万Pflops（每秒千万亿次浮点运算）、智能算力超过1万Pflops、超算算力145 Pflops。"
+        },
+        {
+          "en": "Guangzhou has also built a {{8}} {{9}} intelligence industrial chain, supported by foundational hardware and software, with technology R&D at its core and industrial applications as its {{10}}. By September 2025, the city was home to about 2,200 AI-related enterprises. The blue book projects that Guangzhou's digital economy will maintain strong growth {{11}} in 2026. By 2030, the city is expected to {{12}} several billion-yuan-level intelligent industry clusters and become a nationally {{13}} hub for intelligent economy development. To accelerate this {{14}}, the blue book recommends that Guangzhou build an intelligent economy system centered on the \"data-model-agent-intelligent terminal\" framework, with targeted {{15}} in data industries at the foundational level, model and agent industries at the technology level, and embodied intelligence-led intelligent terminal industries at the application level.",
+          "cn": "广州还构建了坚实的AI产业链，以基础硬件和软件为支撑，以技术研发为核心，以产业应用为驱动。截至2025年9月，该市拥有约2200家AI相关企业。蓝皮书预测，2026年广州数字经济将保持强劲增长势头。到2030年，广州预计将培育数个百亿级智能产业集群，成为全国有影响力的智能经济发展高地。为加速这一转型，蓝皮书建议广州构建以“数据-模型-智能体-智能终端”框架为核心的智能经济体系，在基础层面实现数据产业的重点突破，在技术层面实现模型和智能体产业的重点突破，在应用层面实现以具身智能为引领的智能终端产业的重点突破。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "pioneer",
-          "hint": "n. 先驱",
+          "answer": "exceed",
+          "hint": "v. 超过",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "lithium",
-          "hint": "n. 锂",
+          "answer": "jointly",
+          "hint": "adv. 共同地",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "radar",
-          "hint": "n. 雷达",
+          "answer": "released",
+          "hint": "v. 发布",
           "difficulty": "easy"
         },
         {
           "id": 3,
-          "answer": "awarded",
-          "hint": "v. 授予",
-          "difficulty": "medium"
+          "answer": "annual",
+          "hint": "adj. 年度的",
+          "difficulty": "easy"
         },
         {
           "id": 4,
-          "answer": "ceremony",
-          "hint": "n. 典礼",
-          "difficulty": "easy"
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "researcher",
-          "hint": "n. 研究员",
-          "difficulty": "easy"
+          "answer": "comprehensive",
+          "hint": "adj. 全面的",
+          "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "academician",
-          "hint": "n. 院士",
-          "difficulty": "hard"
+          "answer": "capacity",
+          "hint": "n. 能力；容量",
+          "difficulty": "easy"
         },
         {
           "id": 7,
-          "answer": "recognized",
-          "hint": "v. 认可",
+          "answer": "solid",
+          "hint": "adj. 坚实的",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "founder",
-          "hint": "n. 创始人",
+          "answer": "artificial",
+          "hint": "adj. 人工的",
           "difficulty": "easy"
         },
         {
           "id": 9,
-          "answer": "sector",
-          "hint": "n. 领域",
+          "answer": "driver",
+          "hint": "n. 驱动因素",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "acclaimed",
-          "hint": "v. 赞誉",
+          "answer": "momentum",
+          "hint": "n. 势头",
           "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "airborne",
-          "hint": "adj. 机载的",
-          "difficulty": "hard"
+          "answer": "cultivate",
+          "hint": "v. 培育",
+          "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "pulse",
-          "hint": "n. 脉冲",
+          "answer": "influential",
+          "hint": "adj. 有影响力的",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "Doppler",
-          "hint": "n. 多普勒",
+          "answer": "transition",
+          "hint": "n. 转型",
           "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "phased",
-          "hint": "adj. 相控的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "array",
-          "hint": "n. 阵列",
+          "answer": "breakthroughs",
+          "hint": "n. 突破",
           "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "surveillance",
-          "hint": "n. 监视",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "assemblies",
-          "hint": "n. 大会",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "congress",
-          "hint": "n. 代表大会",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "honored",
-          "hint": "v. 表彰",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "projects",
-          "hint": "n. 项目",
-          "difficulty": "easy"
-        },
-        {
-          "id": 21,
-          "answer": "experts",
-          "hint": "n. 专家",
-          "difficulty": "easy"
         }
       ],
-      "fullText": ", Updated 16:18, 08-Jul-2026Lithium battery pioneer Chen Liquan (L) and radar expert Ben De won China's national top sci-tech award for 2025 in Beijing, July 8 2026. /CMG\nCGTN infographics by Li Wenyi.\nChina has awarded its top science and technology prize for 2025 to lithium battery pioneer Chen Liquan and radar expert Ben De in a ceremony in Beijing.\nChen, 86, is a researcher at the Institute of Physics under the Chinese Academy of Sciences, and an academician of the Chinese Academy of Engineering (CAE). He is widely recognized as the founder of China's lithium battery sector.\nBen, 88, is a researcher at the China Electronics Technology Group Corporation and a CAE academician. He is acclaimed as the founder of China's airborne pulse Doppler radar technology, and a pioneer in both phased array and space-based surveillance radar technology.\nThe ceremony was held alongside the national science and technology award conference, the general assemblies of the members of the Chinese Academy of Sciences and the CAE, and the 11th national congress of the China Association for Science and Technology.\nWednesday's meeting honored 258 projects and 11 scientific and technological experts, with 51 projects receiving the State Natural Science Award, 58 the State Technological Invention Award, and 149 the State Scientific and Technological Progress Award.",
-      "fullTextCn": "中国在北京举行的颁奖典礼上，将2025年度国家最高科学技术奖授予了锂电池先驱陈立泉和雷达专家贲德。现年86岁的陈立泉是中国科学院物理研究所研究员、中国工程院院士，被广泛认为是我国锂电池产业的奠基人。88岁的贲德是中国电子科技集团公司研究员、中国工程院院士，被誉为我国机载脉冲多普勒雷达技术的开创者，以及相控阵雷达和天基监视雷达技术的先驱。此次颁奖典礼与国家科学技术奖励大会、中国科学院和中国工程院院士大会、中国科学技术协会第十一次全国代表大会同期举行。周三的会议共表彰了258个项目和11位科技专家，其中51个项目获得国家自然科学奖，58个项目获得国家技术发明奖，149个项目获得国家科学技术进步奖。"
+      "fullText": "(ECNS) -- The value added by Guangzhou's core digital economy industries is expected to exceed 500 billion yuan (about $69.6 billion) in 2026, according to the Blue Book of Guangzhou's Digital Economy Development (2026), jointly released by the Guangzhou Academy of Social Sciences and the Social Sciences Academic Press on Monday.\nSince the start of the 14th Five-Year Plan period (2021-2025), the value added by Guangzhou's core digital economy industries has grown at an average annual rate of over 10%, rising from 12.1% of the city's GDP in 2020 to 15% in 2025, contributing more than 60% to the city's economic growth.\nThe blue book noted that Guangzhou's computing infrastructure ranks among the top tier nationally. The city has built a comprehensive computing system integrating general, intelligent and supercomputing capabilities. By June 2025, Guangzhou had established general computing capacity of 31,000 Pflops (petaflops, or quadrillion floating-point operations per second), intelligent computing capacity of over 10,000 Pflops, and supercomputing capacity of 145 Pflops.\nGuangzhou has also built a solid artificial intelligence industrial chain, supported by foundational hardware and software, with technology R&D at its core and industrial applications as its driver. By September 2025, the city was home to about 2,200 AI-related enterprises.\nThe blue book projects that Guangzhou's digital economy will maintain strong growth momentum in 2026. By 2030, the city is expected to cultivate several billion-yuan-level intelligent industry clusters and become a nationally influential hub for intelligent economy development.\nTo accelerate this transition, the blue book recommends that Guangzhou build an intelligent economy system centered on the \"data-model-agent-intelligent terminal\" framework, with targeted breakthroughs in data industries at the foundational level, model and agent industries at the technology level, and embodied intelligence-led intelligent terminal industries at the application level.",
+      "fullTextCn": "（中新网）——广州市社会科学院与社会科学文献出版社周一联合发布的《广州数字经济发展蓝皮书（2026）》显示，广州数字经济核心产业增加值预计在2026年超过5000亿元人民币（约合696亿美元）。自“十四五”规划（2021-2025年）启动以来，广州数字经济核心产业增加值年均增长率超过10%，占全市GDP的比重从2020年的12.1%上升至2025年的15%，对全市经济增长的贡献率超过60%。蓝皮书指出，广州的算力基础设施位居全国前列。该市已建成集通用算力、智能算力和超算能力于一体的综合算力体系。截至2025年6月，广州已建成通用算力3.1万Pflops（每秒千万亿次浮点运算）、智能算力超过1万Pflops、超算算力145 Pflops。\n\n广州还构建了坚实的AI产业链，以基础硬件和软件为支撑，以技术研发为核心，以产业应用为驱动。截至2025年9月，该市拥有约2200家AI相关企业。蓝皮书预测，2026年广州数字经济将保持强劲增长势头。到2030年，广州预计将培育数个百亿级智能产业集群，成为全国有影响力的智能经济发展高地。为加速这一转型，蓝皮书建议广州构建以“数据-模型-智能体-智能终端”框架为核心的智能经济体系，在基础层面实现数据产业的重点突破，在技术层面实现模型和智能体产业的重点突破，在应用层面实现以具身智能为引领的智能终端产业的重点突破。"
     },
     {
       "id": 4,
-      "category": "military",
+      "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-18/China-Indonesia-investment-cooperation-holds-potential-official-says-1OSOEHF0un6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "China, Indonesia investment cooperation holds potential, official says",
-      "titleCn": "官员称中国与印尼投资合作潜力巨大",
-      "summary": "Luhut Binsar Pandjaitan, chairman of Indonesia's National Economic Council, stated recently that Indonesia will take steps to strengthen investor confidence, noting that China's support and assistance are indispensable, and there are broad prospects for investment cooperation between the two countries.",
-      "summaryCn": "印尼国家经济委员会主席卢胡特表示，中国支持不可或缺，两国在数字基础设施、人工智能等领域投资合作前景广阔。",
-      "wordCount": 188,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-28/news-1P8AG5h69S8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "FAA says seats on hundreds of Boeing 737 MAX jets may need inspections",
+      "titleCn": "美国联邦航空管理局称数百架波音737 MAX飞机座椅可能需要检查",
+      "summary": "FAA says seats on hundreds of Boeing 737 MAX jets may need inspections",
+      "summaryCn": "美国联邦航空管理局提议对数百架波音737 MAX飞机的座椅进行检查，因安装不当可能危及乘客安全。",
+      "wordCount": 283,
       "paragraphs": [
         {
-          "en": "Luhut Binsar Pandjaitan, {{0}} of Indonesia's National Economic Council, stated recently that Indonesia will take steps to strengthen investor {{1}}, noting that China's support and assistance are {{2}}, and there are broad {{3}} for investment cooperation between the two countries. He made the {{4}} when {{5}} the G20 Bali Global Blended Finance Forum in May. Luhut noted that with rapid development, Indonesia's national development has entered a new {{6}}, making it {{7}} for the country to {{8}} foreign investment and introduce {{16}} technologies.o has explicitly demanded fostering a {{10}} business {{11}} for foreign investment and instructed that necessary {{12}} be taken to {{13}} investor confidence. Luhut said that investment cooperation with China and Indonesia has {{14}} in recent years. Experience shows that China not only {{15}} advanced technology but is also {{17}} to share its development experience with Indonesia {{18}}, rather than merely offering {{19}} {{20}}. In the future, Indonesia will {{21}} investment in areas such as digital {{22}}, {{23}} {{24}}, healthcare and the construction of international financial centers. China's support and assistance will be indispensable, and the two sides have vast {{25}} for investment cooperation, Luhut added.",
-          "cn": "印尼国家经济委员会主席卢胡特·宾萨·潘查伊坦近日表示，印尼将采取措施增强投资者信心，并指出中国的支持与帮助不可或缺，两国投资合作前景广阔。他是在今年5月出席G20巴厘全球混合融资论坛时发表上述言论的。卢胡特指出，随着快速发展，印尼国家发展已进入新阶段，扩大外国投资和引进先进技术对国家至关重要。"
+          "en": ", Updated 10:45, 28-Jul-2026A Buzz airlines Boeing 737 MAX 8 aircraft is seen taxiing at John Paul II Krakow Balice International Airport in Krakow, Poland, July 24, 2026. The US Federal Aviation Administration said on Monday that seats on hundreds of Boeing 737 MAX jets registered in the US may require {{0}} in case they were incorrectly {{1}} and needed to be {{2}}. If not, the seats could {{3}} passengers and crew members during an {{4}} landing or {{24}} the {{25}} and {{26}} an {{5}}, the agency said. The FAA's proposed {{6}} {{7}} issued on Monday would apply to 453 jets registered in the US. The agency only has {{8}} over US airlines, but foreign {{9}} typically follow FAA directives if {{10}}.",
+          "cn": "2026年7月24日，一架Buzz航空公司的波音737 MAX 8飞机在波兰克拉科夫约翰·保罗二世国际机场滑行。美国联邦航空管理局周一表示，在美国注册的数百架波音737 MAX飞机上的座椅可能需要检查，以防安装不当需要修复。该机构称，如果不修复，座椅可能在紧急着陆时伤害乘客和机组人员，或堵塞过道、减缓疏散。FAA周一发布的拟议适航指令将适用于在美国注册的453架飞机。该机构仅对美国航空公司有管辖权，但外国监管机构通常会遵循FAA的指令（如适用）。"
+        },
+        {
+          "en": "The proposed directive comes as Boeing works to {{11}} its production quality and {{12}} {{13}} under CEO Kelly Ortberg. Production quality problems were {{14}} in early 2024 when a door plug {{15}} {{16}} out of a nearly new Alaska Air 737 MAX in flight. The FAA said in the airworthiness directive proposal that it received a report that some passenger seat {{17}} were not correctly installed in the seat {{18}}. That meant the assemblies could {{19}} from the seat tracks if there was an increased {{20}}, {{21}} or an emergency landing, the FAA said. \"This condition, if not {{22}}, could {{23}} in injury to passengers and crew during an emergency landing or could block the aisle, which could slow evacuation,\" it added.",
+          "cn": "这项拟议指令发布之际，波音公司正努力在CEO凯利·奥特伯格领导下提高生产质量和产量。2024年初，一架几乎全新的阿拉斯加航空737 MAX飞机在飞行中发生门塞面板爆裂事件，暴露出生产质量问题。FAA在适航指令提案中表示，收到报告称一些乘客座椅组件未正确安装在座椅轨道中。FAA称，这意味着如果遇到增加的负载、湍流或紧急着陆，这些组件可能从座椅轨道上脱离。它补充说：“这种情况如果不解决，可能导致紧急着陆时乘客和机组人员受伤，或堵塞过道，从而减缓疏散。”"
+        },
+        {
+          "en": "There could be up to 69 track-mounted passenger seat assemblies on each 737 MAX plane and the issue would take an {{27}} one work hour to fix each assembly and requires no parts to do so, the FAA said.",
+          "cn": "FAA表示，每架737 MAX飞机上最多可有69个轨道安装的乘客座椅组件，修复每个组件预计需要一小时工时，且无需更换零件。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "chairman",
-          "hint": "n. 主席",
-          "difficulty": "easy"
+          "answer": "inspections",
+          "hint": "n. 检查",
+          "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "confidence",
-          "hint": "n. 信心",
+          "answer": "installed",
+          "hint": "v. 安装",
           "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "indispensable",
-          "hint": "adj. 不可或缺的",
-          "difficulty": "medium"
+          "answer": "fixed",
+          "hint": "v. 修复",
+          "difficulty": "easy"
         },
         {
           "id": 3,
-          "answer": "prospects",
-          "hint": "n. 前景",
+          "answer": "injure",
+          "hint": "v. 伤害",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "remarks",
-          "hint": "n. 言论",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "attending",
-          "hint": "v. 参加",
+          "answer": "emergency",
+          "hint": "n. 紧急情况",
           "difficulty": "easy"
         },
         {
-          "id": 6,
-          "answer": "phase",
-          "hint": "n. 阶段",
+          "id": 5,
+          "answer": "evacuation",
+          "hint": "n. 疏散",
           "difficulty": "medium"
         },
         {
+          "id": 6,
+          "answer": "airworthiness",
+          "hint": "n. 适航性",
+          "difficulty": "hard"
+        },
+        {
           "id": 7,
-          "answer": "vital",
-          "hint": "adj. 至关重要的",
+          "answer": "directive",
+          "hint": "n. 指令",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "expand",
-          "hint": "v. 扩大",
-          "difficulty": "easy"
+          "answer": "jurisdiction",
+          "hint": "n. 管辖权",
+          "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "favorable",
-          "hint": "adj. 有利的",
+          "answer": "regulators",
+          "hint": "n. 监管机构",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "environment",
-          "hint": "n. 环境",
-          "difficulty": "easy"
+          "answer": "applicable",
+          "hint": "adj. 适用的",
+          "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "measures",
-          "hint": "n. 措施",
-          "difficulty": "medium"
+          "answer": "improve",
+          "hint": "v. 改善",
+          "difficulty": "easy"
         },
         {
           "id": 12,
@@ -541,202 +553,230 @@
         },
         {
           "id": 13,
-          "answer": "deepened",
-          "hint": "v. 深化",
+          "answer": "output",
+          "hint": "n. 产量",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "possesses",
-          "hint": "v. 拥有",
+          "answer": "revealed",
+          "hint": "v. 揭示",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "advanced",
-          "hint": "adj. 先进的",
-          "difficulty": "easy"
+          "answer": "panel",
+          "hint": "n. 面板",
+          "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "willing",
-          "hint": "adj. 愿意的",
-          "difficulty": "easy"
+          "answer": "blew",
+          "hint": "v. 爆裂",
+          "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "genuinely",
-          "hint": "adv. 真诚地",
+          "answer": "assemblies",
+          "hint": "n. 组件",
           "difficulty": "hard"
         },
         {
           "id": 18,
-          "answer": "verbal",
-          "hint": "adj. 口头的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "promises",
-          "hint": "n. 承诺",
-          "difficulty": "easy"
-        },
-        {
-          "id": 20,
-          "answer": "increase",
-          "hint": "v. 增加",
-          "difficulty": "easy"
-        },
-        {
-          "id": 21,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
+          "answer": "tracks",
+          "hint": "n. 轨道",
           "difficulty": "medium"
         },
         {
+          "id": 19,
+          "answer": "disengage",
+          "hint": "v. 脱离",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "load",
+          "hint": "n. 负载",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "turbulence",
+          "hint": "n. 湍流",
+          "difficulty": "hard"
+        },
+        {
           "id": 22,
-          "answer": "artificial",
-          "hint": "adj. 人工的",
+          "answer": "addressed",
+          "hint": "v. 处理",
           "difficulty": "medium"
         },
         {
           "id": 23,
-          "answer": "intelligence",
-          "hint": "n. 智能",
-          "difficulty": "medium"
+          "answer": "result",
+          "hint": "v. 导致",
+          "difficulty": "easy"
         },
         {
           "id": 24,
-          "answer": "potential",
-          "hint": "n. 潜力",
+          "answer": "block",
+          "hint": "v. 堵塞",
+          "difficulty": "easy"
+        },
+        {
+          "id": 25,
+          "answer": "aisle",
+          "hint": "n. 过道",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "slow",
+          "hint": "v. 减缓",
+          "difficulty": "easy"
+        },
+        {
+          "id": 27,
+          "answer": "estimated",
+          "hint": "adj. 估计的",
           "difficulty": "medium"
         }
       ],
-      "fullText": "Luhut Binsar Pandjaitan, chairman of Indonesia's National Economic Council, stated recently that Indonesia will take steps to strengthen investor confidence, noting that China's support and assistance are indispensable, and there are broad prospects for investment cooperation between the two countries.\nHe made the remarks when attending the G20 Bali Global Blended Finance Forum in May.\nLuhut noted that with rapid development, Indonesia's national development has entered a new phase, making it vital for the country to expand foreign investment and introduce advanced technologies.o has explicitly demanded fostering a favorable business environment for foreign investment and instructed that necessary measures be taken to boost investor confidence.\nLuhut said that investment cooperation with China and Indonesia has deepened in recent years. Experience shows that China not only possesses advanced technology but is also willing to share its development experience with Indonesia genuinely, rather than merely offering verbal promises.\nIn the future, Indonesia will increase investment in areas such as digital infrastructure, artificial intelligence, healthcare and the construction of international financial centers. China's support and assistance will be indispensable, and the two sides have vast potential for investment cooperation, Luhut added.",
-      "fullTextCn": "印尼国家经济委员会主席卢胡特·宾萨·潘查伊坦近日表示，印尼将采取措施增强投资者信心，并指出中国的支持与帮助不可或缺，两国投资合作前景广阔。他是在今年5月出席G20巴厘全球混合融资论坛时发表上述言论的。卢胡特指出，随着快速发展，印尼国家发展已进入新阶段，扩大外国投资和引进先进技术对国家至关重要。\n\n卢胡特明确要求为外国投资营造有利的商业环境，并指示采取必要措施提升投资者信心。他表示，近年来印尼与中国的投资合作不断深化。经验表明，中国不仅拥有先进技术，还愿意真诚地与印尼分享发展经验，而不仅仅是口头承诺。未来，印尼将加大对数字基础设施、人工智能、医疗保健和国际金融中心建设等领域的投资。卢胡特补充说，中国的支持与帮助不可或缺，双方投资合作潜力巨大。"
+      "fullText": ", Updated 10:45, 28-Jul-2026A Buzz airlines Boeing 737 MAX 8 aircraft is seen taxiing at John Paul II Krakow Balice International Airport in Krakow, Poland, July 24, 2026. \nThe US Federal Aviation Administration said on Monday that seats on hundreds of Boeing 737 MAX jets registered in the US may require inspections in case they were incorrectly installed and needed to be fixed.\nIf not, the seats could injure passengers and crew members during an emergency landing or block the aisle and slow an evacuation, the agency said.\nThe FAA's proposed airworthiness directive issued on Monday would apply to 453 jets registered in the US. The agency only has jurisdiction over US airlines, but foreign regulators typically follow FAA directives if applicable.\nThe proposed directive comes as Boeing works to improve its production quality and boost output under CEO Kelly Ortberg. Production quality problems were revealed in early 2024 when a door plug panel blew out of a nearly new Alaska Air 737 MAX in flight.\nThe FAA said in the airworthiness directive proposal that it received a report that some passenger seat assemblies were not correctly installed in the seat tracks.\nThat meant the assemblies could disengage from the seat tracks if there was an increased load, turbulence or an emergency landing, the FAA said.\n\"This condition, if not addressed, could result in injury to passengers and crew during an emergency landing or could block the aisle, which could slow evacuation,\" it added.\nThere could be up to 69 track-mounted passenger seat assemblies on each 737 MAX plane and the issue would take an estimated one work hour to fix each assembly and requires no parts to do so, the FAA said.",
+      "fullTextCn": "2026年7月24日，一架Buzz航空公司的波音737 MAX 8飞机在波兰克拉科夫约翰·保罗二世国际机场滑行。美国联邦航空管理局周一表示，在美国注册的数百架波音737 MAX飞机上的座椅可能需要检查，以防安装不当需要修复。该机构称，如果不修复，座椅可能在紧急着陆时伤害乘客和机组人员，或堵塞过道、减缓疏散。FAA周一发布的拟议适航指令将适用于在美国注册的453架飞机。该机构仅对美国航空公司有管辖权，但外国监管机构通常会遵循FAA的指令（如适用）。\n\n这项拟议指令发布之际，波音公司正努力在CEO凯利·奥特伯格领导下提高生产质量和产量。2024年初，一架几乎全新的阿拉斯加航空737 MAX飞机在飞行中发生门塞面板爆裂事件，暴露出生产质量问题。FAA在适航指令提案中表示，收到报告称一些乘客座椅组件未正确安装在座椅轨道中。FAA称，这意味着如果遇到增加的负载、湍流或紧急着陆，这些组件可能从座椅轨道上脱离。它补充说：“这种情况如果不解决，可能导致紧急着陆时乘客和机组人员受伤，或堵塞过道，从而减缓疏散。”\n\nFAA表示，每架737 MAX飞机上最多可有69个轨道安装的乘客座椅组件，修复每个组件预计需要一小时工时，且无需更换零件。"
     },
     {
       "id": 5,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-07-27/detail-ihfhqwkz8174347.shtml",
-      "title": "New Indonesian museum showcases Chinese dinosaur fossils",
-      "titleCn": "印尼新博物馆展出中国恐龙化石",
-      "summary": "The Tahir Solo Museum in Surakarta, Indonesia, opened on Friday, with a special exhibition featuring dinosaur fossils from China as one of its inaugural displays.",
-      "summaryCn": "印尼梭罗市塔希尔博物馆开幕，展出中国自贡恐龙化石，促进中印尼文化遗产与科学教育合作。",
-      "wordCount": 168,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-27/news-1P6THcrM8WA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Brazil recalls ambassador after Argentine president criticizes Lula",
+      "titleCn": "巴西召回大使，因阿根廷总统批评卢拉",
+      "summary": "Brazilian Foreign Ministry on Sunday recalled its ambassador to Argentina, Julio Bitelli, for consultations on relations between the two countries.",
+      "summaryCn": "巴西因阿根廷总统米莱批评卢拉政府并侮辱法官而召回驻阿大使。",
+      "wordCount": 240,
       "paragraphs": [
         {
-          "en": "(ECNS) -- The Tahir Solo Museum in Surakarta, Indonesia, opened on Friday, with a special exhibition featuring dinosaur fossils from China as one of its {{1}} displays. The museum, {{2}} by Indonesian Chinese entrepreneur Dato Sri Tahir to the Surakarta {{3}} government, will be open to the public as a cultural {{4}} {{5}} education, tourism and research. Dinosaur fossils from Zigong Dinosaur Museum are on display at the Tahir Solo Museum. (\nOfficials from Indonesia’s culture ministry, Surakarta city, China’s embassy and the Zigong Dinosaur Museum joined the opening {{6}}. Tahir said the donation was “a gift of {{7}} and love” to his mother’s {{8}}. The exhibition features fossils including a 20-meter Tianfu Emeilong adult, a 6-meter {{9}}, and the Taibai Huayanglong, known as the “{{10}} of stegosaurs.”\nCurator Luo Yingying said the display {{12}} shared {{13}} by China and Indonesia to {{14}} protection and science education. Zeng Xiaoyun, {{11}} of the Zigong Dinosaur Museum, said the {{15}} will expand into joint research, fossil {{16}} and science {{17}}.",
-          "cn": "（中新网）——位于印度尼西亚梭罗市的塔希尔博物馆于周五开幕，其开幕展览之一特别展出了来自中国的恐龙化石。该博物馆由印尼华裔企业家拿督斯里塔希尔捐赠给梭罗市政府，将作为融合教育、旅游和研究的文化地标向公众开放。来自自贡恐龙博物馆的恐龙化石正在塔希尔博物馆展出。"
+          "en": ", Updated 11:21, 27-Jul-2026Argentine President Javier Milei speaks during the national {{5}} of Brazil's Liberal Party in Sao Paulo, Brazil, July 25, 2026. Brazilian Foreign Ministry on Sunday {{0}} its ambassador to Argentina, Julio Bitelli, for {{1}} on {{2}} between the two countries. Brazilian Foreign Minister Mauro Vieira made the decision on Sunday morning after {{3}} President Luiz Inacio Lula da Silva. Argentine President Javier Milei {{4}} the national convention of Brazil's Liberal Party in Sao Paulo on Saturday, where the party {{6}} {{7}} Flavio Bolsonaro, son of former President Jair Bolsonaro, as its presidential {{8}}. In his speech, Milei {{9}} Lula's government and {{10}} a decision by Supreme Federal Court Justice Alexandre de Moraes that {{11}} him from visiting the jailed former president.",
+          "cn": "阿根廷总统哈维尔·米莱于2026年7月25日在巴西圣保罗举行的巴西自由党全国大会上发表讲话。巴西外交部周日召回了驻阿根廷大使胡利奥·比泰利，就两国关系进行磋商。巴西外长毛罗·维埃拉在周日早上与总统路易斯·伊纳西奥·卢拉·达席尔瓦商议后做出了这一决定。阿根廷总统米莱周六出席了在圣保罗举行的巴西自由党全国大会，会上该党正式提名前总统雅伊尔·博索纳罗的儿子弗拉维奥·博索纳罗为总统候选人。米莱在讲话中批评了卢拉政府，并抗议联邦最高法院法官亚历山大·德·莫赖斯的一项裁决，该裁决阻止他探视被监禁的前总统。"
+        },
+        {
+          "en": "Brazilian Supreme Federal Court President Luiz Edson Fachin later {{12}} what he called Milei's \"rude insults\" against Moraes, saying the remarks {{13}} {{14}} norms between countries. Fachin said Brazil's judiciary is fully {{15}} and that Moraes was {{16}} his judicial duties in Brazil under the country's constitution and laws. According to reports, Milei did not seek a meeting with Lula during his visit to Brazil, and Lula had no plan to receive him. Bolsonaro was {{17}} charged over an alleged attempt to stage a coup after losing the 2022 presidential election. In September 2025, Brazil's Supreme Federal Court found him guilty of plotting a coup and sentenced him to 27 years and three months in prison.",
+          "cn": "巴西联邦最高法院院长路易斯·埃德森·法钦随后驳斥了他所称的米莱对莫赖斯的“粗鲁侮辱”，称这些言论违反了国家间的外交规范。法钦表示，巴西司法机构完全自主，莫赖斯是根据巴西宪法和法律在履行其司法职责。据报道，米莱在访问巴西期间并未寻求与卢拉会面，卢拉也无计划接见他。博索纳罗因涉嫌在2022年总统选举失利后策划政变而受到刑事指控。2025年9月，巴西联邦最高法院认定他策划政变罪名成立，判处其27年零3个月监禁。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "inaugural",
-          "hint": "adj. 开幕的",
-          "difficulty": "hard"
+          "answer": "recalled",
+          "hint": "v. 召回",
+          "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "donated",
-          "hint": "v. 捐赠",
+          "answer": "consultations",
+          "hint": "n. 磋商",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "municipal",
-          "hint": "adj. 市政的",
-          "difficulty": "hard"
+          "answer": "relations",
+          "hint": "n. 关系",
+          "difficulty": "easy"
         },
         {
           "id": 3,
-          "answer": "landmark",
-          "hint": "n. 地标",
+          "answer": "consulting",
+          "hint": "v. 商议",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "integrating",
-          "hint": "v. 融合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "ceremony",
-          "hint": "n. 仪式",
+          "answer": "attended",
+          "hint": "v. 出席",
           "difficulty": "easy"
         },
         {
+          "id": 5,
+          "answer": "convention",
+          "hint": "n. 大会",
+          "difficulty": "medium"
+        },
+        {
           "id": 6,
-          "answer": "gratitude",
-          "hint": "n. 感激",
+          "answer": "formally",
+          "hint": "adv. 正式地",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "birthplace",
-          "hint": "n. 出生地",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "juvenile",
-          "hint": "n. 幼年个体",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "ancestor",
-          "hint": "n. 祖先",
+          "answer": "nominated",
+          "hint": "v. 提名",
           "difficulty": "medium"
         },
         {
+          "id": 8,
+          "answer": "candidate",
+          "hint": "n. 候选人",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "criticized",
+          "hint": "v. 批评",
+          "difficulty": "easy"
+        },
+        {
           "id": 10,
-          "answer": "curator",
-          "hint": "n. 馆长",
+          "answer": "protested",
+          "hint": "v. 抗议",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "highlights",
-          "hint": "v. 凸显",
+          "answer": "blocked",
+          "hint": "v. 阻止",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "commitments",
-          "hint": "n. 承诺",
+          "answer": "rejected",
+          "hint": "v. 驳斥",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "heritage",
-          "hint": "n. 遗产",
+          "answer": "violated",
+          "hint": "v. 违反",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "collaboration",
-          "hint": "n. 合作",
+          "answer": "diplomatic",
+          "hint": "adj. 外交的",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "restoration",
-          "hint": "n. 修复",
+          "answer": "autonomous",
+          "hint": "adj. 自主的",
           "difficulty": "hard"
         },
         {
           "id": 16,
-          "answer": "outreach",
-          "hint": "n. 推广",
+          "answer": "performing",
+          "hint": "v. 履行",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "criminally",
+          "hint": "adv. 刑事地",
           "difficulty": "hard"
         }
       ],
-      "fullText": "(ECNS) -- The Tahir Solo Museum in Surakarta, Indonesia, opened on Friday, with a special exhibition featuring dinosaur fossils from China as one of its inaugural displays.\nThe museum, donated by Indonesian Chinese entrepreneur Dato Sri Tahir to the Surakarta municipal government, will be open to the public as a cultural landmark integrating education, tourism and research.\nDinosaur fossils from Zigong Dinosaur Museum are on display at the Tahir Solo Museum. (\nOfficials from Indonesia’s culture ministry, Surakarta city, China’s embassy and the Zigong Dinosaur Museum joined the opening ceremony.\nTahir said the donation was “a gift of gratitude and love” to his mother’s birthplace.\nThe exhibition features fossils including a 20-meter Tianfu Emeilong adult, a 6-meter juvenile, and the Taibai Huayanglong, known as the “ancestor of stegosaurs.”\nCurator Luo Yingying said the display highlights shared commitments by China and Indonesia to heritage protection and science education.\nZeng Xiaoyun, curator of the Zigong Dinosaur Museum, said the collaboration will expand into joint research, fossil restoration and science outreach.",
-      "fullTextCn": "（中新网）——位于印度尼西亚梭罗市的塔希尔博物馆于周五开幕，其开幕展览之一特别展出了来自中国的恐龙化石。该博物馆由印尼华裔企业家拿督斯里塔希尔捐赠给梭罗市政府，将作为融合教育、旅游和研究的文化地标向公众开放。来自自贡恐龙博物馆的恐龙化石正在塔希尔博物馆展出。\n\n印尼文化部、梭罗市政府、中国大使馆及自贡恐龙博物馆的官员共同出席了开幕式。塔希尔表示，此次捐赠是“一份感恩与爱的礼物”，献给他母亲的出生地。展览展出的化石包括一具20米长的天府峨眉龙成年个体、一具6米长的幼年个体，以及被称为“剑龙祖先”的太白华阳龙。\n\n馆长罗莹莹表示，此次展览凸显了中国和印尼在遗产保护与科学教育方面的共同承诺。自贡恐龙博物馆馆长曾晓云表示，双方合作将拓展至联合研究、化石修复和科学推广等领域。"
+      "fullText": ", Updated 11:21, 27-Jul-2026Argentine President Javier Milei speaks during the national convention of Brazil's Liberal Party in Sao Paulo, Brazil, July 25, 2026. \nBrazilian Foreign Ministry on Sunday recalled its ambassador to Argentina, Julio Bitelli, for consultations on relations between the two countries.\nBrazilian Foreign Minister Mauro Vieira made the decision on Sunday morning after consulting President Luiz Inacio Lula da Silva.\nArgentine President Javier Milei attended the national convention of Brazil's Liberal Party in Sao Paulo on Saturday, where the party formally nominated Flavio Bolsonaro, son of former President Jair Bolsonaro, as its presidential candidate. In his speech, Milei criticized Lula's government and protested a decision by Supreme Federal Court Justice Alexandre de Moraes that blocked him from visiting the jailed former president.\nBrazilian Supreme Federal Court President Luiz Edson Fachin later rejected what he called Milei's \"rude insults\" against Moraes, saying the remarks violated diplomatic norms between countries.\nFachin said Brazil's judiciary is fully autonomous and that Moraes was performing his judicial duties in Brazil under the country's constitution and laws.\nAccording to reports, Milei did not seek a meeting with Lula during his visit to Brazil, and Lula had no plan to receive him.\nBolsonaro was criminally charged over an alleged attempt to stage a coup after losing the 2022 presidential election. In September 2025, Brazil's Supreme Federal Court found him guilty of plotting a coup and sentenced him to 27 years and three months in prison.",
+      "fullTextCn": "阿根廷总统哈维尔·米莱于2026年7月25日在巴西圣保罗举行的巴西自由党全国大会上发表讲话。巴西外交部周日召回了驻阿根廷大使胡利奥·比泰利，就两国关系进行磋商。巴西外长毛罗·维埃拉在周日早上与总统路易斯·伊纳西奥·卢拉·达席尔瓦商议后做出了这一决定。阿根廷总统米莱周六出席了在圣保罗举行的巴西自由党全国大会，会上该党正式提名前总统雅伊尔·博索纳罗的儿子弗拉维奥·博索纳罗为总统候选人。米莱在讲话中批评了卢拉政府，并抗议联邦最高法院法官亚历山大·德·莫赖斯的一项裁决，该裁决阻止他探视被监禁的前总统。\n\n巴西联邦最高法院院长路易斯·埃德森·法钦随后驳斥了他所称的米莱对莫赖斯的“粗鲁侮辱”，称这些言论违反了国家间的外交规范。法钦表示，巴西司法机构完全自主，莫赖斯是根据巴西宪法和法律在履行其司法职责。据报道，米莱在访问巴西期间并未寻求与卢拉会面，卢拉也无计划接见他。博索纳罗因涉嫌在2022年总统选举失利后策划政变而受到刑事指控。2025年9月，巴西联邦最高法院认定他策划政变罪名成立，判处其27年零3个月监禁。"
     }
   ]
 }
