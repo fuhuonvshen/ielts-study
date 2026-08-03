@@ -1,400 +1,816 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "articles": [
     {
       "id": 1,
-      "category": "military",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-07-31/detail-ihfhvays7506515.shtml",
-      "title": "Japan launches national intelligence bureau amid criticism over Takaichi government's alleged push for a wartime system",
-      "titleCn": "日本设立国家情报局，批评者称高市政府推动战时体制",
-      "summary": "Several Japanese and foreign media outlets have warned that, the expansion of intelligence powers, coupled with a lack of effective oversight, could lead to the abuse of power, interference in domestic politics, and the erosion of civil liberties, while further undermining Japan’s postwar framework for security oversight.",
-      "summaryCn": "日本政府设立国家情报局引发国内外对其权力扩张、缺乏监督及可能侵蚀公民自由的担忧。",
-      "wordCount": 814,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-30/The-other-final-whistle-World-Cup-and-global-health-s-unfinished-game-1PcPCLticTu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "The other final whistle: World Cup and global health's unfinished game",
+      "titleCn": "另一声终场哨：世界杯与全球健康未竟的比赛",
+      "summary": "Drawing on the stark contrast between the conclusion of the 2026 FIFA World Cup and the accelerating Ebola outbreak in the Democratic Republic of the Congo, this article analyzes the structural limits of leveraging mega-sporting events for global health governance. It shows that while partnerships like the FIFA-WHO alliance advance health advocacy, their impact remains constrained by non-binding terms and event-bound scopes, calling for stronger multilateral mechanisms.",
+      "summaryCn": "本文通过对比2026年世界杯结束与刚果（金）埃博拉疫情加速蔓延，指出FIFA与WHO的合作虽取得进展，但受限于非约束性承诺和资源依赖，未能有效应对全球健康危机，呼吁改革国际治理框架。",
+      "wordCount": 1095,
       "paragraphs": [
         {
-          "en": "(ECNS) --On July 31, the Japanese government officially established the “National Intelligence Bureau,” which will become the country’s first {{0}} central intelligence agency. Several Japanese and foreign media outlets have warned that, the expansion of intelligence powers, coupled with a lack of effective {{1}}, could lead to the {{2}} of power, interference in domestic politics, and the {{3}} of civil liberties, while further {{4}} Japan’s postwar framework for security oversight. Reshaping Japan’s Intelligence System? According to Japan’s Kyodo News, the National Intelligence Bureau, chaired by Japanese Prime Minister Sanae Takaichi and comprising nine cabinet ministers including Chief Cabinet Secretary Minoru Kihara, will hold its first meeting on July 31. At a Cabinet meeting on July 24, the Japanese government had decided to appoint Kazuya Hara, the then Cabinet Intelligence Director, as the first head of the new agency.",
-          "cn": "（中新网）--7月31日，日本政府正式设立“国家情报局”，这将成为该国首个统一的中央情报机构。多家日本及外国媒体警告称，情报权力的扩张，加之缺乏有效监督，可能导致权力滥用、干涉国内政治、侵蚀公民自由，并进一步破坏日本战后安全保障监督框架。重塑日本情报体系？据日本共同社报道，由国家情报局局长、日本首相高市早苗主持，包括官房长官木原稔在内的九名内阁大臣组成的国家情报局，将于7月31日召开首次会议。在7月24日的内阁会议上，日本政府已决定任命时任内阁情报官原和也为新机构的首任负责人。"
+          "en": "Editor's Note: In this article, Wu Yanni and Zhou Qing'an, researchers from the Global Development and Health Communication Center at China's Tsinghua University, examine the {{0}} divide between global sports {{1}} and acute public health crises. Drawing on the {{10}} contrast between the conclusion of the 2026 FIFA World Cup and the {{2}} Ebola outbreak in the Democratic Republic of the Congo, they argue that while institutional partnerships like the FIFA-WHO {{3}} have made meaningful {{4}} in health {{15}} and host-nation protocols, they remain {{5}} limited by non-binding commitments, host-government resource dependencies, and an inward-facing {{21}}. They call for a more serious examination and evolution of international {{14}} frameworks to {{6}} turn mass media platforms into {{7}} mechanisms for addressing broader, global-scale health emergencies. When Spain claimed their second World Cup title at MetLife Stadium in New Jersey on July 19, over 80,000 fans in the stadium and billions worldwide captured the moment. Across 39 days, 48 teams, and 104 matches spread across the United States, Canada, and Mexico, the 2026 FIFA World Cup drew what is likely the largest {{8}} global audience in history.",
+          "cn": "编者按：本文中，来自清华大学全球发展与健康传播中心的研究员吴燕妮和周庆安，审视了全球体育盛事与急性公共卫生危机之间的结构性鸿沟。他们利用2026年FIFA世界杯结束与刚果民主共和国埃博拉疫情加速蔓延之间的鲜明对比，认为尽管像FIFA-WHO联盟这样的机构伙伴关系在健康倡导和主办国规程方面取得了有意义的进展，但其本质上仍受限于非约束性承诺、主办国政府资源依赖以及内向型的范围。他们呼吁更认真地审视和演进国际治理框架，以可信地将大众媒体平台转变为应对更广泛、全球规模健康紧急情况的可持续机制。当西班牙于7月19日在新泽西州大都会人寿体育场夺得他们的第二个世界杯冠军时，体育场内的8万多名球迷和全球数十亿人捕捉到了这一时刻。在跨越美国、加拿大和墨西哥的39天里，48支球队和104场比赛，2026年FIFA世界杯吸引了可能是历史上最大规模的同步全球观众。"
         },
         {
-          "en": "Japanese media reported that the National Intelligence Bureau was established by {{5}} the Cabinet Intelligence and Research Office. The new bureau has an initial staff of around 730, roughly the same size as its {{6}}. As the first director of this new bureau, 58-year-old Kazuya Hara joined the National Police Agency in 1990. He previously served as secretary to former Prime Minister Shinzo Abe and as director-general of the National Police Agency’s Security Bureau. Since 2023, he has served as Cabinet Intelligence Director.",
-          "cn": "日本媒体报道称，国家情报局是在升级内阁情报调查室的基础上设立的。新机构初期编制约730人，规模与其前身大致相当。作为新机构的首任局长，58岁的原和也于1990年加入警察厅。他曾担任前首相安倍晋三的秘书，并曾任警察厅警备局局长。自2023年起，他担任内阁情报官。"
+          "en": "On the same day, the World Health Organization's data showed that the Bundibugyo Ebola outbreak in the Democratic Republic of the Congo had reached 2,344 {{9}} cases and 930 deaths. Two days earlier, WHO Director-General Tedros Adhanom Ghebreyesus had issued a stark warning that this was the fastest-spreading Ebola outbreak on record. The 2018 North Kivu outbreak took more than ten months to {{11}} 2,000 confirmed cases, while this one took two. On June 24, France confirmed a case in a physician returning from the DRC, a sign that the outbreak's reach was {{12}} beyond Central Africa. These two realities shared the same day without sharing the same conversation.",
+          "cn": "同一天，世界卫生组织的数据显示，刚果民主共和国的本迪布焦埃博拉疫情已达到2344例确诊病例和930例死亡。两天前，世卫组织总干事谭德塞发出严厉警告，称这是有记录以来传播最快的埃博拉疫情。2018年的北基伍疫情用了超过十个月才超过2000例确诊病例，而这次只用了两个月。6月24日，法国确认一名从刚果（金）返回的医生感染，这表明疫情的影响范围正在超越中非。这两种现实共享同一天，却没有共享同一个对话。"
         },
         {
-          "en": "The National Intelligence Bureau was established under the {{7}} passed the Diet (Japan's parliament) in May, which also created a “National Intelligence Council” that serves as the core body of Japan’s national intelligence system, while the National Intelligence Bureau functions as its {{8}} office with broad authority to {{9}} intelligence operations across government ministries and agencies. Triggering Japan’s and International Concerns? According to several Japanese media reports, the establishment of the “National Intelligence Bureau” sparked widespread {{10}} during the legislative process. Public concern has centered on the lack of effective oversights of the government’s intelligence-gathering activities. In recent days, numerous Japanese citizens have taken to the streets in Tokyo to protest the establishment of the proposed National Intelligence Bureau, a move that warrants close {{11}} from both Asian nations and the broader international community.",
-          "cn": "国家情报局是根据日本国会5月通过的立法设立的，该立法还设立了“国家情报委员会”，作为日本国家情报体系的核心机构，而国家情报局则作为其执行办公室，拥有协调政府各部门情报行动的广泛权力。引发日本国内及国际关切？据多家日本媒体报道，“国家情报局”的设立在立法过程中引发了广泛争议。公众的担忧主要集中在政府情报收集活动缺乏有效监督上。近日，众多日本民众走上东京街头，抗议设立拟议中的国家情报局，此举值得亚洲国家及更广泛的国际社会密切关注。"
+          "en": "The competition for global attention between sporting spectacle and public health crisis is a familiar struggle for global health {{13}}, who have long sought to turn moments of mass engagement into opportunities for better health communication and governance. Those efforts have produced results. The question of what the World Cup can do for global health is not unanswered; it has generated a body of institutional work that deserves to be examined on its own terms. A FIFA logo alongside World Health Organisation on a LED advertisement board. /CFP\nIn October 2019, FIFA and WHO signed a Memorandum of Understanding, renewed in May 2023.",
+          "cn": "体育盛事与公共卫生危机之间对全球注意力的竞争，对全球健康从业者来说是一场熟悉的斗争，他们长期以来一直寻求将大众参与的时刻转化为更好的健康传播和治理机会。这些努力已经产生了成果。世界杯能为全球健康做什么的问题并非没有答案；它已经产生了一系列值得按其自身条件审视的机构工作。一块FIFA标志与世卫组织标志并排出现在LED广告牌上。/CFP\n2019年10月，FIFA和WHO签署了一份谅解备忘录，并于2023年5月续签。"
         },
         {
-          "en": "One protester said that the National Intelligence Bureau, together with the proposed “Anti-Espionage Law,” could become legal tools for monitoring society and {{12}} citizens. The ultimate goal, the protester claimed, is to create a wartime system characterized by “strict surveillance in peacetime and immediate {{13}} in wartime,” turning Japan into a country prepared to wage and supports wars. Many Japanese internet users have also voiced dissatisfaction. One user wrote on social media: “(The Takaichi administration) has {{14}} disaster-striken communities and their victims, yet it has been remarkably active when it comes to preparing for war.”\nThe Times in the United Kingdom also reported on public concerns over the National Intelligence Bureau in Japan. Observers are particularly concerned that the new agency could lead to an {{15}} expansion of intelligence powers.",
-          "cn": "一名抗议者表示，国家情报局连同拟议中的《反间谍法》，可能成为监控社会和压制公民的法律工具。抗议者声称，其最终目标是建立一种以“平时严密监控、战时立即动员”为特征的战时体制，将日本变成一个准备发动和支持战争的国家。许多日本网民也表达了不满。一位用户在社交媒体上写道：“（高市政府）忽视了受灾社区及其受害者，但在备战方面却异常积极。”英国《泰晤士报》也报道了日本民众对国家情报局的担忧。观察人士尤其担心，新机构可能导致情报权力过度扩张。"
+          "en": "The MOU covers health advocacy, policy {{16}}, tournament health legacy, and equity, and goes further than commonly recognized in one respect: it explicitly includes WHO providing FIFA with technical advice on public health emergencies under the International Health Regulations (2005). Across successive tournaments, the partnership has produced measurable results, from anti-tobacco messaging reaching hundreds of millions through World Cup broadcasts to mental health campaigns woven into match programming. The Qatar 2022 World Cup represented the deepest institutional expression of this framework to date. FIFA, WHO, and the Qatar Ministry of Public Health established a three-party Sport for Health arrangement that {{18}} public health directly into tournament operations – including dedicated infectious disease {{17}}, mass gathering health protocols, and risk communication systems. WHO's 2024 report, Changing the Game: Strengthening Health and Well-being through Sport, documented the Qatar model as a reference case for future major events, describing it as an example of embedding health objectives into planning, implementation, and legacy evaluation.",
+          "cn": "该谅解备忘录涵盖健康倡导、政策对齐、赛事健康遗产和公平性，并在一个方面比通常认识到的更进一步：它明确包括WHO根据《国际卫生条例（2005）》向FIFA提供公共卫生紧急情况的技术建议。在连续多届赛事中，这一伙伴关系已产生可衡量的成果，从通过世界杯转播覆盖数亿人的反烟草信息，到融入比赛节目的心理健康运动。2022年卡塔尔世界杯代表了该框架迄今为止最深入的制度表达。FIFA、WHO和卡塔尔公共卫生部建立了三方“体育促进健康”安排，将公共卫生直接嵌入赛事运营——包括专门的传染病监测、大规模集会健康规程和风险沟通系统。WHO的2024年报告《改变游戏：通过体育加强健康和福祉》将卡塔尔模式记录为未来大型活动的参考案例，描述其为将健康目标嵌入规划、实施和遗产评估的范例。"
         },
         {
-          "en": "How to prevent abuses of power and avoid repeating the mistakes of prewar intelligence apparatus will be among Japan’s biggest challenges. The UK-based international news magazine The Week also noted that concerns in Japanese society mainly center on three issues: whether intelligence agencies could {{16}} in domestic politics, whether the scope of state surveillance could be expanded, and how to ensure the agency does not become a tool for the ruling party to {{17}} political interests. Qatar-based Al Jazeera said the move {{18}} that Japan is moving further away from the post-World War II security framework. The Washington Post reported that the move represents a major step by the Japanese authorities to expand national security powers, following a significant increase in defense spending and the {{19}} of the ban on exports of {{20}} weapons. In response to the criticism, the Japanese government has stressed that the move is intended to address what it described as a “{{21}} security environment.” Liberal Democratic Party lawmaker Keitaro Ono has repeatedly argued that the goal of establishing the National Intelligence Bureau is to make Japan “safer.”\nHowever, Japanese human rights lawyer Tetsushi Hirai has warned that intelligence warfare itself is part of war, and civil liberties could come under serious pressure.",
-          "cn": "如何防止权力滥用、避免重蹈战前情报机构的覆辙，将成为日本面临的最大挑战之一。英国国际新闻杂志《周刊》也指出，日本社会的担忧主要集中在三个问题上：情报机构是否会干预国内政治，国家监控的范围是否会扩大，以及如何确保该机构不会成为执政党谋取政治利益的工具。卡塔尔半岛电视台表示，此举标志着日本正进一步偏离二战后安全保障框架。《华盛顿邮报》报道称，此举是日本当局在国防开支大幅增加和解除致命武器出口禁令之后，扩大国家安全权力的又一重大步骤。针对批评，日本政府强调，此举旨在应对其所称的“严峻安全环境”。自民党议员小野启太郎一再辩称，设立国家情报局的目标是让日本“更安全”。然而，日本人权律师平井哲志警告说，情报战本身就是战争的一部分，公民自由可能面临严重压力。"
+          "en": "This year, the Pan American Health Organization launched \"With Health, We All Win,\" providing public health guidance specifically tied to the 2026 tournament. The institutional record is genuine. Its governance logic, however, has boundaries. The FIFA-WHO MOU, for instance, explicitly states that it creates no legally binding commitments on either party and that implementation depends on the availability of resources from both sides. This is standard language for such instruments, designed to coordinate intentions, not to bind conduct.",
+          "cn": "今年，泛美卫生组织发起了“健康，我们共赢”活动，提供了专门针对2026年世界杯的公共卫生指导。机构记录是真实的。然而，其治理逻辑存在边界。例如，FIFA-WHO谅解备忘录明确声明，它不对任何一方产生具有法律约束力的承诺，且实施取决于双方资源的可用性。这是此类文书的标准语言，旨在协调意图，而非约束行为。"
         },
         {
-          "en": "In response to the issue, Senior Colonel Jiang Bin, spokesperson for China's Ministry of National Defense, stated that under the {{22}} of addressing so-called “security threats,” the Japanese authorities are vigorously advancing the {{23}} and {{24}} of their intelligence agencies. This move is closely aligned with a series of measures aimed at expanding military capabilities and reinforcing armaments. In essence, Japan is building an intelligence system tailored for military expansion and war preparedness, which poses significant risks to peace and stability in the Asia-Pacific region and the world at large. Jiang stressed that the international community must remain highly {{25}}, firmly prevent Japan’s right-wing forces from breaking free of the constraints of the postwar system, and stop their attempts to revive militarism.",
-          "cn": "针对此事，中国国防部新闻发言人姜彬大校表示，日本当局以应对所谓“安全威胁”为借口，大力推进情报机构的集中化和军事化。这一举措与其一系列旨在扩大军事能力、加强军备的措施密切配合。实质上，日本正在构建一个为军事扩张和战争准备量身定制的情报体系，这对亚太地区乃至世界的和平与稳定构成重大风险。姜彬强调，国际社会必须保持高度警惕，坚决防止日本右翼势力摆脱战后体制的束缚，阻止其复活军国主义的企图。"
+          "en": "The Qatar model carries its own conditions. Pillar Three of the MOU speaks of endeavoring to obtain the collaboration of host country representatives, which reads as an aspiration rather than a requirement. What Qatar demonstrated was that deep operational integration is achievable when a host government chooses to invest in it. The 2026 edition showed how {{19}} that condition can be. CNN reported in May that the US federal government allocated $625 million to host cities through FEMA's World Cup grant program, with public health receiving no dedicated federal funding.",
+          "cn": "卡塔尔模式有其自身条件。谅解备忘录的第三支柱提到“努力争取东道国代表的合作”，这读起来像是一种愿望而非要求。卡塔尔所展示的是，当东道国政府选择投资时，深度运营整合是可以实现的。2026年世界杯则展示了这一条件可能多么偶然。CNN在5月报道，美国联邦政府通过FEMA的世界杯拨款计划向主办城市拨款6.25亿美元，而公共卫生没有获得专门的联邦资金。"
+        },
+        {
+          "en": "City health officials across host cities confirmed they were working within existing budgets. The Qatar model, for all its value as a reference case, was not institutionally {{20}}. A young man waits outside Mongbwalu General Referral Hospital for a relative with Ebola in Mongbwalu in the eastern Democratic Republic of the Congo (DRC). /CFP\nAnother boundary concerns the scope of the framework. The existing arrangement embeds health considerations into event organization and communication, serving participants, fans, and host communities within the tournament.",
+          "cn": "各主办城市的卫生官员确认，他们是在现有预算内开展工作。卡塔尔模式尽管作为参考案例具有价值，但并未在制度上得到复制。在刚果民主共和国东部的蒙布瓦卢，一名年轻人在蒙布瓦卢总转诊医院外等待一位患有埃博拉病的亲属。/CFP\n另一个边界涉及框架的范围。现有安排将健康考虑嵌入赛事组织和传播中，服务于参赛者、球迷和赛事内的主办社区。"
+        },
+        {
+          "en": "The MOU does reference public health emergencies under the International Health Regulations, but only as a channel for WHO to provide FIFA with non-binding technical advice. That is an information pathway, not an action mechanism. It does not extend to health crises unfolding beyond the tournament's immediate geography. The Ebola outbreak spread throughout the 2026 World Cup, yet fell outside the scope of what the framework was built to address. Embedding global health objectives into major sporting media events is, at its core, a {{22}} governance strategy, leveraging the reach of sport to access audiences that health campaigns struggle to reach, at relatively low institutional cost.",
+          "cn": "谅解备忘录确实提到了《国际卫生条例》下的公共卫生紧急情况，但仅作为WHO向FIFA提供非约束性技术建议的渠道。那是一条信息路径，而非行动机制。它并未扩展到赛事直接地理范围之外发生的健康危机。埃博拉疫情在2026年世界杯期间持续蔓延，却超出了该框架旨在解决的范围。将全球健康目标嵌入大型体育媒体活动，本质上是一种务实的治理策略，利用体育的覆盖面来接触健康运动难以触及的受众，且机构成本相对较低。"
+        },
+        {
+          "en": "The logic is sound, and the limitations are equally structural: effectiveness depends on host country willingness, {{24}} rests on the sustained goodwill of both parties, and coverage extends only as far as the event itself. The tobacco {{25}} may offer one lens for thinking about how governance frameworks evolve. Sport dropped sponsorships because the WHO Framework Convention on Tobacco Control redesigned the rules to create binding {{26}} that progressively closed off space in international contexts. The shift from voluntary commitment to enforceable standard took roughly two decades and required a dedicated {{27}} instrument. The FIFA-WHO MOU sits at an earlier stage of that kind of evolution.",
+          "cn": "逻辑是合理的，局限性同样是结构性的：有效性取决于东道国的意愿，可执行性依赖于双方的持续善意，覆盖范围仅限于赛事本身。烟草先例可能为思考治理框架如何演进提供了一个视角。体育界放弃赞助是因为WHO《烟草控制框架公约》重新设计了规则，创造了具有约束力的义务，逐步在国际环境中关闭了空间。从自愿承诺到可执行标准的转变大约花了二十年，并需要专门的多边文书。FIFA-WHO谅解备忘录处于这种演进的早期阶段。"
+        },
+        {
+          "en": "The 2026 World Cup is over. The Ebola outbreak in the DRC is not. Spain will defend their title in 2030. Between now and then, the question of what a global sporting event of this scale can contribute to global health, and what institutional arrangements can credibly deliver on that potential, deserves more serious attention than it has so far received. The final whistle has blown on the tournament.",
+          "cn": "2026年世界杯已经结束。刚果（金）的埃博拉疫情尚未结束。西班牙将在2030年卫冕。从现在到那时，一个如此规模的全球体育赛事能为全球健康贡献什么，以及哪些制度安排能可信地实现这一潜力，这个问题值得比迄今所得到的更认真的关注。终场哨已为赛事吹响。"
+        },
+        {
+          "en": "On this other game, it has not.",
+          "cn": "在另一场比赛中，它还没有。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "unified",
-          "hint": "adj. 统一的",
+          "answer": "structural",
+          "hint": "adj. 结构性的",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "oversight",
-          "hint": "n. 监督",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "abuse",
-          "hint": "n. 滥用",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "erosion",
-          "hint": "n. 侵蚀",
+          "answer": "spectacles",
+          "hint": "n. 盛事，景象",
           "difficulty": "hard"
         },
         {
+          "id": 2,
+          "answer": "accelerating",
+          "hint": "adj. 加速的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "alliance",
+          "hint": "n. 联盟",
+          "difficulty": "easy"
+        },
+        {
           "id": 4,
-          "answer": "undermining",
-          "hint": "v. 削弱",
+          "answer": "strides",
+          "hint": "n. 进步",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "upgrading",
-          "hint": "v. 升级",
-          "difficulty": "medium"
+          "answer": "inherently",
+          "hint": "adv. 本质上",
+          "difficulty": "hard"
         },
         {
           "id": 6,
-          "answer": "predecessor",
-          "hint": "n. 前身",
+          "answer": "credibly",
+          "hint": "adv. 可信地",
           "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "legislation",
-          "hint": "n. 立法",
-          "difficulty": "medium"
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "easy"
         },
         {
           "id": 8,
-          "answer": "executive",
-          "hint": "adj. 执行的",
+          "answer": "synchronized",
+          "hint": "adj. 同步的",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "coordinate",
-          "hint": "v. 协调",
-          "difficulty": "medium"
+          "answer": "confirmed",
+          "hint": "adj. 确诊的",
+          "difficulty": "easy"
         },
         {
           "id": 10,
-          "answer": "controversy",
-          "hint": "n. 争议",
+          "answer": "stark",
+          "hint": "adj. 严峻的",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "scrutiny",
-          "hint": "n. 审查",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "suppressing",
-          "hint": "v. 压制",
+          "answer": "surpass",
+          "hint": "v. 超过",
           "difficulty": "medium"
         },
         {
-          "id": 13,
-          "answer": "mobilization",
-          "hint": "n. 动员",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "neglected",
-          "hint": "v. 忽视",
+          "id": 12,
+          "answer": "extending",
+          "hint": "v. 扩展",
           "difficulty": "easy"
         },
         {
+          "id": 13,
+          "answer": "practitioners",
+          "hint": "n. 从业者",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "medium"
+        },
+        {
           "id": 15,
-          "answer": "excessive",
-          "hint": "adj. 过度的",
+          "answer": "advocacy",
+          "hint": "n. 倡导",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "intervene",
-          "hint": "v. 干预",
-          "difficulty": "medium"
+          "answer": "alignment",
+          "hint": "n. 对齐",
+          "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "pursue",
-          "hint": "v. 追求",
-          "difficulty": "easy"
+          "answer": "surveillance",
+          "hint": "n. 监测",
+          "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "signals",
-          "hint": "v. 表明",
+          "answer": "embedded",
+          "hint": "v. 嵌入",
           "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "lifting",
-          "hint": "n. 解除",
-          "difficulty": "medium"
+          "answer": "contingent",
+          "hint": "adj. 依条件而定的",
+          "difficulty": "hard"
         },
         {
           "id": 20,
-          "answer": "lethal",
-          "hint": "adj. 致命的",
+          "answer": "replicated",
+          "hint": "v. 复制",
           "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "severe",
-          "hint": "adj. 严峻的",
+          "answer": "scope",
+          "hint": "n. 范围",
           "difficulty": "easy"
         },
         {
           "id": 22,
-          "answer": "pretext",
-          "hint": "n. 借口",
-          "difficulty": "hard"
+          "answer": "pragmatic",
+          "hint": "adj. 务实的",
+          "difficulty": "medium"
         },
         {
           "id": 23,
-          "answer": "centralization",
-          "hint": "n. 集中化",
+          "answer": "enforceability",
+          "hint": "n. 可执行性",
           "difficulty": "hard"
         },
         {
           "id": 24,
-          "answer": "militarization",
-          "hint": "n. 军事化",
-          "difficulty": "hard"
+          "answer": "precedent",
+          "hint": "n. 先例",
+          "difficulty": "medium"
         },
         {
           "id": 25,
-          "answer": "vigilant",
-          "hint": "adj. 警惕的",
+          "answer": "obligations",
+          "hint": "n. 义务",
           "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "multilateral",
+          "hint": "adj. 多边的",
+          "difficulty": "hard"
         }
       ],
-      "fullText": "(ECNS) --On July 31, the Japanese government officially established the “National Intelligence Bureau,” which will become the country’s first unified central intelligence agency.\nSeveral Japanese and foreign media outlets have warned that, the expansion of intelligence powers, coupled with a lack of effective oversight, could lead to the abuse of power, interference in domestic politics, and the erosion of civil liberties, while further undermining Japan’s postwar framework for security oversight.\nReshaping Japan’s Intelligence System?\nAccording to Japan’s Kyodo News, the National Intelligence Bureau, chaired by Japanese Prime Minister Sanae Takaichi and comprising nine cabinet ministers including Chief Cabinet Secretary Minoru Kihara, will hold its first meeting on July 31.\nAt a Cabinet meeting on July 24, the Japanese government had decided to appoint Kazuya Hara, the then Cabinet Intelligence Director, as the first head of the new agency.\nJapanese media reported that the National Intelligence Bureau was established by upgrading the Cabinet Intelligence and Research Office. The new bureau has an initial staff of around 730, roughly the same size as its predecessor. As the first director of this new bureau, 58-year-old Kazuya Hara joined the National Police Agency in 1990. He previously served as secretary to former Prime Minister Shinzo Abe and as director-general of the National Police Agency’s Security Bureau. Since 2023, he has served as Cabinet Intelligence Director.\nThe National Intelligence Bureau was established under the legislation passed the Diet (Japan's parliament) in May, which also created a “National Intelligence Council” that serves as the core body of Japan’s national intelligence system, while the National Intelligence Bureau functions as its executive office with broad authority to coordinate intelligence operations across government ministries and agencies.\nTriggering Japan’s and International Concerns?\nAccording to several Japanese media reports, the establishment of the “National Intelligence Bureau” sparked widespread controversy during the legislative process. Public concern has centered on the lack of effective oversights of the government’s intelligence-gathering activities.\nIn recent days, numerous Japanese citizens have taken to the streets in Tokyo to protest the establishment of the proposed National Intelligence Bureau, a move that warrants close scrutiny from both Asian nations and the broader international community.\nOne protester said that the National Intelligence Bureau, together with the proposed “Anti-Espionage Law,” could become legal tools for monitoring society and suppressing citizens. The ultimate goal, the protester claimed, is to create a wartime system characterized by “strict surveillance in peacetime and immediate mobilization in wartime,” turning Japan into a country prepared to wage and supports wars.\nMany Japanese internet users have also voiced dissatisfaction. One user wrote on social media: “(The Takaichi administration) has neglected disaster-striken communities and their victims, yet it has been remarkably active when it comes to preparing for war.”\nThe Times in the United Kingdom also reported on public concerns over the National Intelligence Bureau in Japan. Observers are particularly concerned that the new agency could lead to an excessive expansion of intelligence powers. How to prevent abuses of power and avoid repeating the mistakes of prewar intelligence apparatus will be among Japan’s biggest challenges.\nThe UK-based international news magazine The Week also noted that concerns in Japanese society mainly center on three issues: whether intelligence agencies could intervene in domestic politics, whether the scope of state surveillance could be expanded, and how to ensure the agency does not become a tool for the ruling party to pursue political interests.\nQatar-based Al Jazeera said the move signals that Japan is moving further away from the post-World War II security framework.\nThe Washington Post reported that the move represents a major step by the Japanese authorities to expand national security powers, following a significant increase in defense spending and the lifting of the ban on exports of lethal weapons.\nIn response to the criticism, the Japanese government has stressed that the move is intended to address what it described as a “severe security environment.” Liberal Democratic Party lawmaker Keitaro Ono has repeatedly argued that the goal of establishing the National Intelligence Bureau is to make Japan “safer.”\nHowever, Japanese human rights lawyer Tetsushi Hirai has warned that intelligence warfare itself is part of war, and civil liberties could come under serious pressure.\nIn response to the issue, Senior Colonel Jiang Bin, spokesperson for China's Ministry of National Defense, stated that under the pretext of addressing so-called “security threats,” the Japanese authorities are vigorously advancing the centralization and militarization of their intelligence agencies. This move is closely aligned with a series of measures aimed at expanding military capabilities and reinforcing armaments. In essence, Japan is building an intelligence system tailored for military expansion and war preparedness, which poses significant risks to peace and stability in the Asia-Pacific region and the world at large.\nJiang stressed that the international community must remain highly vigilant, firmly prevent Japan’s right-wing forces from breaking free of the constraints of the postwar system, and stop their attempts to revive militarism.",
-      "fullTextCn": "（中新网）--7月31日，日本政府正式设立“国家情报局”，这将成为该国首个统一的中央情报机构。多家日本及外国媒体警告称，情报权力的扩张，加之缺乏有效监督，可能导致权力滥用、干涉国内政治、侵蚀公民自由，并进一步破坏日本战后安全保障监督框架。重塑日本情报体系？据日本共同社报道，由国家情报局局长、日本首相高市早苗主持，包括官房长官木原稔在内的九名内阁大臣组成的国家情报局，将于7月31日召开首次会议。在7月24日的内阁会议上，日本政府已决定任命时任内阁情报官原和也为新机构的首任负责人。\n\n日本媒体报道称，国家情报局是在升级内阁情报调查室的基础上设立的。新机构初期编制约730人，规模与其前身大致相当。作为新机构的首任局长，58岁的原和也于1990年加入警察厅。他曾担任前首相安倍晋三的秘书，并曾任警察厅警备局局长。自2023年起，他担任内阁情报官。\n\n国家情报局是根据日本国会5月通过的立法设立的，该立法还设立了“国家情报委员会”，作为日本国家情报体系的核心机构，而国家情报局则作为其执行办公室，拥有协调政府各部门情报行动的广泛权力。引发日本国内及国际关切？据多家日本媒体报道，“国家情报局”的设立在立法过程中引发了广泛争议。公众的担忧主要集中在政府情报收集活动缺乏有效监督上。近日，众多日本民众走上东京街头，抗议设立拟议中的国家情报局，此举值得亚洲国家及更广泛的国际社会密切关注。\n\n一名抗议者表示，国家情报局连同拟议中的《反间谍法》，可能成为监控社会和压制公民的法律工具。抗议者声称，其最终目标是建立一种以“平时严密监控、战时立即动员”为特征的战时体制，将日本变成一个准备发动和支持战争的国家。许多日本网民也表达了不满。一位用户在社交媒体上写道：“（高市政府）忽视了受灾社区及其受害者，但在备战方面却异常积极。”英国《泰晤士报》也报道了日本民众对国家情报局的担忧。观察人士尤其担心，新机构可能导致情报权力过度扩张。\n\n如何防止权力滥用、避免重蹈战前情报机构的覆辙，将成为日本面临的最大挑战之一。英国国际新闻杂志《周刊》也指出，日本社会的担忧主要集中在三个问题上：情报机构是否会干预国内政治，国家监控的范围是否会扩大，以及如何确保该机构不会成为执政党谋取政治利益的工具。卡塔尔半岛电视台表示，此举标志着日本正进一步偏离二战后安全保障框架。《华盛顿邮报》报道称，此举是日本当局在国防开支大幅增加和解除致命武器出口禁令之后，扩大国家安全权力的又一重大步骤。针对批评，日本政府强调，此举旨在应对其所称的“严峻安全环境”。自民党议员小野启太郎一再辩称，设立国家情报局的目标是让日本“更安全”。然而，日本人权律师平井哲志警告说，情报战本身就是战争的一部分，公民自由可能面临严重压力。\n\n针对此事，中国国防部新闻发言人姜彬大校表示，日本当局以应对所谓“安全威胁”为借口，大力推进情报机构的集中化和军事化。这一举措与其一系列旨在扩大军事能力、加强军备的措施密切配合。实质上，日本正在构建一个为军事扩张和战争准备量身定制的情报体系，这对亚太地区乃至世界的和平与稳定构成重大风险。姜彬强调，国际社会必须保持高度警惕，坚决防止日本右翼势力摆脱战后体制的束缚，阻止其复活军国主义的企图。"
+      "fullText": "Editor's Note: In this article, Wu Yanni and Zhou Qing'an, researchers from the Global Development and Health Communication Center at China's Tsinghua University, examine the structural divide between global sports spectacles and acute public health crises. Drawing on the stark contrast between the conclusion of the 2026 FIFA World Cup and the accelerating Ebola outbreak in the Democratic Republic of the Congo, they argue that while institutional partnerships like the FIFA-WHO alliance have made meaningful strides in health advocacy and host-nation protocols, they remain inherently limited by non-binding commitments, host-government resource dependencies, and an inward-facing scope. They call for a more serious examination and evolution of international governance frameworks to credibly turn mass media platforms into sustainable mechanisms for addressing broader, global-scale health emergencies.\nWhen Spain claimed their second World Cup title at MetLife Stadium in New Jersey on July 19, over 80,000 fans in the stadium and billions worldwide captured the moment. Across 39 days, 48 teams, and 104 matches spread across the United States, Canada, and Mexico, the 2026 FIFA World Cup drew what is likely the largest synchronized global audience in history.\nOn the same day, the World Health Organization's data showed that the Bundibugyo Ebola outbreak in the Democratic Republic of the Congo had reached 2,344 confirmed cases and 930 deaths. Two days earlier, WHO Director-General Tedros Adhanom Ghebreyesus had issued a stark warning that this was the fastest-spreading Ebola outbreak on record. The 2018 North Kivu outbreak took more than ten months to surpass 2,000 confirmed cases, while this one took two. On June 24, France confirmed a case in a physician returning from the DRC, a sign that the outbreak's reach was extending beyond Central Africa.\nThese two realities shared the same day without sharing the same conversation. The competition for global attention between sporting spectacle and public health crisis is a familiar struggle for global health practitioners, who have long sought to turn moments of mass engagement into opportunities for better health communication and governance. Those efforts have produced results. The question of what the World Cup can do for global health is not unanswered; it has generated a body of institutional work that deserves to be examined on its own terms.\nA FIFA logo alongside World Health Organisation on a LED advertisement board. /CFP\nIn October 2019, FIFA and WHO signed a Memorandum of Understanding, renewed in May 2023. The MOU covers health advocacy, policy alignment, tournament health legacy, and equity, and goes further than commonly recognized in one respect: it explicitly includes WHO providing FIFA with technical advice on public health emergencies under the International Health Regulations (2005). Across successive tournaments, the partnership has produced measurable results, from anti-tobacco messaging reaching hundreds of millions through World Cup broadcasts to mental health campaigns woven into match programming.\nThe Qatar 2022 World Cup represented the deepest institutional expression of this framework to date. FIFA, WHO, and the Qatar Ministry of Public Health established a three-party Sport for Health arrangement that embedded public health directly into tournament operations – including dedicated infectious disease surveillance, mass gathering health protocols, and risk communication systems. WHO's 2024 report, Changing the Game: Strengthening Health and Well-being through Sport, documented the Qatar model as a reference case for future major events, describing it as an example of embedding health objectives into planning, implementation, and legacy evaluation. This year, the Pan American Health Organization launched \"With Health, We All Win,\" providing public health guidance specifically tied to the 2026 tournament.\nThe institutional record is genuine. Its governance logic, however, has boundaries.\nThe FIFA-WHO MOU, for instance, explicitly states that it creates no legally binding commitments on either party and that implementation depends on the availability of resources from both sides. This is standard language for such instruments, designed to coordinate intentions, not to bind conduct.\nThe Qatar model carries its own conditions. Pillar Three of the MOU speaks of endeavoring to obtain the collaboration of host country representatives, which reads as an aspiration rather than a requirement. What Qatar demonstrated was that deep operational integration is achievable when a host government chooses to invest in it. The 2026 edition showed how contingent that condition can be. CNN reported in May that the US federal government allocated $625 million to host cities through FEMA's World Cup grant program, with public health receiving no dedicated federal funding. City health officials across host cities confirmed they were working within existing budgets. The Qatar model, for all its value as a reference case, was not institutionally replicated.\nA young man waits outside Mongbwalu General Referral Hospital for a relative with Ebola in Mongbwalu in the eastern Democratic Republic of the Congo (DRC). /CFP\nAnother boundary concerns the scope of the framework. The existing arrangement embeds health considerations into event organization and communication, serving participants, fans, and host communities within the tournament. The MOU does reference public health emergencies under the International Health Regulations, but only as a channel for WHO to provide FIFA with non-binding technical advice. That is an information pathway, not an action mechanism. It does not extend to health crises unfolding beyond the tournament's immediate geography. The Ebola outbreak spread throughout the 2026 World Cup, yet fell outside the scope of what the framework was built to address.\nEmbedding global health objectives into major sporting media events is, at its core, a pragmatic governance strategy, leveraging the reach of sport to access audiences that health campaigns struggle to reach, at relatively low institutional cost. The logic is sound, and the limitations are equally structural: effectiveness depends on host country willingness, enforceability rests on the sustained goodwill of both parties, and coverage extends only as far as the event itself.\nThe tobacco precedent may offer one lens for thinking about how governance frameworks evolve. Sport dropped sponsorships because the WHO Framework Convention on Tobacco Control redesigned the rules to create binding obligations that progressively closed off space in international contexts. The shift from voluntary commitment to enforceable standard took roughly two decades and required a dedicated multilateral instrument. The FIFA-WHO MOU sits at an earlier stage of that kind of evolution.\nThe 2026 World Cup is over. The Ebola outbreak in the DRC is not. Spain will defend their title in 2030. Between now and then, the question of what a global sporting event of this scale can contribute to global health, and what institutional arrangements can credibly deliver on that potential, deserves more serious attention than it has so far received. The final whistle has blown on the tournament. On this other game, it has not.",
+      "fullTextCn": "编者按：本文中，来自清华大学全球发展与健康传播中心的研究员吴燕妮和周庆安，审视了全球体育盛事与急性公共卫生危机之间的结构性鸿沟。他们利用2026年FIFA世界杯结束与刚果民主共和国埃博拉疫情加速蔓延之间的鲜明对比，认为尽管像FIFA-WHO联盟这样的机构伙伴关系在健康倡导和主办国规程方面取得了有意义的进展，但其本质上仍受限于非约束性承诺、主办国政府资源依赖以及内向型的范围。他们呼吁更认真地审视和演进国际治理框架，以可信地将大众媒体平台转变为应对更广泛、全球规模健康紧急情况的可持续机制。当西班牙于7月19日在新泽西州大都会人寿体育场夺得他们的第二个世界杯冠军时，体育场内的8万多名球迷和全球数十亿人捕捉到了这一时刻。在跨越美国、加拿大和墨西哥的39天里，48支球队和104场比赛，2026年FIFA世界杯吸引了可能是历史上最大规模的同步全球观众。\n\n同一天，世界卫生组织的数据显示，刚果民主共和国的本迪布焦埃博拉疫情已达到2344例确诊病例和930例死亡。两天前，世卫组织总干事谭德塞发出严厉警告，称这是有记录以来传播最快的埃博拉疫情。2018年的北基伍疫情用了超过十个月才超过2000例确诊病例，而这次只用了两个月。6月24日，法国确认一名从刚果（金）返回的医生感染，这表明疫情的影响范围正在超越中非。这两种现实共享同一天，却没有共享同一个对话。\n\n体育盛事与公共卫生危机之间对全球注意力的竞争，对全球健康从业者来说是一场熟悉的斗争，他们长期以来一直寻求将大众参与的时刻转化为更好的健康传播和治理机会。这些努力已经产生了成果。世界杯能为全球健康做什么的问题并非没有答案；它已经产生了一系列值得按其自身条件审视的机构工作。一块FIFA标志与世卫组织标志并排出现在LED广告牌上。/CFP\n2019年10月，FIFA和WHO签署了一份谅解备忘录，并于2023年5月续签。\n\n该谅解备忘录涵盖健康倡导、政策对齐、赛事健康遗产和公平性，并在一个方面比通常认识到的更进一步：它明确包括WHO根据《国际卫生条例（2005）》向FIFA提供公共卫生紧急情况的技术建议。在连续多届赛事中，这一伙伴关系已产生可衡量的成果，从通过世界杯转播覆盖数亿人的反烟草信息，到融入比赛节目的心理健康运动。2022年卡塔尔世界杯代表了该框架迄今为止最深入的制度表达。FIFA、WHO和卡塔尔公共卫生部建立了三方“体育促进健康”安排，将公共卫生直接嵌入赛事运营——包括专门的传染病监测、大规模集会健康规程和风险沟通系统。WHO的2024年报告《改变游戏：通过体育加强健康和福祉》将卡塔尔模式记录为未来大型活动的参考案例，描述其为将健康目标嵌入规划、实施和遗产评估的范例。\n\n今年，泛美卫生组织发起了“健康，我们共赢”活动，提供了专门针对2026年世界杯的公共卫生指导。机构记录是真实的。然而，其治理逻辑存在边界。例如，FIFA-WHO谅解备忘录明确声明，它不对任何一方产生具有法律约束力的承诺，且实施取决于双方资源的可用性。这是此类文书的标准语言，旨在协调意图，而非约束行为。\n\n卡塔尔模式有其自身条件。谅解备忘录的第三支柱提到“努力争取东道国代表的合作”，这读起来像是一种愿望而非要求。卡塔尔所展示的是，当东道国政府选择投资时，深度运营整合是可以实现的。2026年世界杯则展示了这一条件可能多么偶然。CNN在5月报道，美国联邦政府通过FEMA的世界杯拨款计划向主办城市拨款6.25亿美元，而公共卫生没有获得专门的联邦资金。\n\n各主办城市的卫生官员确认，他们是在现有预算内开展工作。卡塔尔模式尽管作为参考案例具有价值，但并未在制度上得到复制。在刚果民主共和国东部的蒙布瓦卢，一名年轻人在蒙布瓦卢总转诊医院外等待一位患有埃博拉病的亲属。/CFP\n另一个边界涉及框架的范围。现有安排将健康考虑嵌入赛事组织和传播中，服务于参赛者、球迷和赛事内的主办社区。\n\n谅解备忘录确实提到了《国际卫生条例》下的公共卫生紧急情况，但仅作为WHO向FIFA提供非约束性技术建议的渠道。那是一条信息路径，而非行动机制。它并未扩展到赛事直接地理范围之外发生的健康危机。埃博拉疫情在2026年世界杯期间持续蔓延，却超出了该框架旨在解决的范围。将全球健康目标嵌入大型体育媒体活动，本质上是一种务实的治理策略，利用体育的覆盖面来接触健康运动难以触及的受众，且机构成本相对较低。\n\n逻辑是合理的，局限性同样是结构性的：有效性取决于东道国的意愿，可执行性依赖于双方的持续善意，覆盖范围仅限于赛事本身。烟草先例可能为思考治理框架如何演进提供了一个视角。体育界放弃赞助是因为WHO《烟草控制框架公约》重新设计了规则，创造了具有约束力的义务，逐步在国际环境中关闭了空间。从自愿承诺到可执行标准的转变大约花了二十年，并需要专门的多边文书。FIFA-WHO谅解备忘录处于这种演进的早期阶段。\n\n2026年世界杯已经结束。刚果（金）的埃博拉疫情尚未结束。西班牙将在2030年卫冕。从现在到那时，一个如此规模的全球体育赛事能为全球健康贡献什么，以及哪些制度安排能可信地实现这一潜力，这个问题值得比迄今所得到的更认真的关注。终场哨已为赛事吹响。\n\n在另一场比赛中，它还没有。"
     },
     {
       "id": 2,
-      "category": "education",
+      "category": "society",
       "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-07-31/detail-ihfhvays7506762.shtml",
-      "title": "Beyond geopolitics: Why Chinese language education should not become a casualty of strategic competition",
-      "titleCn": "超越地缘政治：为何中文教育不应成为战略竞争的牺牲品",
-      "summary": "In today’s polarized world, almost every interaction with China is read through geopolitics.",
-      "summaryCn": "本文呼吁在战略竞争背景下，不应将暨南大学在菲律宾的中文教育视为政治工具，而应尊重其百年历史与华人贡献，坚持学术公正与文化理解。",
-      "wordCount": 633,
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-08-02/detail-ihfhvays7507238.shtml",
+      "title": "Ten trips to Xinjiang: A foreign vlogger's discoveries challenge Western narratives",
+      "titleCn": "十次新疆之旅：外国博主的发现挑战西方叙事",
+      "summary": "\"Somebody already paid for you. You're a foreigner. You're a guest. Welcome.\"\nThis is something Colombian vlogger Fernando Munoz Bernal frequently hears during his travel in Xinjiang.\nFor years, swayed by inaccurate Western media coverage, many people in the international community have harbored misconceptions and stereotypes about Xinjiang.\nTo Munoz, the people of Xinjiang are \"some of the kindest people\" that he has seen, and Xinjiang is a diverse land that is well worth exploring. In his view, to know the real Xinjiang, one must “travel and see for yourself.”",
+      "summaryCn": "哥伦比亚博主费尔南多·穆尼奥斯通过十次新疆之旅，用亲身经历反驳了西方媒体的不实报道，呼吁人们亲自旅行以了解真实的新疆。",
+      "wordCount": 1106,
       "paragraphs": [
         {
-          "en": "In today’s {{0}} world, almost every interaction with China is read through geopolitics. Universities, research institutes, cultural exchanges—even language classrooms—are too often cast as arenas of strategic {{1}} rather than spaces of learning. As Director of the Center for Philippine Studies at Jinan University, I have spent my career studying Philippine history, society, and China–Philippines relations. One lesson is clear: {{2}} relations cannot rest on diplomacy alone. They require {{3}} understanding, educational exchange, and people-to-people ties.",
-          "cn": "在当今两极分化的世界中，几乎每一次与中国的互动都被从地缘政治的角度解读。大学、研究机构、文化交流——甚至语言课堂——常常被描绘成战略竞争的舞台，而非学习的空间。作为暨南大学菲律宾研究中心主任，我的职业生涯一直致力于研究菲律宾历史、社会以及中菲关系。一个教训是明确的：可持续的关系不能仅靠外交维系。它们需要相互理解、教育交流和民间交往。"
+          "en": "(ECNS)-- \"Somebody already paid for you. You're a foreigner. You're a guest. Welcome.\"\nThis is something Colombian vlogger Fernando Munoz Bernal frequently hears during his travel in Xinjiang. For years, {{0}} by inaccurate Western media coverage, many people in the international community have {{1}} misconceptions and {{2}} about Xinjiang.",
+          "cn": "（中新网）——“已经有人替你付了。你是外国人，是客人。欢迎。”这是哥伦比亚博主费尔南多·穆尼奥斯·贝纳尔在新疆旅行时经常听到的话。多年来，受西方媒体不实报道的影响，国际社会许多人一直对新疆抱有误解和刻板印象。"
         },
         {
-          "en": "Thus, it is troubling to see a recent commentary by the U.S.-based think tank SeaLight frame Jinan University’s Chinese-language education in the Philippines as part of China’s United Front strategy. Such {{4}} ignores more than a century of educational {{5}} and the lived experience of Chinese Filipinos. Founded in 1906, Jinan University is China’s oldest institution created for overseas Chinese. Its first students came from Java. The name “Jinan” means “facing Nanyang,” {{6}} its mission to serve overseas Chinese communities.",
-          "cn": "因此，看到美国智库“海光”最近的一篇评论将暨南大学在菲律宾的中文教育定性为中国统一战线战略的一部分，令人不安。这种简化论忽视了一个多世纪的教育参与和菲律宾华人华侨的真实经历。暨南大学成立于1906年，是中国为海外华人创办的最古老的学府。它的第一批学生来自爪哇。“暨南”意为“面向南洋”，象征着其为海外华人社区服务的使命。"
+          "en": "To Munoz, the people of Xinjiang are \"some of the kindest people\" that he has seen, and Xinjiang is a {{3}} land that is well worth exploring. In his view, to know the real Xinjiang, one must \"travel and see for yourself.\"\nRecently, he joined China News Network's News Lounge to share what he saw and felt in his Xinjiang journey. Traveling 150,000 kilometers: Discovering real rural China\nIn 2022, after semi-retiring, Munoz {{4}} on an extensive road trip across rural China. Over the past four years, his travels throughout the countryside have added up to more than 150,000 kilometers. \"Not too many people have been to those places and not too many people know a little bit of the history of China or China as a whole to be able to give some sort of {{5}} commentary,\" noted Munoz to explain why he started his journey.",
+          "cn": "对穆尼奥斯来说，新疆人民是他见过的“最善良的人”之一，新疆是一片值得探索的多元土地。在他看来，要了解真实的新疆，必须“亲自旅行和亲眼看看”。最近，他参加了中国新闻网《新闻会客厅》节目，分享他在新疆的所见所感。行程15万公里：发现真实的中国农村。2022年，半退休后，穆尼奥斯开始了穿越中国农村的广泛公路旅行。过去四年，他在乡村的旅行累计超过15万公里。“没有多少人去过那些地方，也没有多少人了解中国历史或中国整体，能够给出有见地的评论，”穆尼奥斯解释他为何开始这段旅程。"
         },
         {
-          "en": "In 1927, it established the Nanyang Cultural and Educational Division; in 1929, Chinese Filipino students published The Philippines, China’s first journal on the country. These {{7}} predate the People’s Republic, the Cold War, and today’s strategic competition. For 120 years, Jinan’s mission has been consistent: educate overseas Chinese, advance scholarship, and preserve language and culture. This {{8}} deserves recognition before political labels are imposed. Chinese-language education is only part of Jinan’s broader academic {{9}}.",
-          "cn": "1927年，该校设立了南洋文化教育部门；1929年，菲律宾华人学生出版了《菲律宾》，这是中国第一本关于该国的期刊。这些里程碑都早于中华人民共和国、冷战和当今的战略竞争。120年来，暨南的使命始终如一：教育海外华人、推进学术研究、保护语言和文化。在贴上政治标签之前，这种连续性值得认可。中文教育只是暨南更广泛的学术生态系统的一部分。"
+          "en": "He picked up his camera to {{6}} local customs along the way, focusing on capturing small yet meaningful changes {{7}} in rural areas. A series of documentary videos posted on social media have allowed many viewers to see a different side of China through his lens. Before arriving in China, almost everything Munoz knew about the country came from Western media reports. Yet after setting foot here, he realized what he had heard was vastly different from what he saw with his own eyes. Many {{8}} in the West cling to the stereotype that rural China remains {{9}} in poverty.",
+          "cn": "他拿起相机记录沿途的风土人情，专注于捕捉农村地区正在发生的小而深刻的变化。在社交媒体上发布的一系列纪录片视频，让许多观众通过他的镜头看到了中国的另一面。在来中国之前，穆尼奥斯对中国的了解几乎全部来自西方媒体报道。然而，踏上这片土地后，他意识到他所听到的与他亲眼所见大相径庭。西方许多叙事固守中国农村仍深陷贫困的刻板印象。"
         },
         {
-          "en": "The university is a leader in social sciences, conducting research on overseas Chinese history, migration, {{10}}, literature, economics, international relations, media, and Southeast Asian studies. It hosts China’s only Ministry of Education Key Research Base for Overseas Chinese Studies. This reflects a genuine academic commitment, not simply language training. Ironically, global academia increasingly values migration and diaspora studies. To dismiss them when they involve China {{11}} intellectual fairness.",
-          "cn": "该大学是社会科学领域的领导者，开展关于海外华人历史、移民、侨民、文学、经济、国际关系、媒体和东南亚研究的研究。它拥有中国唯一的教育部华侨华人研究重点研究基地。这反映了真正的学术承诺，而不仅仅是语言培训。讽刺的是，全球学术界越来越重视移民和侨民研究。当这些研究涉及中国时却加以否定，这损害了学术公正。"
+          "en": "But what Fernando has witnessed along his travels tells another story. Most rural families live in {{10}}, comfortable brick-and-mortar houses, paved roads reach every village, and modern {{11}} like air conditioners, water heaters, and solar panels have become standard. Even remote {{12}} enjoy stable 5G connectivity. Development takes time, as Munoz put it. He added, \"It doesn't happen overnight.",
+          "cn": "但费尔南多沿途所见却讲述了另一个故事。大多数农村家庭住在坚固舒适的砖瓦房中，柏油路通到每个村庄，空调、热水器和太阳能板等现代设施已成为标配。即使是偏远的村庄也享有稳定的5G连接。发展需要时间，正如穆尼奥斯所说。他补充道：“这不是一夜之间发生的。每个地区都不同，但道路就在那里。可能性就在那里。”"
         },
         {
-          "en": "Missing from SeaLight’s analysis is the perspective of Chinese Filipinos. Chinese communities have lived in the Philippines for centuries. Binondo, established in the late sixteenth century, is the world’s oldest Chinatown—a reminder that Chinese–Filipino interaction predates the modern nation-state. Over generations, Chinese Filipinos have become {{12}} to Philippine society. They built schools, hospitals, charities, and businesses.",
-          "cn": "海光的分析中缺失的是菲律宾华人的视角。华人社区在菲律宾生活了几个世纪。建于十六世纪末的岷伦洛是世界上最古老的唐人街——这提醒我们，中菲互动早于现代民族国家。经过几代人，菲律宾华人已成为菲律宾社会不可或缺的一部分。他们建立了学校、医院、慈善机构和商业。"
+          "en": "Every region is different but the path is there. The possibility is there.\"\nTen visits to Xinjiang: Uncovering the distorted truth\nSpeaking of Munoz's travels across China, Xinjiangholds a special place in his journey across China, where he encountered countless {{13}} moments. On several occasions, when he finished a meal and prepared to pay, it turned out that someone had secretly settled his bill. No matter how he pressed for details, restaurant staff declined to name the kind stranger. They simply smiled and told him, \"No, you're a foreigner.",
+          "cn": "十次新疆之旅：揭开被扭曲的真相。谈到穆尼奥斯在中国的旅行，新疆在他的旅程中占有特殊地位，他在那里遇到了无数暖心的时刻。有几次，当他吃完饭准备付钱时，发现有人已经悄悄替他结了账。无论他如何追问细节，餐馆工作人员都拒绝透露那位好心人的名字。他们只是微笑着告诉他：“不，你是外国人。你是客人。欢迎……”他经历过许多这样感人的遭遇。至今，穆尼奥斯仍不知道这些陌生人是谁。这些意想不到的温暖举动描绘了他所经历的真实新疆，与他曾在媒体报道中遇到的描述形成鲜明对比。谈到美国所谓的《维吾尔强迫劳动预防法》，他注意到该法案要求新疆产品证明不是用强迫劳动制造的。"
         },
         {
-          "en": "They contributed to commerce, manufacturing, education, science, healthcare, journalism, and public service. Their {{13}} and disaster relief have aided countless families. These contributions never required abandoning cultural {{14}}. Maintaining Chinese language and traditions has not made them less Filipino. My Chinese Filipino friends are proud citizens, secure in their national identity, while also preserving their ethnic culture.",
-          "cn": "他们为商业、制造业、教育、科学、医疗保健、新闻和公共服务做出了贡献。他们的慈善和救灾援助帮助了无数家庭。这些贡献从未要求放弃文化遗产。保持中文和传统并没有使他们减少菲律宾人的身份。我的菲律宾华人朋友是自豪的公民，对自己的国家认同充满信心，同时也保留着自己的民族文化。"
+          "en": "You're a guest. Welcome...\" He has experienced many such touching encounters. To this day, Munoz still has no clue who these strangers were. Such unexpected acts of warmth paint the real Xinjiang as he experiences it, a {{14}} contrast to the portrayals he once encountered in media reports. Referring to the so-called Uygur Forced Labor Prevention Act enacted by the United States, he noticed that the Act requires products from Xinjiang to prove that they are not made with forced labor.",
+          "cn": "这种做法相当于先下结论再找证据。这违背了标准的法律逻辑，也违背了美国自己倡导的无罪推定原则。对此，穆尼奥斯评论道：“新疆受到了不同的对待。”关于西方媒体长期炒作的“种族灭绝”指控，他进一步指出维吾尔族人口几十年来稳步增长，并辩称：“这绝对说不通。这毫无道理。”他曾十次前往新疆，走访了南北疆40多个市县。他对这里情况的了解远超那些提出指控的人。"
         },
         {
-          "en": "This reality deserves respect, not suspicion. The Philippines itself illustrates why multilingual education matters. As one of Asia’s most linguistically diverse societies, it has long valued cultural and linguistic diversity. Chinese-language education exists alongside Filipino, English, and numerous regional and indigenous languages. Research emphasizes cultivating local teachers and integrating Chinese-language education into Philippine development, not treating it as a political tool.",
-          "cn": "这一现实值得尊重，而非怀疑。菲律宾本身说明了多语言教育的重要性。作为亚洲语言最多样化的社会之一，它长期以来重视文化和语言的多样性。中文教育与菲律宾语、英语以及众多地区和土著语言并存。研究强调培养本地教师并将中文教育融入菲律宾发展，而不是将其视为政治工具。"
+          "en": "Such an approach amounts to drawing conclusions first and then searching for evidence. It runs counter to standard legal logic and contradicts the presumption of innocence advocated by the United States itself. At this point, Munoz commented, \"Xinjiang is treated differently.\"\nRegarding the long-hyped {{15}} of \"{{16}}\" flared by Western media, he further pointed to the steady growth of the Uygur population over decades and argued, \"It doesn’t make absolute anything. It just doesn't make sense.\"\nHe has traveled to Xinjiang ten times, visiting more than 40 cities and counties across northern and southern Xinjiang. He knows far more about what is taking place here than those leveling such accusations.",
+          "cn": "至于“文化灭绝”的说法，他指着人民币纸币上印的维吾尔文字，以及新疆广播和电视节目中使用这种语言。他质疑有什么证据支持文化灭绝的说法。这些都是任何人只要去新疆打开收音机就能验证的日常事实。他说话时带着一丝困惑。他无法理解为什么有些人选择忽视显而易见的事实，却编造谣言并如此笃定地陈述。"
         },
         {
-          "en": "Learning ancestral languages is neither unusual nor uniquely Chinese. Heritage-language education worldwide allows communities to preserve culture while participating fully in national life. This principle aligns with internationally recognized cultural and educational rights. Chinese-language education should be judged by the same standard. China and the Philippines have differences.",
-          "cn": "学习祖辈的语言既不是不寻常的，也不是中国独有的。世界各地的传承语言教育允许社区在充分参与国家生活的同时保留文化。这一原则符合国际公认的文化和教育权利。中文教育应该以同样的标准来评判。中国和菲律宾存在分歧。"
+          "en": "As for the claims of \"cultural genocide\", he pointed to the Uygur letters printed on Chinese banknotes, and the use of this language on Xinjiang radios and television programs. He questioned what evidence supported the claims of cultural genocide. These are everyday facts that anyone can verify simply by traveling to Xinjiang and turning on a radio. He spoke with a tinge of confusion. He could not understand why some people choose to ignore readily observable realities yet {{17}} rumors and state them with such {{18}}.",
+          "cn": "分享个人观察和经历时，他努力抑制愤怒，并为在镜头前情绪激动向观众道歉。他指出，即使在2022年发布的联合国人权报告中，也找不到“种族灭绝”一词。抹黑新疆的提法都以“这可能正在发生”“这可能正在发生”等不确定语言开头，没有任何确凿证据。在他看来，在猜测和道听途说的背景下，亲身前往该地区是了解真实新疆的唯一途径。镜头之外：希望更多游客前往新疆。作为长期致力于纪录片内容的博主，穆尼奥斯在旅途中遇到了许多实际障碍，并经历了持续的内心挣扎。"
         },
         {
-          "en": "Maritime disputes require dialogue. But it would be a mistake to let disagreements define every aspect of relations. Universities do not negotiate territorial claims. Teachers do not set foreign policy but they teach, research, and foster understanding. SeaLight is entitled to question Jinan University.",
-          "cn": "海洋争端需要对话。但让分歧定义关系的每一个方面将是一个错误。大学不谈判领土主张。教师不制定外交政策，但他们教学、研究和促进理解。海光有权质疑暨南大学。"
+          "en": "Sharing his personal observations and experiences, he struggled to hold back his anger and apologized to the audience for his intense emotions on camera. He noted that even in the United Nations human rights report released in 2022, the term \"genocide\" cannot be found. References smearing Xinjiang are prefaced by \"This could be happening\", \"This may be happening\" and other uncertain languages without any conclusive evidence. From his perspective, against a backdrop of speculation and hearsay, firsthand travel to the region is the only path to understanding authentic Xinjiang. Beyond the lens: Hoping more visitors will travel to Xinjiang\nAs a vlogger long dedicated to documentary content, Munoz has encountered many practical obstacles during his journey and endured constant inner struggles.",
+          "cn": "他说，一些西方社交媒体平台存在微妙而系统的压制机制。每当他的内容与西方主流反华叙事相悖，尤其是展示新疆真实面貌的现场镜头时，算法就会悄悄限制他的传播，大幅削弱视频的影响力。他说：“我的YouTube频道大约有4.5万订阅者，但视频只有200次、300次观看。这完全不合逻辑。这说不通。”"
         },
         {
-          "en": "But rigorous scholarship demands more than {{15}}. It requires historical perspective, {{16}} balance, and fairness. Criticism is strongest when evidence leads, not when suspicion dictates. For more than a century, Jinan University has connected overseas Chinese communities with language, culture, and knowledge. That mission has remained consistent across political eras.",
-          "cn": "但严谨的学术研究要求的不仅仅是怀疑。它需要历史视角、方法论平衡和公正。当证据引领而非怀疑主导时，批评最为有力。一个多世纪以来，暨南大学通过语言、文化和知识将海外华人社区联系起来。这一使命在政治时代变迁中始终保持一致。"
+          "en": "He said that some Western social media platforms operate subtle, systematic {{19}} mechanisms. Whenever his content runs counter to prevailing Western anti-China narratives, especially on-location footage showing the true face of Xinjiang, algorithms quietly {{20}} his reach, drastically {{21}} the videos' impact. \"I have about 45,000 subscribers on my YouTube channel and I was getting 200 views, 300 views. Something that is just illogical. It just doesn’t make sense,\" he remarked.",
+          "cn": "但他没有气馁，继续通过镜头记录和呈现他所看到的一切。他热情地谈论新疆：“你应该来新疆。就这么简单。你不需要特别许可。你不需要特别签证。你什么都不需要。现在，中国取消了对这么多国家的签证要求，直接来，上飞机。去新疆。亲自旅行，亲眼看看。”"
         },
         {
-          "en": "Hence, universities bear a responsibility not to deepen divisions but to preserve human connections that politics alone cannot sustain.",
-          "cn": "因此，大学有责任不加深分歧，而是维护政治无法单独维持的人际联系。"
+          "en": "Undeterred, he continues to document and present what he sees through his lens. He spoke enthusiastically about Xinjiang, \"You should come to Xinjiang. It's that simple. You don't need a special permit. You don’t need a special visa.",
+          "cn": "一路旅行和记录，穆尼奥斯亲眼见证了中国广袤土地上的深刻变革和蓬勃活力。作为见证中国发展和转型的人，他感慨万千。"
+        },
+        {
+          "en": "You don't need anything. Now, with China removing all these visa requirements to so many countries around the world, just come and get on the plane. Go to Xinjiang. Travel and see for yourself.\"\nTraveling and recording along the way, Munoz has witnessed firsthand the profound transformations and {{22}} vitality across China’s vast land. As someone who has witnessed China’s development and transformation, he is filled with deep emotions.",
+          "cn": "他说，他感到幸运能近距离观察中国的进步。这个国家目标明确，稳步前进，这片土地散发出的活力给他留下了深刻印象。他也真诚希望自己的祖国哥伦比亚能从中国汲取发展经验，找到适合自身国情的道路。作为新晋父亲，他对未来的旅行有了新的期待。当孩子长大后，他将重新踏上中国之旅，与世界分享生动的中国故事。"
+        },
+        {
+          "en": "He says he feels fortunate to observe China's progress up close. The country moves forward steadily with clear goals, and the dynamism radiating from this land deeply impressed him. He also sincerely hopes that his home country, Colombia, can draw development experience from China and find a path suited to its own conditions. Being a new father, he has formed new expectations for his future travels. When his child grows older, he will resume his journey across China and share vivid Chinese stories with the world.",
+          "cn": ""
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "polarized",
-          "hint": "adj. 两极分化的",
+          "answer": "swayed",
+          "hint": "v. 影响，左右",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "rivalry",
-          "hint": "n. 竞争，敌对",
-          "difficulty": "medium"
+          "answer": "harbored",
+          "hint": "v. 怀有（想法）",
+          "difficulty": "hard"
         },
         {
           "id": 2,
-          "answer": "sustainable",
-          "hint": "adj. 可持续的",
-          "difficulty": "medium"
+          "answer": "stereotypes",
+          "hint": "n. 刻板印象",
+          "difficulty": "easy"
         },
         {
           "id": 3,
-          "answer": "mutual",
-          "hint": "adj. 相互的",
+          "answer": "diverse",
+          "hint": "adj. 多样的",
           "difficulty": "easy"
         },
         {
           "id": 4,
-          "answer": "reductionism",
-          "hint": "n. 简化论，过度简化",
-          "difficulty": "hard"
+          "answer": "embarked",
+          "hint": "v. 开始（旅程）",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "engagement",
-          "hint": "n. 参与，接触",
+          "answer": "educated",
+          "hint": "adj. 有见识的",
           "difficulty": "medium"
         },
         {
           "id": 6,
+          "answer": "document",
+          "hint": "v. 记录",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "unfolding",
+          "hint": "v. 展现，发生",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "narratives",
+          "hint": "n. 叙事，说法",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "mired",
+          "hint": "adj. 陷入（困境）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "sturdy",
+          "hint": "adj. 坚固的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "amenities",
+          "hint": "n. 设施",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "hamlets",
+          "hint": "n. 小村庄",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "heartwarming",
+          "hint": "adj. 暖心的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "stark",
+          "hint": "adj. 鲜明的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "allegations",
+          "hint": "n. 指控",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "genocide",
+          "hint": "n. 种族灭绝",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "fabricate",
+          "hint": "v. 编造",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "conviction",
+          "hint": "n. 确信",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "suppression",
+          "hint": "n. 压制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "throttle",
+          "hint": "v. 限制，压制",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "dampening",
+          "hint": "v. 削弱，抑制",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "vibrant",
+          "hint": "adj. 充满活力的",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "(ECNS)-- \"Somebody already paid for you. You're a foreigner. You're a guest. Welcome.\"\nThis is something Colombian vlogger Fernando Munoz Bernal frequently hears during his travel in Xinjiang.\nFor years, swayed by inaccurate Western media coverage, many people in the international community have harbored misconceptions and stereotypes about Xinjiang.\nTo Munoz, the people of Xinjiang are \"some of the kindest people\" that he has seen, and Xinjiang is a diverse land that is well worth exploring. In his view, to know the real Xinjiang, one must \"travel and see for yourself.\"\nRecently, he joined China News Network's News Lounge to share what he saw and felt in his Xinjiang journey.\nTraveling 150,000 kilometers: Discovering real rural China\nIn 2022, after semi-retiring, Munoz embarked on an extensive road trip across rural China. Over the past four years, his travels throughout the countryside have added up to more than 150,000 kilometers.\n\"Not too many people have been to those places and not too many people know a little bit of the history of China or China as a whole to be able to give some sort of educated commentary,\" noted Munoz to explain why he started his journey.\nHe picked up his camera to document local customs along the way, focusing on capturing small yet meaningful changes unfolding in rural areas. A series of documentary videos posted on social media have allowed many viewers to see a different side of China through his lens.\nBefore arriving in China, almost everything Munoz knew about the country came from Western media reports. Yet after setting foot here, he realized what he had heard was vastly different from what he saw with his own eyes.\nMany narratives in the West cling to the stereotype that rural China remains mired in poverty. But what Fernando has witnessed along his travels tells another story. Most rural families live in sturdy, comfortable brick-and-mortar houses, paved roads reach every village, and modern amenities like air conditioners, water heaters, and solar panels have become standard. Even remote hamlets enjoy stable 5G connectivity.\nDevelopment takes time, as Munoz put it.\nHe added, \"It doesn't happen overnight. Every region is different but the path is there. The possibility is there.\"\nTen visits to Xinjiang: Uncovering the distorted truth\nSpeaking of Munoz's travels across China, Xinjiangholds a special place in his journey across China, where he encountered countless heartwarming moments.\nOn several occasions, when he finished a meal and prepared to pay, it turned out that someone had secretly settled his bill. No matter how he pressed for details, restaurant staff declined to name the kind stranger. They simply smiled and told him, \"No, you're a foreigner. You're a guest. Welcome...\" He has experienced many such touching encounters.\nTo this day, Munoz still has no clue who these strangers were. Such unexpected acts of warmth paint the real Xinjiang as he experiences it, a stark contrast to the portrayals he once encountered in media reports.\nReferring to the so-called Uygur Forced Labor Prevention Act enacted by the United States, he noticed that the Act requires products from Xinjiang to prove that they are not made with forced labor. Such an approach amounts to drawing conclusions first and then searching for evidence. It runs counter to standard legal logic and contradicts the presumption of innocence advocated by the United States itself.\nAt this point, Munoz commented, \"Xinjiang is treated differently.\"\nRegarding the long-hyped allegations of \"genocide\" flared by Western media, he further pointed to the steady growth of the Uygur population over decades and argued, \"It doesn’t make absolute anything. It just doesn't make sense.\"\nHe has traveled to Xinjiang ten times, visiting more than 40 cities and counties across northern and southern Xinjiang. He knows far more about what is taking place here than those leveling such accusations.\nAs for the claims of \"cultural genocide\", he pointed to the Uygur letters printed on Chinese banknotes, and the use of this language on Xinjiang radios and television programs. He questioned what evidence supported the claims of cultural genocide.\nThese are everyday facts that anyone can verify simply by traveling to Xinjiang and turning on a radio. He spoke with a tinge of confusion.\nHe could not understand why some people choose to ignore readily observable realities yet fabricate rumors and state them with such conviction.\nSharing his personal observations and experiences, he struggled to hold back his anger and apologized to the audience for his intense emotions on camera.\nHe noted that even in the United Nations human rights report released in 2022, the term \"genocide\" cannot be found. References smearing Xinjiang are prefaced by \"This could be happening\", \"This may be happening\" and other uncertain languages without any conclusive evidence.\nFrom his perspective, against a backdrop of speculation and hearsay, firsthand travel to the region is the only path to understanding authentic Xinjiang.\nBeyond the lens: Hoping more visitors will travel to Xinjiang\nAs a vlogger long dedicated to documentary content, Munoz has encountered many practical obstacles during his journey and endured constant inner struggles.\nHe said that some Western social media platforms operate subtle, systematic suppression mechanisms. Whenever his content runs counter to prevailing Western anti-China narratives, especially on-location footage showing the true face of Xinjiang, algorithms quietly throttle his reach, drastically dampening the videos' impact.\n\"I have about 45,000 subscribers on my YouTube channel and I was getting 200 views, 300 views. Something that is just illogical. It just doesn’t make sense,\" he remarked. Undeterred, he continues to document and present what he sees through his lens.\nHe spoke enthusiastically about Xinjiang, \"You should come to Xinjiang. It's that simple. You don't need a special permit. You don’t need a special visa. You don't need anything. Now, with China removing all these visa requirements to so many countries around the world, just come and get on the plane. Go to Xinjiang. Travel and see for yourself.\"\nTraveling and recording along the way, Munoz has witnessed firsthand the profound transformations and vibrant vitality across China’s vast land. As someone who has witnessed China’s development and transformation, he is filled with deep emotions.\nHe says he feels fortunate to observe China's progress up close. The country moves forward steadily with clear goals, and the dynamism radiating from this land deeply impressed him.\nHe also sincerely hopes that his home country, Colombia, can draw development experience from China and find a path suited to its own conditions.\nBeing a new father, he has formed new expectations for his future travels. When his child grows older, he will resume his journey across China and share vivid Chinese stories with the world.",
+      "fullTextCn": "（中新网）——“已经有人替你付了。你是外国人，是客人。欢迎。”这是哥伦比亚博主费尔南多·穆尼奥斯·贝纳尔在新疆旅行时经常听到的话。多年来，受西方媒体不实报道的影响，国际社会许多人一直对新疆抱有误解和刻板印象。\n\n对穆尼奥斯来说，新疆人民是他见过的“最善良的人”之一，新疆是一片值得探索的多元土地。在他看来，要了解真实的新疆，必须“亲自旅行和亲眼看看”。最近，他参加了中国新闻网《新闻会客厅》节目，分享他在新疆的所见所感。行程15万公里：发现真实的中国农村。2022年，半退休后，穆尼奥斯开始了穿越中国农村的广泛公路旅行。过去四年，他在乡村的旅行累计超过15万公里。“没有多少人去过那些地方，也没有多少人了解中国历史或中国整体，能够给出有见地的评论，”穆尼奥斯解释他为何开始这段旅程。\n\n他拿起相机记录沿途的风土人情，专注于捕捉农村地区正在发生的小而深刻的变化。在社交媒体上发布的一系列纪录片视频，让许多观众通过他的镜头看到了中国的另一面。在来中国之前，穆尼奥斯对中国的了解几乎全部来自西方媒体报道。然而，踏上这片土地后，他意识到他所听到的与他亲眼所见大相径庭。西方许多叙事固守中国农村仍深陷贫困的刻板印象。\n\n但费尔南多沿途所见却讲述了另一个故事。大多数农村家庭住在坚固舒适的砖瓦房中，柏油路通到每个村庄，空调、热水器和太阳能板等现代设施已成为标配。即使是偏远的村庄也享有稳定的5G连接。发展需要时间，正如穆尼奥斯所说。他补充道：“这不是一夜之间发生的。每个地区都不同，但道路就在那里。可能性就在那里。”\n\n十次新疆之旅：揭开被扭曲的真相。谈到穆尼奥斯在中国的旅行，新疆在他的旅程中占有特殊地位，他在那里遇到了无数暖心的时刻。有几次，当他吃完饭准备付钱时，发现有人已经悄悄替他结了账。无论他如何追问细节，餐馆工作人员都拒绝透露那位好心人的名字。他们只是微笑着告诉他：“不，你是外国人。你是客人。欢迎……”他经历过许多这样感人的遭遇。至今，穆尼奥斯仍不知道这些陌生人是谁。这些意想不到的温暖举动描绘了他所经历的真实新疆，与他曾在媒体报道中遇到的描述形成鲜明对比。谈到美国所谓的《维吾尔强迫劳动预防法》，他注意到该法案要求新疆产品证明不是用强迫劳动制造的。\n\n这种做法相当于先下结论再找证据。这违背了标准的法律逻辑，也违背了美国自己倡导的无罪推定原则。对此，穆尼奥斯评论道：“新疆受到了不同的对待。”关于西方媒体长期炒作的“种族灭绝”指控，他进一步指出维吾尔族人口几十年来稳步增长，并辩称：“这绝对说不通。这毫无道理。”他曾十次前往新疆，走访了南北疆40多个市县。他对这里情况的了解远超那些提出指控的人。\n\n至于“文化灭绝”的说法，他指着人民币纸币上印的维吾尔文字，以及新疆广播和电视节目中使用这种语言。他质疑有什么证据支持文化灭绝的说法。这些都是任何人只要去新疆打开收音机就能验证的日常事实。他说话时带着一丝困惑。他无法理解为什么有些人选择忽视显而易见的事实，却编造谣言并如此笃定地陈述。\n\n分享个人观察和经历时，他努力抑制愤怒，并为在镜头前情绪激动向观众道歉。他指出，即使在2022年发布的联合国人权报告中，也找不到“种族灭绝”一词。抹黑新疆的提法都以“这可能正在发生”“这可能正在发生”等不确定语言开头，没有任何确凿证据。在他看来，在猜测和道听途说的背景下，亲身前往该地区是了解真实新疆的唯一途径。镜头之外：希望更多游客前往新疆。作为长期致力于纪录片内容的博主，穆尼奥斯在旅途中遇到了许多实际障碍，并经历了持续的内心挣扎。\n\n他说，一些西方社交媒体平台存在微妙而系统的压制机制。每当他的内容与西方主流反华叙事相悖，尤其是展示新疆真实面貌的现场镜头时，算法就会悄悄限制他的传播，大幅削弱视频的影响力。他说：“我的YouTube频道大约有4.5万订阅者，但视频只有200次、300次观看。这完全不合逻辑。这说不通。”\n\n但他没有气馁，继续通过镜头记录和呈现他所看到的一切。他热情地谈论新疆：“你应该来新疆。就这么简单。你不需要特别许可。你不需要特别签证。你什么都不需要。现在，中国取消了对这么多国家的签证要求，直接来，上飞机。去新疆。亲自旅行，亲眼看看。”\n\n一路旅行和记录，穆尼奥斯亲眼见证了中国广袤土地上的深刻变革和蓬勃活力。作为见证中国发展和转型的人，他感慨万千。\n\n他说，他感到幸运能近距离观察中国的进步。这个国家目标明确，稳步前进，这片土地散发出的活力给他留下了深刻印象。他也真诚希望自己的祖国哥伦比亚能从中国汲取发展经验，找到适合自身国情的道路。作为新晋父亲，他对未来的旅行有了新的期待。当孩子长大后，他将重新踏上中国之旅，与世界分享生动的中国故事。"
+    },
+    {
+      "id": 3,
+      "category": "military",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/news/military/2026-08-03/detail-ihfhvays7508214.shtml",
+      "title": "PLA celebrates 99th founding anniversary in march toward world-class military, with peace as enduring mission",
+      "titleCn": "解放军庆祝建军99周年，迈向世界一流军队，和平为永恒使命",
+      "summary": "Saturday marks the 99th founding anniversary of the Chinese People's Liberation Army (PLA) as it continues its journey from a fledgling revolutionary force to a modern military advancing toward its centenary.",
+      "summaryCn": "中国人民解放军在庆祝建军99周年之际，回顾了从南昌起义到现代化强军的历程，强调在党的领导下深化改革、反腐肃纪、提升战斗力，并积极为国际和平与安全作出贡献。",
+      "wordCount": 947,
+      "paragraphs": [
+        {
+          "en": "Saturday marks the 99th founding anniversary of the Chinese People's Liberation Army (PLA) as it continues its journey from a {{0}} revolutionary force to a modern military advancing toward its centenary. In Nanchang, in east China's Jiangxi Province, stands a memorial tower. At its summit are sculptures of an old-style rifle and the fluttering military flag, {{1}} the Nanchang Uprising led by the Communist Party of China (CPC) on Aug. 1 in 1927, a day now remembered as the starting point of the CPC-led people's armed forces. From a {{2}} beginning, the military has grown into a modern fighting force equipped with aircraft carriers, strategic missiles, stealth fighter jets and other advanced weaponry, and it is now marching with unstoppable {{3}}.",
+          "cn": "周六是中国人民解放军建军99周年纪念日，它正从一支初生的革命力量迈向现代化军队，朝着建军百年目标前进。在华东江西省南昌市，矗立着一座纪念塔。塔顶雕塑着一支老式步枪和飘扬的军旗，象征着1927年8月1日中国共产党领导的南昌起义，这一天被视为中共领导的人民武装力量的起点。从卑微的起点出发，这支军队已发展成为一支拥有航空母舰、战略导弹、隐形战斗机和其他先进武器的现代化战斗力量，目前正以不可阻挡的势头前进。"
+        },
+        {
+          "en": "Since the 18th CPC National Congress in 2012, the CPC Central Committee with Xi Jinping at its core has led China's national defense and military development to historic achievements, achieving historic {{4}}. On Thursday, while presiding over a group study session of the Political Bureau of the CPC Central Committee, Xi, general secretary of the CPC Central Committee, urged efforts to strengthen political guidance and deepen innovation-driven development to advance the high-quality modernization of national defense and the armed forces. On April 8, when addressing the opening ceremony of a training session for high-ranking military officials, Xi, also Chinese president and chairman of the Central Military Commission (CMC), stressed efforts to deepen political {{5}} in the military to maintain the {{6}} and glory of the people's armed forces. Over the decades, loyalty to the Party has served as a key factor behind the military's transformation and its {{7}} victories in different historical periods. The CPC Central Committee with Xi at its core has pushed forward political rectification within the military and strengthened the Party's leadership.",
+          "cn": "自2012年党的十八大以来，以习近平同志为核心的党中央领导中国国防和军队建设取得历史性成就，实现历史性变革。周四，习近平在主持中共中央政治局集体学习时强调，要增强政治引领，深化创新驱动，推进国防和军队高质量发展。4月8日，习近平在出席军队高级干部培训班开班式时，强调要深化军队政治整训，保持人民军队的纯洁和光荣。几十年来，对党的忠诚一直是军队转型和在不同历史时期取得连续胜利的关键因素。以习近平同志为核心的党中央推进了军队政治整训，加强了党的领导。"
+        },
+        {
+          "en": "Since the 18th CPC National Congress, the PLA has pressed ahead with thorough investigations to root out corruption, {{8}} punishing corrupt officials, no matter how high-ranking they were. These efforts have effectively {{9}} major political risks and {{10}} the purity and glory of the armed forces. At the April 8 session, Xi told senior military officials to take the lead in restoring and carrying forward the fine traditions of the Party and the military, put down the official airs, and remain true to the identity of revolutionary service personnel. In the face of the global military revolution and the accelerated evolution of modern warfare, Xi has underscored that deepening the reforms of national defense and the armed forces is \"a major test we cannot avoid.\"\nSince the 18th CPC National Congress, the Party Central Committee, the CMC and Xi, with {{11}} resolve and effort, have launched the most extensive and {{12}} reform of national defense and the armed forces since the founding of the People's Republic of China. Through the reform, a new military structure has been established with the CMC exercising overall leadership, the theater commands responsible for military operations, and the services focusing on developing capabilities.",
+          "cn": "党的十八大以来，解放军深入推进调查，铲除腐败，坚决惩处腐败官员，无论其级别多高。这些努力有效消除了重大政治风险，增强了军队的纯洁和光荣。在4月8日的会议上，习近平告诉高级军官要带头恢复和发扬党和军队的优良传统，放下官架子，保持革命军人的本色。面对世界军事革命和现代战争加速演变的形势，习近平强调深化国防和军队改革是“我们无法回避的重大考验”。党的十八大以来，党中央、中央军委和习近平以前所未有的决心和力度，发起了新中国成立以来最广泛、最深刻的国防和军队改革。通过改革，建立了新的军事结构，中央军委行使总体领导，战区负责军事行动，军种专注于能力建设。"
+        },
+        {
+          "en": "The entire military continues to deepen reform, {{13}} the {{15}} military development through mechanization, informatization, and the application of intelligent technologies, with a large number of domestically developed advanced weapons commissioned in systems. In May this year, the {{14}} of new types of carrier-based aircraft -- the J-35, J-15T and KJ-600 -- was officially announced, marking the completion of the PLA Navy's carrier-based aircraft package to support a fully integrated carrier strike group's combat capability. It also represents a major achievement in the modernization of the navy's weaponry and equipment. On Sept. 3, 2025, a grand military parade marking the 80th anniversary of the victory of the Chinese People's War of Resistance Against Japanese Aggression and the World Anti-Fascist War was held in central Beijing's Tian'anmen Square.",
+          "cn": "全军继续深化改革，加快机械化、信息化、智能化融合发展，大量国产先进武器系统列装。今年5月，新型舰载机——歼-35、歼-15T和空警-600的列装正式公布，标志着海军舰载机体系完成，支持完整航母打击群的作战能力。这也代表了海军武器装备现代化的重大成就。2025年9月3日，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年盛大阅兵式在北京天安门广场举行。"
+        },
+        {
+          "en": "New-generation main battle tanks and infantry fighting vehicles, cutting-edge unmanned, underwater and cyber-electronic warfare systems, hypersonic missiles, strategic missiles, and other major military hardware were on display. \"We must strengthen our sense of mission and urgency and strive to achieve {{16}} development in the modernization of our armed forces,\" Xi stressed. The ability to fight and win is essential to building a strong military, Xi has stressed on many occasions. The entire armed forces have focused all their efforts on combat readiness, enhancing their capability to {{17}} in future wars. The PLA Navy's aircraft carriers Liaoning and Shandong deployed together in the western Pacific for the first time to conduct far-sea training.",
+          "cn": "新一代主战坦克和步兵战车、尖端无人系统、水下和网络电子战系统、高超音速导弹、战略导弹以及其他重大军事装备亮相。习近平强调：“我们必须增强使命感和紧迫感，努力实现军队现代化跨越式发展。”习近平多次强调，能打仗、打胜仗是建设强大军队的关键。全军聚焦备战打仗，提升未来战争制胜能力。海军航母辽宁舰和山东舰首次在太平洋西部联合部署，进行远海训练。"
+        },
+        {
+          "en": "Combat readiness patrols were carried out in the South China Sea. With enhanced combat preparedness, the Chinese military grows more capable of serving its ultimate goal of safeguarding peace. China pursues a defensive national defense policy and is the only major power in the world to explicitly {{18}} peaceful development in both its Constitution and the charter of its governing party. China is the leading {{19}} of peacekeeping personnel among the permanent members of the UN Security Council, and the second-largest contributor to the UN peacekeeping operations. The Chinese military's growing capabilities have also provided an important foundation for delivering international public security goods.",
+          "cn": "在南海进行了战备巡逻。随着战备水平的提高，中国军队更有能力服务于维护和平的最终目标。中国奉行防御性国防政策，是世界上唯一在宪法和执政党章程中明确载入和平发展的大国。中国是联合国安理会常任理事国中维和人员的主要派遣国，也是联合国维和行动的第二大出资国。中国军队能力的提升也为提供国际公共安全产品奠定了重要基础。"
+        },
+        {
+          "en": "PLA Navy escort task forces have maintained routine anti-piracy missions in the Gulf of Aden and waters off Somalia to safeguard international shipping lanes. The naval ships also participated in evacuations of Chinese citizens and foreign nationals from some war-torn countries. As one of the latest public security goods from China's military to the global community, the naval hospital ship Auspicious Ark departed in late July on Mission Harmony-2026, an overseas {{20}} medical deployment spanning Africa and South Asia. The voyage came just months after another Chinese naval hospital ship, Silk Road Ark, wrapped up a 234-day medical mission across the South Pacific and Latin America, before it returned home.",
+          "cn": "海军护航编队持续在亚丁湾和索马里海域执行反海盗任务，保障国际航道安全。舰艇还参与了从一些战乱国家撤离中国公民和外国国民的行动。作为中国军队向国际社会提供的最新公共安全产品之一，海军医院船“和平方舟”号于7月底启航执行“和谐使命-2026”任务，这是一次覆盖非洲和南亚的海外人道主义医疗服务。此次航行距离另一艘中国海军医院船“丝路方舟”号完成跨越南太平洋和拉丁美洲的234天医疗任务回国仅数月。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "fledgling",
+          "hint": "adj. 初生的，新兴的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 1,
           "answer": "symbolizing",
           "hint": "v. 象征",
           "difficulty": "medium"
         },
         {
+          "id": 2,
+          "answer": "humble",
+          "hint": "adj. 卑微的，简陋的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "momentum",
+          "hint": "n. 势头，动力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "transformations",
+          "hint": "n. 变革，转变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "rectification",
+          "hint": "n. 整顿，纠正",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "purity",
+          "hint": "n. 纯洁，纯净",
+          "difficulty": "medium"
+        },
+        {
           "id": 7,
-          "answer": "milestones",
-          "hint": "n. 里程碑",
+          "answer": "successive",
+          "hint": "adj. 连续的，接连的",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "continuity",
-          "hint": "n. 连续性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "ecosystem",
-          "hint": "n. 生态系统",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "diaspora",
-          "hint": "n. 侨民，散居",
+          "answer": "resolutely",
+          "hint": "adv. 坚决地",
           "difficulty": "hard"
         },
         {
-          "id": 11,
-          "answer": "undermines",
-          "hint": "v. 削弱",
+          "id": 9,
+          "answer": "eliminated",
+          "hint": "v. 消除，排除",
           "difficulty": "medium"
         },
         {
+          "id": 10,
+          "answer": "reinforced",
+          "hint": "v. 加强，强化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "unprecedented",
+          "hint": "adj. 前所未有的",
+          "difficulty": "hard"
+        },
+        {
           "id": 12,
-          "answer": "integral",
-          "hint": "adj. 不可或缺的",
+          "answer": "profound",
+          "hint": "adj. 深刻的，深远的",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "philanthropy",
-          "hint": "n. 慈善",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "heritage",
-          "hint": "n. 遗产，传统",
+          "answer": "accelerating",
+          "hint": "v. 加速",
           "difficulty": "medium"
         },
         {
+          "id": 14,
+          "answer": "commissioning",
+          "hint": "n. 列装，服役",
+          "difficulty": "hard"
+        },
+        {
           "id": 15,
-          "answer": "skepticism",
-          "hint": "n. 怀疑态度",
+          "answer": "integrated",
+          "hint": "adj. 综合的，一体化的",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "methodological",
-          "hint": "adj. 方法论的",
+          "answer": "leapfrog",
+          "hint": "v. 跨越式发展",
           "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "prevail",
+          "hint": "v. 获胜，占优势",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "enshrine",
+          "hint": "v. 载入，铭记",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "contributor",
+          "hint": "n. 贡献者，出资者",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "humanitarian",
+          "hint": "adj. 人道主义的",
+          "difficulty": "medium"
         }
       ],
-      "fullText": "In today’s polarized world, almost every interaction with China is read through geopolitics. Universities, research institutes, cultural exchanges—even language classrooms—are too often cast as arenas of strategic rivalry rather than spaces of learning.\nAs Director of the Center for Philippine Studies at Jinan University, I have spent my career studying Philippine history, society, and China–Philippines relations. One lesson is clear: sustainable relations cannot rest on diplomacy alone. They require mutual understanding, educational exchange, and people-to-people ties.\nThus, it is troubling to see a recent commentary by the U.S.-based think tank SeaLight frame Jinan University’s Chinese-language education in the Philippines as part of China’s United Front strategy. Such reductionism ignores more than a century of educational engagement and the lived experience of Chinese Filipinos.\nFounded in 1906, Jinan University is China’s oldest institution created for overseas Chinese. Its first students came from Java. The name “Jinan” means “facing Nanyang,” symbolizing its mission to serve overseas Chinese communities. In 1927, it established the Nanyang Cultural and Educational Division; in 1929, Chinese Filipino students published The Philippines, China’s first journal on the country. These milestones predate the People’s Republic, the Cold War, and today’s strategic competition.\nFor 120 years, Jinan’s mission has been consistent: educate overseas Chinese, advance scholarship, and preserve language and culture. This continuity deserves recognition before political labels are imposed.\nChinese-language education is only part of Jinan’s broader academic ecosystem. The university is a leader in social sciences, conducting research on overseas Chinese history, migration, diaspora, literature, economics, international relations, media, and Southeast Asian studies. It hosts China’s only Ministry of Education Key Research Base for Overseas Chinese Studies. This reflects a genuine academic commitment, not simply language training.\nIronically, global academia increasingly values migration and diaspora studies. To dismiss them when they involve China undermines intellectual fairness.\nMissing from SeaLight’s analysis is the perspective of Chinese Filipinos. Chinese communities have lived in the Philippines for centuries. Binondo, established in the late sixteenth century, is the world’s oldest Chinatown—a reminder that Chinese–Filipino interaction predates the modern nation-state.\nOver generations, Chinese Filipinos have become integral to Philippine society. They built schools, hospitals, charities, and businesses. They contributed to commerce, manufacturing, education, science, healthcare, journalism, and public service. Their philanthropy and disaster relief have aided countless families.\nThese contributions never required abandoning cultural heritage. Maintaining Chinese language and traditions has not made them less Filipino. My Chinese Filipino friends are proud citizens, secure in their national identity, while also preserving their ethnic culture. This reality deserves respect, not suspicion.\nThe Philippines itself illustrates why multilingual education matters. As one of Asia’s most linguistically diverse societies, it has long valued cultural and linguistic diversity. Chinese-language education exists alongside Filipino, English, and numerous regional and indigenous languages. Research emphasizes cultivating local teachers and integrating Chinese-language education into Philippine development, not treating it as a political tool.\nLearning ancestral languages is neither unusual nor uniquely Chinese. Heritage-language education worldwide allows communities to preserve culture while participating fully in national life. This principle aligns with internationally recognized cultural and educational rights. Chinese-language education should be judged by the same standard.\nChina and the Philippines have differences. Maritime disputes require dialogue. But it would be a mistake to let disagreements define every aspect of relations. Universities do not negotiate territorial claims. Teachers do not set foreign policy but they teach, research, and foster understanding.\nSeaLight is entitled to question Jinan University. But rigorous scholarship demands more than skepticism. It requires historical perspective, methodological balance, and fairness. Criticism is strongest when evidence leads, not when suspicion dictates.\nFor more than a century, Jinan University has connected overseas Chinese communities with language, culture, and knowledge. That mission has remained consistent across political eras. Hence, universities bear a responsibility not to deepen divisions but to preserve human connections that politics alone cannot sustain.",
-      "fullTextCn": "在当今两极分化的世界中，几乎每一次与中国的互动都被从地缘政治的角度解读。大学、研究机构、文化交流——甚至语言课堂——常常被描绘成战略竞争的舞台，而非学习的空间。作为暨南大学菲律宾研究中心主任，我的职业生涯一直致力于研究菲律宾历史、社会以及中菲关系。一个教训是明确的：可持续的关系不能仅靠外交维系。它们需要相互理解、教育交流和民间交往。\n\n因此，看到美国智库“海光”最近的一篇评论将暨南大学在菲律宾的中文教育定性为中国统一战线战略的一部分，令人不安。这种简化论忽视了一个多世纪的教育参与和菲律宾华人华侨的真实经历。暨南大学成立于1906年，是中国为海外华人创办的最古老的学府。它的第一批学生来自爪哇。“暨南”意为“面向南洋”，象征着其为海外华人社区服务的使命。\n\n1927年，该校设立了南洋文化教育部门；1929年，菲律宾华人学生出版了《菲律宾》，这是中国第一本关于该国的期刊。这些里程碑都早于中华人民共和国、冷战和当今的战略竞争。120年来，暨南的使命始终如一：教育海外华人、推进学术研究、保护语言和文化。在贴上政治标签之前，这种连续性值得认可。中文教育只是暨南更广泛的学术生态系统的一部分。\n\n该大学是社会科学领域的领导者，开展关于海外华人历史、移民、侨民、文学、经济、国际关系、媒体和东南亚研究的研究。它拥有中国唯一的教育部华侨华人研究重点研究基地。这反映了真正的学术承诺，而不仅仅是语言培训。讽刺的是，全球学术界越来越重视移民和侨民研究。当这些研究涉及中国时却加以否定，这损害了学术公正。\n\n海光的分析中缺失的是菲律宾华人的视角。华人社区在菲律宾生活了几个世纪。建于十六世纪末的岷伦洛是世界上最古老的唐人街——这提醒我们，中菲互动早于现代民族国家。经过几代人，菲律宾华人已成为菲律宾社会不可或缺的一部分。他们建立了学校、医院、慈善机构和商业。\n\n他们为商业、制造业、教育、科学、医疗保健、新闻和公共服务做出了贡献。他们的慈善和救灾援助帮助了无数家庭。这些贡献从未要求放弃文化遗产。保持中文和传统并没有使他们减少菲律宾人的身份。我的菲律宾华人朋友是自豪的公民，对自己的国家认同充满信心，同时也保留着自己的民族文化。\n\n这一现实值得尊重，而非怀疑。菲律宾本身说明了多语言教育的重要性。作为亚洲语言最多样化的社会之一，它长期以来重视文化和语言的多样性。中文教育与菲律宾语、英语以及众多地区和土著语言并存。研究强调培养本地教师并将中文教育融入菲律宾发展，而不是将其视为政治工具。\n\n学习祖辈的语言既不是不寻常的，也不是中国独有的。世界各地的传承语言教育允许社区在充分参与国家生活的同时保留文化。这一原则符合国际公认的文化和教育权利。中文教育应该以同样的标准来评判。中国和菲律宾存在分歧。\n\n海洋争端需要对话。但让分歧定义关系的每一个方面将是一个错误。大学不谈判领土主张。教师不制定外交政策，但他们教学、研究和促进理解。海光有权质疑暨南大学。\n\n但严谨的学术研究要求的不仅仅是怀疑。它需要历史视角、方法论平衡和公正。当证据引领而非怀疑主导时，批评最为有力。一个多世纪以来，暨南大学通过语言、文化和知识将海外华人社区联系起来。这一使命在政治时代变迁中始终保持一致。\n\n因此，大学有责任不加深分歧，而是维护政治无法单独维持的人际联系。"
+      "fullText": "Saturday marks the 99th founding anniversary of the Chinese People's Liberation Army (PLA) as it continues its journey from a fledgling revolutionary force to a modern military advancing toward its centenary.\nIn Nanchang, in east China's Jiangxi Province, stands a memorial tower. At its summit are sculptures of an old-style rifle and the fluttering military flag, symbolizing the Nanchang Uprising led by the Communist Party of China (CPC) on Aug. 1 in 1927, a day now remembered as the starting point of the CPC-led people's armed forces.\nFrom a humble beginning, the military has grown into a modern fighting force equipped with aircraft carriers, strategic missiles, stealth fighter jets and other advanced weaponry, and it is now marching with unstoppable momentum.\nSince the 18th CPC National Congress in 2012, the CPC Central Committee with Xi Jinping at its core has led China's national defense and military development to historic achievements, achieving historic transformations.\nOn Thursday, while presiding over a group study session of the Political Bureau of the CPC Central Committee, Xi, general secretary of the CPC Central Committee, urged efforts to strengthen political guidance and deepen innovation-driven development to advance the high-quality modernization of national defense and the armed forces.\nOn April 8, when addressing the opening ceremony of a training session for high-ranking military officials, Xi, also Chinese president and chairman of the Central Military Commission (CMC), stressed efforts to deepen political rectification in the military to maintain the purity and glory of the people's armed forces.\nOver the decades, loyalty to the Party has served as a key factor behind the military's transformation and its successive victories in different historical periods. The CPC Central Committee with Xi at its core has pushed forward political rectification within the military and strengthened the Party's leadership.\nSince the 18th CPC National Congress, the PLA has pressed ahead with thorough investigations to root out corruption, resolutely punishing corrupt officials, no matter how high-ranking they were.\nThese efforts have effectively eliminated major political risks and reinforced the purity and glory of the armed forces.\nAt the April 8 session, Xi told senior military officials to take the lead in restoring and carrying forward the fine traditions of the Party and the military, put down the official airs, and remain true to the identity of revolutionary service personnel.\nIn the face of the global military revolution and the accelerated evolution of modern warfare, Xi has underscored that deepening the reforms of national defense and the armed forces is \"a major test we cannot avoid.\"\nSince the 18th CPC National Congress, the Party Central Committee, the CMC and Xi, with unprecedented resolve and effort, have launched the most extensive and profound reform of national defense and the armed forces since the founding of the People's Republic of China.\nThrough the reform, a new military structure has been established with the CMC exercising overall leadership, the theater commands responsible for military operations, and the services focusing on developing capabilities.\nThe entire military continues to deepen reform, accelerating the integrated military development through mechanization, informatization, and the application of intelligent technologies, with a large number of domestically developed advanced weapons commissioned in systems.\nIn May this year, the commissioning of new types of carrier-based aircraft -- the J-35, J-15T and KJ-600 -- was officially announced, marking the completion of the PLA Navy's carrier-based aircraft package to support a fully integrated carrier strike group's combat capability.\nIt also represents a major achievement in the modernization of the navy's weaponry and equipment.\nOn Sept. 3, 2025, a grand military parade marking the 80th anniversary of the victory of the Chinese People's War of Resistance Against Japanese Aggression and the World Anti-Fascist War was held in central Beijing's Tian'anmen Square.\nNew-generation main battle tanks and infantry fighting vehicles, cutting-edge unmanned, underwater and cyber-electronic warfare systems, hypersonic missiles, strategic missiles, and other major military hardware were on display.\n\"We must strengthen our sense of mission and urgency and strive to achieve leapfrog development in the modernization of our armed forces,\" Xi stressed.\nThe ability to fight and win is essential to building a strong military, Xi has stressed on many occasions.\nThe entire armed forces have focused all their efforts on combat readiness, enhancing their capability to prevail in future wars.\nThe PLA Navy's aircraft carriers Liaoning and Shandong deployed together in the western Pacific for the first time to conduct far-sea training. Combat readiness patrols were carried out in the South China Sea.\nWith enhanced combat preparedness, the Chinese military grows more capable of serving its ultimate goal of safeguarding peace.\nChina pursues a defensive national defense policy and is the only major power in the world to explicitly enshrine peaceful development in both its Constitution and the charter of its governing party.\nChina is the leading contributor of peacekeeping personnel among the permanent members of the UN Security Council, and the second-largest contributor to the UN peacekeeping operations.\nThe Chinese military's growing capabilities have also provided an important foundation for delivering international public security goods.\nPLA Navy escort task forces have maintained routine anti-piracy missions in the Gulf of Aden and waters off Somalia to safeguard international shipping lanes. The naval ships also participated in evacuations of Chinese citizens and foreign nationals from some war-torn countries.\nAs one of the latest public security goods from China's military to the global community, the naval hospital ship Auspicious Ark departed in late July on Mission Harmony-2026, an overseas humanitarian medical deployment spanning Africa and South Asia.\nThe voyage came just months after another Chinese naval hospital ship, Silk Road Ark, wrapped up a 234-day medical mission across the South Pacific and Latin America, before it returned home.",
+      "fullTextCn": "周六是中国人民解放军建军99周年纪念日，它正从一支初生的革命力量迈向现代化军队，朝着建军百年目标前进。在华东江西省南昌市，矗立着一座纪念塔。塔顶雕塑着一支老式步枪和飘扬的军旗，象征着1927年8月1日中国共产党领导的南昌起义，这一天被视为中共领导的人民武装力量的起点。从卑微的起点出发，这支军队已发展成为一支拥有航空母舰、战略导弹、隐形战斗机和其他先进武器的现代化战斗力量，目前正以不可阻挡的势头前进。\n\n自2012年党的十八大以来，以习近平同志为核心的党中央领导中国国防和军队建设取得历史性成就，实现历史性变革。周四，习近平在主持中共中央政治局集体学习时强调，要增强政治引领，深化创新驱动，推进国防和军队高质量发展。4月8日，习近平在出席军队高级干部培训班开班式时，强调要深化军队政治整训，保持人民军队的纯洁和光荣。几十年来，对党的忠诚一直是军队转型和在不同历史时期取得连续胜利的关键因素。以习近平同志为核心的党中央推进了军队政治整训，加强了党的领导。\n\n党的十八大以来，解放军深入推进调查，铲除腐败，坚决惩处腐败官员，无论其级别多高。这些努力有效消除了重大政治风险，增强了军队的纯洁和光荣。在4月8日的会议上，习近平告诉高级军官要带头恢复和发扬党和军队的优良传统，放下官架子，保持革命军人的本色。面对世界军事革命和现代战争加速演变的形势，习近平强调深化国防和军队改革是“我们无法回避的重大考验”。党的十八大以来，党中央、中央军委和习近平以前所未有的决心和力度，发起了新中国成立以来最广泛、最深刻的国防和军队改革。通过改革，建立了新的军事结构，中央军委行使总体领导，战区负责军事行动，军种专注于能力建设。\n\n全军继续深化改革，加快机械化、信息化、智能化融合发展，大量国产先进武器系统列装。今年5月，新型舰载机——歼-35、歼-15T和空警-600的列装正式公布，标志着海军舰载机体系完成，支持完整航母打击群的作战能力。这也代表了海军武器装备现代化的重大成就。2025年9月3日，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年盛大阅兵式在北京天安门广场举行。\n\n新一代主战坦克和步兵战车、尖端无人系统、水下和网络电子战系统、高超音速导弹、战略导弹以及其他重大军事装备亮相。习近平强调：“我们必须增强使命感和紧迫感，努力实现军队现代化跨越式发展。”习近平多次强调，能打仗、打胜仗是建设强大军队的关键。全军聚焦备战打仗，提升未来战争制胜能力。海军航母辽宁舰和山东舰首次在太平洋西部联合部署，进行远海训练。\n\n在南海进行了战备巡逻。随着战备水平的提高，中国军队更有能力服务于维护和平的最终目标。中国奉行防御性国防政策，是世界上唯一在宪法和执政党章程中明确载入和平发展的大国。中国是联合国安理会常任理事国中维和人员的主要派遣国，也是联合国维和行动的第二大出资国。中国军队能力的提升也为提供国际公共安全产品奠定了重要基础。\n\n海军护航编队持续在亚丁湾和索马里海域执行反海盗任务，保障国际航道安全。舰艇还参与了从一些战乱国家撤离中国公民和外国国民的行动。作为中国军队向国际社会提供的最新公共安全产品之一，海军医院船“和平方舟”号于7月底启航执行“和谐使命-2026”任务，这是一次覆盖非洲和南亚的海外人道主义医疗服务。此次航行距离另一艘中国海军医院船“丝路方舟”号完成跨越南太平洋和拉丁美洲的234天医疗任务回国仅数月。"
     },
     {
-      "id": 3,
+      "id": 4,
       "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/business/2026-08-03/detail-ihfhvays7508217.shtml",
+      "title": "Stability seen amid shift in growth drivers",
+      "titleCn": "增长动力转换中显现稳定迹象",
+      "summary": "Economists said the meeting addressed a major challenge facing China's economy, as rapidly expanding new industries have yet to fully offset the slowdown in traditional sectors, insufficient domestic demand and growing structural divergence.",
+      "summaryCn": "中国下半年经济有望进一步稳定，政策重点转向支持新增长动力和国内需求。",
+      "wordCount": 650,
+      "paragraphs": [
+        {
+          "en": "China's economic growth is expected to further {{0}} in the second half of the year, as policymakers step up efforts to address {{1}} challenges arising from the {{2}} in growth drivers while strengthening support for domestic demand, experts and executives said. The comments came after a meeting on Thursday of the Political Bureau of the Communist Party of China Central Committee, presided over by Xi Jinping, general secretary of the CPC Central Committee. The meeting called for efforts to {{3}} the transition from old growth drivers to new ones and effectively implement a more proactive fiscal policy and an appropriately {{4}} monetary policy. Economists said the meeting addressed a major challenge facing China's economy, as rapidly expanding new industries have yet to fully {{5}} the slowdown in traditional sectors, insufficient domestic demand and growing structural {{6}}. Policy focus should not only be on stepping up macro policy {{7}} and accelerating investment in emerging industries and industrial upgrading, but also on {{8}} employment and income to foster broader growth, they added.",
+          "cn": "专家和高管表示，随着政策制定者加大力度应对增长动力转换带来的结构性挑战，同时加强对国内需求的支持，中国下半年经济增长预计将进一步稳定。这些评论是在周四中共中央政治局会议后发表的，会议由中共中央总书记习近平主持。会议呼吁加快新旧增长动力转换，有效实施更加积极的财政政策和适度宽松的货币政策。经济学家表示，会议解决了中国经济面临的主要挑战，因为快速扩张的新兴产业尚未完全抵消传统行业放缓、内需不足和日益增长的结构性分化。他们补充说，政策重点不仅应放在加大宏观政策刺激和加快新兴产业投资及产业升级上，还应放在促进就业和收入以推动更广泛增长上。"
+        },
+        {
+          "en": "Zhu Feng, China chief economist at JPMorgan, said that growth {{9}} in the third and fourth quarters will likely improve from the second one, but divergence could persist amid the transition from old to new growth drivers. New growth engines, led by artificial intelligence and the smart economy, are likely to continue {{10}} related investment, high-tech manufacturing and some export sectors, while domestic demand, real estate, private investment and durable goods consumption still need time to recover, Zhu said. China's economy expanded 4.7 percent year-on-year in the first half, driven by {{11}} exports and industrial output as high-tech manufacturing sectors benefited from a global wave of AI-related capital expenditure. By comparison, retail sales remained {{12}}, while fixed-asset investment {{13}}. GDP growth weakened to 4.3 percent in the April-June period.",
+          "cn": "摩根大通中国首席经济学家朱峰表示，第三和第四季度的增长势头可能会较第二季度有所改善，但在新旧增长动力转换期间，分化可能持续存在。朱峰表示，以人工智能和智能经济为主导的新增长引擎可能会继续提振相关投资、高科技制造业和一些出口行业，而国内需求、房地产、私人投资和耐用品消费仍需时间恢复。今年上半年，中国经济同比增长4.7%，得益于有韧性的出口和工业产出，高科技制造业受益于全球人工智能相关资本支出浪潮。相比之下，零售销售保持低迷，而固定资产投资收缩。4月至6月期间，GDP增长放缓至4.3%。"
+        },
+        {
+          "en": "In July, the official manufacturing purchasing managers index fell to 49.2, the National Bureau of Statistics said, indicating that falling market demand has caused factory activity to contract for the first time in five months. \"The key to meeting the annual growth target lies in accelerating fiscal policy implementation and, if necessary, introducing {{14}} fiscal measures, while better {{15}} policy resources into growth in household employment and income, thereby boosting consumption and private investment,\" Zhu said. The meeting on Thursday said that pragmatic and effective incremental policies will be introduced in a timely manner, and it called for intensified efforts to effectively {{16}} and improve people's well-being. The People's Bank of China, the country's central bank, pledged at a meeting on Saturday to {{17}} utilize monetary policy tools and make timely adjustments to keep {{18}} liquidity. Yin Yanlin, deputy director of the Committee on Economic Affairs of the 14th National Committee of the Chinese People's Political Consultative Conference, said additional treasury bond issuance should be considered when necessary, and monetary policy should cut the reserve requirement ratio and interest rates at a proper time as imported inflation pressure eases.",
+          "cn": "国家统计局表示，7月份官方制造业采购经理人指数降至49.2，表明市场需求下降导致工厂活动五个月来首次收缩。朱峰表示：“实现年度增长目标的关键在于加快财政政策实施，并在必要时推出增量财政措施，同时更好地将政策资源转化为家庭就业和收入的增长，从而提振消费和私人投资。”周四的会议表示，将及时推出务实有效的增量政策，并呼吁加大力度有效保障和改善民生。中国人民银行（央行）在周六的会议上承诺，综合利用货币政策工具，及时调整以保持流动性充裕。第十四届全国政协经济委员会副主任尹艳林表示，必要时应考虑增发国债，随着输入性通胀压力缓解，货币政策应适时降准降息。"
+        },
+        {
+          "en": "Ming Ming, chief economist at CITIC Securities, said an 800 billion yuan ($118.5 billion) policy-based financial tool is likely to {{19}} up support for new types of infrastructure, including {{20}} between computing and electricity networks. According to the National Development and Reform Commission, investment in computing network infrastructure in China could reach 4 trillion yuan during the 15th Five-Year Plan (2026-30) period. It also said that new growth drivers, including high-end manufacturing, the digital economy and modern services, had contributed more than 40 percent of economic growth in the first half of this year. Such momentum is {{21}} international institutions' confidence in China's economic transition. Moody's Ratings said in a commentary that credit conditions in China are expected to remain stable in the second half as fiscal and monetary support, strong exports and technological advances offset weak domestic demand.",
+          "cn": "中信证券首席经济学家明明表示，一项8000亿元人民币（合1185亿美元）的政策性金融工具可能会加大对新型基础设施的支持，包括计算和电力网络的协同。根据国家发展和改革委员会的数据，中国在“十五五”规划（2026-2030年）期间的计算网络基础设施投资可能达到4万亿元人民币。发改委还表示，包括高端制造业、数字经济和现代服务业在内的新增长动力，今年上半年对经济增长的贡献超过40%。这种势头正在支撑国际机构对中国经济转型的信心。穆迪评级在一份评论中表示，由于财政和货币支持、强劲的出口和技术进步抵消了疲弱的国内需求，中国下半年的信贷状况预计将保持稳定。"
+        },
+        {
+          "en": "Goldman Sachs has {{23}} that China's economy will grow 4.6 percent this year, within the annual target range of 4.5 to 5 percent.",
+          "cn": "高盛预测，今年中国经济将增长4.6%，在4.5%至5%的年度目标范围内。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "stabilize",
+          "hint": "v. 稳定",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "structural",
+          "hint": "adj. 结构性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "transition",
+          "hint": "n. 过渡，转变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "accelerate",
+          "hint": "v. 加速",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "accommodative",
+          "hint": "adj. 宽松的（政策）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "offset",
+          "hint": "v. 抵消",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "divergence",
+          "hint": "n. 分化，分歧",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "stimulus",
+          "hint": "n. 刺激",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "bolstering",
+          "hint": "v. 支持，增强",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "momentum",
+          "hint": "n. 势头，动力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "buoying",
+          "hint": "v. 提振，支持",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "resilient",
+          "hint": "adj. 有韧性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "subdued",
+          "hint": "adj. 低迷的，不振的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "contracted",
+          "hint": "v. 收缩",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "incremental",
+          "hint": "adj. 增量的，递增的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "translating",
+          "hint": "v. 转化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "safeguard",
+          "hint": "v. 保障，保护",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "comprehensively",
+          "hint": "adv. 全面地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "ample",
+          "hint": "adj. 充足的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "ramp",
+          "hint": "v. 增加，加强",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "synergy",
+          "hint": "n. 协同作用",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "underpinning",
+          "hint": "v. 支撑，支持",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "forecast",
+          "hint": "v. 预测",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "China's economic growth is expected to further stabilize in the second half of the year, as policymakers step up efforts to address structural challenges arising from the transition in growth drivers while strengthening support for domestic demand, experts and executives said.\nThe comments came after a meeting on Thursday of the Political Bureau of the Communist Party of China Central Committee, presided over by Xi Jinping, general secretary of the CPC Central Committee. The meeting called for efforts to accelerate the transition from old growth drivers to new ones and effectively implement a more proactive fiscal policy and an appropriately accommodative monetary policy.\nEconomists said the meeting addressed a major challenge facing China's economy, as rapidly expanding new industries have yet to fully offset the slowdown in traditional sectors, insufficient domestic demand and growing structural divergence.\nPolicy focus should not only be on stepping up macro policy stimulus and accelerating investment in emerging industries and industrial upgrading, but also on bolstering employment and income to foster broader growth, they added.\nZhu Feng, China chief economist at JPMorgan, said that growth momentum in the third and fourth quarters will likely improve from the second one, but divergence could persist amid the transition from old to new growth drivers.\nNew growth engines, led by artificial intelligence and the smart economy, are likely to continue buoying related investment, high-tech manufacturing and some export sectors, while domestic demand, real estate, private investment and durable goods consumption still need time to recover, Zhu said.\nChina's economy expanded 4.7 percent year-on-year in the first half, driven by resilient exports and industrial output as high-tech manufacturing sectors benefited from a global wave of AI-related capital expenditure. By comparison, retail sales remained subdued, while fixed-asset investment contracted.\nGDP growth weakened to 4.3 percent in the April-June period. In July, the official manufacturing purchasing managers index fell to 49.2, the National Bureau of Statistics said, indicating that falling market demand has caused factory activity to contract for the first time in five months.\n\"The key to meeting the annual growth target lies in accelerating fiscal policy implementation and, if necessary, introducing incremental fiscal measures, while better translating policy resources into growth in household employment and income, thereby boosting consumption and private investment,\" Zhu said.\nThe meeting on Thursday said that pragmatic and effective incremental policies will be introduced in a timely manner, and it called for intensified efforts to effectively safeguard and improve people's well-being.\nThe People's Bank of China, the country's central bank, pledged at a meeting on Saturday to comprehensively utilize monetary policy tools and make timely adjustments to keep ample liquidity.\nYin Yanlin, deputy director of the Committee on Economic Affairs of the 14th National Committee of the Chinese People's Political Consultative Conference, said additional treasury bond issuance should be considered when necessary, and monetary policy should cut the reserve requirement ratio and interest rates at a proper time as imported inflation pressure eases.\nMing Ming, chief economist at CITIC Securities, said an 800 billion yuan ($118.5 billion) policy-based financial tool is likely to ramp up support for new types of infrastructure, including synergy between computing and electricity networks.\nAccording to the National Development and Reform Commission, investment in computing network infrastructure in China could reach 4 trillion yuan during the 15th Five-Year Plan (2026-30) period. It also said that new growth drivers, including high-end manufacturing, the digital economy and modern services, had contributed more than 40 percent of economic growth in the first half of this year.\nSuch momentum is underpinning international institutions' confidence in China's economic transition. Moody's Ratings said in a commentary that credit conditions in China are expected to remain stable in the second half as fiscal and monetary support, strong exports and technological advances offset weak domestic demand.\nGoldman Sachs has forecast that China's economy will grow 4.6 percent this year, within the annual target range of 4.5 to 5 percent.",
+      "fullTextCn": "专家和高管表示，随着政策制定者加大力度应对增长动力转换带来的结构性挑战，同时加强对国内需求的支持，中国下半年经济增长预计将进一步稳定。这些评论是在周四中共中央政治局会议后发表的，会议由中共中央总书记习近平主持。会议呼吁加快新旧增长动力转换，有效实施更加积极的财政政策和适度宽松的货币政策。经济学家表示，会议解决了中国经济面临的主要挑战，因为快速扩张的新兴产业尚未完全抵消传统行业放缓、内需不足和日益增长的结构性分化。他们补充说，政策重点不仅应放在加大宏观政策刺激和加快新兴产业投资及产业升级上，还应放在促进就业和收入以推动更广泛增长上。\n\n摩根大通中国首席经济学家朱峰表示，第三和第四季度的增长势头可能会较第二季度有所改善，但在新旧增长动力转换期间，分化可能持续存在。朱峰表示，以人工智能和智能经济为主导的新增长引擎可能会继续提振相关投资、高科技制造业和一些出口行业，而国内需求、房地产、私人投资和耐用品消费仍需时间恢复。今年上半年，中国经济同比增长4.7%，得益于有韧性的出口和工业产出，高科技制造业受益于全球人工智能相关资本支出浪潮。相比之下，零售销售保持低迷，而固定资产投资收缩。4月至6月期间，GDP增长放缓至4.3%。\n\n国家统计局表示，7月份官方制造业采购经理人指数降至49.2，表明市场需求下降导致工厂活动五个月来首次收缩。朱峰表示：“实现年度增长目标的关键在于加快财政政策实施，并在必要时推出增量财政措施，同时更好地将政策资源转化为家庭就业和收入的增长，从而提振消费和私人投资。”周四的会议表示，将及时推出务实有效的增量政策，并呼吁加大力度有效保障和改善民生。中国人民银行（央行）在周六的会议上承诺，综合利用货币政策工具，及时调整以保持流动性充裕。第十四届全国政协经济委员会副主任尹艳林表示，必要时应考虑增发国债，随着输入性通胀压力缓解，货币政策应适时降准降息。\n\n中信证券首席经济学家明明表示，一项8000亿元人民币（合1185亿美元）的政策性金融工具可能会加大对新型基础设施的支持，包括计算和电力网络的协同。根据国家发展和改革委员会的数据，中国在“十五五”规划（2026-2030年）期间的计算网络基础设施投资可能达到4万亿元人民币。发改委还表示，包括高端制造业、数字经济和现代服务业在内的新增长动力，今年上半年对经济增长的贡献超过40%。这种势头正在支撑国际机构对中国经济转型的信心。穆迪评级在一份评论中表示，由于财政和货币支持、强劲的出口和技术进步抵消了疲弱的国内需求，中国下半年的信贷状况预计将保持稳定。\n\n高盛预测，今年中国经济将增长4.6%，在4.5%至5%的年度目标范围内。"
+    },
+    {
+      "id": 5,
+      "category": "technology",
       "source": "CGTN",
       "sourceUrl": "https://news.cgtn.com/news/2026-07-17/Scientists-reveal-how-aging-weakens-the-brain-s-protective-barrier-1OQlBVmo6Vq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
       "title": "Scientists reveal how aging weakens the brain's protective barrier",
       "titleCn": "科学家揭示衰老如何削弱大脑的保护屏障",
       "summary": "Scientists reveal how aging weakens the brain's protective barrier",
-      "summaryCn": "研究发现衰老通过TGF-β1信号减少Mfsd2a蛋白，导致脑内血管细胞异常运输，从而破坏血脑屏障，为认知衰退提供新解释。",
+      "summaryCn": "研究发现衰老通过TGF-β1信号抑制Mfsd2a蛋白，导致脑内血管细胞异常转运，从而破坏血脑屏障，为认知衰退提供新解释。",
       "wordCount": 526,
       "paragraphs": [
         {
-          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive {{2}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{3}} by which aging weakens the blood-brain barrier, the brain's protective {{4}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier leakage during aging.\"\nThe study shows how aging {{5}} transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{6}} security system.",
-          "cn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，标题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）像一个选择性安全系统。"
+          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive {{2}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{3}} by which aging weakens the blood-brain barrier, the brain's protective {{4}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier {{6}} during aging.\"\nThe study shows how aging {{5}} {{16}} in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{7}} security system.",
+          "cn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）像一个选择性安全系统。"
         },
         {
-          "en": "It allows {{7}} nutrients to reach the brain while preventing potentially {{8}} substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{9}} disorders. Scientists have traditionally {{10}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{11}} in middle-aged mice and worsened in older animals.",
-          "cn": "它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接结构的损伤。然而，新研究发现另一个过程在衰老过程中更早发生。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已可检测到，并在老年动物中恶化。"
+          "en": "It allows {{8}} nutrients to reach the brain while preventing potentially harmful {{9}} in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{10}} disorders. Scientists have traditionally {{11}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{12}} in middle-aged mice and worsened in older animals.",
+          "cn": "它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接的损伤。然而，新研究发现另一个过程在衰老过程中更早发生。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已可检测到，并在老年动物中恶化。"
         },
         {
-          "en": "The change appeared early in the {{12}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{13}}. Instead, the cells' internal transport system became {{14}} active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
-          "cn": "这种变化最早出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接结构基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制。”团队识别出一种名为Mfsd2a的蛋白质，它是这个保护系统的重要组成部分。"
+          "en": "The change appeared early in the {{13}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{14}}. Instead, the cells' internal transport system became {{15}} active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
+          "cn": "这种变化早期出现在海马体，这是对学习和记忆重要的大脑区域。在此阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制，”研究人员说。团队识别出一种名为Mfsd2a的蛋白质作为该保护系统的重要组成部分。"
         },
         {
-          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased. When the researchers {{15}} endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
-          "cn": "Mfsd2a通常限制不必要的跨脑血管运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠年龄增长，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平均增加。"
+          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased. When the researchers {{17}} endothelial Mfsd2a expression or {{18}} down Caveolin-1 in aged mice, abnormal {{19}} transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a {{20}} molecule involved in {{21}}, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
+          "cn": "Mfsd2a通常限制脑内血管上的不必要运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠年龄增长，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平均增加。"
         },
         {
-          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage. By contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of {{17}} wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
-          "cn": "过量的TGF-β1降低了脑血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现多种通常见于衰老血脑屏障的特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号，减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。"
+          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several {{23}} normally seen in the aged BBB, including increased leakage. By contrast, {{24}} TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of {{25}} wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
+          "cn": "过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质方式的生物信号。"
         },
         {
-          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing {{16}} activation of TGF-β signaling. Further research will be needed to determine whether these {{18}} can be safely translated into treatments for humans.",
-          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略是否能安全转化为人类治疗方法。"
+          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing {{22}} activation of TGF-β signaling. Further research will be needed to determine whether these {{26}} can be safely translated into treatments for humans.",
+          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略能否安全转化为人类治疗方法。"
         }
       ],
       "blanks": [
@@ -425,400 +841,144 @@
         {
           "id": 4,
           "answer": "interface",
-          "hint": "n. 界面，接口",
+          "hint": "n. 界面",
           "difficulty": "medium"
         },
         {
           "id": 5,
           "answer": "disrupts",
-          "hint": "v. 扰乱，破坏",
+          "hint": "v. 扰乱",
           "difficulty": "medium"
         },
         {
           "id": 6,
+          "answer": "leakage",
+          "hint": "n. 渗漏",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
           "answer": "selective",
           "hint": "adj. 选择性的",
           "difficulty": "medium"
         },
         {
-          "id": 7,
-          "answer": "essential",
-          "hint": "adj. 必需的，基本的",
-          "difficulty": "easy"
-        },
-        {
           "id": 8,
-          "answer": "harmful",
-          "hint": "adj. 有害的",
+          "answer": "essential",
+          "hint": "adj. 必需的",
           "difficulty": "easy"
         },
         {
           "id": 9,
+          "answer": "substances",
+          "hint": "n. 物质",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
           "answer": "neurodegenerative",
           "hint": "adj. 神经退行性的",
           "difficulty": "hard"
         },
         {
-          "id": 10,
+          "id": 11,
           "answer": "attributed",
           "hint": "v. 归因于",
           "difficulty": "medium"
         },
         {
-          "id": 11,
+          "id": 12,
           "answer": "detectable",
-          "hint": "adj. 可检测到的",
+          "hint": "adj. 可检测的",
           "difficulty": "medium"
         },
         {
-          "id": 12,
+          "id": 13,
           "answer": "hippocampus",
           "hint": "n. 海马体",
           "difficulty": "hard"
         },
         {
-          "id": 13,
+          "id": 14,
           "answer": "intact",
-          "hint": "adj. 完整的，未受损的",
+          "hint": "adj. 完整的",
           "difficulty": "medium"
         },
         {
-          "id": 14,
+          "id": 15,
           "answer": "abnormally",
           "hint": "adv. 异常地",
           "difficulty": "medium"
         },
         {
-          "id": 15,
+          "id": 16,
+          "answer": "transport",
+          "hint": "n./v. 运输",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
           "answer": "restored",
           "hint": "v. 恢复",
           "difficulty": "medium"
         },
         {
-          "id": 16,
-          "answer": "excessive",
-          "hint": "adj. 过度的，过多的",
+          "id": 18,
+          "answer": "knocked",
+          "hint": "v. 敲低（knock down）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "vesicle",
+          "hint": "n. 囊泡",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "signaling",
+          "hint": "n. 信号传导",
           "difficulty": "medium"
         },
         {
-          "id": 17,
-          "answer": "passive",
-          "hint": "adj. 被动的",
+          "id": 21,
+          "answer": "inflammation",
+          "hint": "n. 炎症",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "excessive",
+          "hint": "adj. 过度的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "features",
+          "hint": "n. 特征",
           "difficulty": "easy"
         },
         {
-          "id": 18,
+          "id": 24,
+          "answer": "blocking",
+          "hint": "v. 阻断",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "passive",
+          "hint": "adj. 被动的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
           "answer": "strategies",
           "hint": "n. 策略",
           "difficulty": "easy"
         }
       ],
       "fullText": "As people age, many experience memory decline and slower cognitive processing, along with a higher risk of cerebrovascular disease and cognitive impairment. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline.\nScientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a mechanism by which aging weakens the blood-brain barrier, the brain's protective interface with the bloodstream.\nThe study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier leakage during aging.\"\nThe study shows how aging disrupts transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a selective security system. It allows essential nutrients to reach the brain while preventing potentially harmful substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several neurodegenerative disorders.\nScientists have traditionally attributed BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging.\nBy examining mice at different ages, the researchers found that BBB leakage was already detectable in middle-aged mice and worsened in older animals. The change appeared early in the hippocampus, a brain region important for learning and memory.\nAt this stage, the seals between blood vessel cells remained largely intact. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue.\n\"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said.\nThe team identified a protein called Mfsd2a as an important part of this protective system. Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased.\nWhen the researchers restored endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced.\nThe researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.\nExcessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage.\nBy contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests.\nThe findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.\nThe study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing excessive activation of TGF-β signaling. Further research will be needed to determine whether these strategies can be safely translated into treatments for humans.",
-      "fullTextCn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，标题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）像一个选择性安全系统。\n\n它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接结构的损伤。然而，新研究发现另一个过程在衰老过程中更早发生。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已可检测到，并在老年动物中恶化。\n\n这种变化最早出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接结构基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。研究人员表示：“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制。”团队识别出一种名为Mfsd2a的蛋白质，它是这个保护系统的重要组成部分。\n\nMfsd2a通常限制不必要的跨脑血管运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠年龄增长，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平均增加。\n\n过量的TGF-β1降低了脑血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现多种通常见于衰老血脑屏障的特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号，减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略是否能安全转化为人类治疗方法。"
-    },
-    {
-      "id": 4,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-09/AI-applications-move-into-more-everyday-scenarios-1ODhOvc9w7S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "AI applications move into more everyday scenarios",
-      "titleCn": "AI应用加速进入更多日常场景",
-      "summary": "The 25th China Internet Conference held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.",
-      "summaryCn": "第25届中国互联网大会展示了人工智能在城市治理、工业制造、零售等领域的广泛应用，并预测AI生成流量将在2030年占全球互联网流量的60%。",
-      "wordCount": 463,
-      "paragraphs": [
-        {
-          "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders {{1}} new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{2}} into sectors ranging from urban {{3}} and industrial manufacturing to retail and public services. Speaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are {{4}} the internet itself. While large language models excel at general reasoning, AI agents are designed to {{5}} specific tasks and future digital ecosystems will increasingly rely on {{6}} among multiple intelligent agents rather than isolated AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
-          "cn": "第25届中国互联网大会于2026年7月8日在北京国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在大会上展示了面向城市、企业和消费者的新型AI解决方案。为期三天的大会重点展示了AI代理、大语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理被设计用于执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。与会者在国家会议中心体验VR产品。"
-        },
-        {
-          "en": "According to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the {{7}} source of token-based interactions. The shift, he said, will require internet {{8}} to evolve toward higher bandwidth, lower latency and stronger computing capabilities. The conference also demonstrated how AI is being {{9}} in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{10}} and building maintenance, providing city managers with real-time {{11}} and decision-making tools. Industry representatives also emphasized that AI innovation is creating {{12}} economic value.",
-          "cn": "据邬贺铨介绍，到2030年，AI生成的流量预计将占全球互联网流量的60%左右，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。大会还展示了AI在实际场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
-        },
-        {
-          "en": "Participants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while {{13}} reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve compatibility across different computing chips, reflects broader efforts to build more efficient and {{14}} AI infrastructure. As AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale.",
-          "cn": "与会者在国家会议中心与人形机器人互动。大会上，快手表示其AI视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即兴商务平台报告称，AI代理正在越来越多地处理复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，与会者还确定了可信AI和绿色计算作为行业下一阶段发展的关键优先事项。FlagOS倡议的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效、可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。"
-        },
-        {
-          "en": "The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-          "cn": "大会强调了中国加速AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "experimental",
-          "hint": "adj. 实验性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "showcased",
-          "hint": "v. 展示",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "integrated",
-          "hint": "v. 整合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "governance",
-          "hint": "n. 治理",
-          "difficulty": "hard"
-        },
-        {
-          "id": 4,
-          "answer": "reshaping",
-          "hint": "v. 重塑",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "execute",
-          "hint": "v. 执行",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "collaboration",
-          "hint": "n. 协作",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "dominant",
-          "hint": "adj. 主导的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "deployed",
-          "hint": "v. 部署",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "optimization",
-          "hint": "n. 优化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "visualization",
-          "hint": "n. 可视化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "measurable",
-          "hint": "adj. 可衡量的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "significantly",
-          "hint": "adv. 显著地",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "sustainable",
-          "hint": "adj. 可持续的",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nArtificial intelligence is moving rapidly from experimental technology to real-world applications, as industry leaders showcased new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing.\nHeld from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.\nSpeaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are reshaping the internet itself.\nWhile large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on collaboration among multiple intelligent agents rather than isolated AI systems.\nParticipants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAccording to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the dominant source of token-based interactions. The shift, he said, will require internet infrastructure to evolve toward higher bandwidth, lower latency and stronger computing capabilities.\nThe conference also demonstrated how AI is being deployed in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy optimization and building maintenance, providing city managers with real-time visualization and decision-making tools.\nIndustry representatives also emphasized that AI innovation is creating measurable economic value.\nParticipants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAt the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while significantly reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services.\nBeyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve compatibility across different computing chips, reflects broader efforts to build more efficient and sustainable AI infrastructure.\nAs AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale. The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在大会上展示了面向城市、企业和消费者的新型AI解决方案。为期三天的大会重点展示了AI代理、大语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理被设计用于执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。与会者在国家会议中心体验VR产品。\n\n据邬贺铨介绍，到2030年，AI生成的流量预计将占全球互联网流量的60%左右，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。大会还展示了AI在实际场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n与会者在国家会议中心与人形机器人互动。大会上，快手表示其AI视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即兴商务平台报告称，AI代理正在越来越多地处理复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，与会者还确定了可信AI和绿色计算作为行业下一阶段发展的关键优先事项。FlagOS倡议的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效、可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。\n\n大会强调了中国加速AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
-    },
-    {
-      "id": 5,
-      "category": "sports",
-      "source": "CGTN",
-      "sourceUrl": "https://newsaf.cgtn.com/news/2026-07-31/Chinese-martial-art-Wushu-gains-popularity-among-Africa-s-youth-1Pe94P0KjRK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Chinese martial art Wushu gains popularity among Africa's youth",
-      "titleCn": "中国武术在非洲青年中日益流行",
-      "summary": "An ancient Chinese martial art is finding a growing following among young people in Africa, with practitioners in Kenya embracing Wushu not only as a competitive sport but also as a path to discipline, self-control and cultural exchange.",
-      "summaryCn": "中国武术在肯尼亚青年中广受欢迎，不仅作为竞技运动，还被视为培养纪律、自我控制和促进文化交流的途径。",
-      "wordCount": 475,
-      "paragraphs": [
-        {
-          "en": "An ancient Chinese martial art is finding a growing {{0}} among young people in Africa, with practitioners in Kenya {{1}} Wushu not only as a competitive sport, but also as a path to {{2}}, self-control and cultural {{3}}. Athletes from across Kenya gathered in the capital Nairobi for a Wushu competition organized by the Confucius Institute at Kenyatta University, {{4}} the sport's {{5}} {{6}} in the East African nation. {{7}} {{8}}, {{9}} and centuries of Chinese tradition, Wushu features {{10}} sword {{11}}, powerful kicks, {{12}} jumps and {{13}} strikes that demand {{14}}, balance and {{15}}. A sport {{16}} by cinema and culture\nFor 22-year-old competitor Elvis Munyasya, the journey into Wushu began with martial arts films and online videos. \"What inspired me a lot was action movies,\" Munyasya said.",
-          "cn": "一种古老的中国武术正在非洲年轻人中赢得越来越多的追随者，肯尼亚的习练者将武术不仅视为竞技运动，还视为通往纪律、自我控制和文化交流的道路。来自肯尼亚各地的运动员聚集在首都内罗毕，参加由肯雅塔大学孔子学院组织的武术比赛，突显了这项运动在东非国家日益增长的吸引力。武术融合了运动能力、艺术性和数百年的中国传统，以优雅的剑术套路、有力的踢腿、杂技般的跳跃和闪电般的击打为特色，要求精准、平衡和耐力。一项受电影和文化启发的运动。对于22岁的选手埃尔维斯·穆尼亚西亚来说，武术之旅始于武术电影和在线视频。“激励我最多的是动作片，”穆尼亚西亚说。"
-        },
-        {
-          "en": "\"Then I came across Wushu {{17}} on YouTube, and that is what inspired me to start training.\"\nHe says every movement in Wushu tells a story, and every performance reflects years of training, {{18}} and {{19}}. For many participants, competitions provide an opportunity to {{20}} their progress and learn from other athletes. \"This is where you come and see the level of your performance. Competing with other athletes helps you understand where you are, and you learn a lot,\" Munyasya added. Wushu player Elvis Munyasya during the first Kenya National Wushu competition at Kasarani Gymnasium, Nairobi, Kenya, July 30, 2026.",
-          "cn": "“然后我在YouTube上看到了武术表演，正是这激励我开始训练。”他说武术中的每个动作都在讲述一个故事，每次表演都反映了多年的训练、牺牲和决心。对许多参与者来说，比赛提供了衡量进步和向其他运动员学习的机会。“在这里你可以看到自己的表现水平。与其他运动员竞争帮助你了解自己的位置，你也能学到很多，”穆尼亚西亚补充道。武术选手埃尔维斯·穆尼亚西亚在2026年7月30日于肯尼亚内罗毕卡萨拉尼体育馆举行的首届肯尼亚全国武术比赛中。"
-        },
-        {
-          "en": "Africa\nMore than a martial art\nFor fellow competitor Veronica Wambui, Wushu has become a tool for personal growth and emotional discipline. \"It teaches you how to control yourself,\" she said. \"If someone insults you, you do not react immediately. You learn to {{21}} yourself or walk away. There is a lot of discipline in Wushu.”\nWushu player Veronica Wambui during the first Kenya National Wushu competition at Kasarani Gymnasium, Nairobi, Kenya, July 30, 2026.",
-          "cn": "非洲。不仅仅是武术。对于同为选手的维罗妮卡·万布伊来说，武术已成为个人成长和情绪纪律的工具。“它教你如何控制自己，”她说。“如果有人侮辱你，你不会立即反应。你学会克制自己或走开。武术中有很多纪律。”武术选手维罗妮卡·万布伊在2026年7月30日于肯尼亚内罗毕卡萨拉尼体育馆举行的首届肯尼亚全国武术比赛中。"
-        },
-        {
-          "en": "Africa\nPractitioners say the sport builds confidence, {{22}} and respect while introducing them to aspects of Chinese culture and {{23}}. Building bridges through sport\nOrganizers believe Wushu can play a broader role beyond athletic competition. Professor Xiaodong Zhou, Director of the Confucius Institute at Kenyatta University, during the first Kenya National Wushu competition at Kasarani Gymnasium, Nairobi, Kenya, July 30, 2026. Africa\n\"Martial arts is not only physical movement; it is also a culture,\" Director of the Confucius Institute at Kenyatta University, Professor Xiaodong Zhou said. \"Through this culture, people learn how to deal with others.",
-          "cn": "非洲。习练者表示，这项运动能建立自信、韧性和尊重，同时让他们接触中国文化和哲学。通过体育搭建桥梁。组织者认为武术可以在竞技之外发挥更广泛的作用。肯雅塔大学孔子学院院长周晓东教授在2026年7月30日于肯尼亚内罗毕卡萨拉尼体育馆举行的首届肯尼亚全国武术比赛中。非洲。“武术不仅仅是身体运动；它也是一种文化，”肯雅塔大学孔子学院院长周晓东教授说。“通过这种文化，人们学会如何与他人相处。"
-        },
-        {
-          "en": "Martial arts can improve health, strengthen character and create connections between people.\"\nZhou said Wushu has the potential to deepen cultural ties between Africa and China by encouraging mutual understanding through sport. Organizers hope it marks the beginning of a new chapter for Wushu in Kenya. As interest in the sport continues to grow, supporters believe it could become an important platform for youth development, cultural exchange and stronger people-to-people relations between Kenya and China.",
-          "cn": "武术可以改善健康、增强品格并建立人与人之间的联系。”周说，武术有潜力通过体育促进相互理解，加深非洲与中国之间的文化联系。组织者希望这标志着武术在肯尼亚新篇章的开始。随着人们对这项运动的兴趣持续增长，支持者认为它可能成为青年发展、文化交流以及肯尼亚与中国之间更紧密民间关系的重要平台。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "following",
-          "hint": "n. 追随者",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "embracing",
-          "hint": "v. 接受",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "discipline",
-          "hint": "n. 纪律",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "exchange",
-          "hint": "n. 交流",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "highlighting",
-          "hint": "v. 突出",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "expanding",
-          "hint": "adj. 扩大的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "appeal",
-          "hint": "n. 吸引力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "Blending",
-          "hint": "v. 融合",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "athleticism",
-          "hint": "n. 运动能力",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "artistry",
-          "hint": "n. 艺术性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "graceful",
-          "hint": "adj. 优雅的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "routines",
-          "hint": "n. 套路",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "acrobatic",
-          "hint": "adj. 杂技般的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "lightning-fast",
-          "hint": "adj. 闪电般的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "precision",
-          "hint": "n. 精准",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "endurance",
-          "hint": "n. 耐力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "inspired",
-          "hint": "v. 激励",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "performances",
-          "hint": "n. 表演",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
-          "answer": "sacrifice",
-          "hint": "n. 牺牲",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "determination",
-          "hint": "n. 决心",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "measure",
-          "hint": "v. 衡量",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "withhold",
-          "hint": "v. 克制",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "resilience",
-          "hint": "n. 韧性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 23,
-          "answer": "philosophy",
-          "hint": "n. 哲学",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "An ancient Chinese martial art is finding a growing following among young people in Africa, with practitioners in Kenya embracing Wushu not only as a competitive sport, but also as a path to discipline, self-control and cultural exchange.\nAthletes from across Kenya gathered in the capital Nairobi for a Wushu competition organized by the Confucius Institute at Kenyatta University, highlighting the sport's expanding appeal in the East African nation.\nBlending athleticism, artistry and centuries of Chinese tradition, Wushu features graceful sword routines, powerful kicks, acrobatic jumps and lightning-fast strikes that demand precision, balance and endurance.\nA sport inspired by cinema and culture\nFor 22-year-old competitor Elvis Munyasya, the journey into Wushu began with martial arts films and online videos.\n\"What inspired me a lot was action movies,\" Munyasya said. \"Then I came across Wushu performances on YouTube, and that is what inspired me to start training.\"\nHe says every movement in Wushu tells a story, and every performance reflects years of training, sacrifice and determination.\nFor many participants, competitions provide an opportunity to measure their progress and learn from other athletes.\n\"This is where you come and see the level of your performance. Competing with other athletes helps you understand where you are, and you learn a lot,\" Munyasya added.\nWushu player Elvis Munyasya during the first Kenya National Wushu competition at Kasarani Gymnasium, Nairobi, Kenya, July 30, 2026. \n Africa\nMore than a martial art\nFor fellow competitor Veronica Wambui, Wushu has become a tool for personal growth and emotional discipline.\n\"It teaches you how to control yourself,\" she said. \"If someone insults you, you do not react immediately. You learn to withhold yourself or walk away. There is a lot of discipline in Wushu.”\nWushu player Veronica Wambui during the first Kenya National Wushu competition at Kasarani Gymnasium, Nairobi, Kenya, July 30, 2026. \n Africa\nPractitioners say the sport builds confidence, resilience and respect while introducing them to aspects of Chinese culture and philosophy.\nBuilding bridges through sport\nOrganizers believe Wushu can play a broader role beyond athletic competition.\nProfessor Xiaodong Zhou, Director of the Confucius Institute at Kenyatta University, during the first Kenya National Wushu competition at Kasarani Gymnasium, Nairobi, Kenya, July 30, 2026. \n Africa\n\"Martial arts is not only physical movement; it is also a culture,\" Director of the Confucius Institute at Kenyatta University, Professor Xiaodong Zhou said. \"Through this culture, people learn how to deal with others. Martial arts can improve health, strengthen character and create connections between people.\"\nZhou said Wushu has the potential to deepen cultural ties between Africa and China by encouraging mutual understanding through sport. Organizers hope it marks the beginning of a new chapter for Wushu in Kenya.\nAs interest in the sport continues to grow, supporters believe it could become an important platform for youth development, cultural exchange and stronger people-to-people relations between Kenya and China.",
-      "fullTextCn": "一种古老的中国武术正在非洲年轻人中赢得越来越多的追随者，肯尼亚的习练者将武术不仅视为竞技运动，还视为通往纪律、自我控制和文化交流的道路。来自肯尼亚各地的运动员聚集在首都内罗毕，参加由肯雅塔大学孔子学院组织的武术比赛，突显了这项运动在东非国家日益增长的吸引力。武术融合了运动能力、艺术性和数百年的中国传统，以优雅的剑术套路、有力的踢腿、杂技般的跳跃和闪电般的击打为特色，要求精准、平衡和耐力。一项受电影和文化启发的运动。对于22岁的选手埃尔维斯·穆尼亚西亚来说，武术之旅始于武术电影和在线视频。“激励我最多的是动作片，”穆尼亚西亚说。\n\n“然后我在YouTube上看到了武术表演，正是这激励我开始训练。”他说武术中的每个动作都在讲述一个故事，每次表演都反映了多年的训练、牺牲和决心。对许多参与者来说，比赛提供了衡量进步和向其他运动员学习的机会。“在这里你可以看到自己的表现水平。与其他运动员竞争帮助你了解自己的位置，你也能学到很多，”穆尼亚西亚补充道。武术选手埃尔维斯·穆尼亚西亚在2026年7月30日于肯尼亚内罗毕卡萨拉尼体育馆举行的首届肯尼亚全国武术比赛中。\n\n非洲。不仅仅是武术。对于同为选手的维罗妮卡·万布伊来说，武术已成为个人成长和情绪纪律的工具。“它教你如何控制自己，”她说。“如果有人侮辱你，你不会立即反应。你学会克制自己或走开。武术中有很多纪律。”武术选手维罗妮卡·万布伊在2026年7月30日于肯尼亚内罗毕卡萨拉尼体育馆举行的首届肯尼亚全国武术比赛中。\n\n非洲。习练者表示，这项运动能建立自信、韧性和尊重，同时让他们接触中国文化和哲学。通过体育搭建桥梁。组织者认为武术可以在竞技之外发挥更广泛的作用。肯雅塔大学孔子学院院长周晓东教授在2026年7月30日于肯尼亚内罗毕卡萨拉尼体育馆举行的首届肯尼亚全国武术比赛中。非洲。“武术不仅仅是身体运动；它也是一种文化，”肯雅塔大学孔子学院院长周晓东教授说。“通过这种文化，人们学会如何与他人相处。\n\n武术可以改善健康、增强品格并建立人与人之间的联系。”周说，武术有潜力通过体育促进相互理解，加深非洲与中国之间的文化联系。组织者希望这标志着武术在肯尼亚新篇章的开始。随着人们对这项运动的兴趣持续增长，支持者认为它可能成为青年发展、文化交流以及肯尼亚与中国之间更紧密民间关系的重要平台。"
+      "fullTextCn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）像一个选择性安全系统。\n\n它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接的损伤。然而，新研究发现另一个过程在衰老过程中更早发生。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已可检测到，并在老年动物中恶化。\n\n这种变化早期出现在海马体，这是对学习和记忆重要的大脑区域。在此阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制，”研究人员说。团队识别出一种名为Mfsd2a的蛋白质作为该保护系统的重要组成部分。\n\nMfsd2a通常限制脑内血管上的不必要运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠年龄增长，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平均增加。\n\n过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质方式的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略能否安全转化为人类治疗方法。"
     }
   ]
 }
