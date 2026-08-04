@@ -1,170 +1,546 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "articles": [
     {
       "id": 1,
-      "category": "society",
+      "category": "military",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-30/The-other-final-whistle-World-Cup-and-global-health-s-unfinished-game-1PcPCLticTu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "The other final whistle: World Cup and global health's unfinished game",
-      "titleCn": "另一声终场哨：世界杯与全球健康未竟的比赛",
-      "summary": "Drawing on the stark contrast between the conclusion of the 2026 FIFA World Cup and the accelerating Ebola outbreak in the Democratic Republic of the Congo, this article analyzes the structural limits of leveraging mega-sporting events for global health governance. It shows that while partnerships like the FIFA-WHO alliance advance health advocacy, their impact remains constrained by non-binding terms and event-bound scopes, calling for stronger multilateral mechanisms.",
-      "summaryCn": "本文通过对比2026年世界杯结束与刚果（金）埃博拉疫情加速蔓延，指出FIFA与WHO的合作虽取得进展，但受限于非约束性承诺和资源依赖，未能有效应对全球健康危机，呼吁改革国际治理框架。",
-      "wordCount": 1095,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-30/US-launches-fresh-strikes-against-Iran-as-war-engulfs-more-countries-1Pc683we5nG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "US launches fresh strikes against Iran as war engulfs more countries",
+      "titleCn": "美国对伊朗发动新一轮打击，战争波及更多国家",
+      "summary": "The United States launched new strikes against Iran and Iran-backed groups on Wednesday, as Washington and Tehran continued a cycle of military escalation that has heightened fears of a broader regional conflict.",
+      "summaryCn": "美国与伊朗之间的军事升级引发区域冲突担忧，伊拉克遭联合打击，油价飙升，美国公众对战争支持率降至新低。",
+      "wordCount": 900,
       "paragraphs": [
         {
-          "en": "Editor's Note: In this article, Wu Yanni and Zhou Qing'an, researchers from the Global Development and Health Communication Center at China's Tsinghua University, examine the {{0}} divide between global sports {{1}} and acute public health crises. Drawing on the {{10}} contrast between the conclusion of the 2026 FIFA World Cup and the {{2}} Ebola outbreak in the Democratic Republic of the Congo, they argue that while institutional partnerships like the FIFA-WHO {{3}} have made meaningful {{4}} in health {{15}} and host-nation protocols, they remain {{5}} limited by non-binding commitments, host-government resource dependencies, and an inward-facing {{21}}. They call for a more serious examination and evolution of international {{14}} frameworks to {{6}} turn mass media platforms into {{7}} mechanisms for addressing broader, global-scale health emergencies. When Spain claimed their second World Cup title at MetLife Stadium in New Jersey on July 19, over 80,000 fans in the stadium and billions worldwide captured the moment. Across 39 days, 48 teams, and 104 matches spread across the United States, Canada, and Mexico, the 2026 FIFA World Cup drew what is likely the largest {{8}} global audience in history.",
-          "cn": "编者按：本文中，来自清华大学全球发展与健康传播中心的研究员吴燕妮和周庆安，审视了全球体育盛事与急性公共卫生危机之间的结构性鸿沟。他们利用2026年FIFA世界杯结束与刚果民主共和国埃博拉疫情加速蔓延之间的鲜明对比，认为尽管像FIFA-WHO联盟这样的机构伙伴关系在健康倡导和主办国规程方面取得了有意义的进展，但其本质上仍受限于非约束性承诺、主办国政府资源依赖以及内向型的范围。他们呼吁更认真地审视和演进国际治理框架，以可信地将大众媒体平台转变为应对更广泛、全球规模健康紧急情况的可持续机制。当西班牙于7月19日在新泽西州大都会人寿体育场夺得他们的第二个世界杯冠军时，体育场内的8万多名球迷和全球数十亿人捕捉到了这一时刻。在跨越美国、加拿大和墨西哥的39天里，48支球队和104场比赛，2026年FIFA世界杯吸引了可能是历史上最大规模的同步全球观众。"
+          "en": "The United States launched new strikes against Iran and Iran-backed groups on Wednesday, as Washington and Tehran continued a cycle of military {{0}} that has {{1}} fears of a broader regional conflict. US Central Command (CENTCOM) said on social media that US forces had carried out strikes against Iran, calling the operation \"a powerful response\" to Tuesday's firing by Iran on US bases in Jordan and at ships in the Strait of Hormuz. The strikes came after US President Donald Trump threatened to hit Iran \"hard\" in {{2}} for Tehran's latest actions. According to Iran's Islamic Revolutionary Guard Corps (IRGC), Iran had earlier targeted a US air base in Jordan with ballistic missiles and halted three \"violating\" oil tankers in the Strait of Hormuz. The US and Jordan said the missiles were {{3}}.",
+          "cn": "美国周三对伊朗及伊朗支持的组织发动新一轮打击，华盛顿和德黑兰继续着军事升级的循环，这加剧了人们对更广泛区域冲突的担忧。美国中央司令部在社交媒体上表示，美军对伊朗实施了打击，称此次行动是对周二伊朗向约旦美军基地和霍尔木兹海峡船只发射导弹的“有力回应”。这些打击是在美国总统特朗普威胁要“狠狠”打击伊朗以报复其最新行动之后进行的。据伊朗伊斯兰革命卫队称，伊朗此前曾用弹道导弹瞄准约旦的一个美国空军基地，并在霍尔木兹海峡拦截了三艘“违规”油轮。美国和约旦表示导弹已被拦截。"
         },
         {
-          "en": "On the same day, the World Health Organization's data showed that the Bundibugyo Ebola outbreak in the Democratic Republic of the Congo had reached 2,344 {{9}} cases and 930 deaths. Two days earlier, WHO Director-General Tedros Adhanom Ghebreyesus had issued a stark warning that this was the fastest-spreading Ebola outbreak on record. The 2018 North Kivu outbreak took more than ten months to {{11}} 2,000 confirmed cases, while this one took two. On June 24, France confirmed a case in a physician returning from the DRC, a sign that the outbreak's reach was {{12}} beyond Central Africa. These two realities shared the same day without sharing the same conversation.",
-          "cn": "同一天，世界卫生组织的数据显示，刚果民主共和国的本迪布焦埃博拉疫情已达到2344例确诊病例和930例死亡。两天前，世卫组织总干事谭德塞发出严厉警告，称这是有记录以来传播最快的埃博拉疫情。2018年的北基伍疫情用了超过十个月才超过2000例确诊病例，而这次只用了两个月。6月24日，法国确认一名从刚果（金）返回的医生感染，这表明疫情的影响范围正在超越中非。这两种现实共享同一天，却没有共享同一个对话。"
+          "en": "Following the Iranian attacks, CENTCOM said US and Saudi forces had conducted strikes in Iraq against what they described as \"Iran-aligned\" targets. Iraq's {{4}} Popular Mobilization Forces (PMF) said on Wednesday that multiple PMF headquarters across several provinces, including Baghdad, Basra and Nineveh, were hit in the US-Saudi strikes, leaving at least 20 people dead and 32 others {{5}}. Trump said he had not ruled out further strikes against Iran's regional allies. He also said he hoped to add a {{6}} authorizing tariffs on Iran to a Russia {{7}} bill introduced by the late Senator Lindsey Graham, rather than relying solely on sanctions. Unprecedented US-Saudi strikes raise concerns in Iraq\nThe US-Saudi strikes in Iraq came despite diplomatic efforts by Baghdad to address tensions.",
+          "cn": "在伊朗发动袭击后，中央司令部表示，美国和沙特部队在伊拉克对所谓的“伊朗结盟”目标进行了打击。伊拉克准军事组织人民动员力量周三表示，包括巴格达、巴士拉和尼尼微在内的多个省份的人民动员力量总部在美沙打击中遭到袭击，造成至少20人死亡，32人受伤。特朗普表示，他不排除对伊朗的地区盟友进行进一步打击。他还表示，希望将一项授权对伊朗征收关税的条款加入已故参议员林赛·格雷厄姆提出的俄罗斯制裁法案中，而不是仅仅依赖制裁。美沙对伊拉克的史无前例打击引发担忧。美沙在伊拉克的打击行动是在巴格达为缓和紧张局势做出外交努力的情况下进行的。"
         },
         {
-          "en": "The competition for global attention between sporting spectacle and public health crisis is a familiar struggle for global health {{13}}, who have long sought to turn moments of mass engagement into opportunities for better health communication and governance. Those efforts have produced results. The question of what the World Cup can do for global health is not unanswered; it has generated a body of institutional work that deserves to be examined on its own terms. A FIFA logo alongside World Health Organisation on a LED advertisement board. /CFP\nIn October 2019, FIFA and WHO signed a Memorandum of Understanding, renewed in May 2023.",
-          "cn": "体育盛事与公共卫生危机之间对全球注意力的竞争，对全球健康从业者来说是一场熟悉的斗争，他们长期以来一直寻求将大众参与的时刻转化为更好的健康传播和治理机会。这些努力已经产生了成果。世界杯能为全球健康做什么的问题并非没有答案；它已经产生了一系列值得按其自身条件审视的机构工作。一块FIFA标志与世卫组织标志并排出现在LED广告牌上。/CFP\n2019年10月，FIFA和WHO签署了一份谅解备忘录，并于2023年5月续签。"
+          "en": "Iraq's Ministerial Council for National Security {{8}} the attacks, saying they occurred while the Iraqi government was \"actively {{9}} with the relevant parties\" to verify and address concerns raised by both Saudi Arabia and the US over alleged attacks targeting Saudi territory. Analysts warned that the operation could further {{10}} Iraq's fragile political and security balance. \"The Iraqi government has been trying to execute a {{11}} balancing act between competing regional powers,\" said Mohammed al-Jubouri, a professor of media at Baghdad-based al-Iraqia University. \"These joint strikes risk destroying that {{12}} and pulling Iraq deeper into the US-Iran {{13}}.\"\nThe strikes also marked a significant shift in Washington and Riyadh's regional security approach, analysts said, warning that rising tensions with Iran and its allied groups could push the region toward a wider confrontation. The PMF is a state-sponsored umbrella organization made up of dozens of armed factions.",
+          "cn": "伊拉克国家安全部长级会议谴责了这些袭击，称袭击发生时伊拉克政府正在“积极与相关各方接触”，以核实和处理沙特和美国就据称针对沙特领土的袭击所提出的关切。分析人士警告说，此次行动可能进一步破坏伊拉克脆弱的政治和安全平衡。“伊拉克政府一直在试图在相互竞争的地区大国之间执行微妙的平衡行动，”巴格达伊拉克大学媒体学教授穆罕默德·朱布里说。“这些联合打击有可能破坏这种中立性，并将伊拉克更深地拖入美伊漩涡。”分析人士称，这些打击也标志着华盛顿和利雅得地区安全策略的重大转变，并警告说，与伊朗及其盟友组织日益紧张的局势可能将该地区推向更广泛的对抗。人民动员力量是一个由国家资助的伞式组织，由数十个武装派别组成。"
         },
         {
-          "en": "The MOU covers health advocacy, policy {{16}}, tournament health legacy, and equity, and goes further than commonly recognized in one respect: it explicitly includes WHO providing FIFA with technical advice on public health emergencies under the International Health Regulations (2005). Across successive tournaments, the partnership has produced measurable results, from anti-tobacco messaging reaching hundreds of millions through World Cup broadcasts to mental health campaigns woven into match programming. The Qatar 2022 World Cup represented the deepest institutional expression of this framework to date. FIFA, WHO, and the Qatar Ministry of Public Health established a three-party Sport for Health arrangement that {{18}} public health directly into tournament operations – including dedicated infectious disease {{17}}, mass gathering health protocols, and risk communication systems. WHO's 2024 report, Changing the Game: Strengthening Health and Well-being through Sport, documented the Qatar model as a reference case for future major events, describing it as an example of embedding health objectives into planning, implementation, and legacy evaluation.",
-          "cn": "该谅解备忘录涵盖健康倡导、政策对齐、赛事健康遗产和公平性，并在一个方面比通常认识到的更进一步：它明确包括WHO根据《国际卫生条例（2005）》向FIFA提供公共卫生紧急情况的技术建议。在连续多届赛事中，这一伙伴关系已产生可衡量的成果，从通过世界杯转播覆盖数亿人的反烟草信息，到融入比赛节目的心理健康运动。2022年卡塔尔世界杯代表了该框架迄今为止最深入的制度表达。FIFA、WHO和卡塔尔公共卫生部建立了三方“体育促进健康”安排，将公共卫生直接嵌入赛事运营——包括专门的传染病监测、大规模集会健康规程和风险沟通系统。WHO的2024年报告《改变游戏：通过体育加强健康和福祉》将卡塔尔模式记录为未来大型活动的参考案例，描述其为将健康目标嵌入规划、实施和遗产评估的范例。"
+          "en": "It was formally {{14}} into Iraq's armed forces after playing a major role in a campaign against the extremist Islamic State group. Iraqi international relations expert Nadhum Ali described the joint operation as \"a highly dangerous security escalation,\" saying PMF factions represent one of \"Iran's closest {{16}} networks,\" and that further retaliation is highly likely. \"The coming days will be critical,\" said Ali. \"If Iran opts for multi-front retaliation through its partners in Iraq, Yemen and Lebanon, the question is whether Washington and Riyadh are truly prepared for the {{18}}.\"\nThe escalation came as Israeli Prime Minister Benjamin Netanyahu visited Washington in an effort to increase pressure on Iran. The two leaders held a nearly 90-minute closed-door meeting on Tuesday focused largely on Iran and its nuclear program, according to statements released by the US and Israeli governments.",
+          "cn": "该组织在打击极端组织伊斯兰国的行动中发挥了重要作用后，被正式纳入伊拉克武装部队。伊拉克国际关系专家纳兹胡姆·阿里称此次联合行动是“高度危险的安全升级”，称人民动员力量派别代表“伊朗最亲密的代理网络之一”，进一步报复的可能性很大。“未来几天将至关重要，”阿里说。“如果伊朗选择通过其在伊拉克、也门和黎巴嫩的伙伴进行多线报复，问题是华盛顿和利雅得是否真正准备好应对后果。”此次升级发生之际，以色列总理内塔尼亚胡访问华盛顿，以加大对伊朗的压力。据美国和以色列政府发布的声明，两位领导人周二举行了近90分钟的闭门会议，主要聚焦伊朗及其核计划。"
         },
         {
-          "en": "This year, the Pan American Health Organization launched \"With Health, We All Win,\" providing public health guidance specifically tied to the 2026 tournament. The institutional record is genuine. Its governance logic, however, has boundaries. The FIFA-WHO MOU, for instance, explicitly states that it creates no legally binding commitments on either party and that implementation depends on the availability of resources from both sides. This is standard language for such instruments, designed to coordinate intentions, not to bind conduct.",
-          "cn": "今年，泛美卫生组织发起了“健康，我们共赢”活动，提供了专门针对2026年世界杯的公共卫生指导。机构记录是真实的。然而，其治理逻辑存在边界。例如，FIFA-WHO谅解备忘录明确声明，它不对任何一方产生具有法律约束力的承诺，且实施取决于双方资源的可用性。这是此类文书的标准语言，旨在协调意图，而非约束行为。"
+          "en": "A senior Israeli official said on Wednesday that Netanyahu expressed doubts over the possibility of a US-Iran agreement and discussed with Trump ways to increase economic pressure on Tehran through both military and non-military means. The official said the two sides discussed three options being considered by Trump: continuing efforts to reach an agreement with Iran; maintaining a maritime {{19}} and increasing economic pressure; or resuming and expanding military strikes. Trump has expressed concerns that a prolonged conflict could disrupt energy markets and harm the global economy, while Netanyahu argued that Iran was using the Strait of Hormuz – a key global oil route – as one of its remaining {{20}} points to pressure Washington. Global oil prices {{21}} on Wednesday amid the latest US-Iran developments and rising geopolitical risks. Both New York crude {{22}} and London Brent crude futures gained more than 7% during trading.",
+          "cn": "一位以色列高级官员周三表示，内塔尼亚胡对美伊达成协议的可能性表示怀疑，并与特朗普讨论了通过军事和非军事手段加大对德黑兰经济压力的方法。这位官员说，双方讨论了特朗普正在考虑的三种选择：继续努力与伊朗达成协议；维持海上封锁并加大经济压力；或恢复并扩大军事打击。特朗普表示担心长期冲突可能扰乱能源市场并损害全球经济，而内塔尼亚胡则认为伊朗正在利用霍尔木兹海峡——一条关键的全球石油通道——作为其向华盛顿施压的剩余杠杆点之一。在美伊最新事态发展和地缘政治风险上升的背景下，全球油价周三飙升。纽约原油期货和伦敦布伦特原油期货在交易中均上涨超过7%。"
         },
         {
-          "en": "The Qatar model carries its own conditions. Pillar Three of the MOU speaks of endeavoring to obtain the collaboration of host country representatives, which reads as an aspiration rather than a requirement. What Qatar demonstrated was that deep operational integration is achievable when a host government chooses to invest in it. The 2026 edition showed how {{19}} that condition can be. CNN reported in May that the US federal government allocated $625 million to host cities through FEMA's World Cup grant program, with public health receiving no dedicated federal funding.",
-          "cn": "卡塔尔模式有其自身条件。谅解备忘录的第三支柱提到“努力争取东道国代表的合作”，这读起来像是一种愿望而非要求。卡塔尔所展示的是，当东道国政府选择投资时，深度运营整合是可以实现的。2026年世界杯则展示了这一条件可能多么偶然。CNN在5月报道，美国联邦政府通过FEMA的世界杯拨款计划向主办城市拨款6.25亿美元，而公共卫生没有获得专门的联邦资金。"
+          "en": "Netanyahu also made clear that Israel would respond if Iran launched attacks against it. Given that the meeting produced no specific agreements, new cooperation mechanisms or major announcements, some Israeli media outlets analyzed that Washington and Tel Aviv do not have completely identical strategic priorities, with the US seeking to keep the situation under control while Israel wants to maintain pressure on Iran. They also noted that the two sides are maintaining high-level {{23}} mainly to manage differences rather than establish a new consensus. Besides, despite Israel's efforts to influence American policy, media said the US remains the key player shaping the region's {{24}}. US public grows {{25}} of Iran war\nThe Trump administration is facing growing pressure to end a conflict that has {{26}} the economy and pushed up prices ahead of the November midterm elections.",
+          "cn": "内塔尼亚胡还明确表示，如果伊朗对其发动袭击，以色列将作出回应。鉴于会议没有产生具体协议、新的合作机制或重大宣布，一些以色列媒体分析称，华盛顿和特拉维夫的战略优先事项并不完全一致，美国寻求控制局势，而以色列希望保持对伊朗的压力。他们还指出，双方保持高层协调主要是为了管理分歧，而不是建立新的共识。此外，尽管以色列努力影响美国政策，但媒体称美国仍是塑造该地区轨迹的关键角色。美国公众对伊朗战争日益警惕。特朗普政府正面临越来越大的压力，要求结束这场扰乱经济并在11月中期选举前推高物价的冲突。"
         },
         {
-          "en": "City health officials across host cities confirmed they were working within existing budgets. The Qatar model, for all its value as a reference case, was not institutionally {{20}}. A young man waits outside Mongbwalu General Referral Hospital for a relative with Ebola in Mongbwalu in the eastern Democratic Republic of the Congo (DRC). /CFP\nAnother boundary concerns the scope of the framework. The existing arrangement embeds health considerations into event organization and communication, serving participants, fans, and host communities within the tournament.",
-          "cn": "各主办城市的卫生官员确认，他们是在现有预算内开展工作。卡塔尔模式尽管作为参考案例具有价值，但并未在制度上得到复制。在刚果民主共和国东部的蒙布瓦卢，一名年轻人在蒙布瓦卢总转诊医院外等待一位患有埃博拉病的亲属。/CFP\n另一个边界涉及框架的范围。现有安排将健康考虑嵌入赛事组织和传播中，服务于参赛者、球迷和赛事内的主办社区。"
-        },
-        {
-          "en": "The MOU does reference public health emergencies under the International Health Regulations, but only as a channel for WHO to provide FIFA with non-binding technical advice. That is an information pathway, not an action mechanism. It does not extend to health crises unfolding beyond the tournament's immediate geography. The Ebola outbreak spread throughout the 2026 World Cup, yet fell outside the scope of what the framework was built to address. Embedding global health objectives into major sporting media events is, at its core, a {{22}} governance strategy, leveraging the reach of sport to access audiences that health campaigns struggle to reach, at relatively low institutional cost.",
-          "cn": "谅解备忘录确实提到了《国际卫生条例》下的公共卫生紧急情况，但仅作为WHO向FIFA提供非约束性技术建议的渠道。那是一条信息路径，而非行动机制。它并未扩展到赛事直接地理范围之外发生的健康危机。埃博拉疫情在2026年世界杯期间持续蔓延，却超出了该框架旨在解决的范围。将全球健康目标嵌入大型体育媒体活动，本质上是一种务实的治理策略，利用体育的覆盖面来接触健康运动难以触及的受众，且机构成本相对较低。"
-        },
-        {
-          "en": "The logic is sound, and the limitations are equally structural: effectiveness depends on host country willingness, {{24}} rests on the sustained goodwill of both parties, and coverage extends only as far as the event itself. The tobacco {{25}} may offer one lens for thinking about how governance frameworks evolve. Sport dropped sponsorships because the WHO Framework Convention on Tobacco Control redesigned the rules to create binding {{26}} that progressively closed off space in international contexts. The shift from voluntary commitment to enforceable standard took roughly two decades and required a dedicated {{27}} instrument. The FIFA-WHO MOU sits at an earlier stage of that kind of evolution.",
-          "cn": "逻辑是合理的，局限性同样是结构性的：有效性取决于东道国的意愿，可执行性依赖于双方的持续善意，覆盖范围仅限于赛事本身。烟草先例可能为思考治理框架如何演进提供了一个视角。体育界放弃赞助是因为WHO《烟草控制框架公约》重新设计了规则，创造了具有约束力的义务，逐步在国际环境中关闭了空间。从自愿承诺到可执行标准的转变大约花了二十年，并需要专门的多边文书。FIFA-WHO谅解备忘录处于这种演进的早期阶段。"
-        },
-        {
-          "en": "The 2026 World Cup is over. The Ebola outbreak in the DRC is not. Spain will defend their title in 2030. Between now and then, the question of what a global sporting event of this scale can contribute to global health, and what institutional arrangements can credibly deliver on that potential, deserves more serious attention than it has so far received. The final whistle has blown on the tournament.",
-          "cn": "2026年世界杯已经结束。刚果（金）的埃博拉疫情尚未结束。西班牙将在2030年卫冕。从现在到那时，一个如此规模的全球体育赛事能为全球健康贡献什么，以及哪些制度安排能可信地实现这一潜力，这个问题值得比迄今所得到的更认真的关注。终场哨已为赛事吹响。"
-        },
-        {
-          "en": "On this other game, it has not.",
-          "cn": "在另一场比赛中，它还没有。"
+          "en": "Public support for the war has declined, with Americans increasingly questioning the {{27}} of US military involvement. A Reuters/Ipsos poll released Monday found that only about one-third of Americans support the war against Iran – the lowest level of {{28}} since the conflict began. The poll, conducted from Friday through Sunday, showed that 69% of Americans, including four in 10 Republicans, believe the administration has not \"clearly explained the goals of US military involvement in Iran.\"",
+          "cn": "公众对战争的支持率下降，美国人越来越质疑美国军事介入的目标。路透社/益普索周一发布的民意调查发现，只有约三分之一的美国人支持对伊朗的战争——这是自冲突开始以来的最低支持率。这项周五至周日进行的调查显示，69%的美国人（包括十分之四的共和党人）认为政府没有“清楚解释美国军事介入伊朗的目标”。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "structural",
-          "hint": "adj. 结构性的",
+          "answer": "escalation",
+          "hint": "n. 升级",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "spectacles",
-          "hint": "n. 盛事，景象",
-          "difficulty": "hard"
+          "answer": "heightened",
+          "hint": "adj. 加剧的",
+          "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "accelerating",
-          "hint": "adj. 加速的",
+          "answer": "retaliation",
+          "hint": "n. 报复",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "alliance",
-          "hint": "n. 联盟",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "strides",
-          "hint": "n. 进步",
+          "answer": "intercepted",
+          "hint": "v. 拦截",
           "difficulty": "medium"
         },
         {
+          "id": 4,
+          "answer": "paramilitary",
+          "hint": "adj. 准军事的",
+          "difficulty": "hard"
+        },
+        {
           "id": 5,
-          "answer": "inherently",
-          "hint": "adv. 本质上",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "credibly",
-          "hint": "adv. 可信地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "sustainable",
-          "hint": "adj. 可持续的",
+          "answer": "wounded",
+          "hint": "adj. 受伤的",
           "difficulty": "easy"
         },
         {
+          "id": 6,
+          "answer": "provision",
+          "hint": "n. 条款",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "sanctions",
+          "hint": "n. 制裁",
+          "difficulty": "medium"
+        },
+        {
           "id": 8,
-          "answer": "synchronized",
-          "hint": "adj. 同步的",
+          "answer": "condemned",
+          "hint": "v. 谴责",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "confirmed",
-          "hint": "adj. 确诊的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "stark",
-          "hint": "adj. 严峻的",
+          "answer": "engaging",
+          "hint": "v. 接触",
           "difficulty": "medium"
         },
         {
+          "id": 10,
+          "answer": "destabilize",
+          "hint": "v. 破坏稳定",
+          "difficulty": "hard"
+        },
+        {
           "id": 11,
-          "answer": "surpass",
-          "hint": "v. 超过",
+          "answer": "delicate",
+          "hint": "adj. 微妙的",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "extending",
-          "hint": "v. 扩展",
-          "difficulty": "easy"
-        },
-        {
-          "id": 13,
-          "answer": "practitioners",
-          "hint": "n. 从业者",
+          "answer": "neutrality",
+          "hint": "n. 中立",
           "difficulty": "medium"
         },
         {
+          "id": 13,
+          "answer": "vortex",
+          "hint": "n. 漩涡",
+          "difficulty": "hard"
+        },
+        {
           "id": 14,
-          "answer": "governance",
-          "hint": "n. 治理",
+          "answer": "incorporated",
+          "hint": "v. 纳入",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "advocacy",
-          "hint": "n. 倡导",
+          "answer": "proxy",
+          "hint": "n. 代理",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "alignment",
-          "hint": "n. 对齐",
+          "answer": "fallout",
+          "hint": "n. 后果",
           "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "surveillance",
-          "hint": "n. 监测",
+          "answer": "blockade",
+          "hint": "n. 封锁",
           "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "leverage",
+          "hint": "n. 杠杆",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "surged",
+          "hint": "v. 飙升",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "futures",
+          "hint": "n. 期货",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "trajectory",
+          "hint": "n. 轨迹",
+          "difficulty": "hard"
+        },
+        {
+          "id": 23,
+          "answer": "wary",
+          "hint": "adj. 警惕的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "disrupted",
+          "hint": "v. 扰乱",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "objectives",
+          "hint": "n. 目标",
+          "difficulty": "easy"
+        },
+        {
+          "id": 26,
+          "answer": "backing",
+          "hint": "n. 支持",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "The United States launched new strikes against Iran and Iran-backed groups on Wednesday, as Washington and Tehran continued a cycle of military escalation that has heightened fears of a broader regional conflict.\nUS Central Command (CENTCOM) said on social media that US forces had carried out strikes against Iran, calling the operation \"a powerful response\" to Tuesday's firing by Iran on US bases in Jordan and at ships in the Strait of Hormuz.\nThe strikes came after US President Donald Trump threatened to hit Iran \"hard\" in retaliation for Tehran's latest actions.\nAccording to Iran's Islamic Revolutionary Guard Corps (IRGC), Iran had earlier targeted a US air base in Jordan with ballistic missiles and halted three \"violating\" oil tankers in the Strait of Hormuz. The US and Jordan said the missiles were intercepted.\nFollowing the Iranian attacks, CENTCOM said US and Saudi forces had conducted strikes in Iraq against what they described as \"Iran-aligned\" targets.\nIraq's paramilitary Popular Mobilization Forces (PMF) said on Wednesday that multiple PMF headquarters across several provinces, including Baghdad, Basra and Nineveh, were hit in the US-Saudi strikes, leaving at least 20 people dead and 32 others wounded.\nTrump said he had not ruled out further strikes against Iran's regional allies. He also said he hoped to add a provision authorizing tariffs on Iran to a Russia sanctions bill introduced by the late Senator Lindsey Graham, rather than relying solely on sanctions.\nUnprecedented US-Saudi strikes raise concerns in Iraq\nThe US-Saudi strikes in Iraq came despite diplomatic efforts by Baghdad to address tensions.\nIraq's Ministerial Council for National Security condemned the attacks, saying they occurred while the Iraqi government was \"actively engaging with the relevant parties\" to verify and address concerns raised by both Saudi Arabia and the US over alleged attacks targeting Saudi territory.\nAnalysts warned that the operation could further destabilize Iraq's fragile political and security balance.\n\"The Iraqi government has been trying to execute a delicate balancing act between competing regional powers,\" said Mohammed al-Jubouri, a professor of media at Baghdad-based al-Iraqia University. \"These joint strikes risk destroying that neutrality and pulling Iraq deeper into the US-Iran vortex.\"\nThe strikes also marked a significant shift in Washington and Riyadh's regional security approach, analysts said, warning that rising tensions with Iran and its allied groups could push the region toward a wider confrontation.\nThe PMF is a state-sponsored umbrella organization made up of dozens of armed factions. It was formally incorporated into Iraq's armed forces after playing a major role in a campaign against the extremist Islamic State group.\nIraqi international relations expert Nadhum Ali described the joint operation as \"a highly dangerous security escalation,\" saying PMF factions represent one of \"Iran's closest proxy networks,\" and that further retaliation is highly likely.\n\"The coming days will be critical,\" said Ali. \"If Iran opts for multi-front retaliation through its partners in Iraq, Yemen and Lebanon, the question is whether Washington and Riyadh are truly prepared for the fallout.\"\nThe escalation came as Israeli Prime Minister Benjamin Netanyahu visited Washington in an effort to increase pressure on Iran.\nThe two leaders held a nearly 90-minute closed-door meeting on Tuesday focused largely on Iran and its nuclear program, according to statements released by the US and Israeli governments.\nA senior Israeli official said on Wednesday that Netanyahu expressed doubts over the possibility of a US-Iran agreement and discussed with Trump ways to increase economic pressure on Tehran through both military and non-military means.\nThe official said the two sides discussed three options being considered by Trump: continuing efforts to reach an agreement with Iran; maintaining a maritime blockade and increasing economic pressure; or resuming and expanding military strikes.\nTrump has expressed concerns that a prolonged conflict could disrupt energy markets and harm the global economy, while Netanyahu argued that Iran was using the Strait of Hormuz – a key global oil route – as one of its remaining leverage points to pressure Washington.\nGlobal oil prices surged on Wednesday amid the latest US-Iran developments and rising geopolitical risks. Both New York crude futures and London Brent crude futures gained more than 7% during trading.\nNetanyahu also made clear that Israel would respond if Iran launched attacks against it.\nGiven that the meeting produced no specific agreements, new cooperation mechanisms or major announcements, some Israeli media outlets analyzed that Washington and Tel Aviv do not have completely identical strategic priorities, with the US seeking to keep the situation under control while Israel wants to maintain pressure on Iran. They also noted that the two sides are maintaining high-level coordination mainly to manage differences rather than establish a new consensus. Besides, despite Israel's efforts to influence American policy, media said the US remains the key player shaping the region's trajectory.\nUS public grows wary of Iran war\nThe Trump administration is facing growing pressure to end a conflict that has disrupted the economy and pushed up prices ahead of the November midterm elections.\nPublic support for the war has declined, with Americans increasingly questioning the objectives of US military involvement.\nA Reuters/Ipsos poll released Monday found that only about one-third of Americans support the war against Iran – the lowest level of backing since the conflict began.\nThe poll, conducted from Friday through Sunday, showed that 69% of Americans, including four in 10 Republicans, believe the administration has not \"clearly explained the goals of US military involvement in Iran.\"",
+      "fullTextCn": "美国周三对伊朗及伊朗支持的组织发动新一轮打击，华盛顿和德黑兰继续着军事升级的循环，这加剧了人们对更广泛区域冲突的担忧。美国中央司令部在社交媒体上表示，美军对伊朗实施了打击，称此次行动是对周二伊朗向约旦美军基地和霍尔木兹海峡船只发射导弹的“有力回应”。这些打击是在美国总统特朗普威胁要“狠狠”打击伊朗以报复其最新行动之后进行的。据伊朗伊斯兰革命卫队称，伊朗此前曾用弹道导弹瞄准约旦的一个美国空军基地，并在霍尔木兹海峡拦截了三艘“违规”油轮。美国和约旦表示导弹已被拦截。\n\n在伊朗发动袭击后，中央司令部表示，美国和沙特部队在伊拉克对所谓的“伊朗结盟”目标进行了打击。伊拉克准军事组织人民动员力量周三表示，包括巴格达、巴士拉和尼尼微在内的多个省份的人民动员力量总部在美沙打击中遭到袭击，造成至少20人死亡，32人受伤。特朗普表示，他不排除对伊朗的地区盟友进行进一步打击。他还表示，希望将一项授权对伊朗征收关税的条款加入已故参议员林赛·格雷厄姆提出的俄罗斯制裁法案中，而不是仅仅依赖制裁。美沙对伊拉克的史无前例打击引发担忧。美沙在伊拉克的打击行动是在巴格达为缓和紧张局势做出外交努力的情况下进行的。\n\n伊拉克国家安全部长级会议谴责了这些袭击，称袭击发生时伊拉克政府正在“积极与相关各方接触”，以核实和处理沙特和美国就据称针对沙特领土的袭击所提出的关切。分析人士警告说，此次行动可能进一步破坏伊拉克脆弱的政治和安全平衡。“伊拉克政府一直在试图在相互竞争的地区大国之间执行微妙的平衡行动，”巴格达伊拉克大学媒体学教授穆罕默德·朱布里说。“这些联合打击有可能破坏这种中立性，并将伊拉克更深地拖入美伊漩涡。”分析人士称，这些打击也标志着华盛顿和利雅得地区安全策略的重大转变，并警告说，与伊朗及其盟友组织日益紧张的局势可能将该地区推向更广泛的对抗。人民动员力量是一个由国家资助的伞式组织，由数十个武装派别组成。\n\n该组织在打击极端组织伊斯兰国的行动中发挥了重要作用后，被正式纳入伊拉克武装部队。伊拉克国际关系专家纳兹胡姆·阿里称此次联合行动是“高度危险的安全升级”，称人民动员力量派别代表“伊朗最亲密的代理网络之一”，进一步报复的可能性很大。“未来几天将至关重要，”阿里说。“如果伊朗选择通过其在伊拉克、也门和黎巴嫩的伙伴进行多线报复，问题是华盛顿和利雅得是否真正准备好应对后果。”此次升级发生之际，以色列总理内塔尼亚胡访问华盛顿，以加大对伊朗的压力。据美国和以色列政府发布的声明，两位领导人周二举行了近90分钟的闭门会议，主要聚焦伊朗及其核计划。\n\n一位以色列高级官员周三表示，内塔尼亚胡对美伊达成协议的可能性表示怀疑，并与特朗普讨论了通过军事和非军事手段加大对德黑兰经济压力的方法。这位官员说，双方讨论了特朗普正在考虑的三种选择：继续努力与伊朗达成协议；维持海上封锁并加大经济压力；或恢复并扩大军事打击。特朗普表示担心长期冲突可能扰乱能源市场并损害全球经济，而内塔尼亚胡则认为伊朗正在利用霍尔木兹海峡——一条关键的全球石油通道——作为其向华盛顿施压的剩余杠杆点之一。在美伊最新事态发展和地缘政治风险上升的背景下，全球油价周三飙升。纽约原油期货和伦敦布伦特原油期货在交易中均上涨超过7%。\n\n内塔尼亚胡还明确表示，如果伊朗对其发动袭击，以色列将作出回应。鉴于会议没有产生具体协议、新的合作机制或重大宣布，一些以色列媒体分析称，华盛顿和特拉维夫的战略优先事项并不完全一致，美国寻求控制局势，而以色列希望保持对伊朗的压力。他们还指出，双方保持高层协调主要是为了管理分歧，而不是建立新的共识。此外，尽管以色列努力影响美国政策，但媒体称美国仍是塑造该地区轨迹的关键角色。美国公众对伊朗战争日益警惕。特朗普政府正面临越来越大的压力，要求结束这场扰乱经济并在11月中期选举前推高物价的冲突。\n\n公众对战争的支持率下降，美国人越来越质疑美国军事介入的目标。路透社/益普索周一发布的民意调查发现，只有约三分之一的美国人支持对伊朗的战争——这是自冲突开始以来的最低支持率。这项周五至周日进行的调查显示，69%的美国人（包括十分之四的共和党人）认为政府没有“清楚解释美国军事介入伊朗的目标”。"
+    },
+    {
+      "id": 2,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-01/Challenges-persist-despite-Hamas-backing-Gaza-ceasefire-roadmap-1PfmDv8ZTUs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Challenges persist despite Hamas backing Gaza ceasefire roadmap",
+      "titleCn": "尽管哈马斯支持加沙停火路线图，挑战依然存在",
+      "summary": "Hamas has approved the latest draft of a roadmap aimed at completing the implementation of the second phase of the Gaza ceasefire agreement, marking a potential breakthrough in negotiations after more than two and a half years of conflict in the enclave.",
+      "summaryCn": "哈马斯虽同意加沙停火路线图，但以哈在解除武装与撤军顺序等核心问题上分歧依旧，协议实施面临重大挑战。",
+      "wordCount": 855,
+      "paragraphs": [
+        {
+          "en": "Hamas has approved the latest draft of a roadmap aimed at completing the implementation of the second phase of the Gaza ceasefire agreement, marking a potential {{0}} in negotiations after more than two and a half years of conflict in the enclave. However, major {{1}} between Hamas and Israel remain unresolved, particularly over the {{2}} of key steps, including {{3}}, Israel's military {{4}} and Gaza's post-war {{5}}. While Hamas says the transfer of weapons can only take place after Israeli forces withdraw from Gaza, Israel insists that the enclave must be fully {{6}} before any withdrawal. Analysts caution that Hamas' acceptance of the roadmap does not necessarily indicate a {{7}} political shift, but rather reflects its attempt to adapt to the realities of the {{8}} conflict. They said the agreement's success will ultimately depend on whether all parties can {{9}} their commitments during the implementation process.",
+          "cn": "哈马斯已批准旨在完成加沙停火协议第二阶段实施的最新路线图草案，这标志着在加沙地带冲突持续两年半多后，谈判可能取得突破。然而，哈马斯与以色列之间的重大分歧仍未解决，特别是在解除武装、以色列军事撤军和加沙战后治理等关键步骤的顺序上。哈马斯表示，武器移交只能在以色列军队撤出加沙后进行，而以色列则坚持加沙必须完全非军事化后才能撤军。分析人士警告说，哈马斯接受路线图并不一定表明其根本的政治转变，而是反映了其适应长期冲突现实的尝试。他们表示，协议的成功最终将取决于各方能否在实施过程中履行承诺。"
+        },
+        {
+          "en": "Hamas, Israel make {{10}} claims\nIn a statement on Friday, Hamas said it agreed to include discussions on the transfer of heavy weapons within the framework of the Gaza ceasefire agreement, but only on the condition that Israel first ends all forms of military action and withdraws from the Gaza Strip. According to the statement, the conditions include a complete halt to Israeli military operations, the withdrawal of Israeli forces, the entry and assumption of duties by the Palestinian National Committee for the Administration of Gaza (NCAG) to handle civil functions, the {{11}} of international stabilization forces, the {{12}} of armed groups and militias established by Israel, the launch of reconstruction efforts and {{13}} for Palestinian self-determination and an independent Palestinian state. Hamas senior official Basem Naim said on the same day that, after intense negotiations, the group had agreed to the latest version of the ceasefire roadmap. He stressed that Israel must fulfill its commitments under the agreement, while {{14}} and guarantor countries should take responsibility for monitoring and pressuring Israel to comply with the deal and prevent {{15}}. Israel, however, {{16}} the proposal, with far-right National Security Minister Itamar Ben-Gvir saying the latest Gaza ceasefire roadmap announced by the so-called \"Board of Peace\" was \"unacceptable.\"\nBen-Gvir argued that a commitment to halt attacks on Hamas members would effectively allow the group to prepare for another {{17}}.",
+          "cn": "哈马斯与以色列说法矛盾"
+        },
+        {
+          "en": "The Israeli Prime Minister's Office said a day earlier that the current disarmament plan did not meet Israel's requirements, emphasizing that Israeli forces would only withdraw after Gaza was fully demilitarized. Israeli officials said troops would not pull back from their current positions along the \"yellow line\" until Hamas achieved \"{{18}} disarmament.\"\nMeanwhile, Israeli military operations in Gaza have continued. The Israel Defense Forces said on Friday that recent airstrikes across Gaza had killed two Hamas officials. The military also said it had carried out dozens of operations in the occupied West Bank over the past week, arresting more than 200 Palestinians. Implementation remains the biggest challenge\n\"The proposal does not eliminate the fundamental disagreements between the parties,\" said Esmat Mansour, a political analyst based in Ramallah.",
+          "cn": "哈马斯在周五的一份声明中表示，同意在加沙停火协议框架内讨论重型武器移交问题，但前提是以色列首先结束一切形式的军事行动并从加沙地带撤军。根据声明，条件包括以色列完全停止军事行动、以军撤出、巴勒斯坦加沙行政国家委员会（NCAG）进入并履行职责以处理民事职能、部署国际稳定部队、解散以色列建立的武装团体和民兵、启动重建工作，以及保障巴勒斯坦自决和独立巴勒斯坦国的建立。哈马斯高级官员巴塞姆·纳伊姆当天表示，经过激烈谈判，该组织已同意最新版本的停火路线图。他强调，以色列必须履行协议规定的承诺，而调解方和担保国应负责监督并施压以色列遵守协议，防止违约行为。然而，以色列拒绝了该提议，极右翼国家安全部长伊塔马尔·本-格维尔表示，所谓的“和平委员会”宣布的最新加沙停火路线图“不可接受”。本-格维尔辩称，承诺停止对哈马斯成员的攻击实际上将允许该组织准备另一次袭击。"
+        },
+        {
+          "en": "\"The most sensitive issues have effectively been postponed to the implementation stage, where they are likely to face their most difficult test.\"\nBeyond the dispute over whether withdrawal or disarmament should come first, analysts say the roadmap faces broader challenges, particularly regarding Gaza's future administration and reconstruction. Under the proposed arrangement, Hamas would transfer governance responsibilities in Gaza to a Palestinian national committee. Palestinian analyst Akram Atallah said the committee would face major {{19}}, including securing broad Palestinian support, rebuilding {{20}} institutions and obtaining sufficient {{21}} for reconstruction. Meanwhile, the post-war governance mechanism has also encountered difficulties. The United States announced the establishment of the \"Board of Peace\" in January to oversee Gaza's transitional administration, but the {{22}} has faced setbacks.",
+          "cn": "以色列总理办公室前一天表示，当前的解除武装计划不符合以色列的要求，强调以色列军队只有在加沙完全非军事化后才会撤出。以色列官员表示，在哈马斯实现“真正解除武装”之前，部队不会从“黄线”沿线的当前位置撤出。与此同时，以色列在加沙的军事行动仍在继续。以色列国防军周五表示，最近在加沙各地的空袭打死了两名哈马斯官员。军方还表示，过去一周在约旦河西岸进行了数十次行动，逮捕了200多名巴勒斯坦人。实施仍是最大挑战。"
+        },
+        {
+          "en": "Several US allies, including France, Norway, New Zealand and Italy, reportedly declined to participate. The board has also struggled to secure reconstruction funding, with reports suggesting it had raised less than $1 billion, far below the previously proposed target of $17 billion. In April, reports emerged that the board had yet to enter Gaza due to funding shortages and other obstacles. While Hamas' approval of the roadmap represents an important political step, the coming months will determine whether the understandings reached through negotiations can be translated into lasting arrangements on the ground. Li Zixin, a Middle East expert at the China Institute of International Studies, told China Media Group that the agreement could ultimately fail if it does not clearly define Israel's obligations.",
+          "cn": "“该提议并未消除各方之间的根本分歧，”拉姆安拉的政治分析家埃斯马特·曼苏尔说。“最敏感的问题实际上已被推迟到实施阶段，届时它们可能面临最艰难的考验。”除了撤军与解除武装孰先孰后的争议外，分析人士表示，路线图面临更广泛的挑战，特别是在加沙未来的行政管理和重建方面。根据拟议安排，哈马斯将把加沙的治理责任移交给一个巴勒斯坦国家委员会。巴勒斯坦分析家阿克拉姆·阿塔拉表示，该委员会将面临重大障碍，包括争取巴勒斯坦广泛支持、重建行政机构以及为重建获得足够资金。与此同时，战后治理机制也遇到了困难。美国于1月宣布成立“和平委员会”来监督加沙过渡行政，但该倡议遭遇挫折。"
+        },
+        {
+          "en": "\"The US-backed phased approach mainly outlines demands on Hamas, while Israel's responsibilities are not clearly specified,\" Li said. \"During implementation, Hamas may accuse Israel of failing to withdraw troops and blocking reconstruction supplies from entering Gaza, while Israel may accuse Hamas of violating the agreement and carrying out attacks. This could eventually lead to renewed fighting and the {{23}} of the deal.\"\n\"The real measure of success will not be the announcement of an agreement, but the ability of all parties to implement every stage of it in accordance with their commitments,\" Mansour said. \"Only then can the roadmap provide a genuine opportunity for long-term stability in the Gaza Strip.\"",
+          "cn": "据报道，包括法国、挪威、新西兰和意大利在内的几个美国盟友拒绝参与。该委员会还难以获得重建资金，有报道称其筹集资金不到10亿美元，远低于先前提出的170亿美元目标。4月，有报道称，由于资金短缺和其他障碍，该委员会尚未进入加沙。尽管哈马斯批准路线图代表了重要的政治步骤，但未来几个月将决定通过谈判达成的谅解能否转化为实地持久安排。中国国际问题研究院中东专家李自新对中央广播电视总台表示，如果协议未明确界定以色列的义务，最终可能失败。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "breakthrough",
+          "hint": "n. 突破",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "disputes",
+          "hint": "n. 分歧，争端",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "sequence",
+          "hint": "n. 顺序",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "disarmament",
+          "hint": "n. 解除武装",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "withdrawal",
+          "hint": "n. 撤军",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "demilitarized",
+          "hint": "adj. 非军事化的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "fundamental",
+          "hint": "adj. 根本的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "prolonged",
+          "hint": "adj. 长期的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "fulfill",
+          "hint": "v. 履行",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "contradictory",
+          "hint": "adj. 矛盾的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "deployment",
+          "hint": "n. 部署",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "dissolution",
+          "hint": "n. 解散",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "guarantees",
+          "hint": "n. 保证",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "mediators",
+          "hint": "n. 调解人",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "violations",
+          "hint": "n. 违约行为",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "rejected",
+          "hint": "v. 拒绝",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "assault",
+          "hint": "n. 袭击",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "genuine",
+          "hint": "adj. 真正的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
+          "answer": "obstacles",
+          "hint": "n. 障碍",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "administrative",
+          "hint": "adj. 行政的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "funding",
+          "hint": "n. 资金",
+          "difficulty": "easy"
+        },
+        {
+          "id": 22,
+          "answer": "initiative",
+          "hint": "n. 倡议",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "collapse",
+          "hint": "n. 崩溃",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Hamas has approved the latest draft of a roadmap aimed at completing the implementation of the second phase of the Gaza ceasefire agreement, marking a potential breakthrough in negotiations after more than two and a half years of conflict in the enclave.\nHowever, major disputes between Hamas and Israel remain unresolved, particularly over the sequence of key steps, including disarmament, Israel's military withdrawal and Gaza's post-war governance. While Hamas says the transfer of weapons can only take place after Israeli forces withdraw from Gaza, Israel insists that the enclave must be fully demilitarized before any withdrawal.\nAnalysts caution that Hamas' acceptance of the roadmap does not necessarily indicate a fundamental political shift, but rather reflects its attempt to adapt to the realities of the prolonged conflict. They said the agreement's success will ultimately depend on whether all parties can fulfill their commitments during the implementation process.\nHamas, Israel make contradictory claims\nIn a statement on Friday, Hamas said it agreed to include discussions on the transfer of heavy weapons within the framework of the Gaza ceasefire agreement, but only on the condition that Israel first ends all forms of military action and withdraws from the Gaza Strip.\nAccording to the statement, the conditions include a complete halt to Israeli military operations, the withdrawal of Israeli forces, the entry and assumption of duties by the Palestinian National Committee for the Administration of Gaza (NCAG) to handle civil functions, the deployment of international stabilization forces, the dissolution of armed groups and militias established by Israel, the launch of reconstruction efforts and guarantees for Palestinian self-determination and an independent Palestinian state.\nHamas senior official Basem Naim said on the same day that, after intense negotiations, the group had agreed to the latest version of the ceasefire roadmap. He stressed that Israel must fulfill its commitments under the agreement, while mediators and guarantor countries should take responsibility for monitoring and pressuring Israel to comply with the deal and prevent violations.\nIsrael, however, rejected the proposal, with far-right National Security Minister Itamar Ben-Gvir saying the latest Gaza ceasefire roadmap announced by the so-called \"Board of Peace\" was \"unacceptable.\"\nBen-Gvir argued that a commitment to halt attacks on Hamas members would effectively allow the group to prepare for another assault.\nThe Israeli Prime Minister's Office said a day earlier that the current disarmament plan did not meet Israel's requirements, emphasizing that Israeli forces would only withdraw after Gaza was fully demilitarized. Israeli officials said troops would not pull back from their current positions along the \"yellow line\" until Hamas achieved \"genuine disarmament.\"\nMeanwhile, Israeli military operations in Gaza have continued. The Israel Defense Forces said on Friday that recent airstrikes across Gaza had killed two Hamas officials. The military also said it had carried out dozens of operations in the occupied West Bank over the past week, arresting more than 200 Palestinians.\nImplementation remains the biggest challenge\n\"The proposal does not eliminate the fundamental disagreements between the parties,\" said Esmat Mansour, a political analyst based in Ramallah. \"The most sensitive issues have effectively been postponed to the implementation stage, where they are likely to face their most difficult test.\"\nBeyond the dispute over whether withdrawal or disarmament should come first, analysts say the roadmap faces broader challenges, particularly regarding Gaza's future administration and reconstruction.\nUnder the proposed arrangement, Hamas would transfer governance responsibilities in Gaza to a Palestinian national committee. Palestinian analyst Akram Atallah said the committee would face major obstacles, including securing broad Palestinian support, rebuilding administrative institutions and obtaining sufficient funding for reconstruction.\nMeanwhile, the post-war governance mechanism has also encountered difficulties.\nThe United States announced the establishment of the \"Board of Peace\" in January to oversee Gaza's transitional administration, but the initiative has faced setbacks. Several US allies, including France, Norway, New Zealand and Italy, reportedly declined to participate. The board has also struggled to secure reconstruction funding, with reports suggesting it had raised less than $1 billion, far below the previously proposed target of $17 billion. In April, reports emerged that the board had yet to enter Gaza due to funding shortages and other obstacles.\nWhile Hamas' approval of the roadmap represents an important political step, the coming months will determine whether the understandings reached through negotiations can be translated into lasting arrangements on the ground.\nLi Zixin, a Middle East expert at the China Institute of International Studies, told China Media Group that the agreement could ultimately fail if it does not clearly define Israel's obligations.\n\"The US-backed phased approach mainly outlines demands on Hamas, while Israel's responsibilities are not clearly specified,\" Li said. \"During implementation, Hamas may accuse Israel of failing to withdraw troops and blocking reconstruction supplies from entering Gaza, while Israel may accuse Hamas of violating the agreement and carrying out attacks. This could eventually lead to renewed fighting and the collapse of the deal.\"\n\"The real measure of success will not be the announcement of an agreement, but the ability of all parties to implement every stage of it in accordance with their commitments,\" Mansour said. \"Only then can the roadmap provide a genuine opportunity for long-term stability in the Gaza Strip.\"",
+      "fullTextCn": "哈马斯已批准旨在完成加沙停火协议第二阶段实施的最新路线图草案，这标志着在加沙地带冲突持续两年半多后，谈判可能取得突破。然而，哈马斯与以色列之间的重大分歧仍未解决，特别是在解除武装、以色列军事撤军和加沙战后治理等关键步骤的顺序上。哈马斯表示，武器移交只能在以色列军队撤出加沙后进行，而以色列则坚持加沙必须完全非军事化后才能撤军。分析人士警告说，哈马斯接受路线图并不一定表明其根本的政治转变，而是反映了其适应长期冲突现实的尝试。他们表示，协议的成功最终将取决于各方能否在实施过程中履行承诺。\n\n哈马斯与以色列说法矛盾\n\n哈马斯在周五的一份声明中表示，同意在加沙停火协议框架内讨论重型武器移交问题，但前提是以色列首先结束一切形式的军事行动并从加沙地带撤军。根据声明，条件包括以色列完全停止军事行动、以军撤出、巴勒斯坦加沙行政国家委员会（NCAG）进入并履行职责以处理民事职能、部署国际稳定部队、解散以色列建立的武装团体和民兵、启动重建工作，以及保障巴勒斯坦自决和独立巴勒斯坦国的建立。哈马斯高级官员巴塞姆·纳伊姆当天表示，经过激烈谈判，该组织已同意最新版本的停火路线图。他强调，以色列必须履行协议规定的承诺，而调解方和担保国应负责监督并施压以色列遵守协议，防止违约行为。然而，以色列拒绝了该提议，极右翼国家安全部长伊塔马尔·本-格维尔表示，所谓的“和平委员会”宣布的最新加沙停火路线图“不可接受”。本-格维尔辩称，承诺停止对哈马斯成员的攻击实际上将允许该组织准备另一次袭击。\n\n以色列总理办公室前一天表示，当前的解除武装计划不符合以色列的要求，强调以色列军队只有在加沙完全非军事化后才会撤出。以色列官员表示，在哈马斯实现“真正解除武装”之前，部队不会从“黄线”沿线的当前位置撤出。与此同时，以色列在加沙的军事行动仍在继续。以色列国防军周五表示，最近在加沙各地的空袭打死了两名哈马斯官员。军方还表示，过去一周在约旦河西岸进行了数十次行动，逮捕了200多名巴勒斯坦人。实施仍是最大挑战。\n\n“该提议并未消除各方之间的根本分歧，”拉姆安拉的政治分析家埃斯马特·曼苏尔说。“最敏感的问题实际上已被推迟到实施阶段，届时它们可能面临最艰难的考验。”除了撤军与解除武装孰先孰后的争议外，分析人士表示，路线图面临更广泛的挑战，特别是在加沙未来的行政管理和重建方面。根据拟议安排，哈马斯将把加沙的治理责任移交给一个巴勒斯坦国家委员会。巴勒斯坦分析家阿克拉姆·阿塔拉表示，该委员会将面临重大障碍，包括争取巴勒斯坦广泛支持、重建行政机构以及为重建获得足够资金。与此同时，战后治理机制也遇到了困难。美国于1月宣布成立“和平委员会”来监督加沙过渡行政，但该倡议遭遇挫折。\n\n据报道，包括法国、挪威、新西兰和意大利在内的几个美国盟友拒绝参与。该委员会还难以获得重建资金，有报道称其筹集资金不到10亿美元，远低于先前提出的170亿美元目标。4月，有报道称，由于资金短缺和其他障碍，该委员会尚未进入加沙。尽管哈马斯批准路线图代表了重要的政治步骤，但未来几个月将决定通过谈判达成的谅解能否转化为实地持久安排。中国国际问题研究院中东专家李自新对中央广播电视总台表示，如果协议未明确界定以色列的义务，最终可能失败。\n\n“美国支持的分阶段方法主要概述了对哈马斯的要求，而以色列的责任并未明确说明，”李说。“在实施过程中，哈马斯可能指责以色列未能撤军并阻止重建物资进入加沙，而以色列可能指责哈马斯违反协议并进行袭击。这最终可能导致战斗重新爆发和协议崩溃。”“成功的真正衡量标准不是协议的宣布，而是各方根据承诺实施每个阶段的能力，”曼苏尔说。“只有这样，路线图才能为加沙地带的长期稳定提供真正的机会。”"
+    },
+    {
+      "id": 3,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-08-03/detail-ihfhvays7510135.shtml",
+      "title": "Wanting to 'decouple from China'? It is simply impossible",
+      "titleCn": "想要“与中国脱钩”？这根本不可能",
+      "summary": "(ECNS) -- A stark contrast is emerging in today's international discourse: on one side, Western politicians relentlessly promote so-called supply chain \"de-risking,\" under the spotlight, introducing one legislative proposal after another.",
+      "summaryCn": "西方政客推动与中国供应链“脱钩”的代价极其高昂且不切实际，市场力量和企业选择最终将使这一努力徒劳无功。",
+      "wordCount": 819,
+      "paragraphs": [
+        {
+          "en": "(ECNS) -- A stark contrast is {{0}} in today's international discourse: on one side, Western politicians {{1}} promote so-called supply chain \"de-risking,\" under the spotlight, introducing one legislative proposal after another. On the other side, markets and businesses are feeling the chill as they {{2}} the cold, hard costs of reality. A recent estimate by EY-Parthenon found that if the United States, the Eurozone, and the United Kingdom hope to largely {{3}} their dependence on Chinese supply chains in key industries by 2050, they would need to invest an additional $23.6 trillion over the next 25 years. The figure places an almost {{4}} price tag on the prolonged push to \"decouple from China.\"\nWhat does $23.6 trillion actually mean? It is {{5}} to more than 70% of the annual Gross Domestic Product (GDP) of the United States.",
+          "cn": "（中新网）-- 当今国际话语中正出现一种鲜明对比：一方面，西方政客在聚光灯下不遗余力地宣扬所谓的供应链“去风险化”，接二连三地提出立法提案。另一方面，市场和企业在面对现实冷酷高昂的成本时感到寒意。安永-博智隆最近的一项估算发现，如果美国、欧元区和英国希望在2050年前基本消除关键行业对中国供应链的依赖，它们需要在未来25年内额外投资23.6万亿美元。这一数字为长期推动“与中国脱钩”贴上了几乎难以想象的价格标签。23.6万亿美元到底意味着什么？它相当于美国年度国内生产总值（GDP）的70%以上。"
+        },
+        {
+          "en": "This implies that if Europe and the U.S. insist on a {{6}} separation from China's industrial chains, the cost would be extraordinarily high. It would not only {{7}} an unbearable burden on Western businesses but could even place the broader Western economy under severe {{8}}. More importantly, even if the West were willing to foot this enormous bill and pour such vast sums of money into the effort, ending their {{9}} on Chinese supply chains in the short term would remain virtually impossible. In recent years, Washington and Brussels have continued to introduce and expand {{10}} measures targeting China's industrial and supply chains .",
+          "cn": "这意味着，如果欧美坚持与中国产业链全面分离，代价将极其高昂。这不仅会给西方企业带来难以承受的负担，甚至可能使整个西方经济承受巨大压力。更重要的是，即使西方愿意承担这笔巨额账单，投入如此庞大的资金，短期内结束对中国供应链的依赖也几乎不可能。近年来，华盛顿和布鲁塞尔不断出台和扩大针对中国产业和供应链的限制措施。"
+        },
+        {
+          "en": "More recently, the European Union has reportedly been considering broader supply chain auditing rules, in an attempt to pressure European multinational corporations into reducing their reliance on critical Chinese components through {{11}} legal instruments. However, administrative intervention, cannot ultimately {{12}} the fundamental forces of the market. A U.S. financial institution acknowledged in a report on global \"nearshoring\" that true supply chain restructuring is by no means as simple as \"moving a factory.\" Every cross-border relocation of a production line involves substantial losses in the value of fixed assets, the {{13}} of supporting infrastructure, and sharp increases in cross-border logistics and {{14}} costs. These costs will ultimately be passed on to ordinary consumers in the West as {{15}} pressure.",
+          "cn": "最近，据报道欧盟正在考虑更广泛的供应链审计规则，试图通过强制性法律手段施压欧洲跨国公司减少对关键中国零部件的依赖。然而，行政干预终究无法凌驾于市场的基本力量之上。一家美国金融机构在全球“近岸外包”报告中承认，真正的供应链重组绝非“搬工厂”那么简单。每一次生产线的跨境迁移都涉及固定资产价值的大幅损失、配套基础设施的重复建设，以及跨境物流和合规成本的急剧上升。这些成本最终将作为通胀压力转嫁给西方普通消费者。"
+        },
+        {
+          "en": "A recent survey of supply chain executives shows that after repeated and costly disruptions, key decision-makers in Western enterprises are being forced to adopt a more {{16}} approach. Given the efficiency, quality, and {{17}} cost advantages offered by Chinese suppliers, many Western companies have concluded that continuing to prioritize them remains the most commercially rational choice. This is because Chinese enterprises no longer occupy their places in global industrial chains through simple \"low-end assembly.\" Instead, their technological advantages and deeply developed industrial ecosystems have {{18}} them within the very {{19}} of high-end global manufacturing. One of the clearest examples is currently unfolding in Morocco, on the shores of the Mediterranean Sea. To {{20}} tariffs and shorten transport distances, European automotive giants have in recent years touted Morocco as a so-called \"nearshoring paradise,\" attempting to build it into a {{21}} for \"de-risking\" away from China.",
+          "cn": "最近一项针对供应链高管的调查显示，在经历反复且代价高昂的中断后，西方企业的关键决策者正被迫采取更务实的态度。鉴于中国供应商提供的效率、质量和不可替代的成本优势，许多西方公司得出结论，继续优先选择它们仍然是最符合商业理性的决定。这是因为中国企业不再通过简单的“低端组装”在全球产业链中占据一席之地。相反，它们的技术优势和深度发展的产业生态已将其嵌入高端全球制造业的毛细血管中。最明显的例子之一正在地中海沿岸的摩洛哥上演。为了规避关税和缩短运输距离，欧洲汽车巨头近年来将摩洛哥吹捧为所谓的“近岸外包天堂”，试图将其打造为“去风险化”远离中国的滩头阵地。"
+        },
+        {
+          "en": "However, in-depth investigations by industry media have revealed an {{22}} reality for European policymakers. No sooner had European automakers established factories in Morocco than Chinese auto parts suppliers followed, embedding their technology and capital within the local supply chain. Modern automotive supply chains are vast and deeply interconnected. Many of the aluminum parts, battery materials, and critical electronic components purchased locally by European automakers in Morocco, can ultimately be traced back to Chinese Tier-2 and Tier-3 suppliers. With their high-precision molding technology, advanced surface treatment processes, and difficult-to-replicate economies of scale, Chinese companies have become an {{23}} foundation for European automakers operating in Morocco.",
+          "cn": "然而，行业媒体的深入调查揭示了欧洲政策制定者面临的一个讽刺现实。欧洲汽车制造商在摩洛哥建厂后不久，中国汽车零部件供应商便紧随其后，将其技术和资本嵌入当地供应链。现代汽车供应链庞大且深度互联。欧洲汽车制造商在摩洛哥当地采购的许多铝制部件、电池材料和关键电子元件，最终都可以追溯到中国的二级和三级供应商。凭借高精度成型技术、先进的表面处理工艺和难以复制的规模经济，中国企业已成为欧洲汽车制造商在摩洛哥运营不可或缺的基础。"
+        },
+        {
+          "en": "A similar story is unfolding not only in Morocco, but in industrial parks across Mexico. Drawing on their strong awareness of market opportunities, many Chinese enterprises have established operations in Mexico under the framework of the U.S.-Mexico-Canada Agreement. By {{24}} their technology and production capacity, they have gained direct access to the North American and positioned themselves close to the supply networks of the major U.S. automakers. European and American policymakers hoped to use Morocco and Mexico to reduce their reliance on China, but their efforts have instead opened up even broader market opportunities for Chinese enterprises.",
+          "cn": "类似的故事不仅在摩洛哥上演，也在墨西哥各地的工业园区上演。凭借对市场机会的敏锐意识，许多中国企业已在《美墨加协定》框架下在墨西哥开展业务。通过本地化技术和生产能力，它们直接进入北美市场，并靠近美国主要汽车制造商的供应网络。欧美政策制定者希望利用摩洛哥和墨西哥减少对中国的依赖，但他们的努力反而为中国企业打开了更广阔的市场机会。"
+        },
+        {
+          "en": "The \"flood barriers\" painstakingly constructed by Western politicians have quickly become little more than {{25}} sieves when confronted with the powerful forces of technological capability and cost competitiveness. the current structure of global industrial and supply chains emerged through decades of globalization, as tens of thousands of companies voted with their feet and survived repeated rounds of market competition. These deep industrial ties, built around the pursuit of maximum efficiency, cannot simply be severed by legislation drafted behind office desks. Western politicians may need to sit down and carefully consider the implications of this $23.6-trillion bill. After all, those who insist on driving against the wind may ultimately be the ones who suffer the consequences.",
+          "cn": "西方政客苦心建造的“防洪屏障”在技术能力和成本竞争力的强大力量面前，很快变成了漏水的筛子。当前全球产业和供应链的结构是在数十年全球化中形成的，成千上万家公司用脚投票，并在多轮市场竞争中幸存下来。这些围绕追求最大效率而建立的深厚产业联系，不可能简单地被办公室桌后起草的立法所切断。西方政客或许需要坐下来，仔细考虑这张23.6万亿美元账单的含义。毕竟，那些坚持逆风而行的人，最终可能自食其果。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "emerging",
+          "hint": "v. 出现",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "relentlessly",
+          "hint": "adv. 不懈地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 2,
+          "answer": "confront",
+          "hint": "v. 面对",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "eliminate",
+          "hint": "v. 消除",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "unimaginable",
+          "hint": "adj. 难以想象的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "equivalent",
+          "hint": "adj. 等价的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "sweeping",
+          "hint": "adj. 全面的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "impose",
+          "hint": "v. 施加",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "strain",
+          "hint": "n. 压力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "reliance",
+          "hint": "n. 依赖",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "restrictive",
+          "hint": "adj. 限制性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "mandatory",
+          "hint": "adj. 强制的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "override",
+          "hint": "v. 凌驾于",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "duplication",
+          "hint": "n. 重复",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "compliance",
+          "hint": "n. 合规",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "inflationary",
+          "hint": "adj. 通胀的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "pragmatic",
+          "hint": "adj. 务实的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "irreplaceable",
+          "hint": "adj. 不可替代的",
+          "difficulty": "hard"
         },
         {
           "id": 18,
@@ -174,811 +550,405 @@
         },
         {
           "id": 19,
-          "answer": "contingent",
-          "hint": "adj. 依条件而定的",
+          "answer": "capillaries",
+          "hint": "n. 毛细血管",
           "difficulty": "hard"
         },
         {
           "id": 20,
-          "answer": "replicated",
-          "hint": "v. 复制",
+          "answer": "evade",
+          "hint": "v. 规避",
           "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "scope",
-          "hint": "n. 范围",
-          "difficulty": "easy"
+          "answer": "beachhead",
+          "hint": "n. 滩头阵地",
+          "difficulty": "hard"
         },
         {
           "id": 22,
-          "answer": "pragmatic",
-          "hint": "adj. 务实的",
+          "answer": "ironic",
+          "hint": "adj. 讽刺的",
           "difficulty": "medium"
         },
         {
           "id": 23,
-          "answer": "enforceability",
-          "hint": "n. 可执行性",
+          "answer": "indispensable",
+          "hint": "adj. 不可或缺的",
           "difficulty": "hard"
         },
         {
           "id": 24,
-          "answer": "precedent",
-          "hint": "n. 先例",
+          "answer": "localizing",
+          "hint": "v. 本地化",
           "difficulty": "medium"
         },
         {
           "id": 25,
-          "answer": "obligations",
-          "hint": "n. 义务",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "multilateral",
-          "hint": "adj. 多边的",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "Editor's Note: In this article, Wu Yanni and Zhou Qing'an, researchers from the Global Development and Health Communication Center at China's Tsinghua University, examine the structural divide between global sports spectacles and acute public health crises. Drawing on the stark contrast between the conclusion of the 2026 FIFA World Cup and the accelerating Ebola outbreak in the Democratic Republic of the Congo, they argue that while institutional partnerships like the FIFA-WHO alliance have made meaningful strides in health advocacy and host-nation protocols, they remain inherently limited by non-binding commitments, host-government resource dependencies, and an inward-facing scope. They call for a more serious examination and evolution of international governance frameworks to credibly turn mass media platforms into sustainable mechanisms for addressing broader, global-scale health emergencies.\nWhen Spain claimed their second World Cup title at MetLife Stadium in New Jersey on July 19, over 80,000 fans in the stadium and billions worldwide captured the moment. Across 39 days, 48 teams, and 104 matches spread across the United States, Canada, and Mexico, the 2026 FIFA World Cup drew what is likely the largest synchronized global audience in history.\nOn the same day, the World Health Organization's data showed that the Bundibugyo Ebola outbreak in the Democratic Republic of the Congo had reached 2,344 confirmed cases and 930 deaths. Two days earlier, WHO Director-General Tedros Adhanom Ghebreyesus had issued a stark warning that this was the fastest-spreading Ebola outbreak on record. The 2018 North Kivu outbreak took more than ten months to surpass 2,000 confirmed cases, while this one took two. On June 24, France confirmed a case in a physician returning from the DRC, a sign that the outbreak's reach was extending beyond Central Africa.\nThese two realities shared the same day without sharing the same conversation. The competition for global attention between sporting spectacle and public health crisis is a familiar struggle for global health practitioners, who have long sought to turn moments of mass engagement into opportunities for better health communication and governance. Those efforts have produced results. The question of what the World Cup can do for global health is not unanswered; it has generated a body of institutional work that deserves to be examined on its own terms.\nA FIFA logo alongside World Health Organisation on a LED advertisement board. /CFP\nIn October 2019, FIFA and WHO signed a Memorandum of Understanding, renewed in May 2023. The MOU covers health advocacy, policy alignment, tournament health legacy, and equity, and goes further than commonly recognized in one respect: it explicitly includes WHO providing FIFA with technical advice on public health emergencies under the International Health Regulations (2005). Across successive tournaments, the partnership has produced measurable results, from anti-tobacco messaging reaching hundreds of millions through World Cup broadcasts to mental health campaigns woven into match programming.\nThe Qatar 2022 World Cup represented the deepest institutional expression of this framework to date. FIFA, WHO, and the Qatar Ministry of Public Health established a three-party Sport for Health arrangement that embedded public health directly into tournament operations – including dedicated infectious disease surveillance, mass gathering health protocols, and risk communication systems. WHO's 2024 report, Changing the Game: Strengthening Health and Well-being through Sport, documented the Qatar model as a reference case for future major events, describing it as an example of embedding health objectives into planning, implementation, and legacy evaluation. This year, the Pan American Health Organization launched \"With Health, We All Win,\" providing public health guidance specifically tied to the 2026 tournament.\nThe institutional record is genuine. Its governance logic, however, has boundaries.\nThe FIFA-WHO MOU, for instance, explicitly states that it creates no legally binding commitments on either party and that implementation depends on the availability of resources from both sides. This is standard language for such instruments, designed to coordinate intentions, not to bind conduct.\nThe Qatar model carries its own conditions. Pillar Three of the MOU speaks of endeavoring to obtain the collaboration of host country representatives, which reads as an aspiration rather than a requirement. What Qatar demonstrated was that deep operational integration is achievable when a host government chooses to invest in it. The 2026 edition showed how contingent that condition can be. CNN reported in May that the US federal government allocated $625 million to host cities through FEMA's World Cup grant program, with public health receiving no dedicated federal funding. City health officials across host cities confirmed they were working within existing budgets. The Qatar model, for all its value as a reference case, was not institutionally replicated.\nA young man waits outside Mongbwalu General Referral Hospital for a relative with Ebola in Mongbwalu in the eastern Democratic Republic of the Congo (DRC). /CFP\nAnother boundary concerns the scope of the framework. The existing arrangement embeds health considerations into event organization and communication, serving participants, fans, and host communities within the tournament. The MOU does reference public health emergencies under the International Health Regulations, but only as a channel for WHO to provide FIFA with non-binding technical advice. That is an information pathway, not an action mechanism. It does not extend to health crises unfolding beyond the tournament's immediate geography. The Ebola outbreak spread throughout the 2026 World Cup, yet fell outside the scope of what the framework was built to address.\nEmbedding global health objectives into major sporting media events is, at its core, a pragmatic governance strategy, leveraging the reach of sport to access audiences that health campaigns struggle to reach, at relatively low institutional cost. The logic is sound, and the limitations are equally structural: effectiveness depends on host country willingness, enforceability rests on the sustained goodwill of both parties, and coverage extends only as far as the event itself.\nThe tobacco precedent may offer one lens for thinking about how governance frameworks evolve. Sport dropped sponsorships because the WHO Framework Convention on Tobacco Control redesigned the rules to create binding obligations that progressively closed off space in international contexts. The shift from voluntary commitment to enforceable standard took roughly two decades and required a dedicated multilateral instrument. The FIFA-WHO MOU sits at an earlier stage of that kind of evolution.\nThe 2026 World Cup is over. The Ebola outbreak in the DRC is not. Spain will defend their title in 2030. Between now and then, the question of what a global sporting event of this scale can contribute to global health, and what institutional arrangements can credibly deliver on that potential, deserves more serious attention than it has so far received. The final whistle has blown on the tournament. On this other game, it has not.",
-      "fullTextCn": "编者按：本文中，来自清华大学全球发展与健康传播中心的研究员吴燕妮和周庆安，审视了全球体育盛事与急性公共卫生危机之间的结构性鸿沟。他们利用2026年FIFA世界杯结束与刚果民主共和国埃博拉疫情加速蔓延之间的鲜明对比，认为尽管像FIFA-WHO联盟这样的机构伙伴关系在健康倡导和主办国规程方面取得了有意义的进展，但其本质上仍受限于非约束性承诺、主办国政府资源依赖以及内向型的范围。他们呼吁更认真地审视和演进国际治理框架，以可信地将大众媒体平台转变为应对更广泛、全球规模健康紧急情况的可持续机制。当西班牙于7月19日在新泽西州大都会人寿体育场夺得他们的第二个世界杯冠军时，体育场内的8万多名球迷和全球数十亿人捕捉到了这一时刻。在跨越美国、加拿大和墨西哥的39天里，48支球队和104场比赛，2026年FIFA世界杯吸引了可能是历史上最大规模的同步全球观众。\n\n同一天，世界卫生组织的数据显示，刚果民主共和国的本迪布焦埃博拉疫情已达到2344例确诊病例和930例死亡。两天前，世卫组织总干事谭德塞发出严厉警告，称这是有记录以来传播最快的埃博拉疫情。2018年的北基伍疫情用了超过十个月才超过2000例确诊病例，而这次只用了两个月。6月24日，法国确认一名从刚果（金）返回的医生感染，这表明疫情的影响范围正在超越中非。这两种现实共享同一天，却没有共享同一个对话。\n\n体育盛事与公共卫生危机之间对全球注意力的竞争，对全球健康从业者来说是一场熟悉的斗争，他们长期以来一直寻求将大众参与的时刻转化为更好的健康传播和治理机会。这些努力已经产生了成果。世界杯能为全球健康做什么的问题并非没有答案；它已经产生了一系列值得按其自身条件审视的机构工作。一块FIFA标志与世卫组织标志并排出现在LED广告牌上。/CFP\n2019年10月，FIFA和WHO签署了一份谅解备忘录，并于2023年5月续签。\n\n该谅解备忘录涵盖健康倡导、政策对齐、赛事健康遗产和公平性，并在一个方面比通常认识到的更进一步：它明确包括WHO根据《国际卫生条例（2005）》向FIFA提供公共卫生紧急情况的技术建议。在连续多届赛事中，这一伙伴关系已产生可衡量的成果，从通过世界杯转播覆盖数亿人的反烟草信息，到融入比赛节目的心理健康运动。2022年卡塔尔世界杯代表了该框架迄今为止最深入的制度表达。FIFA、WHO和卡塔尔公共卫生部建立了三方“体育促进健康”安排，将公共卫生直接嵌入赛事运营——包括专门的传染病监测、大规模集会健康规程和风险沟通系统。WHO的2024年报告《改变游戏：通过体育加强健康和福祉》将卡塔尔模式记录为未来大型活动的参考案例，描述其为将健康目标嵌入规划、实施和遗产评估的范例。\n\n今年，泛美卫生组织发起了“健康，我们共赢”活动，提供了专门针对2026年世界杯的公共卫生指导。机构记录是真实的。然而，其治理逻辑存在边界。例如，FIFA-WHO谅解备忘录明确声明，它不对任何一方产生具有法律约束力的承诺，且实施取决于双方资源的可用性。这是此类文书的标准语言，旨在协调意图，而非约束行为。\n\n卡塔尔模式有其自身条件。谅解备忘录的第三支柱提到“努力争取东道国代表的合作”，这读起来像是一种愿望而非要求。卡塔尔所展示的是，当东道国政府选择投资时，深度运营整合是可以实现的。2026年世界杯则展示了这一条件可能多么偶然。CNN在5月报道，美国联邦政府通过FEMA的世界杯拨款计划向主办城市拨款6.25亿美元，而公共卫生没有获得专门的联邦资金。\n\n各主办城市的卫生官员确认，他们是在现有预算内开展工作。卡塔尔模式尽管作为参考案例具有价值，但并未在制度上得到复制。在刚果民主共和国东部的蒙布瓦卢，一名年轻人在蒙布瓦卢总转诊医院外等待一位患有埃博拉病的亲属。/CFP\n另一个边界涉及框架的范围。现有安排将健康考虑嵌入赛事组织和传播中，服务于参赛者、球迷和赛事内的主办社区。\n\n谅解备忘录确实提到了《国际卫生条例》下的公共卫生紧急情况，但仅作为WHO向FIFA提供非约束性技术建议的渠道。那是一条信息路径，而非行动机制。它并未扩展到赛事直接地理范围之外发生的健康危机。埃博拉疫情在2026年世界杯期间持续蔓延，却超出了该框架旨在解决的范围。将全球健康目标嵌入大型体育媒体活动，本质上是一种务实的治理策略，利用体育的覆盖面来接触健康运动难以触及的受众，且机构成本相对较低。\n\n逻辑是合理的，局限性同样是结构性的：有效性取决于东道国的意愿，可执行性依赖于双方的持续善意，覆盖范围仅限于赛事本身。烟草先例可能为思考治理框架如何演进提供了一个视角。体育界放弃赞助是因为WHO《烟草控制框架公约》重新设计了规则，创造了具有约束力的义务，逐步在国际环境中关闭了空间。从自愿承诺到可执行标准的转变大约花了二十年，并需要专门的多边文书。FIFA-WHO谅解备忘录处于这种演进的早期阶段。\n\n2026年世界杯已经结束。刚果（金）的埃博拉疫情尚未结束。西班牙将在2030年卫冕。从现在到那时，一个如此规模的全球体育赛事能为全球健康贡献什么，以及哪些制度安排能可信地实现这一潜力，这个问题值得比迄今所得到的更认真的关注。终场哨已为赛事吹响。\n\n在另一场比赛中，它还没有。"
-    },
-    {
-      "id": 2,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-08-02/detail-ihfhvays7507238.shtml",
-      "title": "Ten trips to Xinjiang: A foreign vlogger's discoveries challenge Western narratives",
-      "titleCn": "十次新疆之旅：外国博主的发现挑战西方叙事",
-      "summary": "\"Somebody already paid for you. You're a foreigner. You're a guest. Welcome.\"\nThis is something Colombian vlogger Fernando Munoz Bernal frequently hears during his travel in Xinjiang.\nFor years, swayed by inaccurate Western media coverage, many people in the international community have harbored misconceptions and stereotypes about Xinjiang.\nTo Munoz, the people of Xinjiang are \"some of the kindest people\" that he has seen, and Xinjiang is a diverse land that is well worth exploring. In his view, to know the real Xinjiang, one must “travel and see for yourself.”",
-      "summaryCn": "哥伦比亚博主费尔南多·穆尼奥斯通过十次新疆之旅，用亲身经历反驳了西方媒体的不实报道，呼吁人们亲自旅行以了解真实的新疆。",
-      "wordCount": 1106,
-      "paragraphs": [
-        {
-          "en": "(ECNS)-- \"Somebody already paid for you. You're a foreigner. You're a guest. Welcome.\"\nThis is something Colombian vlogger Fernando Munoz Bernal frequently hears during his travel in Xinjiang. For years, {{0}} by inaccurate Western media coverage, many people in the international community have {{1}} misconceptions and {{2}} about Xinjiang.",
-          "cn": "（中新网）——“已经有人替你付了。你是外国人，是客人。欢迎。”这是哥伦比亚博主费尔南多·穆尼奥斯·贝纳尔在新疆旅行时经常听到的话。多年来，受西方媒体不实报道的影响，国际社会许多人一直对新疆抱有误解和刻板印象。"
-        },
-        {
-          "en": "To Munoz, the people of Xinjiang are \"some of the kindest people\" that he has seen, and Xinjiang is a {{3}} land that is well worth exploring. In his view, to know the real Xinjiang, one must \"travel and see for yourself.\"\nRecently, he joined China News Network's News Lounge to share what he saw and felt in his Xinjiang journey. Traveling 150,000 kilometers: Discovering real rural China\nIn 2022, after semi-retiring, Munoz {{4}} on an extensive road trip across rural China. Over the past four years, his travels throughout the countryside have added up to more than 150,000 kilometers. \"Not too many people have been to those places and not too many people know a little bit of the history of China or China as a whole to be able to give some sort of {{5}} commentary,\" noted Munoz to explain why he started his journey.",
-          "cn": "对穆尼奥斯来说，新疆人民是他见过的“最善良的人”之一，新疆是一片值得探索的多元土地。在他看来，要了解真实的新疆，必须“亲自旅行和亲眼看看”。最近，他参加了中国新闻网《新闻会客厅》节目，分享他在新疆的所见所感。行程15万公里：发现真实的中国农村。2022年，半退休后，穆尼奥斯开始了穿越中国农村的广泛公路旅行。过去四年，他在乡村的旅行累计超过15万公里。“没有多少人去过那些地方，也没有多少人了解中国历史或中国整体，能够给出有见地的评论，”穆尼奥斯解释他为何开始这段旅程。"
-        },
-        {
-          "en": "He picked up his camera to {{6}} local customs along the way, focusing on capturing small yet meaningful changes {{7}} in rural areas. A series of documentary videos posted on social media have allowed many viewers to see a different side of China through his lens. Before arriving in China, almost everything Munoz knew about the country came from Western media reports. Yet after setting foot here, he realized what he had heard was vastly different from what he saw with his own eyes. Many {{8}} in the West cling to the stereotype that rural China remains {{9}} in poverty.",
-          "cn": "他拿起相机记录沿途的风土人情，专注于捕捉农村地区正在发生的小而深刻的变化。在社交媒体上发布的一系列纪录片视频，让许多观众通过他的镜头看到了中国的另一面。在来中国之前，穆尼奥斯对中国的了解几乎全部来自西方媒体报道。然而，踏上这片土地后，他意识到他所听到的与他亲眼所见大相径庭。西方许多叙事固守中国农村仍深陷贫困的刻板印象。"
-        },
-        {
-          "en": "But what Fernando has witnessed along his travels tells another story. Most rural families live in {{10}}, comfortable brick-and-mortar houses, paved roads reach every village, and modern {{11}} like air conditioners, water heaters, and solar panels have become standard. Even remote {{12}} enjoy stable 5G connectivity. Development takes time, as Munoz put it. He added, \"It doesn't happen overnight.",
-          "cn": "但费尔南多沿途所见却讲述了另一个故事。大多数农村家庭住在坚固舒适的砖瓦房中，柏油路通到每个村庄，空调、热水器和太阳能板等现代设施已成为标配。即使是偏远的村庄也享有稳定的5G连接。发展需要时间，正如穆尼奥斯所说。他补充道：“这不是一夜之间发生的。每个地区都不同，但道路就在那里。可能性就在那里。”"
-        },
-        {
-          "en": "Every region is different but the path is there. The possibility is there.\"\nTen visits to Xinjiang: Uncovering the distorted truth\nSpeaking of Munoz's travels across China, Xinjiangholds a special place in his journey across China, where he encountered countless {{13}} moments. On several occasions, when he finished a meal and prepared to pay, it turned out that someone had secretly settled his bill. No matter how he pressed for details, restaurant staff declined to name the kind stranger. They simply smiled and told him, \"No, you're a foreigner.",
-          "cn": "十次新疆之旅：揭开被扭曲的真相。谈到穆尼奥斯在中国的旅行，新疆在他的旅程中占有特殊地位，他在那里遇到了无数暖心的时刻。有几次，当他吃完饭准备付钱时，发现有人已经悄悄替他结了账。无论他如何追问细节，餐馆工作人员都拒绝透露那位好心人的名字。他们只是微笑着告诉他：“不，你是外国人。你是客人。欢迎……”他经历过许多这样感人的遭遇。至今，穆尼奥斯仍不知道这些陌生人是谁。这些意想不到的温暖举动描绘了他所经历的真实新疆，与他曾在媒体报道中遇到的描述形成鲜明对比。谈到美国所谓的《维吾尔强迫劳动预防法》，他注意到该法案要求新疆产品证明不是用强迫劳动制造的。"
-        },
-        {
-          "en": "You're a guest. Welcome...\" He has experienced many such touching encounters. To this day, Munoz still has no clue who these strangers were. Such unexpected acts of warmth paint the real Xinjiang as he experiences it, a {{14}} contrast to the portrayals he once encountered in media reports. Referring to the so-called Uygur Forced Labor Prevention Act enacted by the United States, he noticed that the Act requires products from Xinjiang to prove that they are not made with forced labor.",
-          "cn": "这种做法相当于先下结论再找证据。这违背了标准的法律逻辑，也违背了美国自己倡导的无罪推定原则。对此，穆尼奥斯评论道：“新疆受到了不同的对待。”关于西方媒体长期炒作的“种族灭绝”指控，他进一步指出维吾尔族人口几十年来稳步增长，并辩称：“这绝对说不通。这毫无道理。”他曾十次前往新疆，走访了南北疆40多个市县。他对这里情况的了解远超那些提出指控的人。"
-        },
-        {
-          "en": "Such an approach amounts to drawing conclusions first and then searching for evidence. It runs counter to standard legal logic and contradicts the presumption of innocence advocated by the United States itself. At this point, Munoz commented, \"Xinjiang is treated differently.\"\nRegarding the long-hyped {{15}} of \"{{16}}\" flared by Western media, he further pointed to the steady growth of the Uygur population over decades and argued, \"It doesn’t make absolute anything. It just doesn't make sense.\"\nHe has traveled to Xinjiang ten times, visiting more than 40 cities and counties across northern and southern Xinjiang. He knows far more about what is taking place here than those leveling such accusations.",
-          "cn": "至于“文化灭绝”的说法，他指着人民币纸币上印的维吾尔文字，以及新疆广播和电视节目中使用这种语言。他质疑有什么证据支持文化灭绝的说法。这些都是任何人只要去新疆打开收音机就能验证的日常事实。他说话时带着一丝困惑。他无法理解为什么有些人选择忽视显而易见的事实，却编造谣言并如此笃定地陈述。"
-        },
-        {
-          "en": "As for the claims of \"cultural genocide\", he pointed to the Uygur letters printed on Chinese banknotes, and the use of this language on Xinjiang radios and television programs. He questioned what evidence supported the claims of cultural genocide. These are everyday facts that anyone can verify simply by traveling to Xinjiang and turning on a radio. He spoke with a tinge of confusion. He could not understand why some people choose to ignore readily observable realities yet {{17}} rumors and state them with such {{18}}.",
-          "cn": "分享个人观察和经历时，他努力抑制愤怒，并为在镜头前情绪激动向观众道歉。他指出，即使在2022年发布的联合国人权报告中，也找不到“种族灭绝”一词。抹黑新疆的提法都以“这可能正在发生”“这可能正在发生”等不确定语言开头，没有任何确凿证据。在他看来，在猜测和道听途说的背景下，亲身前往该地区是了解真实新疆的唯一途径。镜头之外：希望更多游客前往新疆。作为长期致力于纪录片内容的博主，穆尼奥斯在旅途中遇到了许多实际障碍，并经历了持续的内心挣扎。"
-        },
-        {
-          "en": "Sharing his personal observations and experiences, he struggled to hold back his anger and apologized to the audience for his intense emotions on camera. He noted that even in the United Nations human rights report released in 2022, the term \"genocide\" cannot be found. References smearing Xinjiang are prefaced by \"This could be happening\", \"This may be happening\" and other uncertain languages without any conclusive evidence. From his perspective, against a backdrop of speculation and hearsay, firsthand travel to the region is the only path to understanding authentic Xinjiang. Beyond the lens: Hoping more visitors will travel to Xinjiang\nAs a vlogger long dedicated to documentary content, Munoz has encountered many practical obstacles during his journey and endured constant inner struggles.",
-          "cn": "他说，一些西方社交媒体平台存在微妙而系统的压制机制。每当他的内容与西方主流反华叙事相悖，尤其是展示新疆真实面貌的现场镜头时，算法就会悄悄限制他的传播，大幅削弱视频的影响力。他说：“我的YouTube频道大约有4.5万订阅者，但视频只有200次、300次观看。这完全不合逻辑。这说不通。”"
-        },
-        {
-          "en": "He said that some Western social media platforms operate subtle, systematic {{19}} mechanisms. Whenever his content runs counter to prevailing Western anti-China narratives, especially on-location footage showing the true face of Xinjiang, algorithms quietly {{20}} his reach, drastically {{21}} the videos' impact. \"I have about 45,000 subscribers on my YouTube channel and I was getting 200 views, 300 views. Something that is just illogical. It just doesn’t make sense,\" he remarked.",
-          "cn": "但他没有气馁，继续通过镜头记录和呈现他所看到的一切。他热情地谈论新疆：“你应该来新疆。就这么简单。你不需要特别许可。你不需要特别签证。你什么都不需要。现在，中国取消了对这么多国家的签证要求，直接来，上飞机。去新疆。亲自旅行，亲眼看看。”"
-        },
-        {
-          "en": "Undeterred, he continues to document and present what he sees through his lens. He spoke enthusiastically about Xinjiang, \"You should come to Xinjiang. It's that simple. You don't need a special permit. You don’t need a special visa.",
-          "cn": "一路旅行和记录，穆尼奥斯亲眼见证了中国广袤土地上的深刻变革和蓬勃活力。作为见证中国发展和转型的人，他感慨万千。"
-        },
-        {
-          "en": "You don't need anything. Now, with China removing all these visa requirements to so many countries around the world, just come and get on the plane. Go to Xinjiang. Travel and see for yourself.\"\nTraveling and recording along the way, Munoz has witnessed firsthand the profound transformations and {{22}} vitality across China’s vast land. As someone who has witnessed China’s development and transformation, he is filled with deep emotions.",
-          "cn": "他说，他感到幸运能近距离观察中国的进步。这个国家目标明确，稳步前进，这片土地散发出的活力给他留下了深刻印象。他也真诚希望自己的祖国哥伦比亚能从中国汲取发展经验，找到适合自身国情的道路。作为新晋父亲，他对未来的旅行有了新的期待。当孩子长大后，他将重新踏上中国之旅，与世界分享生动的中国故事。"
-        },
-        {
-          "en": "He says he feels fortunate to observe China's progress up close. The country moves forward steadily with clear goals, and the dynamism radiating from this land deeply impressed him. He also sincerely hopes that his home country, Colombia, can draw development experience from China and find a path suited to its own conditions. Being a new father, he has formed new expectations for his future travels. When his child grows older, he will resume his journey across China and share vivid Chinese stories with the world.",
-          "cn": ""
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "swayed",
-          "hint": "v. 影响，左右",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "harbored",
-          "hint": "v. 怀有（想法）",
-          "difficulty": "hard"
-        },
-        {
-          "id": 2,
-          "answer": "stereotypes",
-          "hint": "n. 刻板印象",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "diverse",
-          "hint": "adj. 多样的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "embarked",
-          "hint": "v. 开始（旅程）",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "educated",
-          "hint": "adj. 有见识的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "document",
-          "hint": "v. 记录",
-          "difficulty": "easy"
-        },
-        {
-          "id": 7,
-          "answer": "unfolding",
-          "hint": "v. 展现，发生",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "narratives",
-          "hint": "n. 叙事，说法",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "mired",
-          "hint": "adj. 陷入（困境）",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "sturdy",
-          "hint": "adj. 坚固的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "amenities",
-          "hint": "n. 设施",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "hamlets",
-          "hint": "n. 小村庄",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "heartwarming",
-          "hint": "adj. 暖心的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "stark",
-          "hint": "adj. 鲜明的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "allegations",
-          "hint": "n. 指控",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "genocide",
-          "hint": "n. 种族灭绝",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "fabricate",
-          "hint": "v. 编造",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "conviction",
-          "hint": "n. 确信",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "suppression",
-          "hint": "n. 压制",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "throttle",
-          "hint": "v. 限制，压制",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "dampening",
-          "hint": "v. 削弱，抑制",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "vibrant",
-          "hint": "adj. 充满活力的",
+          "answer": "leaky",
+          "hint": "adj. 漏水的",
           "difficulty": "medium"
         }
       ],
-      "fullText": "(ECNS)-- \"Somebody already paid for you. You're a foreigner. You're a guest. Welcome.\"\nThis is something Colombian vlogger Fernando Munoz Bernal frequently hears during his travel in Xinjiang.\nFor years, swayed by inaccurate Western media coverage, many people in the international community have harbored misconceptions and stereotypes about Xinjiang.\nTo Munoz, the people of Xinjiang are \"some of the kindest people\" that he has seen, and Xinjiang is a diverse land that is well worth exploring. In his view, to know the real Xinjiang, one must \"travel and see for yourself.\"\nRecently, he joined China News Network's News Lounge to share what he saw and felt in his Xinjiang journey.\nTraveling 150,000 kilometers: Discovering real rural China\nIn 2022, after semi-retiring, Munoz embarked on an extensive road trip across rural China. Over the past four years, his travels throughout the countryside have added up to more than 150,000 kilometers.\n\"Not too many people have been to those places and not too many people know a little bit of the history of China or China as a whole to be able to give some sort of educated commentary,\" noted Munoz to explain why he started his journey.\nHe picked up his camera to document local customs along the way, focusing on capturing small yet meaningful changes unfolding in rural areas. A series of documentary videos posted on social media have allowed many viewers to see a different side of China through his lens.\nBefore arriving in China, almost everything Munoz knew about the country came from Western media reports. Yet after setting foot here, he realized what he had heard was vastly different from what he saw with his own eyes.\nMany narratives in the West cling to the stereotype that rural China remains mired in poverty. But what Fernando has witnessed along his travels tells another story. Most rural families live in sturdy, comfortable brick-and-mortar houses, paved roads reach every village, and modern amenities like air conditioners, water heaters, and solar panels have become standard. Even remote hamlets enjoy stable 5G connectivity.\nDevelopment takes time, as Munoz put it.\nHe added, \"It doesn't happen overnight. Every region is different but the path is there. The possibility is there.\"\nTen visits to Xinjiang: Uncovering the distorted truth\nSpeaking of Munoz's travels across China, Xinjiangholds a special place in his journey across China, where he encountered countless heartwarming moments.\nOn several occasions, when he finished a meal and prepared to pay, it turned out that someone had secretly settled his bill. No matter how he pressed for details, restaurant staff declined to name the kind stranger. They simply smiled and told him, \"No, you're a foreigner. You're a guest. Welcome...\" He has experienced many such touching encounters.\nTo this day, Munoz still has no clue who these strangers were. Such unexpected acts of warmth paint the real Xinjiang as he experiences it, a stark contrast to the portrayals he once encountered in media reports.\nReferring to the so-called Uygur Forced Labor Prevention Act enacted by the United States, he noticed that the Act requires products from Xinjiang to prove that they are not made with forced labor. Such an approach amounts to drawing conclusions first and then searching for evidence. It runs counter to standard legal logic and contradicts the presumption of innocence advocated by the United States itself.\nAt this point, Munoz commented, \"Xinjiang is treated differently.\"\nRegarding the long-hyped allegations of \"genocide\" flared by Western media, he further pointed to the steady growth of the Uygur population over decades and argued, \"It doesn’t make absolute anything. It just doesn't make sense.\"\nHe has traveled to Xinjiang ten times, visiting more than 40 cities and counties across northern and southern Xinjiang. He knows far more about what is taking place here than those leveling such accusations.\nAs for the claims of \"cultural genocide\", he pointed to the Uygur letters printed on Chinese banknotes, and the use of this language on Xinjiang radios and television programs. He questioned what evidence supported the claims of cultural genocide.\nThese are everyday facts that anyone can verify simply by traveling to Xinjiang and turning on a radio. He spoke with a tinge of confusion.\nHe could not understand why some people choose to ignore readily observable realities yet fabricate rumors and state them with such conviction.\nSharing his personal observations and experiences, he struggled to hold back his anger and apologized to the audience for his intense emotions on camera.\nHe noted that even in the United Nations human rights report released in 2022, the term \"genocide\" cannot be found. References smearing Xinjiang are prefaced by \"This could be happening\", \"This may be happening\" and other uncertain languages without any conclusive evidence.\nFrom his perspective, against a backdrop of speculation and hearsay, firsthand travel to the region is the only path to understanding authentic Xinjiang.\nBeyond the lens: Hoping more visitors will travel to Xinjiang\nAs a vlogger long dedicated to documentary content, Munoz has encountered many practical obstacles during his journey and endured constant inner struggles.\nHe said that some Western social media platforms operate subtle, systematic suppression mechanisms. Whenever his content runs counter to prevailing Western anti-China narratives, especially on-location footage showing the true face of Xinjiang, algorithms quietly throttle his reach, drastically dampening the videos' impact.\n\"I have about 45,000 subscribers on my YouTube channel and I was getting 200 views, 300 views. Something that is just illogical. It just doesn’t make sense,\" he remarked. Undeterred, he continues to document and present what he sees through his lens.\nHe spoke enthusiastically about Xinjiang, \"You should come to Xinjiang. It's that simple. You don't need a special permit. You don’t need a special visa. You don't need anything. Now, with China removing all these visa requirements to so many countries around the world, just come and get on the plane. Go to Xinjiang. Travel and see for yourself.\"\nTraveling and recording along the way, Munoz has witnessed firsthand the profound transformations and vibrant vitality across China’s vast land. As someone who has witnessed China’s development and transformation, he is filled with deep emotions.\nHe says he feels fortunate to observe China's progress up close. The country moves forward steadily with clear goals, and the dynamism radiating from this land deeply impressed him.\nHe also sincerely hopes that his home country, Colombia, can draw development experience from China and find a path suited to its own conditions.\nBeing a new father, he has formed new expectations for his future travels. When his child grows older, he will resume his journey across China and share vivid Chinese stories with the world.",
-      "fullTextCn": "（中新网）——“已经有人替你付了。你是外国人，是客人。欢迎。”这是哥伦比亚博主费尔南多·穆尼奥斯·贝纳尔在新疆旅行时经常听到的话。多年来，受西方媒体不实报道的影响，国际社会许多人一直对新疆抱有误解和刻板印象。\n\n对穆尼奥斯来说，新疆人民是他见过的“最善良的人”之一，新疆是一片值得探索的多元土地。在他看来，要了解真实的新疆，必须“亲自旅行和亲眼看看”。最近，他参加了中国新闻网《新闻会客厅》节目，分享他在新疆的所见所感。行程15万公里：发现真实的中国农村。2022年，半退休后，穆尼奥斯开始了穿越中国农村的广泛公路旅行。过去四年，他在乡村的旅行累计超过15万公里。“没有多少人去过那些地方，也没有多少人了解中国历史或中国整体，能够给出有见地的评论，”穆尼奥斯解释他为何开始这段旅程。\n\n他拿起相机记录沿途的风土人情，专注于捕捉农村地区正在发生的小而深刻的变化。在社交媒体上发布的一系列纪录片视频，让许多观众通过他的镜头看到了中国的另一面。在来中国之前，穆尼奥斯对中国的了解几乎全部来自西方媒体报道。然而，踏上这片土地后，他意识到他所听到的与他亲眼所见大相径庭。西方许多叙事固守中国农村仍深陷贫困的刻板印象。\n\n但费尔南多沿途所见却讲述了另一个故事。大多数农村家庭住在坚固舒适的砖瓦房中，柏油路通到每个村庄，空调、热水器和太阳能板等现代设施已成为标配。即使是偏远的村庄也享有稳定的5G连接。发展需要时间，正如穆尼奥斯所说。他补充道：“这不是一夜之间发生的。每个地区都不同，但道路就在那里。可能性就在那里。”\n\n十次新疆之旅：揭开被扭曲的真相。谈到穆尼奥斯在中国的旅行，新疆在他的旅程中占有特殊地位，他在那里遇到了无数暖心的时刻。有几次，当他吃完饭准备付钱时，发现有人已经悄悄替他结了账。无论他如何追问细节，餐馆工作人员都拒绝透露那位好心人的名字。他们只是微笑着告诉他：“不，你是外国人。你是客人。欢迎……”他经历过许多这样感人的遭遇。至今，穆尼奥斯仍不知道这些陌生人是谁。这些意想不到的温暖举动描绘了他所经历的真实新疆，与他曾在媒体报道中遇到的描述形成鲜明对比。谈到美国所谓的《维吾尔强迫劳动预防法》，他注意到该法案要求新疆产品证明不是用强迫劳动制造的。\n\n这种做法相当于先下结论再找证据。这违背了标准的法律逻辑，也违背了美国自己倡导的无罪推定原则。对此，穆尼奥斯评论道：“新疆受到了不同的对待。”关于西方媒体长期炒作的“种族灭绝”指控，他进一步指出维吾尔族人口几十年来稳步增长，并辩称：“这绝对说不通。这毫无道理。”他曾十次前往新疆，走访了南北疆40多个市县。他对这里情况的了解远超那些提出指控的人。\n\n至于“文化灭绝”的说法，他指着人民币纸币上印的维吾尔文字，以及新疆广播和电视节目中使用这种语言。他质疑有什么证据支持文化灭绝的说法。这些都是任何人只要去新疆打开收音机就能验证的日常事实。他说话时带着一丝困惑。他无法理解为什么有些人选择忽视显而易见的事实，却编造谣言并如此笃定地陈述。\n\n分享个人观察和经历时，他努力抑制愤怒，并为在镜头前情绪激动向观众道歉。他指出，即使在2022年发布的联合国人权报告中，也找不到“种族灭绝”一词。抹黑新疆的提法都以“这可能正在发生”“这可能正在发生”等不确定语言开头，没有任何确凿证据。在他看来，在猜测和道听途说的背景下，亲身前往该地区是了解真实新疆的唯一途径。镜头之外：希望更多游客前往新疆。作为长期致力于纪录片内容的博主，穆尼奥斯在旅途中遇到了许多实际障碍，并经历了持续的内心挣扎。\n\n他说，一些西方社交媒体平台存在微妙而系统的压制机制。每当他的内容与西方主流反华叙事相悖，尤其是展示新疆真实面貌的现场镜头时，算法就会悄悄限制他的传播，大幅削弱视频的影响力。他说：“我的YouTube频道大约有4.5万订阅者，但视频只有200次、300次观看。这完全不合逻辑。这说不通。”\n\n但他没有气馁，继续通过镜头记录和呈现他所看到的一切。他热情地谈论新疆：“你应该来新疆。就这么简单。你不需要特别许可。你不需要特别签证。你什么都不需要。现在，中国取消了对这么多国家的签证要求，直接来，上飞机。去新疆。亲自旅行，亲眼看看。”\n\n一路旅行和记录，穆尼奥斯亲眼见证了中国广袤土地上的深刻变革和蓬勃活力。作为见证中国发展和转型的人，他感慨万千。\n\n他说，他感到幸运能近距离观察中国的进步。这个国家目标明确，稳步前进，这片土地散发出的活力给他留下了深刻印象。他也真诚希望自己的祖国哥伦比亚能从中国汲取发展经验，找到适合自身国情的道路。作为新晋父亲，他对未来的旅行有了新的期待。当孩子长大后，他将重新踏上中国之旅，与世界分享生动的中国故事。"
-    },
-    {
-      "id": 3,
-      "category": "military",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/news/military/2026-08-03/detail-ihfhvays7508214.shtml",
-      "title": "PLA celebrates 99th founding anniversary in march toward world-class military, with peace as enduring mission",
-      "titleCn": "解放军庆祝建军99周年，迈向世界一流军队，和平为永恒使命",
-      "summary": "Saturday marks the 99th founding anniversary of the Chinese People's Liberation Army (PLA) as it continues its journey from a fledgling revolutionary force to a modern military advancing toward its centenary.",
-      "summaryCn": "中国人民解放军在庆祝建军99周年之际，回顾了从南昌起义到现代化强军的历程，强调在党的领导下深化改革、反腐肃纪、提升战斗力，并积极为国际和平与安全作出贡献。",
-      "wordCount": 947,
-      "paragraphs": [
-        {
-          "en": "Saturday marks the 99th founding anniversary of the Chinese People's Liberation Army (PLA) as it continues its journey from a {{0}} revolutionary force to a modern military advancing toward its centenary. In Nanchang, in east China's Jiangxi Province, stands a memorial tower. At its summit are sculptures of an old-style rifle and the fluttering military flag, {{1}} the Nanchang Uprising led by the Communist Party of China (CPC) on Aug. 1 in 1927, a day now remembered as the starting point of the CPC-led people's armed forces. From a {{2}} beginning, the military has grown into a modern fighting force equipped with aircraft carriers, strategic missiles, stealth fighter jets and other advanced weaponry, and it is now marching with unstoppable {{3}}.",
-          "cn": "周六是中国人民解放军建军99周年纪念日，它正从一支初生的革命力量迈向现代化军队，朝着建军百年目标前进。在华东江西省南昌市，矗立着一座纪念塔。塔顶雕塑着一支老式步枪和飘扬的军旗，象征着1927年8月1日中国共产党领导的南昌起义，这一天被视为中共领导的人民武装力量的起点。从卑微的起点出发，这支军队已发展成为一支拥有航空母舰、战略导弹、隐形战斗机和其他先进武器的现代化战斗力量，目前正以不可阻挡的势头前进。"
-        },
-        {
-          "en": "Since the 18th CPC National Congress in 2012, the CPC Central Committee with Xi Jinping at its core has led China's national defense and military development to historic achievements, achieving historic {{4}}. On Thursday, while presiding over a group study session of the Political Bureau of the CPC Central Committee, Xi, general secretary of the CPC Central Committee, urged efforts to strengthen political guidance and deepen innovation-driven development to advance the high-quality modernization of national defense and the armed forces. On April 8, when addressing the opening ceremony of a training session for high-ranking military officials, Xi, also Chinese president and chairman of the Central Military Commission (CMC), stressed efforts to deepen political {{5}} in the military to maintain the {{6}} and glory of the people's armed forces. Over the decades, loyalty to the Party has served as a key factor behind the military's transformation and its {{7}} victories in different historical periods. The CPC Central Committee with Xi at its core has pushed forward political rectification within the military and strengthened the Party's leadership.",
-          "cn": "自2012年党的十八大以来，以习近平同志为核心的党中央领导中国国防和军队建设取得历史性成就，实现历史性变革。周四，习近平在主持中共中央政治局集体学习时强调，要增强政治引领，深化创新驱动，推进国防和军队高质量发展。4月8日，习近平在出席军队高级干部培训班开班式时，强调要深化军队政治整训，保持人民军队的纯洁和光荣。几十年来，对党的忠诚一直是军队转型和在不同历史时期取得连续胜利的关键因素。以习近平同志为核心的党中央推进了军队政治整训，加强了党的领导。"
-        },
-        {
-          "en": "Since the 18th CPC National Congress, the PLA has pressed ahead with thorough investigations to root out corruption, {{8}} punishing corrupt officials, no matter how high-ranking they were. These efforts have effectively {{9}} major political risks and {{10}} the purity and glory of the armed forces. At the April 8 session, Xi told senior military officials to take the lead in restoring and carrying forward the fine traditions of the Party and the military, put down the official airs, and remain true to the identity of revolutionary service personnel. In the face of the global military revolution and the accelerated evolution of modern warfare, Xi has underscored that deepening the reforms of national defense and the armed forces is \"a major test we cannot avoid.\"\nSince the 18th CPC National Congress, the Party Central Committee, the CMC and Xi, with {{11}} resolve and effort, have launched the most extensive and {{12}} reform of national defense and the armed forces since the founding of the People's Republic of China. Through the reform, a new military structure has been established with the CMC exercising overall leadership, the theater commands responsible for military operations, and the services focusing on developing capabilities.",
-          "cn": "党的十八大以来，解放军深入推进调查，铲除腐败，坚决惩处腐败官员，无论其级别多高。这些努力有效消除了重大政治风险，增强了军队的纯洁和光荣。在4月8日的会议上，习近平告诉高级军官要带头恢复和发扬党和军队的优良传统，放下官架子，保持革命军人的本色。面对世界军事革命和现代战争加速演变的形势，习近平强调深化国防和军队改革是“我们无法回避的重大考验”。党的十八大以来，党中央、中央军委和习近平以前所未有的决心和力度，发起了新中国成立以来最广泛、最深刻的国防和军队改革。通过改革，建立了新的军事结构，中央军委行使总体领导，战区负责军事行动，军种专注于能力建设。"
-        },
-        {
-          "en": "The entire military continues to deepen reform, {{13}} the {{15}} military development through mechanization, informatization, and the application of intelligent technologies, with a large number of domestically developed advanced weapons commissioned in systems. In May this year, the {{14}} of new types of carrier-based aircraft -- the J-35, J-15T and KJ-600 -- was officially announced, marking the completion of the PLA Navy's carrier-based aircraft package to support a fully integrated carrier strike group's combat capability. It also represents a major achievement in the modernization of the navy's weaponry and equipment. On Sept. 3, 2025, a grand military parade marking the 80th anniversary of the victory of the Chinese People's War of Resistance Against Japanese Aggression and the World Anti-Fascist War was held in central Beijing's Tian'anmen Square.",
-          "cn": "全军继续深化改革，加快机械化、信息化、智能化融合发展，大量国产先进武器系统列装。今年5月，新型舰载机——歼-35、歼-15T和空警-600的列装正式公布，标志着海军舰载机体系完成，支持完整航母打击群的作战能力。这也代表了海军武器装备现代化的重大成就。2025年9月3日，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年盛大阅兵式在北京天安门广场举行。"
-        },
-        {
-          "en": "New-generation main battle tanks and infantry fighting vehicles, cutting-edge unmanned, underwater and cyber-electronic warfare systems, hypersonic missiles, strategic missiles, and other major military hardware were on display. \"We must strengthen our sense of mission and urgency and strive to achieve {{16}} development in the modernization of our armed forces,\" Xi stressed. The ability to fight and win is essential to building a strong military, Xi has stressed on many occasions. The entire armed forces have focused all their efforts on combat readiness, enhancing their capability to {{17}} in future wars. The PLA Navy's aircraft carriers Liaoning and Shandong deployed together in the western Pacific for the first time to conduct far-sea training.",
-          "cn": "新一代主战坦克和步兵战车、尖端无人系统、水下和网络电子战系统、高超音速导弹、战略导弹以及其他重大军事装备亮相。习近平强调：“我们必须增强使命感和紧迫感，努力实现军队现代化跨越式发展。”习近平多次强调，能打仗、打胜仗是建设强大军队的关键。全军聚焦备战打仗，提升未来战争制胜能力。海军航母辽宁舰和山东舰首次在太平洋西部联合部署，进行远海训练。"
-        },
-        {
-          "en": "Combat readiness patrols were carried out in the South China Sea. With enhanced combat preparedness, the Chinese military grows more capable of serving its ultimate goal of safeguarding peace. China pursues a defensive national defense policy and is the only major power in the world to explicitly {{18}} peaceful development in both its Constitution and the charter of its governing party. China is the leading {{19}} of peacekeeping personnel among the permanent members of the UN Security Council, and the second-largest contributor to the UN peacekeeping operations. The Chinese military's growing capabilities have also provided an important foundation for delivering international public security goods.",
-          "cn": "在南海进行了战备巡逻。随着战备水平的提高，中国军队更有能力服务于维护和平的最终目标。中国奉行防御性国防政策，是世界上唯一在宪法和执政党章程中明确载入和平发展的大国。中国是联合国安理会常任理事国中维和人员的主要派遣国，也是联合国维和行动的第二大出资国。中国军队能力的提升也为提供国际公共安全产品奠定了重要基础。"
-        },
-        {
-          "en": "PLA Navy escort task forces have maintained routine anti-piracy missions in the Gulf of Aden and waters off Somalia to safeguard international shipping lanes. The naval ships also participated in evacuations of Chinese citizens and foreign nationals from some war-torn countries. As one of the latest public security goods from China's military to the global community, the naval hospital ship Auspicious Ark departed in late July on Mission Harmony-2026, an overseas {{20}} medical deployment spanning Africa and South Asia. The voyage came just months after another Chinese naval hospital ship, Silk Road Ark, wrapped up a 234-day medical mission across the South Pacific and Latin America, before it returned home.",
-          "cn": "海军护航编队持续在亚丁湾和索马里海域执行反海盗任务，保障国际航道安全。舰艇还参与了从一些战乱国家撤离中国公民和外国国民的行动。作为中国军队向国际社会提供的最新公共安全产品之一，海军医院船“和平方舟”号于7月底启航执行“和谐使命-2026”任务，这是一次覆盖非洲和南亚的海外人道主义医疗服务。此次航行距离另一艘中国海军医院船“丝路方舟”号完成跨越南太平洋和拉丁美洲的234天医疗任务回国仅数月。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "fledgling",
-          "hint": "adj. 初生的，新兴的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 1,
-          "answer": "symbolizing",
-          "hint": "v. 象征",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "humble",
-          "hint": "adj. 卑微的，简陋的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "momentum",
-          "hint": "n. 势头，动力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "transformations",
-          "hint": "n. 变革，转变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "rectification",
-          "hint": "n. 整顿，纠正",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "purity",
-          "hint": "n. 纯洁，纯净",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "successive",
-          "hint": "adj. 连续的，接连的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "resolutely",
-          "hint": "adv. 坚决地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "eliminated",
-          "hint": "v. 消除，排除",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "reinforced",
-          "hint": "v. 加强，强化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "unprecedented",
-          "hint": "adj. 前所未有的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "profound",
-          "hint": "adj. 深刻的，深远的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "accelerating",
-          "hint": "v. 加速",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "commissioning",
-          "hint": "n. 列装，服役",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "integrated",
-          "hint": "adj. 综合的，一体化的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "leapfrog",
-          "hint": "v. 跨越式发展",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "prevail",
-          "hint": "v. 获胜，占优势",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "enshrine",
-          "hint": "v. 载入，铭记",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "contributor",
-          "hint": "n. 贡献者，出资者",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "humanitarian",
-          "hint": "adj. 人道主义的",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "Saturday marks the 99th founding anniversary of the Chinese People's Liberation Army (PLA) as it continues its journey from a fledgling revolutionary force to a modern military advancing toward its centenary.\nIn Nanchang, in east China's Jiangxi Province, stands a memorial tower. At its summit are sculptures of an old-style rifle and the fluttering military flag, symbolizing the Nanchang Uprising led by the Communist Party of China (CPC) on Aug. 1 in 1927, a day now remembered as the starting point of the CPC-led people's armed forces.\nFrom a humble beginning, the military has grown into a modern fighting force equipped with aircraft carriers, strategic missiles, stealth fighter jets and other advanced weaponry, and it is now marching with unstoppable momentum.\nSince the 18th CPC National Congress in 2012, the CPC Central Committee with Xi Jinping at its core has led China's national defense and military development to historic achievements, achieving historic transformations.\nOn Thursday, while presiding over a group study session of the Political Bureau of the CPC Central Committee, Xi, general secretary of the CPC Central Committee, urged efforts to strengthen political guidance and deepen innovation-driven development to advance the high-quality modernization of national defense and the armed forces.\nOn April 8, when addressing the opening ceremony of a training session for high-ranking military officials, Xi, also Chinese president and chairman of the Central Military Commission (CMC), stressed efforts to deepen political rectification in the military to maintain the purity and glory of the people's armed forces.\nOver the decades, loyalty to the Party has served as a key factor behind the military's transformation and its successive victories in different historical periods. The CPC Central Committee with Xi at its core has pushed forward political rectification within the military and strengthened the Party's leadership.\nSince the 18th CPC National Congress, the PLA has pressed ahead with thorough investigations to root out corruption, resolutely punishing corrupt officials, no matter how high-ranking they were.\nThese efforts have effectively eliminated major political risks and reinforced the purity and glory of the armed forces.\nAt the April 8 session, Xi told senior military officials to take the lead in restoring and carrying forward the fine traditions of the Party and the military, put down the official airs, and remain true to the identity of revolutionary service personnel.\nIn the face of the global military revolution and the accelerated evolution of modern warfare, Xi has underscored that deepening the reforms of national defense and the armed forces is \"a major test we cannot avoid.\"\nSince the 18th CPC National Congress, the Party Central Committee, the CMC and Xi, with unprecedented resolve and effort, have launched the most extensive and profound reform of national defense and the armed forces since the founding of the People's Republic of China.\nThrough the reform, a new military structure has been established with the CMC exercising overall leadership, the theater commands responsible for military operations, and the services focusing on developing capabilities.\nThe entire military continues to deepen reform, accelerating the integrated military development through mechanization, informatization, and the application of intelligent technologies, with a large number of domestically developed advanced weapons commissioned in systems.\nIn May this year, the commissioning of new types of carrier-based aircraft -- the J-35, J-15T and KJ-600 -- was officially announced, marking the completion of the PLA Navy's carrier-based aircraft package to support a fully integrated carrier strike group's combat capability.\nIt also represents a major achievement in the modernization of the navy's weaponry and equipment.\nOn Sept. 3, 2025, a grand military parade marking the 80th anniversary of the victory of the Chinese People's War of Resistance Against Japanese Aggression and the World Anti-Fascist War was held in central Beijing's Tian'anmen Square.\nNew-generation main battle tanks and infantry fighting vehicles, cutting-edge unmanned, underwater and cyber-electronic warfare systems, hypersonic missiles, strategic missiles, and other major military hardware were on display.\n\"We must strengthen our sense of mission and urgency and strive to achieve leapfrog development in the modernization of our armed forces,\" Xi stressed.\nThe ability to fight and win is essential to building a strong military, Xi has stressed on many occasions.\nThe entire armed forces have focused all their efforts on combat readiness, enhancing their capability to prevail in future wars.\nThe PLA Navy's aircraft carriers Liaoning and Shandong deployed together in the western Pacific for the first time to conduct far-sea training. Combat readiness patrols were carried out in the South China Sea.\nWith enhanced combat preparedness, the Chinese military grows more capable of serving its ultimate goal of safeguarding peace.\nChina pursues a defensive national defense policy and is the only major power in the world to explicitly enshrine peaceful development in both its Constitution and the charter of its governing party.\nChina is the leading contributor of peacekeeping personnel among the permanent members of the UN Security Council, and the second-largest contributor to the UN peacekeeping operations.\nThe Chinese military's growing capabilities have also provided an important foundation for delivering international public security goods.\nPLA Navy escort task forces have maintained routine anti-piracy missions in the Gulf of Aden and waters off Somalia to safeguard international shipping lanes. The naval ships also participated in evacuations of Chinese citizens and foreign nationals from some war-torn countries.\nAs one of the latest public security goods from China's military to the global community, the naval hospital ship Auspicious Ark departed in late July on Mission Harmony-2026, an overseas humanitarian medical deployment spanning Africa and South Asia.\nThe voyage came just months after another Chinese naval hospital ship, Silk Road Ark, wrapped up a 234-day medical mission across the South Pacific and Latin America, before it returned home.",
-      "fullTextCn": "周六是中国人民解放军建军99周年纪念日，它正从一支初生的革命力量迈向现代化军队，朝着建军百年目标前进。在华东江西省南昌市，矗立着一座纪念塔。塔顶雕塑着一支老式步枪和飘扬的军旗，象征着1927年8月1日中国共产党领导的南昌起义，这一天被视为中共领导的人民武装力量的起点。从卑微的起点出发，这支军队已发展成为一支拥有航空母舰、战略导弹、隐形战斗机和其他先进武器的现代化战斗力量，目前正以不可阻挡的势头前进。\n\n自2012年党的十八大以来，以习近平同志为核心的党中央领导中国国防和军队建设取得历史性成就，实现历史性变革。周四，习近平在主持中共中央政治局集体学习时强调，要增强政治引领，深化创新驱动，推进国防和军队高质量发展。4月8日，习近平在出席军队高级干部培训班开班式时，强调要深化军队政治整训，保持人民军队的纯洁和光荣。几十年来，对党的忠诚一直是军队转型和在不同历史时期取得连续胜利的关键因素。以习近平同志为核心的党中央推进了军队政治整训，加强了党的领导。\n\n党的十八大以来，解放军深入推进调查，铲除腐败，坚决惩处腐败官员，无论其级别多高。这些努力有效消除了重大政治风险，增强了军队的纯洁和光荣。在4月8日的会议上，习近平告诉高级军官要带头恢复和发扬党和军队的优良传统，放下官架子，保持革命军人的本色。面对世界军事革命和现代战争加速演变的形势，习近平强调深化国防和军队改革是“我们无法回避的重大考验”。党的十八大以来，党中央、中央军委和习近平以前所未有的决心和力度，发起了新中国成立以来最广泛、最深刻的国防和军队改革。通过改革，建立了新的军事结构，中央军委行使总体领导，战区负责军事行动，军种专注于能力建设。\n\n全军继续深化改革，加快机械化、信息化、智能化融合发展，大量国产先进武器系统列装。今年5月，新型舰载机——歼-35、歼-15T和空警-600的列装正式公布，标志着海军舰载机体系完成，支持完整航母打击群的作战能力。这也代表了海军武器装备现代化的重大成就。2025年9月3日，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年盛大阅兵式在北京天安门广场举行。\n\n新一代主战坦克和步兵战车、尖端无人系统、水下和网络电子战系统、高超音速导弹、战略导弹以及其他重大军事装备亮相。习近平强调：“我们必须增强使命感和紧迫感，努力实现军队现代化跨越式发展。”习近平多次强调，能打仗、打胜仗是建设强大军队的关键。全军聚焦备战打仗，提升未来战争制胜能力。海军航母辽宁舰和山东舰首次在太平洋西部联合部署，进行远海训练。\n\n在南海进行了战备巡逻。随着战备水平的提高，中国军队更有能力服务于维护和平的最终目标。中国奉行防御性国防政策，是世界上唯一在宪法和执政党章程中明确载入和平发展的大国。中国是联合国安理会常任理事国中维和人员的主要派遣国，也是联合国维和行动的第二大出资国。中国军队能力的提升也为提供国际公共安全产品奠定了重要基础。\n\n海军护航编队持续在亚丁湾和索马里海域执行反海盗任务，保障国际航道安全。舰艇还参与了从一些战乱国家撤离中国公民和外国国民的行动。作为中国军队向国际社会提供的最新公共安全产品之一，海军医院船“和平方舟”号于7月底启航执行“和谐使命-2026”任务，这是一次覆盖非洲和南亚的海外人道主义医疗服务。此次航行距离另一艘中国海军医院船“丝路方舟”号完成跨越南太平洋和拉丁美洲的234天医疗任务回国仅数月。"
+      "fullText": "(ECNS) -- A stark contrast is emerging in today's international discourse: on one side, Western politicians relentlessly promote so-called supply chain \"de-risking,\" under the spotlight, introducing one legislative proposal after another. On the other side, markets and businesses are feeling the chill as they confront the cold, hard costs of reality.\nA recent estimate by EY-Parthenon found that if the United States, the Eurozone, and the United Kingdom hope to largely eliminate their dependence on Chinese supply chains in key industries by 2050, they would need to invest an additional $23.6 trillion over the next 25 years. The figure places an almost unimaginable price tag on the prolonged push to \"decouple from China.\"\nWhat does $23.6 trillion actually mean? It is equivalent to more than 70% of the annual Gross Domestic Product (GDP) of the United States.\nThis implies that if Europe and the U.S. insist on a sweeping separation from China's industrial chains, the cost would be extraordinarily high. It would not only impose an unbearable burden on Western businesses but could even place the broader Western economy under severe strain.\nMore importantly, even if the West were willing to foot this enormous bill and pour such vast sums of money into the effort, ending their reliance on Chinese supply chains in the short term would remain virtually impossible.\nIn recent years, Washington and Brussels have continued to introduce and expand restrictive measures targeting China's industrial and supply chains .\nMore recently, the European Union has reportedly been considering broader supply chain auditing rules, in an attempt to pressure European multinational corporations into reducing their reliance on critical Chinese components through mandatory legal instruments.\nHowever, administrative intervention, cannot ultimately override the fundamental forces of the market.\nA U.S. financial institution acknowledged in a report on global \"nearshoring\" that true supply chain restructuring is by no means as simple as \"moving a factory.\" Every cross-border relocation of a production line involves substantial losses in the value of fixed assets, the duplication of supporting infrastructure, and sharp increases in cross-border logistics and compliance costs.\nThese costs will ultimately be passed on to ordinary consumers in the West as inflationary pressure.\nA recent survey of supply chain executives shows that after repeated and costly disruptions, key decision-makers in Western enterprises are being forced to adopt a more pragmatic approach. Given the efficiency, quality, and irreplaceable cost advantages offered by Chinese suppliers, many Western companies have concluded that continuing to prioritize them remains the most commercially rational choice.\nThis is because Chinese enterprises no longer occupy their places in global industrial chains through simple \"low-end assembly.\" Instead, their technological advantages and deeply developed industrial ecosystems have embedded them within the very capillaries of high-end global manufacturing.\nOne of the clearest examples is currently unfolding in Morocco, on the shores of the Mediterranean Sea.\nTo evade tariffs and shorten transport distances, European automotive giants have in recent years touted Morocco as a so-called \"nearshoring paradise,\" attempting to build it into a beachhead for \"de-risking\" away from China.\nHowever, in-depth investigations by industry media have revealed an ironic reality for European policymakers. No sooner had European automakers established factories in Morocco than Chinese auto parts suppliers followed, embedding their technology and capital within the local supply chain.\nModern automotive supply chains are vast and deeply interconnected. Many of the aluminum parts, battery materials, and critical electronic components purchased locally by European automakers in Morocco, can ultimately be traced back to Chinese Tier-2 and Tier-3 suppliers.\nWith their high-precision molding technology, advanced surface treatment processes, and difficult-to-replicate economies of scale, Chinese companies have become an indispensable foundation for European automakers operating in Morocco.\nA similar story is unfolding not only in Morocco, but in industrial parks across Mexico.\nDrawing on their strong awareness of market opportunities, many Chinese enterprises have established operations in Mexico under the framework of the U.S.-Mexico-Canada Agreement. By localizing their technology and production capacity, they have gained direct access to the North American and positioned themselves close to the supply networks of the major U.S. automakers.\nEuropean and American policymakers hoped to use Morocco and Mexico to reduce their reliance on China, but their efforts have instead opened up even broader market opportunities for Chinese enterprises.\nThe \"flood barriers\" painstakingly constructed by Western politicians have quickly become little more than leaky sieves when confronted with the powerful forces of technological capability and cost competitiveness.\nthe current structure of global industrial and supply chains emerged through decades of globalization, as tens of thousands of companies voted with their feet and survived repeated rounds of market competition. These deep industrial ties, built around the pursuit of maximum efficiency, cannot simply be severed by legislation drafted behind office desks.\nWestern politicians may need to sit down and carefully consider the implications of this $23.6-trillion bill. After all, those who insist on driving against the wind may ultimately be the ones who suffer the consequences.",
+      "fullTextCn": "（中新网）-- 当今国际话语中正出现一种鲜明对比：一方面，西方政客在聚光灯下不遗余力地宣扬所谓的供应链“去风险化”，接二连三地提出立法提案。另一方面，市场和企业在面对现实冷酷高昂的成本时感到寒意。安永-博智隆最近的一项估算发现，如果美国、欧元区和英国希望在2050年前基本消除关键行业对中国供应链的依赖，它们需要在未来25年内额外投资23.6万亿美元。这一数字为长期推动“与中国脱钩”贴上了几乎难以想象的价格标签。23.6万亿美元到底意味着什么？它相当于美国年度国内生产总值（GDP）的70%以上。\n\n这意味着，如果欧美坚持与中国产业链全面分离，代价将极其高昂。这不仅会给西方企业带来难以承受的负担，甚至可能使整个西方经济承受巨大压力。更重要的是，即使西方愿意承担这笔巨额账单，投入如此庞大的资金，短期内结束对中国供应链的依赖也几乎不可能。近年来，华盛顿和布鲁塞尔不断出台和扩大针对中国产业和供应链的限制措施。\n\n最近，据报道欧盟正在考虑更广泛的供应链审计规则，试图通过强制性法律手段施压欧洲跨国公司减少对关键中国零部件的依赖。然而，行政干预终究无法凌驾于市场的基本力量之上。一家美国金融机构在全球“近岸外包”报告中承认，真正的供应链重组绝非“搬工厂”那么简单。每一次生产线的跨境迁移都涉及固定资产价值的大幅损失、配套基础设施的重复建设，以及跨境物流和合规成本的急剧上升。这些成本最终将作为通胀压力转嫁给西方普通消费者。\n\n最近一项针对供应链高管的调查显示，在经历反复且代价高昂的中断后，西方企业的关键决策者正被迫采取更务实的态度。鉴于中国供应商提供的效率、质量和不可替代的成本优势，许多西方公司得出结论，继续优先选择它们仍然是最符合商业理性的决定。这是因为中国企业不再通过简单的“低端组装”在全球产业链中占据一席之地。相反，它们的技术优势和深度发展的产业生态已将其嵌入高端全球制造业的毛细血管中。最明显的例子之一正在地中海沿岸的摩洛哥上演。为了规避关税和缩短运输距离，欧洲汽车巨头近年来将摩洛哥吹捧为所谓的“近岸外包天堂”，试图将其打造为“去风险化”远离中国的滩头阵地。\n\n然而，行业媒体的深入调查揭示了欧洲政策制定者面临的一个讽刺现实。欧洲汽车制造商在摩洛哥建厂后不久，中国汽车零部件供应商便紧随其后，将其技术和资本嵌入当地供应链。现代汽车供应链庞大且深度互联。欧洲汽车制造商在摩洛哥当地采购的许多铝制部件、电池材料和关键电子元件，最终都可以追溯到中国的二级和三级供应商。凭借高精度成型技术、先进的表面处理工艺和难以复制的规模经济，中国企业已成为欧洲汽车制造商在摩洛哥运营不可或缺的基础。\n\n类似的故事不仅在摩洛哥上演，也在墨西哥各地的工业园区上演。凭借对市场机会的敏锐意识，许多中国企业已在《美墨加协定》框架下在墨西哥开展业务。通过本地化技术和生产能力，它们直接进入北美市场，并靠近美国主要汽车制造商的供应网络。欧美政策制定者希望利用摩洛哥和墨西哥减少对中国的依赖，但他们的努力反而为中国企业打开了更广阔的市场机会。\n\n西方政客苦心建造的“防洪屏障”在技术能力和成本竞争力的强大力量面前，很快变成了漏水的筛子。当前全球产业和供应链的结构是在数十年全球化中形成的，成千上万家公司用脚投票，并在多轮市场竞争中幸存下来。这些围绕追求最大效率而建立的深厚产业联系，不可能简单地被办公室桌后起草的立法所切断。西方政客或许需要坐下来，仔细考虑这张23.6万亿美元账单的含义。毕竟，那些坚持逆风而行的人，最终可能自食其果。"
     },
     {
       "id": 4,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/business/2026-08-03/detail-ihfhvays7508217.shtml",
-      "title": "Stability seen amid shift in growth drivers",
-      "titleCn": "增长动力转换中显现稳定迹象",
-      "summary": "Economists said the meeting addressed a major challenge facing China's economy, as rapidly expanding new industries have yet to fully offset the slowdown in traditional sectors, insufficient domestic demand and growing structural divergence.",
-      "summaryCn": "中国下半年经济有望进一步稳定，政策重点转向支持新增长动力和国内需求。",
-      "wordCount": 650,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-02/news-1Ph3KHhmY8w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Trump says US to hold off attacks on Iran",
+      "titleCn": "特朗普称美国将暂缓对伊朗的打击",
+      "summary": "US President Donald Trump said on Saturday that he has agreed to hold off fresh attacks against Iran.",
+      "summaryCn": "特朗普宣布暂缓对伊朗的军事打击，但强调若无法迅速达成协议将恢复行动，同时伊朗警告将坚决回应任何侵略。",
+      "wordCount": 760,
       "paragraphs": [
         {
-          "en": "China's economic growth is expected to further {{0}} in the second half of the year, as policymakers step up efforts to address {{1}} challenges arising from the {{2}} in growth drivers while strengthening support for domestic demand, experts and executives said. The comments came after a meeting on Thursday of the Political Bureau of the Communist Party of China Central Committee, presided over by Xi Jinping, general secretary of the CPC Central Committee. The meeting called for efforts to {{3}} the transition from old growth drivers to new ones and effectively implement a more proactive fiscal policy and an appropriately {{4}} monetary policy. Economists said the meeting addressed a major challenge facing China's economy, as rapidly expanding new industries have yet to fully {{5}} the slowdown in traditional sectors, insufficient domestic demand and growing structural {{6}}. Policy focus should not only be on stepping up macro policy {{7}} and accelerating investment in emerging industries and industrial upgrading, but also on {{8}} employment and income to foster broader growth, they added.",
-          "cn": "专家和高管表示，随着政策制定者加大力度应对增长动力转换带来的结构性挑战，同时加强对国内需求的支持，中国下半年经济增长预计将进一步稳定。这些评论是在周四中共中央政治局会议后发表的，会议由中共中央总书记习近平主持。会议呼吁加快新旧增长动力转换，有效实施更加积极的财政政策和适度宽松的货币政策。经济学家表示，会议解决了中国经济面临的主要挑战，因为快速扩张的新兴产业尚未完全抵消传统行业放缓、内需不足和日益增长的结构性分化。他们补充说，政策重点不仅应放在加大宏观政策刺激和加快新兴产业投资及产业升级上，还应放在促进就业和收入以推动更广泛增长上。"
+          "en": "US President Donald Trump says he has agreed to {{0}} off fresh attacks against Iran, according to a post on his Truth Social account. /@realDonaldTrump\nUS President Donald Trump said on Saturday that he has agreed to hold off fresh attacks against Iran. In a post on Truth Social, Trump said the United States \"is {{1}} and {{2}} and ready to go against the Islamic Republic of Iran, at levels of Military Terror, Strength, and Power not seen since World War II.\"\n\"Despite this, we have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the {{3}} of a deal has been agreed to,\" he said. \"This would include the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat,\" he added. Trump also warned that his decision is \"subject to being able to {{4}} make a DEAL.\"\nAt a Cabinet meeting on Friday at the Camp David retreat, Trump said he believed US {{5}}, including his son-in-law Jared Kushner, special envoy Steve Witkoff and Secretary of State Marco Rubio, could still reach a deal with Iran. But Trump also said he was losing {{6}} in the Iranians, saying, \"They break their word so often\" – a claim Tehran has frequently leveled at Washington – and said he would be \"hitting them.\"\nUS President Donald Trump {{7}} following a Cabinet meeting at Camp David near Thurmont, Maryland, US, July 31, 2026.",
+          "cn": "美国总统唐纳德·特朗普在其Truth Social账户上发帖称，他已同意暂缓对伊朗的新一轮打击。特朗普在Truth Social上发帖称，美国“已锁定目标、装弹上膛，准备以自二战以来未见过的军事恐怖、力量和威力，对付伊朗伊斯兰共和国。”"
         },
         {
-          "en": "Zhu Feng, China chief economist at JPMorgan, said that growth {{9}} in the third and fourth quarters will likely improve from the second one, but divergence could persist amid the transition from old to new growth drivers. New growth engines, led by artificial intelligence and the smart economy, are likely to continue {{10}} related investment, high-tech manufacturing and some export sectors, while domestic demand, real estate, private investment and durable goods consumption still need time to recover, Zhu said. China's economy expanded 4.7 percent year-on-year in the first half, driven by {{11}} exports and industrial output as high-tech manufacturing sectors benefited from a global wave of AI-related capital expenditure. By comparison, retail sales remained {{12}}, while fixed-asset investment {{13}}. GDP growth weakened to 4.3 percent in the April-June period.",
-          "cn": "摩根大通中国首席经济学家朱峰表示，第三和第四季度的增长势头可能会较第二季度有所改善，但在新旧增长动力转换期间，分化可能持续存在。朱峰表示，以人工智能和智能经济为主导的新增长引擎可能会继续提振相关投资、高科技制造业和一些出口行业，而国内需求、房地产、私人投资和耐用品消费仍需时间恢复。今年上半年，中国经济同比增长4.7%，得益于有韧性的出口和工业产出，高科技制造业受益于全球人工智能相关资本支出浪潮。相比之下，零售销售保持低迷，而固定资产投资收缩。4月至6月期间，GDP增长放缓至4.3%。"
+          "en": "Iran's {{8}}\nEarlier in the day, the US embassies in some 10 Middle Eastern countries, including Israel, Saudi Arabia and Jordan, warned American citizens to exercise caution and \"consider departing or be prepared to depart should there be {{9}}.\"\nThe embassies advised US citizens in the Middle East to prepare for flight cancellations, periodic airspace closures and potential travel {{10}}. They also advised US citizens outside the region to \"seriously reconsider travel to and through the Middle East.\"\nIran also warned over the weekend against any \"adventurous action\" by the US and said it would {{11}} {{12}} if American forces followed through on Trump's earlier threats of fresh attacks on Iranian targets. Speaking to Pakistan's Army Chief Field Marshal Asim Munir and Turkish Foreign Minister Hakan Fidan, Iranian Foreign Minister Abbas Araqchi said Iran would respond decisively to any \"{{13}}\" and discussed the consequences of \"{{14}} actions\" by the US, as well as the {{15}} for heightened regional insecurity, according to Araqchi's Telegram account. Araqchi later told Saudi Foreign Minister Prince Faisal bin Farhan that any attacks by the US and Israel, or participation by regional countries in such actions, would be met with a \"{{16}} response\" from Iran's armed forces. Saudi Crown Prince Mohammed bin Salman spoke to Trump on Saturday and \"expressed concern and asked for {{17}}\" about US plans for Iran, Axios reported, citing a US official. Nournews, a media outlet affiliated with Iran's top security body, said on Saturday that US attacks on Iranian energy {{18}} would prompt Iranian strikes on oil fields in Saudi Arabia and the United Arab Emirates, as well as gas fields in Qatar and Israel, saying, \"all will be burned to ashes.\"\nSmall boats line the shore as cargo ships and other commercial vessels are anchored in the Strait of Hormuz off Bandar Abbas, Iran, July 27, 2026.",
+          "cn": "“尽管如此，我们刚刚被伊朗和其他中东国家要求暂缓任何攻击，因为已就协议框架达成一致，”他说。“这将包括立即、完全和彻底开放霍尔木兹海峡，并终结伊朗的核威胁，”他补充道。特朗普还警告说，他的决定“取决于能否迅速达成协议。”"
         },
         {
-          "en": "In July, the official manufacturing purchasing managers index fell to 49.2, the National Bureau of Statistics said, indicating that falling market demand has caused factory activity to contract for the first time in five months. \"The key to meeting the annual growth target lies in accelerating fiscal policy implementation and, if necessary, introducing {{14}} fiscal measures, while better {{15}} policy resources into growth in household employment and income, thereby boosting consumption and private investment,\" Zhu said. The meeting on Thursday said that pragmatic and effective incremental policies will be introduced in a timely manner, and it called for intensified efforts to effectively {{16}} and improve people's well-being. The People's Bank of China, the country's central bank, pledged at a meeting on Saturday to {{17}} utilize monetary policy tools and make timely adjustments to keep {{18}} liquidity. Yin Yanlin, deputy director of the Committee on Economic Affairs of the 14th National Committee of the Chinese People's Political Consultative Conference, said additional treasury bond issuance should be considered when necessary, and monetary policy should cut the reserve requirement ratio and interest rates at a proper time as imported inflation pressure eases.",
-          "cn": "国家统计局表示，7月份官方制造业采购经理人指数降至49.2，表明市场需求下降导致工厂活动五个月来首次收缩。朱峰表示：“实现年度增长目标的关键在于加快财政政策实施，并在必要时推出增量财政措施，同时更好地将政策资源转化为家庭就业和收入的增长，从而提振消费和私人投资。”周四的会议表示，将及时推出务实有效的增量政策，并呼吁加大力度有效保障和改善民生。中国人民银行（央行）在周六的会议上承诺，综合利用货币政策工具，及时调整以保持流动性充裕。第十四届全国政协经济委员会副主任尹艳林表示，必要时应考虑增发国债，随着输入性通胀压力缓解，货币政策应适时降准降息。"
+          "en": "Oil prices have remained high since US and Israeli forces launched the war with strikes on Iran on February 28. Trump has argued that his stated goal of preventing Iran from acquiring nuclear weapons justifies higher fuel costs in the near term, but the economic pain has put political pressure on him to find a way to end the war. Benchmark Brent crude futures rose 24% in July, and analysts polled by Reuters expect prices to rise further this year. The risk of Iranian attacks has deterred most shipping through the Strait of Hormuz, a key {{19}} for global energy supplies, since the start of the conflict, sending {{20}} through the world economy. Adding to the energy industry's concerns, Iran's Houthi allies in Yemen have recently threatened the Bab el-Mandeb, the strait at the southern end of the Red Sea, another export route for Saudi crude. The United Kingdom Maritime Trade Operations said on Saturday it had received reports of two maritime incidents off Oman, including one in which a tanker was struck by an unknown {{21}} that damaged the engine room.",
+          "cn": "周五在戴维营举行的内阁会议上，特朗普表示，他相信包括其女婿贾里德·库什纳、特使史蒂夫·维特科夫和国务卿马尔科·鲁比奥在内的美国谈判代表仍能与伊朗达成协议。但特朗普也表示，他对伊朗人越来越失去信心，称“他们经常违背承诺”——这是德黑兰经常对华盛顿提出的指控——并表示他将“打击他们。”"
         },
         {
-          "en": "Ming Ming, chief economist at CITIC Securities, said an 800 billion yuan ($118.5 billion) policy-based financial tool is likely to {{19}} up support for new types of infrastructure, including {{20}} between computing and electricity networks. According to the National Development and Reform Commission, investment in computing network infrastructure in China could reach 4 trillion yuan during the 15th Five-Year Plan (2026-30) period. It also said that new growth drivers, including high-end manufacturing, the digital economy and modern services, had contributed more than 40 percent of economic growth in the first half of this year. Such momentum is {{21}} international institutions' confidence in China's economic transition. Moody's Ratings said in a commentary that credit conditions in China are expected to remain stable in the second half as fiscal and monetary support, strong exports and technological advances offset weak domestic demand.",
-          "cn": "中信证券首席经济学家明明表示，一项8000亿元人民币（合1185亿美元）的政策性金融工具可能会加大对新型基础设施的支持，包括计算和电力网络的协同。根据国家发展和改革委员会的数据，中国在“十五五”规划（2026-2030年）期间的计算网络基础设施投资可能达到4万亿元人民币。发改委还表示，包括高端制造业、数字经济和现代服务业在内的新增长动力，今年上半年对经济增长的贡献超过40%。这种势头正在支撑国际机构对中国经济转型的信心。穆迪评级在一份评论中表示，由于财政和货币支持、强劲的出口和技术进步抵消了疲弱的国内需求，中国下半年的信贷状况预计将保持稳定。"
-        },
-        {
-          "en": "Goldman Sachs has {{23}} that China's economy will grow 4.6 percent this year, within the annual target range of 4.5 to 5 percent.",
-          "cn": "高盛预测，今年中国经济将增长4.6%，在4.5%至5%的年度目标范围内。"
+          "en": "In the other incident, the master of a tanker reported seeing a large {{22}} and an explosion close to the vessel, though no damage was reported.",
+          "cn": "美国总统唐纳德·特朗普在2026年7月31日于美国马里兰州瑟蒙特附近戴维营举行的内阁会议后离开。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "stabilize",
-          "hint": "v. 稳定",
-          "difficulty": "medium"
+          "answer": "hold",
+          "hint": "v. 暂缓，推迟",
+          "difficulty": "easy"
         },
         {
           "id": 1,
-          "answer": "structural",
-          "hint": "adj. 结构性的",
+          "answer": "locked",
+          "hint": "adj. 锁定的，准备好的",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "transition",
-          "hint": "n. 过渡，转变",
+          "answer": "loaded",
+          "hint": "adj. 装弹的，准备就绪的",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "accelerate",
-          "hint": "v. 加速",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "accommodative",
-          "hint": "adj. 宽松的（政策）",
+          "answer": "perimeters",
+          "hint": "n. 框架，范围",
           "difficulty": "hard"
         },
         {
+          "id": 4,
+          "answer": "rapidly",
+          "hint": "adv. 迅速地",
+          "difficulty": "easy"
+        },
+        {
           "id": 5,
-          "answer": "offset",
-          "hint": "v. 抵消",
+          "answer": "negotiators",
+          "hint": "n. 谈判代表",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "divergence",
-          "hint": "n. 分化，分歧",
-          "difficulty": "hard"
+          "answer": "faith",
+          "hint": "n. 信心，信任",
+          "difficulty": "easy"
         },
         {
           "id": 7,
-          "answer": "stimulus",
-          "hint": "n. 刺激",
-          "difficulty": "medium"
+          "answer": "departs",
+          "hint": "v. 离开",
+          "difficulty": "easy"
         },
         {
           "id": 8,
-          "answer": "bolstering",
-          "hint": "v. 支持，增强",
+          "answer": "preparedness",
+          "hint": "n. 准备状态",
           "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "momentum",
-          "hint": "n. 势头，动力",
+          "answer": "escalation",
+          "hint": "n. 升级",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "buoying",
-          "hint": "v. 提振，支持",
-          "difficulty": "hard"
+          "answer": "disruptions",
+          "hint": "n. 中断，干扰",
+          "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "resilient",
-          "hint": "adj. 有韧性的",
+          "answer": "retaliate",
+          "hint": "v. 报复",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "subdued",
-          "hint": "adj. 低迷的，不振的",
-          "difficulty": "hard"
+          "answer": "decisively",
+          "hint": "adv. 果断地",
+          "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "contracted",
-          "hint": "v. 收缩",
+          "answer": "aggression",
+          "hint": "n. 侵略",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "incremental",
-          "hint": "adj. 增量的，递增的",
+          "answer": "destabilizing",
+          "hint": "adj. 破坏稳定的",
           "difficulty": "hard"
         },
         {
           "id": 15,
-          "answer": "translating",
-          "hint": "v. 转化",
+          "answer": "prospects",
+          "hint": "n. 前景",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "safeguard",
-          "hint": "v. 保障，保护",
-          "difficulty": "medium"
+          "answer": "proportionate",
+          "hint": "adj. 相称的",
+          "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "comprehensively",
-          "hint": "adv. 全面地",
+          "answer": "clarity",
+          "hint": "n. 清晰，明确",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "ample",
-          "hint": "adj. 充足的",
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
           "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "ramp",
-          "hint": "v. 增加，加强",
+          "answer": "conduit",
+          "hint": "n. 通道，管道",
           "difficulty": "hard"
         },
         {
           "id": 20,
-          "answer": "synergy",
-          "hint": "n. 协同作用",
-          "difficulty": "hard"
+          "answer": "shockwaves",
+          "hint": "n. 冲击波",
+          "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "underpinning",
-          "hint": "v. 支撑，支持",
+          "answer": "projectile",
+          "hint": "n. 射弹",
           "difficulty": "hard"
         },
         {
           "id": 22,
-          "answer": "forecast",
-          "hint": "v. 预测",
+          "answer": "splash",
+          "hint": "n. 水花",
           "difficulty": "easy"
         }
       ],
-      "fullText": "China's economic growth is expected to further stabilize in the second half of the year, as policymakers step up efforts to address structural challenges arising from the transition in growth drivers while strengthening support for domestic demand, experts and executives said.\nThe comments came after a meeting on Thursday of the Political Bureau of the Communist Party of China Central Committee, presided over by Xi Jinping, general secretary of the CPC Central Committee. The meeting called for efforts to accelerate the transition from old growth drivers to new ones and effectively implement a more proactive fiscal policy and an appropriately accommodative monetary policy.\nEconomists said the meeting addressed a major challenge facing China's economy, as rapidly expanding new industries have yet to fully offset the slowdown in traditional sectors, insufficient domestic demand and growing structural divergence.\nPolicy focus should not only be on stepping up macro policy stimulus and accelerating investment in emerging industries and industrial upgrading, but also on bolstering employment and income to foster broader growth, they added.\nZhu Feng, China chief economist at JPMorgan, said that growth momentum in the third and fourth quarters will likely improve from the second one, but divergence could persist amid the transition from old to new growth drivers.\nNew growth engines, led by artificial intelligence and the smart economy, are likely to continue buoying related investment, high-tech manufacturing and some export sectors, while domestic demand, real estate, private investment and durable goods consumption still need time to recover, Zhu said.\nChina's economy expanded 4.7 percent year-on-year in the first half, driven by resilient exports and industrial output as high-tech manufacturing sectors benefited from a global wave of AI-related capital expenditure. By comparison, retail sales remained subdued, while fixed-asset investment contracted.\nGDP growth weakened to 4.3 percent in the April-June period. In July, the official manufacturing purchasing managers index fell to 49.2, the National Bureau of Statistics said, indicating that falling market demand has caused factory activity to contract for the first time in five months.\n\"The key to meeting the annual growth target lies in accelerating fiscal policy implementation and, if necessary, introducing incremental fiscal measures, while better translating policy resources into growth in household employment and income, thereby boosting consumption and private investment,\" Zhu said.\nThe meeting on Thursday said that pragmatic and effective incremental policies will be introduced in a timely manner, and it called for intensified efforts to effectively safeguard and improve people's well-being.\nThe People's Bank of China, the country's central bank, pledged at a meeting on Saturday to comprehensively utilize monetary policy tools and make timely adjustments to keep ample liquidity.\nYin Yanlin, deputy director of the Committee on Economic Affairs of the 14th National Committee of the Chinese People's Political Consultative Conference, said additional treasury bond issuance should be considered when necessary, and monetary policy should cut the reserve requirement ratio and interest rates at a proper time as imported inflation pressure eases.\nMing Ming, chief economist at CITIC Securities, said an 800 billion yuan ($118.5 billion) policy-based financial tool is likely to ramp up support for new types of infrastructure, including synergy between computing and electricity networks.\nAccording to the National Development and Reform Commission, investment in computing network infrastructure in China could reach 4 trillion yuan during the 15th Five-Year Plan (2026-30) period. It also said that new growth drivers, including high-end manufacturing, the digital economy and modern services, had contributed more than 40 percent of economic growth in the first half of this year.\nSuch momentum is underpinning international institutions' confidence in China's economic transition. Moody's Ratings said in a commentary that credit conditions in China are expected to remain stable in the second half as fiscal and monetary support, strong exports and technological advances offset weak domestic demand.\nGoldman Sachs has forecast that China's economy will grow 4.6 percent this year, within the annual target range of 4.5 to 5 percent.",
-      "fullTextCn": "专家和高管表示，随着政策制定者加大力度应对增长动力转换带来的结构性挑战，同时加强对国内需求的支持，中国下半年经济增长预计将进一步稳定。这些评论是在周四中共中央政治局会议后发表的，会议由中共中央总书记习近平主持。会议呼吁加快新旧增长动力转换，有效实施更加积极的财政政策和适度宽松的货币政策。经济学家表示，会议解决了中国经济面临的主要挑战，因为快速扩张的新兴产业尚未完全抵消传统行业放缓、内需不足和日益增长的结构性分化。他们补充说，政策重点不仅应放在加大宏观政策刺激和加快新兴产业投资及产业升级上，还应放在促进就业和收入以推动更广泛增长上。\n\n摩根大通中国首席经济学家朱峰表示，第三和第四季度的增长势头可能会较第二季度有所改善，但在新旧增长动力转换期间，分化可能持续存在。朱峰表示，以人工智能和智能经济为主导的新增长引擎可能会继续提振相关投资、高科技制造业和一些出口行业，而国内需求、房地产、私人投资和耐用品消费仍需时间恢复。今年上半年，中国经济同比增长4.7%，得益于有韧性的出口和工业产出，高科技制造业受益于全球人工智能相关资本支出浪潮。相比之下，零售销售保持低迷，而固定资产投资收缩。4月至6月期间，GDP增长放缓至4.3%。\n\n国家统计局表示，7月份官方制造业采购经理人指数降至49.2，表明市场需求下降导致工厂活动五个月来首次收缩。朱峰表示：“实现年度增长目标的关键在于加快财政政策实施，并在必要时推出增量财政措施，同时更好地将政策资源转化为家庭就业和收入的增长，从而提振消费和私人投资。”周四的会议表示，将及时推出务实有效的增量政策，并呼吁加大力度有效保障和改善民生。中国人民银行（央行）在周六的会议上承诺，综合利用货币政策工具，及时调整以保持流动性充裕。第十四届全国政协经济委员会副主任尹艳林表示，必要时应考虑增发国债，随着输入性通胀压力缓解，货币政策应适时降准降息。\n\n中信证券首席经济学家明明表示，一项8000亿元人民币（合1185亿美元）的政策性金融工具可能会加大对新型基础设施的支持，包括计算和电力网络的协同。根据国家发展和改革委员会的数据，中国在“十五五”规划（2026-2030年）期间的计算网络基础设施投资可能达到4万亿元人民币。发改委还表示，包括高端制造业、数字经济和现代服务业在内的新增长动力，今年上半年对经济增长的贡献超过40%。这种势头正在支撑国际机构对中国经济转型的信心。穆迪评级在一份评论中表示，由于财政和货币支持、强劲的出口和技术进步抵消了疲弱的国内需求，中国下半年的信贷状况预计将保持稳定。\n\n高盛预测，今年中国经济将增长4.6%，在4.5%至5%的年度目标范围内。"
+      "fullText": "US President Donald Trump says he has agreed to hold off fresh attacks against Iran, according to a post on his Truth Social account. /@realDonaldTrump\nUS President Donald Trump said on Saturday that he has agreed to hold off fresh attacks against Iran.\nIn a post on Truth Social, Trump said the United States \"is locked and loaded and ready to go against the Islamic Republic of Iran, at levels of Military Terror, Strength, and Power not seen since World War II.\"\n\"Despite this, we have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the perimeters of a deal has been agreed to,\" he said.\n\"This would include the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat,\" he added.\nTrump also warned that his decision is \"subject to being able to rapidly make a DEAL.\"\nAt a Cabinet meeting on Friday at the Camp David retreat, Trump said he believed US negotiators, including his son-in-law Jared Kushner, special envoy Steve Witkoff and Secretary of State Marco Rubio, could still reach a deal with Iran.\nBut Trump also said he was losing faith in the Iranians, saying, \"They break their word so often\" – a claim Tehran has frequently leveled at Washington – and said he would be \"hitting them.\"\nUS President Donald Trump departs following a Cabinet meeting at Camp David near Thurmont, Maryland, US, July 31, 2026. \nIran's preparedness\nEarlier in the day, the US embassies in some 10 Middle Eastern countries, including Israel, Saudi Arabia and Jordan, warned American citizens to exercise caution and \"consider departing or be prepared to depart should there be escalation.\"\nThe embassies advised US citizens in the Middle East to prepare for flight cancellations, periodic airspace closures and potential travel disruptions. They also advised US citizens outside the region to \"seriously reconsider travel to and through the Middle East.\"\nIran also warned over the weekend against any \"adventurous action\" by the US and said it would retaliate decisively if American forces followed through on Trump's earlier threats of fresh attacks on Iranian targets.\nSpeaking to Pakistan's Army Chief Field Marshal Asim Munir and Turkish Foreign Minister Hakan Fidan, Iranian Foreign Minister Abbas Araqchi said Iran would respond decisively to any \"aggression\" and discussed the consequences of \"destabilizing actions\" by the US, as well as the prospects for heightened regional insecurity, according to Araqchi's Telegram account.\nAraqchi later told Saudi Foreign Minister Prince Faisal bin Farhan that any attacks by the US and Israel, or participation by regional countries in such actions, would be met with a \"proportionate response\" from Iran's armed forces. Saudi Crown Prince Mohammed bin Salman spoke to Trump on Saturday and \"expressed concern and asked for clarity\" about US plans for Iran, Axios reported, citing a US official.\nNournews, a media outlet affiliated with Iran's top security body, said on Saturday that US attacks on Iranian energy infrastructure would prompt Iranian strikes on oil fields in Saudi Arabia and the United Arab Emirates, as well as gas fields in Qatar and Israel, saying, \"all will be burned to ashes.\"\nSmall boats line the shore as cargo ships and other commercial vessels are anchored in the Strait of Hormuz off Bandar Abbas, Iran, July 27, 2026. \nOil prices have remained high since US and Israeli forces launched the war with strikes on Iran on February 28. Trump has argued that his stated goal of preventing Iran from acquiring nuclear weapons justifies higher fuel costs in the near term, but the economic pain has put political pressure on him to find a way to end the war.\nBenchmark Brent crude futures rose 24% in July, and analysts polled by Reuters expect prices to rise further this year.\nThe risk of Iranian attacks has deterred most shipping through the Strait of Hormuz, a key conduit for global energy supplies, since the start of the conflict, sending shockwaves through the world economy.\nAdding to the energy industry's concerns, Iran's Houthi allies in Yemen have recently threatened the Bab el-Mandeb, the strait at the southern end of the Red Sea, another export route for Saudi crude.\nThe United Kingdom Maritime Trade Operations said on Saturday it had received reports of two maritime incidents off Oman, including one in which a tanker was struck by an unknown projectile that damaged the engine room. In the other incident, the master of a tanker reported seeing a large splash and an explosion close to the vessel, though no damage was reported.",
+      "fullTextCn": "美国总统唐纳德·特朗普在其Truth Social账户上发帖称，他已同意暂缓对伊朗的新一轮打击。特朗普在Truth Social上发帖称，美国“已锁定目标、装弹上膛，准备以自二战以来未见过的军事恐怖、力量和威力，对付伊朗伊斯兰共和国。”\n\n“尽管如此，我们刚刚被伊朗和其他中东国家要求暂缓任何攻击，因为已就协议框架达成一致，”他说。“这将包括立即、完全和彻底开放霍尔木兹海峡，并终结伊朗的核威胁，”他补充道。特朗普还警告说，他的决定“取决于能否迅速达成协议。”\n\n周五在戴维营举行的内阁会议上，特朗普表示，他相信包括其女婿贾里德·库什纳、特使史蒂夫·维特科夫和国务卿马尔科·鲁比奥在内的美国谈判代表仍能与伊朗达成协议。但特朗普也表示，他对伊朗人越来越失去信心，称“他们经常违背承诺”——这是德黑兰经常对华盛顿提出的指控——并表示他将“打击他们。”\n\n美国总统唐纳德·特朗普在2026年7月31日于美国马里兰州瑟蒙特附近戴维营举行的内阁会议后离开。\n\n伊朗的准备情况\n\n当天早些时候，美国在包括以色列、沙特阿拉伯和约旦在内的约10个中东国家的大使馆警告美国公民保持谨慎，并“考虑离开或准备在局势升级时离开。”\n\n大使馆建议在中东的美国公民为航班取消、定期空域关闭和潜在旅行中断做好准备。他们还建议该地区以外的美国公民“认真重新考虑前往或途经中东的旅行。”\n\n伊朗也在周末警告美国不要采取任何“冒险行动”，并表示如果美军执行特朗普先前对伊朗目标发动新攻击的威胁，伊朗将坚决报复。据阿拉格奇的Telegram账户，伊朗外交部长阿巴斯·阿拉格奇在与巴基斯坦陆军参谋长阿西姆·穆尼尔元帅和土耳其外交部长哈坎·菲丹通话时表示，伊朗将对任何“侵略”作出坚决回应，并讨论了美国“破坏稳定行动”的后果以及地区不安全加剧的前景。阿拉格奇后来告诉沙特外交大臣费萨尔·本·法尔汉亲王，美国和以色列的任何攻击，或地区国家参与此类行动，都将遭到伊朗武装部队的“相称回应”。据Axios援引一名美国官员的话报道，沙特王储穆罕默德·本·萨勒曼周六与特朗普通话，并“对美国对伊朗的计划表示担忧并要求澄清”。与伊朗最高安全机构有关联的媒体Nournews周六表示，美国对伊朗能源基础设施的攻击将促使伊朗打击沙特阿拉伯和阿联酋的油田，以及卡塔尔和以色列的天然气田，称“一切都将化为灰烬。”\n\n2026年7月27日，在伊朗阿巴斯港附近的霍尔木兹海峡，小船停靠在岸边，货船和其他商业船只抛锚停泊。\n\n自2月28日美国和以色列军队对伊朗发动战争以来，油价一直居高不下。特朗普辩称，他阻止伊朗获得核武器的既定目标证明了短期内燃油价格上涨的合理性，但经济痛苦给他带来了政治压力，迫使他寻找结束战争的方法。基准布伦特原油期货7月上涨24%，路透社调查的分析师预计今年价格将进一步上涨。自冲突开始以来，伊朗攻击的风险已阻止大多数船只通过霍尔木兹海峡——全球能源供应的关键通道——给世界经济带来冲击波。加剧能源行业担忧的是，伊朗在也门的胡塞盟友最近威胁要封锁红海南端的曼德海峡，这是沙特原油的另一条出口路线。英国海上贸易行动办公室周六表示，已收到阿曼附近两起海上事件的报告，其中一起是一艘油轮被不明射弹击中，损坏了机舱。\n\n在另一起事件中，一艘油轮的船长报告称看到船附近有巨大水花和爆炸，但没有报告损坏。"
     },
     {
       "id": 5,
-      "category": "technology",
+      "category": "military",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-17/Scientists-reveal-how-aging-weakens-the-brain-s-protective-barrier-1OQlBVmo6Vq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "Scientists reveal how aging weakens the brain's protective barrier",
-      "titleCn": "科学家揭示衰老如何削弱大脑的保护屏障",
-      "summary": "Scientists reveal how aging weakens the brain's protective barrier",
-      "summaryCn": "研究发现衰老通过TGF-β1信号抑制Mfsd2a蛋白，导致脑内血管细胞异常转运，从而破坏血脑屏障，为认知衰退提供新解释。",
-      "wordCount": 526,
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-31/Japan-officially-launches-new-intelligence-body-Why-is-it-dangerous--1PdPlb5zuOk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Japan officially launches new intelligence body. Why is it dangerous?",
+      "titleCn": "日本正式启动新情报机构，为何危险？",
+      "summary": "Japan has taken further steps to strengthen its security apparatus and military capabilities, with the government establishing a new national intelligence agency and conducting its first test launch of a long-range cruise missile, moves that have sparked concerns over the country's accelerating military buildup.",
+      "summaryCn": "日本成立国家情报局并试射巡航导弹，引发国内外对其军事扩张和背离和平宪法的担忧。",
+      "wordCount": 593,
       "paragraphs": [
         {
-          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive {{2}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{3}} by which aging weakens the blood-brain barrier, the brain's protective {{4}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier {{6}} during aging.\"\nThe study shows how aging {{5}} {{16}} in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{7}} security system.",
-          "cn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）像一个选择性安全系统。"
+          "en": "Japanese Prime Minister Sanae Takaichi talks about setting up the National Intelligence Bureau at her office in Chiyoda Ward, Tokyo, Japan, May 27, 2026. Japan has taken further steps to strengthen its security apparatus and military {{1}}, with the government {{2}} a new national {{0}} agency and conducting its first test launch of a long-range cruise missile, moves that have sparked concerns over the country's accelerating military buildup. On Friday, the Japanese government officially established the National Intelligence Bureau aimed at {{3}} the country's intelligence-gathering capabilities. Hara Kazuya was {{4}} as the head of the new intelligence agency. Meanwhile, according to Japan's Ministry of Defense, the country's Self-Defense Forces {{5}} a test launch of the US-made Tomahawk cruise missile in the Pacific Ocean on July 28, marking Japan's first such test. The Tomahawk is a {{6}} long-range cruise missile {{7}} launched from naval vessels and submarines.",
+          "cn": "日本首相高市早苗于2026年5月27日在东京千代田区办公室讨论设立国家情报局事宜。日本进一步加强其安全机构和军事能力，政府成立新的国家情报机构并首次试射远程巡航导弹，这些举动引发了对该国加速军事集结的担忧。周五，日本政府正式成立国家情报局，旨在提升国家情报收集能力。原和也获任新情报机构负责人。同时，据日本防卫省消息，日本自卫队于7月28日在太平洋试射了美国制造的“战斧”巡航导弹，这是日本首次此类试射。“战斧”是一种亚音速远程巡航导弹，通常从海军舰艇和潜艇上发射。"
         },
         {
-          "en": "It allows {{8}} nutrients to reach the brain while preventing potentially harmful {{9}} in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{10}} disorders. Scientists have traditionally {{11}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{12}} in middle-aged mice and worsened in older animals.",
-          "cn": "它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接的损伤。然而，新研究发现另一个过程在衰老过程中更早发生。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已可检测到，并在老年动物中恶化。"
+          "en": "Designed mainly for naval {{8}}, it also has land-based {{9}}, with a maximum range {{10}} 2,000 kilometers. Experts said Japan's recent moves, including strengthening its intelligence capabilities and accelerating the development and deployment of offensive weapons, indicate that the country's postwar principle of \"exclusive defense-oriented policy\" is increasingly being {{11}}. Wang Guangtao, an associate researcher at the Center for Japanese Studies at Fudan University, {{12}} the establishment of the the intelligence bureau, saying the move would further {{13}} a \"Prime Minister's Office-led\" {{14}} chain of command, {{15}} power while lacking sufficient {{16}}. \"Japan had a similar vertically structured intelligence system before World War II, which was deeply {{17}} with its militarism and overseas {{18}},\" said Wang, adding that \"The {{19}} of such an intelligence agency {{20}} reminds people of wartime Japan's high-pressure intelligence management system and its {{21}} of individual freedom of expression.\"\nCai Liang, a researcher at Shanghai Institutes for International Studies, said Japan's efforts to build a centralized intelligence system and strengthen the prime minister-led command structure represent a {{22}} from the {{23}} of the postwar pacifist framework and could continue to {{24}} regional security. \"Japan's intelligence system has moved beyond the traditional defensive framework and is being integrated with national security strategies, providing {{25}} intelligence support for the development of the Self-Defense Forces' counterstrike capabilities and the expansion of military boundaries,\" Cai said. He added that intelligence reform has become a key step in Japan's push to break away from postwar restrictions and build an \"intelligence-driven military.\" Japan's proactive expansion of its intelligence strategy could continue to affect the regional security landscape and deserves close attention, he said.",
+          "cn": "该导弹主要设计用于海军部署，也有陆基型号，最大射程超过2000公里。专家表示，日本近期加强情报能力、加速发展和部署进攻性武器的举动，表明其战后“专守防卫”原则正日益受到侵蚀。复旦大学日本研究中心副研究员王广涛批评设立情报局之举，称此举将进一步强化“首相官邸主导”的垂直指挥链，集中权力而缺乏充分监督。“日本在二战前曾有过类似的垂直情报体系，与其军国主义和海外侵略紧密交织，”王广涛说，“此类情报机构的复兴不可避免地让人想起战时日本高压情报管理制度及其对个人言论自由的压制。”上海国际问题研究院研究员蔡亮表示，日本建立中央集权情报体系并强化首相主导指挥结构的努力，背离了战后和平主义框架的约束，可能继续破坏地区安全。“日本情报体系已超越传统防御框架，并与国家安全战略相融合，为自卫队反击能力发展和军事边界扩张提供主动情报支持，”蔡亮说。他补充道，情报改革已成为日本摆脱战后限制、建设“情报驱动型军队”的关键一步。日本主动扩展情报战略可能持续影响地区安全格局，值得密切关注。"
         },
         {
-          "en": "The change appeared early in the {{13}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{14}}. Instead, the cells' internal transport system became {{15}} active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
-          "cn": "这种变化早期出现在海马体，这是对学习和记忆重要的大脑区域。在此阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制，”研究人员说。团队识别出一种名为Mfsd2a的蛋白质作为该保护系统的重要组成部分。"
-        },
-        {
-          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased. When the researchers {{17}} endothelial Mfsd2a expression or {{18}} down Caveolin-1 in aged mice, abnormal {{19}} transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a {{20}} molecule involved in {{21}}, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
-          "cn": "Mfsd2a通常限制脑内血管上的不必要运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠年龄增长，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平均增加。"
-        },
-        {
-          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several {{23}} normally seen in the aged BBB, including increased leakage. By contrast, {{24}} TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of {{25}} wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
-          "cn": "过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质方式的生物信号。"
-        },
-        {
-          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing {{22}} activation of TGF-β signaling. Further research will be needed to determine whether these {{26}} can be safely translated into treatments for humans.",
-          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略能否安全转化为人类治疗方法。"
+          "en": "Japan's recent moves have not only raised nerves among neighboring countries, but have also intensified domestic public concerns over the country's growing military ambitions. Since the House of Representatives election in February, Japan's ruling Liberal Democratic Party (LDP) has used its majority in the lower house to advance a series of security-related legislation, including the act establishing the new intelligence body, despite resistance from opposition parties and criticism from parts of society. The LDP has also called for increased defense spending as part of its proposal to revise Japan's three key security documents later this year, paving the way for further expansion of the country's defense capabilities. Japan this year has seen a number of protests, during which demonstrators criticized a series of dangerous policies and bills promoted by Sanae Takaichi's government. Some protesters accused the government of ignoring public concerns and warned that the current administration is gradually pushing Japan toward war. Others expressed concern that the new intelligence agency could lead to expanded collection of citizens' personal information, threatening privacy and freedom of speech.",
+          "cn": "日本近期的举动不仅引起邻国紧张，也加剧了国内公众对国家日益增长的军事野心的担忧。自2月众议院选举以来，日本执政的自民党利用其在众议院的多数席位推进一系列安全相关立法，包括设立新情报机构的法案，尽管遭到反对党抵制和社会部分人士批评。自民党还呼吁增加国防开支，作为其今年晚些时候修订日本三项关键安全文件提案的一部分，为国防能力进一步扩张铺路。日本今年已发生多起抗议活动，示威者批评高市早苗政府推行的一系列危险政策和法案。一些抗议者指责政府忽视公众关切，并警告现政府正逐步将日本推向战争。另一些人则担心新情报机构可能导致公民个人信息收集扩大，威胁隐私和言论自由。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "cognitive",
-          "hint": "adj. 认知的",
+          "answer": "intelligence",
+          "hint": "n. 情报",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "cerebrovascular",
-          "hint": "adj. 脑血管的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 2,
-          "answer": "impairment",
-          "hint": "n. 损伤，障碍",
+          "answer": "capabilities",
+          "hint": "n. 能力",
           "difficulty": "medium"
         },
         {
+          "id": 2,
+          "answer": "establishing",
+          "hint": "v. 建立",
+          "difficulty": "easy"
+        },
+        {
           "id": 3,
-          "answer": "mechanism",
-          "hint": "n. 机制",
+          "answer": "enhancing",
+          "hint": "v. 提升",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "interface",
-          "hint": "n. 界面",
-          "difficulty": "medium"
+          "answer": "appointed",
+          "hint": "v. 任命",
+          "difficulty": "easy"
         },
         {
           "id": 5,
-          "answer": "disrupts",
-          "hint": "v. 扰乱",
-          "difficulty": "medium"
+          "answer": "conducted",
+          "hint": "v. 进行",
+          "difficulty": "easy"
         },
         {
           "id": 6,
-          "answer": "leakage",
-          "hint": "n. 渗漏",
-          "difficulty": "medium"
+          "answer": "subsonic",
+          "hint": "adj. 亚音速的",
+          "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "selective",
-          "hint": "adj. 选择性的",
-          "difficulty": "medium"
+          "answer": "typically",
+          "hint": "adv. 通常",
+          "difficulty": "easy"
         },
         {
           "id": 8,
-          "answer": "essential",
-          "hint": "adj. 必需的",
-          "difficulty": "easy"
+          "answer": "deployment",
+          "hint": "n. 部署",
+          "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "substances",
-          "hint": "n. 物质",
-          "difficulty": "easy"
+          "answer": "variants",
+          "hint": "n. 变体",
+          "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "neurodegenerative",
-          "hint": "adj. 神经退行性的",
-          "difficulty": "hard"
+          "answer": "exceeding",
+          "hint": "v. 超过",
+          "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "attributed",
-          "hint": "v. 归因于",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "detectable",
-          "hint": "adj. 可检测的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "hippocampus",
-          "hint": "n. 海马体",
+          "answer": "eroded",
+          "hint": "v. 侵蚀",
           "difficulty": "hard"
         },
         {
+          "id": 12,
+          "answer": "criticized",
+          "hint": "v. 批评",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "reinforce",
+          "hint": "v. 强化",
+          "difficulty": "medium"
+        },
+        {
           "id": 14,
-          "answer": "intact",
-          "hint": "adj. 完整的",
+          "answer": "vertical",
+          "hint": "adj. 垂直的",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "abnormally",
-          "hint": "adv. 异常地",
+          "answer": "concentrating",
+          "hint": "v. 集中",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "transport",
-          "hint": "n./v. 运输",
-          "difficulty": "easy"
+          "answer": "oversight",
+          "hint": "n. 监督",
+          "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "restored",
-          "hint": "v. 恢复",
-          "difficulty": "medium"
+          "answer": "intertwined",
+          "hint": "v. 交织",
+          "difficulty": "hard"
         },
         {
           "id": 18,
-          "answer": "knocked",
-          "hint": "v. 敲低（knock down）",
-          "difficulty": "hard"
+          "answer": "aggression",
+          "hint": "n. 侵略",
+          "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "vesicle",
-          "hint": "n. 囊泡",
-          "difficulty": "hard"
+          "answer": "revival",
+          "hint": "n. 复兴",
+          "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "signaling",
-          "hint": "n. 信号传导",
+          "answer": "inevitably",
+          "hint": "adv. 不可避免地",
           "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "inflammation",
-          "hint": "n. 炎症",
-          "difficulty": "medium"
+          "answer": "suppression",
+          "hint": "n. 压制",
+          "difficulty": "hard"
         },
         {
           "id": 22,
-          "answer": "excessive",
-          "hint": "adj. 过度的",
+          "answer": "departure",
+          "hint": "n. 背离",
           "difficulty": "medium"
         },
         {
           "id": 23,
-          "answer": "features",
-          "hint": "n. 特征",
-          "difficulty": "easy"
+          "answer": "constraints",
+          "hint": "n. 限制",
+          "difficulty": "medium"
         },
         {
           "id": 24,
-          "answer": "blocking",
-          "hint": "v. 阻断",
+          "answer": "disrupt",
+          "hint": "v. 破坏",
           "difficulty": "medium"
         },
         {
           "id": 25,
-          "answer": "passive",
-          "hint": "adj. 被动的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "strategies",
-          "hint": "n. 策略",
-          "difficulty": "easy"
+          "answer": "proactive",
+          "hint": "adj. 主动的",
+          "difficulty": "hard"
         }
       ],
-      "fullText": "As people age, many experience memory decline and slower cognitive processing, along with a higher risk of cerebrovascular disease and cognitive impairment. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline.\nScientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a mechanism by which aging weakens the blood-brain barrier, the brain's protective interface with the bloodstream.\nThe study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier leakage during aging.\"\nThe study shows how aging disrupts transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a selective security system. It allows essential nutrients to reach the brain while preventing potentially harmful substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several neurodegenerative disorders.\nScientists have traditionally attributed BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging.\nBy examining mice at different ages, the researchers found that BBB leakage was already detectable in middle-aged mice and worsened in older animals. The change appeared early in the hippocampus, a brain region important for learning and memory.\nAt this stage, the seals between blood vessel cells remained largely intact. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue.\n\"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said.\nThe team identified a protein called Mfsd2a as an important part of this protective system. Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased.\nWhen the researchers restored endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced.\nThe researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.\nExcessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage.\nBy contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests.\nThe findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.\nThe study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing excessive activation of TGF-β signaling. Further research will be needed to determine whether these strategies can be safely translated into treatments for humans.",
-      "fullTextCn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）像一个选择性安全系统。\n\n它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接的损伤。然而，新研究发现另一个过程在衰老过程中更早发生。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已可检测到，并在老年动物中恶化。\n\n这种变化早期出现在海马体，这是对学习和记忆重要的大脑区域。在此阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制，”研究人员说。团队识别出一种名为Mfsd2a的蛋白质作为该保护系统的重要组成部分。\n\nMfsd2a通常限制脑内血管上的不必要运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠年龄增长，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平均增加。\n\n过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质方式的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略能否安全转化为人类治疗方法。"
+      "fullText": "Japanese Prime Minister Sanae Takaichi talks about setting up the National Intelligence Bureau at her office in Chiyoda Ward, Tokyo, Japan, May 27, 2026. \nJapan has taken further steps to strengthen its security apparatus and military capabilities, with the government establishing a new national intelligence agency and conducting its first test launch of a long-range cruise missile, moves that have sparked concerns over the country's accelerating military buildup.\nOn Friday, the Japanese government officially established the National Intelligence Bureau aimed at enhancing the country's intelligence-gathering capabilities. Hara Kazuya was appointed as the head of the new intelligence agency.\nMeanwhile, according to Japan's Ministry of Defense, the country's Self-Defense Forces conducted a test launch of the US-made Tomahawk cruise missile in the Pacific Ocean on July 28, marking Japan's first such test.\nThe Tomahawk is a subsonic long-range cruise missile typically launched from naval vessels and submarines. Designed mainly for naval deployment, it also has land-based variants, with a maximum range exceeding 2,000 kilometers.\nExperts said Japan's recent moves, including strengthening its intelligence capabilities and accelerating the development and deployment of offensive weapons, indicate that the country's postwar principle of \"exclusive defense-oriented policy\" is increasingly being eroded.\nWang Guangtao, an associate researcher at the Center for Japanese Studies at Fudan University, criticized the establishment of the the intelligence bureau, saying the move would further reinforce a \"Prime Minister's Office-led\" vertical chain of command, concentrating power while lacking sufficient oversight.\n\"Japan had a similar vertically structured intelligence system before World War II, which was deeply intertwined with its militarism and overseas aggression,\" said Wang, adding that \"The revival of such an intelligence agency inevitably reminds people of wartime Japan's high-pressure intelligence management system and its suppression of individual freedom of expression.\"\nCai Liang, a researcher at Shanghai Institutes for International Studies, said Japan's efforts to build a centralized intelligence system and strengthen the prime minister-led command structure represent a departure from the constraints of the postwar pacifist framework and could continue to disrupt regional security.\n\"Japan's intelligence system has moved beyond the traditional defensive framework and is being integrated with national security strategies, providing proactive intelligence support for the development of the Self-Defense Forces' counterstrike capabilities and the expansion of military boundaries,\" Cai said.\nHe added that intelligence reform has become a key step in Japan's push to break away from postwar restrictions and build an \"intelligence-driven military.\" Japan's proactive expansion of its intelligence strategy could continue to affect the regional security landscape and deserves close attention, he said.\nJapan's recent moves have not only raised nerves among neighboring countries, but have also intensified domestic public concerns over the country's growing military ambitions.\nSince the House of Representatives election in February, Japan's ruling Liberal Democratic Party (LDP) has used its majority in the lower house to advance a series of security-related legislation, including the act establishing the new intelligence body, despite resistance from opposition parties and criticism from parts of society.\nThe LDP has also called for increased defense spending as part of its proposal to revise Japan's three key security documents later this year, paving the way for further expansion of the country's defense capabilities.\nJapan this year has seen a number of protests, during which demonstrators criticized a series of dangerous policies and bills promoted by Sanae Takaichi's government.\nSome protesters accused the government of ignoring public concerns and warned that the current administration is gradually pushing Japan toward war. Others expressed concern that the new intelligence agency could lead to expanded collection of citizens' personal information, threatening privacy and freedom of speech.",
+      "fullTextCn": "日本首相高市早苗于2026年5月27日在东京千代田区办公室讨论设立国家情报局事宜。日本进一步加强其安全机构和军事能力，政府成立新的国家情报机构并首次试射远程巡航导弹，这些举动引发了对该国加速军事集结的担忧。周五，日本政府正式成立国家情报局，旨在提升国家情报收集能力。原和也获任新情报机构负责人。同时，据日本防卫省消息，日本自卫队于7月28日在太平洋试射了美国制造的“战斧”巡航导弹，这是日本首次此类试射。“战斧”是一种亚音速远程巡航导弹，通常从海军舰艇和潜艇上发射。\n\n该导弹主要设计用于海军部署，也有陆基型号，最大射程超过2000公里。专家表示，日本近期加强情报能力、加速发展和部署进攻性武器的举动，表明其战后“专守防卫”原则正日益受到侵蚀。复旦大学日本研究中心副研究员王广涛批评设立情报局之举，称此举将进一步强化“首相官邸主导”的垂直指挥链，集中权力而缺乏充分监督。“日本在二战前曾有过类似的垂直情报体系，与其军国主义和海外侵略紧密交织，”王广涛说，“此类情报机构的复兴不可避免地让人想起战时日本高压情报管理制度及其对个人言论自由的压制。”上海国际问题研究院研究员蔡亮表示，日本建立中央集权情报体系并强化首相主导指挥结构的努力，背离了战后和平主义框架的约束，可能继续破坏地区安全。“日本情报体系已超越传统防御框架，并与国家安全战略相融合，为自卫队反击能力发展和军事边界扩张提供主动情报支持，”蔡亮说。他补充道，情报改革已成为日本摆脱战后限制、建设“情报驱动型军队”的关键一步。日本主动扩展情报战略可能持续影响地区安全格局，值得密切关注。\n\n日本近期的举动不仅引起邻国紧张，也加剧了国内公众对国家日益增长的军事野心的担忧。自2月众议院选举以来，日本执政的自民党利用其在众议院的多数席位推进一系列安全相关立法，包括设立新情报机构的法案，尽管遭到反对党抵制和社会部分人士批评。自民党还呼吁增加国防开支，作为其今年晚些时候修订日本三项关键安全文件提案的一部分，为国防能力进一步扩张铺路。日本今年已发生多起抗议活动，示威者批评高市早苗政府推行的一系列危险政策和法案。一些抗议者指责政府忽视公众关切，并警告现政府正逐步将日本推向战争。另一些人则担心新情报机构可能导致公民个人信息收集扩大，威胁隐私和言论自由。"
     }
   ]
 }
