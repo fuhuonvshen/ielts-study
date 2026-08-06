@@ -1,568 +1,544 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "articles": [
     {
       "id": 1,
-      "category": "military",
+      "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-01/Escalating-conflict-in-the-Middle-East-1PfVEkKe2Y0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Escalating conflict in the Middle East",
-      "titleCn": "中东冲突升级",
-      "summary": "Escalating conflict in the Middle East",
-      "summaryCn": "美国与伊朗之间的冲突持续升级，也门和伊拉克等国家被卷入，导致中东安全局势恶化，并可能影响全球能源供应和国际航运。",
-      "wordCount": 857,
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-02/Explainer-Why-is-Ceuta-a-focal-point-of-Europe-s-migrant-crisis--1Pht700EujK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Explainer: Why is Ceuta a focal point of Europe's migrant crisis?",
+      "titleCn": "解析：为何休达成为欧洲移民危机的焦点？",
+      "summary": "A recent surge of undocumented migrants crossing from Morocco into Spain's North African enclave of Ceuta has triggered one of the most serious border crises Spain has faced in recent years, placing renewed pressure on migration management and exposing divisions within the European Union (EU).",
+      "summaryCn": "西班牙北非飞地休达因大量非法移民涌入引发严重边境危机，凸显欧盟内部分歧，并促使西班牙加强边境管控及与摩洛哥的合作。",
+      "wordCount": 739,
       "paragraphs": [
         {
-          "en": "A general view of scorched vehicles at the site of a strike in Bartalla after US-Saudi strikes on Iraq, in Nineveh Province, Iraq, July 29, 2026. Editor's note: Wang Jin is a Middle East expert from China's Northwest University. The article reflects the author's opinion and not necessarily the views of CGTN. The conflict between the United States and Iran remains ongoing, while countries such as Yemen and Iraq have become increasingly drawn into the hostilities. As a result, the security situation across the Middle East continues to {{0}}.",
-          "cn": "伊拉克尼尼微省巴特拉发生袭击后，被烧毁的车辆现场全景，此次袭击是美国和沙特对伊拉克发动空袭所致，摄于2026年7月29日。编者注：王晋是中国西北大学的中东问题专家。本文仅代表作者观点，不代表CGTN立场。美国与伊朗之间的冲突仍在持续，也门和伊拉克等国日益卷入敌对行动。因此，中东地区的安全局势持续恶化。"
+          "en": "Spanish forces escort migrants to the Ceuta-Morocco border gate in the Spanish North African enclave of Ceuta, August 1, 2026. A recent {{0}} of undocumented migrants crossing from Morocco into Spain's North African enclave of Ceuta has {{1}} one of the most serious border crises Spain has faced in recent years, placing renewed pressure on migration management and exposing divisions within the European Union (EU). The influx prompted Madrid to {{2}} military support, tighten border controls and enhance coordination with Rabat, while {{3}} debate within the EU over how to manage migration at its external borders. What's special with Ceuta? Ceuta is one of Spain's two {{4}} on the North African coast, alongside Melilla.",
+          "cn": "2026年8月1日，西班牙军队在西班牙北非飞地休达的休达-摩洛哥边境口岸护送移民。近期，大量无证移民从摩洛哥涌入西班牙北非飞地休达，引发了西班牙多年来面临的最严重边境危机之一，给移民管理带来新的压力，并暴露出欧盟内部的分歧。这一涌入促使马德里部署军事支援、加强边境管控并加强与拉巴特的协调，同时重新引发了欧盟内部关于如何管理其外部边界的辩论。休达有何特殊之处？休达是西班牙在北非海岸的两个飞地之一，另一个是梅利利亚。"
         },
         {
-          "en": "Over the past two weeks, the geographical scope of the conflict has {{1}} significantly. Since the renewed outbreak of hostilities between the United States and Iran in July, tensions have {{2}} rapidly, with fighting resuming in Yemen and Iraqi Shiite militia groups becoming increasingly involved. The United States and Saudi Arabia have subsequently carried out strikes against militia targets inside Iraq. Coupled with the recent drone attack on Egypt, these developments suggest that the conflict is spreading across the region, with regional actors increasingly {{3}} their strategic positions. A person watches Houthi military spokesperson Yahya Sarea delivering a televised statement in Sana'a, Yemen, July 25, 2026.",
-          "cn": "过去两周，冲突的地理范围显著扩大。自7月美国和伊朗敌对行动再次爆发以来，紧张局势迅速升级，也门战斗重新开始，伊拉克什叶派民兵组织日益卷入其中。美国和沙特随后对伊拉克境内的民兵目标进行了打击。加上最近对埃及的无人机袭击，这些事态发展表明冲突正在该地区蔓延，地区行为体日益重新调整其战略立场。2026年7月25日，在也门萨那，一名男子观看胡塞武装军事发言人叶海亚·萨雷亚发表电视声明。"
+          "en": "Although geographically located in Africa, it forms part of the EU's external border. Its location has long made it one of Europe's most {{5}} migration {{6}}. For years, undocumented migrants have attempted to reach the enclave by climbing border fences or swimming around coastal barriers before trying to continue to mainland Spain and other parts of Europe. Spain and Morocco have expanded cooperation in recent years on border control, migrant returns and efforts to {{7}} human trafficking and {{8}} networks. What triggered surge?",
+          "cn": "尽管地理位置在非洲，但它构成了欧盟外部边界的一部分。其地理位置长期以来使其成为欧洲最敏感的移民通道之一。多年来，无证移民试图通过攀爬边境围栏或绕过海岸屏障游泳进入该飞地，然后试图继续前往西班牙本土和欧洲其他地区。近年来，西班牙和摩洛哥在边境管控、移民遣返以及打击人口贩运和偷渡网络方面扩大了合作。是什么引发了这次涌入？"
         },
         {
-          "en": "The renewed confrontation between the United States and Iran has {{4}} long-standing regional tensions that had previously shown signs of easing. In Yemen, the dispute over flights from Sana'a International Airport became the immediate {{5}} for renewed confrontation. Saudi Arabia and the Yemeni government argued that direct flights to Tehran violated the 2022 Yemen ceasefire agreement and could {{6}} Iranian support for the Houthis. Flights between Iran and Sana'a on July 3 and July 13 further heightened these suspicions. The Houthis subsequently imposed a {{7}} in the Bab el-Mandeb Strait, contributing to the renewed outbreak of hostilities.",
-          "cn": "美国和伊朗之间的再次对抗重新点燃了此前曾显示出缓和迹象的长期地区紧张局势。在也门，关于萨那国际机场航班的争端成为重新对抗的直接导火索。沙特阿拉伯和也门政府认为，直飞德黑兰的航班违反了2022年也门停火协议，并可能为伊朗支持胡塞武装提供便利。7月3日和7月13日伊朗与萨那之间的航班进一步加剧了这些怀疑。胡塞武装随后在曼德海峡实施封锁，导致敌对行动再次爆发。"
+          "en": "In late June and early July, Spain's Supreme Court ruled that migrants {{9}} at sea near Ceuta and Melilla could not be {{10}} returned under the special \"pushback\" regime applied at land borders. Instead, they must go through standard legal procedures that provide access to legal assistance and the opportunity to apply for international protection. The ruling was quickly {{11}} online into claims that anyone who reached Ceuta by sea would automatically be allowed to stay in Spain and eventually obtain legal residency. The {{12}} spread rapidly across various social media platforms, leading many to believe the route was effectively open. Abdellah, a Moroccan who attempted to reach Ceuta but was later turned back by police, said videos circulating online had convinced him to make the journey.",
+          "cn": "6月底至7月初，西班牙最高法院裁定，在休达和梅利利亚附近海域被拦截的移民不能根据适用于陆地边界的特殊“推回”制度被即决遣返。相反，他们必须经过标准法律程序，这些程序提供法律援助和申请国际保护的机会。这一裁决很快在网上被歪曲为声称任何通过海路抵达休达的人将自动获准留在西班牙并最终获得合法居留权。这一说法在各大社交媒体平台上迅速传播，导致许多人认为这条路线实际上是开放的。阿卜杜拉是一名试图抵达休达但后来被警方遣返的摩洛哥人，他说网上流传的视频说服了他踏上这段旅程。"
         },
         {
-          "en": "The conflict has also drawn Iraq further into the regional crisis. Iraqi Shiite militias {{8}} close ties with Iran and have long been viewed by the United States and Gulf Arab states as important Iranian partners. After the renewed fighting between Saudi Arabia and the Houthis, Saudi Arabia {{9}} Iraqi Shiite militias of assisting the Houthis and, together with the United States, carried out strikes against militia positions inside Iraq. Although the Iraqi central government has opposed {{10}} foreign military operations on its territory, it has struggled to exercise effective control over the militias, while the groups have denied involvement in attacks targeting Saudi Arabia. This has further {{11}} Iraq's political and factional divisions and increased the risk of cross-border escalation.",
-          "cn": "冲突也使伊拉克进一步卷入地区危机。伊拉克什叶派民兵与伊朗保持密切联系，长期以来被美国和海湾阿拉伯国家视为伊朗的重要伙伴。在沙特阿拉伯与胡塞武装重新交战后，沙特指责伊拉克什叶派民兵协助胡塞武装，并与美国一起对伊拉克境内的民兵阵地进行了打击。尽管伊拉克中央政府反对未经授权的外国军事行动在其领土上进行，但它难以有效控制民兵组织，而这些组织否认参与针对沙特的袭击。这进一步暴露了伊拉克的政治和派系分歧，并增加了跨境升级的风险。"
+          "en": "Mohammed Zakaria Aboudahab, a professor of public law and political science at Mohammed V University in Morocco, said migrant-smuggling networks had deliberately {{13}} false information on social media, creating the impression that reaching Ceuta {{14}} legal status. Migrants sit outside a short-stay migrant center in the Spanish North African enclave of Ceuta, August 1, 2026. The latest influx saw more than 50,000 undocumented migrants enter Ceuta, many by swimming around the Tarajal border crossing or using {{15}} flotation devices. At least 67 people died during the crossings, with the death toll expected to rise as search and recovery operations continue. By August 1, more than 48,000 migrants had returned to Morocco.",
+          "cn": "摩洛哥穆罕默德五世大学公法与政治学教授穆罕默德·扎卡里亚·阿布达哈布表示，偷渡网络故意在社交媒体上放大虚假信息，制造出抵达休达就能保证合法身份的假象。2026年8月1日，移民坐在西班牙北非飞地休达的一个短期移民中心外。最近的这次涌入有超过5万名无证移民进入休达，许多人绕过塔拉哈尔边境口岸游泳或使用临时漂浮装置。至少有67人在穿越过程中死亡，随着搜索和恢复行动的继续，死亡人数预计还会上升。截至8月1日，已有超过4.8万名移民返回摩洛哥。"
         },
         {
-          "en": "More importantly, the widening conflict has significantly strengthened regional states' sense of strategic {{12}}. Continued fighting in Iraq and Yemen has placed both the Strait of Hormuz and the Red Sea under mounting pressure, {{13}} international shipping and raising concerns among Gulf Arab states and countries along the Red Sea coast. The risks extend well beyond the region. Any blockade of the Bab el-Mandeb Strait would threaten navigation through the Suez Canal, while disruptions around the Strait of Hormuz could affect global energy supplies. Egypt, as the principal country responsible for {{14}} the Suez Canal, may therefore face difficult strategic choices and could be drawn more deeply into the conflict.",
-          "cn": "更重要的是，冲突的扩大显著增强了地区国家的战略脆弱感。伊拉克和也门的持续战斗使霍尔木兹海峡和红海面临越来越大的压力，扰乱了国际航运，并引起了海湾阿拉伯国家和红海沿岸国家的担忧。风险远远超出该地区。曼德海峡的任何封锁都将威胁苏伊士运河的航行，而霍尔木兹海峡附近的干扰可能影响全球能源供应。埃及作为负责维护苏伊士运河的主要国家，可能面临艰难的战略选择，并可能更深地卷入冲突。"
+          "en": "None were allowed to travel onward to mainland Spain under Ceuta's special Schengen arrangements, and authorities said the immediate pressure at the border had largely eased. Spain has since {{16}} security by installing a new floating maritime barrier along Ceuta's breakwater. The 500-meter inflatable barrier is designed to prevent migrants from bypassing land border controls by sea. At the same time, Madrid and Rabat have {{17}} cooperation on returns and law enforcement while stepping up efforts against migrant-smuggling networks. Moroccan authorities said they had arrested 70 people suspected of organizing or participating in violence linked to the mass crossing.",
+          "cn": "根据休达的特殊申根安排，没有人被允许继续前往西班牙本土，当局表示边境的直接压力已基本缓解。西班牙此后通过沿休达防波堤安装新的浮动海上屏障加强了安全。这个500米长的充气屏障旨在防止移民通过海路绕过陆地边境管制。与此同时，马德里和拉巴特加强了在遣返和执法方面的合作，同时加大了对偷渡网络的打击力度。摩洛哥当局表示，他们逮捕了70名涉嫌组织或参与与大规模越境有关的暴力活动的人。"
         },
         {
-          "en": "At the same time, Ukraine's support for the US position suggests that the {{15}} of the Middle East conflict are increasingly {{16}} with the Russia-Ukraine conflict, highlighting the growing interaction between regional crises and broader international security challenges. Iranians drive past a large political billboard at Valiasr Square in Tehran, Iran, August 1, 2026. Looking ahead, the conflict is likely to remain highly intense while continuing to expand geographically. The United States and Iran have yet to reach {{17}} on how the conflict should end, while fundamental differences remain over issues including the Strait of Hormuz and Iran's nuclear program. A negotiated settlement is therefore unlikely in the near term.",
-          "cn": "与此同时，乌克兰对美国立场的支持表明，中东冲突的影响正日益与俄乌冲突交织在一起，凸显了地区危机与更广泛的国际安全挑战之间日益增长的互动。2026年8月1日，伊朗人驾车经过德黑兰瓦利亚斯尔广场上的大型政治广告牌。展望未来，冲突可能保持高度激烈，同时继续在地理上扩大。美国和伊朗尚未就冲突如何结束达成共识，而在霍尔木兹海峡和伊朗核计划等问题上仍存在根本分歧。因此，短期内不太可能达成谈判解决方案。"
+          "en": "Xinhua reporters in Rabat and Casablanca also observed tighter security at railway stations and bus terminals, where police were screening and, when necessary, turning back groups of young people heading toward northern Morocco. EU and regional reactions\nThe crisis has once again {{18}} divisions within Europe over migration policy. The European Commission reaffirmed that Ceuta forms part of the EU's external border and said the bloc stands ready to support Spain through Frontex and other mechanisms while strengthening cooperation with Morocco. Italy was among the first countries to criticize Spain's migration policy. It later joined Denmark in leading a letter signed by 22 EU member states calling for an emergency ministerial meeting to discuss the crisis and the bloc's external border management.",
+          "cn": "新华社记者在拉巴特和卡萨布兰卡还观察到火车站和汽车站的安全措施更加严格，警方正在筛查并在必要时遣返前往摩洛哥北部的年轻人群体。欧盟及地区反应：这场危机再次暴露了欧洲在移民政策上的分歧。欧盟委员会重申休达构成欧盟外部边界的一部分，并表示欧盟随时准备通过Frontex和其他机制支持西班牙，同时加强与摩洛哥的合作。意大利是最早批评西班牙移民政策的国家之一。它后来与丹麦一起牵头签署了一封由22个欧盟成员国签署的信函，呼吁召开紧急部长级会议讨论这场危机和欧盟的外部边界管理。"
         },
         {
-          "en": "Meanwhile, the arrangements {{19}} stability in Yemen and Iraq remain {{18}}. The 2022 Yemen ceasefire agreement and the political arrangements surrounding Shiite militia groups in Iraq are both vulnerable to renewed pressure as the wider conflict continues. Rather than containing the crisis, their {{20}} could create new flashpoints and further worsen the regional security environment. In the short term, although regional actors including Pakistan, Qatar, and Oman remain willing to play {{21}} {{22}} roles, the rapid expansion of the conflict has already pushed the crisis beyond the bilateral framework of US-Iran relations, reigniting long-standing regional disputes. Key international waterways, including the Bab el-Mandeb Strait and the Strait of Hormuz, are likely to remain vulnerable to disruption, posing serious risks to global energy production, transportation and supply chains.",
-          "cn": "与此同时，支撑也门和伊拉克稳定的安排仍然脆弱。2022年也门停火协议和围绕伊拉克什叶派民兵的政治安排，随着更广泛冲突的持续，都可能面临新的压力。这些安排的恶化可能创造新的爆发点，并进一步恶化地区安全环境，而不是遏制危机。短期内，尽管巴基斯坦、卡塔尔和阿曼等地区行为体仍愿意发挥建设性调解作用，但冲突的迅速扩大已将危机推入超越美伊双边框架的范畴，重新点燃了长期存在的地区争端。包括曼德海峡和霍尔木兹海峡在内的关键国际水道可能仍然容易受到干扰，对全球能源生产、运输和供应链构成严重风险。"
-        },
-        {
-          "en": "Consequently, achieving a comprehensive end to the conflict in the near future is likely to prove extremely difficult. Over the medium to long-term, sustained international mediation and diplomatic coordination remain the most {{23}} means of de-escalating the conflict. The key challenge for the international community will be to {{24}} promptly and effectively amid intensifying regional tensions, encourage the parties to manage existing disputes and prevent local confrontations from developing into a wider regional conflict. Its ability to do so will be a critical test of collective diplomatic capacity and the international community's ability to preserve regional stability.",
-          "cn": "因此，在不久的将来实现冲突的全面结束可能极其困难。从中长期来看，持续的国际调解和外交协调仍然是缓和冲突的最可行手段。国际社会面临的关键挑战将是在地区紧张局势加剧之际及时有效地干预，鼓励各方管理现有争端，并防止局部对抗演变为更广泛的地区冲突。其做到这一点的能力将是对集体外交能力和国际社会维护地区稳定能力的严峻考验。"
+          "en": "Spanish Prime Minister Pedro Sanchez responded by writing to European Commission President Ursula von der Leyen, expressing \"serious concern\" over what he described as \"{{19}},\" politically motivated reactions from some governments that he said violated EU law, including proposals to suspend Schengen cooperation with Spain. He also called for an EU-wide ministerial meeting. Ireland, which currently holds the rotating presidency of the Council of the EU, subsequently announced that EU interior ministers would hold a videoconference on Tuesday to discuss the Ceuta crisis.",
+          "cn": "西班牙首相佩德罗·桑切斯回应致信欧盟委员会主席乌尔苏拉·冯德莱恩，对某些政府“自私的”、出于政治动机的反应表示“严重关切”，称这些反应违反了欧盟法律，包括暂停与西班牙的申根合作的提议。他还呼吁召开欧盟范围的部长级会议。目前担任欧盟理事会轮值主席国的爱尔兰随后宣布，欧盟内政部长将于周二举行视频会议讨论休达危机。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "deteriorate",
-          "hint": "v. 恶化",
+          "answer": "surge",
+          "hint": "n. 激增",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "expanded",
-          "hint": "v. 扩大",
-          "difficulty": "easy"
+          "answer": "triggered",
+          "hint": "v. 引发",
+          "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "escalated",
-          "hint": "v. 升级",
+          "answer": "deploy",
+          "hint": "v. 部署",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "realigning",
-          "hint": "v. 重新调整",
-          "difficulty": "hard"
-        },
-        {
-          "id": 4,
-          "answer": "reignited",
+          "answer": "reigniting",
           "hint": "v. 重新点燃",
           "difficulty": "hard"
         },
         {
+          "id": 4,
+          "answer": "exclaves",
+          "hint": "n. 飞地",
+          "difficulty": "hard"
+        },
+        {
           "id": 5,
-          "answer": "trigger",
-          "hint": "n. 导火索",
-          "difficulty": "medium"
+          "answer": "sensitive",
+          "hint": "adj. 敏感的",
+          "difficulty": "easy"
         },
         {
           "id": 6,
-          "answer": "facilitate",
-          "hint": "v. 促进",
+          "answer": "gateways",
+          "hint": "n. 通道",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "blockade",
-          "hint": "n. 封锁",
-          "difficulty": "medium"
+          "answer": "combat",
+          "hint": "v. 打击",
+          "difficulty": "easy"
         },
         {
           "id": 8,
-          "answer": "maintain",
-          "hint": "v. 保持",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "accused",
-          "hint": "v. 指责",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "unauthorized",
-          "hint": "adj. 未经授权的",
+          "answer": "smuggling",
+          "hint": "n. 走私",
           "difficulty": "medium"
         },
         {
+          "id": 9,
+          "answer": "intercepted",
+          "hint": "v. 拦截",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "summarily",
+          "hint": "adv. 即决地",
+          "difficulty": "hard"
+        },
+        {
           "id": 11,
-          "answer": "exposed",
-          "hint": "v. 暴露",
+          "answer": "distorted",
+          "hint": "v. 歪曲",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "vulnerability",
-          "hint": "n. 脆弱性",
+          "answer": "narrative",
+          "hint": "n. 说法",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "disrupting",
-          "hint": "v. 扰乱",
+          "answer": "amplified",
+          "hint": "v. 放大",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "safeguarding",
-          "hint": "v. 维护",
-          "difficulty": "medium"
+          "answer": "guaranteed",
+          "hint": "v. 保证",
+          "difficulty": "easy"
         },
         {
           "id": 15,
-          "answer": "repercussions",
-          "hint": "n. 影响",
-          "difficulty": "hard"
+          "answer": "makeshift",
+          "hint": "adj. 临时的",
+          "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "intersecting",
-          "hint": "v. 交织",
-          "difficulty": "hard"
+          "answer": "reinforced",
+          "hint": "v. 加强",
+          "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "consensus",
-          "hint": "n. 共识",
+          "answer": "intensified",
+          "hint": "v. 加强",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "fragile",
-          "hint": "adj. 脆弱的",
-          "difficulty": "medium"
+          "answer": "exposed",
+          "hint": "v. 暴露",
+          "difficulty": "easy"
         },
         {
           "id": 19,
-          "answer": "underpinning",
-          "hint": "v. 支撑",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
-          "answer": "deterioration",
-          "hint": "n. 恶化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "constructive",
-          "hint": "adj. 建设性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "mediation",
-          "hint": "n. 调解",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "viable",
-          "hint": "adj. 可行的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "intervene",
-          "hint": "v. 干预",
-          "difficulty": "medium"
+          "answer": "selfish",
+          "hint": "adj. 自私的",
+          "difficulty": "easy"
         }
       ],
-      "fullText": "A general view of scorched vehicles at the site of a strike in Bartalla after US-Saudi strikes on Iraq, in Nineveh Province, Iraq, July 29, 2026. \nEditor's note: Wang Jin is a Middle East expert from China's Northwest University. The article reflects the author's opinion and not necessarily the views of CGTN.\nThe conflict between the United States and Iran remains ongoing, while countries such as Yemen and Iraq have become increasingly drawn into the hostilities. As a result, the security situation across the Middle East continues to deteriorate.\nOver the past two weeks, the geographical scope of the conflict has expanded significantly. Since the renewed outbreak of hostilities between the United States and Iran in July, tensions have escalated rapidly, with fighting resuming in Yemen and Iraqi Shiite militia groups becoming increasingly involved. The United States and Saudi Arabia have subsequently carried out strikes against militia targets inside Iraq. Coupled with the recent drone attack on Egypt, these developments suggest that the conflict is spreading across the region, with regional actors increasingly realigning their strategic positions.\nA person watches Houthi military spokesperson Yahya Sarea delivering a televised statement in Sana'a, Yemen, July 25, 2026. \nThe renewed confrontation between the United States and Iran has reignited long-standing regional tensions that had previously shown signs of easing. In Yemen, the dispute over flights from Sana'a International Airport became the immediate trigger for renewed confrontation. Saudi Arabia and the Yemeni government argued that direct flights to Tehran violated the 2022 Yemen ceasefire agreement and could facilitate Iranian support for the Houthis. Flights between Iran and Sana'a on July 3 and July 13 further heightened these suspicions. The Houthis subsequently imposed a blockade in the Bab el-Mandeb Strait, contributing to the renewed outbreak of hostilities.\nThe conflict has also drawn Iraq further into the regional crisis. Iraqi Shiite militias maintain close ties with Iran and have long been viewed by the United States and Gulf Arab states as important Iranian partners. After the renewed fighting between Saudi Arabia and the Houthis, Saudi Arabia accused Iraqi Shiite militias of assisting the Houthis and, together with the United States, carried out strikes against militia positions inside Iraq. Although the Iraqi central government has opposed unauthorized foreign military operations on its territory, it has struggled to exercise effective control over the militias, while the groups have denied involvement in attacks targeting Saudi Arabia. This has further exposed Iraq's political and factional divisions and increased the risk of cross-border escalation.\nMore importantly, the widening conflict has significantly strengthened regional states' sense of strategic vulnerability. Continued fighting in Iraq and Yemen has placed both the Strait of Hormuz and the Red Sea under mounting pressure, disrupting international shipping and raising concerns among Gulf Arab states and countries along the Red Sea coast.\nThe risks extend well beyond the region. Any blockade of the Bab el-Mandeb Strait would threaten navigation through the Suez Canal, while disruptions around the Strait of Hormuz could affect global energy supplies. Egypt, as the principal country responsible for safeguarding the Suez Canal, may therefore face difficult strategic choices and could be drawn more deeply into the conflict. At the same time, Ukraine's support for the US position suggests that the repercussions of the Middle East conflict are increasingly intersecting with the Russia-Ukraine conflict, highlighting the growing interaction between regional crises and broader international security challenges.\nIranians drive past a large political billboard at Valiasr Square in Tehran, Iran, August 1, 2026. \nLooking ahead, the conflict is likely to remain highly intense while continuing to expand geographically. The United States and Iran have yet to reach consensus on how the conflict should end, while fundamental differences remain over issues including the Strait of Hormuz and Iran's nuclear program. A negotiated settlement is therefore unlikely in the near term.\nMeanwhile, the arrangements underpinning stability in Yemen and Iraq remain fragile. The 2022 Yemen ceasefire agreement and the political arrangements surrounding Shiite militia groups in Iraq are both vulnerable to renewed pressure as the wider conflict continues. Rather than containing the crisis, their deterioration could create new flashpoints and further worsen the regional security environment.\nIn the short term, although regional actors including Pakistan, Qatar, and Oman remain willing to play constructive mediation roles, the rapid expansion of the conflict has already pushed the crisis beyond the bilateral framework of US-Iran relations, reigniting long-standing regional disputes. Key international waterways, including the Bab el-Mandeb Strait and the Strait of Hormuz, are likely to remain vulnerable to disruption, posing serious risks to global energy production, transportation and supply chains. Consequently, achieving a comprehensive end to the conflict in the near future is likely to prove extremely difficult.\nOver the medium to long-term, sustained international mediation and diplomatic coordination remain the most viable means of de-escalating the conflict. The key challenge for the international community will be to intervene promptly and effectively amid intensifying regional tensions, encourage the parties to manage existing disputes and prevent local confrontations from developing into a wider regional conflict. Its ability to do so will be a critical test of collective diplomatic capacity and the international community's ability to preserve regional stability.",
-      "fullTextCn": "伊拉克尼尼微省巴特拉发生袭击后，被烧毁的车辆现场全景，此次袭击是美国和沙特对伊拉克发动空袭所致，摄于2026年7月29日。编者注：王晋是中国西北大学的中东问题专家。本文仅代表作者观点，不代表CGTN立场。美国与伊朗之间的冲突仍在持续，也门和伊拉克等国日益卷入敌对行动。因此，中东地区的安全局势持续恶化。\n\n过去两周，冲突的地理范围显著扩大。自7月美国和伊朗敌对行动再次爆发以来，紧张局势迅速升级，也门战斗重新开始，伊拉克什叶派民兵组织日益卷入其中。美国和沙特随后对伊拉克境内的民兵目标进行了打击。加上最近对埃及的无人机袭击，这些事态发展表明冲突正在该地区蔓延，地区行为体日益重新调整其战略立场。2026年7月25日，在也门萨那，一名男子观看胡塞武装军事发言人叶海亚·萨雷亚发表电视声明。\n\n美国和伊朗之间的再次对抗重新点燃了此前曾显示出缓和迹象的长期地区紧张局势。在也门，关于萨那国际机场航班的争端成为重新对抗的直接导火索。沙特阿拉伯和也门政府认为，直飞德黑兰的航班违反了2022年也门停火协议，并可能为伊朗支持胡塞武装提供便利。7月3日和7月13日伊朗与萨那之间的航班进一步加剧了这些怀疑。胡塞武装随后在曼德海峡实施封锁，导致敌对行动再次爆发。\n\n冲突也使伊拉克进一步卷入地区危机。伊拉克什叶派民兵与伊朗保持密切联系，长期以来被美国和海湾阿拉伯国家视为伊朗的重要伙伴。在沙特阿拉伯与胡塞武装重新交战后，沙特指责伊拉克什叶派民兵协助胡塞武装，并与美国一起对伊拉克境内的民兵阵地进行了打击。尽管伊拉克中央政府反对未经授权的外国军事行动在其领土上进行，但它难以有效控制民兵组织，而这些组织否认参与针对沙特的袭击。这进一步暴露了伊拉克的政治和派系分歧，并增加了跨境升级的风险。\n\n更重要的是，冲突的扩大显著增强了地区国家的战略脆弱感。伊拉克和也门的持续战斗使霍尔木兹海峡和红海面临越来越大的压力，扰乱了国际航运，并引起了海湾阿拉伯国家和红海沿岸国家的担忧。风险远远超出该地区。曼德海峡的任何封锁都将威胁苏伊士运河的航行，而霍尔木兹海峡附近的干扰可能影响全球能源供应。埃及作为负责维护苏伊士运河的主要国家，可能面临艰难的战略选择，并可能更深地卷入冲突。\n\n与此同时，乌克兰对美国立场的支持表明，中东冲突的影响正日益与俄乌冲突交织在一起，凸显了地区危机与更广泛的国际安全挑战之间日益增长的互动。2026年8月1日，伊朗人驾车经过德黑兰瓦利亚斯尔广场上的大型政治广告牌。展望未来，冲突可能保持高度激烈，同时继续在地理上扩大。美国和伊朗尚未就冲突如何结束达成共识，而在霍尔木兹海峡和伊朗核计划等问题上仍存在根本分歧。因此，短期内不太可能达成谈判解决方案。\n\n与此同时，支撑也门和伊拉克稳定的安排仍然脆弱。2022年也门停火协议和围绕伊拉克什叶派民兵的政治安排，随着更广泛冲突的持续，都可能面临新的压力。这些安排的恶化可能创造新的爆发点，并进一步恶化地区安全环境，而不是遏制危机。短期内，尽管巴基斯坦、卡塔尔和阿曼等地区行为体仍愿意发挥建设性调解作用，但冲突的迅速扩大已将危机推入超越美伊双边框架的范畴，重新点燃了长期存在的地区争端。包括曼德海峡和霍尔木兹海峡在内的关键国际水道可能仍然容易受到干扰，对全球能源生产、运输和供应链构成严重风险。\n\n因此，在不久的将来实现冲突的全面结束可能极其困难。从中长期来看，持续的国际调解和外交协调仍然是缓和冲突的最可行手段。国际社会面临的关键挑战将是在地区紧张局势加剧之际及时有效地干预，鼓励各方管理现有争端，并防止局部对抗演变为更广泛的地区冲突。其做到这一点的能力将是对集体外交能力和国际社会维护地区稳定能力的严峻考验。"
+      "fullText": "Spanish forces escort migrants to the Ceuta-Morocco border gate in the Spanish North African enclave of Ceuta, August 1, 2026. \nA recent surge of undocumented migrants crossing from Morocco into Spain's North African enclave of Ceuta has triggered one of the most serious border crises Spain has faced in recent years, placing renewed pressure on migration management and exposing divisions within the European Union (EU).\nThe influx prompted Madrid to deploy military support, tighten border controls and enhance coordination with Rabat, while reigniting debate within the EU over how to manage migration at its external borders.\nWhat's special with Ceuta?\nCeuta is one of Spain's two exclaves on the North African coast, alongside Melilla. Although geographically located in Africa, it forms part of the EU's external border.\nIts location has long made it one of Europe's most sensitive migration gateways. For years, undocumented migrants have attempted to reach the enclave by climbing border fences or swimming around coastal barriers before trying to continue to mainland Spain and other parts of Europe.\nSpain and Morocco have expanded cooperation in recent years on border control, migrant returns and efforts to combat human trafficking and smuggling networks.\nWhat triggered surge?\nIn late June and early July, Spain's Supreme Court ruled that migrants intercepted at sea near Ceuta and Melilla could not be summarily returned under the special \"pushback\" regime applied at land borders. Instead, they must go through standard legal procedures that provide access to legal assistance and the opportunity to apply for international protection.\nThe ruling was quickly distorted online into claims that anyone who reached Ceuta by sea would automatically be allowed to stay in Spain and eventually obtain legal residency. The narrative spread rapidly across various social media platforms, leading many to believe the route was effectively open.\nAbdellah, a Moroccan who attempted to reach Ceuta but was later turned back by police, said videos circulating online had convinced him to make the journey.\nMohammed Zakaria Aboudahab, a professor of public law and political science at Mohammed V University in Morocco, said migrant-smuggling networks had deliberately amplified false information on social media, creating the impression that reaching Ceuta guaranteed legal status.\nMigrants sit outside a short-stay migrant center in the Spanish North African enclave of Ceuta, August 1, 2026. \nThe latest influx saw more than 50,000 undocumented migrants enter Ceuta, many by swimming around the Tarajal border crossing or using makeshift flotation devices. At least 67 people died during the crossings, with the death toll expected to rise as search and recovery operations continue.\nBy August 1, more than 48,000 migrants had returned to Morocco. None were allowed to travel onward to mainland Spain under Ceuta's special Schengen arrangements, and authorities said the immediate pressure at the border had largely eased.\nSpain has since reinforced security by installing a new floating maritime barrier along Ceuta's breakwater. The 500-meter inflatable barrier is designed to prevent migrants from bypassing land border controls by sea.\nAt the same time, Madrid and Rabat have intensified cooperation on returns and law enforcement while stepping up efforts against migrant-smuggling networks.\nMoroccan authorities said they had arrested 70 people suspected of organizing or participating in violence linked to the mass crossing. Xinhua reporters in Rabat and Casablanca also observed tighter security at railway stations and bus terminals, where police were screening and, when necessary, turning back groups of young people heading toward northern Morocco.\nEU and regional reactions\nThe crisis has once again exposed divisions within Europe over migration policy.\nThe European Commission reaffirmed that Ceuta forms part of the EU's external border and said the bloc stands ready to support Spain through Frontex and other mechanisms while strengthening cooperation with Morocco.\nItaly was among the first countries to criticize Spain's migration policy. It later joined Denmark in leading a letter signed by 22 EU member states calling for an emergency ministerial meeting to discuss the crisis and the bloc's external border management.\nSpanish Prime Minister Pedro Sanchez responded by writing to European Commission President Ursula von der Leyen, expressing \"serious concern\" over what he described as \"selfish,\" politically motivated reactions from some governments that he said violated EU law, including proposals to suspend Schengen cooperation with Spain. He also called for an EU-wide ministerial meeting.\nIreland, which currently holds the rotating presidency of the Council of the EU, subsequently announced that EU interior ministers would hold a videoconference on Tuesday to discuss the Ceuta crisis.",
+      "fullTextCn": "2026年8月1日，西班牙军队在西班牙北非飞地休达的休达-摩洛哥边境口岸护送移民。近期，大量无证移民从摩洛哥涌入西班牙北非飞地休达，引发了西班牙多年来面临的最严重边境危机之一，给移民管理带来新的压力，并暴露出欧盟内部的分歧。这一涌入促使马德里部署军事支援、加强边境管控并加强与拉巴特的协调，同时重新引发了欧盟内部关于如何管理其外部边界的辩论。休达有何特殊之处？休达是西班牙在北非海岸的两个飞地之一，另一个是梅利利亚。\n\n尽管地理位置在非洲，但它构成了欧盟外部边界的一部分。其地理位置长期以来使其成为欧洲最敏感的移民通道之一。多年来，无证移民试图通过攀爬边境围栏或绕过海岸屏障游泳进入该飞地，然后试图继续前往西班牙本土和欧洲其他地区。近年来，西班牙和摩洛哥在边境管控、移民遣返以及打击人口贩运和偷渡网络方面扩大了合作。是什么引发了这次涌入？\n\n6月底至7月初，西班牙最高法院裁定，在休达和梅利利亚附近海域被拦截的移民不能根据适用于陆地边界的特殊“推回”制度被即决遣返。相反，他们必须经过标准法律程序，这些程序提供法律援助和申请国际保护的机会。这一裁决很快在网上被歪曲为声称任何通过海路抵达休达的人将自动获准留在西班牙并最终获得合法居留权。这一说法在各大社交媒体平台上迅速传播，导致许多人认为这条路线实际上是开放的。阿卜杜拉是一名试图抵达休达但后来被警方遣返的摩洛哥人，他说网上流传的视频说服了他踏上这段旅程。\n\n摩洛哥穆罕默德五世大学公法与政治学教授穆罕默德·扎卡里亚·阿布达哈布表示，偷渡网络故意在社交媒体上放大虚假信息，制造出抵达休达就能保证合法身份的假象。2026年8月1日，移民坐在西班牙北非飞地休达的一个短期移民中心外。最近的这次涌入有超过5万名无证移民进入休达，许多人绕过塔拉哈尔边境口岸游泳或使用临时漂浮装置。至少有67人在穿越过程中死亡，随着搜索和恢复行动的继续，死亡人数预计还会上升。截至8月1日，已有超过4.8万名移民返回摩洛哥。\n\n根据休达的特殊申根安排，没有人被允许继续前往西班牙本土，当局表示边境的直接压力已基本缓解。西班牙此后通过沿休达防波堤安装新的浮动海上屏障加强了安全。这个500米长的充气屏障旨在防止移民通过海路绕过陆地边境管制。与此同时，马德里和拉巴特加强了在遣返和执法方面的合作，同时加大了对偷渡网络的打击力度。摩洛哥当局表示，他们逮捕了70名涉嫌组织或参与与大规模越境有关的暴力活动的人。\n\n新华社记者在拉巴特和卡萨布兰卡还观察到火车站和汽车站的安全措施更加严格，警方正在筛查并在必要时遣返前往摩洛哥北部的年轻人群体。欧盟及地区反应：这场危机再次暴露了欧洲在移民政策上的分歧。欧盟委员会重申休达构成欧盟外部边界的一部分，并表示欧盟随时准备通过Frontex和其他机制支持西班牙，同时加强与摩洛哥的合作。意大利是最早批评西班牙移民政策的国家之一。它后来与丹麦一起牵头签署了一封由22个欧盟成员国签署的信函，呼吁召开紧急部长级会议讨论这场危机和欧盟的外部边界管理。\n\n西班牙首相佩德罗·桑切斯回应致信欧盟委员会主席乌尔苏拉·冯德莱恩，对某些政府“自私的”、出于政治动机的反应表示“严重关切”，称这些反应违反了欧盟法律，包括暂停与西班牙的申根合作的提议。他还呼吁召开欧盟范围的部长级会议。目前担任欧盟理事会轮值主席国的爱尔兰随后宣布，欧盟内政部长将于周二举行视频会议讨论休达危机。"
     },
     {
       "id": 2,
-      "category": "society",
+      "category": "technology",
       "source": "CGTN",
       "sourceUrl": "https://news.cgtn.com/news/2026-07-17/Scientists-reveal-how-aging-weakens-the-brain-s-protective-barrier-1OQlBVmo6Vq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
       "title": "Scientists reveal how aging weakens the brain's protective barrier",
       "titleCn": "科学家揭示衰老如何削弱大脑的保护屏障",
       "summary": "Scientists reveal how aging weakens the brain's protective barrier",
-      "summaryCn": "研究发现衰老通过TGF-β1信号增加脑内皮细胞转胞吞作用，导致血脑屏障渗漏，进而影响认知功能。",
+      "summaryCn": "研究发现衰老通过TGF-β1信号增加脑内皮细胞转运，导致血脑屏障渗漏，为认知衰退提供新机制。",
       "wordCount": 526,
       "paragraphs": [
         {
-          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive {{2}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{3}} by which aging weakens the blood-brain barrier, the brain's protective {{4}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier {{6}} during aging.\"\nThe study shows how aging {{5}} {{16}} in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{7}} security system.",
-          "cn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血流之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，标题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究展示了衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）充当一个选择性的安全系统。"
+          "en": "As people age, many experience memory {{0}} and slower {{1}} processing, along with a higher risk of {{2}} disease and cognitive {{3}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{4}} by which aging {{5}} the blood-brain barrier, the brain's {{6}} {{7}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier {{9}} during aging.\"\nThe study shows how aging {{8}} transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{10}} security system.",
+          "cn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，标题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究展示了衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）像一个选择性安全系统。"
         },
         {
-          "en": "It allows {{8}} nutrients to reach the brain while preventing potentially harmful {{9}} in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{10}} disorders. Scientists have traditionally {{11}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{12}} in middle-aged mice and worsened in older animals.",
-          "cn": "它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接结构的损伤。然而，这项新研究发现，在衰老过程中另一个过程发生得更早。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已经可检测到，并在老年动物中恶化。"
+          "en": "It allows {{11}} nutrients to reach the brain while preventing potentially {{12}} substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{13}} disorders. Scientists have traditionally {{14}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{15}} in middle-aged mice and worsened in older animals.",
+          "cn": "它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将BBB渗漏主要归因于脑内血管内皮细胞之间紧密连接的损伤。然而，新研究发现另一个过程在衰老过程中更早发生。通过检查不同年龄的小鼠，研究人员发现BBB渗漏在中年小鼠中已可检测到，并在老年动物中恶化。"
         },
         {
-          "en": "The change appeared early in the {{13}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{14}}. Instead, the cells' internal transport system became {{15}} active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
-          "cn": "这种变化早期出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接结构基本保持完整。相反，细胞内部的运输系统变得异常活跃，使得血液中的物质能够穿过细胞进入脑组织。“衰老的血脑屏障似乎不是首先通过细胞之间的间隙渗漏，而是失去了对细胞内运输途径的控制，”研究人员说。该团队识别出一种名为Mfsd2a的蛋白质，它是这一保护系统的重要组成部分。"
+          "en": "The change appeared early in the {{16}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{17}}. Instead, the cells' internal transport system became {{18}} active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
+          "cn": "这种变化早期出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制，”研究人员说。团队识别出一种名为Mfsd2a的蛋白质，它是这个保护系统的重要组成部分。"
         },
         {
-          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased. When the researchers {{17}} endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
-          "cn": "Mfsd2a通常限制不必要的跨脑血管运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常的囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠年龄增长，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平均增加。"
+          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased. When the researchers {{19}} endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a {{21}} molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
+          "cn": "Mfsd2a通常限制大脑血管上的不必要运输。其水平随年龄增长而下降，而参与运输囊泡形成的Caveolin-1蛋白则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和BBB渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着年龄增长，小鼠大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平增加。"
         },
         {
-          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage. By contrast, {{19}} TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of {{20}} wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
-          "cn": "过量的TGF-β1降低了脑血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。提高年轻小鼠的TGF-β1水平使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质方式的生物信号。"
+          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage. By contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of {{22}} wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
+          "cn": "过量的TGF-β1降低了脑内血管内皮细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于老年BBB的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号减少了BBB渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的BBB损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。"
         },
         {
-          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing {{18}} activation of TGF-β signaling. Further research will be needed to determine whether these {{21}} can be safely translated into treatments for humans.",
-          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类的治疗方法。"
+          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing {{20}} activation of TGF-β signaling. Further research will be needed to determine whether these {{23}} can be safely {{24}} into treatments for humans.",
+          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号的过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类治疗方法。"
         }
       ],
       "blanks": [
         {
           "id": 0,
+          "answer": "decline",
+          "hint": "v. 下降",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
           "answer": "cognitive",
           "hint": "adj. 认知的",
           "difficulty": "medium"
         },
         {
-          "id": 1,
+          "id": 2,
           "answer": "cerebrovascular",
           "hint": "adj. 脑血管的",
           "difficulty": "hard"
         },
         {
-          "id": 2,
+          "id": 3,
           "answer": "impairment",
-          "hint": "n. 损伤，障碍",
+          "hint": "n. 损伤",
           "difficulty": "medium"
         },
         {
-          "id": 3,
+          "id": 4,
           "answer": "mechanism",
           "hint": "n. 机制",
           "difficulty": "medium"
         },
         {
-          "id": 4,
-          "answer": "interface",
-          "hint": "n. 界面，接口",
-          "difficulty": "medium"
-        },
-        {
           "id": 5,
-          "answer": "disrupts",
-          "hint": "v. 扰乱，破坏",
-          "difficulty": "medium"
+          "answer": "weakens",
+          "hint": "v. 削弱",
+          "difficulty": "easy"
         },
         {
           "id": 6,
+          "answer": "protective",
+          "hint": "adj. 保护的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "interface",
+          "hint": "n. 界面",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "disrupts",
+          "hint": "v. 扰乱",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
           "answer": "leakage",
           "hint": "n. 渗漏",
           "difficulty": "medium"
         },
         {
-          "id": 7,
+          "id": 10,
           "answer": "selective",
           "hint": "adj. 选择性的",
           "difficulty": "medium"
         },
         {
-          "id": 8,
+          "id": 11,
           "answer": "essential",
-          "hint": "adj. 必需的，基本的",
+          "hint": "adj. 必需的",
           "difficulty": "easy"
         },
         {
-          "id": 9,
-          "answer": "substances",
-          "hint": "n. 物质",
+          "id": 12,
+          "answer": "harmful",
+          "hint": "adj. 有害的",
           "difficulty": "easy"
         },
         {
-          "id": 10,
+          "id": 13,
           "answer": "neurodegenerative",
           "hint": "adj. 神经退行性的",
           "difficulty": "hard"
         },
         {
-          "id": 11,
+          "id": 14,
           "answer": "attributed",
           "hint": "v. 归因于",
           "difficulty": "medium"
         },
         {
-          "id": 12,
+          "id": 15,
           "answer": "detectable",
-          "hint": "adj. 可检测到的",
+          "hint": "adj. 可检测的",
           "difficulty": "medium"
         },
         {
-          "id": 13,
+          "id": 16,
           "answer": "hippocampus",
           "hint": "n. 海马体",
           "difficulty": "hard"
         },
         {
-          "id": 14,
+          "id": 17,
           "answer": "intact",
           "hint": "adj. 完整的",
           "difficulty": "medium"
         },
         {
-          "id": 15,
+          "id": 18,
           "answer": "abnormally",
           "hint": "adv. 异常地",
           "difficulty": "medium"
         },
         {
-          "id": 16,
-          "answer": "transport",
-          "hint": "n./v. 运输",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
+          "id": 19,
           "answer": "restored",
           "hint": "v. 恢复",
           "difficulty": "medium"
         },
         {
-          "id": 18,
+          "id": 20,
           "answer": "excessive",
           "hint": "adj. 过量的",
           "difficulty": "medium"
         },
         {
-          "id": 19,
-          "answer": "blocking",
-          "hint": "v. 阻断",
+          "id": 21,
+          "answer": "signaling",
+          "hint": "n. 信号传导",
           "difficulty": "medium"
         },
         {
-          "id": 20,
+          "id": 22,
           "answer": "passive",
           "hint": "adj. 被动的",
           "difficulty": "easy"
         },
         {
-          "id": 21,
+          "id": 23,
           "answer": "strategies",
           "hint": "n. 策略",
           "difficulty": "easy"
+        },
+        {
+          "id": 24,
+          "answer": "translated",
+          "hint": "v. 转化",
+          "difficulty": "medium"
         }
       ],
       "fullText": "As people age, many experience memory decline and slower cognitive processing, along with a higher risk of cerebrovascular disease and cognitive impairment. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline.\nScientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a mechanism by which aging weakens the blood-brain barrier, the brain's protective interface with the bloodstream.\nThe study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier leakage during aging.\"\nThe study shows how aging disrupts transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a selective security system. It allows essential nutrients to reach the brain while preventing potentially harmful substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several neurodegenerative disorders.\nScientists have traditionally attributed BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging.\nBy examining mice at different ages, the researchers found that BBB leakage was already detectable in middle-aged mice and worsened in older animals. The change appeared early in the hippocampus, a brain region important for learning and memory.\nAt this stage, the seals between blood vessel cells remained largely intact. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue.\n\"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said.\nThe team identified a protein called Mfsd2a as an important part of this protective system. Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased.\nWhen the researchers restored endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced.\nThe researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.\nExcessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage.\nBy contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests.\nThe findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.\nThe study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing excessive activation of TGF-β signaling. Further research will be needed to determine whether these strategies can be safely translated into treatments for humans.",
-      "fullTextCn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血流之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，标题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究展示了衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）充当一个选择性的安全系统。\n\n它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病以及多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接结构的损伤。然而，这项新研究发现，在衰老过程中另一个过程发生得更早。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已经可检测到，并在老年动物中恶化。\n\n这种变化早期出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接结构基本保持完整。相反，细胞内部的运输系统变得异常活跃，使得血液中的物质能够穿过细胞进入脑组织。“衰老的血脑屏障似乎不是首先通过细胞之间的间隙渗漏，而是失去了对细胞内运输途径的控制，”研究人员说。该团队识别出一种名为Mfsd2a的蛋白质，它是这一保护系统的重要组成部分。\n\nMfsd2a通常限制不必要的跨脑血管运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常的囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠年龄增长，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平均增加。\n\n过量的TGF-β1降低了脑血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。提高年轻小鼠的TGF-β1水平使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质方式的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类的治疗方法。"
+      "fullTextCn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，标题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究展示了衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）像一个选择性安全系统。\n\n它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将BBB渗漏主要归因于脑内血管内皮细胞之间紧密连接的损伤。然而，新研究发现另一个过程在衰老过程中更早发生。通过检查不同年龄的小鼠，研究人员发现BBB渗漏在中年小鼠中已可检测到，并在老年动物中恶化。\n\n这种变化早期出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制，”研究人员说。团队识别出一种名为Mfsd2a的蛋白质，它是这个保护系统的重要组成部分。\n\nMfsd2a通常限制大脑血管上的不必要运输。其水平随年龄增长而下降，而参与运输囊泡形成的Caveolin-1蛋白则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和BBB渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着年龄增长，小鼠大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平增加。\n\n过量的TGF-β1降低了脑内血管内皮细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于老年BBB的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号减少了BBB渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的BBB损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号的过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类治疗方法。"
     },
     {
       "id": 3,
-      "category": "military",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-03/Trump-says-Iran-talks-to-take-place-Monday-sets-no-deadline-for-deal-1PiHdGmhvK8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Trump says Iran talks to take place Monday, sets no deadline for deal",
-      "titleCn": "特朗普称伊朗谈判将于周一举行，未设定协议期限",
-      "summary": "US President Donald Trump said on Sunday that negotiations with Iran will begin Monday afternoon, noting that Saudi Arabia, the United Arab Emirates and Qatar had asked the United States to call off planned strikes because \"they think there's a deal.\"",
-      "summaryCn": "特朗普宣布与伊朗的谈判将于周一开始，同时伊朗与阿曼就霍尔木兹海峡新航线的协议接近完成，但地区紧张局势仍在持续。",
-      "wordCount": 592,
+      "category": "education",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-08-05/detail-ihfhziqh0062477.shtml",
+      "title": "China-ASEAN Education Week 2026 wraps up in Guiyang, launches AI platform for traditional medicine",
+      "titleCn": "2026中国-东盟教育周在贵阳闭幕，推出传统医学AI平台",
+      "summary": "The 19th China-ASEAN Education Cooperation Week (CAECW) concluded in Guiyang, Guizhou Province, on Saturday, marking a significant push toward regional integration through digital learning and vocational training.",
+      "summaryCn": "2026中国-东盟教育周在贵阳闭幕，签署多项协议并推出传统医学AI平台，标志着区域教育合作向全年化、数字化和技能导向转型。",
+      "wordCount": 479,
       "paragraphs": [
         {
-          "en": "US President Donald Trump said on Sunday that {{0}} with Iran will begin Monday afternoon, noting that Saudi Arabia, the United Arab Emirates (UAE) and Qatar had asked the United States to call off planned {{1}} because \"they think there's a deal.\"\n\"There's a deal on (the Strait of) Hormuz, and then there will be a deal on the nuclear, or you might call it the {{2}} of Iran,\" Trump told reporters on Air Force One en route to Joint Base Andrews in Maryland. Trump did not provide details of where negotiations would take place or who would be involved. Asked if there was a {{3}} for Iran to come to an agreement, Trump said in response: \"Would I rather make a deal? I'm not looking to kill people because people die, a lot of people die, and we don't want that.\"\nOil prices fell on Monday in early Asia trade after Trump announced the new negotiations, with West Texas Intermediate dropping 4.7% to $80.72 per barrel. Iran said it was nearing a deal with Oman over a new route through the strait, where a tanker reported an {{12}} nearby on Sunday, underscoring the continued {{4}} of the {{26}} waterway. Iran-Oman deal on path of being {{5}}\nIranian Foreign Minister Seyed Abbas Araghchi said during a cabinet meeting on Sunday that negotiations between Iran and Oman on the Strait of Hormuz have progressed and are on the path of being finalized.",
-          "cn": "美国总统唐纳德·特朗普周日表示，与伊朗的谈判将于周一下午开始，并指出沙特阿拉伯、阿联酋和卡塔尔已要求美国取消计划中的打击，因为“他们认为有协议可谈”。特朗普在前往马里兰州安德鲁斯联合基地的空军一号上对记者说：“在霍尔木兹海峡有协议，然后会有核协议，或者你可以称之为伊朗的无核化。”特朗普没有提供谈判地点或参与方的细节。当被问及伊朗达成协议是否有最后期限时，特朗普回应说：“我宁愿达成协议吗？我不想杀人，因为人会死，很多人会死，我们不希望那样。”在特朗普宣布新谈判后，周一亚洲早盘油价下跌，西德克萨斯中质原油下跌4.7%至每桶80.72美元。伊朗表示，与阿曼关于通过海峡的新路线的协议即将达成，周日一艘油轮报告附近发生爆炸，突显了这条战略水道的持续动荡。伊朗-阿曼协议即将敲定。伊朗外交部长赛义德·阿巴斯·阿拉格奇在周日的内阁会议上表示，伊朗与阿曼关于霍尔木兹海峡的谈判已取得进展，并即将敲定。"
+          "en": "(ECNS) – The 19th China-ASEAN Education Cooperation Week (CAECW) {{0}} in Guiyang, Guizhou Province, on Saturday, marking a significant push toward regional {{1}} through digital learning and {{2}} training. Nearly 450 educators, policymakers, and industry leaders gathered to advance cross-border {{3}} under the theme \"Empowering a Friendly Community through Smart Education.\"\nThis year's sessions produced several {{4}} agreements, including a {{5}} for {{6}} recognition of vocational qualifications and the launch of the Ethnic Medicine AI Foundation Model, the first large-scale AI platform {{7}} to traditional medicine. Coinciding with the fifth anniversary of the China-ASEAN Comprehensive Strategic Partnership, the six-day event signaled a {{8}} shift in regional ties. Once a periodic summit, the CAECW is {{9}} into a year-round platform, with 60 additional activities scheduled across China, Thailand, Cambodia, Malaysia, and Indonesia this year-six of which will be hosted independently by ASEAN institutions. Digital education {{10}} the agenda.",
+          "cn": "（中新网）——第十九届中国-东盟教育合作周于周六在贵州省贵阳市闭幕，标志着通过数字化学习和职业培训推动区域一体化的重要进展。近450名教育工作者、政策制定者和行业领袖齐聚一堂，围绕“智慧教育赋能友好社区”主题推进跨境合作。"
         },
         {
-          "en": "Elaborating on the Iran-Oman talks in an interview with state-run IRIB TV, Iranian foreign ministry spokesman Esmaeil Baghaei stressed that reaching an agreement between the two countries is not related to the waterway's reopening or continued closure. Baghaei said Iran and Oman are working to {{7}} a \"new route\" in the strait within a traffic separation scheme format that can ensure both sides' {{8}} rights as well as Iran's national {{9}} and {{10}}. Baghaei added that Iran-Oman negotiations had \"no link to the Strait of Hormuz being opened or closed. That is a separate discussion.\" Maritime trade tracking firm Kpler said Friday that traffic through Hormuz had dropped {{11}}. On Sunday, a tanker off the coast of Oman reported hearing an explosion near the {{13}}, the United Kingdom Maritime Trade Operations (UKMTO) Centre reported, adding that the vessel and crew were all safe. A man paddles a stand-up paddleboard as cargo ships and other commercial vessels appear {{27}} in the Strait of Hormuz off Bandar Abbas, Iran, July 27, 2026.",
-          "cn": "伊朗外交部发言人埃斯梅尔·巴加伊在接受国家电视台IRIB采访时详细阐述了伊朗与阿曼的谈判，强调两国达成协议与海峡的重新开放或持续关闭无关。巴加伊表示，伊朗和阿曼正在努力在海峡内指定一条“新路线”，采用交通分流方案格式，以确保双方的主权权利以及伊朗的国家利益和安全。巴加伊补充说，伊朗与阿曼的谈判“与霍尔木兹海峡的开放或关闭无关。那是另一个讨论。”海事贸易追踪公司Kpler周五表示，通过霍尔木兹海峡的交通量急剧下降。周日，一艘阿曼海岸附近的油轮报告听到船附近发生爆炸，英国海上贸易行动中心报告称，船只和船员均安全。2026年7月27日，在伊朗阿巴斯港附近的霍尔木兹海峡，一名男子在货船和其他商船停泊时划着立式桨板。"
+          "en": "Organizers launched the China-ASEAN Smart Education Capacity Co-Cultivation Program to narrow the regional digital divide by {{11}} digital {{12}} and {{13}}. Scale: The existing Duocai Smart Academy platform already offers over 350 multilingual courses from 112 institutions to 129,000 users. Access: A new ASEAN zone on China's National Smart Education Platform now provides {{14}} labs and AI-powered teaching tools. Innovation: The newly unveiled China-ASEAN AI Joint Innovation Laboratory will focus on applying AI to {{15}} and research ethnic medical traditions, such as those of the Miao, Dong, and Bouyei peoples, specifically targeting ASEAN markets. In a major {{16}} for labor mobility, the International Mutual Recognition Scheme for Vocational Education Learning Outcomes was officially released.",
+          "cn": "今年的会议产生了多项里程碑式协议，包括职业教育资格互认框架，以及推出“民族医药AI基础模型”——首个专用于传统医学的大型AI平台。恰逢中国-东盟全面战略伙伴关系五周年，为期六天的活动标志着区域关系的战略转变。曾经是定期峰会的中东盟教育周，正演变为全年平台，今年在中国、泰国、柬埔寨、马来西亚和印度尼西亚安排了60项额外活动，其中6项将由东盟机构独立主办。数字教育成为议程重点。"
         },
         {
-          "en": "'Exchange of views'\nIranian lawmaker Hassan Ghashghavi, spokesman for the parliament's national security commission, said on Sunday that {{14}} were trying to {{15}} the US-Iran memorandum of understanding that was agreed in June. That agreement was not intended as a final peace deal, but as a stepping stone to negotiations on a {{16}} agreement, though it did include {{17}} on Hormuz. \"They know that the main issue and, in fact, the key to the matter right now is the issue of the Strait of Hormuz, so yes, there is an {{18}} of views,\" Ghashghavi said. Posting on X, Iranian President Masoud Pezeshkian said: \"We must strive to {{19}} the enemy to {{20}} to what it has signed. The security of the country, region and our allies will {{21}} with this MoU.\"\nOn June 18, Iran and the United States signed a memorandum of understanding, under which they were {{22}} to hold negotiations within a 60-day period to reach a final agreement. However, the talks' {{23}} hangs in the balance due to {{24}} tensions and recent military {{25}} between the two countries.",
-          "cn": "“交换意见”伊朗议员哈桑·加什加维，议会国家安全委员会发言人，周日表示，调解人正试图恢复6月达成的美伊谅解备忘录。该协议并非旨在作为最终和平协议，而是作为全面协议谈判的垫脚石，尽管它确实包含关于霍尔木兹海峡的条款。加什加维说：“他们知道主要问题，实际上现在问题的关键是霍尔木兹海峡问题，所以是的，有意见交换。”伊朗总统马苏德·佩泽什基安在X上发帖说：“我们必须努力迫使敌人遵守其签署的协议。国家、地区和我们盟友的安全将因这份谅解备忘录而改善。”6月18日，伊朗和美国签署了谅解备忘录，根据该备忘录，他们计划在60天内举行谈判以达成最终协议。然而，由于两国之间的紧张局势加剧和最近的军事对抗，谈判的命运悬而未决。"
+          "en": "Covering 34 fields-from cross-border e-commerce and smart manufacturing to healthcare-the scheme aims to {{17}} institutional barriers to talent flow. Complementing this, the \"Guijiang Workshop\" brand has expanded into a regional skills hub operating in Thailand, Laos, and Indonesia, {{19}} Chinese vocational standards in high-demand sectors like new energy and smart construction. Youth {{20}} reached new heights, with the World University Innovation and Entrepreneurship Challenge {{21}} 1,007 projects from 149 universities across 11 countries. Peking University's team won the top prize for its cryo-electron microscopy technology platform. Other highlights included esports tournaments at Guiyang's X-Sci-Fi Valley and the \"Speaking ASEAN in Chinese\" language program.",
+          "cn": "主办方启动了“中国-东盟智慧教育能力共育计划”，通过提升数字素养和治理来缩小区域数字鸿沟。规模：现有的“多彩智慧学院”平台已提供来自112所机构的350多门多语言课程，服务12.9万用户。接入：中国国家智慧教育平台新设东盟专区，提供虚拟实验室和AI辅助教学工具。创新：新揭幕的“中国-东盟AI联合创新实验室”将专注于应用AI保护和研究生药医学传统，如苗族、侗族和布依族的传统医学，并针对东盟市场。在劳动力流动方面取得重大突破，正式发布了《职业教育学习成果国际互认计划》。"
+        },
+        {
+          "en": "Organizers announced plans to host over 5,000 international youths in Guizhou over the next year. Strategic Outlook\nSince its {{22}} in 2008, the CAECW has hosted over 54,000 participants from nearly 90 countries. Beyond education, the week serves as a {{23}} of soft power diplomacy, supporting the New International Land-Sea Trade Corridor and providing landlocked Guizhou with a vital {{24}} to Southeast Asia. \"Education is the bridge, wisdom is the engine, and youth are the future,\" an organizer noted, emphasizing that the 2026 conclave marks not an endpoint, but a starting point for deeper, smarter regional cooperation. To ensure {{25}}, a year-round tracking system with project ledgers and quarterly reviews will monitor all signed agreements.",
+          "cn": "该计划覆盖34个领域——从跨境电商、智能制造到医疗保健——旨在消除人才流动的制度性障碍。作为补充，“桂江工坊”品牌已扩展为区域技能中心，在泰国、老挝和印度尼西亚运营，输出新能源和智能建筑等高需求领域的中国职业标准。青年参与达到新高度，世界大学创新创业挑战赛吸引了来自11个国家149所大学的1007个项目。北京大学团队凭借其冷冻电镜技术平台获得最高奖项。其他亮点包括在贵阳科幻谷举办的电子竞技锦标赛和“东盟人说中文”语言项目。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "negotiations",
-          "hint": "n. 谈判",
-          "difficulty": "easy"
+          "answer": "concluded",
+          "hint": "v. 结束",
+          "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "strikes",
-          "hint": "n. 打击",
+          "answer": "integration",
+          "hint": "n. 一体化",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "denuclearization",
-          "hint": "n. 无核化",
-          "difficulty": "hard"
+          "answer": "vocational",
+          "hint": "adj. 职业的",
+          "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "deadline",
-          "hint": "n. 最后期限",
-          "difficulty": "easy"
+          "answer": "collaboration",
+          "hint": "n. 合作",
+          "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "volatility",
-          "hint": "n. 动荡",
-          "difficulty": "hard"
+          "answer": "landmark",
+          "hint": "adj. 里程碑式的",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "finalized",
-          "hint": "v. 敲定",
+          "answer": "framework",
+          "hint": "n. 框架",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "designate",
-          "hint": "v. 指定",
+          "answer": "mutual",
+          "hint": "adj. 相互的",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "sovereign",
-          "hint": "adj. 主权的",
-          "difficulty": "hard"
+          "answer": "dedicated",
+          "hint": "adj. 专用的",
+          "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "interests",
-          "hint": "n. 利益",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "security",
-          "hint": "n. 安全",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "sharply",
-          "hint": "adv. 急剧地",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "explosion",
-          "hint": "n. 爆炸",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "vessel",
-          "hint": "n. 船只",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "mediators",
-          "hint": "n. 调解人",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "revive",
-          "hint": "v. 恢复",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "comprehensive",
-          "hint": "adj. 全面的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "provisions",
-          "hint": "n. 条款",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "exchange",
-          "hint": "n. 交换",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
-          "answer": "compel",
-          "hint": "v. 迫使",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "adhere",
-          "hint": "v. 遵守",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "improve",
-          "hint": "v. 改善",
-          "difficulty": "easy"
-        },
-        {
-          "id": 21,
-          "answer": "scheduled",
-          "hint": "v. 安排",
-          "difficulty": "easy"
-        },
-        {
-          "id": 22,
-          "answer": "fate",
-          "hint": "n. 命运",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "heightened",
-          "hint": "adj. 加剧的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 24,
-          "answer": "confrontation",
-          "hint": "n. 对抗",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
           "answer": "strategic",
           "hint": "adj. 战略的",
           "difficulty": "medium"
         },
         {
-          "id": 26,
-          "answer": "anchored",
-          "hint": "v. 停泊",
+          "id": 9,
+          "answer": "evolving",
+          "hint": "v. 演变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "dominated",
+          "hint": "v. 主导",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "enhancing",
+          "hint": "v. 提升",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "literacy",
+          "hint": "n. 素养",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "virtual",
+          "hint": "adj. 虚拟的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "preserve",
+          "hint": "v. 保护",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "breakthrough",
+          "hint": "n. 突破",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "dismantle",
+          "hint": "v. 消除",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "exporting",
+          "hint": "v. 输出",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "engagement",
+          "hint": "n. 参与",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "attracting",
+          "hint": "v. 吸引",
+          "difficulty": "easy"
+        },
+        {
+          "id": 21,
+          "answer": "inception",
+          "hint": "n. 创办",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "pillar",
+          "hint": "n. 支柱",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "gateway",
+          "hint": "n. 门户",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "accountability",
+          "hint": "n. 问责",
           "difficulty": "hard"
         }
       ],
-      "fullText": "US President Donald Trump said on Sunday that negotiations with Iran will begin Monday afternoon, noting that Saudi Arabia, the United Arab Emirates (UAE) and Qatar had asked the United States to call off planned strikes because \"they think there's a deal.\"\n\"There's a deal on (the Strait of) Hormuz, and then there will be a deal on the nuclear, or you might call it the denuclearization of Iran,\" Trump told reporters on Air Force One en route to Joint Base Andrews in Maryland.\nTrump did not provide details of where negotiations would take place or who would be involved.\nAsked if there was a deadline for Iran to come to an agreement, Trump said in response: \"Would I rather make a deal? I'm not looking to kill people because people die, a lot of people die, and we don't want that.\"\nOil prices fell on Monday in early Asia trade after Trump announced the new negotiations, with West Texas Intermediate dropping 4.7% to $80.72 per barrel.\nIran said it was nearing a deal with Oman over a new route through the strait, where a tanker reported an explosion nearby on Sunday, underscoring the continued volatility of the strategic waterway.\nIran-Oman deal on path of being finalized\nIranian Foreign Minister Seyed Abbas Araghchi said during a cabinet meeting on Sunday that negotiations between Iran and Oman on the Strait of Hormuz have progressed and are on the path of being finalized.\nElaborating on the Iran-Oman talks in an interview with state-run IRIB TV, Iranian foreign ministry spokesman Esmaeil Baghaei stressed that reaching an agreement between the two countries is not related to the waterway's reopening or continued closure.\nBaghaei said Iran and Oman are working to designate a \"new route\" in the strait within a traffic separation scheme format that can ensure both sides' sovereign rights as well as Iran's national interests and security.\nBaghaei added that Iran-Oman negotiations had \"no link to the Strait of Hormuz being opened or closed. That is a separate discussion.\" Maritime trade tracking firm Kpler said Friday that traffic through Hormuz had dropped sharply.\nOn Sunday, a tanker off the coast of Oman reported hearing an explosion near the vessel, the United Kingdom Maritime Trade Operations (UKMTO) Centre reported, adding that the vessel and crew were all safe.\nA man paddles a stand-up paddleboard as cargo ships and other commercial vessels appear anchored in the Strait of Hormuz off Bandar Abbas, Iran, July 27, 2026. \n'Exchange of views'\nIranian lawmaker Hassan Ghashghavi, spokesman for the parliament's national security commission, said on Sunday that mediators were trying to revive the US-Iran memorandum of understanding that was agreed in June.\nThat agreement was not intended as a final peace deal, but as a stepping stone to negotiations on a comprehensive agreement, though it did include provisions on Hormuz.\n\"They know that the main issue and, in fact, the key to the matter right now is the issue of the Strait of Hormuz, so yes, there is an exchange of views,\" Ghashghavi said.\nPosting on X, Iranian President Masoud Pezeshkian said: \"We must strive to compel the enemy to adhere to what it has signed. The security of the country, region and our allies will improve with this MoU.\"\nOn June 18, Iran and the United States signed a memorandum of understanding, under which they were scheduled to hold negotiations within a 60-day period to reach a final agreement. However, the talks' fate hangs in the balance due to heightened tensions and recent military confrontation between the two countries.",
-      "fullTextCn": "美国总统唐纳德·特朗普周日表示，与伊朗的谈判将于周一下午开始，并指出沙特阿拉伯、阿联酋和卡塔尔已要求美国取消计划中的打击，因为“他们认为有协议可谈”。特朗普在前往马里兰州安德鲁斯联合基地的空军一号上对记者说：“在霍尔木兹海峡有协议，然后会有核协议，或者你可以称之为伊朗的无核化。”特朗普没有提供谈判地点或参与方的细节。当被问及伊朗达成协议是否有最后期限时，特朗普回应说：“我宁愿达成协议吗？我不想杀人，因为人会死，很多人会死，我们不希望那样。”在特朗普宣布新谈判后，周一亚洲早盘油价下跌，西德克萨斯中质原油下跌4.7%至每桶80.72美元。伊朗表示，与阿曼关于通过海峡的新路线的协议即将达成，周日一艘油轮报告附近发生爆炸，突显了这条战略水道的持续动荡。伊朗-阿曼协议即将敲定。伊朗外交部长赛义德·阿巴斯·阿拉格奇在周日的内阁会议上表示，伊朗与阿曼关于霍尔木兹海峡的谈判已取得进展，并即将敲定。\n\n伊朗外交部发言人埃斯梅尔·巴加伊在接受国家电视台IRIB采访时详细阐述了伊朗与阿曼的谈判，强调两国达成协议与海峡的重新开放或持续关闭无关。巴加伊表示，伊朗和阿曼正在努力在海峡内指定一条“新路线”，采用交通分流方案格式，以确保双方的主权权利以及伊朗的国家利益和安全。巴加伊补充说，伊朗与阿曼的谈判“与霍尔木兹海峡的开放或关闭无关。那是另一个讨论。”海事贸易追踪公司Kpler周五表示，通过霍尔木兹海峡的交通量急剧下降。周日，一艘阿曼海岸附近的油轮报告听到船附近发生爆炸，英国海上贸易行动中心报告称，船只和船员均安全。2026年7月27日，在伊朗阿巴斯港附近的霍尔木兹海峡，一名男子在货船和其他商船停泊时划着立式桨板。\n\n“交换意见”伊朗议员哈桑·加什加维，议会国家安全委员会发言人，周日表示，调解人正试图恢复6月达成的美伊谅解备忘录。该协议并非旨在作为最终和平协议，而是作为全面协议谈判的垫脚石，尽管它确实包含关于霍尔木兹海峡的条款。加什加维说：“他们知道主要问题，实际上现在问题的关键是霍尔木兹海峡问题，所以是的，有意见交换。”伊朗总统马苏德·佩泽什基安在X上发帖说：“我们必须努力迫使敌人遵守其签署的协议。国家、地区和我们盟友的安全将因这份谅解备忘录而改善。”6月18日，伊朗和美国签署了谅解备忘录，根据该备忘录，他们计划在60天内举行谈判以达成最终协议。然而，由于两国之间的紧张局势加剧和最近的军事对抗，谈判的命运悬而未决。"
+      "fullText": "(ECNS) – The 19th China-ASEAN Education Cooperation Week (CAECW) concluded in Guiyang, Guizhou Province, on Saturday, marking a significant push toward regional integration through digital learning and vocational training.\nNearly 450 educators, policymakers, and industry leaders gathered to advance cross-border collaboration under the theme \"Empowering a Friendly Community through Smart Education.\"\nThis year's sessions produced several landmark agreements, including a framework for mutual recognition of vocational qualifications and the launch of the Ethnic Medicine AI Foundation Model, the first large-scale AI platform dedicated to traditional medicine.\nCoinciding with the fifth anniversary of the China-ASEAN Comprehensive Strategic Partnership, the six-day event signaled a strategic shift in regional ties. Once a periodic summit, the CAECW is evolving into a year-round platform, with 60 additional activities scheduled across China, Thailand, Cambodia, Malaysia, and Indonesia this year-six of which will be hosted independently by ASEAN institutions.\nDigital education dominated the agenda. Organizers launched the China-ASEAN Smart Education Capacity Co-Cultivation Program to narrow the regional digital divide by enhancing digital literacy and governance.\nScale: The existing Duocai Smart Academy platform already offers over 350 multilingual courses from 112 institutions to 129,000 users.\nAccess: A new ASEAN zone on China's National Smart Education Platform now provides virtual labs and AI-powered teaching tools.\nInnovation: The newly unveiled China-ASEAN AI Joint Innovation Laboratory will focus on applying AI to preserve and research ethnic medical traditions, such as those of the Miao, Dong, and Bouyei peoples, specifically targeting ASEAN markets.\nIn a major breakthrough for labor mobility, the International Mutual Recognition Scheme for Vocational Education Learning Outcomes was officially released. Covering 34 fields-from cross-border e-commerce and smart manufacturing to healthcare-the scheme aims to dismantle institutional barriers to talent flow.\nComplementing this, the \"Guijiang Workshop\" brand has expanded into a regional skills hub operating in Thailand, Laos, and Indonesia, exporting Chinese vocational standards in high-demand sectors like new energy and smart construction.\nYouth engagement reached new heights, with the World University Innovation and Entrepreneurship Challenge attracting 1,007 projects from 149 universities across 11 countries. Peking University's team won the top prize for its cryo-electron microscopy technology platform.\nOther highlights included esports tournaments at Guiyang's X-Sci-Fi Valley and the \"Speaking ASEAN in Chinese\" language program. Organizers announced plans to host over 5,000 international youths in Guizhou over the next year.\nStrategic Outlook\nSince its inception in 2008, the CAECW has hosted over 54,000 participants from nearly 90 countries. Beyond education, the week serves as a pillar of soft power diplomacy, supporting the New International Land-Sea Trade Corridor and providing landlocked Guizhou with a vital gateway to Southeast Asia.\n\"Education is the bridge, wisdom is the engine, and youth are the future,\" an organizer noted, emphasizing that the 2026 conclave marks not an endpoint, but a starting point for deeper, smarter regional cooperation. To ensure accountability, a year-round tracking system with project ledgers and quarterly reviews will monitor all signed agreements.",
+      "fullTextCn": "（中新网）——第十九届中国-东盟教育合作周于周六在贵州省贵阳市闭幕，标志着通过数字化学习和职业培训推动区域一体化的重要进展。近450名教育工作者、政策制定者和行业领袖齐聚一堂，围绕“智慧教育赋能友好社区”主题推进跨境合作。\n\n今年的会议产生了多项里程碑式协议，包括职业教育资格互认框架，以及推出“民族医药AI基础模型”——首个专用于传统医学的大型AI平台。恰逢中国-东盟全面战略伙伴关系五周年，为期六天的活动标志着区域关系的战略转变。曾经是定期峰会的中东盟教育周，正演变为全年平台，今年在中国、泰国、柬埔寨、马来西亚和印度尼西亚安排了60项额外活动，其中6项将由东盟机构独立主办。数字教育成为议程重点。\n\n主办方启动了“中国-东盟智慧教育能力共育计划”，通过提升数字素养和治理来缩小区域数字鸿沟。规模：现有的“多彩智慧学院”平台已提供来自112所机构的350多门多语言课程，服务12.9万用户。接入：中国国家智慧教育平台新设东盟专区，提供虚拟实验室和AI辅助教学工具。创新：新揭幕的“中国-东盟AI联合创新实验室”将专注于应用AI保护和研究生药医学传统，如苗族、侗族和布依族的传统医学，并针对东盟市场。在劳动力流动方面取得重大突破，正式发布了《职业教育学习成果国际互认计划》。\n\n该计划覆盖34个领域——从跨境电商、智能制造到医疗保健——旨在消除人才流动的制度性障碍。作为补充，“桂江工坊”品牌已扩展为区域技能中心，在泰国、老挝和印度尼西亚运营，输出新能源和智能建筑等高需求领域的中国职业标准。青年参与达到新高度，世界大学创新创业挑战赛吸引了来自11个国家149所大学的1007个项目。北京大学团队凭借其冷冻电镜技术平台获得最高奖项。其他亮点包括在贵阳科幻谷举办的电子竞技锦标赛和“东盟人说中文”语言项目。\n\n主办方宣布计划在未来一年邀请超过5000名国际青年到贵州。战略展望：自2008年创办以来，中国-东盟教育周已接待来自近90个国家的超过5.4万名参与者。除了教育，该周还作为软实力外交的支柱，支持新国际陆海贸易走廊，并为内陆省份贵州提供通往东南亚的重要门户。“教育是桥梁，智慧是引擎，青年是未来，”一位组织者指出，强调2026年会议不是终点，而是更深层次、更智能区域合作的起点。为确保问责，将建立全年跟踪系统，通过项目台账和季度审查来监督所有签署协议的落实。"
     },
     {
       "id": 4,
@@ -570,26 +546,26 @@
       "source": "CGTN",
       "sourceUrl": "https://news.cgtn.com/news/2026-07-09/AI-applications-move-into-more-everyday-scenarios-1ODhOvc9w7S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
       "title": "AI applications move into more everyday scenarios",
-      "titleCn": "AI应用进入更多日常场景",
+      "titleCn": "AI应用加速进入日常场景",
       "summary": "The 25th China Internet Conference held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.",
-      "summaryCn": "第25届中国互联网大会展示了AI在城市治理、工业制造和零售等领域的广泛应用，并强调了AI代理和数字孪生技术对未来互联网和经济的推动作用。",
+      "summaryCn": "第25届中国互联网大会展示了人工智能在城市治理、工业制造、零售等领域的广泛应用，并强调AI代理和数字孪生技术正推动互联网基础设施升级和经济价值创造。",
       "wordCount": 463,
       "paragraphs": [
         {
-          "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders {{1}} new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{2}} into sectors ranging from urban {{3}} and industrial {{4}} to retail and public services. Speaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are {{5}} the internet itself. While large language models excel at general reasoning, AI agents are designed to {{6}} specific tasks and future digital {{7}} will increasingly rely on {{8}} among multiple intelligent agents rather than {{9}} AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
-          "cn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI解决方案。会议于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖于多个智能代理之间的协作，而不是孤立的AI系统。第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心体验VR产品。"
+          "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders {{1}} new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{2}} into sectors ranging from urban {{3}} and industrial manufacturing to retail and public services. Speaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are {{4}} the internet itself. While large language models excel at general reasoning, AI agents are designed to {{5}} specific tasks and future digital {{6}} will increasingly rely on {{7}} among multiple intelligent agents rather than {{8}} AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
+          "cn": "第25届中国互联网大会于2026年7月8日在北京国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新AI解决方案。会议于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务等各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理被设计用于执行特定任务，未来的数字生态系统将越来越依赖于多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的参会者于2026年7月8日在北京国家会议中心体验VR产品。"
         },
         {
-          "en": "According to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the {{10}} source of {{11}} interactions. The shift, he said, will require internet {{12}} to evolve toward higher {{13}}, lower {{14}} and stronger computing capabilities. The conference also demonstrated how AI is being {{15}} in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered {{16}} systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{17}} and building maintenance, providing city managers with real-time {{18}} and decision-making tools. Industry representatives also {{19}} that AI innovation is creating {{20}} economic value.",
-          "cn": "据邬贺铨介绍，预计到2030年，AI生成的流量将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这种转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。会议还展示了AI在实际场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
+          "en": "According to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the {{9}} source of token-based interactions. The shift, he said, will require internet infrastructure to {{10}} toward higher {{11}}, lower {{12}} and stronger computing capabilities. The conference also demonstrated how AI is being {{13}} in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered {{14}} systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{15}} and building maintenance, providing city managers with real-time {{16}} and decision-making tools. Industry representatives also emphasized that AI innovation is creating {{17}} economic value.",
+          "cn": "据邬贺铨介绍，预计到2030年，AI生成的流量将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这种转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。会议还展示了AI在实际场景中的应用。数字助手正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
         },
         {
-          "en": "Participants of the 25th China Internet Conference {{21}} with {{22}} robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video {{23}} model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while {{24}} reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling {{25}} shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified {{26}} AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{27}} across different computing chips, reflects broader efforts to build more efficient and {{28}} AI infrastructure. As AI technologies continue to mature, industry experts believe the focus is shifting from developing models to {{29}} them at scale.",
-          "cn": "第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在会议上，快手表示，其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在越来越多地处理复杂的购物请求，超越传统的基于关键词的搜索，转向面向任务的消费者服务。除了应用之外，与会者还确定了可信AI和绿色计算作为行业下一阶段发展的关键优先事项。FlagOS倡议的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效、可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。"
+          "en": "Participants of the 25th China Internet Conference {{18}} with {{19}} robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while {{20}} reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling {{21}} shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{22}} across different computing chips, reflects broader efforts to build more efficient and sustainable AI infrastructure. As AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale.",
+          "cn": "第25届中国互联网大会的参会者于2026年7月8日在北京国家会议中心与人形机器人互动。在会议上，快手表示，其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝秒杀平台报告称，AI代理正在处理越来越复杂的购物请求，超越传统的基于关键词的搜索，转向面向任务的消费服务。除了应用之外，参会者将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS计划的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效、可持续AI基础设施的更广泛努力。随着AI技术的不断成熟，行业专家认为重点正从开发模型转向大规模部署。"
         },
         {
           "en": "The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-          "cn": "会议强调了中国的努力，以加速AI在实体经济中的采用，智能应用日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+          "cn": "会议突出了中国加速AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
         }
       ],
       "blanks": [
@@ -619,374 +595,332 @@
         },
         {
           "id": 4,
-          "answer": "manufacturing",
-          "hint": "n. 制造业",
-          "difficulty": "easy"
-        },
-        {
-          "id": 5,
           "answer": "reshaping",
           "hint": "v. 重塑",
           "difficulty": "medium"
         },
         {
-          "id": 6,
+          "id": 5,
           "answer": "execute",
           "hint": "v. 执行",
           "difficulty": "medium"
         },
         {
-          "id": 7,
+          "id": 6,
           "answer": "ecosystems",
           "hint": "n. 生态系统",
           "difficulty": "medium"
         },
         {
-          "id": 8,
+          "id": 7,
           "answer": "collaboration",
           "hint": "n. 协作",
           "difficulty": "medium"
         },
         {
-          "id": 9,
+          "id": 8,
           "answer": "isolated",
           "hint": "adj. 孤立的",
           "difficulty": "medium"
         },
         {
-          "id": 10,
+          "id": 9,
           "answer": "dominant",
-          "hint": "adj. 主要的",
+          "hint": "adj. 主导的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "evolve",
+          "hint": "v. 演变",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "token-based",
-          "hint": "adj. 基于令牌的",
+          "answer": "bandwidth",
+          "hint": "n. 带宽",
           "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "bandwidth",
-          "hint": "n. 带宽",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
           "answer": "latency",
           "hint": "n. 延迟",
           "difficulty": "hard"
         },
         {
-          "id": 15,
+          "id": 13,
           "answer": "deployed",
           "hint": "v. 部署",
           "difficulty": "medium"
         },
         {
-          "id": 16,
+          "id": 14,
           "answer": "inspection",
-          "hint": "n. 检查",
+          "hint": "n. 检测",
           "difficulty": "medium"
         },
         {
-          "id": 17,
+          "id": 15,
           "answer": "optimization",
           "hint": "n. 优化",
-          "difficulty": "medium"
+          "difficulty": "hard"
         },
         {
-          "id": 18,
+          "id": 16,
           "answer": "visualization",
           "hint": "n. 可视化",
           "difficulty": "hard"
         },
         {
-          "id": 19,
-          "answer": "emphasized",
-          "hint": "v. 强调",
-          "difficulty": "easy"
-        },
-        {
-          "id": 20,
+          "id": 17,
           "answer": "measurable",
           "hint": "adj. 可衡量的",
           "difficulty": "medium"
         },
         {
-          "id": 21,
+          "id": 18,
           "answer": "interact",
           "hint": "v. 互动",
           "difficulty": "easy"
         },
         {
-          "id": 22,
+          "id": 19,
           "answer": "humanoid",
           "hint": "adj. 人形的",
           "difficulty": "hard"
         },
         {
-          "id": 23,
-          "answer": "generation",
-          "hint": "n. 生成",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
+          "id": 20,
           "answer": "significantly",
           "hint": "adv. 显著地",
           "difficulty": "medium"
         },
         {
-          "id": 25,
+          "id": 21,
           "answer": "complex",
           "hint": "adj. 复杂的",
           "difficulty": "easy"
         },
         {
-          "id": 26,
-          "answer": "trustworthy",
-          "hint": "adj. 可信的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 27,
+          "id": 22,
           "answer": "compatibility",
           "hint": "n. 兼容性",
           "difficulty": "hard"
-        },
-        {
-          "id": 28,
-          "answer": "sustainable",
-          "hint": "adj. 可持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 29,
-          "answer": "deploying",
-          "hint": "v. 部署",
-          "difficulty": "medium"
         }
       ],
       "fullText": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nArtificial intelligence is moving rapidly from experimental technology to real-world applications, as industry leaders showcased new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing.\nHeld from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.\nSpeaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are reshaping the internet itself.\nWhile large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on collaboration among multiple intelligent agents rather than isolated AI systems.\nParticipants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAccording to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the dominant source of token-based interactions. The shift, he said, will require internet infrastructure to evolve toward higher bandwidth, lower latency and stronger computing capabilities.\nThe conference also demonstrated how AI is being deployed in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy optimization and building maintenance, providing city managers with real-time visualization and decision-making tools.\nIndustry representatives also emphasized that AI innovation is creating measurable economic value.\nParticipants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAt the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while significantly reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services.\nBeyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve compatibility across different computing chips, reflects broader efforts to build more efficient and sustainable AI infrastructure.\nAs AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale. The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI解决方案。会议于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖于多个智能代理之间的协作，而不是孤立的AI系统。第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心体验VR产品。\n\n据邬贺铨介绍，预计到2030年，AI生成的流量将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这种转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。会议还展示了AI在实际场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在会议上，快手表示，其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在越来越多地处理复杂的购物请求，超越传统的基于关键词的搜索，转向面向任务的消费者服务。除了应用之外，与会者还确定了可信AI和绿色计算作为行业下一阶段发展的关键优先事项。FlagOS倡议的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效、可持续AI基础设施的更广泛努力。随着AI技术不断成熟，行业专家认为重点正从开发模型转向大规模部署。\n\n会议强调了中国的努力，以加速AI在实体经济中的采用，智能应用日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新AI解决方案。会议于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务等各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理被设计用于执行特定任务，未来的数字生态系统将越来越依赖于多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的参会者于2026年7月8日在北京国家会议中心体验VR产品。\n\n据邬贺铨介绍，预计到2030年，AI生成的流量将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这种转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。会议还展示了AI在实际场景中的应用。数字助手正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n第25届中国互联网大会的参会者于2026年7月8日在北京国家会议中心与人形机器人互动。在会议上，快手表示，其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝秒杀平台报告称，AI代理正在处理越来越复杂的购物请求，超越传统的基于关键词的搜索，转向面向任务的消费服务。除了应用之外，参会者将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS计划的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效、可持续AI基础设施的更广泛努力。随着AI技术的不断成熟，行业专家认为重点正从开发模型转向大规模部署。\n\n会议突出了中国加速AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
     },
     {
       "id": 5,
       "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-07-31/Spain-reinforces-Ceuta-border-as-migrant-surge-leaves-at-least-9-dead-1PdGPBAR5hm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Spain reinforces Ceuta border as migrant surge leaves at least 9 dead",
-      "titleCn": "西班牙加强休达边境，移民潮致至少9人死亡",
-      "summary": "Spain's government on Thursday deployed armed forces stationed in the North African enclave of Ceuta to support the Civil Guard after thousands of migrants crossed into the territory from neighboring Morocco.",
-      "summaryCn": "西班牙在移民激增后向休达增派军队，最高法院裁决废除“热返”政策，引发边境危机。",
-      "wordCount": 385,
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-02/France-s-devastating-fires-now-under-control-says-PM-1Ph8QARmRhK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "France's devastating fires now 'under control,' says PM",
+      "titleCn": "法国总理表示，毁灭性火灾现已“得到控制”",
+      "summary": "The fires that have ravaged France are \"today under control,\" Prime Minister Sebastien Lecornu said on Saturday, more than a week after the country's largest wildfire since 1949.",
+      "summaryCn": "法国总理宣布全国火灾已得到控制，但部分地区仍存在风险，同时今年火灾过火面积创20年新高。",
+      "wordCount": 542,
       "paragraphs": [
         {
-          "en": "People gather at Bab Sebta, on the Morocco-Spain border near Spain's {{3}} of Ceuta and the Moroccan town of Fnideq, July 30, 2026. Spain's government on Thursday {{2}} armed forces stationed in the North African enclave of Ceuta to support the Civil Guard after thousands of migrants crossed into the territory from neighboring Morocco. According to Spanish media reports, at least nine migrants died while attempting to reach the Spanish enclave by sea. According to Spanish media reports, the armed forces will {{4}} the Civil Guard in carrying out its duties and operate under the {{5}} of the Armed Forces' Operations Command. Thousands of migrants entered Ceuta on Thursday, placing severe pressure on local {{6}} facilities and security services. Ceuta's regional leader Juan Jesus Vivas called on the central government to declare a national {{7}} and {{8}} unified command of the response. Spain's Interior Ministry said Spain and Morocco had agreed to {{9}} coordination in response to the migration situation and {{10}} procedures for the return of people who entered Ceuta {{11}}.",
-          "cn": "2026年7月30日，人们聚集在摩洛哥与西班牙边境的巴布塞卜塔，靠近西班牙飞地休达和摩洛哥城镇菲尼代克。西班牙政府周四部署了驻扎在北非飞地休达的武装部队，以支持国民警卫队，此前数千名移民从邻国摩洛哥越境进入该领土。据西班牙媒体报道，至少有9名移民在试图通过海路抵达该西班牙飞地时死亡。据西班牙媒体报道，武装部队将加强国民警卫队执行任务的能力，并在武装部队作战司令部的协调下行动。数千名移民于周四进入休达，给当地接待设施和安全服务带来了巨大压力。休达地区领导人胡安·赫苏斯·比瓦斯呼吁中央政府宣布国家紧急状态，并对应对措施进行统一指挥。西班牙内政部表示，西班牙和摩洛哥已同意加强协调以应对移民局势，并加快遣返非法进入休达人员的程序。"
+          "en": "The fires that have {{0}} France are \"today under {{1}},\" Prime Minister Sebastien Lecornu said Saturday, more than a week after the country's largest wildfire since 1949 flared up. \"Overall, the fires are now under control in our country,\" he said in an interview with the La Tribune Dimanche weekly. The largest wildfire {{2}} more than a week ago in a pine forest near the southwestern city of Bordeaux. \"We have returned to a more {{3}} situation,\" Lecornu said, {{4}} earlier comments by Interior Minister Laurent Nunez. France has for weeks been {{5}} wildfires after a series of {{6}} heatwaves that have {{7}} up riverbeds and {{8}}, {{9}} weather events scientists have {{10}} to human-made climate change.",
+          "cn": "法国总理塞巴斯蒂安·勒科尔努周六表示，肆虐法国的火灾“如今已得到控制”，这距离该国自1949年以来最大的野火爆发已过去一周多。“总体而言，我国的火灾现已得到控制，”他在接受《星期日报》周刊采访时说。最大的野火是一周多前在西南部城市波尔多附近的一片松树林中爆发的。“我们已恢复到更稳定的局势，”勒科尔努说，他确认了内政部长洛朗·努涅斯此前的评论。法国数周来一直在与野火作斗争，此前一系列致命热浪使河床和植被干涸，科学家将这些极端天气事件与人为气候变化联系起来。"
         },
         {
-          "en": "Spanish army soldiers are deployed to the Spanish enclave of Ceuta, July 30, 2026. European Commissioner for Internal Affairs and Migration Magnus Brunner said on social media platform X that the European Union stood ready to increase support for Spain, including through Frontex, and was also in contact with the Moroccan authorities to help {{12}} dangerous {{13}} crossings. Spanish Prime Minister Pedro Sanchez and Interior Minister Fernando Grande-Marlaska are scheduled to visit Ceuta on Friday as the government steps up its response to the {{14}}. Ceuta, together with Melilla, is one of Spain's two {{15}} cities on the North African coast and forms the European Union's only land border with Africa. The {{1}} of migrant arrivals in Ceuta has been {{16}} primarily by a {{17}} {{18}} from Spain's Supreme Court. The judgment {{19}} the practice of {{20}} \"hot returns\" for migrants {{21}} at sea near the enclave, {{22}} authorities of the power to immediately send sea-borne irregular migrants back to Morocco without full {{23}} legal procedures. Supporters of the ruling argue that the former policy of \"hot returns\" lacked proper legal {{24}} and risked {{25}} expulsion, {{26}} human rights, while right-wing voices warn that the new legal {{27}} effectively creates an open border {{28}}, {{29}} migrant {{30}} and {{31}} Ceuta's limited reception capacity.",
-          "cn": "2026年7月30日，西班牙陆军士兵被部署到西班牙飞地休达。欧盟内政和移民事务专员马格努斯·布伦纳在社交媒体平台X上表示，欧盟准备增加对西班牙的支持，包括通过欧洲边境管理局，并正在与摩洛哥当局联系，以帮助防止危险的非法越境。西班牙首相佩德罗·桑切斯和内政部长费尔南多·格兰德-马拉斯卡计划于周五访问休达，因为政府正在加强对危机的应对。休达与梅利利亚一起，是西班牙在北非海岸的两个自治城市之一，构成了欧盟与非洲唯一的陆地边界。休达移民激增主要是由西班牙最高法院的一项里程碑式裁决引发的。该判决禁止在飞地附近海域拦截移民时进行“热返”做法，剥夺了当局在没有完整个人法律程序的情况下立即将海上非法移民遣送回摩洛哥的权力。该裁决的支持者认为，以前的“热返”政策缺乏适当的法律保障，存在集体驱逐的风险，侵犯了人权，而右翼声音警告说，新的法律先例实际上造成了开放边界的漏洞，鼓励了移民走私，并使休达有限的接待能力不堪重负。"
+          "en": "In the Gironde region near the winemaking capital of Bordeaux, an {{11}} ripped through 42,000 hectares of pine forest along the Atlantic {{12}} – an area larger than the US city of Detroit. It also {{13}} around 240 homes. Some local people think a brushwood-clearing machine {{14}} started the blaze with a spark on July 29. Sophie Brocas, the prefect of the southwestern Gironde region, remained {{15}} on Saturday. \"Fire fixed doesn't mean fire out,\" she warned, mentioning two \"hot points\" still giving cause for {{16}}.",
+          "cn": "在葡萄酒之都波尔多附近的吉伦特地区，一场大火沿着大西洋海岸线烧毁了4.2万公顷的松树林——面积比美国底特律市还大。它还摧毁了约240栋房屋。一些当地人认为，一台清理灌木丛的机器在7月29日意外引发火灾。西南部吉伦特地区行政长官索菲·布罗卡斯周六仍保持谨慎。“火势被控制并不意味着火已熄灭，”她警告说，并提到两个“热点”仍令人担忧。"
+        },
+        {
+          "en": "But most of the 224,000 people {{17}} from the flames have been allowed to return to their homes, she said. She said the others would have to wait for the fire to be put out in the areas where it was still active. Most land burnt in years\nAn aircraft flies over a wildfire near Lanton, east of the Arcachon Bay, west of Bordeaux, during wildfires in the Gironde region, southwestern France, July 29, 2026. Lecornu, in his interview, made it clear that if the situation changed, the authorities would take the appropriate action. The fire in the southeastern Var region was still under close {{18}}, he added.",
+          "cn": "但她表示，从火焰中疏散的22.4万人中，大多数已被允许返回家园。她说，其他人将不得不等待火势在仍活跃的地区被扑灭。多年烧毁的土地最多。一架飞机飞越波尔多以西阿卡雄湾以东的朗通附近的一场野火，摄于2026年7月29日，吉伦特地区西南部。勒科尔努在采访中明确表示，如果局势发生变化，当局将采取适当行动。他补充说，东南部瓦尔地区的火灾仍处于严密监视之下。"
+        },
+        {
+          "en": "Firefighters there have managed to {{19}} the {{20}} of a fast-moving blaze that sprang up Friday, said regional prefect Simon Babre. Strong winds {{21}} the flames had caused them to spread \"faster than a galloping horse,\" he said, warning that the situation was still \"extremely {{22}}.\"\n\"We're staying cautious because the fight goes on,\" he added. The fire was just the latest of several that have {{23}} 5,600 hectares of land in total in the region in July. Hollywood star George Clooney, his wife Amal and children were among those {{24}} to flee their home earlier this week. Rail traffic, interrupted since last weekend south of Bordeaux, finally {{25}} on Saturday as another wave of holidaymakers started or finished their summer breaks.",
+          "cn": "当地消防员已设法阻止了周五爆发的一场快速蔓延火灾的推进，地区行政长官西蒙·巴布雷说。他说，强风助长火焰，使其蔓延速度“比疾驰的马还快”，并警告说局势仍然“极其不稳定”。“我们保持谨慎，因为战斗仍在继续，”他补充说。这场火灾只是7月份该地区烧毁总面积达5600公顷的几场火灾中的最新一起。好莱坞明星乔治·克鲁尼、他的妻子阿马尔和孩子们本周早些时候被迫逃离家园。自上周末以来中断的波尔多以南铁路交通周六终于恢复，另一波度假者开始或结束他们的暑假。"
+        },
+        {
+          "en": "The wildfire near Bordeaux is the largest nationwide since a deadly forest fire in the same region in 1949, which scorched around 50,000 hectares. Lecornu, in his interview, encouraged people to go on holiday in the region as \"a gesture of {{26}}.\"\nThe total area of land burnt so far this year in France – 92,000 hectares – is the largest on {{28}} for any year over the past 20 years, according to satellite data from the European Forest Fire Information System. Elsewhere in France, a fire in the Fontainebleau forest near Paris {{27}} a tenth of the UNESCO-listed site in mid-July, after several other wildfires in the country.",
+          "cn": "波尔多附近的野火是该国自1949年同一地区发生致命森林火灾以来最大的一次，那次火灾烧毁了约5万公顷土地。勒科尔努在采访中鼓励人们去该地区度假，作为“团结的表示”。根据欧洲森林火灾信息系统的卫星数据，法国今年迄今烧毁的土地总面积——9.2万公顷——是过去20年来任何一年的最大记录。在法国其他地方，巴黎附近枫丹白露森林的一场火灾在7月中旬烧毁了联合国教科文组织列名遗址的十分之一，此前该国已发生多起其他野火。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "surge",
-          "hint": "n. 激增",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "deployed",
-          "hint": "v. 部署",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "enclave",
-          "hint": "n. 飞地",
+          "answer": "ravaged",
+          "hint": "v. 摧毁，蹂躏",
           "difficulty": "hard"
         },
         {
-          "id": 3,
-          "answer": "reinforce",
-          "hint": "v. 增援",
+          "id": 1,
+          "answer": "control",
+          "hint": "n. 控制",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "erupted",
+          "hint": "v. 爆发",
           "difficulty": "medium"
         },
         {
+          "id": 3,
+          "answer": "stable",
+          "hint": "adj. 稳定的",
+          "difficulty": "easy"
+        },
+        {
           "id": 4,
-          "answer": "coordination",
-          "hint": "n. 协调",
+          "answer": "confirming",
+          "hint": "v. 确认",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "reception",
-          "hint": "n. 接待",
+          "answer": "battling",
+          "hint": "v. 与……作斗争",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "emergency",
-          "hint": "n. 紧急情况",
+          "answer": "deadly",
+          "hint": "adj. 致命的",
           "difficulty": "easy"
         },
         {
           "id": 7,
-          "answer": "assume",
-          "hint": "v. 承担",
+          "answer": "dried",
+          "hint": "v. 使干涸",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "strengthen",
-          "hint": "v. 加强",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "accelerate",
-          "hint": "v. 加快",
+          "answer": "vegetation",
+          "hint": "n. 植被",
           "difficulty": "medium"
         },
         {
+          "id": 9,
+          "answer": "extreme",
+          "hint": "adj. 极端的",
+          "difficulty": "easy"
+        },
+        {
           "id": 10,
-          "answer": "illegally",
-          "hint": "adv. 非法地",
+          "answer": "linked",
+          "hint": "v. 联系",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "prevent",
-          "hint": "v. 防止",
-          "difficulty": "easy"
+          "answer": "inferno",
+          "hint": "n. 大火，地狱般的景象",
+          "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "irregular",
-          "hint": "adj. 非正规的",
+          "answer": "coastline",
+          "hint": "n. 海岸线",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "crisis",
-          "hint": "n. 危机",
+          "answer": "destroyed",
+          "hint": "v. 摧毁",
           "difficulty": "easy"
         },
         {
           "id": 14,
-          "answer": "autonomous",
-          "hint": "adj. 自治的",
+          "answer": "accidentally",
+          "hint": "adv. 意外地",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "triggered",
-          "hint": "v. 引发",
+          "answer": "cautious",
+          "hint": "adj. 谨慎的",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "landmark",
-          "hint": "adj. 里程碑式的",
-          "difficulty": "hard"
+          "answer": "concern",
+          "hint": "n. 担忧",
+          "difficulty": "easy"
         },
         {
           "id": 17,
-          "answer": "ruling",
-          "hint": "n. 裁决",
+          "answer": "evacuated",
+          "hint": "v. 疏散",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "banned",
-          "hint": "v. 禁止",
-          "difficulty": "easy"
+          "answer": "surveillance",
+          "hint": "n. 监视",
+          "difficulty": "hard"
         },
         {
           "id": 19,
-          "answer": "summary",
-          "hint": "adj. 即决的",
+          "answer": "stem",
+          "hint": "v. 阻止",
           "difficulty": "hard"
         },
         {
           "id": 20,
-          "answer": "intercepted",
-          "hint": "v. 拦截",
-          "difficulty": "hard"
+          "answer": "advance",
+          "hint": "n. 前进，推进",
+          "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "stripping",
-          "hint": "v. 剥夺",
+          "answer": "fanning",
+          "hint": "v. 煽动，助长",
           "difficulty": "hard"
         },
         {
           "id": 22,
-          "answer": "individual",
-          "hint": "adj. 个人的",
-          "difficulty": "easy"
+          "answer": "precarious",
+          "hint": "adj. 不稳定的，危险的",
+          "difficulty": "hard"
         },
         {
           "id": 23,
-          "answer": "safeguards",
-          "hint": "n. 保障措施",
+          "answer": "consumed",
+          "hint": "v. 烧毁，消耗",
           "difficulty": "medium"
         },
         {
           "id": 24,
-          "answer": "collective",
-          "hint": "adj. 集体的",
-          "difficulty": "medium"
+          "answer": "forced",
+          "hint": "v. 迫使",
+          "difficulty": "easy"
         },
         {
           "id": 25,
-          "answer": "violating",
-          "hint": "v. 侵犯",
+          "answer": "resumed",
+          "hint": "v. 恢复",
           "difficulty": "medium"
         },
         {
           "id": 26,
-          "answer": "precedent",
-          "hint": "n. 先例",
-          "difficulty": "hard"
+          "answer": "solidarity",
+          "hint": "n. 团结",
+          "difficulty": "medium"
         },
         {
           "id": 27,
-          "answer": "loophole",
-          "hint": "n. 漏洞",
+          "answer": "incinerated",
+          "hint": "v. 烧毁，焚化",
           "difficulty": "hard"
         },
         {
           "id": 28,
-          "answer": "incentivising",
-          "hint": "v. 激励",
-          "difficulty": "hard"
-        },
-        {
-          "id": 29,
-          "answer": "smuggling",
-          "hint": "n. 走私",
-          "difficulty": "medium"
-        },
-        {
-          "id": 30,
-          "answer": "overwhelming",
-          "hint": "v. 使不堪重负",
-          "difficulty": "medium"
+          "answer": "record",
+          "hint": "n. 记录",
+          "difficulty": "easy"
         }
       ],
-      "fullText": "People gather at Bab Sebta, on the Morocco-Spain border near Spain's enclave of Ceuta and the Moroccan town of Fnideq, July 30, 2026. \nSpain's government on Thursday deployed armed forces stationed in the North African enclave of Ceuta to support the Civil Guard after thousands of migrants crossed into the territory from neighboring Morocco.\nAccording to Spanish media reports, at least nine migrants died while attempting to reach the Spanish enclave by sea.\nAccording to Spanish media reports, the armed forces will reinforce the Civil Guard in carrying out its duties and operate under the coordination of the Armed Forces' Operations Command.\nThousands of migrants entered Ceuta on Thursday, placing severe pressure on local reception facilities and security services.\nCeuta's regional leader Juan Jesus Vivas called on the central government to declare a national emergency and assume unified command of the response.\nSpain's Interior Ministry said Spain and Morocco had agreed to strengthen coordination in response to the migration situation and accelerate procedures for the return of people who entered Ceuta illegally.\nSpanish army soldiers are deployed to the Spanish enclave of Ceuta, July 30, 2026. \nEuropean Commissioner for Internal Affairs and Migration Magnus Brunner said on social media platform X that the European Union stood ready to increase support for Spain, including through Frontex, and was also in contact with the Moroccan authorities to help prevent dangerous irregular crossings.\nSpanish Prime Minister Pedro Sanchez and Interior Minister Fernando Grande-Marlaska are scheduled to visit Ceuta on Friday as the government steps up its response to the crisis.\nCeuta, together with Melilla, is one of Spain's two autonomous cities on the North African coast and forms the European Union's only land border with Africa.\nThe surge of migrant arrivals in Ceuta has been triggered primarily by a landmark ruling from Spain's Supreme Court.\nThe judgment banned the practice of summary \"hot returns\" for migrants intercepted at sea near the enclave, stripping authorities of the power to immediately send sea-borne irregular migrants back to Morocco without full individual legal procedures.\nSupporters of the ruling argue that the former policy of \"hot returns\" lacked proper legal safeguards and risked collective expulsion, violating human rights, while right-wing voices warn that the new legal precedent effectively creates an open border loophole, incentivising migrant smuggling and overwhelming Ceuta's limited reception capacity.",
-      "fullTextCn": "2026年7月30日，人们聚集在摩洛哥与西班牙边境的巴布塞卜塔，靠近西班牙飞地休达和摩洛哥城镇菲尼代克。西班牙政府周四部署了驻扎在北非飞地休达的武装部队，以支持国民警卫队，此前数千名移民从邻国摩洛哥越境进入该领土。据西班牙媒体报道，至少有9名移民在试图通过海路抵达该西班牙飞地时死亡。据西班牙媒体报道，武装部队将加强国民警卫队执行任务的能力，并在武装部队作战司令部的协调下行动。数千名移民于周四进入休达，给当地接待设施和安全服务带来了巨大压力。休达地区领导人胡安·赫苏斯·比瓦斯呼吁中央政府宣布国家紧急状态，并对应对措施进行统一指挥。西班牙内政部表示，西班牙和摩洛哥已同意加强协调以应对移民局势，并加快遣返非法进入休达人员的程序。\n\n2026年7月30日，西班牙陆军士兵被部署到西班牙飞地休达。欧盟内政和移民事务专员马格努斯·布伦纳在社交媒体平台X上表示，欧盟准备增加对西班牙的支持，包括通过欧洲边境管理局，并正在与摩洛哥当局联系，以帮助防止危险的非法越境。西班牙首相佩德罗·桑切斯和内政部长费尔南多·格兰德-马拉斯卡计划于周五访问休达，因为政府正在加强对危机的应对。休达与梅利利亚一起，是西班牙在北非海岸的两个自治城市之一，构成了欧盟与非洲唯一的陆地边界。休达移民激增主要是由西班牙最高法院的一项里程碑式裁决引发的。该判决禁止在飞地附近海域拦截移民时进行“热返”做法，剥夺了当局在没有完整个人法律程序的情况下立即将海上非法移民遣送回摩洛哥的权力。该裁决的支持者认为，以前的“热返”政策缺乏适当的法律保障，存在集体驱逐的风险，侵犯了人权，而右翼声音警告说，新的法律先例实际上造成了开放边界的漏洞，鼓励了移民走私，并使休达有限的接待能力不堪重负。"
+      "fullText": "The fires that have ravaged France are \"today under control,\" Prime Minister Sebastien Lecornu said Saturday, more than a week after the country's largest wildfire since 1949 flared up.\n\"Overall, the fires are now under control in our country,\" he said in an interview with the La Tribune Dimanche weekly.\nThe largest wildfire erupted more than a week ago in a pine forest near the southwestern city of Bordeaux.\n\"We have returned to a more stable situation,\" Lecornu said, confirming earlier comments by Interior Minister Laurent Nunez.\nFrance has for weeks been battling wildfires after a series of deadly heatwaves that have dried up riverbeds and vegetation, extreme weather events scientists have linked to human-made climate change.\nIn the Gironde region near the winemaking capital of Bordeaux, an inferno ripped through 42,000 hectares of pine forest along the Atlantic coastline – an area larger than the US city of Detroit. It also destroyed around 240 homes.\nSome local people think a brushwood-clearing machine accidentally started the blaze with a spark on July 29.\nSophie Brocas, the prefect of the southwestern Gironde region, remained cautious on Saturday.\n\"Fire fixed doesn't mean fire out,\" she warned, mentioning two \"hot points\" still giving cause for concern.\nBut most of the 224,000 people evacuated from the flames have been allowed to return to their homes, she said.\nShe said the others would have to wait for the fire to be put out in the areas where it was still active.\nMost land burnt in years\nAn aircraft flies over a wildfire near Lanton, east of the Arcachon Bay, west of Bordeaux, during wildfires in the Gironde region, southwestern France, July 29, 2026. \nLecornu, in his interview, made it clear that if the situation changed, the authorities would take the appropriate action.\nThe fire in the southeastern Var region was still under close surveillance, he added.\nFirefighters there have managed to stem the advance of a fast-moving blaze that sprang up Friday, said regional prefect Simon Babre.\nStrong winds fanning the flames had caused them to spread \"faster than a galloping horse,\" he said, warning that the situation was still \"extremely precarious.\"\n\"We're staying cautious because the fight goes on,\" he added.\nThe fire was just the latest of several that have consumed 5,600 hectares of land in total in the region in July. Hollywood star George Clooney, his wife Amal and children were among those forced to flee their home earlier this week.\nRail traffic, interrupted since last weekend south of Bordeaux, finally resumed on Saturday as another wave of holidaymakers started or finished their summer breaks.\nThe wildfire near Bordeaux is the largest nationwide since a deadly forest fire in the same region in 1949, which scorched around 50,000 hectares.\nLecornu, in his interview, encouraged people to go on holiday in the region as \"a gesture of solidarity.\"\nThe total area of land burnt so far this year in France – 92,000 hectares – is the largest on record for any year over the past 20 years, according to satellite data from the European Forest Fire Information System.\nElsewhere in France, a fire in the Fontainebleau forest near Paris incinerated a tenth of the UNESCO-listed site in mid-July, after several other wildfires in the country.",
+      "fullTextCn": "法国总理塞巴斯蒂安·勒科尔努周六表示，肆虐法国的火灾“如今已得到控制”，这距离该国自1949年以来最大的野火爆发已过去一周多。“总体而言，我国的火灾现已得到控制，”他在接受《星期日报》周刊采访时说。最大的野火是一周多前在西南部城市波尔多附近的一片松树林中爆发的。“我们已恢复到更稳定的局势，”勒科尔努说，他确认了内政部长洛朗·努涅斯此前的评论。法国数周来一直在与野火作斗争，此前一系列致命热浪使河床和植被干涸，科学家将这些极端天气事件与人为气候变化联系起来。\n\n在葡萄酒之都波尔多附近的吉伦特地区，一场大火沿着大西洋海岸线烧毁了4.2万公顷的松树林——面积比美国底特律市还大。它还摧毁了约240栋房屋。一些当地人认为，一台清理灌木丛的机器在7月29日意外引发火灾。西南部吉伦特地区行政长官索菲·布罗卡斯周六仍保持谨慎。“火势被控制并不意味着火已熄灭，”她警告说，并提到两个“热点”仍令人担忧。\n\n但她表示，从火焰中疏散的22.4万人中，大多数已被允许返回家园。她说，其他人将不得不等待火势在仍活跃的地区被扑灭。多年烧毁的土地最多。一架飞机飞越波尔多以西阿卡雄湾以东的朗通附近的一场野火，摄于2026年7月29日，吉伦特地区西南部。勒科尔努在采访中明确表示，如果局势发生变化，当局将采取适当行动。他补充说，东南部瓦尔地区的火灾仍处于严密监视之下。\n\n当地消防员已设法阻止了周五爆发的一场快速蔓延火灾的推进，地区行政长官西蒙·巴布雷说。他说，强风助长火焰，使其蔓延速度“比疾驰的马还快”，并警告说局势仍然“极其不稳定”。“我们保持谨慎，因为战斗仍在继续，”他补充说。这场火灾只是7月份该地区烧毁总面积达5600公顷的几场火灾中的最新一起。好莱坞明星乔治·克鲁尼、他的妻子阿马尔和孩子们本周早些时候被迫逃离家园。自上周末以来中断的波尔多以南铁路交通周六终于恢复，另一波度假者开始或结束他们的暑假。\n\n波尔多附近的野火是该国自1949年同一地区发生致命森林火灾以来最大的一次，那次火灾烧毁了约5万公顷土地。勒科尔努在采访中鼓励人们去该地区度假，作为“团结的表示”。根据欧洲森林火灾信息系统的卫星数据，法国今年迄今烧毁的土地总面积——9.2万公顷——是过去20年来任何一年的最大记录。在法国其他地方，巴黎附近枫丹白露森林的一场火灾在7月中旬烧毁了联合国教科文组织列名遗址的十分之一，此前该国已发生多起其他野火。"
     }
   ]
 }
