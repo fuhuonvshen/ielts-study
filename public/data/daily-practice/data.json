@@ -1,40 +1,207 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "articles": [
     {
       "id": 1,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-06/SpaceX-rocket-stage-crashes-into-moon-scientists-confirm-1PnQgHAuqAM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "SpaceX rocket stage crashes into moon, scientists confirm",
+      "titleCn": "SpaceX火箭级撞上月球，科学家证实",
+      "summary": "A SpaceX rocket stage floating in space since last year smashed into the moon at high speed early Wednesday morning, joining the ranks of meteoroids, wayward spacecraft ​and other pieces of space junk that have bombarded the lunar surface for ages, astronomers confirmed.",
+      "summaryCn": "SpaceX的猎鹰9号火箭上级在2026年8月5日意外撞击月球，引发对太空垃圾和未来月球任务安全的关注。",
+      "wordCount": 759,
+      "paragraphs": [
+        {
+          "en": "The moon during the morning hours as German astronomers observe the moon surface from their platform of the Observatory Kassel during an international observation campaign following the predicted impact of a SpaceX Falcon 9 upper stage near the lunar Einstein crater, August 5, 2026. A SpaceX rocket stage floating in space since last year {{0}} into the moon at high speed early Wednesday morning, joining the ranks of meteoroids, wayward spacecraft and other pieces of space junk that have {{1}} the lunar surface for ages, astronomers confirmed. The school-bus-size object is the second stage of a SpaceX Falcon 9 rocket that launched a lunar lander from Firefly Aerospace toward the moon in January 2025. While the rocket's booster returned to Earth, the upper stage remained in space after completing its primary mission. The unintentional collision occurred at around 2:35 a.m.",
+          "cn": "2026年8月5日早晨，德国天文学家在卡塞尔天文台平台上观测月球表面，这是针对SpaceX猎鹰9号火箭上级预计撞击月球爱因斯坦陨石坑附近后进行的国际观测活动。天文学家证实，一枚自去年起漂浮在太空中的SpaceX火箭级于周三凌晨高速撞上月球，加入了长期以来轰击月球表面的流星体、偏离轨道的航天器和其他太空垃圾的行列。这个校车大小的物体是SpaceX猎鹰9号火箭的第二级，该火箭于2025年1月将萤火虫航空航天公司的月球着陆器送往月球。虽然火箭的助推器返回了地球，但上级在完成其主要任务后仍留在太空中。这次意外碰撞发生在凌晨2点35分左右。"
+        },
+        {
+          "en": "ET (0635 GMT), when the 4,000-kilogram rocket stage slammed into the moon at a speed of about 8,690 kilometers per hour. The impact had been predicted months in advance by astronomers tracking the object's {{2}}. A SpaceX Falcon 9 rocket lifts off from pad 39A with a payload of a pair of lunar landers at the Kennedy Space Center in Cape Canaveral, Florida, the US, January 15, 2025. The crash {{3}} no threat to Earth, and no spacecraft orbiting the moon were positioned to capture close-up images of the impact. But the European Southern Observatory's (ESO) Very Large Telescope in Chile detected {{4}} of light associated with the impact.",
+          "cn": "美国东部时间（格林尼治标准时间0635）凌晨2点35分左右，这个4000公斤重的火箭级以约8690公里/小时的速度撞击月球。这次撞击在数月前就被追踪该物体轨迹的天文学家预测到了。2025年1月15日，一枚SpaceX猎鹰9号火箭携带一对月球着陆器从美国佛罗里达州卡纳维拉尔角肯尼迪航天中心的39A发射台升空。这次撞击对地球没有威胁，而且月球轨道上也没有航天器能够拍摄到撞击的近距离图像。但智利的欧洲南方天文台（ESO）甚大望远镜探测到了与撞击相关的闪光。"
+        },
+        {
+          "en": "\"We can confirm that the telescope detected {{5}} lines of sodium and lithium gas in the impact {{6}} lasting for 5-10 minutes after impact,\" an ESO spokesperson told Reuters. NASA's Lunar Reconnaissance Orbiter probe and South Korea's Pathfinder Lunar Orbiter were also expected to take images of the impact site, though it could take days to receive that information. The event comes as SpaceX continues to expand its space operations and commercial activities. In its first quarterly report since going public in June, the company reported strong {{7}} growth, with revenue reaching $7.8 billion, up more than 90% from a year earlier. Starlink revenue, which accounted for over half of total revenue, rose 66%, and revenue from SpaceX's AI business – which Musk has pitched as the company's future growth driver – {{8}} about 250%.",
+          "cn": "“我们可以确认，望远镜在撞击后5到10分钟内探测到了撞击羽流中的钠和锂气体光谱线，”ESO发言人告诉路透社。美国宇航局的月球勘测轨道飞行器探测器和韩国的探路者月球轨道器预计也将拍摄撞击地点的图像，尽管可能需要几天时间才能收到这些信息。这一事件发生之际，SpaceX正继续扩大其太空运营和商业活动。在6月上市以来的首份季度报告中，该公司报告了强劲的收入增长，收入达到78亿美元，同比增长超过90%。占其总收入一半以上的星链收入增长了66%，而SpaceX的人工智能业务（马斯克将其定位为公司未来的增长驱动力）的收入激增了约250%。"
+        },
+        {
+          "en": "However, the stock fell by as much as 8% in after-hours trading following the release, as investors reacted to a sharp increase in capital {{9}}, driven largely by AI infrastructure investments. Space junk raising concern\nSpace {{14}} has become a growing concern as more satellites and spacecraft enter orbit. Experts have warned that {{10}} too much space junk around Earth could lead to a dangerous {{11}} reaction of collisions known as the \"Kessler syndrome.\"\nGenerally on such missions, SpaceX performs a {{12}} to make sure the second stage \"is safe per the appropriate rules and regulations,\" said Julianna Scheiman, director of NASA Science and Dragon Programs at SpaceX, at a Monday news conference. \"We did that,\" she continued, but \"what has happened is essentially a {{13}} of solar activity and gravity forces have put it on a path towards the moon.\"\nThe rocket stage was just one of tens of thousands of pieces of human-made debris currently orbiting Earth. While the moon is constantly bombarded by natural objects such as meteoroids, impacts from artificial spacecraft remain relatively uncommon.",
+          "cn": "然而，财报发布后，该股在盘后交易中下跌了多达8%，因为投资者对资本支出的大幅增加做出了反应，这主要是由人工智能基础设施投资推动的。太空垃圾引发担忧。随着越来越多的卫星和航天器进入轨道，太空碎片已成为一个日益令人担忧的问题。专家警告说，地球周围积累过多的太空垃圾可能导致危险的连锁碰撞反应，即所谓的“凯斯勒综合征”。SpaceX负责NASA科学和龙飞船项目的总监朱莉安娜·谢曼在周一的新闻发布会上表示，通常在此类任务中，SpaceX会进行机动，以确保第二级“符合相关规则和法规的安全要求”。“我们做到了，”她继续说，但“发生的事情基本上是太阳活动和引力作用的结合，使其走上了通往月球的路径。”这个火箭级只是目前绕地球运行的数万块人造碎片之一。虽然月球不断受到流星体等自然物体的轰击，但人造航天器的撞击仍然相对罕见。"
+        },
+        {
+          "en": "NASA and SpaceX are discussing ways to prevent future lunar impacts, Scheiman said. Under NASA's multibillion-dollar Artemis program, the US space agency plans to build a lunar base and send routine astronaut missions to the lunar surface later this decade. Protecting future spacecraft, equipment and lunar habitats from {{15}} pieces of space junk will become a growing {{16}}. \"It's one of the things that we're working in partnership with NASA and the other appropriate agencies is what is the best future {{17}} path for high-energy missions that are in the sun-Earth-moon system,\" said Scheiman. Despite concerns over space debris, scientists also see research value in the collision.",
+          "cn": "谢曼说，NASA和SpaceX正在讨论防止未来月球撞击的方法。根据NASA耗资数十亿美元的阿尔忒弥斯计划，美国航天局计划在本十年晚些时候建立一个月球基地，并定期向月球表面派遣宇航员任务。保护未来的航天器、设备和月球栖息地免受误入歧途的太空垃圾的侵害将成为一个日益重要的优先事项。“这是我们与NASA和其他相关机构合作解决的问题之一，即对于太阳-地球-月球系统中的高能任务，什么是最好的未来处置路径，”谢曼说。尽管对太空碎片感到担忧，但科学家们也看到了这次碰撞的研究价值。"
+        },
+        {
+          "en": "NASA intentionally crashed stages from its Saturn V moon rocket into the moon in the 1970s to study the impacts' {{18}} effects. In 2009, the agency intentionally crashed a rocket stage into the moon as part of the LCROSS mission to study the plume of lunar material {{19}} up by the impact, leading to a key discovery that lunar dirt contains traces of water ice. This time, \"NASA scientists are planning to collect lunar data from the event and {{20}} techniques for tracking objects in space,\" the US agency said.",
+          "cn": "20世纪70年代，NASA故意将其土星五号月球火箭的各级撞向月球，以研究撞击的地震效应。2009年，该机构作为LCROSS任务的一部分，故意将一枚火箭级撞向月球，以研究撞击掀起的月球物质羽流，从而得出了一项关键发现：月球土壤中含有水冰的痕迹。这一次，“NASA科学家计划从这一事件中收集月球数据，并完善跟踪太空物体的技术，”美国航天局表示。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "smashed",
+          "hint": "v. 猛撞，粉碎",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "bombarded",
+          "hint": "v. 轰击，连续攻击",
+          "difficulty": "hard"
+        },
+        {
+          "id": 2,
+          "answer": "trajectory",
+          "hint": "n. 轨迹，弹道",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "posed",
+          "hint": "v. 造成（威胁等）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "glimmers",
+          "hint": "n. 微光，闪光",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "spectral",
+          "hint": "adj. 光谱的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "plume",
+          "hint": "n. 羽流，烟柱",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "revenue",
+          "hint": "n. 收入，收益",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "surged",
+          "hint": "v. 激增，猛涨",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "expenditures",
+          "hint": "n. 支出，花费",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "amassing",
+          "hint": "v. 积累，聚集",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "chain",
+          "hint": "n. 连锁，一系列",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "maneuver",
+          "hint": "n. 机动，操作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "mixture",
+          "hint": "n. 混合，结合",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "debris",
+          "hint": "n. 碎片，残骸",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "errant",
+          "hint": "adj. 偏离正道的，误入歧途的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "priority",
+          "hint": "n. 优先事项，重点",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "disposal",
+          "hint": "n. 处理，处置",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "seismic",
+          "hint": "adj. 地震的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "kicked",
+          "hint": "v. 踢起，扬起",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "refine",
+          "hint": "v. 改进，完善",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "The moon during the morning hours as German astronomers observe the moon surface from their platform of the Observatory Kassel during an international observation campaign following the predicted impact of a SpaceX Falcon 9 upper stage near the lunar Einstein crater, August 5, 2026. \nA SpaceX rocket stage floating in space since last year smashed into the moon at high speed early Wednesday morning, joining the ranks of meteoroids, wayward spacecraft and other pieces of space junk that have bombarded the lunar surface for ages, astronomers confirmed.\nThe school-bus-size object is the second stage of a SpaceX Falcon 9 rocket that launched a lunar lander from Firefly Aerospace toward the moon in January 2025. While the rocket's booster returned to Earth, the upper stage remained in space after completing its primary mission.\nThe unintentional collision occurred at around 2:35 a.m. ET (0635 GMT), when the 4,000-kilogram rocket stage slammed into the moon at a speed of about 8,690 kilometers per hour. The impact had been predicted months in advance by astronomers tracking the object's trajectory.\nA SpaceX Falcon 9 rocket lifts off from pad 39A with a payload of a pair of lunar landers at the Kennedy Space Center in Cape Canaveral, Florida, the US, January 15, 2025. \nThe crash posed no threat to Earth, and no spacecraft orbiting the moon were positioned to capture close-up images of the impact.\nBut the European Southern Observatory's (ESO) Very Large Telescope in Chile detected glimmers of light associated with the impact. \"We can confirm that the telescope detected spectral lines of sodium and lithium gas in the impact plume lasting for 5-10 minutes after impact,\" an ESO spokesperson told Reuters.\nNASA's Lunar Reconnaissance Orbiter probe and South Korea's Pathfinder Lunar Orbiter were also expected to take images of the impact site, though it could take days to receive that information.\nThe event comes as SpaceX continues to expand its space operations and commercial activities. In its first quarterly report since going public in June, the company reported strong revenue growth, with revenue reaching $7.8 billion, up more than 90% from a year earlier. Starlink revenue, which accounted for over half of total revenue, rose 66%, and revenue from SpaceX's AI business – which Musk has pitched as the company's future growth driver – surged about 250%. However, the stock fell by as much as 8% in after-hours trading following the release, as investors reacted to a sharp increase in capital expenditures, driven largely by AI infrastructure investments.\nSpace junk raising concern\nSpace debris has become a growing concern as more satellites and spacecraft enter orbit.\nExperts have warned that amassing too much space junk around Earth could lead to a dangerous chain reaction of collisions known as the \"Kessler syndrome.\"\nGenerally on such missions, SpaceX performs a maneuver to make sure the second stage \"is safe per the appropriate rules and regulations,\" said Julianna Scheiman, director of NASA Science and Dragon Programs at SpaceX, at a Monday news conference.\n\"We did that,\" she continued, but \"what has happened is essentially a mixture of solar activity and gravity forces have put it on a path towards the moon.\"\nThe rocket stage was just one of tens of thousands of pieces of human-made debris currently orbiting Earth. While the moon is constantly bombarded by natural objects such as meteoroids, impacts from artificial spacecraft remain relatively uncommon.\nNASA and SpaceX are discussing ways to prevent future lunar impacts, Scheiman said. Under NASA's multibillion-dollar Artemis program, the US space agency plans to build a lunar base and send routine astronaut missions to the lunar surface later this decade. Protecting future spacecraft, equipment and lunar habitats from errant pieces of space junk will become a growing priority.\n\"It's one of the things that we're working in partnership with NASA and the other appropriate agencies is what is the best future disposal path for high-energy missions that are in the sun-Earth-moon system,\" said Scheiman.\nDespite concerns over space debris, scientists also see research value in the collision.\nNASA intentionally crashed stages from its Saturn V moon rocket into the moon in the 1970s to study the impacts' seismic effects. In 2009, the agency intentionally crashed a rocket stage into the moon as part of the LCROSS mission to study the plume of lunar material kicked up by the impact, leading to a key discovery that lunar dirt contains traces of water ice.\nThis time, \"NASA scientists are planning to collect lunar data from the event and refine techniques for tracking objects in space,\" the US agency said.",
+      "fullTextCn": "2026年8月5日早晨，德国天文学家在卡塞尔天文台平台上观测月球表面，这是针对SpaceX猎鹰9号火箭上级预计撞击月球爱因斯坦陨石坑附近后进行的国际观测活动。天文学家证实，一枚自去年起漂浮在太空中的SpaceX火箭级于周三凌晨高速撞上月球，加入了长期以来轰击月球表面的流星体、偏离轨道的航天器和其他太空垃圾的行列。这个校车大小的物体是SpaceX猎鹰9号火箭的第二级，该火箭于2025年1月将萤火虫航空航天公司的月球着陆器送往月球。虽然火箭的助推器返回了地球，但上级在完成其主要任务后仍留在太空中。这次意外碰撞发生在凌晨2点35分左右。\n\n美国东部时间（格林尼治标准时间0635）凌晨2点35分左右，这个4000公斤重的火箭级以约8690公里/小时的速度撞击月球。这次撞击在数月前就被追踪该物体轨迹的天文学家预测到了。2025年1月15日，一枚SpaceX猎鹰9号火箭携带一对月球着陆器从美国佛罗里达州卡纳维拉尔角肯尼迪航天中心的39A发射台升空。这次撞击对地球没有威胁，而且月球轨道上也没有航天器能够拍摄到撞击的近距离图像。但智利的欧洲南方天文台（ESO）甚大望远镜探测到了与撞击相关的闪光。\n\n“我们可以确认，望远镜在撞击后5到10分钟内探测到了撞击羽流中的钠和锂气体光谱线，”ESO发言人告诉路透社。美国宇航局的月球勘测轨道飞行器探测器和韩国的探路者月球轨道器预计也将拍摄撞击地点的图像，尽管可能需要几天时间才能收到这些信息。这一事件发生之际，SpaceX正继续扩大其太空运营和商业活动。在6月上市以来的首份季度报告中，该公司报告了强劲的收入增长，收入达到78亿美元，同比增长超过90%。占其总收入一半以上的星链收入增长了66%，而SpaceX的人工智能业务（马斯克将其定位为公司未来的增长驱动力）的收入激增了约250%。\n\n然而，财报发布后，该股在盘后交易中下跌了多达8%，因为投资者对资本支出的大幅增加做出了反应，这主要是由人工智能基础设施投资推动的。太空垃圾引发担忧。随着越来越多的卫星和航天器进入轨道，太空碎片已成为一个日益令人担忧的问题。专家警告说，地球周围积累过多的太空垃圾可能导致危险的连锁碰撞反应，即所谓的“凯斯勒综合征”。SpaceX负责NASA科学和龙飞船项目的总监朱莉安娜·谢曼在周一的新闻发布会上表示，通常在此类任务中，SpaceX会进行机动，以确保第二级“符合相关规则和法规的安全要求”。“我们做到了，”她继续说，但“发生的事情基本上是太阳活动和引力作用的结合，使其走上了通往月球的路径。”这个火箭级只是目前绕地球运行的数万块人造碎片之一。虽然月球不断受到流星体等自然物体的轰击，但人造航天器的撞击仍然相对罕见。\n\n谢曼说，NASA和SpaceX正在讨论防止未来月球撞击的方法。根据NASA耗资数十亿美元的阿尔忒弥斯计划，美国航天局计划在本十年晚些时候建立一个月球基地，并定期向月球表面派遣宇航员任务。保护未来的航天器、设备和月球栖息地免受误入歧途的太空垃圾的侵害将成为一个日益重要的优先事项。“这是我们与NASA和其他相关机构合作解决的问题之一，即对于太阳-地球-月球系统中的高能任务，什么是最好的未来处置路径，”谢曼说。尽管对太空碎片感到担忧，但科学家们也看到了这次碰撞的研究价值。\n\n20世纪70年代，NASA故意将其土星五号月球火箭的各级撞向月球，以研究撞击的地震效应。2009年，该机构作为LCROSS任务的一部分，故意将一枚火箭级撞向月球，以研究撞击掀起的月球物质羽流，从而得出了一项关键发现：月球土壤中含有水冰的痕迹。这一次，“NASA科学家计划从这一事件中收集月球数据，并完善跟踪太空物体的技术，”美国航天局表示。"
+    },
+    {
+      "id": 2,
       "category": "society",
       "source": "CGTN",
       "sourceUrl": "https://news.cgtn.com/news/2026-07-17/Scientists-reveal-how-aging-weakens-the-brain-s-protective-barrier-1OQlBVmo6Vq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
       "title": "Scientists reveal how aging weakens the brain's protective barrier",
       "titleCn": "科学家揭示衰老如何削弱大脑的保护屏障",
       "summary": "Scientists reveal how aging weakens the brain's protective barrier",
-      "summaryCn": "研究发现衰老通过TGF-β1信号减少Mfsd2a蛋白，导致血脑屏障内吞转运异常渗漏，进而影响认知功能。",
+      "summaryCn": "研究发现衰老通过TGF-β1信号增加脑内皮细胞转运，导致血脑屏障渗漏，进而影响认知功能。",
       "wordCount": 526,
       "paragraphs": [
         {
-          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive {{2}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{3}} by which aging weakens the blood-brain barrier, the brain's protective {{4}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial {{5}} drives blood-brain barrier {{6}} during aging.\"\nThe study shows how aging {{7}} transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{8}} security system.",
-          "cn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究展示了衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）就像一个选择性安全系统。"
+          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive {{2}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{3}} by which aging weakens the blood-brain barrier, the brain's protective {{4}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial {{5}} drives blood-brain barrier leakage during aging.\"\nThe study shows how aging {{6}} transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{7}} security system.",
+          "cn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）像一个选择性安全系统。"
         },
         {
-          "en": "It allows {{9}} nutrients to reach the brain while preventing potentially {{10}} substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{11}} disorders. Scientists have traditionally {{12}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{13}} in middle-aged mice and worsened in older animals.",
-          "cn": "它允许必需营养物质到达大脑，同时防止血液中潜在的有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接结构的损伤。然而，这项新研究发现，在衰老过程中另一个过程发生得更早。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已可检测到，并在老年动物中恶化。"
+          "en": "It allows {{8}} nutrients to reach the brain while preventing potentially {{9}} substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{10}} disorders. Scientists have traditionally {{11}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{12}} in middle-aged mice and worsened in older animals.",
+          "cn": "它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接的损伤。然而，新研究发现另一个过程在衰老过程中更早发生。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已可检测到，并在老年动物中恶化。"
         },
         {
-          "en": "The change appeared early in the {{14}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{15}}. Instead, the cells' internal transport system became {{16}} active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
-          "cn": "这种变化最早出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，使得血液中的物质能够穿过细胞进入脑组织。“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制，”研究人员说。研究团队识别出一种名为Mfsd2a的蛋白质，它是这个保护系统的重要组成部分。"
+          "en": "The change appeared early in the {{13}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{14}}. Instead, the cells' internal transport system became {{15}} active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
+          "cn": "这种变化早期出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。研究人员说：“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制。”团队识别出一种名为Mfsd2a的蛋白质，作为这一保护系统的重要组成部分。"
         },
         {
-          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased. When the researchers {{17}} endothelial Mfsd2a {{18}} or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a {{19}} molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
-          "cn": "Mfsd2a通常限制脑内血管的不必要运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员恢复老年小鼠内皮细胞中的Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。随后，研究人员探究了为什么Mfsd2a在衰老过程中会下降。他们发现，TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平在小鼠大脑和血液中随年龄增长而增加。"
+          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased. When the researchers {{16}} endothelial Mfsd2a expression or {{17}} down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
+          "cn": "Mfsd2a通常限制大脑血管中不必要的运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠年龄增长，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平增加。"
         },
         {
-          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage. By contrast, {{21}} TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of {{22}} wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
-          "cn": "过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号，减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。"
+          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage. By contrast, {{19}} TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of {{20}} wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
+          "cn": "过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相比之下，在老年小鼠中阻断TGF-β信号减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。"
         },
         {
-          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing {{20}} activation of TGF-β signaling. Further research will be needed to determine whether these {{23}} can be safely translated into treatments for humans.",
-          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号的过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类的治疗方法。"
+          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing {{18}} activation of TGF-β signaling. Further research will be needed to determine whether these {{21}} can be safely translated into treatments for humans.",
+          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类治疗方法。"
         }
       ],
       "blanks": [
@@ -65,7 +232,7 @@
         {
           "id": 4,
           "answer": "interface",
-          "hint": "n. 界面，接口",
+          "hint": "n. 界面",
           "difficulty": "medium"
         },
         {
@@ -76,142 +243,130 @@
         },
         {
           "id": 6,
-          "answer": "leakage",
-          "hint": "n. 渗漏",
+          "answer": "disrupts",
+          "hint": "v. 扰乱",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "disrupts",
-          "hint": "v. 扰乱，破坏",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
           "answer": "selective",
           "hint": "adj. 选择性的",
           "difficulty": "medium"
         },
         {
-          "id": 9,
+          "id": 8,
           "answer": "essential",
-          "hint": "adj. 必需的，基本的",
+          "hint": "adj. 必需的",
           "difficulty": "easy"
         },
         {
-          "id": 10,
+          "id": 9,
           "answer": "harmful",
           "hint": "adj. 有害的",
           "difficulty": "easy"
         },
         {
-          "id": 11,
+          "id": 10,
           "answer": "neurodegenerative",
           "hint": "adj. 神经退行性的",
           "difficulty": "hard"
         },
         {
-          "id": 12,
+          "id": 11,
           "answer": "attributed",
           "hint": "v. 归因于",
           "difficulty": "medium"
         },
         {
-          "id": 13,
+          "id": 12,
           "answer": "detectable",
           "hint": "adj. 可检测到的",
           "difficulty": "medium"
         },
         {
-          "id": 14,
+          "id": 13,
           "answer": "hippocampus",
           "hint": "n. 海马体",
           "difficulty": "hard"
         },
         {
-          "id": 15,
+          "id": 14,
           "answer": "intact",
           "hint": "adj. 完整的",
           "difficulty": "medium"
         },
         {
-          "id": 16,
+          "id": 15,
           "answer": "abnormally",
           "hint": "adv. 异常地",
           "difficulty": "medium"
         },
         {
-          "id": 17,
+          "id": 16,
           "answer": "restored",
           "hint": "v. 恢复",
           "difficulty": "medium"
         },
         {
+          "id": 17,
+          "answer": "knocked",
+          "hint": "v. 敲低（knock down）",
+          "difficulty": "medium"
+        },
+        {
           "id": 18,
-          "answer": "expression",
-          "hint": "n. 表达（基因）",
+          "answer": "excessive",
+          "hint": "adj. 过量的",
           "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "signaling",
-          "hint": "n. 信号传导",
+          "answer": "blocking",
+          "hint": "v. 阻断",
           "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "excessive",
-          "hint": "adj. 过度的",
+          "answer": "passive",
+          "hint": "adj. 被动的",
           "difficulty": "easy"
         },
         {
           "id": 21,
-          "answer": "blocking",
-          "hint": "v. 阻断",
-          "difficulty": "easy"
-        },
-        {
-          "id": 22,
-          "answer": "passive",
-          "hint": "adj. 被动的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
           "answer": "strategies",
           "hint": "n. 策略",
           "difficulty": "easy"
         }
       ],
       "fullText": "As people age, many experience memory decline and slower cognitive processing, along with a higher risk of cerebrovascular disease and cognitive impairment. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline.\nScientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a mechanism by which aging weakens the blood-brain barrier, the brain's protective interface with the bloodstream.\nThe study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier leakage during aging.\"\nThe study shows how aging disrupts transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a selective security system. It allows essential nutrients to reach the brain while preventing potentially harmful substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several neurodegenerative disorders.\nScientists have traditionally attributed BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging.\nBy examining mice at different ages, the researchers found that BBB leakage was already detectable in middle-aged mice and worsened in older animals. The change appeared early in the hippocampus, a brain region important for learning and memory.\nAt this stage, the seals between blood vessel cells remained largely intact. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue.\n\"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said.\nThe team identified a protein called Mfsd2a as an important part of this protective system. Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased.\nWhen the researchers restored endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced.\nThe researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.\nExcessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage.\nBy contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests.\nThe findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.\nThe study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing excessive activation of TGF-β signaling. Further research will be needed to determine whether these strategies can be safely translated into treatments for humans.",
-      "fullTextCn": "随着年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。该研究展示了衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）就像一个选择性安全系统。\n\n它允许必需营养物质到达大脑，同时防止血液中潜在的有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接结构的损伤。然而，这项新研究发现，在衰老过程中另一个过程发生得更早。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已可检测到，并在老年动物中恶化。\n\n这种变化最早出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，使得血液中的物质能够穿过细胞进入脑组织。“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制，”研究人员说。研究团队识别出一种名为Mfsd2a的蛋白质，它是这个保护系统的重要组成部分。\n\nMfsd2a通常限制脑内血管的不必要运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员恢复老年小鼠内皮细胞中的Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。随后，研究人员探究了为什么Mfsd2a在衰老过程中会下降。他们发现，TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平在小鼠大脑和血液中随年龄增长而增加。\n\n过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相反，在老年小鼠中阻断TGF-β信号，减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号的过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类的治疗方法。"
+      "fullTextCn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）像一个选择性安全系统。\n\n它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接的损伤。然而，新研究发现另一个过程在衰老过程中更早发生。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已可检测到，并在老年动物中恶化。\n\n这种变化早期出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。研究人员说：“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制。”团队识别出一种名为Mfsd2a的蛋白质，作为这一保护系统的重要组成部分。\n\nMfsd2a通常限制大脑血管中不必要的运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠年龄增长，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平增加。\n\n过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相比之下，在老年小鼠中阻断TGF-β信号减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类治疗方法。"
     },
     {
-      "id": 2,
+      "id": 3,
       "category": "technology",
       "source": "CGTN",
       "sourceUrl": "https://news.cgtn.com/news/2026-07-09/AI-applications-move-into-more-everyday-scenarios-1ODhOvc9w7S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
       "title": "AI applications move into more everyday scenarios",
-      "titleCn": "AI应用加速进入更多日常场景",
+      "titleCn": "AI应用进入更多日常场景",
       "summary": "The 25th China Internet Conference held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.",
-      "summaryCn": "第25届中国互联网大会展示了AI在城市治理、工业制造和商业服务等领域的广泛应用，并强调AI技术正从模型开发转向规模化部署。",
+      "summaryCn": "第25届中国互联网大会展示了AI在城市治理、工业制造和零售等领域的广泛应用，并强调了AI代理和数字孪生技术对未来互联网和经济的推动作用。",
       "wordCount": 463,
       "paragraphs": [
         {
-          "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders {{1}} new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{2}} into sectors ranging from urban {{3}} and industrial manufacturing to retail and public services. Speaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are {{4}} the internet itself. While large language models excel at general reasoning, AI agents are designed to {{5}} specific tasks and future digital ecosystems will increasingly rely on {{6}} among multiple intelligent agents rather than {{7}} AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
-          "cn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验性技术走向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新AI解决方案。会议于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心体验VR产品。"
+          "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders {{1}} new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{2}} into sectors ranging from urban {{3}} and industrial manufacturing to retail and public services. Speaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are {{4}} the internet itself. While large language models excel at general reasoning, AI agents are designed to {{5}} specific tasks and future digital {{6}} will increasingly rely on {{7}} among multiple intelligent agents rather than {{8}} AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
+          "cn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI解决方案。会议于7月8日至10日举行，重点展示了AI代理、大型语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大型语言模型擅长一般推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖于多个智能代理之间的协作，而不是孤立的AI系统。第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心试用VR产品。"
         },
         {
-          "en": "According to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the {{8}} source of token-based interactions. The shift, he said, will require internet {{9}} to evolve toward higher bandwidth, lower latency and stronger computing capabilities. The conference also demonstrated how AI is being {{10}} in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{11}} and building maintenance, providing city managers with real-time {{12}} and decision-making tools. Industry representatives also {{13}} that AI innovation is creating {{14}} economic value.",
-          "cn": "据邬贺铨介绍，预计到2030年，AI生成流量将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。会议还展示了AI在实际场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
+          "en": "According to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the {{9}} source of token-based {{10}}. The shift, he said, will require internet infrastructure to {{11}} toward higher {{12}}, lower {{13}} and stronger computing capabilities. The conference also demonstrated how AI is being {{14}} in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered {{15}} systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{16}} and building maintenance, providing city managers with real-time {{17}} and decision-making tools. Industry representatives also {{18}} that AI innovation is creating {{19}} economic value.",
+          "cn": "据邬贺铨介绍，预计到2030年，AI生成的流量将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这种转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。会议还展示了AI在实际场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
         },
         {
-          "en": "Participants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while {{15}} reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling {{16}} shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified {{17}} AI and green computing as key {{18}} for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{19}} across different computing chips, reflects broader efforts to build more efficient and {{20}} AI infrastructure. As AI technologies continue to {{21}}, industry experts believe the focus is shifting from developing models to {{22}} them at scale.",
-          "cn": "第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在会议上，快手表示其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝秒杀平台报告称，AI代理正在越来越多地处理复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，与会者将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS计划的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效、可持续AI基础设施的更广泛努力。随着AI技术持续成熟，行业专家认为重点正从开发模型转向大规模部署。"
+          "en": "Participants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while {{20}} reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling {{21}} shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified {{22}} AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{23}} across different computing chips, reflects broader efforts to build more efficient and {{24}} AI infrastructure. As AI technologies continue to {{25}}, industry experts believe the focus is shifting from developing models to {{26}} them at scale.",
+          "cn": "第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在会议上，快手表示，其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在越来越多地处理复杂的购物请求，超越传统的基于关键词的搜索，转向面向任务的消费者服务。除了应用之外，与会者将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效和可持续AI基础设施的更广泛努力。随着AI技术的不断成熟，行业专家认为重点正在从开发模型转向大规模部署。"
         },
         {
-          "en": "The conference highlighted China's efforts to {{23}} AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-          "cn": "会议突显了中国加速AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+          "en": "The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
+          "cn": "会议突显了中国加快AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
         }
       ],
       "blanks": [
@@ -253,644 +408,411 @@
         },
         {
           "id": 6,
-          "answer": "collaboration",
-          "hint": "n. 协作",
-          "difficulty": "easy"
+          "answer": "ecosystems",
+          "hint": "n. 生态系统",
+          "difficulty": "medium"
         },
         {
           "id": 7,
+          "answer": "collaboration",
+          "hint": "n. 协作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
           "answer": "isolated",
           "hint": "adj. 孤立的",
           "difficulty": "medium"
         },
         {
-          "id": 8,
+          "id": 9,
           "answer": "dominant",
           "hint": "adj. 主导的",
           "difficulty": "medium"
         },
         {
-          "id": 9,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
+          "id": 10,
+          "answer": "interactions",
+          "hint": "n. 交互",
           "difficulty": "medium"
         },
         {
-          "id": 10,
-          "answer": "deployed",
-          "hint": "v. 部署",
+          "id": 11,
+          "answer": "evolve",
+          "hint": "v. 演变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "bandwidth",
+          "hint": "n. 带宽",
           "difficulty": "hard"
         },
         {
-          "id": 11,
+          "id": 13,
+          "answer": "latency",
+          "hint": "n. 延迟",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "deployed",
+          "hint": "v. 部署",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "inspection",
+          "hint": "n. 检测",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
           "answer": "optimization",
           "hint": "n. 优化",
           "difficulty": "hard"
         },
         {
-          "id": 12,
+          "id": 17,
           "answer": "visualization",
           "hint": "n. 可视化",
           "difficulty": "hard"
         },
         {
-          "id": 13,
+          "id": 18,
           "answer": "emphasized",
           "hint": "v. 强调",
           "difficulty": "easy"
         },
         {
-          "id": 14,
+          "id": 19,
           "answer": "measurable",
           "hint": "adj. 可衡量的",
           "difficulty": "medium"
         },
         {
-          "id": 15,
+          "id": 20,
           "answer": "significantly",
           "hint": "adv. 显著地",
           "difficulty": "medium"
         },
         {
-          "id": 16,
+          "id": 21,
           "answer": "complex",
           "hint": "adj. 复杂的",
           "difficulty": "easy"
         },
         {
-          "id": 17,
+          "id": 22,
           "answer": "trustworthy",
           "hint": "adj. 可信的",
           "difficulty": "medium"
         },
         {
-          "id": 18,
-          "answer": "priorities",
-          "hint": "n. 优先事项",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
+          "id": 23,
           "answer": "compatibility",
           "hint": "n. 兼容性",
           "difficulty": "hard"
         },
         {
-          "id": 20,
+          "id": 24,
           "answer": "sustainable",
           "hint": "adj. 可持续的",
           "difficulty": "medium"
         },
         {
-          "id": 21,
+          "id": 25,
           "answer": "mature",
           "hint": "v. 成熟",
           "difficulty": "medium"
         },
         {
-          "id": 22,
+          "id": 26,
           "answer": "deploying",
           "hint": "v. 部署",
-          "difficulty": "hard"
-        },
-        {
-          "id": 23,
-          "answer": "accelerate",
-          "hint": "v. 加速",
           "difficulty": "medium"
         }
       ],
       "fullText": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nArtificial intelligence is moving rapidly from experimental technology to real-world applications, as industry leaders showcased new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing.\nHeld from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.\nSpeaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are reshaping the internet itself.\nWhile large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on collaboration among multiple intelligent agents rather than isolated AI systems.\nParticipants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAccording to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the dominant source of token-based interactions. The shift, he said, will require internet infrastructure to evolve toward higher bandwidth, lower latency and stronger computing capabilities.\nThe conference also demonstrated how AI is being deployed in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy optimization and building maintenance, providing city managers with real-time visualization and decision-making tools.\nIndustry representatives also emphasized that AI innovation is creating measurable economic value.\nParticipants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAt the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while significantly reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services.\nBeyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve compatibility across different computing chips, reflects broader efforts to build more efficient and sustainable AI infrastructure.\nAs AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale. The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验性技术走向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新AI解决方案。会议于7月8日至10日举行，重点展示了AI代理、大语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大语言模型擅长通用推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖多个智能代理之间的协作，而非孤立的AI系统。第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心体验VR产品。\n\n据邬贺铨介绍，预计到2030年，AI生成流量将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这一转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。会议还展示了AI在实际场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在会议上，快手表示其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝秒杀平台报告称，AI代理正在越来越多地处理复杂的购物请求，从传统的基于关键词的搜索转向面向任务的消费者服务。除了应用之外，与会者将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS计划的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效、可持续AI基础设施的更广泛努力。随着AI技术持续成熟，行业专家认为重点正从开发模型转向大规模部署。\n\n会议突显了中国加速AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI解决方案。会议于7月8日至10日举行，重点展示了AI代理、大型语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大型语言模型擅长一般推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖于多个智能代理之间的协作，而不是孤立的AI系统。第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心试用VR产品。\n\n据邬贺铨介绍，预计到2030年，AI生成的流量将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这种转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。会议还展示了AI在实际场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在会议上，快手表示，其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在越来越多地处理复杂的购物请求，超越传统的基于关键词的搜索，转向面向任务的消费者服务。除了应用之外，与会者将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效和可持续AI基础设施的更广泛努力。随着AI技术的不断成熟，行业专家认为重点正在从开发模型转向大规模部署。\n\n会议突显了中国加快AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
     },
     {
-      "id": 3,
+      "id": 4,
       "category": "military",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-08/Lebanon-says-positive-progress-made-in-Rome-talks-with-Israel-1PqS9QGqnXa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Lebanon says positive progress made in Rome talks with Israel",
-      "titleCn": "黎巴嫩称与以色列的罗马会谈取得积极进展",
-      "summary": "Lebanese President Joseph Aoun said on Friday that progress had been made on border issues and the return of prisoners during the latest negotiations between Lebanon and Israel in Rome.",
-      "summaryCn": "黎巴嫩总统表示，在与以色列的罗马谈判中，关于边界和囚犯问题取得了积极进展，但停火和试点区等剩余问题仍有待解决。",
-      "wordCount": 346,
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-08-08/ICC-oversight-body-urges-Chad-and-Venezuela-to-reverse-withdrawal-1Pru8eVsUtG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "ICC oversight body urges Chad and Venezuela to reverse withdrawal",
+      "titleCn": "国际刑事法院监督机构敦促乍得和委内瑞拉撤回退出决定",
+      "summary": "The body that oversees the International Criminal Court has urged Chad and Venezuela to reconsider their decisions to withdraw from the court, warning that their departures could undermine global efforts to fight impunity.",
+      "summaryCn": "国际刑事法院监督机构呼吁乍得和委内瑞拉重新考虑退出决定，警告此举可能削弱全球打击有罪不罚的努力。",
+      "wordCount": 337,
       "paragraphs": [
         {
-          "en": "Lebanese soldiers {{0}} Zawtar al Gharbiya, a {{1}} pilot zone under the {{6}} agreement between Lebanon and Israel from which Israeli forces have {{2}}, southern Lebanon, August 5, 2026. Lebanese President Joseph Aoun said on Friday that {{3}} had been made on border issues and the return of prisoners during the latest {{4}} between Lebanon and Israel in Rome. Speaking at a cabinet session, Aoun said the Rome talks {{5}} four main issues: a ceasefire, the {{7}} and {{8}} of houses, the border, and the return of prisoners and the {{9}} of pilot areas, according to a statement released by the Lebanese presidency. Aoun said \"positive progress\" had been made on the border and prisoners' issues, expressing hope that practical steps would emerge soon, the statement said. He said the US {{11}} would work to address the {{12}} issues of a ceasefire and pilot areas, adding that US General Joseph Clearfield would arrive in Beirut soon to follow up on these matters. Lebanon and Israel have also agreed on a shortlist of countries that could send troops to {{13}} the {{14}} of Hezbollah under a US-{{15}} agreement, with the United States due to pick countries from the list, Reuters reported on Friday, citing a Lebanese official.",
-          "cn": "黎巴嫩士兵在黎巴嫩南部扎瓦塔尔·加尔比亚巡逻，这是根据黎巴嫩与以色列停火协议指定的试点区，以色列军队已从中撤出，摄于2026年8月5日。黎巴嫩总统约瑟夫·奥恩周五表示，在罗马举行的最新黎巴嫩与以色列谈判中，边界问题和囚犯返回问题取得了进展。根据黎巴嫩总统府发布的声明，奥恩在内阁会议上表示，罗马会谈讨论了四个主要问题：停火、房屋拆除和推平、边界，以及囚犯返回和试点区的确定。声明称，奥恩表示在边界和囚犯问题上取得了“积极进展”，并希望很快能出现切实步骤。他说，美国政府将努力解决剩余的停火和试点区问题，并补充说，美国将军约瑟夫·克利尔菲尔德将很快抵达贝鲁特跟进这些事务。据路透社周五援引一名黎巴嫩官员的话报道，黎巴嫩和以色列还就一份国家短名单达成一致，这些国家可能派遣部队核查真主党在美国斡旋的协议下的解除武装情况，美国将从名单中挑选国家。"
+          "en": "The body that oversees the International Criminal Court (ICC) has {{1}} Chad and Venezuela to reconsider their decisions to withdraw from the court, warning that their departures could {{3}} global efforts to fight {{4}}. In a statement issued on Friday from The Hague, the Assembly of States Parties said it viewed the {{2}} announcements \"with {{5}}\" and called on both countries to remain members of the court. The assembly encouraged them to address any concerns through {{6}} within the ICC system rather than leaving the institution. The appeal comes as the court faces its most {{7}} wave of withdrawal announcements since it was {{8}} in 2002. Five countries have said they intend to leave the ICC since last year, amid {{9}} international pressure on the tribunal.",
+          "cn": "负责监督国际刑事法院的机构已敦促乍得和委内瑞拉重新考虑退出法院的决定，警告称它们的退出可能削弱全球打击有罪不罚的努力。缔约国大会周五在海牙发表声明，表示对退出公告“表示关切”，并呼吁两国继续留在法院。大会鼓励它们通过国际刑事法院体系内的对话解决任何关切，而不是离开该机构。这一呼吁发出之际，法院正面临自2002年成立以来最大规模的退出公告浪潮。自去年以来，已有五个国家表示打算退出国际刑事法院，而该法庭正面临新的国际压力。"
         },
         {
-          "en": "Hezbollah is not a party to the agreement and has refused to give up its arsenal. The official {{16}} to {{17}} any of the countries on the shortlist or say how many there were. Another Lebanese official and two foreign diplomats have previously told Reuters that Israel and the United States had {{18}} France. \"We have reached a short list of countries. We decided which parties were impossible for each and set the potential actors,\" the Lebanese official said. \"The Americans will now decide, and could pick more than one country.\"\nIsraeli and Lebanese officials have finished three days of negotiations in Rome aimed at {{19}} security arrangements along their border and {{20}} a framework agreement reached in Washington in late June, local media reported.",
-          "cn": "真主党不是协议的当事方，并拒绝放弃其武器库。该官员拒绝透露短名单上的任何国家或数量。另一名黎巴嫩官员和两名外国外交官此前告诉路透社，以色列和美国否决了法国。“我们已经达成了一份国家短名单。我们决定了哪些方对彼此来说不可能，并设定了潜在的参与者，”黎巴嫩官员说。“美国人现在将决定，并且可能选择不止一个国家。”据当地媒体报道，以色列和黎巴嫩官员已经结束了在罗马为期三天的谈判，旨在推进两国边界的安保安排，并实施6月底在华盛顿达成的框架协议。"
+          "en": "Chad announced its withdrawal on July 27, arguing that the court's record had been {{10}} and {{11}} focused on Africa. Officials noted that six of the seven suspects currently in ICC {{12}} are linked to African cases. Venezuela announced its withdrawal three days earlier. Foreign Minister Felix Plasencia told the United Nations that the decision, ordered by Interim President Delcy Rodríguez, was \"firm and {{13}}\" and accused the court of {{14}} bias against Africa and Latin America. Under the Rome Statute, the ICC's founding treaty, a withdrawal takes effect one year after notification.",
+          "cn": "乍得于7月27日宣布退出，认为法院的记录不均衡，且过分聚焦于非洲。官员指出，目前被国际刑事法院羁押的七名嫌疑人中有六名与非洲案件有关。委内瑞拉在三天前宣布退出。外交部长费利克斯·普拉森西亚告诉联合国，由临时总统德尔西·罗德里格斯下令的这一决定是“坚定且不可撤销的”，并指责法院对非洲和拉丁美洲存在地理偏见。根据《罗马规约》（国际刑事法院的创始条约），退出在通知后一年生效。"
         },
         {
-          "en": "The talks, opposed by Hezbollah, are the seventh round of negotiations between the two governments.",
-          "cn": "这些谈判遭到真主党的反对，是两国政府之间的第七轮谈判。"
+          "en": "A departing state remains bound by its {{15}} during that period, and existing investigations and {{16}} can continue. The ICC's {{20}} into Venezuela is therefore expected to proceed regardless of the withdrawal announcement. Chad and Venezuela join Burkina Faso, Mali and Niger, which announced plans to leave the court last year. The ICC has also faced {{17}} pressure from the administration of US President Donald Trump, which has pledged a broad effort to {{18}} the court's authority. US officials have criticized the ICC over its arrest warrant for Israeli Prime Minister Benjamin Netanyahu in connection with {{19}} war crimes in Gaza, as well as the court's investigation into alleged crimes involving foreign forces, including US personnel, in Afghanistan.",
+          "cn": "退出国家在该期间内仍受其义务约束，现有调查和诉讼可以继续。因此，预计国际刑事法院对委内瑞拉的调查将不受退出公告的影响。乍得和委内瑞拉加入了去年宣布计划退出法院的布基纳法索、马里和尼日尔的行列。国际刑事法院还面临美国总统唐纳德·特朗普政府的日益增大的压力，该政府承诺采取广泛措施限制法院的权力。美国官员批评国际刑事法院对以色列总理本雅明·内塔尼亚胡发出逮捕令，该逮捕令与加沙涉嫌战争罪有关，以及法院对阿富汗涉嫌涉及外国军队（包括美国人员）的罪行的调查。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "patrol",
-          "hint": "v. 巡逻",
-          "difficulty": "medium"
+          "answer": "urged",
+          "hint": "v. 敦促",
+          "difficulty": "easy"
         },
         {
           "id": 1,
-          "answer": "designated",
-          "hint": "adj. 指定的",
+          "answer": "withdrawal",
+          "hint": "n. 退出",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "withdrawn",
-          "hint": "v. 已撤出",
+          "answer": "undermine",
+          "hint": "v. 削弱",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "progress",
-          "hint": "n. 进展",
-          "difficulty": "easy"
+          "answer": "impunity",
+          "hint": "n. 有罪不罚",
+          "difficulty": "hard"
         },
         {
           "id": 4,
-          "answer": "negotiations",
-          "hint": "n. 谈判",
-          "difficulty": "medium"
+          "answer": "concern",
+          "hint": "n. 关切",
+          "difficulty": "easy"
         },
         {
           "id": 5,
-          "answer": "addressed",
-          "hint": "v. 处理",
-          "difficulty": "medium"
+          "answer": "dialogue",
+          "hint": "n. 对话",
+          "difficulty": "easy"
         },
         {
           "id": 6,
-          "answer": "ceasefire",
-          "hint": "n. 停火",
+          "answer": "significant",
+          "hint": "adj. 重大的",
           "difficulty": "easy"
         },
         {
           "id": 7,
-          "answer": "demolition",
-          "hint": "n. 拆除",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "bulldozing",
-          "hint": "n. 推平",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "identification",
-          "hint": "n. 确定",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "administration",
-          "hint": "n. 政府",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "remaining",
-          "hint": "adj. 剩余的",
+          "answer": "established",
+          "hint": "v. 建立",
           "difficulty": "easy"
         },
         {
-          "id": 12,
-          "answer": "verify",
-          "hint": "v. 核查",
+          "id": 8,
+          "answer": "renewed",
+          "hint": "adj. 新的",
           "difficulty": "medium"
         },
         {
+          "id": 9,
+          "answer": "uneven",
+          "hint": "adj. 不均衡的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "disproportionately",
+          "hint": "adv. 不成比例地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "custody",
+          "hint": "n. 羁押",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "irrevocable",
+          "hint": "adj. 不可撤销的",
+          "difficulty": "hard"
+        },
+        {
           "id": 13,
+          "answer": "geographic",
+          "hint": "adj. 地理的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "obligations",
+          "hint": "n. 义务",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "proceedings",
+          "hint": "n. 诉讼",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "mounting",
+          "hint": "adj. 日益增大的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "curb",
+          "hint": "v. 限制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "alleged",
+          "hint": "adj. 涉嫌的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "investigation",
+          "hint": "n. 调查",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "The body that oversees the International Criminal Court (ICC) has urged Chad and Venezuela to reconsider their decisions to withdraw from the court, warning that their departures could undermine global efforts to fight impunity.\nIn a statement issued on Friday from The Hague, the Assembly of States Parties said it viewed the withdrawal announcements \"with concern\" and called on both countries to remain members of the court. The assembly encouraged them to address any concerns through dialogue within the ICC system rather than leaving the institution.\nThe appeal comes as the court faces its most significant wave of withdrawal announcements since it was established in 2002. Five countries have said they intend to leave the ICC since last year, amid renewed international pressure on the tribunal.\nChad announced its withdrawal on July 27, arguing that the court's record had been uneven and disproportionately focused on Africa. Officials noted that six of the seven suspects currently in ICC custody are linked to African cases.\nVenezuela announced its withdrawal three days earlier. Foreign Minister Felix Plasencia told the United Nations that the decision, ordered by Interim President Delcy Rodríguez, was \"firm and irrevocable\" and accused the court of geographic bias against Africa and Latin America.\nUnder the Rome Statute, the ICC's founding treaty, a withdrawal takes effect one year after notification.\nA departing state remains bound by its obligations during that period, and existing investigations and proceedings can continue.\nThe ICC's investigation into Venezuela is therefore expected to proceed regardless of the withdrawal announcement.\nChad and Venezuela join Burkina Faso, Mali and Niger, which announced plans to leave the court last year.\nThe ICC has also faced mounting pressure from the administration of US President Donald Trump, which has pledged a broad effort to curb the court's authority.\nUS officials have criticized the ICC over its arrest warrant for Israeli Prime Minister Benjamin Netanyahu in connection with alleged war crimes in Gaza, as well as the court's investigation into alleged crimes involving foreign forces, including US personnel, in Afghanistan.",
+      "fullTextCn": "负责监督国际刑事法院的机构已敦促乍得和委内瑞拉重新考虑退出法院的决定，警告称它们的退出可能削弱全球打击有罪不罚的努力。缔约国大会周五在海牙发表声明，表示对退出公告“表示关切”，并呼吁两国继续留在法院。大会鼓励它们通过国际刑事法院体系内的对话解决任何关切，而不是离开该机构。这一呼吁发出之际，法院正面临自2002年成立以来最大规模的退出公告浪潮。自去年以来，已有五个国家表示打算退出国际刑事法院，而该法庭正面临新的国际压力。\n\n乍得于7月27日宣布退出，认为法院的记录不均衡，且过分聚焦于非洲。官员指出，目前被国际刑事法院羁押的七名嫌疑人中有六名与非洲案件有关。委内瑞拉在三天前宣布退出。外交部长费利克斯·普拉森西亚告诉联合国，由临时总统德尔西·罗德里格斯下令的这一决定是“坚定且不可撤销的”，并指责法院对非洲和拉丁美洲存在地理偏见。根据《罗马规约》（国际刑事法院的创始条约），退出在通知后一年生效。\n\n退出国家在该期间内仍受其义务约束，现有调查和诉讼可以继续。因此，预计国际刑事法院对委内瑞拉的调查将不受退出公告的影响。乍得和委内瑞拉加入了去年宣布计划退出法院的布基纳法索、马里和尼日尔的行列。国际刑事法院还面临美国总统唐纳德·特朗普政府的日益增大的压力，该政府承诺采取广泛措施限制法院的权力。美国官员批评国际刑事法院对以色列总理本雅明·内塔尼亚胡发出逮捕令，该逮捕令与加沙涉嫌战争罪有关，以及法院对阿富汗涉嫌涉及外国军队（包括美国人员）的罪行的调查。"
+    },
+    {
+      "id": 5,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-05/T-rkiye-s-ruling-alliance-presents-legal-framework-for-PKK-disarmament-1PmNdJjm3OU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Türkiye's ruling alliance presents legal framework for PKK disarmament",
+      "titleCn": "土耳其执政联盟提出库尔德工人党解除武装的法律框架",
+      "summary": "Türkiye's ruling alliance presents legal framework for PKK disarmament",
+      "summaryCn": "土耳其执政联盟提交立法草案，为库尔德工人党解除武装提供法律依据，但排除高层领导人和严重罪犯。",
+      "wordCount": 287,
+      "paragraphs": [
+        {
+          "en": "Türkiye's ruling {{0}} said Wednesday it had submitted draft legislation to parliament to establish a legal {{1}} for {{2}} the Kurdistan Workers' Party (PKK)'s {{3}}, a key step in advancing the government's initiative to end PKK {{4}}. The draft legislation has been {{5}} by President Recep Tayyip Erdogan's Justice and Development Party (AKP) and its ally, and has also received {{6}} from the pro-Kurdish DEM Party and other opposition groups, Abdullah Guler, a leading AKP lawmaker, told reporters. According to the government, the proposed legislation is designed to {{7}} the disarmament process rather than grant a general {{8}}. It would allow lower-ranking PKK members who have not been involved in killings or other serious violent crimes to return to Türkiye from {{9}} in northern Iraq and Syria under {{10}} legal conditions. Inmates who were not directly involved in armed attacks or bombings could become {{11}} for release or {{12}} {{13}} under the proposed legal framework, while imprisoned PKK founder Abdullah Ocalan, senior PKK leaders and inmates serving aggravated life sentences are {{14}}. The draft must first be {{15}} by a parliamentary committee before being put to a vote in the General Assembly, where lawmakers are expected to debate the bill before parliament begins its summer recess later this month. The PKK, which has {{16}} an insurgency against the Turkish state since 1984, announced in May 2025 its decision to disarm and {{17}}, following a call by Ocalan to end the armed struggle. The decades-long conflict has claimed more than 40,000 lives. (Cover: Members of Kurdistan Workers' Party (PKK) dance as they celebrate the Nowruz New Year festival in the Qandil Mountains, part of the Zagros mountain range, near the Iraqi-Iranian-Turkish borders, northeastern Iraq on March 21, 2026.",
+          "cn": "土耳其执政联盟周三表示，已向议会提交立法草案，旨在建立实施库尔德工人党（PKK）解除武装的法律框架，这是推进政府终结库尔德工人党叛乱倡议的关键一步。执政党正义与发展党（AKP）及其盟友支持该草案，并获得了亲库尔德的人民平等与民主党（DEM）及其他反对派团体的支持，执政党议员阿卜杜拉·居勒告诉记者。据政府称，拟议立法旨在促进解除武装进程，而非给予全面大赦。该法案将允许未参与杀戮或其他严重暴力犯罪的低级库尔德工人党成员，在特定法律条件下从伊拉克北部和叙利亚的藏身地返回土耳其。根据拟议法律框架，未直接参与武装袭击或爆炸事件的囚犯可能有资格获释或接受监督缓刑，而库尔德工人党创始人阿卜杜拉·奥贾兰、高级领导人和被判加重终身监禁的囚犯则被排除在外。草案必须先经议会委员会批准，然后提交大国民议会表决，预计议员们将在本月晚些时候议会夏季休会前就该法案进行辩论。自1984年以来一直对土耳其国家发动叛乱的库尔德工人党，在奥贾兰呼吁结束武装斗争后，于2025年5月宣布决定解除武装并解散。这场持续数十年的冲突已夺去超过4万人的生命。（封面：2026年3月21日，伊拉克东北部，靠近伊拉克-伊朗-土耳其边境的扎格罗斯山脉坎迪尔山区，库尔德工人党成员跳舞庆祝诺鲁孜新年节日。）"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "alliance",
+          "hint": "n. 联盟",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "framework",
+          "hint": "n. 框架",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "implementing",
+          "hint": "v. 实施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
           "answer": "disarmament",
           "hint": "n. 解除武装",
           "difficulty": "hard"
         },
         {
-          "id": 14,
-          "answer": "brokered",
-          "hint": "adj. 斡旋的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "declined",
-          "hint": "v. 拒绝",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "identify",
-          "hint": "v. 确认",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "vetoed",
-          "hint": "v. 否决",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "advancing",
-          "hint": "v. 推进",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "implementing",
-          "hint": "v. 实施",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "Lebanese soldiers patrol Zawtar al Gharbiya, a designated pilot zone under the ceasefire agreement between Lebanon and Israel from which Israeli forces have withdrawn, southern Lebanon, August 5, 2026. \nLebanese President Joseph Aoun said on Friday that progress had been made on border issues and the return of prisoners during the latest negotiations between Lebanon and Israel in Rome.\nSpeaking at a cabinet session, Aoun said the Rome talks addressed four main issues: a ceasefire, the demolition and bulldozing of houses, the border, and the return of prisoners and the identification of pilot areas, according to a statement released by the Lebanese presidency.\nAoun said \"positive progress\" had been made on the border and prisoners' issues, expressing hope that practical steps would emerge soon, the statement said.\nHe said the US administration would work to address the remaining issues of a ceasefire and pilot areas, adding that US General Joseph Clearfield would arrive in Beirut soon to follow up on these matters.\nLebanon and Israel have also agreed on a shortlist of countries that could send troops to verify the disarmament of Hezbollah under a US-brokered agreement, with the United States due to pick countries from the list, Reuters reported on Friday, citing a Lebanese official.\nHezbollah is not a party to the agreement and has refused to give up its arsenal.\nThe official declined to identify any of the countries on the shortlist or say how many there were. Another Lebanese official and two foreign diplomats have previously told Reuters that Israel and the United States had vetoed France.\n\"We have reached a short list of countries. We decided which parties were impossible for each and set the potential actors,\" the Lebanese official said. \"The Americans will now decide, and could pick more than one country.\"\nIsraeli and Lebanese officials have finished three days of negotiations in Rome aimed at advancing security arrangements along their border and implementing a framework agreement reached in Washington in late June, local media reported. The talks, opposed by Hezbollah, are the seventh round of negotiations between the two governments.",
-      "fullTextCn": "黎巴嫩士兵在黎巴嫩南部扎瓦塔尔·加尔比亚巡逻，这是根据黎巴嫩与以色列停火协议指定的试点区，以色列军队已从中撤出，摄于2026年8月5日。黎巴嫩总统约瑟夫·奥恩周五表示，在罗马举行的最新黎巴嫩与以色列谈判中，边界问题和囚犯返回问题取得了进展。根据黎巴嫩总统府发布的声明，奥恩在内阁会议上表示，罗马会谈讨论了四个主要问题：停火、房屋拆除和推平、边界，以及囚犯返回和试点区的确定。声明称，奥恩表示在边界和囚犯问题上取得了“积极进展”，并希望很快能出现切实步骤。他说，美国政府将努力解决剩余的停火和试点区问题，并补充说，美国将军约瑟夫·克利尔菲尔德将很快抵达贝鲁特跟进这些事务。据路透社周五援引一名黎巴嫩官员的话报道，黎巴嫩和以色列还就一份国家短名单达成一致，这些国家可能派遣部队核查真主党在美国斡旋的协议下的解除武装情况，美国将从名单中挑选国家。\n\n真主党不是协议的当事方，并拒绝放弃其武器库。该官员拒绝透露短名单上的任何国家或数量。另一名黎巴嫩官员和两名外国外交官此前告诉路透社，以色列和美国否决了法国。“我们已经达成了一份国家短名单。我们决定了哪些方对彼此来说不可能，并设定了潜在的参与者，”黎巴嫩官员说。“美国人现在将决定，并且可能选择不止一个国家。”据当地媒体报道，以色列和黎巴嫩官员已经结束了在罗马为期三天的谈判，旨在推进两国边界的安保安排，并实施6月底在华盛顿达成的框架协议。\n\n这些谈判遭到真主党的反对，是两国政府之间的第七轮谈判。"
-    },
-    {
-      "id": 4,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-06/128-local-assemblies-urge-Takaichi-to-uphold-non-nuclear-principles-1PnBIJI8o9i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "128 local assemblies urge Takaichi to uphold non-nuclear principles",
-      "titleCn": "128个地方议会敦促高市遵守无核三原则",
-      "summary": "Since Prime Minister Sanae Takaichi took office in October last year, at least 128 local assemblies from 36 prefectures across Japan have submitted written opinions to the Diet, Japan's parliament, urging the government to uphold the country's Three Non-Nuclear Principles, local media reported on Wednesday.",
-      "summaryCn": "日本128个地方议会提交书面意见，敦促政府维持无核三原则，创历史新高，引发社会广泛关注。",
-      "wordCount": 310,
-      "paragraphs": [
-        {
-          "en": "Representatives of Hiroshima's children offer flowers at the Peace Memorial Ceremony held at the Peace Memorial Park in Hiroshima, Japan, August 6, 2026. Since Prime Minister Sanae Takaichi took office in October last year, at least 128 local {{0}} from 36 prefectures across Japan have {{3}} written opinions to the Diet, Japan's {{4}}, urging the government to {{2}} the country's Three Non-Nuclear Principles, local media reported on Wednesday. The figure marks a {{5}} high for statements calling for the Three Non-Nuclear Principles to be {{6}} since the Diet began accepting written opinions from local assemblies in July 2000, according to Tokyo Shimbun. The report said that as the Takaichi government plans to {{7}} Japan's three key {{8}} {{9}} by the end of this year, whether the Three Non-Nuclear Principles will be changed has drawn {{10}}. The prefectural assemblies of Nagasaki and Hiroshima and the city assembly of Hiroshima have previously {{11}} adopted statements urging the principles to be {{12}} to.",
-          "cn": "广岛儿童代表在2026年8月6日于广岛和平纪念公园举行的和平纪念仪式上献花。据当地媒体周三报道，自去年10月首相高市早苗上任以来，日本全国36个都道府县至少128个地方议会已向国会提交书面意见，敦促政府维护国家的无核三原则。据《东京新闻》报道，这一数字创下了自2000年7月国会开始接受地方议会书面意见以来，呼吁维持无核三原则的声明数量的历史新高。报道称，随着高市政府计划在今年年底前修订日本三项关键安全文件，无核三原则是否会改变已引起关注。长崎县、广岛县议会及广岛市议会此前已一致通过声明，敦促遵守这些原则。"
-        },
-        {
-          "en": "Local assemblies in Hakodate City and Shinhidaka Town in Hokkaido have called for the principles to be {{13}} in law. The report also noted that as the only country in the world to have {{14}} {{15}} bombings, Japan has long regarded the Three Non-Nuclear Principles as a key {{16}} of its {{17}} identity. Michiru Nishida, a professor at Nagasaki University, said that compared with previous governments, the Takaichi administration's {{18}} on upholding the principles is not {{19}} clear. Japan's Three Non-Nuclear Principles, which {{20}} {{21}}, producing or {{22}} the {{23}} of nuclear weapons into Japanese territory, were formally adopted by the Japanese parliament in 1971 and have since become the {{24}} of the country's nuclear policy. Local media previously reported that the Takaichi government was {{25}} revising the principle prohibiting the introduction of nuclear weapons into Japan.",
-          "cn": "北海道函馆市和新日高町的地方议会呼吁将这些原则写入法律。报道还指出，作为世界上唯一遭受原子弹轰炸的国家，日本长期以来将无核三原则视为其和平主义身份的关键支柱。长崎大学教授西田充表示，与历届政府相比，高市当局在维护这些原则上的立场不够明确。日本的无核三原则禁止拥有、生产或允许核武器进入日本领土，于1971年由日本国会正式通过，此后成为该国核政策的基石。当地媒体此前报道称，高市政府正在考虑修订禁止核武器进入日本的这一原则。"
-        },
-        {
-          "en": "The reported move has {{26}} widespread concern among various sectors of Japanese society.",
-          "cn": "据报道，这一动向已引发日本社会各界广泛担忧。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "assemblies",
-          "hint": "n. 议会",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "uphold",
-          "hint": "v. 维护",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "submitted",
-          "hint": "v. 提交",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "parliament",
-          "hint": "n. 国会",
-          "difficulty": "easy"
-        },
-        {
           "id": 4,
-          "answer": "record",
-          "hint": "n. 纪录",
-          "difficulty": "easy"
+          "answer": "insurgency",
+          "hint": "n. 叛乱",
+          "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "maintained",
-          "hint": "v. 维持",
+          "answer": "endorsed",
+          "hint": "v. 支持，认可",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "revise",
-          "hint": "v. 修订",
+          "answer": "backing",
+          "hint": "n. 支持",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "security",
-          "hint": "n. 安全",
-          "difficulty": "easy"
+          "answer": "facilitate",
+          "hint": "v. 促进",
+          "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "documents",
-          "hint": "n. 文件",
-          "difficulty": "easy"
+          "answer": "amnesty",
+          "hint": "n. 大赦",
+          "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "attention",
-          "hint": "n. 关注",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "unanimously",
-          "hint": "adv. 一致地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "adhered",
-          "hint": "v. 遵守",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "enshrined",
-          "hint": "v. 载入",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "suffered",
-          "hint": "v. 遭受",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "atomic",
-          "hint": "adj. 原子的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "pillar",
-          "hint": "n. 支柱",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "pacifist",
-          "hint": "adj. 和平主义的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "stance",
-          "hint": "n. 立场",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "sufficiently",
-          "hint": "adv. 充分地",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "prohibit",
-          "hint": "v. 禁止",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "possessing",
-          "hint": "v. 拥有",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "permitting",
-          "hint": "v. 允许",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "introduction",
-          "hint": "n. 引入",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "cornerstone",
-          "hint": "n. 基石",
-          "difficulty": "hard"
-        },
-        {
-          "id": 24,
-          "answer": "considering",
-          "hint": "v. 考虑",
-          "difficulty": "easy"
-        },
-        {
-          "id": 25,
-          "answer": "sparked",
-          "hint": "v. 引发",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "Representatives of Hiroshima's children offer flowers at the Peace Memorial Ceremony held at the Peace Memorial Park in Hiroshima, Japan, August 6, 2026. \nSince Prime Minister Sanae Takaichi took office in October last year, at least 128 local assemblies from 36 prefectures across Japan have submitted written opinions to the Diet, Japan's parliament, urging the government to uphold the country's Three Non-Nuclear Principles, local media reported on Wednesday.\nThe figure marks a record high for statements calling for the Three Non-Nuclear Principles to be maintained since the Diet began accepting written opinions from local assemblies in July 2000, according to Tokyo Shimbun.\nThe report said that as the Takaichi government plans to revise Japan's three key security documents by the end of this year, whether the Three Non-Nuclear Principles will be changed has drawn attention.\nThe prefectural assemblies of Nagasaki and Hiroshima and the city assembly of Hiroshima have previously unanimously adopted statements urging the principles to be adhered to. Local assemblies in Hakodate City and Shinhidaka Town in Hokkaido have called for the principles to be enshrined in law.\nThe report also noted that as the only country in the world to have suffered atomic bombings, Japan has long regarded the Three Non-Nuclear Principles as a key pillar of its pacifist identity.\nMichiru Nishida, a professor at Nagasaki University, said that compared with previous governments, the Takaichi administration's stance on upholding the principles is not sufficiently clear.\nJapan's Three Non-Nuclear Principles, which prohibit possessing, producing or permitting the introduction of nuclear weapons into Japanese territory, were formally adopted by the Japanese parliament in 1971 and have since become the cornerstone of the country's nuclear policy.\nLocal media previously reported that the Takaichi government was considering revising the principle prohibiting the introduction of nuclear weapons into Japan. The reported move has sparked widespread concern among various sectors of Japanese society.",
-      "fullTextCn": "广岛儿童代表在2026年8月6日于广岛和平纪念公园举行的和平纪念仪式上献花。据当地媒体周三报道，自去年10月首相高市早苗上任以来，日本全国36个都道府县至少128个地方议会已向国会提交书面意见，敦促政府维护国家的无核三原则。据《东京新闻》报道，这一数字创下了自2000年7月国会开始接受地方议会书面意见以来，呼吁维持无核三原则的声明数量的历史新高。报道称，随着高市政府计划在今年年底前修订日本三项关键安全文件，无核三原则是否会改变已引起关注。长崎县、广岛县议会及广岛市议会此前已一致通过声明，敦促遵守这些原则。\n\n北海道函馆市和新日高町的地方议会呼吁将这些原则写入法律。报道还指出，作为世界上唯一遭受原子弹轰炸的国家，日本长期以来将无核三原则视为其和平主义身份的关键支柱。长崎大学教授西田充表示，与历届政府相比，高市当局在维护这些原则上的立场不够明确。日本的无核三原则禁止拥有、生产或允许核武器进入日本领土，于1971年由日本国会正式通过，此后成为该国核政策的基石。当地媒体此前报道称，高市政府正在考虑修订禁止核武器进入日本的这一原则。\n\n据报道，这一动向已引发日本社会各界广泛担忧。"
-    },
-    {
-      "id": 5,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-06/US-federal-judge-allows-Trump-administration-to-end-TPS-for-Haitians-1PnDeykPsK4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "US federal judge allows Trump administration to end TPS for Haitians",
-      "titleCn": "美国联邦法官允许特朗普政府终止海地人的临时保护身份",
-      "summary": "A federal judge in Washington DC on Wednesday allowed the Trump administration to terminate temporary protected status (TPS) for approximately 350,000 Haitians – a decision that places them at risk of deportation to a Caribbean nation where hunger is considered alarming.",
-      "summaryCn": "美国联邦法官允许特朗普政府终止约35万海地人的临时保护身份，使其面临被驱逐至海地的风险。",
-      "wordCount": 242,
-      "paragraphs": [
-        {
-          "en": "A federal judge in Washington DC on Wednesday allowed the Trump administration to {{0}} {{1}} protected status (TPS) for {{2}} 350,000 Haitians – a decision that places them at {{28}} of {{3}} to a Caribbean nation where hunger is considered {{4}}. US District Judge Ana C. Reyes from the US District Court for the District of Columbia previously {{5}} the administration from terminating TPS {{6}} for Haitians, and a federal {{7}} court later {{8}} that block. But the US Supreme Court ruled in June by a 6-3 vote that TPS {{9}} are not subject to {{10}} review under federal law, which could {{11}} immigrants from Haiti, Syria and other countries that the US State Department considers highly dangerous. Reyes {{12}} her decision in light of the Supreme Court's ruling, saying in her new {{26}} on Wednesday that \"the Supreme Court's {{25}} reversed the judgment of this Court in this Court's Order dated February 2, 2026,\" and therefore the court's order {{13}} the termination of Haiti's TPS status \"is no longer in {{27}}.\"\nAbout 200,000 Haitians with TPS hold jobs, with large {{14}} of workers in health care, food service, {{15}}, {{16}} and long-term {{17}}, according to an analysis of government data by the immigration {{18}} group FWD.us, as cited by The Washington Post. The US Department of State {{19}} Haiti as a Level 4 destination, its highest risk {{20}} level, citing the risk of crime, {{21}}, {{22}}, {{23}} and {{24}} health care.",
-          "cn": "华盛顿特区的一名联邦法官周三允许特朗普政府终止约35万海地人的临时保护身份（TPS）——这一决定使他们面临被驱逐至一个饥饿问题令人担忧的加勒比国家的风险。美国哥伦比亚特区联邦地区法院的法官安娜·C·雷耶斯此前曾阻止政府终止对海地人的TPS保护，联邦上诉法院后来也维持了这一阻止。但美国最高法院在6月以6比3的投票裁定，TPS决定不受联邦法律下的司法审查，这可能影响来自海地、叙利亚及其他美国国务院认为高度危险的国家的移民。雷耶斯根据最高法院的裁决推翻了她的决定，在周三的新命令中表示，“最高法院的判决推翻了本法院在2026年2月2日命令中的判决”，因此法院暂停终止海地TPS身份的命令“不再有效”。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "terminate",
-          "hint": "v. 终止",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "temporary",
-          "hint": "adj. 临时的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "approximately",
-          "hint": "adv. 大约",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "deportation",
-          "hint": "n. 驱逐出境",
-          "difficulty": "hard"
-        },
-        {
-          "id": 4,
-          "answer": "alarming",
-          "hint": "adj. 令人担忧的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "blocked",
-          "hint": "v. 阻止",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "protections",
-          "hint": "n. 保护",
-          "difficulty": "easy"
-        },
-        {
-          "id": 7,
-          "answer": "appellate",
-          "hint": "adj. 上诉的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "upheld",
-          "hint": "v. 维持",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "determinations",
-          "hint": "n. 决定",
+          "answer": "hideouts",
+          "hint": "n. 藏身处",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "judicial",
-          "hint": "adj. 司法的",
+          "answer": "specified",
+          "hint": "adj. 特定的",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "impact",
-          "hint": "v. 影响",
-          "difficulty": "easy"
+          "answer": "eligible",
+          "hint": "adj. 有资格的",
+          "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "reversed",
-          "hint": "v. 推翻",
+          "answer": "supervised",
+          "hint": "adj. 受监督的",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "pausing",
-          "hint": "v. 暂停",
-          "difficulty": "medium"
+          "answer": "probation",
+          "hint": "n. 缓刑",
+          "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "concentrations",
-          "hint": "n. 集中",
+          "answer": "excluded",
+          "hint": "v. 排除",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "warehousing",
-          "hint": "n. 仓储",
-          "difficulty": "medium"
+          "answer": "approved",
+          "hint": "v. 批准",
+          "difficulty": "easy"
         },
         {
           "id": 16,
-          "answer": "retail",
-          "hint": "n. 零售",
-          "difficulty": "easy"
+          "answer": "waged",
+          "hint": "v. 发动（战争）",
+          "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "caregiving",
-          "hint": "n. 护理",
+          "answer": "disband",
+          "hint": "v. 解散",
           "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "advocacy",
-          "hint": "n. 倡导",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "classifies",
-          "hint": "v. 分类",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "advisory",
-          "hint": "adj. 咨询的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "kidnapping",
-          "hint": "n. 绑架",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "terrorism",
-          "hint": "n. 恐怖主义",
-          "difficulty": "easy"
-        },
-        {
-          "id": 23,
-          "answer": "unrest",
-          "hint": "n. 动荡",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "limited",
-          "hint": "adj. 有限的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 25,
-          "answer": "judgment",
-          "hint": "n. 判决",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "order",
-          "hint": "n. 命令",
-          "difficulty": "easy"
-        },
-        {
-          "id": 27,
-          "answer": "effect",
-          "hint": "n. 效力",
-          "difficulty": "easy"
-        },
-        {
-          "id": 28,
-          "answer": "risk",
-          "hint": "n. 风险",
-          "difficulty": "easy"
         }
       ],
-      "fullText": "A federal judge in Washington DC on Wednesday allowed the Trump administration to terminate temporary protected status (TPS) for approximately 350,000 Haitians – a decision that places them at risk of deportation to a Caribbean nation where hunger is considered alarming.\nUS District Judge Ana C. Reyes from the US District Court for the District of Columbia previously blocked the administration from terminating TPS protections for Haitians, and a federal appellate court later upheld that block.\nBut the US Supreme Court ruled in June by a 6-3 vote that TPS determinations are not subject to judicial review under federal law, which could impact immigrants from Haiti, Syria and other countries that the US State Department considers highly dangerous.\nReyes reversed her decision in light of the Supreme Court's ruling, saying in her new order on Wednesday that \"the Supreme Court's judgment reversed the judgment of this Court in this Court's Order dated February 2, 2026,\" and therefore the court's order pausing the termination of Haiti's TPS status \"is no longer in effect.\"\nAbout 200,000 Haitians with TPS hold jobs, with large concentrations of workers in health care, food service, warehousing, retail and long-term caregiving, according to an analysis of government data by the immigration advocacy group FWD.us, as cited by The Washington Post.\nThe US Department of State classifies Haiti as a Level 4 destination, its highest risk advisory level, citing the risk of crime, kidnapping, terrorism, unrest and limited health care.",
-      "fullTextCn": "华盛顿特区的一名联邦法官周三允许特朗普政府终止约35万海地人的临时保护身份（TPS）——这一决定使他们面临被驱逐至一个饥饿问题令人担忧的加勒比国家的风险。美国哥伦比亚特区联邦地区法院的法官安娜·C·雷耶斯此前曾阻止政府终止对海地人的TPS保护，联邦上诉法院后来也维持了这一阻止。但美国最高法院在6月以6比3的投票裁定，TPS决定不受联邦法律下的司法审查，这可能影响来自海地、叙利亚及其他美国国务院认为高度危险的国家的移民。雷耶斯根据最高法院的裁决推翻了她的决定，在周三的新命令中表示，“最高法院的判决推翻了本法院在2026年2月2日命令中的判决”，因此法院暂停终止海地TPS身份的命令“不再有效”。\n\n根据移民倡导组织FWD.us对政府数据的分析（《华盛顿邮报》引用），约有20万持有TPS的海地人拥有工作，其中大量工人集中在医疗保健、食品服务、仓储、零售和长期护理领域。美国国务院将海地列为4级目的地，即其最高风险咨询级别，理由是犯罪、绑架、恐怖主义、动荡和有限的医疗保健风险。"
+      "fullText": "Türkiye's ruling alliance said Wednesday it had submitted draft legislation to parliament to establish a legal framework for implementing the Kurdistan Workers' Party (PKK)'s disarmament, a key step in advancing the government's initiative to end PKK insurgency.\nThe draft legislation has been endorsed by President Recep Tayyip Erdogan's Justice and Development Party (AKP) and its ally, and has also received backing from the pro-Kurdish DEM Party and other opposition groups, Abdullah Guler, a leading AKP lawmaker, told reporters.\nAccording to the government, the proposed legislation is designed to facilitate the disarmament process rather than grant a general amnesty.\nIt would allow lower-ranking PKK members who have not been involved in killings or other serious violent crimes to return to Türkiye from hideouts in northern Iraq and Syria under specified legal conditions.\nInmates who were not directly involved in armed attacks or bombings could become eligible for release or supervised probation under the proposed legal framework, while imprisoned PKK founder Abdullah Ocalan, senior PKK leaders and inmates serving aggravated life sentences are excluded.\nThe draft must first be approved by a parliamentary committee before being put to a vote in the General Assembly, where lawmakers are expected to debate the bill before parliament begins its summer recess later this month.\nThe PKK, which has waged an insurgency against the Turkish state since 1984, announced in May 2025 its decision to disarm and disband, following a call by Ocalan to end the armed struggle. The decades-long conflict has claimed more than 40,000 lives.\n(Cover: Members of Kurdistan Workers' Party (PKK) dance as they celebrate the Nowruz New Year festival in the Qandil Mountains, part of the Zagros mountain range, near the Iraqi-Iranian-Turkish borders, northeastern Iraq on March 21, 2026.",
+      "fullTextCn": "土耳其执政联盟周三表示，已向议会提交立法草案，旨在建立实施库尔德工人党（PKK）解除武装的法律框架，这是推进政府终结库尔德工人党叛乱倡议的关键一步。执政党正义与发展党（AKP）及其盟友支持该草案，并获得了亲库尔德的人民平等与民主党（DEM）及其他反对派团体的支持，执政党议员阿卜杜拉·居勒告诉记者。据政府称，拟议立法旨在促进解除武装进程，而非给予全面大赦。该法案将允许未参与杀戮或其他严重暴力犯罪的低级库尔德工人党成员，在特定法律条件下从伊拉克北部和叙利亚的藏身地返回土耳其。根据拟议法律框架，未直接参与武装袭击或爆炸事件的囚犯可能有资格获释或接受监督缓刑，而库尔德工人党创始人阿卜杜拉·奥贾兰、高级领导人和被判加重终身监禁的囚犯则被排除在外。草案必须先经议会委员会批准，然后提交大国民议会表决，预计议员们将在本月晚些时候议会夏季休会前就该法案进行辩论。自1984年以来一直对土耳其国家发动叛乱的库尔德工人党，在奥贾兰呼吁结束武装斗争后，于2025年5月宣布决定解除武装并解散。这场持续数十年的冲突已夺去超过4万人的生命。（封面：2026年3月21日，伊拉克东北部，靠近伊拉克-伊朗-土耳其边境的扎格罗斯山脉坎迪尔山区，库尔德工人党成员跳舞庆祝诺鲁孜新年节日。）"
     }
   ]
 }
