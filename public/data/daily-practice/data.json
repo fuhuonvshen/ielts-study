@@ -1,207 +1,40 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "articles": [
     {
       "id": 1,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-06/SpaceX-rocket-stage-crashes-into-moon-scientists-confirm-1PnQgHAuqAM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "SpaceX rocket stage crashes into moon, scientists confirm",
-      "titleCn": "SpaceX火箭级撞上月球，科学家证实",
-      "summary": "A SpaceX rocket stage floating in space since last year smashed into the moon at high speed early Wednesday morning, joining the ranks of meteoroids, wayward spacecraft ​and other pieces of space junk that have bombarded the lunar surface for ages, astronomers confirmed.",
-      "summaryCn": "SpaceX的猎鹰9号火箭上级在2026年8月5日意外撞击月球，引发对太空垃圾和未来月球任务安全的关注。",
-      "wordCount": 759,
-      "paragraphs": [
-        {
-          "en": "The moon during the morning hours as German astronomers observe the moon surface from their platform of the Observatory Kassel during an international observation campaign following the predicted impact of a SpaceX Falcon 9 upper stage near the lunar Einstein crater, August 5, 2026. A SpaceX rocket stage floating in space since last year {{0}} into the moon at high speed early Wednesday morning, joining the ranks of meteoroids, wayward spacecraft and other pieces of space junk that have {{1}} the lunar surface for ages, astronomers confirmed. The school-bus-size object is the second stage of a SpaceX Falcon 9 rocket that launched a lunar lander from Firefly Aerospace toward the moon in January 2025. While the rocket's booster returned to Earth, the upper stage remained in space after completing its primary mission. The unintentional collision occurred at around 2:35 a.m.",
-          "cn": "2026年8月5日早晨，德国天文学家在卡塞尔天文台平台上观测月球表面，这是针对SpaceX猎鹰9号火箭上级预计撞击月球爱因斯坦陨石坑附近后进行的国际观测活动。天文学家证实，一枚自去年起漂浮在太空中的SpaceX火箭级于周三凌晨高速撞上月球，加入了长期以来轰击月球表面的流星体、偏离轨道的航天器和其他太空垃圾的行列。这个校车大小的物体是SpaceX猎鹰9号火箭的第二级，该火箭于2025年1月将萤火虫航空航天公司的月球着陆器送往月球。虽然火箭的助推器返回了地球，但上级在完成其主要任务后仍留在太空中。这次意外碰撞发生在凌晨2点35分左右。"
-        },
-        {
-          "en": "ET (0635 GMT), when the 4,000-kilogram rocket stage slammed into the moon at a speed of about 8,690 kilometers per hour. The impact had been predicted months in advance by astronomers tracking the object's {{2}}. A SpaceX Falcon 9 rocket lifts off from pad 39A with a payload of a pair of lunar landers at the Kennedy Space Center in Cape Canaveral, Florida, the US, January 15, 2025. The crash {{3}} no threat to Earth, and no spacecraft orbiting the moon were positioned to capture close-up images of the impact. But the European Southern Observatory's (ESO) Very Large Telescope in Chile detected {{4}} of light associated with the impact.",
-          "cn": "美国东部时间（格林尼治标准时间0635）凌晨2点35分左右，这个4000公斤重的火箭级以约8690公里/小时的速度撞击月球。这次撞击在数月前就被追踪该物体轨迹的天文学家预测到了。2025年1月15日，一枚SpaceX猎鹰9号火箭携带一对月球着陆器从美国佛罗里达州卡纳维拉尔角肯尼迪航天中心的39A发射台升空。这次撞击对地球没有威胁，而且月球轨道上也没有航天器能够拍摄到撞击的近距离图像。但智利的欧洲南方天文台（ESO）甚大望远镜探测到了与撞击相关的闪光。"
-        },
-        {
-          "en": "\"We can confirm that the telescope detected {{5}} lines of sodium and lithium gas in the impact {{6}} lasting for 5-10 minutes after impact,\" an ESO spokesperson told Reuters. NASA's Lunar Reconnaissance Orbiter probe and South Korea's Pathfinder Lunar Orbiter were also expected to take images of the impact site, though it could take days to receive that information. The event comes as SpaceX continues to expand its space operations and commercial activities. In its first quarterly report since going public in June, the company reported strong {{7}} growth, with revenue reaching $7.8 billion, up more than 90% from a year earlier. Starlink revenue, which accounted for over half of total revenue, rose 66%, and revenue from SpaceX's AI business – which Musk has pitched as the company's future growth driver – {{8}} about 250%.",
-          "cn": "“我们可以确认，望远镜在撞击后5到10分钟内探测到了撞击羽流中的钠和锂气体光谱线，”ESO发言人告诉路透社。美国宇航局的月球勘测轨道飞行器探测器和韩国的探路者月球轨道器预计也将拍摄撞击地点的图像，尽管可能需要几天时间才能收到这些信息。这一事件发生之际，SpaceX正继续扩大其太空运营和商业活动。在6月上市以来的首份季度报告中，该公司报告了强劲的收入增长，收入达到78亿美元，同比增长超过90%。占其总收入一半以上的星链收入增长了66%，而SpaceX的人工智能业务（马斯克将其定位为公司未来的增长驱动力）的收入激增了约250%。"
-        },
-        {
-          "en": "However, the stock fell by as much as 8% in after-hours trading following the release, as investors reacted to a sharp increase in capital {{9}}, driven largely by AI infrastructure investments. Space junk raising concern\nSpace {{14}} has become a growing concern as more satellites and spacecraft enter orbit. Experts have warned that {{10}} too much space junk around Earth could lead to a dangerous {{11}} reaction of collisions known as the \"Kessler syndrome.\"\nGenerally on such missions, SpaceX performs a {{12}} to make sure the second stage \"is safe per the appropriate rules and regulations,\" said Julianna Scheiman, director of NASA Science and Dragon Programs at SpaceX, at a Monday news conference. \"We did that,\" she continued, but \"what has happened is essentially a {{13}} of solar activity and gravity forces have put it on a path towards the moon.\"\nThe rocket stage was just one of tens of thousands of pieces of human-made debris currently orbiting Earth. While the moon is constantly bombarded by natural objects such as meteoroids, impacts from artificial spacecraft remain relatively uncommon.",
-          "cn": "然而，财报发布后，该股在盘后交易中下跌了多达8%，因为投资者对资本支出的大幅增加做出了反应，这主要是由人工智能基础设施投资推动的。太空垃圾引发担忧。随着越来越多的卫星和航天器进入轨道，太空碎片已成为一个日益令人担忧的问题。专家警告说，地球周围积累过多的太空垃圾可能导致危险的连锁碰撞反应，即所谓的“凯斯勒综合征”。SpaceX负责NASA科学和龙飞船项目的总监朱莉安娜·谢曼在周一的新闻发布会上表示，通常在此类任务中，SpaceX会进行机动，以确保第二级“符合相关规则和法规的安全要求”。“我们做到了，”她继续说，但“发生的事情基本上是太阳活动和引力作用的结合，使其走上了通往月球的路径。”这个火箭级只是目前绕地球运行的数万块人造碎片之一。虽然月球不断受到流星体等自然物体的轰击，但人造航天器的撞击仍然相对罕见。"
-        },
-        {
-          "en": "NASA and SpaceX are discussing ways to prevent future lunar impacts, Scheiman said. Under NASA's multibillion-dollar Artemis program, the US space agency plans to build a lunar base and send routine astronaut missions to the lunar surface later this decade. Protecting future spacecraft, equipment and lunar habitats from {{15}} pieces of space junk will become a growing {{16}}. \"It's one of the things that we're working in partnership with NASA and the other appropriate agencies is what is the best future {{17}} path for high-energy missions that are in the sun-Earth-moon system,\" said Scheiman. Despite concerns over space debris, scientists also see research value in the collision.",
-          "cn": "谢曼说，NASA和SpaceX正在讨论防止未来月球撞击的方法。根据NASA耗资数十亿美元的阿尔忒弥斯计划，美国航天局计划在本十年晚些时候建立一个月球基地，并定期向月球表面派遣宇航员任务。保护未来的航天器、设备和月球栖息地免受误入歧途的太空垃圾的侵害将成为一个日益重要的优先事项。“这是我们与NASA和其他相关机构合作解决的问题之一，即对于太阳-地球-月球系统中的高能任务，什么是最好的未来处置路径，”谢曼说。尽管对太空碎片感到担忧，但科学家们也看到了这次碰撞的研究价值。"
-        },
-        {
-          "en": "NASA intentionally crashed stages from its Saturn V moon rocket into the moon in the 1970s to study the impacts' {{18}} effects. In 2009, the agency intentionally crashed a rocket stage into the moon as part of the LCROSS mission to study the plume of lunar material {{19}} up by the impact, leading to a key discovery that lunar dirt contains traces of water ice. This time, \"NASA scientists are planning to collect lunar data from the event and {{20}} techniques for tracking objects in space,\" the US agency said.",
-          "cn": "20世纪70年代，NASA故意将其土星五号月球火箭的各级撞向月球，以研究撞击的地震效应。2009年，该机构作为LCROSS任务的一部分，故意将一枚火箭级撞向月球，以研究撞击掀起的月球物质羽流，从而得出了一项关键发现：月球土壤中含有水冰的痕迹。这一次，“NASA科学家计划从这一事件中收集月球数据，并完善跟踪太空物体的技术，”美国航天局表示。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "smashed",
-          "hint": "v. 猛撞，粉碎",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "bombarded",
-          "hint": "v. 轰击，连续攻击",
-          "difficulty": "hard"
-        },
-        {
-          "id": 2,
-          "answer": "trajectory",
-          "hint": "n. 轨迹，弹道",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "posed",
-          "hint": "v. 造成（威胁等）",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "glimmers",
-          "hint": "n. 微光，闪光",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "spectral",
-          "hint": "adj. 光谱的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "plume",
-          "hint": "n. 羽流，烟柱",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "revenue",
-          "hint": "n. 收入，收益",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "surged",
-          "hint": "v. 激增，猛涨",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "expenditures",
-          "hint": "n. 支出，花费",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "amassing",
-          "hint": "v. 积累，聚集",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "chain",
-          "hint": "n. 连锁，一系列",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "maneuver",
-          "hint": "n. 机动，操作",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "mixture",
-          "hint": "n. 混合，结合",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "debris",
-          "hint": "n. 碎片，残骸",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "errant",
-          "hint": "adj. 偏离正道的，误入歧途的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "priority",
-          "hint": "n. 优先事项，重点",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "disposal",
-          "hint": "n. 处理，处置",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "seismic",
-          "hint": "adj. 地震的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "kicked",
-          "hint": "v. 踢起，扬起",
-          "difficulty": "easy"
-        },
-        {
-          "id": 20,
-          "answer": "refine",
-          "hint": "v. 改进，完善",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "The moon during the morning hours as German astronomers observe the moon surface from their platform of the Observatory Kassel during an international observation campaign following the predicted impact of a SpaceX Falcon 9 upper stage near the lunar Einstein crater, August 5, 2026. \nA SpaceX rocket stage floating in space since last year smashed into the moon at high speed early Wednesday morning, joining the ranks of meteoroids, wayward spacecraft and other pieces of space junk that have bombarded the lunar surface for ages, astronomers confirmed.\nThe school-bus-size object is the second stage of a SpaceX Falcon 9 rocket that launched a lunar lander from Firefly Aerospace toward the moon in January 2025. While the rocket's booster returned to Earth, the upper stage remained in space after completing its primary mission.\nThe unintentional collision occurred at around 2:35 a.m. ET (0635 GMT), when the 4,000-kilogram rocket stage slammed into the moon at a speed of about 8,690 kilometers per hour. The impact had been predicted months in advance by astronomers tracking the object's trajectory.\nA SpaceX Falcon 9 rocket lifts off from pad 39A with a payload of a pair of lunar landers at the Kennedy Space Center in Cape Canaveral, Florida, the US, January 15, 2025. \nThe crash posed no threat to Earth, and no spacecraft orbiting the moon were positioned to capture close-up images of the impact.\nBut the European Southern Observatory's (ESO) Very Large Telescope in Chile detected glimmers of light associated with the impact. \"We can confirm that the telescope detected spectral lines of sodium and lithium gas in the impact plume lasting for 5-10 minutes after impact,\" an ESO spokesperson told Reuters.\nNASA's Lunar Reconnaissance Orbiter probe and South Korea's Pathfinder Lunar Orbiter were also expected to take images of the impact site, though it could take days to receive that information.\nThe event comes as SpaceX continues to expand its space operations and commercial activities. In its first quarterly report since going public in June, the company reported strong revenue growth, with revenue reaching $7.8 billion, up more than 90% from a year earlier. Starlink revenue, which accounted for over half of total revenue, rose 66%, and revenue from SpaceX's AI business – which Musk has pitched as the company's future growth driver – surged about 250%. However, the stock fell by as much as 8% in after-hours trading following the release, as investors reacted to a sharp increase in capital expenditures, driven largely by AI infrastructure investments.\nSpace junk raising concern\nSpace debris has become a growing concern as more satellites and spacecraft enter orbit.\nExperts have warned that amassing too much space junk around Earth could lead to a dangerous chain reaction of collisions known as the \"Kessler syndrome.\"\nGenerally on such missions, SpaceX performs a maneuver to make sure the second stage \"is safe per the appropriate rules and regulations,\" said Julianna Scheiman, director of NASA Science and Dragon Programs at SpaceX, at a Monday news conference.\n\"We did that,\" she continued, but \"what has happened is essentially a mixture of solar activity and gravity forces have put it on a path towards the moon.\"\nThe rocket stage was just one of tens of thousands of pieces of human-made debris currently orbiting Earth. While the moon is constantly bombarded by natural objects such as meteoroids, impacts from artificial spacecraft remain relatively uncommon.\nNASA and SpaceX are discussing ways to prevent future lunar impacts, Scheiman said. Under NASA's multibillion-dollar Artemis program, the US space agency plans to build a lunar base and send routine astronaut missions to the lunar surface later this decade. Protecting future spacecraft, equipment and lunar habitats from errant pieces of space junk will become a growing priority.\n\"It's one of the things that we're working in partnership with NASA and the other appropriate agencies is what is the best future disposal path for high-energy missions that are in the sun-Earth-moon system,\" said Scheiman.\nDespite concerns over space debris, scientists also see research value in the collision.\nNASA intentionally crashed stages from its Saturn V moon rocket into the moon in the 1970s to study the impacts' seismic effects. In 2009, the agency intentionally crashed a rocket stage into the moon as part of the LCROSS mission to study the plume of lunar material kicked up by the impact, leading to a key discovery that lunar dirt contains traces of water ice.\nThis time, \"NASA scientists are planning to collect lunar data from the event and refine techniques for tracking objects in space,\" the US agency said.",
-      "fullTextCn": "2026年8月5日早晨，德国天文学家在卡塞尔天文台平台上观测月球表面，这是针对SpaceX猎鹰9号火箭上级预计撞击月球爱因斯坦陨石坑附近后进行的国际观测活动。天文学家证实，一枚自去年起漂浮在太空中的SpaceX火箭级于周三凌晨高速撞上月球，加入了长期以来轰击月球表面的流星体、偏离轨道的航天器和其他太空垃圾的行列。这个校车大小的物体是SpaceX猎鹰9号火箭的第二级，该火箭于2025年1月将萤火虫航空航天公司的月球着陆器送往月球。虽然火箭的助推器返回了地球，但上级在完成其主要任务后仍留在太空中。这次意外碰撞发生在凌晨2点35分左右。\n\n美国东部时间（格林尼治标准时间0635）凌晨2点35分左右，这个4000公斤重的火箭级以约8690公里/小时的速度撞击月球。这次撞击在数月前就被追踪该物体轨迹的天文学家预测到了。2025年1月15日，一枚SpaceX猎鹰9号火箭携带一对月球着陆器从美国佛罗里达州卡纳维拉尔角肯尼迪航天中心的39A发射台升空。这次撞击对地球没有威胁，而且月球轨道上也没有航天器能够拍摄到撞击的近距离图像。但智利的欧洲南方天文台（ESO）甚大望远镜探测到了与撞击相关的闪光。\n\n“我们可以确认，望远镜在撞击后5到10分钟内探测到了撞击羽流中的钠和锂气体光谱线，”ESO发言人告诉路透社。美国宇航局的月球勘测轨道飞行器探测器和韩国的探路者月球轨道器预计也将拍摄撞击地点的图像，尽管可能需要几天时间才能收到这些信息。这一事件发生之际，SpaceX正继续扩大其太空运营和商业活动。在6月上市以来的首份季度报告中，该公司报告了强劲的收入增长，收入达到78亿美元，同比增长超过90%。占其总收入一半以上的星链收入增长了66%，而SpaceX的人工智能业务（马斯克将其定位为公司未来的增长驱动力）的收入激增了约250%。\n\n然而，财报发布后，该股在盘后交易中下跌了多达8%，因为投资者对资本支出的大幅增加做出了反应，这主要是由人工智能基础设施投资推动的。太空垃圾引发担忧。随着越来越多的卫星和航天器进入轨道，太空碎片已成为一个日益令人担忧的问题。专家警告说，地球周围积累过多的太空垃圾可能导致危险的连锁碰撞反应，即所谓的“凯斯勒综合征”。SpaceX负责NASA科学和龙飞船项目的总监朱莉安娜·谢曼在周一的新闻发布会上表示，通常在此类任务中，SpaceX会进行机动，以确保第二级“符合相关规则和法规的安全要求”。“我们做到了，”她继续说，但“发生的事情基本上是太阳活动和引力作用的结合，使其走上了通往月球的路径。”这个火箭级只是目前绕地球运行的数万块人造碎片之一。虽然月球不断受到流星体等自然物体的轰击，但人造航天器的撞击仍然相对罕见。\n\n谢曼说，NASA和SpaceX正在讨论防止未来月球撞击的方法。根据NASA耗资数十亿美元的阿尔忒弥斯计划，美国航天局计划在本十年晚些时候建立一个月球基地，并定期向月球表面派遣宇航员任务。保护未来的航天器、设备和月球栖息地免受误入歧途的太空垃圾的侵害将成为一个日益重要的优先事项。“这是我们与NASA和其他相关机构合作解决的问题之一，即对于太阳-地球-月球系统中的高能任务，什么是最好的未来处置路径，”谢曼说。尽管对太空碎片感到担忧，但科学家们也看到了这次碰撞的研究价值。\n\n20世纪70年代，NASA故意将其土星五号月球火箭的各级撞向月球，以研究撞击的地震效应。2009年，该机构作为LCROSS任务的一部分，故意将一枚火箭级撞向月球，以研究撞击掀起的月球物质羽流，从而得出了一项关键发现：月球土壤中含有水冰的痕迹。这一次，“NASA科学家计划从这一事件中收集月球数据，并完善跟踪太空物体的技术，”美国航天局表示。"
-    },
-    {
-      "id": 2,
       "category": "society",
       "source": "CGTN",
       "sourceUrl": "https://news.cgtn.com/news/2026-07-17/Scientists-reveal-how-aging-weakens-the-brain-s-protective-barrier-1OQlBVmo6Vq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
       "title": "Scientists reveal how aging weakens the brain's protective barrier",
       "titleCn": "科学家揭示衰老如何削弱大脑的保护屏障",
       "summary": "Scientists reveal how aging weakens the brain's protective barrier",
-      "summaryCn": "研究发现衰老通过TGF-β1信号增加脑内皮细胞转运，导致血脑屏障渗漏，进而影响认知功能。",
+      "summaryCn": "研究发现衰老通过TGF-β1信号减少Mfsd2a蛋白，导致脑内细胞转运异常，从而破坏血脑屏障，为认知衰退提供新解释。",
       "wordCount": 526,
       "paragraphs": [
         {
-          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive {{2}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{3}} by which aging weakens the blood-brain barrier, the brain's protective {{4}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial {{5}} drives blood-brain barrier leakage during aging.\"\nThe study shows how aging {{6}} transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{7}} security system.",
-          "cn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）像一个选择性安全系统。"
+          "en": "As people age, many experience memory decline and slower {{0}} processing, along with a higher risk of {{1}} disease and cognitive {{2}}. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline. Scientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a {{3}} by which aging weakens the blood-brain barrier, the brain's protective {{4}} with the bloodstream. The study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier {{6}} during aging.\"\nThe study shows how aging {{5}} {{17}} in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a {{7}} security system.",
+          "cn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，标题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）充当一个选择性的安全系统。"
         },
         {
-          "en": "It allows {{8}} nutrients to reach the brain while preventing potentially {{9}} substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several {{10}} disorders. Scientists have traditionally {{11}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{12}} in middle-aged mice and worsened in older animals.",
-          "cn": "它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接的损伤。然而，新研究发现另一个过程在衰老过程中更早发生。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已可检测到，并在老年动物中恶化。"
+          "en": "It allows {{8}} nutrients to reach the brain while preventing potentially {{9}} substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several neurodegenerative {{10}}. Scientists have traditionally {{11}} BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging. By examining mice at different ages, the researchers found that BBB leakage was already {{12}} in middle-aged mice and {{13}} in older animals.",
+          "cn": "它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑血管内壁细胞之间紧密连接结构的损伤。然而，这项新研究发现，在衰老过程中另一个过程发生得更早。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已经可检测到，并在老年动物中恶化。"
         },
         {
-          "en": "The change appeared early in the {{13}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{14}}. Instead, the cells' internal transport system became {{15}} active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
-          "cn": "这种变化早期出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。研究人员说：“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制。”团队识别出一种名为Mfsd2a的蛋白质，作为这一保护系统的重要组成部分。"
+          "en": "The change appeared early in the {{14}}, a brain region important for learning and memory. At this stage, the seals between blood vessel cells remained largely {{15}}. Instead, the cells' internal transport system became {{16}} active, allowing blood-borne substances to pass through the cells and enter brain tissue. \"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport {{18}} inside the cells,\" the researchers said. The team identified a protein called Mfsd2a as an important part of this protective system.",
+          "cn": "这种变化早期出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接结构基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制，”研究人员说。该团队识别出一种名为Mfsd2a的蛋白质，它是这个保护系统的重要组成部分。"
         },
         {
-          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased. When the researchers {{16}} endothelial Mfsd2a expression or {{17}} down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
-          "cn": "Mfsd2a通常限制大脑血管中不必要的运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠年龄增长，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平增加。"
+          "en": "Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels {{19}} with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased. When the researchers {{20}} endothelial Mfsd2a expression or {{21}} down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were {{22}} reduced. The researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a {{23}} molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.",
+          "cn": "Mfsd2a通常限制大脑血管中不必要的运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠衰老，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平升高。"
         },
         {
-          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage. By contrast, {{19}} TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of {{20}} wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
-          "cn": "过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相比之下，在老年小鼠中阻断TGF-β信号减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。"
+          "en": "Excessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage. By contrast, {{25}} TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests. The findings suggest that age-related BBB damage is not simply the result of {{26}} wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.",
+          "cn": "过量的TGF-β1降低了脑血管内壁细胞中Mfsd2a的表达，导致其运输活动增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相比之下，在老年小鼠中阻断TGF-β信号，减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。"
         },
         {
-          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing {{18}} activation of TGF-β signaling. Further research will be needed to determine whether these {{21}} can be safely translated into treatments for humans.",
-          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类治疗方法。"
+          "en": "The study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing {{24}} activation of TGF-β signaling. Further research will be needed to determine whether these {{27}} can be safely {{28}} into treatments for humans.",
+          "cn": "这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号的过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类的治疗方法。"
         }
       ],
       "blanks": [
@@ -232,19 +65,19 @@
         {
           "id": 4,
           "answer": "interface",
-          "hint": "n. 界面",
+          "hint": "n. 界面，接口",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "transcytosis",
-          "hint": "n. 转胞吞作用",
-          "difficulty": "hard"
+          "answer": "disrupts",
+          "hint": "v. 扰乱，破坏",
+          "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "disrupts",
-          "hint": "v. 扰乱",
+          "answer": "leakage",
+          "hint": "n. 渗漏",
           "difficulty": "medium"
         },
         {
@@ -256,7 +89,7 @@
         {
           "id": 8,
           "answer": "essential",
-          "hint": "adj. 必需的",
+          "hint": "adj. 必需的，基本的",
           "difficulty": "easy"
         },
         {
@@ -267,9 +100,9 @@
         },
         {
           "id": 10,
-          "answer": "neurodegenerative",
-          "hint": "adj. 神经退行性的",
-          "difficulty": "hard"
+          "answer": "disorders",
+          "hint": "n. 疾病，紊乱",
+          "difficulty": "medium"
         },
         {
           "id": 11,
@@ -285,88 +118,130 @@
         },
         {
           "id": 13,
+          "answer": "worsened",
+          "hint": "v. 恶化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
           "answer": "hippocampus",
           "hint": "n. 海马体",
           "difficulty": "hard"
         },
         {
-          "id": 14,
+          "id": 15,
           "answer": "intact",
-          "hint": "adj. 完整的",
+          "hint": "adj. 完整的，未受损的",
           "difficulty": "medium"
         },
         {
-          "id": 15,
+          "id": 16,
           "answer": "abnormally",
           "hint": "adv. 异常地",
           "difficulty": "medium"
         },
         {
-          "id": 16,
+          "id": 17,
+          "answer": "transport",
+          "hint": "n. 运输",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "pathways",
+          "hint": "n. 途径，路径",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "declined",
+          "hint": "v. 下降",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
           "answer": "restored",
           "hint": "v. 恢复",
           "difficulty": "medium"
         },
         {
-          "id": 17,
+          "id": 21,
           "answer": "knocked",
-          "hint": "v. 敲低（knock down）",
+          "hint": "v. 敲低（基因）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "significantly",
+          "hint": "adv. 显著地",
           "difficulty": "medium"
         },
         {
-          "id": 18,
+          "id": 23,
+          "answer": "signaling",
+          "hint": "n. 信号传导",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
           "answer": "excessive",
-          "hint": "adj. 过量的",
+          "hint": "adj. 过度的，过量的",
           "difficulty": "medium"
         },
         {
-          "id": 19,
+          "id": 25,
           "answer": "blocking",
           "hint": "v. 阻断",
           "difficulty": "medium"
         },
         {
-          "id": 20,
+          "id": 26,
           "answer": "passive",
           "hint": "adj. 被动的",
-          "difficulty": "easy"
+          "difficulty": "medium"
         },
         {
-          "id": 21,
+          "id": 27,
           "answer": "strategies",
           "hint": "n. 策略",
           "difficulty": "easy"
+        },
+        {
+          "id": 28,
+          "answer": "translated",
+          "hint": "v. 转化，转换",
+          "difficulty": "medium"
         }
       ],
       "fullText": "As people age, many experience memory decline and slower cognitive processing, along with a higher risk of cerebrovascular disease and cognitive impairment. One important question in aging research is how changes in the brain's blood vessels contribute to cognitive decline.\nScientists from the Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences have identified a mechanism by which aging weakens the blood-brain barrier, the brain's protective interface with the bloodstream.\nThe study was published in Neuron under the title \"TGF-β1-induced endothelial transcytosis drives blood-brain barrier leakage during aging.\"\nThe study shows how aging disrupts transport in brain blood vessel cells, leading to blood-brain barrier leakage. /SIAT\nThe blood-brain barrier, or BBB, acts as a selective security system. It allows essential nutrients to reach the brain while preventing potentially harmful substances in the blood from entering brain tissue. Damage to this barrier has been linked to cognitive aging, cerebral small vessel disease and several neurodegenerative disorders.\nScientists have traditionally attributed BBB leakage mainly to damage to the tight seals between cells lining brain blood vessels. However, the new study found that another process occurs earlier during aging.\nBy examining mice at different ages, the researchers found that BBB leakage was already detectable in middle-aged mice and worsened in older animals. The change appeared early in the hippocampus, a brain region important for learning and memory.\nAt this stage, the seals between blood vessel cells remained largely intact. Instead, the cells' internal transport system became abnormally active, allowing blood-borne substances to pass through the cells and enter brain tissue.\n\"Rather than first leaking through gaps between cells, the aging blood-brain barrier appears to lose control over transport pathways inside the cells,\" the researchers said.\nThe team identified a protein called Mfsd2a as an important part of this protective system. Mfsd2a normally limits unnecessary transport across brain blood vessels. Its levels declined with age, while Caveolin-1, a protein involved in the formation of transport vesicles, increased.\nWhen the researchers restored endothelial Mfsd2a expression or knocked down Caveolin-1 in aged mice, abnormal vesicle transport and BBB leakage were significantly reduced.\nThe researchers then investigated why Mfsd2a declines during aging. They found that levels of TGF-β1, a signaling molecule involved in inflammation, tissue repair and aging, increased in both the brain and the bloodstream as mice aged.\nExcessive TGF-β1 reduced Mfsd2a expression in the cells lining brain blood vessels, causing their transport activity to increase. Raising TGF-β1 levels in young mice caused them to develop several features normally seen in the aged BBB, including increased leakage.\nBy contrast, blocking TGF-β signaling in aged mice reduced BBB leakage and improved their performance in memory-related behavioral tests.\nThe findings suggest that age-related BBB damage is not simply the result of passive wear and tear. Instead, it involves biological signals that alter how brain blood vessel cells transport substances.\nThe study may help explain how vascular changes contribute to cognitive aging. It also points to potential approaches for protecting the aging brain, including maintaining Mfsd2a function or preventing excessive activation of TGF-β signaling. Further research will be needed to determine whether these strategies can be safely translated into treatments for humans.",
-      "fullTextCn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，标题为“TGF-β1诱导的内皮细胞转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）像一个选择性安全系统。\n\n它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑内血管内壁细胞之间紧密连接的损伤。然而，新研究发现另一个过程在衰老过程中更早发生。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已可检测到，并在老年动物中恶化。\n\n这种变化早期出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。研究人员说：“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制。”团队识别出一种名为Mfsd2a的蛋白质，作为这一保护系统的重要组成部分。\n\nMfsd2a通常限制大脑血管中不必要的运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠年龄增长，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平增加。\n\n过量的TGF-β1降低了脑内血管内壁细胞中Mfsd2a的表达，导致其运输活性增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相比之下，在老年小鼠中阻断TGF-β信号减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类治疗方法。"
+      "fullTextCn": "随着人们年龄增长，许多人会经历记忆力下降和认知处理速度变慢，同时患脑血管疾病和认知障碍的风险也会增加。衰老研究中的一个重要问题是大脑血管的变化如何导致认知衰退。中国科学院深圳先进技术研究院（SIAT）的科学家们识别出衰老削弱血脑屏障（大脑与血液之间的保护性界面）的一种机制。该研究发表在《神经元》杂志上，标题为“TGF-β1诱导的内皮转胞吞作用驱动衰老过程中的血脑屏障渗漏”。研究显示衰老如何扰乱脑血管细胞中的运输，导致血脑屏障渗漏。/SIAT 血脑屏障（BBB）充当一个选择性的安全系统。\n\n它允许必需营养物质到达大脑，同时防止血液中潜在有害物质进入脑组织。这种屏障的损伤与认知衰老、脑小血管疾病和多种神经退行性疾病有关。科学家传统上将血脑屏障渗漏主要归因于脑血管内壁细胞之间紧密连接结构的损伤。然而，这项新研究发现，在衰老过程中另一个过程发生得更早。通过检查不同年龄的小鼠，研究人员发现血脑屏障渗漏在中年小鼠中已经可检测到，并在老年动物中恶化。\n\n这种变化早期出现在海马体，这是一个对学习和记忆重要的大脑区域。在这个阶段，血管细胞之间的连接结构基本保持完整。相反，细胞内部的运输系统变得异常活跃，允许血液中的物质穿过细胞进入脑组织。“衰老的血脑屏障似乎不是首先通过细胞间隙渗漏，而是失去了对细胞内运输途径的控制，”研究人员说。该团队识别出一种名为Mfsd2a的蛋白质，它是这个保护系统的重要组成部分。\n\nMfsd2a通常限制大脑血管中不必要的运输。其水平随年龄增长而下降，而参与运输囊泡形成的蛋白质Caveolin-1则增加。当研究人员在老年小鼠中恢复内皮Mfsd2a表达或敲低Caveolin-1时，异常囊泡运输和血脑屏障渗漏显著减少。研究人员随后调查了为什么Mfsd2a在衰老过程中下降。他们发现，随着小鼠衰老，大脑和血液中TGF-β1（一种参与炎症、组织修复和衰老的信号分子）的水平升高。\n\n过量的TGF-β1降低了脑血管内壁细胞中Mfsd2a的表达，导致其运输活动增加。在年轻小鼠中提高TGF-β1水平，使它们出现通常见于衰老血脑屏障的多种特征，包括渗漏增加。相比之下，在老年小鼠中阻断TGF-β信号，减少了血脑屏障渗漏，并改善了它们在记忆相关行为测试中的表现。这些发现表明，与年龄相关的血脑屏障损伤不仅仅是被动磨损的结果。相反，它涉及改变脑血管细胞运输物质的生物信号。\n\n这项研究可能有助于解释血管变化如何导致认知衰老。它还指出了保护衰老大脑的潜在方法，包括维持Mfsd2a功能或防止TGF-β信号的过度激活。需要进一步研究来确定这些策略是否能安全地转化为人类的治疗方法。"
     },
     {
-      "id": 3,
+      "id": 2,
       "category": "technology",
       "source": "CGTN",
       "sourceUrl": "https://news.cgtn.com/news/2026-07-09/AI-applications-move-into-more-everyday-scenarios-1ODhOvc9w7S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
       "title": "AI applications move into more everyday scenarios",
-      "titleCn": "AI应用进入更多日常场景",
+      "titleCn": "人工智能应用进入更多日常场景",
       "summary": "The 25th China Internet Conference held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.",
-      "summaryCn": "第25届中国互联网大会展示了AI在城市治理、工业制造和零售等领域的广泛应用，并强调了AI代理和数字孪生技术对未来互联网和经济的推动作用。",
+      "summaryCn": "第25届中国互联网大会展示了人工智能在城市治理、工业制造和消费服务等领域的广泛应用，并预测到2030年AI生成流量将占全球互联网流量的60%。",
       "wordCount": 463,
       "paragraphs": [
         {
           "en": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. Artificial intelligence is moving rapidly from {{0}} technology to real-world applications, as industry leaders {{1}} new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing. Held from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being {{2}} into sectors ranging from urban {{3}} and industrial manufacturing to retail and public services. Speaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are {{4}} the internet itself. While large language models excel at general reasoning, AI agents are designed to {{5}} specific tasks and future digital {{6}} will increasingly rely on {{7}} among multiple intelligent agents rather than {{8}} AI systems. Participants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026.",
-          "cn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI解决方案。会议于7月8日至10日举行，重点展示了AI代理、大型语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大型语言模型擅长一般推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖于多个智能代理之间的协作，而不是孤立的AI系统。第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心试用VR产品。"
+          "cn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI驱动解决方案。会议于7月8日至10日举行，重点展示了AI代理、大型语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大型语言模型擅长通用推理，但AI代理被设计用于执行特定任务，未来的数字生态系统将越来越依赖于多个智能代理之间的协作，而不是孤立的AI系统。第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心体验VR产品。"
         },
         {
-          "en": "According to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the {{9}} source of token-based {{10}}. The shift, he said, will require internet infrastructure to {{11}} toward higher {{12}}, lower {{13}} and stronger computing capabilities. The conference also demonstrated how AI is being {{14}} in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered {{15}} systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{16}} and building maintenance, providing city managers with real-time {{17}} and decision-making tools. Industry representatives also {{18}} that AI innovation is creating {{19}} economic value.",
-          "cn": "据邬贺铨介绍，预计到2030年，AI生成的流量将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这种转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。会议还展示了AI在实际场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
+          "en": "According to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the {{9}} source of token-based interactions. The shift, he said, will require internet {{10}} to evolve toward higher bandwidth, lower latency and stronger computing capabilities. The conference also demonstrated how AI is being {{11}} in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy {{12}} and building maintenance, providing city managers with real-time {{13}} and decision-making tools. Industry representatives also emphasized that AI innovation is creating {{14}} economic value.",
+          "cn": "据邬贺铨介绍，预计到2030年，AI生成的流量将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这种转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。会议还展示了AI在实际场景中的应用。数字助手正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。"
         },
         {
-          "en": "Participants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while {{20}} reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling {{21}} shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified {{22}} AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{23}} across different computing chips, reflects broader efforts to build more efficient and {{24}} AI infrastructure. As AI technologies continue to {{25}}, industry experts believe the focus is shifting from developing models to {{26}} them at scale.",
-          "cn": "第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在会议上，快手表示，其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在越来越多地处理复杂的购物请求，超越传统的基于关键词的搜索，转向面向任务的消费者服务。除了应用之外，与会者将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效和可持续AI基础设施的更广泛努力。随着AI技术的不断成熟，行业专家认为重点正在从开发模型转向大规模部署。"
+          "en": "Participants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. At the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while significantly reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services. Beyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve {{15}} across different computing chips, reflects broader efforts to build more efficient and sustainable AI infrastructure. As AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale.",
+          "cn": "第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在会议上，快手表示，其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝秒杀平台报告称，AI代理正在越来越多地处理复杂的购物请求，超越传统的基于关键词的搜索，转向面向任务的消费服务。除了应用之外，与会者将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效、可持续AI基础设施的更广泛努力。随着AI技术的不断成熟，行业专家认为重点正在从开发模型转向大规模部署。"
         },
         {
           "en": "The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-          "cn": "会议突显了中国加快AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+          "cn": "会议强调了中国的努力，以加速AI在实体经济中的采用，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
         }
       ],
       "blanks": [
@@ -392,7 +267,7 @@
           "id": 3,
           "answer": "governance",
           "hint": "n. 治理",
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": 4,
@@ -432,387 +307,568 @@
         },
         {
           "id": 10,
-          "answer": "interactions",
-          "hint": "n. 交互",
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "evolve",
-          "hint": "v. 演变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "bandwidth",
-          "hint": "n. 带宽",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "latency",
-          "hint": "n. 延迟",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
           "answer": "deployed",
           "hint": "v. 部署",
           "difficulty": "medium"
         },
         {
-          "id": 15,
-          "answer": "inspection",
-          "hint": "n. 检测",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
+          "id": 12,
           "answer": "optimization",
           "hint": "n. 优化",
           "difficulty": "hard"
         },
         {
-          "id": 17,
+          "id": 13,
           "answer": "visualization",
           "hint": "n. 可视化",
           "difficulty": "hard"
         },
         {
-          "id": 18,
-          "answer": "emphasized",
-          "hint": "v. 强调",
-          "difficulty": "easy"
-        },
-        {
-          "id": 19,
+          "id": 14,
           "answer": "measurable",
           "hint": "adj. 可衡量的",
           "difficulty": "medium"
         },
         {
-          "id": 20,
-          "answer": "significantly",
-          "hint": "adv. 显著地",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "complex",
-          "hint": "adj. 复杂的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 22,
-          "answer": "trustworthy",
-          "hint": "adj. 可信的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
+          "id": 15,
           "answer": "compatibility",
           "hint": "n. 兼容性",
           "difficulty": "hard"
-        },
-        {
-          "id": 24,
-          "answer": "sustainable",
-          "hint": "adj. 可持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "mature",
-          "hint": "v. 成熟",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "deploying",
-          "hint": "v. 部署",
-          "difficulty": "medium"
         }
       ],
       "fullText": "The 25th China Internet Conference opens at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nArtificial intelligence is moving rapidly from experimental technology to real-world applications, as industry leaders showcased new AI-powered solutions for cities, businesses and consumers at the 25th China Internet Conference in Beijing.\nHeld from July 8 to 10, the conference highlighted how AI agents, large language models and digital twin technologies are being integrated into sectors ranging from urban governance and industrial manufacturing to retail and public services.\nSpeaking via video at the opening ceremony, Wu Hequan, an academician of the Chinese Academy of Engineering, said AI-native technologies are reshaping the internet itself.\nWhile large language models excel at general reasoning, AI agents are designed to execute specific tasks and future digital ecosystems will increasingly rely on collaboration among multiple intelligent agents rather than isolated AI systems.\nParticipants of the 25th China Internet Conference try on VR products at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAccording to Wu, AI-generated traffic is expected to account for around 60% of global internet traffic by 2030, with AI agent services becoming the dominant source of token-based interactions. The shift, he said, will require internet infrastructure to evolve toward higher bandwidth, lower latency and stronger computing capabilities.\nThe conference also demonstrated how AI is being deployed in practical scenarios. Digital assistants are supporting office collaboration and customer services, while AI-powered inspection systems are improving industrial operations. Digital twin technologies are enabling more efficient traffic management, energy optimization and building maintenance, providing city managers with real-time visualization and decision-making tools.\nIndustry representatives also emphasized that AI innovation is creating measurable economic value.\nParticipants of the 25th China Internet Conference interact with humanoid robots at the China National Convention Center in Beijing, capital of China, July 8, 2026. \nAt the conference, Kuaishou said its AI-powered video generation model and digital human live-streaming platform have helped small and medium-sized businesses increase daily gross merchandise value while significantly reducing marketing costs. Alibaba's Taobao Instant Commerce platform reported that AI agents are increasingly handling complex shopping requests, moving beyond traditional keyword-based searches to task-oriented consumer services.\nBeyond applications, participants identified trustworthy AI and green computing as key priorities for the industry's next stage of development. The launch of the FlagOS Initiative, an open AI software platform designed to improve compatibility across different computing chips, reflects broader efforts to build more efficient and sustainable AI infrastructure.\nAs AI technologies continue to mature, industry experts believe the focus is shifting from developing models to deploying them at scale. The conference highlighted China's efforts to accelerate AI adoption across the real economy, with intelligent applications increasingly becoming part of everyday life while supporting digital transformation and high-quality economic development.",
-      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI解决方案。会议于7月8日至10日举行，重点展示了AI代理、大型语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大型语言模型擅长一般推理，但AI代理旨在执行特定任务，未来的数字生态系统将越来越依赖于多个智能代理之间的协作，而不是孤立的AI系统。第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心试用VR产品。\n\n据邬贺铨介绍，预计到2030年，AI生成的流量将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这种转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。会议还展示了AI在实际场景中的应用。数字助理正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在会议上，快手表示，其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝即时商务平台报告称，AI代理正在越来越多地处理复杂的购物请求，超越传统的基于关键词的搜索，转向面向任务的消费者服务。除了应用之外，与会者将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效和可持续AI基础设施的更广泛努力。随着AI技术的不断成熟，行业专家认为重点正在从开发模型转向大规模部署。\n\n会议突显了中国加快AI在实体经济中应用的努力，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
+      "fullTextCn": "第25届中国互联网大会于2026年7月8日在北京中国国家会议中心开幕。人工智能正迅速从实验性技术转向实际应用，行业领袖在北京举行的第25届中国互联网大会上展示了面向城市、企业和消费者的新型AI驱动解决方案。会议于7月8日至10日举行，重点展示了AI代理、大型语言模型和数字孪生技术如何被整合到从城市治理、工业制造到零售和公共服务的各个领域。中国工程院院士邬贺铨在开幕式上通过视频发言表示，AI原生技术正在重塑互联网本身。虽然大型语言模型擅长通用推理，但AI代理被设计用于执行特定任务，未来的数字生态系统将越来越依赖于多个智能代理之间的协作，而不是孤立的AI系统。第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心体验VR产品。\n\n据邬贺铨介绍，预计到2030年，AI生成的流量将占全球互联网流量的约60%，AI代理服务将成为基于令牌交互的主要来源。他表示，这种转变将要求互联网基础设施向更高带宽、更低延迟和更强计算能力的方向发展。会议还展示了AI在实际场景中的应用。数字助手正在支持办公协作和客户服务，而AI驱动的检测系统正在改善工业运营。数字孪生技术正在实现更高效的交通管理、能源优化和建筑维护，为城市管理者提供实时可视化和决策工具。行业代表还强调，AI创新正在创造可衡量的经济价值。\n\n第25届中国互联网大会的与会者于2026年7月8日在北京中国国家会议中心与人形机器人互动。在会议上，快手表示，其AI驱动的视频生成模型和数字人直播平台帮助中小企业提高了日均商品交易总额，同时显著降低了营销成本。阿里巴巴的淘宝秒杀平台报告称，AI代理正在越来越多地处理复杂的购物请求，超越传统的基于关键词的搜索，转向面向任务的消费服务。除了应用之外，与会者将可信AI和绿色计算确定为行业下一阶段发展的关键优先事项。FlagOS倡议的启动，一个旨在提高不同计算芯片兼容性的开放AI软件平台，反映了构建更高效、可持续AI基础设施的更广泛努力。随着AI技术的不断成熟，行业专家认为重点正在从开发模型转向大规模部署。\n\n会议强调了中国的努力，以加速AI在实体经济中的采用，智能应用正日益成为日常生活的一部分，同时支持数字化转型和高质量经济发展。"
     },
     {
-      "id": 4,
+      "id": 3,
       "category": "military",
       "source": "CGTN",
-      "sourceUrl": "https://newsaf.cgtn.com/news/2026-08-08/ICC-oversight-body-urges-Chad-and-Venezuela-to-reverse-withdrawal-1Pru8eVsUtG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "ICC oversight body urges Chad and Venezuela to reverse withdrawal",
-      "titleCn": "国际刑事法院监督机构敦促乍得和委内瑞拉撤回退出决定",
-      "summary": "The body that oversees the International Criminal Court has urged Chad and Venezuela to reconsider their decisions to withdraw from the court, warning that their departures could undermine global efforts to fight impunity.",
-      "summaryCn": "国际刑事法院监督机构呼吁乍得和委内瑞拉重新考虑退出决定，警告此举可能削弱全球打击有罪不罚的努力。",
-      "wordCount": 337,
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-07/US-imposes-new-sanctions-on-Cuban-military-officials-and-entities-1PplnMtRIxG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "US imposes new sanctions on Cuban military officials and entities",
+      "titleCn": "美国对古巴军事官员及实体实施新制裁",
+      "summary": "The United States imposed sanctions on Thursday on eight senior Cuban military officials and five entities, targeting procurement networks linked to weapons and military equipment in an effort to cut off state revenue and restrict what Washington described as \"foreign adversary operations.\"",
+      "summaryCn": "美国对古巴实施新制裁，引发联合国专家批评，并加剧了古巴的能源和人道危机。",
+      "wordCount": 401,
       "paragraphs": [
         {
-          "en": "The body that oversees the International Criminal Court (ICC) has {{1}} Chad and Venezuela to reconsider their decisions to withdraw from the court, warning that their departures could {{3}} global efforts to fight {{4}}. In a statement issued on Friday from The Hague, the Assembly of States Parties said it viewed the {{2}} announcements \"with {{5}}\" and called on both countries to remain members of the court. The assembly encouraged them to address any concerns through {{6}} within the ICC system rather than leaving the institution. The appeal comes as the court faces its most {{7}} wave of withdrawal announcements since it was {{8}} in 2002. Five countries have said they intend to leave the ICC since last year, amid {{9}} international pressure on the tribunal.",
-          "cn": "负责监督国际刑事法院的机构已敦促乍得和委内瑞拉重新考虑退出法院的决定，警告称它们的退出可能削弱全球打击有罪不罚的努力。缔约国大会周五在海牙发表声明，表示对退出公告“表示关切”，并呼吁两国继续留在法院。大会鼓励它们通过国际刑事法院体系内的对话解决任何关切，而不是离开该机构。这一呼吁发出之际，法院正面临自2002年成立以来最大规模的退出公告浪潮。自去年以来，已有五个国家表示打算退出国际刑事法院，而该法庭正面临新的国际压力。"
+          "en": "Cuba's National Electric System suffered another disconnection on Monday while efforts were still underway to restore the grid following the previous night's total blackout in Havana, Cuba, August 5, 2026. The United States on Thursday imposed {{0}} on eight senior Cuban military officials and five entities, targeting {{1}} networks linked to weapons and military equipment in an effort to cut off state {{2}} and restrict what Washington described as \"foreign {{3}} operations.\"\nThe latest measures mark a new step in Washington's growing pressure {{4}} against Havana. On Thursday, several UN human rights experts criticized the United States' recent expansion of unilateral sanctions against Cuba, saying the measures sought to influence the constitutional order of a {{6}} country through pressure and {{5}}, in {{7}} of the UN Charter. The experts urged the international community and civil society to take immediate action to prevent a {{8}} crisis in Cuba. They said new US sanctions targeting key economic {{9}}, including energy, had worsened fuel {{10}} and nationwide power {{11}}, while putting further {{12}} on basic services such as healthcare and food supplies. They called on Washington to lift measures that violate international law.",
+          "cn": "古巴国家电力系统周一再次发生断电，而此前一晚哈瓦那全面停电后的恢复工作仍在进行中，时间为2026年8月5日。美国周四对八名古巴高级军事官员和五个实体实施制裁，针对与武器和军事装备相关的采购网络，旨在切断国家收入并限制华盛顿所称的“外国敌对行动”。"
         },
         {
-          "en": "Chad announced its withdrawal on July 27, arguing that the court's record had been {{10}} and {{11}} focused on Africa. Officials noted that six of the seven suspects currently in ICC {{12}} are linked to African cases. Venezuela announced its withdrawal three days earlier. Foreign Minister Felix Plasencia told the United Nations that the decision, ordered by Interim President Delcy Rodríguez, was \"firm and {{13}}\" and accused the court of {{14}} bias against Africa and Latin America. Under the Rome Statute, the ICC's founding treaty, a withdrawal takes effect one year after notification.",
-          "cn": "乍得于7月27日宣布退出，认为法院的记录不均衡，且过分聚焦于非洲。官员指出，目前被国际刑事法院羁押的七名嫌疑人中有六名与非洲案件有关。委内瑞拉在三天前宣布退出。外交部长费利克斯·普拉森西亚告诉联合国，由临时总统德尔西·罗德里格斯下令的这一决定是“坚定且不可撤销的”，并指责法院对非洲和拉丁美洲存在地理偏见。根据《罗马规约》（国际刑事法院的创始条约），退出在通知后一年生效。"
+          "en": "The United States has maintained a decades-long economic, financial and trade {{13}} against Cuba. After launching military actions against Venezuela and Iran earlier this year, US President Donald Trump warned that \"Cuba is next\" and further {{14}} pressure on Havana, including measures targeting oil supplies. Beyond sanctions and economic restrictions, the United States has also expanded {{15}} activities focused on Cuba. According to US media reports on Wednesday, the Central Intelligence Agency (CIA) has secretly established a Cuba task force to increase funding, personnel and technical resources for intelligence gathering and {{16}} operations targeting the island nation. Its reported {{17}} include attempting to create internal {{18}} and seek changes in Cuba's leadership. Sources familiar with the matter said the task force is increasing the number of intelligence officers and {{20}} responsible for {{19}} and managing sources, as well as personnel involved in {{21}} operations and covert {{22}} efforts.",
+          "cn": "最新措施标志着华盛顿对哈瓦那施压运动的新一步。周四，多位联合国人权专家批评美国近期扩大对古巴的单边制裁，称这些措施试图通过施压和胁迫影响主权国家的宪法秩序，违反《联合国宪章》。专家们敦促国际社会和民间社会立即采取行动，防止古巴发生人道主义危机。他们表示，美国针对能源等关键经济部门的新制裁加剧了燃料短缺和全国性停电，同时给医疗和食品供应等基本服务带来更大压力。他们呼吁华盛顿取消违反国际法的措施。"
         },
         {
-          "en": "A departing state remains bound by its {{15}} during that period, and existing investigations and {{16}} can continue. The ICC's {{20}} into Venezuela is therefore expected to proceed regardless of the withdrawal announcement. Chad and Venezuela join Burkina Faso, Mali and Niger, which announced plans to leave the court last year. The ICC has also faced {{17}} pressure from the administration of US President Donald Trump, which has pledged a broad effort to {{18}} the court's authority. US officials have criticized the ICC over its arrest warrant for Israeli Prime Minister Benjamin Netanyahu in connection with {{19}} war crimes in Gaza, as well as the court's investigation into alleged crimes involving foreign forces, including US personnel, in Afghanistan.",
-          "cn": "退出国家在该期间内仍受其义务约束，现有调查和诉讼可以继续。因此，预计国际刑事法院对委内瑞拉的调查将不受退出公告的影响。乍得和委内瑞拉加入了去年宣布计划退出法院的布基纳法索、马里和尼日尔的行列。国际刑事法院还面临美国总统唐纳德·特朗普政府的日益增大的压力，该政府承诺采取广泛措施限制法院的权力。美国官员批评国际刑事法院对以色列总理本雅明·内塔尼亚胡发出逮捕令，该逮捕令与加沙涉嫌战争罪有关，以及法院对阿富汗涉嫌涉及外国军队（包括美国人员）的罪行的调查。"
+          "en": "Cuban Deputy Foreign Minister Carlos Fernandez de Cossio said in a statement that Washington's actions came as no surprise, accusing the CIA of carrying out {{23}}, {{24}} and {{25}} activities against Cuba for decades, including what he called \"terrorist operations.\"\nHe criticized the United States for {{26}} Cuba's {{28}} measures as threats while simultaneously {{29}} actions aimed at pressuring and {{27}} the country.",
+          "cn": "美国对古巴实施了长达数十年的经济、金融和贸易禁运。今年早些时候对委内瑞拉和伊朗发动军事行动后，美国总统唐纳德·特朗普警告“古巴是下一个”，并进一步加大对哈瓦那的压力，包括针对石油供应的措施。除了制裁和经济限制，美国还扩大了对古巴的情报活动。据美国媒体周三报道，中央情报局（CIA）秘密成立了古巴特别工作组，以增加用于针对该岛国的情报收集和秘密行动的资金、人员和技术资源。其报告的目标包括试图制造内部分裂并寻求古巴领导层的变更。熟悉此事的人士表示，该工作组正在增加负责招募和管理线人的情报官员和分析师数量，以及参与网络行动和秘密渗透行动的人员。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "urged",
-          "hint": "v. 敦促",
-          "difficulty": "easy"
-        },
-        {
-          "id": 1,
-          "answer": "withdrawal",
-          "hint": "n. 退出",
+          "answer": "sanctions",
+          "hint": "n. 制裁",
           "difficulty": "medium"
         },
         {
+          "id": 1,
+          "answer": "procurement",
+          "hint": "n. 采购",
+          "difficulty": "hard"
+        },
+        {
           "id": 2,
-          "answer": "undermine",
-          "hint": "v. 削弱",
+          "answer": "revenue",
+          "hint": "n. 收入",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "impunity",
-          "hint": "n. 有罪不罚",
+          "answer": "adversary",
+          "hint": "n. 对手",
           "difficulty": "hard"
         },
         {
           "id": 4,
-          "answer": "concern",
-          "hint": "n. 关切",
+          "answer": "campaign",
+          "hint": "n. 运动",
           "difficulty": "easy"
         },
         {
           "id": 5,
-          "answer": "dialogue",
-          "hint": "n. 对话",
-          "difficulty": "easy"
+          "answer": "coercion",
+          "hint": "n. 胁迫",
+          "difficulty": "hard"
         },
         {
           "id": 6,
-          "answer": "significant",
-          "hint": "adj. 重大的",
-          "difficulty": "easy"
+          "answer": "sovereign",
+          "hint": "adj. 主权的",
+          "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "established",
-          "hint": "v. 建立",
-          "difficulty": "easy"
+          "answer": "violation",
+          "hint": "n. 违反",
+          "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "renewed",
-          "hint": "adj. 新的",
+          "answer": "humanitarian",
+          "hint": "adj. 人道主义的",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "uneven",
-          "hint": "adj. 不均衡的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "disproportionately",
-          "hint": "adv. 不成比例地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "custody",
-          "hint": "n. 羁押",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "irrevocable",
-          "hint": "adj. 不可撤销的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "geographic",
-          "hint": "adj. 地理的",
+          "answer": "sectors",
+          "hint": "n. 部门",
           "difficulty": "easy"
         },
         {
+          "id": 10,
+          "answer": "shortages",
+          "hint": "n. 短缺",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "outages",
+          "hint": "n. 停电",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "strain",
+          "hint": "n. 压力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "embargo",
+          "hint": "n. 禁运",
+          "difficulty": "hard"
+        },
+        {
           "id": 14,
-          "answer": "obligations",
-          "hint": "n. 义务",
+          "answer": "tightened",
+          "hint": "v. 加强",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "proceedings",
-          "hint": "n. 诉讼",
+          "answer": "intelligence",
+          "hint": "n. 情报",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "mounting",
-          "hint": "adj. 日益增大的",
-          "difficulty": "medium"
+          "answer": "covert",
+          "hint": "adj. 秘密的",
+          "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "curb",
-          "hint": "v. 限制",
-          "difficulty": "medium"
+          "answer": "objectives",
+          "hint": "n. 目标",
+          "difficulty": "easy"
         },
         {
           "id": 18,
-          "answer": "alleged",
-          "hint": "adj. 涉嫌的",
+          "answer": "divisions",
+          "hint": "n. 分裂",
           "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "investigation",
-          "hint": "n. 调查",
+          "answer": "recruiting",
+          "hint": "v. 招募",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "analysts",
+          "hint": "n. 分析师",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "cyber",
+          "hint": "adj. 网络的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "infiltration",
+          "hint": "n. 渗透",
+          "difficulty": "hard"
+        },
+        {
+          "id": 23,
+          "answer": "espionage",
+          "hint": "n. 间谍活动",
+          "difficulty": "hard"
+        },
+        {
+          "id": 24,
+          "answer": "subversion",
+          "hint": "n. 颠覆",
+          "difficulty": "hard"
+        },
+        {
+          "id": 25,
+          "answer": "sabotage",
+          "hint": "n. 破坏",
+          "difficulty": "hard"
+        },
+        {
+          "id": 26,
+          "answer": "portraying",
+          "hint": "v. 描绘",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "destabilizing",
+          "hint": "v. 破坏稳定",
+          "difficulty": "hard"
+        },
+        {
+          "id": 28,
+          "answer": "defensive",
+          "hint": "adj. 防御的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 29,
+          "answer": "pursuing",
+          "hint": "v. 追求",
           "difficulty": "easy"
         }
       ],
-      "fullText": "The body that oversees the International Criminal Court (ICC) has urged Chad and Venezuela to reconsider their decisions to withdraw from the court, warning that their departures could undermine global efforts to fight impunity.\nIn a statement issued on Friday from The Hague, the Assembly of States Parties said it viewed the withdrawal announcements \"with concern\" and called on both countries to remain members of the court. The assembly encouraged them to address any concerns through dialogue within the ICC system rather than leaving the institution.\nThe appeal comes as the court faces its most significant wave of withdrawal announcements since it was established in 2002. Five countries have said they intend to leave the ICC since last year, amid renewed international pressure on the tribunal.\nChad announced its withdrawal on July 27, arguing that the court's record had been uneven and disproportionately focused on Africa. Officials noted that six of the seven suspects currently in ICC custody are linked to African cases.\nVenezuela announced its withdrawal three days earlier. Foreign Minister Felix Plasencia told the United Nations that the decision, ordered by Interim President Delcy Rodríguez, was \"firm and irrevocable\" and accused the court of geographic bias against Africa and Latin America.\nUnder the Rome Statute, the ICC's founding treaty, a withdrawal takes effect one year after notification.\nA departing state remains bound by its obligations during that period, and existing investigations and proceedings can continue.\nThe ICC's investigation into Venezuela is therefore expected to proceed regardless of the withdrawal announcement.\nChad and Venezuela join Burkina Faso, Mali and Niger, which announced plans to leave the court last year.\nThe ICC has also faced mounting pressure from the administration of US President Donald Trump, which has pledged a broad effort to curb the court's authority.\nUS officials have criticized the ICC over its arrest warrant for Israeli Prime Minister Benjamin Netanyahu in connection with alleged war crimes in Gaza, as well as the court's investigation into alleged crimes involving foreign forces, including US personnel, in Afghanistan.",
-      "fullTextCn": "负责监督国际刑事法院的机构已敦促乍得和委内瑞拉重新考虑退出法院的决定，警告称它们的退出可能削弱全球打击有罪不罚的努力。缔约国大会周五在海牙发表声明，表示对退出公告“表示关切”，并呼吁两国继续留在法院。大会鼓励它们通过国际刑事法院体系内的对话解决任何关切，而不是离开该机构。这一呼吁发出之际，法院正面临自2002年成立以来最大规模的退出公告浪潮。自去年以来，已有五个国家表示打算退出国际刑事法院，而该法庭正面临新的国际压力。\n\n乍得于7月27日宣布退出，认为法院的记录不均衡，且过分聚焦于非洲。官员指出，目前被国际刑事法院羁押的七名嫌疑人中有六名与非洲案件有关。委内瑞拉在三天前宣布退出。外交部长费利克斯·普拉森西亚告诉联合国，由临时总统德尔西·罗德里格斯下令的这一决定是“坚定且不可撤销的”，并指责法院对非洲和拉丁美洲存在地理偏见。根据《罗马规约》（国际刑事法院的创始条约），退出在通知后一年生效。\n\n退出国家在该期间内仍受其义务约束，现有调查和诉讼可以继续。因此，预计国际刑事法院对委内瑞拉的调查将不受退出公告的影响。乍得和委内瑞拉加入了去年宣布计划退出法院的布基纳法索、马里和尼日尔的行列。国际刑事法院还面临美国总统唐纳德·特朗普政府的日益增大的压力，该政府承诺采取广泛措施限制法院的权力。美国官员批评国际刑事法院对以色列总理本雅明·内塔尼亚胡发出逮捕令，该逮捕令与加沙涉嫌战争罪有关，以及法院对阿富汗涉嫌涉及外国军队（包括美国人员）的罪行的调查。"
+      "fullText": "Cuba's National Electric System suffered another disconnection on Monday while efforts were still underway to restore the grid following the previous night's total blackout in Havana, Cuba, August 5, 2026. \nThe United States on Thursday imposed sanctions on eight senior Cuban military officials and five entities, targeting procurement networks linked to weapons and military equipment in an effort to cut off state revenue and restrict what Washington described as \"foreign adversary operations.\"\nThe latest measures mark a new step in Washington's growing pressure campaign against Havana.\nOn Thursday, several UN human rights experts criticized the United States' recent expansion of unilateral sanctions against Cuba, saying the measures sought to influence the constitutional order of a sovereign country through pressure and coercion, in violation of the UN Charter.\nThe experts urged the international community and civil society to take immediate action to prevent a humanitarian crisis in Cuba. They said new US sanctions targeting key economic sectors, including energy, had worsened fuel shortages and nationwide power outages, while putting further strain on basic services such as healthcare and food supplies. They called on Washington to lift measures that violate international law.\nThe United States has maintained a decades-long economic, financial and trade embargo against Cuba. After launching military actions against Venezuela and Iran earlier this year, US President Donald Trump warned that \"Cuba is next\" and further tightened pressure on Havana, including measures targeting oil supplies.\nBeyond sanctions and economic restrictions, the United States has also expanded intelligence activities focused on Cuba.\nAccording to US media reports on Wednesday, the Central Intelligence Agency (CIA) has secretly established a Cuba task force to increase funding, personnel and technical resources for intelligence gathering and covert operations targeting the island nation. Its reported objectives include attempting to create internal divisions and seek changes in Cuba's leadership.\nSources familiar with the matter said the task force is increasing the number of intelligence officers and analysts responsible for recruiting and managing sources, as well as personnel involved in cyber operations and covert infiltration efforts.\nCuban Deputy Foreign Minister Carlos Fernandez de Cossio said in a statement that Washington's actions came as no surprise, accusing the CIA of carrying out espionage, subversion and sabotage activities against Cuba for decades, including what he called \"terrorist operations.\"\nHe criticized the United States for portraying Cuba's defensive measures as threats while simultaneously pursuing actions aimed at pressuring and destabilizing the country.",
+      "fullTextCn": "古巴国家电力系统周一再次发生断电，而此前一晚哈瓦那全面停电后的恢复工作仍在进行中，时间为2026年8月5日。美国周四对八名古巴高级军事官员和五个实体实施制裁，针对与武器和军事装备相关的采购网络，旨在切断国家收入并限制华盛顿所称的“外国敌对行动”。\n\n最新措施标志着华盛顿对哈瓦那施压运动的新一步。周四，多位联合国人权专家批评美国近期扩大对古巴的单边制裁，称这些措施试图通过施压和胁迫影响主权国家的宪法秩序，违反《联合国宪章》。专家们敦促国际社会和民间社会立即采取行动，防止古巴发生人道主义危机。他们表示，美国针对能源等关键经济部门的新制裁加剧了燃料短缺和全国性停电，同时给医疗和食品供应等基本服务带来更大压力。他们呼吁华盛顿取消违反国际法的措施。\n\n美国对古巴实施了长达数十年的经济、金融和贸易禁运。今年早些时候对委内瑞拉和伊朗发动军事行动后，美国总统唐纳德·特朗普警告“古巴是下一个”，并进一步加大对哈瓦那的压力，包括针对石油供应的措施。除了制裁和经济限制，美国还扩大了对古巴的情报活动。据美国媒体周三报道，中央情报局（CIA）秘密成立了古巴特别工作组，以增加用于针对该岛国的情报收集和秘密行动的资金、人员和技术资源。其报告的目标包括试图制造内部分裂并寻求古巴领导层的变更。熟悉此事的人士表示，该工作组正在增加负责招募和管理线人的情报官员和分析师数量，以及参与网络行动和秘密渗透行动的人员。\n\n古巴副外长卡洛斯·费尔南德斯·德科西奥在声明中表示，华盛顿的行动并不令人意外，他指责中央情报局数十年来对古巴进行间谍、颠覆和破坏活动，包括他所谓的“恐怖行动”。他批评美国将古巴的防御措施描绘成威胁，同时却采取旨在施压和破坏该国稳定的行动。"
     },
     {
-      "id": 5,
-      "category": "military",
+      "id": 4,
+      "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-05/T-rkiye-s-ruling-alliance-presents-legal-framework-for-PKK-disarmament-1PmNdJjm3OU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Türkiye's ruling alliance presents legal framework for PKK disarmament",
-      "titleCn": "土耳其执政联盟提出库尔德工人党解除武装的法律框架",
-      "summary": "Türkiye's ruling alliance presents legal framework for PKK disarmament",
-      "summaryCn": "土耳其执政联盟提交立法草案，为库尔德工人党解除武装提供法律依据，但排除高层领导人和严重罪犯。",
-      "wordCount": 287,
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-07/Global-food-prices-edge-up-in-July-amid-heat-waves-conflicts-FAO-1Pq2ABQatSE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Global food prices edge up in July amid heat waves, conflicts: FAO",
+      "titleCn": "联合国粮农组织：全球食品价格7月因热浪和冲突小幅上涨",
+      "summary": "Global food commodity prices rose slightly in July, driven by higher prices for cereals, sugar and vegetable oils, while lower meat and dairy prices partly offset the increase, according to a report released Friday by the Food and Agriculture Organization (FAO) of the United Nations.",
+      "summaryCn": "7月全球食品价格因谷物、糖和植物油价格上涨而小幅上升，但肉类和乳制品价格下跌部分抵消了涨幅。",
+      "wordCount": 265,
       "paragraphs": [
         {
-          "en": "Türkiye's ruling {{0}} said Wednesday it had submitted draft legislation to parliament to establish a legal {{1}} for {{2}} the Kurdistan Workers' Party (PKK)'s {{3}}, a key step in advancing the government's initiative to end PKK {{4}}. The draft legislation has been {{5}} by President Recep Tayyip Erdogan's Justice and Development Party (AKP) and its ally, and has also received {{6}} from the pro-Kurdish DEM Party and other opposition groups, Abdullah Guler, a leading AKP lawmaker, told reporters. According to the government, the proposed legislation is designed to {{7}} the disarmament process rather than grant a general {{8}}. It would allow lower-ranking PKK members who have not been involved in killings or other serious violent crimes to return to Türkiye from {{9}} in northern Iraq and Syria under {{10}} legal conditions. Inmates who were not directly involved in armed attacks or bombings could become {{11}} for release or {{12}} {{13}} under the proposed legal framework, while imprisoned PKK founder Abdullah Ocalan, senior PKK leaders and inmates serving aggravated life sentences are {{14}}. The draft must first be {{15}} by a parliamentary committee before being put to a vote in the General Assembly, where lawmakers are expected to debate the bill before parliament begins its summer recess later this month. The PKK, which has {{16}} an insurgency against the Turkish state since 1984, announced in May 2025 its decision to disarm and {{17}}, following a call by Ocalan to end the armed struggle. The decades-long conflict has claimed more than 40,000 lives. (Cover: Members of Kurdistan Workers' Party (PKK) dance as they celebrate the Nowruz New Year festival in the Qandil Mountains, part of the Zagros mountain range, near the Iraqi-Iranian-Turkish borders, northeastern Iraq on March 21, 2026.",
-          "cn": "土耳其执政联盟周三表示，已向议会提交立法草案，旨在建立实施库尔德工人党（PKK）解除武装的法律框架，这是推进政府终结库尔德工人党叛乱倡议的关键一步。执政党正义与发展党（AKP）及其盟友支持该草案，并获得了亲库尔德的人民平等与民主党（DEM）及其他反对派团体的支持，执政党议员阿卜杜拉·居勒告诉记者。据政府称，拟议立法旨在促进解除武装进程，而非给予全面大赦。该法案将允许未参与杀戮或其他严重暴力犯罪的低级库尔德工人党成员，在特定法律条件下从伊拉克北部和叙利亚的藏身地返回土耳其。根据拟议法律框架，未直接参与武装袭击或爆炸事件的囚犯可能有资格获释或接受监督缓刑，而库尔德工人党创始人阿卜杜拉·奥贾兰、高级领导人和被判加重终身监禁的囚犯则被排除在外。草案必须先经议会委员会批准，然后提交大国民议会表决，预计议员们将在本月晚些时候议会夏季休会前就该法案进行辩论。自1984年以来一直对土耳其国家发动叛乱的库尔德工人党，在奥贾兰呼吁结束武装斗争后，于2025年5月宣布决定解除武装并解散。这场持续数十年的冲突已夺去超过4万人的生命。（封面：2026年3月21日，伊拉克东北部，靠近伊拉克-伊朗-土耳其边境的扎格罗斯山脉坎迪尔山区，库尔德工人党成员跳舞庆祝诺鲁孜新年节日。）"
+          "en": "Global food {{0}} prices rose slightly in July, {{1}} by higher prices for cereals, sugar and vegetable oils, while lower meat and dairy prices partly {{2}} the increase, according to a report released Friday by the Food and Agriculture Organization (FAO) of the United Nations. The FAO Food Price Index {{3}} 131.1 points in July, up 0.6% from June and 1% higher than a year earlier. However, it remained 18.2% below its {{4}} high reached in March 2022. The FAO said the cereal price index rose 3.4% month on month. Wheat prices climbed 5.8% amid concerns over {{5}} to Black Sea exports and heat waves {{6}} major producing regions, while {{7}} prices increased 3.6% due to hot and dry weather in parts of the US Corn Belt and stronger energy markets.",
+          "cn": "根据联合国粮食及农业组织（FAO）周五发布的报告，全球食品商品价格在7月略有上涨，主要受谷物、糖和植物油价格上涨推动，而肉类和乳制品价格下跌部分抵消了涨幅。FAO食品价格指数7月平均为131.1点，较6月上涨0.6%，比去年同期高1%。然而，该指数仍比2022年3月创下的历史高点低18.2%。FAO表示，谷物价格指数环比上涨3.4%。小麦价格上涨5.8%，原因是黑海出口中断的担忧以及影响主要产区的高温天气，而玉米价格上涨3.6%，归因于美国玉米带部分地区炎热干燥的天气和能源市场走强。"
+        },
+        {
+          "en": "Rice prices remained broadly stable. The vegetable oil price index gained 2% to its highest level since June 2022, supported by stronger palm oil prices on {{8}} {{9}} demand in Indonesia and higher crude oil prices, as well as {{10}} soybean oil prices, the report said. Sugar prices rose 5.6% from June, {{11}} concerns over hot and dry weather in Europe, {{12}} weather risks in major Asian producing countries and {{13}} that Brazil's higher {{16}} {{14}} requirement would {{15}} more sugarcane to ethanol production, according to the report. Meanwhile, the meat and dairy price {{17}} fell 2.8% and 0.7%, respectively, said the report. The FAO said global food prices remain well below the peak recorded in 2022, but {{18}} {{19}} and extreme weather continue to put {{20}} pressure on prices of some agricultural commodities.",
+          "cn": "大米价格基本保持稳定。报告称，植物油价格指数上涨2%，达到2022年6月以来的最高水平，主要受印尼生物柴油需求强劲和原油价格上涨推动的棕榈油价格走强，以及豆油价格上涨的影响。报告显示，糖价较6月上涨5.6%，反映出对欧洲炎热干燥天气、亚洲主要生产国不利天气风险的担忧，以及巴西提高乙醇掺混比例将导致更多甘蔗用于乙醇生产的预期。与此同时，报告称，肉类和乳制品价格指数分别下跌2.8%和0.7%。FAO表示，全球食品价格仍远低于2022年的峰值，但地缘政治紧张局势和极端天气继续对部分农产品价格构成上行压力。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "alliance",
-          "hint": "n. 联盟",
+          "answer": "commodity",
+          "hint": "n. 商品",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "framework",
-          "hint": "n. 框架",
-          "difficulty": "medium"
+          "answer": "driven",
+          "hint": "v. 推动",
+          "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "implementing",
-          "hint": "v. 实施",
+          "answer": "offset",
+          "hint": "v. 抵消",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "disarmament",
-          "hint": "n. 解除武装",
-          "difficulty": "hard"
+          "answer": "averaged",
+          "hint": "v. 平均为",
+          "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "insurgency",
-          "hint": "n. 叛乱",
-          "difficulty": "hard"
+          "answer": "record",
+          "hint": "n. 记录",
+          "difficulty": "easy"
         },
         {
           "id": 5,
-          "answer": "endorsed",
-          "hint": "v. 支持，认可",
+          "answer": "disruptions",
+          "hint": "n. 中断",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "backing",
-          "hint": "n. 支持",
-          "difficulty": "medium"
+          "answer": "affecting",
+          "hint": "v. 影响",
+          "difficulty": "easy"
         },
         {
           "id": 7,
-          "answer": "facilitate",
-          "hint": "v. 促进",
+          "answer": "maize",
+          "hint": "n. 玉米",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "amnesty",
-          "hint": "n. 大赦",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "hideouts",
-          "hint": "n. 藏身处",
+          "answer": "robust",
+          "hint": "adj. 强劲的",
           "difficulty": "medium"
         },
         {
+          "id": 9,
+          "answer": "biodiesel",
+          "hint": "n. 生物柴油",
+          "difficulty": "hard"
+        },
+        {
           "id": 10,
-          "answer": "specified",
-          "hint": "adj. 特定的",
+          "answer": "firmer",
+          "hint": "adj. 更坚挺的",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "eligible",
-          "hint": "adj. 有资格的",
+          "answer": "reflecting",
+          "hint": "v. 反映",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "supervised",
-          "hint": "adj. 受监督的",
+          "answer": "adverse",
+          "hint": "adj. 不利的",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "probation",
-          "hint": "n. 缓刑",
-          "difficulty": "hard"
+          "answer": "expectations",
+          "hint": "n. 预期",
+          "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "excluded",
-          "hint": "v. 排除",
+          "answer": "blending",
+          "hint": "n. 混合",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "divert",
+          "hint": "v. 转移",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "ethanol",
+          "hint": "n. 乙醇",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "indices",
+          "hint": "n. 指数",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "geopolitical",
+          "hint": "adj. 地缘政治的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "tensions",
+          "hint": "n. 紧张局势",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "upward",
+          "hint": "adj. 向上的",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "Global food commodity prices rose slightly in July, driven by higher prices for cereals, sugar and vegetable oils, while lower meat and dairy prices partly offset the increase, according to a report released Friday by the Food and Agriculture Organization (FAO) of the United Nations.\nThe FAO Food Price Index averaged 131.1 points in July, up 0.6% from June and 1% higher than a year earlier. However, it remained 18.2% below its record high reached in March 2022.\nThe FAO said the cereal price index rose 3.4% month on month. Wheat prices climbed 5.8% amid concerns over disruptions to Black Sea exports and heat waves affecting major producing regions, while maize prices increased 3.6% due to hot and dry weather in parts of the US Corn Belt and stronger energy markets. Rice prices remained broadly stable.\nThe vegetable oil price index gained 2% to its highest level since June 2022, supported by stronger palm oil prices on robust biodiesel demand in Indonesia and higher crude oil prices, as well as firmer soybean oil prices, the report said.\nSugar prices rose 5.6% from June, reflecting concerns over hot and dry weather in Europe, adverse weather risks in major Asian producing countries and expectations that Brazil's higher ethanol blending requirement would divert more sugarcane to ethanol production, according to the report.\nMeanwhile, the meat and dairy price indices fell 2.8% and 0.7%, respectively, said the report.\nThe FAO said global food prices remain well below the peak recorded in 2022, but geopolitical tensions and extreme weather continue to put upward pressure on prices of some agricultural commodities.",
+      "fullTextCn": "根据联合国粮食及农业组织（FAO）周五发布的报告，全球食品商品价格在7月略有上涨，主要受谷物、糖和植物油价格上涨推动，而肉类和乳制品价格下跌部分抵消了涨幅。FAO食品价格指数7月平均为131.1点，较6月上涨0.6%，比去年同期高1%。然而，该指数仍比2022年3月创下的历史高点低18.2%。FAO表示，谷物价格指数环比上涨3.4%。小麦价格上涨5.8%，原因是黑海出口中断的担忧以及影响主要产区的高温天气，而玉米价格上涨3.6%，归因于美国玉米带部分地区炎热干燥的天气和能源市场走强。\n\n大米价格基本保持稳定。报告称，植物油价格指数上涨2%，达到2022年6月以来的最高水平，主要受印尼生物柴油需求强劲和原油价格上涨推动的棕榈油价格走强，以及豆油价格上涨的影响。报告显示，糖价较6月上涨5.6%，反映出对欧洲炎热干燥天气、亚洲主要生产国不利天气风险的担忧，以及巴西提高乙醇掺混比例将导致更多甘蔗用于乙醇生产的预期。与此同时，报告称，肉类和乳制品价格指数分别下跌2.8%和0.7%。FAO表示，全球食品价格仍远低于2022年的峰值，但地缘政治紧张局势和极端天气继续对部分农产品价格构成上行压力。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-18/China-Indonesia-investment-cooperation-holds-potential-official-says-1OSOEHF0un6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "China, Indonesia investment cooperation holds potential, official says",
+      "titleCn": "官员称中国与印尼投资合作潜力巨大",
+      "summary": "Luhut Binsar Pandjaitan, chairman of Indonesia's National Economic Council, stated recently that Indonesia will take steps to strengthen investor confidence, noting that China's support and assistance are indispensable, and there are broad prospects for investment cooperation between the two countries.",
+      "summaryCn": "印尼国家经济委员会主席卢胡特表示，中国支持对印尼发展至关重要，两国在投资合作方面前景广阔。",
+      "wordCount": 188,
+      "paragraphs": [
+        {
+          "en": "Luhut Binsar Pandjaitan, {{0}} of Indonesia's National Economic Council, stated recently that Indonesia will take steps to {{1}} investor confidence, noting that China's support and assistance are {{2}}, and there are broad {{3}} for investment cooperation between the two countries. He made the remarks when {{4}} the G20 Bali Global Blended Finance Forum in May. Luhut noted that with {{6}} development, Indonesia's national development has entered a new phase, making it {{7}} for the country to {{8}} foreign investment and {{9}} {{10}} technologies.o has {{11}} {{12}} fostering a {{13}} business {{14}} for foreign investment and {{15}} that necessary {{16}} be taken to {{17}} investor confidence. Luhut said that investment cooperation with China and Indonesia has {{18}} in recent years. Experience shows that China not only {{19}} advanced technology but is also willing to share its development experience with Indonesia {{20}}, rather than {{21}} offering {{22}} promises. In the future, Indonesia will increase investment in areas such as digital {{23}}, {{24}} intelligence, healthcare and the construction of international financial centers. China's support and assistance will be indispensable, and the two sides have vast potential for investment cooperation, Luhut added.",
+          "cn": "印尼国家经济委员会主席卢胡特·宾萨·潘查伊坦近日表示，印尼将采取措施增强投资者信心，并指出中国的支持和援助不可或缺，两国之间的投资合作前景广阔。他是在5月出席G20巴厘岛全球混合金融论坛时发表上述言论的。卢胡特指出，随着快速发展，印尼的国家发展已进入新阶段，因此扩大外国投资和引进先进技术对国家至关重要。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "chairman",
+          "hint": "n. 主席",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "strengthen",
+          "hint": "v. 加强",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "indispensable",
+          "hint": "adj. 不可或缺的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "prospects",
+          "hint": "n. 前景",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "attending",
+          "hint": "v. 出席",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "rapid",
+          "hint": "adj. 快速的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "vital",
+          "hint": "adj. 至关重要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "expand",
+          "hint": "v. 扩大",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "introduce",
+          "hint": "v. 引进",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "advanced",
+          "hint": "adj. 先进的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "explicitly",
+          "hint": "adv. 明确地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "demanded",
+          "hint": "v. 要求",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "favorable",
+          "hint": "adj. 有利的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "environment",
+          "hint": "n. 环境",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "instructed",
+          "hint": "v. 指示",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "approved",
-          "hint": "v. 批准",
+          "answer": "measures",
+          "hint": "n. 措施",
           "difficulty": "easy"
         },
         {
           "id": 16,
-          "answer": "waged",
-          "hint": "v. 发动（战争）",
+          "answer": "boost",
+          "hint": "v. 提升",
           "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "disband",
-          "hint": "v. 解散",
+          "answer": "deepened",
+          "hint": "v. 深化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "possesses",
+          "hint": "v. 拥有",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "genuinely",
+          "hint": "adv. 真诚地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "merely",
+          "hint": "adv. 仅仅",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "verbal",
+          "hint": "adj. 口头的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "artificial",
+          "hint": "adj. 人工的",
           "difficulty": "medium"
         }
       ],
-      "fullText": "Türkiye's ruling alliance said Wednesday it had submitted draft legislation to parliament to establish a legal framework for implementing the Kurdistan Workers' Party (PKK)'s disarmament, a key step in advancing the government's initiative to end PKK insurgency.\nThe draft legislation has been endorsed by President Recep Tayyip Erdogan's Justice and Development Party (AKP) and its ally, and has also received backing from the pro-Kurdish DEM Party and other opposition groups, Abdullah Guler, a leading AKP lawmaker, told reporters.\nAccording to the government, the proposed legislation is designed to facilitate the disarmament process rather than grant a general amnesty.\nIt would allow lower-ranking PKK members who have not been involved in killings or other serious violent crimes to return to Türkiye from hideouts in northern Iraq and Syria under specified legal conditions.\nInmates who were not directly involved in armed attacks or bombings could become eligible for release or supervised probation under the proposed legal framework, while imprisoned PKK founder Abdullah Ocalan, senior PKK leaders and inmates serving aggravated life sentences are excluded.\nThe draft must first be approved by a parliamentary committee before being put to a vote in the General Assembly, where lawmakers are expected to debate the bill before parliament begins its summer recess later this month.\nThe PKK, which has waged an insurgency against the Turkish state since 1984, announced in May 2025 its decision to disarm and disband, following a call by Ocalan to end the armed struggle. The decades-long conflict has claimed more than 40,000 lives.\n(Cover: Members of Kurdistan Workers' Party (PKK) dance as they celebrate the Nowruz New Year festival in the Qandil Mountains, part of the Zagros mountain range, near the Iraqi-Iranian-Turkish borders, northeastern Iraq on March 21, 2026.",
-      "fullTextCn": "土耳其执政联盟周三表示，已向议会提交立法草案，旨在建立实施库尔德工人党（PKK）解除武装的法律框架，这是推进政府终结库尔德工人党叛乱倡议的关键一步。执政党正义与发展党（AKP）及其盟友支持该草案，并获得了亲库尔德的人民平等与民主党（DEM）及其他反对派团体的支持，执政党议员阿卜杜拉·居勒告诉记者。据政府称，拟议立法旨在促进解除武装进程，而非给予全面大赦。该法案将允许未参与杀戮或其他严重暴力犯罪的低级库尔德工人党成员，在特定法律条件下从伊拉克北部和叙利亚的藏身地返回土耳其。根据拟议法律框架，未直接参与武装袭击或爆炸事件的囚犯可能有资格获释或接受监督缓刑，而库尔德工人党创始人阿卜杜拉·奥贾兰、高级领导人和被判加重终身监禁的囚犯则被排除在外。草案必须先经议会委员会批准，然后提交大国民议会表决，预计议员们将在本月晚些时候议会夏季休会前就该法案进行辩论。自1984年以来一直对土耳其国家发动叛乱的库尔德工人党，在奥贾兰呼吁结束武装斗争后，于2025年5月宣布决定解除武装并解散。这场持续数十年的冲突已夺去超过4万人的生命。（封面：2026年3月21日，伊拉克东北部，靠近伊拉克-伊朗-土耳其边境的扎格罗斯山脉坎迪尔山区，库尔德工人党成员跳舞庆祝诺鲁孜新年节日。）"
+      "fullText": "Luhut Binsar Pandjaitan, chairman of Indonesia's National Economic Council, stated recently that Indonesia will take steps to strengthen investor confidence, noting that China's support and assistance are indispensable, and there are broad prospects for investment cooperation between the two countries.\nHe made the remarks when attending the G20 Bali Global Blended Finance Forum in May.\nLuhut noted that with rapid development, Indonesia's national development has entered a new phase, making it vital for the country to expand foreign investment and introduce advanced technologies.o has explicitly demanded fostering a favorable business environment for foreign investment and instructed that necessary measures be taken to boost investor confidence.\nLuhut said that investment cooperation with China and Indonesia has deepened in recent years. Experience shows that China not only possesses advanced technology but is also willing to share its development experience with Indonesia genuinely, rather than merely offering verbal promises.\nIn the future, Indonesia will increase investment in areas such as digital infrastructure, artificial intelligence, healthcare and the construction of international financial centers. China's support and assistance will be indispensable, and the two sides have vast potential for investment cooperation, Luhut added.",
+      "fullTextCn": "印尼国家经济委员会主席卢胡特·宾萨·潘查伊坦近日表示，印尼将采取措施增强投资者信心，并指出中国的支持和援助不可或缺，两国之间的投资合作前景广阔。他是在5月出席G20巴厘岛全球混合金融论坛时发表上述言论的。卢胡特指出，随着快速发展，印尼的国家发展已进入新阶段，因此扩大外国投资和引进先进技术对国家至关重要。\n\n卢胡特表示，近年来中国与印尼的投资合作不断深化。经验表明，中国不仅拥有先进技术，而且愿意真诚地与印尼分享其发展经验，而不仅仅是口头承诺。未来，印尼将加大对数字基础设施、人工智能、医疗保健和国际金融中心建设等领域的投资。中国的支持和援助将不可或缺，双方在投资合作方面潜力巨大，卢胡特补充道。"
     }
   ]
 }
