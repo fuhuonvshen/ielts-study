@@ -1,660 +1,678 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "articles": [
     {
       "id": 1,
-      "category": "education",
+      "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://newsaf.cgtn.com/news/2026-08-04/Kenya-hosts-Africa-s-China-backed-university-innovation-competition-1Pjs5dNIm9G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Kenya hosts Africa's China-backed university innovation competition",
-      "titleCn": "肯尼亚举办非洲第二届中国高校创新创业大赛",
-      "summary": "First launched in China, the event expanded overseas in 2025, with Kenya becoming the first country outside China to host the African regional competition. Following the inaugural African edition last year, Kenya once again staged the event this year.",
-      "summaryCn": "肯尼亚主办了第二届中国国际大学生创新大赛非洲赛区，汇聚非洲青年创新者展示解决粮食安全、医疗等挑战的方案，并促进中非教育科技合作。",
-      "wordCount": 903,
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-07/China-steps-up-coordinated-tech-enabled-response-to-Typhoon-Dolphin-1Pptw1EmPJu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "China steps up coordinated, tech-enabled response to Typhoon Dolphin",
+      "titleCn": "中国加强协调与技术驱动的应对措施以抵御台风“海豚”",
+      "summary": "China's meteorological, marine, water resources and agricultural authorities have stepped up coordinated emergency response measures after Typhoon Dolphin entered the country's 48-hour warning zone on Wednesday night.",
+      "summaryCn": "中国各部门利用人工智能和数字孪生技术，协调应对台风“海豚”，以减轻其对海洋、农业和人民生命财产的潜在影响。",
+      "wordCount": 577,
       "paragraphs": [
         {
-          "en": "Kenya hosted the second African edition of the China International College Students' Innovation Competition, bringing together young innovators from across the continent to {{0}} practical {{1}} to challenges including food security, healthcare, biotechnology and sustainable agriculture. The competition is organized by the Ministry of Education of the People's Republic of China together with 11 other institutions. First launched in China, the event {{2}} overseas in 2025, with Kenya becoming the first country outside China to host the African {{3}} competition. Following the {{4}} African edition last year, Kenya once again staged the event this year. The competition encourages university students to translate classroom learning into innovative solutions for real-world problems while {{5}} educational and scientific cooperation between Africa and China.",
-          "cn": "肯尼亚主办了第二届中国国际大学生创新大赛非洲赛区，汇聚了来自非洲大陆各地的青年创新者，展示应对粮食安全、医疗保健、生物技术和可持续农业等挑战的实用解决方案。该大赛由中华人民共和国教育部及其他11家机构共同组织。该赛事最初在中国启动，于2025年扩展到海外，肯尼亚成为首个在中国以外举办非洲区域赛的国家。继去年首届非洲赛区后，肯尼亚今年再次承办。大赛鼓励大学生将课堂所学转化为解决实际问题的创新方案，同时加强非洲与中国之间的教育和科学合作。"
+          "en": "A photo shows more than 1,000 fishing boats moored in an orderly manner to shelter from Typhoon Dolphin, Ruoshan Fishing Port, Shitang Town, Wenling City, Zhejiang Province, east China, August 5, 2026. China's meteorological, marine, water resources and agricultural authorities have stepped up {{0}} emergency response measures after Typhoon Dolphin entered the country's 48-hour warning zone on Wednesday night. Authorities are {{1}} advanced technologies, including artificial intelligence (AI) and digital twin systems, to conduct early {{2}}, improve {{3}} accuracy and strengthen disaster prevention efforts against the approaching typhoon. According to the National Marine Environmental Forecasting Center (NMEFC), the typhoon is moving {{4}} westward with a wind field {{5}} approximately 500 to 600 kilometers from its center. Its outer rain-bands have already begun affecting the East China Sea, and residents in both coastal and inland regions are advised to closely {{6}} its development.",
+          "cn": "一张照片显示，2026年8月5日，在中国东部浙江省温岭市石塘镇若山渔港，超过1000艘渔船有序停泊以躲避台风“海豚”。在台风“海豚”于周三晚进入中国48小时警戒区后，中国气象、海洋、水资源和农业部门已加强协调应急响应措施。当局正在利用包括人工智能（AI）和数字孪生系统在内的先进技术，进行早期模拟，提高预报准确性，并加强针对即将来临台风的防灾工作。据国家海洋环境预报中心（NMEFC）称，台风正稳定向西移动，其风场范围从中心延伸约500至600公里。其外围雨带已开始影响东海，沿海和内陆地区的居民被建议密切关注其发展。"
         },
         {
-          "en": "Students from various universties from Africa receive gold and silver medals during the China International College Students' Innovation Competition in Nairobi, Kenya, July 28, 2026. Africa\nKenyan education officials said supporting young innovators is {{6}} given Africa's youthful population. \"I think one of the most important things for us is really to look at ways and means of how we can be able to support our youth,\" a Kenyan education official said. \"In Kenya, 75% of the population is aged 35 and below, while Africa has almost 400 million young people in the same age bracket. We want to {{7}} their creativity and provide {{8}} by helping them develop their talents,\" said Professor Shaukat Abdulrazak, Kenya's Principal Secretary for the State Department for Science, Research and Innovation.",
-          "cn": "来自非洲各大学的学生在2026年7月28日于肯尼亚内罗毕举行的中国国际大学生创新大赛中获得金银奖。肯尼亚教育官员表示，鉴于非洲青年人口众多，支持青年创新者至关重要。一位肯尼亚教育官员说：“我认为对我们来说最重要的事情之一，就是真正寻找支持青年的方式和方法。”肯尼亚科学、研究与创新部首席秘书Shaukat Abdulrazak教授表示：“肯尼亚75%的人口年龄在35岁及以下，而非洲有近4亿年轻人处于同一年龄段。我们希望培养他们的创造力，通过指导帮助他们发展才能。”"
+          "en": "Forecasts indicate that coastal waters of the East China Sea may experience {{7}} wave heights of 4 to 7 meters around August 9, with individual wave crests expected to be substantially higher. \"The typhoon has an {{8}} wind field and is expected to slow down after entering China's coastal waters,\" said Huang Huanqing, chief forecaster with the NMEFC. \"Its impact may not be readily apparent from the shoreline, making the dangerous sea conditions difficult to perceive. The public should avoid approaching the coast to watch waves and should not {{9}} the risks.\"\nThe typhoon is also expected to bring {{10}} torrential rainfall after making landfall. Saturated soil in many parts of eastern Zhejiang Province could significantly increase the risks of flash floods, water-logging and geological disasters.",
+          "cn": "预报显示，8月9日前后，东海沿海海域可能出现4至7米的显著浪高，个别波峰预计会更高。“台风风场广阔，预计进入中国沿海海域后会减速，”NMEFC首席预报员黄焕清说。“其影响可能从海岸线不易察觉，使得危险海况难以感知。公众应避免靠近海岸观浪，不应低估风险。”台风登陆后还可能带来长时间的暴雨。浙江东部许多地区土壤饱和，可能显著增加山洪、内涝和地质灾害的风险。"
         },
         {
-          "en": "Professor Abdulrazak said the {{9}} {{10}} between Africa and China, and between Kenya and China since independence, continues to create opportunities for cooperation in education, innovation and skills development. Nanjing Agricultural University Vice President, Professor Feng Shuyi said the competition pushes students beyond academic theory by requiring them to develop practical solutions to {{11}} challenges. \"The competition encourages university students to apply what they have learned in the classroom to real-world problems,\" Feng said. Professor Feng Shuyi, Vice President of Nanjing Agricultural University, during the China International College Students' Innovation Competition in Nairobi, Kenya, July 28, 2026. Africa\nMany of the projects presented focused on improving food security, tackling water {{12}}, preventing crop diseases and advancing healthcare technologies.",
-          "cn": "Abdulrazak教授表示，非洲与中国之间，以及肯尼亚与中国自独立以来的长期伙伴关系，继续为教育、创新和技能发展领域的合作创造机会。南京农业大学副校长冯淑怡教授表示，大赛通过要求学生开发解决社会挑战的实用方案，推动学生超越学术理论。冯淑怡说：“大赛鼓励大学生将课堂所学应用于现实问题。”2026年7月28日，南京农业大学副校长冯淑怡教授在肯尼亚内罗毕举行的中国国际大学生创新大赛上发言。许多展示的项目侧重于改善粮食安全、解决水资源短缺、预防作物病害和推进医疗技术。"
+          "en": "The Ministry of Water Resources is using digital twin technology and AI-powered flood modeling to simulate flood evolution and develop targeted {{12}} plans in advance. Once potential hazards are detected, an intelligent early warning system will automatically notify responsible officials to ensure a timely emergency response. Affected by Typhoon Dolphin, giant waves over 10 meters high surged off the coast of Shitang in Wenling, east China's Zhejiang Province, August 5, 2026. According to Wang Lin, chief hydrological forecaster with the ministry, provinces including Zhejiang, Fujian, Jiangxi, Hunan, Hubei, Anhui, Jiangsu, Henan and Shandong are expected to experience heavy to torrential rainfall, with isolated areas likely to see extremely heavy downpours. \"The public is advised to reduce unnecessary travel and pay close attention to flood forecasts and flash flood warnings issued by water authorities,\" Wang said.",
+          "cn": "水利部正在使用数字孪生技术和人工智能驱动的洪水模型，模拟洪水演变并提前制定针对性应急预案。一旦发现潜在危险，智能预警系统将自动通知负责官员，确保及时应急响应。受台风“海豚”影响，2026年8月5日，中国东部浙江省温岭石塘海岸出现超过10米的巨浪。据该部首席水文预报员王林称，浙江、福建、江西、湖南、湖北、安徽、江苏、河南和山东等省份预计将出现大到暴雨，部分地区可能出现特大暴雨。“建议公众减少不必要出行，密切关注水利部门发布的洪水预报和山洪预警，”王林说。"
         },
         {
-          "en": "Professor Abdulrazak said that the competition gives students an opportunity to use innovation and technology to solve problems affecting communities. \"I was very {{14}} to see some of the projects related to health, including traditional Chinese medicine that is being {{15}} by the African younger generation. We also saw areas of biotechnology aimed at {{13}} food safety and food security,\" Prof. Abdulrazak said. Professor Shaukat Abdulrazak, Kenya's Principal Secretary for the State Department for Science, Research and Innovation, during the China International College Students' Innovation Competition in Nairobi, Kenya, July 28, 2026.",
-          "cn": "Abdulrazak教授表示，大赛为学生提供了利用创新和技术解决影响社区问题的机会。Abdulrazak教授说：“我印象深刻的是，一些与健康相关的项目，包括非洲年轻一代正在实施的中医药项目。我们还看到了旨在增强食品安全和粮食安全的生物技术领域。”2026年7月28日，肯尼亚科学、研究与创新部首席秘书Shaukat Abdulrazak教授在肯尼亚内罗毕举行的中国国际大学生创新大赛上发言。"
+          "en": "The typhoon is also expected to pose significant challenges to agricultural production. Along China's coast, aquaculture facilities, including offshore fish cages, face the threat of strong waves. In eastern China, late-season rice, fruits and vegetables are {{13}} to lodging caused by strong winds and farmland inundation. Should the typhoon track further north, major autumn grain-producing regions in the Huang-Huai-Hai Plain and northeastern China could also be affected by heavy rainfall. The Ministry of Agriculture and Rural Affairs has urged farmers to clear drainage channels, improve field drainage, harvest mature crops as early as possible, and {{14}} greenhouses, orchards and other agricultural facilities against strong winds.",
+          "cn": "台风预计还将对农业生产构成重大挑战。在中国沿海，包括近海网箱在内的水产养殖设施面临强浪威胁。在华东地区，晚稻、水果和蔬菜易受强风倒伏和农田淹水影响。如果台风路径进一步北移，黄淮海平原和东北地区的主要秋粮产区也可能受到强降雨影响。农业农村部已敦促农民清理排水渠道，改善田间排水，尽早收获成熟作物，并加固温室、果园和其他农业设施以抵御强风。"
         },
         {
-          "en": "Africa\nAmong the gold medal-winning projects was one from Malawi's Lilongwe University of Agriculture and Natural Resources, which showcased an innovation designed to improve agricultural {{16}} for smallholder farmers. Ufulu Kampinga, a student at the university, said the project, titled Malawi Youth Hope Seeds in Africa Science and Technology Backyard Entrepreneurship Project, aims to improve farmers' incomes, {{17}} and crop production. \"Our project is helping smallholder farmers in Malawi earn more, eat enough and eat better,\" Kampinga said. \"We encourage practices such as {{18}} maize with soybeans to improve nutrition while increasing harvests so farmers can strengthen their food security throughout the year.\"\nFellow student Monica Didas said the team developed the project to address {{19}} farming challenges. \"Using this technology and the model introduced through China's support, we have been able to overcome some of those challenges,\" Didas said.",
-          "cn": "在获得金奖的项目中，有一个来自马拉维利隆圭农业与自然资源大学，展示了一项旨在提高小农户农业生产力的创新。该大学学生Ufulu Kampinga表示，这个名为“马拉维青年希望种子非洲科技小院创业项目”的项目旨在提高农民的收入、营养和作物产量。Kampinga说：“我们的项目正在帮助马拉维的小农户赚更多钱、吃饱吃好。”他补充道：“我们鼓励玉米与大豆间作等做法，以改善营养，同时提高收成，使农民全年加强粮食安全。”同学Monica Didas表示，团队开发该项目是为了应对持续的农业挑战。Didas说：“通过这项技术和中国支持引入的模式，我们得以克服其中一些挑战。”"
-        },
-        {
-          "en": "The competition also highlighted {{20}} in healthcare and traditional medicine. Hu Zijing, an associate professor at the University of Johannesburg who teaches traditional Chinese medicine, said the initiative strengthens exchanges between African and Chinese students. \"This platform enhances {{21}} understanding and collaboration between young people from Africa and China,\" Hu said. \"It enables students to showcase their work, better understand one another and develop an international outlook.\"\nHe added that the goal extends beyond introducing traditional Chinese medicine in Africa. \"We want to {{22}} Chinese medicine with African traditional medicine because Africa also has a very long history of traditional medicine,\" he said.",
-          "cn": "大赛还突出了医疗保健和传统医学领域的合作。约翰内斯堡大学副教授、教授中医药的Hu Zijing表示，该倡议加强了非洲和中国学生之间的交流。Hu说：“这个平台增进了非洲和中国年轻人之间的相互理解和合作。它使学生能够展示他们的工作，更好地相互了解，并培养国际视野。”他补充说，目标不仅仅是把中医药引入非洲。他说：“我们希望将中医与非洲传统医学相结合，因为非洲也有非常悠久的传统医学历史。”"
-        },
-        {
-          "en": "University of Johannesburg student Rabone Monama demonstrated a traditional Chinese medicine {{23}} model used to help patients with arthritis, dysmenorrhea and other pain-related conditions. Monama said studying traditional Chinese medicine had taught her that healthcare extends beyond medication. \"We learn from nature how we live, how we eat and how we manage our emotions,\" she said. \"The food we eat is also medicine. We can learn to take care of ourselves through healthy lifestyles before medical {{24}} becomes necessary.\"\nElina Hlatshwayo, a student at Johannesburg University where she's studying traditional Chinese medicine, during the China International College Students' Innovation Competition in Nairobi, Kenya, July 28, 2026.",
-          "cn": "约翰内斯堡大学学生Rabone Monama展示了一种中医药康复模型，用于帮助关节炎、痛经和其他疼痛相关疾病患者。Monama表示，学习中医药让她明白，医疗保健不仅仅是药物。她说：“我们从自然中学习如何生活、如何饮食、如何管理情绪。我们吃的食物也是药物。我们可以在需要医疗干预之前，通过健康的生活方式学会照顾自己。”2026年7月28日，约翰内斯堡大学学生Elina Hlatshwayo在肯尼亚内罗毕举行的中国国际大学生创新大赛上发言。"
-        },
-        {
-          "en": "Africa\nFellow student Elina Hlatshwayo said participating in the competition helped her develop skills beyond her academic training. \"Our course is heavily focused on clinical studies and traditional Chinese medicine, so this project allowed me to explore the technical aspects, including physics and chemistry,\" Hlatshwayo said. Other participating institutions included Kenya's Egerton University and Kabarak University, alongside Uganda's Makerere University. Organizers say the competition continues to provide a platform for African and Chinese university students to collaborate, exchange ideas and develop innovations capable of addressing shared development challenges while preparing the next generation of innovators and {{25}}.",
-          "cn": "同学Elina Hlatshwayo表示，参加大赛帮助她培养了超出学术训练的技能。Hlatshwayo说：“我们的课程主要侧重于临床研究和中医药，所以这个项目让我探索了技术方面，包括物理和化学。”其他参与机构包括肯尼亚的埃格顿大学和卡巴拉克大学，以及乌干达的马克雷雷大学。组织者表示，大赛继续为非洲和中国大学生提供平台，以合作、交流思想并开发能够应对共同发展挑战的创新，同时培养下一代创新者和企业家。"
+          "en": "Livestock producers have also been advised to strengthen animal shelters, improve drainage systems and prepare for post-disaster disease prevention and control. Meanwhile, fishing vessels operating in affected waters have been instructed to return to port as soon as possible, while fishermen are urged to {{15}} ashore to ensure their safety. Authorities said every effort will be made to minimize losses and safeguard lives and property as Typhoon Dolphin approaches.",
+          "cn": "畜牧生产者也被建议加强动物棚舍，改善排水系统，并做好灾后疾病防控准备。同时，受影响水域作业的渔船已被指示尽快返港，渔民被敦促上岸以确保安全。当局表示，随着台风“海豚”逼近，将尽一切努力减少损失，保护生命和财产。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "showcase",
-          "hint": "v. 展示",
+          "answer": "coordinated",
+          "hint": "adj. 协调的",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "solutions",
-          "hint": "n. 解决方案",
-          "difficulty": "easy"
+          "answer": "leveraging",
+          "hint": "v. 利用",
+          "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "expanded",
-          "hint": "v. 扩展",
+          "answer": "simulations",
+          "hint": "n. 模拟",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "regional",
-          "hint": "adj. 区域的",
+          "answer": "forecasting",
+          "hint": "n. 预报",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "inaugural",
-          "hint": "adj. 首届的",
-          "difficulty": "hard"
+          "answer": "steadily",
+          "hint": "adv. 稳定地",
+          "difficulty": "easy"
         },
         {
           "id": 5,
-          "answer": "strengthening",
-          "hint": "v. 加强",
+          "answer": "extending",
+          "hint": "v. 延伸",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "crucial",
-          "hint": "adj. 关键的",
-          "difficulty": "medium"
+          "answer": "monitor",
+          "hint": "v. 监测",
+          "difficulty": "easy"
         },
         {
           "id": 7,
-          "answer": "nurture",
-          "hint": "v. 培养",
-          "difficulty": "medium"
+          "answer": "significant",
+          "hint": "adj. 显著的",
+          "difficulty": "easy"
         },
         {
           "id": 8,
-          "answer": "mentorship",
-          "hint": "n. 指导",
-          "difficulty": "hard"
+          "answer": "extensive",
+          "hint": "adj. 广阔的",
+          "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "longstanding",
-          "hint": "adj. 长期的",
+          "answer": "underestimate",
+          "hint": "v. 低估",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "partnership",
-          "hint": "n. 伙伴关系",
-          "difficulty": "easy"
-        },
-        {
-          "id": 11,
-          "answer": "societal",
-          "hint": "adj. 社会的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "shortages",
-          "hint": "n. 短缺",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "enhancing",
-          "hint": "v. 增强",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "impressed",
-          "hint": "adj. 印象深刻的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 15,
-          "answer": "implemented",
-          "hint": "v. 实施",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "productivity",
-          "hint": "n. 生产力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "nutrition",
-          "hint": "n. 营养",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
-          "answer": "intercropping",
-          "hint": "n. 间作",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "persistent",
+          "answer": "prolonged",
           "hint": "adj. 持续的",
           "difficulty": "medium"
         },
         {
-          "id": 20,
-          "answer": "collaboration",
-          "hint": "n. 合作",
-          "difficulty": "easy"
-        },
-        {
-          "id": 21,
-          "answer": "mutual",
-          "hint": "adj. 相互的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "integrate",
-          "hint": "v. 整合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "rehabilitation",
-          "hint": "n. 康复",
+          "id": 11,
+          "answer": "contingency",
+          "hint": "n. 应急",
           "difficulty": "hard"
         },
         {
-          "id": 24,
-          "answer": "intervention",
-          "hint": "n. 干预",
+          "id": 12,
+          "answer": "vulnerable",
+          "hint": "adj. 脆弱的",
           "difficulty": "medium"
         },
         {
-          "id": 25,
-          "answer": "entrepreneurs",
-          "hint": "n. 企业家",
+          "id": 13,
+          "answer": "reinforce",
+          "hint": "v. 加固",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "evacuate",
+          "hint": "v. 撤离",
           "difficulty": "medium"
         }
       ],
-      "fullText": "Kenya hosted the second African edition of the China International College Students' Innovation Competition, bringing together young innovators from across the continent to showcase practical solutions to challenges including food security, healthcare, biotechnology and sustainable agriculture.\nThe competition is organized by the Ministry of Education of the People's Republic of China together with 11 other institutions.\nFirst launched in China, the event expanded overseas in 2025, with Kenya becoming the first country outside China to host the African regional competition. Following the inaugural African edition last year, Kenya once again staged the event this year.\nThe competition encourages university students to translate classroom learning into innovative solutions for real-world problems while strengthening educational and scientific cooperation between Africa and China.\nStudents from various universties from Africa receive gold and silver medals during the China International College Students' Innovation Competition in Nairobi, Kenya, July 28, 2026. \n Africa\nKenyan education officials said supporting young innovators is crucial given Africa's youthful population.\n\"I think one of the most important things for us is really to look at ways and means of how we can be able to support our youth,\" a Kenyan education official said. \"In Kenya, 75% of the population is aged 35 and below, while Africa has almost 400 million young people in the same age bracket. We want to nurture their creativity and provide mentorship by helping them develop their talents,\" said Professor Shaukat Abdulrazak, Kenya's Principal Secretary for the State Department for Science, Research and Innovation.\nProfessor Abdulrazak said the longstanding partnership between Africa and China, and between Kenya and China since independence, continues to create opportunities for cooperation in education, innovation and skills development.\nNanjing Agricultural University Vice President, Professor Feng Shuyi said the competition pushes students beyond academic theory by requiring them to develop practical solutions to societal challenges.\n\"The competition encourages university students to apply what they have learned in the classroom to real-world problems,\" Feng said.\nProfessor Feng Shuyi, Vice President of Nanjing Agricultural University, during the China International College Students' Innovation Competition in Nairobi, Kenya, July 28, 2026. \n Africa\nMany of the projects presented focused on improving food security, tackling water shortages, preventing crop diseases and advancing healthcare technologies.\nProfessor Abdulrazak said that the competition gives students an opportunity to use innovation and technology to solve problems affecting communities.\n\"I was very impressed to see some of the projects related to health, including traditional Chinese medicine that is being implemented by the African younger generation. We also saw areas of biotechnology aimed at enhancing food safety and food security,\" Prof. Abdulrazak said.\nProfessor Shaukat Abdulrazak, Kenya's Principal Secretary for the State Department for Science, Research and Innovation, during the China International College Students' Innovation Competition in Nairobi, Kenya, July 28, 2026. \n Africa\nAmong the gold medal-winning projects was one from Malawi's Lilongwe University of Agriculture and Natural Resources, which showcased an innovation designed to improve agricultural productivity for smallholder farmers. Ufulu Kampinga, a student at the university, said the project, titled Malawi Youth Hope Seeds in Africa Science and Technology Backyard Entrepreneurship Project, aims to improve farmers' incomes, nutrition and crop production.\n\"Our project is helping smallholder farmers in Malawi earn more, eat enough and eat better,\" Kampinga said. \"We encourage practices such as intercropping maize with soybeans to improve nutrition while increasing harvests so farmers can strengthen their food security throughout the year.\"\nFellow student Monica Didas said the team developed the project to address persistent farming challenges.\n\"Using this technology and the model introduced through China's support, we have been able to overcome some of those challenges,\" Didas said.\nThe competition also highlighted collaboration in healthcare and traditional medicine.\nHu Zijing, an associate professor at the University of Johannesburg who teaches traditional Chinese medicine, said the initiative strengthens exchanges between African and Chinese students.\n\"This platform enhances mutual understanding and collaboration between young people from Africa and China,\" Hu said. \"It enables students to showcase their work, better understand one another and develop an international outlook.\"\nHe added that the goal extends beyond introducing traditional Chinese medicine in Africa.\n\"We want to integrate Chinese medicine with African traditional medicine because Africa also has a very long history of traditional medicine,\" he said.\nUniversity of Johannesburg student Rabone Monama demonstrated a traditional Chinese medicine rehabilitation model used to help patients with arthritis, dysmenorrhea and other pain-related conditions.\nMonama said studying traditional Chinese medicine had taught her that healthcare extends beyond medication.\n\"We learn from nature how we live, how we eat and how we manage our emotions,\" she said. \"The food we eat is also medicine. We can learn to take care of ourselves through healthy lifestyles before medical intervention becomes necessary.\"\nElina Hlatshwayo, a student at Johannesburg University where she's studying traditional Chinese medicine, during the China International College Students' Innovation Competition in Nairobi, Kenya, July 28, 2026. \n Africa\nFellow student Elina Hlatshwayo said participating in the competition helped her develop skills beyond her academic training.\n\"Our course is heavily focused on clinical studies and traditional Chinese medicine, so this project allowed me to explore the technical aspects, including physics and chemistry,\" Hlatshwayo said.\nOther participating institutions included Kenya's Egerton University and Kabarak University, alongside Uganda's Makerere University.\nOrganizers say the competition continues to provide a platform for African and Chinese university students to collaborate, exchange ideas and develop innovations capable of addressing shared development challenges while preparing the next generation of innovators and entrepreneurs.",
-      "fullTextCn": "肯尼亚主办了第二届中国国际大学生创新大赛非洲赛区，汇聚了来自非洲大陆各地的青年创新者，展示应对粮食安全、医疗保健、生物技术和可持续农业等挑战的实用解决方案。该大赛由中华人民共和国教育部及其他11家机构共同组织。该赛事最初在中国启动，于2025年扩展到海外，肯尼亚成为首个在中国以外举办非洲区域赛的国家。继去年首届非洲赛区后，肯尼亚今年再次承办。大赛鼓励大学生将课堂所学转化为解决实际问题的创新方案，同时加强非洲与中国之间的教育和科学合作。\n\n来自非洲各大学的学生在2026年7月28日于肯尼亚内罗毕举行的中国国际大学生创新大赛中获得金银奖。肯尼亚教育官员表示，鉴于非洲青年人口众多，支持青年创新者至关重要。一位肯尼亚教育官员说：“我认为对我们来说最重要的事情之一，就是真正寻找支持青年的方式和方法。”肯尼亚科学、研究与创新部首席秘书Shaukat Abdulrazak教授表示：“肯尼亚75%的人口年龄在35岁及以下，而非洲有近4亿年轻人处于同一年龄段。我们希望培养他们的创造力，通过指导帮助他们发展才能。”\n\nAbdulrazak教授表示，非洲与中国之间，以及肯尼亚与中国自独立以来的长期伙伴关系，继续为教育、创新和技能发展领域的合作创造机会。南京农业大学副校长冯淑怡教授表示，大赛通过要求学生开发解决社会挑战的实用方案，推动学生超越学术理论。冯淑怡说：“大赛鼓励大学生将课堂所学应用于现实问题。”2026年7月28日，南京农业大学副校长冯淑怡教授在肯尼亚内罗毕举行的中国国际大学生创新大赛上发言。许多展示的项目侧重于改善粮食安全、解决水资源短缺、预防作物病害和推进医疗技术。\n\nAbdulrazak教授表示，大赛为学生提供了利用创新和技术解决影响社区问题的机会。Abdulrazak教授说：“我印象深刻的是，一些与健康相关的项目，包括非洲年轻一代正在实施的中医药项目。我们还看到了旨在增强食品安全和粮食安全的生物技术领域。”2026年7月28日，肯尼亚科学、研究与创新部首席秘书Shaukat Abdulrazak教授在肯尼亚内罗毕举行的中国国际大学生创新大赛上发言。\n\n在获得金奖的项目中，有一个来自马拉维利隆圭农业与自然资源大学，展示了一项旨在提高小农户农业生产力的创新。该大学学生Ufulu Kampinga表示，这个名为“马拉维青年希望种子非洲科技小院创业项目”的项目旨在提高农民的收入、营养和作物产量。Kampinga说：“我们的项目正在帮助马拉维的小农户赚更多钱、吃饱吃好。”他补充道：“我们鼓励玉米与大豆间作等做法，以改善营养，同时提高收成，使农民全年加强粮食安全。”同学Monica Didas表示，团队开发该项目是为了应对持续的农业挑战。Didas说：“通过这项技术和中国支持引入的模式，我们得以克服其中一些挑战。”\n\n大赛还突出了医疗保健和传统医学领域的合作。约翰内斯堡大学副教授、教授中医药的Hu Zijing表示，该倡议加强了非洲和中国学生之间的交流。Hu说：“这个平台增进了非洲和中国年轻人之间的相互理解和合作。它使学生能够展示他们的工作，更好地相互了解，并培养国际视野。”他补充说，目标不仅仅是把中医药引入非洲。他说：“我们希望将中医与非洲传统医学相结合，因为非洲也有非常悠久的传统医学历史。”\n\n约翰内斯堡大学学生Rabone Monama展示了一种中医药康复模型，用于帮助关节炎、痛经和其他疼痛相关疾病患者。Monama表示，学习中医药让她明白，医疗保健不仅仅是药物。她说：“我们从自然中学习如何生活、如何饮食、如何管理情绪。我们吃的食物也是药物。我们可以在需要医疗干预之前，通过健康的生活方式学会照顾自己。”2026年7月28日，约翰内斯堡大学学生Elina Hlatshwayo在肯尼亚内罗毕举行的中国国际大学生创新大赛上发言。\n\n同学Elina Hlatshwayo表示，参加大赛帮助她培养了超出学术训练的技能。Hlatshwayo说：“我们的课程主要侧重于临床研究和中医药，所以这个项目让我探索了技术方面，包括物理和化学。”其他参与机构包括肯尼亚的埃格顿大学和卡巴拉克大学，以及乌干达的马克雷雷大学。组织者表示，大赛继续为非洲和中国大学生提供平台，以合作、交流思想并开发能够应对共同发展挑战的创新，同时培养下一代创新者和企业家。"
+      "fullText": "A photo shows more than 1,000 fishing boats moored in an orderly manner to shelter from Typhoon Dolphin, Ruoshan Fishing Port, Shitang Town, Wenling City, Zhejiang Province, east China, August 5, 2026. \nChina's meteorological, marine, water resources and agricultural authorities have stepped up coordinated emergency response measures after Typhoon Dolphin entered the country's 48-hour warning zone on Wednesday night.\nAuthorities are leveraging advanced technologies, including artificial intelligence (AI) and digital twin systems, to conduct early simulations, improve forecasting accuracy and strengthen disaster prevention efforts against the approaching typhoon.\nAccording to the National Marine Environmental Forecasting Center (NMEFC), the typhoon is moving steadily westward with a wind field extending approximately 500 to 600 kilometers from its center. Its outer rain-bands have already begun affecting the East China Sea, and residents in both coastal and inland regions are advised to closely monitor its development.\nForecasts indicate that coastal waters of the East China Sea may experience significant wave heights of 4 to 7 meters around August 9, with individual wave crests expected to be substantially higher.\n\"The typhoon has an extensive wind field and is expected to slow down after entering China's coastal waters,\" said Huang Huanqing, chief forecaster with the NMEFC. \"Its impact may not be readily apparent from the shoreline, making the dangerous sea conditions difficult to perceive. The public should avoid approaching the coast to watch waves and should not underestimate the risks.\"\nThe typhoon is also expected to bring prolonged torrential rainfall after making landfall. Saturated soil in many parts of eastern Zhejiang Province could significantly increase the risks of flash floods, water-logging and geological disasters.\nThe Ministry of Water Resources is using digital twin technology and AI-powered flood modeling to simulate flood evolution and develop targeted contingency plans in advance. Once potential hazards are detected, an intelligent early warning system will automatically notify responsible officials to ensure a timely emergency response.\nAffected by Typhoon Dolphin, giant waves over 10 meters high surged off the coast of Shitang in Wenling, east China's Zhejiang Province, August 5, 2026. \nAccording to Wang Lin, chief hydrological forecaster with the ministry, provinces including Zhejiang, Fujian, Jiangxi, Hunan, Hubei, Anhui, Jiangsu, Henan and Shandong are expected to experience heavy to torrential rainfall, with isolated areas likely to see extremely heavy downpours.\n\"The public is advised to reduce unnecessary travel and pay close attention to flood forecasts and flash flood warnings issued by water authorities,\" Wang said.\nThe typhoon is also expected to pose significant challenges to agricultural production. Along China's coast, aquaculture facilities, including offshore fish cages, face the threat of strong waves. In eastern China, late-season rice, fruits and vegetables are vulnerable to lodging caused by strong winds and farmland inundation. Should the typhoon track further north, major autumn grain-producing regions in the Huang-Huai-Hai Plain and northeastern China could also be affected by heavy rainfall.\nThe Ministry of Agriculture and Rural Affairs has urged farmers to clear drainage channels, improve field drainage, harvest mature crops as early as possible, and reinforce greenhouses, orchards and other agricultural facilities against strong winds. Livestock producers have also been advised to strengthen animal shelters, improve drainage systems and prepare for post-disaster disease prevention and control.\nMeanwhile, fishing vessels operating in affected waters have been instructed to return to port as soon as possible, while fishermen are urged to evacuate ashore to ensure their safety.\nAuthorities said every effort will be made to minimize losses and safeguard lives and property as Typhoon Dolphin approaches.",
+      "fullTextCn": "一张照片显示，2026年8月5日，在中国东部浙江省温岭市石塘镇若山渔港，超过1000艘渔船有序停泊以躲避台风“海豚”。在台风“海豚”于周三晚进入中国48小时警戒区后，中国气象、海洋、水资源和农业部门已加强协调应急响应措施。当局正在利用包括人工智能（AI）和数字孪生系统在内的先进技术，进行早期模拟，提高预报准确性，并加强针对即将来临台风的防灾工作。据国家海洋环境预报中心（NMEFC）称，台风正稳定向西移动，其风场范围从中心延伸约500至600公里。其外围雨带已开始影响东海，沿海和内陆地区的居民被建议密切关注其发展。\n\n预报显示，8月9日前后，东海沿海海域可能出现4至7米的显著浪高，个别波峰预计会更高。“台风风场广阔，预计进入中国沿海海域后会减速，”NMEFC首席预报员黄焕清说。“其影响可能从海岸线不易察觉，使得危险海况难以感知。公众应避免靠近海岸观浪，不应低估风险。”台风登陆后还可能带来长时间的暴雨。浙江东部许多地区土壤饱和，可能显著增加山洪、内涝和地质灾害的风险。\n\n水利部正在使用数字孪生技术和人工智能驱动的洪水模型，模拟洪水演变并提前制定针对性应急预案。一旦发现潜在危险，智能预警系统将自动通知负责官员，确保及时应急响应。受台风“海豚”影响，2026年8月5日，中国东部浙江省温岭石塘海岸出现超过10米的巨浪。据该部首席水文预报员王林称，浙江、福建、江西、湖南、湖北、安徽、江苏、河南和山东等省份预计将出现大到暴雨，部分地区可能出现特大暴雨。“建议公众减少不必要出行，密切关注水利部门发布的洪水预报和山洪预警，”王林说。\n\n台风预计还将对农业生产构成重大挑战。在中国沿海，包括近海网箱在内的水产养殖设施面临强浪威胁。在华东地区，晚稻、水果和蔬菜易受强风倒伏和农田淹水影响。如果台风路径进一步北移，黄淮海平原和东北地区的主要秋粮产区也可能受到强降雨影响。农业农村部已敦促农民清理排水渠道，改善田间排水，尽早收获成熟作物，并加固温室、果园和其他农业设施以抵御强风。\n\n畜牧生产者也被建议加强动物棚舍，改善排水系统，并做好灾后疾病防控准备。同时，受影响水域作业的渔船已被指示尽快返港，渔民被敦促上岸以确保安全。当局表示，随着台风“海豚”逼近，将尽一切努力减少损失，保护生命和财产。"
     },
     {
       "id": 2,
       "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-13/From-trade-to-value-chains-China-ASEAN-deepen-industrial-cooperation-1PzudXhqcQo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "From trade to value chains: China, ASEAN deepen industrial cooperation",
-      "titleCn": "从贸易到价值链：中国与东盟深化产业合作",
-      "summary": "As economic ties continue to deepen, Chinese companies are expanding their presence in ASEAN countries beyond exports to include investment, local production, technological cooperation and regional operations.",
-      "summaryCn": "中国与东盟通过互补性合作深化产业价值链，马来西亚等国的案例展示了投资与技术转移如何促进区域协同发展。",
-      "wordCount": 702,
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-13/No-sweat-Robots-expected-to-smash-records-at-Beijing-s-humanoid-games-1PA1Ym4HUac/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "No sweat: Robots expected to smash records at Beijing's humanoid games",
+      "titleCn": "毫不费力：机器人预计将在北京人形机器人运动会上打破纪录",
+      "summary": "No sweat: Robots expected to smash records at Beijing's humanoid games",
+      "summaryCn": "第二届世界人形机器人运动会将于8月22日在北京开幕，规模扩大、规则更严，机器人将挑战多项世界纪录。",
+      "wordCount": 608,
       "paragraphs": [
         {
-          "en": "As economic ties continue to {{0}}, Chinese companies are expanding their {{1}} in ASEAN countries beyond exports, moving into investment, local production, technological cooperation and regional operations. China and ASEAN have been each other's largest trading partners for several consecutive years. In the first half of 2026, bilateral trade reached 4.34 trillion yuan (about $643.44 billion), an increase of 18.2% year on year. However, ASEAN is far from a {{2}} market, with member states differing in development priorities, industrial strengths and policy approaches. For Chinese companies expanding across the region, the key question is how to {{3}} these differences and turn them into opportunities for more effective regional cooperation.",
-          "cn": "随着经济联系的持续加深，中国企业正在东盟国家扩大存在，从单纯出口转向投资、本地生产、技术合作和区域运营。中国和东盟已连续多年互为最大贸易伙伴。2026年上半年，双边贸易额达到4.34万亿元人民币（约6434.4亿美元），同比增长18.2%。然而，东盟远非一个同质化市场，各成员国在发展优先事项、产业优势和政策方针上存在差异。对于在区域内扩张的中国企业而言，关键问题是如何驾驭这些差异，并将其转化为更有效区域合作的机会。"
+          "en": "These athletes don't sweat, don't complain, and they're about to {{0}} world records. \"Let the games begin\" will ring out across Beijing's \"Ice Ribbon\" on August 22 for the second World Humanoid Robot Games. Co-hosted by the Beijing Municipal Government and China Media Group, the event has {{1}} from three days to five, with sessions now running in the afternoon and evening. By the numbers: A leap forward\nThis year's games feature 51 events and 1,301 matches across five days — nearly double the 26 events and 487 matches of the {{2}} edition. A total of 666 teams and 2,056 robots from 16 countries across six continents are {{3}}, a 138% increase in teams and a fourfold increase in robots.",
+          "cn": "这些运动员不流汗、不抱怨，而且即将打破世界纪录。8月22日，“让比赛开始”的口号将在北京“冰丝带”响起，第二届世界人形机器人运动会将在此举行。本届赛事由北京市政府和中国中央广播电视总台联合主办，会期从三天延长至五天，比赛时间安排在下午和晚上。数字一览：飞跃式进步 今年的运动会设有51个比赛项目和1301场比赛，为期五天——几乎是首届26个项目和487场比赛的两倍。共有来自六大洲16个国家的666支队伍和2056台机器人参赛，队伍数量增长138%，机器人数量增长四倍。"
         },
         {
-          "en": "In a recent interview with Bridging News, Kat W. Wong, executive director at the Center for Advanced Studies and Research Malaysia, proposed the concept of \"ASEAN Synergy.\" She said ASEAN countries share many similarities, but each has its own priorities. If they compete for the same industries, investments and projects, competition within the region is inevitable. A more effective approach, she said, is to identify {{4}} roles across countries. Two or three countries, for example, could {{5}} in the same industry, each contributing to different parts of the value chain and sharing resources and processes.",
-          "cn": "在最近接受《桥报》采访时，马来西亚高级研究中心的执行董事Kat W. Wong提出了“东盟协同”的概念。她表示，东盟国家有许多相似之处，但各有优先事项。如果它们争夺相同的产业、投资和项目，区域内的竞争将不可避免。她说，更有效的方法是识别各国间的互补角色。例如，两三个国家可以在同一产业中合作，各自贡献价值链的不同部分，并共享资源和流程。"
+          "en": "The United States, Germany, Japan, and other robotics {{4}} are fielding teams, while Brazil has {{5}} a squad of five Robot World Cup champions. Domestically, 157 enterprises, 641 teams, and 1,975 robots are taking part, with all major industry players present. Teams from 27 Chinese universities are competing, {{6}} 30 provinces, autonomous regions, municipalities, and special administrative regions. What's new: From show to real-world readiness\nThe {{7}} games now feature 30 competitive events and 21 scenario-based events — up from just six scenario events last year. Scenario events {{8}} nine real-world environments: households, hotels, industrial settings, emergency rescue, logistics, libraries, retail, office services, and vehicle charging.",
+          "cn": "美国、德国、日本等机器人强国均派出队伍参赛，巴西则组建了一支由五名机器人世界杯冠军组成的队伍。国内方面，157家企业、641支队伍和1975台机器人参赛，所有主要行业参与者悉数到场。来自27所中国大学的队伍参赛，覆盖30个省、自治区、直辖市和特别行政区。新变化：从展示到实战准备 改版后的运动会设有30个竞技项目和21个场景项目——而去年仅有6个场景项目。场景项目模拟九种真实环境：家庭、酒店、工业场所、紧急救援、物流、图书馆、零售、办公服务和车辆充电。"
         },
         {
-          "en": "Cross-border energy cooperation offers one example. Laos provides electricity, Thailand and Malaysia connect regional power grids, and Singapore provides market demand. Each country plays a different role based on its own strengths. In January 2026, power authorities from Laos, Thailand and Malaysia signed a second-phase {{6}} agreement to further advance the four-country power trading arrangement. For Chinese companies, investing in one ASEAN country does not have to mean operating in a single market.",
-          "cn": "跨境能源合作就是一个例子。老挝提供电力，泰国和马来西亚连接区域电网，新加坡提供市场需求。每个国家根据自身优势扮演不同角色。2026年1月，老挝、泰国和马来西亚的电力部门签署了第二期输电协议，以进一步推进四国电力交易安排。对于中国企业来说，在东盟一国投资并不意味着只在单一市场运营。"
+          "en": "Two new challenges are pushing the {{9}} of what robots can do in practical settings:\nThe Dexterous Hand Challenge test {{10}} across tool assembly, powder weighing, block stacking, nail driving, bottle opening, unboxing, tweezer pick-up, and cable connection. Micro-distance vision, motion planning, force control precision, and {{11}} accuracy all come into play. The \"Integrated Five\" Challenge requires robots to perform dexterous operations, stable object transfer, and heavy lifting while running a 100-meter dash. Rules getting tougher\nTo raise the bar, time limits have been cut sharply: the 100-meter race from three minutes to one; the 400-meter from 15 minutes to five; and the 1,500-meter from 40 minutes to 15. Autonomy requirements are stricter too: all track events and competitive events must be fully autonomous — no remote control — except for the 100-meter and 400-meter obstacle races.",
+          "cn": "两项新挑战正在推动机器人在实际应用中的能力边界：灵巧手挑战测试工具组装、粉末称重、积木堆叠、钉钉子、开瓶、开箱、镊子拾取和电缆连接等精密操作。微距视觉、运动规划、力控精度和操作准确性都至关重要。“五项全能”挑战要求机器人在进行100米短跑的同时完成灵巧操作、稳定物体转移和重物搬运。规则更加严格 为提高标准，时间限制大幅缩短：100米赛跑从三分钟缩短至一分钟；400米从15分钟缩短至五分钟；1500米从40分钟缩短至15分钟。自主性要求也更加严格：所有田径项目和竞技项目必须完全自主——不允许遥控——除了100米和400米障碍赛。"
         },
         {
-          "en": "It can also provide access to resources, production and markets across the region, allowing companies to participate more deeply in ASEAN value chains. Malaysia offers a case in point. Huang said the country's multilingual, multiethnic society and open market are among its key attractions for international investors. But Malaysia is looking for more than capital and projects. Foreign investment, she said, should also bring technology, expertise and {{7}} benefits to local industries.",
-          "cn": "它还可以提供进入区域资源、生产和市场的渠道，使企业更深入地参与东盟价值链。马来西亚就是一个典型案例。Huang表示，该国的多语言、多民族社会和开放市场是吸引国际投资者的关键因素之一。但马来西亚寻求的不仅仅是资本和项目。她说，外国投资还应带来技术、专业知识和溢出效应，惠及本地产业。"
+          "en": "In scenario events, fully autonomous completion earns a weight {{13}} of 1.0, while remote-controlled completion is capped at 0.5. One notable rule change: in robot soccer, goals only count if at least two teammates have touched the ball during the build-up — a {{14}} move to discourage one-robot solo performances and encourage team {{15}}. The rule tests communication and collaboration, not just individual hardware {{16}}. What to watch\nGold medals are up for grabs across all nine sessions, with 12 decided on on August 23, second only to the closing day. The opening ceremony evening features a 7v7 soccer exhibition match plus 400-meter and 100-meter {{17}}.",
+          "cn": "在场景项目中，完全自主完成获得1.0的权重系数，而遥控完成的上限为0.5。一项值得注意的规则变化是：在机器人足球比赛中，只有在进攻过程中至少有两名队友触球，进球才算有效——这是为了故意阻止单机器人单打独斗，鼓励团队协作。该规则考验的是沟通和协作能力，而不仅仅是个人硬件实力。看点 九个场次均有金牌争夺，其中8月23日将决出12枚金牌，仅次于闭幕日。开幕式当晚将举行7对7足球表演赛以及400米和100米预赛。"
         },
         {
-          "en": "The numbers {{8}} the importance of foreign investment. In 2025, Malaysia approved 207.1 billion Malaysian ringgits ($50.65 billion) in foreign investment, accounting for 48.5% of total investment. China was the country's second-largest source of foreign investment. Proton, the Malaysian carmaker backed by China's Geely Automobile Holdings Ltd., launched its electric vehicle production plant, marking the country's first {{9}} into EV manufacturing, Perak, Malaysia, September 4, 2025. The partnership between China's Geely and Malaysian automaker Proton shows how foreign investment can support the local economy.",
-          "cn": "数据凸显了外国投资的重要性。2025年，马来西亚批准了2071亿林吉特（506.5亿美元）的外国投资，占总投资的48.5%。中国是该国第二大外国投资来源国。马来西亚汽车制造商宝腾（由中国吉利汽车控股支持）在霹雳州启动了其电动汽车生产工厂，标志着该国首次涉足电动汽车制造，时间为2025年9月4日。中国吉利与马来西亚宝腾的合作表明，外国投资如何支持本地经济。"
+          "en": "Freestyle combat finals and a 5v5 soccer final come before the closing. Track records are expected to {{18}}. In April a humanoid robot finished a half-marathon in 50 minutes and 26 seconds, faster than the human world record. Robot soccer players have also improved, now able to {{19}}, power-shot, and dive to save. Freestyle combat runs across eight sessions in three weight classes: 40kg, 58kg, and 80kg — all significantly more competitive than last year.",
+          "cn": "自由搏击决赛和5对5足球决赛将在闭幕式前举行。田径纪录预计将被打破。今年4月，一台人形机器人以50分26秒完成半程马拉松，比人类世界纪录还快。机器人足球运动员也有所进步，现在能够运球、大力射门和扑救。自由搏击比赛共八个场次，分为三个重量级别：40公斤、58公斤和80公斤——所有级别都比去年更具竞争力。"
         },
         {
-          "en": "Since Geely acquired a {{10}} in Proton, the companies have cooperated on vehicle and technology development, {{11}} property, local parts production and supplier participation. The partnership raised local content in some Proton models to 82%, Malaysian Minister Datuk Seri Johari Abdul Ghani told local media outlet The Star. Huang said China's advances in areas such as artificial intelligence could also benefit Malaysia. AI is already being used in demand {{12}}, production planning, order management and logistics, helping businesses improve efficiency. But she stressed that cooperation should go beyond technology transfer.",
-          "cn": "自吉利收购宝腾股份以来，双方在车辆和技术开发、知识产权、本地零部件生产和供应商参与方面进行了合作。马来西亚部长拿督斯里佐哈里·阿卜杜勒·加尼告诉当地媒体《星报》，这一合作将宝腾部分车型的本地含量提高到82%。Huang表示，中国在人工智能等领域的进步也能惠及马来西亚。人工智能已用于需求预测、生产计划、订单管理和物流，帮助企业提高效率。但她强调，合作应超越单纯的技术转移。"
-        },
-        {
-          "en": "Malaysia ultimately needs to build its own technological and innovation {{13}}. She sees further opportunities for China and Malaysia to cooperate in AI, local innovation and talent development. Technical and {{14}} education and training, or TVET, could play an important role by promoting knowledge exchange, skills training and greater participation of local talent in industrial development. This shift from market entry to joint technology and capacity building is gaining momentum in China-Malaysia cooperation, and China's southwestern Chongqing Municipality can offer a vivid example. Chongqing-based Zonsen, a major Chinese industrial manufacturing company, has strengthened market and industrial cooperation with Malaysian partners, while the Harbin Institute of Technology's Chongqing Research Institute has worked with Malaysian universities in areas including AI and intelligent manufacturing.",
-          "cn": "马来西亚最终需要建立自己的技术和创新能力。她认为中国和马来西亚在人工智能、本地创新和人才培养方面有进一步合作的机会。技术和职业教育与培训（TVET）可以通过促进知识交流、技能培训和本地人才更广泛参与产业发展来发挥重要作用。这种从市场准入到联合技术和能力建设的转变正在中马合作中加速推进，而中国西南部的重庆市可以提供一个生动的例子。总部位于重庆的宗申（一家大型中国工业制造公司）加强了与马来西亚合作伙伴的市场和产业合作，而哈尔滨工业大学重庆研究院则与马来西亚大学在人工智能和智能制造等领域开展了合作。"
-        },
-        {
-          "en": "Huang said Chongqing has strong capabilities in efficient, large-scale manufacturing, while Malaysia seeks to add more value to products and services and is well positioned to connect with markets across Southeast Asia. Their {{15}} therefore goes beyond a simple model of \"made in Chongqing, sold in Malaysia.\" It could extend across manufacturing, technology, talent, services and regional markets.",
-          "cn": "Huang表示，重庆在高效、大规模制造方面具有强大能力，而马来西亚则寻求为产品和服务增加更多价值，并具备连接东南亚市场的有利位置。因此，它们的互补性超越了简单的“重庆制造，马来西亚销售”模式，可以扩展到制造、技术、人才、服务和区域市场等多个领域。"
+          "en": "A newly added {{20}} event will award lightweight and heavyweight golds on August 24. Dance events have grown from 29 teams to 108, with robots competing in street dance, ballroom, and {{21}}. This year's event features 223 {{22}} — 100 more than last year — including 28 international-level, 75 national-level, and 120 first-tier officials. An {{23}} committee has been strengthened to handle disputes promptly.",
+          "cn": "新增的举重项目将于8月24日颁发轻量级和重量级金牌。舞蹈项目从29支队伍增加到108支，机器人将参加街舞、国标舞和啦啦操比赛。今年的赛事共有223名裁判——比去年多100名——其中包括28名国际级、75名国家级和120名一级裁判。仲裁委员会也已加强，以便及时处理争议。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "deepen",
-          "hint": "v. 加深",
-          "difficulty": "easy"
-        },
-        {
-          "id": 1,
-          "answer": "presence",
-          "hint": "n. 存在",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "homogeneous",
-          "hint": "adj. 同质的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "navigate",
-          "hint": "v. 驾驭",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "complementary",
-          "hint": "adj. 互补的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "collaborate",
-          "hint": "v. 合作",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "transmission",
-          "hint": "n. 传输",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "spillover",
-          "hint": "n. 溢出",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "underline",
-          "hint": "v. 强调",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "foray",
-          "hint": "n. 涉足",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "stake",
-          "hint": "n. 股份",
-          "difficulty": "easy"
-        },
-        {
-          "id": 11,
-          "answer": "intellectual",
-          "hint": "adj. 知识产权的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "forecasting",
-          "hint": "n. 预测",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "capabilities",
-          "hint": "n. 能力",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "vocational",
-          "hint": "adj. 职业的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "complementarity",
-          "hint": "n. 互补性",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "As economic ties continue to deepen, Chinese companies are expanding their presence in ASEAN countries beyond exports, moving into investment, local production, technological cooperation and regional operations.\nChina and ASEAN have been each other's largest trading partners for several consecutive years. In the first half of 2026, bilateral trade reached 4.34 trillion yuan (about $643.44 billion), an increase of 18.2% year on year.\nHowever, ASEAN is far from a homogeneous market, with member states differing in development priorities, industrial strengths and policy approaches. For Chinese companies expanding across the region, the key question is how to navigate these differences and turn them into opportunities for more effective regional cooperation.\nIn a recent interview with Bridging News, Kat W. Wong, executive director at the Center for Advanced Studies and Research Malaysia, proposed the concept of \"ASEAN Synergy.\" She said ASEAN countries share many similarities, but each has its own priorities. If they compete for the same industries, investments and projects, competition within the region is inevitable.\nA more effective approach, she said, is to identify complementary roles across countries. Two or three countries, for example, could collaborate in the same industry, each contributing to different parts of the value chain and sharing resources and processes.\nCross-border energy cooperation offers one example. Laos provides electricity, Thailand and Malaysia connect regional power grids, and Singapore provides market demand. Each country plays a different role based on its own strengths. In January 2026, power authorities from Laos, Thailand and Malaysia signed a second-phase transmission agreement to further advance the four-country power trading arrangement.\nFor Chinese companies, investing in one ASEAN country does not have to mean operating in a single market. It can also provide access to resources, production and markets across the region, allowing companies to participate more deeply in ASEAN value chains.\nMalaysia offers a case in point. Huang said the country's multilingual, multiethnic society and open market are among its key attractions for international investors. But Malaysia is looking for more than capital and projects. Foreign investment, she said, should also bring technology, expertise and spillover benefits to local industries.\nThe numbers underline the importance of foreign investment. In 2025, Malaysia approved 207.1 billion Malaysian ringgits ($50.65 billion) in foreign investment, accounting for 48.5% of total investment. China was the country's second-largest source of foreign investment.\nProton, the Malaysian carmaker backed by China's Geely Automobile Holdings Ltd., launched its electric vehicle production plant, marking the country's first foray into EV manufacturing, Perak, Malaysia, September 4, 2025. \nThe partnership between China's Geely and Malaysian automaker Proton shows how foreign investment can support the local economy. Since Geely acquired a stake in Proton, the companies have cooperated on vehicle and technology development, intellectual property, local parts production and supplier participation. The partnership raised local content in some Proton models to 82%, Malaysian Minister Datuk Seri Johari Abdul Ghani told local media outlet The Star.\nHuang said China's advances in areas such as artificial intelligence could also benefit Malaysia. AI is already being used in demand forecasting, production planning, order management and logistics, helping businesses improve efficiency. But she stressed that cooperation should go beyond technology transfer. Malaysia ultimately needs to build its own technological and innovation capabilities.\nShe sees further opportunities for China and Malaysia to cooperate in AI, local innovation and talent development. Technical and vocational education and training, or TVET, could play an important role by promoting knowledge exchange, skills training and greater participation of local talent in industrial development.\nThis shift from market entry to joint technology and capacity building is gaining momentum in China-Malaysia cooperation, and China's southwestern Chongqing Municipality can offer a vivid example.\nChongqing-based Zonsen, a major Chinese industrial manufacturing company, has strengthened market and industrial cooperation with Malaysian partners, while the Harbin Institute of Technology's Chongqing Research Institute has worked with Malaysian universities in areas including AI and intelligent manufacturing.\nHuang said Chongqing has strong capabilities in efficient, large-scale manufacturing, while Malaysia seeks to add more value to products and services and is well positioned to connect with markets across Southeast Asia. Their complementarity therefore goes beyond a simple model of \"made in Chongqing, sold in Malaysia.\" It could extend across manufacturing, technology, talent, services and regional markets.",
-      "fullTextCn": "随着经济联系的持续加深，中国企业正在东盟国家扩大存在，从单纯出口转向投资、本地生产、技术合作和区域运营。中国和东盟已连续多年互为最大贸易伙伴。2026年上半年，双边贸易额达到4.34万亿元人民币（约6434.4亿美元），同比增长18.2%。然而，东盟远非一个同质化市场，各成员国在发展优先事项、产业优势和政策方针上存在差异。对于在区域内扩张的中国企业而言，关键问题是如何驾驭这些差异，并将其转化为更有效区域合作的机会。\n\n在最近接受《桥报》采访时，马来西亚高级研究中心的执行董事Kat W. Wong提出了“东盟协同”的概念。她表示，东盟国家有许多相似之处，但各有优先事项。如果它们争夺相同的产业、投资和项目，区域内的竞争将不可避免。她说，更有效的方法是识别各国间的互补角色。例如，两三个国家可以在同一产业中合作，各自贡献价值链的不同部分，并共享资源和流程。\n\n跨境能源合作就是一个例子。老挝提供电力，泰国和马来西亚连接区域电网，新加坡提供市场需求。每个国家根据自身优势扮演不同角色。2026年1月，老挝、泰国和马来西亚的电力部门签署了第二期输电协议，以进一步推进四国电力交易安排。对于中国企业来说，在东盟一国投资并不意味着只在单一市场运营。\n\n它还可以提供进入区域资源、生产和市场的渠道，使企业更深入地参与东盟价值链。马来西亚就是一个典型案例。Huang表示，该国的多语言、多民族社会和开放市场是吸引国际投资者的关键因素之一。但马来西亚寻求的不仅仅是资本和项目。她说，外国投资还应带来技术、专业知识和溢出效应，惠及本地产业。\n\n数据凸显了外国投资的重要性。2025年，马来西亚批准了2071亿林吉特（506.5亿美元）的外国投资，占总投资的48.5%。中国是该国第二大外国投资来源国。马来西亚汽车制造商宝腾（由中国吉利汽车控股支持）在霹雳州启动了其电动汽车生产工厂，标志着该国首次涉足电动汽车制造，时间为2025年9月4日。中国吉利与马来西亚宝腾的合作表明，外国投资如何支持本地经济。\n\n自吉利收购宝腾股份以来，双方在车辆和技术开发、知识产权、本地零部件生产和供应商参与方面进行了合作。马来西亚部长拿督斯里佐哈里·阿卜杜勒·加尼告诉当地媒体《星报》，这一合作将宝腾部分车型的本地含量提高到82%。Huang表示，中国在人工智能等领域的进步也能惠及马来西亚。人工智能已用于需求预测、生产计划、订单管理和物流，帮助企业提高效率。但她强调，合作应超越单纯的技术转移。\n\n马来西亚最终需要建立自己的技术和创新能力。她认为中国和马来西亚在人工智能、本地创新和人才培养方面有进一步合作的机会。技术和职业教育与培训（TVET）可以通过促进知识交流、技能培训和本地人才更广泛参与产业发展来发挥重要作用。这种从市场准入到联合技术和能力建设的转变正在中马合作中加速推进，而中国西南部的重庆市可以提供一个生动的例子。总部位于重庆的宗申（一家大型中国工业制造公司）加强了与马来西亚合作伙伴的市场和产业合作，而哈尔滨工业大学重庆研究院则与马来西亚大学在人工智能和智能制造等领域开展了合作。\n\nHuang表示，重庆在高效、大规模制造方面具有强大能力，而马来西亚则寻求为产品和服务增加更多价值，并具备连接东南亚市场的有利位置。因此，它们的互补性超越了简单的“重庆制造，马来西亚销售”模式，可以扩展到制造、技术、人才、服务和区域市场等多个领域。"
-    },
-    {
-      "id": 3,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-06/Nobel-laureate-Demis-Hassabis-named-Alphabet-chief-scientist-1PnFOKzQfNm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Nobel laureate Demis Hassabis named Alphabet chief scientist",
-      "titleCn": "诺贝尔奖得主德米斯·哈萨比斯被任命为Alphabet首席科学家",
-      "summary": "Google's head of AI, Demis Hassabis, will step down from his current role to become Alphabet's chief scientist amid a reshuffling at DeepMind that will also include a key engineer's departure.",
-      "summaryCn": "谷歌AI负责人哈萨比斯转任Alphabet首席科学家，DeepMind重组引发关键人员变动，反映AI行业人才竞争加剧。",
-      "wordCount": 426,
-      "paragraphs": [
-        {
-          "en": "Google's head of AI, Demis Hassabis, will step down from his current role to become Alphabet's chief scientist amid a {{0}} at DeepMind that will also include a key engineer's departure. Hassabis will take on two new titles, Alphabet {{16}} on Wednesday: chair of DeepMind and chief scientist of Alphabet. The change \"will allow me to focus on long-term {{17}}, and {{1}} scientific {{18}}, including leaning into my work at Isomorphic to help {{19}} disease,\" Hassabis wrote in a social media post. Isomorphic Labs is an AI-powered drug discovery lab that {{2}} out from DeepMind in 2021. In 2024, Hassabis won a Nobel Prize in chemistry.",
-          "cn": "谷歌AI负责人德米斯·哈萨比斯将卸任当前职务，成为Alphabet的首席科学家，与此同时DeepMind进行重组，包括一名关键工程师的离职。Alphabet于周三宣布，哈萨比斯将担任两个新职务：DeepMind主席和Alphabet首席科学家。哈萨比斯在社交媒体帖子中写道，这一变动“将使我能够专注于长期战略，加速科学突破，包括深入我在Isomorphic的工作以帮助治愈疾病。”Isomorphic Labs是一家AI驱动的药物发现实验室，于2021年从DeepMind分拆出来。2024年，哈萨比斯获得了诺贝尔化学奖。"
-        },
-        {
-          "en": "As part of the shake up, DeepMind's chief technology officer and chief AI architect Koray Kavukcuoglu will become the {{20}}'s senior vice president and {{3}} its operations, including the development of Google's {{4}} frontier models and products which are known as Gemini. Longtime Google engineer Jeff Dean is also leaving the company after nearly three decades to \"try something new, and we're excited to support him in that,\" Google CEO Sundar Pichai said in a blog post announcing the news. Hassabis co-founded DeepMind in 2010, and four years later, Google bought the research lab for $650 million, according to reports at the time. His co-founder, Mustafa Suleyman, is {{22}} the chief of Microsoft's AI segment. Google is {{5}} for customers alongside other major AI developers including Microsoft, OpenAI, Anthropic and Meta, as well as DeepSeek and Moonshot in China.",
-          "cn": "作为重组的一部分，DeepMind的首席技术官兼首席AI架构师科拉伊·卡武克丘奥卢将成为该部门的高级副总裁，负责其运营，包括开发谷歌旗舰前沿模型和产品，即Gemini。长期在谷歌工作的工程师杰夫·迪恩在近三十年后也将离开公司，以“尝试新事物，我们很高兴支持他这样做，”谷歌CEO桑达尔·皮查伊在宣布此消息的博客文章中表示。哈萨比斯于2010年共同创立了DeepMind，四年后，据当时报道，谷歌以6.5亿美元收购了该研究实验室。他的联合创始人穆斯塔法·苏莱曼目前是微软AI部门的主管。谷歌正与其他主要AI开发者竞争客户，包括微软、OpenAI、Anthropic和Meta，以及中国的DeepSeek和Moonshot。"
-        },
-        {
-          "en": "The industry is also chasing a {{6}} {{7}} known as advanced general intelligence (AGI), which is a point when AI software matches the {{8}} of human thinking. \"I've been working towards AGI my whole life and now, like many of you, I feel it is close at hand,\" Hassabis wrote in Wednesday's blog post. \"With this {{9}}, I've decided that now is the right time for me to hand over my day-to-day {{10}} responsibilities at (Google DeepMind), so that I have the time and space to focus on the big picture and help {{11}} what is to come,\" Hassabis continued. Observers have been waiting for Google to announce a more powerful version of its AI model, called Gemini 3.5 Pro, which was supposed to launch in June but appears to be {{12}}. Its shares closed 4% down Wednesday afternoon.",
-          "cn": "该行业还在追逐一个理论里程碑，称为高级通用智能（AGI），即AI软件达到人类思维能力水平的时刻。“我一生都在致力于AGI，现在，像你们许多人一样，我觉得它近在咫尺，”哈萨比斯在周三的博客文章中写道。“在这种背景下，我决定现在是时候将我在（谷歌DeepMind）的日常运营职责交接出去，以便我有时间和空间专注于大局，并帮助影响未来，”哈萨比斯继续说道。观察者一直在等待谷歌宣布其AI模型的更强大版本，称为Gemini 3.5 Pro，该模型原定于6月推出，但似乎被推迟。其股价周三下午收盘下跌4%。"
-        },
-        {
-          "en": "The leadership changes come amid a wider brain {{13}} at Google. In June, a top AI and engineering {{14}}, Noam Shazeer, left for OpenAI, while senior researcher John Jumper, who shared the 2024 Nobel Prize in chemistry with Hassabis, {{15}} to Anthropic.",
-          "cn": "领导层变动发生在谷歌更广泛的人才流失背景下。6月，顶级AI和工程高管诺姆·沙泽尔离职加入OpenAI，而高级研究员约翰·詹珀，与哈萨比斯共同获得2024年诺贝尔化学奖，跳槽到Anthropic。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "reshuffling",
-          "hint": "n. 重组",
+          "answer": "smash",
+          "hint": "v. 打破（纪录）",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "accelerating",
-          "hint": "v. 加速",
+          "answer": "expanded",
+          "hint": "v. 扩大",
           "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "spun",
-          "hint": "v. 分拆（spin off）",
+          "answer": "inaugural",
+          "hint": "adj. 首届的",
           "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "oversee",
-          "hint": "v. 监督",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "flagship",
-          "hint": "adj. 旗舰的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
           "answer": "competing",
           "hint": "v. 竞争",
           "difficulty": "easy"
         },
         {
+          "id": 4,
+          "answer": "powerhouses",
+          "hint": "n. 强国",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "assembled",
+          "hint": "v. 组建",
+          "difficulty": "medium"
+        },
+        {
           "id": 6,
-          "answer": "theoretical",
-          "hint": "adj. 理论的",
+          "answer": "spanning",
+          "hint": "v. 覆盖",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "milestone",
-          "hint": "n. 里程碑",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "capabilities",
-          "hint": "n. 能力",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "backdrop",
-          "hint": "n. 背景",
+          "answer": "revamped",
+          "hint": "adj. 改版的",
           "difficulty": "hard"
         },
         {
+          "id": 8,
+          "answer": "simulate",
+          "hint": "v. 模拟",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "boundaries",
+          "hint": "n. 边界",
+          "difficulty": "medium"
+        },
+        {
           "id": 10,
-          "answer": "operational",
-          "hint": "adj. 运营的",
+          "answer": "precision",
+          "hint": "n. 精度",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "influence",
-          "hint": "v. 影响",
-          "difficulty": "easy"
+          "answer": "operational",
+          "hint": "adj. 操作的",
+          "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "delayed",
-          "hint": "adj. 延迟的",
-          "difficulty": "easy"
+          "answer": "coefficient",
+          "hint": "n. 系数",
+          "difficulty": "hard"
         },
         {
           "id": 13,
-          "answer": "drain",
-          "hint": "n. 流失",
+          "answer": "deliberate",
+          "hint": "adj. 故意的",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "executive",
-          "hint": "n. 高管",
+          "answer": "coordination",
+          "hint": "n. 协作",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "jumped",
-          "hint": "v. 跳槽",
-          "difficulty": "medium"
+          "answer": "prowess",
+          "hint": "n. 实力",
+          "difficulty": "hard"
         },
         {
           "id": 16,
-          "answer": "announced",
-          "hint": "v. 宣布",
-          "difficulty": "easy"
+          "answer": "preliminaries",
+          "hint": "n. 预赛",
+          "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "strategy",
-          "hint": "n. 战略",
-          "difficulty": "easy"
+          "answer": "tumble",
+          "hint": "v. 被打破",
+          "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "breakthroughs",
-          "hint": "n. 突破",
+          "answer": "dribble",
+          "hint": "v. 运球",
           "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "cure",
-          "hint": "v. 治愈",
+          "answer": "weightlifting",
+          "hint": "n. 举重",
           "difficulty": "easy"
         },
         {
           "id": 20,
-          "answer": "division",
-          "hint": "n. 部门",
-          "difficulty": "easy"
+          "answer": "cheerleading",
+          "hint": "n. 啦啦操",
+          "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "currently",
-          "hint": "adv. 目前",
-          "difficulty": "easy"
-        }
-      ],
-      "fullText": "Google's head of AI, Demis Hassabis, will step down from his current role to become Alphabet's chief scientist amid a reshuffling at DeepMind that will also include a key engineer's departure.\nHassabis will take on two new titles, Alphabet announced on Wednesday: chair of DeepMind and chief scientist of Alphabet.\nThe change \"will allow me to focus on long-term strategy, and accelerating scientific breakthroughs, including leaning into my work at Isomorphic to help cure disease,\" Hassabis wrote in a social media post.\nIsomorphic Labs is an AI-powered drug discovery lab that spun out from DeepMind in 2021. In 2024, Hassabis won a Nobel Prize in chemistry.\nAs part of the shake up, DeepMind's chief technology officer and chief AI architect Koray Kavukcuoglu will become the division's senior vice president and oversee its operations, including the development of Google's flagship frontier models and products which are known as Gemini.\nLongtime Google engineer Jeff Dean is also leaving the company after nearly three decades to \"try something new, and we're excited to support him in that,\" Google CEO Sundar Pichai said in a blog post announcing the news.\nHassabis co-founded DeepMind in 2010, and four years later, Google bought the research lab for $650 million, according to reports at the time. His co-founder, Mustafa Suleyman, is currently the chief of Microsoft's AI segment.\nGoogle is competing for customers alongside other major AI developers including Microsoft, OpenAI, Anthropic and Meta, as well as DeepSeek and Moonshot in China.\nThe industry is also chasing a theoretical milestone known as advanced general intelligence (AGI), which is a point when AI software matches the capabilities of human thinking.\n\"I've been working towards AGI my whole life and now, like many of you, I feel it is close at hand,\" Hassabis wrote in Wednesday's blog post.\n\"With this backdrop, I've decided that now is the right time for me to hand over my day-to-day operational responsibilities at (Google DeepMind), so that I have the time and space to focus on the big picture and help influence what is to come,\" Hassabis continued.\nObservers have been waiting for Google to announce a more powerful version of its AI model, called Gemini 3.5 Pro, which was supposed to launch in June but appears to be delayed.\nIts shares closed 4% down Wednesday afternoon.\nThe leadership changes come amid a wider brain drain at Google.\nIn June, a top AI and engineering executive, Noam Shazeer, left for OpenAI, while senior researcher John Jumper, who shared the 2024 Nobel Prize in chemistry with Hassabis, jumped to Anthropic.",
-      "fullTextCn": "谷歌AI负责人德米斯·哈萨比斯将卸任当前职务，成为Alphabet的首席科学家，与此同时DeepMind进行重组，包括一名关键工程师的离职。Alphabet于周三宣布，哈萨比斯将担任两个新职务：DeepMind主席和Alphabet首席科学家。哈萨比斯在社交媒体帖子中写道，这一变动“将使我能够专注于长期战略，加速科学突破，包括深入我在Isomorphic的工作以帮助治愈疾病。”Isomorphic Labs是一家AI驱动的药物发现实验室，于2021年从DeepMind分拆出来。2024年，哈萨比斯获得了诺贝尔化学奖。\n\n作为重组的一部分，DeepMind的首席技术官兼首席AI架构师科拉伊·卡武克丘奥卢将成为该部门的高级副总裁，负责其运营，包括开发谷歌旗舰前沿模型和产品，即Gemini。长期在谷歌工作的工程师杰夫·迪恩在近三十年后也将离开公司，以“尝试新事物，我们很高兴支持他这样做，”谷歌CEO桑达尔·皮查伊在宣布此消息的博客文章中表示。哈萨比斯于2010年共同创立了DeepMind，四年后，据当时报道，谷歌以6.5亿美元收购了该研究实验室。他的联合创始人穆斯塔法·苏莱曼目前是微软AI部门的主管。谷歌正与其他主要AI开发者竞争客户，包括微软、OpenAI、Anthropic和Meta，以及中国的DeepSeek和Moonshot。\n\n该行业还在追逐一个理论里程碑，称为高级通用智能（AGI），即AI软件达到人类思维能力水平的时刻。“我一生都在致力于AGI，现在，像你们许多人一样，我觉得它近在咫尺，”哈萨比斯在周三的博客文章中写道。“在这种背景下，我决定现在是时候将我在（谷歌DeepMind）的日常运营职责交接出去，以便我有时间和空间专注于大局，并帮助影响未来，”哈萨比斯继续说道。观察者一直在等待谷歌宣布其AI模型的更强大版本，称为Gemini 3.5 Pro，该模型原定于6月推出，但似乎被推迟。其股价周三下午收盘下跌4%。\n\n领导层变动发生在谷歌更广泛的人才流失背景下。6月，顶级AI和工程高管诺姆·沙泽尔离职加入OpenAI，而高级研究员约翰·詹珀，与哈萨比斯共同获得2024年诺贝尔化学奖，跳槽到Anthropic。"
-    },
-    {
-      "id": 4,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-15/China-s-first-AI-doctor-for-pine-tree-cancer-goes-online-1PBsLBQf4hG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "China's first AI doctor for 'pine tree cancer' goes online",
-      "titleCn": "中国首款“松树癌症”AI医生上线",
-      "summary": "China's first AI doctor for 'pine tree cancer' goes online",
-      "summaryCn": "南京林业大学与百度合作推出首个松材线虫病AI早期检测平台，已部署于多省，显著提升预警能力并降低成本。",
-      "wordCount": 302,
-      "paragraphs": [
-        {
-          "en": "The first {{0}} AI {{1}} for early pine {{2}} disease was introduced in China's eastern city of Nanjing on August 12. Pine wilt disease, often referred to as the \"cancer of pine trees,\" rarely causes {{3}} {{4}} during the early stages of {{5}}. This makes timely {{6}} difficult through {{7}} inspections or {{8}} images alone. By the time {{9}} changes become visible in a tree's crown, the disease may already have {{10}} to the middle or late stages. Pine wilt disease is difficult to detect in its early stages. Nanjing, Jiangsu Province, China, August 12, 2026./Nanjing Forestry University\nThe AI platform was co-generated by Nanjing Forestry University and China's internet giant Baidu.",
-          "cn": "8月12日，中国东部城市南京推出了首个松材线虫病早期综合AI平台。松材线虫病常被称为“松树癌症”，在感染早期很少出现明显的变色现象。这使得仅通过人工检查或常规图像难以及时发现。当树冠出现明显变化时，病害可能已发展到中晚期。松材线虫病在早期阶段难以检测。中国江苏省南京市，2026年8月12日。/南京林业大学 该AI平台由南京林业大学和中国互联网巨头百度共同开发。"
+          "answer": "referees",
+          "hint": "n. 裁判",
+          "difficulty": "medium"
         },
         {
-          "en": "In traditional research workflows, researchers draw on forestry {{11}} to {{12}} potentially effective features across a wide range of {{13}} bands, vegetation {{14}} and their {{15}}, then {{16}} them individually through {{17}} experiments. Validating every combination manually is not only time-consuming but can also introduce {{18}} based on researchers' prior experience. Working with Baidu's Famou AI agent, the team uses an AI platform to automatically generate, test and compare different feature combinations, allowing researchers to quickly identify the most {{19}} solutions for further experimentation. A researcher analyzes the data of the pine trees in Nanjing, Jiangsu Province, China, August 12, 2026./Nanjing Forestry University\nAt present, Nanjing Forestry University's pine wilt disease detection and prevention technology has been {{20}} across Jiangsu, Liaoning, Anhui and other provinces, covering {{21}} 133,333 hectares in total, an area 1.82 times the size of Singapore. The AI solutions are expected to further {{22}} early-warning capabilities across around 3,333 to 66,667 hectares of high-risk pine forests. They are also projected to reduce the costs of {{23}}, prevention and control operations, and model {{24}} by around 30 million to 50 million yuan, or US$4.42 million to US$7.37 million.",
-          "cn": "在传统研究流程中，研究人员利用林业专业知识，在广泛的光谱波段、植被指数及其组合中识别潜在有效特征，然后通过大量实验逐一验证。手动验证每种组合不仅耗时，还可能因研究人员的先前经验而引入偏差。团队与百度的Famou AI代理合作，使用AI平台自动生成、测试和比较不同的特征组合，使研究人员能够快速识别最有前景的解决方案，以供进一步实验。一位研究人员在分析中国江苏省南京市松树的数据，2026年8月12日。/南京林业大学 目前，南京林业大学的松材线虫病检测与防治技术已在江苏、辽宁、安徽等省部署，覆盖总面积约13.33万公顷，相当于新加坡面积的1.82倍。这些AI解决方案预计将进一步加强约3333至66667公顷高风险松林的预警能力。它们还预计将减少验证、防治作业和模型迭代的成本，约3000万至5000万元人民币，或442万至737万美元。"
+          "id": 22,
+          "answer": "arbitration",
+          "hint": "n. 仲裁",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "These athletes don't sweat, don't complain, and they're about to smash world records. \"Let the games begin\" will ring out across Beijing's \"Ice Ribbon\" on August 22 for the second World Humanoid Robot Games.\nCo-hosted by the Beijing Municipal Government and China Media Group, the event has expanded from three days to five, with sessions now running in the afternoon and evening.\nBy the numbers: A leap forward\nThis year's games feature 51 events and 1,301 matches across five days — nearly double the 26 events and 487 matches of the inaugural edition.\nA total of 666 teams and 2,056 robots from 16 countries across six continents are competing, a 138% increase in teams and a fourfold increase in robots.\nThe United States, Germany, Japan, and other robotics powerhouses are fielding teams, while Brazil has assembled a squad of five Robot World Cup champions.\nDomestically, 157 enterprises, 641 teams, and 1,975 robots are taking part, with all major industry players present.\nTeams from 27 Chinese universities are competing, spanning 30 provinces, autonomous regions, municipalities, and special administrative regions.\nWhat's new: From show to real-world readiness\nThe revamped games now feature 30 competitive events and 21 scenario-based events — up from just six scenario events last year.\nScenario events simulate nine real-world environments: households, hotels, industrial settings, emergency rescue, logistics, libraries, retail, office services, and vehicle charging.\nTwo new challenges are pushing the boundaries of what robots can do in practical settings:\nThe Dexterous Hand Challenge test precision across tool assembly, powder weighing, block stacking, nail driving, bottle opening, unboxing, tweezer pick-up, and cable connection. Micro-distance vision, motion planning, force control precision, and operational accuracy all come into play.\nThe \"Integrated Five\" Challenge requires robots to perform dexterous operations, stable object transfer, and heavy lifting while running a 100-meter dash.\nRules getting tougher\nTo raise the bar, time limits have been cut sharply: the 100-meter race from three minutes to one; the 400-meter from 15 minutes to five; and the 1,500-meter from 40 minutes to 15.\nAutonomy requirements are stricter too: all track events and competitive events must be fully autonomous — no remote control — except for the 100-meter and 400-meter obstacle races.\nIn scenario events, fully autonomous completion earns a weight coefficient of 1.0, while remote-controlled completion is capped at 0.5.\nOne notable rule change: in robot soccer, goals only count if at least two teammates have touched the ball during the build-up — a deliberate move to discourage one-robot solo performances and encourage team coordination.\nThe rule tests communication and collaboration, not just individual hardware prowess.\nWhat to watch\nGold medals are up for grabs across all nine sessions, with 12 decided on on August 23, second only to the closing day.\nThe opening ceremony evening features a 7v7 soccer exhibition match plus 400-meter and 100-meter preliminaries.\nFreestyle combat finals and a 5v5 soccer final come before the closing.\nTrack records are expected to tumble. In April a humanoid robot finished a half-marathon in 50 minutes and 26 seconds, faster than the human world record.\nRobot soccer players have also improved, now able to dribble, power-shot, and dive to save.\nFreestyle combat runs across eight sessions in three weight classes: 40kg, 58kg, and 80kg — all significantly more competitive than last year. A newly added weightlifting event will award lightweight and heavyweight golds on August 24.\nDance events have grown from 29 teams to 108, with robots competing in street dance, ballroom, and cheerleading.\nThis year's event features 223 referees — 100 more than last year — including 28 international-level, 75 national-level, and 120 first-tier officials. An arbitration committee has been strengthened to handle disputes promptly.",
+      "fullTextCn": "这些运动员不流汗、不抱怨，而且即将打破世界纪录。8月22日，“让比赛开始”的口号将在北京“冰丝带”响起，第二届世界人形机器人运动会将在此举行。本届赛事由北京市政府和中国中央广播电视总台联合主办，会期从三天延长至五天，比赛时间安排在下午和晚上。数字一览：飞跃式进步 今年的运动会设有51个比赛项目和1301场比赛，为期五天——几乎是首届26个项目和487场比赛的两倍。共有来自六大洲16个国家的666支队伍和2056台机器人参赛，队伍数量增长138%，机器人数量增长四倍。\n\n美国、德国、日本等机器人强国均派出队伍参赛，巴西则组建了一支由五名机器人世界杯冠军组成的队伍。国内方面，157家企业、641支队伍和1975台机器人参赛，所有主要行业参与者悉数到场。来自27所中国大学的队伍参赛，覆盖30个省、自治区、直辖市和特别行政区。新变化：从展示到实战准备 改版后的运动会设有30个竞技项目和21个场景项目——而去年仅有6个场景项目。场景项目模拟九种真实环境：家庭、酒店、工业场所、紧急救援、物流、图书馆、零售、办公服务和车辆充电。\n\n两项新挑战正在推动机器人在实际应用中的能力边界：灵巧手挑战测试工具组装、粉末称重、积木堆叠、钉钉子、开瓶、开箱、镊子拾取和电缆连接等精密操作。微距视觉、运动规划、力控精度和操作准确性都至关重要。“五项全能”挑战要求机器人在进行100米短跑的同时完成灵巧操作、稳定物体转移和重物搬运。规则更加严格 为提高标准，时间限制大幅缩短：100米赛跑从三分钟缩短至一分钟；400米从15分钟缩短至五分钟；1500米从40分钟缩短至15分钟。自主性要求也更加严格：所有田径项目和竞技项目必须完全自主——不允许遥控——除了100米和400米障碍赛。\n\n在场景项目中，完全自主完成获得1.0的权重系数，而遥控完成的上限为0.5。一项值得注意的规则变化是：在机器人足球比赛中，只有在进攻过程中至少有两名队友触球，进球才算有效——这是为了故意阻止单机器人单打独斗，鼓励团队协作。该规则考验的是沟通和协作能力，而不仅仅是个人硬件实力。看点 九个场次均有金牌争夺，其中8月23日将决出12枚金牌，仅次于闭幕日。开幕式当晚将举行7对7足球表演赛以及400米和100米预赛。\n\n自由搏击决赛和5对5足球决赛将在闭幕式前举行。田径纪录预计将被打破。今年4月，一台人形机器人以50分26秒完成半程马拉松，比人类世界纪录还快。机器人足球运动员也有所进步，现在能够运球、大力射门和扑救。自由搏击比赛共八个场次，分为三个重量级别：40公斤、58公斤和80公斤——所有级别都比去年更具竞争力。\n\n新增的举重项目将于8月24日颁发轻量级和重量级金牌。舞蹈项目从29支队伍增加到108支，机器人将参加街舞、国标舞和啦啦操比赛。今年的赛事共有223名裁判——比去年多100名——其中包括28名国际级、75名国家级和120名一级裁判。仲裁委员会也已加强，以便及时处理争议。"
+    },
+    {
+      "id": 3,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-08-12/Understanding-the-emerging-super-El-nino-threat-in-Africa-1Py9Mr9UqM8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Understanding the emerging super El-nino threat in Africa",
+      "titleCn": "理解非洲正在出现的超级厄尔尼诺威胁",
+      "summary": "El Nino occurs when sea surface temperatures in the central and eastern tropical Pacific Ocean become unusually warm. The warming can alter atmospheric circulation and disrupt weather patterns thousands of kilometres away.",
+      "summaryCn": "非洲正面临2026-2027年可能出现的超级厄尔尼诺事件，专家呼吁各国提前行动以减少极端天气对粮食安全和生计的影响。",
+      "wordCount": 593,
+      "paragraphs": [
+        {
+          "en": "a is {{0}} for the possible {{1}} of a {{2}} El Nino event that could develop through 2026 and continue into 2027, raising {{3}} over extreme weather, food security and {{4}} across the continent. El Nino occurs when sea surface temperatures in the central and eastern {{5}} Pacific Ocean become {{6}} warm. The warming can {{7}} {{8}} circulation and {{9}} weather patterns thousands of kilometres away. \"There have been observations by the US {{11}} agencies around the Pacific Ocean. Whenever the ocean warms up, there is a lot of {{10}} in terms of the climate and how it affects us here in East Africa.",
+          "cn": "非洲正在为可能发生的强厄尔尼诺事件的影响做准备，该事件可能在2026年发展并持续到2027年，引发对极端天气、粮食安全和整个大陆生计的担忧。厄尔尼诺现象发生在热带太平洋中部和东部海面温度异常升高时。这种升温会改变大气环流，扰乱数千公里外的天气模式。\"美国气象机构在太平洋地区已有观测。每当海洋升温，气候就会发生大量重组，并影响我们东非地区。\""
+        },
+        {
+          "en": "What has been observed currently is that there is a four-to-five chance that it's going to be a super El Nino,\" according to Dr James Mumina, a research scientist at the University of Sussex. What could it mean for Africa? The effects of El Nino {{12}} across the continent, depending on the region, season and {{13}} with other climate systems. CGTN visited the IGAD Climate Prediction and Applications Centre, where weather experts are {{14}} decades of weather-related data, which is particularly {{15}} for countries including Kenya, Somalia, Uganda, Tanzania, Ethiopia and South Sudan, where millions of people depend on seasonal rains for farming and {{16}}. \"For the upcoming October to December season, which is an important rainfall season particularly for Kenya, Somalia, southern Ethiopia, Uganda, Rwanda, Burundi and Tanzania, El Nino is likely to result in above-normal rainfall,\" Hussein Said, a meteorologist at the IGAD Climate Prediction and Applications Center said.",
+          "cn": "据苏塞克斯大学研究科学家詹姆斯·穆米纳博士称，\"目前观察到的情况是，有四五成的机会会出现超级厄尔尼诺。\"这对非洲意味着什么？厄尔尼诺的影响因地区、季节以及与其他气候系统的相互作用而在整个大陆各不相同。CGTN走访了IGAD气候预测与应用中心，那里的天气专家正在分析数十年的天气相关数据，这对肯尼亚、索马里、乌干达、坦桑尼亚、埃塞俄比亚和南苏丹等国家尤为重要，这些国家有数百万人依赖季节性降雨进行农业和畜牧业。IGAD气候预测与应用中心的气象学家侯赛因·赛义德表示：\"对于即将到来的10月至12月季节，这是肯尼亚、索马里、埃塞俄比亚南部、乌干达、卢旺达、布隆迪和坦桑尼亚的重要降雨季节，厄尔尼诺可能导致高于正常水平的降雨。\""
+        },
+        {
+          "en": "The region is already experiencing significant climate {{17}}, with some areas facing {{18}} while others contend with flooding and {{19}} rainfall. \"For the October to December season, the signals are even stronger. El Nino will have a stronger impact during the October to December season compared to the current season. We have an over 80% chance that the season is going to be above normal,\" Said added. Turning {{20}} into action\nAccording to climate experts, the key concern is not only how strong the El Nino becomes, but whether governments and communities can act early enough to reduce its impact.",
+          "cn": "该地区已经在经历显著的气候变率，一些地区面临干旱，而另一些地区则遭受洪水和强降雨。赛义德补充说：\"对于10月至12月季节，信号甚至更强。与当前季节相比，厄尔尼诺在10月至12月季节的影响将更强烈。我们有超过80%的机会该季节将高于正常水平。\"将预测转化为行动。据气候专家称，关键问题不仅在于厄尔尼诺变得多强，还在于政府和社区能否及早采取行动以减少其影响。"
+        },
+        {
+          "en": "Vehicles navigate through flooded streets as heavy rains cause severe flooding in Nairobi, Kenya, May 1, 2026. /CFP\nSeasonal forecasts can help authorities {{21}} emergency supplies, {{22}} flood {{23}}, advise farmers on planting decisions, protect water resources and prepare health facilities for potential emergencies. \"The first gap is the last mile between a forecast and a decision. In OND 2023, and again during the devastating long rains of March to May 2024 in Kenya, which killed around 300 people and affected 42 of our 47 counties, the forecasts were broadly right. What lagged was converting them into {{24}}, pre-positioned supplies and {{25}} water management,\" Dr.",
+          "cn": "2026年5月1日，肯尼亚内罗毕，车辆在因暴雨引发严重洪水的街道上行驶。/CFP。季节性预测可以帮助当局预先部署应急物资，加强防洪准备，为农民提供种植决策建议，保护水资源，并为潜在紧急情况准备医疗设施。\"第一个缺口是预测与决策之间的最后一英里。在2023年OND季节，以及2024年3月至5月肯尼亚毁灭性的长雨季期间（造成约300人死亡，影响我们47个县中的42个），预测基本正确。滞后的是将其转化为疏散、预先部署物资和预防性水资源管理。\""
+        },
+        {
+          "en": "Mumina said. For communities, timely and accessible information can help people make decisions before extreme weather strikes. \"What IGAD is doing is trying to transition the region from more response-oriented, {{26}} approaches to {{27}} approaches. IGAD has developed a regional roadmap on {{28}} action, which means that based on a forecast, you start acting. You don't wait for the drought or floods to impact communities or their assets,\" said Dr.",
+          "cn": "穆米纳博士说。对于社区来说，及时且可获取的信息可以帮助人们在极端天气来袭前做出决策。\"IGAD正在努力将该地区从更注重响应、被动的方法转变为主动的方法。IGAD制定了一个关于预期行动的路线图，这意味着基于预测，你开始行动。你不会等待干旱或洪水影响社区或其资产。\""
+        },
+        {
+          "en": "Ahmed Amdihun, Head of Disaster Risk Management at IGAD. As scientists continue to monitor the evolving El Nino conditions, governments across Africa are being urged to strengthen preparedness and ensure climate warnings reach communities in time. The African Union has called for collective preparedness through stronger early warning systems, advising that climate inaction could cost some African economies over 5% of their GDP.",
+          "cn": "艾哈迈德·阿姆迪洪博士，IGAD灾害风险管理负责人说。随着科学家继续监测不断演变的厄尔尼诺状况，非洲各国政府被敦促加强准备，确保气候预警及时到达社区。非洲联盟呼吁通过更强的早期预警系统进行集体准备，并建议气候不作为可能使一些非洲经济体损失超过5%的GDP。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "integrated",
-          "hint": "adj. 综合的",
+          "answer": "bracing",
+          "hint": "v. 准备应对",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "platform",
-          "hint": "n. 平台",
+          "answer": "impacts",
+          "hint": "n. 影响",
           "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "wilt",
-          "hint": "n. 枯萎病",
-          "difficulty": "hard"
+          "answer": "powerful",
+          "hint": "adj. 强大的",
+          "difficulty": "easy"
         },
         {
           "id": 3,
-          "answer": "visible",
-          "hint": "adj. 可见的",
+          "answer": "concerns",
+          "hint": "n. 担忧",
           "difficulty": "easy"
         },
         {
           "id": 4,
-          "answer": "discoloration",
-          "hint": "n. 变色",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "infection",
-          "hint": "n. 感染",
+          "answer": "livelihoods",
+          "hint": "n. 生计",
           "difficulty": "medium"
         },
         {
+          "id": 5,
+          "answer": "tropical",
+          "hint": "adj. 热带的",
+          "difficulty": "easy"
+        },
+        {
           "id": 6,
-          "answer": "detection",
-          "hint": "n. 检测",
+          "answer": "unusually",
+          "hint": "adv. 异常地",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "manual",
-          "hint": "adj. 人工的",
-          "difficulty": "easy"
+          "answer": "alter",
+          "hint": "v. 改变",
+          "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "conventional",
-          "hint": "adj. 常规的",
+          "answer": "atmospheric",
+          "hint": "adj. 大气的",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "obvious",
-          "hint": "adj. 明显的",
-          "difficulty": "easy"
+          "answer": "disrupt",
+          "hint": "v. 扰乱",
+          "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "progressed",
-          "hint": "v. 进展",
-          "difficulty": "medium"
+          "answer": "rearrangement",
+          "hint": "n. 重组",
+          "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "expertise",
-          "hint": "n. 专业知识",
-          "difficulty": "medium"
+          "answer": "meteorological",
+          "hint": "adj. 气象的",
+          "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "identify",
-          "hint": "v. 识别",
+          "answer": "vary",
+          "hint": "v. 变化",
           "difficulty": "easy"
         },
         {
           "id": 13,
-          "answer": "spectral",
-          "hint": "adj. 光谱的",
-          "difficulty": "hard"
+          "answer": "interaction",
+          "hint": "n. 相互作用",
+          "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "indices",
-          "hint": "n. 指数（复数）",
+          "answer": "crunching",
+          "hint": "v. 处理（数据）",
           "difficulty": "hard"
         },
         {
           "id": 15,
-          "answer": "combinations",
-          "hint": "n. 组合",
-          "difficulty": "medium"
+          "answer": "significant",
+          "hint": "adj. 重要的",
+          "difficulty": "easy"
         },
         {
           "id": 16,
-          "answer": "validate",
-          "hint": "v. 验证",
+          "answer": "livestock",
+          "hint": "n. 牲畜",
           "difficulty": "medium"
         },
         {
           "id": 17,
-          "answer": "extensive",
-          "hint": "adj. 广泛的",
-          "difficulty": "medium"
+          "answer": "variability",
+          "hint": "n. 变率",
+          "difficulty": "hard"
         },
         {
           "id": 18,
-          "answer": "bias",
-          "hint": "n. 偏差",
+          "answer": "drought",
+          "hint": "n. 干旱",
           "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "promising",
-          "hint": "adj. 有前景的",
+          "answer": "intense",
+          "hint": "adj. 强烈的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "forecasts",
+          "hint": "n. 预测",
+          "difficulty": "easy"
+        },
+        {
+          "id": 21,
+          "answer": "pre-position",
+          "hint": "v. 预先部署",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "strengthen",
+          "hint": "v. 加强",
+          "difficulty": "easy"
+        },
+        {
+          "id": 23,
+          "answer": "preparedness",
+          "hint": "n. 准备",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "evacuations",
+          "hint": "n. 疏散",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "pre-emptive",
+          "hint": "adj. 预防性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 26,
+          "answer": "reactive",
+          "hint": "adj. 被动的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "proactive",
+          "hint": "adj. 主动的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 28,
+          "answer": "anticipatory",
+          "hint": "adj. 预期的",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "a is bracing for the possible impacts of a powerful El Nino event that could develop through 2026 and continue into 2027, raising concerns over extreme weather, food security and livelihoods across the continent.\nEl Nino occurs when sea surface temperatures in the central and eastern tropical Pacific Ocean become unusually warm. The warming can alter atmospheric circulation and disrupt weather patterns thousands of kilometres away.\n\"There have been observations by the US meteorological agencies around the Pacific Ocean. Whenever the ocean warms up, there is a lot of rearrangement in terms of the climate and how it affects us here in East Africa. What has been observed currently is that there is a four-to-five chance that it's going to be a super El Nino,\" according to Dr James Mumina, a research scientist at the University of Sussex.\nWhat could it mean for Africa?\nThe effects of El Nino vary across the continent, depending on the region, season and interaction with other climate systems.\nCGTN visited the IGAD Climate Prediction and Applications Centre, where weather experts are crunching decades of weather-related data, which is particularly significant for countries including Kenya, Somalia, Uganda, Tanzania, Ethiopia and South Sudan, where millions of people depend on seasonal rains for farming and livestock.\n\"For the upcoming October to December season, which is an important rainfall season particularly for Kenya, Somalia, southern Ethiopia, Uganda, Rwanda, Burundi and Tanzania, El Nino is likely to result in above-normal rainfall,\" Hussein Said, a meteorologist at the IGAD Climate Prediction and Applications Center said.\nThe region is already experiencing significant climate variability, with some areas facing drought while others contend with flooding and intense rainfall.\n\"For the October to December season, the signals are even stronger. El Nino will have a stronger impact during the October to December season compared to the current season. We have an over 80% chance that the season is going to be above normal,\" Said added.\nTurning forecasts into action\nAccording to climate experts, the key concern is not only how strong the El Nino becomes, but whether governments and communities can act early enough to reduce its impact.\nVehicles navigate through flooded streets as heavy rains cause severe flooding in Nairobi, Kenya, May 1, 2026. /CFP\nSeasonal forecasts can help authorities pre-position emergency supplies, strengthen flood preparedness, advise farmers on planting decisions, protect water resources and prepare health facilities for potential emergencies.\n\"The first gap is the last mile between a forecast and a decision. In OND 2023, and again during the devastating long rains of March to May 2024 in Kenya, which killed around 300 people and affected 42 of our 47 counties, the forecasts were broadly right. What lagged was converting them into evacuations, pre-positioned supplies and pre-emptive water management,\" Dr. Mumina said.\nFor communities, timely and accessible information can help people make decisions before extreme weather strikes.\n\"What IGAD is doing is trying to transition the region from more response-oriented, reactive approaches to proactive approaches. IGAD has developed a regional roadmap on anticipatory action, which means that based on a forecast, you start acting. You don't wait for the drought or floods to impact communities or their assets,\" said Dr. Ahmed Amdihun, Head of Disaster Risk Management at IGAD.\nAs scientists continue to monitor the evolving El Nino conditions, governments across Africa are being urged to strengthen preparedness and ensure climate warnings reach communities in time.\nThe African Union has called for collective preparedness through stronger early warning systems, advising that climate inaction could cost some African economies over 5% of their GDP.",
+      "fullTextCn": "非洲正在为可能发生的强厄尔尼诺事件的影响做准备，该事件可能在2026年发展并持续到2027年，引发对极端天气、粮食安全和整个大陆生计的担忧。厄尔尼诺现象发生在热带太平洋中部和东部海面温度异常升高时。这种升温会改变大气环流，扰乱数千公里外的天气模式。\"美国气象机构在太平洋地区已有观测。每当海洋升温，气候就会发生大量重组，并影响我们东非地区。\"\n\n据苏塞克斯大学研究科学家詹姆斯·穆米纳博士称，\"目前观察到的情况是，有四五成的机会会出现超级厄尔尼诺。\"这对非洲意味着什么？厄尔尼诺的影响因地区、季节以及与其他气候系统的相互作用而在整个大陆各不相同。CGTN走访了IGAD气候预测与应用中心，那里的天气专家正在分析数十年的天气相关数据，这对肯尼亚、索马里、乌干达、坦桑尼亚、埃塞俄比亚和南苏丹等国家尤为重要，这些国家有数百万人依赖季节性降雨进行农业和畜牧业。IGAD气候预测与应用中心的气象学家侯赛因·赛义德表示：\"对于即将到来的10月至12月季节，这是肯尼亚、索马里、埃塞俄比亚南部、乌干达、卢旺达、布隆迪和坦桑尼亚的重要降雨季节，厄尔尼诺可能导致高于正常水平的降雨。\"\n\n该地区已经在经历显著的气候变率，一些地区面临干旱，而另一些地区则遭受洪水和强降雨。赛义德补充说：\"对于10月至12月季节，信号甚至更强。与当前季节相比，厄尔尼诺在10月至12月季节的影响将更强烈。我们有超过80%的机会该季节将高于正常水平。\"将预测转化为行动。据气候专家称，关键问题不仅在于厄尔尼诺变得多强，还在于政府和社区能否及早采取行动以减少其影响。\n\n2026年5月1日，肯尼亚内罗毕，车辆在因暴雨引发严重洪水的街道上行驶。/CFP。季节性预测可以帮助当局预先部署应急物资，加强防洪准备，为农民提供种植决策建议，保护水资源，并为潜在紧急情况准备医疗设施。\"第一个缺口是预测与决策之间的最后一英里。在2023年OND季节，以及2024年3月至5月肯尼亚毁灭性的长雨季期间（造成约300人死亡，影响我们47个县中的42个），预测基本正确。滞后的是将其转化为疏散、预先部署物资和预防性水资源管理。\"\n\n穆米纳博士说。对于社区来说，及时且可获取的信息可以帮助人们在极端天气来袭前做出决策。\"IGAD正在努力将该地区从更注重响应、被动的方法转变为主动的方法。IGAD制定了一个关于预期行动的路线图，这意味着基于预测，你开始行动。你不会等待干旱或洪水影响社区或其资产。\"\n\n艾哈迈德·阿姆迪洪博士，IGAD灾害风险管理负责人说。随着科学家继续监测不断演变的厄尔尼诺状况，非洲各国政府被敦促加强准备，确保气候预警及时到达社区。非洲联盟呼吁通过更强的早期预警系统进行集体准备，并建议气候不作为可能使一些非洲经济体损失超过5%的GDP。"
+    },
+    {
+      "id": 4,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-10/Digital-tools-strengthen-invasive-species-control-in-Beijing-1PuiZSZnZzW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Digital tools strengthen invasive species control in Beijing",
+      "titleCn": "数字工具加强北京入侵物种控制",
+      "summary": "Digital tools strengthen invasive species control in Beijing",
+      "summaryCn": "北京通州区利用数字技术清除入侵植物黄鸦葱，并推动全国范围内的数字化入侵物种监管。",
+      "wordCount": 385,
+      "paragraphs": [
+        {
+          "en": "A plant that looks like a giant {{0}} is drawing attention in Beijing's Tongzhou District. Yellow salsify (Tragopogon dubius) grows tall and {{1}} and develops a {{2}}, fist-sized seed head after flowering. The district has cleared more than 57,000 of the plants at 148 sites, covering more than 68,000 square meters, using digital technologies to improve invasive species {{3}} and {{4}} restoration. The Tongzhou District People's Procuratorate identified multiple sites through a public-interest {{5}} supervision model, satellite remote sensing and expert {{6}}. The plant was included in Tongzhou's survey list of invasive species in forests, grasslands and wetlands in 2023.",
+          "cn": "一种看起来像巨型蒲公英的植物正在北京通州区引起关注。黄鸦葱（Tragopogon dubius）长得高大挺拔，开花后会长出蓬松的拳头大小的种子头。该区已利用数字技术改善入侵物种监测和生态修复，在148个地点清除了超过57000株这种植物，覆盖面积超过68000平方米。通州区人民检察院通过公益诉讼监督模型、卫星遥感和专家评估确定了多个地点。2023年，该植物被列入通州区森林、草原和湿地入侵物种调查名单。"
+        },
+        {
+          "en": "Experts said it has strong {{7}} and rapid reproduction, and may, if it becomes widespread, {{8}} with native plants for water, soil nutrients and living space. Satellite remote sensing was used to estimate its {{9}}. Authorities then worked with experts to develop a treatment plan combining {{10}} removal, deep burial and replacement with native vegetation. A follow-up assessment found that the methods had not caused {{11}} damage to native soil or vegetation. In some areas, native plants were replanted to increase vegetation coverage and help prevent {{12}}.",
+          "cn": "专家表示，这种植物适应性强、繁殖迅速，如果广泛传播，可能会与本地植物争夺水分、土壤养分和生存空间。卫星遥感被用于估算其分布范围。随后，当局与专家合作制定了结合人工清除、深埋和本地植被替代的处理方案。后续评估发现，这些方法未对本地土壤或植被造成二次损害。在一些地区，重新种植了本地植物以增加植被覆盖率并帮助防止复发。"
+        },
+        {
+          "en": "Uprooted yellow salsify plants. /China Media Group\nThe case {{13}} the role of digital technologies in invasive species control. The supervision model {{14}} monitoring data, public {{15}} and internet information, comparing vegetation {{16}} from different periods with invasive species lists to identify potential locations. Satellite remote sensing, {{17}} and geographic information system (GIS) {{18}} analysis can help determine the distribution and coverage of invasive species, including in areas difficult to access. AI-assisted {{19}} combined with expert assessment can also support species identification and evidence collection.",
+          "cn": "被连根拔起的黄鸦葱植株。/中央广播电视总台\n该案例凸显了数字技术在入侵物种控制中的作用。监督模型整合了监测数据、公众投诉和互联网信息，将不同时期的植被影像与入侵物种名单进行比较，以识别潜在位置。卫星遥感、无人机和地理信息系统（GIS）空间分析有助于确定入侵物种的分布和覆盖范围，包括难以进入的区域。人工智能辅助识别结合专家评估，也可以支持物种识别和证据收集。"
+        },
+        {
+          "en": "The yellow salsify is seen in Beijing, China. /China Media Group\nSimilar digital approaches are being used elsewhere. Procuratorial authorities in Jilin Province have established a big-data early-warning platform for ragweed control, while Chongqing Municipality and Hunan and Jiangxi provinces have {{20}} big-data legal supervision models. The Ecological and Environmental Code will take effect on August 15. Experts said it will strengthen requirements for environmental supervision through information, digital and {{21}} technologies, establish mechanisms for environmental information sharing, and strengthen {{22}} among government departments.",
+          "cn": "黄鸦葱在北京出现。/中央广播电视总台\n类似的数字方法正在其他地方使用。吉林省检察机关已建立了豚草控制的大数据预警平台，而重庆市和湖南、江西省已部署了大数据法律监督模型。《生态环境法典》将于8月15日生效。专家表示，该法典将通过信息化、数字化和智能化技术加强对环境监管的要求，建立环境信息共享机制，并加强政府部门之间的协调。"
+        },
+        {
+          "en": "The code is expected to provide stronger legal support for a full-chain approach to invasive species control, covering monitoring and early warning, treatment, verification, and coordinated prevention and control.",
+          "cn": "该法典预计将为入侵物种控制的全链条方法提供更有力的法律支持，涵盖监测预警、治理、核查和协调防控。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "dandelion",
+          "hint": "n. 蒲公英",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "upright",
+          "hint": "adj. 直立的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "fluffy",
+          "hint": "adj. 蓬松的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "monitoring",
+          "hint": "n. 监测",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "ecological",
+          "hint": "adj. 生态的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "litigation",
+          "hint": "n. 诉讼",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "assessment",
+          "hint": "n. 评估",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "adaptability",
+          "hint": "n. 适应性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "compete",
+          "hint": "v. 竞争",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "distribution",
+          "hint": "n. 分布",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "manual",
+          "hint": "adj. 人工的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "secondary",
+          "hint": "adj. 次要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "recurrence",
+          "hint": "n. 复发",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "highlights",
+          "hint": "v. 强调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "integrates",
+          "hint": "v. 整合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "complaints",
+          "hint": "n. 投诉",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "imagery",
+          "hint": "n. 影像",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "drones",
+          "hint": "n. 无人机",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "spatial",
+          "hint": "adj. 空间的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "identification",
+          "hint": "n. 识别",
           "difficulty": "medium"
         },
         {
@@ -665,184 +683,154 @@
         },
         {
           "id": 21,
-          "answer": "approximately",
-          "hint": "adv. 大约",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "strengthen",
-          "hint": "v. 加强",
+          "answer": "intelligent",
+          "hint": "adj. 智能的",
           "difficulty": "easy"
         },
         {
-          "id": 23,
-          "answer": "verification",
-          "hint": "n. 验证",
-          "difficulty": "hard"
-        },
-        {
-          "id": 24,
-          "answer": "iteration",
-          "hint": "n. 迭代",
-          "difficulty": "hard"
+          "id": 22,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
         }
       ],
-      "fullText": "The first integrated AI platform for early pine wilt disease was introduced in China's eastern city of Nanjing on August 12.\nPine wilt disease, often referred to as the \"cancer of pine trees,\" rarely causes visible discoloration during the early stages of infection. This makes timely detection difficult through manual inspections or conventional images alone. By the time obvious changes become visible in a tree's crown, the disease may already have progressed to the middle or late stages.\nPine wilt disease is difficult to detect in its early stages. Nanjing, Jiangsu Province, China, August 12, 2026./Nanjing Forestry University\nThe AI platform was co-generated by Nanjing Forestry University and China's internet giant Baidu.\nIn traditional research workflows, researchers draw on forestry expertise to identify potentially effective features across a wide range of spectral bands, vegetation indices and their combinations, then validate them individually through extensive experiments. Validating every combination manually is not only time-consuming but can also introduce bias based on researchers' prior experience.\nWorking with Baidu's Famou AI agent, the team uses an AI platform to automatically generate, test and compare different feature combinations, allowing researchers to quickly identify the most promising solutions for further experimentation.\nA researcher analyzes the data of the pine trees in Nanjing, Jiangsu Province, China, August 12, 2026./Nanjing Forestry University\nAt present, Nanjing Forestry University's pine wilt disease detection and prevention technology has been deployed across Jiangsu, Liaoning, Anhui and other provinces, covering approximately 133,333 hectares in total, an area 1.82 times the size of Singapore.\nThe AI solutions are expected to further strengthen early-warning capabilities across around 3,333 to 66,667 hectares of high-risk pine forests. They are also projected to reduce the costs of verification, prevention and control operations, and model iteration by around 30 million to 50 million yuan, or US$4.42 million to US$7.37 million.",
-      "fullTextCn": "8月12日，中国东部城市南京推出了首个松材线虫病早期综合AI平台。松材线虫病常被称为“松树癌症”，在感染早期很少出现明显的变色现象。这使得仅通过人工检查或常规图像难以及时发现。当树冠出现明显变化时，病害可能已发展到中晚期。松材线虫病在早期阶段难以检测。中国江苏省南京市，2026年8月12日。/南京林业大学 该AI平台由南京林业大学和中国互联网巨头百度共同开发。\n\n在传统研究流程中，研究人员利用林业专业知识，在广泛的光谱波段、植被指数及其组合中识别潜在有效特征，然后通过大量实验逐一验证。手动验证每种组合不仅耗时，还可能因研究人员的先前经验而引入偏差。团队与百度的Famou AI代理合作，使用AI平台自动生成、测试和比较不同的特征组合，使研究人员能够快速识别最有前景的解决方案，以供进一步实验。一位研究人员在分析中国江苏省南京市松树的数据，2026年8月12日。/南京林业大学 目前，南京林业大学的松材线虫病检测与防治技术已在江苏、辽宁、安徽等省部署，覆盖总面积约13.33万公顷，相当于新加坡面积的1.82倍。这些AI解决方案预计将进一步加强约3333至66667公顷高风险松林的预警能力。它们还预计将减少验证、防治作业和模型迭代的成本，约3000万至5000万元人民币，或442万至737万美元。"
+      "fullText": "A plant that looks like a giant dandelion is drawing attention in Beijing's Tongzhou District. Yellow salsify (Tragopogon dubius) grows tall and upright and develops a fluffy, fist-sized seed head after flowering.\nThe district has cleared more than 57,000 of the plants at 148 sites, covering more than 68,000 square meters, using digital technologies to improve invasive species monitoring and ecological restoration.\nThe Tongzhou District People's Procuratorate identified multiple sites through a public-interest litigation supervision model, satellite remote sensing and expert assessment.\nThe plant was included in Tongzhou's survey list of invasive species in forests, grasslands and wetlands in 2023. Experts said it has strong adaptability and rapid reproduction, and may, if it becomes widespread, compete with native plants for water, soil nutrients and living space.\nSatellite remote sensing was used to estimate its distribution. Authorities then worked with experts to develop a treatment plan combining manual removal, deep burial and replacement with native vegetation.\nA follow-up assessment found that the methods had not caused secondary damage to native soil or vegetation. In some areas, native plants were replanted to increase vegetation coverage and help prevent recurrence.\nUprooted yellow salsify plants. /China Media Group\nThe case highlights the role of digital technologies in invasive species control. The supervision model integrates monitoring data, public complaints and internet information, comparing vegetation imagery from different periods with invasive species lists to identify potential locations.\nSatellite remote sensing, drones and geographic information system (GIS) spatial analysis can help determine the distribution and coverage of invasive species, including in areas difficult to access. AI-assisted identification combined with expert assessment can also support species identification and evidence collection.\nThe yellow salsify is seen in Beijing, China. /China Media Group\nSimilar digital approaches are being used elsewhere. Procuratorial authorities in Jilin Province have established a big-data early-warning platform for ragweed control, while Chongqing Municipality and Hunan and Jiangxi provinces have deployed big-data legal supervision models.\nThe Ecological and Environmental Code will take effect on August 15. Experts said it will strengthen requirements for environmental supervision through information, digital and intelligent technologies, establish mechanisms for environmental information sharing, and strengthen coordination among government departments.\nThe code is expected to provide stronger legal support for a full-chain approach to invasive species control, covering monitoring and early warning, treatment, verification, and coordinated prevention and control.",
+      "fullTextCn": "一种看起来像巨型蒲公英的植物正在北京通州区引起关注。黄鸦葱（Tragopogon dubius）长得高大挺拔，开花后会长出蓬松的拳头大小的种子头。该区已利用数字技术改善入侵物种监测和生态修复，在148个地点清除了超过57000株这种植物，覆盖面积超过68000平方米。通州区人民检察院通过公益诉讼监督模型、卫星遥感和专家评估确定了多个地点。2023年，该植物被列入通州区森林、草原和湿地入侵物种调查名单。\n\n专家表示，这种植物适应性强、繁殖迅速，如果广泛传播，可能会与本地植物争夺水分、土壤养分和生存空间。卫星遥感被用于估算其分布范围。随后，当局与专家合作制定了结合人工清除、深埋和本地植被替代的处理方案。后续评估发现，这些方法未对本地土壤或植被造成二次损害。在一些地区，重新种植了本地植物以增加植被覆盖率并帮助防止复发。\n\n被连根拔起的黄鸦葱植株。/中央广播电视总台\n该案例凸显了数字技术在入侵物种控制中的作用。监督模型整合了监测数据、公众投诉和互联网信息，将不同时期的植被影像与入侵物种名单进行比较，以识别潜在位置。卫星遥感、无人机和地理信息系统（GIS）空间分析有助于确定入侵物种的分布和覆盖范围，包括难以进入的区域。人工智能辅助识别结合专家评估，也可以支持物种识别和证据收集。\n\n黄鸦葱在北京出现。/中央广播电视总台\n类似的数字方法正在其他地方使用。吉林省检察机关已建立了豚草控制的大数据预警平台，而重庆市和湖南、江西省已部署了大数据法律监督模型。《生态环境法典》将于8月15日生效。专家表示，该法典将通过信息化、数字化和智能化技术加强对环境监管的要求，建立环境信息共享机制，并加强政府部门之间的协调。\n\n该法典预计将为入侵物种控制的全链条方法提供更有力的法律支持，涵盖监测预警、治理、核查和协调防控。"
     },
     {
       "id": 5,
-      "category": "technology",
+      "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-05/Hot-Take-US-says-China-stole-its-AI-here-s-what-they-won-t-tell-you-1Pla0ycyU2Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Hot Take: US says China stole its AI, here's what they won't tell you",
-      "titleCn": "热点评论：美国称中国窃取AI技术，但他们不会告诉你的真相",
-      "summary": "Hot Take: US says China stole its AI, here's what they won't tell you",
-      "summaryCn": "美国指责中国AI公司蒸馏其模型，但这实际上是行业普遍做法，中国AI的突破更多源于自身创新而非简单复制。",
-      "wordCount": 308,
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-14/Why-does-eat-well-mean-so-much-in-China--1PBkS8c40Zq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Why does 'eat well' mean so much in China?",
+      "titleCn": "为什么“吃好”在中国意义如此重大？",
+      "summary": "Wherever there are people, you'll find a Chinese restaurant – or so the joke goes.",
+      "summaryCn": "文章通过电影和日常场景，阐述“吃好”在中国文化中不仅是关于食物，更象征着家庭团聚、情感修复和生活价值观的传承。",
+      "wordCount": 486,
       "paragraphs": [
         {
-          "en": "In late July, US officials {{0}} China's Moonshot of \"{{1}} {{2}}\" of Anthropic's AI and threatened {{3}}. So what exactly is \"distillation\"? Does it amount to copying? And how did China's AI models achieve their rapid {{4}}? Distillation is standard practice, widely used by US tech giants like Google and xAI.",
-          "cn": "七月下旬，美国官员指责中国的月之暗面公司对Anthropic的AI进行“工业规模蒸馏”，并威胁实施制裁。那么，“蒸馏”到底是什么？这算抄袭吗？中国AI模型又是如何实现快速突破的？蒸馏是标准做法，被谷歌和xAI等美国科技巨头广泛使用。"
+          "en": "How do you get to know China from abroad? For many, it begins somewhere {{0}}: a Chinese restaurant on a street corner. There's an old joke that wherever people go, a Chinese restaurant follows. It's an {{1}}, of course, but quite a {{2}} one, as it speaks to a culture that has spent centuries perfecting the art of the meal, and to something quieter still: the way a {{3}} table, set anywhere in the world, can carry the full weight of someone's hope for a {{4}} life. People walk past a poster of the film \"Once Upon a Time in the Middle East\" in Wuhan, Hubei Province on August 11, 2026.",
+          "cn": "如何从国外了解中国？对许多人来说，这始于一个不起眼的地方：街角的中餐馆。有一个老笑话：无论人们走到哪里，中餐馆都会随之而来。这当然是一种夸张，但相当有说服力，因为它体现了一种花了几百年完善饮食艺术的文化，以及一种更安静的东西：一张朴素的桌子，无论摆在世界何处，都能承载一个人对体面生活的全部希望。2026年8月11日，人们走过湖北武汉一张电影《中东往事》的海报。"
         },
         {
-          "en": "Calling it \"theft\" is seen by many as a commercial {{5}} to slow down competitors, not a technical reality. US officials charge that large-scale {{6}} distillation {{7}} terms of service and raises national security concerns. China's Commerce Ministry has hit back, accusing Washington of \"double standards\" and \"typical AI {{8}}.\" It pointed out that many US AI companies have {{9}} Chinese models in their own R&D, using the very technique the administration is now trying to ban. Elon Musk's team used it for Grok. Google even sells a distillation service.",
-          "cn": "许多人认为，称其为“盗窃”是一种商业策略，旨在减缓竞争对手的速度，而非技术现实。美国官员指控，未经授权的大规模蒸馏违反了服务条款，并引发国家安全担忧。中国商务部反击，指责华盛顿“双重标准”和“典型的AI霸权”。商务部指出，许多美国AI公司在自己的研发中蒸馏了中国模型，使用了美国政府现在试图禁止的技术。埃隆·马斯克的团队在Grok中使用了该技术。谷歌甚至出售蒸馏服务。"
+          "en": "The film Once Upon a Time in the Middle East opens on exactly this kind of table. A Chinese chef has traveled abroad to cook at a local restaurant – nothing more {{5}} than paying off debt, sending money home. Then the war finds him. He is no hero, just a man trying to survive. But {{6}}, it turns out, is not the same as {{7}}, and he ends up {{8}} a group of local children from a conflict that was never his to begin with.",
+          "cn": "电影《中东往事》正是从这样一张桌子开始。一位中国厨师出国到当地一家餐馆做饭——他的目标不过是还清债务、寄钱回家。然后战争找到了他。他不是英雄，只是一个试图生存的人。但事实证明，生存不等于冷漠，他最终保护了一群当地儿童免受一场本不属于他的冲突的伤害。"
         },
         {
-          "en": "And Jensen Huang, Nvidia's CEO, put it best: \"Distillation, learning from AI, learning from other sources of knowledge, is {{10}} to intelligence.\"\nThat's not theft – that's how intelligence works. The key point is this: distillation alone cannot produce a model with the performance of Kimi K3. Moonshot says the leap came from its own {{11}}, a new {{12}} called Moon Clip, a linear-attention system and attention {{13}} – breakthroughs Musk once praised. Original engineering, not a copy, at about a third of Anthropic's {{14}} price per task. And here's a telling {{15}}: on OpenRouter, US companies now run nearly 60% of their {{16}} on Chinese models.",
-          "cn": "英伟达CEO黄仁勋说得最好：“蒸馏，从AI中学习，从其他知识来源中学习，是智能的基础。”这不是盗窃——这就是智能的运作方式。关键在于：仅靠蒸馏无法产生具有Kimi K3性能的模型。月之暗面表示，这一飞跃来自其自身架构、名为Moon Clip的新优化器、线性注意力系统和注意力残差——这些是马斯克曾称赞的突破。这是原创工程，而非复制，且每任务成本约为Anthropic旗舰产品的三分之一。一个鲜明的对比是：在OpenRouter上，美国公司现在近60%的令牌运行在中国模型上。"
+          "en": "A family enjoys their Spring Festival reunion dinner at home in Lanzhou, Gansu Province on January 28, 2025. Through it all, one phrase returns again and again: Eat well. A wedding feast is held in Congjiang County of Guizhou Province on February 5, 2026. It sounds almost too simple to mean anything. But in Chinese, it rarely just means food.",
+          "cn": "2025年1月28日，甘肃兰州，一家人在家享用春节团圆饭。在这一切中，有一句话反复出现：吃好。2026年2月5日，贵州从江县举行婚宴。这句话听起来太简单，似乎没什么意义。但在中文里，它很少仅仅指食物。"
         },
         {
-          "en": "In July, Hugging Face – an American platform – had to call in a Chinese model to fight off an attack that US {{17}} models couldn't handle. Washington wants to cut off what Silicon Valley is already buying. Distillation was never the whole story. It's about who gets to {{18}} {{19}}. And China's advancements have made that conversation truly global.",
-          "cn": "七月，美国平台Hugging Face不得不调用中国模型来抵御美国前沿模型无法处理的攻击。华盛顿想切断硅谷已经在购买的东西。蒸馏从来不是全部。关键在于谁有资格定义创新。而中国的进步使这场对话真正全球化。"
+          "en": "It means: stay whole. Stay close to the people who matter. Let this meal be where the hard things get said, or {{9}}, or simply set aside. Residents affected by an earthquake in Linxia Hui Autonomous Prefecture, Gansu Province are provided with hot food on December 21, 2023. That's what a shared table does in Chinese life.",
+          "cn": "它的意思是：保持完整。与重要的人保持亲近。让这顿饭成为说出难言之隐、获得原谅或干脆搁置问题的地方。2023年12月21日，甘肃临夏回族自治州地震受灾居民获得热食。这就是共享餐桌在中国生活中的意义。"
+        },
+        {
+          "en": "It's where families actually spend their time together. It's how old friendships get renewed and {{10}} quietly dissolve. Weddings, funerals, homecomings, goodbyes – almost nothing of {{11}} happens in a Chinese life without a meal built around it. Elderly residents enjoy free lunch at an elder care service facility in Nantong, Jiangsu Province on August 13, 2026. \"There's nothing a meal can't fix,\" goes a saying popular online – half joke, half genuine philosophy.",
+          "cn": "这是家人真正共度时光的地方。这是老朋友重归于好、怨恨悄然化解的方式。婚礼、葬礼、归乡、告别——在中国生活中，几乎没有什么重要的事情不围绕一顿饭展开。2026年8月13日，江苏南通，老年人在养老服务机构享用免费午餐。网上流行一句话：“没有什么是一顿饭解决不了的”——半是玩笑，半是真正的哲学。"
+        },
+        {
+          "en": "Because {{12}} in the ritual of eating together are the values that hold a family and a community together: gentleness, humility, {{13}}, respect, the long patient work of getting along. Residents enjoy a community Spring Festival gathering in Nanchong, Sichuan Province on February 10, 2026. So, when someone tells you to eat well, take it seriously. It's never just about food. It's an {{14}} for how to live – and who to love.",
+          "cn": "因为共餐仪式中蕴含着维系家庭和社区团结的价值观：温柔、谦逊、克制、尊重，以及长期耐心相处的努力。2026年2月10日，四川南充，居民参加社区春节聚会。所以，当有人告诉你“吃好”时，请认真对待。它从来不只是关于食物。它是关于如何生活的指导——以及爱谁。"
+        },
+        {
+          "en": "Giant panda Gong Gong enjoys a specially-prepared \"birthday cake\" at Hainan Tropical Wildlife Park and Botanical Garden in Haikou, Hainan Province on August 17, 2025.",
+          "cn": "2025年8月17日，海南海口，海南热带野生动植物园里，大熊猫“贡贡”享用特制的“生日蛋糕”。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "accused",
-          "hint": "v. 指责",
+          "answer": "unglamorous",
+          "hint": "adj. 不起眼的",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "industrial-scale",
-          "hint": "adj. 工业规模的",
-          "difficulty": "hard"
+          "answer": "exaggeration",
+          "hint": "n. 夸张",
+          "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "distillation",
-          "hint": "n. 蒸馏",
+          "answer": "telling",
+          "hint": "adj. 有说服力的",
           "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "sanctions",
-          "hint": "n. 制裁",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "breakthroughs",
-          "hint": "n. 突破",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "tactic",
-          "hint": "n. 策略",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "unauthorized",
-          "hint": "adj. 未经授权的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "violates",
-          "hint": "v. 违反",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "hegemony",
-          "hint": "n. 霸权",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "distilled",
-          "hint": "v. 蒸馏",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "fundamental",
-          "hint": "adj. 基本的",
+          "answer": "modest",
+          "hint": "adj. 朴素的",
           "difficulty": "easy"
         },
         {
+          "id": 4,
+          "answer": "decent",
+          "hint": "adj. 体面的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "ambitious",
+          "hint": "adj. 雄心勃勃的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "survival",
+          "hint": "n. 生存",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "indifference",
+          "hint": "n. 冷漠",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "shielding",
+          "hint": "v. 保护",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "forgiven",
+          "hint": "v. 原谅",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "grudges",
+          "hint": "n. 怨恨",
+          "difficulty": "hard"
+        },
+        {
           "id": 11,
-          "answer": "architecture",
-          "hint": "n. 架构",
+          "answer": "consequence",
+          "hint": "n. 重要性",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "optimizer",
-          "hint": "n. 优化器",
-          "difficulty": "hard"
+          "answer": "embedded",
+          "hint": "adj. 嵌入的",
+          "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "residuals",
-          "hint": "n. 残差",
-          "difficulty": "hard"
+          "answer": "restraint",
+          "hint": "n. 克制",
+          "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "flagship",
-          "hint": "n. 旗舰产品",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "contrast",
-          "hint": "n. 对比",
-          "difficulty": "easy"
-        },
-        {
-          "id": 16,
-          "answer": "tokens",
-          "hint": "n. 令牌",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "frontier",
-          "hint": "n. 前沿",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "define",
-          "hint": "v. 定义",
-          "difficulty": "easy"
-        },
-        {
-          "id": 19,
-          "answer": "innovation",
-          "hint": "n. 创新",
+          "answer": "instruction",
+          "hint": "n. 指导",
           "difficulty": "easy"
         }
       ],
-      "fullText": "In late July, US officials accused China's Moonshot of \"industrial-scale distillation\" of Anthropic's AI and threatened sanctions.\nSo what exactly is \"distillation\"? Does it amount to copying? And how did China's AI models achieve their rapid breakthroughs?\nDistillation is standard practice, widely used by US tech giants like Google and xAI.\nCalling it \"theft\" is seen by many as a commercial tactic to slow down competitors, not a technical reality.\nUS officials charge that large-scale unauthorized distillation violates terms of service and raises national security concerns.\nChina's Commerce Ministry has hit back, accusing Washington of \"double standards\" and \"typical AI hegemony.\" It pointed out that many US AI companies have distilled Chinese models in their own R&D, using the very technique the administration is now trying to ban.\nElon Musk's team used it for Grok. Google even sells a distillation service. And Jensen Huang, Nvidia's CEO, put it best: \"Distillation, learning from AI, learning from other sources of knowledge, is fundamental to intelligence.\"\nThat's not theft – that's how intelligence works.\nThe key point is this: distillation alone cannot produce a model with the performance of Kimi K3. Moonshot says the leap came from its own architecture, a new optimizer called Moon Clip, a linear-attention system and attention residuals – breakthroughs Musk once praised. Original engineering, not a copy, at about a third of Anthropic's flagship price per task.\nAnd here's a telling contrast: on OpenRouter, US companies now run nearly 60% of their tokens on Chinese models. In July, Hugging Face – an American platform – had to call in a Chinese model to fight off an attack that US frontier models couldn't handle. Washington wants to cut off what Silicon Valley is already buying.\nDistillation was never the whole story. It's about who gets to define innovation. And China's advancements have made that conversation truly global.",
-      "fullTextCn": "七月下旬，美国官员指责中国的月之暗面公司对Anthropic的AI进行“工业规模蒸馏”，并威胁实施制裁。那么，“蒸馏”到底是什么？这算抄袭吗？中国AI模型又是如何实现快速突破的？蒸馏是标准做法，被谷歌和xAI等美国科技巨头广泛使用。\n\n许多人认为，称其为“盗窃”是一种商业策略，旨在减缓竞争对手的速度，而非技术现实。美国官员指控，未经授权的大规模蒸馏违反了服务条款，并引发国家安全担忧。中国商务部反击，指责华盛顿“双重标准”和“典型的AI霸权”。商务部指出，许多美国AI公司在自己的研发中蒸馏了中国模型，使用了美国政府现在试图禁止的技术。埃隆·马斯克的团队在Grok中使用了该技术。谷歌甚至出售蒸馏服务。\n\n英伟达CEO黄仁勋说得最好：“蒸馏，从AI中学习，从其他知识来源中学习，是智能的基础。”这不是盗窃——这就是智能的运作方式。关键在于：仅靠蒸馏无法产生具有Kimi K3性能的模型。月之暗面表示，这一飞跃来自其自身架构、名为Moon Clip的新优化器、线性注意力系统和注意力残差——这些是马斯克曾称赞的突破。这是原创工程，而非复制，且每任务成本约为Anthropic旗舰产品的三分之一。一个鲜明的对比是：在OpenRouter上，美国公司现在近60%的令牌运行在中国模型上。\n\n七月，美国平台Hugging Face不得不调用中国模型来抵御美国前沿模型无法处理的攻击。华盛顿想切断硅谷已经在购买的东西。蒸馏从来不是全部。关键在于谁有资格定义创新。而中国的进步使这场对话真正全球化。"
+      "fullText": "How do you get to know China from abroad? For many, it begins somewhere unglamorous: a Chinese restaurant on a street corner. There's an old joke that wherever people go, a Chinese restaurant follows. It's an exaggeration, of course, but quite a telling one, as it speaks to a culture that has spent centuries perfecting the art of the meal, and to something quieter still: the way a modest table, set anywhere in the world, can carry the full weight of someone's hope for a decent life.\nPeople walk past a poster of the film \"Once Upon a Time in the Middle East\" in Wuhan, Hubei Province on August 11, 2026. \nThe film Once Upon a Time in the Middle East opens on exactly this kind of table. A Chinese chef has traveled abroad to cook at a local restaurant – nothing more ambitious than paying off debt, sending money home. Then the war finds him. He is no hero, just a man trying to survive. But survival, it turns out, is not the same as indifference, and he ends up shielding a group of local children from a conflict that was never his to begin with.\nA family enjoys their Spring Festival reunion dinner at home in Lanzhou, Gansu Province on January 28, 2025. \nThrough it all, one phrase returns again and again: Eat well.\nA wedding feast is held in Congjiang County of Guizhou Province on February 5, 2026. \nIt sounds almost too simple to mean anything. But in Chinese, it rarely just means food. It means: stay whole. Stay close to the people who matter. Let this meal be where the hard things get said, or forgiven, or simply set aside.\nResidents affected by an earthquake in Linxia Hui Autonomous Prefecture, Gansu Province are provided with hot food on December 21, 2023. \nThat's what a shared table does in Chinese life. It's where families actually spend their time together. It's how old friendships get renewed and grudges quietly dissolve. Weddings, funerals, homecomings, goodbyes – almost nothing of consequence happens in a Chinese life without a meal built around it.\nElderly residents enjoy free lunch at an elder care service facility in Nantong, Jiangsu Province on August 13, 2026. \n\"There's nothing a meal can't fix,\" goes a saying popular online – half joke, half genuine philosophy. Because embedded in the ritual of eating together are the values that hold a family and a community together: gentleness, humility, restraint, respect, the long patient work of getting along.\nResidents enjoy a community Spring Festival gathering in Nanchong, Sichuan Province on February 10, 2026. \nSo, when someone tells you to eat well, take it seriously. It's never just about food. It's an instruction for how to live – and who to love.\nGiant panda Gong Gong enjoys a specially-prepared \"birthday cake\" at Hainan Tropical Wildlife Park and Botanical Garden in Haikou, Hainan Province on August 17, 2025.",
+      "fullTextCn": "如何从国外了解中国？对许多人来说，这始于一个不起眼的地方：街角的中餐馆。有一个老笑话：无论人们走到哪里，中餐馆都会随之而来。这当然是一种夸张，但相当有说服力，因为它体现了一种花了几百年完善饮食艺术的文化，以及一种更安静的东西：一张朴素的桌子，无论摆在世界何处，都能承载一个人对体面生活的全部希望。2026年8月11日，人们走过湖北武汉一张电影《中东往事》的海报。\n\n电影《中东往事》正是从这样一张桌子开始。一位中国厨师出国到当地一家餐馆做饭——他的目标不过是还清债务、寄钱回家。然后战争找到了他。他不是英雄，只是一个试图生存的人。但事实证明，生存不等于冷漠，他最终保护了一群当地儿童免受一场本不属于他的冲突的伤害。\n\n2025年1月28日，甘肃兰州，一家人在家享用春节团圆饭。在这一切中，有一句话反复出现：吃好。2026年2月5日，贵州从江县举行婚宴。这句话听起来太简单，似乎没什么意义。但在中文里，它很少仅仅指食物。\n\n它的意思是：保持完整。与重要的人保持亲近。让这顿饭成为说出难言之隐、获得原谅或干脆搁置问题的地方。2023年12月21日，甘肃临夏回族自治州地震受灾居民获得热食。这就是共享餐桌在中国生活中的意义。\n\n这是家人真正共度时光的地方。这是老朋友重归于好、怨恨悄然化解的方式。婚礼、葬礼、归乡、告别——在中国生活中，几乎没有什么重要的事情不围绕一顿饭展开。2026年8月13日，江苏南通，老年人在养老服务机构享用免费午餐。网上流行一句话：“没有什么是一顿饭解决不了的”——半是玩笑，半是真正的哲学。\n\n因为共餐仪式中蕴含着维系家庭和社区团结的价值观：温柔、谦逊、克制、尊重，以及长期耐心相处的努力。2026年2月10日，四川南充，居民参加社区春节聚会。所以，当有人告诉你“吃好”时，请认真对待。它从来不只是关于食物。它是关于如何生活的指导——以及爱谁。\n\n2025年8月17日，海南海口，海南热带野生动植物园里，大熊猫“贡贡”享用特制的“生日蛋糕”。"
     }
   ]
 }
