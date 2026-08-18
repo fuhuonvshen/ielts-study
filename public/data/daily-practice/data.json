@@ -1,836 +1,868 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "articles": [
     {
       "id": 1,
       "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-07/China-steps-up-coordinated-tech-enabled-response-to-Typhoon-Dolphin-1Pptw1EmPJu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "China steps up coordinated, tech-enabled response to Typhoon Dolphin",
-      "titleCn": "中国加强协调与技术驱动的应对措施以抵御台风“海豚”",
-      "summary": "China's meteorological, marine, water resources and agricultural authorities have stepped up coordinated emergency response measures after Typhoon Dolphin entered the country's 48-hour warning zone on Wednesday night.",
-      "summaryCn": "中国各部门利用人工智能和数字孪生技术，协调应对台风“海豚”，以减轻其对海洋、农业和人民生命财产的潜在影响。",
-      "wordCount": 577,
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-15/Japan-s-war-memory-Remembering-pain-forgetting-responsibility-1PCwfpucsUw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Japan's war memory: Remembering pain, forgetting responsibility",
+      "titleCn": "日本的战争记忆：铭记痛苦，遗忘责任",
+      "summary": "The divergence within Japanese society regarding the nature of the war and historical responsibility appears on the surface as a split in historical narratives. But in essence, it concerns whether post-war Japan can maintain its identity as a peaceful nation through a genuine consciousness of reflection.",
+      "summaryCn": "日本社会对战争的记忆存在选择性，强调自身受害经历而忽视侵略责任，这源于历史教育缺陷、受害者叙事主导及政治保守化趋势。",
+      "wordCount": 1126,
       "paragraphs": [
         {
-          "en": "A photo shows more than 1,000 fishing boats moored in an orderly manner to shelter from Typhoon Dolphin, Ruoshan Fishing Port, Shitang Town, Wenling City, Zhejiang Province, east China, August 5, 2026. China's meteorological, marine, water resources and agricultural authorities have stepped up {{0}} emergency response measures after Typhoon Dolphin entered the country's 48-hour warning zone on Wednesday night. Authorities are {{1}} advanced technologies, including artificial intelligence (AI) and digital twin systems, to conduct early {{2}}, improve {{3}} accuracy and strengthen disaster prevention efforts against the approaching typhoon. According to the National Marine Environmental Forecasting Center (NMEFC), the typhoon is moving {{4}} westward with a wind field {{5}} approximately 500 to 600 kilometers from its center. Its outer rain-bands have already begun affecting the East China Sea, and residents in both coastal and inland regions are advised to closely {{6}} its development.",
-          "cn": "一张照片显示，2026年8月5日，在中国东部浙江省温岭市石塘镇若山渔港，超过1000艘渔船有序停泊以躲避台风“海豚”。在台风“海豚”于周三晚进入中国48小时警戒区后，中国气象、海洋、水资源和农业部门已加强协调应急响应措施。当局正在利用包括人工智能（AI）和数字孪生系统在内的先进技术，进行早期模拟，提高预报准确性，并加强针对即将来临台风的防灾工作。据国家海洋环境预报中心（NMEFC）称，台风正稳定向西移动，其风场范围从中心延伸约500至600公里。其外围雨带已开始影响东海，沿海和内陆地区的居民被建议密切关注其发展。"
+          "en": "Editor's note: August 15 marks the 81st anniversary of Japan's announcement of its unconditional surrender in World War II. Xu Weijun is an associate research professor at the Institute of Public Policy, South China University of Technology. His research interests include East Asian international relations and China-US relations. Japan's {{0}} with its wartime history has long been a subject of debate, particularly over how the government should {{1}} and {{2}} its past. The article reflects the author's opinions and not necessarily those of CGTN.",
+          "cn": "编者按：8月15日是日本宣布在第二次世界大战中无条件投降81周年。徐维军是华南理工大学公共政策研究院副研究员，研究兴趣包括东亚国际关系和中美关系。日本对战时历史的清算长期以来一直是争论的话题，尤其是政府应如何面对和承认其过去。本文反映作者观点，不一定代表CGTN立场。"
         },
         {
-          "en": "Forecasts indicate that coastal waters of the East China Sea may experience {{7}} wave heights of 4 to 7 meters around August 9, with individual wave crests expected to be substantially higher. \"The typhoon has an {{8}} wind field and is expected to slow down after entering China's coastal waters,\" said Huang Huanqing, chief forecaster with the NMEFC. \"Its impact may not be readily apparent from the shoreline, making the dangerous sea conditions difficult to perceive. The public should avoid approaching the coast to watch waves and should not {{9}} the risks.\"\nThe typhoon is also expected to bring {{10}} torrential rainfall after making landfall. Saturated soil in many parts of eastern Zhejiang Province could significantly increase the risks of flash floods, water-logging and geological disasters.",
-          "cn": "预报显示，8月9日前后，东海沿海海域可能出现4至7米的显著浪高，个别波峰预计会更高。“台风风场广阔，预计进入中国沿海海域后会减速，”NMEFC首席预报员黄焕清说。“其影响可能从海岸线不易察觉，使得危险海况难以感知。公众应避免靠近海岸观浪，不应低估风险。”台风登陆后还可能带来长时间的暴雨。浙江东部许多地区土壤饱和，可能显著增加山洪、内涝和地质灾害的风险。"
+          "en": "In March 2026, an opinion poll conducted by the Japan Broadcasting Corporation revealed a {{3}} result. When asked whether World War II was \"a war of {{4}} launched by Japan against its Asian neighbors,\" only 35% of respondents agreed, 16% disagreed, and as many as 48% answered \"I don't know.\" These figures reflect not merely a gap in historical knowledge, but also a deep {{5}} between war memory and the {{6}} of historical responsibility in contemporary Japanese society. Contemporary Japanese society does not lack memories of the war. In post-war Japanese public life, there have always been numerous war-related {{7}} ceremonies, peace education and narratives of the atomic bombings. At the same time, however, Japanese politicians have repeatedly visited Yasukuni Shrine, which {{8}} Class-A war criminals and is widely regarded as a symbol of Japanese {{9}} and historical {{10}}.",
+          "cn": "2026年3月，日本广播协会进行的一项民意调查揭示了一个发人深省的结果。当被问及二战是否是“日本对亚洲邻国发动的侵略战争”时，只有35%的受访者同意，16%不同意，多达48%回答“不知道”。这些数字不仅反映了历史知识的差距，也反映了当代日本社会中战争记忆与历史责任认知之间的深刻断裂。当代日本社会并不缺乏对战争的记忆。在战后的日本公共生活中，一直有许多与战争相关的纪念仪式、和平教育以及原子弹爆炸的叙述。然而，与此同时，日本政客多次参拜靖国神社，该神社供奉着甲级战犯，被广泛视为日本军国主义和历史修正主义的象征。"
         },
         {
-          "en": "The Ministry of Water Resources is using digital twin technology and AI-powered flood modeling to simulate flood evolution and develop targeted {{12}} plans in advance. Once potential hazards are detected, an intelligent early warning system will automatically notify responsible officials to ensure a timely emergency response. Affected by Typhoon Dolphin, giant waves over 10 meters high surged off the coast of Shitang in Wenling, east China's Zhejiang Province, August 5, 2026. According to Wang Lin, chief hydrological forecaster with the ministry, provinces including Zhejiang, Fujian, Jiangxi, Hunan, Hubei, Anhui, Jiangsu, Henan and Shandong are expected to experience heavy to torrential rainfall, with isolated areas likely to see extremely heavy downpours. \"The public is advised to reduce unnecessary travel and pay close attention to flood forecasts and flash flood warnings issued by water authorities,\" Wang said.",
-          "cn": "水利部正在使用数字孪生技术和人工智能驱动的洪水模型，模拟洪水演变并提前制定针对性应急预案。一旦发现潜在危险，智能预警系统将自动通知负责官员，确保及时应急响应。受台风“海豚”影响，2026年8月5日，中国东部浙江省温岭石塘海岸出现超过10米的巨浪。据该部首席水文预报员王林称，浙江、福建、江西、湖南、湖北、安徽、江苏、河南和山东等省份预计将出现大到暴雨，部分地区可能出现特大暴雨。“建议公众减少不必要出行，密切关注水利部门发布的洪水预报和山洪预警，”王林说。"
+          "en": "This contradictory picture reveals the underlying structure of Japan's war memory: Japanese society remembers the war, and even {{11}} a genuine fear of it, yet it has not recalled to the same extent how Japan launched the war, how it invaded Asian countries, and how it {{12}} enormous suffering on the peoples of those countries. In other words, the current situation in Japanese society is not simply \"forgetting the war,\" but rather \"selectively remembering the war.\"\nMany Japanese people can perceive the suffering of war through the atomic bombings, the Battle of Okinawa and the trauma of defeat, yet they may not necessarily understand Japan's responsibility as a {{13}} through the lens of colonial rule, the Nanjing Massacre and the {{14}} committed on battlefields in Southeast Asia. For Japanese society, the core issue regarding historical understanding lies not in whether the war is remembered, but in whose suffering is remembered and whose is forgotten. A parent and child look at LED candles arranged in the shape of an origami crane at Hiroshima Peace Memorial Park in Hiroshima City, Hiroshima Prefecture, Japan, August 6, 2026, the 81st anniversary of the US atomic bombing of Hiroshima. Structural flaws\nThis {{15}} in memory is first related to structural flaws in Japan's history education.",
+          "cn": "这种矛盾的现象揭示了日本战争记忆的底层结构：日本社会记得战争，甚至对它怀有真正的恐惧，但它并没有同样程度地回忆起日本如何发动战争、如何侵略亚洲国家、如何给这些国家的人民带来巨大痛苦。换句话说，日本社会的现状并非简单的“遗忘战争”，而是“选择性记忆战争”。许多日本人可以通过原子弹爆炸、冲绳战役和战败创伤来感知战争的苦难，但他们不一定能通过殖民统治、南京大屠杀和东南亚战场上的暴行来理解日本作为加害者的责任。对日本社会而言，关于历史理解的核心问题不在于战争是否被记住，而在于谁的苦难被记住，谁的苦难被遗忘。2026年8月6日，美国原子弹轰炸广岛81周年之际，一位家长和孩子在广岛市广岛和平纪念公园观看以纸鹤形状排列的LED蜡烛。结构性缺陷：这种记忆上的分歧首先与日本历史教育的结构性缺陷有关。"
         },
         {
-          "en": "The typhoon is also expected to pose significant challenges to agricultural production. Along China's coast, aquaculture facilities, including offshore fish cages, face the threat of strong waves. In eastern China, late-season rice, fruits and vegetables are {{13}} to lodging caused by strong winds and farmland inundation. Should the typhoon track further north, major autumn grain-producing regions in the Huang-Huai-Hai Plain and northeastern China could also be affected by heavy rainfall. The Ministry of Agriculture and Rural Affairs has urged farmers to clear drainage channels, improve field drainage, harvest mature crops as early as possible, and {{14}} greenhouses, orchards and other agricultural facilities against strong winds.",
-          "cn": "台风预计还将对农业生产构成重大挑战。在中国沿海，包括近海网箱在内的水产养殖设施面临强浪威胁。在华东地区，晚稻、水果和蔬菜易受强风倒伏和农田淹水影响。如果台风路径进一步北移，黄淮海平原和东北地区的主要秋粮产区也可能受到强降雨影响。农业农村部已敦促农民清理排水渠道，改善田间排水，尽早收获成熟作物，并加固温室、果园和其他农业设施以抵御强风。"
+          "en": "Japanese school education system does not entirely avoid the history of WWII. A 2025 survey of 18-year-olds conducted by the Nippon Foundation found that about 95% of respondents stated they had learned about the \"Pacific War,\" and two-thirds said their memories of the war mainly came from classes in school. The more critical question, however, is the narrative {{16}} through which this history is presented. The same survey found that among war-themed works that left a deep impression on Japanese youth, Grave of the Fireflies ranked first with 42.2%. This work mainly focuses on the suffering of ordinary Japanese civilians, particularly children, amid air raids and starvation during the final months of WWII.",
+          "cn": "日本的学校教育体系并未完全回避二战历史。日本财团2025年对18岁青年进行的一项调查发现，约95%的受访者表示学过“太平洋战争”，三分之二的人表示他们对战争的记忆主要来自学校课堂。然而，更关键的问题是呈现这段历史的叙事框架。同一项调查发现，在给日本青年留下深刻印象的战争题材作品中，《萤火虫之墓》以42.2%的比例位居第一。这部作品主要聚焦于二战最后几个月日本普通平民（尤其是儿童）在空袭和饥饿中的苦难。"
         },
         {
-          "en": "Livestock producers have also been advised to strengthen animal shelters, improve drainage systems and prepare for post-disaster disease prevention and control. Meanwhile, fishing vessels operating in affected waters have been instructed to return to port as soon as possible, while fishermen are urged to {{15}} ashore to ensure their safety. Authorities said every effort will be made to minimize losses and safeguard lives and property as Typhoon Dolphin approaches.",
-          "cn": "畜牧生产者也被建议加强动物棚舍，改善排水系统，并做好灾后疾病防控准备。同时，受影响水域作业的渔船已被指示尽快返港，渔民被敦促上岸以确保安全。当局表示，随着台风“海豚”逼近，将尽一切努力减少损失，保护生命和财产。"
+          "en": "Such memories of victimhood are not inaccurate; they carry genuine anti-war value. But the problem is that if education about war history mainly revolves around Japanese experiences of victimhood, it can easily lead students to form an {{17}} impression that \"the war brought suffering to Japan,\" while making it difficult for them to develop a sense of responsibility that \"Japan inflicted profound suffering on Asia.\"\nJapanese youth might be {{18}} with value judgments such as \"war is terrible\" and \"peace is precious,\" but they are not sufficiently guided to ask three more fundamental questions: Why did Japan launch the war? How did the peoples of Asian countries bear the consequences of Japanese aggression? Why does post-war Japan need to continue engaging in historical reflection? 'Victim-centered' narrative\nSecond, public memories of the war in Japanese society have long been characterized by a \"victim-centered\" narrative.",
+          "cn": "这种受害者记忆并非不准确，它们具有真正的反战价值。但问题是，如果战争历史教育主要围绕日本的受害经历展开，很容易让学生形成“战争给日本带来了苦难”的直观印象，而难以培养“日本给亚洲带来了深重苦难”的责任感。日本青年可能被灌输“战争可怕”“和平珍贵”等价值判断，但没有被充分引导去思考三个更根本的问题：日本为何发动战争？亚洲各国人民如何承受了日本侵略的后果？为什么战后的日本需要继续进行历史反思？“受害者中心”叙事：其次，日本社会对战争的公共记忆长期以来以“受害者中心”叙事为特征。"
+        },
+        {
+          "en": "The atomic bombings of Hiroshima and Nagasaki, the Great Tokyo Air Raid, the Battle of Okinawa, and post-war reconstruction constitute the primary narrative entry points through which the Japanese public perceives the war. The deeper challenge lies beneath these historical memories. When the memory of victimhood is {{19}} from the dimension of perpetrator responsibility, it creates a moral cognitive {{20}}: the Japanese public can genuinely perceive the cruelty of war, yet find it difficult to understand why neighboring Asian countries repeatedly demand that Japan reflect on its past. The Japanese society is unwilling to confront Japan's historical identity as an aggressor and perpetrator. These victim-centered memories have become further {{21}} amid generational change.",
+          "cn": "广岛和长崎的原子弹爆炸、东京大空袭、冲绳战役以及战后重建构成了日本公众感知战争的主要叙事切入点。更深层的挑战在于这些历史记忆之下。当受害者记忆与加害者责任维度脱节时，就会产生一种道德认知错位：日本公众能真切感受到战争的残酷，却难以理解为什么邻国亚洲国家一再要求日本反思其过去。日本社会不愿面对日本作为侵略者和加害者的历史身份。这些以受害者为中心的记忆在代际更替中变得更加根深蒂固。"
+        },
+        {
+          "en": "More than 80 years after the war, the number of people with first-hand wartime experience has sharply declined, and direct war memory based on individual experience is gradually fading from Japanese society. Meanwhile, schools, the media, museums, and political discourse have become the primary {{22}} for shaping war memory. Whoever controls these channels is better positioned to determine what Japanese society remembers, what it forgets, and how it understands history. A Shinto priest leads parliament members to pray for the war dead at Yasukuni Shrine in Tokyo, Japan, April 22, 2026. A conservative political landscape\nThird, the long-term trend toward political {{23}} in Japan has been an important driving force behind the divergence in perceptions of historical responsibility.",
+          "cn": "战争结束80多年后，拥有战争亲历经验的人数急剧减少，基于个人经历的直接战争记忆正逐渐从日本社会消失。与此同时，学校、媒体、博物馆和政治话语已成为塑造战争记忆的主要渠道。谁控制这些渠道，谁就能更好地决定日本社会记住什么、忘记什么以及如何理解历史。2026年4月22日，一名神道教祭司带领国会议员在东京靖国神社为战死者祈祷。保守政治格局：第三，日本政治长期保守化趋势是历史责任认知分歧的重要推动力。"
+        },
+        {
+          "en": "The political landscape characterized by the Liberal Democratic Party's long-standing dominance has granted right-wing historical perspectives institutional influence far greater than that of left-wing and civic forces engaged in reflection. Japanese conservative politics does not always directly deny historical facts. Rather, it is more adept at {{24}} historical responsibility by obscuring narratives and shifting the focus. For example, vague phrasing such as \"upholding the positions of previous cabinets\" is used to avoid reaffirming an apology, and the argument that \"future generations should not be destined to apologize\" is employed to cut off the {{25}} continuity of historical responsibility. Through these shifts in discourse, historical responsibility is no longer a moral baseline constraining Japan from repeating past mistakes.",
+          "cn": "以自民党长期主导为特征的政治格局，使右翼历史观点获得了远超左翼和公民反思力量的制度性影响。日本保守政治并不总是直接否认历史事实，而是更擅长通过模糊叙事和转移焦点来化解历史责任。例如，使用“继承历届内阁立场”等模糊措辞来避免重申道歉，并利用“子孙后代不应注定道歉”的论点来切断历史责任的代际延续。通过这些话语转换，历史责任不再是对日本重蹈覆辙的道德底线。"
+        },
+        {
+          "en": "Instead, it has been framed as a historical burden hindering Japan's path to becoming a \"normal country.\"\nHistorical understanding is never merely a debate about the past. It profoundly shapes how a country understands itself, views its neighbors, and chooses its future path. The divergence within Japanese society regarding the nature of the war and historical responsibility appears on the surface as a split in historical narratives. But in essence, it concerns whether post-war Japan can maintain its identity as a peaceful nation through a genuine consciousness of reflection.",
+          "cn": "相反，它被框定为阻碍日本成为“正常国家”的历史负担。历史理解从来不仅仅是对过去的争论。它深刻塑造了一个国家如何认识自己、如何看待邻国以及如何选择未来道路。日本社会内部关于战争性质和历史责任的分歧，表面上表现为历史叙事的割裂，但本质上关乎战后的日本能否通过真正的反思意识维持其作为和平国家的身份。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "coordinated",
-          "hint": "adj. 协调的",
-          "difficulty": "medium"
+          "answer": "reckoning",
+          "hint": "n. 清算，算账",
+          "difficulty": "hard"
         },
         {
           "id": 1,
-          "answer": "leveraging",
-          "hint": "v. 利用",
+          "answer": "confront",
+          "hint": "v. 面对，正视",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "simulations",
-          "hint": "n. 模拟",
+          "answer": "acknowledge",
+          "hint": "v. 承认",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "forecasting",
-          "hint": "n. 预报",
-          "difficulty": "medium"
+          "answer": "thought-provoking",
+          "hint": "adj. 发人深省的",
+          "difficulty": "hard"
         },
         {
           "id": 4,
-          "answer": "steadily",
-          "hint": "adv. 稳定地",
-          "difficulty": "easy"
+          "answer": "aggression",
+          "hint": "n. 侵略",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "extending",
-          "hint": "v. 延伸",
-          "difficulty": "medium"
+          "answer": "rupture",
+          "hint": "n. 断裂，破裂",
+          "difficulty": "hard"
         },
         {
           "id": 6,
-          "answer": "monitor",
-          "hint": "v. 监测",
-          "difficulty": "easy"
-        },
-        {
-          "id": 7,
-          "answer": "significant",
-          "hint": "adj. 显著的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "extensive",
-          "hint": "adj. 广阔的",
+          "answer": "perception",
+          "hint": "n. 认知，看法",
           "difficulty": "medium"
         },
         {
+          "id": 7,
+          "answer": "commemorative",
+          "hint": "adj. 纪念性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "enshrines",
+          "hint": "v. 供奉，珍藏",
+          "difficulty": "hard"
+        },
+        {
           "id": 9,
-          "answer": "underestimate",
-          "hint": "v. 低估",
+          "answer": "militarism",
+          "hint": "n. 军国主义",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "prolonged",
-          "hint": "adj. 持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "contingency",
-          "hint": "n. 应急",
+          "answer": "revisionism",
+          "hint": "n. 修正主义",
           "difficulty": "hard"
         },
         {
+          "id": 11,
+          "answer": "harbors",
+          "hint": "v. 怀有，持有",
+          "difficulty": "medium"
+        },
+        {
           "id": 12,
-          "answer": "vulnerable",
-          "hint": "adj. 脆弱的",
+          "answer": "inflicted",
+          "hint": "v. 造成（伤害等）",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "reinforce",
-          "hint": "v. 加固",
-          "difficulty": "medium"
+          "answer": "perpetrator",
+          "hint": "n. 加害者，犯罪者",
+          "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "evacuate",
-          "hint": "v. 撤离",
+          "answer": "atrocities",
+          "hint": "n. 暴行",
           "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "divergence",
+          "hint": "n. 分歧，差异",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "framework",
+          "hint": "n. 框架",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "intuitive",
+          "hint": "adj. 直觉的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "instilled",
+          "hint": "v. 灌输",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "detached",
+          "hint": "adj. 分离的，超然的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "dislocation",
+          "hint": "n. 错位，混乱",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "entrenched",
+          "hint": "adj. 根深蒂固的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "channels",
+          "hint": "n. 渠道，途径",
+          "difficulty": "easy"
+        },
+        {
+          "id": 23,
+          "answer": "conservatism",
+          "hint": "n. 保守主义",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "defusing",
+          "hint": "v. 化解，缓和",
+          "difficulty": "hard"
+        },
+        {
+          "id": 25,
+          "answer": "intergenerational",
+          "hint": "adj. 代际的",
+          "difficulty": "hard"
         }
       ],
-      "fullText": "A photo shows more than 1,000 fishing boats moored in an orderly manner to shelter from Typhoon Dolphin, Ruoshan Fishing Port, Shitang Town, Wenling City, Zhejiang Province, east China, August 5, 2026. \nChina's meteorological, marine, water resources and agricultural authorities have stepped up coordinated emergency response measures after Typhoon Dolphin entered the country's 48-hour warning zone on Wednesday night.\nAuthorities are leveraging advanced technologies, including artificial intelligence (AI) and digital twin systems, to conduct early simulations, improve forecasting accuracy and strengthen disaster prevention efforts against the approaching typhoon.\nAccording to the National Marine Environmental Forecasting Center (NMEFC), the typhoon is moving steadily westward with a wind field extending approximately 500 to 600 kilometers from its center. Its outer rain-bands have already begun affecting the East China Sea, and residents in both coastal and inland regions are advised to closely monitor its development.\nForecasts indicate that coastal waters of the East China Sea may experience significant wave heights of 4 to 7 meters around August 9, with individual wave crests expected to be substantially higher.\n\"The typhoon has an extensive wind field and is expected to slow down after entering China's coastal waters,\" said Huang Huanqing, chief forecaster with the NMEFC. \"Its impact may not be readily apparent from the shoreline, making the dangerous sea conditions difficult to perceive. The public should avoid approaching the coast to watch waves and should not underestimate the risks.\"\nThe typhoon is also expected to bring prolonged torrential rainfall after making landfall. Saturated soil in many parts of eastern Zhejiang Province could significantly increase the risks of flash floods, water-logging and geological disasters.\nThe Ministry of Water Resources is using digital twin technology and AI-powered flood modeling to simulate flood evolution and develop targeted contingency plans in advance. Once potential hazards are detected, an intelligent early warning system will automatically notify responsible officials to ensure a timely emergency response.\nAffected by Typhoon Dolphin, giant waves over 10 meters high surged off the coast of Shitang in Wenling, east China's Zhejiang Province, August 5, 2026. \nAccording to Wang Lin, chief hydrological forecaster with the ministry, provinces including Zhejiang, Fujian, Jiangxi, Hunan, Hubei, Anhui, Jiangsu, Henan and Shandong are expected to experience heavy to torrential rainfall, with isolated areas likely to see extremely heavy downpours.\n\"The public is advised to reduce unnecessary travel and pay close attention to flood forecasts and flash flood warnings issued by water authorities,\" Wang said.\nThe typhoon is also expected to pose significant challenges to agricultural production. Along China's coast, aquaculture facilities, including offshore fish cages, face the threat of strong waves. In eastern China, late-season rice, fruits and vegetables are vulnerable to lodging caused by strong winds and farmland inundation. Should the typhoon track further north, major autumn grain-producing regions in the Huang-Huai-Hai Plain and northeastern China could also be affected by heavy rainfall.\nThe Ministry of Agriculture and Rural Affairs has urged farmers to clear drainage channels, improve field drainage, harvest mature crops as early as possible, and reinforce greenhouses, orchards and other agricultural facilities against strong winds. Livestock producers have also been advised to strengthen animal shelters, improve drainage systems and prepare for post-disaster disease prevention and control.\nMeanwhile, fishing vessels operating in affected waters have been instructed to return to port as soon as possible, while fishermen are urged to evacuate ashore to ensure their safety.\nAuthorities said every effort will be made to minimize losses and safeguard lives and property as Typhoon Dolphin approaches.",
-      "fullTextCn": "一张照片显示，2026年8月5日，在中国东部浙江省温岭市石塘镇若山渔港，超过1000艘渔船有序停泊以躲避台风“海豚”。在台风“海豚”于周三晚进入中国48小时警戒区后，中国气象、海洋、水资源和农业部门已加强协调应急响应措施。当局正在利用包括人工智能（AI）和数字孪生系统在内的先进技术，进行早期模拟，提高预报准确性，并加强针对即将来临台风的防灾工作。据国家海洋环境预报中心（NMEFC）称，台风正稳定向西移动，其风场范围从中心延伸约500至600公里。其外围雨带已开始影响东海，沿海和内陆地区的居民被建议密切关注其发展。\n\n预报显示，8月9日前后，东海沿海海域可能出现4至7米的显著浪高，个别波峰预计会更高。“台风风场广阔，预计进入中国沿海海域后会减速，”NMEFC首席预报员黄焕清说。“其影响可能从海岸线不易察觉，使得危险海况难以感知。公众应避免靠近海岸观浪，不应低估风险。”台风登陆后还可能带来长时间的暴雨。浙江东部许多地区土壤饱和，可能显著增加山洪、内涝和地质灾害的风险。\n\n水利部正在使用数字孪生技术和人工智能驱动的洪水模型，模拟洪水演变并提前制定针对性应急预案。一旦发现潜在危险，智能预警系统将自动通知负责官员，确保及时应急响应。受台风“海豚”影响，2026年8月5日，中国东部浙江省温岭石塘海岸出现超过10米的巨浪。据该部首席水文预报员王林称，浙江、福建、江西、湖南、湖北、安徽、江苏、河南和山东等省份预计将出现大到暴雨，部分地区可能出现特大暴雨。“建议公众减少不必要出行，密切关注水利部门发布的洪水预报和山洪预警，”王林说。\n\n台风预计还将对农业生产构成重大挑战。在中国沿海，包括近海网箱在内的水产养殖设施面临强浪威胁。在华东地区，晚稻、水果和蔬菜易受强风倒伏和农田淹水影响。如果台风路径进一步北移，黄淮海平原和东北地区的主要秋粮产区也可能受到强降雨影响。农业农村部已敦促农民清理排水渠道，改善田间排水，尽早收获成熟作物，并加固温室、果园和其他农业设施以抵御强风。\n\n畜牧生产者也被建议加强动物棚舍，改善排水系统，并做好灾后疾病防控准备。同时，受影响水域作业的渔船已被指示尽快返港，渔民被敦促上岸以确保安全。当局表示，随着台风“海豚”逼近，将尽一切努力减少损失，保护生命和财产。"
+      "fullText": "Editor's note: August 15 marks the 81st anniversary of Japan's announcement of its unconditional surrender in World War II. Xu Weijun is an associate research professor at the Institute of Public Policy, South China University of Technology. His research interests include East Asian international relations and China-US relations. Japan's reckoning with its wartime history has long been a subject of debate, particularly over how the government should confront and acknowledge its past. The article reflects the author's opinions and not necessarily those of CGTN.\nIn March 2026, an opinion poll conducted by the Japan Broadcasting Corporation revealed a thought-provoking result. When asked whether World War II was \"a war of aggression launched by Japan against its Asian neighbors,\" only 35% of respondents agreed, 16% disagreed, and as many as 48% answered \"I don't know.\" These figures reflect not merely a gap in historical knowledge, but also a deep rupture between war memory and the perception of historical responsibility in contemporary Japanese society.\nContemporary Japanese society does not lack memories of the war. In post-war Japanese public life, there have always been numerous war-related commemorative ceremonies, peace education and narratives of the atomic bombings. At the same time, however, Japanese politicians have repeatedly visited Yasukuni Shrine, which enshrines Class-A war criminals and is widely regarded as a symbol of Japanese militarism and historical revisionism.\nThis contradictory picture reveals the underlying structure of Japan's war memory: Japanese society remembers the war, and even harbors a genuine fear of it, yet it has not recalled to the same extent how Japan launched the war, how it invaded Asian countries, and how it inflicted enormous suffering on the peoples of those countries. In other words, the current situation in Japanese society is not simply \"forgetting the war,\" but rather \"selectively remembering the war.\"\nMany Japanese people can perceive the suffering of war through the atomic bombings, the Battle of Okinawa and the trauma of defeat, yet they may not necessarily understand Japan's responsibility as a perpetrator through the lens of colonial rule, the Nanjing Massacre and the atrocities committed on battlefields in Southeast Asia. For Japanese society, the core issue regarding historical understanding lies not in whether the war is remembered, but in whose suffering is remembered and whose is forgotten.\nA parent and child look at LED candles arranged in the shape of an origami crane at Hiroshima Peace Memorial Park in Hiroshima City, Hiroshima Prefecture, Japan, August 6, 2026, the 81st anniversary of the US atomic bombing of Hiroshima. \nStructural flaws\nThis divergence in memory is first related to structural flaws in Japan's history education.\nJapanese school education system does not entirely avoid the history of WWII. A 2025 survey of 18-year-olds conducted by the Nippon Foundation found that about 95% of respondents stated they had learned about the \"Pacific War,\" and two-thirds said their memories of the war mainly came from classes in school.\nThe more critical question, however, is the narrative framework through which this history is presented. The same survey found that among war-themed works that left a deep impression on Japanese youth, Grave of the Fireflies ranked first with 42.2%. This work mainly focuses on the suffering of ordinary Japanese civilians, particularly children, amid air raids and starvation during the final months of WWII.\nSuch memories of victimhood are not inaccurate; they carry genuine anti-war value. But the problem is that if education about war history mainly revolves around Japanese experiences of victimhood, it can easily lead students to form an intuitive impression that \"the war brought suffering to Japan,\" while making it difficult for them to develop a sense of responsibility that \"Japan inflicted profound suffering on Asia.\"\nJapanese youth might be instilled with value judgments such as \"war is terrible\" and \"peace is precious,\" but they are not sufficiently guided to ask three more fundamental questions: Why did Japan launch the war? How did the peoples of Asian countries bear the consequences of Japanese aggression? Why does post-war Japan need to continue engaging in historical reflection?\n'Victim-centered' narrative\nSecond, public memories of the war in Japanese society have long been characterized by a \"victim-centered\" narrative. The atomic bombings of Hiroshima and Nagasaki, the Great Tokyo Air Raid, the Battle of Okinawa, and post-war reconstruction constitute the primary narrative entry points through which the Japanese public perceives the war. The deeper challenge lies beneath these historical memories. When the memory of victimhood is detached from the dimension of perpetrator responsibility, it creates a moral cognitive dislocation: the Japanese public can genuinely perceive the cruelty of war, yet find it difficult to understand why neighboring Asian countries repeatedly demand that Japan reflect on its past. The Japanese society is unwilling to confront Japan's historical identity as an aggressor and perpetrator.\nThese victim-centered memories have become further entrenched amid generational change. More than 80 years after the war, the number of people with first-hand wartime experience has sharply declined, and direct war memory based on individual experience is gradually fading from Japanese society. Meanwhile, schools, the media, museums, and political discourse have become the primary channels for shaping war memory. Whoever controls these channels is better positioned to determine what Japanese society remembers, what it forgets, and how it understands history.\nA Shinto priest leads parliament members to pray for the war dead at Yasukuni Shrine in Tokyo, Japan, April 22, 2026. \nA conservative political landscape\nThird, the long-term trend toward political conservatism in Japan has been an important driving force behind the divergence in perceptions of historical responsibility. The political landscape characterized by the Liberal Democratic Party's long-standing dominance has granted right-wing historical perspectives institutional influence far greater than that of left-wing and civic forces engaged in reflection.\nJapanese conservative politics does not always directly deny historical facts. Rather, it is more adept at defusing historical responsibility by obscuring narratives and shifting the focus. For example, vague phrasing such as \"upholding the positions of previous cabinets\" is used to avoid reaffirming an apology, and the argument that \"future generations should not be destined to apologize\" is employed to cut off the intergenerational continuity of historical responsibility. Through these shifts in discourse, historical responsibility is no longer a moral baseline constraining Japan from repeating past mistakes. Instead, it has been framed as a historical burden hindering Japan's path to becoming a \"normal country.\"\nHistorical understanding is never merely a debate about the past. It profoundly shapes how a country understands itself, views its neighbors, and chooses its future path. The divergence within Japanese society regarding the nature of the war and historical responsibility appears on the surface as a split in historical narratives. But in essence, it concerns whether post-war Japan can maintain its identity as a peaceful nation through a genuine consciousness of reflection.",
+      "fullTextCn": "编者按：8月15日是日本宣布在第二次世界大战中无条件投降81周年。徐维军是华南理工大学公共政策研究院副研究员，研究兴趣包括东亚国际关系和中美关系。日本对战时历史的清算长期以来一直是争论的话题，尤其是政府应如何面对和承认其过去。本文反映作者观点，不一定代表CGTN立场。\n\n2026年3月，日本广播协会进行的一项民意调查揭示了一个发人深省的结果。当被问及二战是否是“日本对亚洲邻国发动的侵略战争”时，只有35%的受访者同意，16%不同意，多达48%回答“不知道”。这些数字不仅反映了历史知识的差距，也反映了当代日本社会中战争记忆与历史责任认知之间的深刻断裂。当代日本社会并不缺乏对战争的记忆。在战后的日本公共生活中，一直有许多与战争相关的纪念仪式、和平教育以及原子弹爆炸的叙述。然而，与此同时，日本政客多次参拜靖国神社，该神社供奉着甲级战犯，被广泛视为日本军国主义和历史修正主义的象征。\n\n这种矛盾的现象揭示了日本战争记忆的底层结构：日本社会记得战争，甚至对它怀有真正的恐惧，但它并没有同样程度地回忆起日本如何发动战争、如何侵略亚洲国家、如何给这些国家的人民带来巨大痛苦。换句话说，日本社会的现状并非简单的“遗忘战争”，而是“选择性记忆战争”。许多日本人可以通过原子弹爆炸、冲绳战役和战败创伤来感知战争的苦难，但他们不一定能通过殖民统治、南京大屠杀和东南亚战场上的暴行来理解日本作为加害者的责任。对日本社会而言，关于历史理解的核心问题不在于战争是否被记住，而在于谁的苦难被记住，谁的苦难被遗忘。2026年8月6日，美国原子弹轰炸广岛81周年之际，一位家长和孩子在广岛市广岛和平纪念公园观看以纸鹤形状排列的LED蜡烛。结构性缺陷：这种记忆上的分歧首先与日本历史教育的结构性缺陷有关。\n\n日本的学校教育体系并未完全回避二战历史。日本财团2025年对18岁青年进行的一项调查发现，约95%的受访者表示学过“太平洋战争”，三分之二的人表示他们对战争的记忆主要来自学校课堂。然而，更关键的问题是呈现这段历史的叙事框架。同一项调查发现，在给日本青年留下深刻印象的战争题材作品中，《萤火虫之墓》以42.2%的比例位居第一。这部作品主要聚焦于二战最后几个月日本普通平民（尤其是儿童）在空袭和饥饿中的苦难。\n\n这种受害者记忆并非不准确，它们具有真正的反战价值。但问题是，如果战争历史教育主要围绕日本的受害经历展开，很容易让学生形成“战争给日本带来了苦难”的直观印象，而难以培养“日本给亚洲带来了深重苦难”的责任感。日本青年可能被灌输“战争可怕”“和平珍贵”等价值判断，但没有被充分引导去思考三个更根本的问题：日本为何发动战争？亚洲各国人民如何承受了日本侵略的后果？为什么战后的日本需要继续进行历史反思？“受害者中心”叙事：其次，日本社会对战争的公共记忆长期以来以“受害者中心”叙事为特征。\n\n广岛和长崎的原子弹爆炸、东京大空袭、冲绳战役以及战后重建构成了日本公众感知战争的主要叙事切入点。更深层的挑战在于这些历史记忆之下。当受害者记忆与加害者责任维度脱节时，就会产生一种道德认知错位：日本公众能真切感受到战争的残酷，却难以理解为什么邻国亚洲国家一再要求日本反思其过去。日本社会不愿面对日本作为侵略者和加害者的历史身份。这些以受害者为中心的记忆在代际更替中变得更加根深蒂固。\n\n战争结束80多年后，拥有战争亲历经验的人数急剧减少，基于个人经历的直接战争记忆正逐渐从日本社会消失。与此同时，学校、媒体、博物馆和政治话语已成为塑造战争记忆的主要渠道。谁控制这些渠道，谁就能更好地决定日本社会记住什么、忘记什么以及如何理解历史。2026年4月22日，一名神道教祭司带领国会议员在东京靖国神社为战死者祈祷。保守政治格局：第三，日本政治长期保守化趋势是历史责任认知分歧的重要推动力。\n\n以自民党长期主导为特征的政治格局，使右翼历史观点获得了远超左翼和公民反思力量的制度性影响。日本保守政治并不总是直接否认历史事实，而是更擅长通过模糊叙事和转移焦点来化解历史责任。例如，使用“继承历届内阁立场”等模糊措辞来避免重申道歉，并利用“子孙后代不应注定道歉”的论点来切断历史责任的代际延续。通过这些话语转换，历史责任不再是对日本重蹈覆辙的道德底线。\n\n相反，它被框定为阻碍日本成为“正常国家”的历史负担。历史理解从来不仅仅是对过去的争论。它深刻塑造了一个国家如何认识自己、如何看待邻国以及如何选择未来道路。日本社会内部关于战争性质和历史责任的分歧，表面上表现为历史叙事的割裂，但本质上关乎战后的日本能否通过真正的反思意识维持其作为和平国家的身份。"
     },
     {
       "id": 2,
       "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-13/No-sweat-Robots-expected-to-smash-records-at-Beijing-s-humanoid-games-1PA1Ym4HUac/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "No sweat: Robots expected to smash records at Beijing's humanoid games",
-      "titleCn": "毫不费力：机器人预计将在北京人形机器人运动会上打破纪录",
-      "summary": "No sweat: Robots expected to smash records at Beijing's humanoid games",
-      "summaryCn": "第二届世界人形机器人运动会将于8月22日在北京开幕，规模扩大、规则更严，机器人将挑战多项世界纪录。",
-      "wordCount": 608,
+      "sourceUrl": "https://newseu.cgtn.com/news/2026-08-05/English-hospitals-aim-to-ramp-up-use-of-robotics-in-surgery-1PjHghRgoMg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "English hospitals aim to ramp up use of robotics in surgery",
+      "titleCn": "英国医院拟加大机器人手术应用力度",
+      "summary": "The UK government has announced plans to invest more in robotic equipment for English hospitals and set a target for robotic assistance to be used in 90% of keyhole surgeries carried out in England by 2035",
+      "summaryCn": "英国政府计划投资机器人设备，目标到2035年90%的微创手术使用机器人辅助，以提升手术精准度并缓解医疗系统压力。",
+      "wordCount": 529,
       "paragraphs": [
         {
-          "en": "These athletes don't sweat, don't complain, and they're about to {{0}} world records. \"Let the games begin\" will ring out across Beijing's \"Ice Ribbon\" on August 22 for the second World Humanoid Robot Games. Co-hosted by the Beijing Municipal Government and China Media Group, the event has {{1}} from three days to five, with sessions now running in the afternoon and evening. By the numbers: A leap forward\nThis year's games feature 51 events and 1,301 matches across five days — nearly double the 26 events and 487 matches of the {{2}} edition. A total of 666 teams and 2,056 robots from 16 countries across six continents are {{3}}, a 138% increase in teams and a fourfold increase in robots.",
-          "cn": "这些运动员不流汗、不抱怨，而且即将打破世界纪录。8月22日，“让比赛开始”的口号将在北京“冰丝带”响起，第二届世界人形机器人运动会将在此举行。本届赛事由北京市政府和中国中央广播电视总台联合主办，会期从三天延长至五天，比赛时间安排在下午和晚上。数字一览：飞跃式进步 今年的运动会设有51个比赛项目和1301场比赛，为期五天——几乎是首届26个项目和487场比赛的两倍。共有来自六大洲16个国家的666支队伍和2056台机器人参赛，队伍数量增长138%，机器人数量增长四倍。"
+          "en": "The UK government has announced plans to {{1}} more in robotic equipment for English hospitals and set a {{2}} for robotic assistance to be used in 90% of {{3}} surgeries carried out in England by 2035. The government highlighted robotics as one of five \"big bets\" in a 10-year health plan for England, alongside other {{4}} technologies: data, AI, genomics and wearables. Surgeons and nurses using the new Da Vinci 5 robotic-assisted surgical system while performing surgery, at St Bartholomew's Hospital in London. /Carlos Jasso/AFP\nAt St Bartholomew's Hospital in central London, visiting surgeons are among the first to be trained to use the new da Vinci 5 robotic-assisted surgical system, made by US company Initiative. The system, which includes three robotic arms that can hold surgical equipment, is controlled using an {{5}} 3D headset and a video-game-like {{6}}.",
+          "cn": "英国政府宣布计划为英格兰医院投资更多机器人设备，并设定目标，到2035年，英格兰90%的微创手术将使用机器人辅助。政府将机器人技术列为英格兰10年健康计划中的五大“重大赌注”之一，其他变革性技术包括数据、人工智能、基因组学和可穿戴设备。在伦敦圣巴塞洛缪医院，外科医生和护士正在使用新的达芬奇5机器人辅助手术系统进行手术。/Carlos Jasso/AFP"
         },
         {
-          "en": "The United States, Germany, Japan, and other robotics {{4}} are fielding teams, while Brazil has {{5}} a squad of five Robot World Cup champions. Domestically, 157 enterprises, 641 teams, and 1,975 robots are taking part, with all major industry players present. Teams from 27 Chinese universities are competing, {{6}} 30 provinces, autonomous regions, municipalities, and special administrative regions. What's new: From show to real-world readiness\nThe {{7}} games now feature 30 competitive events and 21 scenario-based events — up from just six scenario events last year. Scenario events {{8}} nine real-world environments: households, hotels, industrial settings, emergency rescue, logistics, libraries, retail, office services, and vehicle charging.",
-          "cn": "美国、德国、日本等机器人强国均派出队伍参赛，巴西则组建了一支由五名机器人世界杯冠军组成的队伍。国内方面，157家企业、641支队伍和1975台机器人参赛，所有主要行业参与者悉数到场。来自27所中国大学的队伍参赛，覆盖30个省、自治区、直辖市和特别行政区。新变化：从展示到实战准备 改版后的运动会设有30个竞技项目和21个场景项目——而去年仅有6个场景项目。场景项目模拟九种真实环境：家庭、酒店、工业场所、紧急救援、物流、图书馆、零售、办公服务和车辆充电。"
+          "en": "Robotic surgical systems like this can be used across a range of {{7}} including {{8}}, {{9}}, abdominal, {{10}}, and {{11}} or general surgery. Sasha Stamenkovic (C) using the new Da Vinci 5 robotic-assisted surgical system while performing lung cancer surgery as Ali Ansaripour (R), senior cardiothoracic trainee on a robotic fellowship, looks on. /Carlos Jasso/AFP\nThe {{12}} of robotic-assisted surgery should mean shorter hospital stays and quicker {{13}} times, which will take {{14}} off a {{15}} health service with year-long waitlists, workforce {{16}} and discharge {{17}}. \"The ability to have lots of {{18}} computer-aided technology on top\" of human-controlled robotics \"makes this precise surgery. It makes it safe surgery,\" says Sasha Stamenkovic, Director of Robotic Surgery and Research at Barts Health NHS Trust.",
+          "cn": "在伦敦市中心的圣巴塞洛缪医院，来访的外科医生是首批接受培训使用美国公司Initiative制造的新型达芬奇5机器人辅助手术系统的人员。该系统包括三个可持手术器械的机械臂，通过沉浸式3D头显和类似视频游戏的控制台进行操作。"
         },
         {
-          "en": "Two new challenges are pushing the {{9}} of what robots can do in practical settings:\nThe Dexterous Hand Challenge test {{10}} across tool assembly, powder weighing, block stacking, nail driving, bottle opening, unboxing, tweezer pick-up, and cable connection. Micro-distance vision, motion planning, force control precision, and {{11}} accuracy all come into play. The \"Integrated Five\" Challenge requires robots to perform dexterous operations, stable object transfer, and heavy lifting while running a 100-meter dash. Rules getting tougher\nTo raise the bar, time limits have been cut sharply: the 100-meter race from three minutes to one; the 400-meter from 15 minutes to five; and the 1,500-meter from 40 minutes to 15. Autonomy requirements are stricter too: all track events and competitive events must be fully autonomous — no remote control — except for the 100-meter and 400-meter obstacle races.",
-          "cn": "两项新挑战正在推动机器人在实际应用中的能力边界：灵巧手挑战测试工具组装、粉末称重、积木堆叠、钉钉子、开瓶、开箱、镊子拾取和电缆连接等精密操作。微距视觉、运动规划、力控精度和操作准确性都至关重要。“五项全能”挑战要求机器人在进行100米短跑的同时完成灵巧操作、稳定物体转移和重物搬运。规则更加严格 为提高标准，时间限制大幅缩短：100米赛跑从三分钟缩短至一分钟；400米从15分钟缩短至五分钟；1500米从40分钟缩短至15分钟。自主性要求也更加严格：所有田径项目和竞技项目必须完全自主——不允许遥控——除了100米和400米障碍赛。"
+          "en": "As well as improving recovery times, the greater precision also reduces the risk of {{19}} like air leaks, a common cause of longer hospital stays following lung surgery. Nurses assisting in lung cancer surgery using the new Da Vinci 5 robotic-assisted surgical system, at St Bartholomew's Hospital. /Carlos Jasso/AFP\nIan Macleod was the first patient in Britain's NHS to {{20}} lung cancer surgery using the new da Vinci robotic system. Macleod says he \"didn't realize\" until he was wearing a surgical gown and anesthetised that he would hold this {{21}} title, but the news \"didn't {{22}}\" the 76-year-old retired detective. Thirty minutes after the robotic-assisted operation, Macleod was back on his feet.",
+          "cn": "这类机器人手术系统可用于多种专科，包括泌尿科、妇科、腹部、结直肠、胸外科或普外科。Sasha Stamenkovic（中）使用新的达芬奇5机器人辅助手术系统进行肺癌手术，高级心胸外科培训生Ali Ansaripour（右）在机器人专科培训中观摩。/Carlos Jasso/AFP"
         },
         {
-          "en": "In scenario events, fully autonomous completion earns a weight {{13}} of 1.0, while remote-controlled completion is capped at 0.5. One notable rule change: in robot soccer, goals only count if at least two teammates have touched the ball during the build-up — a {{14}} move to discourage one-robot solo performances and encourage team {{15}}. The rule tests communication and collaboration, not just individual hardware {{16}}. What to watch\nGold medals are up for grabs across all nine sessions, with 12 decided on on August 23, second only to the closing day. The opening ceremony evening features a 7v7 soccer exhibition match plus 400-meter and 100-meter {{17}}.",
-          "cn": "在场景项目中，完全自主完成获得1.0的权重系数，而遥控完成的上限为0.5。一项值得注意的规则变化是：在机器人足球比赛中，只有在进攻过程中至少有两名队友触球，进球才算有效——这是为了故意阻止单机器人单打独斗，鼓励团队协作。该规则考验的是沟通和协作能力，而不仅仅是个人硬件实力。看点 九个场次均有金牌争夺，其中8月23日将决出12枚金牌，仅次于闭幕日。开幕式当晚将举行7对7足球表演赛以及400米和100米预赛。"
+          "en": "\"It was {{23}},\" he says. \"In fact, after the operation, I found out quite quickly that I only had one {{24}}.\" He had undergone non-robotic keyhole surgery for a different cancer in the past, and says the recovery time was \"much longer\". This time, he was driving his wife to the garden centrer for coffee less than a week later. Stamenkovic runs fellowships at St Bartholomew's training surgeons on this new technology. He says it is the young surgeons who pick up the new robotic control system the fastest and who become the most {{25}}.",
+          "cn": "机器人辅助手术的精准性应能缩短住院时间并加快恢复速度，这将缓解一个面临年候诊名单、劳动力短缺和出院瓶颈的医疗系统的压力。“在人类控制的机器人技术之上，集成大量计算机辅助技术的能力，使这种手术精准且安全，”巴茨健康NHS信托机器人手术与研究主任Sasha Stamenkovic说。"
         },
         {
-          "en": "Freestyle combat finals and a 5v5 soccer final come before the closing. Track records are expected to {{18}}. In April a humanoid robot finished a half-marathon in 50 minutes and 26 seconds, faster than the human world record. Robot soccer players have also improved, now able to {{19}}, power-shot, and dive to save. Freestyle combat runs across eight sessions in three weight classes: 40kg, 58kg, and 80kg — all significantly more competitive than last year.",
-          "cn": "自由搏击决赛和5对5足球决赛将在闭幕式前举行。田径纪录预计将被打破。今年4月，一台人形机器人以50分26秒完成半程马拉松，比人类世界纪录还快。机器人足球运动员也有所进步，现在能够运球、大力射门和扑救。自由搏击比赛共八个场次，分为三个重量级别：40公斤、58公斤和80公斤——所有级别都比去年更具竞争力。"
-        },
-        {
-          "en": "A newly added {{20}} event will award lightweight and heavyweight golds on August 24. Dance events have grown from 29 teams to 108, with robots competing in street dance, ballroom, and {{21}}. This year's event features 223 {{22}} — 100 more than last year — including 28 international-level, 75 national-level, and 120 first-tier officials. An {{23}} committee has been strengthened to handle disputes promptly.",
-          "cn": "新增的举重项目将于8月24日颁发轻量级和重量级金牌。舞蹈项目从29支队伍增加到108支，机器人将参加街舞、国标舞和啦啦操比赛。今年的赛事共有223名裁判——比去年多100名——其中包括28名国际级、75名国家级和120名一级裁判。仲裁委员会也已加强，以便及时处理争议。"
+          "en": "\"They've come with different skill sets,\" he says, \"they've probably come with gaming skill sets, some of them have come with a musical background.\"\nLaying out his long-term {{28}}, Stamenkovic added: \"All we need to do is {{26}} their energy, their {{27}}, their skill set, and teach them the right moves. And that will make the surgeon of the future.\"",
+          "cn": "除了改善恢复时间，更高的精准度还降低了并发症风险，如空气泄漏，这是肺手术后住院时间延长的常见原因。在圣巴塞洛缪医院，护士正在使用新的达芬奇5机器人辅助手术系统协助肺癌手术。/Carlos Jasso/AFP"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "smash",
-          "hint": "v. 打破（纪录）",
-          "difficulty": "medium"
+          "answer": "invest",
+          "hint": "v. 投资",
+          "difficulty": "easy"
         },
         {
           "id": 1,
-          "answer": "expanded",
-          "hint": "v. 扩大",
+          "answer": "target",
+          "hint": "n. 目标",
           "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "inaugural",
-          "hint": "adj. 首届的",
-          "difficulty": "hard"
+          "answer": "keyhole",
+          "hint": "adj. 微创的",
+          "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "competing",
-          "hint": "v. 竞争",
-          "difficulty": "easy"
+          "answer": "transformative",
+          "hint": "adj. 变革性的",
+          "difficulty": "hard"
         },
         {
           "id": 4,
-          "answer": "powerhouses",
-          "hint": "n. 强国",
+          "answer": "immersive",
+          "hint": "adj. 沉浸式的",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "assembled",
-          "hint": "v. 组建",
+          "answer": "console",
+          "hint": "n. 控制台",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "spanning",
-          "hint": "v. 覆盖",
+          "answer": "specialties",
+          "hint": "n. 专科",
           "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "revamped",
-          "hint": "adj. 改版的",
+          "answer": "urology",
+          "hint": "n. 泌尿科",
           "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "simulate",
-          "hint": "v. 模拟",
-          "difficulty": "medium"
+          "answer": "gynecology",
+          "hint": "n. 妇科",
+          "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "boundaries",
-          "hint": "n. 边界",
-          "difficulty": "medium"
+          "answer": "colorectal",
+          "hint": "adj. 结直肠的",
+          "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "precision",
-          "hint": "n. 精度",
-          "difficulty": "medium"
+          "answer": "thoracic",
+          "hint": "adj. 胸科的",
+          "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "operational",
-          "hint": "adj. 操作的",
+          "answer": "precision",
+          "hint": "n. 精准度",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "coefficient",
-          "hint": "n. 系数",
-          "difficulty": "hard"
+          "answer": "recovery",
+          "hint": "n. 恢复",
+          "difficulty": "easy"
         },
         {
           "id": 13,
-          "answer": "deliberate",
-          "hint": "adj. 故意的",
+          "answer": "strain",
+          "hint": "n. 压力",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "coordination",
-          "hint": "n. 协作",
+          "answer": "struggling",
+          "hint": "adj. 挣扎的",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "prowess",
-          "hint": "n. 实力",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "preliminaries",
-          "hint": "n. 预赛",
+          "answer": "shortages",
+          "hint": "n. 短缺",
           "difficulty": "medium"
         },
         {
+          "id": 16,
+          "answer": "bottlenecks",
+          "hint": "n. 瓶颈",
+          "difficulty": "hard"
+        },
+        {
           "id": 17,
-          "answer": "tumble",
-          "hint": "v. 被打破",
+          "answer": "integrated",
+          "hint": "adj. 集成的",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "dribble",
-          "hint": "v. 运球",
+          "answer": "complications",
+          "hint": "n. 并发症",
           "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "weightlifting",
-          "hint": "n. 举重",
-          "difficulty": "easy"
+          "answer": "undergo",
+          "hint": "v. 接受",
+          "difficulty": "medium"
         },
         {
           "id": 20,
-          "answer": "cheerleading",
-          "hint": "n. 啦啦操",
+          "answer": "groundbreaking",
+          "hint": "adj. 开创性的",
           "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "referees",
-          "hint": "n. 裁判",
-          "difficulty": "medium"
+          "answer": "faze",
+          "hint": "v. 吓倒",
+          "difficulty": "hard"
         },
         {
           "id": 22,
-          "answer": "arbitration",
-          "hint": "n. 仲裁",
+          "answer": "extraordinary",
+          "hint": "adj. 非凡的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "stitch",
+          "hint": "n. 缝合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "adept",
+          "hint": "adj. 熟练的",
           "difficulty": "hard"
+        },
+        {
+          "id": 25,
+          "answer": "harness",
+          "hint": "v. 利用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "passion",
+          "hint": "n. 热情",
+          "difficulty": "easy"
+        },
+        {
+          "id": 27,
+          "answer": "mission",
+          "hint": "n. 使命",
+          "difficulty": "easy"
         }
       ],
-      "fullText": "These athletes don't sweat, don't complain, and they're about to smash world records. \"Let the games begin\" will ring out across Beijing's \"Ice Ribbon\" on August 22 for the second World Humanoid Robot Games.\nCo-hosted by the Beijing Municipal Government and China Media Group, the event has expanded from three days to five, with sessions now running in the afternoon and evening.\nBy the numbers: A leap forward\nThis year's games feature 51 events and 1,301 matches across five days — nearly double the 26 events and 487 matches of the inaugural edition.\nA total of 666 teams and 2,056 robots from 16 countries across six continents are competing, a 138% increase in teams and a fourfold increase in robots.\nThe United States, Germany, Japan, and other robotics powerhouses are fielding teams, while Brazil has assembled a squad of five Robot World Cup champions.\nDomestically, 157 enterprises, 641 teams, and 1,975 robots are taking part, with all major industry players present.\nTeams from 27 Chinese universities are competing, spanning 30 provinces, autonomous regions, municipalities, and special administrative regions.\nWhat's new: From show to real-world readiness\nThe revamped games now feature 30 competitive events and 21 scenario-based events — up from just six scenario events last year.\nScenario events simulate nine real-world environments: households, hotels, industrial settings, emergency rescue, logistics, libraries, retail, office services, and vehicle charging.\nTwo new challenges are pushing the boundaries of what robots can do in practical settings:\nThe Dexterous Hand Challenge test precision across tool assembly, powder weighing, block stacking, nail driving, bottle opening, unboxing, tweezer pick-up, and cable connection. Micro-distance vision, motion planning, force control precision, and operational accuracy all come into play.\nThe \"Integrated Five\" Challenge requires robots to perform dexterous operations, stable object transfer, and heavy lifting while running a 100-meter dash.\nRules getting tougher\nTo raise the bar, time limits have been cut sharply: the 100-meter race from three minutes to one; the 400-meter from 15 minutes to five; and the 1,500-meter from 40 minutes to 15.\nAutonomy requirements are stricter too: all track events and competitive events must be fully autonomous — no remote control — except for the 100-meter and 400-meter obstacle races.\nIn scenario events, fully autonomous completion earns a weight coefficient of 1.0, while remote-controlled completion is capped at 0.5.\nOne notable rule change: in robot soccer, goals only count if at least two teammates have touched the ball during the build-up — a deliberate move to discourage one-robot solo performances and encourage team coordination.\nThe rule tests communication and collaboration, not just individual hardware prowess.\nWhat to watch\nGold medals are up for grabs across all nine sessions, with 12 decided on on August 23, second only to the closing day.\nThe opening ceremony evening features a 7v7 soccer exhibition match plus 400-meter and 100-meter preliminaries.\nFreestyle combat finals and a 5v5 soccer final come before the closing.\nTrack records are expected to tumble. In April a humanoid robot finished a half-marathon in 50 minutes and 26 seconds, faster than the human world record.\nRobot soccer players have also improved, now able to dribble, power-shot, and dive to save.\nFreestyle combat runs across eight sessions in three weight classes: 40kg, 58kg, and 80kg — all significantly more competitive than last year. A newly added weightlifting event will award lightweight and heavyweight golds on August 24.\nDance events have grown from 29 teams to 108, with robots competing in street dance, ballroom, and cheerleading.\nThis year's event features 223 referees — 100 more than last year — including 28 international-level, 75 national-level, and 120 first-tier officials. An arbitration committee has been strengthened to handle disputes promptly.",
-      "fullTextCn": "这些运动员不流汗、不抱怨，而且即将打破世界纪录。8月22日，“让比赛开始”的口号将在北京“冰丝带”响起，第二届世界人形机器人运动会将在此举行。本届赛事由北京市政府和中国中央广播电视总台联合主办，会期从三天延长至五天，比赛时间安排在下午和晚上。数字一览：飞跃式进步 今年的运动会设有51个比赛项目和1301场比赛，为期五天——几乎是首届26个项目和487场比赛的两倍。共有来自六大洲16个国家的666支队伍和2056台机器人参赛，队伍数量增长138%，机器人数量增长四倍。\n\n美国、德国、日本等机器人强国均派出队伍参赛，巴西则组建了一支由五名机器人世界杯冠军组成的队伍。国内方面，157家企业、641支队伍和1975台机器人参赛，所有主要行业参与者悉数到场。来自27所中国大学的队伍参赛，覆盖30个省、自治区、直辖市和特别行政区。新变化：从展示到实战准备 改版后的运动会设有30个竞技项目和21个场景项目——而去年仅有6个场景项目。场景项目模拟九种真实环境：家庭、酒店、工业场所、紧急救援、物流、图书馆、零售、办公服务和车辆充电。\n\n两项新挑战正在推动机器人在实际应用中的能力边界：灵巧手挑战测试工具组装、粉末称重、积木堆叠、钉钉子、开瓶、开箱、镊子拾取和电缆连接等精密操作。微距视觉、运动规划、力控精度和操作准确性都至关重要。“五项全能”挑战要求机器人在进行100米短跑的同时完成灵巧操作、稳定物体转移和重物搬运。规则更加严格 为提高标准，时间限制大幅缩短：100米赛跑从三分钟缩短至一分钟；400米从15分钟缩短至五分钟；1500米从40分钟缩短至15分钟。自主性要求也更加严格：所有田径项目和竞技项目必须完全自主——不允许遥控——除了100米和400米障碍赛。\n\n在场景项目中，完全自主完成获得1.0的权重系数，而遥控完成的上限为0.5。一项值得注意的规则变化是：在机器人足球比赛中，只有在进攻过程中至少有两名队友触球，进球才算有效——这是为了故意阻止单机器人单打独斗，鼓励团队协作。该规则考验的是沟通和协作能力，而不仅仅是个人硬件实力。看点 九个场次均有金牌争夺，其中8月23日将决出12枚金牌，仅次于闭幕日。开幕式当晚将举行7对7足球表演赛以及400米和100米预赛。\n\n自由搏击决赛和5对5足球决赛将在闭幕式前举行。田径纪录预计将被打破。今年4月，一台人形机器人以50分26秒完成半程马拉松，比人类世界纪录还快。机器人足球运动员也有所进步，现在能够运球、大力射门和扑救。自由搏击比赛共八个场次，分为三个重量级别：40公斤、58公斤和80公斤——所有级别都比去年更具竞争力。\n\n新增的举重项目将于8月24日颁发轻量级和重量级金牌。舞蹈项目从29支队伍增加到108支，机器人将参加街舞、国标舞和啦啦操比赛。今年的赛事共有223名裁判——比去年多100名——其中包括28名国际级、75名国家级和120名一级裁判。仲裁委员会也已加强，以便及时处理争议。"
+      "fullText": "The UK government has announced plans to invest more in robotic equipment for English hospitals and set a target for robotic assistance to be used in 90% of keyhole surgeries carried out in England by 2035.\nThe government highlighted robotics as one of five \"big bets\" in a 10-year health plan for England, alongside other transformative technologies: data, AI, genomics and wearables.\nSurgeons and nurses using the new Da Vinci 5 robotic-assisted surgical system while performing surgery, at St Bartholomew's Hospital in London. /Carlos Jasso/AFP\nAt St Bartholomew's Hospital in central London, visiting surgeons are among the first to be trained to use the new da Vinci 5 robotic-assisted surgical system, made by US company Initiative. The system, which includes three robotic arms that can hold surgical equipment, is controlled using an immersive 3D headset and a video-game-like console.\nRobotic surgical systems like this can be used across a range of specialties including urology, gynecology, abdominal, colorectal, and thoracic or general surgery.\nSasha Stamenkovic (C) using the new Da Vinci 5 robotic-assisted surgical system while performing lung cancer surgery as Ali Ansaripour (R), senior cardiothoracic trainee on a robotic fellowship, looks on. /Carlos Jasso/AFP\nThe precision of robotic-assisted surgery should mean shorter hospital stays and quicker recovery times, which will take strain off a struggling health service with year-long waitlists, workforce shortages and discharge bottlenecks.\n\"The ability to have lots of integrated computer-aided technology on top\" of human-controlled robotics \"makes this precise surgery. It makes it safe surgery,\" says Sasha Stamenkovic, Director of Robotic Surgery and Research at Barts Health NHS Trust.\nAs well as improving recovery times, the greater precision also reduces the risk of complications like air leaks, a common cause of longer hospital stays following lung surgery.\nNurses assisting in lung cancer surgery using the new Da Vinci 5 robotic-assisted surgical system, at St Bartholomew's Hospital. /Carlos Jasso/AFP\nIan Macleod was the first patient in Britain's NHS to undergo lung cancer surgery using the new da Vinci robotic system. Macleod says he \"didn't realize\" until he was wearing a surgical gown and anesthetised that he would hold this groundbreaking title, but the news \"didn't faze\" the 76-year-old retired detective.\nThirty minutes after the robotic-assisted operation, Macleod was back on his feet. \"It was extraordinary,\" he says. \"In fact, after the operation, I found out quite quickly that I only had one stitch.\" He had undergone non-robotic keyhole surgery for a different cancer in the past, and says the recovery time was \"much longer\". This time, he was driving his wife to the garden centrer for coffee less than a week later.\nStamenkovic runs fellowships at St Bartholomew's training surgeons on this new technology. He says it is the young surgeons who pick up the new robotic control system the fastest and who become the most adept.\n\"They've come with different skill sets,\" he says, \"they've probably come with gaming skill sets, some of them have come with a musical background.\"\nLaying out his long-term mission, Stamenkovic added: \"All we need to do is harness their energy, their passion, their skill set, and teach them the right moves. And that will make the surgeon of the future.\"",
+      "fullTextCn": "英国政府宣布计划为英格兰医院投资更多机器人设备，并设定目标，到2035年，英格兰90%的微创手术将使用机器人辅助。政府将机器人技术列为英格兰10年健康计划中的五大“重大赌注”之一，其他变革性技术包括数据、人工智能、基因组学和可穿戴设备。在伦敦圣巴塞洛缪医院，外科医生和护士正在使用新的达芬奇5机器人辅助手术系统进行手术。/Carlos Jasso/AFP\n\n在伦敦市中心的圣巴塞洛缪医院，来访的外科医生是首批接受培训使用美国公司Initiative制造的新型达芬奇5机器人辅助手术系统的人员。该系统包括三个可持手术器械的机械臂，通过沉浸式3D头显和类似视频游戏的控制台进行操作。\n\n这类机器人手术系统可用于多种专科，包括泌尿科、妇科、腹部、结直肠、胸外科或普外科。Sasha Stamenkovic（中）使用新的达芬奇5机器人辅助手术系统进行肺癌手术，高级心胸外科培训生Ali Ansaripour（右）在机器人专科培训中观摩。/Carlos Jasso/AFP\n\n机器人辅助手术的精准性应能缩短住院时间并加快恢复速度，这将缓解一个面临年候诊名单、劳动力短缺和出院瓶颈的医疗系统的压力。“在人类控制的机器人技术之上，集成大量计算机辅助技术的能力，使这种手术精准且安全，”巴茨健康NHS信托机器人手术与研究主任Sasha Stamenkovic说。\n\n除了改善恢复时间，更高的精准度还降低了并发症风险，如空气泄漏，这是肺手术后住院时间延长的常见原因。在圣巴塞洛缪医院，护士正在使用新的达芬奇5机器人辅助手术系统协助肺癌手术。/Carlos Jasso/AFP\n\nIan Macleod是英国NHS中首位使用新型达芬奇机器人系统进行肺癌手术的患者。Macleod说，直到穿上手术服并被麻醉，他才意识到自己将获得这一开创性的称号，但这一消息“没有吓倒”这位76岁的退休侦探。机器人辅助手术后30分钟，Macleod就重新站了起来。\n\n“这太不可思议了，”他说。“事实上，手术后我很快发现，我只有一针缝合。”他过去曾因另一种癌症接受过非机器人微创手术，并表示恢复时间“长得多”。这次，不到一周后，他就开车带妻子去花园中心喝咖啡。Stamenkovic在圣巴塞洛缪医院举办专科培训，教授外科医生这项新技术。他说，年轻外科医生掌握新机器人控制系统最快，也最熟练。\n\n“他们带来了不同的技能组合，”他说，“他们可能带来了游戏技能，有些人有音乐背景。”\n\n在阐述其长期使命时，Stamenkovic补充道：“我们只需利用他们的能量、热情和技能，教他们正确的动作。这将造就未来的外科医生。”"
     },
     {
       "id": 3,
       "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://newsaf.cgtn.com/news/2026-08-12/Understanding-the-emerging-super-El-nino-threat-in-Africa-1Py9Mr9UqM8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Understanding the emerging super El-nino threat in Africa",
-      "titleCn": "理解非洲正在出现的超级厄尔尼诺威胁",
-      "summary": "El Nino occurs when sea surface temperatures in the central and eastern tropical Pacific Ocean become unusually warm. The warming can alter atmospheric circulation and disrupt weather patterns thousands of kilometres away.",
-      "summaryCn": "非洲正面临2026-2027年可能出现的超级厄尔尼诺事件，专家呼吁各国提前行动以减少极端天气对粮食安全和生计的影响。",
-      "wordCount": 593,
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-17/Wildfires-across-Europe-leave-deaths-and-destruction-1PFUkVCUwJq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Wildfires across Europe leave deaths and destruction",
+      "titleCn": "欧洲多地野火肆虐，造成人员伤亡和破坏",
+      "summary": "Two people were killed in fires that broke out on a Greek island and a soldier died fighting a fire in Spain as Belgium tackled a record blaze on its border with Germany on Sunday.",
+      "summaryCn": "欧洲多国在高温和干燥条件下遭遇严重野火，导致人员死亡、大规模疏散和财产损失。",
+      "wordCount": 539,
       "paragraphs": [
         {
-          "en": "a is {{0}} for the possible {{1}} of a {{2}} El Nino event that could develop through 2026 and continue into 2027, raising {{3}} over extreme weather, food security and {{4}} across the continent. El Nino occurs when sea surface temperatures in the central and eastern {{5}} Pacific Ocean become {{6}} warm. The warming can {{7}} {{8}} circulation and {{9}} weather patterns thousands of kilometres away. \"There have been observations by the US {{11}} agencies around the Pacific Ocean. Whenever the ocean warms up, there is a lot of {{10}} in terms of the climate and how it affects us here in East Africa.",
-          "cn": "非洲正在为可能发生的强厄尔尼诺事件的影响做准备，该事件可能在2026年发展并持续到2027年，引发对极端天气、粮食安全和整个大陆生计的担忧。厄尔尼诺现象发生在热带太平洋中部和东部海面温度异常升高时。这种升温会改变大气环流，扰乱数千公里外的天气模式。\"美国气象机构在太平洋地区已有观测。每当海洋升温，气候就会发生大量重组，并影响我们东非地区。\""
+          "en": "Two people were killed in fires that broke out on a Greek island and a soldier died fighting a fire in Spain as Belgium tackled a record blaze on its border with Germany on Sunday. Europe is facing wildfires {{0}} by high temperatures and {{1}} conditions due to a historically hot summer that has already {{2}} the live of thousands of people. A wildfire burns on the island of Salamina, west of Athens, Greece, August 16, 2026. Two bodies were found Sunday during firefighting operations on Salamina, according to Greek broadcaster ERT. The {{3}}, which initial information indicated are a married couple, were discovered near where a fire started in the forested Peristeria area.",
+          "cn": "周日，希腊一座岛屿上爆发的火灾造成两人死亡，一名士兵在西班牙灭火时牺牲，同时比利时在与德国接壤的边境地区应对一场创纪录的火灾。欧洲正面临由高温和极度干燥条件引发的野火，这是历史性炎热夏季的结果，已导致数千人丧生。希腊广播公司ERT报道，在萨拉米纳岛（雅典以西）的灭火行动中发现了两具尸体。初步信息显示，遇难者是一对夫妇，他们在森林茂密的佩里斯特里亚地区火灾起点附近被发现。"
         },
         {
-          "en": "What has been observed currently is that there is a four-to-five chance that it's going to be a super El Nino,\" according to Dr James Mumina, a research scientist at the University of Sussex. What could it mean for Africa? The effects of El Nino {{12}} across the continent, depending on the region, season and {{13}} with other climate systems. CGTN visited the IGAD Climate Prediction and Applications Centre, where weather experts are {{14}} decades of weather-related data, which is particularly {{15}} for countries including Kenya, Somalia, Uganda, Tanzania, Ethiopia and South Sudan, where millions of people depend on seasonal rains for farming and {{16}}. \"For the upcoming October to December season, which is an important rainfall season particularly for Kenya, Somalia, southern Ethiopia, Uganda, Rwanda, Burundi and Tanzania, El Nino is likely to result in above-normal rainfall,\" Hussein Said, a meteorologist at the IGAD Climate Prediction and Applications Center said.",
-          "cn": "据苏塞克斯大学研究科学家詹姆斯·穆米纳博士称，\"目前观察到的情况是，有四五成的机会会出现超级厄尔尼诺。\"这对非洲意味着什么？厄尔尼诺的影响因地区、季节以及与其他气候系统的相互作用而在整个大陆各不相同。CGTN走访了IGAD气候预测与应用中心，那里的天气专家正在分析数十年的天气相关数据，这对肯尼亚、索马里、乌干达、坦桑尼亚、埃塞俄比亚和南苏丹等国家尤为重要，这些国家有数百万人依赖季节性降雨进行农业和畜牧业。IGAD气候预测与应用中心的气象学家侯赛因·赛义德表示：\"对于即将到来的10月至12月季节，这是肯尼亚、索马里、埃塞俄比亚南部、乌干达、卢旺达、布隆迪和坦桑尼亚的重要降雨季节，厄尔尼诺可能导致高于正常水平的降雨。\""
+          "en": "The fire spread rapidly amid strong winds, burning through pine trees and damaging homes. Another fire was reported in Kaki Vigla, where an elderly man was rescued and nine people suffering burns were taken to the Salamina Health Center. At least 90 people were {{4}} by sea. A total of 146 firefighters, supported by volunteers, four water-dropping aircraft and six helicopters were {{5}}. The latest deaths brought Greece's wildfire death toll in this summer to eight.",
+          "cn": "大火在强风中迅速蔓延，烧毁了松树并损坏了房屋。在卡基维格拉地区报告了另一场火灾，一名老人获救，九名烧伤者被送往萨拉米纳健康中心。至少90人通过海路撤离。共有146名消防员（由志愿者支持）、四架洒水飞机和六架直升机参与灭火。最新的死亡事件使希腊今年夏天的野火死亡人数升至八人。"
         },
         {
-          "en": "The region is already experiencing significant climate {{17}}, with some areas facing {{18}} while others contend with flooding and {{19}} rainfall. \"For the October to December season, the signals are even stronger. El Nino will have a stronger impact during the October to December season compared to the current season. We have an over 80% chance that the season is going to be above normal,\" Said added. Turning {{20}} into action\nAccording to climate experts, the key concern is not only how strong the El Nino becomes, but whether governments and communities can act early enough to reduce its impact.",
-          "cn": "该地区已经在经历显著的气候变率，一些地区面临干旱，而另一些地区则遭受洪水和强降雨。赛义德补充说：\"对于10月至12月季节，信号甚至更强。与当前季节相比，厄尔尼诺在10月至12月季节的影响将更强烈。我们有超过80%的机会该季节将高于正常水平。\"将预测转化为行动。据气候专家称，关键问题不仅在于厄尔尼诺变得多强，还在于政府和社区能否及早采取行动以减少其影响。"
+          "en": "A helicopter during operations to extinguish a forest fire in Las Penas de Riglos, Huesca, Aragon, Spain, August 16, 2026. In Spain, a soldier died Sunday while helping fight a major wildfire in Aragon, as the local authorities deployed the largest firefighting {{6}} in the region's history. The flames spread across 16,600 hectares and forced more than 1,000 people to evacuate. Around 1,000 firefighters, supported by up to 40 aircraft, were involved in the operation. France was also sending 100 firefighters to help contain the flames.",
+          "cn": "在西班牙阿拉贡的拉斯佩尼亚斯德里格洛斯，一架直升机正在执行灭火任务。周日，一名士兵在阿拉贡协助扑灭一场重大野火时牺牲，当地政府部署了该地区历史上最大规模的消防力量。火焰蔓延了16,600公顷，迫使超过1,000人撤离。约1,000名消防员在多达40架飞机的支持下参与了行动。法国也派遣了100名消防员协助控制火势。"
         },
         {
-          "en": "Vehicles navigate through flooded streets as heavy rains cause severe flooding in Nairobi, Kenya, May 1, 2026. /CFP\nSeasonal forecasts can help authorities {{21}} emergency supplies, {{22}} flood {{23}}, advise farmers on planting decisions, protect water resources and prepare health facilities for potential emergencies. \"The first gap is the last mile between a forecast and a decision. In OND 2023, and again during the devastating long rains of March to May 2024 in Kenya, which killed around 300 people and affected 42 of our 47 counties, the forecasts were broadly right. What lagged was converting them into {{24}}, pre-positioned supplies and {{25}} water management,\" Dr.",
-          "cn": "2026年5月1日，肯尼亚内罗毕，车辆在因暴雨引发严重洪水的街道上行驶。/CFP。季节性预测可以帮助当局预先部署应急物资，加强防洪准备，为农民提供种植决策建议，保护水资源，并为潜在紧急情况准备医疗设施。\"第一个缺口是预测与决策之间的最后一英里。在2023年OND季节，以及2024年3月至5月肯尼亚毁灭性的长雨季期间（造成约300人死亡，影响我们47个县中的42个），预测基本正确。滞后的是将其转化为疏散、预先部署物资和预防性水资源管理。\""
+          "en": "In Andalusia, more than 400 {{7}} were allowed to return home after a wildfire {{8}} for 10 days and affecting more than 25,000 hectares was declared under control on Sunday. Portugal was also {{9}} several fires near its border with Spain. Five firefighters suffered minor injuries when their vehicle caught fire near the village of Dine. Firefighters were reported to be battling several other fires near the Spanish border, including at Boticas and Chavez. A Swedish firefighting plane flies over the fire zone in the High Fens as dark plumes of smoke block the view of the sun, Sourbrodt, Belgium, August 16, 2026.",
+          "cn": "在安达卢西亚，一场持续10天、影响超过25,000公顷的野火于周日被宣布得到控制，超过400名撤离者获准返回家园。葡萄牙也在应对与西班牙边境附近的几起火灾。五名消防员在迪内村附近车辆起火时受轻伤。据报道，消防员正在扑灭西班牙边境附近的其他几起火灾，包括博蒂卡斯和查韦斯地区。一架瑞典消防飞机飞越比利时苏尔布罗特的高沼地火灾区域，浓烟遮天蔽日。"
         },
         {
-          "en": "Mumina said. For communities, timely and accessible information can help people make decisions before extreme weather strikes. \"What IGAD is doing is trying to transition the region from more response-oriented, {{26}} approaches to {{27}} approaches. IGAD has developed a regional roadmap on {{28}} action, which means that based on a forecast, you start acting. You don't wait for the drought or floods to impact communities or their assets,\" said Dr.",
-          "cn": "穆米纳博士说。对于社区来说，及时且可获取的信息可以帮助人们在极端天气来袭前做出决策。\"IGAD正在努力将该地区从更注重响应、被动的方法转变为主动的方法。IGAD制定了一个关于预期行动的路线图，这意味着基于预测，你开始行动。你不会等待干旱或洪水影响社区或其资产。\""
+          "en": "Water-dropping aircraft and farmers' tractors helped firefighters battling Belgium's largest modern-day wildfire at an {{10}} area near Germany, where a border town ordered a {{15}} evacuation because of the growing threat. Military helicopters backed by tractors on the ground {{11}} water to help firefighters tame the wildfire, burning in a hard-to-access nature reserve. The blaze, whose origins are still unknown, has grown from 80 hectares burnt on Friday to nearly 3,000 hectares on Sunday. In Croatia, police said they had arrested four people suspected of starting some of the wildfires that have swept parts of the Adriatic coast in recent days. Meanwhile, a fire in France's Landes department that burned 1,700 hectares was {{12}} after three days of ground and air operations.",
+          "cn": "洒水飞机和农民的拖拉机协助消防员扑灭比利时现代史上最大的野火，火灾发生在靠近德国的难以进入区域，当地一个边境城镇因威胁加剧而下令部分疏散。军用直升机在地面拖拉机的支持下运水，帮助消防员控制这场在难以进入的自然保护区燃烧的野火。这场火灾的起因尚不清楚，过火面积从周五的80公顷扩大到周日的近3,000公顷。在克罗地亚，警方表示已逮捕四名涉嫌在亚得里亚海沿岸部分地区引发野火的人。与此同时，法国朗德省一场烧毁1,700公顷的火灾在经过三天的地面和空中行动后得到稳定。"
         },
         {
-          "en": "Ahmed Amdihun, Head of Disaster Risk Management at IGAD. As scientists continue to monitor the evolving El Nino conditions, governments across Africa are being urged to strengthen preparedness and ensure climate warnings reach communities in time. The African Union has called for collective preparedness through stronger early warning systems, advising that climate inaction could cost some African economies over 5% of their GDP.",
-          "cn": "艾哈迈德·阿姆迪洪博士，IGAD灾害风险管理负责人说。随着科学家继续监测不断演变的厄尔尼诺状况，非洲各国政府被敦促加强准备，确保气候预警及时到达社区。非洲联盟呼吁通过更强的早期预警系统进行集体准备，并建议气候不作为可能使一些非洲经济体损失超过5%的GDP。"
+          "en": "Cooler temperatures and higher {{13}} helped authorities gain control. The local {{14}} said a first group of the 650 people who had evacuated due to the fire would be allowed to return to their homes on Sunday evening.",
+          "cn": "较低的温度和较高的湿度帮助当局控制了火势。当地省长表示，因火灾撤离的650人中的第一批将于周日晚上获准返回家园。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "bracing",
-          "hint": "v. 准备应对",
+          "answer": "spurred",
+          "hint": "v. 刺激，引发",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "impacts",
-          "hint": "n. 影响",
-          "difficulty": "easy"
+          "answer": "tinder-dry",
+          "hint": "adj. 极其干燥的",
+          "difficulty": "hard"
         },
         {
           "id": 2,
-          "answer": "powerful",
-          "hint": "adj. 强大的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "concerns",
-          "hint": "n. 担忧",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "livelihoods",
-          "hint": "n. 生计",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "tropical",
-          "hint": "adj. 热带的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "unusually",
-          "hint": "adv. 异常地",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "alter",
-          "hint": "v. 改变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "atmospheric",
-          "hint": "adj. 大气的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "disrupt",
-          "hint": "v. 扰乱",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "rearrangement",
-          "hint": "n. 重组",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "meteorological",
-          "hint": "adj. 气象的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "vary",
-          "hint": "v. 变化",
-          "difficulty": "easy"
-        },
-        {
-          "id": 13,
-          "answer": "interaction",
-          "hint": "n. 相互作用",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "crunching",
-          "hint": "v. 处理（数据）",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "significant",
-          "hint": "adj. 重要的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 16,
-          "answer": "livestock",
-          "hint": "n. 牲畜",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "variability",
-          "hint": "n. 变率",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "drought",
-          "hint": "n. 干旱",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "intense",
-          "hint": "adj. 强烈的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "forecasts",
-          "hint": "n. 预测",
-          "difficulty": "easy"
-        },
-        {
-          "id": 21,
-          "answer": "pre-position",
-          "hint": "v. 预先部署",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "strengthen",
-          "hint": "v. 加强",
-          "difficulty": "easy"
-        },
-        {
-          "id": 23,
-          "answer": "preparedness",
-          "hint": "n. 准备",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "evacuations",
-          "hint": "n. 疏散",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "pre-emptive",
-          "hint": "adj. 预防性的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 26,
-          "answer": "reactive",
-          "hint": "adj. 被动的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 27,
-          "answer": "proactive",
-          "hint": "adj. 主动的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 28,
-          "answer": "anticipatory",
-          "hint": "adj. 预期的",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "a is bracing for the possible impacts of a powerful El Nino event that could develop through 2026 and continue into 2027, raising concerns over extreme weather, food security and livelihoods across the continent.\nEl Nino occurs when sea surface temperatures in the central and eastern tropical Pacific Ocean become unusually warm. The warming can alter atmospheric circulation and disrupt weather patterns thousands of kilometres away.\n\"There have been observations by the US meteorological agencies around the Pacific Ocean. Whenever the ocean warms up, there is a lot of rearrangement in terms of the climate and how it affects us here in East Africa. What has been observed currently is that there is a four-to-five chance that it's going to be a super El Nino,\" according to Dr James Mumina, a research scientist at the University of Sussex.\nWhat could it mean for Africa?\nThe effects of El Nino vary across the continent, depending on the region, season and interaction with other climate systems.\nCGTN visited the IGAD Climate Prediction and Applications Centre, where weather experts are crunching decades of weather-related data, which is particularly significant for countries including Kenya, Somalia, Uganda, Tanzania, Ethiopia and South Sudan, where millions of people depend on seasonal rains for farming and livestock.\n\"For the upcoming October to December season, which is an important rainfall season particularly for Kenya, Somalia, southern Ethiopia, Uganda, Rwanda, Burundi and Tanzania, El Nino is likely to result in above-normal rainfall,\" Hussein Said, a meteorologist at the IGAD Climate Prediction and Applications Center said.\nThe region is already experiencing significant climate variability, with some areas facing drought while others contend with flooding and intense rainfall.\n\"For the October to December season, the signals are even stronger. El Nino will have a stronger impact during the October to December season compared to the current season. We have an over 80% chance that the season is going to be above normal,\" Said added.\nTurning forecasts into action\nAccording to climate experts, the key concern is not only how strong the El Nino becomes, but whether governments and communities can act early enough to reduce its impact.\nVehicles navigate through flooded streets as heavy rains cause severe flooding in Nairobi, Kenya, May 1, 2026. /CFP\nSeasonal forecasts can help authorities pre-position emergency supplies, strengthen flood preparedness, advise farmers on planting decisions, protect water resources and prepare health facilities for potential emergencies.\n\"The first gap is the last mile between a forecast and a decision. In OND 2023, and again during the devastating long rains of March to May 2024 in Kenya, which killed around 300 people and affected 42 of our 47 counties, the forecasts were broadly right. What lagged was converting them into evacuations, pre-positioned supplies and pre-emptive water management,\" Dr. Mumina said.\nFor communities, timely and accessible information can help people make decisions before extreme weather strikes.\n\"What IGAD is doing is trying to transition the region from more response-oriented, reactive approaches to proactive approaches. IGAD has developed a regional roadmap on anticipatory action, which means that based on a forecast, you start acting. You don't wait for the drought or floods to impact communities or their assets,\" said Dr. Ahmed Amdihun, Head of Disaster Risk Management at IGAD.\nAs scientists continue to monitor the evolving El Nino conditions, governments across Africa are being urged to strengthen preparedness and ensure climate warnings reach communities in time.\nThe African Union has called for collective preparedness through stronger early warning systems, advising that climate inaction could cost some African economies over 5% of their GDP.",
-      "fullTextCn": "非洲正在为可能发生的强厄尔尼诺事件的影响做准备，该事件可能在2026年发展并持续到2027年，引发对极端天气、粮食安全和整个大陆生计的担忧。厄尔尼诺现象发生在热带太平洋中部和东部海面温度异常升高时。这种升温会改变大气环流，扰乱数千公里外的天气模式。\"美国气象机构在太平洋地区已有观测。每当海洋升温，气候就会发生大量重组，并影响我们东非地区。\"\n\n据苏塞克斯大学研究科学家詹姆斯·穆米纳博士称，\"目前观察到的情况是，有四五成的机会会出现超级厄尔尼诺。\"这对非洲意味着什么？厄尔尼诺的影响因地区、季节以及与其他气候系统的相互作用而在整个大陆各不相同。CGTN走访了IGAD气候预测与应用中心，那里的天气专家正在分析数十年的天气相关数据，这对肯尼亚、索马里、乌干达、坦桑尼亚、埃塞俄比亚和南苏丹等国家尤为重要，这些国家有数百万人依赖季节性降雨进行农业和畜牧业。IGAD气候预测与应用中心的气象学家侯赛因·赛义德表示：\"对于即将到来的10月至12月季节，这是肯尼亚、索马里、埃塞俄比亚南部、乌干达、卢旺达、布隆迪和坦桑尼亚的重要降雨季节，厄尔尼诺可能导致高于正常水平的降雨。\"\n\n该地区已经在经历显著的气候变率，一些地区面临干旱，而另一些地区则遭受洪水和强降雨。赛义德补充说：\"对于10月至12月季节，信号甚至更强。与当前季节相比，厄尔尼诺在10月至12月季节的影响将更强烈。我们有超过80%的机会该季节将高于正常水平。\"将预测转化为行动。据气候专家称，关键问题不仅在于厄尔尼诺变得多强，还在于政府和社区能否及早采取行动以减少其影响。\n\n2026年5月1日，肯尼亚内罗毕，车辆在因暴雨引发严重洪水的街道上行驶。/CFP。季节性预测可以帮助当局预先部署应急物资，加强防洪准备，为农民提供种植决策建议，保护水资源，并为潜在紧急情况准备医疗设施。\"第一个缺口是预测与决策之间的最后一英里。在2023年OND季节，以及2024年3月至5月肯尼亚毁灭性的长雨季期间（造成约300人死亡，影响我们47个县中的42个），预测基本正确。滞后的是将其转化为疏散、预先部署物资和预防性水资源管理。\"\n\n穆米纳博士说。对于社区来说，及时且可获取的信息可以帮助人们在极端天气来袭前做出决策。\"IGAD正在努力将该地区从更注重响应、被动的方法转变为主动的方法。IGAD制定了一个关于预期行动的路线图，这意味着基于预测，你开始行动。你不会等待干旱或洪水影响社区或其资产。\"\n\n艾哈迈德·阿姆迪洪博士，IGAD灾害风险管理负责人说。随着科学家继续监测不断演变的厄尔尼诺状况，非洲各国政府被敦促加强准备，确保气候预警及时到达社区。非洲联盟呼吁通过更强的早期预警系统进行集体准备，并建议气候不作为可能使一些非洲经济体损失超过5%的GDP。"
-    },
-    {
-      "id": 4,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-10/Digital-tools-strengthen-invasive-species-control-in-Beijing-1PuiZSZnZzW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Digital tools strengthen invasive species control in Beijing",
-      "titleCn": "数字工具加强北京入侵物种控制",
-      "summary": "Digital tools strengthen invasive species control in Beijing",
-      "summaryCn": "北京通州区利用数字技术清除入侵植物黄鸦葱，并推动全国范围内的数字化入侵物种监管。",
-      "wordCount": 385,
-      "paragraphs": [
-        {
-          "en": "A plant that looks like a giant {{0}} is drawing attention in Beijing's Tongzhou District. Yellow salsify (Tragopogon dubius) grows tall and {{1}} and develops a {{2}}, fist-sized seed head after flowering. The district has cleared more than 57,000 of the plants at 148 sites, covering more than 68,000 square meters, using digital technologies to improve invasive species {{3}} and {{4}} restoration. The Tongzhou District People's Procuratorate identified multiple sites through a public-interest {{5}} supervision model, satellite remote sensing and expert {{6}}. The plant was included in Tongzhou's survey list of invasive species in forests, grasslands and wetlands in 2023.",
-          "cn": "一种看起来像巨型蒲公英的植物正在北京通州区引起关注。黄鸦葱（Tragopogon dubius）长得高大挺拔，开花后会长出蓬松的拳头大小的种子头。该区已利用数字技术改善入侵物种监测和生态修复，在148个地点清除了超过57000株这种植物，覆盖面积超过68000平方米。通州区人民检察院通过公益诉讼监督模型、卫星遥感和专家评估确定了多个地点。2023年，该植物被列入通州区森林、草原和湿地入侵物种调查名单。"
-        },
-        {
-          "en": "Experts said it has strong {{7}} and rapid reproduction, and may, if it becomes widespread, {{8}} with native plants for water, soil nutrients and living space. Satellite remote sensing was used to estimate its {{9}}. Authorities then worked with experts to develop a treatment plan combining {{10}} removal, deep burial and replacement with native vegetation. A follow-up assessment found that the methods had not caused {{11}} damage to native soil or vegetation. In some areas, native plants were replanted to increase vegetation coverage and help prevent {{12}}.",
-          "cn": "专家表示，这种植物适应性强、繁殖迅速，如果广泛传播，可能会与本地植物争夺水分、土壤养分和生存空间。卫星遥感被用于估算其分布范围。随后，当局与专家合作制定了结合人工清除、深埋和本地植被替代的处理方案。后续评估发现，这些方法未对本地土壤或植被造成二次损害。在一些地区，重新种植了本地植物以增加植被覆盖率并帮助防止复发。"
-        },
-        {
-          "en": "Uprooted yellow salsify plants. /China Media Group\nThe case {{13}} the role of digital technologies in invasive species control. The supervision model {{14}} monitoring data, public {{15}} and internet information, comparing vegetation {{16}} from different periods with invasive species lists to identify potential locations. Satellite remote sensing, {{17}} and geographic information system (GIS) {{18}} analysis can help determine the distribution and coverage of invasive species, including in areas difficult to access. AI-assisted {{19}} combined with expert assessment can also support species identification and evidence collection.",
-          "cn": "被连根拔起的黄鸦葱植株。/中央广播电视总台\n该案例凸显了数字技术在入侵物种控制中的作用。监督模型整合了监测数据、公众投诉和互联网信息，将不同时期的植被影像与入侵物种名单进行比较，以识别潜在位置。卫星遥感、无人机和地理信息系统（GIS）空间分析有助于确定入侵物种的分布和覆盖范围，包括难以进入的区域。人工智能辅助识别结合专家评估，也可以支持物种识别和证据收集。"
-        },
-        {
-          "en": "The yellow salsify is seen in Beijing, China. /China Media Group\nSimilar digital approaches are being used elsewhere. Procuratorial authorities in Jilin Province have established a big-data early-warning platform for ragweed control, while Chongqing Municipality and Hunan and Jiangxi provinces have {{20}} big-data legal supervision models. The Ecological and Environmental Code will take effect on August 15. Experts said it will strengthen requirements for environmental supervision through information, digital and {{21}} technologies, establish mechanisms for environmental information sharing, and strengthen {{22}} among government departments.",
-          "cn": "黄鸦葱在北京出现。/中央广播电视总台\n类似的数字方法正在其他地方使用。吉林省检察机关已建立了豚草控制的大数据预警平台，而重庆市和湖南、江西省已部署了大数据法律监督模型。《生态环境法典》将于8月15日生效。专家表示，该法典将通过信息化、数字化和智能化技术加强对环境监管的要求，建立环境信息共享机制，并加强政府部门之间的协调。"
-        },
-        {
-          "en": "The code is expected to provide stronger legal support for a full-chain approach to invasive species control, covering monitoring and early warning, treatment, verification, and coordinated prevention and control.",
-          "cn": "该法典预计将为入侵物种控制的全链条方法提供更有力的法律支持，涵盖监测预警、治理、核查和协调防控。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "dandelion",
-          "hint": "n. 蒲公英",
-          "difficulty": "easy"
-        },
-        {
-          "id": 1,
-          "answer": "upright",
-          "hint": "adj. 直立的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "fluffy",
-          "hint": "adj. 蓬松的",
+          "answer": "claimed",
+          "hint": "v. 夺去（生命）",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "monitoring",
-          "hint": "n. 监测",
-          "difficulty": "medium"
+          "answer": "victims",
+          "hint": "n. 受害者",
+          "difficulty": "easy"
         },
         {
           "id": 4,
-          "answer": "ecological",
-          "hint": "adj. 生态的",
+          "answer": "evacuated",
+          "hint": "v. 疏散，撤离",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "litigation",
-          "hint": "n. 诉讼",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "assessment",
-          "hint": "n. 评估",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "adaptability",
-          "hint": "n. 适应性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "compete",
-          "hint": "v. 竞争",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "distribution",
-          "hint": "n. 分布",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "manual",
-          "hint": "adj. 人工的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "secondary",
-          "hint": "adj. 次要的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "recurrence",
-          "hint": "n. 复发",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "highlights",
-          "hint": "v. 强调",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "integrates",
-          "hint": "v. 整合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "complaints",
-          "hint": "n. 投诉",
-          "difficulty": "easy"
-        },
-        {
-          "id": 16,
-          "answer": "imagery",
-          "hint": "n. 影像",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "drones",
-          "hint": "n. 无人机",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
-          "answer": "spatial",
-          "hint": "adj. 空间的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "identification",
-          "hint": "n. 识别",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
           "answer": "deployed",
           "hint": "v. 部署",
           "difficulty": "medium"
         },
         {
-          "id": 21,
-          "answer": "intelligent",
-          "hint": "adj. 智能的",
+          "id": 6,
+          "answer": "arsenal",
+          "hint": "n. 武器库，装备",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "evacuees",
+          "hint": "n. 撤离者",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "raging",
+          "hint": "adj. 肆虐的，猛烈的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "battling",
+          "hint": "v. 与……搏斗，对抗",
           "difficulty": "easy"
         },
         {
-          "id": 22,
-          "answer": "coordination",
-          "hint": "n. 协调",
+          "id": 10,
+          "answer": "inaccessible",
+          "hint": "adj. 难以到达的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "hauled",
+          "hint": "v. 拖运，运送",
           "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "stabilized",
+          "hint": "v. 稳定，控制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "humidity",
+          "hint": "n. 湿度",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "prefect",
+          "hint": "n. 省长，地方长官",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "partial",
+          "hint": "adj. 部分的",
+          "difficulty": "easy"
         }
       ],
-      "fullText": "A plant that looks like a giant dandelion is drawing attention in Beijing's Tongzhou District. Yellow salsify (Tragopogon dubius) grows tall and upright and develops a fluffy, fist-sized seed head after flowering.\nThe district has cleared more than 57,000 of the plants at 148 sites, covering more than 68,000 square meters, using digital technologies to improve invasive species monitoring and ecological restoration.\nThe Tongzhou District People's Procuratorate identified multiple sites through a public-interest litigation supervision model, satellite remote sensing and expert assessment.\nThe plant was included in Tongzhou's survey list of invasive species in forests, grasslands and wetlands in 2023. Experts said it has strong adaptability and rapid reproduction, and may, if it becomes widespread, compete with native plants for water, soil nutrients and living space.\nSatellite remote sensing was used to estimate its distribution. Authorities then worked with experts to develop a treatment plan combining manual removal, deep burial and replacement with native vegetation.\nA follow-up assessment found that the methods had not caused secondary damage to native soil or vegetation. In some areas, native plants were replanted to increase vegetation coverage and help prevent recurrence.\nUprooted yellow salsify plants. /China Media Group\nThe case highlights the role of digital technologies in invasive species control. The supervision model integrates monitoring data, public complaints and internet information, comparing vegetation imagery from different periods with invasive species lists to identify potential locations.\nSatellite remote sensing, drones and geographic information system (GIS) spatial analysis can help determine the distribution and coverage of invasive species, including in areas difficult to access. AI-assisted identification combined with expert assessment can also support species identification and evidence collection.\nThe yellow salsify is seen in Beijing, China. /China Media Group\nSimilar digital approaches are being used elsewhere. Procuratorial authorities in Jilin Province have established a big-data early-warning platform for ragweed control, while Chongqing Municipality and Hunan and Jiangxi provinces have deployed big-data legal supervision models.\nThe Ecological and Environmental Code will take effect on August 15. Experts said it will strengthen requirements for environmental supervision through information, digital and intelligent technologies, establish mechanisms for environmental information sharing, and strengthen coordination among government departments.\nThe code is expected to provide stronger legal support for a full-chain approach to invasive species control, covering monitoring and early warning, treatment, verification, and coordinated prevention and control.",
-      "fullTextCn": "一种看起来像巨型蒲公英的植物正在北京通州区引起关注。黄鸦葱（Tragopogon dubius）长得高大挺拔，开花后会长出蓬松的拳头大小的种子头。该区已利用数字技术改善入侵物种监测和生态修复，在148个地点清除了超过57000株这种植物，覆盖面积超过68000平方米。通州区人民检察院通过公益诉讼监督模型、卫星遥感和专家评估确定了多个地点。2023年，该植物被列入通州区森林、草原和湿地入侵物种调查名单。\n\n专家表示，这种植物适应性强、繁殖迅速，如果广泛传播，可能会与本地植物争夺水分、土壤养分和生存空间。卫星遥感被用于估算其分布范围。随后，当局与专家合作制定了结合人工清除、深埋和本地植被替代的处理方案。后续评估发现，这些方法未对本地土壤或植被造成二次损害。在一些地区，重新种植了本地植物以增加植被覆盖率并帮助防止复发。\n\n被连根拔起的黄鸦葱植株。/中央广播电视总台\n该案例凸显了数字技术在入侵物种控制中的作用。监督模型整合了监测数据、公众投诉和互联网信息，将不同时期的植被影像与入侵物种名单进行比较，以识别潜在位置。卫星遥感、无人机和地理信息系统（GIS）空间分析有助于确定入侵物种的分布和覆盖范围，包括难以进入的区域。人工智能辅助识别结合专家评估，也可以支持物种识别和证据收集。\n\n黄鸦葱在北京出现。/中央广播电视总台\n类似的数字方法正在其他地方使用。吉林省检察机关已建立了豚草控制的大数据预警平台，而重庆市和湖南、江西省已部署了大数据法律监督模型。《生态环境法典》将于8月15日生效。专家表示，该法典将通过信息化、数字化和智能化技术加强对环境监管的要求，建立环境信息共享机制，并加强政府部门之间的协调。\n\n该法典预计将为入侵物种控制的全链条方法提供更有力的法律支持，涵盖监测预警、治理、核查和协调防控。"
+      "fullText": "Two people were killed in fires that broke out on a Greek island and a soldier died fighting a fire in Spain as Belgium tackled a record blaze on its border with Germany on Sunday.\nEurope is facing wildfires spurred by high temperatures and tinder-dry conditions due to a historically hot summer that has already claimed the live of thousands of people.\nA wildfire burns on the island of Salamina, west of Athens, Greece, August 16, 2026. \nTwo bodies were found Sunday during firefighting operations on Salamina, according to Greek broadcaster ERT. The victims, which initial information indicated are a married couple, were discovered near where a fire started in the forested Peristeria area.\nThe fire spread rapidly amid strong winds, burning through pine trees and damaging homes. Another fire was reported in Kaki Vigla, where an elderly man was rescued and nine people suffering burns were taken to the Salamina Health Center.\nAt least 90 people were evacuated by sea. A total of 146 firefighters, supported by volunteers, four water-dropping aircraft and six helicopters were deployed. The latest deaths brought Greece's wildfire death toll in this summer to eight.\nA helicopter during operations to extinguish a forest fire in Las Penas de Riglos, Huesca, Aragon, Spain, August 16, 2026. \nIn Spain, a soldier died Sunday while helping fight a major wildfire in Aragon, as the local authorities deployed the largest firefighting arsenal in the region's history.\nThe flames spread across 16,600 hectares and forced more than 1,000 people to evacuate.\nAround 1,000 firefighters, supported by up to 40 aircraft, were involved in the operation. France was also sending 100 firefighters to help contain the flames.\nIn Andalusia, more than 400 evacuees were allowed to return home after a wildfire raging for 10 days and affecting more than 25,000 hectares was declared under control on Sunday.\nPortugal was also battling several fires near its border with Spain. Five firefighters suffered minor injuries when their vehicle caught fire near the village of Dine. Firefighters were reported to be battling several other fires near the Spanish border, including at Boticas and Chavez.\nA Swedish firefighting plane flies over the fire zone in the High Fens as dark plumes of smoke block the view of the sun, Sourbrodt, Belgium, August 16, 2026. \nWater-dropping aircraft and farmers' tractors helped firefighters battling Belgium's largest modern-day wildfire at an inaccessible area near Germany, where a border town ordered a partial evacuation because of the growing threat.\nMilitary helicopters backed by tractors on the ground hauled water to help firefighters tame the wildfire, burning in a hard-to-access nature reserve.\nThe blaze, whose origins are still unknown, has grown from 80 hectares burnt on Friday to nearly 3,000 hectares on Sunday.\nIn Croatia, police said they had arrested four people suspected of starting some of the wildfires that have swept parts of the Adriatic coast in recent days.\nMeanwhile, a fire in France's Landes department that burned 1,700 hectares was stabilized after three days of ground and air operations. Cooler temperatures and higher humidity helped authorities gain control. The local prefect said a first group of the 650 people who had evacuated due to the fire would be allowed to return to their homes on Sunday evening.",
+      "fullTextCn": "周日，希腊一座岛屿上爆发的火灾造成两人死亡，一名士兵在西班牙灭火时牺牲，同时比利时在与德国接壤的边境地区应对一场创纪录的火灾。欧洲正面临由高温和极度干燥条件引发的野火，这是历史性炎热夏季的结果，已导致数千人丧生。希腊广播公司ERT报道，在萨拉米纳岛（雅典以西）的灭火行动中发现了两具尸体。初步信息显示，遇难者是一对夫妇，他们在森林茂密的佩里斯特里亚地区火灾起点附近被发现。\n\n大火在强风中迅速蔓延，烧毁了松树并损坏了房屋。在卡基维格拉地区报告了另一场火灾，一名老人获救，九名烧伤者被送往萨拉米纳健康中心。至少90人通过海路撤离。共有146名消防员（由志愿者支持）、四架洒水飞机和六架直升机参与灭火。最新的死亡事件使希腊今年夏天的野火死亡人数升至八人。\n\n在西班牙阿拉贡的拉斯佩尼亚斯德里格洛斯，一架直升机正在执行灭火任务。周日，一名士兵在阿拉贡协助扑灭一场重大野火时牺牲，当地政府部署了该地区历史上最大规模的消防力量。火焰蔓延了16,600公顷，迫使超过1,000人撤离。约1,000名消防员在多达40架飞机的支持下参与了行动。法国也派遣了100名消防员协助控制火势。\n\n在安达卢西亚，一场持续10天、影响超过25,000公顷的野火于周日被宣布得到控制，超过400名撤离者获准返回家园。葡萄牙也在应对与西班牙边境附近的几起火灾。五名消防员在迪内村附近车辆起火时受轻伤。据报道，消防员正在扑灭西班牙边境附近的其他几起火灾，包括博蒂卡斯和查韦斯地区。一架瑞典消防飞机飞越比利时苏尔布罗特的高沼地火灾区域，浓烟遮天蔽日。\n\n洒水飞机和农民的拖拉机协助消防员扑灭比利时现代史上最大的野火，火灾发生在靠近德国的难以进入区域，当地一个边境城镇因威胁加剧而下令部分疏散。军用直升机在地面拖拉机的支持下运水，帮助消防员控制这场在难以进入的自然保护区燃烧的野火。这场火灾的起因尚不清楚，过火面积从周五的80公顷扩大到周日的近3,000公顷。在克罗地亚，警方表示已逮捕四名涉嫌在亚得里亚海沿岸部分地区引发野火的人。与此同时，法国朗德省一场烧毁1,700公顷的火灾在经过三天的地面和空中行动后得到稳定。\n\n较低的温度和较高的湿度帮助当局控制了火势。当地省长表示，因火灾撤离的650人中的第一批将于周日晚上获准返回家园。"
     },
     {
-      "id": 5,
+      "id": 4,
       "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-14/Why-does-eat-well-mean-so-much-in-China--1PBkS8c40Zq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "Why does 'eat well' mean so much in China?",
-      "titleCn": "为什么“吃好”在中国意义如此重大？",
-      "summary": "Wherever there are people, you'll find a Chinese restaurant – or so the joke goes.",
-      "summaryCn": "文章通过电影和日常场景，阐述“吃好”在中国文化中不仅是关于食物，更象征着家庭团聚、情感修复和生活价值观的传承。",
-      "wordCount": 486,
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-05/Europe-faces-record-heat-drought-and-water-related-pressures-1PmdHdLex9K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Europe faces record heat, drought and water-related pressures",
+      "titleCn": "欧洲面临创纪录高温、干旱和水资源压力",
+      "summary": "Europe faces record heat, drought and water-related pressures",
+      "summaryCn": "欧洲正经历极端高温和干旱，导致河流水位下降、野火频发，并对农业和能源系统造成严重影响。",
+      "wordCount": 505,
       "paragraphs": [
         {
-          "en": "How do you get to know China from abroad? For many, it begins somewhere {{0}}: a Chinese restaurant on a street corner. There's an old joke that wherever people go, a Chinese restaurant follows. It's an {{1}}, of course, but quite a {{2}} one, as it speaks to a culture that has spent centuries perfecting the art of the meal, and to something quieter still: the way a {{3}} table, set anywhere in the world, can carry the full weight of someone's hope for a {{4}} life. People walk past a poster of the film \"Once Upon a Time in the Middle East\" in Wuhan, Hubei Province on August 11, 2026.",
-          "cn": "如何从国外了解中国？对许多人来说，这始于一个不起眼的地方：街角的中餐馆。有一个老笑话：无论人们走到哪里，中餐馆都会随之而来。这当然是一种夸张，但相当有说服力，因为它体现了一种花了几百年完善饮食艺术的文化，以及一种更安静的东西：一张朴素的桌子，无论摆在世界何处，都能承载一个人对体面生活的全部希望。2026年8月11日，人们走过湖北武汉一张电影《中东往事》的海报。"
+          "en": "Europe is experiencing a summer of {{0}} heat and {{1}}, with record temperatures, wildfire risks and falling river levels affecting several countries. A {{2}} landscape in the wake of a wildfire that swept through the Gironde region in Lege-Cap-Ferret, southwestern France, August 4, 2026. France recorded its hottest July since nationwide records began in 1900, with a monthly average temperature of 24.9 degrees Celsius, according to Meteo-France. Rainfall across the country was nearly 70% below the seasonal average, making July 2026 the third-driest July on record. Persistent heat, drought and windy conditions kept wildfire risks high or very high, while a wildfire in the southwestern department of Gironde burned about 42,000 hectares and forced the {{3}} of more than 220,000 people. Boats lie in the dried out {{4}} of a branch of the river Danube in Hainburg, Austria, August 3, 2026.",
+          "cn": "欧洲正经历一个极端高温和干旱的夏季，创纪录的气温、野火风险和河流水位下降影响了多个国家。2026年8月4日，法国西南部莱格-费雷角的吉伦特地区，一场野火过后留下焦土景象。据法国气象局称，法国录得了自1900年全国记录开始以来最热的七月，月平均气温为24.9摄氏度。全国降雨量比季节平均值低了近70%，使2026年7月成为有记录以来第三干旱的七月。持续的高温、干旱和多风天气使野火风险保持在高或非常高的水平，而西南部吉伦特省的一场野火烧毁了约4.2万公顷土地，并迫使超过22万人撤离。2026年8月3日，奥地利海因堡，多瑙河一条支流的干涸河床上停着船只。"
         },
         {
-          "en": "The film Once Upon a Time in the Middle East opens on exactly this kind of table. A Chinese chef has traveled abroad to cook at a local restaurant – nothing more {{5}} than paying off debt, sending money home. Then the war finds him. He is no hero, just a man trying to survive. But {{6}}, it turns out, is not the same as {{7}}, and he ends up {{8}} a group of local children from a conflict that was never his to begin with.",
-          "cn": "电影《中东往事》正是从这样一张桌子开始。一位中国厨师出国到当地一家餐馆做饭——他的目标不过是还清债务、寄钱回家。然后战争找到了他。他不是英雄，只是一个试图生存的人。但事实证明，生存不等于冷漠，他最终保护了一群当地儿童免受一场本不属于他的冲突的伤害。"
+          "en": "In Austria, a national temperature record of 41 degrees Celsius was set on Tuesday as the heat wave continued. The record was measured in the Stammersdorf region of Vienna, according to Austria's state broadcaster ORF. A forest fire is also raging in Burgenland, while the Lobau wetlands in Vienna face the highest fire danger level. Meanwhile, water levels on the Danube River have fallen to historically low levels, {{5}} to the major low-water years of 2003 and 2018. The dried-up Danube riverbed with the Paks power plant at the background, near Dunaszentbenedek, close to Paks town, Hungary, July 31, 2026. Neighboring Hungary has {{6}} its highest-level heat alert until midnight on Friday as forecasts show the heat wave will continue.",
+          "cn": "在奥地利，随着热浪持续，周二创下了41摄氏度的全国气温纪录。据奥地利国家广播公司ORF报道，这一纪录是在维也纳的施塔默斯多夫地区测得的。布尔根兰州也正发生森林火灾，而维也纳的洛鲍湿地面临最高火灾危险等级。与此同时，多瑙河水位已降至历史低位，与2003年和2018年的主要低水位年份相当。2026年7月31日，匈牙利敦森本内德克附近，干涸的多瑙河河床背景中可见帕克斯核电站。邻国匈牙利已将最高级别高温警报延长至周五午夜，因为预报显示热浪将持续。"
         },
         {
-          "en": "A family enjoys their Spring Festival reunion dinner at home in Lanzhou, Gansu Province on January 28, 2025. Through it all, one phrase returns again and again: Eat well. A wedding feast is held in Congjiang County of Guizhou Province on February 5, 2026. It sounds almost too simple to mean anything. But in Chinese, it rarely just means food.",
-          "cn": "2025年1月28日，甘肃兰州，一家人在家享用春节团圆饭。在这一切中，有一句话反复出现：吃好。2026年2月5日，贵州从江县举行婚宴。这句话听起来太简单，似乎没什么意义。但在中文里，它很少仅仅指食物。"
+          "en": "Authorities warned that persistent high temperatures could affect everyone and urged people to take {{7}}. The heat wave has {{8}} drought conditions, lowered water levels in major rivers and increased wildfire risks, with firefighters recently responding to around 100 outdoor fires per day. A firefighting helicopter flies toward a wildfire on a mountain near L'Aquila, central Italy, August 3, 2026. Italy is also facing its fourth major heat wave of the summer, with temperatures {{9}} 40 degrees Celsius in some areas. The Health Ministry placed 25 of the country's 27 {{10}} cities under the highest heat alert, including Rome, Milan, Florence, Bologna, Venice, Naples and Palermo. Hot and dry conditions have increased wildfire risks and put pressure on agriculture, with farmers reporting reduced crop yields and higher {{11}} demand.",
+          "cn": "当局警告说，持续高温可能影响所有人，并敦促人们采取预防措施。热浪加剧了干旱状况，降低了主要河流的水位，并增加了野火风险，消防员最近每天应对约100起户外火灾。2026年8月3日，意大利中部拉奎拉附近，一架消防直升机飞向山火。意大利也正面临夏季第四次大热浪，部分地区气温超过40摄氏度。卫生部已将全国27个受监测城市中的25个置于最高高温警报之下，包括罗马、米兰、佛罗伦萨、博洛尼亚、威尼斯、那不勒斯和巴勒莫。炎热干燥的条件增加了野火风险，并对农业造成压力，农民报告作物减产和灌溉需求增加。"
         },
         {
-          "en": "It means: stay whole. Stay close to the people who matter. Let this meal be where the hard things get said, or {{9}}, or simply set aside. Residents affected by an earthquake in Linxia Hui Autonomous Prefecture, Gansu Province are provided with hot food on December 21, 2023. That's what a shared table does in Chinese life.",
-          "cn": "它的意思是：保持完整。与重要的人保持亲近。让这顿饭成为说出难言之隐、获得原谅或干脆搁置问题的地方。2023年12月21日，甘肃临夏回族自治州地震受灾居民获得热食。这就是共享餐桌在中国生活中的意义。"
-        },
-        {
-          "en": "It's where families actually spend their time together. It's how old friendships get renewed and {{10}} quietly dissolve. Weddings, funerals, homecomings, goodbyes – almost nothing of {{11}} happens in a Chinese life without a meal built around it. Elderly residents enjoy free lunch at an elder care service facility in Nantong, Jiangsu Province on August 13, 2026. \"There's nothing a meal can't fix,\" goes a saying popular online – half joke, half genuine philosophy.",
-          "cn": "这是家人真正共度时光的地方。这是老朋友重归于好、怨恨悄然化解的方式。婚礼、葬礼、归乡、告别——在中国生活中，几乎没有什么重要的事情不围绕一顿饭展开。2026年8月13日，江苏南通，老年人在养老服务机构享用免费午餐。网上流行一句话：“没有什么是一顿饭解决不了的”——半是玩笑，半是真正的哲学。"
-        },
-        {
-          "en": "Because {{12}} in the ritual of eating together are the values that hold a family and a community together: gentleness, humility, {{13}}, respect, the long patient work of getting along. Residents enjoy a community Spring Festival gathering in Nanchong, Sichuan Province on February 10, 2026. So, when someone tells you to eat well, take it seriously. It's never just about food. It's an {{14}} for how to live – and who to love.",
-          "cn": "因为共餐仪式中蕴含着维系家庭和社区团结的价值观：温柔、谦逊、克制、尊重，以及长期耐心相处的努力。2026年2月10日，四川南充，居民参加社区春节聚会。所以，当有人告诉你“吃好”时，请认真对待。它从来不只是关于食物。它是关于如何生活的指导——以及爱谁。"
-        },
-        {
-          "en": "Giant panda Gong Gong enjoys a specially-prepared \"birthday cake\" at Hainan Tropical Wildlife Park and Botanical Garden in Haikou, Hainan Province on August 17, 2025.",
-          "cn": "2025年8月17日，海南海口，海南热带野生动植物园里，大熊猫“贡贡”享用特制的“生日蛋糕”。"
+          "en": "A general view of the Paks nuclear power plant, Hungary, July 31, 2026. Low river levels and rising water temperatures have also affected nuclear power operations in parts of Europe. Hungary's Paks nuclear power plant, which supplies nearly half of the country's electricity, remained {{12}} but its operation depended on river conditions and cooling system performance. Romania's Cernavoda nuclear power plant shut down both reactors after low Danube water levels affected operations. In France and Switzerland, some nuclear facilities also faced operational {{13}} as high river temperatures affected cooling {{14}}. The combination of extreme heat, drought and {{15}} water {{16}} is putting pressure on public health, agriculture, wildfire {{17}} and energy systems in affected areas.",
+          "cn": "2026年7月31日，匈牙利帕克斯核电站全景。低河流水位和上升的水温也影响了欧洲部分地区的核电运营。匈牙利帕克斯核电站供应全国近一半的电力，虽然仍在运营，但其运行取决于河流状况和冷却系统性能。罗马尼亚的切尔纳沃德核电站在多瑙河低水位影响运营后，关闭了两座反应堆。在法国和瑞士，一些核设施也因高河流温度影响冷却能力而面临运营中断。极端高温、干旱和水资源减少的组合正在对受影响地区的公共卫生、农业、野火预防和能源系统造成压力。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "unglamorous",
-          "hint": "adj. 不起眼的",
-          "difficulty": "medium"
+          "answer": "extreme",
+          "hint": "adj. 极端的",
+          "difficulty": "easy"
         },
         {
           "id": 1,
-          "answer": "exaggeration",
-          "hint": "n. 夸张",
-          "difficulty": "medium"
+          "answer": "drought",
+          "hint": "n. 干旱",
+          "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "telling",
-          "hint": "adj. 有说服力的",
-          "difficulty": "hard"
+          "answer": "scorched",
+          "hint": "adj. 烧焦的",
+          "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "modest",
-          "hint": "adj. 朴素的",
-          "difficulty": "easy"
+          "answer": "evacuation",
+          "hint": "n. 疏散",
+          "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "decent",
-          "hint": "adj. 体面的",
-          "difficulty": "easy"
+          "answer": "riverbed",
+          "hint": "n. 河床",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "ambitious",
-          "hint": "adj. 雄心勃勃的",
-          "difficulty": "easy"
+          "answer": "comparable",
+          "hint": "adj. 可比较的",
+          "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "survival",
-          "hint": "n. 生存",
+          "answer": "extended",
+          "hint": "v. 延长",
           "difficulty": "easy"
         },
         {
           "id": 7,
-          "answer": "indifference",
-          "hint": "n. 冷漠",
-          "difficulty": "hard"
+          "answer": "precautions",
+          "hint": "n. 预防措施",
+          "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "shielding",
-          "hint": "v. 保护",
+          "answer": "intensified",
+          "hint": "v. 加剧",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "forgiven",
-          "hint": "v. 原谅",
-          "difficulty": "easy"
+          "answer": "exceeding",
+          "hint": "v. 超过",
+          "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "grudges",
-          "hint": "n. 怨恨",
-          "difficulty": "hard"
+          "answer": "monitored",
+          "hint": "v. 监测",
+          "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "consequence",
-          "hint": "n. 重要性",
+          "answer": "irrigation",
+          "hint": "n. 灌溉",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "embedded",
-          "hint": "adj. 嵌入的",
+          "answer": "operational",
+          "hint": "adj. 运营的",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "restraint",
-          "hint": "n. 克制",
-          "difficulty": "medium"
+          "answer": "disruptions",
+          "hint": "n. 中断",
+          "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "instruction",
-          "hint": "n. 指导",
+          "answer": "capacity",
+          "hint": "n. 能力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "declining",
+          "hint": "v. 下降",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "availability",
+          "hint": "n. 可用性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "prevention",
+          "hint": "n. 预防",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Europe is experiencing a summer of extreme heat and drought, with record temperatures, wildfire risks and falling river levels affecting several countries.\nA scorched landscape in the wake of a wildfire that swept through the Gironde region in Lege-Cap-Ferret, southwestern France, August 4, 2026. \nFrance recorded its hottest July since nationwide records began in 1900, with a monthly average temperature of 24.9 degrees Celsius, according to Meteo-France.\nRainfall across the country was nearly 70% below the seasonal average, making July 2026 the third-driest July on record.\nPersistent heat, drought and windy conditions kept wildfire risks high or very high, while a wildfire in the southwestern department of Gironde burned about 42,000 hectares and forced the evacuation of more than 220,000 people.\nBoats lie in the dried out riverbed of a branch of the river Danube in Hainburg, Austria, August 3, 2026. \nIn Austria, a national temperature record of 41 degrees Celsius was set on Tuesday as the heat wave continued. The record was measured in the Stammersdorf region of Vienna, according to Austria's state broadcaster ORF.\nA forest fire is also raging in Burgenland, while the Lobau wetlands in Vienna face the highest fire danger level. Meanwhile, water levels on the Danube River have fallen to historically low levels, comparable to the major low-water years of 2003 and 2018.\nThe dried-up Danube riverbed with the Paks power plant at the background, near Dunaszentbenedek, close to Paks town, Hungary, July 31, 2026. \nNeighboring Hungary has extended its highest-level heat alert until midnight on Friday as forecasts show the heat wave will continue. Authorities warned that persistent high temperatures could affect everyone and urged people to take precautions.\nThe heat wave has intensified drought conditions, lowered water levels in major rivers and increased wildfire risks, with firefighters recently responding to around 100 outdoor fires per day.\nA firefighting helicopter flies toward a wildfire on a mountain near L'Aquila, central Italy, August 3, 2026. \nItaly is also facing its fourth major heat wave of the summer, with temperatures exceeding 40 degrees Celsius in some areas.\nThe Health Ministry placed 25 of the country's 27 monitored cities under the highest heat alert, including Rome, Milan, Florence, Bologna, Venice, Naples and Palermo.\nHot and dry conditions have increased wildfire risks and put pressure on agriculture, with farmers reporting reduced crop yields and higher irrigation demand.\nA general view of the Paks nuclear power plant, Hungary, July 31, 2026. \nLow river levels and rising water temperatures have also affected nuclear power operations in parts of Europe.\nHungary's Paks nuclear power plant, which supplies nearly half of the country's electricity, remained operational but its operation depended on river conditions and cooling system performance.\nRomania's Cernavoda nuclear power plant shut down both reactors after low Danube water levels affected operations. In France and Switzerland, some nuclear facilities also faced operational disruptions as high river temperatures affected cooling capacity.\nThe combination of extreme heat, drought and declining water availability is putting pressure on public health, agriculture, wildfire prevention and energy systems in affected areas.",
+      "fullTextCn": "欧洲正经历一个极端高温和干旱的夏季，创纪录的气温、野火风险和河流水位下降影响了多个国家。2026年8月4日，法国西南部莱格-费雷角的吉伦特地区，一场野火过后留下焦土景象。据法国气象局称，法国录得了自1900年全国记录开始以来最热的七月，月平均气温为24.9摄氏度。全国降雨量比季节平均值低了近70%，使2026年7月成为有记录以来第三干旱的七月。持续的高温、干旱和多风天气使野火风险保持在高或非常高的水平，而西南部吉伦特省的一场野火烧毁了约4.2万公顷土地，并迫使超过22万人撤离。2026年8月3日，奥地利海因堡，多瑙河一条支流的干涸河床上停着船只。\n\n在奥地利，随着热浪持续，周二创下了41摄氏度的全国气温纪录。据奥地利国家广播公司ORF报道，这一纪录是在维也纳的施塔默斯多夫地区测得的。布尔根兰州也正发生森林火灾，而维也纳的洛鲍湿地面临最高火灾危险等级。与此同时，多瑙河水位已降至历史低位，与2003年和2018年的主要低水位年份相当。2026年7月31日，匈牙利敦森本内德克附近，干涸的多瑙河河床背景中可见帕克斯核电站。邻国匈牙利已将最高级别高温警报延长至周五午夜，因为预报显示热浪将持续。\n\n当局警告说，持续高温可能影响所有人，并敦促人们采取预防措施。热浪加剧了干旱状况，降低了主要河流的水位，并增加了野火风险，消防员最近每天应对约100起户外火灾。2026年8月3日，意大利中部拉奎拉附近，一架消防直升机飞向山火。意大利也正面临夏季第四次大热浪，部分地区气温超过40摄氏度。卫生部已将全国27个受监测城市中的25个置于最高高温警报之下，包括罗马、米兰、佛罗伦萨、博洛尼亚、威尼斯、那不勒斯和巴勒莫。炎热干燥的条件增加了野火风险，并对农业造成压力，农民报告作物减产和灌溉需求增加。\n\n2026年7月31日，匈牙利帕克斯核电站全景。低河流水位和上升的水温也影响了欧洲部分地区的核电运营。匈牙利帕克斯核电站供应全国近一半的电力，虽然仍在运营，但其运行取决于河流状况和冷却系统性能。罗马尼亚的切尔纳沃德核电站在多瑙河低水位影响运营后，关闭了两座反应堆。在法国和瑞士，一些核设施也因高河流温度影响冷却能力而面临运营中断。极端高温、干旱和水资源减少的组合正在对受影响地区的公共卫生、农业、野火预防和能源系统造成压力。"
+    },
+    {
+      "id": 5,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-06/Nobel-laureate-Demis-Hassabis-named-Alphabet-chief-scientist-1PnFOKzQfNm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Nobel laureate Demis Hassabis named Alphabet chief scientist",
+      "titleCn": "诺贝尔奖得主德米斯·哈萨比斯被任命为Alphabet首席科学家",
+      "summary": "Google's head of AI, Demis Hassabis, will step down from his current role to become Alphabet's chief scientist amid a reshuffling at DeepMind that will also include a key engineer's departure.",
+      "summaryCn": "谷歌AI负责人哈萨比斯转任Alphabet首席科学家，DeepMind进行重组，同时面临人才流失和竞争压力。",
+      "wordCount": 426,
+      "paragraphs": [
+        {
+          "en": "Google's head of AI, Demis Hassabis, will {{0}} down from his current role to become Alphabet's chief scientist amid a {{1}} at DeepMind that will also include a key engineer's departure. Hassabis will take on two new titles, Alphabet {{19}} on Wednesday: chair of DeepMind and chief scientist of Alphabet. The change \"will allow me to focus on long-term {{18}}, and {{2}} scientific {{3}}, including leaning into my work at Isomorphic to help {{17}} disease,\" Hassabis wrote in a social media post. Isomorphic Labs is an AI-powered drug discovery lab that {{4}} out from DeepMind in 2021. In 2024, Hassabis won a Nobel Prize in chemistry.",
+          "cn": "谷歌AI负责人德米斯·哈萨比斯将卸任当前职务，成为Alphabet的首席科学家，这是DeepMind重组的一部分，重组还包括一位关键工程师的离职。Alphabet周三宣布，哈萨比斯将担任两个新职务：DeepMind主席和Alphabet首席科学家。哈萨比斯在社交媒体帖子中写道，这一变化“将使我能够专注于长期战略，加速科学突破，包括深入我在Isomorphic的工作以帮助治愈疾病。”Isomorphic Labs是一家AI驱动的药物发现实验室，于2021年从DeepMind分拆出来。2024年，哈萨比斯获得了诺贝尔化学奖。"
+        },
+        {
+          "en": "As part of the shake up, DeepMind's chief technology officer and chief AI architect Koray Kavukcuoglu will become the division's senior vice president and {{5}} its {{20}}, including the development of Google's {{6}} frontier models and products which are known as Gemini. Longtime Google engineer Jeff Dean is also leaving the company after nearly three decades to \"try something new, and we're excited to support him in that,\" Google CEO Sundar Pichai said in a blog post announcing the news. Hassabis co-founded DeepMind in 2010, and four years later, Google bought the research lab for $650 million, according to reports at the time. His co-founder, Mustafa Suleyman, is currently the chief of Microsoft's AI segment. Google is {{7}} for customers alongside other major AI developers including Microsoft, OpenAI, Anthropic and Meta, as well as DeepSeek and Moonshot in China.",
+          "cn": "作为重组的一部分，DeepMind的首席技术官兼首席AI架构师科拉伊·卡武克乔格卢将成为该部门的高级副总裁，并负责其运营，包括开发谷歌旗舰前沿模型和产品，即Gemini。长期在谷歌工作的工程师杰夫·迪恩在近三十年后也将离开公司，去“尝试新事物，我们很高兴支持他这样做，”谷歌CEO桑达尔·皮查伊在宣布这一消息的博客文章中表示。哈萨比斯于2010年共同创立了DeepMind，四年后，据当时报道，谷歌以6.5亿美元收购了该研究实验室。他的联合创始人穆斯塔法·苏莱曼目前是微软AI部门的负责人。谷歌正在与其他主要AI开发者竞争客户，包括微软、OpenAI、Anthropic和Meta，以及中国的DeepSeek和Moonshot。"
+        },
+        {
+          "en": "The industry is also chasing a {{21}} {{8}} known as advanced general intelligence (AGI), which is a point when AI software matches the {{9}} of human thinking. \"I've been working towards AGI my whole life and now, like many of you, I feel it is close at {{11}},\" Hassabis wrote in Wednesday's blog post. \"With this {{10}}, I've decided that now is the right time for me to hand over my day-to-day operational responsibilities at (Google DeepMind), so that I have the time and space to focus on the big picture and help {{12}} what is to come,\" Hassabis continued. Observers have been waiting for Google to announce a more powerful version of its AI model, called Gemini 3.5 Pro, which was supposed to launch in June but appears to be {{13}}. Its {{23}} closed 4% down Wednesday afternoon.",
+          "cn": "该行业还在追逐一个理论里程碑，即高级通用智能（AGI），这是AI软件达到人类思维能力水平的一个点。“我一生都在致力于AGI，现在，像你们中的许多人一样，我觉得它近在咫尺，”哈萨比斯在周三的博客文章中写道。“在这种背景下，我决定现在是时候将我在（谷歌DeepMind）的日常运营职责移交出去，以便我有时间和空间专注于大局，并帮助影响未来，”哈萨比斯继续说道。观察者一直在等待谷歌宣布其AI模型更强大的版本，称为Gemini 3.5 Pro，该模型原定于6月推出，但似乎已被推迟。其股价周三下午收盘下跌4%。"
+        },
+        {
+          "en": "The leadership changes come amid a wider {{14}} drain at Google. In June, a top AI and engineering {{15}}, Noam Shazeer, left for OpenAI, while senior researcher John Jumper, who shared the 2024 Nobel Prize in chemistry with Hassabis, {{16}} to Anthropic.",
+          "cn": "领导层变动发生在谷歌更广泛的人才流失背景下。6月，顶尖AI和工程高管诺姆·沙泽尔离开去了OpenAI，而高级研究员约翰·詹珀，与哈萨比斯共同获得2024年诺贝尔化学奖，跳槽到了Anthropic。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "step",
+          "hint": "v. 迈步，辞职",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "reshuffling",
+          "hint": "n. 重组，改组",
+          "difficulty": "hard"
+        },
+        {
+          "id": 2,
+          "answer": "accelerating",
+          "hint": "v. 加速",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "breakthroughs",
+          "hint": "n. 突破",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "spun",
+          "hint": "v. 分拆（spin off）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "oversee",
+          "hint": "v. 监督，管理",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "flagship",
+          "hint": "adj. 旗舰的，最重要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "competing",
+          "hint": "v. 竞争",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "milestone",
+          "hint": "n. 里程碑",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "capabilities",
+          "hint": "n. 能力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "backdrop",
+          "hint": "n. 背景",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "hand",
+          "hint": "v. 移交（hand over）",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "influence",
+          "hint": "v. 影响",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "delayed",
+          "hint": "adj. 延迟的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "brain",
+          "hint": "n. 人才（brain drain）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "executive",
+          "hint": "n. 高管",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "jumped",
+          "hint": "v. 跳槽",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "cure",
+          "hint": "v. 治愈",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "strategy",
+          "hint": "n. 战略",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
+          "answer": "announced",
+          "hint": "v. 宣布",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "operations",
+          "hint": "n. 运营",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "theoretical",
+          "hint": "adj. 理论的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "shares",
+          "hint": "n. 股票",
           "difficulty": "easy"
         }
       ],
-      "fullText": "How do you get to know China from abroad? For many, it begins somewhere unglamorous: a Chinese restaurant on a street corner. There's an old joke that wherever people go, a Chinese restaurant follows. It's an exaggeration, of course, but quite a telling one, as it speaks to a culture that has spent centuries perfecting the art of the meal, and to something quieter still: the way a modest table, set anywhere in the world, can carry the full weight of someone's hope for a decent life.\nPeople walk past a poster of the film \"Once Upon a Time in the Middle East\" in Wuhan, Hubei Province on August 11, 2026. \nThe film Once Upon a Time in the Middle East opens on exactly this kind of table. A Chinese chef has traveled abroad to cook at a local restaurant – nothing more ambitious than paying off debt, sending money home. Then the war finds him. He is no hero, just a man trying to survive. But survival, it turns out, is not the same as indifference, and he ends up shielding a group of local children from a conflict that was never his to begin with.\nA family enjoys their Spring Festival reunion dinner at home in Lanzhou, Gansu Province on January 28, 2025. \nThrough it all, one phrase returns again and again: Eat well.\nA wedding feast is held in Congjiang County of Guizhou Province on February 5, 2026. \nIt sounds almost too simple to mean anything. But in Chinese, it rarely just means food. It means: stay whole. Stay close to the people who matter. Let this meal be where the hard things get said, or forgiven, or simply set aside.\nResidents affected by an earthquake in Linxia Hui Autonomous Prefecture, Gansu Province are provided with hot food on December 21, 2023. \nThat's what a shared table does in Chinese life. It's where families actually spend their time together. It's how old friendships get renewed and grudges quietly dissolve. Weddings, funerals, homecomings, goodbyes – almost nothing of consequence happens in a Chinese life without a meal built around it.\nElderly residents enjoy free lunch at an elder care service facility in Nantong, Jiangsu Province on August 13, 2026. \n\"There's nothing a meal can't fix,\" goes a saying popular online – half joke, half genuine philosophy. Because embedded in the ritual of eating together are the values that hold a family and a community together: gentleness, humility, restraint, respect, the long patient work of getting along.\nResidents enjoy a community Spring Festival gathering in Nanchong, Sichuan Province on February 10, 2026. \nSo, when someone tells you to eat well, take it seriously. It's never just about food. It's an instruction for how to live – and who to love.\nGiant panda Gong Gong enjoys a specially-prepared \"birthday cake\" at Hainan Tropical Wildlife Park and Botanical Garden in Haikou, Hainan Province on August 17, 2025.",
-      "fullTextCn": "如何从国外了解中国？对许多人来说，这始于一个不起眼的地方：街角的中餐馆。有一个老笑话：无论人们走到哪里，中餐馆都会随之而来。这当然是一种夸张，但相当有说服力，因为它体现了一种花了几百年完善饮食艺术的文化，以及一种更安静的东西：一张朴素的桌子，无论摆在世界何处，都能承载一个人对体面生活的全部希望。2026年8月11日，人们走过湖北武汉一张电影《中东往事》的海报。\n\n电影《中东往事》正是从这样一张桌子开始。一位中国厨师出国到当地一家餐馆做饭——他的目标不过是还清债务、寄钱回家。然后战争找到了他。他不是英雄，只是一个试图生存的人。但事实证明，生存不等于冷漠，他最终保护了一群当地儿童免受一场本不属于他的冲突的伤害。\n\n2025年1月28日，甘肃兰州，一家人在家享用春节团圆饭。在这一切中，有一句话反复出现：吃好。2026年2月5日，贵州从江县举行婚宴。这句话听起来太简单，似乎没什么意义。但在中文里，它很少仅仅指食物。\n\n它的意思是：保持完整。与重要的人保持亲近。让这顿饭成为说出难言之隐、获得原谅或干脆搁置问题的地方。2023年12月21日，甘肃临夏回族自治州地震受灾居民获得热食。这就是共享餐桌在中国生活中的意义。\n\n这是家人真正共度时光的地方。这是老朋友重归于好、怨恨悄然化解的方式。婚礼、葬礼、归乡、告别——在中国生活中，几乎没有什么重要的事情不围绕一顿饭展开。2026年8月13日，江苏南通，老年人在养老服务机构享用免费午餐。网上流行一句话：“没有什么是一顿饭解决不了的”——半是玩笑，半是真正的哲学。\n\n因为共餐仪式中蕴含着维系家庭和社区团结的价值观：温柔、谦逊、克制、尊重，以及长期耐心相处的努力。2026年2月10日，四川南充，居民参加社区春节聚会。所以，当有人告诉你“吃好”时，请认真对待。它从来不只是关于食物。它是关于如何生活的指导——以及爱谁。\n\n2025年8月17日，海南海口，海南热带野生动植物园里，大熊猫“贡贡”享用特制的“生日蛋糕”。"
+      "fullText": "Google's head of AI, Demis Hassabis, will step down from his current role to become Alphabet's chief scientist amid a reshuffling at DeepMind that will also include a key engineer's departure.\nHassabis will take on two new titles, Alphabet announced on Wednesday: chair of DeepMind and chief scientist of Alphabet.\nThe change \"will allow me to focus on long-term strategy, and accelerating scientific breakthroughs, including leaning into my work at Isomorphic to help cure disease,\" Hassabis wrote in a social media post.\nIsomorphic Labs is an AI-powered drug discovery lab that spun out from DeepMind in 2021. In 2024, Hassabis won a Nobel Prize in chemistry.\nAs part of the shake up, DeepMind's chief technology officer and chief AI architect Koray Kavukcuoglu will become the division's senior vice president and oversee its operations, including the development of Google's flagship frontier models and products which are known as Gemini.\nLongtime Google engineer Jeff Dean is also leaving the company after nearly three decades to \"try something new, and we're excited to support him in that,\" Google CEO Sundar Pichai said in a blog post announcing the news.\nHassabis co-founded DeepMind in 2010, and four years later, Google bought the research lab for $650 million, according to reports at the time. His co-founder, Mustafa Suleyman, is currently the chief of Microsoft's AI segment.\nGoogle is competing for customers alongside other major AI developers including Microsoft, OpenAI, Anthropic and Meta, as well as DeepSeek and Moonshot in China.\nThe industry is also chasing a theoretical milestone known as advanced general intelligence (AGI), which is a point when AI software matches the capabilities of human thinking.\n\"I've been working towards AGI my whole life and now, like many of you, I feel it is close at hand,\" Hassabis wrote in Wednesday's blog post.\n\"With this backdrop, I've decided that now is the right time for me to hand over my day-to-day operational responsibilities at (Google DeepMind), so that I have the time and space to focus on the big picture and help influence what is to come,\" Hassabis continued.\nObservers have been waiting for Google to announce a more powerful version of its AI model, called Gemini 3.5 Pro, which was supposed to launch in June but appears to be delayed.\nIts shares closed 4% down Wednesday afternoon.\nThe leadership changes come amid a wider brain drain at Google.\nIn June, a top AI and engineering executive, Noam Shazeer, left for OpenAI, while senior researcher John Jumper, who shared the 2024 Nobel Prize in chemistry with Hassabis, jumped to Anthropic.",
+      "fullTextCn": "谷歌AI负责人德米斯·哈萨比斯将卸任当前职务，成为Alphabet的首席科学家，这是DeepMind重组的一部分，重组还包括一位关键工程师的离职。Alphabet周三宣布，哈萨比斯将担任两个新职务：DeepMind主席和Alphabet首席科学家。哈萨比斯在社交媒体帖子中写道，这一变化“将使我能够专注于长期战略，加速科学突破，包括深入我在Isomorphic的工作以帮助治愈疾病。”Isomorphic Labs是一家AI驱动的药物发现实验室，于2021年从DeepMind分拆出来。2024年，哈萨比斯获得了诺贝尔化学奖。\n\n作为重组的一部分，DeepMind的首席技术官兼首席AI架构师科拉伊·卡武克乔格卢将成为该部门的高级副总裁，并负责其运营，包括开发谷歌旗舰前沿模型和产品，即Gemini。长期在谷歌工作的工程师杰夫·迪恩在近三十年后也将离开公司，去“尝试新事物，我们很高兴支持他这样做，”谷歌CEO桑达尔·皮查伊在宣布这一消息的博客文章中表示。哈萨比斯于2010年共同创立了DeepMind，四年后，据当时报道，谷歌以6.5亿美元收购了该研究实验室。他的联合创始人穆斯塔法·苏莱曼目前是微软AI部门的负责人。谷歌正在与其他主要AI开发者竞争客户，包括微软、OpenAI、Anthropic和Meta，以及中国的DeepSeek和Moonshot。\n\n该行业还在追逐一个理论里程碑，即高级通用智能（AGI），这是AI软件达到人类思维能力水平的一个点。“我一生都在致力于AGI，现在，像你们中的许多人一样，我觉得它近在咫尺，”哈萨比斯在周三的博客文章中写道。“在这种背景下，我决定现在是时候将我在（谷歌DeepMind）的日常运营职责移交出去，以便我有时间和空间专注于大局，并帮助影响未来，”哈萨比斯继续说道。观察者一直在等待谷歌宣布其AI模型更强大的版本，称为Gemini 3.5 Pro，该模型原定于6月推出，但似乎已被推迟。其股价周三下午收盘下跌4%。\n\n领导层变动发生在谷歌更广泛的人才流失背景下。6月，顶尖AI和工程高管诺姆·沙泽尔离开去了OpenAI，而高级研究员约翰·詹珀，与哈萨比斯共同获得2024年诺贝尔化学奖，跳槽到了Anthropic。"
     }
   ]
 }
