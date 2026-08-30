@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "articles": [
     {
       "id": 1,
@@ -7,180 +7,210 @@
       "source": "CGTN",
       "sourceUrl": "https://newseu.cgtn.com/news/2026-08-05/English-hospitals-aim-to-ramp-up-use-of-robotics-in-surgery-1PjHghRgoMg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
       "title": "English hospitals aim to ramp up use of robotics in surgery",
-      "titleCn": "英国医院拟加大机器人手术应用力度",
+      "titleCn": "英国医院计划加大机器人手术应用力度",
       "summary": "The UK government has announced plans to invest more in robotic equipment for English hospitals and set a target for robotic assistance to be used in 90% of keyhole surgeries carried out in England by 2035",
-      "summaryCn": "英国政府计划投资机器人设备，目标到2035年90%的微创手术采用机器人辅助，以提升手术精准度、缩短恢复时间并缓解医疗系统压力。",
+      "summaryCn": "英国政府计划增加对医院机器人设备的投资，目标到2035年使90%的微创手术使用机器人辅助，以提升手术精准度并缩短患者恢复时间。",
       "wordCount": 529,
       "paragraphs": [
         {
-          "en": "The UK government has announced plans to invest more in robotic equipment for English hospitals and set a target for robotic assistance to be used in 90% of {{1}} surgeries carried out in England by 2035. The government highlighted robotics as one of five \"big bets\" in a 10-year health plan for England, alongside other {{2}} technologies: data, AI, {{3}} and {{4}}. Surgeons and nurses using the new Da Vinci 5 robotic-assisted surgical system while performing surgery, at St Bartholomew's Hospital in London. /Carlos Jasso/AFP\nAt St Bartholomew's Hospital in central London, visiting surgeons are among the first to be trained to use the new da Vinci 5 robotic-assisted surgical system, made by US company Initiative. The system, which includes three robotic arms that can hold surgical equipment, is controlled using an {{5}} 3D headset and a video-game-like {{6}}.",
-          "cn": "英国政府宣布计划为英格兰医院投资更多机器人设备，并设定目标，到2035年英格兰90%的微创手术将使用机器人辅助。政府将机器人技术列为英格兰十年健康计划中的五大“重大赌注”之一，其他变革性技术包括数据、人工智能、基因组学和可穿戴设备。外科医生和护士在伦敦圣巴塞洛缪医院使用新型达芬奇5机器人辅助手术系统进行手术。/Carlos Jasso/AFP"
+          "en": "The UK government has announced plans to invest more in {{1}} equipment for English hospitals and set a target for robotic {{28}} to be used in 90% of {{2}} surgeries carried out in England by 2035. The government highlighted robotics as one of five \"big bets\" in a 10-year health plan for England, alongside other {{3}} technologies: data, AI, {{4}} and {{5}}. Surgeons and nurses using the new Da Vinci 5 robotic-assisted surgical system while performing surgery, at St Bartholomew's Hospital in London. /Carlos Jasso/AFP\nAt St Bartholomew's Hospital in central London, visiting surgeons are among the first to be trained to use the new da Vinci 5 robotic-assisted surgical system, made by US company Initiative. The system, which includes three robotic arms that can hold surgical equipment, is controlled using an {{6}} 3D headset and a video-game-like {{7}}.",
+          "cn": "英国政府宣布计划增加对英格兰医院机器人设备的投资，并设定目标，到2035年使英格兰90%的微创手术使用机器人辅助。政府将机器人技术列为英格兰十年健康计划中的五大“重大赌注”之一，其他变革性技术包括数据、人工智能、基因组学和可穿戴设备。外科医生和护士在伦敦圣巴塞洛缪医院使用新的达芬奇5机器人辅助手术系统进行手术。/Carlos Jasso/AFP"
         },
         {
-          "en": "Robotic surgical systems like this can be used across a range of {{7}} including {{8}}, {{9}}, abdominal, {{10}}, and {{11}} or general surgery. Sasha Stamenkovic (C) using the new Da Vinci 5 robotic-assisted surgical system while performing lung cancer surgery as Ali Ansaripour (R), senior cardiothoracic trainee on a robotic fellowship, looks on. /Carlos Jasso/AFP\nThe {{12}} of robotic-assisted surgery should mean shorter hospital stays and quicker recovery times, which will take {{13}} off a struggling health service with year-long waitlists, workforce shortages and discharge {{14}}. \"The ability to have lots of {{15}} computer-aided technology on top\" of human-controlled robotics \"makes this precise surgery. It makes it safe surgery,\" says Sasha Stamenkovic, Director of Robotic Surgery and Research at Barts Health NHS Trust.",
-          "cn": "在伦敦市中心的圣巴塞洛缪医院，来访的外科医生是最早接受使用新型达芬奇5机器人辅助手术系统培训的一批人，该系统由美国公司Initiative制造。该系统包括三个可持手术器械的机械臂，通过沉浸式3D头戴设备和类似视频游戏的控制台进行操作。"
+          "en": "Robotic surgical systems like this can be used across a range of {{8}} including {{9}}, {{10}}, {{11}}, {{12}}, and {{13}} or general surgery. Sasha Stamenkovic (C) using the new Da Vinci 5 robotic-assisted surgical system while performing lung cancer surgery as Ali Ansaripour (R), senior cardiothoracic trainee on a robotic fellowship, looks on. /Carlos Jasso/AFP\nThe {{14}} of robotic-assisted surgery should mean shorter hospital stays and quicker {{29}} times, which will take {{15}} off a struggling health service with year-long waitlists, workforce shortages and discharge {{16}}. \"The ability to have lots of {{17}} computer-aided technology on top\" of human-controlled robotics \"makes this precise surgery. It makes it safe surgery,\" says Sasha Stamenkovic, Director of Robotic Surgery and Research at Barts Health NHS Trust.",
+          "cn": "在伦敦市中心的圣巴塞洛缪医院，来访的外科医生是首批接受培训使用美国公司Initiative制造的新型达芬奇5机器人辅助手术系统的人。该系统包括三个可持手术器械的机械臂，通过沉浸式3D头戴设备和类似视频游戏的控制台进行操作。"
         },
         {
-          "en": "As well as improving recovery times, the greater precision also reduces the risk of {{16}} like air leaks, a common cause of longer hospital stays following lung surgery. Nurses assisting in lung cancer surgery using the new Da Vinci 5 robotic-assisted surgical system, at St Bartholomew's Hospital. /Carlos Jasso/AFP\nIan Macleod was the first patient in Britain's NHS to {{17}} lung cancer surgery using the new da Vinci robotic system. Macleod says he \"didn't realize\" until he was wearing a surgical gown and {{18}} that he would hold this {{19}} title, but the news \"didn't {{20}}\" the 76-year-old retired detective. Thirty minutes after the robotic-assisted operation, Macleod was back on his feet.",
-          "cn": "此类机器人手术系统可用于多种专科，包括泌尿科、妇科、腹部、结直肠、胸外科或普外科。Sasha Stamenkovic（中）使用新型达芬奇5机器人辅助手术系统进行肺癌手术，Ali Ansaripour（右）是机器人专科的高级心胸外科培训生，正在旁观看。/Carlos Jasso/AFP"
+          "en": "As well as improving recovery times, the greater precision also reduces the risk of {{18}} like air leaks, a common cause of longer hospital stays following lung surgery. Nurses assisting in lung cancer surgery using the new Da Vinci 5 robotic-assisted surgical system, at St Bartholomew's Hospital. /Carlos Jasso/AFP\nIan Macleod was the first patient in Britain's NHS to {{19}} lung cancer surgery using the new da Vinci robotic system. Macleod says he \"didn't realize\" until he was wearing a surgical gown and anesthetised that he would hold this {{20}} title, but the news \"didn't {{21}}\" the 76-year-old retired detective. Thirty minutes after the robotic-assisted operation, Macleod was back on his feet.",
+          "cn": "此类机器人手术系统可用于多种专科，包括泌尿科、妇科、腹部、结直肠、胸外科或普外科。Sasha Stamenkovic（中）使用新的达芬奇5机器人辅助手术系统进行肺癌手术，Ali Ansaripour（右）是机器人专科的高级心胸外科培训生，正在观摩。/Carlos Jasso/AFP"
         },
         {
-          "en": "\"It was {{21}},\" he says. \"In fact, after the operation, I found out quite quickly that I only had one stitch.\" He had undergone non-robotic keyhole surgery for a different cancer in the past, and says the recovery time was \"much longer\". This time, he was driving his wife to the garden centrer for coffee less than a week later. Stamenkovic runs fellowships at St Bartholomew's training surgeons on this new technology. He says it is the young surgeons who pick up the new robotic control system the fastest and who become the most {{22}}.",
-          "cn": "机器人辅助手术的精准性应能缩短住院时间并加快恢复速度，这将缓解一个面临年候诊名单、劳动力短缺和出院瓶颈的艰难医疗系统的压力。“在人类控制的机器人技术之上，集成大量计算机辅助技术的能力使这种手术精准。它使手术安全，”巴茨健康NHS信托机器人手术与研究主任Sasha Stamenkovic说。"
+          "en": "\"It was {{22}},\" he says. \"In fact, after the operation, I found out quite quickly that I only had one {{23}}.\" He had undergone non-robotic keyhole surgery for a different cancer in the past, and says the recovery time was \"much longer\". This time, he was driving his wife to the garden centrer for coffee less than a week later. Stamenkovic runs fellowships at St Bartholomew's training surgeons on this new technology. He says it is the young surgeons who pick up the new robotic control system the fastest and who become the most {{24}}.",
+          "cn": "机器人辅助手术的精准性应能缩短住院时间并加快恢复速度，这将缓解一个面临一年等待名单、劳动力短缺和出院瓶颈的困难医疗服务的压力。“在人类控制的机器人技术之上集成大量计算机辅助技术的能力，使这种手术精准且安全，”巴特健康NHS信托机器人手术与研究主任Sasha Stamenkovic说。"
         },
         {
-          "en": "\"They've come with different skill sets,\" he says, \"they've probably come with gaming skill sets, some of them have come with a musical background.\"\nLaying out his long-term mission, Stamenkovic added: \"All we need to do is {{23}} their energy, their {{24}}, their skill set, and teach them the right moves. And that will make the surgeon of the future.\"",
-          "cn": "除了改善恢复时间，更高的精准度还降低了并发症风险，如肺手术后常见的导致住院时间延长的漏气问题。护士在圣巴塞洛缪医院使用新型达芬奇5机器人辅助手术系统协助肺癌手术。/Carlos Jasso/AFP"
+          "en": "\"They've come with different skill sets,\" he says, \"they've probably come with gaming skill sets, some of them have come with a musical background.\"\nLaying out his long-term {{27}}, Stamenkovic added: \"All we need to do is {{25}} their energy, their {{26}}, their skill set, and teach them the right moves. And that will make the surgeon of the future.\"",
+          "cn": "除了改善恢复时间，更高的精准度还降低了并发症风险，如肺手术后常见的导致住院时间延长的漏气问题。护士在圣巴塞洛缪医院使用新的达芬奇5机器人辅助手术系统协助肺癌手术。/Carlos Jasso/AFP"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "keyhole",
-          "hint": "adj. 微创的",
-          "difficulty": "medium"
+          "answer": "robotic",
+          "hint": "adj. 机器人的",
+          "difficulty": "easy"
         },
         {
           "id": 1,
+          "answer": "keyhole",
+          "hint": "n. 微创（手术）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
           "answer": "transformative",
           "hint": "adj. 变革性的",
           "difficulty": "hard"
         },
         {
-          "id": 2,
+          "id": 3,
           "answer": "genomics",
           "hint": "n. 基因组学",
           "difficulty": "hard"
         },
         {
-          "id": 3,
+          "id": 4,
           "answer": "wearables",
           "hint": "n. 可穿戴设备",
           "difficulty": "medium"
         },
         {
-          "id": 4,
+          "id": 5,
           "answer": "immersive",
           "hint": "adj. 沉浸式的",
           "difficulty": "hard"
         },
         {
-          "id": 5,
+          "id": 6,
           "answer": "console",
           "hint": "n. 控制台",
           "difficulty": "medium"
         },
         {
-          "id": 6,
+          "id": 7,
           "answer": "specialties",
           "hint": "n. 专科",
           "difficulty": "medium"
         },
         {
-          "id": 7,
+          "id": 8,
           "answer": "urology",
           "hint": "n. 泌尿科",
           "difficulty": "hard"
         },
         {
-          "id": 8,
+          "id": 9,
           "answer": "gynecology",
           "hint": "n. 妇科",
           "difficulty": "hard"
         },
         {
-          "id": 9,
+          "id": 10,
+          "answer": "abdominal",
+          "hint": "adj. 腹部的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
           "answer": "colorectal",
           "hint": "adj. 结直肠的",
           "difficulty": "hard"
         },
         {
-          "id": 10,
+          "id": 12,
           "answer": "thoracic",
           "hint": "adj. 胸科的",
           "difficulty": "hard"
         },
         {
-          "id": 11,
+          "id": 13,
           "answer": "precision",
           "hint": "n. 精准度",
           "difficulty": "medium"
         },
         {
-          "id": 12,
+          "id": 14,
           "answer": "strain",
           "hint": "n. 压力",
           "difficulty": "medium"
         },
         {
-          "id": 13,
+          "id": 15,
           "answer": "bottlenecks",
           "hint": "n. 瓶颈",
           "difficulty": "hard"
         },
         {
-          "id": 14,
+          "id": 16,
           "answer": "integrated",
           "hint": "adj. 集成的",
           "difficulty": "medium"
         },
         {
-          "id": 15,
+          "id": 17,
           "answer": "complications",
           "hint": "n. 并发症",
           "difficulty": "medium"
         },
         {
-          "id": 16,
+          "id": 18,
           "answer": "undergo",
-          "hint": "v. 接受",
+          "hint": "v. 经历",
           "difficulty": "medium"
         },
         {
-          "id": 17,
-          "answer": "anesthetised",
-          "hint": "adj. 麻醉的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
+          "id": 19,
           "answer": "groundbreaking",
           "hint": "adj. 开创性的",
           "difficulty": "hard"
         },
         {
-          "id": 19,
+          "id": 20,
           "answer": "faze",
           "hint": "v. 吓到",
           "difficulty": "hard"
         },
         {
-          "id": 20,
+          "id": 21,
           "answer": "extraordinary",
           "hint": "adj. 非凡的",
           "difficulty": "medium"
         },
         {
-          "id": 21,
+          "id": 22,
+          "answer": "stitch",
+          "hint": "n. 缝合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
           "answer": "adept",
           "hint": "adj. 熟练的",
           "difficulty": "hard"
         },
         {
-          "id": 22,
+          "id": 24,
           "answer": "harness",
           "hint": "v. 利用",
           "difficulty": "medium"
         },
         {
-          "id": 23,
+          "id": 25,
           "answer": "passion",
           "hint": "n. 热情",
+          "difficulty": "easy"
+        },
+        {
+          "id": 26,
+          "answer": "mission",
+          "hint": "n. 使命",
+          "difficulty": "easy"
+        },
+        {
+          "id": 27,
+          "answer": "assistance",
+          "hint": "n. 辅助",
+          "difficulty": "easy"
+        },
+        {
+          "id": 28,
+          "answer": "recovery",
+          "hint": "n. 恢复",
           "difficulty": "easy"
         }
       ],
       "fullText": "The UK government has announced plans to invest more in robotic equipment for English hospitals and set a target for robotic assistance to be used in 90% of keyhole surgeries carried out in England by 2035.\nThe government highlighted robotics as one of five \"big bets\" in a 10-year health plan for England, alongside other transformative technologies: data, AI, genomics and wearables.\nSurgeons and nurses using the new Da Vinci 5 robotic-assisted surgical system while performing surgery, at St Bartholomew's Hospital in London. /Carlos Jasso/AFP\nAt St Bartholomew's Hospital in central London, visiting surgeons are among the first to be trained to use the new da Vinci 5 robotic-assisted surgical system, made by US company Initiative. The system, which includes three robotic arms that can hold surgical equipment, is controlled using an immersive 3D headset and a video-game-like console.\nRobotic surgical systems like this can be used across a range of specialties including urology, gynecology, abdominal, colorectal, and thoracic or general surgery.\nSasha Stamenkovic (C) using the new Da Vinci 5 robotic-assisted surgical system while performing lung cancer surgery as Ali Ansaripour (R), senior cardiothoracic trainee on a robotic fellowship, looks on. /Carlos Jasso/AFP\nThe precision of robotic-assisted surgery should mean shorter hospital stays and quicker recovery times, which will take strain off a struggling health service with year-long waitlists, workforce shortages and discharge bottlenecks.\n\"The ability to have lots of integrated computer-aided technology on top\" of human-controlled robotics \"makes this precise surgery. It makes it safe surgery,\" says Sasha Stamenkovic, Director of Robotic Surgery and Research at Barts Health NHS Trust.\nAs well as improving recovery times, the greater precision also reduces the risk of complications like air leaks, a common cause of longer hospital stays following lung surgery.\nNurses assisting in lung cancer surgery using the new Da Vinci 5 robotic-assisted surgical system, at St Bartholomew's Hospital. /Carlos Jasso/AFP\nIan Macleod was the first patient in Britain's NHS to undergo lung cancer surgery using the new da Vinci robotic system. Macleod says he \"didn't realize\" until he was wearing a surgical gown and anesthetised that he would hold this groundbreaking title, but the news \"didn't faze\" the 76-year-old retired detective.\nThirty minutes after the robotic-assisted operation, Macleod was back on his feet. \"It was extraordinary,\" he says. \"In fact, after the operation, I found out quite quickly that I only had one stitch.\" He had undergone non-robotic keyhole surgery for a different cancer in the past, and says the recovery time was \"much longer\". This time, he was driving his wife to the garden centrer for coffee less than a week later.\nStamenkovic runs fellowships at St Bartholomew's training surgeons on this new technology. He says it is the young surgeons who pick up the new robotic control system the fastest and who become the most adept.\n\"They've come with different skill sets,\" he says, \"they've probably come with gaming skill sets, some of them have come with a musical background.\"\nLaying out his long-term mission, Stamenkovic added: \"All we need to do is harness their energy, their passion, their skill set, and teach them the right moves. And that will make the surgeon of the future.\"",
-      "fullTextCn": "英国政府宣布计划为英格兰医院投资更多机器人设备，并设定目标，到2035年英格兰90%的微创手术将使用机器人辅助。政府将机器人技术列为英格兰十年健康计划中的五大“重大赌注”之一，其他变革性技术包括数据、人工智能、基因组学和可穿戴设备。外科医生和护士在伦敦圣巴塞洛缪医院使用新型达芬奇5机器人辅助手术系统进行手术。/Carlos Jasso/AFP\n\n在伦敦市中心的圣巴塞洛缪医院，来访的外科医生是最早接受使用新型达芬奇5机器人辅助手术系统培训的一批人，该系统由美国公司Initiative制造。该系统包括三个可持手术器械的机械臂，通过沉浸式3D头戴设备和类似视频游戏的控制台进行操作。\n\n此类机器人手术系统可用于多种专科，包括泌尿科、妇科、腹部、结直肠、胸外科或普外科。Sasha Stamenkovic（中）使用新型达芬奇5机器人辅助手术系统进行肺癌手术，Ali Ansaripour（右）是机器人专科的高级心胸外科培训生，正在旁观看。/Carlos Jasso/AFP\n\n机器人辅助手术的精准性应能缩短住院时间并加快恢复速度，这将缓解一个面临年候诊名单、劳动力短缺和出院瓶颈的艰难医疗系统的压力。“在人类控制的机器人技术之上，集成大量计算机辅助技术的能力使这种手术精准。它使手术安全，”巴茨健康NHS信托机器人手术与研究主任Sasha Stamenkovic说。\n\n除了改善恢复时间，更高的精准度还降低了并发症风险，如肺手术后常见的导致住院时间延长的漏气问题。护士在圣巴塞洛缪医院使用新型达芬奇5机器人辅助手术系统协助肺癌手术。/Carlos Jasso/AFP\n\nIan Macleod是英国NHS中第一位使用新型达芬奇机器人系统接受肺癌手术的患者。Macleod说，直到他穿上手术服并被麻醉时，他才“意识到”自己将拥有这一开创性头衔，但这一消息“没有吓到”这位76岁的退休侦探。机器人辅助手术后三十分钟，Macleod就重新站了起来。\n\n“这太不寻常了，”他说。“事实上，手术后我很快发现我只有一针缝合。”他过去曾因另一种癌症接受过非机器人微创手术，并表示恢复时间“长得多”。这次，不到一周后他就开车带妻子去花园中心喝咖啡。Stamenkovic在圣巴塞洛缪医院举办专科培训，教授外科医生这项新技术。他说，年轻外科医生掌握新机器人控制系统最快，也最熟练。\n\n“他们带来了不同的技能组合，”他说，“他们可能带来了游戏技能，有些人有音乐背景。”\n\n在阐述其长期使命时，Stamenkovic补充道：“我们只需利用他们的精力、热情和技能，并教他们正确的动作。这将造就未来的外科医生。”"
+      "fullTextCn": "英国政府宣布计划增加对英格兰医院机器人设备的投资，并设定目标，到2035年使英格兰90%的微创手术使用机器人辅助。政府将机器人技术列为英格兰十年健康计划中的五大“重大赌注”之一，其他变革性技术包括数据、人工智能、基因组学和可穿戴设备。外科医生和护士在伦敦圣巴塞洛缪医院使用新的达芬奇5机器人辅助手术系统进行手术。/Carlos Jasso/AFP\n\n在伦敦市中心的圣巴塞洛缪医院，来访的外科医生是首批接受培训使用美国公司Initiative制造的新型达芬奇5机器人辅助手术系统的人。该系统包括三个可持手术器械的机械臂，通过沉浸式3D头戴设备和类似视频游戏的控制台进行操作。\n\n此类机器人手术系统可用于多种专科，包括泌尿科、妇科、腹部、结直肠、胸外科或普外科。Sasha Stamenkovic（中）使用新的达芬奇5机器人辅助手术系统进行肺癌手术，Ali Ansaripour（右）是机器人专科的高级心胸外科培训生，正在观摩。/Carlos Jasso/AFP\n\n机器人辅助手术的精准性应能缩短住院时间并加快恢复速度，这将缓解一个面临一年等待名单、劳动力短缺和出院瓶颈的困难医疗服务的压力。“在人类控制的机器人技术之上集成大量计算机辅助技术的能力，使这种手术精准且安全，”巴特健康NHS信托机器人手术与研究主任Sasha Stamenkovic说。\n\n除了改善恢复时间，更高的精准度还降低了并发症风险，如肺手术后常见的导致住院时间延长的漏气问题。护士在圣巴塞洛缪医院使用新的达芬奇5机器人辅助手术系统协助肺癌手术。/Carlos Jasso/AFP\n\nIan Macleod是英国NHS中第一位使用新型达芬奇机器人系统进行肺癌手术的患者。Macleod说，直到穿上手术服并被麻醉，他才意识到自己将拥有这一开创性头衔，但这一消息“没有吓到”这位76岁的退休侦探。机器人辅助手术后30分钟，Macleod就重新站了起来。\n\n“这太不可思议了，”他说，“事实上，手术后我很快发现我只有一针缝合。”他过去曾因另一种癌症接受过非机器人微创手术，并表示恢复时间“长得多”。这次，不到一周后，他就开车带妻子去花园中心喝咖啡。Stamenkovic在圣巴塞洛缪医院开展奖学金项目，培训外科医生掌握这项新技术。他说，年轻外科医生掌握新机器人控制系统最快，也最熟练。\n\n“他们带来了不同的技能组合，”他说，“他们可能带来了游戏技能，有些人有音乐背景。”\n\n在阐述他的长期使命时，Stamenkovic补充道：“我们只需要利用他们的能量、热情和技能，教他们正确的动作。这将造就未来的外科医生。”"
     },
     {
       "id": 2,
@@ -190,579 +220,743 @@
       "title": "Europe faces record heat, drought and water-related pressures",
       "titleCn": "欧洲面临创纪录高温、干旱和水资源压力",
       "summary": "Europe faces record heat, drought and water-related pressures",
-      "summaryCn": "欧洲正经历极端高温和干旱，导致河流水位下降、野火频发，并对农业、能源和公共健康造成严重影响。",
+      "summaryCn": "欧洲正经历极端高温和干旱，导致河流水位下降、野火频发，并对农业和能源系统造成严重影响。",
       "wordCount": 505,
       "paragraphs": [
         {
-          "en": "Europe is experiencing a summer of extreme heat and {{17}}, with record temperatures, {{16}} risks and falling river levels affecting several countries. A {{0}} landscape in the wake of a wildfire that swept through the Gironde region in Lege-Cap-Ferret, southwestern France, August 4, 2026. France recorded its hottest July since nationwide records began in 1900, with a monthly average temperature of 24.9 degrees Celsius, according to Meteo-France. Rainfall across the country was nearly 70% below the seasonal average, making July 2026 the third-driest July on record. Persistent heat, drought and windy conditions kept wildfire risks high or very high, while a wildfire in the southwestern department of Gironde burned about 42,000 hectares and forced the {{1}} of more than 220,000 people. Boats lie in the dried out {{18}} of a branch of the river Danube in Hainburg, Austria, August 3, 2026.",
-          "cn": "欧洲正经历一个极端高温和干旱的夏季，创纪录的气温、野火风险和河流水位下降影响了多个国家。2026年8月4日，法国西南部莱格-费雷角地区，一场野火席卷吉伦特地区后留下焦土景观。据法国气象局称，法国记录了自1900年全国记录开始以来最热的七月，月平均气温为24.9摄氏度。全国降雨量比季节平均水平低近70%，使2026年7月成为有记录以来第三干燥的七月。持续高温、干旱和多风条件使野火风险保持高位或极高，而西南部吉伦特省的一场野火烧毁了约4.2万公顷土地，并迫使超过22万人撤离。2026年8月3日，奥地利海因堡，多瑙河支流干涸的河床上停着船只。"
+          "en": "Europe is experiencing a summer of {{0}} heat and {{1}}, with {{2}} temperatures, {{3}} risks and falling river levels affecting several countries. A {{4}} landscape in the wake of a wildfire that swept through the Gironde region in Lege-Cap-Ferret, southwestern France, August 4, 2026. France recorded its hottest July since nationwide records began in 1900, with a monthly average temperature of 24.9 degrees Celsius, according to Meteo-France. Rainfall across the country was nearly 70% below the seasonal average, making July 2026 the third-driest July on record. Persistent heat, drought and windy conditions kept wildfire risks high or very high, while a wildfire in the southwestern department of Gironde burned about 42,000 hectares and forced the {{5}} of more than 220,000 people. Boats lie in the dried out {{7}} of a branch of the river Danube in Hainburg, Austria, August 3, 2026.",
+          "cn": "欧洲正经历一个极端高温和干旱的夏季，创纪录的气温、野火风险和河流水位下降影响了多个国家。2026年8月4日，法国西南部莱格-卡费雷特地区吉伦特省一场野火过后，土地一片焦黑。据法国气象局称，法国录得了自1900年全国记录开始以来最热的七月，月平均气温为24.9摄氏度。全国降雨量比季节平均水平低了近70%，使2026年7月成为有记录以来第三干旱的七月。持续的高温、干旱和多风天气使野火风险保持在高或非常高的水平，而西南部吉伦特省的一场野火烧毁了约42000公顷土地，迫使超过22万人撤离。2026年8月3日，奥地利海因堡，多瑙河一条支流的干涸河床上停着船只。"
         },
         {
-          "en": "In Austria, a national temperature record of 41 degrees Celsius was set on Tuesday as the heat wave continued. The record was measured in the Stammersdorf region of Vienna, according to Austria's state broadcaster ORF. A forest fire is also raging in Burgenland, while the Lobau wetlands in Vienna face the highest fire danger level. Meanwhile, water levels on the Danube River have fallen to historically low levels, {{3}} to the major low-water years of 2003 and 2018. The dried-up Danube riverbed with the Paks power plant at the background, near Dunaszentbenedek, close to Paks town, Hungary, July 31, 2026. Neighboring Hungary has {{4}} its highest-level heat alert until midnight on Friday as forecasts show the heat wave will continue.",
-          "cn": "在奥地利，随着热浪持续，周二创下了41摄氏度的全国温度记录。据奥地利国家广播公司ORF称，该记录是在维也纳的施塔默斯多夫地区测得的。布尔根兰州也正发生森林火灾，而维也纳的洛鲍湿地面临最高火灾危险等级。与此同时，多瑙河水位已降至历史低位，与2003年和2018年的主要低水位年份相当。2026年7月31日，匈牙利敦森本尼德克附近，干涸的多瑙河河床背景是帕克斯核电站。邻国匈牙利已将最高级别高温警报延长至周五午夜，因为预报显示热浪将持续。"
+          "en": "In Austria, a national temperature record of 41 degrees Celsius was set on Tuesday as the heat wave continued. The record was measured in the Stammersdorf region of Vienna, according to Austria's state broadcaster ORF. A forest fire is also raging in Burgenland, while the Lobau wetlands in Vienna face the highest fire danger level. Meanwhile, water levels on the Danube River have fallen to historically low levels, {{8}} to the major low-water years of 2003 and 2018. The dried-up Danube riverbed with the Paks power plant at the background, near Dunaszentbenedek, close to Paks town, Hungary, July 31, 2026. Neighboring Hungary has {{9}} its highest-level heat {{10}} until midnight on Friday as forecasts show the heat wave will continue.",
+          "cn": "在奥地利，随着热浪持续，周二创下了41摄氏度的全国温度记录。据奥地利国家广播公司ORF称，这一记录是在维也纳的施塔默斯多夫地区测得的。布尔根兰州也正在发生森林火灾，而维也纳的洛鲍湿地面临最高级别的火灾危险。与此同时，多瑙河的水位已降至历史低位，与2003年和2018年的主要低水位年份相当。2026年7月31日，匈牙利敦森本尼德克附近，干涸的多瑙河河床背景中是帕克斯核电站。邻国匈牙利已将最高级别的高温警报延长至周五午夜，因为预报显示热浪将持续。"
         },
         {
-          "en": "Authorities warned that {{2}} high temperatures could affect everyone and urged people to take {{5}}. The heat wave has {{6}} drought conditions, lowered water levels in major rivers and increased wildfire risks, with firefighters recently responding to around 100 outdoor fires per day. A firefighting helicopter flies toward a wildfire on a mountain near L'Aquila, central Italy, August 3, 2026. Italy is also facing its fourth major heat wave of the summer, with temperatures {{7}} 40 degrees Celsius in some areas. The Health Ministry placed 25 of the country's 27 {{8}} cities under the highest heat alert, including Rome, Milan, Florence, Bologna, Venice, Naples and Palermo. Hot and dry conditions have increased wildfire risks and put pressure on agriculture, with farmers reporting reduced crop yields and higher {{9}} demand.",
-          "cn": "当局警告说，持续高温可能影响所有人，并敦促人们采取预防措施。热浪加剧了干旱状况，降低了主要河流的水位，并增加了野火风险，消防员最近每天应对约100起户外火灾。2026年8月3日，意大利中部拉奎拉附近，一架消防直升机飞向山火。意大利也正面临夏季第四次大热浪，部分地区气温超过40摄氏度。卫生部将该国27个受监测城市中的25个置于最高高温警报之下，包括罗马、米兰、佛罗伦萨、博洛尼亚、威尼斯、那不勒斯和巴勒莫。炎热干燥的条件增加了野火风险，并对农业造成压力，农民报告作物减产和灌溉需求增加。"
+          "en": "Authorities warned that {{6}} high temperatures could affect everyone and urged people to take {{11}}. The heat wave has {{12}} drought conditions, {{13}} water levels in major rivers and increased wildfire risks, with firefighters recently responding to around 100 outdoor fires per day. A firefighting helicopter flies toward a wildfire on a mountain near L'Aquila, central Italy, August 3, 2026. Italy is also facing its fourth major heat wave of the summer, with temperatures {{14}} 40 degrees Celsius in some areas. The Health Ministry placed 25 of the country's 27 {{15}} cities under the highest heat alert, including Rome, Milan, Florence, Bologna, Venice, Naples and Palermo. Hot and dry conditions have increased wildfire risks and put pressure on {{16}}, with farmers reporting {{17}} crop yields and higher {{18}} demand.",
+          "cn": "当局警告说，持续的高温可能影响所有人，并敦促人们采取预防措施。热浪加剧了干旱状况，降低了主要河流的水位，增加了野火风险，消防员最近每天应对约100起户外火灾。2026年8月3日，意大利中部拉奎拉附近，一架消防直升机飞向山火。意大利也正面临夏季第四次大热浪，部分地区气温超过40摄氏度。卫生部将该国27个受监测城市中的25个置于最高高温警报之下，包括罗马、米兰、佛罗伦萨、博洛尼亚、威尼斯、那不勒斯和巴勒莫。炎热干燥的条件增加了野火风险，并对农业造成压力，农民报告作物减产和灌溉需求增加。"
         },
         {
-          "en": "A general view of the Paks nuclear power plant, Hungary, July 31, 2026. Low river levels and rising water temperatures have also affected nuclear power operations in parts of Europe. Hungary's Paks nuclear power plant, which supplies nearly half of the country's electricity, remained {{10}} but its operation depended on river conditions and cooling system performance. Romania's Cernavoda nuclear power plant shut down both reactors after low Danube water levels affected operations. In France and Switzerland, some nuclear facilities also faced operational {{11}} as high river temperatures affected cooling {{12}}. The {{15}} of extreme heat, drought and {{13}} water {{14}} is putting pressure on public health, agriculture, wildfire prevention and energy systems in affected areas.",
-          "cn": "2026年7月31日，匈牙利帕克斯核电站全景。低河流水位和上升的水温也影响了欧洲部分地区的核电运营。匈牙利帕克斯核电站供应全国近一半电力，虽保持运行，但其运行取决于河流状况和冷却系统性能。罗马尼亚切尔纳沃德核电站在多瑙河低水位影响运营后，关闭了两个反应堆。在法国和瑞士，一些核设施也因高河流水温影响冷却能力而面临运营中断。极端高温、干旱和水资源可用性下降的组合，正在对受影响地区的公共健康、农业、野火预防和能源系统造成压力。"
+          "en": "A general view of the Paks nuclear power plant, Hungary, July 31, 2026. Low river levels and rising water temperatures have also {{25}} nuclear power operations in parts of Europe. Hungary's Paks nuclear power plant, which supplies nearly half of the country's electricity, remained {{19}} but its operation depended on river conditions and cooling system performance. Romania's Cernavoda nuclear power plant shut down both reactors after low Danube water levels affected operations. In France and Switzerland, some nuclear facilities also faced operational {{20}} as high river temperatures affected cooling {{21}}. The combination of extreme heat, drought and {{22}} water {{23}} is putting pressure on public health, agriculture, wildfire {{24}} and energy systems in affected areas.",
+          "cn": "2026年7月31日，匈牙利帕克斯核电站全景。低水位和不断上升的水温也影响了欧洲部分地区的核电运营。匈牙利帕克斯核电站供应了该国近一半的电力，虽然仍在运营，但其运营取决于河流状况和冷却系统的性能。罗马尼亚的切尔纳沃德核电站在多瑙河低水位影响运营后关闭了两个反应堆。在法国和瑞士，一些核设施也因高河流温度影响冷却能力而面临运营中断。极端高温、干旱和水资源可用性下降的组合正在对受影响地区的公共卫生、农业、野火预防和能源系统造成压力。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "scorched",
-          "hint": "adj. 烧焦的",
-          "difficulty": "medium"
+          "answer": "extreme",
+          "hint": "adj. 极端的",
+          "difficulty": "easy"
         },
         {
           "id": 1,
-          "answer": "evacuation",
-          "hint": "n. 疏散",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "persistent",
-          "hint": "adj. 持续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "comparable",
-          "hint": "adj. 可比较的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "extended",
-          "hint": "v. 延长",
-          "difficulty": "easy"
-        },
-        {
-          "id": 5,
-          "answer": "precautions",
-          "hint": "n. 预防措施",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "intensified",
-          "hint": "v. 加剧",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "exceeding",
-          "hint": "v. 超过",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "monitored",
-          "hint": "v. 监测",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "irrigation",
-          "hint": "n. 灌溉",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "operational",
-          "hint": "adj. 运营的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "disruptions",
-          "hint": "n. 中断",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "capacity",
-          "hint": "n. 能力",
-          "difficulty": "easy"
-        },
-        {
-          "id": 13,
-          "answer": "declining",
-          "hint": "v. 下降",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "availability",
-          "hint": "n. 可用性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "combination",
-          "hint": "n. 组合",
-          "difficulty": "easy"
-        },
-        {
-          "id": 16,
-          "answer": "wildfire",
-          "hint": "n. 野火",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
           "answer": "drought",
           "hint": "n. 干旱",
           "difficulty": "easy"
         },
         {
-          "id": 18,
+          "id": 2,
+          "answer": "record",
+          "hint": "n. 记录",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "wildfire",
+          "hint": "n. 野火",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "scorched",
+          "hint": "adj. 烧焦的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "evacuation",
+          "hint": "n. 疏散",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "persistent",
+          "hint": "adj. 持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
           "answer": "riverbed",
           "hint": "n. 河床",
           "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "comparable",
+          "hint": "adj. 可比较的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "extended",
+          "hint": "v. 延长",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "alert",
+          "hint": "n. 警报",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "precautions",
+          "hint": "n. 预防措施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "intensified",
+          "hint": "v. 加剧",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "lowered",
+          "hint": "v. 降低",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "exceeding",
+          "hint": "v. 超过",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "monitored",
+          "hint": "v. 监测",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "agriculture",
+          "hint": "n. 农业",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "reduced",
+          "hint": "v. 减少",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "irrigation",
+          "hint": "n. 灌溉",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "operational",
+          "hint": "adj. 运营的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "disruptions",
+          "hint": "n. 中断",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "capacity",
+          "hint": "n. 能力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "declining",
+          "hint": "v. 下降",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "availability",
+          "hint": "n. 可用性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 24,
+          "answer": "prevention",
+          "hint": "n. 预防",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "affected",
+          "hint": "v. 影响",
+          "difficulty": "easy"
         }
       ],
       "fullText": "Europe is experiencing a summer of extreme heat and drought, with record temperatures, wildfire risks and falling river levels affecting several countries.\nA scorched landscape in the wake of a wildfire that swept through the Gironde region in Lege-Cap-Ferret, southwestern France, August 4, 2026. \nFrance recorded its hottest July since nationwide records began in 1900, with a monthly average temperature of 24.9 degrees Celsius, according to Meteo-France.\nRainfall across the country was nearly 70% below the seasonal average, making July 2026 the third-driest July on record.\nPersistent heat, drought and windy conditions kept wildfire risks high or very high, while a wildfire in the southwestern department of Gironde burned about 42,000 hectares and forced the evacuation of more than 220,000 people.\nBoats lie in the dried out riverbed of a branch of the river Danube in Hainburg, Austria, August 3, 2026. \nIn Austria, a national temperature record of 41 degrees Celsius was set on Tuesday as the heat wave continued. The record was measured in the Stammersdorf region of Vienna, according to Austria's state broadcaster ORF.\nA forest fire is also raging in Burgenland, while the Lobau wetlands in Vienna face the highest fire danger level. Meanwhile, water levels on the Danube River have fallen to historically low levels, comparable to the major low-water years of 2003 and 2018.\nThe dried-up Danube riverbed with the Paks power plant at the background, near Dunaszentbenedek, close to Paks town, Hungary, July 31, 2026. \nNeighboring Hungary has extended its highest-level heat alert until midnight on Friday as forecasts show the heat wave will continue. Authorities warned that persistent high temperatures could affect everyone and urged people to take precautions.\nThe heat wave has intensified drought conditions, lowered water levels in major rivers and increased wildfire risks, with firefighters recently responding to around 100 outdoor fires per day.\nA firefighting helicopter flies toward a wildfire on a mountain near L'Aquila, central Italy, August 3, 2026. \nItaly is also facing its fourth major heat wave of the summer, with temperatures exceeding 40 degrees Celsius in some areas.\nThe Health Ministry placed 25 of the country's 27 monitored cities under the highest heat alert, including Rome, Milan, Florence, Bologna, Venice, Naples and Palermo.\nHot and dry conditions have increased wildfire risks and put pressure on agriculture, with farmers reporting reduced crop yields and higher irrigation demand.\nA general view of the Paks nuclear power plant, Hungary, July 31, 2026. \nLow river levels and rising water temperatures have also affected nuclear power operations in parts of Europe.\nHungary's Paks nuclear power plant, which supplies nearly half of the country's electricity, remained operational but its operation depended on river conditions and cooling system performance.\nRomania's Cernavoda nuclear power plant shut down both reactors after low Danube water levels affected operations. In France and Switzerland, some nuclear facilities also faced operational disruptions as high river temperatures affected cooling capacity.\nThe combination of extreme heat, drought and declining water availability is putting pressure on public health, agriculture, wildfire prevention and energy systems in affected areas.",
-      "fullTextCn": "欧洲正经历一个极端高温和干旱的夏季，创纪录的气温、野火风险和河流水位下降影响了多个国家。2026年8月4日，法国西南部莱格-费雷角地区，一场野火席卷吉伦特地区后留下焦土景观。据法国气象局称，法国记录了自1900年全国记录开始以来最热的七月，月平均气温为24.9摄氏度。全国降雨量比季节平均水平低近70%，使2026年7月成为有记录以来第三干燥的七月。持续高温、干旱和多风条件使野火风险保持高位或极高，而西南部吉伦特省的一场野火烧毁了约4.2万公顷土地，并迫使超过22万人撤离。2026年8月3日，奥地利海因堡，多瑙河支流干涸的河床上停着船只。\n\n在奥地利，随着热浪持续，周二创下了41摄氏度的全国温度记录。据奥地利国家广播公司ORF称，该记录是在维也纳的施塔默斯多夫地区测得的。布尔根兰州也正发生森林火灾，而维也纳的洛鲍湿地面临最高火灾危险等级。与此同时，多瑙河水位已降至历史低位，与2003年和2018年的主要低水位年份相当。2026年7月31日，匈牙利敦森本尼德克附近，干涸的多瑙河河床背景是帕克斯核电站。邻国匈牙利已将最高级别高温警报延长至周五午夜，因为预报显示热浪将持续。\n\n当局警告说，持续高温可能影响所有人，并敦促人们采取预防措施。热浪加剧了干旱状况，降低了主要河流的水位，并增加了野火风险，消防员最近每天应对约100起户外火灾。2026年8月3日，意大利中部拉奎拉附近，一架消防直升机飞向山火。意大利也正面临夏季第四次大热浪，部分地区气温超过40摄氏度。卫生部将该国27个受监测城市中的25个置于最高高温警报之下，包括罗马、米兰、佛罗伦萨、博洛尼亚、威尼斯、那不勒斯和巴勒莫。炎热干燥的条件增加了野火风险，并对农业造成压力，农民报告作物减产和灌溉需求增加。\n\n2026年7月31日，匈牙利帕克斯核电站全景。低河流水位和上升的水温也影响了欧洲部分地区的核电运营。匈牙利帕克斯核电站供应全国近一半电力，虽保持运行，但其运行取决于河流状况和冷却系统性能。罗马尼亚切尔纳沃德核电站在多瑙河低水位影响运营后，关闭了两个反应堆。在法国和瑞士，一些核设施也因高河流水温影响冷却能力而面临运营中断。极端高温、干旱和水资源可用性下降的组合，正在对受影响地区的公共健康、农业、野火预防和能源系统造成压力。"
+      "fullTextCn": "欧洲正经历一个极端高温和干旱的夏季，创纪录的气温、野火风险和河流水位下降影响了多个国家。2026年8月4日，法国西南部莱格-卡费雷特地区吉伦特省一场野火过后，土地一片焦黑。据法国气象局称，法国录得了自1900年全国记录开始以来最热的七月，月平均气温为24.9摄氏度。全国降雨量比季节平均水平低了近70%，使2026年7月成为有记录以来第三干旱的七月。持续的高温、干旱和多风天气使野火风险保持在高或非常高的水平，而西南部吉伦特省的一场野火烧毁了约42000公顷土地，迫使超过22万人撤离。2026年8月3日，奥地利海因堡，多瑙河一条支流的干涸河床上停着船只。\n\n在奥地利，随着热浪持续，周二创下了41摄氏度的全国温度记录。据奥地利国家广播公司ORF称，这一记录是在维也纳的施塔默斯多夫地区测得的。布尔根兰州也正在发生森林火灾，而维也纳的洛鲍湿地面临最高级别的火灾危险。与此同时，多瑙河的水位已降至历史低位，与2003年和2018年的主要低水位年份相当。2026年7月31日，匈牙利敦森本尼德克附近，干涸的多瑙河河床背景中是帕克斯核电站。邻国匈牙利已将最高级别的高温警报延长至周五午夜，因为预报显示热浪将持续。\n\n当局警告说，持续的高温可能影响所有人，并敦促人们采取预防措施。热浪加剧了干旱状况，降低了主要河流的水位，增加了野火风险，消防员最近每天应对约100起户外火灾。2026年8月3日，意大利中部拉奎拉附近，一架消防直升机飞向山火。意大利也正面临夏季第四次大热浪，部分地区气温超过40摄氏度。卫生部将该国27个受监测城市中的25个置于最高高温警报之下，包括罗马、米兰、佛罗伦萨、博洛尼亚、威尼斯、那不勒斯和巴勒莫。炎热干燥的条件增加了野火风险，并对农业造成压力，农民报告作物减产和灌溉需求增加。\n\n2026年7月31日，匈牙利帕克斯核电站全景。低水位和不断上升的水温也影响了欧洲部分地区的核电运营。匈牙利帕克斯核电站供应了该国近一半的电力，虽然仍在运营，但其运营取决于河流状况和冷却系统的性能。罗马尼亚的切尔纳沃德核电站在多瑙河低水位影响运营后关闭了两个反应堆。在法国和瑞士，一些核设施也因高河流温度影响冷却能力而面临运营中断。极端高温、干旱和水资源可用性下降的组合正在对受影响地区的公共卫生、农业、野火预防和能源系统造成压力。"
     },
     {
       "id": 3,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-27/US-youth-experience-China-s-tech-rail-and-free-trade-zones-1PWYcOkITiE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "US youth experience China's tech, rail and free‑trade zones",
+      "titleCn": "美国青年体验中国的科技、高铁和自由贸易区",
+      "summary": "US youth experience China's tech, rail and free‑trade zones",
+      "summaryCn": "美国青年代表团在海南体验中国的高铁、科技和自由贸易区，感叹发展速度并期待更多中美青年交流。",
+      "wordCount": 456,
+      "paragraphs": [
+        {
+          "en": "Albert Vasquez, a data‑science student at the University of California, Berkeley, is still {{0}} by the speed of China's transport development on his third trip to the country. \"I've been to Shanghai, Guangzhou, Shenzhen and Chongqing. Each time I’m {{1}} by how fast development is taking place here,\" he said. Vasquez is among nearly 40 young US {{2}} taking part in the \"Bridge for the Future\" Sino‑US Youth Innovation Exchange Camp, held across Hainan from July 26 to August 1. Organized by the American Flying Tigers Friendship Association, the program brings young US talent in science, technology, and business on-site to experience the Hainan Free Trade Port's {{3}} {{4}}.",
+          "cn": "加州大学伯克利分校的数据科学学生阿尔伯特·瓦斯克斯第三次来到中国，仍然对中国交通发展的速度感到惊叹。他说：“我去过上海、广州、深圳和重庆。每次我都被这里的发展速度所震撼。”瓦斯克斯是参加“未来之桥”中美青年创新交流营的近40名美国青年代表之一，该活动于7月26日至8月1日在海南举行。该项目由美国飞虎队友谊协会组织，带领美国科技、商业领域的青年人才实地体验海南自由贸易港的创新生态系统。"
+        },
+        {
+          "en": "Young US tech representatives on a high‑speed rail in Sanya, Hainan Province, south China, July 30, 2026. On July 30, the group rode Sanya's Rainbow High‑Speed Rail for Albert's first‑ever high‑speed‑rail experience. He was struck by the {{5}} cleanliness, fast {{6}} screening and {{7}} ID‑based boarding – a sharp {{8}} to physical tickets still widely used in parts of the United States. \"The United States does not have a high‑speed rail system, and experiencing this really makes me wish that we did,\" Vasquez noted. Recalling his college days {{9}} between Los Angeles and the San Francisco Bay Area by expensive flights, he believes {{10}} high‑speed services would greatly {{11}} long‑distance travel for American students.",
+          "cn": "2026年7月30日，美国青年科技代表在中国南部海南省三亚市乘坐高铁。7月30日，该团体乘坐三亚的彩虹高铁，这是阿尔伯特第一次体验高铁。他对车厢的清洁度、快速的安检和无纸化身份证登车感到印象深刻——这与美国部分地区仍广泛使用的纸质车票形成鲜明对比。瓦斯克斯指出：“美国没有高铁系统，体验了这些真的让我希望我们也有。”回忆起大学时代在洛杉矶和旧金山湾区之间乘坐昂贵航班通勤的日子，他认为负担得起的高铁服务将大大缓解美国学生的长途旅行。"
+        },
+        {
+          "en": "Smart rail {{12}} can lower {{13}} for cross‑border youth exchanges, he said. Young US tech representatives at Yazhou Bay Science and Technology City in Sanya, July 30, 2026. Also on July 30, the delegation {{14}} Yazhou Bay Science and Technology City, Hainan Free Trade Port's core {{15}} for deep‑sea research, seed‑{{16}} innovation and AI industry development. The participants visited laboratories and the Youth Innovation Valley, gaining firsthand {{17}} to China's deep‑sea equipment and research achievements. Together with other US participants, including project manager Guan Gru He from the Los Angeles Department of Water and Power and architecture student Joan Sebastian Cubillos from California State University, Northridge, they discussed China's industry‑university‑research {{18}} model and {{19}} for Sino‑US academic and talent exchanges.",
+          "cn": "他说，智能铁路基础设施可以降低跨境青年交流的障碍。2026年7月30日，美国青年科技代表在三亚崖州湾科技城。同样在7月30日，代表团参观了崖州湾科技城，这是海南自由贸易港深海研究、种子育种创新和人工智能产业发展的核心枢纽。参与者参观了实验室和青年创新谷，亲身接触了中国深海设备和研究成就。他们与其他美国参与者，包括洛杉矶水电局项目经理关古赫和加州州立大学北岭分校建筑系学生琼·塞巴斯蒂安·库比略斯，讨论了中国产学研一体化模式以及中美学术和人才交流的潜力。"
+        },
+        {
+          "en": "Allan Lei, a fin‑tech professional from California, visits the Sanya International Duty‑Free Shopping Complex, July 31, 2026. On July 31, the US youth visited Sanya International Duty‑Free Shopping Complex. They {{20}} the {{21}} cross‑border products brought by Hainan Free Trade Port opening‑up policies. The young delegates pointed out that Hainan serves as a key Asia‑Pacific {{22}} for open trade, which can {{23}} APEC‑driven {{24}} opening‑up and {{25}} {{26}} cooperation across the region. Many delegates said {{27}} field visits can change {{28}} shaped only by online information.",
+          "cn": "2026年7月31日，来自加利福尼亚的金融科技专业人士艾伦·雷参观了三亚国际免税购物中心。7月31日，美国青年参观了三亚国际免税购物中心。他们体验了海南自由贸易港开放政策带来的便捷跨境商品。青年代表指出，海南是亚太地区开放贸易的关键试点，可以推动亚太经合组织驱动的区域开放和数字流通合作。许多代表表示，沉浸式实地考察可以改变仅由在线信息形成的看法。"
+        },
+        {
+          "en": "More people‑to‑people youth exchanges can boost mutual understanding between Chinese and American young people, as well as Sino‑US {{29}} in marine science, artificial intelligence, and trade‑related dialogues.",
+          "cn": "更多人与人之间的青年交流可以增进中美年轻人之间的相互理解，以及中美在海洋科学、人工智能和贸易相关对话中的合作。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "amazed",
+          "hint": "adj. 惊讶的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "astonished",
+          "hint": "adj. 震惊的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "delegates",
+          "hint": "n. 代表",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "innovation",
+          "hint": "n. 创新",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "ecosystem",
+          "hint": "n. 生态系统",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "carriage",
+          "hint": "n. 车厢",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "security",
+          "hint": "n. 安检",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "paperless",
+          "hint": "adj. 无纸化的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "contrast",
+          "hint": "n. 对比",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "commuting",
+          "hint": "v. 通勤",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "affordable",
+          "hint": "adj. 负担得起的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "ease",
+          "hint": "v. 缓解",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "barriers",
+          "hint": "n. 障碍",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "toured",
+          "hint": "v. 参观",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "hub",
+          "hint": "n. 中心",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "breeding",
+          "hint": "n. 育种",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "exposure",
+          "hint": "n. 接触",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "integration",
+          "hint": "n. 一体化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "potential",
+          "hint": "n. 潜力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "sampled",
+          "hint": "v. 体验",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "convenient",
+          "hint": "adj. 便捷的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 22,
+          "answer": "pilot",
+          "hint": "n. 试点",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "advance",
+          "hint": "v. 推动",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "regional",
+          "hint": "adj. 区域的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 25,
+          "answer": "digital",
+          "hint": "adj. 数字的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 26,
+          "answer": "circulation",
+          "hint": "n. 流通",
+          "difficulty": "hard"
+        },
+        {
+          "id": 27,
+          "answer": "immersive",
+          "hint": "adj. 沉浸式的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 28,
+          "answer": "perceptions",
+          "hint": "n. 看法",
+          "difficulty": "medium"
+        },
+        {
+          "id": 29,
+          "answer": "collaboration",
+          "hint": "n. 合作",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Albert Vasquez, a data‑science student at the University of California, Berkeley, is still amazed by the speed of China's transport development on his third trip to the country.\n\"I've been to Shanghai, Guangzhou, Shenzhen and Chongqing. Each time I’m astonished by how fast development is taking place here,\" he said.\nVasquez is among nearly 40 young US delegates taking part in the \"Bridge for the Future\" Sino‑US Youth Innovation Exchange Camp, held across Hainan from July 26 to August 1.\nOrganized by the American Flying Tigers Friendship Association, the program brings young US talent in science, technology, and business on-site to experience the Hainan Free Trade Port's innovation ecosystem.\nYoung US tech representatives on a high‑speed rail in Sanya, Hainan Province, south China, July 30, 2026.\nOn July 30, the group rode Sanya's Rainbow High‑Speed Rail for Albert's first‑ever high‑speed‑rail experience. He was struck by the carriage cleanliness, fast security screening and paperless ID‑based boarding – a sharp contrast to physical tickets still widely used in parts of the United States.\n\"The United States does not have a high‑speed rail system, and experiencing this really makes me wish that we did,\" Vasquez noted.\nRecalling his college days commuting between Los Angeles and the San Francisco Bay Area by expensive flights, he believes affordable high‑speed services would greatly ease long‑distance travel for American students. Smart rail infrastructure can lower barriers for cross‑border youth exchanges, he said.\nYoung US tech representatives at Yazhou Bay Science and Technology City in Sanya, July 30, 2026.\nAlso on July 30, the delegation toured Yazhou Bay Science and Technology City, Hainan Free Trade Port's core hub for deep‑sea research, seed‑breeding innovation and AI industry development.\nThe participants visited laboratories and the Youth Innovation Valley, gaining firsthand exposure to China's deep‑sea equipment and research achievements.\nTogether with other US participants, including project manager Guan Gru He from the Los Angeles Department of Water and Power and architecture student Joan Sebastian Cubillos from California State University, Northridge, they discussed China's industry‑university‑research integration model and potential for Sino‑US academic and talent exchanges.\nAllan Lei, a fin‑tech professional from California, visits the Sanya International Duty‑Free Shopping Complex, July 31, 2026.\nOn July 31, the US youth visited Sanya International Duty‑Free Shopping Complex.\nThey sampled the convenient cross‑border products brought by Hainan Free Trade Port opening‑up policies.\nThe young delegates pointed out that Hainan serves as a key Asia‑Pacific pilot for open trade, which can advance APEC‑driven regional opening‑up and digital circulation cooperation across the region.\nMany delegates said immersive field visits can change perceptions shaped only by online information.\nMore people‑to‑people youth exchanges can boost mutual understanding between Chinese and American young people, as well as Sino‑US collaboration in marine science, artificial intelligence, and trade‑related dialogues.",
+      "fullTextCn": "加州大学伯克利分校的数据科学学生阿尔伯特·瓦斯克斯第三次来到中国，仍然对中国交通发展的速度感到惊叹。他说：“我去过上海、广州、深圳和重庆。每次我都被这里的发展速度所震撼。”瓦斯克斯是参加“未来之桥”中美青年创新交流营的近40名美国青年代表之一，该活动于7月26日至8月1日在海南举行。该项目由美国飞虎队友谊协会组织，带领美国科技、商业领域的青年人才实地体验海南自由贸易港的创新生态系统。\n\n2026年7月30日，美国青年科技代表在中国南部海南省三亚市乘坐高铁。7月30日，该团体乘坐三亚的彩虹高铁，这是阿尔伯特第一次体验高铁。他对车厢的清洁度、快速的安检和无纸化身份证登车感到印象深刻——这与美国部分地区仍广泛使用的纸质车票形成鲜明对比。瓦斯克斯指出：“美国没有高铁系统，体验了这些真的让我希望我们也有。”回忆起大学时代在洛杉矶和旧金山湾区之间乘坐昂贵航班通勤的日子，他认为负担得起的高铁服务将大大缓解美国学生的长途旅行。\n\n他说，智能铁路基础设施可以降低跨境青年交流的障碍。2026年7月30日，美国青年科技代表在三亚崖州湾科技城。同样在7月30日，代表团参观了崖州湾科技城，这是海南自由贸易港深海研究、种子育种创新和人工智能产业发展的核心枢纽。参与者参观了实验室和青年创新谷，亲身接触了中国深海设备和研究成就。他们与其他美国参与者，包括洛杉矶水电局项目经理关古赫和加州州立大学北岭分校建筑系学生琼·塞巴斯蒂安·库比略斯，讨论了中国产学研一体化模式以及中美学术和人才交流的潜力。\n\n2026年7月31日，来自加利福尼亚的金融科技专业人士艾伦·雷参观了三亚国际免税购物中心。7月31日，美国青年参观了三亚国际免税购物中心。他们体验了海南自由贸易港开放政策带来的便捷跨境商品。青年代表指出，海南是亚太地区开放贸易的关键试点，可以推动亚太经合组织驱动的区域开放和数字流通合作。许多代表表示，沉浸式实地考察可以改变仅由在线信息形成的看法。\n\n更多人与人之间的青年交流可以增进中美年轻人之间的相互理解，以及中美在海洋科学、人工智能和贸易相关对话中的合作。"
+    },
+    {
+      "id": 4,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-29/-Classics-Quoted-by-Xi-Jinping-to-air-across-SCO-countries-1Q0kxXnGcwg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "'Classics Quoted by Xi Jinping' to air across SCO countries",
+      "titleCn": "《平“语”近人》将在上合组织国家播出",
+      "summary": "\"Classics Quoted by Xi Jinping,\" a multilingual TV program produced by China Media Group (CMG), will begin airing on mainstream media outlets across Shanghai Cooperation Organization (SCO) countries from Sunday.",
+      "summaryCn": "中国媒体集团制作的多语种节目《平“语”近人》将于周日在上合组织国家主流媒体播出，展示习近平主席引用的中国古典经典，促进文化交流。",
+      "wordCount": 445,
+      "paragraphs": [
+        {
+          "en": "\"Classics Quoted by Xi Jinping,\" a {{0}} TV program produced by China Media Group (CMG) that {{1}} quotes from ancient Chinese classics used by Chinese President Xi Jinping in his speeches and articles, will begin airing on mainstream media outlets across Shanghai Cooperation Organization (SCO) countries from Sunday, ahead of Xi's {{2}} at the 2026 SCO Summit and his state visit to Kyrgyzstan. The program will be {{3}} by major media organizations, including Kyrgyzstan's National Television and Radio Broadcasting Corporation (UTRK), the Belarus branch of the Mir International Broadcasting TV and Radio Company, the Television and Radio Complex of the President of Kazakhstan, Khabar TV, Pakistan Television Corporation, Russia's National Media Group, Russian Gazette, Tajikistan's Jahonnamo TV, the National Television and Radio Company of Uzbekistan and Iran's Islamic Republic News Agency. In recent days, these mainstream media outlets have run {{4}} of the program, generating {{5}} interest and {{6}}. Focusing on topics including economic development, technological {{7}}, {{8}} {{9}} and people's well-being, the multilingual program draws on {{10}} from Chinese classics cited by Xi in his speeches, articles and conversations. Through an international {{11}}, the program explores the historical and cultural roots of Xi's approach to {{12}} and presents China's experience in {{13}} global challenges. Slovo Kyrgyzstana, a Kyrgyz government newspaper, publishes a preview and a {{14}} introduction to the multilingual version of \"Classics Quoted by Xi Jinping.\" /CMG\nOn Friday, Slovo Kyrgyzstana, a Kyrgyz government newspaper, published a preview on its front page and a detailed introduction to the program on its second page.",
+          "cn": "《平“语”近人》是一档由中国媒体集团（CMG）制作的多语种电视节目，精选中国国家主席习近平在演讲和文章中引用的中国古代经典。该节目将于周日在上合组织国家的主流媒体播出，正值习近平出席2026年上合组织峰会并对吉尔吉斯斯坦进行国事访问之前。节目将由多家主要媒体机构播出，包括吉尔吉斯斯坦国家广播电视公司（UTRK）、国际广播电视公司“和平”白俄罗斯分部、哈萨克斯坦总统电视广播综合体、哈巴尔电视台、巴基斯坦电视公司、俄罗斯国家媒体集团、《俄罗斯报》、塔吉克斯坦“贾洪纳莫”电视台、乌兹别克斯坦国家广播电视公司和伊朗伊斯兰共和国通讯社。近日，这些主流媒体已播出节目预告，引发广泛关注和期待。该多语种节目聚焦经济发展、科技创新、生态保护和民生福祉等主题，取材于习近平在演讲、文章和对话中引用的中国经典。节目通过国际视角，探讨习近平治国理政的历史文化根源，并展示中国应对全球挑战的经验。吉尔吉斯斯坦政府报纸《吉尔吉斯斯坦言论报》刊登了多语种版《平“语”近人》的预告和详细介绍。/CMG 周五，吉尔吉斯斯坦政府报纸《吉尔吉斯斯坦言论报》在头版刊登了预告，并在第二版详细介绍了该节目。"
+        },
+        {
+          "en": "The report said the program offers an international perspective on China's development in the new era, highlighting Xi's political {{16}} and deep {{29}} of history and culture while {{17}} China's perspectives on civilization and development. The program's {{18}} broadcast, it said, will provide {{19}} in SCO countries with a window into Xi's approach to governance and an opportunity to gain a deeper understanding of Chinese culture. Other mainstream media outlets in SCO countries have also reported on the program's upcoming broadcast in recent days, further building anticipation among local audiences. (Anticlockwise from top) Promotional posters for the multilingual version of \"Classics Quoted by Xi Jinping\" are {{21}} on outdoor digital screens in the city centers of Bishkek, Moscow and Minsk. /CMG\nSince August 25, {{20}} posters for the program have been displayed on outdoor digital screens in the city centers of Bishkek, Moscow and Minsk, further building anticipation among local audiences. The program is expected to help audiences in SCO countries better understand China's governance {{22}} and cultural traditions while offering {{23}} into China's experience in development and {{24}} to {{25}} people-to-people understanding and stronger {{26}} among SCO {{27}} {{28}}.",
+          "cn": "报道称，该节目以国际视角展现新时代中国的发展，突出习近平的政治智慧和对历史文化的深刻理解，同时展示中国对文明和发展的看法。报道称，节目即将播出，将为上合组织国家观众提供了解习近平治国理政的窗口，并加深对中国文化的理解。上合组织其他主流媒体近日也报道了该节目即将播出的消息，进一步提升了当地观众的期待。（从右上顺时针）《平“语”近人》多语种版宣传海报在比什凯克、莫斯科和明斯克市中心户外数字屏幕上展示。/CMG 自8月25日起，该节目宣传海报已在比什凯克、莫斯科和明斯克市中心户外数字屏幕上展示，进一步增强了当地观众的期待。该节目有望帮助上合组织国家观众更好地了解中国的治理理念和文化传统，同时提供中国发展经验的见解，促进上合组织成员国之间更紧密的民心相通和更牢固的纽带。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "multilingual",
+          "hint": "adj. 多语的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "features",
+          "hint": "v. 以……为特色",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "attendance",
+          "hint": "n. 出席",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "broadcast",
+          "hint": "v. 播出",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "previews",
+          "hint": "n. 预告",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "widespread",
+          "hint": "adj. 广泛的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "anticipation",
+          "hint": "n. 期待",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "innovation",
+          "hint": "n. 创新",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "ecological",
+          "hint": "adj. 生态的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "conservation",
+          "hint": "n. 保护",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "quotations",
+          "hint": "n. 引语",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "perspective",
+          "hint": "n. 视角",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "addressing",
+          "hint": "v. 应对",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "detailed",
+          "hint": "adj. 详细的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "wisdom",
+          "hint": "n. 智慧",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "showcasing",
+          "hint": "v. 展示",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "upcoming",
+          "hint": "adj. 即将到来的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "audiences",
+          "hint": "n. 观众",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
+          "answer": "promotional",
+          "hint": "adj. 宣传的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "displayed",
+          "hint": "v. 展示",
+          "difficulty": "easy"
+        },
+        {
+          "id": 21,
+          "answer": "philosophy",
+          "hint": "n. 哲学",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "insights",
+          "hint": "n. 见解",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "contributing",
+          "hint": "v. 促进",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "closer",
+          "hint": "adj. 更紧密的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 25,
+          "answer": "ties",
+          "hint": "n. 纽带",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "member",
+          "hint": "adj. 成员的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 27,
+          "answer": "states",
+          "hint": "n. 国家",
+          "difficulty": "easy"
+        },
+        {
+          "id": 28,
+          "answer": "understanding",
+          "hint": "n. 理解",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "\"Classics Quoted by Xi Jinping,\" a multilingual TV program produced by China Media Group (CMG) that features quotes from ancient Chinese classics used by Chinese President Xi Jinping in his speeches and articles, will begin airing on mainstream media outlets across Shanghai Cooperation Organization (SCO) countries from Sunday, ahead of Xi's attendance at the 2026 SCO Summit and his state visit to Kyrgyzstan.\nThe program will be broadcast by major media organizations, including Kyrgyzstan's National Television and Radio Broadcasting Corporation (UTRK), the Belarus branch of the Mir International Broadcasting TV and Radio Company, the Television and Radio Complex of the President of Kazakhstan, Khabar TV, Pakistan Television Corporation, Russia's National Media Group, Russian Gazette, Tajikistan's Jahonnamo TV, the National Television and Radio Company of Uzbekistan and Iran's Islamic Republic News Agency.\nIn recent days, these mainstream media outlets have run previews of the program, generating widespread interest and anticipation.\nFocusing on topics including economic development, technological innovation, ecological conservation and people's well-being, the multilingual program draws on quotations from Chinese classics cited by Xi in his speeches, articles and conversations.\nThrough an international perspective, the program explores the historical and cultural roots of Xi's approach to governance and presents China's experience in addressing global challenges.\nSlovo Kyrgyzstana, a Kyrgyz government newspaper, publishes a preview and a detailed introduction to the multilingual version of \"Classics Quoted by Xi Jinping.\" /CMG\nOn Friday, Slovo Kyrgyzstana, a Kyrgyz government newspaper, published a preview on its front page and a detailed introduction to the program on its second page. The report said the program offers an international perspective on China's development in the new era, highlighting Xi's political wisdom and deep understanding of history and culture while showcasing China's perspectives on civilization and development.\nThe program's upcoming broadcast, it said, will provide audiences in SCO countries with a window into Xi's approach to governance and an opportunity to gain a deeper understanding of Chinese culture.\nOther mainstream media outlets in SCO countries have also reported on the program's upcoming broadcast in recent days, further building anticipation among local audiences.\n(Anticlockwise from top) Promotional posters for the multilingual version of \"Classics Quoted by Xi Jinping\" are displayed on outdoor digital screens in the city centers of Bishkek, Moscow and Minsk. /CMG\nSince August 25, promotional posters for the program have been displayed on outdoor digital screens in the city centers of Bishkek, Moscow and Minsk, further building anticipation among local audiences.\nThe program is expected to help audiences in SCO countries better understand China's governance philosophy and cultural traditions while offering insights into China's experience in development and contributing to closer people-to-people understanding and stronger ties among SCO member states.",
+      "fullTextCn": "《平“语”近人》是一档由中国媒体集团（CMG）制作的多语种电视节目，精选中国国家主席习近平在演讲和文章中引用的中国古代经典。该节目将于周日在上合组织国家的主流媒体播出，正值习近平出席2026年上合组织峰会并对吉尔吉斯斯坦进行国事访问之前。节目将由多家主要媒体机构播出，包括吉尔吉斯斯坦国家广播电视公司（UTRK）、国际广播电视公司“和平”白俄罗斯分部、哈萨克斯坦总统电视广播综合体、哈巴尔电视台、巴基斯坦电视公司、俄罗斯国家媒体集团、《俄罗斯报》、塔吉克斯坦“贾洪纳莫”电视台、乌兹别克斯坦国家广播电视公司和伊朗伊斯兰共和国通讯社。近日，这些主流媒体已播出节目预告，引发广泛关注和期待。该多语种节目聚焦经济发展、科技创新、生态保护和民生福祉等主题，取材于习近平在演讲、文章和对话中引用的中国经典。节目通过国际视角，探讨习近平治国理政的历史文化根源，并展示中国应对全球挑战的经验。吉尔吉斯斯坦政府报纸《吉尔吉斯斯坦言论报》刊登了多语种版《平“语”近人》的预告和详细介绍。/CMG 周五，吉尔吉斯斯坦政府报纸《吉尔吉斯斯坦言论报》在头版刊登了预告，并在第二版详细介绍了该节目。\n\n报道称，该节目以国际视角展现新时代中国的发展，突出习近平的政治智慧和对历史文化的深刻理解，同时展示中国对文明和发展的看法。报道称，节目即将播出，将为上合组织国家观众提供了解习近平治国理政的窗口，并加深对中国文化的理解。上合组织其他主流媒体近日也报道了该节目即将播出的消息，进一步提升了当地观众的期待。（从右上顺时针）《平“语”近人》多语种版宣传海报在比什凯克、莫斯科和明斯克市中心户外数字屏幕上展示。/CMG 自8月25日起，该节目宣传海报已在比什凯克、莫斯科和明斯克市中心户外数字屏幕上展示，进一步增强了当地观众的期待。该节目有望帮助上合组织国家观众更好地了解中国的治理理念和文化传统，同时提供中国发展经验的见解，促进上合组织成员国之间更紧密的民心相通和更牢固的纽带。"
+    },
+    {
+      "id": 5,
       "category": "technology",
       "source": "CGTN",
       "sourceUrl": "https://news.cgtn.com/news/2026-08-06/Nobel-laureate-Demis-Hassabis-named-Alphabet-chief-scientist-1PnFOKzQfNm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
       "title": "Nobel laureate Demis Hassabis named Alphabet chief scientist",
       "titleCn": "诺贝尔奖得主德米斯·哈萨比斯被任命为Alphabet首席科学家",
       "summary": "Google's head of AI, Demis Hassabis, will step down from his current role to become Alphabet's chief scientist amid a reshuffling at DeepMind that will also include a key engineer's departure.",
-      "summaryCn": "谷歌AI负责人德米斯·哈萨比斯卸任DeepMind CEO，转任Alphabet首席科学家，同时DeepMind高层重组，资深工程师Jeff Dean离职。",
+      "summaryCn": "谷歌AI负责人德米斯·哈萨比斯将转任Alphabet首席科学家，同时DeepMind经历管理层重组，包括关键工程师离职。",
       "wordCount": 426,
       "paragraphs": [
         {
-          "en": "Google's head of AI, Demis Hassabis, will step down from his current role to become Alphabet's chief scientist amid a {{0}} at DeepMind that will also include a key engineer's departure. Hassabis will take on two new titles, Alphabet announced on Wednesday: chair of DeepMind and chief scientist of Alphabet. The change \"will allow me to focus on long-term strategy, and {{1}} scientific breakthroughs, including leaning into my work at Isomorphic to help cure disease,\" Hassabis wrote in a social media post. Isomorphic Labs is an AI-powered drug discovery lab that {{2}} out from DeepMind in 2021. In 2024, Hassabis won a Nobel Prize in chemistry.",
-          "cn": "谷歌AI负责人德米斯·哈萨比斯将卸任当前职务，成为Alphabet的首席科学家，这是DeepMind内部重组的一部分，重组还包括一位关键工程师的离职。Alphabet于周三宣布，哈萨比斯将担任两个新职务：DeepMind主席和Alphabet首席科学家。哈萨比斯在社交媒体帖子中写道，这一变动“将使我能够专注于长期战略，并加速科学突破，包括深入我在Isomorphic的工作以帮助治愈疾病。”Isomorphic Labs是一家AI驱动的药物发现实验室，于2021年从DeepMind分拆出来。2024年，哈萨比斯获得了诺贝尔化学奖。"
+          "en": "Google's head of AI, Demis Hassabis, will {{0}} down from his current role to become Alphabet's chief scientist amid a {{1}} at DeepMind that will also include a key engineer's departure. Hassabis will take on two new titles, Alphabet announced on Wednesday: chair of DeepMind and chief scientist of Alphabet. The change \"will allow me to focus on long-term strategy, and {{2}} scientific breakthroughs, including leaning into my work at Isomorphic to help cure disease,\" Hassabis wrote in a social media post. Isomorphic Labs is an AI-powered drug discovery lab that {{3}} out from DeepMind in 2021. In 2024, Hassabis won a Nobel Prize in chemistry.",
+          "cn": "谷歌AI负责人德米斯·哈萨比斯将卸任当前职务，成为Alphabet的首席科学家，这是DeepMind重组的一部分，重组还包括一位关键工程师的离职。Alphabet于周三宣布，哈萨比斯将担任两个新职务：DeepMind主席和Alphabet首席科学家。哈萨比斯在社交媒体帖子中写道，这一变动“将使我能够专注于长期战略，并加速科学突破，包括深入我在Isomorphic的工作以帮助治愈疾病。”Isomorphic Labs是一家由DeepMind于2021年分拆出来的人工智能驱动药物发现实验室。2024年，哈萨比斯获得了诺贝尔化学奖。"
         },
         {
-          "en": "As part of the shake up, DeepMind's chief technology officer and chief AI architect Koray Kavukcuoglu will become the division's senior vice president and {{3}} its operations, including the development of Google's {{4}} frontier models and products which are known as Gemini. Longtime Google engineer Jeff Dean is also leaving the company after nearly three decades to \"try something new, and we're excited to support him in that,\" Google CEO Sundar Pichai said in a blog post announcing the news. Hassabis co-founded DeepMind in 2010, and four years later, Google bought the research lab for $650 million, according to reports at the time. His co-founder, Mustafa Suleyman, is currently the chief of Microsoft's AI segment. Google is {{5}} for customers alongside other major AI developers including Microsoft, OpenAI, Anthropic and Meta, as well as DeepSeek and Moonshot in China.",
-          "cn": "作为重组的一部分，DeepMind的首席技术官兼首席AI架构师科拉伊·卡武克丘奥卢将担任该部门的高级副总裁，并负责其运营，包括开发谷歌旗舰前沿模型和产品（即Gemini）。长期在谷歌工作的工程师杰夫·迪恩在近三十年后也将离开公司，去“尝试新事物，我们很高兴支持他这样做，”谷歌CEO桑达尔·皮查伊在宣布这一消息的博客文章中表示。哈萨比斯于2010年共同创立了DeepMind，四年后，据当时报道，谷歌以6.5亿美元收购了该研究实验室。他的联合创始人穆斯塔法·苏莱曼目前是微软AI部门的主管。谷歌正在与其他主要AI开发商（包括微软、OpenAI、Anthropic和Meta，以及中国的DeepSeek和Moonshot）争夺客户。"
+          "en": "As part of the shake up, DeepMind's chief technology officer and chief AI architect Koray Kavukcuoglu will become the division's senior vice president and {{4}} its operations, including the development of Google's {{5}} frontier models and products which are known as Gemini. Longtime Google engineer Jeff Dean is also leaving the company after nearly three decades to \"try something new, and we're excited to support him in that,\" Google CEO Sundar Pichai said in a blog post announcing the news. Hassabis {{6}} DeepMind in 2010, and four years later, Google bought the research lab for $650 million, according to reports at the time. His co-founder, Mustafa Suleyman, is currently the chief of Microsoft's AI segment. Google is {{7}} for customers alongside other major AI developers including Microsoft, OpenAI, Anthropic and Meta, as well as DeepSeek and Moonshot in China.",
+          "cn": "作为重组的一部分，DeepMind的首席技术官兼首席AI架构师科拉伊·卡武克丘奥卢将成为该部门的高级副总裁，并负责其运营，包括开发谷歌旗舰前沿模型和产品（即Gemini）。谷歌长期工程师杰夫·迪恩在近三十年后也将离开公司，以“尝试新事物，我们很高兴支持他这样做，”谷歌CEO桑达尔·皮查伊在宣布此消息的博客文章中表示。哈萨比斯于2010年共同创立了DeepMind，四年后，谷歌以6.5亿美元收购了该研究实验室，据当时报道。他的联合创始人穆斯塔法·苏莱曼目前是微软AI部门的主管。谷歌正在与其他主要AI开发者竞争客户，包括微软、OpenAI、Anthropic和Meta，以及中国的DeepSeek和Moonshot。"
         },
         {
-          "en": "The industry is also chasing a {{7}} {{6}} known as advanced general intelligence (AGI), which is a point when AI software matches the {{8}} of human thinking. \"I've been working towards AGI my whole life and now, like many of you, I feel it is close at {{10}},\" Hassabis wrote in Wednesday's blog post. \"With this {{9}}, I've decided that now is the right time for me to hand over my day-to-day operational responsibilities at (Google DeepMind), so that I have the time and space to focus on the big picture and help {{11}} what is to come,\" Hassabis continued. Observers have been waiting for Google to announce a more powerful version of its AI model, called Gemini 3.5 Pro, which was supposed to launch in June but appears to be {{12}}. Its shares closed 4% down Wednesday afternoon.",
-          "cn": "该行业还在追求一个理论里程碑，即高级通用智能（AGI），这是AI软件达到人类思维能力水平的时刻。“我一生都在致力于AGI，现在，像你们中的许多人一样，我觉得它近在咫尺，”哈萨比斯在周三的博客文章中写道。“在这种背景下，我决定现在是时候将我在（谷歌DeepMind）的日常运营职责交出去，以便我有时间和空间专注于大局，并帮助影响未来，”哈萨比斯继续说道。观察者一直在等待谷歌宣布其AI模型的更强大版本，称为Gemini 3.5 Pro，该模型原定于6月推出，但似乎被推迟了。其股价周三下午收盘下跌4%。"
+          "en": "The industry is also chasing a {{8}} {{9}} known as advanced general intelligence (AGI), which is a point when AI software matches the {{10}} of human thinking. \"I've been working towards AGI my whole life and now, like many of you, I feel it is close at {{12}},\" Hassabis wrote in Wednesday's blog post. \"With this {{11}}, I've decided that now is the right time for me to hand over my day-to-day operational responsibilities at (Google DeepMind), so that I have the time and space to focus on the big picture and help {{13}} what is to come,\" Hassabis continued. Observers have been waiting for Google to announce a more powerful version of its AI model, called Gemini 3.5 Pro, which was supposed to launch in June but appears to be {{14}}. Its shares closed 4% down Wednesday afternoon.",
+          "cn": "该行业还在追逐一个理论里程碑，即高级通用智能（AGI），这是AI软件达到人类思维能力的一个点。“我一生都在致力于AGI，现在，像你们许多人一样，我觉得它近在咫尺，”哈萨比斯在周三的博客文章中写道。“在这种背景下，我决定现在是时候将我在（谷歌DeepMind）的日常运营职责交接出去，以便我有时间和空间专注于大局，并帮助影响未来，”哈萨比斯继续说道。观察者一直在等待谷歌宣布其AI模型的更强大版本，称为Gemini 3.5 Pro，该模型原定于6月推出，但似乎被推迟。其股价周三下午收盘下跌4%。"
         },
         {
-          "en": "The leadership changes come amid a wider {{13}} drain at Google. In June, a top AI and engineering {{14}}, Noam Shazeer, left for OpenAI, while senior researcher John Jumper, who shared the 2024 Nobel Prize in chemistry with Hassabis, {{15}} to Anthropic.",
-          "cn": "领导层变动发生在谷歌更广泛的人才流失背景下。6月，顶级AI和工程高管诺姆·沙泽尔离职去了OpenAI，而高级研究员约翰·詹珀（与哈萨比斯共同获得2024年诺贝尔化学奖）跳槽到了Anthropic。"
+          "en": "The leadership changes come amid a wider brain {{15}} at Google. In June, a top AI and engineering {{16}}, Noam Shazeer, left for OpenAI, while senior researcher John Jumper, who shared the 2024 Nobel Prize in chemistry with Hassabis, {{17}} to Anthropic.",
+          "cn": "领导层变动发生在谷歌更广泛的人才流失背景下。6月，顶级AI和工程高管诺姆·沙泽尔离职前往OpenAI，而高级研究员约翰·詹珀（与哈萨比斯共同获得2024年诺贝尔化学奖）跳槽到Anthropic。"
         }
       ],
       "blanks": [
         {
           "id": 0,
+          "answer": "step",
+          "hint": "v. 辞职",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
           "answer": "reshuffling",
           "hint": "n. 重组",
           "difficulty": "medium"
         },
         {
-          "id": 1,
+          "id": 2,
           "answer": "accelerating",
           "hint": "v. 加速",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "spun",
-          "hint": "v. 分拆（spin off的过去式）",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "oversee",
-          "hint": "v. 监督",
-          "difficulty": "easy"
+          "answer": "spun",
+          "hint": "v. 分拆",
+          "difficulty": "hard"
         },
         {
           "id": 4,
+          "answer": "oversee",
+          "hint": "v. 监督",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
           "answer": "flagship",
           "hint": "adj. 旗舰的",
           "difficulty": "medium"
         },
         {
-          "id": 5,
+          "id": 6,
+          "answer": "co-founded",
+          "hint": "v. 共同创立",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
           "answer": "competing",
           "hint": "v. 竞争",
           "difficulty": "easy"
         },
         {
-          "id": 6,
-          "answer": "milestone",
-          "hint": "n. 里程碑",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
+          "id": 8,
           "answer": "theoretical",
           "hint": "adj. 理论的",
           "difficulty": "medium"
         },
         {
-          "id": 8,
-          "answer": "capabilities",
-          "hint": "n. 能力",
-          "difficulty": "easy"
+          "id": 9,
+          "answer": "milestone",
+          "hint": "n. 里程碑",
+          "difficulty": "medium"
         },
         {
-          "id": 9,
+          "id": 10,
+          "answer": "capabilities",
+          "hint": "n. 能力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
           "answer": "backdrop",
           "hint": "n. 背景",
           "difficulty": "hard"
         },
         {
-          "id": 10,
+          "id": 12,
           "answer": "hand",
           "hint": "v. 移交",
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
-          "id": 11,
+          "id": 13,
           "answer": "influence",
           "hint": "v. 影响",
           "difficulty": "easy"
         },
         {
-          "id": 12,
+          "id": 14,
           "answer": "delayed",
           "hint": "adj. 延迟的",
           "difficulty": "easy"
         },
         {
-          "id": 13,
-          "answer": "brain",
-          "hint": "n. 人才（brain drain）",
+          "id": 15,
+          "answer": "drain",
+          "hint": "n. 流失",
           "difficulty": "hard"
         },
         {
-          "id": 14,
+          "id": 16,
           "answer": "executive",
           "hint": "n. 高管",
           "difficulty": "medium"
         },
         {
-          "id": 15,
+          "id": 17,
           "answer": "jumped",
           "hint": "v. 跳槽",
           "difficulty": "medium"
         }
       ],
       "fullText": "Google's head of AI, Demis Hassabis, will step down from his current role to become Alphabet's chief scientist amid a reshuffling at DeepMind that will also include a key engineer's departure.\nHassabis will take on two new titles, Alphabet announced on Wednesday: chair of DeepMind and chief scientist of Alphabet.\nThe change \"will allow me to focus on long-term strategy, and accelerating scientific breakthroughs, including leaning into my work at Isomorphic to help cure disease,\" Hassabis wrote in a social media post.\nIsomorphic Labs is an AI-powered drug discovery lab that spun out from DeepMind in 2021. In 2024, Hassabis won a Nobel Prize in chemistry.\nAs part of the shake up, DeepMind's chief technology officer and chief AI architect Koray Kavukcuoglu will become the division's senior vice president and oversee its operations, including the development of Google's flagship frontier models and products which are known as Gemini.\nLongtime Google engineer Jeff Dean is also leaving the company after nearly three decades to \"try something new, and we're excited to support him in that,\" Google CEO Sundar Pichai said in a blog post announcing the news.\nHassabis co-founded DeepMind in 2010, and four years later, Google bought the research lab for $650 million, according to reports at the time. His co-founder, Mustafa Suleyman, is currently the chief of Microsoft's AI segment.\nGoogle is competing for customers alongside other major AI developers including Microsoft, OpenAI, Anthropic and Meta, as well as DeepSeek and Moonshot in China.\nThe industry is also chasing a theoretical milestone known as advanced general intelligence (AGI), which is a point when AI software matches the capabilities of human thinking.\n\"I've been working towards AGI my whole life and now, like many of you, I feel it is close at hand,\" Hassabis wrote in Wednesday's blog post.\n\"With this backdrop, I've decided that now is the right time for me to hand over my day-to-day operational responsibilities at (Google DeepMind), so that I have the time and space to focus on the big picture and help influence what is to come,\" Hassabis continued.\nObservers have been waiting for Google to announce a more powerful version of its AI model, called Gemini 3.5 Pro, which was supposed to launch in June but appears to be delayed.\nIts shares closed 4% down Wednesday afternoon.\nThe leadership changes come amid a wider brain drain at Google.\nIn June, a top AI and engineering executive, Noam Shazeer, left for OpenAI, while senior researcher John Jumper, who shared the 2024 Nobel Prize in chemistry with Hassabis, jumped to Anthropic.",
-      "fullTextCn": "谷歌AI负责人德米斯·哈萨比斯将卸任当前职务，成为Alphabet的首席科学家，这是DeepMind内部重组的一部分，重组还包括一位关键工程师的离职。Alphabet于周三宣布，哈萨比斯将担任两个新职务：DeepMind主席和Alphabet首席科学家。哈萨比斯在社交媒体帖子中写道，这一变动“将使我能够专注于长期战略，并加速科学突破，包括深入我在Isomorphic的工作以帮助治愈疾病。”Isomorphic Labs是一家AI驱动的药物发现实验室，于2021年从DeepMind分拆出来。2024年，哈萨比斯获得了诺贝尔化学奖。\n\n作为重组的一部分，DeepMind的首席技术官兼首席AI架构师科拉伊·卡武克丘奥卢将担任该部门的高级副总裁，并负责其运营，包括开发谷歌旗舰前沿模型和产品（即Gemini）。长期在谷歌工作的工程师杰夫·迪恩在近三十年后也将离开公司，去“尝试新事物，我们很高兴支持他这样做，”谷歌CEO桑达尔·皮查伊在宣布这一消息的博客文章中表示。哈萨比斯于2010年共同创立了DeepMind，四年后，据当时报道，谷歌以6.5亿美元收购了该研究实验室。他的联合创始人穆斯塔法·苏莱曼目前是微软AI部门的主管。谷歌正在与其他主要AI开发商（包括微软、OpenAI、Anthropic和Meta，以及中国的DeepSeek和Moonshot）争夺客户。\n\n该行业还在追求一个理论里程碑，即高级通用智能（AGI），这是AI软件达到人类思维能力水平的时刻。“我一生都在致力于AGI，现在，像你们中的许多人一样，我觉得它近在咫尺，”哈萨比斯在周三的博客文章中写道。“在这种背景下，我决定现在是时候将我在（谷歌DeepMind）的日常运营职责交出去，以便我有时间和空间专注于大局，并帮助影响未来，”哈萨比斯继续说道。观察者一直在等待谷歌宣布其AI模型的更强大版本，称为Gemini 3.5 Pro，该模型原定于6月推出，但似乎被推迟了。其股价周三下午收盘下跌4%。\n\n领导层变动发生在谷歌更广泛的人才流失背景下。6月，顶级AI和工程高管诺姆·沙泽尔离职去了OpenAI，而高级研究员约翰·詹珀（与哈萨比斯共同获得2024年诺贝尔化学奖）跳槽到了Anthropic。"
-    },
-    {
-      "id": 4,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-06/China-releases-updated-geological-map-of-the-entire-moon-1PnWbmU3FRu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "China releases updated geological map of the entire moon",
-      "titleCn": "中国发布全月球更新地质图",
-      "summary": "China releases updated geological map of the entire moon",
-      "summaryCn": "中国科学家完成全月球1:500万比例尺地质图，整合嫦娥任务数据，改进月球地质时间尺度、识别新岩石类型并制定定制制图标准，为未来月球探索提供科学支持。",
-      "wordCount": 363,
-      "paragraphs": [
-        {
-          "en": "Chinese scientists have completed a new 1:5,000,000-scale geological map of the entire moon, {{0}} the latest findings from China's Chang'e lunar exploration program to provide {{1}} scientific support for future lunar exploration and research. According to the Institute of Geology under the Chinese Academy of Geological Sciences, which led the project, the main map measures {{2}} 2.8 meters in length and 1.2 meters in height. It also includes detailed geological maps of the moon's north and south polar regions. The updated map {{3}} more than 13,000 impact craters and 81 impact basins, while {{4}} 14 types of geological structures and 17 rock types. Based on the latest lunar exploration results, including data from the Chang'e missions, the new map features three major improvements while also {{5}} both scientific {{6}} and visual {{7}}.",
-          "cn": "中国科学家完成了全月球新的1:500万比例尺地质图，整合了中国嫦娥月球探测计划的最新发现，为未来的月球探索和研究提供了改进的科学支持。据牵头该项目的中国地质科学院地质研究所介绍，主图长约2.8米，高约1.2米。它还包括月球北极和南极地区的详细地质图。更新后的地图识别了超过13,000个撞击坑和81个撞击盆地，同时分类了14种地质结构和17种岩石类型。基于最新的月球探测结果，包括嫦娥任务的数据，新地图具有三大改进，同时增强了科学准确性和视觉清晰度。"
-        },
-        {
-          "en": "The first improvement is a {{8}} of the moon's geological timescale. Drawing on the latest research, scientists {{9}} the ages marking the beginning of major geological periods. The start of the Aitkenian period was {{10}} to 4.33 billion years ago, the Nectarian period to 4.17 billion years ago and the Imbrian period to 3.92 billion years ago. The map also provides the first finer global {{11}} of the moon's late-stage stratigraphy. The second is an updated {{12}} of lunar materials.",
-          "cn": "第一项改进是对月球地质时间尺度的细化。借鉴最新研究，科学家修订了主要地质时期开始的年龄。艾托肯纪的开始调整为43.3亿年前，酒海纪为41.7亿年前，雨海纪为39.2亿年前。该地图还首次提供了月球晚期地层学的更精细全球细分。第二项是月球物质清单的更新。"
-        },
-        {
-          "en": "Using higher-resolution maps of key mineral {{13}} and revised rock classification standards, researchers identified a previously {{14}} rock type, gabbro-norite, in the South Pole-Aitken Basin based on the latest discoveries from the Chang'e-4 and Chang'e-6 missions. The finding provides a direct view of materials {{15}} from the moon's deep interior. The third {{16}} is a {{17}} mapping standard developed specifically for the 1:5,000,000 scale. Researchers established {{18}} minimum mapping units for different geological features, ensuring the map remains easy to interpret while {{19}} scientifically {{20}} details. Yang Zhiming, director of the Institute of Geology at the Chinese Academy of Geological Sciences, said the updated geological map will provide important scientific support for the {{21}} of China's future lunar research station, the {{22}} of lunar landing sites and future deep-space exploration missions.",
-          "cn": "利用关键矿物分布的更高分辨率地图和修订的岩石分类标准，研究人员根据嫦娥四号和嫦娥六号任务的最新发现，在南极-艾托肯盆地识别出一种以前未识别的岩石类型——辉长苏长岩。这一发现提供了来自月球深部物质的直接视图。第三项创新是为1:500万比例尺专门开发的定制制图标准。研究人员为不同的地质特征建立了差异化的最小制图单元，确保地图易于解读，同时保留科学上重要的细节。中国地质科学院地质研究所所长杨志明表示，更新后的地质图将为中国未来月球研究站的建设、月球着陆点的选择以及未来的深空探测任务提供重要的科学支持。"
-        },
-        {
-          "en": "He added that the new map {{23}} China's latest contribution to humanity's {{25}} of the {{24}} of the solar system.",
-          "cn": "他补充说，新地图代表了中国对人类理解太阳系演化的最新贡献。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "incorporating",
-          "hint": "v. 包含，整合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "improved",
-          "hint": "adj. 改进的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "approximately",
-          "hint": "adv. 大约",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "identifies",
-          "hint": "v. 识别",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "classifying",
-          "hint": "v. 分类",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "enhancing",
-          "hint": "v. 增强",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "accuracy",
-          "hint": "n. 准确性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "clarity",
-          "hint": "n. 清晰度",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "refinement",
-          "hint": "n. 细化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "revised",
-          "hint": "v. 修订",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "adjusted",
-          "hint": "v. 调整",
-          "difficulty": "easy"
-        },
-        {
-          "id": 11,
-          "answer": "subdivision",
-          "hint": "n. 细分",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "inventory",
-          "hint": "n. 清单",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "distributions",
-          "hint": "n. 分布",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "unrecognized",
-          "hint": "adj. 未被识别的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "originating",
-          "hint": "v. 起源",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "innovation",
-          "hint": "n. 创新",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "customized",
-          "hint": "adj. 定制的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "differentiated",
-          "hint": "v. 区分",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "preserving",
-          "hint": "v. 保留",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "significant",
-          "hint": "adj. 重要的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 21,
-          "answer": "construction",
-          "hint": "n. 建设",
-          "difficulty": "easy"
-        },
-        {
-          "id": 22,
-          "answer": "selection",
-          "hint": "n. 选择",
-          "difficulty": "easy"
-        },
-        {
-          "id": 23,
-          "answer": "represents",
-          "hint": "v. 代表",
-          "difficulty": "easy"
-        },
-        {
-          "id": 24,
-          "answer": "evolution",
-          "hint": "n. 演化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "understanding",
-          "hint": "n. 理解",
-          "difficulty": "easy"
-        }
-      ],
-      "fullText": "Chinese scientists have completed a new 1:5,000,000-scale geological map of the entire moon, incorporating the latest findings from China's Chang'e lunar exploration program to provide improved scientific support for future lunar exploration and research.\nAccording to the Institute of Geology under the Chinese Academy of Geological Sciences, which led the project, the main map measures approximately 2.8 meters in length and 1.2 meters in height. It also includes detailed geological maps of the moon's north and south polar regions.\nThe updated map identifies more than 13,000 impact craters and 81 impact basins, while classifying 14 types of geological structures and 17 rock types.\nBased on the latest lunar exploration results, including data from the Chang'e missions, the new map features three major improvements while also enhancing both scientific accuracy and visual clarity.\nThe first improvement is a refinement of the moon's geological timescale. Drawing on the latest research, scientists revised the ages marking the beginning of major geological periods. The start of the Aitkenian period was adjusted to 4.33 billion years ago, the Nectarian period to 4.17 billion years ago and the Imbrian period to 3.92 billion years ago. The map also provides the first finer global subdivision of the moon's late-stage stratigraphy.\nThe second is an updated inventory of lunar materials. Using higher-resolution maps of key mineral distributions and revised rock classification standards, researchers identified a previously unrecognized rock type, gabbro-norite, in the South Pole-Aitken Basin based on the latest discoveries from the Chang'e-4 and Chang'e-6 missions. The finding provides a direct view of materials originating from the moon's deep interior.\nThe third innovation is a customized mapping standard developed specifically for the 1:5,000,000 scale. Researchers established differentiated minimum mapping units for different geological features, ensuring the map remains easy to interpret while preserving scientifically significant details.\nYang Zhiming, director of the Institute of Geology at the Chinese Academy of Geological Sciences, said the updated geological map will provide important scientific support for the construction of China's future lunar research station, the selection of lunar landing sites and future deep-space exploration missions.\nHe added that the new map represents China's latest contribution to humanity's understanding of the evolution of the solar system.",
-      "fullTextCn": "中国科学家完成了全月球新的1:500万比例尺地质图，整合了中国嫦娥月球探测计划的最新发现，为未来的月球探索和研究提供了改进的科学支持。据牵头该项目的中国地质科学院地质研究所介绍，主图长约2.8米，高约1.2米。它还包括月球北极和南极地区的详细地质图。更新后的地图识别了超过13,000个撞击坑和81个撞击盆地，同时分类了14种地质结构和17种岩石类型。基于最新的月球探测结果，包括嫦娥任务的数据，新地图具有三大改进，同时增强了科学准确性和视觉清晰度。\n\n第一项改进是对月球地质时间尺度的细化。借鉴最新研究，科学家修订了主要地质时期开始的年龄。艾托肯纪的开始调整为43.3亿年前，酒海纪为41.7亿年前，雨海纪为39.2亿年前。该地图还首次提供了月球晚期地层学的更精细全球细分。第二项是月球物质清单的更新。\n\n利用关键矿物分布的更高分辨率地图和修订的岩石分类标准，研究人员根据嫦娥四号和嫦娥六号任务的最新发现，在南极-艾托肯盆地识别出一种以前未识别的岩石类型——辉长苏长岩。这一发现提供了来自月球深部物质的直接视图。第三项创新是为1:500万比例尺专门开发的定制制图标准。研究人员为不同的地质特征建立了差异化的最小制图单元，确保地图易于解读，同时保留科学上重要的细节。中国地质科学院地质研究所所长杨志明表示，更新后的地质图将为中国未来月球研究站的建设、月球着陆点的选择以及未来的深空探测任务提供重要的科学支持。\n\n他补充说，新地图代表了中国对人类理解太阳系演化的最新贡献。"
-    },
-    {
-      "id": 5,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-26/UN-official-hails-China-s-land-restoration-efforts-1PVoW7N51eg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "UN official hails China's land restoration efforts",
-      "titleCn": "联合国官员盛赞中国土地恢复努力",
-      "summary": "UN official hails China's land restoration efforts",
-      "summaryCn": "联合国官员在荒漠化公约会议上高度赞扬中国在土地退化中和、荒漠化防治及土壤健康方面的成就，并强调传统知识与现代技术结合的重要性。",
-      "wordCount": 359,
-      "paragraphs": [
-        {
-          "en": "China's work in bringing land back to life received high praise at the 17th UN Convention to Combat Desertification (UNCCD). \"I'm very {{2}} by what China has achieved in terms of land {{3}} neutrality, in terms of {{4}} desertification, and in terms of soil health,\" said Andrea Meza Murillo, UNCCD deputy executive secretary, at a side event on Monday. Solar panels and plants in the Kubuqi Desert, Ordos, Inner Mongolia Autonomous Region, north China, August 7, 2025. She praised the bold {{5}}, long-term planning and long-term {{6}} driving China's fight against the desert. A key lesson, she added, is that {{7}} knowledge {{8}} with modern technology works – reflected in China's Great Green Wall, officially known as the Three-North Shelterbelt Forest Program.",
-          "cn": "在第十七届联合国防治荒漠化公约（UNCCD）会议上，中国在恢复土地生机方面的工作获得了高度赞扬。“中国在土地退化中和、防治荒漠化以及土壤健康方面取得的成就给我留下了深刻印象，”UNCCD副执行秘书安德烈亚·梅萨·穆里略在周一的一场边会上表示。照片显示，2025年8月7日，中国北方内蒙古自治区鄂尔多斯库布其沙漠中的太阳能电池板和植物。她赞扬了中国在防治荒漠化斗争中展现出的大胆领导力、长期规划和长远眼光。她补充说，一个关键的经验是，传统知识与现代技术相结合是有效的——这体现在中国的“绿色长城”，即官方所称的“三北防护林工程”中。"
-        },
-        {
-          "en": "\"I think a lot of the values are rooted in China's thousands-of-years-old {{9}},\" she said. \"They know that {{1}} is a play of long-term vision. I think that we all need to understand these, get inspired by these and try to learn.\"\nShe also made special mention of Yin Yuzhen, a {{10}} {{11}} activist who has spent four decades planting trees across northern China's Maowusu Sandy Land. Her connection with international supporters and what she has achieved are \"amazing,\" Meza Murillo said. Meza Murillo also recalled field observations from the Kubuqi Desert a few years ago.",
-          "cn": "“我认为很多价值观根植于中国数千年的文明之中，”她说。“他们知道恢复是一个需要长远眼光的行动。我认为我们都需要理解这些，从中获得启发，并努力去学习。”她还特别提到了殷玉珍，一位先驱性的基层活动家，她花了四十年时间在中国北方的毛乌素沙地植树。梅萨·穆里略说，她与国际支持者的联系以及她所取得的成就“令人惊叹”。梅萨·穆里略还回忆了几年前在库布其沙漠的实地观察。"
-        },
-        {
-          "en": "\"I was {{12}} by the combination of energy {{13}} and combating desertification\" in the area where \"China is also generating food,\" she said. As nations pursue {{14}}, she said, development must stay within planetary boundaries. Healthy land, soil and water underpin human survival, and nature can regenerate if given the chance. Many practical solutions to shared ecological challenges will emerge from the Global South, she said, adding that she strongly believes in South-South cooperation. At the same event, China called for cooperation on desertification control across platforms covering China-Arab, China-Mongolia and China-Central Asia, and for aligning efforts with the needs of Belt and Road partners.",
-          "cn": "“我对该地区能源转型与防治荒漠化的结合感到惊讶，”她说，“中国还在那里生产粮食。”她说，随着各国追求繁荣，发展必须保持在行星边界之内。健康的土地、土壤和水是人类生存的基础，如果给予机会，自然可以再生。她说，许多应对共同生态挑战的实用解决方案将来自全球南方，她坚信南南合作。在同一活动中，中国呼吁在防治荒漠化方面开展合作，涵盖中国-阿拉伯、中国-蒙古和中国-中亚平台，并使努力与“一带一路”合作伙伴的需求保持一致。"
-        },
-        {
-          "en": "\"We hope that a lot of these different centers can continue operating, becoming bigger, connecting countries, friends, connecting communities, and showing that we can achieve prosperity while protecting our land, soil, food and water,\" she said.",
-          "cn": "“我们希望这些不同的中心能够继续运作，变得更大，连接国家、朋友和社区，并展示我们能够在保护土地、土壤、食物和水的同时实现繁荣，”她说。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "restoration",
-          "hint": "n. 恢复",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "impressed",
-          "hint": "adj. 印象深刻的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "degradation",
-          "hint": "n. 退化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "combating",
-          "hint": "v. 防治",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "leadership",
-          "hint": "n. 领导力",
-          "difficulty": "easy"
-        },
-        {
-          "id": 5,
-          "answer": "vision",
-          "hint": "n. 愿景",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "traditional",
-          "hint": "adj. 传统的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 7,
-          "answer": "combined",
-          "hint": "v. 结合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "civilization",
-          "hint": "n. 文明",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "pioneering",
-          "hint": "adj. 先驱性的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "grassroots",
-          "hint": "adj. 基层的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "amazed",
-          "hint": "adj. 惊讶的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 12,
-          "answer": "transition",
-          "hint": "n. 转型",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "prosperity",
-          "hint": "n. 繁荣",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "China's work in bringing land back to life received high praise at the 17th UN Convention to Combat Desertification (UNCCD).\n\"I'm very impressed by what China has achieved in terms of land degradation neutrality, in terms of combating desertification, and in terms of soil health,\" said Andrea Meza Murillo, UNCCD deputy executive secretary, at a side event on Monday.\nSolar panels and plants in the Kubuqi Desert, Ordos, Inner Mongolia Autonomous Region, north China, August 7, 2025. \nShe praised the bold leadership, long-term planning and long-term vision driving China's fight against the desert. A key lesson, she added, is that traditional knowledge combined with modern technology works – reflected in China's Great Green Wall, officially known as the Three-North Shelterbelt Forest Program.\n\"I think a lot of the values are rooted in China's thousands-of-years-old civilization,\" she said. \"They know that restoration is a play of long-term vision. I think that we all need to understand these, get inspired by these and try to learn.\"\nShe also made special mention of Yin Yuzhen, a pioneering grassroots activist who has spent four decades planting trees across northern China's Maowusu Sandy Land.\nHer connection with international supporters and what she has achieved are \"amazing,\" Meza Murillo said.\nMeza Murillo also recalled field observations from the Kubuqi Desert a few years ago.\n\"I was amazed by the combination of energy transition and combating desertification\" in the area where \"China is also generating food,\" she said.\nAs nations pursue prosperity, she said, development must stay within planetary boundaries. Healthy land, soil and water underpin human survival, and nature can regenerate if given the chance.\nMany practical solutions to shared ecological challenges will emerge from the Global South, she said, adding that she strongly believes in South-South cooperation.\nAt the same event, China called for cooperation on desertification control across platforms covering China-Arab, China-Mongolia and China-Central Asia, and for aligning efforts with the needs of Belt and Road partners.\n\"We hope that a lot of these different centers can continue operating, becoming bigger, connecting countries, friends, connecting communities, and showing that we can achieve prosperity while protecting our land, soil, food and water,\" she said.",
-      "fullTextCn": "在第十七届联合国防治荒漠化公约（UNCCD）会议上，中国在恢复土地生机方面的工作获得了高度赞扬。“中国在土地退化中和、防治荒漠化以及土壤健康方面取得的成就给我留下了深刻印象，”UNCCD副执行秘书安德烈亚·梅萨·穆里略在周一的一场边会上表示。照片显示，2025年8月7日，中国北方内蒙古自治区鄂尔多斯库布其沙漠中的太阳能电池板和植物。她赞扬了中国在防治荒漠化斗争中展现出的大胆领导力、长期规划和长远眼光。她补充说，一个关键的经验是，传统知识与现代技术相结合是有效的——这体现在中国的“绿色长城”，即官方所称的“三北防护林工程”中。\n\n“我认为很多价值观根植于中国数千年的文明之中，”她说。“他们知道恢复是一个需要长远眼光的行动。我认为我们都需要理解这些，从中获得启发，并努力去学习。”她还特别提到了殷玉珍，一位先驱性的基层活动家，她花了四十年时间在中国北方的毛乌素沙地植树。梅萨·穆里略说，她与国际支持者的联系以及她所取得的成就“令人惊叹”。梅萨·穆里略还回忆了几年前在库布其沙漠的实地观察。\n\n“我对该地区能源转型与防治荒漠化的结合感到惊讶，”她说，“中国还在那里生产粮食。”她说，随着各国追求繁荣，发展必须保持在行星边界之内。健康的土地、土壤和水是人类生存的基础，如果给予机会，自然可以再生。她说，许多应对共同生态挑战的实用解决方案将来自全球南方，她坚信南南合作。在同一活动中，中国呼吁在防治荒漠化方面开展合作，涵盖中国-阿拉伯、中国-蒙古和中国-中亚平台，并使努力与“一带一路”合作伙伴的需求保持一致。\n\n“我们希望这些不同的中心能够继续运作，变得更大，连接国家、朋友和社区，并展示我们能够在保护土地、土壤、食物和水的同时实现繁荣，”她说。"
+      "fullTextCn": "谷歌AI负责人德米斯·哈萨比斯将卸任当前职务，成为Alphabet的首席科学家，这是DeepMind重组的一部分，重组还包括一位关键工程师的离职。Alphabet于周三宣布，哈萨比斯将担任两个新职务：DeepMind主席和Alphabet首席科学家。哈萨比斯在社交媒体帖子中写道，这一变动“将使我能够专注于长期战略，并加速科学突破，包括深入我在Isomorphic的工作以帮助治愈疾病。”Isomorphic Labs是一家由DeepMind于2021年分拆出来的人工智能驱动药物发现实验室。2024年，哈萨比斯获得了诺贝尔化学奖。\n\n作为重组的一部分，DeepMind的首席技术官兼首席AI架构师科拉伊·卡武克丘奥卢将成为该部门的高级副总裁，并负责其运营，包括开发谷歌旗舰前沿模型和产品（即Gemini）。谷歌长期工程师杰夫·迪恩在近三十年后也将离开公司，以“尝试新事物，我们很高兴支持他这样做，”谷歌CEO桑达尔·皮查伊在宣布此消息的博客文章中表示。哈萨比斯于2010年共同创立了DeepMind，四年后，谷歌以6.5亿美元收购了该研究实验室，据当时报道。他的联合创始人穆斯塔法·苏莱曼目前是微软AI部门的主管。谷歌正在与其他主要AI开发者竞争客户，包括微软、OpenAI、Anthropic和Meta，以及中国的DeepSeek和Moonshot。\n\n该行业还在追逐一个理论里程碑，即高级通用智能（AGI），这是AI软件达到人类思维能力的一个点。“我一生都在致力于AGI，现在，像你们许多人一样，我觉得它近在咫尺，”哈萨比斯在周三的博客文章中写道。“在这种背景下，我决定现在是时候将我在（谷歌DeepMind）的日常运营职责交接出去，以便我有时间和空间专注于大局，并帮助影响未来，”哈萨比斯继续说道。观察者一直在等待谷歌宣布其AI模型的更强大版本，称为Gemini 3.5 Pro，该模型原定于6月推出，但似乎被推迟。其股价周三下午收盘下跌4%。\n\n领导层变动发生在谷歌更广泛的人才流失背景下。6月，顶级AI和工程高管诺姆·沙泽尔离职前往OpenAI，而高级研究员约翰·詹珀（与哈萨比斯共同获得2024年诺贝尔化学奖）跳槽到Anthropic。"
     }
   ]
 }
