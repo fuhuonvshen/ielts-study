@@ -1,86 +1,615 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "articles": [
     {
       "id": 1,
-      "category": "society",
+      "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-02/How-difficult-is-it-to-predict-glacial-disasters--1Q6ulPfweB2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "Melting plateau: How difficult is it to predict glacial disasters?",
-      "titleCn": "融化中的高原：预测冰川灾害有多难？",
-      "summary": "Melting plateau: How difficult is it to predict glacial disasters?",
-      "summaryCn": "专家指出，全球变暖导致冰川灾害频发且更严重，尽管监测技术有所进步，但准确预测冰川崩塌的时间和建立全面预警系统仍面临巨大挑战。",
-      "wordCount": 1463,
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-24/How-innovation-is-reshaping-China-s-manufacturing-edge-1PRXqhaIqA0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "How innovation is reshaping China's manufacturing edge",
+      "titleCn": "创新如何重塑中国制造业优势",
+      "summary": "China's manufacturing competitiveness is increasingly being shaped by technological innovation and industrial upgrading. China now hosts 109 of the world's 238 lighthouse factories, or 45.8% of the global total, ranking first in the world, according to the World Economic Forum's latest Lighthouse Network figures.",
+      "summaryCn": "中国制造业竞争力正通过技术创新、数字化转型和绿色工厂建设得到重塑，并引领全球灯塔工厂发展。",
+      "wordCount": 619,
       "paragraphs": [
         {
-          "en": "Glaciers are often seen as \"victims\" of global warming. But glacier {{0}}, permafrost {{1}} and the {{2}} of glacial lakes, combined with extreme weather and complex geological conditions, may also increase the risks of ice {{3}}, glacial lake {{13}}, {{4}} and {{5}} flows. As {{6}} and early warning technologies for extreme weather and climate events continue to advance, can glaciers in remote, high-altitude areas be monitored and warnings issued before disasters occur? CGTN spoke with two experts about glacial disasters, climate change, monitoring and early warning: Zhang Dongqi, a research scientist at the Chinese Academy of Meteorological Sciences' Institute of Global Change and Polar Meteorology, and Ma Lijuan, a research scientist at the National Climate Center's Division of Climate Change Monitoring and Projection. Laigu Glacier in Baxoi County, Qamdo City, Xizang Autonomous Region, China.",
-          "cn": "冰川常被视为全球变暖的“受害者”。但冰川退缩、冻土退化和冰川湖扩张，加上极端天气和复杂的地质条件，也可能增加冰崩、冰川湖溃决、滑坡和泥石流的风险。随着极端天气和气候事件监测与预警技术的不断进步，偏远高海拔地区的冰川能否在灾害发生前得到监测并发出预警？CGTN就冰川灾害、气候变化、监测与预警采访了两位专家：中国气象科学研究院全球变化与极地气象研究所研究员张东启，以及国家气候中心气候变化监测与预估室研究员马丽娟。中国西藏自治区昌都市八宿县的来古冰川。"
+          "en": "China's manufacturing {{0}} is increasingly being shaped by {{1}} innovation and industrial {{2}}. China now {{3}} 109 of the world's 238 lighthouse factories, or 45.8% of the global total, ranking first in the world, according to the World Economic Forum's latest Lighthouse Network figures. A recently released Ministry of Commerce document {{4}} that the rapid growth of China's modern industries is being {{5}} by innovation. The numbers tell the story: by June 2026, 89.6% of industrial enterprises above designated size had undergone {{6}} {{7}} and the country had cumulatively {{8}} over 8,000 national-level green factories and more than 600 green industrial parks. Together, they point to an {{9}} truth – the competitiveness of China's manufacturing capacity {{10}} from technological innovation and industrial upgrading.",
+          "cn": "中国的制造业竞争力日益受到技术创新和产业升级的影响。根据世界经济论坛最新的灯塔工厂网络数据，中国目前拥有全球238家灯塔工厂中的109家，占全球总数的45.8%，位居世界第一。商务部最近发布的一份文件强调，中国现代产业的快速增长是由创新驱动的。数字说明了这一点：到2026年6月，89.6%的规模以上工业企业已完成数字化转型，全国累计培育了8000多家国家级绿色工厂和600多个绿色工业园区。这些共同指向一个不可否认的事实——中国制造能力的竞争力源于技术创新和产业升级。"
         },
         {
-          "en": "CGTN: We often think of glaciers as \"victims\" of climate change. Are we now also seeing glaciers becoming sources of hazard? Are ice-rock avalanches and other glacier-related hazards becoming more frequent or more severe? Zhang Dongqi: Glacial disasters have always existed. They occurred less frequently during periods of stable climate and consequently attracted less attention.",
-          "cn": "CGTN：我们常认为冰川是气候变化的“受害者”。现在我们是否也看到冰川成为灾害源？冰岩崩和其他与冰川相关的灾害是否变得更加频繁或严重？张东启：冰川灾害一直存在。在气候稳定时期，它们发生频率较低，因此受到的关注也较少。"
+          "en": "Among China's 109 lighthouses, the industries {{11}} automobiles, home appliances, electronics, new energy and more. At the Haier Shenyang Refrigerator Interconnected Factory, the world's first end-to-end lighthouse in the refrigerator industry, a single production line supports flexible mass {{13}} of over 500 models, with a production \"Takt Time\" shortened to one unit every 10 seconds. Through an {{14}} digital platform, the factory has achieved end-to-end {{15}} across the entire value chain, raising direct labor {{16}} by 28%. A lighthouse factory in Changsha, central China's Hunan Province, May 16, 2026. \"The lighthouse factory represents a {{17}} stone toward an even more advanced model – a 'factory brain',\" said Yuan Haidong, general manager of the intelligent manufacturing department at Hisense Visual Technology.",
+          "cn": "在中国的109家灯塔工厂中，行业涵盖汽车、家电、电子、新能源等。在海尔沈阳冰箱互联工厂——全球冰箱行业首家端到端灯塔工厂——一条生产线支持超过500种型号的柔性大规模定制，生产“节拍时间”缩短至每10秒一台。通过可扩展的数字平台，该工厂实现了整个价值链的端到端连接，直接劳动生产率提高了28%。2026年5月16日，位于中国中部湖南省长沙市的一家灯塔工厂。海信视像科技智能制造部门总经理袁海东表示：“灯塔工厂是迈向更先进模式——‘工厂大脑’——的垫脚石。”"
         },
         {
-          "en": "Against the backdrop of global warming, glacial disasters are becoming more frequent, causing greater losses and drawing increasing attention. Analysis of the past several decades, or even the past 10 to 20 years, shows that ice-rock avalanches and other glacier-related disasters have indeed been increasing in {{7}}, and their {{8}} is also increasing. Both factors are at play. Global warming has led to a higher {{9}} of cryospheric disasters in recent decades. The expansion of human activity, advances in satellite remote sensing and other monitoring methods have also enabled us to {{10}} more disasters in remote areas, including some that did not cause casualties in the past but left clear traces.",
-          "cn": "在全球变暖的背景下，冰川灾害变得更加频繁，造成的损失更大，并引起越来越多的关注。对过去几十年甚至过去10到20年的分析表明，冰岩崩和其他与冰川相关的灾害确实在频率上有所增加，其严重程度也在上升。这两个因素都在起作用。全球变暖导致近几十年来冰冻圈灾害的发生率上升。人类活动的扩展、卫星遥感等监测方法的进步也使我们能够探测到偏远地区的更多灾害，包括一些过去未造成人员伤亡但留下清晰痕迹的灾害。"
+          "en": "At the Hisense Qingdao factory – the only lighthouse in the global television manufacturing industry – the {{18}} of AI, big data, {{19}} and large-scale {{20}} reality throughout R&D and manufacturing {{21}} Research and Development cycles by 34%, lowered material costs by 18%, and cut new employee training time by 60%. Beyond individual factories, China's digital transformation is {{22}} the {{23}} of manufacturing itself. In the Yangtze River Delta, Shanghai focuses on chips and high-end wafer research and development, Jiangsu leads in semiconductor {{24}} and testing, Anhui pursues storage and display driver wafer {{25}} via companies such as ChangXin Memory Technologies (CXMT) and Nexchip Semiconductor Corporation, and Zhejiang {{26}} in design and semiconductor supporting materials. This {{27}} division of labor has created a {{28}} innovation system where leading enterprises or research institutes propose technical needs and recruit regional universities, research institutes and supply chain partners to jointly tackle core technologies – breaking the traditional {{29}} path of \"basic research-results-{{30}}\" in favor of direct, point-to-point industrial innovation. A low-carbon wastewater treatment plant in Zhengzhou, central China's Henan Province, June 16, 2026.",
+          "cn": "在海信青岛工厂——全球电视制造业唯一的灯塔工厂——在研发和制造过程中采用人工智能、大数据、仿真和大规模虚拟现实技术，使研发周期缩短了34%，材料成本降低了18%，新员工培训时间减少了60%。除了个别工厂，中国的数字化转型正在重塑制造业的地理格局。在长三角地区，上海专注于芯片和高端晶圆研发，江苏在半导体封装和测试方面领先，安徽通过长鑫存储（CXMT）和晶合集成等公司从事存储和显示驱动晶圆代工，浙江则专注于设计和半导体配套材料。这种差异化分工形成了一个功能性创新体系，其中领先企业或研究机构提出技术需求，并招募区域高校、研究机构和供应链合作伙伴共同攻克核心技术——打破了“基础研究—成果—产业化”的传统线性路径，转而采用直接、点对点的产业创新。2026年6月16日，位于中国中部河南省郑州市的一座低碳污水处理厂。"
         },
         {
-          "en": "Ma Lijuan: Against the backdrop of a warming climate, glaciers in High Mountain Asia, with the Qinghai-Xizang Plateau as the core region, have been {{11}} and losing mass, while permafrost has been degrading and snow cover has been decreasing, with these trends intensifying since the 1990s. This has led to glacier {{12}} and increases in the number and area of glacial lakes. Cryosphere-related disasters, such as ice and snow avalanches, glacial lake outbursts, glacier-related debris flows and snowmelt floods have occurred more frequently. Studies show that glacier collapse events have increased since at least 1950, while the number of {{14}} ponds and the occurrence of permafrost retrogressive {{15}} slump have increased since the 1970s. Since 2015, {{16}} cryosphere events have been continuously observed across large areas of High Mountain Asia.",
-          "cn": "马丽娟：在气候变暖的背景下，以青藏高原为核心区的亚洲高山区冰川正在退缩和质量损失，而冻土正在退化，积雪正在减少，这些趋势自20世纪90年代以来不断加剧。这导致了冰川不稳定以及冰川湖数量和面积的增加。冰雪崩、冰川湖溃决、与冰川相关的泥石流和融雪洪水等冰冻圈灾害发生更加频繁。研究表明，至少自1950年以来，冰川崩塌事件有所增加，而自20世纪70年代以来，热喀斯特湖的数量和冻土退缩性热融滑塌的发生也有所增加。自2015年以来，亚洲高山区大片地区持续观测到突发的冰冻圈事件。"
+          "en": "Green capacity – lowering the cost of the global energy transition\nChina stays focused on {{31}} through innovation, contributing to significantly greener and smarter traditional industries. China supports enterprises in adopting digital and smart technologies to drive industrial {{32}} and upgrading and promoting higher-end, smarter and greener industries. According to the Ministry of Commerce document, in recent years, industries in China have grown increasingly {{33}}. Over 8,000 national green factories and more than 600 green industrial parks have been built, and the 246 national green data centers are 50% powered by green electricity. Of all industrial enterprises above the designated size, 89.6% have launched digital transformation and 57.7% have installed digital equipment.",
+          "cn": "绿色产能——降低全球能源转型成本。中国持续聚焦创新赋能，推动传统产业显著更绿色、更智能。中国支持企业采用数字和智能技术，推动产业优化升级，促进产业向更高端、更智能、更绿色方向发展。根据商务部文件，近年来，中国产业日益环保。已建成8000多家国家级绿色工厂和600多个绿色工业园区，246个国家级绿色数据中心中50%使用绿色电力。在规模以上工业企业中，89.6%已启动数字化转型，57.7%已安装数字设备。"
         },
         {
-          "en": "China has completed three glacier {{17}}: the first covering 1978-2002, the second covering 2008-2015 and the third covering 2023-2026. A comprehensive assessment shows that the area of glaciers on the Qinghai-Xizang Plateau {{18}} from 51,000 square kilometers to 44,000 square kilometers and then to 39,000 square kilometers over the past 60 years. According to the second comprehensive scientific {{19}} to the Qinghai-Xizang Plateau, both the number and area of glacial lakes on the plateau increased by more than 20% from 1990 to 2020. The retreating Monaco Glacier in Svalbard, Norway, July 29, 2026. CGTN: How does a warming climate change the physical conditions that keep glaciers and mountain slopes stable?",
-          "cn": "中国已完成三次冰川编目：第一次覆盖1978-2002年，第二次覆盖2008-2015年，第三次覆盖2023-2026年。综合评估显示，过去60年间，青藏高原冰川面积从5.1万平方公里减少到4.4万平方公里，再到3.9万平方公里。根据第二次青藏高原综合科学考察，1990年至2020年，高原上冰川湖的数量和面积均增加了20%以上。挪威斯瓦尔巴群岛正在退缩的莫纳科冰川，2026年7月29日。CGTN：气候变暖如何改变维持冰川和山坡稳定的物理条件？"
-        },
-        {
-          "en": "Can we say that climate change increases the risk of glacier collapse, even if we cannot say it directly caused this particular event? Ma: Temperature, {{20}} and {{21}} are the three necessary conditions for glacier formation and development. Since the 1960s, the Qinghai-Xizang Plateau and surrounding areas have warmed significantly, with the rate of warming clearly higher than the global average over the same period. High-temperature events have become more frequent, while annual precipitation has also {{22}} upward, with greater extremes. Climate warming has accelerated glacier mass loss, increased glacier movement and reduced the stability of their internal structures, providing dynamic conditions for glacier {{23}} and ice avalanches.",
-          "cn": "我们能否说气候变化增加了冰川崩塌的风险，即使我们不能说它直接导致了这一特定事件？马：温度、降水和地形是冰川形成和发展的三个必要条件。自20世纪60年代以来，青藏高原及周边地区显著变暖，变暖速率明显高于同期全球平均水平。高温事件变得更加频繁，而年降水量也呈波动上升趋势，极端情况增多。气候变暖加速了冰川质量损失，增加了冰川运动，降低了其内部结构的稳定性，为冰川跃动和冰崩提供了动力条件。"
-        },
-        {
-          "en": "Meanwhile, glacier meltwater has increased the number of glacial lakes and rapidly expanded their area. Combined with extreme temperatures, extreme precipitation and loose geological conditions, this has contributed to the increased frequency of glacial lake outburst disasters. Based on information from investigations so far, the event (on August 26) was triggered first by an ice-rock avalanche. The site is located in an area of maritime glaciers on the southern slope of the central Himalayas. Under the long-term influence of climate warming, glacier ice temperatures have risen and glacier flow has accelerated, while the internal structure of the glaciers has gradually become less stable and mountain slopes have become increasingly fractured.",
-          "cn": "与此同时，冰川融水增加了冰川湖的数量并迅速扩大了其面积。结合极端温度、极端降水和松散的地质条件，这导致了冰川湖溃决灾害频率的增加。根据迄今调查的信息，（8月26日的）事件首先由冰岩崩触发。该地点位于喜马拉雅山中段南坡的海洋性冰川区域。在气候变暖的长期影响下，冰川冰温升高，冰川流动加速，而冰川内部结构逐渐变得不稳定，山坡也日益破碎。"
-        },
-        {
-          "en": "Climate change is an important long-term risk factor for glacier melting. The direct cause of this event was geological environmental changes resulting from glacier instability. Aletsch Glacier descends near Bettmeralp, Switzerland, September 14, 2025. CGTN: Can we predict when a glacier or ice mass is likely to collapse? What signs should scientists be looking for before a major collapse?",
-          "cn": "气候变化是冰川融化的重要长期风险因素。该事件的直接原因是冰川不稳定导致的地质环境变化。阿莱奇冰川在瑞士贝特默阿尔卑附近下降，2025年9月14日。CGTN：我们能否预测冰川或冰体何时可能崩塌？在大崩塌之前，科学家应该寻找哪些迹象？"
-        },
-        {
-          "en": "Zhang: If enough monitoring equipment is deployed and the data can be analyzed in a timely manner, we can basically predict whether a glacier has the potential to collapse, but predicting the exact timing of a collapse is very difficult. At present, glaciers are mostly located in remote, high-altitude areas where monitoring is inadequate, making it very difficult to predict ice avalanches. Signals from multiple aspects, including geological and meteorological factors, need to be monitored, such as whether an earthquake has occurred in the area where the glacier is located, whether there has been sustained or sharp warming recently, and whether there has been prolonged or extreme precipitation. In addition, where monitoring conditions permit, signals such as stress and deformation within the glacier itself require particular attention. Ma: Mountain glaciers are distributed in cold, high-altitude regions, where systematic field observations are difficult to conduct on a regular basis, resulting in relatively limit first-hand observational data.",
-          "cn": "张：如果部署足够的监测设备并能及时分析数据，我们基本上可以预测冰川是否具有崩塌潜力，但预测崩塌的确切时间非常困难。目前，冰川大多位于偏远的高海拔地区，监测不足，使得预测冰崩非常困难。需要监测来自地质和气象等多方面的信号，例如冰川所在地区是否发生地震，近期是否有持续或急剧的升温，以及是否有长期或极端降水。此外，在监测条件允许的情况下，冰川内部的应力和变形等信号需要特别关注。马：山地冰川分布在寒冷的高海拔地区，在这些地区定期进行系统的野外观测很困难，导致第一手观测数据相对有限。"
-        },
-        {
-          "en": "The continued development of advanced observation technologies is creating new opportunities for routine monitoring. However, establishing a comprehensive early warning system remains a long-term challenge. It is necessary, in light of the complex terrain of the Qinghai-Xizang Plateau and the characteristics of typical glacial disasters, to build a coordinated Earth system observation network, with a focus on strengthening dynamic monitoring of high-risk glaciers and glacial lake areas. At the same time, research into the disaster-causing mechanisms of typical glacial disasters should be deepened, a comprehensive early warning indicator system established, and future trends assessed and anticipated, so as to scientifically prevent and proactively respond to the impacts and disaster risks posed by changes in high-altitude glaciers. Recent disaster events show that glacial disasters often result from a complex chain of interacting factors, including earthquakes loosening mountain slopes, glacier retreat, permafrost thaw, fractured geological conditions, prolonged heat or precipitation, and extreme weather and climate conditions.",
-          "cn": "先进观测技术的持续发展为常规监测创造了新的机会。然而，建立全面的预警系统仍然是一个长期挑战。有必要根据青藏高原复杂的地形和典型冰川灾害的特征，构建协调的地球系统观测网络，重点加强对高风险冰川和冰川湖区域的动态监测。同时，应深化对典型冰川灾害成灾机理的研究，建立全面的预警指标体系，并评估和预测未来趋势，以科学预防和主动应对高海拔冰川变化带来的影响和灾害风险。近期的灾害事件表明，冰川灾害往往是由复杂的相互作用因素链造成的，包括地震松动山坡、冰川退缩、冻土融化、破碎的地质条件、长期高温或降水，以及极端天气和气候条件。"
-        },
-        {
-          "en": "These factors can become coupled over long periods, triggering large-scale cascading disasters. All of these factors should be incorporated into an effective monitoring and early warning system for routine monitoring. A view of Muztagh Ata Glacier, known as the \"Father of Glaciers,\" in the Xinjiang Uygur Autonomous Region, China, October 22, 2025. CGTN: What can satellites and other monitoring technologies tell us about an unstable glacier or mountain slope? How much warning time could an effective monitoring system realistically give communities downstream?",
-          "cn": "这些因素可能在长期内耦合，触发大规模级联灾害。所有这些因素都应纳入有效的监测和预警系统，用于常规监测。中国新疆维吾尔自治区慕士塔格冰川一景，被称为“冰川之父”，2025年10月22日。CGTN：卫星和其他监测技术能告诉我们关于不稳定冰川或山坡的什么信息？一个有效的监测系统实际上能给下游社区多少预警时间？"
-        },
-        {
-          "en": "Zhang: Before a disaster occurs, technologies such as remote sensing and field monitoring can provide information on whether a glacier is potentially unstable and the degree of danger it poses. After a disaster occurs, these technologies can provide information on its location, extent and impact. Different types of disasters allow for very different warning times. When a monitoring system is fully functional and operating effectively, the warning time for a glacial lake outburst may be measured in days. But ice avalanches and snow avalanches are extremely difficult to warn for, and the warning time may be much shorter, potentially on the order of minutes.",
-          "cn": "张：在灾害发生前，遥感和实地监测等技术可以提供冰川是否潜在不稳定及其危险程度的信息。灾害发生后，这些技术可以提供其位置、范围和影响的信息。不同类型的灾害允许非常不同的预警时间。当监测系统完全正常运行并有效运作时，冰川湖溃决的预警时间可能以天计。但冰崩和雪崩极难预警，预警时间可能短得多，可能只有几分钟的量级。"
-        },
-        {
-          "en": "Yalong Glacier in Basu County, Qamdo City, China's Xizang Autonomous Region. CGTN: What are the biggest gaps in our current early-warning systems? Zhang: Inadequate monitoring – including limited monitoring coverage that cannot cover all high-risk glaciers, and limited monitoring methods that rely mainly on satellite remote sensing data while lacking field monitoring data – is currently the biggest weakness in the early warning system for glacial disasters. It is recommended that a multi-layered \"air-space-ground\" three-dimensional observation and sensing system be developed to improve the rapid detection and precise identification of disasters and provide solid support for early warning. Ma: The United Nations' Early Warnings for All initiative identifies four key elements of an early-warning system: disaster risk knowledge, monitoring and forecasting, warning dissemination and communication, and preparedness and response.",
-          "cn": "中国西藏自治区昌都市八宿县的雅龙冰川。CGTN：我们当前预警系统最大的差距是什么？张：监测不足——包括监测覆盖范围有限，无法覆盖所有高风险冰川，以及监测方法有限，主要依赖卫星遥感数据而缺乏实地监测数据——是目前冰川灾害预警系统最大的弱点。建议发展多层次的“空天地”三维观测和感知系统，以提高灾害的快速探测和精确识别，为预警提供坚实支持。马：联合国的“全民预警”倡议确定了预警系统的四个关键要素：灾害风险知识、监测和预报、预警传播和沟通，以及备灾和响应。"
-        },
-        {
-          "en": "For glacier-related hazards, all four areas remain underdeveloped, and there is an urgent need to establish an integrated monitoring and forecasting system.",
-          "cn": "对于与冰川相关的灾害，这四个领域都仍不发达，迫切需要建立综合的监测和预报系统。"
+          "en": "China has 109 lighthouse factories, nearly half of the global total. According to the International Renewable Energy Agency (IRENA), since 2010, the cost of photovoltaic power generation has fallen by 89%, concentrated solar power by 72%, onshore wind by 71% and offshore wind by 63%. IRENA explicitly notes that the intense competition in the global {{34}} energy industry – driven in large part by the massive expansion of Chinese manufacturing – has {{35}} profit {{36}} to extremely low levels, with prices approaching production costs.",
+          "cn": "中国拥有109家灯塔工厂，接近全球总数的一半。根据国际可再生能源署（IRENA）的数据，自2010年以来，光伏发电成本下降了89%，聚光太阳能发电成本下降了72%，陆上风电成本下降了71%，海上风电成本下降了63%。IRENA明确指出，全球可再生能源行业的激烈竞争——在很大程度上由中国制造业的大规模扩张推动——已将利润率压缩至极低水平，价格接近生产成本。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "retreat",
-          "hint": "n./v. 退缩",
+          "answer": "competitiveness",
+          "hint": "n. 竞争力",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "degradation",
-          "hint": "n. 退化",
+          "answer": "technological",
+          "hint": "adj. 技术的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "upgrading",
+          "hint": "n. 升级",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "hosts",
+          "hint": "v. 拥有，主办",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "emphasizes",
+          "hint": "v. 强调",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "driven",
+          "hint": "v. 驱动",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "digital",
+          "hint": "adj. 数字的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "transformation",
+          "hint": "n. 转型",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "cultivated",
+          "hint": "v. 培育",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "undeniable",
+          "hint": "adj. 不可否认的",
           "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "stems",
+          "hint": "v. 源于",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "span",
+          "hint": "v. 涵盖",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "customization",
+          "hint": "n. 定制",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "expandable",
+          "hint": "adj. 可扩展的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "connectivity",
+          "hint": "n. 连接性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "productivity",
+          "hint": "n. 生产率",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "stepping",
+          "hint": "n. 垫脚石（step的动名词）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "adoption",
+          "hint": "n. 采用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "simulation",
+          "hint": "n. 仿真",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "virtual",
+          "hint": "adj. 虚拟的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "reduced",
+          "hint": "v. 减少",
+          "difficulty": "easy"
+        },
+        {
+          "id": 21,
+          "answer": "reshaping",
+          "hint": "v. 重塑",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "geography",
+          "hint": "n. 地理格局",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "packaging",
+          "hint": "n. 封装",
+          "difficulty": "hard"
+        },
+        {
+          "id": 24,
+          "answer": "foundry",
+          "hint": "n. 代工",
+          "difficulty": "hard"
+        },
+        {
+          "id": 25,
+          "answer": "specializes",
+          "hint": "v. 专攻",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "differentiated",
+          "hint": "adj. 差异化的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 27,
+          "answer": "functional",
+          "hint": "adj. 功能性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 28,
+          "answer": "linear",
+          "hint": "adj. 线性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 29,
+          "answer": "industrialization",
+          "hint": "n. 产业化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 30,
+          "answer": "empowerment",
+          "hint": "n. 赋能",
+          "difficulty": "hard"
+        },
+        {
+          "id": 31,
+          "answer": "optimization",
+          "hint": "n. 优化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 32,
+          "answer": "eco-friendly",
+          "hint": "adj. 环保的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 33,
+          "answer": "renewable",
+          "hint": "adj. 可再生的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 34,
+          "answer": "compressed",
+          "hint": "v. 压缩",
+          "difficulty": "medium"
+        },
+        {
+          "id": 35,
+          "answer": "margins",
+          "hint": "n. 利润",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "China's manufacturing competitiveness is increasingly being shaped by technological innovation and industrial upgrading. China now hosts 109 of the world's 238 lighthouse factories, or 45.8% of the global total, ranking first in the world, according to the World Economic Forum's latest Lighthouse Network figures.\nA recently released Ministry of Commerce document emphasizes that the rapid growth of China's modern industries is being driven by innovation. The numbers tell the story: by June 2026, 89.6% of industrial enterprises above designated size had undergone digital transformation and the country had cumulatively cultivated over 8,000 national-level green factories and more than 600 green industrial parks. Together, they point to an undeniable truth – the competitiveness of China's manufacturing capacity stems from technological innovation and industrial upgrading.\nAmong China's 109 lighthouses, the industries span automobiles, home appliances, electronics, new energy and more. At the Haier Shenyang Refrigerator Interconnected Factory, the world's first end-to-end lighthouse in the refrigerator industry, a single production line supports flexible mass customization of over 500 models, with a production \"Takt Time\" shortened to one unit every 10 seconds. Through an expandable digital platform, the factory has achieved end-to-end connectivity across the entire value chain, raising direct labor productivity by 28%.\nA lighthouse factory in Changsha, central China's Hunan Province, May 16, 2026. \n\"The lighthouse factory represents a stepping stone toward an even more advanced model – a 'factory brain',\" said Yuan Haidong, general manager of the intelligent manufacturing department at Hisense Visual Technology. At the Hisense Qingdao factory – the only lighthouse in the global television manufacturing industry – the adoption of AI, big data, simulation and large-scale virtual reality throughout R&D and manufacturing reduced Research and Development cycles by 34%, lowered material costs by 18%, and cut new employee training time by 60%.\nBeyond individual factories, China's digital transformation is reshaping the geography of manufacturing itself.\nIn the Yangtze River Delta, Shanghai focuses on chips and high-end wafer research and development, Jiangsu leads in semiconductor packaging and testing, Anhui pursues storage and display driver wafer foundry via companies such as ChangXin Memory Technologies (CXMT) and Nexchip Semiconductor Corporation, and Zhejiang specializes in design and semiconductor supporting materials.\nThis differentiated division of labor has created a functional innovation system where leading enterprises or research institutes propose technical needs and recruit regional universities, research institutes and supply chain partners to jointly tackle core technologies – breaking the traditional linear path of \"basic research-results-industrialization\" in favor of direct, point-to-point industrial innovation.\nA low-carbon wastewater treatment plant in Zhengzhou, central China's Henan Province, June 16, 2026. \nGreen capacity – lowering the cost of the global energy transition\nChina stays focused on empowerment through innovation, contributing to significantly greener and smarter traditional industries. China supports enterprises in adopting digital and smart technologies to drive industrial optimization and upgrading and promoting higher-end, smarter and greener industries.\nAccording to the Ministry of Commerce document, in recent years, industries in China have grown increasingly eco-friendly. Over 8,000 national green factories and more than 600 green industrial parks have been built, and the 246 national green data centers are 50% powered by green electricity. Of all industrial enterprises above the designated size, 89.6% have launched digital transformation and 57.7% have installed digital equipment. China has 109 lighthouse factories, nearly half of the global total.\nAccording to the International Renewable Energy Agency (IRENA), since 2010, the cost of photovoltaic power generation has fallen by 89%, concentrated solar power by 72%, onshore wind by 71% and offshore wind by 63%. IRENA explicitly notes that the intense competition in the global renewable energy industry – driven in large part by the massive expansion of Chinese manufacturing – has compressed profit margins to extremely low levels, with prices approaching production costs.",
+      "fullTextCn": "中国的制造业竞争力日益受到技术创新和产业升级的影响。根据世界经济论坛最新的灯塔工厂网络数据，中国目前拥有全球238家灯塔工厂中的109家，占全球总数的45.8%，位居世界第一。商务部最近发布的一份文件强调，中国现代产业的快速增长是由创新驱动的。数字说明了这一点：到2026年6月，89.6%的规模以上工业企业已完成数字化转型，全国累计培育了8000多家国家级绿色工厂和600多个绿色工业园区。这些共同指向一个不可否认的事实——中国制造能力的竞争力源于技术创新和产业升级。\n\n在中国的109家灯塔工厂中，行业涵盖汽车、家电、电子、新能源等。在海尔沈阳冰箱互联工厂——全球冰箱行业首家端到端灯塔工厂——一条生产线支持超过500种型号的柔性大规模定制，生产“节拍时间”缩短至每10秒一台。通过可扩展的数字平台，该工厂实现了整个价值链的端到端连接，直接劳动生产率提高了28%。2026年5月16日，位于中国中部湖南省长沙市的一家灯塔工厂。海信视像科技智能制造部门总经理袁海东表示：“灯塔工厂是迈向更先进模式——‘工厂大脑’——的垫脚石。”\n\n在海信青岛工厂——全球电视制造业唯一的灯塔工厂——在研发和制造过程中采用人工智能、大数据、仿真和大规模虚拟现实技术，使研发周期缩短了34%，材料成本降低了18%，新员工培训时间减少了60%。除了个别工厂，中国的数字化转型正在重塑制造业的地理格局。在长三角地区，上海专注于芯片和高端晶圆研发，江苏在半导体封装和测试方面领先，安徽通过长鑫存储（CXMT）和晶合集成等公司从事存储和显示驱动晶圆代工，浙江则专注于设计和半导体配套材料。这种差异化分工形成了一个功能性创新体系，其中领先企业或研究机构提出技术需求，并招募区域高校、研究机构和供应链合作伙伴共同攻克核心技术——打破了“基础研究—成果—产业化”的传统线性路径，转而采用直接、点对点的产业创新。2026年6月16日，位于中国中部河南省郑州市的一座低碳污水处理厂。\n\n绿色产能——降低全球能源转型成本。中国持续聚焦创新赋能，推动传统产业显著更绿色、更智能。中国支持企业采用数字和智能技术，推动产业优化升级，促进产业向更高端、更智能、更绿色方向发展。根据商务部文件，近年来，中国产业日益环保。已建成8000多家国家级绿色工厂和600多个绿色工业园区，246个国家级绿色数据中心中50%使用绿色电力。在规模以上工业企业中，89.6%已启动数字化转型，57.7%已安装数字设备。\n\n中国拥有109家灯塔工厂，接近全球总数的一半。根据国际可再生能源署（IRENA）的数据，自2010年以来，光伏发电成本下降了89%，聚光太阳能发电成本下降了72%，陆上风电成本下降了71%，海上风电成本下降了63%。IRENA明确指出，全球可再生能源行业的激烈竞争——在很大程度上由中国制造业的大规模扩张推动——已将利润率压缩至极低水平，价格接近生产成本。"
+    },
+    {
+      "id": 2,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-08-23/Telemedicine-transforms-access-to-healthcare-in-C-te-d-Ivoire-1PQIgf9CJEs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Telemedicine transforms access to healthcare in Côte d'Ivoire",
+      "titleCn": "远程医疗改变科特迪瓦医疗服务的获取方式",
+      "summary": "In Côte d'Ivoire, seeing a doctor no longer necessarily means spending hours travelling to a hospital or waiting for a consultation.",
+      "summaryCn": "科特迪瓦的Umed电子健康中心通过远程医疗和上门服务，为阿比让居民提供了便捷的医疗选择，减轻了医院压力。",
+      "wordCount": 647,
+      "paragraphs": [
+        {
+          "en": "In Côte d'Ivoire, seeing a doctor no longer necessarily means spending hours travelling to a hospital or waiting for a {{2}}. Since 2019, the Umed eHealth Center has used telemedicine to connect doctors with patients across Abidjan, offering an {{15}} to conventional consultations in a city where traffic {{1}} and long distances can make accessing healthcare challenging. From behind a computer screen, Dr. Esther Kassi-Aleba begins a consultation with a patient several kilometers away. The patient is unable to travel to a healthcare facility, but through a video call, Kassi-Aleba can listen to her concerns, ask questions and {{3}} her {{4}} remotely.",
+          "cn": "在科特迪瓦，看医生不再意味着花几个小时去医院或等待咨询。自2019年以来，Umed电子健康中心利用远程医疗将医生与阿比让各地的患者连接起来，在交通拥堵和距离遥远可能使就医变得困难的城市中，提供了一种传统咨询的替代方案。在电脑屏幕后面，埃斯特·卡西-阿莱巴医生开始与几公里外的患者进行咨询。患者无法前往医疗机构，但通过视频通话，卡西-阿莱巴可以倾听她的担忧、提问并远程评估她的症状。"
+        },
+        {
+          "en": "A patient being checked in her house in Abidjan, Côte d'Ivoire, August 23, 2026. Africa\nThere are no crowded waiting rooms or lengthy journeys — just an internet connection connecting the patient to medical care. \"We realized that for simple tests, such as a malaria test or minor symptoms, patients can face very long waiting times in hospitals,\" says Kassi-Aleba, a doctor at the Umed eHealth Center. \"We decided to take some of the {{5}} off hospitals by managing these minor conditions while using technology to improve access to healthcare.\"\nFrom the screen to the patient's home\nBut the consultation does not always end online. When a patient requires a physical examination or treatment, the center can {{6}} a medical team to their home.",
+          "cn": "2026年8月23日，科特迪瓦阿比让，一名患者在家中接受检查。非洲。没有拥挤的候诊室或漫长的旅程——只需互联网连接将患者与医疗护理联系起来。“我们意识到，对于简单的检测，如疟疾检测或轻微症状，患者在医院可能面临很长的等待时间，”Umed电子健康中心的医生卡西-阿莱巴说。“我们决定通过管理这些轻微病症来减轻医院的压力，同时利用技术改善医疗服务的获取。”从屏幕到患者家中。但咨询并不总是在线结束。当患者需要体检或治疗时，中心可以派遣医疗团队到他们家中。"
+        },
+        {
+          "en": "Kassi-Aleba says receiving care in familiar {{7}} can also make the {{8}} process more comfortable. \"We recover more quickly at home. With our family, and with a little family love, this enables us to recover better — or let's say, to recover more quickly,\" she says. On one such visit, Nurse Micheline Apete prepares to make a home call. \"We're going to Attoban to see a patient suffering from {{9}} pain.",
+          "cn": "卡西-阿莱巴说，在熟悉的环境中接受护理也能让康复过程更舒适。“我们在家恢复得更快。与家人在一起，加上一点家庭的爱，这使我们能更好地恢复——或者说，更快地恢复，”她说。在一次这样的访问中，护士米舍利娜·阿佩特准备进行家访。“我们要去阿托班看望一位腹痛的患者。"
+        },
+        {
+          "en": "She has a fever, headaches and vomiting. Following the doctor's {{10}}, we're going to treat her,\" Apete says. Minutes later, the medical team arrives at the patient's home and begins treatment based on the doctor's instructions. The patient receives {{11}} paracetamol to help reduce her fever, along with other {{12}} medication. \"We gave her intravenous paracetamol to bring down her fever.",
+          "cn": "她发烧、头痛和呕吐。按照医生的指示，我们将为她治疗，”阿佩特说。几分钟后，医疗团队到达患者家中，并根据医生的指示开始治疗。患者接受静脉注射扑热息痛以帮助退烧，以及其他处方药物。“我们给她静脉注射扑热息痛以降低她的发烧。"
+        },
+        {
+          "en": "The doctor prescribed a treatment plan, including a vitamin complex to give her a boost. She'll feel better in about 10 minutes,\" Apete says. For Seynabou Messou, telemedicine has been part of her healthcare {{13}} for seven years, August 23, 2026. Africa\nCare without leaving home\nFor Seynabou Messou, who has used the service for seven years, telemedicine has become part of her healthcare routine. After years of navigating Abidjan's traffic and hospital queues, she says receiving medical care at home has made a {{14}} difference.",
+          "cn": "医生制定了治疗计划，包括维生素复合物以增强她的体力。她大约10分钟后会感觉好些，”阿佩特说。对于塞纳布·梅苏来说，远程医疗已成为她七年来医疗保健常规的一部分，2026年8月23日。非洲。无需离家即可获得护理。对于使用该服务七年的塞纳布·梅苏来说，远程医疗已成为她医疗保健常规的一部分。在经历了多年阿比让的交通和医院排队后，她说在家接受医疗护理带来了显著的不同。"
+        },
+        {
+          "en": "\"I'm not too keen on hospital beds, so I prefer to be 'hospitalized' at home, in my bedroom or living room. What's changed for me is that there's always a team on hand, whatever the time, and I don't need to travel to access care — even for blood tests and test results,\" Messou says. The Umed eHealth Center says it receives about five requests for remote consultations each day. Remote consultations and home visits are included in its treatment packages, providing an alternative for patients seeking more convenient access to healthcare. A nurse browsing the telemedicine app on her machine in Abidjan, Côte d'Ivoire, August 23, 2026.",
+          "cn": "“我不太喜欢医院的床，所以我宁愿在家‘住院’，在我的卧室或客厅。对我来说，改变的是随时都有一个团队在旁，无论何时，而且我不需要出行就能获得护理——即使是血液检测和检测结果，”梅苏说。Umed电子健康中心表示，每天收到约五个远程咨询请求。远程咨询和家访包含在其治疗套餐中，为寻求更方便医疗服务的患者提供了替代方案。2026年8月23日，科特迪瓦阿比让，一名护士在她的机器上浏览远程医疗应用。"
+        },
+        {
+          "en": "Africa\nTelemedicine has its limits\nTechnology, however, cannot replace every aspect of medical care. The center mainly manages minor conditions remotely. Patients who require surgery, resuscitation or other {{16}} treatment are referred to appropriate medical facilities. For now, the combination of telemedicine and home-based care is offering some residents of Abidjan a simpler way to access medical attention — without having to leave home. As technology continues to {{17}} healthcare delivery, Côte d'Ivoire's experience shows how digital tools can help bring doctors closer to patients while easing some of the pressure on conventional health facilities.",
+          "cn": "非洲。远程医疗有其局限性。然而，技术无法替代医疗护理的每个方面。该中心主要远程管理轻微病症。需要手术、复苏或其他专科治疗的患者被转诊到适当的医疗机构。目前，远程医疗和家庭护理的结合为阿比让的一些居民提供了一种更简单的获得医疗关注的方式——无需离开家。随着技术继续重塑医疗服务的提供，科特迪瓦的经验表明，数字工具如何帮助拉近医生与患者的距离，同时减轻传统医疗设施的一些压力。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "congestion",
+          "hint": "n. 拥堵",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "consultation",
+          "hint": "n. 咨询",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "assess",
+          "hint": "v. 评估",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "symptoms",
+          "hint": "n. 症状",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "pressure",
+          "hint": "n. 压力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "dispatch",
+          "hint": "v. 派遣",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "surroundings",
+          "hint": "n. 环境",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "recovery",
+          "hint": "n. 恢复",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "abdominal",
+          "hint": "adj. 腹部的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "instructions",
+          "hint": "n. 指示",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "intravenous",
+          "hint": "adj. 静脉的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "prescribed",
+          "hint": "v. 开处方",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "routine",
+          "hint": "n. 常规",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "significant",
+          "hint": "adj. 显著的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "alternative",
+          "hint": "n. 替代方案",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "specialized",
+          "hint": "adj. 专门的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "reshape",
+          "hint": "v. 重塑",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "In Côte d'Ivoire, seeing a doctor no longer necessarily means spending hours travelling to a hospital or waiting for a consultation.\nSince 2019, the Umed eHealth Center has used telemedicine to connect doctors with patients across Abidjan, offering an alternative to conventional consultations in a city where traffic congestion and long distances can make accessing healthcare challenging.\nFrom behind a computer screen, Dr. Esther Kassi-Aleba begins a consultation with a patient several kilometers away.\nThe patient is unable to travel to a healthcare facility, but through a video call, Kassi-Aleba can listen to her concerns, ask questions and assess her symptoms remotely.\nA patient being checked in her house in Abidjan, Côte d'Ivoire, August 23, 2026. \n Africa\nThere are no crowded waiting rooms or lengthy journeys — just an internet connection connecting the patient to medical care.\n\"We realized that for simple tests, such as a malaria test or minor symptoms, patients can face very long waiting times in hospitals,\" says Kassi-Aleba, a doctor at the Umed eHealth Center. \"We decided to take some of the pressure off hospitals by managing these minor conditions while using technology to improve access to healthcare.\"\nFrom the screen to the patient's home\nBut the consultation does not always end online.\nWhen a patient requires a physical examination or treatment, the center can dispatch a medical team to their home.\nKassi-Aleba says receiving care in familiar surroundings can also make the recovery process more comfortable.\n\"We recover more quickly at home. With our family, and with a little family love, this enables us to recover better — or let's say, to recover more quickly,\" she says.\nOn one such visit, Nurse Micheline Apete prepares to make a home call.\n\"We're going to Attoban to see a patient suffering from abdominal pain. She has a fever, headaches and vomiting. Following the doctor's instructions, we're going to treat her,\" Apete says.\nMinutes later, the medical team arrives at the patient's home and begins treatment based on the doctor's instructions.\nThe patient receives intravenous paracetamol to help reduce her fever, along with other prescribed medication.\n\"We gave her intravenous paracetamol to bring down her fever. The doctor prescribed a treatment plan, including a vitamin complex to give her a boost. She'll feel better in about 10 minutes,\" Apete says.\nFor Seynabou Messou, telemedicine has been part of her healthcare routine for seven years, August 23, 2026. \n Africa\nCare without leaving home\nFor Seynabou Messou, who has used the service for seven years, telemedicine has become part of her healthcare routine.\nAfter years of navigating Abidjan's traffic and hospital queues, she says receiving medical care at home has made a significant difference.\n\"I'm not too keen on hospital beds, so I prefer to be 'hospitalized' at home, in my bedroom or living room. What's changed for me is that there's always a team on hand, whatever the time, and I don't need to travel to access care — even for blood tests and test results,\" Messou says.\nThe Umed eHealth Center says it receives about five requests for remote consultations each day.\nRemote consultations and home visits are included in its treatment packages, providing an alternative for patients seeking more convenient access to healthcare.\nA nurse browsing the telemedicine app on her machine in Abidjan, Côte d'Ivoire, August 23, 2026. \n Africa\nTelemedicine has its limits\nTechnology, however, cannot replace every aspect of medical care.\nThe center mainly manages minor conditions remotely. Patients who require surgery, resuscitation or other specialized treatment are referred to appropriate medical facilities.\nFor now, the combination of telemedicine and home-based care is offering some residents of Abidjan a simpler way to access medical attention — without having to leave home.\nAs technology continues to reshape healthcare delivery, Côte d'Ivoire's experience shows how digital tools can help bring doctors closer to patients while easing some of the pressure on conventional health facilities.",
+      "fullTextCn": "在科特迪瓦，看医生不再意味着花几个小时去医院或等待咨询。自2019年以来，Umed电子健康中心利用远程医疗将医生与阿比让各地的患者连接起来，在交通拥堵和距离遥远可能使就医变得困难的城市中，提供了一种传统咨询的替代方案。在电脑屏幕后面，埃斯特·卡西-阿莱巴医生开始与几公里外的患者进行咨询。患者无法前往医疗机构，但通过视频通话，卡西-阿莱巴可以倾听她的担忧、提问并远程评估她的症状。\n\n2026年8月23日，科特迪瓦阿比让，一名患者在家中接受检查。非洲。没有拥挤的候诊室或漫长的旅程——只需互联网连接将患者与医疗护理联系起来。“我们意识到，对于简单的检测，如疟疾检测或轻微症状，患者在医院可能面临很长的等待时间，”Umed电子健康中心的医生卡西-阿莱巴说。“我们决定通过管理这些轻微病症来减轻医院的压力，同时利用技术改善医疗服务的获取。”从屏幕到患者家中。但咨询并不总是在线结束。当患者需要体检或治疗时，中心可以派遣医疗团队到他们家中。\n\n卡西-阿莱巴说，在熟悉的环境中接受护理也能让康复过程更舒适。“我们在家恢复得更快。与家人在一起，加上一点家庭的爱，这使我们能更好地恢复——或者说，更快地恢复，”她说。在一次这样的访问中，护士米舍利娜·阿佩特准备进行家访。“我们要去阿托班看望一位腹痛的患者。\n\n她发烧、头痛和呕吐。按照医生的指示，我们将为她治疗，”阿佩特说。几分钟后，医疗团队到达患者家中，并根据医生的指示开始治疗。患者接受静脉注射扑热息痛以帮助退烧，以及其他处方药物。“我们给她静脉注射扑热息痛以降低她的发烧。\n\n医生制定了治疗计划，包括维生素复合物以增强她的体力。她大约10分钟后会感觉好些，”阿佩特说。对于塞纳布·梅苏来说，远程医疗已成为她七年来医疗保健常规的一部分，2026年8月23日。非洲。无需离家即可获得护理。对于使用该服务七年的塞纳布·梅苏来说，远程医疗已成为她医疗保健常规的一部分。在经历了多年阿比让的交通和医院排队后，她说在家接受医疗护理带来了显著的不同。\n\n“我不太喜欢医院的床，所以我宁愿在家‘住院’，在我的卧室或客厅。对我来说，改变的是随时都有一个团队在旁，无论何时，而且我不需要出行就能获得护理——即使是血液检测和检测结果，”梅苏说。Umed电子健康中心表示，每天收到约五个远程咨询请求。远程咨询和家访包含在其治疗套餐中，为寻求更方便医疗服务的患者提供了替代方案。2026年8月23日，科特迪瓦阿比让，一名护士在她的机器上浏览远程医疗应用。\n\n非洲。远程医疗有其局限性。然而，技术无法替代医疗护理的每个方面。该中心主要远程管理轻微病症。需要手术、复苏或其他专科治疗的患者被转诊到适当的医疗机构。目前，远程医疗和家庭护理的结合为阿比让的一些居民提供了一种更简单的获得医疗关注的方式——无需离开家。随着技术继续重塑医疗服务的提供，科特迪瓦的经验表明，数字工具如何帮助拉近医生与患者的距离，同时减轻传统医疗设施的一些压力。"
+    },
+    {
+      "id": 3,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-09-04/detail-ihfiwhfw6704468.shtml",
+      "title": "Pet mooncakes see rising demand ahead of Mid-Autumn Festival",
+      "titleCn": "宠物月饼在中秋节前需求上升",
+      "summary": "With the Mid-Autumn Festival still more than three weeks away, mooncakes made especially for cats and dogs are already on sale in Chengdu, Sichuan Province, with some sellers expecting demand to rise by about 30 percent from last year, the Chengdu Business News reported Thursday.",
+      "summaryCn": "随着中秋节临近，宠物月饼在成都热销，销量预计增长30%，反映了宠物主人将宠物视为家庭成员的趋势。",
+      "wordCount": 653,
+      "paragraphs": [
+        {
+          "en": "(ECNS) -- With the Mid-Autumn Festival still more than three weeks away, mooncakes made especially for cats and dogs are already on sale in Chengdu, Sichuan Province, with some sellers expecting {{0}} to rise by about 30 percent from last year, the Chengdu Commercial Daily reported Thursday. Pet food shops began taking {{1}} in mid-August, weeks earlier than in previous years, as owners look to celebrate the holiday with their pets by buying {{2}} shaped like paws, lions and rabbits. Zhou Xitong, who runs the Beian Sisters Fresh Pet Food store, said she has already sold more than 300 gift boxes and expects to sell more than 600 — around 2,400 mooncakes — before the festival. A box of four sells for 68 yuan (about $9.60). Unlike traditional mooncakes filled with lotus seed paste or salted egg yolk, the pet versions contain {{3}} including chicken, duck, beef liver, rabbit, chicken heart, beef and salmon, along with pumpkin, sweet potato, yam and goat's milk powder.",
+          "cn": "（中国网）——距离中秋节还有三周多，专为猫狗制作的月饼已在四川省成都市上市，据《成都商报》周四报道，一些卖家预计需求将比去年增长约30%。宠物食品店从8月中旬开始接受预订，比往年提前数周，因为主人们希望通过购买爪子、狮子和兔子形状的零食与宠物一起庆祝节日。经营“北安姐妹鲜宠物食品”店的周希彤表示，她已经售出300多盒礼品装，预计在节前将售出600多盒——约2400个月饼。一盒四个售价68元（约9.60美元）。与传统月饼不同，传统月饼馅料为莲蓉或咸蛋黄，而宠物版月饼含有鸡肉、鸭肉、牛肝、兔肉、鸡心、牛肉和三文鱼，以及南瓜、红薯、山药和羊奶粉。"
+        },
+        {
+          "en": "Zhou said her shop began taking pre-orders early to give staff enough time to keep up with demand. \"In previous years, many pet owners only remembered at the last minute that they wanted to buy a mooncake for their cat or dog,\" she said. \"From our experience, pre-orders and last-minute orders each {{4}} for about half of sales. Later on, it's not that there are no customers — it's that we don't have enough hands and simply can't make them fast enough.\"\nKang Xinyue, who handles online sales for GoFine, another fresh pet food maker, said the company opened pre-orders on Sept. 1 this year, compared with just a week before the festival last year.",
+          "cn": "周表示，她的店提前开始接受预订，以便员工有足够时间满足需求。“往年，许多宠物主人直到最后一刻才想起要给猫狗买月饼，”她说。“根据我们的经验，预订和临时订单各占销售额的一半左右。后来，不是没有顾客——而是我们人手不够，根本做不过来。”负责另一家鲜宠物食品制造商GoFine在线销售的康欣悦表示，该公司今年于9月1日开放预订，而去年是在节前一周才开始。"
+        },
+        {
+          "en": "More than 10 orders came in on the morning the announcement was posted, she said. GoFine received nearly 100 orders last year and expects sales to grow by about 30 percent this year, Kang said. Pet {{5}} services are also filling up ahead of the holiday, which this year falls close to the weeklong National Day holiday in early October. An employee surnamed Zhou at Xingyunshu (Lucky Tree) Pet said the shop has already received five or six boarding {{6}} for the Mid-Autumn Festival, with about half of its {{7}} spaces booked. In previous years, he said, spaces are typically fully booked around 10 days before a holiday.",
+          "cn": "她说，公告发布当天上午就收到了10多份订单。康表示，GoFine去年收到近100份订单，预计今年销售额将增长约30%。宠物寄养服务也在节前被预订一空，今年中秋节恰逢10月初的国庆黄金周。星云树宠物店一位姓周的员工表示，该店已收到五六份中秋节寄养预订，约一半的犬舍空间已被预订。他说，往年，通常在节前10天左右，空间就会被订满。"
+        },
+        {
+          "en": "Behind the growing demand for festive treats is a broader {{8}} in how Chinese people view and care for their pets. Cao Juan, manager of a pet store in Chengdu's Jinniu district, said her customers {{9}} from people in their 20s to families in their 30s and 40s, as well as {{10}} residents. Younger owners, in particular, tend to treat their pets like children, she said. \"They treat their pets like children,\" Cao said. \"Whatever children have, they want their pets to have, too.\"\nThe shop also sells fresh pet food and birthday cakes, including custom cakes decorated with a pet's face based on a photograph.",
+          "cn": "节日零食需求增长背后，是中国人看待和照顾宠物方式的更广泛转变。成都市金牛区一家宠物店的经理曹娟表示，她的顾客从20多岁的人到30多岁和40多岁的家庭，以及老年居民都有。她说，尤其是年轻主人，往往把宠物当孩子对待。“他们把宠物当孩子，”曹说。“孩子有什么，他们也希望宠物有。”这家店还出售新鲜宠物食品和生日蛋糕，包括根据照片定制、印有宠物脸的蛋糕。"
+        },
+        {
+          "en": "Cao said an {{11}} {{12}} cake can take several hours to make and may cost more than a cake for people, but customers are still {{13}} to pay for it. Zhou said more pet owners in Chengdu are making fresh food a {{14}} part of their animals' diets. Some order treats or \"{{15}}\" for their pets on weekends and have them delivered the same day. Kang said people in their 60s are also a {{16}} group of customers. Many are {{17}} whose children live elsewhere, with pets providing them with {{18}}, she said.",
+          "cn": "曹说，一个精致的肖像蛋糕可能需要几个小时制作，价格可能比人吃的蛋糕还贵，但顾客仍然愿意为此买单。周表示，成都越来越多的宠物主人将新鲜食品作为宠物日常饮食的一部分。有些人周末为宠物订购零食或“下午茶”，并当天送达。康表示，60多岁的人也是核心客户群。其中许多是退休人员，子女在其他地方，宠物给他们带来陪伴。"
+        },
+        {
+          "en": "\"They also {{19}} the love they have for their children onto their pets,\" Kang said. The mooncakes have also become increasingly popular as gifts. Kang said buyers are increasingly bringing boxes when visiting friends or relatives who own dogs. The company also received {{20}} orders for pet zongzi during this year's Dragon Boat Festival, with employers buying them as {{21}} for staff members who own pets.",
+          "cn": "“他们也把对孩子的爱转移到宠物身上，”康说。月饼作为礼物也越来越受欢迎。康表示，买家越来越多地带礼盒拜访养狗的亲友。该公司在今年端午节期间还收到了企业订单，购买宠物粽子作为员工福利，为养宠物的员工提供。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "demand",
+          "hint": "n. 需求",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "pre-orders",
+          "hint": "n. 预订",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "treats",
+          "hint": "n. 零食",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "ingredients",
+          "hint": "n. 成分",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "account",
+          "hint": "v. 占比例",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "boarding",
+          "hint": "n. 寄养",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "reservations",
+          "hint": "n. 预订",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "kennel",
+          "hint": "n. 犬舍",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "shift",
+          "hint": "n. 转变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "range",
+          "hint": "v. 范围涵盖",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "elderly",
+          "hint": "adj. 年老的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "elaborate",
+          "hint": "adj. 精致的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "portrait",
+          "hint": "n. 肖像",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "willing",
+          "hint": "adj. 愿意的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "regular",
+          "hint": "adj. 定期的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "afternoon tea",
+          "hint": "n. 下午茶",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "core",
+          "hint": "adj. 核心的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "retirees",
+          "hint": "n. 退休人员",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "companionship",
+          "hint": "n. 陪伴",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "transfer",
+          "hint": "v. 转移",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "corporate",
+          "hint": "adj. 企业的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "benefits",
+          "hint": "n. 福利",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "(ECNS) -- With the Mid-Autumn Festival still more than three weeks away, mooncakes made especially for cats and dogs are already on sale in Chengdu, Sichuan Province, with some sellers expecting demand to rise by about 30 percent from last year, the Chengdu Commercial Daily reported Thursday.\nPet food shops began taking pre-orders in mid-August, weeks earlier than in previous years, as owners look to celebrate the holiday with their pets by buying treats shaped like paws, lions and rabbits.\nZhou Xitong, who runs the Beian Sisters Fresh Pet Food store, said she has already sold more than 300 gift boxes and expects to sell more than 600 — around 2,400 mooncakes — before the festival. A box of four sells for 68 yuan (about $9.60).\nUnlike traditional mooncakes filled with lotus seed paste or salted egg yolk, the pet versions contain ingredients including chicken, duck, beef liver, rabbit, chicken heart, beef and salmon, along with pumpkin, sweet potato, yam and goat's milk powder.\nZhou said her shop began taking pre-orders early to give staff enough time to keep up with demand.\n\"In previous years, many pet owners only remembered at the last minute that they wanted to buy a mooncake for their cat or dog,\" she said. \"From our experience, pre-orders and last-minute orders each account for about half of sales. Later on, it's not that there are no customers — it's that we don't have enough hands and simply can't make them fast enough.\"\nKang Xinyue, who handles online sales for GoFine, another fresh pet food maker, said the company opened pre-orders on Sept. 1 this year, compared with just a week before the festival last year. More than 10 orders came in on the morning the announcement was posted, she said.\nGoFine received nearly 100 orders last year and expects sales to grow by about 30 percent this year, Kang said.\nPet boarding services are also filling up ahead of the holiday, which this year falls close to the weeklong National Day holiday in early October.\nAn employee surnamed Zhou at Xingyunshu (Lucky Tree) Pet said the shop has already received five or six boarding reservations for the Mid-Autumn Festival, with about half of its kennel spaces booked. In previous years, he said, spaces are typically fully booked around 10 days before a holiday.\nBehind the growing demand for festive treats is a broader shift in how Chinese people view and care for their pets.\nCao Juan, manager of a pet store in Chengdu's Jinniu district, said her customers range from people in their 20s to families in their 30s and 40s, as well as elderly residents. Younger owners, in particular, tend to treat their pets like children, she said.\n\"They treat their pets like children,\" Cao said. \"Whatever children have, they want their pets to have, too.\"\nThe shop also sells fresh pet food and birthday cakes, including custom cakes decorated with a pet's face based on a photograph. Cao said an elaborate portrait cake can take several hours to make and may cost more than a cake for people, but customers are still willing to pay for it.\nZhou said more pet owners in Chengdu are making fresh food a regular part of their animals' diets. Some order treats or \"afternoon tea\" for their pets on weekends and have them delivered the same day.\nKang said people in their 60s are also a core group of customers. Many are retirees whose children live elsewhere, with pets providing them with companionship, she said.\n\"They also transfer the love they have for their children onto their pets,\" Kang said.\nThe mooncakes have also become increasingly popular as gifts. Kang said buyers are increasingly bringing boxes when visiting friends or relatives who own dogs. The company also received corporate orders for pet zongzi during this year's Dragon Boat Festival, with employers buying them as benefits for staff members who own pets.",
+      "fullTextCn": "（中国网）——距离中秋节还有三周多，专为猫狗制作的月饼已在四川省成都市上市，据《成都商报》周四报道，一些卖家预计需求将比去年增长约30%。宠物食品店从8月中旬开始接受预订，比往年提前数周，因为主人们希望通过购买爪子、狮子和兔子形状的零食与宠物一起庆祝节日。经营“北安姐妹鲜宠物食品”店的周希彤表示，她已经售出300多盒礼品装，预计在节前将售出600多盒——约2400个月饼。一盒四个售价68元（约9.60美元）。与传统月饼不同，传统月饼馅料为莲蓉或咸蛋黄，而宠物版月饼含有鸡肉、鸭肉、牛肝、兔肉、鸡心、牛肉和三文鱼，以及南瓜、红薯、山药和羊奶粉。\n\n周表示，她的店提前开始接受预订，以便员工有足够时间满足需求。“往年，许多宠物主人直到最后一刻才想起要给猫狗买月饼，”她说。“根据我们的经验，预订和临时订单各占销售额的一半左右。后来，不是没有顾客——而是我们人手不够，根本做不过来。”负责另一家鲜宠物食品制造商GoFine在线销售的康欣悦表示，该公司今年于9月1日开放预订，而去年是在节前一周才开始。\n\n她说，公告发布当天上午就收到了10多份订单。康表示，GoFine去年收到近100份订单，预计今年销售额将增长约30%。宠物寄养服务也在节前被预订一空，今年中秋节恰逢10月初的国庆黄金周。星云树宠物店一位姓周的员工表示，该店已收到五六份中秋节寄养预订，约一半的犬舍空间已被预订。他说，往年，通常在节前10天左右，空间就会被订满。\n\n节日零食需求增长背后，是中国人看待和照顾宠物方式的更广泛转变。成都市金牛区一家宠物店的经理曹娟表示，她的顾客从20多岁的人到30多岁和40多岁的家庭，以及老年居民都有。她说，尤其是年轻主人，往往把宠物当孩子对待。“他们把宠物当孩子，”曹说。“孩子有什么，他们也希望宠物有。”这家店还出售新鲜宠物食品和生日蛋糕，包括根据照片定制、印有宠物脸的蛋糕。\n\n曹说，一个精致的肖像蛋糕可能需要几个小时制作，价格可能比人吃的蛋糕还贵，但顾客仍然愿意为此买单。周表示，成都越来越多的宠物主人将新鲜食品作为宠物日常饮食的一部分。有些人周末为宠物订购零食或“下午茶”，并当天送达。康表示，60多岁的人也是核心客户群。其中许多是退休人员，子女在其他地方，宠物给他们带来陪伴。\n\n“他们也把对孩子的爱转移到宠物身上，”康说。月饼作为礼物也越来越受欢迎。康表示，买家越来越多地带礼盒拜访养狗的亲友。该公司在今年端午节期间还收到了企业订单，购买宠物粽子作为员工福利，为养宠物的员工提供。"
+    },
+    {
+      "id": 4,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-03/EU-warns-Israeli-E1-project-undermines-two-state-solution-1Q8fWOrUoNi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "EU warns Israeli E1 project undermines two-state solution",
+      "titleCn": "欧盟警告以色列E1项目破坏两国方案",
+      "summary": "The European Union's foreign policy chief Kaja Kallas warned on Wednesday that Israel's E1 settlement project in the occupied West Bank would further undermine prospects for a two-state solution, as settler violence and Israeli settlement expansion continued to raise concerns over the safety of Palestinians.",
+      "summaryCn": "欧盟外交政策负责人警告以色列在约旦河西岸的E1定居点项目将进一步破坏两国方案的前景，同时定居者暴力事件和联合国对巴勒斯坦平民安全的担忧持续升级。",
+      "wordCount": 506,
+      "paragraphs": [
+        {
+          "en": "An Israeli military bulldozer uproots olive trees on a Palestinian farm area in the village of Arraba, near the West Bank city of Jenin, September 2, 2026. The European Union's foreign policy chief Kaja Kallas warned on Wednesday that Israel's E1 settlement project in the occupied West Bank would further {{0}} {{1}} for a two-state solution, as settler violence and Israeli settlement {{2}} continued to raise concerns over the safety of Palestinians. The UN's humanitarian office also expressed deep concern over the safety and {{3}} of civilians in the occupied Palestinian territory. \"The E1 settlements will further undermine the prospect of the two-state solution by driving a wedge through the West Bank,\" Kallas told a press conference following an informal meeting of EU foreign affairs ministers in Wicklow, Ireland. Israel advanced the {{4}} E1 settlement project in August by issuing a {{5}} for 1,234 housing units. Published online by Israel's Ministry of Construction and Housing, the tender covers part of a broader plan to build 3,401 housing units in the E1 area, east of Jerusalem.",
+          "cn": "2026年9月2日，一辆以色列军用推土机在约旦河西岸杰宁市附近的阿拉巴村巴勒斯坦农田区拔除橄榄树。欧盟外交政策负责人卡娅·卡拉斯周三警告称，以色列在被占领的约旦河西岸的E1定居点项目将进一步破坏两国方案的前景，与此同时，定居者暴力和以色列定居点扩张继续引发对巴勒斯坦人安全的担忧。联合国人道主义办公室也对被占领巴勒斯坦领土上平民的安全和福祉表示深切关注。卡拉斯在爱尔兰威克洛举行的欧盟外交事务部长非正式会议后的新闻发布会上表示：“E1定居点将在约旦河西岸打入一个楔子，进一步破坏两国方案的前景。”以色列于8月推进了有争议的E1定居点项目，发布了1234套住房的招标。该招标由以色列建设和住房部在线发布，涵盖了一项更广泛计划的一部分，即在耶路撒冷以东的E1地区建造3401套住房。"
+        },
+        {
+          "en": "\"Settler violence against Palestinians continues to rise, and too often goes {{6}},\" Kallas said, adding that the EU would continue to support the Gaza peace plan and work with partners toward a two-state solution. Two Palestinians were killed by Israeli gunfire in a village north of Ramallah in the West Bank, according to the Palestinian Ministry of Health on Wednesday. Amin Abu Alia, head of the village council, said Israeli settlers and soldiers entered the village in the evening, attacked two houses and stole sheep. \"When residents tried to {{7}} the settlers while they were stealing the sheep, the {{8}} opened live fire at them,\" he said, adding that two minors later died while being transferred to a hospital. The Palestinian Health Ministry {{9}} the victims as 19-year-old Omar Mohammad Naji al-Na'ssan and 16-year-old Khalil Rassem Khalil Shehadeh. The Israeli military had not commented on the incident as of Wednesday.",
+          "cn": "卡拉斯表示：“针对巴勒斯坦人的定居者暴力持续上升，且常常不受制止。”她补充说，欧盟将继续支持加沙和平计划，并与合作伙伴共同努力实现两国方案。据巴勒斯坦卫生部周三消息，两名巴勒斯坦人在约旦河西岸拉姆安拉以北的一个村庄被以色列枪击身亡。该村村委会负责人阿明·阿布·阿利亚表示，以色列定居者和士兵在晚间进入村庄，袭击了两所房屋并偷走了羊。他说：“当居民试图在定居者偷羊时与他们对抗，狙击手向他们开了实弹。”他补充说，两名未成年人在被送往医院途中死亡。巴勒斯坦卫生部确认遇难者为19岁的奥马尔·穆罕默德·纳吉·纳桑和16岁的哈利勒·拉塞姆·哈利勒·谢哈德。截至周三，以色列军方尚未对事件发表评论。"
+        },
+        {
+          "en": "The UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday that its humanitarian partners were deeply concerned by reports that the entire community of Khirbet at Tabban in the West Bank had been destroyed by Israeli forces. Khirbet at Tabban is one of 13 herding communities in the Masafer Yatta area of Hebron. Together, the communities are home to more than 1,000 people and are located within the 18% of the West Bank that Israeli authorities have designated as \"firing zones\" for military training, according to OCHA. The communities have faced longstanding {{10}} orders against structures deemed unlicensed, while Palestinian residents face significant {{11}} in obtaining the permits required to build legally, OCHA said. The humanitarian office added that a dozen settler {{12}} had been established in the same area over the past two years, while settler violence had added to pressure on Palestinians to leave their homes and land. OCHA said its humanitarian partners were {{13}} to support newly displaced residents while continuing to assist {{14}} communities whose livelihoods across the West Bank are under growing pressure.",
+          "cn": "联合国人道主义事务协调厅（OCHA）周三表示，其人道主义合作伙伴对有关约旦河西岸Khirbet at Tabban整个社区被以色列军队摧毁的报道深感关切。Khirbet at Tabban是希伯伦Masafer Yatta地区13个牧区社区之一。据OCHA称，这些社区共有1000多人居住，位于约旦河西岸被以色列当局指定为军事训练“射击区”的18%区域内。OCHA表示，这些社区长期面临针对未获许可建筑的拆除令，而巴勒斯坦居民在获得合法建筑所需许可方面面临重大限制。人道主义办公室补充说，过去两年内，同一地区建立了十几个定居者前哨，而定居者暴力加剧了巴勒斯坦人离开家园和土地的压力。OCHA表示，其人道主义合作伙伴正在动员起来支持新流离失所的居民，同时继续援助约旦河西岸各地生计面临日益增长压力的脆弱社区。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "undermine",
+          "hint": "v. 破坏",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "prospects",
+          "hint": "n. 前景",
+          "difficulty": "medium"
         },
         {
           "id": 2,
@@ -90,769 +619,236 @@
         },
         {
           "id": 3,
-          "answer": "avalanches",
-          "hint": "n. 雪崩",
+          "answer": "welfare",
+          "hint": "n. 福祉",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "landslides",
-          "hint": "n. 滑坡",
+          "answer": "controversial",
+          "hint": "adj. 有争议的",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "debris",
-          "hint": "n. 碎片，岩屑",
+          "answer": "tender",
+          "hint": "n. 招标",
           "difficulty": "hard"
         },
         {
           "id": 6,
-          "answer": "monitoring",
-          "hint": "n./v. 监测",
-          "difficulty": "easy"
+          "answer": "unchecked",
+          "hint": "adj. 不受制止的",
+          "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "frequency",
-          "hint": "n. 频率",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "severity",
-          "hint": "n. 严重性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "incidence",
-          "hint": "n. 发生率",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "detect",
-          "hint": "v. 探测",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "retreating",
-          "hint": "v. 退缩",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "instability",
-          "hint": "n. 不稳定",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "outbursts",
-          "hint": "n. 溃决",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "thermokarst",
-          "hint": "n. 热喀斯特",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "thaw",
-          "hint": "n./v. 融化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "abrupt",
-          "hint": "adj. 突发的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "inventories",
-          "hint": "n. 编目",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "declined",
-          "hint": "v. 下降",
-          "difficulty": "easy"
-        },
-        {
-          "id": 19,
-          "answer": "expedition",
-          "hint": "n. 考察",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "precipitation",
-          "hint": "n. 降水",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "topography",
-          "hint": "n. 地形",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "fluctuated",
-          "hint": "v. 波动",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "surges",
-          "hint": "n. 跃动",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "Glaciers are often seen as \"victims\" of global warming. But glacier retreat, permafrost degradation and the expansion of glacial lakes, combined with extreme weather and complex geological conditions, may also increase the risks of ice avalanches, glacial lake outbursts, landslides and debris flows.\nAs monitoring and early warning technologies for extreme weather and climate events continue to advance, can glaciers in remote, high-altitude areas be monitored and warnings issued before disasters occur?\nCGTN spoke with two experts about glacial disasters, climate change, monitoring and early warning: Zhang Dongqi, a research scientist at the Chinese Academy of Meteorological Sciences' Institute of Global Change and Polar Meteorology, and Ma Lijuan, a research scientist at the National Climate Center's Division of Climate Change Monitoring and Projection.\nLaigu Glacier in Baxoi County, Qamdo City, Xizang Autonomous Region, China. \nCGTN: We often think of glaciers as \"victims\" of climate change. Are we now also seeing glaciers becoming sources of hazard? Are ice-rock avalanches and other glacier-related hazards becoming more frequent or more severe?\nZhang Dongqi: Glacial disasters have always existed. They occurred less frequently during periods of stable climate and consequently attracted less attention. Against the backdrop of global warming, glacial disasters are becoming more frequent, causing greater losses and drawing increasing attention.\nAnalysis of the past several decades, or even the past 10 to 20 years, shows that ice-rock avalanches and other glacier-related disasters have indeed been increasing in frequency, and their severity is also increasing. Both factors are at play. Global warming has led to a higher incidence of cryospheric disasters in recent decades.\nThe expansion of human activity, advances in satellite remote sensing and other monitoring methods have also enabled us to detect more disasters in remote areas, including some that did not cause casualties in the past but left clear traces.\nMa Lijuan: Against the backdrop of a warming climate, glaciers in High Mountain Asia, with the Qinghai-Xizang Plateau as the core region, have been retreating and losing mass, while permafrost has been degrading and snow cover has been decreasing, with these trends intensifying since the 1990s. This has led to glacier instability and increases in the number and area of glacial lakes.\nCryosphere-related disasters, such as ice and snow avalanches, glacial lake outbursts, glacier-related debris flows and snowmelt floods have occurred more frequently. Studies show that glacier collapse events have increased since at least 1950, while the number of thermokarst ponds and the occurrence of permafrost retrogressive thaw slump have increased since the 1970s. Since 2015, abrupt cryosphere events have been continuously observed across large areas of High Mountain Asia.\nChina has completed three glacier inventories: the first covering 1978-2002, the second covering 2008-2015 and the third covering 2023-2026. A comprehensive assessment shows that the area of glaciers on the Qinghai-Xizang Plateau declined from 51,000 square kilometers to 44,000 square kilometers and then to 39,000 square kilometers over the past 60 years. According to the second comprehensive scientific expedition to the Qinghai-Xizang Plateau, both the number and area of glacial lakes on the plateau increased by more than 20% from 1990 to 2020.\nThe retreating Monaco Glacier in Svalbard, Norway, July 29, 2026. \nCGTN: How does a warming climate change the physical conditions that keep glaciers and mountain slopes stable? Can we say that climate change increases the risk of glacier collapse, even if we cannot say it directly caused this particular event?\nMa: Temperature, precipitation and topography are the three necessary conditions for glacier formation and development. Since the 1960s, the Qinghai-Xizang Plateau and surrounding areas have warmed significantly, with the rate of warming clearly higher than the global average over the same period.\nHigh-temperature events have become more frequent, while annual precipitation has also fluctuated upward, with greater extremes. Climate warming has accelerated glacier mass loss, increased glacier movement and reduced the stability of their internal structures, providing dynamic conditions for glacier surges and ice avalanches.\nMeanwhile, glacier meltwater has increased the number of glacial lakes and rapidly expanded their area. Combined with extreme temperatures, extreme precipitation and loose geological conditions, this has contributed to the increased frequency of glacial lake outburst disasters.\nBased on information from investigations so far, the event (on August 26) was triggered first by an ice-rock avalanche. The site is located in an area of maritime glaciers on the southern slope of the central Himalayas. Under the long-term influence of climate warming, glacier ice temperatures have risen and glacier flow has accelerated, while the internal structure of the glaciers has gradually become less stable and mountain slopes have become increasingly fractured.\nClimate change is an important long-term risk factor for glacier melting. The direct cause of this event was geological environmental changes resulting from glacier instability.\nAletsch Glacier descends near Bettmeralp, Switzerland, September 14, 2025. \nCGTN: Can we predict when a glacier or ice mass is likely to collapse? What signs should scientists be looking for before a major collapse?\nZhang: If enough monitoring equipment is deployed and the data can be analyzed in a timely manner, we can basically predict whether a glacier has the potential to collapse, but predicting the exact timing of a collapse is very difficult. At present, glaciers are mostly located in remote, high-altitude areas where monitoring is inadequate, making it very difficult to predict ice avalanches.\nSignals from multiple aspects, including geological and meteorological factors, need to be monitored, such as whether an earthquake has occurred in the area where the glacier is located, whether there has been sustained or sharp warming recently, and whether there has been prolonged or extreme precipitation. In addition, where monitoring conditions permit, signals such as stress and deformation within the glacier itself require particular attention.\nMa: Mountain glaciers are distributed in cold, high-altitude regions, where systematic field observations are difficult to conduct on a regular basis, resulting in relatively limit first-hand observational data. The continued development of advanced observation technologies is creating new opportunities for routine monitoring.\nHowever, establishing a comprehensive early warning system remains a long-term challenge. It is necessary, in light of the complex terrain of the Qinghai-Xizang Plateau and the characteristics of typical glacial disasters, to build a coordinated Earth system observation network, with a focus on strengthening dynamic monitoring of high-risk glaciers and glacial lake areas.\nAt the same time, research into the disaster-causing mechanisms of typical glacial disasters should be deepened, a comprehensive early warning indicator system established, and future trends assessed and anticipated, so as to scientifically prevent and proactively respond to the impacts and disaster risks posed by changes in high-altitude glaciers.\nRecent disaster events show that glacial disasters often result from a complex chain of interacting factors, including earthquakes loosening mountain slopes, glacier retreat, permafrost thaw, fractured geological conditions, prolonged heat or precipitation, and extreme weather and climate conditions. These factors can become coupled over long periods, triggering large-scale cascading disasters. All of these factors should be incorporated into an effective monitoring and early warning system for routine monitoring.\nA view of Muztagh Ata Glacier, known as the \"Father of Glaciers,\" in the Xinjiang Uygur Autonomous Region, China, October 22, 2025. \nCGTN: What can satellites and other monitoring technologies tell us about an unstable glacier or mountain slope? How much warning time could an effective monitoring system realistically give communities downstream?\nZhang: Before a disaster occurs, technologies such as remote sensing and field monitoring can provide information on whether a glacier is potentially unstable and the degree of danger it poses. After a disaster occurs, these technologies can provide information on its location, extent and impact. Different types of disasters allow for very different warning times.\nWhen a monitoring system is fully functional and operating effectively, the warning time for a glacial lake outburst may be measured in days. But ice avalanches and snow avalanches are extremely difficult to warn for, and the warning time may be much shorter, potentially on the order of minutes.\nYalong Glacier in Basu County, Qamdo City, China's Xizang Autonomous Region. \nCGTN: What are the biggest gaps in our current early-warning systems?\nZhang: Inadequate monitoring – including limited monitoring coverage that cannot cover all high-risk glaciers, and limited monitoring methods that rely mainly on satellite remote sensing data while lacking field monitoring data – is currently the biggest weakness in the early warning system for glacial disasters.\nIt is recommended that a multi-layered \"air-space-ground\" three-dimensional observation and sensing system be developed to improve the rapid detection and precise identification of disasters and provide solid support for early warning.\nMa: The United Nations' Early Warnings for All initiative identifies four key elements of an early-warning system: disaster risk knowledge, monitoring and forecasting, warning dissemination and communication, and preparedness and response. For glacier-related hazards, all four areas remain underdeveloped, and there is an urgent need to establish an integrated monitoring and forecasting system.",
-      "fullTextCn": "冰川常被视为全球变暖的“受害者”。但冰川退缩、冻土退化和冰川湖扩张，加上极端天气和复杂的地质条件，也可能增加冰崩、冰川湖溃决、滑坡和泥石流的风险。随着极端天气和气候事件监测与预警技术的不断进步，偏远高海拔地区的冰川能否在灾害发生前得到监测并发出预警？CGTN就冰川灾害、气候变化、监测与预警采访了两位专家：中国气象科学研究院全球变化与极地气象研究所研究员张东启，以及国家气候中心气候变化监测与预估室研究员马丽娟。中国西藏自治区昌都市八宿县的来古冰川。\n\nCGTN：我们常认为冰川是气候变化的“受害者”。现在我们是否也看到冰川成为灾害源？冰岩崩和其他与冰川相关的灾害是否变得更加频繁或严重？张东启：冰川灾害一直存在。在气候稳定时期，它们发生频率较低，因此受到的关注也较少。\n\n在全球变暖的背景下，冰川灾害变得更加频繁，造成的损失更大，并引起越来越多的关注。对过去几十年甚至过去10到20年的分析表明，冰岩崩和其他与冰川相关的灾害确实在频率上有所增加，其严重程度也在上升。这两个因素都在起作用。全球变暖导致近几十年来冰冻圈灾害的发生率上升。人类活动的扩展、卫星遥感等监测方法的进步也使我们能够探测到偏远地区的更多灾害，包括一些过去未造成人员伤亡但留下清晰痕迹的灾害。\n\n马丽娟：在气候变暖的背景下，以青藏高原为核心区的亚洲高山区冰川正在退缩和质量损失，而冻土正在退化，积雪正在减少，这些趋势自20世纪90年代以来不断加剧。这导致了冰川不稳定以及冰川湖数量和面积的增加。冰雪崩、冰川湖溃决、与冰川相关的泥石流和融雪洪水等冰冻圈灾害发生更加频繁。研究表明，至少自1950年以来，冰川崩塌事件有所增加，而自20世纪70年代以来，热喀斯特湖的数量和冻土退缩性热融滑塌的发生也有所增加。自2015年以来，亚洲高山区大片地区持续观测到突发的冰冻圈事件。\n\n中国已完成三次冰川编目：第一次覆盖1978-2002年，第二次覆盖2008-2015年，第三次覆盖2023-2026年。综合评估显示，过去60年间，青藏高原冰川面积从5.1万平方公里减少到4.4万平方公里，再到3.9万平方公里。根据第二次青藏高原综合科学考察，1990年至2020年，高原上冰川湖的数量和面积均增加了20%以上。挪威斯瓦尔巴群岛正在退缩的莫纳科冰川，2026年7月29日。CGTN：气候变暖如何改变维持冰川和山坡稳定的物理条件？\n\n我们能否说气候变化增加了冰川崩塌的风险，即使我们不能说它直接导致了这一特定事件？马：温度、降水和地形是冰川形成和发展的三个必要条件。自20世纪60年代以来，青藏高原及周边地区显著变暖，变暖速率明显高于同期全球平均水平。高温事件变得更加频繁，而年降水量也呈波动上升趋势，极端情况增多。气候变暖加速了冰川质量损失，增加了冰川运动，降低了其内部结构的稳定性，为冰川跃动和冰崩提供了动力条件。\n\n与此同时，冰川融水增加了冰川湖的数量并迅速扩大了其面积。结合极端温度、极端降水和松散的地质条件，这导致了冰川湖溃决灾害频率的增加。根据迄今调查的信息，（8月26日的）事件首先由冰岩崩触发。该地点位于喜马拉雅山中段南坡的海洋性冰川区域。在气候变暖的长期影响下，冰川冰温升高，冰川流动加速，而冰川内部结构逐渐变得不稳定，山坡也日益破碎。\n\n气候变化是冰川融化的重要长期风险因素。该事件的直接原因是冰川不稳定导致的地质环境变化。阿莱奇冰川在瑞士贝特默阿尔卑附近下降，2025年9月14日。CGTN：我们能否预测冰川或冰体何时可能崩塌？在大崩塌之前，科学家应该寻找哪些迹象？\n\n张：如果部署足够的监测设备并能及时分析数据，我们基本上可以预测冰川是否具有崩塌潜力，但预测崩塌的确切时间非常困难。目前，冰川大多位于偏远的高海拔地区，监测不足，使得预测冰崩非常困难。需要监测来自地质和气象等多方面的信号，例如冰川所在地区是否发生地震，近期是否有持续或急剧的升温，以及是否有长期或极端降水。此外，在监测条件允许的情况下，冰川内部的应力和变形等信号需要特别关注。马：山地冰川分布在寒冷的高海拔地区，在这些地区定期进行系统的野外观测很困难，导致第一手观测数据相对有限。\n\n先进观测技术的持续发展为常规监测创造了新的机会。然而，建立全面的预警系统仍然是一个长期挑战。有必要根据青藏高原复杂的地形和典型冰川灾害的特征，构建协调的地球系统观测网络，重点加强对高风险冰川和冰川湖区域的动态监测。同时，应深化对典型冰川灾害成灾机理的研究，建立全面的预警指标体系，并评估和预测未来趋势，以科学预防和主动应对高海拔冰川变化带来的影响和灾害风险。近期的灾害事件表明，冰川灾害往往是由复杂的相互作用因素链造成的，包括地震松动山坡、冰川退缩、冻土融化、破碎的地质条件、长期高温或降水，以及极端天气和气候条件。\n\n这些因素可能在长期内耦合，触发大规模级联灾害。所有这些因素都应纳入有效的监测和预警系统，用于常规监测。中国新疆维吾尔自治区慕士塔格冰川一景，被称为“冰川之父”，2025年10月22日。CGTN：卫星和其他监测技术能告诉我们关于不稳定冰川或山坡的什么信息？一个有效的监测系统实际上能给下游社区多少预警时间？\n\n张：在灾害发生前，遥感和实地监测等技术可以提供冰川是否潜在不稳定及其危险程度的信息。灾害发生后，这些技术可以提供其位置、范围和影响的信息。不同类型的灾害允许非常不同的预警时间。当监测系统完全正常运行并有效运作时，冰川湖溃决的预警时间可能以天计。但冰崩和雪崩极难预警，预警时间可能短得多，可能只有几分钟的量级。\n\n中国西藏自治区昌都市八宿县的雅龙冰川。CGTN：我们当前预警系统最大的差距是什么？张：监测不足——包括监测覆盖范围有限，无法覆盖所有高风险冰川，以及监测方法有限，主要依赖卫星遥感数据而缺乏实地监测数据——是目前冰川灾害预警系统最大的弱点。建议发展多层次的“空天地”三维观测和感知系统，以提高灾害的快速探测和精确识别，为预警提供坚实支持。马：联合国的“全民预警”倡议确定了预警系统的四个关键要素：灾害风险知识、监测和预报、预警传播和沟通，以及备灾和响应。\n\n对于与冰川相关的灾害，这四个领域都仍不发达，迫切需要建立综合的监测和预报系统。"
-    },
-    {
-      "id": 2,
-      "category": "technology",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-28/The-digital-rehab-therapist-crossing-borders-1PYUdv3ComI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "The digital rehab therapist crossing borders",
-      "titleCn": "跨越国界的数字康复治疗师",
-      "summary": "On August 22, an unusual \"rehabilitation therapist\" arrived at the Clinical Emergency Hospital in Bishkek, capital of Kyrgyzstan. Combining 3D vision and AI-powered motion recognition, the Digital Rehabilitation Therapist (DRT) can detect subtle movements deviations from leg raises to knee bends.",
-      "summaryCn": "中国捐赠的智能数字康复治疗系统在吉尔吉斯斯坦投入使用，标志着两国十多年医疗合作从学术交流走向临床实践，并有望惠及更多国家。",
-      "wordCount": 886,
-      "paragraphs": [
-        {
-          "en": "On August 22, an unusual \"{{0}} therapist\" arrived at the Clinical Emergency Hospital in Bishkek, capital of Kyrgyzstan. Combining 3D vision and AI-powered motion recognition, the Digital Rehabilitation Therapist (DRT) can {{1}} subtle movements {{2}} from leg raises to knee bends. It draws on a database of more than 100,000 rehabilitation cases from Peking University Third Hospital, bringing movement assessment, rehabilitation {{3}} and training guidance into a single digital system. It was donated by China to Kyrgyzstan. Santa Beknazarova, the head of the hospital's Department of Medical Rehabilitation, trained a local rehabilitation physician to use the DRT.",
-          "cn": "8月22日，一位不寻常的“康复治疗师”抵达吉尔吉斯斯坦首都比什凯克的临床急救医院。结合3D视觉和AI驱动的动作识别，数字康复治疗师（DRT）能够检测从抬腿到屈膝等细微的动作偏差。它利用北京大学第三医院超过10万个康复病例的数据库，将动作评估、康复处方和训练指导整合到一个数字系统中。该系统由中国捐赠给吉尔吉斯斯坦。该医院医学康复科主任桑塔·别克纳扎罗娃培训了一名当地康复医生使用DRT。"
-        },
-        {
-          "en": "Santa Beknazarova, head of the Department of Medical Rehabilitation of the Clinical Emergency Hospital, stood beside her new digital \"colleague\" and {{4}} how it works. \"When a movement is not performed correctly, the device shows a red or yellow light. When it is done correctly, the light turns green,\" she said. She hopes the system will help doctors develop more {{5}} exercise plans for patients and allow more people to access them on their phones. The DRT's two cameras track patients' movements during rehabilitation.",
-          "cn": "临床急救医院医学康复科主任桑塔·别克纳扎罗娃站在她的新数字“同事”旁边，演示了它的工作原理。“当动作执行不正确时，设备会显示红色或黄色灯。当动作正确时，灯会变绿，”她说。她希望该系统能帮助医生为患者制定更精确的锻炼计划，并让更多人通过手机使用这些计划。DRT的两个摄像头在康复期间跟踪患者的动作。"
-        },
-        {
-          "en": "Trauma care and post-injury rehabilitation remain major challenges in Kyrgyzstan. A new National Center of Traumatology and Orthopedics is under construction in Bishkek, an {{7}} promoted by Kyrgyz President Sadyr Japarov, and is set to open by year's end. The DRT will also be {{8}} there. Academician Sabyrbek Dzhumabekov, director of the National Center of Traumatology and Orthopedics in Kyrgyzstan, estimates the device will serve at least 20 patients a day, including those with {{9}} and major joint injuries, post-operative patients and athletes in the recovery phase. Sabyrbek Dzhumabekov, an academician of the National Academy of Sciences of the Kyrgyz Republic and the director of the National Center of Traumatology and Orthopedics, Kyrgyzstan watches a demonstration video of the DRT.",
-          "cn": "创伤护理和伤后康复仍然是吉尔吉斯斯坦的重大挑战。比什凯克正在建设一个新的国家创伤与骨科中心，这是吉尔吉斯斯坦总统萨德尔·扎帕罗夫推动的倡议，预计年底前开放。DRT也将迁移到那里。吉尔吉斯斯坦国家创伤与骨科中心主任、院士萨比尔别克·朱马别科夫估计，该设备每天将至少服务20名患者，包括脊柱和主要关节损伤患者、术后患者以及处于恢复期的运动员。吉尔吉斯共和国国家科学院院士、吉尔吉斯斯坦国家创伤与骨科中心主任萨比尔别克·朱马别科夫观看了DRT的演示视频。"
-        },
-        {
-          "en": "More than a decade of medical {{10}}\nKyrgyzstan is a member of the Shanghai Cooperation Organization (SCO) and one of the Belt and Road Initiative (BRI) partner countries. Medical cooperation between China and Kyrgyzstan goes back more than a decade. \"We have maintained close cooperation with our Chinese colleagues since 2013,\" Dzhumabekov recalled. That year, the two sides signed a cooperation agreement on traumatology and orthopedics, followed by specialist exchanges, joint operations, research and academic conferences. In 2023, a new {{11}} of understanding expanded cooperation to more institutions and universities.",
-          "cn": "十多年的医疗合作\n吉尔吉斯斯坦是上海合作组织（SCO）成员国，也是“一带一路”倡议（BRI）的伙伴国之一。中国与吉尔吉斯斯坦的医疗合作可以追溯到十多年前。“自2013年以来，我们一直与中国同事保持密切合作，”朱马别科夫回忆道。那一年，双方签署了创伤与骨科合作协议，随后进行了专家交流、联合手术、研究和学术会议。2023年，一份新的谅解备忘录将合作扩大到更多机构和大学。"
-        },
-        {
-          "en": "\"China has more than 250,000 orthopedic and {{6}} doctors. Every year, we take part in academic conferences, where we present our work and share experience,\" he said. Sabyrbek Dzhumabekov shares his opinion about the DRT. Over the years, those exchanges have moved beyond conference rooms and into patient care. In 2023, a Chinese program offering free {{12}} surgery launched in Bishkek, with plans to restore sight for 600 patients.",
-          "cn": "“中国有超过25万名骨科和创伤医生。每年，我们都参加学术会议，在会上展示我们的工作并分享经验，”他说。萨比尔别克·朱马别科夫分享了他对DRT的看法。多年来，这些交流已超越会议室，进入患者护理领域。2023年，一项提供免费白内障手术的中国项目在比什凯克启动，计划为600名患者恢复视力。"
-        },
-        {
-          "en": "It later expanded to Osh. By May 2026, more than 1,500 Kyrgyz patients had received free surgery. In October 2024, Chinese thoracic surgeons traveled to Bishkek for exchanges and training in {{13}} invasive surgery. Local doctors said the expertise shared could strengthen clinical capacity and improve patient care. An ophthalmic device for eye examination.",
-          "cn": "该项目后来扩展到奥什。到2026年5月，超过1500名吉尔吉斯斯坦患者接受了免费手术。2024年10月，中国胸外科医生前往比什凯克进行微创手术的交流和培训。当地医生表示，分享的专业知识可以增强临床能力并改善患者护理。一种用于眼科检查的眼科设备。"
-        },
-        {
-          "en": "/CFP\nJoint operations, free medical services, professional training, equipment support and research collaboration have built a growing network of medical cooperation between the two countries. That cooperation has continued to expand under the BRI and SCO frameworks. \"The two governments and heads of state are making great efforts to promote friendship, cooperation and common development in traumatology and orthopedics,\" Dzhumabekov said. Taking medical innovation across borders\n\"In many countries, there is no shortage of doctors. What is truly {{14}} are experienced rehabilitation professionals,\" said Wu Yan, a representative of the DRT development team.",
-          "cn": "/CFP\n联合手术、免费医疗服务、专业培训、设备支持和研究合作，构建了两国之间日益增长的医疗合作网络。在BRI和SCO框架下，这种合作持续扩大。“两国政府和元首正在为促进创伤与骨科领域的友谊、合作和共同发展做出巨大努力，”朱马别科夫说。将医疗创新带出国界\n“在许多国家，医生并不短缺。真正稀缺的是经验丰富的康复专业人员，”DRT开发团队代表吴燕说。"
-        },
-        {
-          "en": "She believes smart rehabilitation technology, used alongside trained professionals, can help areas with limited specialist resources provide more standardized care. She recalls a Kyrgyz medical delegation visiting China and seeing the DRT in use firsthand. \"They hoped to bring this system, which combines China's experience in sports medicine and rehabilitation with artificial intelligence, to Kyrgyzstan so it could benefit local people,\" Wu said. The DRT's Russian-language interface. That interest turned a technical visit into an everyday helathcare practice.",
-          "cn": "她认为，智能康复技术与训练有素的专业人员结合使用，可以帮助专科资源有限的地区提供更标准化的护理。她回忆说，一个吉尔吉斯斯坦医疗代表团访问中国，亲眼看到了DRT的使用情况。“他们希望将这套结合了中国运动医学和康复经验与人工智能的系统带到吉尔吉斯斯坦，以便惠及当地人民，”吴说。DRT的俄语界面。这种兴趣将一次技术访问变成了日常医疗实践。"
-        },
-        {
-          "en": "\"Delivering the device is not the end of our cooperation. It is really the beginning,\" Wu said. Training and remote technical support will continue, the development team said, while feedback from Kyrgyz clinicians will help the team refine the product. Knowledge and needs will flow in both directions, turning technology sharing into a journey of mutual learning and growth. A Kyrgyz patient listens as a rehabilitation therapist explains how to use the DRT.",
-          "cn": "“交付设备不是我们合作的结束。这实际上是开始，”吴说。开发团队表示，培训和远程技术支持将继续进行，而吉尔吉斯斯坦临床医生的反馈将帮助团队改进产品。知识和需求将双向流动，将技术共享转变为相互学习和成长的旅程。一名吉尔吉斯斯坦患者正在听康复治疗师解释如何使用DRT。"
-        },
-        {
-          "en": "For Wu, the cooperation signals a shift in China's sports medicine and rehabilitation expertise, from academic discussion toward practical clinical application. After more than a decade of China-Kyrgyzstan medical cooperation, the DRT's arrival is a concrete example of healthcare cooperation under the BRI and SCO platforms. What has traveled across the border is not merely a piece of equipment, but years of accumulated clinical experience, digital technology and continued technical support. The development team hopes the project will serve as a starting point for the DRT's use in more countries and regions, allowing medical advances to reach more people in need. When technologies like the DRT can cross borders and continue helping patients far from where they were developed, the idea of \"health without borders\" becomes something tangible.",
-          "cn": "对吴来说，这次合作标志着中国运动医学和康复专业知识从学术讨论向实际临床应用的转变。经过十多年的中吉医疗合作，DRT的到来是BRI和SCO平台下医疗合作的一个具体例子。跨越国界的不仅仅是一台设备，而是多年积累的临床经验、数字技术和持续的技术支持。开发团队希望该项目能成为DRT在更多国家和地区使用的起点，让医疗进步惠及更多有需要的人。当像DRT这样的技术能够跨越国界，继续帮助远离其开发地的患者时，“无国界健康”的理念就变得切实可行。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "rehabilitation",
-          "hint": "n. 康复",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "detect",
-          "hint": "v. 检测",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "deviations",
-          "hint": "n. 偏差",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "prescriptions",
-          "hint": "n. 处方",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "demonstrated",
-          "hint": "v. 演示",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "precise",
-          "hint": "adj. 精确的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "trauma",
-          "hint": "n. 创伤",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "initiative",
-          "hint": "n. 倡议",
+          "answer": "confront",
+          "hint": "v. 对抗",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "relocated",
-          "hint": "v. 迁移",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "spinal",
-          "hint": "adj. 脊柱的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "cooperation",
-          "hint": "n. 合作",
-          "difficulty": "easy"
-        },
-        {
-          "id": 11,
-          "answer": "memorandum",
-          "hint": "n. 备忘录",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "cataract",
-          "hint": "n. 白内障",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "minimally",
-          "hint": "adv. 微创地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "scarce",
-          "hint": "adj. 稀缺的",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "On August 22, an unusual \"rehabilitation therapist\" arrived at the Clinical Emergency Hospital in Bishkek, capital of Kyrgyzstan. Combining 3D vision and AI-powered motion recognition, the Digital Rehabilitation Therapist (DRT) can detect subtle movements deviations from leg raises to knee bends.\nIt draws on a database of more than 100,000 rehabilitation cases from Peking University Third Hospital, bringing movement assessment, rehabilitation prescriptions and training guidance into a single digital system. It was donated by China to Kyrgyzstan.\nSanta Beknazarova, the head of the hospital's Department of Medical Rehabilitation, trained a local rehabilitation physician to use the DRT. \nSanta Beknazarova, head of the Department of Medical Rehabilitation of the Clinical Emergency Hospital, stood beside her new digital \"colleague\" and demonstrated how it works.\n\"When a movement is not performed correctly, the device shows a red or yellow light. When it is done correctly, the light turns green,\" she said.\nShe hopes the system will help doctors develop more precise exercise plans for patients and allow more people to access them on their phones.\nThe DRT's two cameras track patients' movements during rehabilitation. \nTrauma care and post-injury rehabilitation remain major challenges in Kyrgyzstan. A new National Center of Traumatology and Orthopedics is under construction in Bishkek, an initiative promoted by Kyrgyz President Sadyr Japarov, and is set to open by year's end. The DRT will also be relocated there.\nAcademician Sabyrbek Dzhumabekov, director of the National Center of Traumatology and Orthopedics in Kyrgyzstan, estimates the device will serve at least 20 patients a day, including those with spinal and major joint injuries, post-operative patients and athletes in the recovery phase.\nSabyrbek Dzhumabekov, an academician of the National Academy of Sciences of the Kyrgyz Republic and the director of the National Center of Traumatology and Orthopedics, Kyrgyzstan watches a demonstration video of the DRT. \nMore than a decade of medical cooperation\nKyrgyzstan is a member of the Shanghai Cooperation Organization (SCO) and one of the Belt and Road Initiative (BRI) partner countries. Medical cooperation between China and Kyrgyzstan goes back more than a decade.\n\"We have maintained close cooperation with our Chinese colleagues since 2013,\" Dzhumabekov recalled.\nThat year, the two sides signed a cooperation agreement on traumatology and orthopedics, followed by specialist exchanges, joint operations, research and academic conferences. In 2023, a new memorandum of understanding expanded cooperation to more institutions and universities.\n\"China has more than 250,000 orthopedic and trauma doctors. Every year, we take part in academic conferences, where we present our work and share experience,\" he said.\nSabyrbek Dzhumabekov shares his opinion about the DRT. \nOver the years, those exchanges have moved beyond conference rooms and into patient care.\nIn 2023, a Chinese program offering free cataract surgery launched in Bishkek, with plans to restore sight for 600 patients. It later expanded to Osh. By May 2026, more than 1,500 Kyrgyz patients had received free surgery.\nIn October 2024, Chinese thoracic surgeons traveled to Bishkek for exchanges and training in minimally invasive surgery. Local doctors said the expertise shared could strengthen clinical capacity and improve patient care.\nAn ophthalmic device for eye examination. /CFP\nJoint operations, free medical services, professional training, equipment support and research collaboration have built a growing network of medical cooperation between the two countries. That cooperation has continued to expand under the BRI and SCO frameworks.\n\"The two governments and heads of state are making great efforts to promote friendship, cooperation and common development in traumatology and orthopedics,\" Dzhumabekov said.\nTaking medical innovation across borders\n\"In many countries, there is no shortage of doctors. What is truly scarce are experienced rehabilitation professionals,\" said Wu Yan, a representative of the DRT development team.\nShe believes smart rehabilitation technology, used alongside trained professionals, can help areas with limited specialist resources provide more standardized care.\nShe recalls a Kyrgyz medical delegation visiting China and seeing the DRT in use firsthand.\n\"They hoped to bring this system, which combines China's experience in sports medicine and rehabilitation with artificial intelligence, to Kyrgyzstan so it could benefit local people,\" Wu said.\nThe DRT's Russian-language interface. \nThat interest turned a technical visit into an everyday helathcare practice.\n\"Delivering the device is not the end of our cooperation. It is really the beginning,\" Wu said.\nTraining and remote technical support will continue, the development team said, while feedback from Kyrgyz clinicians will help the team refine the product. Knowledge and needs will flow in both directions, turning technology sharing into a journey of mutual learning and growth.\nA Kyrgyz patient listens as a rehabilitation therapist explains how to use the DRT. \nFor Wu, the cooperation signals a shift in China's sports medicine and rehabilitation expertise, from academic discussion toward practical clinical application.\nAfter more than a decade of China-Kyrgyzstan medical cooperation, the DRT's arrival is a concrete example of healthcare cooperation under the BRI and SCO platforms.\nWhat has traveled across the border is not merely a piece of equipment, but years of accumulated clinical experience, digital technology and continued technical support.\nThe development team hopes the project will serve as a starting point for the DRT's use in more countries and regions, allowing medical advances to reach more people in need.\nWhen technologies like the DRT can cross borders and continue helping patients far from where they were developed, the idea of \"health without borders\" becomes something tangible.",
-      "fullTextCn": "8月22日，一位不寻常的“康复治疗师”抵达吉尔吉斯斯坦首都比什凯克的临床急救医院。结合3D视觉和AI驱动的动作识别，数字康复治疗师（DRT）能够检测从抬腿到屈膝等细微的动作偏差。它利用北京大学第三医院超过10万个康复病例的数据库，将动作评估、康复处方和训练指导整合到一个数字系统中。该系统由中国捐赠给吉尔吉斯斯坦。该医院医学康复科主任桑塔·别克纳扎罗娃培训了一名当地康复医生使用DRT。\n\n临床急救医院医学康复科主任桑塔·别克纳扎罗娃站在她的新数字“同事”旁边，演示了它的工作原理。“当动作执行不正确时，设备会显示红色或黄色灯。当动作正确时，灯会变绿，”她说。她希望该系统能帮助医生为患者制定更精确的锻炼计划，并让更多人通过手机使用这些计划。DRT的两个摄像头在康复期间跟踪患者的动作。\n\n创伤护理和伤后康复仍然是吉尔吉斯斯坦的重大挑战。比什凯克正在建设一个新的国家创伤与骨科中心，这是吉尔吉斯斯坦总统萨德尔·扎帕罗夫推动的倡议，预计年底前开放。DRT也将迁移到那里。吉尔吉斯斯坦国家创伤与骨科中心主任、院士萨比尔别克·朱马别科夫估计，该设备每天将至少服务20名患者，包括脊柱和主要关节损伤患者、术后患者以及处于恢复期的运动员。吉尔吉斯共和国国家科学院院士、吉尔吉斯斯坦国家创伤与骨科中心主任萨比尔别克·朱马别科夫观看了DRT的演示视频。\n\n十多年的医疗合作\n吉尔吉斯斯坦是上海合作组织（SCO）成员国，也是“一带一路”倡议（BRI）的伙伴国之一。中国与吉尔吉斯斯坦的医疗合作可以追溯到十多年前。“自2013年以来，我们一直与中国同事保持密切合作，”朱马别科夫回忆道。那一年，双方签署了创伤与骨科合作协议，随后进行了专家交流、联合手术、研究和学术会议。2023年，一份新的谅解备忘录将合作扩大到更多机构和大学。\n\n“中国有超过25万名骨科和创伤医生。每年，我们都参加学术会议，在会上展示我们的工作并分享经验，”他说。萨比尔别克·朱马别科夫分享了他对DRT的看法。多年来，这些交流已超越会议室，进入患者护理领域。2023年，一项提供免费白内障手术的中国项目在比什凯克启动，计划为600名患者恢复视力。\n\n该项目后来扩展到奥什。到2026年5月，超过1500名吉尔吉斯斯坦患者接受了免费手术。2024年10月，中国胸外科医生前往比什凯克进行微创手术的交流和培训。当地医生表示，分享的专业知识可以增强临床能力并改善患者护理。一种用于眼科检查的眼科设备。\n\n/CFP\n联合手术、免费医疗服务、专业培训、设备支持和研究合作，构建了两国之间日益增长的医疗合作网络。在BRI和SCO框架下，这种合作持续扩大。“两国政府和元首正在为促进创伤与骨科领域的友谊、合作和共同发展做出巨大努力，”朱马别科夫说。将医疗创新带出国界\n“在许多国家，医生并不短缺。真正稀缺的是经验丰富的康复专业人员，”DRT开发团队代表吴燕说。\n\n她认为，智能康复技术与训练有素的专业人员结合使用，可以帮助专科资源有限的地区提供更标准化的护理。她回忆说，一个吉尔吉斯斯坦医疗代表团访问中国，亲眼看到了DRT的使用情况。“他们希望将这套结合了中国运动医学和康复经验与人工智能的系统带到吉尔吉斯斯坦，以便惠及当地人民，”吴说。DRT的俄语界面。这种兴趣将一次技术访问变成了日常医疗实践。\n\n“交付设备不是我们合作的结束。这实际上是开始，”吴说。开发团队表示，培训和远程技术支持将继续进行，而吉尔吉斯斯坦临床医生的反馈将帮助团队改进产品。知识和需求将双向流动，将技术共享转变为相互学习和成长的旅程。一名吉尔吉斯斯坦患者正在听康复治疗师解释如何使用DRT。\n\n对吴来说，这次合作标志着中国运动医学和康复专业知识从学术讨论向实际临床应用的转变。经过十多年的中吉医疗合作，DRT的到来是BRI和SCO平台下医疗合作的一个具体例子。跨越国界的不仅仅是一台设备，而是多年积累的临床经验、数字技术和持续的技术支持。开发团队希望该项目能成为DRT在更多国家和地区使用的起点，让医疗进步惠及更多有需要的人。当像DRT这样的技术能够跨越国界，继续帮助远离其开发地的患者时，“无国界健康”的理念就变得切实可行。"
-    },
-    {
-      "id": 3,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-28/How-did-the-Himalayan-mudslides-happen-What-we-know-so-far-1PYyehh4EkU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "How did the Himalayan mudslides happen? What we know so far",
-      "titleCn": "喜马拉雅泥石流是如何发生的？目前已知情况",
-      "summary": "How did the Himalayan mudslides happen? What we know so far",
-      "summaryCn": "科学家正在调查尼泊尔和中国西藏地区泥石流的起因，初步认为可能是冰川崩塌引发了一系列连锁灾害，但气候变化是否为直接原因尚不确定。",
-      "wordCount": 932,
-      "paragraphs": [
-        {
-          "en": "The {{0}} mudslides that swept through parts of Nepal and southwest China's Xizang Autonomous Region on Wednesday may have originated high in the Himalayas, with the sudden {{1}} of a large glacier potentially marking the beginning of a chain of {{2}} hazards. But scientists caution that it is still far too early to draw definitive conclusions. The disaster is still under investigation, and researchers are working to reconstruct exactly what happened – and what ultimately caused the ice and surrounding mountain slopes to become unstable. What is becoming increasingly clear is that this may not have been a single event, but a series of hazards that interacted with and amplified one another. The trigger: a glacier collapse\nSatellite observations, combined with {{3}} analysis by Chinese geological experts, suggest that a high-altitude glacier in Nepal collapsed on Wednesday.",
-          "cn": "周三席卷尼泊尔部分地区和中国西南部西藏自治区的毁灭性泥石流，可能起源于喜马拉雅山脉高处，一座大型冰川的突然崩塌可能标志着一系列连锁灾害的开始。但科学家警告说，现在下结论还为时过早。灾害仍在调查中，研究人员正在努力重建究竟发生了什么——以及是什么最终导致冰和周围山坡变得不稳定。越来越清楚的是，这可能不是单一事件，而是一系列相互影响并放大的灾害。触发因素：冰川崩塌。卫星观测结合中国地质专家的初步分析表明，尼泊尔一座高海拔冰川于周三崩塌。"
-        },
-        {
-          "en": "A large mass of ice appears to have broken apart at an elevation of more than 5,000 meters and {{4}} down a steep mountain slope. And it was not just ice that came down. As the mass raced downhill, it acted like a giant {{5}}, scouring up rocks, loose {{6}} and other debris along the way. What began as a glacier collapse may have rapidly {{7}} into a high-speed mixture of ice, rock and sediment – a process known as an ice-rock avalanche. Huge amounts of ice and rock debris then entered a mountain river channel, picking up more water and sediment along the way.",
-          "cn": "一大块冰似乎在海拔5000多米处碎裂，并沿着陡峭的山坡急速冲下。而且下来的不仅仅是冰。当这团物质向下冲时，它就像一台巨大的推土机，沿途刮起岩石、松散沉积物和其他碎屑。最初是冰川崩塌，可能迅速转变为冰、岩石和沉积物的高速混合物——这一过程被称为冰岩崩。大量的冰和岩石碎屑随后进入一条山区河道，沿途裹挟了更多的水和沉积物。"
-        },
-        {
-          "en": "In this way, what may have begun as a relatively localized collapse high in the mountains could have developed into a much larger disaster downstream. An aerial view of the barrier lake which formed near Gyirong Port in southwest China's Xizang Autonomous Region, August 28, 2026. Was climate change to blame? This is where scientists need to be particularly cautious. It is too early to say that climate change directly caused this particular glacier collapse.",
-          "cn": "这样一来，最初可能只是高山上一处相对局部的崩塌，可能发展成下游一场更大的灾难。2026年8月28日，中国西南部西藏自治区吉隆口岸附近形成的堰塞湖鸟瞰图。气候变化是罪魁祸首吗？这正是科学家需要特别谨慎的地方。现在说气候变化直接导致了这次特定的冰川崩塌还为时过早。"
-        },
-        {
-          "en": "Researchers first need to identify the immediate trigger that {{8}} the glacier and surrounding mountain. The potential factors are complex: changes within the glacier itself, meltwater entering cracks in the ice or underlying rock, the {{9}} stability of the surrounding slopes, recent weather conditions and local geological processes could all have played a role. But on a much broader timescale, scientists are increasingly concerned about the deeper influence of climate change. People walk beside protective fleece covering part of the Moelltal Glacier in Carinthia, Austria, on August 19, 2026, as the glacier has shrunk to a narrow strip of snow amid accelerating ice loss across the Alps, where glacier surface area has fallen 39% since 2000. Global warming is reshaping the relationships between glaciers, {{10}}, rock and water in high-mountain environments.",
-          "cn": "研究人员首先需要确定使冰川和周围山坡失稳的直接触发因素。潜在因素很复杂：冰川内部的变化、融水进入冰或基岩的裂缝、周围山坡的固有稳定性、近期天气状况和当地地质过程都可能发挥作用。但在更长的时间尺度上，科学家越来越担心气候变化的深层影响。2026年8月19日，人们走在奥地利克恩顿州莫尔塔尔冰川部分覆盖的保护绒布旁，该冰川已缩小为一条狭窄的雪带，阿尔卑斯山冰川面积自2000年以来减少了39%，冰损失加速。全球变暖正在重塑高山环境中冰川、永久冻土、岩石和水之间的关系。"
-        },
-        {
-          "en": "Rising temperatures can cause glaciers to retreat and permafrost to thaw. They can also alter the conditions that help keep ice and mountain slopes stable. As glaciers retreat, they can leave behind unstable slopes and glacial lakes. Meltwater can also {{11}} cracks in ice and rock, potentially weakening them. But none of this means that every glacier collapse can simply be {{12}} to global warming.",
-          "cn": "气温升高会导致冰川退缩和永久冻土融化。它们还会改变有助于保持冰和山坡稳定的条件。随着冰川退缩，它们可能留下不稳定的山坡和冰川湖。融水还可以渗入冰和岩石的裂缝，可能削弱它们。但这并不意味着每次冰川崩塌都可以简单地归因于全球变暖。"
-        },
-        {
-          "en": "A more accurate way to put it is this: Climate change may be altering the background conditions that shape the risk of hazards in high mountains. But whether it was the direct trigger for this particular event remains unknown. Why did an ice-rock avalanche become such a devastating disaster? The extreme {{13}} of the Himalayas is part of the answer. Over a very short horizontal distance, the region can experience enormous changes in elevation.",
-          "cn": "更准确的说法是：气候变化可能正在改变塑造高山灾害风险的背景条件。但它是否是这次特定事件的直接触发因素仍然未知。为什么冰岩崩会变成如此毁灭性的灾难？喜马拉雅山极端的地形是答案的一部分。在很短的水平距离内，该地区可以经历巨大的海拔变化。"
-        },
-        {
-          "en": "A glacier or mountain collapse occurring thousands of meters above sea level can accelerate rapidly as it travels down a steep valley. In this case, the debris flow triggered by the high-altitude ice avalanche traveled approximately 20 kilometers in just seven minutes before {{14}} into a mudflow that struck Gyirong Port. And a disaster can change character as it moves downstream. Ice can rapidly break apart. Rocks and sediment can be incorporated into the flow.",
-          "cn": "海拔数千米以上的冰川或山体崩塌，在沿陡峭山谷下行时会迅速加速。在这种情况下，由高海拔冰崩引发的碎屑流在短短七分钟内行进了约20公里，然后演变成泥石流袭击了吉隆口岸。而且灾害在下游移动时会改变性质。冰可以迅速碎裂。岩石和沉积物可以被裹入流中。"
-        },
-        {
-          "en": "Water can be added along the way. The result can evolve into a debris flow and, in some areas, a sudden flood, carrying a mixture of water, mud, rocks and ice far beyond the original point of collapse. An important scientific lesson\nThe disaster is a reminder that in the Himalayas – and potentially in mountain regions around the world – we may need to look beyond individual hazards and pay greater attention to how different hazards interact and amplify one another. A glacier is not simply melting. Changes in a glacier can affect the stability of a mountain slope.",
-          "cn": "沿途可以加入水。结果可能演变成碎屑流，在某些地区，还可能变成突发洪水，携带水、泥、岩石和冰的混合物，远远超出最初的崩塌点。一个重要的科学教训。这场灾害提醒我们，在喜马拉雅山——可能在世界各地的山区——我们可能需要超越单个灾害，更加关注不同灾害如何相互作用和相互放大。冰川不仅仅是在融化。冰川的变化可以影响山坡的稳定性。"
-        },
-        {
-          "en": "A destabilized slope can trigger an ice-rock avalanche. That avalanche can evolve into debris flows and floods downstream. Scientists refer to that as a multi-hazard cascade. And that may be one of the most important scientific lessons from this disaster. For now, however, every conclusion needs to remain {{15}}.",
-          "cn": "一个不稳定的山坡可以触发冰岩崩。那次崩塌可以演变成下游的碎屑流和洪水。科学家称之为多灾害级联。这可能是这场灾害最重要的科学教训之一。然而，目前，每个结论都只能是暂时的。"
-        },
-        {
-          "en": "The evidence increasingly points to a high-altitude glacier or ice-rock collapse as a possible starting point for the disaster chain. But scientists are still trying to determine exactly what destabilized the mountain, how the ice and debris flow evolved as it moved downstream, and what roles – if any – recent weather, local geological conditions and long-term climate change played. In a Himalayas that is warming and remains highly dynamic, answering these questions is not only about understanding what happened yesterday. It may also help us detect, warn about and respond to the next high-mountain disaster before it reaches the communities downstream. (Ouyang Chaojun, researcher at the Institute of Mountain Hazards and Environment, Chinese Academy of Sciences, contributed to this story.)",
-          "cn": "证据越来越多地指向高海拔冰川或冰岩崩塌可能是灾害链的可能起点。但科学家仍在试图确定究竟是什么使山坡失稳，冰和碎屑流在下游移动时如何演变，以及近期天气、当地地质条件和长期气候变化是否发挥了作用——如果有的话。在一个正在变暖且高度动态的喜马拉雅山，回答这些问题不仅关乎理解昨天发生了什么。它还可能帮助我们检测、预警和应对下一次高山灾害，在它到达下游社区之前。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "devastating",
-          "hint": "adj. 毁灭性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "collapse",
-          "hint": "n. 崩塌",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "cascading",
-          "hint": "adj. 连锁的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "preliminary",
-          "hint": "adj. 初步的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "surged",
-          "hint": "v. 猛冲",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "bulldozer",
-          "hint": "n. 推土机",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "sediment",
-          "hint": "n. 沉积物",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "transformed",
-          "hint": "v. 转变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "destabilized",
-          "hint": "v. 使不稳定",
+          "answer": "snipers",
+          "hint": "n. 狙击手",
           "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "inherent",
-          "hint": "adj. 固有的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "permafrost",
-          "hint": "n. 永久冻土",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "penetrate",
-          "hint": "v. 渗透",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "attributed",
-          "hint": "v. 归因于",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "topography",
-          "hint": "n. 地形",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "evolving",
-          "hint": "v. 演变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "provisional",
-          "hint": "adj. 暂时的",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "The devastating mudslides that swept through parts of Nepal and southwest China's Xizang Autonomous Region on Wednesday may have originated high in the Himalayas, with the sudden collapse of a large glacier potentially marking the beginning of a chain of cascading hazards.\nBut scientists caution that it is still far too early to draw definitive conclusions. The disaster is still under investigation, and researchers are working to reconstruct exactly what happened – and what ultimately caused the ice and surrounding mountain slopes to become unstable.\nWhat is becoming increasingly clear is that this may not have been a single event, but a series of hazards that interacted with and amplified one another.\nThe trigger: a glacier collapse\nSatellite observations, combined with preliminary analysis by Chinese geological experts, suggest that a high-altitude glacier in Nepal collapsed on Wednesday.\nA large mass of ice appears to have broken apart at an elevation of more than 5,000 meters and surged down a steep mountain slope.\nAnd it was not just ice that came down.\nAs the mass raced downhill, it acted like a giant bulldozer, scouring up rocks, loose sediment and other debris along the way. What began as a glacier collapse may have rapidly transformed into a high-speed mixture of ice, rock and sediment – a process known as an ice-rock avalanche.\nHuge amounts of ice and rock debris then entered a mountain river channel, picking up more water and sediment along the way.\nIn this way, what may have begun as a relatively localized collapse high in the mountains could have developed into a much larger disaster downstream.\nAn aerial view of the barrier lake which formed near Gyirong Port in southwest China's Xizang Autonomous Region, August 28, 2026. \nWas climate change to blame?\nThis is where scientists need to be particularly cautious.\nIt is too early to say that climate change directly caused this particular glacier collapse.\nResearchers first need to identify the immediate trigger that destabilized the glacier and surrounding mountain. The potential factors are complex: changes within the glacier itself, meltwater entering cracks in the ice or underlying rock, the inherent stability of the surrounding slopes, recent weather conditions and local geological processes could all have played a role.\nBut on a much broader timescale, scientists are increasingly concerned about the deeper influence of climate change.\nPeople walk beside protective fleece covering part of the Moelltal Glacier in Carinthia, Austria, on August 19, 2026, as the glacier has shrunk to a narrow strip of snow amid accelerating ice loss across the Alps, where glacier surface area has fallen 39% since 2000. \nGlobal warming is reshaping the relationships between glaciers, permafrost, rock and water in high-mountain environments.\nRising temperatures can cause glaciers to retreat and permafrost to thaw. They can also alter the conditions that help keep ice and mountain slopes stable.\nAs glaciers retreat, they can leave behind unstable slopes and glacial lakes. Meltwater can also penetrate cracks in ice and rock, potentially weakening them.\nBut none of this means that every glacier collapse can simply be attributed to global warming.\nA more accurate way to put it is this: Climate change may be altering the background conditions that shape the risk of hazards in high mountains. But whether it was the direct trigger for this particular event remains unknown.\nWhy did an ice-rock avalanche become such a devastating disaster?\nThe extreme topography of the Himalayas is part of the answer.\nOver a very short horizontal distance, the region can experience enormous changes in elevation.\nA glacier or mountain collapse occurring thousands of meters above sea level can accelerate rapidly as it travels down a steep valley. In this case, the debris flow triggered by the high-altitude ice avalanche traveled approximately 20 kilometers in just seven minutes before evolving into a mudflow that struck Gyirong Port.\nAnd a disaster can change character as it moves downstream.\nIce can rapidly break apart. Rocks and sediment can be incorporated into the flow. Water can be added along the way.\nThe result can evolve into a debris flow and, in some areas, a sudden flood, carrying a mixture of water, mud, rocks and ice far beyond the original point of collapse.\nAn important scientific lesson\nThe disaster is a reminder that in the Himalayas – and potentially in mountain regions around the world – we may need to look beyond individual hazards and pay greater attention to how different hazards interact and amplify one another.\nA glacier is not simply melting.\nChanges in a glacier can affect the stability of a mountain slope. A destabilized slope can trigger an ice-rock avalanche. That avalanche can evolve into debris flows and floods downstream.\nScientists refer to that as a multi-hazard cascade. And that may be one of the most important scientific lessons from this disaster.\nFor now, however, every conclusion needs to remain provisional.\nThe evidence increasingly points to a high-altitude glacier or ice-rock collapse as a possible starting point for the disaster chain. But scientists are still trying to determine exactly what destabilized the mountain, how the ice and debris flow evolved as it moved downstream, and what roles – if any – recent weather, local geological conditions and long-term climate change played.\nIn a Himalayas that is warming and remains highly dynamic, answering these questions is not only about understanding what happened yesterday.\nIt may also help us detect, warn about and respond to the next high-mountain disaster before it reaches the communities downstream.\n(Ouyang Chaojun, researcher at the Institute of Mountain Hazards and Environment, Chinese Academy of Sciences, contributed to this story.)",
-      "fullTextCn": "周三席卷尼泊尔部分地区和中国西南部西藏自治区的毁灭性泥石流，可能起源于喜马拉雅山脉高处，一座大型冰川的突然崩塌可能标志着一系列连锁灾害的开始。但科学家警告说，现在下结论还为时过早。灾害仍在调查中，研究人员正在努力重建究竟发生了什么——以及是什么最终导致冰和周围山坡变得不稳定。越来越清楚的是，这可能不是单一事件，而是一系列相互影响并放大的灾害。触发因素：冰川崩塌。卫星观测结合中国地质专家的初步分析表明，尼泊尔一座高海拔冰川于周三崩塌。\n\n一大块冰似乎在海拔5000多米处碎裂，并沿着陡峭的山坡急速冲下。而且下来的不仅仅是冰。当这团物质向下冲时，它就像一台巨大的推土机，沿途刮起岩石、松散沉积物和其他碎屑。最初是冰川崩塌，可能迅速转变为冰、岩石和沉积物的高速混合物——这一过程被称为冰岩崩。大量的冰和岩石碎屑随后进入一条山区河道，沿途裹挟了更多的水和沉积物。\n\n这样一来，最初可能只是高山上一处相对局部的崩塌，可能发展成下游一场更大的灾难。2026年8月28日，中国西南部西藏自治区吉隆口岸附近形成的堰塞湖鸟瞰图。气候变化是罪魁祸首吗？这正是科学家需要特别谨慎的地方。现在说气候变化直接导致了这次特定的冰川崩塌还为时过早。\n\n研究人员首先需要确定使冰川和周围山坡失稳的直接触发因素。潜在因素很复杂：冰川内部的变化、融水进入冰或基岩的裂缝、周围山坡的固有稳定性、近期天气状况和当地地质过程都可能发挥作用。但在更长的时间尺度上，科学家越来越担心气候变化的深层影响。2026年8月19日，人们走在奥地利克恩顿州莫尔塔尔冰川部分覆盖的保护绒布旁，该冰川已缩小为一条狭窄的雪带，阿尔卑斯山冰川面积自2000年以来减少了39%，冰损失加速。全球变暖正在重塑高山环境中冰川、永久冻土、岩石和水之间的关系。\n\n气温升高会导致冰川退缩和永久冻土融化。它们还会改变有助于保持冰和山坡稳定的条件。随着冰川退缩，它们可能留下不稳定的山坡和冰川湖。融水还可以渗入冰和岩石的裂缝，可能削弱它们。但这并不意味着每次冰川崩塌都可以简单地归因于全球变暖。\n\n更准确的说法是：气候变化可能正在改变塑造高山灾害风险的背景条件。但它是否是这次特定事件的直接触发因素仍然未知。为什么冰岩崩会变成如此毁灭性的灾难？喜马拉雅山极端的地形是答案的一部分。在很短的水平距离内，该地区可以经历巨大的海拔变化。\n\n海拔数千米以上的冰川或山体崩塌，在沿陡峭山谷下行时会迅速加速。在这种情况下，由高海拔冰崩引发的碎屑流在短短七分钟内行进了约20公里，然后演变成泥石流袭击了吉隆口岸。而且灾害在下游移动时会改变性质。冰可以迅速碎裂。岩石和沉积物可以被裹入流中。\n\n沿途可以加入水。结果可能演变成碎屑流，在某些地区，还可能变成突发洪水，携带水、泥、岩石和冰的混合物，远远超出最初的崩塌点。一个重要的科学教训。这场灾害提醒我们，在喜马拉雅山——可能在世界各地的山区——我们可能需要超越单个灾害，更加关注不同灾害如何相互作用和相互放大。冰川不仅仅是在融化。冰川的变化可以影响山坡的稳定性。\n\n一个不稳定的山坡可以触发冰岩崩。那次崩塌可以演变成下游的碎屑流和洪水。科学家称之为多灾害级联。这可能是这场灾害最重要的科学教训之一。然而，目前，每个结论都只能是暂时的。\n\n证据越来越多地指向高海拔冰川或冰岩崩塌可能是灾害链的可能起点。但科学家仍在试图确定究竟是什么使山坡失稳，冰和碎屑流在下游移动时如何演变，以及近期天气、当地地质条件和长期气候变化是否发挥了作用——如果有的话。在一个正在变暖且高度动态的喜马拉雅山，回答这些问题不仅关乎理解昨天发生了什么。它还可能帮助我们检测、预警和应对下一次高山灾害，在它到达下游社区之前。"
-    },
-    {
-      "id": 4,
-      "category": "military",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-09-04/detail-ihfiwhfw6704276.shtml",
-      "title": "Xi's trip builds solidarity and consensus",
-      "titleCn": "习近平主席的访问凝聚团结与共识",
-      "summary": "President Xi Jinping returned to Beijing on Thursday morning after attending the Shanghai Cooperation Organization summit in the Kyrgyz capital of Bishkek and concluding state visits to Kyrgyzstan and Egypt.",
-      "summaryCn": "习近平主席的中亚与中东之行通过具体合作倡议和双边协议，促进了团结、共识及全球治理改革。",
-      "wordCount": 739,
-      "paragraphs": [
-        {
-          "en": "President Xi Jinping returned to Beijing on Thursday morning after attending the Shanghai Cooperation Organization summit in the Kyrgyz capital of Bishkek and {{2}} state visits to Kyrgyzstan and Egypt. Officials and experts said the five-day trip, covering more than 20 bilateral and multilateral events across Central Asia and the Middle East, {{3}} to international calls for peace, stability and development with concrete efforts, offering Chinese solutions and insights to a world of {{4}} changes and {{5}}. Speaking at a news {{6}} in Cairo upon the conclusion of the trip, Foreign Minister Wang Yi said that with {{0}} and cooperation as its central theme, the trip was significant for building {{1}} on cooperation and for {{7}} and improving global {{8}}. In Bishkek, Xi attended the 26th Meeting of the Council of Heads of State of the SCO as the organization marked its 25th anniversary this year. At the summit, Xi announced that China would establish a China-SCO port economic cooperation center in Tianjin and a China-SCO basic education cooperation center, and {{9}} 100 technological cooperation projects with other SCO countries over the next three years. Leaders of the member states signed and issued the Bishkek Declaration, approved the protocol on {{10}} and additions to the SCO Charter, and {{11}} 28 outcome documents covering areas such as security, economic and people-to-people cooperation, as well as organizational development.",
-          "cn": "习近平主席在出席上海合作组织吉尔吉斯斯坦首都比什凯克峰会并结束对吉尔吉斯斯坦和埃及的国事访问后，于周四上午返回北京。官员和专家表示，这次为期五天、涵盖中亚和中东地区20多场双边和多边活动的行程，以具体行动回应了国际社会对和平、稳定与发展的呼声，为充满交织变化与动荡的世界提供了中国方案和智慧。外交部长王毅在开罗的行程结束新闻发布会上表示，此次访问以团结与合作为核心主题，对于凝聚合作共识、改革和完善全球治理具有重要意义。在比什凯克，习近平出席了上合组织成立25周年之际的第26次成员国元首理事会会议。在峰会上，习近平宣布，中国将在天津设立中国-上合组织地方经贸合作示范区，设立中国-上合组织基础教育合作中心，并在未来三年内与其他上合组织国家实施100个技术合作项目。成员国领导人签署并发表了《比什凯克宣言》，批准了关于修订和补充《上合组织宪章》的议定书，并通过了涵盖安全、经济、人文合作以及组织发展等领域的28份成果文件。"
-        },
-        {
-          "en": "The strategic {{12}} drawn up at last year's Tianjin summit is becoming a reality step by step, Wang said, noting that the SCO now has a more {{13}} structure, more efficient operation and stronger cooperation. According to Wang, in Kyrgyzstan, the two heads of state reached important consensus on further {{14}} the two nations' comprehensive strategic partnership for a new era and advancing the building of a China-Kyrgyzstan community with a shared future. Bilateral relations are now at their best in history, he said. Wang said the most important political outcome of the visit was the signing of the treaty on permanent good-neighborliness, friendship and cooperation. The treaty {{15}} the two countries' commitment to lasting friendship in legal form and opens broader {{16}} for bilateral relations, he said. Kyrgyz Foreign Minister Zheenbek Kulubaev told reporters that as a result of Monday's meeting of the heads of state, Kyrgyzstan and China have raised the strategic partnership to a high-quality level of development.",
-          "cn": "王毅表示，去年天津峰会制定的战略蓝图正逐步变为现实，并指出上合组织现在结构更加优化、运行更加高效、合作更加有力。据王毅介绍，在吉尔吉斯斯坦，两国元首就进一步深化新时代全面战略伙伴关系、推动构建中吉命运共同体达成重要共识。他说，双边关系目前处于历史最好时期。王毅表示，此次访问最重要的政治成果是签署了《中吉永久睦邻友好合作条约》。他说，该条约以法律形式确立了两国世代友好的承诺，为双边关系开辟了更广阔的前景。吉尔吉斯斯坦外长热恩别克·库鲁巴耶夫对记者表示，通过周一的元首会晤，吉中两国已将战略伙伴关系提升到高质量发展的水平。"
-        },
-        {
-          "en": "This reflects the high level of political trust and confidence between the two countries and their readiness to further deepen cooperation, he said. Xi's trip to Egypt was the first state visit to the country by a Chinese president in a decade and {{17}} with the 70th anniversary of the establishment of diplomatic relations. According to Wang, Xi has emphasized that China, whether in the past, at present or in the future, is Egypt's trustworthy and dependable comprehensive strategic partner. Wang described Xi's historic visit to Egypt as both a journey to renew friendship and one to expand cooperation, calling it a {{18}} that fully demonstrates the strategic and {{19}} nature of China-Egypt relations. Zoon Ahmed Khan, a researcher at the Belt and Road Institute of Tsinghua University, said Xi's visit reflected an ongoing {{20}} in which the two ancient civilizations are advancing from mere markets and transit corridors into creators of their own shared agency. \"The true vitality of this partnership lies in its {{21}} momentum,\" she said, pointing to industrial hubs, local-currency financing, space technology and job-creating projects as examples of political trust being translated into productive capacity and practical South-South cooperation.",
-          "cn": "他说，这反映了两国之间高度的政治互信和信心，以及进一步深化合作的意愿。习近平对埃及的访问是中国国家主席十年来首次对埃及进行国事访问，恰逢两国建交70周年。据王毅介绍，习近平强调，中国无论过去、现在还是将来，始终是埃及值得信赖和可靠的全面战略伙伴。王毅将习近平对埃及的历史性访问描述为一次重温友谊和拓展合作之旅，称其为全面展示中埃关系战略性和示范性的里程碑。清华大学一带一路研究院研究员Zoon Ahmed Khan表示，习近平的访问反映了一个持续的转型过程，两个古老文明正从单纯的市场和过境走廊转变为自身共同能动性的创造者。她说：“这种伙伴关系的真正活力在于其切实的动力”，并指出工业园区、本币融资、空间技术和创造就业的项目是政治信任转化为生产能力和务实南南合作的例证。"
-        },
-        {
-          "en": "Ayman Mohseb, a member of Egypt's House of Representatives, said that closer China-Egypt coordination could help ease regional tensions, promote dialogue and political settlements, and contribute to a more balanced and {{22}} international order. During his talks with Egyptian President Abdel Fattah El-Sisi, Xi put forward a four-point proposal on building a new security architecture in the Middle East via upholding a vision of common, comprehensive, cooperative and sustainable security. He called for fostering the internal driving force for regional security, adopting a comprehensive approach to advancing common security in the region, consolidating the foundation for common security through development and strengthening international coordination. Wang also highlighted the cultural and people-to-people dimensions. Peng Liyuan, Xi's wife, took part in cultural activities with Aigul Japarova, the wife of the Kyrgyz president, and Entissar El-Sisi, the wife of the Egyptian president. The activities added a warm cultural dimension and helped strengthen mutual understanding, people-to-people bonds and cultural exchanges, Wang said.",
-          "cn": "埃及众议院议员艾曼·穆赫辛表示，中埃加强协调有助于缓解地区紧张局势，促进对话和政治解决，并为建立更加平衡、公平的国际秩序做出贡献。在与埃及总统阿卜杜勒·法塔赫·塞西会谈时，习近平提出了关于通过坚持共同、综合、合作、可持续的安全观构建中东安全新架构的四点建议。他呼吁培育地区安全的内生动力，采取综合方法推进地区共同安全，通过发展巩固共同安全的基础，并加强国际协调。王毅还强调了文化和人文层面的内容。习近平主席夫人彭丽媛与吉尔吉斯斯坦总统夫人艾古尔·扎帕罗娃和埃及总统夫人恩蒂萨尔·塞西一同参加了文化活动。王毅表示，这些活动增添了温暖的文化色彩，有助于增进相互理解、民心相通和文化交流。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "solidarity",
-          "hint": "n. 团结",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "consensus",
-          "hint": "n. 共识",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "concluding",
-          "hint": "v. 结束（访问）",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "responded",
-          "hint": "v. 回应",
+          "answer": "identified",
+          "hint": "v. 确认",
           "difficulty": "easy"
         },
         {
-          "id": 4,
-          "answer": "intertwined",
-          "hint": "adj. 交织的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "turbulence",
-          "hint": "n. 动荡",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "briefing",
-          "hint": "n. 新闻发布会",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "reforming",
-          "hint": "v. 改革",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "governance",
-          "hint": "n. 治理",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "implement",
-          "hint": "v. 实施",
-          "difficulty": "medium"
-        },
-        {
           "id": 10,
-          "answer": "amendments",
-          "hint": "n. 修正案",
+          "answer": "demolition",
+          "hint": "n. 拆除",
           "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "adopted",
-          "hint": "v. 通过（文件）",
+          "answer": "restrictions",
+          "hint": "n. 限制",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "blueprint",
-          "hint": "n. 蓝图",
-          "difficulty": "medium"
+          "answer": "outposts",
+          "hint": "n. 前哨",
+          "difficulty": "hard"
         },
         {
           "id": 13,
-          "answer": "optimized",
-          "hint": "adj. 优化的",
-          "difficulty": "hard"
+          "answer": "mobilizing",
+          "hint": "v. 动员",
+          "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "deepening",
-          "hint": "v. 深化",
+          "answer": "vulnerable",
+          "hint": "adj. 脆弱的",
           "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "enshrines",
-          "hint": "v. 铭记；庄严载入",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "prospects",
-          "hint": "n. 前景",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "coincided",
-          "hint": "v. 恰逢",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "milestone",
-          "hint": "n. 里程碑",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "exemplary",
-          "hint": "adj. 典范的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
-          "answer": "transformation",
-          "hint": "n. 转型",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "tangible",
-          "hint": "adj. 切实的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "equitable",
-          "hint": "adj. 公平的",
-          "difficulty": "hard"
         }
       ],
-      "fullText": "President Xi Jinping returned to Beijing on Thursday morning after attending the Shanghai Cooperation Organization summit in the Kyrgyz capital of Bishkek and concluding state visits to Kyrgyzstan and Egypt.\nOfficials and experts said the five-day trip, covering more than 20 bilateral and multilateral events across Central Asia and the Middle East, responded to international calls for peace, stability and development with concrete efforts, offering Chinese solutions and insights to a world of intertwined changes and turbulence.\nSpeaking at a news briefing in Cairo upon the conclusion of the trip, Foreign Minister Wang Yi said that with solidarity and cooperation as its central theme, the trip was significant for building consensus on cooperation and for reforming and improving global governance.\nIn Bishkek, Xi attended the 26th Meeting of the Council of Heads of State of the SCO as the organization marked its 25th anniversary this year.\nAt the summit, Xi announced that China would establish a China-SCO port economic cooperation center in Tianjin and a China-SCO basic education cooperation center, and implement 100 technological cooperation projects with other SCO countries over the next three years.\nLeaders of the member states signed and issued the Bishkek Declaration, approved the protocol on amendments and additions to the SCO Charter, and adopted 28 outcome documents covering areas such as security, economic and people-to-people cooperation, as well as organizational development.\nThe strategic blueprint drawn up at last year's Tianjin summit is becoming a reality step by step, Wang said, noting that the SCO now has a more optimized structure, more efficient operation and stronger cooperation.\nAccording to Wang, in Kyrgyzstan, the two heads of state reached important consensus on further deepening the two nations' comprehensive strategic partnership for a new era and advancing the building of a China-Kyrgyzstan community with a shared future. Bilateral relations are now at their best in history, he said.\nWang said the most important political outcome of the visit was the signing of the treaty on permanent good-neighborliness, friendship and cooperation. The treaty enshrines the two countries' commitment to lasting friendship in legal form and opens broader prospects for bilateral relations, he said.\nKyrgyz Foreign Minister Zheenbek Kulubaev told reporters that as a result of Monday's meeting of the heads of state, Kyrgyzstan and China have raised the strategic partnership to a high-quality level of development.\nThis reflects the high level of political trust and confidence between the two countries and their readiness to further deepen cooperation, he said.\nXi's trip to Egypt was the first state visit to the country by a Chinese president in a decade and coincided with the 70th anniversary of the establishment of diplomatic relations.\nAccording to Wang, Xi has emphasized that China, whether in the past, at present or in the future, is Egypt's trustworthy and dependable comprehensive strategic partner.\nWang described Xi's historic visit to Egypt as both a journey to renew friendship and one to expand cooperation, calling it a milestone that fully demonstrates the strategic and exemplary nature of China-Egypt relations.\nZoon Ahmed Khan, a researcher at the Belt and Road Institute of Tsinghua University, said Xi's visit reflected an ongoing transformation in which the two ancient civilizations are advancing from mere markets and transit corridors into creators of their own shared agency.\n\"The true vitality of this partnership lies in its tangible momentum,\" she said, pointing to industrial hubs, local-currency financing, space technology and job-creating projects as examples of political trust being translated into productive capacity and practical South-South cooperation.\nAyman Mohseb, a member of Egypt's House of Representatives, said that closer China-Egypt coordination could help ease regional tensions, promote dialogue and political settlements, and contribute to a more balanced and equitable international order.\nDuring his talks with Egyptian President Abdel Fattah El-Sisi, Xi put forward a four-point proposal on building a new security architecture in the Middle East via upholding a vision of common, comprehensive, cooperative and sustainable security.\nHe called for fostering the internal driving force for regional security, adopting a comprehensive approach to advancing common security in the region, consolidating the foundation for common security through development and strengthening international coordination.\nWang also highlighted the cultural and people-to-people dimensions.\nPeng Liyuan, Xi's wife, took part in cultural activities with Aigul Japarova, the wife of the Kyrgyz president, and Entissar El-Sisi, the wife of the Egyptian president. The activities added a warm cultural dimension and helped strengthen mutual understanding, people-to-people bonds and cultural exchanges, Wang said.",
-      "fullTextCn": "习近平主席在出席上海合作组织吉尔吉斯斯坦首都比什凯克峰会并结束对吉尔吉斯斯坦和埃及的国事访问后，于周四上午返回北京。官员和专家表示，这次为期五天、涵盖中亚和中东地区20多场双边和多边活动的行程，以具体行动回应了国际社会对和平、稳定与发展的呼声，为充满交织变化与动荡的世界提供了中国方案和智慧。外交部长王毅在开罗的行程结束新闻发布会上表示，此次访问以团结与合作为核心主题，对于凝聚合作共识、改革和完善全球治理具有重要意义。在比什凯克，习近平出席了上合组织成立25周年之际的第26次成员国元首理事会会议。在峰会上，习近平宣布，中国将在天津设立中国-上合组织地方经贸合作示范区，设立中国-上合组织基础教育合作中心，并在未来三年内与其他上合组织国家实施100个技术合作项目。成员国领导人签署并发表了《比什凯克宣言》，批准了关于修订和补充《上合组织宪章》的议定书，并通过了涵盖安全、经济、人文合作以及组织发展等领域的28份成果文件。\n\n王毅表示，去年天津峰会制定的战略蓝图正逐步变为现实，并指出上合组织现在结构更加优化、运行更加高效、合作更加有力。据王毅介绍，在吉尔吉斯斯坦，两国元首就进一步深化新时代全面战略伙伴关系、推动构建中吉命运共同体达成重要共识。他说，双边关系目前处于历史最好时期。王毅表示，此次访问最重要的政治成果是签署了《中吉永久睦邻友好合作条约》。他说，该条约以法律形式确立了两国世代友好的承诺，为双边关系开辟了更广阔的前景。吉尔吉斯斯坦外长热恩别克·库鲁巴耶夫对记者表示，通过周一的元首会晤，吉中两国已将战略伙伴关系提升到高质量发展的水平。\n\n他说，这反映了两国之间高度的政治互信和信心，以及进一步深化合作的意愿。习近平对埃及的访问是中国国家主席十年来首次对埃及进行国事访问，恰逢两国建交70周年。据王毅介绍，习近平强调，中国无论过去、现在还是将来，始终是埃及值得信赖和可靠的全面战略伙伴。王毅将习近平对埃及的历史性访问描述为一次重温友谊和拓展合作之旅，称其为全面展示中埃关系战略性和示范性的里程碑。清华大学一带一路研究院研究员Zoon Ahmed Khan表示，习近平的访问反映了一个持续的转型过程，两个古老文明正从单纯的市场和过境走廊转变为自身共同能动性的创造者。她说：“这种伙伴关系的真正活力在于其切实的动力”，并指出工业园区、本币融资、空间技术和创造就业的项目是政治信任转化为生产能力和务实南南合作的例证。\n\n埃及众议院议员艾曼·穆赫辛表示，中埃加强协调有助于缓解地区紧张局势，促进对话和政治解决，并为建立更加平衡、公平的国际秩序做出贡献。在与埃及总统阿卜杜勒·法塔赫·塞西会谈时，习近平提出了关于通过坚持共同、综合、合作、可持续的安全观构建中东安全新架构的四点建议。他呼吁培育地区安全的内生动力，采取综合方法推进地区共同安全，通过发展巩固共同安全的基础，并加强国际协调。王毅还强调了文化和人文层面的内容。习近平主席夫人彭丽媛与吉尔吉斯斯坦总统夫人艾古尔·扎帕罗娃和埃及总统夫人恩蒂萨尔·塞西一同参加了文化活动。王毅表示，这些活动增添了温暖的文化色彩，有助于增进相互理解、民心相通和文化交流。"
+      "fullText": "An Israeli military bulldozer uproots olive trees on a Palestinian farm area in the village of Arraba, near the West Bank city of Jenin, September 2, 2026. \nThe European Union's foreign policy chief Kaja Kallas warned on Wednesday that Israel's E1 settlement project in the occupied West Bank would further undermine prospects for a two-state solution, as settler violence and Israeli settlement expansion continued to raise concerns over the safety of Palestinians.\nThe UN's humanitarian office also expressed deep concern over the safety and welfare of civilians in the occupied Palestinian territory.\n\"The E1 settlements will further undermine the prospect of the two-state solution by driving a wedge through the West Bank,\" Kallas told a press conference following an informal meeting of EU foreign affairs ministers in Wicklow, Ireland.\nIsrael advanced the controversial E1 settlement project in August by issuing a tender for 1,234 housing units. Published online by Israel's Ministry of Construction and Housing, the tender covers part of a broader plan to build 3,401 housing units in the E1 area, east of Jerusalem.\n\"Settler violence against Palestinians continues to rise, and too often goes unchecked,\" Kallas said, adding that the EU would continue to support the Gaza peace plan and work with partners toward a two-state solution.\nTwo Palestinians were killed by Israeli gunfire in a village north of Ramallah in the West Bank, according to the Palestinian Ministry of Health on Wednesday.\nAmin Abu Alia, head of the village council, said Israeli settlers and soldiers entered the village in the evening, attacked two houses and stole sheep.\n\"When residents tried to confront the settlers while they were stealing the sheep, the snipers opened live fire at them,\" he said, adding that two minors later died while being transferred to a hospital.\nThe Palestinian Health Ministry identified the victims as 19-year-old Omar Mohammad Naji al-Na'ssan and 16-year-old Khalil Rassem Khalil Shehadeh.\nThe Israeli military had not commented on the incident as of Wednesday.\nThe UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday that its humanitarian partners were deeply concerned by reports that the entire community of Khirbet at Tabban in the West Bank had been destroyed by Israeli forces.\nKhirbet at Tabban is one of 13 herding communities in the Masafer Yatta area of Hebron. Together, the communities are home to more than 1,000 people and are located within the 18% of the West Bank that Israeli authorities have designated as \"firing zones\" for military training, according to OCHA.\nThe communities have faced longstanding demolition orders against structures deemed unlicensed, while Palestinian residents face significant restrictions in obtaining the permits required to build legally, OCHA said.\nThe humanitarian office added that a dozen settler outposts had been established in the same area over the past two years, while settler violence had added to pressure on Palestinians to leave their homes and land.\nOCHA said its humanitarian partners were mobilizing to support newly displaced residents while continuing to assist vulnerable communities whose livelihoods across the West Bank are under growing pressure.",
+      "fullTextCn": "2026年9月2日，一辆以色列军用推土机在约旦河西岸杰宁市附近的阿拉巴村巴勒斯坦农田区拔除橄榄树。欧盟外交政策负责人卡娅·卡拉斯周三警告称，以色列在被占领的约旦河西岸的E1定居点项目将进一步破坏两国方案的前景，与此同时，定居者暴力和以色列定居点扩张继续引发对巴勒斯坦人安全的担忧。联合国人道主义办公室也对被占领巴勒斯坦领土上平民的安全和福祉表示深切关注。卡拉斯在爱尔兰威克洛举行的欧盟外交事务部长非正式会议后的新闻发布会上表示：“E1定居点将在约旦河西岸打入一个楔子，进一步破坏两国方案的前景。”以色列于8月推进了有争议的E1定居点项目，发布了1234套住房的招标。该招标由以色列建设和住房部在线发布，涵盖了一项更广泛计划的一部分，即在耶路撒冷以东的E1地区建造3401套住房。\n\n卡拉斯表示：“针对巴勒斯坦人的定居者暴力持续上升，且常常不受制止。”她补充说，欧盟将继续支持加沙和平计划，并与合作伙伴共同努力实现两国方案。据巴勒斯坦卫生部周三消息，两名巴勒斯坦人在约旦河西岸拉姆安拉以北的一个村庄被以色列枪击身亡。该村村委会负责人阿明·阿布·阿利亚表示，以色列定居者和士兵在晚间进入村庄，袭击了两所房屋并偷走了羊。他说：“当居民试图在定居者偷羊时与他们对抗，狙击手向他们开了实弹。”他补充说，两名未成年人在被送往医院途中死亡。巴勒斯坦卫生部确认遇难者为19岁的奥马尔·穆罕默德·纳吉·纳桑和16岁的哈利勒·拉塞姆·哈利勒·谢哈德。截至周三，以色列军方尚未对事件发表评论。\n\n联合国人道主义事务协调厅（OCHA）周三表示，其人道主义合作伙伴对有关约旦河西岸Khirbet at Tabban整个社区被以色列军队摧毁的报道深感关切。Khirbet at Tabban是希伯伦Masafer Yatta地区13个牧区社区之一。据OCHA称，这些社区共有1000多人居住，位于约旦河西岸被以色列当局指定为军事训练“射击区”的18%区域内。OCHA表示，这些社区长期面临针对未获许可建筑的拆除令，而巴勒斯坦居民在获得合法建筑所需许可方面面临重大限制。人道主义办公室补充说，过去两年内，同一地区建立了十几个定居者前哨，而定居者暴力加剧了巴勒斯坦人离开家园和土地的压力。OCHA表示，其人道主义合作伙伴正在动员起来支持新流离失所的居民，同时继续援助约旦河西岸各地生计面临日益增长压力的脆弱社区。"
     },
     {
       "id": 5,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/regional/2026-09-04/detail-ihfiwhfw6704328.shtml",
-      "title": "Guangdong streamlines exit-entry procedures for visitors",
-      "titleCn": "广东优化出入境流程便利外国游客",
-      "summary": "A themed installation is pictured at a business district in Shenzhen, South China's Guangdong province, Aug 10, 2026. [Photo/Xinhua",
-      "summaryCn": "随着APEC会议临近，广东通过优化出入境手续、增设专用通道等措施，显著提升了外国游客的通关效率，并促进了人员往来增长。",
-      "wordCount": 589,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-23/Capacity-Revealed-How-China-s-technology-became-a-global-public-good-1PQC7QFQM1i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Capacity Revealed: How China's technology became a global public good",
+      "titleCn": "能力展现：中国技术如何成为全球公共产品",
+      "summary": "Capacity Revealed: How China's technology became a global public good",
+      "summaryCn": "中国开源AI模型下载量超百亿，其开放模式和技术设施正成为全球公共产品，赋能而非威胁世界。",
+      "wordCount": 484,
       "paragraphs": [
         {
-          "en": "As Shenzhen prepares to host the 33rd APEC Economic Leaders' Meeting in November, entry and exit procedures for foreign visitors across Guangdong province are being {{0}} to ensure faster {{1}}. The number of visitors from Asia-Pacific Economic Cooperation economies arriving in Guangdong's major cities, including Guangzhou, Shenzhen, Zhuhai, Foshan and Dongguan, has risen steadily since the start of the year, {{2}} deepening ties between APEC economies and the southern {{3}} and manufacturing {{4}}, officials said. According to the Shenzhen General Station of Immigration Inspection, as of early August, foreign nationals entering and exiting Guangdong through Shenzhen's border ports had {{5}} 5 million, a figure reached 58 days earlier than in 2025. Wu Sijue, a senior immigration inspection officer in Shenzhen, said that officers are working to improve port clearance efficiency, {{6}} the digital arrival registration system, expand {{7}} and multilingual services, and strengthen on-site consultation and passenger guidance. \"We will open dedicated APEC lanes at eight ports, spanning airports, seaports, land ports and railway ports, and roll out {{8}} guidance and inspection measures to ensure safe, efficient and convenient clearance,\" Wu added. The Guangzhou General Station of Immigration Inspection said the demographic profile of the incoming visitors continues to {{9}}, driven by conventions, exhibitions, cultural tourism and other business activities.",
-          "cn": "随着深圳将于11月主办第33届APEC经济领导人会议，广东省正在优化外国游客的出入境手续，以确保更快速的通关。官员表示，自年初以来，来自亚太经合组织经济体的游客抵达广东主要城市（包括广州、深圳、珠海、佛山和东莞）的人数稳步上升，反映了APEC经济体与这个南方创新和制造业中心之间日益加深的联系。据深圳出入境边防检查总站统计，截至8月初，通过深圳口岸出入境的外国人已超过500万人次，比2025年提前58天达到这一数字。深圳高级边检官员吴思觉表示，边检人员正致力于提高口岸通关效率，升级数字化到达登记系统，扩大双语和多语服务，并加强现场咨询和旅客引导。吴补充说：“我们将在八个口岸开设APEC专用通道，涵盖机场、海港、陆路口岸和铁路口岸，并推出量身定制的引导和检查措施，确保安全、高效、便捷的通关。”广州出入境边防检查总站表示，在会议、展览、文化旅游和其他商务活动的推动下，入境游客的人口结构持续多样化。"
+          "en": "China's open AI models have surpassed 10 billion {{0}} downloads worldwide. But the real story lies not in the {{1}} volume – it lies in what the global open community actually builds with them. According to Hugging Face's Summer 2026 report published on August 14, Chinese-developed open models now {{2}} the {{3}} of AI scale. In almost every month of 2026, the largest and most {{4}} open model from a Chinese lab was larger than any model an American lab released – with China's monthly ceiling ranging between 754 billion and 2.78 trillion {{5}}, while US models stayed under 130 billion in five of seven months. /Hugging Face\nMore tellingly, Chinese models are not just downloaded – they are built upon.",
+          "cn": "中国的开源AI模型全球累计下载量已超过100亿次。但真正的故事不在于数量本身——而在于全球开源社区实际上用它们构建了什么。根据8月14日发布的Hugging Face 2026年夏季报告，中国开发的开源模型现在主导着AI规模的前沿。在2026年几乎每个月，中国实验室发布的最大、性能最强的开源模型都比美国实验室发布的任何模型都要大——中国的月度上限在7540亿到2.78万亿参数之间，而美国模型在七个月中有五个月保持在1300亿以下。/Hugging Face 更具说服力的是，中国模型不仅被下载——它们还被在此基础上构建。"
         },
         {
-          "en": "In the first half of the year, foreign nationals entering through ports administered by the station {{10}} 2.02 million, up 32.9 percent year-on-year. Conference and business visitors {{11}} for 26.2 percent of all foreign arrivals, with the China Import and Export Fair, which is also known as the Canton Fair, being a core {{12}} of this growth, it said. As a cross-border e-commerce hub, Guangzhou also attracts a steady stream of foreign sellers and {{13}} providers. As the APEC Economic Leaders' Meeting approaches, presummit meetings for senior officials, a CEO summit and thematic working group sessions have brought waves of official {{14}}, business leaders and think tank experts, creating repeated visitor {{15}}, inspection officials said. Visa-exempt foreign arrivals accounted for more than half of all entries at Guangzhou's ports, and most of these were from APEC economies. The Zhuhai General Station of Immigration Inspection reported that foreign arrivals and departures through the city's ports had reached 1.46 million as of Aug 25.",
-          "cn": "今年上半年，通过该总站管辖口岸入境的外国人超过202万人次，同比增长32.9%。其中，会议和商务旅客占所有外国入境者的26.2%，中国进出口商品交易会（又称广交会）是这一增长的核心驱动力。作为跨境电子商务中心，广州还吸引了稳定的外国卖家和物流供应商。随着APEC经济领导人会议临近，高级官员预备会议、CEO峰会和专题工作组会议带来了多波官方代表团、商界领袖和智库专家，形成了多次旅客高峰。边检官员表示，免签入境的外国人占广州口岸所有入境人数的一半以上，其中大多数来自APEC经济体。珠海出入境边防检查总站报告称，截至8月25日，通过该市口岸的外国人出入境人数已达146万人次。"
+          "en": "Derivatives based on Alibaba's Qwen alone now number 151,448 on the Hugging Face Hub, 2.6 times Meta's total {{7}}. That figure grows by 180 to 210 new {{8}} every single day. These are not just statistics – they represent a {{9}} shift in how advanced technology reaches the world. Unlike {{10}} models that charge {{11}} licensing fees, China's open models are freely downloadable, commercially usable and highly {{12}}. This open approach allows more countries, especially developing countries, to access and afford cutting-edge AI technology, said Yan Dong, vice minister of commerce.",
+          "cn": "仅基于阿里巴巴通义千问的衍生模型在Hugging Face Hub上就已达151,448个，是Meta总足迹的2.6倍。这一数字每天以180到210个新仓库的速度增长。这些不仅仅是统计数据——它们代表了先进技术如何惠及世界的根本性转变。与收取高额许可费的专有模型不同，中国的开源模型可免费下载、可商用且高度可适应。商务部副部长严东表示，这种开放方式使更多国家，特别是发展中国家，能够获取并负担得起尖端AI技术。"
         },
         {
-          "en": "Among these, 310,000 entered under visa-exempt policies or with APEC business travel cards, accounting for more than 20 percent of all foreign arrivals. Han Yonghui, executive dean of the Guangdong Institute for International Strategies, attributed the {{16}} growth in APEC-related arrivals to visa facilitation, the {{17}} of the APEC \"China Year\", deep trade links with the Asia-Pacific region, expanded international {{18}}, and improved urban services for {{19}} travelers. \"Visa exemptions are the foremost driver,\" Han said, noting that strong trade, investment and industrial chain ties between Guangdong and APEC economies have created solid demand for recurring business travel, while a high-density air network has cut travel costs. The policy push is fueling strong interest among foreign visitors. French traveler Axel Jeremy Tom Beriel, who loves Chinese food, especially Cantonese cuisine, said he wants to see Guangdong's natural beauty, such as the mountains and forests, as well as the scenic landscapes surrounding the province's cities. \"Chinese culture {{20}} me too,\" he said.",
-          "cn": "其中，31万人根据免签政策或APEC商务旅行卡入境，占所有外国入境者的20%以上。广东国际战略研究院执行院长韩永辉将APEC相关入境人数的持续增长归因于签证便利化、APEC“中国年”的势头、与亚太地区的深厚贸易联系、扩大的国际连通性以及为入境旅客改善的城市服务。韩说：“免签是首要驱动力。”他指出，广东与APEC经济体之间强大的贸易、投资和产业链联系为经常性商务旅行创造了坚实的需求，而高密度航空网络降低了旅行成本。政策推动正在激发外国游客的浓厚兴趣。热爱中国菜、尤其是粤菜的法国游客阿克塞尔·杰里米·汤姆·贝里尔表示，他想看看广东的自然美景，如山脉和森林，以及城市周边的风景。“中国文化也让我着迷，”他说。"
+          "en": "From Silicon Valley startups to European manufacturing plants, overseas companies are actively {{13}} Chinese open models – such as DeepSeek and Qwen – as their technology {{14}}. A partner at Andreessen Horowitz {{15}} that as many as 80% of AI startups seeking funding in Silicon Valley use Chinese open models. One model, {{16}} with local African data, now supports 20 African languages. China's {{17}} to openness extends far beyond software. In March, the Zhongguancun Forum released the Open Science International Cooperation Action Plan, opening 10 major research infrastructure {{18}} to global scientists.",
+          "cn": "从硅谷初创企业到欧洲制造工厂，海外公司正积极采用中国开源模型——如DeepSeek和通义千问——作为其技术支柱。Andreessen Horowitz的一位合伙人透露，硅谷寻求融资的AI初创公司中多达80%使用中国开源模型。一个用非洲本地数据适配的模型现在支持20种非洲语言。中国的开放承诺远不止于软件。3月，中关村论坛发布了《开放科学国际合作行动计划》，向全球科学家开放了10个重大科研基础设施。"
         },
         {
-          "en": "\"There are so many time-honored, {{21}} buildings and temples, and I'm eager to travel around and explore them all.\"\nPaul John Tomlins, a British traveler, said the entire customs clearance process was smooth and pleasant, adding that high-speed trains offer convenient transportation, allowing visitors to take in the scenery of different cities on a single trip.",
-          "cn": "“有这么多历史悠久的宏伟建筑和寺庙，我渴望到处旅行，探索它们。”英国游客保罗·约翰·汤姆林斯表示，整个海关通关过程顺畅愉快，并补充说高铁提供了便捷的交通，让游客可以在一次旅行中欣赏不同城市的风景。"
+          "en": "These include the EAST \"artificial sun\" fusion reactor – which has cooperated with over 120 research institutions across more than 50 countries, according to reports from China Media Group – and the \"Tianyan‑P2000\" photonic quantum computer, the first photonic quantum computer with quantum supremacy capability open to global users. Citizens visit the Experimental Advanced Superconducting Tokamak (EAST) nuclear fusion device, Hefei, east China's Anhui Province, May 17, 2025. The Synergetic Extreme Condition User Facility, completed in 2025, has already served 381 institutions, including 16 international organizations from 11 countries, with open beam time reaching 428,000 hours. A technician works at the Synergetic Extreme Condition User Facility in Huairou Science City, Beijing, China, July 16, 2026. If China's technological capacity was truly a \"threat,\" why would it open up its most advanced AI models and grant global access to its most {{19}} research facilities?",
+          "cn": "这些设施包括EAST“人造太阳”聚变反应堆——据中央广播电视总台报道，该反应堆已与50多个国家的120多个研究机构合作——以及“天眼-P2000”光子量子计算机，这是首台向全球用户开放、具备量子优越性的光子量子计算机。2025年5月17日，市民参观位于中国安徽省合肥市的实验先进超导托卡马克（EAST）核聚变装置。2025年建成的综合极端条件实验装置已服务381家机构，其中包括来自11个国家的16个国际组织，开放机时达428,000小时。2026年7月16日，一名技术人员在北京怀柔科学城的综合极端条件实验装置工作。如果中国的技术能力真是“威胁”，为何要开放其最先进的AI模型并让全球使用其最尖端的研究设施？"
+        },
+        {
+          "en": "The answer is clear: China's tech capacity is not a closed proprietary asset but an open global public good – one that {{20}} rather than threatens, and invites the world to share the benefits of scientific progress.",
+          "cn": "答案很明确：中国的技术能力不是封闭的专有资产，而是开放的全球公共产品——它赋能而非威胁，并邀请世界共享科学进步的成果。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "streamlined",
-          "hint": "v. 简化，优化",
+          "answer": "cumulative",
+          "hint": "adj. 累计的",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "clearance",
-          "hint": "n. 通关，清关",
+          "answer": "sheer",
+          "hint": "adj. 纯粹的",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "reflecting",
-          "hint": "v. 反映",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "innovation",
-          "hint": "n. 创新",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "hub",
-          "hint": "n. 中心，枢纽",
+          "answer": "dominate",
+          "hint": "v. 主导",
           "difficulty": "medium"
         },
         {
+          "id": 3,
+          "answer": "frontier",
+          "hint": "n. 前沿",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "performant",
+          "hint": "adj. 性能优越的",
+          "difficulty": "hard"
+        },
+        {
           "id": 5,
-          "answer": "topped",
-          "hint": "v. 超过，达到顶峰",
+          "answer": "parameters",
+          "hint": "n. 参数",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "upgrade",
-          "hint": "v. 升级",
-          "difficulty": "easy"
+          "answer": "footprint",
+          "hint": "n. 足迹；影响范围",
+          "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "bilingual",
-          "hint": "adj. 双语的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "tailored",
-          "hint": "adj. 定制的，量身定做的",
+          "answer": "repositories",
+          "hint": "n. 仓库（代码库）",
           "difficulty": "hard"
         },
         {
-          "id": 9,
-          "answer": "diversify",
-          "hint": "v. 多样化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "exceeded",
-          "hint": "v. 超过",
+          "id": 8,
+          "answer": "fundamental",
+          "hint": "adj. 根本的",
           "difficulty": "easy"
         },
         {
+          "id": 9,
+          "answer": "proprietary",
+          "hint": "adj. 专有的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "hefty",
+          "hint": "adj. 高昂的",
+          "difficulty": "medium"
+        },
+        {
           "id": 11,
-          "answer": "accounted",
-          "hint": "v. 占（比例）",
+          "answer": "adaptable",
+          "hint": "adj. 可适应的",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "driver",
-          "hint": "n. 驱动力",
-          "difficulty": "medium"
+          "answer": "adopting",
+          "hint": "v. 采用",
+          "difficulty": "easy"
         },
         {
           "id": 13,
-          "answer": "logistics",
-          "hint": "n. 物流",
+          "answer": "backbone",
+          "hint": "n. 支柱",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "delegations",
-          "hint": "n. 代表团",
-          "difficulty": "hard"
+          "answer": "revealed",
+          "hint": "v. 透露",
+          "difficulty": "easy"
         },
         {
           "id": 15,
-          "answer": "peaks",
-          "hint": "n. 高峰",
+          "answer": "adapted",
+          "hint": "v. 适配",
           "difficulty": "medium"
         },
         {
           "id": 16,
-          "answer": "sustained",
-          "hint": "adj. 持续的",
-          "difficulty": "hard"
+          "answer": "commitment",
+          "hint": "n. 承诺",
+          "difficulty": "easy"
         },
         {
           "id": 17,
-          "answer": "momentum",
-          "hint": "n. 势头，动力",
-          "difficulty": "hard"
+          "answer": "facilities",
+          "hint": "n. 设施",
+          "difficulty": "easy"
         },
         {
           "id": 18,
-          "answer": "connectivity",
-          "hint": "n. 连通性",
-          "difficulty": "hard"
+          "answer": "sophisticated",
+          "hint": "adj. 尖端的",
+          "difficulty": "medium"
         },
         {
           "id": 19,
-          "answer": "inbound",
-          "hint": "adj. 入境的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "fascinates",
-          "hint": "v. 使着迷",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "magnificent",
-          "hint": "adj. 宏伟的",
+          "answer": "empowers",
+          "hint": "v. 赋能",
           "difficulty": "medium"
         }
       ],
-      "fullText": "As Shenzhen prepares to host the 33rd APEC Economic Leaders' Meeting in November, entry and exit procedures for foreign visitors across Guangdong province are being streamlined to ensure faster clearance.\nThe number of visitors from Asia-Pacific Economic Cooperation economies arriving in Guangdong's major cities, including Guangzhou, Shenzhen, Zhuhai, Foshan and Dongguan, has risen steadily since the start of the year, reflecting deepening ties between APEC economies and the southern innovation and manufacturing hub, officials said.\nAccording to the Shenzhen General Station of Immigration Inspection, as of early August, foreign nationals entering and exiting Guangdong through Shenzhen's border ports had topped 5 million, a figure reached 58 days earlier than in 2025.\nWu Sijue, a senior immigration inspection officer in Shenzhen, said that officers are working to improve port clearance efficiency, upgrade the digital arrival registration system, expand bilingual and multilingual services, and strengthen on-site consultation and passenger guidance.\n\"We will open dedicated APEC lanes at eight ports, spanning airports, seaports, land ports and railway ports, and roll out tailored guidance and inspection measures to ensure safe, efficient and convenient clearance,\" Wu added.\nThe Guangzhou General Station of Immigration Inspection said the demographic profile of the incoming visitors continues to diversify, driven by conventions, exhibitions, cultural tourism and other business activities.\nIn the first half of the year, foreign nationals entering through ports administered by the station exceeded 2.02 million, up 32.9 percent year-on-year. Conference and business visitors accounted for 26.2 percent of all foreign arrivals, with the China Import and Export Fair, which is also known as the Canton Fair, being a core driver of this growth, it said.\nAs a cross-border e-commerce hub, Guangzhou also attracts a steady stream of foreign sellers and logistics providers.\nAs the APEC Economic Leaders' Meeting approaches, presummit meetings for senior officials, a CEO summit and thematic working group sessions have brought waves of official delegations, business leaders and think tank experts, creating repeated visitor peaks, inspection officials said.\nVisa-exempt foreign arrivals accounted for more than half of all entries at Guangzhou's ports, and most of these were from APEC economies.\nThe Zhuhai General Station of Immigration Inspection reported that foreign arrivals and departures through the city's ports had reached 1.46 million as of Aug 25. Among these, 310,000 entered under visa-exempt policies or with APEC business travel cards, accounting for more than 20 percent of all foreign arrivals.\nHan Yonghui, executive dean of the Guangdong Institute for International Strategies, attributed the sustained growth in APEC-related arrivals to visa facilitation, the momentum of the APEC \"China Year\", deep trade links with the Asia-Pacific region, expanded international connectivity, and improved urban services for inbound travelers.\n\"Visa exemptions are the foremost driver,\" Han said, noting that strong trade, investment and industrial chain ties between Guangdong and APEC economies have created solid demand for recurring business travel, while a high-density air network has cut travel costs.\nThe policy push is fueling strong interest among foreign visitors.\nFrench traveler Axel Jeremy Tom Beriel, who loves Chinese food, especially Cantonese cuisine, said he wants to see Guangdong's natural beauty, such as the mountains and forests, as well as the scenic landscapes surrounding the province's cities.\n\"Chinese culture fascinates me too,\" he said. \"There are so many time-honored, magnificent buildings and temples, and I'm eager to travel around and explore them all.\"\nPaul John Tomlins, a British traveler, said the entire customs clearance process was smooth and pleasant, adding that high-speed trains offer convenient transportation, allowing visitors to take in the scenery of different cities on a single trip.",
-      "fullTextCn": "随着深圳将于11月主办第33届APEC经济领导人会议，广东省正在优化外国游客的出入境手续，以确保更快速的通关。官员表示，自年初以来，来自亚太经合组织经济体的游客抵达广东主要城市（包括广州、深圳、珠海、佛山和东莞）的人数稳步上升，反映了APEC经济体与这个南方创新和制造业中心之间日益加深的联系。据深圳出入境边防检查总站统计，截至8月初，通过深圳口岸出入境的外国人已超过500万人次，比2025年提前58天达到这一数字。深圳高级边检官员吴思觉表示，边检人员正致力于提高口岸通关效率，升级数字化到达登记系统，扩大双语和多语服务，并加强现场咨询和旅客引导。吴补充说：“我们将在八个口岸开设APEC专用通道，涵盖机场、海港、陆路口岸和铁路口岸，并推出量身定制的引导和检查措施，确保安全、高效、便捷的通关。”广州出入境边防检查总站表示，在会议、展览、文化旅游和其他商务活动的推动下，入境游客的人口结构持续多样化。\n\n今年上半年，通过该总站管辖口岸入境的外国人超过202万人次，同比增长32.9%。其中，会议和商务旅客占所有外国入境者的26.2%，中国进出口商品交易会（又称广交会）是这一增长的核心驱动力。作为跨境电子商务中心，广州还吸引了稳定的外国卖家和物流供应商。随着APEC经济领导人会议临近，高级官员预备会议、CEO峰会和专题工作组会议带来了多波官方代表团、商界领袖和智库专家，形成了多次旅客高峰。边检官员表示，免签入境的外国人占广州口岸所有入境人数的一半以上，其中大多数来自APEC经济体。珠海出入境边防检查总站报告称，截至8月25日，通过该市口岸的外国人出入境人数已达146万人次。\n\n其中，31万人根据免签政策或APEC商务旅行卡入境，占所有外国入境者的20%以上。广东国际战略研究院执行院长韩永辉将APEC相关入境人数的持续增长归因于签证便利化、APEC“中国年”的势头、与亚太地区的深厚贸易联系、扩大的国际连通性以及为入境旅客改善的城市服务。韩说：“免签是首要驱动力。”他指出，广东与APEC经济体之间强大的贸易、投资和产业链联系为经常性商务旅行创造了坚实的需求，而高密度航空网络降低了旅行成本。政策推动正在激发外国游客的浓厚兴趣。热爱中国菜、尤其是粤菜的法国游客阿克塞尔·杰里米·汤姆·贝里尔表示，他想看看广东的自然美景，如山脉和森林，以及城市周边的风景。“中国文化也让我着迷，”他说。\n\n“有这么多历史悠久的宏伟建筑和寺庙，我渴望到处旅行，探索它们。”英国游客保罗·约翰·汤姆林斯表示，整个海关通关过程顺畅愉快，并补充说高铁提供了便捷的交通，让游客可以在一次旅行中欣赏不同城市的风景。"
+      "fullText": "China's open AI models have surpassed 10 billion cumulative downloads worldwide. But the real story lies not in the sheer volume – it lies in what the global open community actually builds with them.\nAccording to Hugging Face's Summer 2026 report published on August 14, Chinese-developed open models now dominate the frontier of AI scale. In almost every month of 2026, the largest and most performant open model from a Chinese lab was larger than any model an American lab released – with China's monthly ceiling ranging between 754 billion and 2.78 trillion parameters, while US models stayed under 130 billion in five of seven months.\n/Hugging Face\nMore tellingly, Chinese models are not just downloaded – they are built upon. Derivatives based on Alibaba's Qwen alone now number 151,448 on the Hugging Face Hub, 2.6 times Meta's total footprint. That figure grows by 180 to 210 new repositories every single day.\nThese are not just statistics – they represent a fundamental shift in how advanced technology reaches the world. Unlike proprietary models that charge hefty licensing fees, China's open models are freely downloadable, commercially usable and highly adaptable.\nThis open approach allows more countries, especially developing countries, to access and afford cutting-edge AI technology, said Yan Dong, vice minister of commerce.\nFrom Silicon Valley startups to European manufacturing plants, overseas companies are actively adopting Chinese open models – such as DeepSeek and Qwen – as their technology backbone. A partner at Andreessen Horowitz revealed that as many as 80% of AI startups seeking funding in Silicon Valley use Chinese open models. One model, adapted with local African data, now supports 20 African languages.\nChina's commitment to openness extends far beyond software. In March, the Zhongguancun Forum released the Open Science International Cooperation Action Plan, opening 10 major research infrastructure facilities to global scientists.\nThese include the EAST \"artificial sun\" fusion reactor – which has cooperated with over 120 research institutions across more than 50 countries, according to reports from China Media Group – and the \"Tianyan‑P2000\" photonic quantum computer, the first photonic quantum computer with quantum supremacy capability open to global users.\nCitizens visit the Experimental Advanced Superconducting Tokamak (EAST) nuclear fusion device, Hefei, east China's Anhui Province, May 17, 2025. \nThe Synergetic Extreme Condition User Facility, completed in 2025, has already served 381 institutions, including 16 international organizations from 11 countries, with open beam time reaching 428,000 hours.\nA technician works at the Synergetic Extreme Condition User Facility in Huairou Science City, Beijing, China, July 16, 2026. \nIf China's technological capacity was truly a \"threat,\" why would it open up its most advanced AI models and grant global access to its most sophisticated research facilities? The answer is clear: China's tech capacity is not a closed proprietary asset but an open global public good – one that empowers rather than threatens, and invites the world to share the benefits of scientific progress.",
+      "fullTextCn": "中国的开源AI模型全球累计下载量已超过100亿次。但真正的故事不在于数量本身——而在于全球开源社区实际上用它们构建了什么。根据8月14日发布的Hugging Face 2026年夏季报告，中国开发的开源模型现在主导着AI规模的前沿。在2026年几乎每个月，中国实验室发布的最大、性能最强的开源模型都比美国实验室发布的任何模型都要大——中国的月度上限在7540亿到2.78万亿参数之间，而美国模型在七个月中有五个月保持在1300亿以下。/Hugging Face 更具说服力的是，中国模型不仅被下载——它们还被在此基础上构建。\n\n仅基于阿里巴巴通义千问的衍生模型在Hugging Face Hub上就已达151,448个，是Meta总足迹的2.6倍。这一数字每天以180到210个新仓库的速度增长。这些不仅仅是统计数据——它们代表了先进技术如何惠及世界的根本性转变。与收取高额许可费的专有模型不同，中国的开源模型可免费下载、可商用且高度可适应。商务部副部长严东表示，这种开放方式使更多国家，特别是发展中国家，能够获取并负担得起尖端AI技术。\n\n从硅谷初创企业到欧洲制造工厂，海外公司正积极采用中国开源模型——如DeepSeek和通义千问——作为其技术支柱。Andreessen Horowitz的一位合伙人透露，硅谷寻求融资的AI初创公司中多达80%使用中国开源模型。一个用非洲本地数据适配的模型现在支持20种非洲语言。中国的开放承诺远不止于软件。3月，中关村论坛发布了《开放科学国际合作行动计划》，向全球科学家开放了10个重大科研基础设施。\n\n这些设施包括EAST“人造太阳”聚变反应堆——据中央广播电视总台报道，该反应堆已与50多个国家的120多个研究机构合作——以及“天眼-P2000”光子量子计算机，这是首台向全球用户开放、具备量子优越性的光子量子计算机。2025年5月17日，市民参观位于中国安徽省合肥市的实验先进超导托卡马克（EAST）核聚变装置。2025年建成的综合极端条件实验装置已服务381家机构，其中包括来自11个国家的16个国际组织，开放机时达428,000小时。2026年7月16日，一名技术人员在北京怀柔科学城的综合极端条件实验装置工作。如果中国的技术能力真是“威胁”，为何要开放其最先进的AI模型并让全球使用其最尖端的研究设施？\n\n答案很明确：中国的技术能力不是封闭的专有资产，而是开放的全球公共产品——它赋能而非威胁，并邀请世界共享科学进步的成果。"
     }
   ]
 }
