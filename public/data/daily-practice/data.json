@@ -1,440 +1,493 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "articles": [
     {
       "id": 1,
       "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-24/How-innovation-is-reshaping-China-s-manufacturing-edge-1PRXqhaIqA0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "How innovation is reshaping China's manufacturing edge",
-      "titleCn": "创新如何重塑中国制造业优势",
-      "summary": "China's manufacturing competitiveness is increasingly being shaped by technological innovation and industrial upgrading. China now hosts 109 of the world's 238 lighthouse factories, or 45.8% of the global total, ranking first in the world, according to the World Economic Forum's latest Lighthouse Network figures.",
-      "summaryCn": "中国制造业竞争力正通过技术创新、数字化转型和绿色工厂建设得到重塑，并引领全球灯塔工厂发展。",
-      "wordCount": 619,
+      "sourceUrl": "https://news.cgtn.com/news/2026-08-28/The-digital-rehab-therapist-crossing-borders-1PYUdv3ComI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "The digital rehab therapist crossing borders",
+      "titleCn": "跨越国界的数字康复治疗师",
+      "summary": "On August 22, an unusual \"rehabilitation therapist\" arrived at the Clinical Emergency Hospital in Bishkek, capital of Kyrgyzstan. Combining 3D vision and AI-powered motion recognition, the Digital Rehabilitation Therapist (DRT) can detect subtle movements deviations from leg raises to knee bends.",
+      "summaryCn": "中国捐赠的智能数字康复治疗系统在吉尔吉斯斯坦投入使用，标志着两国十多年医疗合作从学术交流走向临床实践，并有望惠及更多国家。",
+      "wordCount": 886,
       "paragraphs": [
         {
-          "en": "China's manufacturing {{0}} is increasingly being shaped by {{1}} innovation and industrial {{2}}. China now {{3}} 109 of the world's 238 lighthouse factories, or 45.8% of the global total, ranking first in the world, according to the World Economic Forum's latest Lighthouse Network figures. A recently released Ministry of Commerce document {{4}} that the rapid growth of China's modern industries is being {{5}} by innovation. The numbers tell the story: by June 2026, 89.6% of industrial enterprises above designated size had undergone {{6}} {{7}} and the country had cumulatively {{8}} over 8,000 national-level green factories and more than 600 green industrial parks. Together, they point to an {{9}} truth – the competitiveness of China's manufacturing capacity {{10}} from technological innovation and industrial upgrading.",
-          "cn": "中国的制造业竞争力日益受到技术创新和产业升级的影响。根据世界经济论坛最新的灯塔工厂网络数据，中国目前拥有全球238家灯塔工厂中的109家，占全球总数的45.8%，位居世界第一。商务部最近发布的一份文件强调，中国现代产业的快速增长是由创新驱动的。数字说明了这一点：到2026年6月，89.6%的规模以上工业企业已完成数字化转型，全国累计培育了8000多家国家级绿色工厂和600多个绿色工业园区。这些共同指向一个不可否认的事实——中国制造能力的竞争力源于技术创新和产业升级。"
+          "en": "On August 22, an unusual \"{{0}} therapist\" arrived at the Clinical Emergency Hospital in Bishkek, capital of Kyrgyzstan. Combining 3D vision and AI-powered motion recognition, the Digital Rehabilitation Therapist (DRT) can {{1}} subtle movements {{2}} from leg raises to knee bends. It draws on a database of more than 100,000 rehabilitation cases from Peking University Third Hospital, bringing movement assessment, rehabilitation {{3}} and training guidance into a single digital system. It was donated by China to Kyrgyzstan. Santa Beknazarova, the head of the hospital's Department of Medical Rehabilitation, trained a local rehabilitation physician to use the DRT.",
+          "cn": "8月22日，一位不同寻常的“康复治疗师”抵达吉尔吉斯斯坦首都比什凯克的临床急救医院。结合3D视觉和人工智能驱动的运动识别技术，数字康复治疗师（DRT）能够检测从抬腿到屈膝等细微的运动偏差。它借鉴了北京大学第三医院超过10万个康复病例的数据库，将运动评估、康复处方和训练指导整合到一个数字系统中。该设备由中国捐赠给吉尔吉斯斯坦。医院医学康复科主任桑塔·别克纳扎罗娃培训了一名本地康复医生使用DRT。"
         },
         {
-          "en": "Among China's 109 lighthouses, the industries {{11}} automobiles, home appliances, electronics, new energy and more. At the Haier Shenyang Refrigerator Interconnected Factory, the world's first end-to-end lighthouse in the refrigerator industry, a single production line supports flexible mass {{13}} of over 500 models, with a production \"Takt Time\" shortened to one unit every 10 seconds. Through an {{14}} digital platform, the factory has achieved end-to-end {{15}} across the entire value chain, raising direct labor {{16}} by 28%. A lighthouse factory in Changsha, central China's Hunan Province, May 16, 2026. \"The lighthouse factory represents a {{17}} stone toward an even more advanced model – a 'factory brain',\" said Yuan Haidong, general manager of the intelligent manufacturing department at Hisense Visual Technology.",
-          "cn": "在中国的109家灯塔工厂中，行业涵盖汽车、家电、电子、新能源等。在海尔沈阳冰箱互联工厂——全球冰箱行业首家端到端灯塔工厂——一条生产线支持超过500种型号的柔性大规模定制，生产“节拍时间”缩短至每10秒一台。通过可扩展的数字平台，该工厂实现了整个价值链的端到端连接，直接劳动生产率提高了28%。2026年5月16日，位于中国中部湖南省长沙市的一家灯塔工厂。海信视像科技智能制造部门总经理袁海东表示：“灯塔工厂是迈向更先进模式——‘工厂大脑’——的垫脚石。”"
+          "en": "Santa Beknazarova, head of the Department of Medical Rehabilitation of the Clinical Emergency Hospital, stood beside her new digital \"colleague\" and demonstrated how it works. \"When a movement is not performed correctly, the device shows a red or yellow light. When it is done correctly, the light turns green,\" she said. She hopes the system will help doctors develop more {{4}} exercise plans for patients and allow more people to access them on their phones. The DRT's two cameras track patients' movements during rehabilitation.",
+          "cn": "临床急救医院医学康复科主任桑塔·别克纳扎罗娃站在她的新数字“同事”旁边，演示了它的工作原理。“当动作执行不正确时，设备会显示红色或黄色灯光。当动作正确时，灯光会变绿，”她说。她希望该系统能帮助医生为患者制定更精确的运动计划，并让更多人通过手机使用这些计划。DRT的两个摄像头在康复过程中追踪患者的动作。"
         },
         {
-          "en": "At the Hisense Qingdao factory – the only lighthouse in the global television manufacturing industry – the {{18}} of AI, big data, {{19}} and large-scale {{20}} reality throughout R&D and manufacturing {{21}} Research and Development cycles by 34%, lowered material costs by 18%, and cut new employee training time by 60%. Beyond individual factories, China's digital transformation is {{22}} the {{23}} of manufacturing itself. In the Yangtze River Delta, Shanghai focuses on chips and high-end wafer research and development, Jiangsu leads in semiconductor {{24}} and testing, Anhui pursues storage and display driver wafer {{25}} via companies such as ChangXin Memory Technologies (CXMT) and Nexchip Semiconductor Corporation, and Zhejiang {{26}} in design and semiconductor supporting materials. This {{27}} division of labor has created a {{28}} innovation system where leading enterprises or research institutes propose technical needs and recruit regional universities, research institutes and supply chain partners to jointly tackle core technologies – breaking the traditional {{29}} path of \"basic research-results-{{30}}\" in favor of direct, point-to-point industrial innovation. A low-carbon wastewater treatment plant in Zhengzhou, central China's Henan Province, June 16, 2026.",
-          "cn": "在海信青岛工厂——全球电视制造业唯一的灯塔工厂——在研发和制造过程中采用人工智能、大数据、仿真和大规模虚拟现实技术，使研发周期缩短了34%，材料成本降低了18%，新员工培训时间减少了60%。除了个别工厂，中国的数字化转型正在重塑制造业的地理格局。在长三角地区，上海专注于芯片和高端晶圆研发，江苏在半导体封装和测试方面领先，安徽通过长鑫存储（CXMT）和晶合集成等公司从事存储和显示驱动晶圆代工，浙江则专注于设计和半导体配套材料。这种差异化分工形成了一个功能性创新体系，其中领先企业或研究机构提出技术需求，并招募区域高校、研究机构和供应链合作伙伴共同攻克核心技术——打破了“基础研究—成果—产业化”的传统线性路径，转而采用直接、点对点的产业创新。2026年6月16日，位于中国中部河南省郑州市的一座低碳污水处理厂。"
+          "en": "Trauma care and post-injury rehabilitation remain major challenges in Kyrgyzstan. A new National Center of Traumatology and Orthopedics is under construction in Bishkek, an {{6}} promoted by Kyrgyz President Sadyr Japarov, and is set to open by year's end. The DRT will also be relocated there. Academician Sabyrbek Dzhumabekov, director of the National Center of Traumatology and Orthopedics in Kyrgyzstan, {{7}} the device will serve at least 20 patients a day, including those with spinal and major joint injuries, post-operative patients and athletes in the recovery phase. Sabyrbek Dzhumabekov, an academician of the National Academy of Sciences of the Kyrgyz Republic and the director of the National Center of Traumatology and Orthopedics, Kyrgyzstan watches a demonstration video of the DRT.",
+          "cn": "创伤护理和伤后康复仍然是吉尔吉斯斯坦面临的重大挑战。一个新的国家创伤与骨科中心正在比什凯克建设中，这是由吉尔吉斯斯坦总统萨德尔·扎帕罗夫推动的倡议，预计年底前开放。DRT也将被迁移到那里。吉尔吉斯斯坦国家创伤与骨科中心主任、院士萨比尔别克·朱马别科夫估计，该设备每天将至少服务20名患者，包括脊柱和主要关节损伤患者、术后患者以及处于恢复期的运动员。吉尔吉斯共和国国家科学院院士、吉尔吉斯斯坦国家创伤与骨科中心主任萨比尔别克·朱马别科夫观看了DRT的演示视频。"
         },
         {
-          "en": "Green capacity – lowering the cost of the global energy transition\nChina stays focused on {{31}} through innovation, contributing to significantly greener and smarter traditional industries. China supports enterprises in adopting digital and smart technologies to drive industrial {{32}} and upgrading and promoting higher-end, smarter and greener industries. According to the Ministry of Commerce document, in recent years, industries in China have grown increasingly {{33}}. Over 8,000 national green factories and more than 600 green industrial parks have been built, and the 246 national green data centers are 50% powered by green electricity. Of all industrial enterprises above the designated size, 89.6% have launched digital transformation and 57.7% have installed digital equipment.",
-          "cn": "绿色产能——降低全球能源转型成本。中国持续聚焦创新赋能，推动传统产业显著更绿色、更智能。中国支持企业采用数字和智能技术，推动产业优化升级，促进产业向更高端、更智能、更绿色方向发展。根据商务部文件，近年来，中国产业日益环保。已建成8000多家国家级绿色工厂和600多个绿色工业园区，246个国家级绿色数据中心中50%使用绿色电力。在规模以上工业企业中，89.6%已启动数字化转型，57.7%已安装数字设备。"
+          "en": "More than a decade of medical {{8}}\nKyrgyzstan is a member of the Shanghai Cooperation Organization (SCO) and one of the Belt and Road Initiative (BRI) partner countries. Medical cooperation between China and Kyrgyzstan goes back more than a decade. \"We have maintained close cooperation with our Chinese colleagues since 2013,\" Dzhumabekov recalled. That year, the two sides signed a cooperation agreement on traumatology and orthopedics, followed by specialist exchanges, joint operations, research and academic conferences. In 2023, a new {{9}} of understanding {{10}} cooperation to more institutions and universities.",
+          "cn": "十多年的医疗合作\n吉尔吉斯斯坦是上海合作组织（SCO）成员国，也是“一带一路”倡议（BRI）的伙伴国之一。中吉医疗合作可以追溯到十多年前。“自2013年以来，我们一直与中国同事保持密切合作，”朱马别科夫回忆道。那一年，双方签署了创伤与骨科合作协议，随后进行了专家交流、联合手术、研究和学术会议。2023年，一份新的谅解备忘录将合作扩大到更多机构和大学。"
         },
         {
-          "en": "China has 109 lighthouse factories, nearly half of the global total. According to the International Renewable Energy Agency (IRENA), since 2010, the cost of photovoltaic power generation has fallen by 89%, concentrated solar power by 72%, onshore wind by 71% and offshore wind by 63%. IRENA explicitly notes that the intense competition in the global {{34}} energy industry – driven in large part by the massive expansion of Chinese manufacturing – has {{35}} profit {{36}} to extremely low levels, with prices approaching production costs.",
-          "cn": "中国拥有109家灯塔工厂，接近全球总数的一半。根据国际可再生能源署（IRENA）的数据，自2010年以来，光伏发电成本下降了89%，聚光太阳能发电成本下降了72%，陆上风电成本下降了71%，海上风电成本下降了63%。IRENA明确指出，全球可再生能源行业的激烈竞争——在很大程度上由中国制造业的大规模扩张推动——已将利润率压缩至极低水平，价格接近生产成本。"
+          "en": "\"China has more than 250,000 orthopedic and {{5}} doctors. Every year, we take part in academic conferences, where we present our work and share experience,\" he said. Sabyrbek Dzhumabekov shares his opinion about the DRT. Over the years, those exchanges have moved beyond conference rooms and into patient care. In 2023, a Chinese program offering free cataract surgery launched in Bishkek, with plans to restore sight for 600 patients.",
+          "cn": "“中国有超过25万名骨科和创伤医生。每年，我们都参加学术会议，在会上展示我们的工作并分享经验，”他说。萨比尔别克·朱马别科夫分享了他对DRT的看法。多年来，这些交流已超越会议室，进入患者护理领域。2023年，一项提供免费白内障手术的中国项目在比什凯克启动，计划为600名患者恢复视力。"
+        },
+        {
+          "en": "It later expanded to Osh. By May 2026, more than 1,500 Kyrgyz patients had received free surgery. In October 2024, Chinese thoracic surgeons traveled to Bishkek for exchanges and training in minimally invasive surgery. Local doctors said the {{11}} shared could strengthen clinical capacity and improve patient care. An ophthalmic device for eye examination.",
+          "cn": "该项目后来扩展到奥什。到2026年5月，超过1500名吉尔吉斯斯坦患者接受了免费手术。2024年10月，中国胸外科医生前往比什凯克进行微创手术的交流和培训。当地医生表示，分享的专业知识可以增强临床能力并改善患者护理。一台用于眼科检查的眼科设备。"
+        },
+        {
+          "en": "/CFP\nJoint operations, free medical services, professional training, equipment support and research collaboration have built a growing network of medical cooperation between the two countries. That cooperation has continued to expand under the BRI and SCO frameworks. \"The two governments and heads of state are making great efforts to promote friendship, cooperation and common development in traumatology and orthopedics,\" Dzhumabekov said. Taking medical innovation across borders\n\"In many countries, there is no shortage of doctors. What is truly {{12}} are experienced rehabilitation professionals,\" said Wu Yan, a representative of the DRT development team.",
+          "cn": "/CFP\n联合手术、免费医疗服务、专业培训、设备支持和研究合作，构建了两国之间日益增长的医疗合作网络。在“一带一路”倡议和上合组织框架下，这种合作持续扩大。“两国政府和元首正在为促进创伤与骨科领域的友谊、合作和共同发展做出巨大努力，”朱马别科夫说。将医疗创新带出国界\n“在许多国家，医生并不短缺。真正稀缺的是经验丰富的康复专业人员，”DRT开发团队代表吴燕说。"
+        },
+        {
+          "en": "She believes smart rehabilitation technology, used alongside trained professionals, can help areas with limited specialist resources provide more {{13}} care. She recalls a Kyrgyz medical delegation visiting China and seeing the DRT in use firsthand. \"They hoped to bring this system, which combines China's experience in sports medicine and rehabilitation with artificial intelligence, to Kyrgyzstan so it could benefit local people,\" Wu said. The DRT's Russian-language interface. That interest turned a technical visit into an everyday helathcare practice.",
+          "cn": "她认为，智能康复技术与训练有素的专业人员结合使用，可以帮助专业资源有限的地区提供更标准化的护理。她回忆起一个吉尔吉斯斯坦医疗代表团访问中国并亲眼看到DRT的使用情况。“他们希望将这套结合了中国运动医学和康复经验与人工智能的系统带到吉尔吉斯斯坦，以便惠及当地人民，”吴说。DRT的俄语界面。这种兴趣将一次技术访问变成了日常医疗实践。"
+        },
+        {
+          "en": "\"Delivering the device is not the end of our cooperation. It is really the beginning,\" Wu said. Training and remote technical support will continue, the development team said, while feedback from Kyrgyz clinicians will help the team refine the product. Knowledge and needs will flow in both directions, turning technology sharing into a journey of mutual learning and growth. A Kyrgyz patient listens as a rehabilitation therapist explains how to use the DRT.",
+          "cn": "“交付设备不是我们合作的终点。它实际上是起点，”吴说。开发团队表示，培训和远程技术支持将继续进行，而吉尔吉斯斯坦临床医生的反馈将帮助团队完善产品。知识和需求将双向流动，将技术共享转变为相互学习和成长的旅程。一名吉尔吉斯斯坦患者正在聆听康复治疗师解释如何使用DRT。"
+        },
+        {
+          "en": "For Wu, the cooperation signals a shift in China's sports medicine and rehabilitation expertise, from academic discussion toward practical clinical application. After more than a decade of China-Kyrgyzstan medical cooperation, the DRT's arrival is a concrete example of healthcare cooperation under the BRI and SCO platforms. What has traveled across the border is not merely a piece of equipment, but years of {{14}} clinical experience, digital technology and continued technical support. The development team hopes the project will serve as a starting point for the DRT's use in more countries and regions, allowing medical advances to reach more people in need. When technologies like the DRT can cross borders and continue helping patients far from where they were developed, the idea of \"health without borders\" becomes something tangible.",
+          "cn": "对吴来说，这次合作标志着中国运动医学和康复专业知识从学术讨论向实际临床应用转变。在中吉医疗合作十多年后，DRT的到来是“一带一路”倡议和上合组织平台下医疗合作的一个具体例子。跨越国界的不仅仅是一台设备，还有多年积累的临床经验、数字技术和持续的技术支持。开发团队希望该项目能成为DRT在更多国家和地区使用的起点，让医疗进步惠及更多有需要的人。当像DRT这样的技术能够跨越国界并继续帮助远离其开发地的患者时，“无国界健康”的理念就变得切实可行。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "competitiveness",
-          "hint": "n. 竞争力",
+          "answer": "rehabilitation",
+          "hint": "n. 康复",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "technological",
-          "hint": "adj. 技术的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "upgrading",
-          "hint": "n. 升级",
+          "answer": "detect",
+          "hint": "v. 检测",
           "difficulty": "medium"
         },
         {
+          "id": 2,
+          "answer": "deviations",
+          "hint": "n. 偏差",
+          "difficulty": "hard"
+        },
+        {
           "id": 3,
-          "answer": "hosts",
-          "hint": "v. 拥有，主办",
+          "answer": "prescriptions",
+          "hint": "n. 处方",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "emphasizes",
-          "hint": "v. 强调",
-          "difficulty": "easy"
+          "answer": "precise",
+          "hint": "adj. 精确的",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "driven",
-          "hint": "v. 驱动",
-          "difficulty": "easy"
+          "answer": "trauma",
+          "hint": "n. 创伤",
+          "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "digital",
-          "hint": "adj. 数字的",
-          "difficulty": "easy"
+          "answer": "initiative",
+          "hint": "n. 倡议",
+          "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "transformation",
-          "hint": "n. 转型",
-          "difficulty": "medium"
+          "answer": "estimates",
+          "hint": "v. 估计",
+          "difficulty": "easy"
         },
         {
           "id": 8,
-          "answer": "cultivated",
-          "hint": "v. 培育",
-          "difficulty": "medium"
+          "answer": "cooperation",
+          "hint": "n. 合作",
+          "difficulty": "easy"
         },
         {
           "id": 9,
-          "answer": "undeniable",
-          "hint": "adj. 不可否认的",
+          "answer": "memorandum",
+          "hint": "n. 备忘录",
           "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "stems",
-          "hint": "v. 源于",
-          "difficulty": "medium"
+          "answer": "expanded",
+          "hint": "v. 扩大",
+          "difficulty": "easy"
         },
         {
           "id": 11,
-          "answer": "span",
-          "hint": "v. 涵盖",
+          "answer": "expertise",
+          "hint": "n. 专业知识",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "customization",
-          "hint": "n. 定制",
-          "difficulty": "hard"
+          "answer": "scarce",
+          "hint": "adj. 稀缺的",
+          "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "expandable",
-          "hint": "adj. 可扩展的",
+          "answer": "standardized",
+          "hint": "adj. 标准化的",
           "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "connectivity",
-          "hint": "n. 连接性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "productivity",
-          "hint": "n. 生产率",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "stepping",
-          "hint": "n. 垫脚石（step的动名词）",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "adoption",
-          "hint": "n. 采用",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "simulation",
-          "hint": "n. 仿真",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "virtual",
-          "hint": "adj. 虚拟的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 20,
-          "answer": "reduced",
-          "hint": "v. 减少",
-          "difficulty": "easy"
-        },
-        {
-          "id": 21,
-          "answer": "reshaping",
-          "hint": "v. 重塑",
-          "difficulty": "medium"
-        },
-        {
-          "id": 22,
-          "answer": "geography",
-          "hint": "n. 地理格局",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "packaging",
-          "hint": "n. 封装",
-          "difficulty": "hard"
-        },
-        {
-          "id": 24,
-          "answer": "foundry",
-          "hint": "n. 代工",
-          "difficulty": "hard"
-        },
-        {
-          "id": 25,
-          "answer": "specializes",
-          "hint": "v. 专攻",
-          "difficulty": "medium"
-        },
-        {
-          "id": 26,
-          "answer": "differentiated",
-          "hint": "adj. 差异化的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 27,
-          "answer": "functional",
-          "hint": "adj. 功能性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 28,
-          "answer": "linear",
-          "hint": "adj. 线性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 29,
-          "answer": "industrialization",
-          "hint": "n. 产业化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 30,
-          "answer": "empowerment",
-          "hint": "n. 赋能",
-          "difficulty": "hard"
-        },
-        {
-          "id": 31,
-          "answer": "optimization",
-          "hint": "n. 优化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 32,
-          "answer": "eco-friendly",
-          "hint": "adj. 环保的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 33,
-          "answer": "renewable",
-          "hint": "adj. 可再生的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 34,
-          "answer": "compressed",
-          "hint": "v. 压缩",
-          "difficulty": "medium"
-        },
-        {
-          "id": 35,
-          "answer": "margins",
-          "hint": "n. 利润",
+          "answer": "accumulated",
+          "hint": "adj. 积累的",
           "difficulty": "medium"
         }
       ],
-      "fullText": "China's manufacturing competitiveness is increasingly being shaped by technological innovation and industrial upgrading. China now hosts 109 of the world's 238 lighthouse factories, or 45.8% of the global total, ranking first in the world, according to the World Economic Forum's latest Lighthouse Network figures.\nA recently released Ministry of Commerce document emphasizes that the rapid growth of China's modern industries is being driven by innovation. The numbers tell the story: by June 2026, 89.6% of industrial enterprises above designated size had undergone digital transformation and the country had cumulatively cultivated over 8,000 national-level green factories and more than 600 green industrial parks. Together, they point to an undeniable truth – the competitiveness of China's manufacturing capacity stems from technological innovation and industrial upgrading.\nAmong China's 109 lighthouses, the industries span automobiles, home appliances, electronics, new energy and more. At the Haier Shenyang Refrigerator Interconnected Factory, the world's first end-to-end lighthouse in the refrigerator industry, a single production line supports flexible mass customization of over 500 models, with a production \"Takt Time\" shortened to one unit every 10 seconds. Through an expandable digital platform, the factory has achieved end-to-end connectivity across the entire value chain, raising direct labor productivity by 28%.\nA lighthouse factory in Changsha, central China's Hunan Province, May 16, 2026. \n\"The lighthouse factory represents a stepping stone toward an even more advanced model – a 'factory brain',\" said Yuan Haidong, general manager of the intelligent manufacturing department at Hisense Visual Technology. At the Hisense Qingdao factory – the only lighthouse in the global television manufacturing industry – the adoption of AI, big data, simulation and large-scale virtual reality throughout R&D and manufacturing reduced Research and Development cycles by 34%, lowered material costs by 18%, and cut new employee training time by 60%.\nBeyond individual factories, China's digital transformation is reshaping the geography of manufacturing itself.\nIn the Yangtze River Delta, Shanghai focuses on chips and high-end wafer research and development, Jiangsu leads in semiconductor packaging and testing, Anhui pursues storage and display driver wafer foundry via companies such as ChangXin Memory Technologies (CXMT) and Nexchip Semiconductor Corporation, and Zhejiang specializes in design and semiconductor supporting materials.\nThis differentiated division of labor has created a functional innovation system where leading enterprises or research institutes propose technical needs and recruit regional universities, research institutes and supply chain partners to jointly tackle core technologies – breaking the traditional linear path of \"basic research-results-industrialization\" in favor of direct, point-to-point industrial innovation.\nA low-carbon wastewater treatment plant in Zhengzhou, central China's Henan Province, June 16, 2026. \nGreen capacity – lowering the cost of the global energy transition\nChina stays focused on empowerment through innovation, contributing to significantly greener and smarter traditional industries. China supports enterprises in adopting digital and smart technologies to drive industrial optimization and upgrading and promoting higher-end, smarter and greener industries.\nAccording to the Ministry of Commerce document, in recent years, industries in China have grown increasingly eco-friendly. Over 8,000 national green factories and more than 600 green industrial parks have been built, and the 246 national green data centers are 50% powered by green electricity. Of all industrial enterprises above the designated size, 89.6% have launched digital transformation and 57.7% have installed digital equipment. China has 109 lighthouse factories, nearly half of the global total.\nAccording to the International Renewable Energy Agency (IRENA), since 2010, the cost of photovoltaic power generation has fallen by 89%, concentrated solar power by 72%, onshore wind by 71% and offshore wind by 63%. IRENA explicitly notes that the intense competition in the global renewable energy industry – driven in large part by the massive expansion of Chinese manufacturing – has compressed profit margins to extremely low levels, with prices approaching production costs.",
-      "fullTextCn": "中国的制造业竞争力日益受到技术创新和产业升级的影响。根据世界经济论坛最新的灯塔工厂网络数据，中国目前拥有全球238家灯塔工厂中的109家，占全球总数的45.8%，位居世界第一。商务部最近发布的一份文件强调，中国现代产业的快速增长是由创新驱动的。数字说明了这一点：到2026年6月，89.6%的规模以上工业企业已完成数字化转型，全国累计培育了8000多家国家级绿色工厂和600多个绿色工业园区。这些共同指向一个不可否认的事实——中国制造能力的竞争力源于技术创新和产业升级。\n\n在中国的109家灯塔工厂中，行业涵盖汽车、家电、电子、新能源等。在海尔沈阳冰箱互联工厂——全球冰箱行业首家端到端灯塔工厂——一条生产线支持超过500种型号的柔性大规模定制，生产“节拍时间”缩短至每10秒一台。通过可扩展的数字平台，该工厂实现了整个价值链的端到端连接，直接劳动生产率提高了28%。2026年5月16日，位于中国中部湖南省长沙市的一家灯塔工厂。海信视像科技智能制造部门总经理袁海东表示：“灯塔工厂是迈向更先进模式——‘工厂大脑’——的垫脚石。”\n\n在海信青岛工厂——全球电视制造业唯一的灯塔工厂——在研发和制造过程中采用人工智能、大数据、仿真和大规模虚拟现实技术，使研发周期缩短了34%，材料成本降低了18%，新员工培训时间减少了60%。除了个别工厂，中国的数字化转型正在重塑制造业的地理格局。在长三角地区，上海专注于芯片和高端晶圆研发，江苏在半导体封装和测试方面领先，安徽通过长鑫存储（CXMT）和晶合集成等公司从事存储和显示驱动晶圆代工，浙江则专注于设计和半导体配套材料。这种差异化分工形成了一个功能性创新体系，其中领先企业或研究机构提出技术需求，并招募区域高校、研究机构和供应链合作伙伴共同攻克核心技术——打破了“基础研究—成果—产业化”的传统线性路径，转而采用直接、点对点的产业创新。2026年6月16日，位于中国中部河南省郑州市的一座低碳污水处理厂。\n\n绿色产能——降低全球能源转型成本。中国持续聚焦创新赋能，推动传统产业显著更绿色、更智能。中国支持企业采用数字和智能技术，推动产业优化升级，促进产业向更高端、更智能、更绿色方向发展。根据商务部文件，近年来，中国产业日益环保。已建成8000多家国家级绿色工厂和600多个绿色工业园区，246个国家级绿色数据中心中50%使用绿色电力。在规模以上工业企业中，89.6%已启动数字化转型，57.7%已安装数字设备。\n\n中国拥有109家灯塔工厂，接近全球总数的一半。根据国际可再生能源署（IRENA）的数据，自2010年以来，光伏发电成本下降了89%，聚光太阳能发电成本下降了72%，陆上风电成本下降了71%，海上风电成本下降了63%。IRENA明确指出，全球可再生能源行业的激烈竞争——在很大程度上由中国制造业的大规模扩张推动——已将利润率压缩至极低水平，价格接近生产成本。"
+      "fullText": "On August 22, an unusual \"rehabilitation therapist\" arrived at the Clinical Emergency Hospital in Bishkek, capital of Kyrgyzstan. Combining 3D vision and AI-powered motion recognition, the Digital Rehabilitation Therapist (DRT) can detect subtle movements deviations from leg raises to knee bends.\nIt draws on a database of more than 100,000 rehabilitation cases from Peking University Third Hospital, bringing movement assessment, rehabilitation prescriptions and training guidance into a single digital system. It was donated by China to Kyrgyzstan.\nSanta Beknazarova, the head of the hospital's Department of Medical Rehabilitation, trained a local rehabilitation physician to use the DRT. \nSanta Beknazarova, head of the Department of Medical Rehabilitation of the Clinical Emergency Hospital, stood beside her new digital \"colleague\" and demonstrated how it works.\n\"When a movement is not performed correctly, the device shows a red or yellow light. When it is done correctly, the light turns green,\" she said.\nShe hopes the system will help doctors develop more precise exercise plans for patients and allow more people to access them on their phones.\nThe DRT's two cameras track patients' movements during rehabilitation. \nTrauma care and post-injury rehabilitation remain major challenges in Kyrgyzstan. A new National Center of Traumatology and Orthopedics is under construction in Bishkek, an initiative promoted by Kyrgyz President Sadyr Japarov, and is set to open by year's end. The DRT will also be relocated there.\nAcademician Sabyrbek Dzhumabekov, director of the National Center of Traumatology and Orthopedics in Kyrgyzstan, estimates the device will serve at least 20 patients a day, including those with spinal and major joint injuries, post-operative patients and athletes in the recovery phase.\nSabyrbek Dzhumabekov, an academician of the National Academy of Sciences of the Kyrgyz Republic and the director of the National Center of Traumatology and Orthopedics, Kyrgyzstan watches a demonstration video of the DRT. \nMore than a decade of medical cooperation\nKyrgyzstan is a member of the Shanghai Cooperation Organization (SCO) and one of the Belt and Road Initiative (BRI) partner countries. Medical cooperation between China and Kyrgyzstan goes back more than a decade.\n\"We have maintained close cooperation with our Chinese colleagues since 2013,\" Dzhumabekov recalled.\nThat year, the two sides signed a cooperation agreement on traumatology and orthopedics, followed by specialist exchanges, joint operations, research and academic conferences. In 2023, a new memorandum of understanding expanded cooperation to more institutions and universities.\n\"China has more than 250,000 orthopedic and trauma doctors. Every year, we take part in academic conferences, where we present our work and share experience,\" he said.\nSabyrbek Dzhumabekov shares his opinion about the DRT. \nOver the years, those exchanges have moved beyond conference rooms and into patient care.\nIn 2023, a Chinese program offering free cataract surgery launched in Bishkek, with plans to restore sight for 600 patients. It later expanded to Osh. By May 2026, more than 1,500 Kyrgyz patients had received free surgery.\nIn October 2024, Chinese thoracic surgeons traveled to Bishkek for exchanges and training in minimally invasive surgery. Local doctors said the expertise shared could strengthen clinical capacity and improve patient care.\nAn ophthalmic device for eye examination. /CFP\nJoint operations, free medical services, professional training, equipment support and research collaboration have built a growing network of medical cooperation between the two countries. That cooperation has continued to expand under the BRI and SCO frameworks.\n\"The two governments and heads of state are making great efforts to promote friendship, cooperation and common development in traumatology and orthopedics,\" Dzhumabekov said.\nTaking medical innovation across borders\n\"In many countries, there is no shortage of doctors. What is truly scarce are experienced rehabilitation professionals,\" said Wu Yan, a representative of the DRT development team.\nShe believes smart rehabilitation technology, used alongside trained professionals, can help areas with limited specialist resources provide more standardized care.\nShe recalls a Kyrgyz medical delegation visiting China and seeing the DRT in use firsthand.\n\"They hoped to bring this system, which combines China's experience in sports medicine and rehabilitation with artificial intelligence, to Kyrgyzstan so it could benefit local people,\" Wu said.\nThe DRT's Russian-language interface. \nThat interest turned a technical visit into an everyday helathcare practice.\n\"Delivering the device is not the end of our cooperation. It is really the beginning,\" Wu said.\nTraining and remote technical support will continue, the development team said, while feedback from Kyrgyz clinicians will help the team refine the product. Knowledge and needs will flow in both directions, turning technology sharing into a journey of mutual learning and growth.\nA Kyrgyz patient listens as a rehabilitation therapist explains how to use the DRT. \nFor Wu, the cooperation signals a shift in China's sports medicine and rehabilitation expertise, from academic discussion toward practical clinical application.\nAfter more than a decade of China-Kyrgyzstan medical cooperation, the DRT's arrival is a concrete example of healthcare cooperation under the BRI and SCO platforms.\nWhat has traveled across the border is not merely a piece of equipment, but years of accumulated clinical experience, digital technology and continued technical support.\nThe development team hopes the project will serve as a starting point for the DRT's use in more countries and regions, allowing medical advances to reach more people in need.\nWhen technologies like the DRT can cross borders and continue helping patients far from where they were developed, the idea of \"health without borders\" becomes something tangible.",
+      "fullTextCn": "8月22日，一位不同寻常的“康复治疗师”抵达吉尔吉斯斯坦首都比什凯克的临床急救医院。结合3D视觉和人工智能驱动的运动识别技术，数字康复治疗师（DRT）能够检测从抬腿到屈膝等细微的运动偏差。它借鉴了北京大学第三医院超过10万个康复病例的数据库，将运动评估、康复处方和训练指导整合到一个数字系统中。该设备由中国捐赠给吉尔吉斯斯坦。医院医学康复科主任桑塔·别克纳扎罗娃培训了一名本地康复医生使用DRT。\n\n临床急救医院医学康复科主任桑塔·别克纳扎罗娃站在她的新数字“同事”旁边，演示了它的工作原理。“当动作执行不正确时，设备会显示红色或黄色灯光。当动作正确时，灯光会变绿，”她说。她希望该系统能帮助医生为患者制定更精确的运动计划，并让更多人通过手机使用这些计划。DRT的两个摄像头在康复过程中追踪患者的动作。\n\n创伤护理和伤后康复仍然是吉尔吉斯斯坦面临的重大挑战。一个新的国家创伤与骨科中心正在比什凯克建设中，这是由吉尔吉斯斯坦总统萨德尔·扎帕罗夫推动的倡议，预计年底前开放。DRT也将被迁移到那里。吉尔吉斯斯坦国家创伤与骨科中心主任、院士萨比尔别克·朱马别科夫估计，该设备每天将至少服务20名患者，包括脊柱和主要关节损伤患者、术后患者以及处于恢复期的运动员。吉尔吉斯共和国国家科学院院士、吉尔吉斯斯坦国家创伤与骨科中心主任萨比尔别克·朱马别科夫观看了DRT的演示视频。\n\n十多年的医疗合作\n吉尔吉斯斯坦是上海合作组织（SCO）成员国，也是“一带一路”倡议（BRI）的伙伴国之一。中吉医疗合作可以追溯到十多年前。“自2013年以来，我们一直与中国同事保持密切合作，”朱马别科夫回忆道。那一年，双方签署了创伤与骨科合作协议，随后进行了专家交流、联合手术、研究和学术会议。2023年，一份新的谅解备忘录将合作扩大到更多机构和大学。\n\n“中国有超过25万名骨科和创伤医生。每年，我们都参加学术会议，在会上展示我们的工作并分享经验，”他说。萨比尔别克·朱马别科夫分享了他对DRT的看法。多年来，这些交流已超越会议室，进入患者护理领域。2023年，一项提供免费白内障手术的中国项目在比什凯克启动，计划为600名患者恢复视力。\n\n该项目后来扩展到奥什。到2026年5月，超过1500名吉尔吉斯斯坦患者接受了免费手术。2024年10月，中国胸外科医生前往比什凯克进行微创手术的交流和培训。当地医生表示，分享的专业知识可以增强临床能力并改善患者护理。一台用于眼科检查的眼科设备。\n\n/CFP\n联合手术、免费医疗服务、专业培训、设备支持和研究合作，构建了两国之间日益增长的医疗合作网络。在“一带一路”倡议和上合组织框架下，这种合作持续扩大。“两国政府和元首正在为促进创伤与骨科领域的友谊、合作和共同发展做出巨大努力，”朱马别科夫说。将医疗创新带出国界\n“在许多国家，医生并不短缺。真正稀缺的是经验丰富的康复专业人员，”DRT开发团队代表吴燕说。\n\n她认为，智能康复技术与训练有素的专业人员结合使用，可以帮助专业资源有限的地区提供更标准化的护理。她回忆起一个吉尔吉斯斯坦医疗代表团访问中国并亲眼看到DRT的使用情况。“他们希望将这套结合了中国运动医学和康复经验与人工智能的系统带到吉尔吉斯斯坦，以便惠及当地人民，”吴说。DRT的俄语界面。这种兴趣将一次技术访问变成了日常医疗实践。\n\n“交付设备不是我们合作的终点。它实际上是起点，”吴说。开发团队表示，培训和远程技术支持将继续进行，而吉尔吉斯斯坦临床医生的反馈将帮助团队完善产品。知识和需求将双向流动，将技术共享转变为相互学习和成长的旅程。一名吉尔吉斯斯坦患者正在聆听康复治疗师解释如何使用DRT。\n\n对吴来说，这次合作标志着中国运动医学和康复专业知识从学术讨论向实际临床应用转变。在中吉医疗合作十多年后，DRT的到来是“一带一路”倡议和上合组织平台下医疗合作的一个具体例子。跨越国界的不仅仅是一台设备，还有多年积累的临床经验、数字技术和持续的技术支持。开发团队希望该项目能成为DRT在更多国家和地区使用的起点，让医疗进步惠及更多有需要的人。当像DRT这样的技术能够跨越国界并继续帮助远离其开发地的患者时，“无国界健康”的理念就变得切实可行。"
     },
     {
       "id": 2,
       "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://newsaf.cgtn.com/news/2026-08-23/Telemedicine-transforms-access-to-healthcare-in-C-te-d-Ivoire-1PQIgf9CJEs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Telemedicine transforms access to healthcare in Côte d'Ivoire",
-      "titleCn": "远程医疗改变科特迪瓦医疗服务的获取方式",
-      "summary": "In Côte d'Ivoire, seeing a doctor no longer necessarily means spending hours travelling to a hospital or waiting for a consultation.",
-      "summaryCn": "科特迪瓦的Umed电子健康中心通过远程医疗和上门服务，为阿比让居民提供了便捷的医疗选择，减轻了医院压力。",
-      "wordCount": 647,
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-02/news-1Q7dFaK9TKE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Rescue efforts intensify as road to Xizang's disaster zone restored",
+      "titleCn": "救援力度加大，西藏灾区道路恢复通行",
+      "summary": "Rescue and relief efforts continue in Gyirong Port in southwest China's Xizang Autonomous Region following the massive mudslide originating in Nepal. The reopening of National Highway G216 has allowed heavy machinery and additional rescue teams to reach the disaster site, significantly boosting search and rescue operations.",
+      "summaryCn": "西藏吉隆口岸泥石流灾害救援持续，道路恢复后重型机械和救援人员进入核心区，搜救工作深入展开，同时向尼泊尔提供援助并防范次生灾害。",
+      "wordCount": 847,
       "paragraphs": [
         {
-          "en": "In Côte d'Ivoire, seeing a doctor no longer necessarily means spending hours travelling to a hospital or waiting for a {{2}}. Since 2019, the Umed eHealth Center has used telemedicine to connect doctors with patients across Abidjan, offering an {{15}} to conventional consultations in a city where traffic {{1}} and long distances can make accessing healthcare challenging. From behind a computer screen, Dr. Esther Kassi-Aleba begins a consultation with a patient several kilometers away. The patient is unable to travel to a healthcare facility, but through a video call, Kassi-Aleba can listen to her concerns, ask questions and {{3}} her {{4}} remotely.",
-          "cn": "在科特迪瓦，看医生不再意味着花几个小时去医院或等待咨询。自2019年以来，Umed电子健康中心利用远程医疗将医生与阿比让各地的患者连接起来，在交通拥堵和距离遥远可能使就医变得困难的城市中，提供了一种传统咨询的替代方案。在电脑屏幕后面，埃斯特·卡西-阿莱巴医生开始与几公里外的患者进行咨询。患者无法前往医疗机构，但通过视频通话，卡西-阿莱巴可以倾听她的担忧、提问并远程评估她的症状。"
+          "en": "Rescue and relief efforts continue at Gyirong Port in southwest China's Xizang Autonomous Region following the {{1}} mudslide {{2}} in Nepal. The {{3}} of National Highway G216 has allowed heavy machinery and additional rescue teams to reach the disaster site, giving a major {{4}} to search and rescue operations. A fast-moving chain mudslide, which authorities said was {{5}} by a high-altitude glacier {{6}} in Nepal, struck Gyirong Port on the China-Nepal border on August 26. Twenty-one people had been confirmed dead, and 541 others remained missing as of noon on September 2, according to the regional government's latest update on Wednesday evening. Clearing road access to core disaster area\nRestoring the land rescue route has been an important {{7}} for {{8}} search and rescue operations.",
+          "cn": "在中国西南部西藏自治区吉隆口岸，继源自尼泊尔的特大泥石流灾害后，救援和赈济工作仍在继续。国道G216的重新开放使重型机械和更多救援队伍得以抵达灾区，大大推进了搜救行动。8月26日，一场快速移动的链式泥石流袭击了中尼边境的吉隆口岸，当局称其由尼泊尔境内高海拔冰川崩塌引发。据自治区政府周三晚间最新通报，截至9月2日中午，已确认21人死亡，另有541人失踪。恢复通往核心灾区的道路是持续搜救行动的重要前提。"
         },
         {
-          "en": "A patient being checked in her house in Abidjan, Côte d'Ivoire, August 23, 2026. Africa\nThere are no crowded waiting rooms or lengthy journeys — just an internet connection connecting the patient to medical care. \"We realized that for simple tests, such as a malaria test or minor symptoms, patients can face very long waiting times in hospitals,\" says Kassi-Aleba, a doctor at the Umed eHealth Center. \"We decided to take some of the {{5}} off hospitals by managing these minor conditions while using technology to improve access to healthcare.\"\nFrom the screen to the patient's home\nBut the consultation does not always end online. When a patient requires a physical examination or treatment, the center can {{6}} a medical team to their home.",
-          "cn": "2026年8月23日，科特迪瓦阿比让，一名患者在家中接受检查。非洲。没有拥挤的候诊室或漫长的旅程——只需互联网连接将患者与医疗护理联系起来。“我们意识到，对于简单的检测，如疟疾检测或轻微症状，患者在医院可能面临很长的等待时间，”Umed电子健康中心的医生卡西-阿莱巴说。“我们决定通过管理这些轻微病症来减轻医院的压力，同时利用技术改善医疗服务的获取。”从屏幕到患者家中。但咨询并不总是在线结束。当患者需要体检或治疗时，中心可以派遣医疗团队到他们家中。"
+          "en": "The disaster destroyed all roads within three kilometers of the border port. Rescue and construction teams have faced a series of challenges, including narrow working areas, rapidly rising river levels, strong {{9}}, thick {{10}} of mud, {{11}} slopes along the roads, and secondary disasters triggered by continued rainfall. As of 10 a.m. on Wednesday, the road access to the core area of Gyirong Port was basically restored. Rescue personnel, supplies and some equipment have since entered the core area through the restored land route, allowing deeper search and rescue operations to proceed.",
+          "cn": "灾害摧毁了边境口岸三公里内的所有道路。救援和施工队伍面临一系列挑战，包括作业区域狭窄、河流水位迅速上涨、水流湍急、淤泥堆积深厚、道路边坡不稳定，以及持续降雨引发的次生灾害。截至周三上午10时，通往吉隆口岸核心区域的道路已基本恢复。救援人员、物资及部分设备已通过恢复的陆路通道进入核心区域，使更深入的搜救行动得以展开。"
         },
         {
-          "en": "Kassi-Aleba says receiving care in familiar {{7}} can also make the {{8}} process more comfortable. \"We recover more quickly at home. With our family, and with a little family love, this enables us to recover better — or let's say, to recover more quickly,\" she says. On one such visit, Nurse Micheline Apete prepares to make a home call. \"We're going to Attoban to see a patient suffering from {{9}} pain.",
-          "cn": "卡西-阿莱巴说，在熟悉的环境中接受护理也能让康复过程更舒适。“我们在家恢复得更快。与家人在一起，加上一点家庭的爱，这使我们能更好地恢复——或者说，更快地恢复，”她说。在一次这样的访问中，护士米舍利娜·阿佩特准备进行家访。“我们要去阿托班看望一位腹痛的患者。"
+          "en": "All-out search efforts for the missing\nAuthorities have made every effort to search for the missing people. So far, more than 2,300 rescue personnel have been {{12}}, along with more than 400 vehicle {{13}}, over 8,000 sets of search and rescue equipment, and more than 800 drone sorties. A total of 5.43 tonnes of supplies and equipment have been {{14}}. Four lighting units, one low-voltage power-generating vehicle and one mobile charging unit have been deployed in the core area. Meanwhile, communications have been restored at 12 base stations, providing strong support for search and rescue operations.",
+          "cn": "当局竭尽全力搜寻失踪人员。截至目前，已投入救援人员2300余名，车辆400余车次，搜救设备8000余套，无人机800余架次。共空投物资设备5.43吨。核心区域部署了4台照明设备、1辆低压发电车和1辆移动充电车。同时，12个基站通信已恢复，为搜救行动提供了有力支持。"
         },
         {
-          "en": "She has a fever, headaches and vomiting. Following the doctor's {{10}}, we're going to treat her,\" Apete says. Minutes later, the medical team arrives at the patient's home and begins treatment based on the doctor's instructions. The patient receives {{11}} paracetamol to help reduce her fever, along with other {{12}} medication. \"We gave her intravenous paracetamol to bring down her fever.",
-          "cn": "她发烧、头痛和呕吐。按照医生的指示，我们将为她治疗，”阿佩特说。几分钟后，医疗团队到达患者家中，并根据医生的指示开始治疗。患者接受静脉注射扑热息痛以帮助退烧，以及其他处方药物。“我们给她静脉注射扑热息痛以降低她的发烧。"
+          "en": "Since the disaster occurred, a total of 336 personnel have participated in multiple rounds of grid-based and intensive searches in the core area, covering a {{15}} area of 1.591 million square meters. Meanwhile, more than 10 pieces of machinery and equipment have entered the core area to continue search and rescue operations since road access was restored. A third batch of emergency relief supplies and a second group of DNA identification experts arrive in Kathmandu, Nepal, September 3, 2026. /CMG\nChina {{16}} a third batch of emergency relief supplies to Nepal on Thursday morning, according to the Chinese Foreign Ministry. The supplies include tents, blankets, morgue freezers, medical protective clothing and satellite communications equipment.",
+          "cn": "灾害发生以来，共有336人次在核心区域参与多轮网格化和密集搜索，累计覆盖面积达159.1万平方米。同时，自道路恢复以来，已有10余台机械设备进入核心区域继续搜救。第三批紧急救援物资和第二批DNA鉴定专家于2026年9月3日抵达尼泊尔加德满都。/CMG 据中国外交部消息，中国于周四上午向尼泊尔运送了第三批紧急救援物资，包括帐篷、毛毯、停尸房冷冻柜、医用防护服和卫星通信设备。"
         },
         {
-          "en": "The doctor prescribed a treatment plan, including a vitamin complex to give her a boost. She'll feel better in about 10 minutes,\" Apete says. For Seynabou Messou, telemedicine has been part of her healthcare {{13}} for seven years, August 23, 2026. Africa\nCare without leaving home\nFor Seynabou Messou, who has used the service for seven years, telemedicine has become part of her healthcare routine. After years of navigating Abidjan's traffic and hospital queues, she says receiving medical care at home has made a {{14}} difference.",
-          "cn": "医生制定了治疗计划，包括维生素复合物以增强她的体力。她大约10分钟后会感觉好些，”阿佩特说。对于塞纳布·梅苏来说，远程医疗已成为她七年来医疗保健常规的一部分，2026年8月23日。非洲。无需离家即可获得护理。对于使用该服务七年的塞纳布·梅苏来说，远程医疗已成为她医疗保健常规的一部分。在经历了多年阿比让的交通和医院排队后，她说在家接受医疗护理带来了显著的不同。"
+          "en": "Meanwhile, a second group of DNA identification experts departed for Nepal on the same flight to assist the Nepali side in relevant work. According to Nepalese authorities on Thursday, the death toll from the massive mudslide had risen to 1,252, with 4,875 people still missing as of 10 a.m. local time. In addition, as many as nine Chinese tunnel rescue experts arrived in Trishuli, Nepal, on Tuesday to work with Nepali military and rescuers at a tunnel severely affected by the mudslide. Meticulous efforts made to assist affected families and residents\nAfter the disaster, authorities proactively contacted the relatives of the missing and deceased, responded promptly to their concerns, and provided humanitarian assistance, emotional support, and psychological counseling.",
+          "cn": "与此同时，第二批DNA鉴定专家搭乘同一航班启程前往尼泊尔，协助尼方开展相关工作。据尼泊尔当局周四消息，截至当地时间上午10时，此次特大泥石流造成的死亡人数已升至1252人，另有4875人失踪。此外，多达9名中国隧道救援专家于周二抵达尼泊尔特里苏里，与尼泊尔军方和救援人员一起在一处受泥石流严重影响的隧道开展工作。灾害发生后，当局主动联系失踪和遇难者家属，及时回应关切，并提供人道援助、情感支持和心理疏导。"
         },
         {
-          "en": "\"I'm not too keen on hospital beds, so I prefer to be 'hospitalized' at home, in my bedroom or living room. What's changed for me is that there's always a team on hand, whatever the time, and I don't need to travel to access care — even for blood tests and test results,\" Messou says. The Umed eHealth Center says it receives about five requests for remote consultations each day. Remote consultations and home visits are included in its treatment packages, providing an alternative for patients seeking more convenient access to healthcare. A nurse browsing the telemedicine app on her machine in Abidjan, Côte d'Ivoire, August 23, 2026.",
-          "cn": "“我不太喜欢医院的床，所以我宁愿在家‘住院’，在我的卧室或客厅。对我来说，改变的是随时都有一个团队在旁，无论何时，而且我不需要出行就能获得护理——即使是血液检测和检测结果，”梅苏说。Umed电子健康中心表示，每天收到约五个远程咨询请求。远程咨询和家访包含在其治疗套餐中，为寻求更方便医疗服务的患者提供了替代方案。2026年8月23日，科特迪瓦阿比让，一名护士在她的机器上浏览远程医疗应用。"
+          "en": "A service hotline for the relatives of missing people in China and abroad was also promptly established. As of noon on Wednesday, the hotline had received 876 calls from family members of the missing, including 448 from within China and 428 from overseas. A total of 587 family members of 253 missing people have been received and provided with accommodation and assistance. The authorities have also provided medical care, basic living assistance and psychological support to 499 relocated residents. Comprehensive measures taken to prevent secondary disasters\nAuthorities have organized a team of 93 experts and technical personnel from relevant fields across the country to continuously monitor potential secondary geological disasters, including collapses, landslides and mudslides, in the barrier lake area and the source region of the ice-rock avalanche.",
+          "cn": "还及时设立了国内外失踪人员家属服务热线。截至周三中午，热线已接听失踪人员家属来电876通，其中国内448通，海外428通。共接待253名失踪人员的587名家属，并为其提供住宿和帮助。当局还为499名转移安置居民提供了医疗、基本生活救助和心理支持。当局组织了来自全国相关领域的93名专家和技术人员，持续监测堰塞湖区域和冰岩崩源区可能发生的崩塌、滑坡和泥石流等次生地质灾害。"
         },
         {
-          "en": "Africa\nTelemedicine has its limits\nTechnology, however, cannot replace every aspect of medical care. The center mainly manages minor conditions remotely. Patients who require surgery, resuscitation or other {{16}} treatment are referred to appropriate medical facilities. For now, the combination of telemedicine and home-based care is offering some residents of Abidjan a simpler way to access medical attention — without having to leave home. As technology continues to {{17}} healthcare delivery, Côte d'Ivoire's experience shows how digital tools can help bring doctors closer to patients while easing some of the pressure on conventional health facilities.",
-          "cn": "非洲。远程医疗有其局限性。然而，技术无法替代医疗护理的每个方面。该中心主要远程管理轻微病症。需要手术、复苏或其他专科治疗的患者被转诊到适当的医疗机构。目前，远程医疗和家庭护理的结合为阿比让的一些居民提供了一种更简单的获得医疗关注的方式——无需离开家。随着技术继续重塑医疗服务的提供，科特迪瓦的经验表明，数字工具如何帮助拉近医生与患者的距离，同时减轻传统医疗设施的一些压力。"
+          "en": "They have also conducted inspections for geological hazards along roads leading to the border port. Close attention has been paid to changes in precipitation, temperature and water levels in the Puruo Puzangbu, Donglin Zangbu and Gyirong Zangbu river basins, which are closely related to emergency response and rescue operations, to ensure the safety of rescue efforts downstream. The barrier lake above mudslide-hit Gyirong Port was largely drained by Sunday, and the small bodies of water formed by the impact of the ice-rock avalanche have also been drained. Authorities are now coordinating resources and strengthening emergency response efforts. A total of 150 pieces or sets of specialized equipment have been deployed, including 104 sets of multi-factor monitoring equipment such as slope-monitoring radar, integrated radar-vision video monitoring systems, drone aerial survey equipment, mud and water-level monitoring devices, and meteorological monitoring equipment.",
+          "cn": "他们还对通往边境口岸的道路沿线进行了地质灾害排查。密切关注普若普藏布、东林藏布和吉隆藏布流域的降水、气温和水位变化，这些与应急响应和救援行动密切相关，以确保下游救援安全。泥石流受灾的吉隆口岸上游堰塞湖已于周日基本排空，冰岩崩冲击形成的小型水体也已排干。当局正在协调资源并加强应急响应。已部署150台套专业设备，包括104套多要素监测设备，如边坡监测雷达、雷达视觉一体化视频监控系统、无人机航测设备、泥水位监测装置和气象监测设备。"
+        },
+        {
+          "en": "Through a combination of technology-based monitoring and on-the-ground patrols, authorities are closely monitoring the potential impact of secondary mudslides in the ice-rock avalanche area on downstream areas amid continued rainfall, high temperatures and other factors.",
+          "cn": "通过技术监测与地面巡查相结合，当局正密切监测冰岩崩区域在持续降雨、高温等因素影响下对下游地区可能产生的次生泥石流影响。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "congestion",
-          "hint": "n. 拥堵",
-          "difficulty": "medium"
+          "answer": "massive",
+          "hint": "adj. 巨大的",
+          "difficulty": "easy"
         },
         {
           "id": 1,
-          "answer": "consultation",
-          "hint": "n. 咨询",
+          "answer": "originating",
+          "hint": "v. 起源",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "assess",
-          "hint": "v. 评估",
+          "answer": "reopening",
+          "hint": "n. 重新开放",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "symptoms",
-          "hint": "n. 症状",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "pressure",
-          "hint": "n. 压力",
-          "difficulty": "easy"
-        },
-        {
-          "id": 5,
-          "answer": "dispatch",
-          "hint": "v. 派遣",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "surroundings",
-          "hint": "n. 环境",
+          "answer": "boost",
+          "hint": "n. 推动",
           "difficulty": "medium"
         },
         {
+          "id": 4,
+          "answer": "triggered",
+          "hint": "v. 引发",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "collapse",
+          "hint": "n. 崩塌",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "prerequisite",
+          "hint": "n. 前提",
+          "difficulty": "hard"
+        },
+        {
           "id": 7,
-          "answer": "recovery",
-          "hint": "n. 恢复",
+          "answer": "sustained",
+          "hint": "adj. 持续的",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "abdominal",
-          "hint": "adj. 腹部的",
-          "difficulty": "hard"
+          "answer": "currents",
+          "hint": "n. 水流",
+          "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "instructions",
-          "hint": "n. 指示",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "intravenous",
-          "hint": "adj. 静脉的",
+          "answer": "deposits",
+          "hint": "n. 沉积物",
           "difficulty": "hard"
         },
         {
+          "id": 10,
+          "answer": "unstable",
+          "hint": "adj. 不稳定的",
+          "difficulty": "easy"
+        },
+        {
           "id": 11,
-          "answer": "prescribed",
-          "hint": "v. 开处方",
+          "answer": "deployed",
+          "hint": "v. 部署",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "routine",
-          "hint": "n. 常规",
-          "difficulty": "medium"
+          "answer": "sorties",
+          "hint": "n. 架次",
+          "difficulty": "hard"
         },
         {
           "id": 13,
-          "answer": "significant",
-          "hint": "adj. 显著的",
-          "difficulty": "easy"
+          "answer": "air-dropped",
+          "hint": "v. 空投",
+          "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "alternative",
-          "hint": "n. 替代方案",
-          "difficulty": "medium"
+          "answer": "cumulative",
+          "hint": "adj. 累计的",
+          "difficulty": "hard"
         },
         {
           "id": 15,
-          "answer": "specialized",
-          "hint": "adj. 专门的",
+          "answer": "dispatched",
+          "hint": "v. 派遣",
           "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "reshape",
-          "hint": "v. 重塑",
-          "difficulty": "hard"
         }
       ],
-      "fullText": "In Côte d'Ivoire, seeing a doctor no longer necessarily means spending hours travelling to a hospital or waiting for a consultation.\nSince 2019, the Umed eHealth Center has used telemedicine to connect doctors with patients across Abidjan, offering an alternative to conventional consultations in a city where traffic congestion and long distances can make accessing healthcare challenging.\nFrom behind a computer screen, Dr. Esther Kassi-Aleba begins a consultation with a patient several kilometers away.\nThe patient is unable to travel to a healthcare facility, but through a video call, Kassi-Aleba can listen to her concerns, ask questions and assess her symptoms remotely.\nA patient being checked in her house in Abidjan, Côte d'Ivoire, August 23, 2026. \n Africa\nThere are no crowded waiting rooms or lengthy journeys — just an internet connection connecting the patient to medical care.\n\"We realized that for simple tests, such as a malaria test or minor symptoms, patients can face very long waiting times in hospitals,\" says Kassi-Aleba, a doctor at the Umed eHealth Center. \"We decided to take some of the pressure off hospitals by managing these minor conditions while using technology to improve access to healthcare.\"\nFrom the screen to the patient's home\nBut the consultation does not always end online.\nWhen a patient requires a physical examination or treatment, the center can dispatch a medical team to their home.\nKassi-Aleba says receiving care in familiar surroundings can also make the recovery process more comfortable.\n\"We recover more quickly at home. With our family, and with a little family love, this enables us to recover better — or let's say, to recover more quickly,\" she says.\nOn one such visit, Nurse Micheline Apete prepares to make a home call.\n\"We're going to Attoban to see a patient suffering from abdominal pain. She has a fever, headaches and vomiting. Following the doctor's instructions, we're going to treat her,\" Apete says.\nMinutes later, the medical team arrives at the patient's home and begins treatment based on the doctor's instructions.\nThe patient receives intravenous paracetamol to help reduce her fever, along with other prescribed medication.\n\"We gave her intravenous paracetamol to bring down her fever. The doctor prescribed a treatment plan, including a vitamin complex to give her a boost. She'll feel better in about 10 minutes,\" Apete says.\nFor Seynabou Messou, telemedicine has been part of her healthcare routine for seven years, August 23, 2026. \n Africa\nCare without leaving home\nFor Seynabou Messou, who has used the service for seven years, telemedicine has become part of her healthcare routine.\nAfter years of navigating Abidjan's traffic and hospital queues, she says receiving medical care at home has made a significant difference.\n\"I'm not too keen on hospital beds, so I prefer to be 'hospitalized' at home, in my bedroom or living room. What's changed for me is that there's always a team on hand, whatever the time, and I don't need to travel to access care — even for blood tests and test results,\" Messou says.\nThe Umed eHealth Center says it receives about five requests for remote consultations each day.\nRemote consultations and home visits are included in its treatment packages, providing an alternative for patients seeking more convenient access to healthcare.\nA nurse browsing the telemedicine app on her machine in Abidjan, Côte d'Ivoire, August 23, 2026. \n Africa\nTelemedicine has its limits\nTechnology, however, cannot replace every aspect of medical care.\nThe center mainly manages minor conditions remotely. Patients who require surgery, resuscitation or other specialized treatment are referred to appropriate medical facilities.\nFor now, the combination of telemedicine and home-based care is offering some residents of Abidjan a simpler way to access medical attention — without having to leave home.\nAs technology continues to reshape healthcare delivery, Côte d'Ivoire's experience shows how digital tools can help bring doctors closer to patients while easing some of the pressure on conventional health facilities.",
-      "fullTextCn": "在科特迪瓦，看医生不再意味着花几个小时去医院或等待咨询。自2019年以来，Umed电子健康中心利用远程医疗将医生与阿比让各地的患者连接起来，在交通拥堵和距离遥远可能使就医变得困难的城市中，提供了一种传统咨询的替代方案。在电脑屏幕后面，埃斯特·卡西-阿莱巴医生开始与几公里外的患者进行咨询。患者无法前往医疗机构，但通过视频通话，卡西-阿莱巴可以倾听她的担忧、提问并远程评估她的症状。\n\n2026年8月23日，科特迪瓦阿比让，一名患者在家中接受检查。非洲。没有拥挤的候诊室或漫长的旅程——只需互联网连接将患者与医疗护理联系起来。“我们意识到，对于简单的检测，如疟疾检测或轻微症状，患者在医院可能面临很长的等待时间，”Umed电子健康中心的医生卡西-阿莱巴说。“我们决定通过管理这些轻微病症来减轻医院的压力，同时利用技术改善医疗服务的获取。”从屏幕到患者家中。但咨询并不总是在线结束。当患者需要体检或治疗时，中心可以派遣医疗团队到他们家中。\n\n卡西-阿莱巴说，在熟悉的环境中接受护理也能让康复过程更舒适。“我们在家恢复得更快。与家人在一起，加上一点家庭的爱，这使我们能更好地恢复——或者说，更快地恢复，”她说。在一次这样的访问中，护士米舍利娜·阿佩特准备进行家访。“我们要去阿托班看望一位腹痛的患者。\n\n她发烧、头痛和呕吐。按照医生的指示，我们将为她治疗，”阿佩特说。几分钟后，医疗团队到达患者家中，并根据医生的指示开始治疗。患者接受静脉注射扑热息痛以帮助退烧，以及其他处方药物。“我们给她静脉注射扑热息痛以降低她的发烧。\n\n医生制定了治疗计划，包括维生素复合物以增强她的体力。她大约10分钟后会感觉好些，”阿佩特说。对于塞纳布·梅苏来说，远程医疗已成为她七年来医疗保健常规的一部分，2026年8月23日。非洲。无需离家即可获得护理。对于使用该服务七年的塞纳布·梅苏来说，远程医疗已成为她医疗保健常规的一部分。在经历了多年阿比让的交通和医院排队后，她说在家接受医疗护理带来了显著的不同。\n\n“我不太喜欢医院的床，所以我宁愿在家‘住院’，在我的卧室或客厅。对我来说，改变的是随时都有一个团队在旁，无论何时，而且我不需要出行就能获得护理——即使是血液检测和检测结果，”梅苏说。Umed电子健康中心表示，每天收到约五个远程咨询请求。远程咨询和家访包含在其治疗套餐中，为寻求更方便医疗服务的患者提供了替代方案。2026年8月23日，科特迪瓦阿比让，一名护士在她的机器上浏览远程医疗应用。\n\n非洲。远程医疗有其局限性。然而，技术无法替代医疗护理的每个方面。该中心主要远程管理轻微病症。需要手术、复苏或其他专科治疗的患者被转诊到适当的医疗机构。目前，远程医疗和家庭护理的结合为阿比让的一些居民提供了一种更简单的获得医疗关注的方式——无需离开家。随着技术继续重塑医疗服务的提供，科特迪瓦的经验表明，数字工具如何帮助拉近医生与患者的距离，同时减轻传统医疗设施的一些压力。"
+      "fullText": "Rescue and relief efforts continue at Gyirong Port in southwest China's Xizang Autonomous Region following the massive mudslide originating in Nepal. The reopening of National Highway G216 has allowed heavy machinery and additional rescue teams to reach the disaster site, giving a major boost to search and rescue operations.\nA fast-moving chain mudslide, which authorities said was triggered by a high-altitude glacier collapse in Nepal, struck Gyirong Port on the China-Nepal border on August 26. Twenty-one people had been confirmed dead, and 541 others remained missing as of noon on September 2, according to the regional government's latest update on Wednesday evening.\nClearing road access to core disaster area\nRestoring the land rescue route has been an important prerequisite for sustained search and rescue operations.\nThe disaster destroyed all roads within three kilometers of the border port. Rescue and construction teams have faced a series of challenges, including narrow working areas, rapidly rising river levels, strong currents, thick deposits of mud, unstable slopes along the roads, and secondary disasters triggered by continued rainfall.\nAs of 10 a.m. on Wednesday, the road access to the core area of Gyirong Port was basically restored. Rescue personnel, supplies and some equipment have since entered the core area through the restored land route, allowing deeper search and rescue operations to proceed.\nAll-out search efforts for the missing\nAuthorities have made every effort to search for the missing people.\nSo far, more than 2,300 rescue personnel have been deployed, along with more than 400 vehicle sorties, over 8,000 sets of search and rescue equipment, and more than 800 drone sorties. A total of 5.43 tonnes of supplies and equipment have been air-dropped. Four lighting units, one low-voltage power-generating vehicle and one mobile charging unit have been deployed in the core area. Meanwhile, communications have been restored at 12 base stations, providing strong support for search and rescue operations.\nSince the disaster occurred, a total of 336 personnel have participated in multiple rounds of grid-based and intensive searches in the core area, covering a cumulative area of 1.591 million square meters.\nMeanwhile, more than 10 pieces of machinery and equipment have entered the core area to continue search and rescue operations since road access was restored.\nA third batch of emergency relief supplies and a second group of DNA identification experts arrive in Kathmandu, Nepal, September 3, 2026. /CMG\nChina dispatched a third batch of emergency relief supplies to Nepal on Thursday morning, according to the Chinese Foreign Ministry.\nThe supplies include tents, blankets, morgue freezers, medical protective clothing and satellite communications equipment.\nMeanwhile, a second group of DNA identification experts departed for Nepal on the same flight to assist the Nepali side in relevant work.\nAccording to Nepalese authorities on Thursday, the death toll from the massive mudslide had risen to 1,252, with 4,875 people still missing as of 10 a.m. local time.\nIn addition, as many as nine Chinese tunnel rescue experts arrived in Trishuli, Nepal, on Tuesday to work with Nepali military and rescuers at a tunnel severely affected by the mudslide.\nMeticulous efforts made to assist affected families and residents\nAfter the disaster, authorities proactively contacted the relatives of the missing and deceased, responded promptly to their concerns, and provided humanitarian assistance, emotional support, and psychological counseling.\nA service hotline for the relatives of missing people in China and abroad was also promptly established. As of noon on Wednesday, the hotline had received 876 calls from family members of the missing, including 448 from within China and 428 from overseas.\nA total of 587 family members of 253 missing people have been received and provided with accommodation and assistance.\nThe authorities have also provided medical care, basic living assistance and psychological support to 499 relocated residents.\nComprehensive measures taken to prevent secondary disasters\nAuthorities have organized a team of 93 experts and technical personnel from relevant fields across the country to continuously monitor potential secondary geological disasters, including collapses, landslides and mudslides, in the barrier lake area and the source region of the ice-rock avalanche. They have also conducted inspections for geological hazards along roads leading to the border port.\nClose attention has been paid to changes in precipitation, temperature and water levels in the Puruo Puzangbu, Donglin Zangbu and Gyirong Zangbu river basins, which are closely related to emergency response and rescue operations, to ensure the safety of rescue efforts downstream.\nThe barrier lake above mudslide-hit Gyirong Port was largely drained by Sunday, and the small bodies of water formed by the impact of the ice-rock avalanche have also been drained.\nAuthorities are now coordinating resources and strengthening emergency response efforts. A total of 150 pieces or sets of specialized equipment have been deployed, including 104 sets of multi-factor monitoring equipment such as slope-monitoring radar, integrated radar-vision video monitoring systems, drone aerial survey equipment, mud and water-level monitoring devices, and meteorological monitoring equipment.\nThrough a combination of technology-based monitoring and on-the-ground patrols, authorities are closely monitoring the potential impact of secondary mudslides in the ice-rock avalanche area on downstream areas amid continued rainfall, high temperatures and other factors.",
+      "fullTextCn": "在中国西南部西藏自治区吉隆口岸，继源自尼泊尔的特大泥石流灾害后，救援和赈济工作仍在继续。国道G216的重新开放使重型机械和更多救援队伍得以抵达灾区，大大推进了搜救行动。8月26日，一场快速移动的链式泥石流袭击了中尼边境的吉隆口岸，当局称其由尼泊尔境内高海拔冰川崩塌引发。据自治区政府周三晚间最新通报，截至9月2日中午，已确认21人死亡，另有541人失踪。恢复通往核心灾区的道路是持续搜救行动的重要前提。\n\n灾害摧毁了边境口岸三公里内的所有道路。救援和施工队伍面临一系列挑战，包括作业区域狭窄、河流水位迅速上涨、水流湍急、淤泥堆积深厚、道路边坡不稳定，以及持续降雨引发的次生灾害。截至周三上午10时，通往吉隆口岸核心区域的道路已基本恢复。救援人员、物资及部分设备已通过恢复的陆路通道进入核心区域，使更深入的搜救行动得以展开。\n\n当局竭尽全力搜寻失踪人员。截至目前，已投入救援人员2300余名，车辆400余车次，搜救设备8000余套，无人机800余架次。共空投物资设备5.43吨。核心区域部署了4台照明设备、1辆低压发电车和1辆移动充电车。同时，12个基站通信已恢复，为搜救行动提供了有力支持。\n\n灾害发生以来，共有336人次在核心区域参与多轮网格化和密集搜索，累计覆盖面积达159.1万平方米。同时，自道路恢复以来，已有10余台机械设备进入核心区域继续搜救。第三批紧急救援物资和第二批DNA鉴定专家于2026年9月3日抵达尼泊尔加德满都。/CMG 据中国外交部消息，中国于周四上午向尼泊尔运送了第三批紧急救援物资，包括帐篷、毛毯、停尸房冷冻柜、医用防护服和卫星通信设备。\n\n与此同时，第二批DNA鉴定专家搭乘同一航班启程前往尼泊尔，协助尼方开展相关工作。据尼泊尔当局周四消息，截至当地时间上午10时，此次特大泥石流造成的死亡人数已升至1252人，另有4875人失踪。此外，多达9名中国隧道救援专家于周二抵达尼泊尔特里苏里，与尼泊尔军方和救援人员一起在一处受泥石流严重影响的隧道开展工作。灾害发生后，当局主动联系失踪和遇难者家属，及时回应关切，并提供人道援助、情感支持和心理疏导。\n\n还及时设立了国内外失踪人员家属服务热线。截至周三中午，热线已接听失踪人员家属来电876通，其中国内448通，海外428通。共接待253名失踪人员的587名家属，并为其提供住宿和帮助。当局还为499名转移安置居民提供了医疗、基本生活救助和心理支持。当局组织了来自全国相关领域的93名专家和技术人员，持续监测堰塞湖区域和冰岩崩源区可能发生的崩塌、滑坡和泥石流等次生地质灾害。\n\n他们还对通往边境口岸的道路沿线进行了地质灾害排查。密切关注普若普藏布、东林藏布和吉隆藏布流域的降水、气温和水位变化，这些与应急响应和救援行动密切相关，以确保下游救援安全。泥石流受灾的吉隆口岸上游堰塞湖已于周日基本排空，冰岩崩冲击形成的小型水体也已排干。当局正在协调资源并加强应急响应。已部署150台套专业设备，包括104套多要素监测设备，如边坡监测雷达、雷达视觉一体化视频监控系统、无人机航测设备、泥水位监测装置和气象监测设备。\n\n通过技术监测与地面巡查相结合，当局正密切监测冰岩崩区域在持续降雨、高温等因素影响下对下游地区可能产生的次生泥石流影响。"
     },
     {
       "id": 3,
       "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-02/From-desert-to-opportunity-China-Egypt-ties-deepen-across-sectors-1Q7mph80npS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "From desert to opportunity: China-Egypt ties deepen across sectors",
+      "titleCn": "从沙漠到机遇：中埃合作深化多领域",
+      "summary": "From desert to opportunity: China-Egypt ties deepen across sectors",
+      "summaryCn": "中埃苏伊士经贸合作区从沙漠发展为工业集群，双边贸易增长，合作扩展至绿色能源和农业，并深化至多边领域。",
+      "wordCount": 717,
+      "paragraphs": [
+        {
+          "en": "Chinese President Xi Jinping holds talks with Egyptian President Abdel Fattah El-Sisi in Cairo, Egypt, September 2, 2026. /Xinhua\nA decade after China and Egypt launched the second phase of their {{10}} economic and trade cooperation zone in the desert along the Suez Canal, the area has grown into an industrial {{0}} of nearly 200 companies, creating about 10,000 jobs and becoming a {{1}} example of how bilateral cooperation can translate into local development. The China-Egypt TEDA Suez Economic and Trade Cooperation Zone has attracted companies in building materials, petroleum equipment, electrical equipment and machinery, with {{2}} investment exceeding $4.7 billion, according to the reports by People's Daily. What was once undeveloped desert has become an industrial platform linking China's Belt and Road Initiative with Egypt's development strategy for the Suez Canal Corridor. The {{3}} {{4}} a broader shift in China-Egypt ties, from individual infrastructure projects toward cooperation that connects investment, employment and markets.",
+          "cn": "中国国家主席习近平于2026年9月2日在埃及开罗与埃及总统阿卜杜勒·法塔赫·塞西举行会谈。/新华社 在中埃启动苏伊士运河沿岸沙漠联合经贸合作区第二阶段十年后，该地区已发展为由近200家企业组成的产业集群，创造了约1万个就业岗位，成为双边合作转化为当地发展的切实例证。据《人民日报》报道，中埃泰达苏伊士经贸合作区吸引了建材、石油设备、电气设备和机械等领域的公司，累计投资超过47亿美元。曾经未开发的沙漠已成为连接中国“一带一路”倡议与埃及苏伊士运河走廊发展战略的工业平台。这一转变反映了中埃关系从单个基础设施项目向连接投资、就业和市场的合作更广泛的转变。"
+        },
+        {
+          "en": "During talks with Egyptian President Abdel Fattah El-Sisi on Wednesday, Chinese President Xi Jinping said the two countries should deepen cooperation and continue advancing the building of a China-Egypt community with a shared future. New engine of local development\nThe Suez zone has increasingly moved beyond {{5}} manufacturing, with solar projects and an {{6}} {{7}} economy pointing toward greener and lower-carbon development. The {{8}} into new sectors has also brought more direct benefits to Egypt's economy and workforce. Chinese-invested projects have helped {{9}} Egypt's power supply, with a solar park substation project providing about 16,000 gigawatt-hours of electricity since completion, while Chinese companies have trained local engineers and workers, with some Egyptian employees moving into technical and management positions. At a joint venture between China XD Electric and Egyptian-owned EGEMAC, local employees account for 97% of the workforce.",
+          "cn": "在周三与埃及总统阿卜杜勒·法塔赫·塞西的会谈中，中国国家主席习近平表示，两国应深化合作，继续推进中埃命运共同体建设。当地发展的新引擎 苏伊士合作区已日益超越传统制造业，太阳能项目和新兴循环经济指向更绿色、更低碳的发展。向新领域的扩展也为埃及经济和劳动力带来了更直接的好处。中国投资项目帮助加强了埃及的电力供应，一个太阳能园区变电站项目自完工以来提供了约160亿千瓦时的电力，而中国企业培训了当地工程师和工人，一些埃及员工已进入技术和管理层岗位。在中国西电与埃及EGEMAC的合资企业中，当地员工占劳动力的97%。"
+        },
+        {
+          "en": "Such cooperation is part of a broader model of {{11}} beneficial development. In a signed article published in Egyptian media ahead of Xi's visit, he said China and Egypt should \"pursue mutual benefit and win-win cooperation and set a {{12}} for joint development.\"\nEgyptian products find a growing market in China\nThe relationship is increasingly running in both directions, with Egyptian products gaining greater {{13}} to China's large consumer market. China's trade with Egypt reached 95.19 billion yuan ($14.16 billion) in the first seven months of 2026, up 18.7% year on year, Chinese official data shows. Chinese exports to Egypt rose 17.5%, while imports from Egypt jumped 49.4%. Agricultural trade has been a {{14}} growth area.",
+          "cn": "这种合作是更广泛的互利发展模式的一部分。在习近平访问前发表于埃及媒体的一篇署名文章中，他表示中埃应“追求互利共赢合作，树立共同发展的标杆”。埃及产品在中国市场日益增长 这种关系正日益双向发展，埃及产品在中国庞大的消费市场获得了更多准入。中国官方数据显示，2026年前七个月，中国与埃及的贸易额达到951.9亿元人民币（141.6亿美元），同比增长18.7%。中国对埃及出口增长17.5%，而从埃及进口跃升49.4%。农产品贸易是特别的增长领域。"
+        },
+        {
+          "en": "China's imports of Egyptian agricultural products rose 82.6% in the first seven months, accounting for 41.7% of China's total imports from Egypt. Egypt was China's largest source of frozen strawberries and third-largest source of flax, with the two products accounting for 96.7% and 7.7% of China's {{15}} imports. Egypt, one of the world's leading orange exporters, shipped fresh oranges worth about $26 million to China in 2025. An agricultural exporter who travels to China several times a year said strong demand for Egyptian oranges among Chinese consumers has encouraged producers to improve quality. In an article, Egypt's Al-Ahram newspaper said China's zero-{{16}} measures for African products had opened access to a market of more than 1.4 billion people, while noting that lower tariffs alone would not guarantee success.",
+          "cn": "前七个月，中国从埃及进口的农产品增长了82.6%，占中国从埃及总进口的41.7%。埃及是中国最大的冷冻草莓来源国和第三大亚麻来源国，这两种产品分别占中国相应进口的96.7%和7.7%。埃及是世界领先的橙子出口国之一，2025年向中国出口了价值约2600万美元的新鲜橙子。一位每年多次前往中国的农产品出口商表示，中国消费者对埃及橙子的强劲需求鼓励了生产者提高质量。埃及《金字塔报》在一篇文章中表示，中国对非洲产品的零关税措施打开了超过14亿人口的市场准入，但也指出仅降低关税并不能保证成功。"
+        },
+        {
+          "en": "Product quality, stable supply and {{17}} marketing would remain important for Egyptian companies seeking to expand in China, the newspaper said. Beyond bilateral ties\nThe significance of the relationship goes beyond trade and investment as China and Egypt mark 70 years of diplomatic ties. Egypt was the first Arab and African country to establish diplomatic relations with the People's Republic of China, and the two countries have since expanded cooperation into culture, education, science and technology, health and other fields. Xi has said China and Egypt set an example of friendship, {{18}} and coordination between developing countries, noting that both are important members of the Global South. Egypt's position gives that partnership a wider regional dimension.",
+          "cn": "该报称，产品质量、稳定供应和本地化营销对于寻求在中国扩张的埃及公司仍然重要。超越双边关系 在中国和埃及庆祝建交70周年之际，这种关系的重要性超越了贸易和投资。埃及是第一个与中华人民共和国建立外交关系的阿拉伯和非洲国家，此后两国将合作扩展到文化、教育、科技、卫生等领域。习近平表示，中埃为发展中国家之间的友谊、团结和协作树立了榜样，并指出两国都是“全球南方”的重要成员。埃及的地位赋予了这种伙伴关系更广泛的区域维度。"
+        },
+        {
+          "en": "As a major Arab and African country, it serves as a link between the Arab world and Africa, while China and Egypt coordinate in multilateral frameworks including the United Nations and BRICS. At a time of persistent {{19}} in the Middle East, Xi has also called for greater regional autonomy in security, comprehensive approaches to hotspot issues, development to underpin security and stronger international coordination.",
+          "cn": "作为一个主要的阿拉伯和非洲国家，它是阿拉伯世界与非洲之间的纽带，而中埃在包括联合国和金砖国家在内的多边框架中进行协调。在中东持续不稳定的时期，习近平还呼吁加强区域安全自主、对热点问题采取全面方法、以发展支撑安全以及加强国际协调。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "cluster",
+          "hint": "n. 集群",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "tangible",
+          "hint": "adj. 切实的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "cumulative",
+          "hint": "adj. 累计的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "transformation",
+          "hint": "n. 转变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "reflects",
+          "hint": "v. 反映",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "conventional",
+          "hint": "adj. 传统的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "emerging",
+          "hint": "adj. 新兴的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "circular",
+          "hint": "adj. 循环的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "expansion",
+          "hint": "n. 扩展",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "strengthen",
+          "hint": "v. 加强",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "joint",
+          "hint": "adj. 合资的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "mutually",
+          "hint": "adv. 相互地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "benchmark",
+          "hint": "n. 标杆",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "access",
+          "hint": "n. 准入",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "particular",
+          "hint": "adj. 特别的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "respective",
+          "hint": "adj. 各自的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "tariff",
+          "hint": "n. 关税",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "localized",
+          "hint": "adj. 本地化的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "solidarity",
+          "hint": "n. 团结",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "instability",
+          "hint": "n. 不稳定",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Chinese President Xi Jinping holds talks with Egyptian President Abdel Fattah El-Sisi in Cairo, Egypt, September 2, 2026. /Xinhua\nA decade after China and Egypt launched the second phase of their joint economic and trade cooperation zone in the desert along the Suez Canal, the area has grown into an industrial cluster of nearly 200 companies, creating about 10,000 jobs and becoming a tangible example of how bilateral cooperation can translate into local development.\nThe China-Egypt TEDA Suez Economic and Trade Cooperation Zone has attracted companies in building materials, petroleum equipment, electrical equipment and machinery, with cumulative investment exceeding $4.7 billion, according to the reports by People's Daily. What was once undeveloped desert has become an industrial platform linking China's Belt and Road Initiative with Egypt's development strategy for the Suez Canal Corridor.\nThe transformation reflects a broader shift in China-Egypt ties, from individual infrastructure projects toward cooperation that connects investment, employment and markets. During talks with Egyptian President Abdel Fattah El-Sisi on Wednesday, Chinese President Xi Jinping said the two countries should deepen cooperation and continue advancing the building of a China-Egypt community with a shared future.\nNew engine of local development\nThe Suez zone has increasingly moved beyond conventional manufacturing, with solar projects and an emerging circular economy pointing toward greener and lower-carbon development. The expansion into new sectors has also brought more direct benefits to Egypt's economy and workforce.\nChinese-invested projects have helped strengthen Egypt's power supply, with a solar park substation project providing about 16,000 gigawatt-hours of electricity since completion, while Chinese companies have trained local engineers and workers, with some Egyptian employees moving into technical and management positions. At a joint venture between China XD Electric and Egyptian-owned EGEMAC, local employees account for 97% of the workforce.\nSuch cooperation is part of a broader model of mutually beneficial development. In a signed article published in Egyptian media ahead of Xi's visit, he said China and Egypt should \"pursue mutual benefit and win-win cooperation and set a benchmark for joint development.\"\nEgyptian products find a growing market in China\nThe relationship is increasingly running in both directions, with Egyptian products gaining greater access to China's large consumer market.\nChina's trade with Egypt reached 95.19 billion yuan ($14.16 billion) in the first seven months of 2026, up 18.7% year on year, Chinese official data shows. Chinese exports to Egypt rose 17.5%, while imports from Egypt jumped 49.4%.\nAgricultural trade has been a particular growth area. China's imports of Egyptian agricultural products rose 82.6% in the first seven months, accounting for 41.7% of China's total imports from Egypt. Egypt was China's largest source of frozen strawberries and third-largest source of flax, with the two products accounting for 96.7% and 7.7% of China's respective imports.\nEgypt, one of the world's leading orange exporters, shipped fresh oranges worth about $26 million to China in 2025. An agricultural exporter who travels to China several times a year said strong demand for Egyptian oranges among Chinese consumers has encouraged producers to improve quality.\nIn an article, Egypt's Al-Ahram newspaper said China's zero-tariff measures for African products had opened access to a market of more than 1.4 billion people, while noting that lower tariffs alone would not guarantee success. Product quality, stable supply and localized marketing would remain important for Egyptian companies seeking to expand in China, the newspaper said.\nBeyond bilateral ties\nThe significance of the relationship goes beyond trade and investment as China and Egypt mark 70 years of diplomatic ties. Egypt was the first Arab and African country to establish diplomatic relations with the People's Republic of China, and the two countries have since expanded cooperation into culture, education, science and technology, health and other fields.\nXi has said China and Egypt set an example of friendship, solidarity and coordination between developing countries, noting that both are important members of the Global South.\nEgypt's position gives that partnership a wider regional dimension. As a major Arab and African country, it serves as a link between the Arab world and Africa, while China and Egypt coordinate in multilateral frameworks including the United Nations and BRICS.\nAt a time of persistent instability in the Middle East, Xi has also called for greater regional autonomy in security, comprehensive approaches to hotspot issues, development to underpin security and stronger international coordination.",
+      "fullTextCn": "中国国家主席习近平于2026年9月2日在埃及开罗与埃及总统阿卜杜勒·法塔赫·塞西举行会谈。/新华社 在中埃启动苏伊士运河沿岸沙漠联合经贸合作区第二阶段十年后，该地区已发展为由近200家企业组成的产业集群，创造了约1万个就业岗位，成为双边合作转化为当地发展的切实例证。据《人民日报》报道，中埃泰达苏伊士经贸合作区吸引了建材、石油设备、电气设备和机械等领域的公司，累计投资超过47亿美元。曾经未开发的沙漠已成为连接中国“一带一路”倡议与埃及苏伊士运河走廊发展战略的工业平台。这一转变反映了中埃关系从单个基础设施项目向连接投资、就业和市场的合作更广泛的转变。\n\n在周三与埃及总统阿卜杜勒·法塔赫·塞西的会谈中，中国国家主席习近平表示，两国应深化合作，继续推进中埃命运共同体建设。当地发展的新引擎 苏伊士合作区已日益超越传统制造业，太阳能项目和新兴循环经济指向更绿色、更低碳的发展。向新领域的扩展也为埃及经济和劳动力带来了更直接的好处。中国投资项目帮助加强了埃及的电力供应，一个太阳能园区变电站项目自完工以来提供了约160亿千瓦时的电力，而中国企业培训了当地工程师和工人，一些埃及员工已进入技术和管理层岗位。在中国西电与埃及EGEMAC的合资企业中，当地员工占劳动力的97%。\n\n这种合作是更广泛的互利发展模式的一部分。在习近平访问前发表于埃及媒体的一篇署名文章中，他表示中埃应“追求互利共赢合作，树立共同发展的标杆”。埃及产品在中国市场日益增长 这种关系正日益双向发展，埃及产品在中国庞大的消费市场获得了更多准入。中国官方数据显示，2026年前七个月，中国与埃及的贸易额达到951.9亿元人民币（141.6亿美元），同比增长18.7%。中国对埃及出口增长17.5%，而从埃及进口跃升49.4%。农产品贸易是特别的增长领域。\n\n前七个月，中国从埃及进口的农产品增长了82.6%，占中国从埃及总进口的41.7%。埃及是中国最大的冷冻草莓来源国和第三大亚麻来源国，这两种产品分别占中国相应进口的96.7%和7.7%。埃及是世界领先的橙子出口国之一，2025年向中国出口了价值约2600万美元的新鲜橙子。一位每年多次前往中国的农产品出口商表示，中国消费者对埃及橙子的强劲需求鼓励了生产者提高质量。埃及《金字塔报》在一篇文章中表示，中国对非洲产品的零关税措施打开了超过14亿人口的市场准入，但也指出仅降低关税并不能保证成功。\n\n该报称，产品质量、稳定供应和本地化营销对于寻求在中国扩张的埃及公司仍然重要。超越双边关系 在中国和埃及庆祝建交70周年之际，这种关系的重要性超越了贸易和投资。埃及是第一个与中华人民共和国建立外交关系的阿拉伯和非洲国家，此后两国将合作扩展到文化、教育、科技、卫生等领域。习近平表示，中埃为发展中国家之间的友谊、团结和协作树立了榜样，并指出两国都是“全球南方”的重要成员。埃及的地位赋予了这种伙伴关系更广泛的区域维度。\n\n作为一个主要的阿拉伯和非洲国家，它是阿拉伯世界与非洲之间的纽带，而中埃在包括联合国和金砖国家在内的多边框架中进行协调。在中东持续不稳定的时期，习近平还呼吁加强区域安全自主、对热点问题采取全面方法、以发展支撑安全以及加强国际协调。"
+    },
+    {
+      "id": 4,
+      "category": "society",
       "source": "ECNS",
       "sourceUrl": "http://www.ecns.cn/cns-wire/2026-09-04/detail-ihfiwhfw6704468.shtml",
       "title": "Pet mooncakes see rising demand ahead of Mid-Autumn Festival",
-      "titleCn": "宠物月饼在中秋节前需求上升",
+      "titleCn": "宠物月饼中秋节前需求上升",
       "summary": "With the Mid-Autumn Festival still more than three weeks away, mooncakes made especially for cats and dogs are already on sale in Chengdu, Sichuan Province, with some sellers expecting demand to rise by about 30 percent from last year, the Chengdu Business News reported Thursday.",
-      "summaryCn": "随着中秋节临近，宠物月饼在成都热销，销量预计增长30%，反映了宠物主人将宠物视为家庭成员的趋势。",
+      "summaryCn": "随着中秋节临近，成都宠物月饼销量预计增长30%，反映出宠物主人将宠物视为家庭成员的趋势。",
       "wordCount": 653,
       "paragraphs": [
         {
           "en": "(ECNS) -- With the Mid-Autumn Festival still more than three weeks away, mooncakes made especially for cats and dogs are already on sale in Chengdu, Sichuan Province, with some sellers expecting {{0}} to rise by about 30 percent from last year, the Chengdu Commercial Daily reported Thursday. Pet food shops began taking {{1}} in mid-August, weeks earlier than in previous years, as owners look to celebrate the holiday with their pets by buying {{2}} shaped like paws, lions and rabbits. Zhou Xitong, who runs the Beian Sisters Fresh Pet Food store, said she has already sold more than 300 gift boxes and expects to sell more than 600 — around 2,400 mooncakes — before the festival. A box of four sells for 68 yuan (about $9.60). Unlike traditional mooncakes filled with lotus seed paste or salted egg yolk, the pet versions contain {{3}} including chicken, duck, beef liver, rabbit, chicken heart, beef and salmon, along with pumpkin, sweet potato, yam and goat's milk powder.",
-          "cn": "（中国网）——距离中秋节还有三周多，专为猫狗制作的月饼已在四川省成都市上市，据《成都商报》周四报道，一些卖家预计需求将比去年增长约30%。宠物食品店从8月中旬开始接受预订，比往年提前数周，因为主人们希望通过购买爪子、狮子和兔子形状的零食与宠物一起庆祝节日。经营“北安姐妹鲜宠物食品”店的周希彤表示，她已经售出300多盒礼品装，预计在节前将售出600多盒——约2400个月饼。一盒四个售价68元（约9.60美元）。与传统月饼不同，传统月饼馅料为莲蓉或咸蛋黄，而宠物版月饼含有鸡肉、鸭肉、牛肝、兔肉、鸡心、牛肉和三文鱼，以及南瓜、红薯、山药和羊奶粉。"
+          "cn": "（中国新闻网）——距离中秋节还有三周多，专为猫狗制作的月饼已在四川省成都市上市，据《成都商报》周四报道，一些卖家预计需求将比去年增长约30%。宠物食品店从八月中旬开始接受预订，比往年提前数周，因为主人们希望通过购买爪子、狮子和兔子形状的零食与宠物一起庆祝节日。经营北安姐妹鲜食宠物食品店的周希桐表示，她已经售出300多盒礼品盒，并预计在节前将售出600多盒——约2400个月饼。一盒四个售价68元（约9.60美元）。与传统月饼不同，传统月饼馅料为莲蓉或咸蛋黄，宠物月饼含有鸡肉、鸭肉、牛肝、兔肉、鸡心、牛肉和三文鱼等成分，以及南瓜、红薯、山药和羊奶粉。"
         },
         {
-          "en": "Zhou said her shop began taking pre-orders early to give staff enough time to keep up with demand. \"In previous years, many pet owners only remembered at the last minute that they wanted to buy a mooncake for their cat or dog,\" she said. \"From our experience, pre-orders and last-minute orders each {{4}} for about half of sales. Later on, it's not that there are no customers — it's that we don't have enough hands and simply can't make them fast enough.\"\nKang Xinyue, who handles online sales for GoFine, another fresh pet food maker, said the company opened pre-orders on Sept. 1 this year, compared with just a week before the festival last year.",
-          "cn": "周表示，她的店提前开始接受预订，以便员工有足够时间满足需求。“往年，许多宠物主人直到最后一刻才想起要给猫狗买月饼，”她说。“根据我们的经验，预订和临时订单各占销售额的一半左右。后来，不是没有顾客——而是我们人手不够，根本做不过来。”负责另一家鲜宠物食品制造商GoFine在线销售的康欣悦表示，该公司今年于9月1日开放预订，而去年是在节前一周才开始。"
+          "en": "Zhou said her shop began taking pre-orders early to give staff enough time to keep up with demand. \"In previous years, many pet owners only remembered at the last minute that they wanted to buy a mooncake for their cat or dog,\" she said. \"From our experience, pre-orders and last-minute orders each {{4}} for about half of sales. Later on, it's not that there are no customers — it's that we don't have enough hands and simply can't make them fast enough.\"\nKang Xinyue, who {{5}} online sales for GoFine, another fresh pet food maker, said the company opened pre-orders on Sept. 1 this year, compared with just a week before the festival last year.",
+          "cn": "周女士表示，她的店铺提前接受预订，以便给员工足够时间应对需求。“往年，许多宠物主人直到最后一刻才想起要为猫狗买月饼，”她说。“根据我们的经验，预订和临时订单各占销售额的一半左右。后来，不是没有顾客——而是我们人手不够，根本做不过来。”负责另一家鲜食宠物食品制造商GoFine在线销售的康欣悦表示，该公司今年于9月1日开放预订，而去年是在节前一周才开始。"
         },
         {
-          "en": "More than 10 orders came in on the morning the announcement was posted, she said. GoFine received nearly 100 orders last year and expects sales to grow by about 30 percent this year, Kang said. Pet {{5}} services are also filling up ahead of the holiday, which this year falls close to the weeklong National Day holiday in early October. An employee surnamed Zhou at Xingyunshu (Lucky Tree) Pet said the shop has already received five or six boarding {{6}} for the Mid-Autumn Festival, with about half of its {{7}} spaces booked. In previous years, he said, spaces are typically fully booked around 10 days before a holiday.",
-          "cn": "她说，公告发布当天上午就收到了10多份订单。康表示，GoFine去年收到近100份订单，预计今年销售额将增长约30%。宠物寄养服务也在节前被预订一空，今年中秋节恰逢10月初的国庆黄金周。星云树宠物店一位姓周的员工表示，该店已收到五六份中秋节寄养预订，约一半的犬舍空间已被预订。他说，往年，通常在节前10天左右，空间就会被订满。"
+          "en": "More than 10 orders came in on the morning the {{6}} was posted, she said. GoFine received nearly 100 orders last year and expects sales to grow by about 30 percent this year, Kang said. Pet {{7}} services are also filling up ahead of the holiday, which this year falls close to the weeklong National Day holiday in early October. An employee surnamed Zhou at Xingyunshu (Lucky Tree) Pet said the shop has already received five or six boarding {{8}} for the Mid-Autumn Festival, with about half of its {{9}} spaces booked. In previous years, he said, spaces are typically fully booked around 10 days before a holiday.",
+          "cn": "她说，公告发布当天上午就收到了10多份订单。康女士表示，GoFine去年收到近100份订单，预计今年销售额将增长约30%。宠物寄养服务也在节前预订满，今年中秋节临近十月初的国庆黄金周。幸运树宠物店一位姓周的员工表示，该店已收到五六份中秋节寄养预订，约一半犬舍空间已被预订。他说，往年，通常在节前10天左右，犬舍空间就会全部订满。"
         },
         {
-          "en": "Behind the growing demand for festive treats is a broader {{8}} in how Chinese people view and care for their pets. Cao Juan, manager of a pet store in Chengdu's Jinniu district, said her customers {{9}} from people in their 20s to families in their 30s and 40s, as well as {{10}} residents. Younger owners, in particular, tend to treat their pets like children, she said. \"They treat their pets like children,\" Cao said. \"Whatever children have, they want their pets to have, too.\"\nThe shop also sells fresh pet food and birthday cakes, including custom cakes decorated with a pet's face based on a photograph.",
-          "cn": "节日零食需求增长背后，是中国人看待和照顾宠物方式的更广泛转变。成都市金牛区一家宠物店的经理曹娟表示，她的顾客从20多岁的人到30多岁和40多岁的家庭，以及老年居民都有。她说，尤其是年轻主人，往往把宠物当孩子对待。“他们把宠物当孩子，”曹说。“孩子有什么，他们也希望宠物有。”这家店还出售新鲜宠物食品和生日蛋糕，包括根据照片定制、印有宠物脸的蛋糕。"
+          "en": "Behind the growing demand for {{10}} treats is a broader {{11}} in how Chinese people view and care for their pets. Cao Juan, manager of a pet store in Chengdu's Jinniu district, said her customers {{12}} from people in their 20s to families in their 30s and 40s, as well as elderly {{13}}. Younger owners, in particular, tend to treat their pets like children, she said. \"They treat their pets like children,\" Cao said. \"Whatever children have, they want their pets to have, too.\"\nThe shop also sells fresh pet food and birthday cakes, including {{23}} cakes {{24}} with a pet's face based on a {{25}}.",
+          "cn": "节日零食需求增长背后，是中国人看待和照顾宠物方式的更广泛转变。成都市金牛区一家宠物店的经理曹娟表示，她的顾客从二十多岁的人到三四十岁的家庭，以及老年居民都有。她说，尤其是年轻主人，往往把宠物当孩子对待。“他们把宠物当孩子养，”曹女士说。“孩子有什么，他们也希望宠物有。”该店还销售鲜食宠物食品和生日蛋糕，包括根据照片定制、装饰有宠物头像的蛋糕。"
         },
         {
-          "en": "Cao said an {{11}} {{12}} cake can take several hours to make and may cost more than a cake for people, but customers are still {{13}} to pay for it. Zhou said more pet owners in Chengdu are making fresh food a {{14}} part of their animals' diets. Some order treats or \"{{15}}\" for their pets on weekends and have them delivered the same day. Kang said people in their 60s are also a {{16}} group of customers. Many are {{17}} whose children live elsewhere, with pets providing them with {{18}}, she said.",
-          "cn": "曹说，一个精致的肖像蛋糕可能需要几个小时制作，价格可能比人吃的蛋糕还贵，但顾客仍然愿意为此买单。周表示，成都越来越多的宠物主人将新鲜食品作为宠物日常饮食的一部分。有些人周末为宠物订购零食或“下午茶”，并当天送达。康表示，60多岁的人也是核心客户群。其中许多是退休人员，子女在其他地方，宠物给他们带来陪伴。"
+          "en": "Cao said an {{14}} {{15}} cake can take several hours to make and may cost more than a cake for people, but customers are still {{16}} to pay for it. Zhou said more pet owners in Chengdu are making fresh food a {{17}} part of their animals' diets. Some order treats or \"afternoon tea\" for their pets on weekends and have them {{26}} the same day. Kang said people in their 60s are also a {{27}} group of customers. Many are {{28}} whose children live elsewhere, with pets providing them with {{18}}, she said.",
+          "cn": "曹女士表示，一个精致的肖像蛋糕可能需要几个小时制作，成本可能比人吃的蛋糕还高，但顾客仍愿意为此买单。周女士表示，成都越来越多的宠物主人将鲜食作为宠物日常饮食的一部分。有些人周末为宠物订购零食或“下午茶”，并当天送货上门。康女士表示，六十多岁的人也是核心客户群体。她说，许多是退休人员，子女在其他地方，宠物为他们提供陪伴。"
         },
         {
-          "en": "\"They also {{19}} the love they have for their children onto their pets,\" Kang said. The mooncakes have also become increasingly popular as gifts. Kang said buyers are increasingly bringing boxes when visiting friends or relatives who own dogs. The company also received {{20}} orders for pet zongzi during this year's Dragon Boat Festival, with employers buying them as {{21}} for staff members who own pets.",
-          "cn": "“他们也把对孩子的爱转移到宠物身上，”康说。月饼作为礼物也越来越受欢迎。康表示，买家越来越多地带礼盒拜访养狗的亲友。该公司在今年端午节期间还收到了企业订单，购买宠物粽子作为员工福利，为养宠物的员工提供。"
+          "en": "\"They also {{19}} the love they have for their children onto their pets,\" Kang said. The mooncakes have also become {{20}} popular as {{29}}. Kang said buyers are increasingly bringing boxes when visiting friends or relatives who own dogs. The company also received {{21}} orders for pet zongzi during this year's Dragon Boat Festival, with employers buying them as {{22}} for staff members who own pets.",
+          "cn": "“他们也把对孩子的爱转移到宠物身上，”康女士说。月饼作为礼物也越来越受欢迎。康女士表示，买家越来越多地带礼盒拜访养狗的亲友。该公司还在今年的端午节期间收到了企业订单，购买宠物粽子作为员工福利，为养宠物的员工提供。"
         }
       ],
       "blanks": [
@@ -465,92 +518,92 @@
         {
           "id": 4,
           "answer": "account",
-          "hint": "v. 占比例",
+          "hint": "v. 占（比例）",
           "difficulty": "medium"
         },
         {
           "id": 5,
+          "answer": "handles",
+          "hint": "v. 负责",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "announcement",
+          "hint": "n. 公告",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
           "answer": "boarding",
           "hint": "n. 寄养",
           "difficulty": "hard"
         },
         {
-          "id": 6,
+          "id": 8,
           "answer": "reservations",
           "hint": "n. 预订",
           "difficulty": "medium"
         },
         {
-          "id": 7,
+          "id": 9,
           "answer": "kennel",
           "hint": "n. 犬舍",
           "difficulty": "hard"
         },
         {
-          "id": 8,
+          "id": 10,
+          "answer": "festive",
+          "hint": "adj. 节日的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
           "answer": "shift",
           "hint": "n. 转变",
           "difficulty": "medium"
         },
         {
-          "id": 9,
+          "id": 12,
           "answer": "range",
           "hint": "v. 范围涵盖",
           "difficulty": "medium"
         },
         {
-          "id": 10,
-          "answer": "elderly",
-          "hint": "adj. 年老的",
+          "id": 13,
+          "answer": "residents",
+          "hint": "n. 居民",
           "difficulty": "easy"
         },
         {
-          "id": 11,
+          "id": 14,
           "answer": "elaborate",
           "hint": "adj. 精致的",
           "difficulty": "hard"
         },
         {
-          "id": 12,
+          "id": 15,
           "answer": "portrait",
           "hint": "n. 肖像",
           "difficulty": "medium"
         },
         {
-          "id": 13,
+          "id": 16,
           "answer": "willing",
           "hint": "adj. 愿意的",
           "difficulty": "easy"
         },
         {
-          "id": 14,
+          "id": 17,
           "answer": "regular",
           "hint": "adj. 定期的",
           "difficulty": "easy"
         },
         {
-          "id": 15,
-          "answer": "afternoon tea",
-          "hint": "n. 下午茶",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "core",
-          "hint": "adj. 核心的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "retirees",
-          "hint": "n. 退休人员",
-          "difficulty": "medium"
-        },
-        {
           "id": 18,
           "answer": "companionship",
           "hint": "n. 陪伴",
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": 19,
@@ -560,295 +613,194 @@
         },
         {
           "id": 20,
+          "answer": "increasingly",
+          "hint": "adv. 越来越",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
           "answer": "corporate",
           "hint": "adj. 企业的",
           "difficulty": "medium"
         },
         {
-          "id": 21,
+          "id": 22,
           "answer": "benefits",
           "hint": "n. 福利",
+          "difficulty": "easy"
+        },
+        {
+          "id": 23,
+          "answer": "custom",
+          "hint": "adj. 定制的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "decorated",
+          "hint": "v. 装饰",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "photograph",
+          "hint": "n. 照片",
+          "difficulty": "easy"
+        },
+        {
+          "id": 26,
+          "answer": "delivered",
+          "hint": "v. 递送",
+          "difficulty": "easy"
+        },
+        {
+          "id": 27,
+          "answer": "core",
+          "hint": "adj. 核心的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 28,
+          "answer": "retirees",
+          "hint": "n. 退休人员",
+          "difficulty": "medium"
+        },
+        {
+          "id": 29,
+          "answer": "gifts",
+          "hint": "n. 礼物",
           "difficulty": "easy"
         }
       ],
       "fullText": "(ECNS) -- With the Mid-Autumn Festival still more than three weeks away, mooncakes made especially for cats and dogs are already on sale in Chengdu, Sichuan Province, with some sellers expecting demand to rise by about 30 percent from last year, the Chengdu Commercial Daily reported Thursday.\nPet food shops began taking pre-orders in mid-August, weeks earlier than in previous years, as owners look to celebrate the holiday with their pets by buying treats shaped like paws, lions and rabbits.\nZhou Xitong, who runs the Beian Sisters Fresh Pet Food store, said she has already sold more than 300 gift boxes and expects to sell more than 600 — around 2,400 mooncakes — before the festival. A box of four sells for 68 yuan (about $9.60).\nUnlike traditional mooncakes filled with lotus seed paste or salted egg yolk, the pet versions contain ingredients including chicken, duck, beef liver, rabbit, chicken heart, beef and salmon, along with pumpkin, sweet potato, yam and goat's milk powder.\nZhou said her shop began taking pre-orders early to give staff enough time to keep up with demand.\n\"In previous years, many pet owners only remembered at the last minute that they wanted to buy a mooncake for their cat or dog,\" she said. \"From our experience, pre-orders and last-minute orders each account for about half of sales. Later on, it's not that there are no customers — it's that we don't have enough hands and simply can't make them fast enough.\"\nKang Xinyue, who handles online sales for GoFine, another fresh pet food maker, said the company opened pre-orders on Sept. 1 this year, compared with just a week before the festival last year. More than 10 orders came in on the morning the announcement was posted, she said.\nGoFine received nearly 100 orders last year and expects sales to grow by about 30 percent this year, Kang said.\nPet boarding services are also filling up ahead of the holiday, which this year falls close to the weeklong National Day holiday in early October.\nAn employee surnamed Zhou at Xingyunshu (Lucky Tree) Pet said the shop has already received five or six boarding reservations for the Mid-Autumn Festival, with about half of its kennel spaces booked. In previous years, he said, spaces are typically fully booked around 10 days before a holiday.\nBehind the growing demand for festive treats is a broader shift in how Chinese people view and care for their pets.\nCao Juan, manager of a pet store in Chengdu's Jinniu district, said her customers range from people in their 20s to families in their 30s and 40s, as well as elderly residents. Younger owners, in particular, tend to treat their pets like children, she said.\n\"They treat their pets like children,\" Cao said. \"Whatever children have, they want their pets to have, too.\"\nThe shop also sells fresh pet food and birthday cakes, including custom cakes decorated with a pet's face based on a photograph. Cao said an elaborate portrait cake can take several hours to make and may cost more than a cake for people, but customers are still willing to pay for it.\nZhou said more pet owners in Chengdu are making fresh food a regular part of their animals' diets. Some order treats or \"afternoon tea\" for their pets on weekends and have them delivered the same day.\nKang said people in their 60s are also a core group of customers. Many are retirees whose children live elsewhere, with pets providing them with companionship, she said.\n\"They also transfer the love they have for their children onto their pets,\" Kang said.\nThe mooncakes have also become increasingly popular as gifts. Kang said buyers are increasingly bringing boxes when visiting friends or relatives who own dogs. The company also received corporate orders for pet zongzi during this year's Dragon Boat Festival, with employers buying them as benefits for staff members who own pets.",
-      "fullTextCn": "（中国网）——距离中秋节还有三周多，专为猫狗制作的月饼已在四川省成都市上市，据《成都商报》周四报道，一些卖家预计需求将比去年增长约30%。宠物食品店从8月中旬开始接受预订，比往年提前数周，因为主人们希望通过购买爪子、狮子和兔子形状的零食与宠物一起庆祝节日。经营“北安姐妹鲜宠物食品”店的周希彤表示，她已经售出300多盒礼品装，预计在节前将售出600多盒——约2400个月饼。一盒四个售价68元（约9.60美元）。与传统月饼不同，传统月饼馅料为莲蓉或咸蛋黄，而宠物版月饼含有鸡肉、鸭肉、牛肝、兔肉、鸡心、牛肉和三文鱼，以及南瓜、红薯、山药和羊奶粉。\n\n周表示，她的店提前开始接受预订，以便员工有足够时间满足需求。“往年，许多宠物主人直到最后一刻才想起要给猫狗买月饼，”她说。“根据我们的经验，预订和临时订单各占销售额的一半左右。后来，不是没有顾客——而是我们人手不够，根本做不过来。”负责另一家鲜宠物食品制造商GoFine在线销售的康欣悦表示，该公司今年于9月1日开放预订，而去年是在节前一周才开始。\n\n她说，公告发布当天上午就收到了10多份订单。康表示，GoFine去年收到近100份订单，预计今年销售额将增长约30%。宠物寄养服务也在节前被预订一空，今年中秋节恰逢10月初的国庆黄金周。星云树宠物店一位姓周的员工表示，该店已收到五六份中秋节寄养预订，约一半的犬舍空间已被预订。他说，往年，通常在节前10天左右，空间就会被订满。\n\n节日零食需求增长背后，是中国人看待和照顾宠物方式的更广泛转变。成都市金牛区一家宠物店的经理曹娟表示，她的顾客从20多岁的人到30多岁和40多岁的家庭，以及老年居民都有。她说，尤其是年轻主人，往往把宠物当孩子对待。“他们把宠物当孩子，”曹说。“孩子有什么，他们也希望宠物有。”这家店还出售新鲜宠物食品和生日蛋糕，包括根据照片定制、印有宠物脸的蛋糕。\n\n曹说，一个精致的肖像蛋糕可能需要几个小时制作，价格可能比人吃的蛋糕还贵，但顾客仍然愿意为此买单。周表示，成都越来越多的宠物主人将新鲜食品作为宠物日常饮食的一部分。有些人周末为宠物订购零食或“下午茶”，并当天送达。康表示，60多岁的人也是核心客户群。其中许多是退休人员，子女在其他地方，宠物给他们带来陪伴。\n\n“他们也把对孩子的爱转移到宠物身上，”康说。月饼作为礼物也越来越受欢迎。康表示，买家越来越多地带礼盒拜访养狗的亲友。该公司在今年端午节期间还收到了企业订单，购买宠物粽子作为员工福利，为养宠物的员工提供。"
-    },
-    {
-      "id": 4,
-      "category": "military",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-03/EU-warns-Israeli-E1-project-undermines-two-state-solution-1Q8fWOrUoNi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "EU warns Israeli E1 project undermines two-state solution",
-      "titleCn": "欧盟警告以色列E1项目破坏两国方案",
-      "summary": "The European Union's foreign policy chief Kaja Kallas warned on Wednesday that Israel's E1 settlement project in the occupied West Bank would further undermine prospects for a two-state solution, as settler violence and Israeli settlement expansion continued to raise concerns over the safety of Palestinians.",
-      "summaryCn": "欧盟外交政策负责人警告以色列在约旦河西岸的E1定居点项目将进一步破坏两国方案的前景，同时定居者暴力事件和联合国对巴勒斯坦平民安全的担忧持续升级。",
-      "wordCount": 506,
-      "paragraphs": [
-        {
-          "en": "An Israeli military bulldozer uproots olive trees on a Palestinian farm area in the village of Arraba, near the West Bank city of Jenin, September 2, 2026. The European Union's foreign policy chief Kaja Kallas warned on Wednesday that Israel's E1 settlement project in the occupied West Bank would further {{0}} {{1}} for a two-state solution, as settler violence and Israeli settlement {{2}} continued to raise concerns over the safety of Palestinians. The UN's humanitarian office also expressed deep concern over the safety and {{3}} of civilians in the occupied Palestinian territory. \"The E1 settlements will further undermine the prospect of the two-state solution by driving a wedge through the West Bank,\" Kallas told a press conference following an informal meeting of EU foreign affairs ministers in Wicklow, Ireland. Israel advanced the {{4}} E1 settlement project in August by issuing a {{5}} for 1,234 housing units. Published online by Israel's Ministry of Construction and Housing, the tender covers part of a broader plan to build 3,401 housing units in the E1 area, east of Jerusalem.",
-          "cn": "2026年9月2日，一辆以色列军用推土机在约旦河西岸杰宁市附近的阿拉巴村巴勒斯坦农田区拔除橄榄树。欧盟外交政策负责人卡娅·卡拉斯周三警告称，以色列在被占领的约旦河西岸的E1定居点项目将进一步破坏两国方案的前景，与此同时，定居者暴力和以色列定居点扩张继续引发对巴勒斯坦人安全的担忧。联合国人道主义办公室也对被占领巴勒斯坦领土上平民的安全和福祉表示深切关注。卡拉斯在爱尔兰威克洛举行的欧盟外交事务部长非正式会议后的新闻发布会上表示：“E1定居点将在约旦河西岸打入一个楔子，进一步破坏两国方案的前景。”以色列于8月推进了有争议的E1定居点项目，发布了1234套住房的招标。该招标由以色列建设和住房部在线发布，涵盖了一项更广泛计划的一部分，即在耶路撒冷以东的E1地区建造3401套住房。"
-        },
-        {
-          "en": "\"Settler violence against Palestinians continues to rise, and too often goes {{6}},\" Kallas said, adding that the EU would continue to support the Gaza peace plan and work with partners toward a two-state solution. Two Palestinians were killed by Israeli gunfire in a village north of Ramallah in the West Bank, according to the Palestinian Ministry of Health on Wednesday. Amin Abu Alia, head of the village council, said Israeli settlers and soldiers entered the village in the evening, attacked two houses and stole sheep. \"When residents tried to {{7}} the settlers while they were stealing the sheep, the {{8}} opened live fire at them,\" he said, adding that two minors later died while being transferred to a hospital. The Palestinian Health Ministry {{9}} the victims as 19-year-old Omar Mohammad Naji al-Na'ssan and 16-year-old Khalil Rassem Khalil Shehadeh. The Israeli military had not commented on the incident as of Wednesday.",
-          "cn": "卡拉斯表示：“针对巴勒斯坦人的定居者暴力持续上升，且常常不受制止。”她补充说，欧盟将继续支持加沙和平计划，并与合作伙伴共同努力实现两国方案。据巴勒斯坦卫生部周三消息，两名巴勒斯坦人在约旦河西岸拉姆安拉以北的一个村庄被以色列枪击身亡。该村村委会负责人阿明·阿布·阿利亚表示，以色列定居者和士兵在晚间进入村庄，袭击了两所房屋并偷走了羊。他说：“当居民试图在定居者偷羊时与他们对抗，狙击手向他们开了实弹。”他补充说，两名未成年人在被送往医院途中死亡。巴勒斯坦卫生部确认遇难者为19岁的奥马尔·穆罕默德·纳吉·纳桑和16岁的哈利勒·拉塞姆·哈利勒·谢哈德。截至周三，以色列军方尚未对事件发表评论。"
-        },
-        {
-          "en": "The UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday that its humanitarian partners were deeply concerned by reports that the entire community of Khirbet at Tabban in the West Bank had been destroyed by Israeli forces. Khirbet at Tabban is one of 13 herding communities in the Masafer Yatta area of Hebron. Together, the communities are home to more than 1,000 people and are located within the 18% of the West Bank that Israeli authorities have designated as \"firing zones\" for military training, according to OCHA. The communities have faced longstanding {{10}} orders against structures deemed unlicensed, while Palestinian residents face significant {{11}} in obtaining the permits required to build legally, OCHA said. The humanitarian office added that a dozen settler {{12}} had been established in the same area over the past two years, while settler violence had added to pressure on Palestinians to leave their homes and land. OCHA said its humanitarian partners were {{13}} to support newly displaced residents while continuing to assist {{14}} communities whose livelihoods across the West Bank are under growing pressure.",
-          "cn": "联合国人道主义事务协调厅（OCHA）周三表示，其人道主义合作伙伴对有关约旦河西岸Khirbet at Tabban整个社区被以色列军队摧毁的报道深感关切。Khirbet at Tabban是希伯伦Masafer Yatta地区13个牧区社区之一。据OCHA称，这些社区共有1000多人居住，位于约旦河西岸被以色列当局指定为军事训练“射击区”的18%区域内。OCHA表示，这些社区长期面临针对未获许可建筑的拆除令，而巴勒斯坦居民在获得合法建筑所需许可方面面临重大限制。人道主义办公室补充说，过去两年内，同一地区建立了十几个定居者前哨，而定居者暴力加剧了巴勒斯坦人离开家园和土地的压力。OCHA表示，其人道主义合作伙伴正在动员起来支持新流离失所的居民，同时继续援助约旦河西岸各地生计面临日益增长压力的脆弱社区。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "undermine",
-          "hint": "v. 破坏",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "prospects",
-          "hint": "n. 前景",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "expansion",
-          "hint": "n. 扩张",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "welfare",
-          "hint": "n. 福祉",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "controversial",
-          "hint": "adj. 有争议的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "tender",
-          "hint": "n. 招标",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "unchecked",
-          "hint": "adj. 不受制止的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "confront",
-          "hint": "v. 对抗",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "snipers",
-          "hint": "n. 狙击手",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "identified",
-          "hint": "v. 确认",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "demolition",
-          "hint": "n. 拆除",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "restrictions",
-          "hint": "n. 限制",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "outposts",
-          "hint": "n. 前哨",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "mobilizing",
-          "hint": "v. 动员",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "vulnerable",
-          "hint": "adj. 脆弱的",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "An Israeli military bulldozer uproots olive trees on a Palestinian farm area in the village of Arraba, near the West Bank city of Jenin, September 2, 2026. \nThe European Union's foreign policy chief Kaja Kallas warned on Wednesday that Israel's E1 settlement project in the occupied West Bank would further undermine prospects for a two-state solution, as settler violence and Israeli settlement expansion continued to raise concerns over the safety of Palestinians.\nThe UN's humanitarian office also expressed deep concern over the safety and welfare of civilians in the occupied Palestinian territory.\n\"The E1 settlements will further undermine the prospect of the two-state solution by driving a wedge through the West Bank,\" Kallas told a press conference following an informal meeting of EU foreign affairs ministers in Wicklow, Ireland.\nIsrael advanced the controversial E1 settlement project in August by issuing a tender for 1,234 housing units. Published online by Israel's Ministry of Construction and Housing, the tender covers part of a broader plan to build 3,401 housing units in the E1 area, east of Jerusalem.\n\"Settler violence against Palestinians continues to rise, and too often goes unchecked,\" Kallas said, adding that the EU would continue to support the Gaza peace plan and work with partners toward a two-state solution.\nTwo Palestinians were killed by Israeli gunfire in a village north of Ramallah in the West Bank, according to the Palestinian Ministry of Health on Wednesday.\nAmin Abu Alia, head of the village council, said Israeli settlers and soldiers entered the village in the evening, attacked two houses and stole sheep.\n\"When residents tried to confront the settlers while they were stealing the sheep, the snipers opened live fire at them,\" he said, adding that two minors later died while being transferred to a hospital.\nThe Palestinian Health Ministry identified the victims as 19-year-old Omar Mohammad Naji al-Na'ssan and 16-year-old Khalil Rassem Khalil Shehadeh.\nThe Israeli military had not commented on the incident as of Wednesday.\nThe UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday that its humanitarian partners were deeply concerned by reports that the entire community of Khirbet at Tabban in the West Bank had been destroyed by Israeli forces.\nKhirbet at Tabban is one of 13 herding communities in the Masafer Yatta area of Hebron. Together, the communities are home to more than 1,000 people and are located within the 18% of the West Bank that Israeli authorities have designated as \"firing zones\" for military training, according to OCHA.\nThe communities have faced longstanding demolition orders against structures deemed unlicensed, while Palestinian residents face significant restrictions in obtaining the permits required to build legally, OCHA said.\nThe humanitarian office added that a dozen settler outposts had been established in the same area over the past two years, while settler violence had added to pressure on Palestinians to leave their homes and land.\nOCHA said its humanitarian partners were mobilizing to support newly displaced residents while continuing to assist vulnerable communities whose livelihoods across the West Bank are under growing pressure.",
-      "fullTextCn": "2026年9月2日，一辆以色列军用推土机在约旦河西岸杰宁市附近的阿拉巴村巴勒斯坦农田区拔除橄榄树。欧盟外交政策负责人卡娅·卡拉斯周三警告称，以色列在被占领的约旦河西岸的E1定居点项目将进一步破坏两国方案的前景，与此同时，定居者暴力和以色列定居点扩张继续引发对巴勒斯坦人安全的担忧。联合国人道主义办公室也对被占领巴勒斯坦领土上平民的安全和福祉表示深切关注。卡拉斯在爱尔兰威克洛举行的欧盟外交事务部长非正式会议后的新闻发布会上表示：“E1定居点将在约旦河西岸打入一个楔子，进一步破坏两国方案的前景。”以色列于8月推进了有争议的E1定居点项目，发布了1234套住房的招标。该招标由以色列建设和住房部在线发布，涵盖了一项更广泛计划的一部分，即在耶路撒冷以东的E1地区建造3401套住房。\n\n卡拉斯表示：“针对巴勒斯坦人的定居者暴力持续上升，且常常不受制止。”她补充说，欧盟将继续支持加沙和平计划，并与合作伙伴共同努力实现两国方案。据巴勒斯坦卫生部周三消息，两名巴勒斯坦人在约旦河西岸拉姆安拉以北的一个村庄被以色列枪击身亡。该村村委会负责人阿明·阿布·阿利亚表示，以色列定居者和士兵在晚间进入村庄，袭击了两所房屋并偷走了羊。他说：“当居民试图在定居者偷羊时与他们对抗，狙击手向他们开了实弹。”他补充说，两名未成年人在被送往医院途中死亡。巴勒斯坦卫生部确认遇难者为19岁的奥马尔·穆罕默德·纳吉·纳桑和16岁的哈利勒·拉塞姆·哈利勒·谢哈德。截至周三，以色列军方尚未对事件发表评论。\n\n联合国人道主义事务协调厅（OCHA）周三表示，其人道主义合作伙伴对有关约旦河西岸Khirbet at Tabban整个社区被以色列军队摧毁的报道深感关切。Khirbet at Tabban是希伯伦Masafer Yatta地区13个牧区社区之一。据OCHA称，这些社区共有1000多人居住，位于约旦河西岸被以色列当局指定为军事训练“射击区”的18%区域内。OCHA表示，这些社区长期面临针对未获许可建筑的拆除令，而巴勒斯坦居民在获得合法建筑所需许可方面面临重大限制。人道主义办公室补充说，过去两年内，同一地区建立了十几个定居者前哨，而定居者暴力加剧了巴勒斯坦人离开家园和土地的压力。OCHA表示，其人道主义合作伙伴正在动员起来支持新流离失所的居民，同时继续援助约旦河西岸各地生计面临日益增长压力的脆弱社区。"
+      "fullTextCn": "（中国新闻网）——距离中秋节还有三周多，专为猫狗制作的月饼已在四川省成都市上市，据《成都商报》周四报道，一些卖家预计需求将比去年增长约30%。宠物食品店从八月中旬开始接受预订，比往年提前数周，因为主人们希望通过购买爪子、狮子和兔子形状的零食与宠物一起庆祝节日。经营北安姐妹鲜食宠物食品店的周希桐表示，她已经售出300多盒礼品盒，并预计在节前将售出600多盒——约2400个月饼。一盒四个售价68元（约9.60美元）。与传统月饼不同，传统月饼馅料为莲蓉或咸蛋黄，宠物月饼含有鸡肉、鸭肉、牛肝、兔肉、鸡心、牛肉和三文鱼等成分，以及南瓜、红薯、山药和羊奶粉。\n\n周女士表示，她的店铺提前接受预订，以便给员工足够时间应对需求。“往年，许多宠物主人直到最后一刻才想起要为猫狗买月饼，”她说。“根据我们的经验，预订和临时订单各占销售额的一半左右。后来，不是没有顾客——而是我们人手不够，根本做不过来。”负责另一家鲜食宠物食品制造商GoFine在线销售的康欣悦表示，该公司今年于9月1日开放预订，而去年是在节前一周才开始。\n\n她说，公告发布当天上午就收到了10多份订单。康女士表示，GoFine去年收到近100份订单，预计今年销售额将增长约30%。宠物寄养服务也在节前预订满，今年中秋节临近十月初的国庆黄金周。幸运树宠物店一位姓周的员工表示，该店已收到五六份中秋节寄养预订，约一半犬舍空间已被预订。他说，往年，通常在节前10天左右，犬舍空间就会全部订满。\n\n节日零食需求增长背后，是中国人看待和照顾宠物方式的更广泛转变。成都市金牛区一家宠物店的经理曹娟表示，她的顾客从二十多岁的人到三四十岁的家庭，以及老年居民都有。她说，尤其是年轻主人，往往把宠物当孩子对待。“他们把宠物当孩子养，”曹女士说。“孩子有什么，他们也希望宠物有。”该店还销售鲜食宠物食品和生日蛋糕，包括根据照片定制、装饰有宠物头像的蛋糕。\n\n曹女士表示，一个精致的肖像蛋糕可能需要几个小时制作，成本可能比人吃的蛋糕还高，但顾客仍愿意为此买单。周女士表示，成都越来越多的宠物主人将鲜食作为宠物日常饮食的一部分。有些人周末为宠物订购零食或“下午茶”，并当天送货上门。康女士表示，六十多岁的人也是核心客户群体。她说，许多是退休人员，子女在其他地方，宠物为他们提供陪伴。\n\n“他们也把对孩子的爱转移到宠物身上，”康女士说。月饼作为礼物也越来越受欢迎。康女士表示，买家越来越多地带礼盒拜访养狗的亲友。该公司还在今年的端午节期间收到了企业订单，购买宠物粽子作为员工福利，为养宠物的员工提供。"
     },
     {
       "id": 5,
-      "category": "technology",
+      "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-23/Capacity-Revealed-How-China-s-technology-became-a-global-public-good-1PQC7QFQM1i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Capacity Revealed: How China's technology became a global public good",
-      "titleCn": "能力展现：中国技术如何成为全球公共产品",
-      "summary": "Capacity Revealed: How China's technology became a global public good",
-      "summaryCn": "中国开源AI模型下载量超百亿，其开放模式和技术设施正成为全球公共产品，赋能而非威胁世界。",
-      "wordCount": 484,
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-03/How-cultural-exchanges-foster-friendship-among-peoples-1Q7lVCSzD5C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "How cultural exchanges foster friendship among peoples",
+      "titleCn": "文化交流如何增进人民之间的友谊",
+      "summary": "\"Egypt has a long history and a profound cultural heritage,\" Peng Liyuan, wife of Chinese President Xi Jinping, said on Wednesday, as she praised the exquisite handicrafts on display for showcasing the wisdom and unique aesthetic sensibilities of the Egyptian people.",
+      "summaryCn": "中埃两国通过文化交流、考古合作和语言教育加深友谊，彭丽媛和习近平主席强调文明互鉴的重要性。",
+      "wordCount": 567,
       "paragraphs": [
         {
-          "en": "China's open AI models have surpassed 10 billion {{0}} downloads worldwide. But the real story lies not in the {{1}} volume – it lies in what the global open community actually builds with them. According to Hugging Face's Summer 2026 report published on August 14, Chinese-developed open models now {{2}} the {{3}} of AI scale. In almost every month of 2026, the largest and most {{4}} open model from a Chinese lab was larger than any model an American lab released – with China's monthly ceiling ranging between 754 billion and 2.78 trillion {{5}}, while US models stayed under 130 billion in five of seven months. /Hugging Face\nMore tellingly, Chinese models are not just downloaded – they are built upon.",
-          "cn": "中国的开源AI模型全球累计下载量已超过100亿次。但真正的故事不在于数量本身——而在于全球开源社区实际上用它们构建了什么。根据8月14日发布的Hugging Face 2026年夏季报告，中国开发的开源模型现在主导着AI规模的前沿。在2026年几乎每个月，中国实验室发布的最大、性能最强的开源模型都比美国实验室发布的任何模型都要大——中国的月度上限在7540亿到2.78万亿参数之间，而美国模型在七个月中有五个月保持在1300亿以下。/Hugging Face 更具说服力的是，中国模型不仅被下载——它们还被在此基础上构建。"
+          "en": "Peng Liyuan, wife of Chinese President Xi Jinping, visits a small handicrafts exhibition with Entissar El-Sisi, wife of Egyptian President Abdel Fattah El-Sisi, in Cairo, Egypt, September 2, 2026. /Xinhua\n\"China and Egypt share many cultural similarities,\" Peng Liyuan, wife of Chinese President Xi Jinping, said on Wednesday, as she praised the {{0}} exhibits for fully {{1}} the {{2}} and unique {{3}} sensibilities of the Egyptian people. While chatting over tea and visiting a small handicrafts exhibition in Cairo with Entissar El-Sisi, wife of Egyptian President Abdel Fattah El-Sisi, Peng said Egypt has a long history and a {{4}} cultural {{5}}. She expressed the hope that artists from the two countries would strengthen exchanges and cooperation to allow traditional crafts to continue to shine with renewed {{6}} through {{7}} and mutual learning. Deepening people-to-people exchanges\n\"Known for their age-old {{8}}, China and Egypt have each contributed an {{9}} intellectual {{10}} and splendid cultural heritage to the progress of humanity.\" In a signed article published in Egyptian media on Tuesday ahead of his state visit to Egypt, Xi said that across time and space, the two civilizations have been reaching out to each other, writing new chapters in the {{11}} friendship between the two peoples.",
+          "cn": "中国国家主席习近平夫人彭丽媛周三在开罗与埃及总统阿卜杜勒·法塔赫·塞西夫人恩蒂萨尔·塞西一起参观小型手工艺品展览时表示，中埃两国在文化上有许多相似之处，她称赞这些精美展品充分展示了埃及人民的智慧和独特审美。彭丽媛在喝茶交谈和参观展览时表示，埃及历史悠久，文化底蕴深厚。她希望两国艺术家加强交流与合作，让传统工艺在传承和互鉴中焕发新的活力。深化人文交流——习近平主席在访问埃及前夕于周二在埃及媒体发表署名文章，指出中埃两国以古老文明著称，各自为人类进步贡献了宝贵的智慧和灿烂的文化遗产。他说，跨越时空，两大文明相互走近，不断书写两国人民友谊的新篇章。"
         },
         {
-          "en": "Derivatives based on Alibaba's Qwen alone now number 151,448 on the Hugging Face Hub, 2.6 times Meta's total {{7}}. That figure grows by 180 to 210 new {{8}} every single day. These are not just statistics – they represent a {{9}} shift in how advanced technology reaches the world. Unlike {{10}} models that charge {{11}} licensing fees, China's open models are freely downloadable, commercially usable and highly {{12}}. This open approach allows more countries, especially developing countries, to access and afford cutting-edge AI technology, said Yan Dong, vice minister of commerce.",
-          "cn": "仅基于阿里巴巴通义千问的衍生模型在Hugging Face Hub上就已达151,448个，是Meta总足迹的2.6倍。这一数字每天以180到210个新仓库的速度增长。这些不仅仅是统计数据——它们代表了先进技术如何惠及世界的根本性转变。与收取高额许可费的专有模型不同，中国的开源模型可免费下载、可商用且高度可适应。商务部副部长严东表示，这种开放方式使更多国家，特别是发展中国家，能够获取并负担得起尖端AI技术。"
+          "en": "The China-Egypt relationship has always been an example of friendship and mutual learning. In recent years, under the {{12}} guidance of the two heads of state, exchanges and mutual learning between the two civilizations have continued to deepen. From the launch of the China-Egypt joint {{13}} project at the Montu Temple in Luxor in 2018 to the joint project at Saqqara in 2024, cooperation between the two countries in archaeology has advanced steadily. The 2025 exhibition \"On Top of the Pyramid: The Civilization of Ancient Egypt\" at the Shanghai Museum featured 788 precious {{14}}, more than 95% of which were displayed in Asia for the first time. It attracted more than 2.77 million visits.",
+          "cn": "中埃关系一直是友谊和互鉴的典范。近年来，在两国元首的战略引领下，中埃文明交流互鉴不断深化。从2018年在卢克索蒙特神庙启动的中埃联合考古项目，到2024年在萨卡拉开展的合作项目，两国在考古领域的合作稳步推进。2025年上海博物馆举办的“金字塔之巅：古埃及文明”展览展出了788件珍贵文物，其中超过95%是首次在亚洲展出，吸引了超过277万人次参观。"
         },
         {
-          "en": "From Silicon Valley startups to European manufacturing plants, overseas companies are actively {{13}} Chinese open models – such as DeepSeek and Qwen – as their technology {{14}}. A partner at Andreessen Horowitz {{15}} that as many as 80% of AI startups seeking funding in Silicon Valley use Chinese open models. One model, {{16}} with local African data, now supports 20 African languages. China's {{17}} to openness extends far beyond software. In March, the Zhongguancun Forum released the Open Science International Cooperation Action Plan, opening 10 major research infrastructure {{18}} to global scientists.",
-          "cn": "从硅谷初创企业到欧洲制造工厂，海外公司正积极采用中国开源模型——如DeepSeek和通义千问——作为其技术支柱。Andreessen Horowitz的一位合伙人透露，硅谷寻求融资的AI初创公司中多达80%使用中国开源模型。一个用非洲本地数据适配的模型现在支持20种非洲语言。中国的开放承诺远不止于软件。3月，中关村论坛发布了《开放科学国际合作行动计划》，向全球科学家开放了10个重大科研基础设施。"
+          "en": "In Egypt, there has been a Chinese language learning craze for years. The country was among the first Arab and African countries to introduce Chinese-language education. Today, 36 Egyptian universities have Chinese language departments, while 41 secondary schools in 10 provinces offer Chinese as an elective subject, according to official figures from the Chinese Embassy in Egypt. Egypt has also long been a popular tourist destination for Chinese visitors. Chinese tourists made more than 360,000 visits to Egypt in 2025, up 20% year on year, Chinese official data shows.",
+          "cn": "在埃及，汉语学习热潮持续多年。埃及是最早引入汉语教育的阿拉伯和非洲国家之一。据中国驻埃及大使馆官方数据，目前埃及有36所大学设有中文系，10个省的41所中学将汉语作为选修课。埃及也一直是中国游客的热门旅游目的地。中国官方数据显示，2025年中国游客赴埃及旅游超过36万人次，同比增长20%。"
         },
         {
-          "en": "These include the EAST \"artificial sun\" fusion reactor – which has cooperated with over 120 research institutions across more than 50 countries, according to reports from China Media Group – and the \"Tianyan‑P2000\" photonic quantum computer, the first photonic quantum computer with quantum supremacy capability open to global users. Citizens visit the Experimental Advanced Superconducting Tokamak (EAST) nuclear fusion device, Hefei, east China's Anhui Province, May 17, 2025. The Synergetic Extreme Condition User Facility, completed in 2025, has already served 381 institutions, including 16 international organizations from 11 countries, with open beam time reaching 428,000 hours. A technician works at the Synergetic Extreme Condition User Facility in Huairou Science City, Beijing, China, July 16, 2026. If China's technological capacity was truly a \"threat,\" why would it open up its most advanced AI models and grant global access to its most {{19}} research facilities?",
-          "cn": "这些设施包括EAST“人造太阳”聚变反应堆——据中央广播电视总台报道，该反应堆已与50多个国家的120多个研究机构合作——以及“天眼-P2000”光子量子计算机，这是首台向全球用户开放、具备量子优越性的光子量子计算机。2025年5月17日，市民参观位于中国安徽省合肥市的实验先进超导托卡马克（EAST）核聚变装置。2025年建成的综合极端条件实验装置已服务381家机构，其中包括来自11个国家的16个国际组织，开放机时达428,000小时。2026年7月16日，一名技术人员在北京怀柔科学城的综合极端条件实验装置工作。如果中国的技术能力真是“威胁”，为何要开放其最先进的AI模型并让全球使用其最尖端的研究设施？"
+          "en": "More than 30 direct flights operate between the two countries each week. Mutual learning among civilizations\nPeng has long been committed to promoting cultural exchanges and fostering mutual understanding and friendship among peoples. When attending an event for spouses of leaders participating in the 2026 Shanghai Cooperation Organization Summit in Bishkek on Tuesday, she invited Kyrgyz artists to visit China for more performances and cultural exchanges so as to give Chinese audiences a closer look at the country's rich ethnic culture. This echoes China's broader call for exchanges and mutual learning among civilizations. When proposing the Global Civilization Initiative in March 2023, Xi said tolerance, coexistence, exchanges and mutual learning among different civilizations play an irreplaceable role in advancing humanity's modernization process.",
+          "cn": "两国每周有超过30个直飞航班。文明互鉴——彭丽媛长期致力于促进文化交流，增进人民之间的相互理解和友谊。周二在比什凯克出席2026年上海合作组织峰会领导人配偶活动时，她邀请吉尔吉斯斯坦艺术家访华进行更多演出和文化交流，让中国观众更近距离了解该国丰富的民族文化。这与习近平主席提出的文明交流互鉴的广泛倡议相呼应。习近平主席在2023年3月提出全球文明倡议时表示，不同文明的包容共存、交流互鉴，在推动人类现代化进程中发挥着不可替代的作用。"
         },
         {
-          "en": "The answer is clear: China's tech capacity is not a closed proprietary asset but an open global public good – one that {{20}} rather than threatens, and invites the world to share the benefits of scientific progress.",
-          "cn": "答案很明确：中国的技术能力不是封闭的专有资产，而是开放的全球公共产品——它赋能而非威胁，并邀请世界共享科学进步的成果。"
+          "en": "\"We advocate robust international people-to-people exchanges and cooperation,\" Xi said, stressing that countries need to explore the building of a global network for inter-civilization dialogue and cooperation to promote mutual understanding and friendship among people of all countries.",
+          "cn": "习近平主席强调，要倡导加强国际人文交流合作，探讨构建全球文明对话合作网络，促进各国人民相知相亲，共同推动人类文明发展进步。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "cumulative",
-          "hint": "adj. 累计的",
+          "answer": "exquisite",
+          "hint": "adj. 精美的",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "sheer",
-          "hint": "adj. 纯粹的",
+          "answer": "showcasing",
+          "hint": "v. 展示",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "dominate",
-          "hint": "v. 主导",
-          "difficulty": "medium"
+          "answer": "wisdom",
+          "hint": "n. 智慧",
+          "difficulty": "easy"
         },
         {
           "id": 3,
-          "answer": "frontier",
-          "hint": "n. 前沿",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "performant",
-          "hint": "adj. 性能优越的",
+          "answer": "aesthetic",
+          "hint": "adj. 审美的",
           "difficulty": "hard"
         },
         {
+          "id": 4,
+          "answer": "profound",
+          "hint": "adj. 深厚的",
+          "difficulty": "medium"
+        },
+        {
           "id": 5,
-          "answer": "parameters",
-          "hint": "n. 参数",
+          "answer": "heritage",
+          "hint": "n. 遗产",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "footprint",
-          "hint": "n. 足迹；影响范围",
-          "difficulty": "medium"
+          "answer": "vitality",
+          "hint": "n. 活力",
+          "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "repositories",
-          "hint": "n. 仓库（代码库）",
+          "answer": "inheritance",
+          "hint": "n. 传承",
           "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "fundamental",
-          "hint": "adj. 根本的",
+          "answer": "civilizations",
+          "hint": "n. 文明",
           "difficulty": "easy"
         },
         {
           "id": 9,
-          "answer": "proprietary",
-          "hint": "adj. 专有的",
+          "answer": "invaluable",
+          "hint": "adj. 宝贵的",
           "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "hefty",
-          "hint": "adj. 高昂的",
+          "answer": "legacy",
+          "hint": "n. 遗产",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "adaptable",
-          "hint": "adj. 可适应的",
+          "answer": "everlasting",
+          "hint": "adj. 永恒的",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "adopting",
-          "hint": "v. 采用",
-          "difficulty": "easy"
+          "answer": "strategic",
+          "hint": "adj. 战略的",
+          "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "backbone",
-          "hint": "n. 支柱",
-          "difficulty": "medium"
+          "answer": "archaeological",
+          "hint": "adj. 考古的",
+          "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "revealed",
-          "hint": "v. 透露",
-          "difficulty": "easy"
-        },
-        {
-          "id": 15,
-          "answer": "adapted",
-          "hint": "v. 适配",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "commitment",
-          "hint": "n. 承诺",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "facilities",
-          "hint": "n. 设施",
-          "difficulty": "easy"
-        },
-        {
-          "id": 18,
-          "answer": "sophisticated",
-          "hint": "adj. 尖端的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "empowers",
-          "hint": "v. 赋能",
-          "difficulty": "medium"
+          "answer": "artifacts",
+          "hint": "n. 文物",
+          "difficulty": "hard"
         }
       ],
-      "fullText": "China's open AI models have surpassed 10 billion cumulative downloads worldwide. But the real story lies not in the sheer volume – it lies in what the global open community actually builds with them.\nAccording to Hugging Face's Summer 2026 report published on August 14, Chinese-developed open models now dominate the frontier of AI scale. In almost every month of 2026, the largest and most performant open model from a Chinese lab was larger than any model an American lab released – with China's monthly ceiling ranging between 754 billion and 2.78 trillion parameters, while US models stayed under 130 billion in five of seven months.\n/Hugging Face\nMore tellingly, Chinese models are not just downloaded – they are built upon. Derivatives based on Alibaba's Qwen alone now number 151,448 on the Hugging Face Hub, 2.6 times Meta's total footprint. That figure grows by 180 to 210 new repositories every single day.\nThese are not just statistics – they represent a fundamental shift in how advanced technology reaches the world. Unlike proprietary models that charge hefty licensing fees, China's open models are freely downloadable, commercially usable and highly adaptable.\nThis open approach allows more countries, especially developing countries, to access and afford cutting-edge AI technology, said Yan Dong, vice minister of commerce.\nFrom Silicon Valley startups to European manufacturing plants, overseas companies are actively adopting Chinese open models – such as DeepSeek and Qwen – as their technology backbone. A partner at Andreessen Horowitz revealed that as many as 80% of AI startups seeking funding in Silicon Valley use Chinese open models. One model, adapted with local African data, now supports 20 African languages.\nChina's commitment to openness extends far beyond software. In March, the Zhongguancun Forum released the Open Science International Cooperation Action Plan, opening 10 major research infrastructure facilities to global scientists.\nThese include the EAST \"artificial sun\" fusion reactor – which has cooperated with over 120 research institutions across more than 50 countries, according to reports from China Media Group – and the \"Tianyan‑P2000\" photonic quantum computer, the first photonic quantum computer with quantum supremacy capability open to global users.\nCitizens visit the Experimental Advanced Superconducting Tokamak (EAST) nuclear fusion device, Hefei, east China's Anhui Province, May 17, 2025. \nThe Synergetic Extreme Condition User Facility, completed in 2025, has already served 381 institutions, including 16 international organizations from 11 countries, with open beam time reaching 428,000 hours.\nA technician works at the Synergetic Extreme Condition User Facility in Huairou Science City, Beijing, China, July 16, 2026. \nIf China's technological capacity was truly a \"threat,\" why would it open up its most advanced AI models and grant global access to its most sophisticated research facilities? The answer is clear: China's tech capacity is not a closed proprietary asset but an open global public good – one that empowers rather than threatens, and invites the world to share the benefits of scientific progress.",
-      "fullTextCn": "中国的开源AI模型全球累计下载量已超过100亿次。但真正的故事不在于数量本身——而在于全球开源社区实际上用它们构建了什么。根据8月14日发布的Hugging Face 2026年夏季报告，中国开发的开源模型现在主导着AI规模的前沿。在2026年几乎每个月，中国实验室发布的最大、性能最强的开源模型都比美国实验室发布的任何模型都要大——中国的月度上限在7540亿到2.78万亿参数之间，而美国模型在七个月中有五个月保持在1300亿以下。/Hugging Face 更具说服力的是，中国模型不仅被下载——它们还被在此基础上构建。\n\n仅基于阿里巴巴通义千问的衍生模型在Hugging Face Hub上就已达151,448个，是Meta总足迹的2.6倍。这一数字每天以180到210个新仓库的速度增长。这些不仅仅是统计数据——它们代表了先进技术如何惠及世界的根本性转变。与收取高额许可费的专有模型不同，中国的开源模型可免费下载、可商用且高度可适应。商务部副部长严东表示，这种开放方式使更多国家，特别是发展中国家，能够获取并负担得起尖端AI技术。\n\n从硅谷初创企业到欧洲制造工厂，海外公司正积极采用中国开源模型——如DeepSeek和通义千问——作为其技术支柱。Andreessen Horowitz的一位合伙人透露，硅谷寻求融资的AI初创公司中多达80%使用中国开源模型。一个用非洲本地数据适配的模型现在支持20种非洲语言。中国的开放承诺远不止于软件。3月，中关村论坛发布了《开放科学国际合作行动计划》，向全球科学家开放了10个重大科研基础设施。\n\n这些设施包括EAST“人造太阳”聚变反应堆——据中央广播电视总台报道，该反应堆已与50多个国家的120多个研究机构合作——以及“天眼-P2000”光子量子计算机，这是首台向全球用户开放、具备量子优越性的光子量子计算机。2025年5月17日，市民参观位于中国安徽省合肥市的实验先进超导托卡马克（EAST）核聚变装置。2025年建成的综合极端条件实验装置已服务381家机构，其中包括来自11个国家的16个国际组织，开放机时达428,000小时。2026年7月16日，一名技术人员在北京怀柔科学城的综合极端条件实验装置工作。如果中国的技术能力真是“威胁”，为何要开放其最先进的AI模型并让全球使用其最尖端的研究设施？\n\n答案很明确：中国的技术能力不是封闭的专有资产，而是开放的全球公共产品——它赋能而非威胁，并邀请世界共享科学进步的成果。"
+      "fullText": "Peng Liyuan, wife of Chinese President Xi Jinping, visits a small handicrafts exhibition with Entissar El-Sisi, wife of Egyptian President Abdel Fattah El-Sisi, in Cairo, Egypt, September 2, 2026. /Xinhua\n\"China and Egypt share many cultural similarities,\" Peng Liyuan, wife of Chinese President Xi Jinping, said on Wednesday, as she praised the exquisite exhibits for fully showcasing the wisdom and unique aesthetic sensibilities of the Egyptian people.\nWhile chatting over tea and visiting a small handicrafts exhibition in Cairo with Entissar El-Sisi, wife of Egyptian President Abdel Fattah El-Sisi, Peng said Egypt has a long history and a profound cultural heritage. She expressed the hope that artists from the two countries would strengthen exchanges and cooperation to allow traditional crafts to continue to shine with renewed vitality through inheritance and mutual learning.\nDeepening people-to-people exchanges\n\"Known for their age-old civilizations, China and Egypt have each contributed an invaluable intellectual legacy and splendid cultural heritage to the progress of humanity.\" In a signed article published in Egyptian media on Tuesday ahead of his state visit to Egypt, Xi said that across time and space, the two civilizations have been reaching out to each other, writing new chapters in the everlasting friendship between the two peoples.\nThe China-Egypt relationship has always been an example of friendship and mutual learning. In recent years, under the strategic guidance of the two heads of state, exchanges and mutual learning between the two civilizations have continued to deepen.\nFrom the launch of the China-Egypt joint archaeological project at the Montu Temple in Luxor in 2018 to the joint project at Saqqara in 2024, cooperation between the two countries in archaeology has advanced steadily. The 2025 exhibition \"On Top of the Pyramid: The Civilization of Ancient Egypt\" at the Shanghai Museum featured 788 precious artifacts, more than 95% of which were displayed in Asia for the first time. It attracted more than 2.77 million visits.\nIn Egypt, there has been a Chinese language learning craze for years. The country was among the first Arab and African countries to introduce Chinese-language education. Today, 36 Egyptian universities have Chinese language departments, while 41 secondary schools in 10 provinces offer Chinese as an elective subject, according to official figures from the Chinese Embassy in Egypt.\nEgypt has also long been a popular tourist destination for Chinese visitors. Chinese tourists made more than 360,000 visits to Egypt in 2025, up 20% year on year, Chinese official data shows. More than 30 direct flights operate between the two countries each week.\nMutual learning among civilizations\nPeng has long been committed to promoting cultural exchanges and fostering mutual understanding and friendship among peoples. When attending an event for spouses of leaders participating in the 2026 Shanghai Cooperation Organization Summit in Bishkek on Tuesday, she invited Kyrgyz artists to visit China for more performances and cultural exchanges so as to give Chinese audiences a closer look at the country's rich ethnic culture.\nThis echoes China's broader call for exchanges and mutual learning among civilizations. When proposing the Global Civilization Initiative in March 2023, Xi said tolerance, coexistence, exchanges and mutual learning among different civilizations play an irreplaceable role in advancing humanity's modernization process.\n\"We advocate robust international people-to-people exchanges and cooperation,\" Xi said, stressing that countries need to explore the building of a global network for inter-civilization dialogue and cooperation to promote mutual understanding and friendship among people of all countries.",
+      "fullTextCn": "中国国家主席习近平夫人彭丽媛周三在开罗与埃及总统阿卜杜勒·法塔赫·塞西夫人恩蒂萨尔·塞西一起参观小型手工艺品展览时表示，中埃两国在文化上有许多相似之处，她称赞这些精美展品充分展示了埃及人民的智慧和独特审美。彭丽媛在喝茶交谈和参观展览时表示，埃及历史悠久，文化底蕴深厚。她希望两国艺术家加强交流与合作，让传统工艺在传承和互鉴中焕发新的活力。深化人文交流——习近平主席在访问埃及前夕于周二在埃及媒体发表署名文章，指出中埃两国以古老文明著称，各自为人类进步贡献了宝贵的智慧和灿烂的文化遗产。他说，跨越时空，两大文明相互走近，不断书写两国人民友谊的新篇章。\n\n中埃关系一直是友谊和互鉴的典范。近年来，在两国元首的战略引领下，中埃文明交流互鉴不断深化。从2018年在卢克索蒙特神庙启动的中埃联合考古项目，到2024年在萨卡拉开展的合作项目，两国在考古领域的合作稳步推进。2025年上海博物馆举办的“金字塔之巅：古埃及文明”展览展出了788件珍贵文物，其中超过95%是首次在亚洲展出，吸引了超过277万人次参观。\n\n在埃及，汉语学习热潮持续多年。埃及是最早引入汉语教育的阿拉伯和非洲国家之一。据中国驻埃及大使馆官方数据，目前埃及有36所大学设有中文系，10个省的41所中学将汉语作为选修课。埃及也一直是中国游客的热门旅游目的地。中国官方数据显示，2025年中国游客赴埃及旅游超过36万人次，同比增长20%。\n\n两国每周有超过30个直飞航班。文明互鉴——彭丽媛长期致力于促进文化交流，增进人民之间的相互理解和友谊。周二在比什凯克出席2026年上海合作组织峰会领导人配偶活动时，她邀请吉尔吉斯斯坦艺术家访华进行更多演出和文化交流，让中国观众更近距离了解该国丰富的民族文化。这与习近平主席提出的文明交流互鉴的广泛倡议相呼应。习近平主席在2023年3月提出全球文明倡议时表示，不同文明的包容共存、交流互鉴，在推动人类现代化进程中发挥着不可替代的作用。\n\n习近平主席强调，要倡导加强国际人文交流合作，探讨构建全球文明对话合作网络，促进各国人民相知相亲，共同推动人类文明发展进步。"
     }
   ]
 }
