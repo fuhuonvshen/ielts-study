@@ -1,78 +1,271 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "articles": [
     {
       "id": 1,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-02/How-difficult-is-it-to-predict-glacial-disasters--1Q6ulPfweB2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Melting plateau: How difficult is it to predict glacial disasters?",
+      "titleCn": "消融的高原：预测冰川灾害有多难？",
+      "summary": "Melting plateau: How difficult is it to predict glacial disasters?",
+      "summaryCn": "在全球变暖背景下，冰川退缩、永久冻土退化与冰湖扩张正使冰岩崩、冰湖溃决等灾害愈发频繁，尽管遥感与实地监测技术不断进步，但受限于偏远高海拔地区监测不足，准确预测冰川崩塌的时间仍极为困难。",
+      "wordCount": 1463,
+      "paragraphs": [
+        {
+          "en": "Glaciers are often seen as \"victims\" of global warming. But glacier retreat, permafrost {{0}} and the expansion of glacial lakes, combined with extreme weather and complex geological conditions, may also increase the risks of ice {{1}}, glacial lake {{2}}, landslides and debris flows. As {{3}} and early warning technologies for extreme weather and climate events continue to advance, can glaciers in remote, high-altitude areas be monitored and warnings issued before disasters occur? CGTN spoke with two experts about glacial disasters, climate change, monitoring and early warning: Zhang Dongqi, a research scientist at the Chinese Academy of Meteorological Sciences' Institute of Global Change and Polar Meteorology, and Ma Lijuan, a research scientist at the National Climate Center's Division of Climate Change Monitoring and Projection. Laigu Glacier in Baxoi County, Qamdo City, Xizang Autonomous Region, China.",
+          "cn": "冰川常被视为全球变暖的\"受害者\"。但冰川退缩、永久冻土退化以及冰湖扩张，叠加极端天气和复杂地质条件，也可能增加冰崩、冰湖溃决、滑坡和泥石流的风险。随着极端天气和气候事件的监测与预警技术不断进步，偏远高海拔地区的冰川能否在灾害发生前得到监测并发出预警？CGTN就冰川灾害、气候变化、监测与预警采访了两位专家：中国气象科学研究院全球变化与极地气象研究所研究员张东启，以及国家气候中心气候变化监测与预估室研究员马丽娟。图为位于中国西藏自治区昌都市八宿县的来古冰川。"
+        },
+        {
+          "en": "CGTN: We often think of glaciers as \"victims\" of climate change. Are we now also seeing glaciers becoming sources of hazard? Are ice-rock avalanches and other glacier-related hazards becoming more frequent or more severe? Zhang Dongqi: Glacial disasters have always existed. They occurred less frequently during periods of stable climate and consequently attracted less attention.",
+          "cn": "CGTN：我们常把冰川视为气候变化的\"受害者\"。现在我们是否也看到冰川正在成为灾害的来源？冰岩崩及其他与冰川相关的灾害是否正变得更加频繁或更加严重？张东启：冰川灾害一直存在。在气候稳定时期，它们发生频率较低，因此受到的关注也较少。"
+        },
+        {
+          "en": "Against the backdrop of global warming, glacial disasters are becoming more frequent, causing greater losses and drawing increasing attention. Analysis of the past several decades, or even the past 10 to 20 years, shows that ice-rock avalanches and other glacier-related disasters have indeed been increasing in frequency, and their severity is also increasing. Both factors are at play. Global warming has led to a higher {{4}} of cryospheric disasters in recent decades. The expansion of human activity, advances in satellite remote sensing and other monitoring methods have also enabled us to detect more disasters in remote areas, including some that did not cause casualties in the past but left clear traces.",
+          "cn": "在全球变暖的背景下，冰川灾害正变得更加频繁，造成更大损失，并引起越来越多的关注。对过去几十年、甚至过去10到20年的分析表明，冰岩崩及其他与冰川相关的灾害发生频率确实在增加，其严重程度也在上升。这两个因素都在起作用。近几十年来，全球变暖导致冰冻圈灾害的发生率上升。人类活动的扩张、卫星遥感及其他监测方法的进步，也使我们能够探测到偏远地区的更多灾害，包括一些过去未造成人员伤亡但留下明显痕迹的灾害。"
+        },
+        {
+          "en": "Ma Lijuan: Against the backdrop of a warming climate, glaciers in High Mountain Asia, with the Qinghai-Xizang Plateau as the core region, have been {{5}} and losing mass, while permafrost has been degrading and snow cover has been decreasing, with these trends {{6}} since the 1990s. This has led to glacier {{7}} and increases in the number and area of glacial lakes. Cryosphere-related disasters, such as ice and snow avalanches, glacial lake outbursts, glacier-related debris flows and snowmelt floods have occurred more frequently. Studies show that glacier collapse events have increased since at least 1950, while the number of thermokarst ponds and the occurrence of permafrost retrogressive thaw slump have increased since the 1970s. Since 2015, abrupt cryosphere events have been continuously observed across large areas of High Mountain Asia.",
+          "cn": "马丽娟：在气候变暖的背景下，以青藏高原为核心区的高亚洲冰川一直在退缩和消融，永久冻土持续退化，积雪不断减少，这些趋势自20世纪90年代以来不断加剧。这导致冰川不稳定性增加，冰湖数量和面积增加。冰冻圈相关灾害，如冰雪崩、冰湖溃决、冰川泥石流和融雪洪水，发生得更加频繁。研究表明，冰川崩塌事件至少自1950年以来有所增加，而热喀斯特塘数量和永久冻土热融滑塌的发生自20世纪70年代以来有所增加。自2015年以来，高亚洲大片地区持续观测到冰冻圈突变事件。"
+        },
+        {
+          "en": "China has completed three glacier {{8}}: the first covering 1978-2002, the second covering 2008-2015 and the third covering 2023-2026. A comprehensive assessment shows that the area of glaciers on the Qinghai-Xizang Plateau declined from 51,000 square kilometers to 44,000 square kilometers and then to 39,000 square kilometers over the past 60 years. According to the second comprehensive scientific expedition to the Qinghai-Xizang Plateau, both the number and area of glacial lakes on the plateau increased by more than 20% from 1990 to 2020. The retreating Monaco Glacier in Svalbard, Norway, July 29, 2026. CGTN: How does a warming climate change the physical conditions that keep glaciers and mountain slopes stable?",
+          "cn": "中国已完成三次冰川编目：第一次覆盖1978—2002年，第二次覆盖2008—2015年，第三次覆盖2023—2026年。综合评估显示，过去60年间，青藏高原冰川面积从5.1万平方公里下降到4.4万平方公里，再降至3.9万平方公里。根据第二次青藏高原综合科学考察，1990年至2020年，高原冰湖的数量和面积均增加了20%以上。图为2026年7月29日挪威斯瓦尔巴群岛正在退缩的摩纳哥冰川。CGTN：气候变暖如何改变维持冰川和山坡稳定的物理条件？"
+        },
+        {
+          "en": "Can we say that climate change increases the risk of glacier collapse, even if we cannot say it directly caused this particular event? Ma: Temperature, precipitation and topography are the three necessary conditions for glacier formation and development. Since the 1960s, the Qinghai-Xizang Plateau and surrounding areas have warmed significantly, with the rate of warming clearly higher than the global average over the same period. High-temperature events have become more frequent, while annual precipitation has also {{9}} upward, with greater extremes. Climate warming has {{10}} glacier mass loss, increased glacier movement and reduced the stability of their internal structures, providing dynamic conditions for glacier surges and ice avalanches.",
+          "cn": "我们是否可以说气候变化增加了冰川崩塌的风险，即使我们不能说它直接导致了这一次事件？马：气温、降水和地形是冰川形成和发展的三个必要条件。自20世纪60年代以来，青藏高原及周边地区显著变暖，升温速率明显高于同期全球平均水平。高温事件变得更加频繁，年降水量也呈波动上升趋势，极端性更强。气候变暖加速了冰川物质损失，增加了冰川运动，降低了其内部结构的稳定性，为冰川跃动和冰崩提供了动力条件。"
+        },
+        {
+          "en": "Meanwhile, glacier meltwater has increased the number of glacial lakes and rapidly expanded their area. Combined with extreme temperatures, extreme precipitation and loose geological conditions, this has contributed to the increased frequency of glacial lake outburst disasters. Based on information from investigations so far, the event (on August 26) was triggered first by an ice-rock avalanche. The site is located in an area of maritime glaciers on the southern slope of the central Himalayas. Under the long-term influence of climate warming, glacier ice temperatures have risen and glacier flow has accelerated, while the internal structure of the glaciers has gradually become less stable and mountain slopes have become increasingly {{11}}.",
+          "cn": "与此同时，冰川融水增加了冰湖数量并使其面积迅速扩张。叠加极端气温、极端降水和松散的地质条件，这促成了冰湖溃决灾害频率的增加。根据目前调查获得的信息，此次事件（8月26日）首先由一次冰岩崩触发。事发地位于喜马拉雅山中段南坡的海洋型冰川区域。在气候变暖的长期影响下，冰川冰温升高，冰川流动加速，冰川内部结构逐渐变得不稳定，山坡也日益破碎。"
+        },
+        {
+          "en": "Climate change is an important long-term risk factor for glacier melting. The direct cause of this event was geological environmental changes resulting from glacier instability. Aletsch Glacier descends near Bettmeralp, Switzerland, September 14, 2025. CGTN: Can we predict when a glacier or ice mass is likely to collapse? What signs should scientists be looking for before a major collapse?",
+          "cn": "气候变化是冰川消融的重要长期风险因素。此次事件的直接原因是冰川失稳导致的地质环境变化。图为2025年9月14日瑞士贝特默阿尔卑附近的阿莱奇冰川。CGTN：我们能否预测冰川或冰体何时可能崩塌？在重大崩塌发生前，科学家应寻找哪些迹象？"
+        },
+        {
+          "en": "Zhang: If enough monitoring equipment is {{12}} and the data can be analyzed in a timely manner, we can basically predict whether a glacier has the potential to collapse, but predicting the exact timing of a collapse is very difficult. At present, glaciers are mostly located in remote, high-altitude areas where monitoring is {{13}}, making it very difficult to predict ice avalanches. Signals from multiple aspects, including geological and meteorological factors, need to be monitored, such as whether an earthquake has occurred in the area where the glacier is located, whether there has been sustained or sharp warming recently, and whether there has been prolonged or extreme precipitation. In addition, where monitoring conditions permit, signals such as stress and deformation within the glacier itself require particular attention. Ma: Mountain glaciers are distributed in cold, high-altitude regions, where systematic field observations are difficult to conduct on a regular basis, resulting in relatively limit first-hand observational data.",
+          "cn": "张：如果部署足够的监测设备并能及时分析数据，我们基本可以预测冰川是否具有崩塌的潜在可能，但预测崩塌的确切时间非常困难。目前，冰川大多位于偏远高海拔地区，监测不足，使得预测冰崩非常困难。需要监测地质和气象等多方面的信号，例如冰川所在地区是否发生地震、近期是否出现持续或急剧升温、是否出现持续或极端降水。此外，在监测条件允许的地方，冰川内部的应力和形变等信号尤其需要关注。马：山地冰川分布在寒冷的高海拔地区，难以定期开展系统的实地观测，导致第一手观测数据相对有限。"
+        },
+        {
+          "en": "The continued development of advanced observation technologies is creating new opportunities for routine monitoring. However, establishing a comprehensive early warning system remains a long-term challenge. It is necessary, in light of the complex terrain of the Qinghai-Xizang Plateau and the characteristics of typical glacial disasters, to build a {{14}} Earth system observation network, with a focus on strengthening dynamic monitoring of high-risk glaciers and glacial lake areas. At the same time, research into the disaster-causing mechanisms of typical glacial disasters should be deepened, a comprehensive early warning indicator system established, and future trends assessed and anticipated, so as to scientifically prevent and proactively respond to the impacts and disaster risks posed by changes in high-altitude glaciers. Recent disaster events show that glacial disasters often result from a complex chain of interacting factors, including earthquakes loosening mountain slopes, glacier retreat, permafrost thaw, fractured geological conditions, prolonged heat or precipitation, and extreme weather and climate conditions.",
+          "cn": "先进观测技术的持续发展正在为常规监测创造新机遇。然而，建立全面的预警系统仍是一项长期挑战。有必要针对青藏高原复杂的地形和典型冰川灾害的特征，构建协调的地球系统观测网络，重点加强对高风险冰川和冰湖区域的动态监测。同时，应深化对典型冰川灾害致灾机理的研究，建立综合预警指标体系，评估和预判未来趋势，从而科学防范并主动应对高海拔冰川变化带来的影响和灾害风险。近期的灾害事件表明，冰川灾害往往由一系列复杂的相互作用因素链引起，包括地震使山坡松动、冰川退缩、永久冻土融化、破碎的地质条件、持续高温或降水，以及极端天气和气候条件。"
+        },
+        {
+          "en": "These factors can become {{15}} over long periods, triggering large-scale {{16}} disasters. All of these factors should be incorporated into an effective monitoring and early warning system for routine monitoring. A view of Muztagh Ata Glacier, known as the \"Father of Glaciers,\" in the Xinjiang Uygur Autonomous Region, China, October 22, 2025. CGTN: What can satellites and other monitoring technologies tell us about an unstable glacier or mountain slope? How much warning time could an effective monitoring system realistically give communities downstream?",
+          "cn": "这些因素可能在长期内相互耦合，触发大规模级联灾害。所有这些因素都应纳入有效的常规监测预警系统。图为2025年10月22日中国新疆维吾尔自治区被称为\"冰川之父\"的慕士塔格冰川。CGTN：卫星及其他监测技术能告诉我们关于不稳定冰川或山坡的哪些信息？有效的监测系统现实上能给下游社区多少预警时间？"
+        },
+        {
+          "en": "Zhang: Before a disaster occurs, technologies such as remote sensing and field monitoring can provide information on whether a glacier is potentially unstable and the degree of danger it poses. After a disaster occurs, these technologies can provide information on its location, extent and impact. Different types of disasters allow for very different warning times. When a monitoring system is fully functional and operating effectively, the warning time for a glacial lake outburst may be measured in days. But ice avalanches and snow avalanches are extremely difficult to warn for, and the warning time may be much shorter, potentially on the order of minutes.",
+          "cn": "张：在灾害发生前，遥感和实地监测等技术可以提供冰川是否可能不稳定及其危险程度的信息。灾害发生后，这些技术可以提供其位置、范围和影响的信息。不同类型的灾害可提供的预警时间差异很大。当监测系统功能完备且运行有效时，冰湖溃决的预警时间可能以天计。但冰崩和雪崩极难预警，预警时间可能短得多，可能以分钟计。"
+        },
+        {
+          "en": "Yalong Glacier in Basu County, Qamdo City, China's Xizang Autonomous Region. CGTN: What are the biggest gaps in our current early-warning systems? Zhang: Inadequate monitoring – including limited monitoring coverage that cannot cover all high-risk glaciers, and limited monitoring methods that rely mainly on satellite remote sensing data while lacking field monitoring data – is currently the biggest weakness in the early warning system for glacial disasters. It is recommended that a multi-layered \"air-space-ground\" three-dimensional observation and sensing system be developed to improve the rapid detection and precise identification of disasters and provide solid support for early warning. Ma: The United Nations' Early Warnings for All initiative identifies four key elements of an early-warning system: disaster risk knowledge, monitoring and forecasting, warning {{17}} and communication, and {{18}} and response.",
+          "cn": "图为位于中国西藏自治区昌都市八宿县的雅隆冰川。CGTN：我们当前预警系统的最大差距是什么？张：监测不足——包括监测覆盖有限，无法覆盖所有高风险冰川，以及监测手段有限，主要依赖卫星遥感数据而缺乏实地监测数据——是目前冰川灾害预警系统的最大弱点。建议构建多层次\"空—天—地\"三维观测感知体系，以提高灾害的快速探测和精准识别能力，为预警提供坚实支撑。马：联合国\"全民早期预警\"倡议确定了预警系统的四个关键要素：灾害风险知识、监测与预报、预警传播与沟通，以及备灾与响应。"
+        },
+        {
+          "en": "For glacier-related hazards, all four areas remain {{19}}, and there is an urgent need to establish an integrated monitoring and forecasting system.",
+          "cn": "对于冰川相关灾害，这四个方面都仍不发达，迫切需要建立一体化的监测预报系统。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "degradation",
+          "hint": "n. 退化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "avalanches",
+          "hint": "n. 雪崩；崩塌",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "outbursts",
+          "hint": "n. 爆发；溃决",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "monitoring",
+          "hint": "n. 监测",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "incidence",
+          "hint": "n. 发生率",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "retreating",
+          "hint": "v. 退缩（现在分词）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "intensifying",
+          "hint": "v. 加剧（现在分词）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "instability",
+          "hint": "n. 不稳定性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "inventories",
+          "hint": "n. 编目；清单",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "fluctuated",
+          "hint": "v. 波动（过去式）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "accelerated",
+          "hint": "v. 加速（过去式）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "fractured",
+          "hint": "adj. 破碎的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "deployed",
+          "hint": "v. 部署（过去分词）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "inadequate",
+          "hint": "adj. 不足的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "coordinated",
+          "hint": "adj. 协调的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "coupled",
+          "hint": "v. 耦合（过去分词）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "cascading",
+          "hint": "adj. 级联的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "dissemination",
+          "hint": "n. 传播",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "preparedness",
+          "hint": "n. 备灾；准备状态",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "underdeveloped",
+          "hint": "adj. 不发达的",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Glaciers are often seen as \"victims\" of global warming. But glacier retreat, permafrost degradation and the expansion of glacial lakes, combined with extreme weather and complex geological conditions, may also increase the risks of ice avalanches, glacial lake outbursts, landslides and debris flows.\nAs monitoring and early warning technologies for extreme weather and climate events continue to advance, can glaciers in remote, high-altitude areas be monitored and warnings issued before disasters occur?\nCGTN spoke with two experts about glacial disasters, climate change, monitoring and early warning: Zhang Dongqi, a research scientist at the Chinese Academy of Meteorological Sciences' Institute of Global Change and Polar Meteorology, and Ma Lijuan, a research scientist at the National Climate Center's Division of Climate Change Monitoring and Projection.\nLaigu Glacier in Baxoi County, Qamdo City, Xizang Autonomous Region, China. \nCGTN: We often think of glaciers as \"victims\" of climate change. Are we now also seeing glaciers becoming sources of hazard? Are ice-rock avalanches and other glacier-related hazards becoming more frequent or more severe?\nZhang Dongqi: Glacial disasters have always existed. They occurred less frequently during periods of stable climate and consequently attracted less attention. Against the backdrop of global warming, glacial disasters are becoming more frequent, causing greater losses and drawing increasing attention.\nAnalysis of the past several decades, or even the past 10 to 20 years, shows that ice-rock avalanches and other glacier-related disasters have indeed been increasing in frequency, and their severity is also increasing. Both factors are at play. Global warming has led to a higher incidence of cryospheric disasters in recent decades.\nThe expansion of human activity, advances in satellite remote sensing and other monitoring methods have also enabled us to detect more disasters in remote areas, including some that did not cause casualties in the past but left clear traces.\nMa Lijuan: Against the backdrop of a warming climate, glaciers in High Mountain Asia, with the Qinghai-Xizang Plateau as the core region, have been retreating and losing mass, while permafrost has been degrading and snow cover has been decreasing, with these trends intensifying since the 1990s. This has led to glacier instability and increases in the number and area of glacial lakes.\nCryosphere-related disasters, such as ice and snow avalanches, glacial lake outbursts, glacier-related debris flows and snowmelt floods have occurred more frequently. Studies show that glacier collapse events have increased since at least 1950, while the number of thermokarst ponds and the occurrence of permafrost retrogressive thaw slump have increased since the 1970s. Since 2015, abrupt cryosphere events have been continuously observed across large areas of High Mountain Asia.\nChina has completed three glacier inventories: the first covering 1978-2002, the second covering 2008-2015 and the third covering 2023-2026. A comprehensive assessment shows that the area of glaciers on the Qinghai-Xizang Plateau declined from 51,000 square kilometers to 44,000 square kilometers and then to 39,000 square kilometers over the past 60 years. According to the second comprehensive scientific expedition to the Qinghai-Xizang Plateau, both the number and area of glacial lakes on the plateau increased by more than 20% from 1990 to 2020.\nThe retreating Monaco Glacier in Svalbard, Norway, July 29, 2026. \nCGTN: How does a warming climate change the physical conditions that keep glaciers and mountain slopes stable? Can we say that climate change increases the risk of glacier collapse, even if we cannot say it directly caused this particular event?\nMa: Temperature, precipitation and topography are the three necessary conditions for glacier formation and development. Since the 1960s, the Qinghai-Xizang Plateau and surrounding areas have warmed significantly, with the rate of warming clearly higher than the global average over the same period.\nHigh-temperature events have become more frequent, while annual precipitation has also fluctuated upward, with greater extremes. Climate warming has accelerated glacier mass loss, increased glacier movement and reduced the stability of their internal structures, providing dynamic conditions for glacier surges and ice avalanches.\nMeanwhile, glacier meltwater has increased the number of glacial lakes and rapidly expanded their area. Combined with extreme temperatures, extreme precipitation and loose geological conditions, this has contributed to the increased frequency of glacial lake outburst disasters.\nBased on information from investigations so far, the event (on August 26) was triggered first by an ice-rock avalanche. The site is located in an area of maritime glaciers on the southern slope of the central Himalayas. Under the long-term influence of climate warming, glacier ice temperatures have risen and glacier flow has accelerated, while the internal structure of the glaciers has gradually become less stable and mountain slopes have become increasingly fractured.\nClimate change is an important long-term risk factor for glacier melting. The direct cause of this event was geological environmental changes resulting from glacier instability.\nAletsch Glacier descends near Bettmeralp, Switzerland, September 14, 2025. \nCGTN: Can we predict when a glacier or ice mass is likely to collapse? What signs should scientists be looking for before a major collapse?\nZhang: If enough monitoring equipment is deployed and the data can be analyzed in a timely manner, we can basically predict whether a glacier has the potential to collapse, but predicting the exact timing of a collapse is very difficult. At present, glaciers are mostly located in remote, high-altitude areas where monitoring is inadequate, making it very difficult to predict ice avalanches.\nSignals from multiple aspects, including geological and meteorological factors, need to be monitored, such as whether an earthquake has occurred in the area where the glacier is located, whether there has been sustained or sharp warming recently, and whether there has been prolonged or extreme precipitation. In addition, where monitoring conditions permit, signals such as stress and deformation within the glacier itself require particular attention.\nMa: Mountain glaciers are distributed in cold, high-altitude regions, where systematic field observations are difficult to conduct on a regular basis, resulting in relatively limit first-hand observational data. The continued development of advanced observation technologies is creating new opportunities for routine monitoring.\nHowever, establishing a comprehensive early warning system remains a long-term challenge. It is necessary, in light of the complex terrain of the Qinghai-Xizang Plateau and the characteristics of typical glacial disasters, to build a coordinated Earth system observation network, with a focus on strengthening dynamic monitoring of high-risk glaciers and glacial lake areas.\nAt the same time, research into the disaster-causing mechanisms of typical glacial disasters should be deepened, a comprehensive early warning indicator system established, and future trends assessed and anticipated, so as to scientifically prevent and proactively respond to the impacts and disaster risks posed by changes in high-altitude glaciers.\nRecent disaster events show that glacial disasters often result from a complex chain of interacting factors, including earthquakes loosening mountain slopes, glacier retreat, permafrost thaw, fractured geological conditions, prolonged heat or precipitation, and extreme weather and climate conditions. These factors can become coupled over long periods, triggering large-scale cascading disasters. All of these factors should be incorporated into an effective monitoring and early warning system for routine monitoring.\nA view of Muztagh Ata Glacier, known as the \"Father of Glaciers,\" in the Xinjiang Uygur Autonomous Region, China, October 22, 2025. \nCGTN: What can satellites and other monitoring technologies tell us about an unstable glacier or mountain slope? How much warning time could an effective monitoring system realistically give communities downstream?\nZhang: Before a disaster occurs, technologies such as remote sensing and field monitoring can provide information on whether a glacier is potentially unstable and the degree of danger it poses. After a disaster occurs, these technologies can provide information on its location, extent and impact. Different types of disasters allow for very different warning times.\nWhen a monitoring system is fully functional and operating effectively, the warning time for a glacial lake outburst may be measured in days. But ice avalanches and snow avalanches are extremely difficult to warn for, and the warning time may be much shorter, potentially on the order of minutes.\nYalong Glacier in Basu County, Qamdo City, China's Xizang Autonomous Region. \nCGTN: What are the biggest gaps in our current early-warning systems?\nZhang: Inadequate monitoring – including limited monitoring coverage that cannot cover all high-risk glaciers, and limited monitoring methods that rely mainly on satellite remote sensing data while lacking field monitoring data – is currently the biggest weakness in the early warning system for glacial disasters.\nIt is recommended that a multi-layered \"air-space-ground\" three-dimensional observation and sensing system be developed to improve the rapid detection and precise identification of disasters and provide solid support for early warning.\nMa: The United Nations' Early Warnings for All initiative identifies four key elements of an early-warning system: disaster risk knowledge, monitoring and forecasting, warning dissemination and communication, and preparedness and response. For glacier-related hazards, all four areas remain underdeveloped, and there is an urgent need to establish an integrated monitoring and forecasting system.",
+      "fullTextCn": "冰川常被视为全球变暖的\"受害者\"。但冰川退缩、永久冻土退化以及冰湖扩张，叠加极端天气和复杂地质条件，也可能增加冰崩、冰湖溃决、滑坡和泥石流的风险。随着极端天气和气候事件的监测与预警技术不断进步，偏远高海拔地区的冰川能否在灾害发生前得到监测并发出预警？CGTN就冰川灾害、气候变化、监测与预警采访了两位专家：中国气象科学研究院全球变化与极地气象研究所研究员张东启，以及国家气候中心气候变化监测与预估室研究员马丽娟。图为位于中国西藏自治区昌都市八宿县的来古冰川。\n\nCGTN：我们常把冰川视为气候变化的\"受害者\"。现在我们是否也看到冰川正在成为灾害的来源？冰岩崩及其他与冰川相关的灾害是否正变得更加频繁或更加严重？张东启：冰川灾害一直存在。在气候稳定时期，它们发生频率较低，因此受到的关注也较少。\n\n在全球变暖的背景下，冰川灾害正变得更加频繁，造成更大损失，并引起越来越多的关注。对过去几十年、甚至过去10到20年的分析表明，冰岩崩及其他与冰川相关的灾害发生频率确实在增加，其严重程度也在上升。这两个因素都在起作用。近几十年来，全球变暖导致冰冻圈灾害的发生率上升。人类活动的扩张、卫星遥感及其他监测方法的进步，也使我们能够探测到偏远地区的更多灾害，包括一些过去未造成人员伤亡但留下明显痕迹的灾害。\n\n马丽娟：在气候变暖的背景下，以青藏高原为核心区的高亚洲冰川一直在退缩和消融，永久冻土持续退化，积雪不断减少，这些趋势自20世纪90年代以来不断加剧。这导致冰川不稳定性增加，冰湖数量和面积增加。冰冻圈相关灾害，如冰雪崩、冰湖溃决、冰川泥石流和融雪洪水，发生得更加频繁。研究表明，冰川崩塌事件至少自1950年以来有所增加，而热喀斯特塘数量和永久冻土热融滑塌的发生自20世纪70年代以来有所增加。自2015年以来，高亚洲大片地区持续观测到冰冻圈突变事件。\n\n中国已完成三次冰川编目：第一次覆盖1978—2002年，第二次覆盖2008—2015年，第三次覆盖2023—2026年。综合评估显示，过去60年间，青藏高原冰川面积从5.1万平方公里下降到4.4万平方公里，再降至3.9万平方公里。根据第二次青藏高原综合科学考察，1990年至2020年，高原冰湖的数量和面积均增加了20%以上。图为2026年7月29日挪威斯瓦尔巴群岛正在退缩的摩纳哥冰川。CGTN：气候变暖如何改变维持冰川和山坡稳定的物理条件？\n\n我们是否可以说气候变化增加了冰川崩塌的风险，即使我们不能说它直接导致了这一次事件？马：气温、降水和地形是冰川形成和发展的三个必要条件。自20世纪60年代以来，青藏高原及周边地区显著变暖，升温速率明显高于同期全球平均水平。高温事件变得更加频繁，年降水量也呈波动上升趋势，极端性更强。气候变暖加速了冰川物质损失，增加了冰川运动，降低了其内部结构的稳定性，为冰川跃动和冰崩提供了动力条件。\n\n与此同时，冰川融水增加了冰湖数量并使其面积迅速扩张。叠加极端气温、极端降水和松散的地质条件，这促成了冰湖溃决灾害频率的增加。根据目前调查获得的信息，此次事件（8月26日）首先由一次冰岩崩触发。事发地位于喜马拉雅山中段南坡的海洋型冰川区域。在气候变暖的长期影响下，冰川冰温升高，冰川流动加速，冰川内部结构逐渐变得不稳定，山坡也日益破碎。\n\n气候变化是冰川消融的重要长期风险因素。此次事件的直接原因是冰川失稳导致的地质环境变化。图为2025年9月14日瑞士贝特默阿尔卑附近的阿莱奇冰川。CGTN：我们能否预测冰川或冰体何时可能崩塌？在重大崩塌发生前，科学家应寻找哪些迹象？\n\n张：如果部署足够的监测设备并能及时分析数据，我们基本可以预测冰川是否具有崩塌的潜在可能，但预测崩塌的确切时间非常困难。目前，冰川大多位于偏远高海拔地区，监测不足，使得预测冰崩非常困难。需要监测地质和气象等多方面的信号，例如冰川所在地区是否发生地震、近期是否出现持续或急剧升温、是否出现持续或极端降水。此外，在监测条件允许的地方，冰川内部的应力和形变等信号尤其需要关注。马：山地冰川分布在寒冷的高海拔地区，难以定期开展系统的实地观测，导致第一手观测数据相对有限。\n\n先进观测技术的持续发展正在为常规监测创造新机遇。然而，建立全面的预警系统仍是一项长期挑战。有必要针对青藏高原复杂的地形和典型冰川灾害的特征，构建协调的地球系统观测网络，重点加强对高风险冰川和冰湖区域的动态监测。同时，应深化对典型冰川灾害致灾机理的研究，建立综合预警指标体系，评估和预判未来趋势，从而科学防范并主动应对高海拔冰川变化带来的影响和灾害风险。近期的灾害事件表明，冰川灾害往往由一系列复杂的相互作用因素链引起，包括地震使山坡松动、冰川退缩、永久冻土融化、破碎的地质条件、持续高温或降水，以及极端天气和气候条件。\n\n这些因素可能在长期内相互耦合，触发大规模级联灾害。所有这些因素都应纳入有效的常规监测预警系统。图为2025年10月22日中国新疆维吾尔自治区被称为\"冰川之父\"的慕士塔格冰川。CGTN：卫星及其他监测技术能告诉我们关于不稳定冰川或山坡的哪些信息？有效的监测系统现实上能给下游社区多少预警时间？\n\n张：在灾害发生前，遥感和实地监测等技术可以提供冰川是否可能不稳定及其危险程度的信息。灾害发生后，这些技术可以提供其位置、范围和影响的信息。不同类型的灾害可提供的预警时间差异很大。当监测系统功能完备且运行有效时，冰湖溃决的预警时间可能以天计。但冰崩和雪崩极难预警，预警时间可能短得多，可能以分钟计。\n\n图为位于中国西藏自治区昌都市八宿县的雅隆冰川。CGTN：我们当前预警系统的最大差距是什么？张：监测不足——包括监测覆盖有限，无法覆盖所有高风险冰川，以及监测手段有限，主要依赖卫星遥感数据而缺乏实地监测数据——是目前冰川灾害预警系统的最大弱点。建议构建多层次\"空—天—地\"三维观测感知体系，以提高灾害的快速探测和精准识别能力，为预警提供坚实支撑。马：联合国\"全民早期预警\"倡议确定了预警系统的四个关键要素：灾害风险知识、监测与预报、预警传播与沟通，以及备灾与响应。\n\n对于冰川相关灾害，这四个方面都仍不发达，迫切需要建立一体化的监测预报系统。"
+    },
+    {
+      "id": 2,
       "category": "military",
       "source": "ECNS",
       "sourceUrl": "http://www.ecns.cn/china/2026-09-13/detail-ihfkanuz5380254.shtml",
       "title": "Xi urges BRICS to stand on right side of history, play pioneering role",
       "titleCn": "习近平呼吁金砖国家站在历史正确一边，发挥开拓者作用",
       "summary": "When addressing the 18th BRICS Summit in New Delhi, Xi noted that this year marks the 20th anniversary of BRICS cooperation, saying the mechanism has become the world's most influential platform for cooperation among emerging markets and developing countries.",
-      "summaryCn": "习近平主席在金砖峰会上呼吁金砖国家站在历史正确一边，发挥开拓者作用，推动创新驱动发展、维护和平稳定、改革完善全球治理，并宣布中国将主办下一届金砖峰会。",
+      "summaryCn": "习近平主席在金砖峰会上呼吁金砖国家站在历史正确一边，发挥开拓作用，推动创新驱动发展、维护和平稳定、改革全球治理，并宣布中国将主办下一届峰会。",
       "wordCount": 1151,
       "paragraphs": [
         {
-          "en": "* The BRICS cooperation mechanism has continued to grow and expand, and has demonstrated {{0}} {{1}} and {{2}}. * As to the future development of BRICS, Xi called on the grouping to {{3}} in advancing innovation-driven development. Chinese President Xi Jinping on Saturday urged BRICS countries to firmly stand on the right side of history and strive to be a pioneer of our times. When addressing the 18th BRICS Summit in New Delhi, Xi noted that this year marks the 20th anniversary of BRICS cooperation, saying the mechanism has become the world's most {{4}} platform for cooperation among {{5}} markets and developing countries. Over the past two decades, BRICS has evolved into a broader platform for promoting shared growth, dialogue, and a greater {{6}} of the Global South in international organizations, said analysts, noting that the group is expected to deliver more {{7}} results and foster a more balanced and {{8}} world order in the future.",
-          "cn": "金砖合作机制不断壮大，展现出非凡的生机与活力。关于金砖未来的发展，习近平呼吁金砖国家在推进创新驱动发展方面发挥开拓者作用。中国国家主席习近平周六呼吁金砖国家坚定站在历史正确一边，努力做时代的开拓者。习近平在新德里举行的金砖国家领导人第十八次会晤上发表讲话时指出，今年是金砖合作二十周年，该机制已成为全球最具影响力的新兴市场和发展中国家合作平台。分析人士表示，过去二十年间，金砖已发展为一个更广泛的平台，促进共同增长、对话以及全球南方在国际组织中更大的代表性，并指出该集团有望在未来取得更多实实在在的成果，推动构建更加平衡和包容的世界秩序。"
+          "en": "* The BRICS cooperation mechanism has continued to grow and expand, and has demonstrated {{1}} {{2}} and {{3}}. * As to the future development of BRICS, Xi called on the grouping to {{0}} in advancing innovation-driven development. Chinese President Xi Jinping on Saturday urged BRICS countries to firmly stand on the right side of history and strive to be a pioneer of our times. When addressing the 18th BRICS Summit in New Delhi, Xi noted that this year marks the 20th anniversary of BRICS cooperation, saying the mechanism has become the world's most {{4}} platform for cooperation among {{5}} markets and developing countries. Over the past two decades, BRICS has evolved into a broader platform for promoting shared growth, dialogue, and a greater {{6}} of the Global South in international organizations, said analysts, noting that the group is expected to deliver more {{7}} results and foster a more balanced and {{8}} world order in the future.",
+          "cn": "金砖合作机制不断成长壮大，展现出非凡的生机与活力。关于金砖的未来发展，习近平呼吁金砖国家在推进创新驱动发展方面发挥开拓者作用。中国国家主席习近平周六呼吁金砖国家坚定站在历史正确一边，努力做时代的开拓者。习近平在新德里举行的金砖国家领导人第十八次会晤上发表讲话时指出，今年是金砖合作二十周年，该机制已成为世界上最具影响力的新兴市场和发展中国家合作平台。分析人士表示，过去二十年间，金砖已发展为一个更广泛的平台，促进共同增长、对话以及全球南方在国际组织中更大的代表性，并指出该组织有望在未来取得更多实实在在的成果，推动构建更加平衡和包容的世界秩序。"
         },
         {
           "en": "The BRICS cooperation mechanism was formally launched in 2006. The {{9}} BRIC summit was convened in Yekaterinburg, Russia, in 2009. A year later, South Africa joined the grouping, turning BRIC into BRICS. Since then, the mechanism has continued to expand in both membership and areas of cooperation. Today, BRICS countries account for nearly half of the world's population, around 30 percent of the global economy and one-fifth of global trade, serving as a force for fostering a more representative and {{10}} world and enhancing the voice of the Global South.",
-          "cn": "金砖合作机制于2006年正式启动。首次金砖峰会在2009年于俄罗斯叶卡捷琳堡举行。一年后，南非加入该集团，金砖由BRIC变为BRICS。此后，该机制在成员规模和合作领域上持续扩展。如今，金砖国家占全球近一半人口、约30%的全球经济总量和五分之一的全球贸易，成为推动构建更具代表性和多极化的世界、增强全球南方话语权的重要力量。"
+          "cn": "金砖合作机制于2006年正式启动。2009年，首届金砖四国峰会在俄罗斯叶卡捷琳堡举行。一年后，南非加入该组织，金砖四国变为金砖国家。此后，该机制在成员规模和合作领域上持续扩展。如今，金砖国家占世界近一半人口、约30%的全球经济总量和五分之一的全球贸易，成为推动构建更具代表性和多极化的世界、增强全球南方话语权的重要力量。"
         },
         {
-          "en": "Hailing the achievements over the past two decades, Xi said that the BRICS cooperation mechanism has continued to grow and expand, and has demonstrated remarkable vitality and dynamism. Elaborating on the 20-year history of the mechanism, Xi said it has been 20 years of {{11}} and self-strengthening, adding that BRICS countries have actively explored development paths suited to their own national conditions, setting an example of self-strengthening through unity among emerging markets and developing countries. The first decade of BRICS cooperation was primarily a period of institutional formation, and the second a period of expansion, said Rakhim Oshakbayev, director of the TALAP Center for Applied Research in Kazakhstan and former Kazakh vice minister for investment and development. But the significance of BRICS goes beyond the growth of its membership. Xi said that BRICS countries have established a {{13}}, {{14}} framework for cooperation, and {{15}} in a new stage of high-quality development for greater BRICS cooperation.",
-          "cn": "习近平盛赞过去二十年的成就，表示金砖合作机制不断壮大，展现出非凡的生机与活力。在阐述该机制二十年历程时，习近平表示这是自力更生、自强不息的二十年，并指出金砖国家积极探索适合自身国情的发展道路，树立了新兴市场和发展中国家团结自强的典范。哈萨克斯坦TALAP应用研究中心主任、前哈萨克斯坦投资与发展部副部长拉希姆·奥沙克巴耶夫表示，金砖合作的第一个十年主要是机制建设期，第二个十年是扩展期。但金砖的意义远不止于成员规模的增长。习近平表示，金砖国家建立了全面、多层次的合作框架，开启了金砖合作高质量发展的新阶段。"
+          "en": "Hailing the achievements over the past two decades, Xi said that the BRICS cooperation mechanism has continued to grow and expand, and has demonstrated remarkable vitality and dynamism. Elaborating on the 20-year history of the mechanism, Xi said it has been 20 years of {{11}} and self-strengthening, adding that BRICS countries have actively explored development paths suited to their own national conditions, setting an example of self-strengthening through unity among emerging markets and developing countries. The first decade of BRICS cooperation was primarily a period of institutional formation, and the second a period of expansion, said Rakhim Oshakbayev, director of the TALAP Center for Applied Research in Kazakhstan and former Kazakh vice minister for investment and development. But the significance of BRICS goes beyond the growth of its membership. Xi said that BRICS countries have established a {{13}}, multi-tiered framework for cooperation, and ushered in a new stage of high-quality development for greater BRICS cooperation.",
+          "cn": "习近平盛赞过去二十年的成就，表示金砖合作机制不断成长壮大，展现出非凡的生机与活力。在阐述该机制二十年历程时，习近平表示这是自力更生、自强不息的二十年，并指出金砖国家积极探索适合本国国情的发展道路，为新兴市场和发展中国家团结自强树立了典范。哈萨克斯坦TALAP应用研究中心主任、前哈萨克斯坦投资与发展部副部长拉希姆·奥沙克巴耶夫表示，金砖合作的第一个十年主要是制度形成期，第二个十年则是扩张期。但金砖的意义远不止于成员数量的增长。习近平表示，金砖国家建立了全面、多层次的合作框架，开启了金砖合作高质量发展的新阶段。"
         },
         {
-          "en": "Rather than replacing existing global institutions, BRICS seeks to strengthen dialogue, equality, mutual respect and cooperation among nations, said Balew Demissie, a senior consultant at the Policy Studies Institute of Ethiopia. BRICS, with its expanded membership, provides a platform for emerging economies across the globe to have a stronger voice in global issues such as trade, development, finance, climate change, peace and security, Demissie said. PIONEERING ROLES\nAs to the future development of BRICS, Xi called on the grouping to pioneer in advancing innovation-driven development. BRICS countries, he said, should strengthen cooperation in artificial intelligence and push practical cooperation into new areas and to new heights. China proposed an initiative to promote new industrialization through artificial intelligence among BRICS countries, and is willing to work with all parties to deliver more outcomes in research, development and application, and deepen cooperation in industrial and supply chains, he said.",
-          "cn": "埃塞俄比亚政策研究所高级顾问巴莱乌·德米西表示，金砖并非要取代现有全球机构，而是寻求加强国家间的对话、平等、相互尊重与合作。德米西表示，金砖通过扩大成员规模，为全球新兴经济体提供了一个平台，使其在贸易、发展、金融、气候变化、和平与安全等全球议题上拥有更强的话语权。开拓者角色。关于金砖未来的发展，习近平呼吁金砖国家在推进创新驱动发展方面发挥开拓者作用。他表示，金砖国家应加强人工智能合作，推动务实合作向新领域和新高度拓展。他说，中国提出在金砖国家间通过人工智能推进新型工业化的倡议，愿与各方共同努力，在研究、开发和应用方面取得更多成果，深化产业链和供应链合作。"
+          "en": "Rather than replacing existing global institutions, BRICS seeks to strengthen dialogue, equality, {{14}} respect and cooperation among nations, said Balew Demissie, a senior consultant at the Policy Studies Institute of Ethiopia. BRICS, with its expanded membership, provides a platform for emerging economies across the globe to have a stronger voice in global issues such as trade, development, finance, climate change, peace and security, Demissie said. PIONEERING ROLES\nAs to the future development of BRICS, Xi called on the grouping to pioneer in advancing innovation-driven development. BRICS countries, he said, should strengthen cooperation in artificial intelligence and push practical cooperation into new areas and to new heights. China proposed an initiative to promote new industrialization through artificial intelligence among BRICS countries, and is willing to work with all parties to deliver more outcomes in research, development and application, and deepen cooperation in industrial and supply chains, he said.",
+          "cn": "埃塞俄比亚政策研究所高级顾问巴莱乌·德米西表示，金砖并非要取代现有全球机构，而是寻求加强国家间的对话、平等、相互尊重与合作。德米西说，扩员后的金砖为全球新兴经济体提供了一个平台，使其在贸易、发展、金融、气候变化、和平与安全等全球议题上拥有更强的话语权。开拓性作用。关于金砖的未来发展，习近平呼吁金砖国家在推进创新驱动发展方面发挥开拓者作用。他表示，金砖国家应加强人工智能合作，推动务实合作向新领域、新高度发展。他说，中国提出了一项通过人工智能促进金砖国家新型工业化的倡议，愿与各方一道在研究、开发和应用方面取得更多成果，深化产业链和供应链合作。"
         },
         {
           "en": "Oshakbayev said emerging technologies such as AI risk creating new technological divides between countries that possess advanced models, computing power and standard-setting capabilities and those that remain mainly users of technology. Joint research, research networks, education and training under BRICS could give developing countries greater opportunities to participate in technological innovation, he said. Xi also called on BRICS to be a pioneer in upholding peace and stability. Noting that the situation in the Middle East remains complex and fluid, Xi said this war has inflicted serious losses on the people of all countries in the region, and it is against the common interests of the international community. China will work with fellow BRICS members to play a due role in bringing peace and tranquility to the Middle East, he said.",
-          "cn": "奥沙克巴耶夫表示，人工智能等新兴技术可能拥有先进模型、算力和标准制定能力的国家与主要作为技术使用者的国家之间造成新的技术鸿沟。他说，金砖框架下的联合研究、研究网络、教育和培训可以为发展中国家提供更多参与技术创新的机会。习近平还呼吁金砖国家做维护和平稳定的开拓者。习近平指出，中东局势仍然复杂多变，这场战争给地区各国人民造成了严重损失，违背国际社会的共同利益。他说，中国将同金砖伙伴一道，为中东带来和平与安宁发挥应有作用。"
+          "cn": "奥沙克巴耶夫表示，人工智能等新兴技术有可能在拥有先进模型、算力和标准制定能力的国家与仍主要是技术使用者的国家之间制造新的技术鸿沟。他说，金砖框架下的联合研究、研究网络、教育和培训可以为发展中国家提供更多参与技术创新的机会。习近平还呼吁金砖国家做维护和平稳定的开拓者。他指出中东局势依然复杂多变，这场战争给地区各国人民造成了严重损失，违背国际社会的共同利益。他说，中国将同金砖伙伴一道，为中东带来和平与安宁发挥应有作用。"
         },
         {
-          "en": "Diaa Helmy, founder and secretary-general of the Egyptian-Chinese Chamber of Commerce, said BRICS offers an important platform for cooperation rather than confrontation. \"Within BRICS we do not compete; we complement one another,\" he said. On exchanges among civilizations, Xi called on BRICS countries to champion the common values of humanity and advocate exchanges and mutual learning among civilizations as well as harmonious coexistence. Such exchanges can help societies better understand one another while respecting differences, Oshakbayev said, adding that BRICS could contribute useful experience to dialogue among civilizations on an equal footing. Xi further called on BRICS to be a pioneer in reforming and improving global governance.",
-          "cn": "埃及-中国商会创始人兼秘书长迪亚·赫尔米表示，金砖提供了合作而非对抗的重要平台。他说：“在金砖内部，我们不是竞争，而是互补。”在文明交流方面，习近平呼吁金砖国家倡导全人类共同价值，倡导文明交流互鉴与和谐共处。奥沙克巴耶夫表示，这种交流有助于各社会在尊重差异的同时更好地相互理解，并指出金砖可以为平等基础上的文明对话贡献有益经验。习近平进一步呼吁金砖国家做改革完善全球治理的开拓者。"
+          "en": "Diaa Helmy, founder and secretary-general of the Egyptian-Chinese Chamber of Commerce, said BRICS offers an important platform for cooperation rather than confrontation. \"Within BRICS we do not compete; we complement one another,\" he said. On exchanges among civilizations, Xi called on BRICS countries to champion the common values of humanity and {{15}} exchanges and mutual learning among civilizations as well as harmonious coexistence. Such exchanges can help societies better understand one another while respecting differences, Oshakbayev said, adding that BRICS could contribute useful experience to dialogue among civilizations on an equal footing. Xi further called on BRICS to be a pioneer in reforming and improving global governance.",
+          "cn": "埃及中国商会创始人兼秘书长迪亚·赫尔米表示，金砖提供了合作而非对抗的重要平台。他说：“在金砖内部，我们不是竞争，而是互补。”在文明交流方面，习近平呼吁金砖国家倡导全人类共同价值，倡导文明交流互鉴与和谐共处。奥沙克巴耶夫表示，这种交流有助于各社会在尊重差异的同时更好地相互理解，并指出金砖可以为平等基础上的文明对话贡献有益经验。习近平进一步呼吁金砖国家做改革完善全球治理的开拓者。"
         },
         {
-          "en": "He urged the group to keep pace with the trend toward greater democracy in international relations, promote a more just and equitable global governance system, and uphold the authority of the United Nations. Demissie, the expert from Ethiopia, said BRICS is not seeking to replace existing global institutions, but to make global governance more representative and responsive to the interests and aspirations of the Global South. In his address, Xi announced that China will assume the rotating chair of BRICS and host the 19th BRICS Summit next year. During its previous chairmanships, China played a notable role in advancing the BRICS agendas. Over the past two decades, China has hosted three BRICS summits, each marking a new milestone in the group's evolution.",
-          "cn": "他敦促该集团顺应国际关系民主化的大趋势，推动更加公正合理的全球治理体系，维护联合国权威。埃塞俄比亚专家德米西表示，金砖并非寻求取代现有全球机构，而是使全球治理更具代表性、更能回应全球南方的利益和愿望。习近平在讲话中宣布，中国将接任金砖轮值主席国，并于明年主办金砖国家领导人第十九次会晤。在以往的轮值主席任期内，中国在推进金砖议程方面发挥了显著作用。过去二十年间，中国主办了三次金砖峰会，每次都标志着该集团发展的新里程碑。"
+          "en": "He urged the group to keep pace with the trend toward greater democracy in international relations, promote a more just and {{16}} global governance system, and uphold the authority of the United Nations. Demissie, the expert from Ethiopia, said BRICS is not seeking to replace existing global institutions, but to make global governance more representative and responsive to the interests and aspirations of the Global South. In his address, Xi announced that China will assume the rotating chair of BRICS and host the 19th BRICS Summit next year. During its previous chairmanships, China played a notable role in advancing the BRICS agendas. Over the past two decades, China has hosted three BRICS summits, each marking a new milestone in the group's evolution.",
+          "cn": "他敦促金砖国家顺应国际关系民主化趋势，推动更加公正合理的全球治理体系，维护联合国权威。埃塞俄比亚专家德米西表示，金砖并非寻求取代现有全球机构，而是使全球治理更具代表性、更能回应全球南方的利益和愿望。习近平在讲话中宣布，中国将接任金砖轮值主席国，并于明年主办金砖国家领导人第十九次会晤。在以往的轮值主席任期内，中国在推进金砖议程方面发挥了显著作用。过去二十年间，中国主办了三次金砖峰会，每次都标志着该组织演进的新里程碑。"
         },
         {
           "en": "When China hosted its first BRICS summit in the tropical resort of Sanya in 2011, South Africa attended the gathering as a new member for the first time. Six years later, in Xiamen, Xi proposed the \"BRICS Plus\" cooperation approach, inviting leaders from non-BRICS members to discuss international development cooperation and deepen South-South cooperation. When China chaired BRICS again in 2022, the leaders met virtually. China called for a \"more comprehensive, close, practical and inclusive high-quality partnership\" and emphasized global development. That summit laid the groundwork for the group's major expansion the following year.",
-          "cn": "2011年中国在热带度假胜地三亚主办首次金砖峰会时，南非首次以新成员身份参加。六年后，习近平在厦门提出“金砖+”合作模式，邀请非金砖国家领导人讨论国际发展合作，深化南南合作。2022年中国再次担任金砖主席国时，领导人以视频方式会晤。中国呼吁建立“更全面、紧密、务实、包容的高质量伙伴关系”，并强调全球发展。那次峰会为该集团次年的重大扩员奠定了基础。"
+          "cn": "2011年，中国在热带度假胜地三亚主办首次金砖峰会，南非首次以新成员身份出席。六年后，习近平在厦门提出“金砖+”合作模式，邀请非金砖国家领导人讨论国际发展合作，深化南南合作。2022年中国再次担任金砖主席国时，领导人以视频方式会晤。中国呼吁构建“更全面、紧密、务实、包容的高质量伙伴关系”，并强调全球发展。那次峰会为次年该组织的大规模扩员奠定了基础。"
         },
         {
-          "en": "As BRICS cooperation enters its third \"golden decade,\" a new chapter begins with China, with the Global South speaking with an even stronger voice. China is expected to work with other BRICS members to promote a more just and equitable global governance system by advocating multilateralism, greater representation for the Global South in financial and political institutions, said Farhana Paruk, a Cape Town-based China-Africa specialist. \"I believe China's upcoming BRICS chairmanship could open a new phase that places greater emphasis on practical development and narrowing the gaps among the economies of member countries,\" said Salah El-Din Fahmy, professor of economics at Al-Azhar University in Egypt. \"BRICS is still evolving,\" Fahmy said, noting that China can help advance this process gradually during its upcoming chairmanship by focusing on areas of common interest among member countries and promoting cooperation that makes the group more cohesive and better able to confront global challenges.",
-          "cn": "随着金砖合作进入第三个“金色十年”，新篇章从中国开启，全球南方发出更加强有力的声音。总部位于开普敦的中非问题专家法尔哈娜·帕鲁克表示，中国有望与其他金砖成员一道，通过倡导多边主义、增强全球南方在金融和政治机构中的代表性，推动更加公正合理的全球治理体系。埃及爱资哈尔大学经济学教授萨拉赫·埃尔丁·法赫米表示：“我相信中国即将担任的金砖主席国将开启一个新阶段，更加注重务实发展，缩小成员国经济体之间的差距。”法赫米说：“金砖仍在演进中”，并指出中国可以在即将担任主席国期间，通过聚焦成员国共同利益领域、促进合作，使该集团更加团结、更有能力应对全球挑战，逐步推进这一进程。"
+          "en": "As BRICS cooperation enters its third \"golden decade,\" a new chapter begins with China, with the Global South speaking with an even stronger voice. China is expected to work with other BRICS members to promote a more just and equitable global governance system by advocating multilateralism, greater representation for the Global South in financial and political institutions, said Farhana Paruk, a Cape Town-based China-Africa specialist. \"I believe China's upcoming BRICS chairmanship could open a new phase that places greater emphasis on practical development and narrowing the gaps among the economies of member countries,\" said Salah El-Din Fahmy, professor of economics at Al-Azhar University in Egypt. \"BRICS is still evolving,\" Fahmy said, noting that China can help advance this process gradually during its upcoming chairmanship by focusing on areas of common interest among member countries and promoting cooperation that makes the group more {{17}} and better able to {{18}} global challenges.",
+          "cn": "随着金砖合作进入第三个“金色十年”，新篇章由中国开启，全球南方发出更加强有力的声音。总部位于开普敦的中非问题专家法尔哈娜·帕鲁克表示，预计中国将与其他金砖成员一道，通过倡导多边主义、增强全球南方在金融和政治机构中的代表性，推动更加公正合理的全球治理体系。埃及爱资哈尔大学经济学教授萨拉赫·埃尔丁·法赫米表示：“我相信中国即将担任的金砖主席国将开启一个新阶段，更加注重务实发展，缩小成员国经济体之间的差距。”法赫米说：“金砖仍在演进中”，并指出中国可以在即将担任主席国期间，通过聚焦成员国共同利益领域、促进合作，使该组织更加团结、更有能力应对全球挑战，从而逐步推进这一进程。"
         }
       ],
       "blanks": [
         {
           "id": 0,
+          "answer": "pioneer",
+          "hint": "n./v. 开拓者；开创",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
           "answer": "remarkable",
           "hint": "adj. 非凡的，显著的",
           "difficulty": "medium"
         },
         {
-          "id": 1,
+          "id": 2,
           "answer": "vitality",
           "hint": "n. 活力，生命力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "dynamism",
-          "hint": "n. 活力，动力",
           "difficulty": "hard"
         },
         {
           "id": 3,
-          "answer": "pioneer",
-          "hint": "v./n. 开拓者；开创",
-          "difficulty": "medium"
+          "answer": "dynamism",
+          "hint": "n. 活力，动力",
+          "difficulty": "hard"
         },
         {
           "id": 4,
@@ -89,7 +282,7 @@
         {
           "id": 6,
           "answer": "representation",
-          "hint": "n. 代表性，代表",
+          "hint": "n. 代表性",
           "difficulty": "medium"
         },
         {
@@ -125,231 +318,386 @@
         {
           "id": 12,
           "answer": "comprehensive",
-          "hint": "adj. 全面的，综合的",
+          "hint": "adj. 全面的",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "multi-tiered",
-          "hint": "adj. 多层次的",
-          "difficulty": "hard"
+          "answer": "mutual",
+          "hint": "adj. 相互的",
+          "difficulty": "easy"
         },
         {
           "id": 14,
-          "answer": "ushered",
-          "hint": "v. 开创，引领",
+          "answer": "advocate",
+          "hint": "v. 倡导",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "equitable",
+          "hint": "adj. 公平合理的",
           "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "cohesive",
+          "hint": "adj. 团结的，有凝聚力的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "confront",
+          "hint": "v. 应对，面对",
+          "difficulty": "medium"
         }
       ],
       "fullText": "* The BRICS cooperation mechanism has continued to grow and expand, and has demonstrated remarkable vitality and dynamism.\n* As to the future development of BRICS, Xi called on the grouping to pioneer in advancing innovation-driven development.\nChinese President Xi Jinping on Saturday urged BRICS countries to firmly stand on the right side of history and strive to be a pioneer of our times.\nWhen addressing the 18th BRICS Summit in New Delhi, Xi noted that this year marks the 20th anniversary of BRICS cooperation, saying the mechanism has become the world's most influential platform for cooperation among emerging markets and developing countries.\nOver the past two decades, BRICS has evolved into a broader platform for promoting shared growth, dialogue, and a greater representation of the Global South in international organizations, said analysts, noting that the group is expected to deliver more tangible results and foster a more balanced and inclusive world order in the future.\nThe BRICS cooperation mechanism was formally launched in 2006. The inaugural BRIC summit was convened in Yekaterinburg, Russia, in 2009. A year later, South Africa joined the grouping, turning BRIC into BRICS.\nSince then, the mechanism has continued to expand in both membership and areas of cooperation. Today, BRICS countries account for nearly half of the world's population, around 30 percent of the global economy and one-fifth of global trade, serving as a force for fostering a more representative and multipolar world and enhancing the voice of the Global South.\nHailing the achievements over the past two decades, Xi said that the BRICS cooperation mechanism has continued to grow and expand, and has demonstrated remarkable vitality and dynamism.\nElaborating on the 20-year history of the mechanism, Xi said it has been 20 years of self-reliance and self-strengthening, adding that BRICS countries have actively explored development paths suited to their own national conditions, setting an example of self-strengthening through unity among emerging markets and developing countries.\nThe first decade of BRICS cooperation was primarily a period of institutional formation, and the second a period of expansion, said Rakhim Oshakbayev, director of the TALAP Center for Applied Research in Kazakhstan and former Kazakh vice minister for investment and development.\nBut the significance of BRICS goes beyond the growth of its membership.\nXi said that BRICS countries have established a comprehensive, multi-tiered framework for cooperation, and ushered in a new stage of high-quality development for greater BRICS cooperation.\nRather than replacing existing global institutions, BRICS seeks to strengthen dialogue, equality, mutual respect and cooperation among nations, said Balew Demissie, a senior consultant at the Policy Studies Institute of Ethiopia.\nBRICS, with its expanded membership, provides a platform for emerging economies across the globe to have a stronger voice in global issues such as trade, development, finance, climate change, peace and security, Demissie said.\nPIONEERING ROLES\nAs to the future development of BRICS, Xi called on the grouping to pioneer in advancing innovation-driven development.\nBRICS countries, he said, should strengthen cooperation in artificial intelligence and push practical cooperation into new areas and to new heights.\nChina proposed an initiative to promote new industrialization through artificial intelligence among BRICS countries, and is willing to work with all parties to deliver more outcomes in research, development and application, and deepen cooperation in industrial and supply chains, he said.\nOshakbayev said emerging technologies such as AI risk creating new technological divides between countries that possess advanced models, computing power and standard-setting capabilities and those that remain mainly users of technology.\nJoint research, research networks, education and training under BRICS could give developing countries greater opportunities to participate in technological innovation, he said.\nXi also called on BRICS to be a pioneer in upholding peace and stability.\nNoting that the situation in the Middle East remains complex and fluid, Xi said this war has inflicted serious losses on the people of all countries in the region, and it is against the common interests of the international community.\nChina will work with fellow BRICS members to play a due role in bringing peace and tranquility to the Middle East, he said.\nDiaa Helmy, founder and secretary-general of the Egyptian-Chinese Chamber of Commerce, said BRICS offers an important platform for cooperation rather than confrontation. \"Within BRICS we do not compete; we complement one another,\" he said.\nOn exchanges among civilizations, Xi called on BRICS countries to champion the common values of humanity and advocate exchanges and mutual learning among civilizations as well as harmonious coexistence.\nSuch exchanges can help societies better understand one another while respecting differences, Oshakbayev said, adding that BRICS could contribute useful experience to dialogue among civilizations on an equal footing.\nXi further called on BRICS to be a pioneer in reforming and improving global governance.\nHe urged the group to keep pace with the trend toward greater democracy in international relations, promote a more just and equitable global governance system, and uphold the authority of the United Nations.\nDemissie, the expert from Ethiopia, said BRICS is not seeking to replace existing global institutions, but to make global governance more representative and responsive to the interests and aspirations of the Global South.\nIn his address, Xi announced that China will assume the rotating chair of BRICS and host the 19th BRICS Summit next year.\nDuring its previous chairmanships, China played a notable role in advancing the BRICS agendas. Over the past two decades, China has hosted three BRICS summits, each marking a new milestone in the group's evolution.\nWhen China hosted its first BRICS summit in the tropical resort of Sanya in 2011, South Africa attended the gathering as a new member for the first time.\nSix years later, in Xiamen, Xi proposed the \"BRICS Plus\" cooperation approach, inviting leaders from non-BRICS members to discuss international development cooperation and deepen South-South cooperation.\nWhen China chaired BRICS again in 2022, the leaders met virtually. China called for a \"more comprehensive, close, practical and inclusive high-quality partnership\" and emphasized global development. That summit laid the groundwork for the group's major expansion the following year.\nAs BRICS cooperation enters its third \"golden decade,\" a new chapter begins with China, with the Global South speaking with an even stronger voice.\nChina is expected to work with other BRICS members to promote a more just and equitable global governance system by advocating multilateralism, greater representation for the Global South in financial and political institutions, said Farhana Paruk, a Cape Town-based China-Africa specialist.\n\"I believe China's upcoming BRICS chairmanship could open a new phase that places greater emphasis on practical development and narrowing the gaps among the economies of member countries,\" said Salah El-Din Fahmy, professor of economics at Al-Azhar University in Egypt.\n\"BRICS is still evolving,\" Fahmy said, noting that China can help advance this process gradually during its upcoming chairmanship by focusing on areas of common interest among member countries and promoting cooperation that makes the group more cohesive and better able to confront global challenges.",
-      "fullTextCn": "金砖合作机制不断壮大，展现出非凡的生机与活力。关于金砖未来的发展，习近平呼吁金砖国家在推进创新驱动发展方面发挥开拓者作用。中国国家主席习近平周六呼吁金砖国家坚定站在历史正确一边，努力做时代的开拓者。习近平在新德里举行的金砖国家领导人第十八次会晤上发表讲话时指出，今年是金砖合作二十周年，该机制已成为全球最具影响力的新兴市场和发展中国家合作平台。分析人士表示，过去二十年间，金砖已发展为一个更广泛的平台，促进共同增长、对话以及全球南方在国际组织中更大的代表性，并指出该集团有望在未来取得更多实实在在的成果，推动构建更加平衡和包容的世界秩序。\n\n金砖合作机制于2006年正式启动。首次金砖峰会在2009年于俄罗斯叶卡捷琳堡举行。一年后，南非加入该集团，金砖由BRIC变为BRICS。此后，该机制在成员规模和合作领域上持续扩展。如今，金砖国家占全球近一半人口、约30%的全球经济总量和五分之一的全球贸易，成为推动构建更具代表性和多极化的世界、增强全球南方话语权的重要力量。\n\n习近平盛赞过去二十年的成就，表示金砖合作机制不断壮大，展现出非凡的生机与活力。在阐述该机制二十年历程时，习近平表示这是自力更生、自强不息的二十年，并指出金砖国家积极探索适合自身国情的发展道路，树立了新兴市场和发展中国家团结自强的典范。哈萨克斯坦TALAP应用研究中心主任、前哈萨克斯坦投资与发展部副部长拉希姆·奥沙克巴耶夫表示，金砖合作的第一个十年主要是机制建设期，第二个十年是扩展期。但金砖的意义远不止于成员规模的增长。习近平表示，金砖国家建立了全面、多层次的合作框架，开启了金砖合作高质量发展的新阶段。\n\n埃塞俄比亚政策研究所高级顾问巴莱乌·德米西表示，金砖并非要取代现有全球机构，而是寻求加强国家间的对话、平等、相互尊重与合作。德米西表示，金砖通过扩大成员规模，为全球新兴经济体提供了一个平台，使其在贸易、发展、金融、气候变化、和平与安全等全球议题上拥有更强的话语权。开拓者角色。关于金砖未来的发展，习近平呼吁金砖国家在推进创新驱动发展方面发挥开拓者作用。他表示，金砖国家应加强人工智能合作，推动务实合作向新领域和新高度拓展。他说，中国提出在金砖国家间通过人工智能推进新型工业化的倡议，愿与各方共同努力，在研究、开发和应用方面取得更多成果，深化产业链和供应链合作。\n\n奥沙克巴耶夫表示，人工智能等新兴技术可能拥有先进模型、算力和标准制定能力的国家与主要作为技术使用者的国家之间造成新的技术鸿沟。他说，金砖框架下的联合研究、研究网络、教育和培训可以为发展中国家提供更多参与技术创新的机会。习近平还呼吁金砖国家做维护和平稳定的开拓者。习近平指出，中东局势仍然复杂多变，这场战争给地区各国人民造成了严重损失，违背国际社会的共同利益。他说，中国将同金砖伙伴一道，为中东带来和平与安宁发挥应有作用。\n\n埃及-中国商会创始人兼秘书长迪亚·赫尔米表示，金砖提供了合作而非对抗的重要平台。他说：“在金砖内部，我们不是竞争，而是互补。”在文明交流方面，习近平呼吁金砖国家倡导全人类共同价值，倡导文明交流互鉴与和谐共处。奥沙克巴耶夫表示，这种交流有助于各社会在尊重差异的同时更好地相互理解，并指出金砖可以为平等基础上的文明对话贡献有益经验。习近平进一步呼吁金砖国家做改革完善全球治理的开拓者。\n\n他敦促该集团顺应国际关系民主化的大趋势，推动更加公正合理的全球治理体系，维护联合国权威。埃塞俄比亚专家德米西表示，金砖并非寻求取代现有全球机构，而是使全球治理更具代表性、更能回应全球南方的利益和愿望。习近平在讲话中宣布，中国将接任金砖轮值主席国，并于明年主办金砖国家领导人第十九次会晤。在以往的轮值主席任期内，中国在推进金砖议程方面发挥了显著作用。过去二十年间，中国主办了三次金砖峰会，每次都标志着该集团发展的新里程碑。\n\n2011年中国在热带度假胜地三亚主办首次金砖峰会时，南非首次以新成员身份参加。六年后，习近平在厦门提出“金砖+”合作模式，邀请非金砖国家领导人讨论国际发展合作，深化南南合作。2022年中国再次担任金砖主席国时，领导人以视频方式会晤。中国呼吁建立“更全面、紧密、务实、包容的高质量伙伴关系”，并强调全球发展。那次峰会为该集团次年的重大扩员奠定了基础。\n\n随着金砖合作进入第三个“金色十年”，新篇章从中国开启，全球南方发出更加强有力的声音。总部位于开普敦的中非问题专家法尔哈娜·帕鲁克表示，中国有望与其他金砖成员一道，通过倡导多边主义、增强全球南方在金融和政治机构中的代表性，推动更加公正合理的全球治理体系。埃及爱资哈尔大学经济学教授萨拉赫·埃尔丁·法赫米表示：“我相信中国即将担任的金砖主席国将开启一个新阶段，更加注重务实发展，缩小成员国经济体之间的差距。”法赫米说：“金砖仍在演进中”，并指出中国可以在即将担任主席国期间，通过聚焦成员国共同利益领域、促进合作，使该集团更加团结、更有能力应对全球挑战，逐步推进这一进程。"
+      "fullTextCn": "金砖合作机制不断成长壮大，展现出非凡的生机与活力。关于金砖的未来发展，习近平呼吁金砖国家在推进创新驱动发展方面发挥开拓者作用。中国国家主席习近平周六呼吁金砖国家坚定站在历史正确一边，努力做时代的开拓者。习近平在新德里举行的金砖国家领导人第十八次会晤上发表讲话时指出，今年是金砖合作二十周年，该机制已成为世界上最具影响力的新兴市场和发展中国家合作平台。分析人士表示，过去二十年间，金砖已发展为一个更广泛的平台，促进共同增长、对话以及全球南方在国际组织中更大的代表性，并指出该组织有望在未来取得更多实实在在的成果，推动构建更加平衡和包容的世界秩序。\n\n金砖合作机制于2006年正式启动。2009年，首届金砖四国峰会在俄罗斯叶卡捷琳堡举行。一年后，南非加入该组织，金砖四国变为金砖国家。此后，该机制在成员规模和合作领域上持续扩展。如今，金砖国家占世界近一半人口、约30%的全球经济总量和五分之一的全球贸易，成为推动构建更具代表性和多极化的世界、增强全球南方话语权的重要力量。\n\n习近平盛赞过去二十年的成就，表示金砖合作机制不断成长壮大，展现出非凡的生机与活力。在阐述该机制二十年历程时，习近平表示这是自力更生、自强不息的二十年，并指出金砖国家积极探索适合本国国情的发展道路，为新兴市场和发展中国家团结自强树立了典范。哈萨克斯坦TALAP应用研究中心主任、前哈萨克斯坦投资与发展部副部长拉希姆·奥沙克巴耶夫表示，金砖合作的第一个十年主要是制度形成期，第二个十年则是扩张期。但金砖的意义远不止于成员数量的增长。习近平表示，金砖国家建立了全面、多层次的合作框架，开启了金砖合作高质量发展的新阶段。\n\n埃塞俄比亚政策研究所高级顾问巴莱乌·德米西表示，金砖并非要取代现有全球机构，而是寻求加强国家间的对话、平等、相互尊重与合作。德米西说，扩员后的金砖为全球新兴经济体提供了一个平台，使其在贸易、发展、金融、气候变化、和平与安全等全球议题上拥有更强的话语权。开拓性作用。关于金砖的未来发展，习近平呼吁金砖国家在推进创新驱动发展方面发挥开拓者作用。他表示，金砖国家应加强人工智能合作，推动务实合作向新领域、新高度发展。他说，中国提出了一项通过人工智能促进金砖国家新型工业化的倡议，愿与各方一道在研究、开发和应用方面取得更多成果，深化产业链和供应链合作。\n\n奥沙克巴耶夫表示，人工智能等新兴技术有可能在拥有先进模型、算力和标准制定能力的国家与仍主要是技术使用者的国家之间制造新的技术鸿沟。他说，金砖框架下的联合研究、研究网络、教育和培训可以为发展中国家提供更多参与技术创新的机会。习近平还呼吁金砖国家做维护和平稳定的开拓者。他指出中东局势依然复杂多变，这场战争给地区各国人民造成了严重损失，违背国际社会的共同利益。他说，中国将同金砖伙伴一道，为中东带来和平与安宁发挥应有作用。\n\n埃及中国商会创始人兼秘书长迪亚·赫尔米表示，金砖提供了合作而非对抗的重要平台。他说：“在金砖内部，我们不是竞争，而是互补。”在文明交流方面，习近平呼吁金砖国家倡导全人类共同价值，倡导文明交流互鉴与和谐共处。奥沙克巴耶夫表示，这种交流有助于各社会在尊重差异的同时更好地相互理解，并指出金砖可以为平等基础上的文明对话贡献有益经验。习近平进一步呼吁金砖国家做改革完善全球治理的开拓者。\n\n他敦促金砖国家顺应国际关系民主化趋势，推动更加公正合理的全球治理体系，维护联合国权威。埃塞俄比亚专家德米西表示，金砖并非寻求取代现有全球机构，而是使全球治理更具代表性、更能回应全球南方的利益和愿望。习近平在讲话中宣布，中国将接任金砖轮值主席国，并于明年主办金砖国家领导人第十九次会晤。在以往的轮值主席任期内，中国在推进金砖议程方面发挥了显著作用。过去二十年间，中国主办了三次金砖峰会，每次都标志着该组织演进的新里程碑。\n\n2011年，中国在热带度假胜地三亚主办首次金砖峰会，南非首次以新成员身份出席。六年后，习近平在厦门提出“金砖+”合作模式，邀请非金砖国家领导人讨论国际发展合作，深化南南合作。2022年中国再次担任金砖主席国时，领导人以视频方式会晤。中国呼吁构建“更全面、紧密、务实、包容的高质量伙伴关系”，并强调全球发展。那次峰会为次年该组织的大规模扩员奠定了基础。\n\n随着金砖合作进入第三个“金色十年”，新篇章由中国开启，全球南方发出更加强有力的声音。总部位于开普敦的中非问题专家法尔哈娜·帕鲁克表示，预计中国将与其他金砖成员一道，通过倡导多边主义、增强全球南方在金融和政治机构中的代表性，推动更加公正合理的全球治理体系。埃及爱资哈尔大学经济学教授萨拉赫·埃尔丁·法赫米表示：“我相信中国即将担任的金砖主席国将开启一个新阶段，更加注重务实发展，缩小成员国经济体之间的差距。”法赫米说：“金砖仍在演进中”，并指出中国可以在即将担任主席国期间，通过聚焦成员国共同利益领域、促进合作，使该组织更加团结、更有能力应对全球挑战，从而逐步推进这一进程。"
     },
     {
-      "id": 2,
+      "id": 3,
       "category": "military",
       "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/2026-09-12/detail-ihfkanuz5380108.shtml",
-      "title": "Xi says BRICS world's most influential platform for emerging markets cooperation",
-      "titleCn": "习近平称金砖国家是全球最具影响力的新兴市场合作平台",
-      "summary": "Chinese President Xi Jinping said in New Delhi on Saturday that the BRICS cooperation mechanism has become the world's most influential platform for cooperation among emerging markets and developing countries.",
-      "summaryCn": "习近平在新德里金砖峰会上发表讲话，回顾金砖合作二十年历程，呼吁成员国在创新发展、和平稳定、文明互鉴和全球治理改革等方面发挥先锋作用，并宣布中国将主办下一届峰会。",
-      "wordCount": 842,
+      "sourceUrl": "http://www.ecns.cn/china/2026-09-14/detail-ihfkanuz5380752.shtml",
+      "title": "Xi calls on BRICS to unite Global South, deepen cooperation",
+      "titleCn": "习近平呼吁金砖国家团结全球南方，深化合作",
+      "summary": "Chinese President Xi Jinping on Sunday called on BRICS countries to strengthen unity among the Global South and play an active, stabilizing and positive role in global affairs.",
+      "summaryCn": "习近平在金砖峰会上呼吁金砖国家团结全球南方国家，深化在人工智能、贸易、数字产业等新兴领域的合作，共同应对国际风险挑战。",
+      "wordCount": 940,
       "paragraphs": [
         {
-          "en": "Chinese President Xi Jinping said in New Delhi on Saturday that the BRICS cooperation {{1}} has become the world's most {{0}} platform for cooperation among {{2}} markets and developing countries. When addressing the Session I of the 18th BRICS Summit in New Delhi, Xi noted that this year marks the 20th {{3}} of BRICS cooperation, saying that over the past two decades, the BRICS cooperation mechanism has continued to grow and expand, and has demonstrated {{4}} {{5}} and {{6}}. Xi said it has been 20 years of {{7}} and self-strengthening, adding that BRICS countries have actively explored development paths suited to their own national conditions, setting an example of self-strengthening through unity among emerging markets and developing countries. This has also been 20 years of standing together through thick and thin, Xi noted. BRICS countries, Xi said, have worked together to tackle challenges ranging from the global financial crisis, the COVID-19 pandemic to climate change.",
-          "cn": "中国国家主席习近平周六在新德里表示，金砖合作机制已成为全球最具影响力的新兴市场和发展中国家合作平台。习近平在第十八届金砖国家峰会第一次会议上发表讲话时指出，今年是金砖合作二十周年，他说过去二十年来，金砖合作机制不断成长壮大，展现出非凡的活力和动力。习近平表示，这是自力更生、自强不息的二十年，金砖国家积极探索适合自身国情的发展道路，为新兴市场和发展中国家团结自强树立了典范。习近平指出，这也是同甘共苦、守望相助的二十年。习近平说，金砖国家携手应对了从全球金融危机、新冠疫情到气候变化等一系列挑战。"
+          "en": "* The international landscape is {{0}} and {{1}} with risks and challenges, Xi said, adding that to bring stability to the world and make it a better place, BRICS countries must {{2}} the historical {{3}}, {{4}} the Global South, and {{5}} the {{6}} of all humanity. * Xi proposed five initiatives on \"greater BRICS\" cooperation in areas of AI, trade and investment facilitation, digital industry, intelligent manufacturing, and science and technology talent development. Chinese President Xi Jinping on Sunday called on BRICS countries to strengthen unity among the Global South and play an active, stabilizing and positive role in global affairs. In a speech when attending the second day of BRICS summit in New Delhi, Xi also outlined concrete proposals to further strengthen greater BRICS cooperation, with a focus on emerging areas including artificial intelligence, trade, digital industries and manufacturing. Xi pointed out that when changes unseen in a century are accelerating across the world, the Global South, with its collective rise, has become a key driver of world multipolarity.",
+          "cn": "习近平表示，国际形势动荡不安，充满风险和挑战。他补充说，为了给世界带来稳定、让世界变得更美好，金砖国家必须把握历史主动，团结全球南方，促进全人类的福祉。习近平提出了关于“大金砖”合作的五项倡议，涵盖人工智能、贸易和投资便利化、数字产业、智能制造以及科技人才培养等领域。中国国家主席习近平周日呼吁金砖国家加强全球南方的团结，在全球事务中发挥积极、稳定和建设性作用。在新德里金砖峰会第二天发表讲话时，习近平还提出了进一步加强大金砖合作的具体建议，重点关注人工智能、贸易、数字产业和制造业等新兴领域。习近平指出，当百年未有之大变局加速演进之际，全球南方以集体崛起之势，已成为世界多极化的关键驱动力。"
         },
         {
-          "en": "The group has remained {{8}} in {{9}} the common interests of the Global South, while providing the world with stability and positive {{10}}, he said. Xi also hailed the past 20 years of BRICS cooperation as fruitful, saying that BRICS countries have undergone a historic expansion, established a {{11}}, multi-tiered framework for cooperation, and ushered in a new stage of high-quality development for greater BRICS cooperation. Xi stressed that the world is undergoing {{12}} transformation unseen in a century, the Global South is rapidly growing in strength, and the trend toward a {{13}} world is unstoppable. Meanwhile, countercurrents of {{14}} and power politics are surging, {{15}} and the international order are coming under strain, and {{16}} in peace, development, security and governance continue to widen, he added. He said that BRICS countries should firmly stand on the right side of history, strive to be a pioneer of the times, steer the international order toward greater justice and {{17}}, and work together to build a community with a shared future for humanity.",
-          "cn": "他表示，金砖国家始终坚定维护全球南方的共同利益，同时为世界提供了稳定性和正能量。习近平还称赞过去二十年的金砖合作成果丰硕，称金砖国家实现了历史性扩员，建立了全面、多层次的合作框架，开启了金砖合作高质量发展的新阶段。习近平强调，世界正经历百年未有之大变局的加速演进，全球南方力量迅速壮大，多极化世界趋势不可阻挡。与此同时，单边主义和强权政治逆流涌动，多边主义和国际秩序面临压力，和平、发展、安全、治理赤字持续扩大，他补充道。他说，金砖国家应坚定站在历史正确的一边，努力做时代的先锋，推动国际秩序朝着更加公正合理的方向发展，携手构建人类命运共同体。"
+          "en": "At the same time, the international landscape is volatile and fraught with risks and challenges, Xi said, adding that to bring stability to the world and make it a better place, BRICS countries must seize the historical initiative, rally the Global South, and advance the well-being of all humanity. Global South countries should jointly defend the rule of law in international affairs, {{7}} the basic norms of international relations including {{8}} equality, {{9}} in internal affairs, and the peaceful {{10}} of disputes, Xi said. It should be ensured that international law and international rules are applied to all, and free from double standards, he added. Global South countries should hold high the banner of {{11}}, uphold the {{12}} and role of the United Nations, and support multilateral institutions in advancing reform and increasing efficiency, Xi said. He also called for promoting the reform of the World Trade Organization in the right direction, as well as reforming and improving the international financial {{13}} to increase the {{14}} and voice of developing countries.",
+          "cn": "与此同时，习近平表示，国际形势动荡不安，充满风险和挑战。他补充说，为了给世界带来稳定、让世界变得更美好，金砖国家必须把握历史主动，团结全球南方，促进全人类的福祉。习近平表示，全球南方国家应共同捍卫国际事务中的法治，维护主权平等、不干涉内政、和平解决争端等国际关系基本准则。他补充说，应确保国际法和国际规则对所有国家一视同仁，不受双重标准的影响。习近平表示，全球南方国家应高举多边主义旗帜，维护联合国的权威和作用，支持多边机构推进改革、提高效率。他还呼吁推动世界贸易组织朝着正确方向改革，并改革和完善国际金融架构，增加发展中国家的代表性和话语权。"
         },
         {
-          "en": "Xi called on BRICS to pioneer in advancing innovation-driven development. BRICS countries, he said, should firmly seize the {{18}}, strengthen cooperation in artificial intelligence, encourage open-source development, openness, cooperation and sharing, and push practical cooperation into new areas and to new heights. BRICS countries are welcome to actively participate in the World Artificial Intelligence Cooperation Organization, he said. China proposed an initiative to promote new industrialization through artificial intelligence among BRICS countries, and is willing to work with all parties to deliver more outcomes in research, development and application, and deepen cooperation in industrial and supply chains, he said. Xi called on BRICS to be a pioneer in upholding peace and stability.",
-          "cn": "习近平呼吁金砖国家在推进创新驱动发展方面发挥先锋作用。他说，金砖国家应牢牢把握主动权，加强人工智能合作，鼓励开源发展、开放、合作与共享，推动务实合作向新领域、新高度迈进。他表示，欢迎金砖国家积极参与世界人工智能合作组织。他说，中国提出了一项通过人工智能促进金砖国家新型工业化的倡议，愿与各方共同努力，在研发和应用方面取得更多成果，深化产业链和供应链合作。习近平呼吁金砖国家做维护和平稳定的先锋。"
+          "en": "Media staff work at the media center at Bharat Mandapam, the main venue of the 18th BRICS Summit in New Delhi, India, Sept. 12, 2026. (Xinhua/Javed Dar)\nGlobal South countries should stay committed to a people-centered development philosophy and {{15}} to deliver on the 2030 Agenda for Sustainable Development, Xi said. Global South countries should also jointly advance security governance, {{16}} both traditional and nontraditional security threats, and improve global climate governance, Xi said, also calling for working faster to evolve a {{17}}-based global AI governance framework, so that new technologies can light the way toward shared {{18}}. \"It is a solidarity that unlocks partnerships, unlocks democratization of the international system, unlocks an open international system, and unlocks an {{19}} international system,\" said Charles Onunaiju, director of the Center for China Studies in Nigeria.",
+          "cn": "2026年9月12日，媒体工作人员在印度新德里第十八届金砖峰会主会场巴拉特·曼达帕姆的新闻中心工作。（新华社/贾韦德·达尔）习近平表示，全球南方国家应坚持以人民为中心的发展理念，努力落实2030年可持续发展议程。习近平表示，全球南方国家还应共同推进安全治理，应对传统和非传统安全威胁，完善全球气候治理，并呼吁加快形成基于共识的全球人工智能治理框架，使新技术能够照亮共同繁荣之路。尼日利亚中国研究中心主任查尔斯·奥努奈朱表示：“这是一种团结，它开启了伙伴关系，开启了国际体系的民主化，开启了开放的国际体系，开启了包容的国际体系。”"
         },
         {
-          "en": "BRICS countries should uphold a vision of common, comprehensive, cooperative and sustainable security, oppose the Cold War mentality and bloc confrontation, reject violations of other countries' {{19}} and {{20}} in their internal affairs, and play a constructive role in resolving hotspot issues, making a distinctive BRICS contribution to finding solutions that address both symptoms and root causes, he said. China will work with fellow BRICS members to play a due role in bringing peace and tranquility to the Middle East and Gulf region, Xi said. Xi called on BRICS to be a pioneer in facilitating mutual learning between civilizations. The countries, he said, should champion the common values of humanity and advocate exchanges and mutual learning among civilizations as well as harmonious coexistence. They should ensure the success of the BRICS forum on people-to-people and cultural exchanges, share experience in state governance, and build positive momentum for the steady development of relations between countries, Xi added.",
-          "cn": "他说，金砖国家应秉持共同、综合、合作、可持续的安全观，反对冷战思维和集团对抗，反对侵犯他国主权和干涉他国内政，在解决热点问题上发挥建设性作用，为找到标本兼治的解决方案作出金砖国家的独特贡献。习近平表示，中国将同金砖伙伴一道，为中东和海湾地区带来和平与安宁发挥应有作用。习近平呼吁金砖国家做促进文明互鉴的先锋。他说，各国应倡导人类共同价值，倡导文明交流互鉴与和谐共处。他们应确保金砖人文交流论坛取得成功，分享国家治理经验，为各国关系稳步发展营造积极势头，习近平补充道。"
+          "en": "Rakhim Oshakbayev, director of the TALAP Center for Applied Research in Kazakhstan and former Kazakh vice minister for investment and development, said BRICS cooperation should \"bring together developing countries' shared aspirations and promote coordination and cooperation.\"\nBRICS countries should continue seeking common interests, he said, noting that the grouping's expansion had placed greater demands on internal coordination. During the speech, Xi proposed five initiatives on \"greater BRICS\" cooperation in areas of AI, trade and investment facilitation, digital industry, intelligent manufacturing, and science and technology talent development. To accomplish great things and achieve major progress, the foundation of greater BRICS cooperation must be cemented, Xi said, calling for leveraging BRICS' close ties with fellow emerging markets and Global South countries, upholding open cooperation for mutual benefit, safeguarding stable and smooth industrial and supply chains, and fostering a large integrated market. \"We should build incubators for innovation, upgrade traditional industries, develop emerging industries, and deploy future industries,\" Xi said. On the open source and inclusive AI initiative, Xi said that China will be a pioneer in establishing a BRICS AI open source community, support the cooperation in developing and applying large language models, hold specialized AI seminars and training courses, and build an open ecosystem for AI.",
+          "cn": "哈萨克斯坦TALAP应用研究中心主任、前哈萨克斯坦投资与发展部副部长拉希姆·奥沙克巴耶夫表示，金砖合作应“凝聚发展中国家的共同愿望，促进协调与合作”。他说，金砖国家应继续寻求共同利益，并指出金砖扩员对内部协调提出了更高要求。在讲话中，习近平提出了关于“大金砖”合作的五项倡议，涵盖人工智能、贸易和投资便利化、数字产业、智能制造以及科技人才培养等领域。习近平表示，要成就伟大事业、取得重大进展，必须夯实大金砖合作的基础，呼吁利用金砖国家与新兴市场和发展中国家伙伴的紧密联系，坚持开放合作、互利共赢，维护稳定畅通的产业链供应链，培育大型一体化市场。习近平表示：“我们要建设创新孵化器，升级传统产业，发展新兴产业，布局未来产业。”关于开源包容的人工智能倡议，习近平表示，中国将率先建立金砖人工智能开源社区，支持开发和运用大语言模型的合作，举办人工智能专题研讨会和培训班，构建开放的人工智能生态系统。"
         },
         {
-          "en": "Xi advocated efforts to deepen cooperation in culture, tourism and education, strengthen youth exchanges, and promote more frequent interactions and closer bonds among the peoples. Xi called on BRICS to be a pioneer in reforming and improving global governance. He urged the group to keep pace with the trend toward greater democracy in international relations, promote a more just and equitable global governance system, and uphold the authority of the United Nations. Xi said BRICS should support a multilateral trading system centered on the World Trade Organization, and reject all forms of {{21}} measures. The grouping should lead global governance in emerging domains such as cyberspace, outer space and the deep sea, and amplify the voice of Global South countries, he added.",
-          "cn": "习近平倡导深化文化、旅游和教育合作，加强青年交流，促进各国人民之间更频繁的互动和更紧密的联系。习近平呼吁金砖国家做改革完善全球治理的先锋。他敦促金砖国家跟上国际关系民主化的趋势，推动更加公正合理的全球治理体系，维护联合国的权威。习近平表示，金砖国家应支持以世界贸易组织为中心的多边贸易体制，反对一切形式的保护主义措施。他补充说，金砖国家应引领网络空间、外空和深海等新兴领域的全球治理，放大全球南方国家的声音。"
+          "en": "On the trade and investment facilitation initiative, China proposes to establish a BRICS special economic zone partnership, under which countries can set up an intelligent portal, coordinate policies, and build a new frontier for open development, Xi said, adding that in an effort to cultivate new drivers of economic and trade cooperation, China will hold the BRICS Forum on Trade in Services next year. On the digital industry cooperation initiative, Xi said that China will push for establishing a BRICS digital ecosystem cloud platform, and conduct digital skills training, technological exchange and industrial alignment, so as to jointly enable the development of the digital economy. On the intelligent manufacturing cooperation initiative, China stands ready to assist fellow BRICS countries in building smart factories and developing standards and norms, and jointly promote manufacturing transformation and upgrading, he said. On the science and technology talent development initiative, China proposes to set up a BRICS engineer cultivation alliance for joint development of engineers and mutual recognition of competency standards, Xi said, adding that China will launch a BRICS youth exchange program for scientific and technological innovation, so as to cultivate more high-caliber talent. The five initiatives proposed by Xi focus on key areas including technology, industry, trade and talent, providing concrete pathways to lay a solid foundation for practical cooperation among the broader BRICS community, said Serik Korzhumbayev, editor-in-chief of the Delovoy Kazakhstan newspaper.",
+          "cn": "关于贸易和投资便利化倡议，习近平表示，中国提议建立金砖国家经济特区伙伴关系，各国可以据此建立智能门户、协调政策，打造开放发展的新前沿。他补充说，为培育经贸合作新动能，中国将于明年举办金砖国家服务贸易论坛。关于数字产业合作倡议，习近平表示，中国将推动建立金砖国家数字生态云平台，开展数字技能培训、技术交流和产业对接，共同赋能数字经济发展。关于智能制造合作倡议，他表示，中国愿协助金砖国家伙伴建设智能工厂、制定标准和规范，共同推动制造业转型升级。关于科技人才培养倡议，习近平表示，中国提议建立金砖国家工程师培养联盟，共同培养工程师、互认能力标准。他补充说，中国将启动金砖国家青年科技创新交流计划，以培养更多高素质人才。哈萨克斯坦《实业报》总编辑谢里克·科尔茹姆巴耶夫表示，习近平提出的五项倡议聚焦技术、产业、贸易和人才等关键领域，为更广泛的金砖大家庭务实合作奠定了坚实基础，提供了具体路径。"
         },
         {
-          "en": "Over an extraordinary two-decade journey, solidarity and cooperation have remained the driving force behind the BRICS cause, Xi stressed. Xi called on BRICS members to remain sincere and candid with one another, seek common ground while respecting differences, and respect each other's core concerns. He also urged the group to deepen mutual understanding through communication and dialogue, properly handle differences, and ensure that BRICS cooperation continues to move forward steadily. China, Xi said, will take over as the rotating chair of the BRICS and host the 19th summit next year. The Chinese side stands ready to work with all parties to build consensus, create a better future, and embark on BRICS' third \"golden decade,\" jointly opening up a bright future of prosperity and progress, he added.",
-          "cn": "习近平强调，在非凡的二十年历程中，团结合作始终是金砖事业的驱动力。习近平呼吁金砖成员国彼此真诚坦率，求同存异，尊重彼此核心关切。他还敦促金砖国家通过沟通对话加深相互理解，妥善处理分歧，确保金砖合作持续稳步向前。习近平表示，中国将接任金砖轮值主席国，并于明年主办第十九届峰会。他补充说，中方愿与各方一道凝聚共识，开创更美好的未来，开启金砖第三个“金色十年”，共同开创繁荣进步的光明前景。"
+          "en": "It demonstrates China's firm resolve to share the opportunities of its modernization, a reflection of the spirit of openness, inclusiveness and mutual benefit that underpins BRICS cooperation, he said.",
+          "cn": "他表示，这体现了中国分享其现代化机遇的坚定决心，反映了支撑金砖合作的开放、包容和互利精神。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "influential",
-          "hint": "adj. 有影响力的",
-          "difficulty": "medium"
+          "answer": "volatile",
+          "hint": "adj. 动荡不定的",
+          "difficulty": "hard"
         },
         {
           "id": 1,
-          "answer": "mechanism",
-          "hint": "n. 机制",
-          "difficulty": "medium"
+          "answer": "fraught",
+          "hint": "adj. 充满（风险）的",
+          "difficulty": "hard"
         },
         {
           "id": 2,
-          "answer": "emerging",
-          "hint": "adj. 新兴的",
-          "difficulty": "easy"
+          "answer": "seize",
+          "hint": "v. 抓住",
+          "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "anniversary",
-          "hint": "n. 周年纪念",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "remarkable",
-          "hint": "adj. 非凡的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "vitality",
-          "hint": "n. 活力",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "dynamism",
-          "hint": "n. 动力，活力",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "self-reliance",
-          "hint": "n. 自力更生",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "steadfast",
-          "hint": "adj. 坚定的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "safeguarding",
-          "hint": "v. 维护，捍卫",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "momentum",
-          "hint": "n. 势头，动力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "comprehensive",
-          "hint": "adj. 全面的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "accelerated",
-          "hint": "adj. 加速的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "multipolar",
-          "hint": "adj. 多极的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "unilateralism",
-          "hint": "n. 单边主义",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "multilateralism",
-          "hint": "n. 多边主义",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "deficits",
-          "hint": "n. 赤字，不足",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "equity",
-          "hint": "n. 公平，公正",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
           "answer": "initiative",
           "hint": "n. 主动权；倡议",
           "difficulty": "medium"
         },
         {
-          "id": 19,
-          "answer": "sovereignty",
-          "hint": "n. 主权",
+          "id": 4,
+          "answer": "rally",
+          "hint": "v. 团结；召集",
           "difficulty": "hard"
         },
         {
-          "id": 20,
-          "answer": "interference",
-          "hint": "n. 干涉",
+          "id": 5,
+          "answer": "advance",
+          "hint": "v. 促进；推进",
           "difficulty": "medium"
         },
         {
-          "id": 21,
-          "answer": "protectionist",
-          "hint": "adj. 保护主义的",
+          "id": 6,
+          "answer": "well-being",
+          "hint": "n. 福祉",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "safeguard",
+          "hint": "v. 捍卫；保护",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "sovereign",
+          "hint": "adj. 主权的",
           "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "noninterference",
+          "hint": "n. 不干涉",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "settlement",
+          "hint": "n. 解决",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "multilateralism",
+          "hint": "n. 多边主义",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "authority",
+          "hint": "n. 权威",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "architecture",
+          "hint": "n. 架构",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "representation",
+          "hint": "n. 代表性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "strive",
+          "hint": "v. 努力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "tackle",
+          "hint": "v. 应对；解决",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "consensus",
+          "hint": "n. 共识",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "prosperity",
+          "hint": "n. 繁荣",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "inclusive",
+          "hint": "adj. 包容的",
+          "difficulty": "medium"
         }
       ],
-      "fullText": "Chinese President Xi Jinping said in New Delhi on Saturday that the BRICS cooperation mechanism has become the world's most influential platform for cooperation among emerging markets and developing countries.\nWhen addressing the Session I of the 18th BRICS Summit in New Delhi, Xi noted that this year marks the 20th anniversary of BRICS cooperation, saying that over the past two decades, the BRICS cooperation mechanism has continued to grow and expand, and has demonstrated remarkable vitality and dynamism.\nXi said it has been 20 years of self-reliance and self-strengthening, adding that BRICS countries have actively explored development paths suited to their own national conditions, setting an example of self-strengthening through unity among emerging markets and developing countries.\nThis has also been 20 years of standing together through thick and thin, Xi noted.\nBRICS countries, Xi said, have worked together to tackle challenges ranging from the global financial crisis, the COVID-19 pandemic to climate change.\nThe group has remained steadfast in safeguarding the common interests of the Global South, while providing the world with stability and positive momentum, he said.\nXi also hailed the past 20 years of BRICS cooperation as fruitful, saying that BRICS countries have undergone a historic expansion, established a comprehensive, multi-tiered framework for cooperation, and ushered in a new stage of high-quality development for greater BRICS cooperation.\nXi stressed that the world is undergoing accelerated transformation unseen in a century, the Global South is rapidly growing in strength, and the trend toward a multipolar world is unstoppable.\nMeanwhile, countercurrents of unilateralism and power politics are surging, multilateralism and the international order are coming under strain, and deficits in peace, development, security and governance continue to widen, he added.\nHe said that BRICS countries should firmly stand on the right side of history, strive to be a pioneer of the times, steer the international order toward greater justice and equity, and work together to build a community with a shared future for humanity.\nXi called on BRICS to pioneer in advancing innovation-driven development. BRICS countries, he said, should firmly seize the initiative, strengthen cooperation in artificial intelligence, encourage open-source development, openness, cooperation and sharing, and push practical cooperation into new areas and to new heights.\nBRICS countries are welcome to actively participate in the World Artificial Intelligence Cooperation Organization, he said.\nChina proposed an initiative to promote new industrialization through artificial intelligence among BRICS countries, and is willing to work with all parties to deliver more outcomes in research, development and application, and deepen cooperation in industrial and supply chains, he said.\nXi called on BRICS to be a pioneer in upholding peace and stability. BRICS countries should uphold a vision of common, comprehensive, cooperative and sustainable security, oppose the Cold War mentality and bloc confrontation, reject violations of other countries' sovereignty and interference in their internal affairs, and play a constructive role in resolving hotspot issues, making a distinctive BRICS contribution to finding solutions that address both symptoms and root causes, he said.\nChina will work with fellow BRICS members to play a due role in bringing peace and tranquility to the Middle East and Gulf region, Xi said.\nXi called on BRICS to be a pioneer in facilitating mutual learning between civilizations. The countries, he said, should champion the common values of humanity and advocate exchanges and mutual learning among civilizations as well as harmonious coexistence. They should ensure the success of the BRICS forum on people-to-people and cultural exchanges, share experience in state governance, and build positive momentum for the steady development of relations between countries, Xi added.\nXi advocated efforts to deepen cooperation in culture, tourism and education, strengthen youth exchanges, and promote more frequent interactions and closer bonds among the peoples.\nXi called on BRICS to be a pioneer in reforming and improving global governance.\nHe urged the group to keep pace with the trend toward greater democracy in international relations, promote a more just and equitable global governance system, and uphold the authority of the United Nations.\nXi said BRICS should support a multilateral trading system centered on the World Trade Organization, and reject all forms of protectionist measures.\nThe grouping should lead global governance in emerging domains such as cyberspace, outer space and the deep sea, and amplify the voice of Global South countries, he added.\nOver an extraordinary two-decade journey, solidarity and cooperation have remained the driving force behind the BRICS cause, Xi stressed.\nXi called on BRICS members to remain sincere and candid with one another, seek common ground while respecting differences, and respect each other's core concerns.\nHe also urged the group to deepen mutual understanding through communication and dialogue, properly handle differences, and ensure that BRICS cooperation continues to move forward steadily.\nChina, Xi said, will take over as the rotating chair of the BRICS and host the 19th summit next year.\nThe Chinese side stands ready to work with all parties to build consensus, create a better future, and embark on BRICS' third \"golden decade,\" jointly opening up a bright future of prosperity and progress, he added.",
-      "fullTextCn": "中国国家主席习近平周六在新德里表示，金砖合作机制已成为全球最具影响力的新兴市场和发展中国家合作平台。习近平在第十八届金砖国家峰会第一次会议上发表讲话时指出，今年是金砖合作二十周年，他说过去二十年来，金砖合作机制不断成长壮大，展现出非凡的活力和动力。习近平表示，这是自力更生、自强不息的二十年，金砖国家积极探索适合自身国情的发展道路，为新兴市场和发展中国家团结自强树立了典范。习近平指出，这也是同甘共苦、守望相助的二十年。习近平说，金砖国家携手应对了从全球金融危机、新冠疫情到气候变化等一系列挑战。\n\n他表示，金砖国家始终坚定维护全球南方的共同利益，同时为世界提供了稳定性和正能量。习近平还称赞过去二十年的金砖合作成果丰硕，称金砖国家实现了历史性扩员，建立了全面、多层次的合作框架，开启了金砖合作高质量发展的新阶段。习近平强调，世界正经历百年未有之大变局的加速演进，全球南方力量迅速壮大，多极化世界趋势不可阻挡。与此同时，单边主义和强权政治逆流涌动，多边主义和国际秩序面临压力，和平、发展、安全、治理赤字持续扩大，他补充道。他说，金砖国家应坚定站在历史正确的一边，努力做时代的先锋，推动国际秩序朝着更加公正合理的方向发展，携手构建人类命运共同体。\n\n习近平呼吁金砖国家在推进创新驱动发展方面发挥先锋作用。他说，金砖国家应牢牢把握主动权，加强人工智能合作，鼓励开源发展、开放、合作与共享，推动务实合作向新领域、新高度迈进。他表示，欢迎金砖国家积极参与世界人工智能合作组织。他说，中国提出了一项通过人工智能促进金砖国家新型工业化的倡议，愿与各方共同努力，在研发和应用方面取得更多成果，深化产业链和供应链合作。习近平呼吁金砖国家做维护和平稳定的先锋。\n\n他说，金砖国家应秉持共同、综合、合作、可持续的安全观，反对冷战思维和集团对抗，反对侵犯他国主权和干涉他国内政，在解决热点问题上发挥建设性作用，为找到标本兼治的解决方案作出金砖国家的独特贡献。习近平表示，中国将同金砖伙伴一道，为中东和海湾地区带来和平与安宁发挥应有作用。习近平呼吁金砖国家做促进文明互鉴的先锋。他说，各国应倡导人类共同价值，倡导文明交流互鉴与和谐共处。他们应确保金砖人文交流论坛取得成功，分享国家治理经验，为各国关系稳步发展营造积极势头，习近平补充道。\n\n习近平倡导深化文化、旅游和教育合作，加强青年交流，促进各国人民之间更频繁的互动和更紧密的联系。习近平呼吁金砖国家做改革完善全球治理的先锋。他敦促金砖国家跟上国际关系民主化的趋势，推动更加公正合理的全球治理体系，维护联合国的权威。习近平表示，金砖国家应支持以世界贸易组织为中心的多边贸易体制，反对一切形式的保护主义措施。他补充说，金砖国家应引领网络空间、外空和深海等新兴领域的全球治理，放大全球南方国家的声音。\n\n习近平强调，在非凡的二十年历程中，团结合作始终是金砖事业的驱动力。习近平呼吁金砖成员国彼此真诚坦率，求同存异，尊重彼此核心关切。他还敦促金砖国家通过沟通对话加深相互理解，妥善处理分歧，确保金砖合作持续稳步向前。习近平表示，中国将接任金砖轮值主席国，并于明年主办第十九届峰会。他补充说，中方愿与各方一道凝聚共识，开创更美好的未来，开启金砖第三个“金色十年”，共同开创繁荣进步的光明前景。"
+      "fullText": "* The international landscape is volatile and fraught with risks and challenges, Xi said, adding that to bring stability to the world and make it a better place, BRICS countries must seize the historical initiative, rally the Global South, and advance the well-being of all humanity.\n* Xi proposed five initiatives on \"greater BRICS\" cooperation in areas of AI, trade and investment facilitation, digital industry, intelligent manufacturing, and science and technology talent development.\nChinese President Xi Jinping on Sunday called on BRICS countries to strengthen unity among the Global South and play an active, stabilizing and positive role in global affairs.\nIn a speech when attending the second day of BRICS summit in New Delhi, Xi also outlined concrete proposals to further strengthen greater BRICS cooperation, with a focus on emerging areas including artificial intelligence, trade, digital industries and manufacturing.\nXi pointed out that when changes unseen in a century are accelerating across the world, the Global South, with its collective rise, has become a key driver of world multipolarity.\nAt the same time, the international landscape is volatile and fraught with risks and challenges, Xi said, adding that to bring stability to the world and make it a better place, BRICS countries must seize the historical initiative, rally the Global South, and advance the well-being of all humanity.\nGlobal South countries should jointly defend the rule of law in international affairs, safeguard the basic norms of international relations including sovereign equality, noninterference in internal affairs, and the peaceful settlement of disputes, Xi said. It should be ensured that international law and international rules are applied to all, and free from double standards, he added.\nGlobal South countries should hold high the banner of multilateralism, uphold the authority and role of the United Nations, and support multilateral institutions in advancing reform and increasing efficiency, Xi said.\nHe also called for promoting the reform of the World Trade Organization in the right direction, as well as reforming and improving the international financial architecture to increase the representation and voice of developing countries.\nMedia staff work at the media center at Bharat Mandapam, the main venue of the 18th BRICS Summit in New Delhi, India, Sept. 12, 2026. (Xinhua/Javed Dar)\nGlobal South countries should stay committed to a people-centered development philosophy and strive to deliver on the 2030 Agenda for Sustainable Development, Xi said.\nGlobal South countries should also jointly advance security governance, tackle both traditional and nontraditional security threats, and improve global climate governance, Xi said, also calling for working faster to evolve a consensus-based global AI governance framework, so that new technologies can light the way toward shared prosperity.\n\"It is a solidarity that unlocks partnerships, unlocks democratization of the international system, unlocks an open international system, and unlocks an inclusive international system,\" said Charles Onunaiju, director of the Center for China Studies in Nigeria.\nRakhim Oshakbayev, director of the TALAP Center for Applied Research in Kazakhstan and former Kazakh vice minister for investment and development, said BRICS cooperation should \"bring together developing countries' shared aspirations and promote coordination and cooperation.\"\nBRICS countries should continue seeking common interests, he said, noting that the grouping's expansion had placed greater demands on internal coordination.\nDuring the speech, Xi proposed five initiatives on \"greater BRICS\" cooperation in areas of AI, trade and investment facilitation, digital industry, intelligent manufacturing, and science and technology talent development.\nTo accomplish great things and achieve major progress, the foundation of greater BRICS cooperation must be cemented, Xi said, calling for leveraging BRICS' close ties with fellow emerging markets and Global South countries, upholding open cooperation for mutual benefit, safeguarding stable and smooth industrial and supply chains, and fostering a large integrated market.\n\"We should build incubators for innovation, upgrade traditional industries, develop emerging industries, and deploy future industries,\" Xi said.\nOn the open source and inclusive AI initiative, Xi said that China will be a pioneer in establishing a BRICS AI open source community, support the cooperation in developing and applying large language models, hold specialized AI seminars and training courses, and build an open ecosystem for AI.\nOn the trade and investment facilitation initiative, China proposes to establish a BRICS special economic zone partnership, under which countries can set up an intelligent portal, coordinate policies, and build a new frontier for open development, Xi said, adding that in an effort to cultivate new drivers of economic and trade cooperation, China will hold the BRICS Forum on Trade in Services next year.\nOn the digital industry cooperation initiative, Xi said that China will push for establishing a BRICS digital ecosystem cloud platform, and conduct digital skills training, technological exchange and industrial alignment, so as to jointly enable the development of the digital economy.\nOn the intelligent manufacturing cooperation initiative, China stands ready to assist fellow BRICS countries in building smart factories and developing standards and norms, and jointly promote manufacturing transformation and upgrading, he said.\nOn the science and technology talent development initiative, China proposes to set up a BRICS engineer cultivation alliance for joint development of engineers and mutual recognition of competency standards, Xi said, adding that China will launch a BRICS youth exchange program for scientific and technological innovation, so as to cultivate more high-caliber talent.\nThe five initiatives proposed by Xi focus on key areas including technology, industry, trade and talent, providing concrete pathways to lay a solid foundation for practical cooperation among the broader BRICS community, said Serik Korzhumbayev, editor-in-chief of the Delovoy Kazakhstan newspaper.\nIt demonstrates China's firm resolve to share the opportunities of its modernization, a reflection of the spirit of openness, inclusiveness and mutual benefit that underpins BRICS cooperation, he said.",
+      "fullTextCn": "习近平表示，国际形势动荡不安，充满风险和挑战。他补充说，为了给世界带来稳定、让世界变得更美好，金砖国家必须把握历史主动，团结全球南方，促进全人类的福祉。习近平提出了关于“大金砖”合作的五项倡议，涵盖人工智能、贸易和投资便利化、数字产业、智能制造以及科技人才培养等领域。中国国家主席习近平周日呼吁金砖国家加强全球南方的团结，在全球事务中发挥积极、稳定和建设性作用。在新德里金砖峰会第二天发表讲话时，习近平还提出了进一步加强大金砖合作的具体建议，重点关注人工智能、贸易、数字产业和制造业等新兴领域。习近平指出，当百年未有之大变局加速演进之际，全球南方以集体崛起之势，已成为世界多极化的关键驱动力。\n\n与此同时，习近平表示，国际形势动荡不安，充满风险和挑战。他补充说，为了给世界带来稳定、让世界变得更美好，金砖国家必须把握历史主动，团结全球南方，促进全人类的福祉。习近平表示，全球南方国家应共同捍卫国际事务中的法治，维护主权平等、不干涉内政、和平解决争端等国际关系基本准则。他补充说，应确保国际法和国际规则对所有国家一视同仁，不受双重标准的影响。习近平表示，全球南方国家应高举多边主义旗帜，维护联合国的权威和作用，支持多边机构推进改革、提高效率。他还呼吁推动世界贸易组织朝着正确方向改革，并改革和完善国际金融架构，增加发展中国家的代表性和话语权。\n\n2026年9月12日，媒体工作人员在印度新德里第十八届金砖峰会主会场巴拉特·曼达帕姆的新闻中心工作。（新华社/贾韦德·达尔）习近平表示，全球南方国家应坚持以人民为中心的发展理念，努力落实2030年可持续发展议程。习近平表示，全球南方国家还应共同推进安全治理，应对传统和非传统安全威胁，完善全球气候治理，并呼吁加快形成基于共识的全球人工智能治理框架，使新技术能够照亮共同繁荣之路。尼日利亚中国研究中心主任查尔斯·奥努奈朱表示：“这是一种团结，它开启了伙伴关系，开启了国际体系的民主化，开启了开放的国际体系，开启了包容的国际体系。”\n\n哈萨克斯坦TALAP应用研究中心主任、前哈萨克斯坦投资与发展部副部长拉希姆·奥沙克巴耶夫表示，金砖合作应“凝聚发展中国家的共同愿望，促进协调与合作”。他说，金砖国家应继续寻求共同利益，并指出金砖扩员对内部协调提出了更高要求。在讲话中，习近平提出了关于“大金砖”合作的五项倡议，涵盖人工智能、贸易和投资便利化、数字产业、智能制造以及科技人才培养等领域。习近平表示，要成就伟大事业、取得重大进展，必须夯实大金砖合作的基础，呼吁利用金砖国家与新兴市场和发展中国家伙伴的紧密联系，坚持开放合作、互利共赢，维护稳定畅通的产业链供应链，培育大型一体化市场。习近平表示：“我们要建设创新孵化器，升级传统产业，发展新兴产业，布局未来产业。”关于开源包容的人工智能倡议，习近平表示，中国将率先建立金砖人工智能开源社区，支持开发和运用大语言模型的合作，举办人工智能专题研讨会和培训班，构建开放的人工智能生态系统。\n\n关于贸易和投资便利化倡议，习近平表示，中国提议建立金砖国家经济特区伙伴关系，各国可以据此建立智能门户、协调政策，打造开放发展的新前沿。他补充说，为培育经贸合作新动能，中国将于明年举办金砖国家服务贸易论坛。关于数字产业合作倡议，习近平表示，中国将推动建立金砖国家数字生态云平台，开展数字技能培训、技术交流和产业对接，共同赋能数字经济发展。关于智能制造合作倡议，他表示，中国愿协助金砖国家伙伴建设智能工厂、制定标准和规范，共同推动制造业转型升级。关于科技人才培养倡议，习近平表示，中国提议建立金砖国家工程师培养联盟，共同培养工程师、互认能力标准。他补充说，中国将启动金砖国家青年科技创新交流计划，以培养更多高素质人才。哈萨克斯坦《实业报》总编辑谢里克·科尔茹姆巴耶夫表示，习近平提出的五项倡议聚焦技术、产业、贸易和人才等关键领域，为更广泛的金砖大家庭务实合作奠定了坚实基础，提供了具体路径。\n\n他表示，这体现了中国分享其现代化机遇的坚定决心，反映了支撑金砖合作的开放、包容和互利精神。"
     },
     {
-      "id": 3,
+      "id": 4,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-09-13/detail-ihfkanuz5380400.shtml",
+      "title": "From 'polis' to 'citizen': Cypriot Ambassador to China finds common ground in urban governance",
+      "titleCn": "从“城邦”到“公民”：塞浦路斯驻华大使在城市治理中找到共同点",
+      "summary": "\"A current visit to Shanghai and Jiangsu has provided valuable opportunities to reflect on the relationship between urban development, public space and quality of life. It has reinforced my interest in how cities can accommodate change while preserving their identity and responding to the needs of their communities. \"\n\nRecently, the \"Explore People-Centered Cities: China's Governance, Global Engagement (Shanghai and Jiangsu)\" event, organized by China's Ministry of Foreign Affairs, invited foreign diplomatic envoys to visit multiple sites in East China's Shanghai and Jiangsu, offering an in-depth look at China's people-centered urban governance philosophy and the practical achievements of the two places.",
+      "summaryCn": "塞浦路斯驻华大使索菲亚努在访问上海和江苏后，高度评价中国以人民为中心的城市治理理念，并指出塞中两国在城市治理、可持续发展和人工智能应用等领域拥有广阔合作空间。",
+      "wordCount": 752,
+      "paragraphs": [
+        {
+          "en": "(ECNS) -- \"A current visit to Shanghai and Jiangsu has provided valuable opportunities to reflect on the relationship between urban development, public space and quality of life. It has {{0}} my interest in how cities can accommodate change while {{1}} their identity and responding to the needs of their communities. \"\nRecently, the \"Explore People-Centered Cities: China's Governance, Global Engagement (Shanghai and Jiangsu)\" event, organized by China's Ministry of Foreign Affairs, invited foreign diplomatic envoys to visit multiple sites in East China's Shanghai and Jiangsu, offering an in-depth look at China's people-centered urban governance philosophy and the practical achievements of the two places. During the visit to Suzhou in East China's Jiangsu Province, Koula Sophianou, Ambassador of Cyprus to China, highly {{2}} China's achievements in urban governance. Rivers alongside streets and small bridges over flowing water form Suzhou's urban landscape.",
+          "cn": "（中新社）——“此次访问上海和江苏，为我提供了宝贵机会，让我得以思考城市发展、公共空间与生活质量之间的关系。这进一步加深了我的兴趣：城市如何在适应变化的同时保留自身特色，并回应社区的需求。”近日，由中国外交部组织的“探索人民城市：中国治理，全球参与（上海和江苏）”活动邀请外国驻华使节访问中国华东地区的上海和江苏多个地点，深入了解中国以人民为中心的城市治理理念以及两地取得的实际成就。在访问中国华东江苏省苏州期间，塞浦路斯驻华大使库拉·索菲亚努高度赞扬中国在城市治理方面取得的成就。街旁河流与流水之上的小桥构成了苏州的城市景观。"
+        },
+        {
+          "en": "Kunqu opera, classical gardens, and Su Xiu embroidery have long become {{3}} symbols by which the world recognizes China. On the other hand, Suzhou nowadays, with 0.09% of the China's country land and 1% of the country's population, contributes 2% of the country's total economic output. Suzhou is like the finest piece of Su Xiu embroidery—\"double-sided embroidery\", with one side rich in culture, the other {{4}} in economy. After touring Suzhou's iconic water town scenery and learning about the low-altitude economy at a local company, Sophianou told the press that Suzhou is known for its classical gardens, canals, and cultural {{5}}, while also being a center of modern industry and innovative development. This trip showed us how cultural heritage, science and technology, and forward-looking planning can truly {{6}} one another.",
+          "cn": "昆曲、古典园林和苏绣早已成为世界认识中国的鲜明标志。另一方面，如今的苏州以占全国0.09%的土地面积和1%的人口，贡献了全国2%的经济总量。苏州就像一幅最精美的苏绣——“双面绣”，一面文化丰厚，一面经济繁荣。在游览苏州标志性的水乡风光并在一家当地企业了解低空经济后，索菲亚努对媒体表示，苏州以古典园林、运河和文化遗产闻名，同时也是现代产业和创新发展的中心。这次行程让我们看到，文化遗产、科学技术和前瞻性规划如何真正实现相辅相成。"
+        },
+        {
+          "en": "\"Urban governance has a simple purpose to make everyday life better. It's all people-centered,\" Sophianou said. She pointed out that in Suzhou, diplomatic envoys from various countries have {{7}} firsthand technology truly centered on people's needs, and what impressed her most was that drones in Chinese cities can detect forest fires, helping relevant authorities receive early warnings and take timely rescue measures. \"This is {{8}}, because we can see around the world that, affected by climate change, forest fires are becoming {{9}} frequent. Therefore, early detection is particularly key.",
+          "cn": "“城市治理有一个简单的目的，就是让日常生活更美好。这一切都是以人民为中心的。”索菲亚努说。她指出，在苏州，各国驻华使节亲眼见证了技术真正以人民需求为中心，而最令她印象深刻的是，中国城市中的无人机能够探测森林火灾，帮助有关部门提前预警并及时采取救援措施。“这至关重要，因为我们在世界各地都能看到，受气候变化影响，森林火灾正变得越来越频繁。因此，早期发现尤为关键。"
+        },
+        {
+          "en": "This is an {{10}} of how technological progress and artificial intelligence can contribute to environmental protection and citizen safety,\" she said. Located in the northeast of the Mediterranean, Cyprus has a land area of about 9,251 square kilometers and a total population of about 1.25 million. According to 2025 Eurostat data, Cyprus ranks among the top in the EU in individual AI usage, but enterprise {{11}} is far below average. Therefore, the country is making artificial intelligence the core of its digital {{12}}, with its national artificial intelligence strategy laying out a roadmap through 2032. In this regard, Sophianou introduced that the smart city plan of Nicosia, the capital of Cyprus, is using digital tools to manage parking, lighting, waste, and environmental monitoring, and to provide {{13}} parking information; the coastal city of Limassol provides parking service guidance and has developed smart lighting to improve energy {{14}}.",
+          "cn": "她说：“这体现了技术进步和人工智能如何为环境保护和公民安全作出贡献。”塞浦路斯位于地中海东北部，陆地面积约9251平方公里，总人口约125万。根据2025年欧盟统计局数据，塞浦路斯在个人人工智能使用方面位居欧盟前列，但企业采用率远低于平均水平。因此，该国正将人工智能作为其数字化转型的核心，其国家人工智能战略规划了到2032年的路线图。对此，索菲亚努介绍，塞浦路斯首都尼科西亚的智慧城市计划正在利用数字工具管理停车、照明、垃圾和环境监测，并提供无障碍停车信息；沿海城市利马索尔提供停车服务引导，并开发了智能照明以提高能源效率。"
+        },
+        {
+          "en": "The city also brings together public institutions, enterprises, researchers, and citizens to jointly formulate a climate neutrality roadmap. Taking the Greek word \"polis (city)\" as an example, she pointed out that in the course of historical development, the word gave rise to the related concept of \"political community.\" She emphasized that this linguistic connection reminds us that a city should be a community, a community of people. Here, people share space, rights, and responsibilities, and citizens should be at the core of public life. Based on this, Sophianou also found a point of {{15}} between the two civilizations in the Chinese context. \"I see a meaningful {{16}} in the Chinese term 'shi min' (citizen), which means urban residents and likewise binds the urban area together with people.",
+          "cn": "该市还汇集公共机构、企业、研究人员和公民，共同制定气候中和路线图。她以希腊语单词“polis（城邦）”为例指出，在历史发展过程中，这个词衍生出了“政治共同体”的相关概念。她强调，这种语言上的联系提醒我们，城市应当是一个共同体，一个人的共同体。在这里，人们共享空间、权利和责任，公民应当处于公共生活的核心。基于此，索菲亚努还在中文语境中找到了两种文明之间的一个交汇点。“我看到中文词‘市民’（citizen）中有一种有意义的对应，它指城市居民，同样把城市区域与人联系在一起。"
+        },
+        {
+          "en": "This also echoes China's principle of 'cities should be built by the people and for the people,'\" Sophianou said. She added that these traditions express the same fundamental concern in different ways: how to organize urban life around human well-being. Sophianou concluded by summarizing that, for Cyprus, digital development is of great significance to the country's development and is key to its planning of {{17}} communities. 2026 marks the 55th anniversary of the establishment of diplomatic relations between Cyprus and China. On this occasion, she looks forward to the two countries deepening cooperation, focusing on common issues, and, building on existing ties, sharing practical experience in areas such as sustainable housing, urban ecology, heritage protection, and people-centered public services.",
+          "cn": "索菲亚努说：“这也与中国‘人民城市人民建、人民城市为人民’的原则相呼应。”她补充说，这些传统以不同方式表达了同一个根本关切：如何围绕人类福祉来组织城市生活。索菲亚努最后总结说，对塞浦路斯而言，数字发展对国家发展意义重大，也是其规划可持续社区的关键。2026年标志着塞浦路斯与中国建交55周年。借此机会，她期待两国深化合作，聚焦共同议题，并在现有联系基础上，在可持续住房、城市生态、遗产保护和以人为本的公共服务等领域分享实践经验。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "reinforced",
+          "hint": "v. 加强，强化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "preserving",
+          "hint": "v. 保护，保留",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "commended",
+          "hint": "v. 赞扬，称赞",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "distinctive",
+          "hint": "adj. 独特的，有特色的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "prosperous",
+          "hint": "adj. 繁荣的，兴旺的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "heritage",
+          "hint": "n. 遗产，传统",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "complement",
+          "hint": "v. 补充，相辅相成",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "witnessed",
+          "hint": "v. 目睹，见证",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "crucial",
+          "hint": "adj. 至关重要的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "increasingly",
+          "hint": "adv. 越来越，日益",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "embodiment",
+          "hint": "n. 体现，化身",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "adoption",
+          "hint": "n. 采用，采纳",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "transformation",
+          "hint": "n. 转型，变革",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "accessible",
+          "hint": "adj. 可获得的，无障碍的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "efficiency",
+          "hint": "n. 效率",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "convergence",
+          "hint": "n. 交汇，趋同",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "correspondence",
+          "hint": "n. 对应，相符",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "(ECNS) -- \"A current visit to Shanghai and Jiangsu has provided valuable opportunities to reflect on the relationship between urban development, public space and quality of life. It has reinforced my interest in how cities can accommodate change while preserving their identity and responding to the needs of their communities. \"\nRecently, the \"Explore People-Centered Cities: China's Governance, Global Engagement (Shanghai and Jiangsu)\" event, organized by China's Ministry of Foreign Affairs, invited foreign diplomatic envoys to visit multiple sites in East China's Shanghai and Jiangsu, offering an in-depth look at China's people-centered urban governance philosophy and the practical achievements of the two places.\nDuring the visit to Suzhou in East China's Jiangsu Province, Koula Sophianou, Ambassador of Cyprus to China, highly commended China's achievements in urban governance.\nRivers alongside streets and small bridges over flowing water form Suzhou's urban landscape. Kunqu opera, classical gardens, and Su Xiu embroidery have long become distinctive symbols by which the world recognizes China.\nOn the other hand, Suzhou nowadays, with 0.09% of the China's country land and 1% of the country's population, contributes 2% of the country's total economic output.\nSuzhou is like the finest piece of Su Xiu embroidery—\"double-sided embroidery\", with one side rich in culture, the other prosperous in economy.\nAfter touring Suzhou's iconic water town scenery and learning about the low-altitude economy at a local company, Sophianou told the press that Suzhou is known for its classical gardens, canals, and cultural heritage, while also being a center of modern industry and innovative development. This trip showed us how cultural heritage, science and technology, and forward-looking planning can truly complement one another.\n\"Urban governance has a simple purpose to make everyday life better. It's all people-centered,\" Sophianou said.\nShe pointed out that in Suzhou, diplomatic envoys from various countries have witnessed firsthand technology truly centered on people's needs, and what impressed her most was that drones in Chinese cities can detect forest fires, helping relevant authorities receive early warnings and take timely rescue measures.\n\"This is crucial, because we can see around the world that, affected by climate change, forest fires are becoming increasingly frequent. Therefore, early detection is particularly key. This is an embodiment of how technological progress and artificial intelligence can contribute to environmental protection and citizen safety,\" she said.\nLocated in the northeast of the Mediterranean, Cyprus has a land area of about 9,251 square kilometers and a total population of about 1.25 million. According to 2025 Eurostat data, Cyprus ranks among the top in the EU in individual AI usage, but enterprise adoption is far below average.\nTherefore, the country is making artificial intelligence the core of its digital transformation, with its national artificial intelligence strategy laying out a roadmap through 2032.\nIn this regard, Sophianou introduced that the smart city plan of Nicosia, the capital of Cyprus, is using digital tools to manage parking, lighting, waste, and environmental monitoring, and to provide accessible parking information; the coastal city of Limassol provides parking service guidance and has developed smart lighting to improve energy efficiency. The city also brings together public institutions, enterprises, researchers, and citizens to jointly formulate a climate neutrality roadmap.\nTaking the Greek word \"polis (city)\" as an example, she pointed out that in the course of historical development, the word gave rise to the related concept of \"political community.\" She emphasized that this linguistic connection reminds us that a city should be a community, a community of people. Here, people share space, rights, and responsibilities, and citizens should be at the core of public life.\nBased on this, Sophianou also found a point of convergence between the two civilizations in the Chinese context.\n\"I see a meaningful correspondence in the Chinese term 'shi min' (citizen), which means urban residents and likewise binds the urban area together with people. This also echoes China's principle of 'cities should be built by the people and for the people,'\" Sophianou said.\nShe added that these traditions express the same fundamental concern in different ways: how to organize urban life around human well-being.\nSophianou concluded by summarizing that, for Cyprus, digital development is of great significance to the country's development and is key to its planning of sustainable communities. 2026 marks the 55th anniversary of the establishment of diplomatic relations between Cyprus and China. On this occasion, she looks forward to the two countries deepening cooperation, focusing on common issues, and, building on existing ties, sharing practical experience in areas such as sustainable housing, urban ecology, heritage protection, and people-centered public services.",
+      "fullTextCn": "（中新社）——“此次访问上海和江苏，为我提供了宝贵机会，让我得以思考城市发展、公共空间与生活质量之间的关系。这进一步加深了我的兴趣：城市如何在适应变化的同时保留自身特色，并回应社区的需求。”近日，由中国外交部组织的“探索人民城市：中国治理，全球参与（上海和江苏）”活动邀请外国驻华使节访问中国华东地区的上海和江苏多个地点，深入了解中国以人民为中心的城市治理理念以及两地取得的实际成就。在访问中国华东江苏省苏州期间，塞浦路斯驻华大使库拉·索菲亚努高度赞扬中国在城市治理方面取得的成就。街旁河流与流水之上的小桥构成了苏州的城市景观。\n\n昆曲、古典园林和苏绣早已成为世界认识中国的鲜明标志。另一方面，如今的苏州以占全国0.09%的土地面积和1%的人口，贡献了全国2%的经济总量。苏州就像一幅最精美的苏绣——“双面绣”，一面文化丰厚，一面经济繁荣。在游览苏州标志性的水乡风光并在一家当地企业了解低空经济后，索菲亚努对媒体表示，苏州以古典园林、运河和文化遗产闻名，同时也是现代产业和创新发展的中心。这次行程让我们看到，文化遗产、科学技术和前瞻性规划如何真正实现相辅相成。\n\n“城市治理有一个简单的目的，就是让日常生活更美好。这一切都是以人民为中心的。”索菲亚努说。她指出，在苏州，各国驻华使节亲眼见证了技术真正以人民需求为中心，而最令她印象深刻的是，中国城市中的无人机能够探测森林火灾，帮助有关部门提前预警并及时采取救援措施。“这至关重要，因为我们在世界各地都能看到，受气候变化影响，森林火灾正变得越来越频繁。因此，早期发现尤为关键。\n\n她说：“这体现了技术进步和人工智能如何为环境保护和公民安全作出贡献。”塞浦路斯位于地中海东北部，陆地面积约9251平方公里，总人口约125万。根据2025年欧盟统计局数据，塞浦路斯在个人人工智能使用方面位居欧盟前列，但企业采用率远低于平均水平。因此，该国正将人工智能作为其数字化转型的核心，其国家人工智能战略规划了到2032年的路线图。对此，索菲亚努介绍，塞浦路斯首都尼科西亚的智慧城市计划正在利用数字工具管理停车、照明、垃圾和环境监测，并提供无障碍停车信息；沿海城市利马索尔提供停车服务引导，并开发了智能照明以提高能源效率。\n\n该市还汇集公共机构、企业、研究人员和公民，共同制定气候中和路线图。她以希腊语单词“polis（城邦）”为例指出，在历史发展过程中，这个词衍生出了“政治共同体”的相关概念。她强调，这种语言上的联系提醒我们，城市应当是一个共同体，一个人的共同体。在这里，人们共享空间、权利和责任，公民应当处于公共生活的核心。基于此，索菲亚努还在中文语境中找到了两种文明之间的一个交汇点。“我看到中文词‘市民’（citizen）中有一种有意义的对应，它指城市居民，同样把城市区域与人联系在一起。\n\n索菲亚努说：“这也与中国‘人民城市人民建、人民城市为人民’的原则相呼应。”她补充说，这些传统以不同方式表达了同一个根本关切：如何围绕人类福祉来组织城市生活。索菲亚努最后总结说，对塞浦路斯而言，数字发展对国家发展意义重大，也是其规划可持续社区的关键。2026年标志着塞浦路斯与中国建交55周年。借此机会，她期待两国深化合作，聚焦共同议题，并在现有联系基础上，在可持续住房、城市生态、遗产保护和以人为本的公共服务等领域分享实践经验。"
+    },
+    {
+      "id": 5,
       "category": "military",
       "source": "ECNS",
       "sourceUrl": "http://www.ecns.cn/china/2026-09-13/detail-ihfkanuz5380263.shtml",
       "title": "Xi, Modi conduct in-depth exchange of views, agree China, India should be partners",
       "titleCn": "习近平与莫迪深入交换意见，一致认为中印应成为合作伙伴",
       "summary": "Chinese President Xi Jinping and Indian Prime Minister Narendra Modi conducted here on Saturday a candid and in-depth exchange of views, and reached important consensus that China and India should be partners.",
-      "summaryCn": "习近平与莫迪在新德里金砖峰会期间举行会晤，双方一致认为中印应做合作伙伴而非对手，应通过共赢合作、相互尊重和战略沟通推动双边关系稳定发展。",
+      "summaryCn": "习近平与莫迪在新德里金砖峰会期间举行会晤，双方一致认为中印应做合作伙伴而非对手，并同意加强合作、妥处分歧、共同维护边境和平。",
       "wordCount": 785,
       "paragraphs": [
         {
-          "en": "Chinese President Xi Jinping and Indian Prime Minister Narendra Modi conducted here on Saturday a {{0}} and in-depth exchange of views, and reached important {{1}} that China and India should be partners. The two leaders met on the sidelines of the 18th BRICS Summit in New Delhi. Xi said China has always viewed and developed its relations with India from a {{2}} height and with a long-term {{3}}. Xi noted that he has met with Modi twice over the past two years, guiding {{4}} relations from a new start to a further improvement. {{5}} exchanges between the two countries have gradually {{6}}, the list of areas of cooperation has continued to grow, and bilateral trade has reached a new record high, Xi added.",
-          "cn": "中国国家主席习近平与印度总理纳伦德拉·莫迪周六在此间进行了坦诚深入的意见交换，并达成重要共识：中国和印度应当成为合作伙伴。两位领导人在新德里第十八届金砖国家峰会期间举行了会晤。习近平表示，中国始终从战略高度和长远角度看待和发展与印度的关系。习近平指出，过去两年他两次与莫迪会面，引领双边关系从新起点走向进一步改善。两国之间的机制性交流逐步恢复，合作领域清单持续扩大，双边贸易额再创历史新高，习近平补充道。"
+          "en": "Chinese President Xi Jinping and Indian Prime Minister Narendra Modi conducted here on Saturday a {{0}} and in-depth exchange of views, and reached important {{1}} that China and India should be partners. The two leaders met on the sidelines of the 18th BRICS Summit in New Delhi. Xi said China has always viewed and developed its relations with India from a {{2}} height and with a long-term {{3}}. Xi noted that he has met with Modi twice over the past two years, guiding {{4}} relations from a new start to a further improvement. Institutional exchanges between the two countries have gradually {{5}}, the list of areas of cooperation has continued to grow, and bilateral trade has reached a new record high, Xi added.",
+          "cn": "中国国家主席习近平与印度总理纳伦德拉·莫迪周六在此间进行了坦诚深入的意见交换，并达成重要共识：中国和印度应当成为合作伙伴。两位领导人在新德里举行的金砖国家领导人第十八次会晤期间举行了会晤。习近平表示，中国始终从战略高度和长远角度看待和发展同印度的关系。习近平指出，过去两年他同莫迪两次会晤，引领双边关系从新起点走向进一步改善。两国机制性交往逐步恢复，合作领域清单不断拉长，双边贸易额再创新高，习近平补充道。"
         },
         {
-          "en": "Xi said such hard-won progress should be {{7}}. Noting that China and India have different national conditions, Xi said they can draw on each other's strengths, support one another, help each other succeed and pursue common development. Amid a {{8}} international landscape, China and India, as the world's two most {{9}} countries and important members of the Global South, shoulder important responsibilities, Xi said. Xi called on the two sides to keep in mind the future of humanity and the well-being of peoples, work together to promote high-quality development of greater BRICS cooperation, and contribute more positive energy to world peace, {{26}}, development and {{10}}. {{11}} objective and rational strategic perception in {{12}} China-India relations, Xi said China and India are partners for cooperation, not {{13}}.",
-          "cn": "习近平表示，这些来之不易的进展应当倍加珍惜。习近平指出，中印两国国情不同，但可以互学互鉴、相互支持、彼此成就、共谋发展。习近平说，在国际形势动荡不安的背景下，中印作为世界上人口最多的两个国家和全球南方的重要成员，肩负着重要责任。习近平呼吁双方胸怀人类未来和人民福祉，共同推动大金砖合作高质量发展，为世界和平、稳定、发展与繁荣贡献更多正能量。习近平强调，要以客观理性的战略认知校准中印关系，中印是合作伙伴，而非对手。"
+          "en": "Xi said such hard-won progress should be {{6}}. Noting that China and India have different national conditions, Xi said they can draw on each other's strengths, support one another, help each other succeed and pursue common development. Amid a {{7}} international landscape, China and India, as the world's two most {{8}} countries and important members of the Global South, shoulder important responsibilities, Xi said. Xi called on the two sides to keep in mind the future of humanity and the well-being of peoples, work together to promote high-quality development of greater BRICS cooperation, and contribute more positive energy to world peace, stability, development and {{9}}. Underscoring objective and {{10}} strategic perception in {{11}} China-India relations, Xi said China and India are partners for cooperation, not {{12}}.",
+          "cn": "习近平表示，这些来之不易的进展应当倍加珍惜。习近平指出，中印国情不同，但可以互学互鉴、相互支持、相互成就，实现共同发展。习近平表示，在国际形势动荡不安的背景下，中印作为世界上两个人口最多的国家和全球南方的重要成员，肩负着重要责任。习近平呼吁双方胸怀人类前途和人民福祉，共同推动大金砖合作高质量发展，为世界和平、稳定、发展、繁荣贡献更多正能量。习近平强调，要以客观理性的战略认知校准中印关系，中印是合作伙伴，而不是对手。"
         },
         {
-          "en": "The two countries provide development opportunities for each other rather than pose threats to each other, he added. That is a strategic judgment based on the development stages of the two countries and the international environment, and serves the common interests of both countries and their peoples, Xi said. Xi called on both sides to help each other succeed through win-win cooperation. The two sides, Xi said, should focus on development as their greatest common {{14}}, while strengthening friendly exchanges and mutually {{15}} cooperation. He called on the two sides to expand cooperation in people-to-people exchanges, direct flights and other areas to effectively strengthen the public support for bilateral relations.",
-          "cn": "他补充说，两国互为发展机遇而非彼此威胁。习近平表示，这是基于两国发展阶段和国际环境作出的战略判断，符合两国和两国人民的共同利益。习近平呼吁双方通过合作共赢彼此成就。习近平说，双方应聚焦发展这一最大公约数，同时加强友好交流和互利合作。他呼吁双方拓展人文交流、直航等领域的合作，切实夯实双边关系的民意基础。"
+          "en": "The two countries provide development opportunities for each other rather than pose threats to each other, he added. That is a strategic judgment based on the development stages of the two countries and the international environment, and serves the common interests of both countries and their peoples, Xi said. Xi called on both sides to help each other succeed through win-win cooperation. The two sides, Xi said, should focus on development as their greatest common {{13}}, while strengthening friendly exchanges and mutually {{14}} cooperation. He called on the two sides to expand cooperation in people-to-people exchanges, direct flights and other areas to effectively strengthen the public support for bilateral relations.",
+          "cn": "他补充说，两国相互提供发展机遇，而不是相互构成威胁。习近平表示，这是基于两国发展阶段和国际环境作出的战略判断，符合两国和两国人民的共同利益。习近平呼吁双方通过合作共赢相互成就。习近平说，双方应聚焦发展这一最大公约数，同时加强友好交流和互利合作。他呼吁双方扩大在人文交流、直航等领域的合作，切实夯实双边关系的民意基础。"
         },
         {
-          "en": "The two sides should also balance and address each other's economic and trade concerns, and promote a sound and stable development of bilateral economic and trade ties, Xi added. Xi called on China and India to draw on political wisdom of {{22}} respect and understanding to overcome {{16}}, urging both sides to pursue parallel progress in bilateral ties and border issues with the two tracks reinforcing each other, so as to maintain peace and {{17}} in border areas. He also urged China and India to promote multilateral cooperation with openness and {{18}} to benefit the world. Xi said the two countries should support each other as rotating chair of the BRICS, strengthen {{19}} within such multilateral frameworks as the United Nations, the Shanghai Cooperation Organization and the Group of 20, stand together in addressing global challenges, and {{20}} uphold international fairness and justice. Modi said he has held several productive meetings with Xi, guiding India-China relations toward a positive direction, which serves the common interests of the more than 2.8 billion people of both countries.",
-          "cn": "习近平补充说，双方还应平衡解决彼此经贸关切，推动双边经贸关系健康稳定发展。习近平呼吁中印以相互尊重和理解的的政治智慧克服干扰，敦促双方推动双边关系和边界问题两条轨道并行推进、相互促进，以维护边境地区的和平安宁。他还敦促中印以开放包容的态度推进多边合作，造福世界。习近平表示，两国应相互支持彼此担任金砖轮值主席国，加强在联合国、上海合作组织、二十国集团等多边框架内的协调，携手应对全球性挑战，坚定维护国际公平正义。莫迪表示，他与习近平多次进行了富有成果的会晤，引领印中关系朝着积极方向发展，这符合两国28亿多人民的共同利益。"
+          "en": "The two sides should also balance and address each other's economic and trade concerns, and promote a sound and stable development of bilateral economic and trade ties, Xi added. Xi called on China and India to draw on political wisdom of {{21}} respect and understanding to overcome {{15}}, urging both sides to pursue parallel progress in bilateral ties and border issues with the two tracks reinforcing each other, so as to maintain peace and {{16}} in border areas. He also urged China and India to promote multilateral cooperation with openness and {{17}} to benefit the world. Xi said the two countries should support each other as rotating chair of the BRICS, strengthen {{18}} within such multilateral frameworks as the United Nations, the Shanghai Cooperation Organization and the Group of 20, stand together in addressing global challenges, and {{19}} uphold international fairness and justice. Modi said he has held several productive meetings with Xi, guiding India-China relations toward a positive direction, which serves the common interests of the more than 2.8 billion people of both countries.",
+          "cn": "习近平补充说，双方还应平衡解决彼此经贸关切，推动双边经贸关系健康稳定发展。习近平呼吁中印以相互尊重、相互理解的政治智慧克服干扰，敦促双方推动双边关系和边界问题两条轨道并行推进、相互促进，以维护边境地区的和平安宁。他还敦促中印以开放包容推进多边合作，造福世界。习近平表示，两国应相互支持彼此担任金砖轮值主席国，加强在联合国、上海合作组织、二十国集团等多边框架内的协调，携手应对全球性挑战，坚定维护国际公平正义。莫迪表示，他同习近平多次进行了富有成果的会晤，引领印中关系朝着积极方向发展，这符合两国28亿多人民的共同利益。"
         },
         {
-          "en": "The two major civilizations of India and China have, over thousands of years, learned from each other through exchanges and moved forward hand in hand, he said. India always views India-China relations from a strategic height and a long-term perspective, and is willing to be a partner rather than a rival to China, and to regard each other's development as an opportunity rather than a challenge, he noted. India {{21}} to an independent foreign policy, and the development of its relations with China is not subject to the influence of any third party, he said. India's policy and position on the issues related to Taiwan and Xizang remain unchanged, and it does not allow any force to engage in anti-China activities in India, he said. India is ready to maintain high-level exchanges with China on the basis of mutual respect and mutual trust, strengthen strategic communication, promote mutually beneficial cooperation, and enhance people-to-people exchanges, so as to advance bilateral relations to greater heights, Modi said.",
-          "cn": "他说，印度和中国这两大文明数千年来通过交流互学互鉴、携手前行。他表示，印度始终从战略高度和长远角度看待印中关系，愿做中国的合作伙伴而非对手，将彼此的发展视为机遇而非挑战。他说，印度奉行独立自主的外交政策，发展对华关系不受任何第三方影响。他说，印度在台湾和西藏相关问题上的政策和立场保持不变，不允许任何势力在印度从事反华活动。莫迪表示，印度愿在相互尊重、互相信任的基础上同中国保持高层交往，加强战略沟通，促进互利合作，增进人文交流，推动双边关系迈向更高水平。"
+          "en": "The two major civilizations of India and China have, over thousands of years, learned from each other through exchanges and moved forward hand in hand, he said. India always views India-China relations from a strategic height and a long-term perspective, and is willing to be a partner rather than a rival to China, and to regard each other's development as an opportunity rather than a challenge, he noted. India {{20}} to an independent foreign policy, and the development of its relations with China is not subject to the influence of any third party, he said. India's policy and position on the issues related to Taiwan and Xizang remain unchanged, and it does not allow any force to engage in anti-China activities in India, he said. India is ready to maintain high-level exchanges with China on the basis of mutual respect and mutual trust, strengthen strategic communication, promote mutually beneficial cooperation, and enhance people-to-people exchanges, so as to advance bilateral relations to greater heights, Modi said.",
+          "cn": "他说，印度和中国两大文明数千年来互学互鉴、携手前行。他表示，印度始终从战略高度和长远角度看待印中关系，愿做中国的合作伙伴而非对手，把彼此的发展视为机遇而非挑战。他说，印度奉行独立自主的外交政策，发展对华关系不受任何第三方影响。他说，印度在涉台、涉藏问题上的政策和立场没有变化，不允许任何势力在印度从事反华活动。莫迪表示，印度愿在相互尊重、相互信任的基础上同中国保持高层交往，加强战略沟通，推进互利合作，增进人文交流，推动双边关系迈上更高水平。"
         },
         {
-          "en": "The two sides should work together to {{23}} peace and tranquility in the border areas, he added. India thanked China for its support for India's hosting of the BRICS summit and will fully support China in {{24}} the BRICS chairmanship next year, he said. Modi said India is ready to closely {{27}} and cooperate with China to jointly strengthen cooperation among Global South countries, promote a more {{25}} world and global economic growth, and serve as a force for stability and progress in a turbulent world.",
+          "en": "The two sides should work together to {{23}} peace and tranquility in the border areas, he added. India thanked China for its support for India's hosting of the BRICS summit and will fully support China in assuming the BRICS chairmanship next year, he said. Modi said India is ready to closely coordinate and cooperate with China to jointly strengthen cooperation among Global South countries, promote a more {{22}} world and global economic growth, and serve as a force for stability and progress in a turbulent world.",
           "cn": "他补充说，双方应共同努力维护边境地区的和平安宁。他说，印度感谢中国支持印度主办金砖峰会，并将全力支持中国明年担任金砖轮值主席国。莫迪表示，印度愿同中国密切协调配合，共同加强全球南方国家合作，推动世界多极化和全球经济增长，在动荡世界中成为稳定和进步的力量。"
         }
       ],
@@ -375,7 +723,7 @@
         {
           "id": 3,
           "answer": "perspective",
-          "hint": "n. 视角，角度",
+          "hint": "n. 视角；角度",
           "difficulty": "medium"
         },
         {
@@ -386,447 +734,121 @@
         },
         {
           "id": 5,
-          "answer": "Institutional",
-          "hint": "adj. 机制性的，制度的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
           "answer": "resumed",
           "hint": "v. 恢复",
           "difficulty": "medium"
         },
         {
-          "id": 7,
+          "id": 6,
           "answer": "cherished",
           "hint": "v. 珍惜",
           "difficulty": "hard"
         },
         {
-          "id": 8,
+          "id": 7,
           "answer": "turbulent",
           "hint": "adj. 动荡的",
           "difficulty": "hard"
         },
         {
-          "id": 9,
+          "id": 8,
           "answer": "populous",
           "hint": "adj. 人口众多的",
           "difficulty": "hard"
         },
         {
-          "id": 10,
+          "id": 9,
           "answer": "prosperity",
           "hint": "n. 繁荣",
           "difficulty": "medium"
         },
         {
+          "id": 10,
+          "answer": "rational",
+          "hint": "adj. 理性的",
+          "difficulty": "medium"
+        },
+        {
           "id": 11,
-          "answer": "Underscoring",
-          "hint": "v. 强调",
+          "answer": "calibrating",
+          "hint": "v. 校准；调整",
           "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "calibrating",
-          "hint": "v. 校准，调整",
-          "difficulty": "hard"
+          "answer": "rivals",
+          "hint": "n. 对手",
+          "difficulty": "easy"
         },
         {
           "id": 13,
-          "answer": "rivals",
-          "hint": "n. 对手，竞争者",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
           "answer": "denominator",
-          "hint": "n. 公约数",
+          "hint": "n. 共同点；分母",
           "difficulty": "hard"
         },
         {
-          "id": 15,
+          "id": 14,
           "answer": "beneficial",
-          "hint": "adj. 互利的，有益的",
+          "hint": "adj. 互利的",
           "difficulty": "medium"
         },
         {
-          "id": 16,
+          "id": 15,
           "answer": "disruptions",
-          "hint": "n. 干扰，破坏",
+          "hint": "n. 干扰；破坏",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "tranquility",
+          "hint": "n. 安宁",
           "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "tranquility",
-          "hint": "n. 安宁，平静",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
           "answer": "inclusiveness",
           "hint": "n. 包容性",
           "difficulty": "hard"
         },
         {
-          "id": 19,
+          "id": 18,
           "answer": "coordination",
           "hint": "n. 协调",
           "difficulty": "medium"
         },
         {
-          "id": 20,
+          "id": 19,
           "answer": "unequivocally",
           "hint": "adv. 明确无误地",
           "difficulty": "hard"
         },
         {
-          "id": 21,
+          "id": 20,
           "answer": "adheres",
-          "hint": "v. 坚持，遵守",
+          "hint": "v. 坚持；遵守",
           "difficulty": "hard"
         },
         {
-          "id": 22,
+          "id": 21,
           "answer": "mutual",
           "hint": "adj. 相互的",
           "difficulty": "easy"
         },
         {
-          "id": 23,
-          "answer": "safeguard",
-          "hint": "v. 维护，保护",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "assuming",
-          "hint": "v. 担任，承担",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
+          "id": 22,
           "answer": "multipolar",
           "hint": "adj. 多极的",
           "difficulty": "hard"
         },
         {
-          "id": 26,
-          "answer": "stability",
-          "hint": "n. 稳定",
-          "difficulty": "easy"
-        },
-        {
-          "id": 27,
-          "answer": "coordinate",
-          "hint": "v. 协调",
+          "id": 23,
+          "answer": "safeguard",
+          "hint": "v. 维护；捍卫",
           "difficulty": "medium"
         }
       ],
       "fullText": "Chinese President Xi Jinping and Indian Prime Minister Narendra Modi conducted here on Saturday a candid and in-depth exchange of views, and reached important consensus that China and India should be partners.\nThe two leaders met on the sidelines of the 18th BRICS Summit in New Delhi.\nXi said China has always viewed and developed its relations with India from a strategic height and with a long-term perspective.\nXi noted that he has met with Modi twice over the past two years, guiding bilateral relations from a new start to a further improvement.\nInstitutional exchanges between the two countries have gradually resumed, the list of areas of cooperation has continued to grow, and bilateral trade has reached a new record high, Xi added.\nXi said such hard-won progress should be cherished. Noting that China and India have different national conditions, Xi said they can draw on each other's strengths, support one another, help each other succeed and pursue common development.\nAmid a turbulent international landscape, China and India, as the world's two most populous countries and important members of the Global South, shoulder important responsibilities, Xi said.\nXi called on the two sides to keep in mind the future of humanity and the well-being of peoples, work together to promote high-quality development of greater BRICS cooperation, and contribute more positive energy to world peace, stability, development and prosperity.\nUnderscoring objective and rational strategic perception in calibrating China-India relations, Xi said China and India are partners for cooperation, not rivals. The two countries provide development opportunities for each other rather than pose threats to each other, he added.\nThat is a strategic judgment based on the development stages of the two countries and the international environment, and serves the common interests of both countries and their peoples, Xi said.\nXi called on both sides to help each other succeed through win-win cooperation.\nThe two sides, Xi said, should focus on development as their greatest common denominator, while strengthening friendly exchanges and mutually beneficial cooperation.\nHe called on the two sides to expand cooperation in people-to-people exchanges, direct flights and other areas to effectively strengthen the public support for bilateral relations.\nThe two sides should also balance and address each other's economic and trade concerns, and promote a sound and stable development of bilateral economic and trade ties, Xi added.\nXi called on China and India to draw on political wisdom of mutual respect and understanding to overcome disruptions, urging both sides to pursue parallel progress in bilateral ties and border issues with the two tracks reinforcing each other, so as to maintain peace and tranquility in border areas.\nHe also urged China and India to promote multilateral cooperation with openness and inclusiveness to benefit the world.\nXi said the two countries should support each other as rotating chair of the BRICS, strengthen coordination within such multilateral frameworks as the United Nations, the Shanghai Cooperation Organization and the Group of 20, stand together in addressing global challenges, and unequivocally uphold international fairness and justice.\nModi said he has held several productive meetings with Xi, guiding India-China relations toward a positive direction, which serves the common interests of the more than 2.8 billion people of both countries.\nThe two major civilizations of India and China have, over thousands of years, learned from each other through exchanges and moved forward hand in hand, he said.\nIndia always views India-China relations from a strategic height and a long-term perspective, and is willing to be a partner rather than a rival to China, and to regard each other's development as an opportunity rather than a challenge, he noted.\nIndia adheres to an independent foreign policy, and the development of its relations with China is not subject to the influence of any third party, he said.\nIndia's policy and position on the issues related to Taiwan and Xizang remain unchanged, and it does not allow any force to engage in anti-China activities in India, he said.\nIndia is ready to maintain high-level exchanges with China on the basis of mutual respect and mutual trust, strengthen strategic communication, promote mutually beneficial cooperation, and enhance people-to-people exchanges, so as to advance bilateral relations to greater heights, Modi said.\nThe two sides should work together to safeguard peace and tranquility in the border areas, he added.\nIndia thanked China for its support for India's hosting of the BRICS summit and will fully support China in assuming the BRICS chairmanship next year, he said.\nModi said India is ready to closely coordinate and cooperate with China to jointly strengthen cooperation among Global South countries, promote a more multipolar world and global economic growth, and serve as a force for stability and progress in a turbulent world.",
-      "fullTextCn": "中国国家主席习近平与印度总理纳伦德拉·莫迪周六在此间进行了坦诚深入的意见交换，并达成重要共识：中国和印度应当成为合作伙伴。两位领导人在新德里第十八届金砖国家峰会期间举行了会晤。习近平表示，中国始终从战略高度和长远角度看待和发展与印度的关系。习近平指出，过去两年他两次与莫迪会面，引领双边关系从新起点走向进一步改善。两国之间的机制性交流逐步恢复，合作领域清单持续扩大，双边贸易额再创历史新高，习近平补充道。\n\n习近平表示，这些来之不易的进展应当倍加珍惜。习近平指出，中印两国国情不同，但可以互学互鉴、相互支持、彼此成就、共谋发展。习近平说，在国际形势动荡不安的背景下，中印作为世界上人口最多的两个国家和全球南方的重要成员，肩负着重要责任。习近平呼吁双方胸怀人类未来和人民福祉，共同推动大金砖合作高质量发展，为世界和平、稳定、发展与繁荣贡献更多正能量。习近平强调，要以客观理性的战略认知校准中印关系，中印是合作伙伴，而非对手。\n\n他补充说，两国互为发展机遇而非彼此威胁。习近平表示，这是基于两国发展阶段和国际环境作出的战略判断，符合两国和两国人民的共同利益。习近平呼吁双方通过合作共赢彼此成就。习近平说，双方应聚焦发展这一最大公约数，同时加强友好交流和互利合作。他呼吁双方拓展人文交流、直航等领域的合作，切实夯实双边关系的民意基础。\n\n习近平补充说，双方还应平衡解决彼此经贸关切，推动双边经贸关系健康稳定发展。习近平呼吁中印以相互尊重和理解的的政治智慧克服干扰，敦促双方推动双边关系和边界问题两条轨道并行推进、相互促进，以维护边境地区的和平安宁。他还敦促中印以开放包容的态度推进多边合作，造福世界。习近平表示，两国应相互支持彼此担任金砖轮值主席国，加强在联合国、上海合作组织、二十国集团等多边框架内的协调，携手应对全球性挑战，坚定维护国际公平正义。莫迪表示，他与习近平多次进行了富有成果的会晤，引领印中关系朝着积极方向发展，这符合两国28亿多人民的共同利益。\n\n他说，印度和中国这两大文明数千年来通过交流互学互鉴、携手前行。他表示，印度始终从战略高度和长远角度看待印中关系，愿做中国的合作伙伴而非对手，将彼此的发展视为机遇而非挑战。他说，印度奉行独立自主的外交政策，发展对华关系不受任何第三方影响。他说，印度在台湾和西藏相关问题上的政策和立场保持不变，不允许任何势力在印度从事反华活动。莫迪表示，印度愿在相互尊重、互相信任的基础上同中国保持高层交往，加强战略沟通，促进互利合作，增进人文交流，推动双边关系迈向更高水平。\n\n他补充说，双方应共同努力维护边境地区的和平安宁。他说，印度感谢中国支持印度主办金砖峰会，并将全力支持中国明年担任金砖轮值主席国。莫迪表示，印度愿同中国密切协调配合，共同加强全球南方国家合作，推动世界多极化和全球经济增长，在动荡世界中成为稳定和进步的力量。"
-    },
-    {
-      "id": 4,
-      "category": "military",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-08-31/Why-is-the-SCO-solution-for-global-governance-drawing-wide-attention--1Q3DZ0GAALe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Why is the SCO solution for global governance drawing wide attention?",
-      "titleCn": "为什么上合组织的全球治理方案受到广泛关注？",
-      "summary": "Why is the SCO solution for global governance drawing wide attention?",
-      "summaryCn": "一项覆盖48国13707名受访者的民调显示，国际社会普遍认可上海合作组织25年来在务实合作、全球治理和推动全球南方国家发声等方面的贡献，并期待其在基础设施、地区安全和气候变化等领域发挥更大作用。",
-      "wordCount": 583,
-      "paragraphs": [
-        {
-          "en": "On the occasion of the 2026 Shanghai Cooperation Organization (SCO) Summit, a public‑opinion survey conducted by CGTN in collaboration with Renmin University of China through the Institute for International Communication in the New Era, among 13,707 respondents across 48 countries worldwide shows that 74.6% of respondents believe the SCO offers a {{0}} path for cooperation among countries with different systems and serves as an important force for advancing a new type of international relations and a community with a shared future for mankind. Bishkek City Hall, Kyrgyzstan. This year marks the 25th anniversary of the founding of the SCO. Over the past 25 years, trade volume between China and other SCO member states has risen from $12.1 billion in 2001 to $523.5 billion in 2025. Projects including the China‑Kyrgyzstan‑Uzbekistan Railway, the SCO Development Bank and the China‑Central Asia Gas Pipeline keep moving forward.",
-          "cn": "在2026年上海合作组织峰会召开之际，中国国际电视台（CGTN）与中国人民大学新时代国际传播研究院合作开展的一项民意调查，覆盖全球48个国家的13707名受访者，结果显示74.6%的受访者认为上合组织为不同制度国家之间的合作提供了务实路径，是推动新型国际关系和人类命运共同体的重要力量。吉尔吉斯斯坦比什凯克市政厅。今年是上合组织成立25周年。过去25年间，中国与其他上合组织成员国之间的贸易额从2001年的121亿美元增长至2025年的5235亿美元。中吉乌铁路、上合组织开发银行和中国—中亚天然气管道等项目持续推进。"
-        },
-        {
-          "en": "The survey indicates global respondents hold positive views on the SCO's pragmatic cooperation outcomes across various sectors over its 25‑year history. They note that the organization's international influence has grown markedly in three priority areas: trade {{1}}, investment and financing cooperation, as well as cultural exchanges and tourism. Among respondents from SCO member states and dialogue partners, 75.4% state that the \"Shanghai Spirit\" provides a cooperation framework rooted in mutual trust, mutual benefit, equality, consultation, respect for diverse civilizations and pursuit of common development. Meanwhile, 71.7% of respondents believe the SCO has {{2}} the voice of Global South countries and advanced the building of a fairer and more reasonable global governance system. As a founding member of the SCO, China has consistently linked its own development to that of the SCO, and to the {{3}} of peoples of all member states for a better life.",
-          "cn": "调查表明，全球受访者对上合组织25年来在各领域取得的务实合作成果持积极看法。他们指出，该组织在国际影响力方面于三个优先领域显著增长：贸易便利化、投资与融资合作，以及文化交流与旅游。在上合组织成员国和对话伙伴的受访者中，75.4%表示“上海精神”提供了以互信、互利、平等、协商、尊重多样文明、谋求共同发展为基础的合作框架。同时，71.7%的受访者认为上合组织放大了全球南方国家的声音，推动了更加公平合理的全球治理体系建设。作为上合组织创始成员国，中国始终将自身发展同上合组织发展、同各成员国人民对美好生活的向往联系在一起。"
-        },
-        {
-          "en": "To date, China's investment in other member states has kept {{4}}. In 2025, China's direct investment across all industries stood at $3.3 billion, covering oil and gas, mineral resources, {{5}}, new energy, automobiles, chemicals and other sectors. China has also invested in building more than 30 economic and trade cooperation zones, helping {{6}} countries boost industrial capacity and driving local economic growth and employment. Survey respondents spoke highly of China's philosophy and contributions to building an SCO community with a shared future, and widely recognized China's most {{7}} contributions in three {{8}}: advancing regional economic cooperation, promoting security cooperation among member states, and providing development assistance and financial support. In addition, 76.2% of respondents believe that the China-proposed Belt and Road Initiative has fostered a new landscape of {{9}} and integrated global development, and 73.5% note that the Global Governance Initiative points the way for Global South countries to participate in reform of the global governance system.",
-          "cn": "迄今为止，中国对其他成员国的投资持续扩大。2025年，中国全行业直接投资额为33亿美元，涵盖石油天然气、矿产资源、基础设施、新能源、汽车、化工等领域。中国还投资建设了30多个经贸合作区，帮助受援国提升工业产能，带动当地经济增长和就业。受访者高度评价中国构建上合组织命运共同体的理念和贡献，并广泛认可中国在三个维度上最突出的贡献：推进区域经济合作、促进成员国安全合作，以及提供发展援助和资金支持。此外，76.2%的受访者认为中国提出的“一带一路”倡议开创了互联互通的全球发展新格局，73.5%的受访者指出全球治理倡议为全球南方国家参与全球治理体系改革指明了方向。"
-        },
-        {
-          "en": "Today, the SCO has grown into a {{10}} regional cooperation organization boasting the world's largest {{11}} coverage, biggest population and enormous development potential. As a key force driving transformation of the global governance system, the SCO is playing an increasingly vital role in practicing true {{12}}, advocating equal‑and‑orderly world multipolarization and {{13}}‑for‑all economic globalization, and has drawn wide international attention. According to the survey, 89.6% of respondents call on all countries to participate in global affairs on an equal footing and jointly shape international rules and order. They expect the SCO to {{14}} greater influence in three major fields: infrastructure and energy, regional security cooperation, and environment and climate change. Covering major developed countries and Global South nations, this survey targeted ordinary people aged 18 and above, with samples {{15}} with national census‑based age‑and‑gender distributions in respective countries.",
-          "cn": "如今，上合组织已发展成为一个拥有世界最大领土覆盖面积、最多人口和巨大发展潜力的综合性区域合作组织。作为推动全球治理体系变革的关键力量，上合组织在践行真正的多边主义、倡导平等有序的世界多极化和普惠包容的经济全球化方面发挥着日益重要的作用，受到国际社会广泛关注。调查显示，89.6%的受访者呼吁各国平等参与全球事务，共同塑造国际规则和秩序。他们期待上合组织在三大领域发挥更大影响力：基础设施与能源、地区安全合作，以及环境与气候变化。本次调查覆盖主要发达国家和全球南方国家，面向18岁及以上普通民众，样本与各国基于人口普查的年龄和性别分布保持一致。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "pragmatic",
-          "hint": "adj. 务实的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "facilitation",
-          "hint": "n. 便利化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 2,
-          "answer": "amplified",
-          "hint": "v. 放大，增强",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "aspiration",
-          "hint": "n. 渴望，愿望",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "expanding",
-          "hint": "v. 扩大，扩展",
-          "difficulty": "easy"
-        },
-        {
-          "id": 5,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "recipient",
-          "hint": "n. 接受方，受援国",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "remarkable",
-          "hint": "adj. 显著的，卓越的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "dimensions",
-          "hint": "n. 维度，方面",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "interconnected",
-          "hint": "adj. 互联互通的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "comprehensive",
-          "hint": "adj. 综合性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "territorial",
-          "hint": "adj. 领土的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "multilateralism",
-          "hint": "n. 多边主义",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "inclusive",
-          "hint": "adj. 包容的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "exert",
-          "hint": "v. 施加，发挥",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "aligned",
-          "hint": "v. 使一致，对齐",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "On the occasion of the 2026 Shanghai Cooperation Organization (SCO) Summit, a public‑opinion survey conducted by CGTN in collaboration with Renmin University of China through the Institute for International Communication in the New Era, among 13,707 respondents across 48 countries worldwide shows that 74.6% of respondents believe the SCO offers a pragmatic path for cooperation among countries with different systems and serves as an important force for advancing a new type of international relations and a community with a shared future for mankind.\nBishkek City Hall, Kyrgyzstan. \nThis year marks the 25th anniversary of the founding of the SCO. Over the past 25 years, trade volume between China and other SCO member states has risen from $12.1 billion in 2001 to $523.5 billion in 2025.\nProjects including the China‑Kyrgyzstan‑Uzbekistan Railway, the SCO Development Bank and the China‑Central Asia Gas Pipeline keep moving forward.\nThe survey indicates global respondents hold positive views on the SCO's pragmatic cooperation outcomes across various sectors over its 25‑year history.\nThey note that the organization's international influence has grown markedly in three priority areas: trade facilitation, investment and financing cooperation, as well as cultural exchanges and tourism.\nAmong respondents from SCO member states and dialogue partners, 75.4% state that the \"Shanghai Spirit\" provides a cooperation framework rooted in mutual trust, mutual benefit, equality, consultation, respect for diverse civilizations and pursuit of common development.\nMeanwhile, 71.7% of respondents believe the SCO has amplified the voice of Global South countries and advanced the building of a fairer and more reasonable global governance system.\nAs a founding member of the SCO, China has consistently linked its own development to that of the SCO, and to the aspiration of peoples of all member states for a better life. To date, China's investment in other member states has kept expanding.\nIn 2025, China's direct investment across all industries stood at $3.3 billion, covering oil and gas, mineral resources, infrastructure, new energy, automobiles, chemicals and other sectors.\nChina has also invested in building more than 30 economic and trade cooperation zones, helping recipient countries boost industrial capacity and driving local economic growth and employment.\nSurvey respondents spoke highly of China's philosophy and contributions to building an SCO community with a shared future, and widely recognized China's most remarkable contributions in three dimensions: advancing regional economic cooperation, promoting security cooperation among member states, and providing development assistance and financial support.\nIn addition, 76.2% of respondents believe that the China-proposed Belt and Road Initiative has fostered a new landscape of interconnected and integrated global development, and 73.5% note that the Global Governance Initiative points the way for Global South countries to participate in reform of the global governance system.\nToday, the SCO has grown into a comprehensive regional cooperation organization boasting the world's largest territorial coverage, biggest population and enormous development potential.\nAs a key force driving transformation of the global governance system, the SCO is playing an increasingly vital role in practicing true multilateralism, advocating equal‑and‑orderly world multipolarization and inclusive‑for‑all economic globalization, and has drawn wide international attention.\nAccording to the survey, 89.6% of respondents call on all countries to participate in global affairs on an equal footing and jointly shape international rules and order.\nThey expect the SCO to exert greater influence in three major fields: infrastructure and energy, regional security cooperation, and environment and climate change.\nCovering major developed countries and Global South nations, this survey targeted ordinary people aged 18 and above, with samples aligned with national census‑based age‑and‑gender distributions in respective countries.",
-      "fullTextCn": "在2026年上海合作组织峰会召开之际，中国国际电视台（CGTN）与中国人民大学新时代国际传播研究院合作开展的一项民意调查，覆盖全球48个国家的13707名受访者，结果显示74.6%的受访者认为上合组织为不同制度国家之间的合作提供了务实路径，是推动新型国际关系和人类命运共同体的重要力量。吉尔吉斯斯坦比什凯克市政厅。今年是上合组织成立25周年。过去25年间，中国与其他上合组织成员国之间的贸易额从2001年的121亿美元增长至2025年的5235亿美元。中吉乌铁路、上合组织开发银行和中国—中亚天然气管道等项目持续推进。\n\n调查表明，全球受访者对上合组织25年来在各领域取得的务实合作成果持积极看法。他们指出，该组织在国际影响力方面于三个优先领域显著增长：贸易便利化、投资与融资合作，以及文化交流与旅游。在上合组织成员国和对话伙伴的受访者中，75.4%表示“上海精神”提供了以互信、互利、平等、协商、尊重多样文明、谋求共同发展为基础的合作框架。同时，71.7%的受访者认为上合组织放大了全球南方国家的声音，推动了更加公平合理的全球治理体系建设。作为上合组织创始成员国，中国始终将自身发展同上合组织发展、同各成员国人民对美好生活的向往联系在一起。\n\n迄今为止，中国对其他成员国的投资持续扩大。2025年，中国全行业直接投资额为33亿美元，涵盖石油天然气、矿产资源、基础设施、新能源、汽车、化工等领域。中国还投资建设了30多个经贸合作区，帮助受援国提升工业产能，带动当地经济增长和就业。受访者高度评价中国构建上合组织命运共同体的理念和贡献，并广泛认可中国在三个维度上最突出的贡献：推进区域经济合作、促进成员国安全合作，以及提供发展援助和资金支持。此外，76.2%的受访者认为中国提出的“一带一路”倡议开创了互联互通的全球发展新格局，73.5%的受访者指出全球治理倡议为全球南方国家参与全球治理体系改革指明了方向。\n\n如今，上合组织已发展成为一个拥有世界最大领土覆盖面积、最多人口和巨大发展潜力的综合性区域合作组织。作为推动全球治理体系变革的关键力量，上合组织在践行真正的多边主义、倡导平等有序的世界多极化和普惠包容的经济全球化方面发挥着日益重要的作用，受到国际社会广泛关注。调查显示，89.6%的受访者呼吁各国平等参与全球事务，共同塑造国际规则和秩序。他们期待上合组织在三大领域发挥更大影响力：基础设施与能源、地区安全合作，以及环境与气候变化。本次调查覆盖主要发达国家和全球南方国家，面向18岁及以上普通民众，样本与各国基于人口普查的年龄和性别分布保持一致。"
-    },
-    {
-      "id": 5,
-      "category": "military",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-11/China-calls-for-political-settlement-of-Iranian-nuclear-issue-1QlhIWkpUvC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "China calls for political settlement of Iranian nuclear issue",
-      "titleCn": "中国呼吁政治解决伊朗核问题",
-      "summary": "A Chinese envoy on Thursday called for the political settlement of the Iranian nuclear issue through diplomacy.",
-      "summaryCn": "中国常驻联合国副代表孙磊在安理会就伊朗核问题举行的通报会上呼吁有关各方放弃使用或威胁使用武力，通过政治外交途径解决伊朗核问题，并批评美国退出伊核协议等行为是当前局势复杂难解的主要原因。",
-      "wordCount": 615,
-      "paragraphs": [
-        {
-          "en": "Repeated {{0}} in the Middle East have caused serious harm and losses to the peoples of countries in the region, including Iran, while the {{1}} effects continue to expand, {{2}} the common interests of the international community, said Sun Lei, China's deputy permanent representative to the United Nations. The parties concerned should {{3}} the use or threat of force, {{4}} {{8}} of the US-Iran Memorandum of Understanding as soon as possible, and bring the Iranian nuclear issue back onto the track of a political and diplomatic solution, he said at a UN Security Council briefing on the issue. The US {{5}} from the Iran nuclear deal, its military action against Iran while negotiations were ongoing, and its policy of maximum pressure against that country are the main causes of the current complexity and {{6}} of the situation in the Middle East and the Iranian nuclear issue, said Sun. \"The United States should make a clear commitment not to use force again, engage in {{7}} negotiations with Iran, and ensure the effective implementation of any future agreement,\" he said. The parties concerned should handle their relations on the basis of equality and mutual respect, work to ease the current situation, and explore a comprehensive solution, he added. Sun said that the Iranian nuclear issue must be handled without double standards and with full respect for the {{9}} rights and interests of the parties concerned.",
-          "cn": "中国常驻联合国副代表孙磊表示，中东地区反复发生的敌对行动给包括伊朗在内的地区各国人民造成了严重伤害和损失，其外溢效应不断扩散，损害了国际社会的共同利益。他在联合国安理会就伊朗核问题举行的通报会上说，有关各方应放弃使用或威胁使用武力，尽快恢复执行美伊谅解备忘录，使伊朗核问题回到政治外交解决的轨道上来。孙磊表示，美国退出伊核协议、在谈判进行期间对伊朗采取军事行动，以及对伊朗实施极限施压政策，是当前中东局势和伊朗核问题复杂难解的主要原因。他说：“美国应明确承诺不再使用武力，与伊朗进行真诚谈判，并确保未来达成的任何协议得到有效执行。”他补充说，有关各方应在平等和相互尊重的基础上处理彼此关系，努力缓和当前局势，探索全面解决方案。孙磊表示，处理伊朗核问题不能搞双重标准，必须充分尊重有关各方的正当权利和利益。"
-        },
-        {
-          "en": "As a non-nuclear-weapon state party to the Treaty on the Non-Proliferation of Nuclear Weapons, Iran enjoys the legitimate right to the peaceful use of nuclear energy, he said, adding that China takes note of and {{10}} Iran's repeated commitment to not developing nuclear weapons. China supports the United States and Iran in properly resolving their differences through rational and {{11}} negotiations, ensuring that Iran conducts peaceful nuclear activities in an orderly manner, and preventing any risk of nuclear {{12}}, Sun said. \"{{13}} the historical context of the Iranian nuclear issue, {{14}} the difficulties Iran faces in restoring safeguards and verification, insisting on pushing for the re-imposition of {{15}} against Iran in the Security Council, and forcing the Council to {{16}} in the Iranian nuclear issue will not help the parties build trust or bridge differences,\" he said. \"Under the current circumstances, the Security Council should play a {{17}} role and foster a positive and enabling atmosphere for dialogue and negotiations. Certain members should stop using the Security Council to advance their own political agendas and avoid creating new {{18}} to the political {{19}} of the Iranian nuclear issue.\"\nHe said that China has always stood on the side of peace, on the side of dialogue, and on the right side of history. As a participant in the Iran nuclear deal and a permanent member of the Security Council, China will continue to work with all parties and make {{20}} efforts to advance the political settlement of the Iranian nuclear issue, uphold the international nuclear non-proliferation {{21}}, and promote peace and stability in the Middle East, said Sun.",
-          "cn": "他说，作为《不扩散核武器条约》的无核武器缔约国，伊朗享有和平利用核能的正当权利，中方注意到并肯定伊朗多次作出的不发展核武器的承诺。孙磊表示，中国支持美国和伊朗通过理性务实的谈判妥善解决分歧，确保伊朗有序开展和平核活动，防止任何核扩散风险。他说：“歪曲伊朗核问题的历史背景，无视伊朗在恢复保障监督与核查方面面临的困难，坚持推动安理会对伊朗重新实施制裁，并迫使安理会介入伊朗核问题，无助于各方建立信任、弥合分歧。”“在当前形势下，安理会应发挥建设性作用，为对话和谈判营造积极有利的氛围。某些成员应停止利用安理会推进自身政治议程，避免为伊朗核问题的政治解决制造新的障碍。”"
-        },
-        {
-          "en": "Raising a point of order before the briefing, Anna Evstigneeva, Russia's deputy permanent representative to the United Nations, said Russia was opposed to the {{22}} of the meeting. Resolution 2231, which endorsed the Iran nuclear deal, expired on October 18, 2025, and the Iranian nuclear issue was removed from the agenda of the Security Council, she noted. The mechanism for reinstating earlier Security Council resolutions over the Iranian nuclear issue was not triggered for a number of legal and {{23}} reasons, she said. Evstigneeva demanded a procedural vote. Sun also spoke to register China's opposition to the convening of the meeting. In the procedural vote, Russia and China voted against the convening of the meeting.",
-          "cn": "他说，中国始终站在和平一边、站在对话一边、站在历史正确一边。孙磊表示，作为伊核协议的参与方和安理会常任理事国，中国将继续与各方一道，为推动伊朗核问题政治解决、维护国际核不扩散体系、促进中东和平稳定作出不懈努力。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "hostilities",
-          "hint": "n. 敌对行动",
-          "difficulty": "hard"
-        },
-        {
-          "id": 1,
-          "answer": "spillover",
-          "hint": "n. 外溢效应",
-          "difficulty": "hard"
-        },
-        {
-          "id": 2,
-          "answer": "undermining",
-          "hint": "v. 损害，削弱",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "renounce",
-          "hint": "v. 放弃，声明放弃",
-          "difficulty": "hard"
-        },
-        {
-          "id": 4,
-          "answer": "resume",
-          "hint": "v. 恢复，重新开始",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "withdrawal",
-          "hint": "n. 退出，撤出",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "intractability",
-          "hint": "n. 难解，棘手",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "sincere",
-          "hint": "adj. 真诚的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "implementation",
-          "hint": "n. 执行，实施",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "legitimate",
-          "hint": "adj. 正当的，合法的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "affirms",
-          "hint": "v. 肯定，确认",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "pragmatic",
-          "hint": "adj. 务实的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "proliferation",
-          "hint": "n. 扩散",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "Distorting",
-          "hint": "v. 歪曲，扭曲",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "disregarding",
-          "hint": "v. 无视，不顾",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "sanctions",
-          "hint": "n. 制裁",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "intervene",
-          "hint": "v. 干预，介入",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "constructive",
-          "hint": "adj. 建设性的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "obstacles",
-          "hint": "n. 障碍",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "settlement",
-          "hint": "n. 解决",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "unremitting",
-          "hint": "adj. 不懈的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "regime",
-          "hint": "n. 制度，体系",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "convening",
-          "hint": "n./v. 召开，召集",
-          "difficulty": "hard"
-        },
-        {
-          "id": 23,
-          "answer": "procedural",
-          "hint": "adj. 程序的",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "Repeated hostilities in the Middle East have caused serious harm and losses to the peoples of countries in the region, including Iran, while the spillover effects continue to expand, undermining the common interests of the international community, said Sun Lei, China's deputy permanent representative to the United Nations.\nThe parties concerned should renounce the use or threat of force, resume implementation of the US-Iran Memorandum of Understanding as soon as possible, and bring the Iranian nuclear issue back onto the track of a political and diplomatic solution, he said at a UN Security Council briefing on the issue.\nThe US withdrawal from the Iran nuclear deal, its military action against Iran while negotiations were ongoing, and its policy of maximum pressure against that country are the main causes of the current complexity and intractability of the situation in the Middle East and the Iranian nuclear issue, said Sun.\n\"The United States should make a clear commitment not to use force again, engage in sincere negotiations with Iran, and ensure the effective implementation of any future agreement,\" he said.\nThe parties concerned should handle their relations on the basis of equality and mutual respect, work to ease the current situation, and explore a comprehensive solution, he added.\nSun said that the Iranian nuclear issue must be handled without double standards and with full respect for the legitimate rights and interests of the parties concerned.\nAs a non-nuclear-weapon state party to the Treaty on the Non-Proliferation of Nuclear Weapons, Iran enjoys the legitimate right to the peaceful use of nuclear energy, he said, adding that China takes note of and affirms Iran's repeated commitment to not developing nuclear weapons.\nChina supports the United States and Iran in properly resolving their differences through rational and pragmatic negotiations, ensuring that Iran conducts peaceful nuclear activities in an orderly manner, and preventing any risk of nuclear proliferation, Sun said.\n\"Distorting the historical context of the Iranian nuclear issue, disregarding the difficulties Iran faces in restoring safeguards and verification, insisting on pushing for the re-imposition of sanctions against Iran in the Security Council, and forcing the Council to intervene in the Iranian nuclear issue will not help the parties build trust or bridge differences,\" he said.\n\"Under the current circumstances, the Security Council should play a constructive role and foster a positive and enabling atmosphere for dialogue and negotiations. Certain members should stop using the Security Council to advance their own political agendas and avoid creating new obstacles to the political settlement of the Iranian nuclear issue.\"\nHe said that China has always stood on the side of peace, on the side of dialogue, and on the right side of history.\nAs a participant in the Iran nuclear deal and a permanent member of the Security Council, China will continue to work with all parties and make unremitting efforts to advance the political settlement of the Iranian nuclear issue, uphold the international nuclear non-proliferation regime, and promote peace and stability in the Middle East, said Sun.\nRaising a point of order before the briefing, Anna Evstigneeva, Russia's deputy permanent representative to the United Nations, said Russia was opposed to the convening of the meeting.\nResolution 2231, which endorsed the Iran nuclear deal, expired on October 18, 2025, and the Iranian nuclear issue was removed from the agenda of the Security Council, she noted.\nThe mechanism for reinstating earlier Security Council resolutions over the Iranian nuclear issue was not triggered for a number of legal and procedural reasons, she said.\nEvstigneeva demanded a procedural vote. Sun also spoke to register China's opposition to the convening of the meeting. In the procedural vote, Russia and China voted against the convening of the meeting.",
-      "fullTextCn": "中国常驻联合国副代表孙磊表示，中东地区反复发生的敌对行动给包括伊朗在内的地区各国人民造成了严重伤害和损失，其外溢效应不断扩散，损害了国际社会的共同利益。他在联合国安理会就伊朗核问题举行的通报会上说，有关各方应放弃使用或威胁使用武力，尽快恢复执行美伊谅解备忘录，使伊朗核问题回到政治外交解决的轨道上来。孙磊表示，美国退出伊核协议、在谈判进行期间对伊朗采取军事行动，以及对伊朗实施极限施压政策，是当前中东局势和伊朗核问题复杂难解的主要原因。他说：“美国应明确承诺不再使用武力，与伊朗进行真诚谈判，并确保未来达成的任何协议得到有效执行。”他补充说，有关各方应在平等和相互尊重的基础上处理彼此关系，努力缓和当前局势，探索全面解决方案。孙磊表示，处理伊朗核问题不能搞双重标准，必须充分尊重有关各方的正当权利和利益。\n\n他说，作为《不扩散核武器条约》的无核武器缔约国，伊朗享有和平利用核能的正当权利，中方注意到并肯定伊朗多次作出的不发展核武器的承诺。孙磊表示，中国支持美国和伊朗通过理性务实的谈判妥善解决分歧，确保伊朗有序开展和平核活动，防止任何核扩散风险。他说：“歪曲伊朗核问题的历史背景，无视伊朗在恢复保障监督与核查方面面临的困难，坚持推动安理会对伊朗重新实施制裁，并迫使安理会介入伊朗核问题，无助于各方建立信任、弥合分歧。”“在当前形势下，安理会应发挥建设性作用，为对话和谈判营造积极有利的氛围。某些成员应停止利用安理会推进自身政治议程，避免为伊朗核问题的政治解决制造新的障碍。”\n\n他说，中国始终站在和平一边、站在对话一边、站在历史正确一边。孙磊表示，作为伊核协议的参与方和安理会常任理事国，中国将继续与各方一道，为推动伊朗核问题政治解决、维护国际核不扩散体系、促进中东和平稳定作出不懈努力。\n\n在通报会开始前，俄罗斯常驻联合国副代表安娜·叶夫斯季格涅耶娃提出程序问题，表示俄罗斯反对召开此次会议。她指出，核可伊核协议的第2231号决议已于2025年10月18日到期，伊朗核问题已从安理会议程中移除。她说，由于若干法律和程序方面的原因，恢复此前安理会有关伊朗核问题决议的机制并未被触发。叶夫斯季格涅耶娃要求进行程序性表决。孙磊也发言表示中国反对召开此次会议。在程序性表决中，俄罗斯和中国投票反对召开此次会议。"
+      "fullTextCn": "中国国家主席习近平与印度总理纳伦德拉·莫迪周六在此间进行了坦诚深入的意见交换，并达成重要共识：中国和印度应当成为合作伙伴。两位领导人在新德里举行的金砖国家领导人第十八次会晤期间举行了会晤。习近平表示，中国始终从战略高度和长远角度看待和发展同印度的关系。习近平指出，过去两年他同莫迪两次会晤，引领双边关系从新起点走向进一步改善。两国机制性交往逐步恢复，合作领域清单不断拉长，双边贸易额再创新高，习近平补充道。\n\n习近平表示，这些来之不易的进展应当倍加珍惜。习近平指出，中印国情不同，但可以互学互鉴、相互支持、相互成就，实现共同发展。习近平表示，在国际形势动荡不安的背景下，中印作为世界上两个人口最多的国家和全球南方的重要成员，肩负着重要责任。习近平呼吁双方胸怀人类前途和人民福祉，共同推动大金砖合作高质量发展，为世界和平、稳定、发展、繁荣贡献更多正能量。习近平强调，要以客观理性的战略认知校准中印关系，中印是合作伙伴，而不是对手。\n\n他补充说，两国相互提供发展机遇，而不是相互构成威胁。习近平表示，这是基于两国发展阶段和国际环境作出的战略判断，符合两国和两国人民的共同利益。习近平呼吁双方通过合作共赢相互成就。习近平说，双方应聚焦发展这一最大公约数，同时加强友好交流和互利合作。他呼吁双方扩大在人文交流、直航等领域的合作，切实夯实双边关系的民意基础。\n\n习近平补充说，双方还应平衡解决彼此经贸关切，推动双边经贸关系健康稳定发展。习近平呼吁中印以相互尊重、相互理解的政治智慧克服干扰，敦促双方推动双边关系和边界问题两条轨道并行推进、相互促进，以维护边境地区的和平安宁。他还敦促中印以开放包容推进多边合作，造福世界。习近平表示，两国应相互支持彼此担任金砖轮值主席国，加强在联合国、上海合作组织、二十国集团等多边框架内的协调，携手应对全球性挑战，坚定维护国际公平正义。莫迪表示，他同习近平多次进行了富有成果的会晤，引领印中关系朝着积极方向发展，这符合两国28亿多人民的共同利益。\n\n他说，印度和中国两大文明数千年来互学互鉴、携手前行。他表示，印度始终从战略高度和长远角度看待印中关系，愿做中国的合作伙伴而非对手，把彼此的发展视为机遇而非挑战。他说，印度奉行独立自主的外交政策，发展对华关系不受任何第三方影响。他说，印度在涉台、涉藏问题上的政策和立场没有变化，不允许任何势力在印度从事反华活动。莫迪表示，印度愿在相互尊重、相互信任的基础上同中国保持高层交往，加强战略沟通，推进互利合作，增进人文交流，推动双边关系迈上更高水平。\n\n他补充说，双方应共同努力维护边境地区的和平安宁。他说，印度感谢中国支持印度主办金砖峰会，并将全力支持中国明年担任金砖轮值主席国。莫迪表示，印度愿同中国密切协调配合，共同加强全球南方国家合作，推动世界多极化和全球经济增长，在动荡世界中成为稳定和进步的力量。"
     }
   ]
 }
