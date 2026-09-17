@@ -1,904 +1,948 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "articles": [
     {
       "id": 1,
-      "category": "society",
+      "category": "military",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-03/Glaciers-From-victims-to-sources-of-disaster-1Q80QD2JoIw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Glaciers: From 'victims' to sources of disaster",
-      "titleCn": "冰川：从气候变化的“受害者”到灾害的源头",
-      "summary": "Glaciers: From 'victims' to sources of disaster",
-      "summaryCn": "随着全球变暖加剧，冰川正从气候变化的受害者转变为跨境灾害链的起点，而现有的监测与预警体系在预测冰川灾害方面仍面临巨大挑战。",
-      "wordCount": 1376,
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-10/Norway-seeks-deeper-cooperation-with-China-1QjN1v0J1QI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Norway seeks deeper cooperation with China",
+      "titleCn": "挪威寻求与中国深化合作",
+      "summary": "Norway seeks deeper cooperation with China",
+      "summaryCn": "挪威以主宾国身份参加2024年中国国际服务贸易交易会，寻求在绿色航运、海洋能源和数字技术等领域与中国深化合作，从单纯的产品贸易转向知识、技术和综合解决方案的长期伙伴关系。",
+      "wordCount": 1272,
       "paragraphs": [
         {
-          "en": "They are melting. They are {{0}}. Satellites and cameras record their decline. Glaciers have become one of the most visible victims of global warming. But the recent disaster in the Himalayas offers a different warning: cross a certain {{1}}, and a glacier can become something else – the starting point of a chain of disasters.",
-          "cn": "它们正在融化，正在退缩。卫星和相机记录着它们的衰退。冰川已成为全球变暖最显著的受害者之一。但最近发生在喜马拉雅山脉的灾难发出了不同的警告：一旦越过某个临界点，冰川就可能变成另一种东西——一连串灾难的起点。"
+          "en": "h a coastline stretching for more than 100,000 kilometers, including its islands and fjords, Norway has developed deep {{0}} in the complex ocean and energy industries. For generations, the sea has shaped Norway's economy and identity, giving the country deep expertise in shipping, offshore industries and ocean technologies. China, meanwhile, has {{1}} as a global industrial powerhouse, leading the world in shipbuilding and playing a major role in energy and advanced manufacturing. As these industries become greener and smarter, demand is growing for new technologies and {{2}} expertise. For Norway, this opens a new avenue for cooperation with China, bringing not only products, but also knowledge, technology and digital solutions developed through decades of experience in demanding ocean and energy industries.",
+          "cn": "挪威拥有绵延超过10万公里的海岸线，包括众多岛屿和峡湾，在复杂的海洋和能源产业中积累了深厚的专业知识。世世代代以来，海洋塑造了挪威的经济和身份认同，赋予该国在航运、近海产业和海洋技术方面的深厚专长。与此同时，中国已崛起为全球工业强国，在造船领域领先世界，并在能源和先进制造业中发挥着重要作用。随着这些产业变得更加绿色和智能，对新技术和专业人才的需求不断增长。对挪威而言，这开辟了与中国合作的新途径，不仅带来产品，还带来数十年在严苛的海洋和能源产业中积累的知识、技术和数字解决方案。"
         },
         {
-          "en": "Rescuers conduct search and rescue operations in the hardest-hit area of the Gyirong Port, southwest China's Xizang Autonomous Region, September 2, 2026. That is what happened along the China-Nepal border. A rock-and-ice {{2}} that began high in the mountains developed into a debris flow within minutes, sweeping through the Gyirong border port downstream. How does a glacier make this transition – from a victim of climate change to a source of disaster? And can science help us prevent or {{3}} the damage?",
-          "cn": "2026年9月2日，救援人员在中国西南部西藏自治区吉隆口岸受灾最严重的地区开展搜救行动。这就是中尼边境沿线发生的事情。一场始于高山之上的岩石与冰雪崩在几分钟内演变为泥石流，席卷了下游的吉隆边境口岸。冰川是如何完成这一转变的——从气候变化的受害者变成灾害的源头？科学能否帮助我们预防或减轻损失？"
+          "en": "That opportunity comes into focus this year at the China International Fair for Trade in Services (CIFTIS), where Norway is the Guest Country of Honor. The event runs from September 9 to 13 in Beijing. At its national pavilion, Norwegian companies showcase services and solutions focusing on green energy, digital technology, healthy living products and premium nutrition. The ambition goes beyond selling individual products. Henning Kristoffersen, commercial counsellor at the Norwegian Embassy in China and director of Innovation Norway China, said Norwegian companies hope to move from offering individual products to providing more {{3}} solutions, and from one-off transactions to long-term cooperation.",
+          "cn": "这一机遇在今年中国国际服务贸易交易会上成为焦点，挪威是本届服贸会的主宾国。活动于9月9日至13日在北京举行。在挪威国家展馆，挪威企业展示了聚焦绿色能源、数字技术、健康生活产品和优质营养的服务与解决方案。其雄心不止于销售单个产品。挪威驻华大使馆商务参赞、挪威创新署中国区总监亨宁·克里斯托弗森表示，挪威企业希望从提供单个产品转向提供更全面的解决方案，从一次性交易转向长期合作。"
         },
         {
-          "en": "I spoke with Nie Yong, a disaster expert at the Institute of Mountain Hazards and Environment under the Chinese Academy of Sciences. His answer was {{4}}: we are becoming increasingly capable of seeing what is happening to glaciers, but we are still far from knowing exactly when one of them is about to fail. The last mile of disaster prediction\nA mobile phone earthquake early warning notification received by a resident in Suqian City, east China's Jiangsu Province, August 6, 2023. From several powerful typhoons making landfall in China this summer to countdown alerts appearing on people's phones before an earthquake, people in China have grown accustomed to expecting warnings when nature turns dangerous. That expectation is backed by real investments in science, technology and {{5}}.",
-          "cn": "我与中国科学院山地灾害与环境研究所的灾害专家聂勇进行了交谈。他的回答令人警醒：我们越来越有能力看到冰川正在发生什么，但我们仍然远不能确切知道某条冰川何时即将崩溃。灾害预测的最后一公里。2023年8月6日，中国东部江苏省宿迁市一位居民收到的手机地震预警通知。从今年夏天多个强台风登陆中国，到地震前人们手机上出现的倒计时警报，中国人已经习惯于在自然变得危险时期待收到预警。这种期待背后是对科学、技术和基础设施的实实在在的投入。"
+          "en": "China is Norway's most important trading partner in Asia. Kristoffersen said the two countries have {{4}} strengths in areas including maritime industries, energy and {{5}} development, while the CIFTIS offers a platform for Norwegian companies to expand their business networks and build long-term {{23}}. Greener shipping\nFor DNV, a Norwegian-founded risk management company, that cooperation has been taking shape for more than a century. It has had a presence in China for nearly 140 years, and its relationship with China's maritime industry began with ship inspection and {{6}} in 1888. It provided independent technical {{7}} to help ensure that vessels meet required standards.",
+          "cn": "中国是挪威在亚洲最重要的贸易伙伴。克里斯托弗森表示，两国在海事产业、能源和可持续发展等领域具有互补优势，而服贸会为挪威企业拓展商业网络、建立长期伙伴关系提供了平台。更绿色的航运——对于挪威创立的风险管理公司DNV而言，这种合作已经持续了一个多世纪。DNV在中国已有近140年的历史，其与中国海事产业的关系始于1888年的船舶检验和入级服务。它提供独立的技术评估，帮助确保船舶符合所需标准。"
         },
         {
-          "en": "Earthquakes and typhoons have relatively mature monitoring systems around the world and are among the areas that have received the most investment in disaster monitoring and early warning. Earthquake early warning, for example, takes advantage of a basic physical difference: electromagnetic signals travel much faster than {{6}} waves. Once an earthquake occurs, this allows warning information to be {{7}} to areas that have not yet been hit by strong shaking, potentially buying people seconds, tens of seconds or, in some cases, longer to react. However, glacier hazards are different. They do not have monitoring infrastructure on anything like the same scale.",
-          "cn": "地震和台风在全球范围内拥有相对成熟的监测系统，也是灾害监测和预警领域投入最多的方向之一。以地震预警为例，它利用了一个基本的物理差异：电磁信号的传播速度远快于地震波。一旦地震发生，这使得预警信息能够传送到尚未遭受强烈震动的地区，可能为人们争取到几秒、几十秒甚至更长的反应时间。然而，冰川灾害则不同。它们没有同等规模的监测基础设施。"
+          "en": "Today, however, this partnership extends far beyond inspecting ships. As international laws are demanding the ship industry searches for ways to cut {{8}}, and financiers are also paying greater attention to the environmental performance of vessels, DNV is increasingly working with Chinese shipbuilders and shipowners on designing and building the next generation of vessels. But the path toward greener shipping is far from {{9}}. There is no single alternative fuel suitable for every vessel and every shipping route. The choice depends on factors including the type of ship, where it operates and whether a particular fuel is available along its route.",
+          "cn": "然而如今，这种伙伴关系远不止于检验船舶。随着国际法规要求航运业寻找减少排放的方法，金融机构也越来越关注船舶的环境表现，DNV正越来越多地与中国造船企业和船东合作，设计和建造下一代船舶。但通往绿色航运的道路远非一帆风顺。没有一种替代燃料适合每一艘船和每一条航线。选择取决于船舶类型、运营区域以及航线上是否有特定燃料供应等因素。"
         },
         {
-          "en": "Nor do they offer such a clear-cut pathway from detection to warning. In fact, glacier hazards are not new to scientists. Since the 1950s, glacier collapse events have increased, while since around 2015, extensive cryospheric hazards have continued to be observed across the high mountains of Asia. But many of these events occur in remote, {{8}} populated areas, causing relatively limited losses and rarely making headlines. The first requirement for prediction is continuous monitoring, and installing that monitoring infrastructure in high mountains is itself a {{9}} undertaking.",
-          "cn": "它们也没有从探测到预警那样清晰的路径。事实上，冰川灾害对科学家来说并不新鲜。自20世纪50年代以来，冰川崩塌事件不断增加，而自2015年前后起，亚洲高山地区持续观测到大范围的冰冻圈灾害。但其中许多事件发生在偏远、人口稀少的地区，造成的损失相对有限，很少成为头条新闻。预测的首要条件是持续监测，而在高山上安装这些监测基础设施本身就是一项艰巨的任务。"
+          "en": "That {{10}} creates both technological and financial risks. Many companies have adopted a {{11}} approach, building conventional vessels while leaving room for future {{12}}. Chinese shipbuilders and shipowners, however, are increasingly moving directly toward vessels designed to use alternative fuels, according to Norbert Kray, senior vice president and regional manager for Greater China at DNV. This is where DNV says it can play a role. The company is working with Chinese clients earlier in the process, providing technical expertise, data and analysis to help them assess different technological options.",
+          "cn": "这种不确定性带来了技术和金融双重风险。许多企业采取了谨慎的做法，建造传统船舶的同时为未来改装留出空间。然而，据DNV高级副总裁兼大中华区区域经理诺伯特·克雷介绍，中国造船企业和船东正越来越多地直接转向设计使用替代燃料的船舶。DNV表示这正是其可以发挥作用的领域。该公司在流程更早的阶段就与中国客户合作，提供技术专长、数据和分析，帮助他们评估不同的技术方案。"
         },
         {
-          "en": "Modern early-warning systems are therefore a combination of technologies. Satellites work alongside ground-based instruments: hydrological sensors track changes in river and lake levels; weather stations record temperature and {{10}}; ground-motion sensors detect seismic signals; and cameras provide direct visual observation. But in this case, the disaster began inside Nepal, in a high-altitude and extremely difficult-to-access area. Monitoring equipment could not reach the site. In a place like this, simply knowing that a disaster is about to happen is already a profound scientific challenge.",
-          "cn": "因此，现代预警系统是多种技术的组合。卫星与地面仪器协同工作：水文传感器追踪河流和湖泊水位的变化；气象站记录温度和降水；地面运动传感器探测地震信号；摄像机提供直接的视觉观测。但在这次事件中，灾难始于尼泊尔境内一个高海拔且极难到达的地区。监测设备无法到达现场。在这样的地方，仅仅知道灾难即将发生就已经是一个深刻的科学挑战。"
+          "en": "It helps companies {{13}} uncertainty as they {{14}} to greener shipping. Kray said China's influence on the global transformation of shipping is {{15}}. As Chinese shipbuilders receive more orders for vessels designed to meet new environmental requirements, decisions made in Chinese shipyards are gradually shaping the future of the global maritime industry. If DNV illustrates how a traditional maritime service is evolving to meet the demands of greener shipping, Falkor, a company developing industrial software and digital solutions formerly known as Kongsberg Digital, illustrates another direction: the growing role of digital services in managing complex industrial operations. Deep Sea No.",
+          "cn": "它帮助企业在向绿色航运转型的过程中应对不确定性。克雷表示，中国对全球航运转型的影响力举足轻重。随着中国造船企业获得更多符合新环保要求船舶的订单，中国船厂做出的决策正在逐步塑造全球海事产业的未来。如果说DNV展示了传统海事服务如何演变以满足绿色航运的需求，那么Falkor——一家开发工业软件和数字解决方案的公司，前身为康士伯数字——则展示了另一个方向：数字服务在管理复杂工业运营中日益重要的作用。深海一号"
         },
         {
-          "en": "And even when monitoring equipment is in place, the problem is far from solved. The harder question is this: when scientists see an \"{{11}},\" is it actually a warning of disaster? When an anomaly is not a disaster\nThe glacial ice avalanche of the Trift Glacier above the village in Saas-Grund, Valais, Switzerland, September 10, 2017. According to Nie, scientists watching for ice avalanches pay particular attention to indicators such as the development of cracks near the upper reaches of a glacier and unusual changes in the glacier's flow velocity. But there is a catch.",
-          "cn": "即使监测设备已经到位，问题也远未解决。更难的问题是：当科学家看到“异常”时，它真的是灾难的预警吗？当异常并非灾难。2017年9月10日，瑞士瓦莱州萨斯格伦德村上方特里夫特冰川的冰川冰崩。据聂勇介绍，监测冰崩的科学家特别关注冰川上游附近裂缝的发展以及冰川流速的异常变化等指标。但有一个问题。"
+          "en": "1 (Shenhai-1), China's first independently operated deepwater gas field, lies beneath the South China Sea. At peak production, the field can supply more than 3 billion cubic meters of natural gas a year, providing energy for about 21 million people. Operating a gas field deep beneath the surface leads to challenges that are difficult to see and even harder to manage. On the seabed, temperatures can fall to around 3 degrees Celsius. Low temperatures, combined with the mixture of gas, water and other fluids moving through subsea pipelines, can create risks including hydrate formation and unstable flow.",
+          "cn": "（Shenhai-1）是中国首个自主运营的深水气田，位于南海海底。在产量高峰期，该气田每年可供应超过30亿立方米天然气，为约2100万人提供能源。在海底深处运营气田会带来难以察觉、更难以管理的挑战。在海底，温度可降至约3摄氏度。低温加上天然气、水和其他流体在海底管道中流动的混合物，可能产生水合物形成和流动不稳定等风险。"
         },
         {
-          "en": "A glacier is a plastic, continuously moving body. Satellites can detect tiny changes in its position by comparing images taken at different times. Yet satellite remote sensing has its limits. To measure {{12}}, scientists need usable images from both before and after an event. In the case of this rock-and-ice avalanche, the initiation happened so quickly that satellites were unlikely to capture the two sets of images needed for a meaningful comparison.",
-          "cn": "冰川是一个塑性的、持续运动的物体。卫星可以通过比较不同时间拍摄的图像来探测其位置的微小变化。然而卫星遥感有其局限性。要测量位移，科学家需要事件前后都可用的图像。在这次岩石与冰雪崩中，启动发生得太快，卫星不太可能捕捉到进行有意义比较所需的两组图像。"
+          "en": "In such an environment, operators cannot simply wait for something to go wrong before responding. This is where the Norwegian company steps in, using a digital model to create a virtual representation of the gas field's highly complex physical operations. This can {{16}} different operating conditions, collect data and give engineers a clearer picture of the operation, helping them make decisions before problems arise. It can also support decisions about pipeline cleaning, {{17}} operating parameters and analyze energy consumption. Sorting salmon\nThe broader shift in China-Norway cooperation can be seen not only in large industrial projects, but also in efforts to address environmental challenges.",
+          "cn": "在这样的环境中，运营方不能等到出了问题才做出反应。这正是这家挪威公司介入的地方，它使用数字模型创建气田高度复杂的物理运营的虚拟表示。这可以模拟不同的运营条件，收集数据，让工程师更清晰地了解运营情况，帮助他们在问题出现之前做出决策。它还可以支持管道清洁决策、优化运营参数和分析能耗。分拣三文鱼——中挪合作的更广泛转变不仅体现在大型工业项目中，也体现在应对环境挑战的努力中。"
         },
         {
-          "en": "In other words, a monitoring method designed to detect gradual change is not necessarily well suited to a disaster that unfolds almost {{13}}. And even if scientists detect unusual movement in a glacier, that does not mean an ice avalanche will inevitably follow. There is no simple one-to-one relationship between an anomaly and a disaster. This may be the most difficult part of glacier disaster prediction. As Nie explained, after a disaster has occurred, researchers can often look back and identify signals that preceded it.",
-          "cn": "换句话说，一种旨在探测渐进变化的监测方法不一定适合几乎瞬间展开的灾难。而且即使科学家探测到冰川的异常运动，也不意味着冰崩必然随之而来。异常与灾难之间不存在简单的一一对应关系。这可能是冰川灾害预测中最困难的部分。正如聂勇所解释的，灾难发生后，研究人员往往可以回溯并识别出灾难发生前的信号。"
+          "en": "Norway is home to countless rivers where wild Atlantic salmon {{19}} upstream to spawn. But the country's wild salmon populations have faced growing pressure in recent decades, from {{18}} humpback, or pink salmon that compete with native fish for habitat and food, and also climate change and human activity. According to the Norwegian Environment Agency, more than 480,000 pink salmon were caught or observed in Norwegian rivers in 2023, exceeding the number of wild Atlantic salmon that returned to Norway's rivers to spawn in 2024. Removing the invasive fish has traditionally relied heavily on volunteers, a labor-intensive process which has been made more difficult by the challenge of identifying fish as they move underwater. In 2021, Huawei Norway joined with Norwegian technology partners to develop an AI-powered fish trap to help address the problem.",
+          "cn": "挪威拥有无数河流，野生大西洋鲑鱼洄游上游产卵。但近几十年来，该国野生鲑鱼种群面临越来越大的压力，来自入侵的驼背鲑（粉鲑）与本地鱼类争夺栖息地和食物，以及气候变化和人类活动的影响。据挪威环境署统计，2023年在挪威河流中捕获或观测到的粉鲑超过48万条，超过了2024年返回挪威河流产卵的野生大西洋鲑数量。清除入侵鱼类传统上严重依赖志愿者，这是一个劳动密集型的过程，而识别水下移动鱼类的难度使这一工作更加困难。2021年，华为挪威公司与挪威技术合作伙伴联手开发了一种人工智能驱动的鱼陷阱来帮助解决这一问题。"
         },
         {
-          "en": "But before the event, the same kinds of anomalies may appear again and again without triggering a disaster. The challenge is not simply to detect an anomaly. It is to know which anomaly will become a disaster. What does seven minutes mean? In this disaster, only about seven minutes passed between the rock-and-ice avalanche and its impact on the Gyirong Port.",
-          "cn": "但在事件发生之前，同样的异常可能反复出现却不引发灾难。挑战不仅仅是探测异常，而是要知道哪种异常会变成灾难。七分钟意味着什么？在这次灾难中，从岩石与冰雪崩发生到其冲击吉隆口岸，仅过去了大约七分钟。"
+          "en": "For the first year, a system using an underwater camera and machine vision was tested in the Storelva River near Berlevag, northern Norway, to identify different fish species as they passed through the trap. Trained on tens of thousands of images, the AI system learned to {{20}} native Atlantic salmon from invasive pink salmon in real time, with an accuracy of more than 90%. Since 2022, a sorting system designed to distinguish between wild salmon and invasive pink salmon has been installed downstream in the Storelva River, before it reaches the sea. Once a fish is identified, the system opens the gate for native salmon, allowing them to continue upstream to spawn, while diverting invasive pink salmon into nearby holding tanks for removal. Tor Schulstad, administrator of the hunting and fishing association Berlevag JFF in Norway, said native salmon face critical challenges from invasive pink salmon and escaped farmed salmon, while the monitoring systems using AI is helping to stop this and enable future-proof river management.",
+          "cn": "第一年，一套使用水下摄像头和机器视觉的系统在挪威北部贝勒沃格附近的斯托尔瓦河进行了测试，用于在鱼类通过陷阱时识别不同鱼种。经过数万张图像的训练，该AI系统学会了实时区分本地大西洋鲑和入侵粉鲑，准确率超过90%。自2022年以来，一套旨在区分野生鲑鱼和入侵粉鲑的分拣系统已安装在斯托尔瓦河下游、入海之前。一旦识别出鱼类，系统便为本地鲑鱼打开闸门，让它们继续上游产卵，同时将入侵粉鲑引入附近的暂养池进行清除。挪威贝勒沃格狩猎和钓鱼协会管理员托尔·舒尔斯塔德表示，本地鲑鱼面临入侵粉鲑和逃逸养殖鲑鱼的严峻挑战，而使用AI的监测系统正在帮助阻止这一趋势，实现面向未来的河流管理。"
         },
         {
-          "en": "Seven minutes may sound like a reasonable amount of time. In a rapidly moving disaster descending from a high-altitude mountain into a narrow valley, it is almost no warning at all. In hindsight, experts believe there may theoretically have been a very short window for warning. But it was not long enough to {{14}} people at the border port. And the geography made escape even harder.",
-          "cn": "七分钟听起来可能是一段合理的时间。但在一个从高海拔山区迅速下泄进入狭窄山谷的灾难中，这几乎算不上任何预警。事后看来，专家认为理论上可能存在一个非常短暂的预警窗口。但它不足以疏散边境口岸的人员。而地理条件使逃生更加困难。"
+          "en": "In the summer time last year, the system helped {{21}} more than 4,000 invasive pink salmon in the Skallelv River, easing the pressure on native species. Services cooperation\nThese examples illustrate cooperation is no longer limited to the exchange of products. It increasingly involves knowledge, technology and specialized services, with companies from both countries bringing different strengths to address specific needs. The CIFTIS has become a forum for companies to understand where to find common ground, connecting expertise and technology with China's industrial scale and growing demand for advanced solutions. This year, the CIFTIS is bringing together more than 1,800 companies from around 90 countries and international organizations, showcasing new technologies, solutions and achievements across a range of fast-growing fields, from high-tech and fintech to smart healthcare.",
+          "cn": "去年夏天，该系统在斯卡勒尔夫河帮助拦截了4000多条入侵粉鲑，减轻了本地物种的压力。服务合作——这些例子表明，合作不再局限于产品交换。它越来越多地涉及知识、技术和专业服务，两国企业带来不同的优势以满足特定需求。服贸会已成为企业了解在哪里找到共同点的论坛，将专业知识和技术与中国的工业规模和对先进解决方案日益增长的需求对接。今年，服贸会汇聚了来自约90个国家和国际组织的1800多家企业，展示从高科技和金融科技到智慧医疗等一系列快速增长领域的新技术、新解决方案和新成果。"
         },
         {
-          "en": "Gyirong lies in a steep mountain valley, where slopes commonly exceed 45 degrees. Even if people had received a warning, moving quickly to higher ground would have been extremely difficult. This is an important distinction when we talk about early warning. A warning is useful only if there is enough time – and enough physical space – for people to react. A chain of disasters\nMt.",
-          "cn": "吉隆位于陡峭的山谷中，坡度通常超过45度。即使人们收到了预警，迅速转移到高处也极其困难。当我们谈论预警时，这是一个重要的区别。预警只有在有足够的时间——以及足够的物理空间——让人们做出反应时才有用。一连串灾难。"
-        },
-        {
-          "en": "Qomolangma rises majestically above the Qinghai-Xizang Plateau, August 8, 2026. China has conducted three national glacier inventories since 1978. Their assessments show that the area of glaciers across the Qinghai-Xizang Plateau has fallen from about 51,000 to 44,000 and then 39,000 square kilometers – a decline of more than 20%. Over the same broader period of change, the number and area of glacial lakes on the plateau also increased by more than 20% between 1990 and 2020. \"Glacial lake\" is another term that comes up repeatedly in the study of mountain hazards.",
-          "cn": "2026年8月8日，珠穆朗玛峰雄伟地矗立在青藏高原之上。自1978年以来，中国已进行了三次全国冰川编目。其评估显示，青藏高原冰川面积已从约51000平方公里降至44000平方公里，再降至39000平方公里——降幅超过20%。在同一更广泛的变化时期内，1990年至2020年间高原冰湖的数量和面积也增加了20%以上。“冰湖”是山地灾害研究中另一个反复出现的术语。"
-        },
-        {
-          "en": "The mudslide disaster on August 26 was determined to have been triggered by an ice avalanche. But ice avalanches are not necessarily the most closely watched hazard in this region. In many cases, scientists are more concerned about glacial lake outburst floods (GLOFs). When a glacier is healthy and advancing, it can act like a bulldozer, pushing rock and debris downslope and building ridges of sediment and rock known as moraines. As glaciers shrink in a warming climate, meltwater can {{15}} behind these moraine ridges, forming lakes.",
-          "cn": "8月26日的泥石流灾害被确定为由冰崩引发。但冰崩未必是该地区最受关注的灾害。在许多情况下，科学家更关注冰湖溃决洪水（GLOF）。当冰川健康且前进时，它可以像推土机一样，将岩石和碎屑推向下坡，并堆积成被称为冰碛垄的沉积物和岩石脊。随着冰川在变暖气候中缩小，融水可以在这些冰碛垄后面积聚，形成湖泊。"
-        },
-        {
-          "en": "But not every glacial lake is destined to burst. Nie stresses that only a fraction are considered high-risk. The danger comes when an external force enters the system. Across the Himalayas, one of the world's most severe regions for glacial lake outburst floods, many such events are triggered from above: an ice avalanche, rockfall or landslide plunges into a lake, creating a powerful impact that can cause the lake to breach. One hazard can therefore trigger another.",
-          "cn": "但并非每个冰湖都注定会溃决。聂勇强调，只有一小部分被认为是高风险的。危险来自外力进入该系统。在整个喜马拉雅山脉——世界上冰湖溃决洪水最严重的地区之一——许多此类事件是由上方触发的：冰崩、落石或滑坡坠入湖中，产生强大的冲击力，可能导致湖泊溃决。因此，一种灾害可以触发另一种灾害。"
-        },
-        {
-          "en": "And the risk can travel far beyond the glacier itself. A new era of mountain risk\nThe Himalayas are like a giant wall separating the Qinghai-Xizang Plateau from South Asia. But this wall has never been {{16}}. Deep valleys cut through the mountains, opening pathways between two regions. Warm, moisture-laden air travels inland along these valleys.",
-          "cn": "而且风险可以远远超出冰川本身。山地风险的新时代。喜马拉雅山脉就像一堵巨大的墙，将青藏高原与南亚隔开。但这堵墙从来都不是不可逾越的。深谷切割山脉，在两个地区之间开辟了通道。温暖、湿润的空气沿着这些山谷向内陆移动。"
-        },
-        {
-          "en": "For centuries, traders have followed the same routes, carrying goods, ideas and cultures across the mountains. These valleys have long been corridors of people-to-people exchange. Today, those same historical corridors are shared hazard zones. The glaciers hanging above these cross-border valleys share the same thermal stress, the same fragile geology and the same volatile future. As the planet warms, the hazards born high in the ice are no longer isolated scientific curiosities – they are a swift, shared threat to everyone living in their shadow.",
-          "cn": "几个世纪以来，商人沿着同样的路线，穿越山脉运送货物、思想和文化。这些山谷长期以来一直是人员交流的走廊。如今，这些历史上的走廊已成为共享的危险区。悬挂在这些跨境山谷上方的冰川共享着同样的热应力、同样脆弱的地质条件和同样动荡的未来。随着地球变暖，诞生于高处的冰中的灾害不再是孤立的科学奇观——它们是对生活在它们阴影下的每个人的迅速而共同的威胁。"
+          "en": "Around 100 promotional events and business {{22}} are also scheduled, giving companies from around the world an opportunity to explore partnerships and turn new ideas into practical cooperation.",
+          "cn": "约100场推介活动和商务洽谈也已排定，为来自世界各地的企业提供了探索伙伴关系、将新想法转化为实际合作的机会。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "retreating",
-          "hint": "v. 退缩，后退",
+          "answer": "expertise",
+          "hint": "n. 专业知识",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "threshold",
-          "hint": "n. 临界点，门槛",
-          "difficulty": "hard"
+          "answer": "emerged",
+          "hint": "v. 崛起，出现",
+          "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "avalanche",
-          "hint": "n. 雪崩，崩塌",
+          "answer": "specialized",
+          "hint": "adj. 专业的，专门的",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "mitigate",
-          "hint": "v. 减轻，缓解",
-          "difficulty": "hard"
+          "answer": "comprehensive",
+          "hint": "adj. 全面的，综合的",
+          "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "sobering",
-          "hint": "adj. 令人警醒的",
+          "answer": "complementary",
+          "hint": "adj. 互补的",
           "difficulty": "hard"
         },
         {
           "id": 5,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "medium"
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "easy"
         },
         {
           "id": 6,
-          "answer": "seismic",
-          "hint": "adj. 地震的",
-          "difficulty": "medium"
+          "answer": "classification",
+          "hint": "n. 分类，入级",
+          "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "transmitted",
-          "hint": "v. 传输，传送",
+          "answer": "assessments",
+          "hint": "n. 评估",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "sparsely",
-          "hint": "adv. 稀疏地，稀少地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "formidable",
-          "hint": "adj. 艰巨的，令人敬畏的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "precipitation",
-          "hint": "n. 降水",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "anomaly",
-          "hint": "n. 异常，反常现象",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "displacement",
-          "hint": "n. 位移，偏移",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "instantaneously",
-          "hint": "adv. 瞬间地，即刻地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "evacuate",
-          "hint": "v. 疏散，撤离",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "accumulate",
-          "hint": "v. 积聚，累积",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "impenetrable",
-          "hint": "adj. 不可穿透的，无法逾越的",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "They are melting. They are retreating. Satellites and cameras record their decline. Glaciers have become one of the most visible victims of global warming.\nBut the recent disaster in the Himalayas offers a different warning: cross a certain threshold, and a glacier can become something else – the starting point of a chain of disasters.\nRescuers conduct search and rescue operations in the hardest-hit area of the Gyirong Port, southwest China's Xizang Autonomous Region, September 2, 2026. \nThat is what happened along the China-Nepal border. A rock-and-ice avalanche that began high in the mountains developed into a debris flow within minutes, sweeping through the Gyirong border port downstream.\nHow does a glacier make this transition – from a victim of climate change to a source of disaster? And can science help us prevent or mitigate the damage?\nI spoke with Nie Yong, a disaster expert at the Institute of Mountain Hazards and Environment under the Chinese Academy of Sciences. His answer was sobering: we are becoming increasingly capable of seeing what is happening to glaciers, but we are still far from knowing exactly when one of them is about to fail.\nThe last mile of disaster prediction\nA mobile phone earthquake early warning notification received by a resident in Suqian City, east China's Jiangsu Province, August 6, 2023. \nFrom several powerful typhoons making landfall in China this summer to countdown alerts appearing on people's phones before an earthquake, people in China have grown accustomed to expecting warnings when nature turns dangerous.\nThat expectation is backed by real investments in science, technology and infrastructure. Earthquakes and typhoons have relatively mature monitoring systems around the world and are among the areas that have received the most investment in disaster monitoring and early warning.\nEarthquake early warning, for example, takes advantage of a basic physical difference: electromagnetic signals travel much faster than seismic waves. Once an earthquake occurs, this allows warning information to be transmitted to areas that have not yet been hit by strong shaking, potentially buying people seconds, tens of seconds or, in some cases, longer to react.\nHowever, glacier hazards are different. They do not have monitoring infrastructure on anything like the same scale. Nor do they offer such a clear-cut pathway from detection to warning.\nIn fact, glacier hazards are not new to scientists. Since the 1950s, glacier collapse events have increased, while since around 2015, extensive cryospheric hazards have continued to be observed across the high mountains of Asia. But many of these events occur in remote, sparsely populated areas, causing relatively limited losses and rarely making headlines.\nThe first requirement for prediction is continuous monitoring, and installing that monitoring infrastructure in high mountains is itself a formidable undertaking.\nModern early-warning systems are therefore a combination of technologies. Satellites work alongside ground-based instruments: hydrological sensors track changes in river and lake levels; weather stations record temperature and precipitation; ground-motion sensors detect seismic signals; and cameras provide direct visual observation. But in this case, the disaster began inside Nepal, in a high-altitude and extremely difficult-to-access area. Monitoring equipment could not reach the site.\nIn a place like this, simply knowing that a disaster is about to happen is already a profound scientific challenge.\nAnd even when monitoring equipment is in place, the problem is far from solved.\nThe harder question is this: when scientists see an \"anomaly,\" is it actually a warning of disaster?\nWhen an anomaly is not a disaster\nThe glacial ice avalanche of the Trift Glacier above the village in Saas-Grund, Valais, Switzerland, September 10, 2017. \nAccording to Nie, scientists watching for ice avalanches pay particular attention to indicators such as the development of cracks near the upper reaches of a glacier and unusual changes in the glacier's flow velocity.\nBut there is a catch.\nA glacier is a plastic, continuously moving body. Satellites can detect tiny changes in its position by comparing images taken at different times.\nYet satellite remote sensing has its limits. To measure displacement, scientists need usable images from both before and after an event. In the case of this rock-and-ice avalanche, the initiation happened so quickly that satellites were unlikely to capture the two sets of images needed for a meaningful comparison.\nIn other words, a monitoring method designed to detect gradual change is not necessarily well suited to a disaster that unfolds almost instantaneously.\nAnd even if scientists detect unusual movement in a glacier, that does not mean an ice avalanche will inevitably follow.\nThere is no simple one-to-one relationship between an anomaly and a disaster.\nThis may be the most difficult part of glacier disaster prediction. As Nie explained, after a disaster has occurred, researchers can often look back and identify signals that preceded it. But before the event, the same kinds of anomalies may appear again and again without triggering a disaster.\nThe challenge is not simply to detect an anomaly. It is to know which anomaly will become a disaster.\nWhat does seven minutes mean?\nIn this disaster, only about seven minutes passed between the rock-and-ice avalanche and its impact on the Gyirong Port.\nSeven minutes may sound like a reasonable amount of time.\nIn a rapidly moving disaster descending from a high-altitude mountain into a narrow valley, it is almost no warning at all.\nIn hindsight, experts believe there may theoretically have been a very short window for warning. But it was not long enough to evacuate people at the border port.\nAnd the geography made escape even harder.\nGyirong lies in a steep mountain valley, where slopes commonly exceed 45 degrees. Even if people had received a warning, moving quickly to higher ground would have been extremely difficult.\nThis is an important distinction when we talk about early warning.\nA warning is useful only if there is enough time – and enough physical space – for people to react.\nA chain of disasters\nMt. Qomolangma rises majestically above the Qinghai-Xizang Plateau, August 8, 2026. \nChina has conducted three national glacier inventories since 1978. Their assessments show that the area of glaciers across the Qinghai-Xizang Plateau has fallen from about 51,000 to 44,000 and then 39,000 square kilometers – a decline of more than 20%.\nOver the same broader period of change, the number and area of glacial lakes on the plateau also increased by more than 20% between 1990 and 2020.\n\"Glacial lake\" is another term that comes up repeatedly in the study of mountain hazards.\nThe mudslide disaster on August 26 was determined to have been triggered by an ice avalanche. But ice avalanches are not necessarily the most closely watched hazard in this region. In many cases, scientists are more concerned about glacial lake outburst floods (GLOFs).\nWhen a glacier is healthy and advancing, it can act like a bulldozer, pushing rock and debris downslope and building ridges of sediment and rock known as moraines.\nAs glaciers shrink in a warming climate, meltwater can accumulate behind these moraine ridges, forming lakes.\nBut not every glacial lake is destined to burst. Nie stresses that only a fraction are considered high-risk.\nThe danger comes when an external force enters the system.\nAcross the Himalayas, one of the world's most severe regions for glacial lake outburst floods, many such events are triggered from above: an ice avalanche, rockfall or landslide plunges into a lake, creating a powerful impact that can cause the lake to breach.\nOne hazard can therefore trigger another.\nAnd the risk can travel far beyond the glacier itself.\nA new era of mountain risk\nThe Himalayas are like a giant wall separating the Qinghai-Xizang Plateau from South Asia.\nBut this wall has never been impenetrable.\nDeep valleys cut through the mountains, opening pathways between two regions. Warm, moisture-laden air travels inland along these valleys. For centuries, traders have followed the same routes, carrying goods, ideas and cultures across the mountains.\nThese valleys have long been corridors of people-to-people exchange.\nToday, those same historical corridors are shared hazard zones. The glaciers hanging above these cross-border valleys share the same thermal stress, the same fragile geology and the same volatile future.\nAs the planet warms, the hazards born high in the ice are no longer isolated scientific curiosities – they are a swift, shared threat to everyone living in their shadow.",
-      "fullTextCn": "它们正在融化，正在退缩。卫星和相机记录着它们的衰退。冰川已成为全球变暖最显著的受害者之一。但最近发生在喜马拉雅山脉的灾难发出了不同的警告：一旦越过某个临界点，冰川就可能变成另一种东西——一连串灾难的起点。\n\n2026年9月2日，救援人员在中国西南部西藏自治区吉隆口岸受灾最严重的地区开展搜救行动。这就是中尼边境沿线发生的事情。一场始于高山之上的岩石与冰雪崩在几分钟内演变为泥石流，席卷了下游的吉隆边境口岸。冰川是如何完成这一转变的——从气候变化的受害者变成灾害的源头？科学能否帮助我们预防或减轻损失？\n\n我与中国科学院山地灾害与环境研究所的灾害专家聂勇进行了交谈。他的回答令人警醒：我们越来越有能力看到冰川正在发生什么，但我们仍然远不能确切知道某条冰川何时即将崩溃。灾害预测的最后一公里。2023年8月6日，中国东部江苏省宿迁市一位居民收到的手机地震预警通知。从今年夏天多个强台风登陆中国，到地震前人们手机上出现的倒计时警报，中国人已经习惯于在自然变得危险时期待收到预警。这种期待背后是对科学、技术和基础设施的实实在在的投入。\n\n地震和台风在全球范围内拥有相对成熟的监测系统，也是灾害监测和预警领域投入最多的方向之一。以地震预警为例，它利用了一个基本的物理差异：电磁信号的传播速度远快于地震波。一旦地震发生，这使得预警信息能够传送到尚未遭受强烈震动的地区，可能为人们争取到几秒、几十秒甚至更长的反应时间。然而，冰川灾害则不同。它们没有同等规模的监测基础设施。\n\n它们也没有从探测到预警那样清晰的路径。事实上，冰川灾害对科学家来说并不新鲜。自20世纪50年代以来，冰川崩塌事件不断增加，而自2015年前后起，亚洲高山地区持续观测到大范围的冰冻圈灾害。但其中许多事件发生在偏远、人口稀少的地区，造成的损失相对有限，很少成为头条新闻。预测的首要条件是持续监测，而在高山上安装这些监测基础设施本身就是一项艰巨的任务。\n\n因此，现代预警系统是多种技术的组合。卫星与地面仪器协同工作：水文传感器追踪河流和湖泊水位的变化；气象站记录温度和降水；地面运动传感器探测地震信号；摄像机提供直接的视觉观测。但在这次事件中，灾难始于尼泊尔境内一个高海拔且极难到达的地区。监测设备无法到达现场。在这样的地方，仅仅知道灾难即将发生就已经是一个深刻的科学挑战。\n\n即使监测设备已经到位，问题也远未解决。更难的问题是：当科学家看到“异常”时，它真的是灾难的预警吗？当异常并非灾难。2017年9月10日，瑞士瓦莱州萨斯格伦德村上方特里夫特冰川的冰川冰崩。据聂勇介绍，监测冰崩的科学家特别关注冰川上游附近裂缝的发展以及冰川流速的异常变化等指标。但有一个问题。\n\n冰川是一个塑性的、持续运动的物体。卫星可以通过比较不同时间拍摄的图像来探测其位置的微小变化。然而卫星遥感有其局限性。要测量位移，科学家需要事件前后都可用的图像。在这次岩石与冰雪崩中，启动发生得太快，卫星不太可能捕捉到进行有意义比较所需的两组图像。\n\n换句话说，一种旨在探测渐进变化的监测方法不一定适合几乎瞬间展开的灾难。而且即使科学家探测到冰川的异常运动，也不意味着冰崩必然随之而来。异常与灾难之间不存在简单的一一对应关系。这可能是冰川灾害预测中最困难的部分。正如聂勇所解释的，灾难发生后，研究人员往往可以回溯并识别出灾难发生前的信号。\n\n但在事件发生之前，同样的异常可能反复出现却不引发灾难。挑战不仅仅是探测异常，而是要知道哪种异常会变成灾难。七分钟意味着什么？在这次灾难中，从岩石与冰雪崩发生到其冲击吉隆口岸，仅过去了大约七分钟。\n\n七分钟听起来可能是一段合理的时间。但在一个从高海拔山区迅速下泄进入狭窄山谷的灾难中，这几乎算不上任何预警。事后看来，专家认为理论上可能存在一个非常短暂的预警窗口。但它不足以疏散边境口岸的人员。而地理条件使逃生更加困难。\n\n吉隆位于陡峭的山谷中，坡度通常超过45度。即使人们收到了预警，迅速转移到高处也极其困难。当我们谈论预警时，这是一个重要的区别。预警只有在有足够的时间——以及足够的物理空间——让人们做出反应时才有用。一连串灾难。\n\n2026年8月8日，珠穆朗玛峰雄伟地矗立在青藏高原之上。自1978年以来，中国已进行了三次全国冰川编目。其评估显示，青藏高原冰川面积已从约51000平方公里降至44000平方公里，再降至39000平方公里——降幅超过20%。在同一更广泛的变化时期内，1990年至2020年间高原冰湖的数量和面积也增加了20%以上。“冰湖”是山地灾害研究中另一个反复出现的术语。\n\n8月26日的泥石流灾害被确定为由冰崩引发。但冰崩未必是该地区最受关注的灾害。在许多情况下，科学家更关注冰湖溃决洪水（GLOF）。当冰川健康且前进时，它可以像推土机一样，将岩石和碎屑推向下坡，并堆积成被称为冰碛垄的沉积物和岩石脊。随着冰川在变暖气候中缩小，融水可以在这些冰碛垄后面积聚，形成湖泊。\n\n但并非每个冰湖都注定会溃决。聂勇强调，只有一小部分被认为是高风险的。危险来自外力进入该系统。在整个喜马拉雅山脉——世界上冰湖溃决洪水最严重的地区之一——许多此类事件是由上方触发的：冰崩、落石或滑坡坠入湖中，产生强大的冲击力，可能导致湖泊溃决。因此，一种灾害可以触发另一种灾害。\n\n而且风险可以远远超出冰川本身。山地风险的新时代。喜马拉雅山脉就像一堵巨大的墙，将青藏高原与南亚隔开。但这堵墙从来都不是不可逾越的。深谷切割山脉，在两个地区之间开辟了通道。温暖、湿润的空气沿着这些山谷向内陆移动。\n\n几个世纪以来，商人沿着同样的路线，穿越山脉运送货物、思想和文化。这些山谷长期以来一直是人员交流的走廊。如今，这些历史上的走廊已成为共享的危险区。悬挂在这些跨境山谷上方的冰川共享着同样的热应力、同样脆弱的地质条件和同样动荡的未来。随着地球变暖，诞生于高处的冰中的灾害不再是孤立的科学奇观——它们是对生活在它们阴影下的每个人的迅速而共同的威胁。"
-    },
-    {
-      "id": 2,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-14/How-China-s-15th-Five-Year-Plan-offers-the-world-opportunities-1QqY1uoGPza/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "How China's 15th Five-Year Plan offers the world opportunities",
-      "titleCn": "中国的“十五五”规划如何为世界带来机遇",
-      "summary": "When President Xi Jinping described China's 15th Five-Year Plan (2026-2030) as both a blueprint for China's own development and a list of opportunities for the world, the wording amounted to more than a diplomatic turn of phrase. It pointed to the outward-facing logic of China's next stage of modernization: progress at home should also bring opportunities abroad. At a time of weak global growth, strained supply chains, and widening development gaps, that distinction is worth taking seriously.",
-      "summaryCn": "中国“十五五”规划不仅是中国自身发展的蓝图，也为世界特别是全球南方国家提供了市场准入、技术合作和产业升级等务实机遇，帮助其从等待机遇转向创造机遇。",
-      "wordCount": 846,
-      "paragraphs": [
-        {
-          "en": "Editor's Note: Xin Ge, a special commentator for CGTN, is a professor at the School of Public Administration and Policy, Shanghai University of Finance and Economics. The article reflects the author's opinions and not necessarily the views of CGTN. When President Xi Jinping described China's 15th Five-Year Plan (2026-2030) as both a blueprint for China's own development and a list of opportunities for the world, the wording amounted to more than a diplomatic turn of phrase. It pointed to the {{0}} logic of China's next stage of modernization: progress at home should also bring opportunities abroad. At a time of weak global growth, {{1}} supply chains, and widening development gaps, that distinction is worth taking seriously.",
-          "cn": "编者按：辛格（Xin Ge）是CGTN特约评论员，上海财经大学公共管理与政策学院教授。本文仅代表作者观点，不一定反映CGTN立场。当习近平主席将中国“十五五”规划（2026—2030年）描述为既是中国自身发展的蓝图，也是一份面向世界的机遇清单时，这一表述远不止是外交辞令。它指向中国下一阶段现代化的外向逻辑：国内进步也应带来海外机遇。在全球增长乏力、供应链承压、发展鸿沟扩大的当下，这一区分值得认真对待。"
-        },
-        {
-          "en": "Speaking at the 18th BRICS Summit in New Delhi on September 13, President Xi outlined five initiatives: open-source and inclusive artificial intelligence, trade and investment {{2}}, digital industry cooperation, smart manufacturing, and science and technology talent development. The list is specific enough to be useful. Countries that have heard grand development language before will judge the plan by its delivery, but the range of proposals suggests an effort to turn broad commitments into workable areas of {{3}} and {{4}} cooperation. For much of the Global South, the appeal is clear. Too many countries remain suppliers of raw materials and consumers of finished goods, locked into a division of labor that limits their room for growth.",
-          "cn": "9月13日，习近平主席在新德里举行的金砖国家领导人第十八次会晤上发表讲话，提出五项倡议：开源包容的人工智能、贸易和投资便利化、数字产业合作、智能制造以及科技人才培养。这份清单足够具体，因而具有实用价值。那些过去听过宏大发展话语的国家，将以落实成效来评判该计划，但提案范围之广表明，中国正努力将广泛承诺转化为双边和多边合作的可操作领域。对全球南方许多国家而言，其吸引力显而易见。太多国家仍只是原材料供应者和制成品消费者，被锁定在限制其增长空间的分工之中。"
-        },
-        {
-          "en": "The proposed initiatives speak directly to their need for broader market access, modern industrial standards, technological support and trained workers. Some of the proposed measures are strikingly practical. Special economic zone partnerships, \"smart gateways\" and closer policy coordination would ease the {{5}} {{6}} that raises the cost of trade and investment. Support for smart manufacturing would go a step further, helping partners build advanced factories and work with common technical standards. The digital and AI initiatives have a similar purpose: emerging markets need access to new technologies, but they also need engineers who can use and improve them.",
-          "cn": "拟议中的倡议直接回应了它们对更广泛市场准入、现代工业标准、技术支持和训练有素工人的需求。一些拟议措施极具实用性。经济特区伙伴关系、“智能门户”和更紧密的政策协调，将减少推高贸易和投资成本的官僚摩擦。对智能制造的支持将更进一步，帮助伙伴建设先进工厂并采用共同技术标准。数字和人工智能倡议也有类似目的：新兴市场需要获得新技术，但也需要能够使用和改进这些技术的工程师。"
-        },
-        {
-          "en": "From building connections to building {{7}}\nThe emphasis has shifted from building connections to building capability. A new road or port can bring a factory within commercial reach, but it cannot, by itself, teach people to design products, establish standards or operate advanced machinery. Those abilities must be developed locally if industrial progress is to last. This is where the {{8}} that China is \"squeezing out\" other developing economies begins to {{9}}. Western industrialization was built in part through colonial {{10}}, unequal treaties and control over raw materials.",
-          "cn": "从建设联通到建设能力\n重点已从建设联通转向建设能力。一条新公路或新港口可以让工厂进入商业可达范围，但它本身无法教会人们设计产品、制定标准或操作先进机械。如果工业进步要持续下去，这些能力必须在当地发展。所谓中国正在“挤出”其他发展中经济体的指责，正是在这里开始站不住脚。西方工业化在一定程度上是通过殖民掠夺、不平等条约和原材料控制建立起来的。"
-        },
-        {
-          "en": "Many Global South economies were drawn into the modern world system on terms they had little power to shape. China's cooperation model takes a different approach. Infrastructure comes first because industrialization is impossible without dependable transport, electricity and communications. Technology transfer, local production and professional training then give that foundation an economic purpose. Engineering alliances and youth science exchanges reflect a basic insight: development cannot be imported {{11}}.",
-          "cn": "许多全球南方经济体是在几乎没有能力塑造的条件下被拉入现代世界体系的。中国的合作模式采取了不同路径。基础设施先行，因为没有可靠的交通、电力和通信，工业化就不可能实现。随后，技术转让、本地生产和专业培训赋予这一基础经济意义。工程联盟和青年科学交流反映了一个基本认识：发展不能整体进口。"
-        },
-        {
-          "en": "It has to be built, maintained and eventually led by local people. Commercial interests remain part of the equation, as they should be. But cooperation is more likely to last when developing partners acquire capabilities that remain useful long after individual projects are completed. No economic partnership is free from friction. Industrial upgrading involves competition, adjustment and difficult choices.",
-          "cn": "它必须由当地人建设、维护并最终引领。商业利益仍是其中一部分，也理应如此。但当发展中伙伴获得在单个项目完成后仍长期有用的能力时，合作更可能持久。没有一种经济伙伴关系完全没有摩擦。产业升级涉及竞争、调整和艰难选择。"
-        },
-        {
-          "en": "Yet competition itself is not {{12}}. The key question is whether partner economies receive the tools to move up the value chain. A framework combining market access, technical standards, industrial support and training expands their options rather than narrowing them. China's zero-tariff treatment for the 53 African countries with which it has diplomatic relations illustrates how market access can be widened without imposing political conditions. As the 15th Five-Year Plan has been formulated, China has also sought to connect its domestic priorities with global development needs.",
-          "cn": "然而，竞争本身并不是剥削。关键问题是，伙伴经济体是否获得沿价值链向上攀升的工具。一个结合市场准入、技术标准、产业支持和培训的框架，会扩大而非缩小它们的选择。中国对与其建交的53个非洲国家实行零关税待遇，说明扩大市场准入可以不附加政治条件。在制定“十五五”规划时，中国也寻求将国内优先事项与全球发展需求对接。"
-        },
-        {
-          "en": "This approach differs sharply from the zero-sum thinking visible in \"small yard, high fence\" policies, weaponized supply chains and calls for {{13}}. Such measures treat one country's technological progress as another's security threat. They raise costs, disrupt production networks and place the heaviest burden on poorer economies least able to absorb shocks. One country's industrial advancement need not come at another's expense. For the Global South, China's modernization offers scale, experience and usable tools.",
-          "cn": "这种做法与“小院高墙”政策、被武器化的供应链和脱钩呼声中所体现的零和思维截然不同。此类措施把一个国家的技术进步视为另一个国家的安全威胁。它们抬高成本、扰乱生产网络，并把最沉重负担压在最无力承受冲击的较贫穷经济体身上。一个国家的工业进步不必以另一个国家为代价。对全球南方而言，中国的现代化提供了规模、经验和可用工具。"
-        },
-        {
-          "en": "For China, cooperation with developing economies creates new markets and shared sources of growth. The rise of the Global South is now a defining feature of international affairs, but greater influence does not automatically produce {{14}}. Countries still need infrastructure, technology, industrial standards, financing and skilled workers. The plan's potential value comes from treating these needs together rather than as isolated projects. A development blueprint becomes globally meaningful when other countries can see their own prospects within it.",
-          "cn": "对中国而言，与发展中经济体合作创造了新市场和共同增长来源。全球南方的崛起如今是国际事务的一个决定性特征，但更大影响力并不会自动带来繁荣。各国仍需要基础设施、技术、工业标准、融资和熟练工人。该计划的潜在价值在于将这些需求统筹对待，而不是视为孤立项目。当一个发展蓝图能让其他国家在其中看到自身前景时，它就具有了全球意义。"
-        },
-        {
-          "en": "The opportunities are tangible: wider market access, shared technologies, modern industrial standards and a new generation of trained engineers. Delivering on them will require sustained commitment, not only from China but also from its partners. Yet if that commitment holds, the plan will amount to more than a national road map. It will help more countries move from waiting for opportunities to creating them.",
-          "cn": "机遇是实实在在的：更广泛的市场准入、共享技术、现代工业标准以及新一代训练有素的工程师。落实这些机遇需要持续承诺，不仅来自中国，也来自其伙伴。然而，如果这种承诺得以维持，该计划将不止是一份国家路线图。它将帮助更多国家从等待机遇转向创造机遇。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "outward-facing",
-          "hint": "adj. 外向型的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 1,
-          "answer": "strained",
-          "hint": "adj. 紧张的；承压的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "facilitation",
-          "hint": "n. 便利化；促进",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "bilateral",
-          "hint": "adj. 双边的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "multilateral",
-          "hint": "adj. 多边的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 5,
-          "answer": "bureaucratic",
-          "hint": "adj. 官僚的；繁文缛节的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "friction",
-          "hint": "n. 摩擦；阻力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "capability",
-          "hint": "n. 能力",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "accusation",
-          "hint": "n. 指责；指控",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "unravel",
-          "hint": "v. 解开；瓦解",
-          "difficulty": "hard"
-        },
-        {
-          "id": 10,
-          "answer": "extraction",
-          "hint": "n. 开采；榨取",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "wholesale",
-          "hint": "adv./adj. 整体地；大规模的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "exploitation",
-          "hint": "n. 剥削；利用",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "decoupling",
-          "hint": "n. 脱钩",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "prosperity",
-          "hint": "n. 繁荣",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "Editor's Note: Xin Ge, a special commentator for CGTN, is a professor at the School of Public Administration and Policy, Shanghai University of Finance and Economics. The article reflects the author's opinions and not necessarily the views of CGTN.\nWhen President Xi Jinping described China's 15th Five-Year Plan (2026-2030) as both a blueprint for China's own development and a list of opportunities for the world, the wording amounted to more than a diplomatic turn of phrase. It pointed to the outward-facing logic of China's next stage of modernization: progress at home should also bring opportunities abroad. At a time of weak global growth, strained supply chains, and widening development gaps, that distinction is worth taking seriously.\nSpeaking at the 18th BRICS Summit in New Delhi on September 13, President Xi outlined five initiatives: open-source and inclusive artificial intelligence, trade and investment facilitation, digital industry cooperation, smart manufacturing, and science and technology talent development. The list is specific enough to be useful. Countries that have heard grand development language before will judge the plan by its delivery, but the range of proposals suggests an effort to turn broad commitments into workable areas of bilateral and multilateral cooperation.\nFor much of the Global South, the appeal is clear. Too many countries remain suppliers of raw materials and consumers of finished goods, locked into a division of labor that limits their room for growth. The proposed initiatives speak directly to their need for broader market access, modern industrial standards, technological support and trained workers.\nSome of the proposed measures are strikingly practical. Special economic zone partnerships, \"smart gateways\" and closer policy coordination would ease the bureaucratic friction that raises the cost of trade and investment. Support for smart manufacturing would go a step further, helping partners build advanced factories and work with common technical standards. The digital and AI initiatives have a similar purpose: emerging markets need access to new technologies, but they also need engineers who can use and improve them.\nFrom building connections to building capability\nThe emphasis has shifted from building connections to building capability. A new road or port can bring a factory within commercial reach, but it cannot, by itself, teach people to design products, establish standards or operate advanced machinery. Those abilities must be developed locally if industrial progress is to last.\nThis is where the accusation that China is \"squeezing out\" other developing economies begins to unravel. Western industrialization was built in part through colonial extraction, unequal treaties and control over raw materials. Many Global South economies were drawn into the modern world system on terms they had little power to shape.\nChina's cooperation model takes a different approach. Infrastructure comes first because industrialization is impossible without dependable transport, electricity and communications. Technology transfer, local production and professional training then give that foundation an economic purpose. Engineering alliances and youth science exchanges reflect a basic insight: development cannot be imported wholesale. It has to be built, maintained and eventually led by local people. Commercial interests remain part of the equation, as they should be. But cooperation is more likely to last when developing partners acquire capabilities that remain useful long after individual projects are completed.\nNo economic partnership is free from friction. Industrial upgrading involves competition, adjustment and difficult choices. Yet competition itself is not exploitation. The key question is whether partner economies receive the tools to move up the value chain. A framework combining market access, technical standards, industrial support and training expands their options rather than narrowing them.\nChina's zero-tariff treatment for the 53 African countries with which it has diplomatic relations illustrates how market access can be widened without imposing political conditions. As the 15th Five-Year Plan has been formulated, China has also sought to connect its domestic priorities with global development needs.\nThis approach differs sharply from the zero-sum thinking visible in \"small yard, high fence\" policies, weaponized supply chains and calls for decoupling. Such measures treat one country's technological progress as another's security threat. They raise costs, disrupt production networks and place the heaviest burden on poorer economies least able to absorb shocks.\nOne country's industrial advancement need not come at another's expense. For the Global South, China's modernization offers scale, experience and usable tools. For China, cooperation with developing economies creates new markets and shared sources of growth.\nThe rise of the Global South is now a defining feature of international affairs, but greater influence does not automatically produce prosperity. Countries still need infrastructure, technology, industrial standards, financing and skilled workers. The plan's potential value comes from treating these needs together rather than as isolated projects.\nA development blueprint becomes globally meaningful when other countries can see their own prospects within it. The opportunities are tangible: wider market access, shared technologies, modern industrial standards and a new generation of trained engineers. Delivering on them will require sustained commitment, not only from China but also from its partners. Yet if that commitment holds, the plan will amount to more than a national road map. It will help more countries move from waiting for opportunities to creating them.",
-      "fullTextCn": "编者按：辛格（Xin Ge）是CGTN特约评论员，上海财经大学公共管理与政策学院教授。本文仅代表作者观点，不一定反映CGTN立场。当习近平主席将中国“十五五”规划（2026—2030年）描述为既是中国自身发展的蓝图，也是一份面向世界的机遇清单时，这一表述远不止是外交辞令。它指向中国下一阶段现代化的外向逻辑：国内进步也应带来海外机遇。在全球增长乏力、供应链承压、发展鸿沟扩大的当下，这一区分值得认真对待。\n\n9月13日，习近平主席在新德里举行的金砖国家领导人第十八次会晤上发表讲话，提出五项倡议：开源包容的人工智能、贸易和投资便利化、数字产业合作、智能制造以及科技人才培养。这份清单足够具体，因而具有实用价值。那些过去听过宏大发展话语的国家，将以落实成效来评判该计划，但提案范围之广表明，中国正努力将广泛承诺转化为双边和多边合作的可操作领域。对全球南方许多国家而言，其吸引力显而易见。太多国家仍只是原材料供应者和制成品消费者，被锁定在限制其增长空间的分工之中。\n\n拟议中的倡议直接回应了它们对更广泛市场准入、现代工业标准、技术支持和训练有素工人的需求。一些拟议措施极具实用性。经济特区伙伴关系、“智能门户”和更紧密的政策协调，将减少推高贸易和投资成本的官僚摩擦。对智能制造的支持将更进一步，帮助伙伴建设先进工厂并采用共同技术标准。数字和人工智能倡议也有类似目的：新兴市场需要获得新技术，但也需要能够使用和改进这些技术的工程师。\n\n从建设联通到建设能力\n重点已从建设联通转向建设能力。一条新公路或新港口可以让工厂进入商业可达范围，但它本身无法教会人们设计产品、制定标准或操作先进机械。如果工业进步要持续下去，这些能力必须在当地发展。所谓中国正在“挤出”其他发展中经济体的指责，正是在这里开始站不住脚。西方工业化在一定程度上是通过殖民掠夺、不平等条约和原材料控制建立起来的。\n\n许多全球南方经济体是在几乎没有能力塑造的条件下被拉入现代世界体系的。中国的合作模式采取了不同路径。基础设施先行，因为没有可靠的交通、电力和通信，工业化就不可能实现。随后，技术转让、本地生产和专业培训赋予这一基础经济意义。工程联盟和青年科学交流反映了一个基本认识：发展不能整体进口。\n\n它必须由当地人建设、维护并最终引领。商业利益仍是其中一部分，也理应如此。但当发展中伙伴获得在单个项目完成后仍长期有用的能力时，合作更可能持久。没有一种经济伙伴关系完全没有摩擦。产业升级涉及竞争、调整和艰难选择。\n\n然而，竞争本身并不是剥削。关键问题是，伙伴经济体是否获得沿价值链向上攀升的工具。一个结合市场准入、技术标准、产业支持和培训的框架，会扩大而非缩小它们的选择。中国对与其建交的53个非洲国家实行零关税待遇，说明扩大市场准入可以不附加政治条件。在制定“十五五”规划时，中国也寻求将国内优先事项与全球发展需求对接。\n\n这种做法与“小院高墙”政策、被武器化的供应链和脱钩呼声中所体现的零和思维截然不同。此类措施把一个国家的技术进步视为另一个国家的安全威胁。它们抬高成本、扰乱生产网络，并把最沉重负担压在最无力承受冲击的较贫穷经济体身上。一个国家的工业进步不必以另一个国家为代价。对全球南方而言，中国的现代化提供了规模、经验和可用工具。\n\n对中国而言，与发展中经济体合作创造了新市场和共同增长来源。全球南方的崛起如今是国际事务的一个决定性特征，但更大影响力并不会自动带来繁荣。各国仍需要基础设施、技术、工业标准、融资和熟练工人。该计划的潜在价值在于将这些需求统筹对待，而不是视为孤立项目。当一个发展蓝图能让其他国家在其中看到自身前景时，它就具有了全球意义。\n\n机遇是实实在在的：更广泛的市场准入、共享技术、现代工业标准以及新一代训练有素的工程师。落实这些机遇需要持续承诺，不仅来自中国，也来自其伙伴。然而，如果这种承诺得以维持，该计划将不止是一份国家路线图。它将帮助更多国家从等待机遇转向创造机遇。"
-    },
-    {
-      "id": 3,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-09-16/detail-ihfkhtke4048677.shtml",
-      "title": "The 6th Gangchen Tulku Rinpoche enthroned at Gangchen Monastery in Xizang Autonomous Region",
-      "titleCn": "第六世刚坚活佛在西藏自治区刚坚寺坐床",
-      "summary": "The 6th Gangchen Tulku Rinpoche, Jamyang Choephel Jampa Gyaltsen, was formally enthroned at Gangchen Monastery in Sakya County, Xizang Autonomous Region, on Tuesday.",
-      "summaryCn": "第六世刚坚活佛在西藏自治区刚坚寺正式坐床，其认定和坐床仪式遵循宗教仪轨和历史惯例，圆满完成了转世程序。",
-      "wordCount": 810,
-      "paragraphs": [
-        {
-          "en": "The 6th Gangchen Tulku Rinpoche, Jamyang Choephel Jampa Gyaltsen, was {{0}} enthroned at Gangchen Monastery in Sakya County, Xizang Autonomous Region, on Tuesday. His {{1}} and {{2}} fulfilled the wishes of his {{3}}, the late 5th Gangchen Tulku Rinpoche, Lobsang Thubten Trinley Yarphel, and were also in accordance with the wishes of the monastery’s monks and local Buddhist {{4}}. {{5}} Buddhist masters, {{6}} of monks and nuns from across Shigatse, {{7}} and other believers attended the ceremony. The late 5th Gangchen Tulku Rinpoche, Lobsang Thubten Trinley Yarphel, was born in Chexü Town, Sakya County, Shigatse, in July 1941. He was recognized in 1945 and enthroned at Gangchen Monastery in Sakya County.",
-          "cn": "第六世刚坚活佛坚赞曲培嘉措于周二在西藏自治区萨迦县刚坚寺正式坐床。他的认定和坐床实现了其前世——已故第五世刚坚活佛洛桑土登赤列益西的遗愿，也符合该寺僧众和当地佛教信众的愿望。来自日喀则各地的著名佛教大师、僧尼代表、朝圣者和其他信众出席了仪式。已故第五世刚坚活佛洛桑土登赤列益西于1941年7月出生于日喀则萨迦县车许镇。他于1945年被认定，并在萨迦县刚坚寺坐床。"
-        },
-        {
-          "en": "From 1952 to 1958, he studied Buddhist scriptures at Tashi Lhunpo Monastery in Shigatse and Sera Monastery in Lhasa, where he earned the Kachen degree. From the 1980s onward, he {{8}} Buddhist {{9}} and organizations abroad, including the Centro de Dharma da Paz Shi De Tchö Tsog in São Paulo, Brazil and the Kunpen Lama Gangchen Institute in Italy. He also founded the Lama Gangchen World Peace Foundation and the Xizang International Friendship Association in Spain. In addition, he served in several other roles, including as lifetime president of the United Nations World Peace Foundation, and as {{11}} and {{12}} of the United Nations World Peace Religious Forum. Throughout his life, the late 5th Gangchen Tulku Rinpoche met with the 10th and 11th Panchen Lamas on several occasions.",
-          "cn": "从1952年到1958年，他在日喀则扎什伦布寺和拉萨色拉寺学习佛经，并获得卡钦学位。从20世纪80年代起，他在国外建立了佛教机构和组织，包括巴西圣保罗的和平法中心Shi De Tchö Tsog和意大利的Kunpen Lama Gangchen研究所。他还在西班牙创立了刚坚世界和平基金会和西藏国际友好协会。此外，他还担任了其他多个职务，包括联合国世界和平基金会终身主席，以及联合国世界和平宗教论坛的发起人和组织者。已故第五世刚坚活佛一生中曾多次会见第十世和第十一世班禅喇嘛。"
-        },
-        {
-          "en": "During a return visit to China in 2011, he met with the 11th Panchen Erdeni Chos-kyi rGyal-po in Beijing and personally {{13}} him with {{14}} his {{15}}. Following his passing away in Italy on April 18, 2020, Gangchen Monastery and local Buddhist believers requested that the 11th Panchen Erdeni Chos-kyi rGyal-po undertake this responsibility in accordance with his wishes. The Xizang Branch of the Buddhist Association of China established a {{16}} team to guide the search for and {{17}} of the reincarnated child. The team was chaired by the 11th Panchen Erdeni Chos-kyi rGyal-po and {{18}} eminent masters of Tibetan Buddhism. Shigatse also established a search team chaired by Nima Pingcuo, president of the municipal Buddhist association, and composed of monks from Gangchen Monastery.",
-          "cn": "在2011年回访中国期间，他在北京会见了第十一世班禅额尔德尼·确吉杰布，并亲自委托他监督自己的转世事宜。在他于2020年4月18日在意大利圆寂后，刚坚寺和当地佛教信众请求第十一世班禅额尔德尼·确吉杰布按照他的遗愿承担这一责任。中国佛教协会西藏分会成立了指导小组，指导寻访和认定转世灵童。该小组由第十一世班禅额尔德尼·确吉杰布主持，由藏传佛教著名大师组成。日喀则也成立了寻访小组，由市佛教协会会长尼玛平措主持，由刚坚寺的僧人组成。"
-        },
-        {
-          "en": "The search was conducted in accordance with religious rituals and historical {{19}}. The 11th Panchen Erdeni Chos-kyi rGyal-po guided on the search through prayers, scripture recitation, dream interpretation and {{20}}, including prayers to Palden Lhamo for signs. Led by Nima Pingcuo, the search group then visited Yongze Green Lake in Ringbung County to seek further {{21}} concerning the child. The search team travelled more than 3,500 kilometers and {{22}} visited more than 200 boys. Three were selected on the basis of clear {{23}} signs, spiritual {{24}} and intelligence.",
-          "cn": "寻访工作按照宗教仪轨和历史惯例进行。第十一世班禅额尔德尼·确吉杰布通过祈祷、诵经、解梦和占卜，包括向吉祥天母祈祷征兆，指导寻访工作。随后，由尼玛平措带领的寻访小组前往仁布县雍泽绿湖，寻求有关该儿童的进一步指示。寻访团队行程超过3500公里，秘密走访了200多名男孩。根据明确的吉兆、精神特质和智慧，选出了三名候选人。"
-        },
-        {
-          "en": "The 11th Panchen Erdeni Chos-kyi rGyal-po then performed the ritual of drawing lots from a silver bowl, identifying Khyung Drakpa, from Xainza County, Nagqu, as the reincarnation of the late 5th Gangchen Tulku Rinpoche. The identification was submitted to the authority for religious affairs of the Xizang Autonomous Region and received its approval. Once approval was granted, the 11th Panchen Erdeni Chos-kyi rGyal-po performed the child’s tonsure ceremony, administered the Buddhist precepts and bestowed upon him the religious name Jamyang Choephel Jampa Gyaltsen. On the day of the enthronement, auspicious clouds appeared above the monastery amid sunshine and a gentle breeze. Colourful flags fluttered across the monastery grounds, while smoke from Tibetan incense rose from ritual offerings.",
-          "cn": "随后，第十一世班禅额尔德尼·确吉杰布举行了银瓶掣签仪式，认定那曲申扎县的琼达为已故第五世刚坚活佛的转世灵童。该认定已提交西藏自治区宗教事务部门并获得批准。批准后，第十一世班禅额尔德尼·确吉杰布为孩子举行了剃度仪式，授予佛教戒律，并赐予法名坚赞曲培嘉措。坐床当天，阳光明媚，微风和煦，寺庙上空出现祥云。五彩经幡在寺庙各处飘扬，仪式供品中升起藏香的烟雾。"
-        },
-        {
-          "en": "Dressed for the occasion and holding white khatas, monks, nuns and lay believers lined up to welcome the reincarnated child, eagerly awaiting the return of their spiritual teacher to his homeland in his new incarnation. At the ceremony, a representative of the Xizang Autonomous Region’s Religious Affairs Bureau read out the official approval of the child’s recognition and succession. The Xizang Branch of the Buddhist Association of China presented him with a living Buddha certificate. Assisted by monks from the monastery, the 6th Gangchen Tulku Rinpoche took his seat on the Dharma throne at Gangchen Monastery. Representatives of the monastic and lay communities took turns presenting mandala offerings, khatas and gifts, and requesting his blessings as he laid his hand on their heads.",
-          "cn": "僧尼和在家信众身着盛装，手持白色哈达，列队欢迎转世灵童，热切期待他们的上师以新的化身重返故土。在仪式上，西藏自治区宗教事务局代表宣读了关于认定和继承的正式批准。中国佛教协会西藏分会向他颁发了活佛证书。在寺庙僧人的协助下，第六世刚坚活佛在刚坚寺登上法座。僧俗代表轮流献上曼荼罗供品、哈达和礼物，并请求他赐福，他则把手放在他们头上。"
-        },
-        {
-          "en": "The successful completion of the reincarnation process demonstrates that the Communist Party of China’s policy on freedom of religious belief has been fully implemented in the Xizang Autonomous Region and enjoys the wholehearted support of religious communities and believers. It also underscores the authority of the Measures on the Management of the Reincarnation of Living Buddhas in Tibetan Buddhism.The recognition and enthronement of the 6th Gangchen Tulku Rinpoche strictly followed religious rituals and historical conventions. All required procedures were duly completed, including the identification of the reincarnated child by the 11th Panchen Erdeni Chos-kyi rGyal-po through the drawing of lots from a silver bowl and the final approval of the authority for religious affairs of the Xizang Autonomous Region.",
-          "cn": "转世过程的成功完成表明，中国共产党宗教信仰自由政策在西藏自治区得到全面实施，并得到宗教界和信众的衷心拥护。这也强调了《藏传佛教活佛转世管理办法》的权威性。第六世刚坚活佛的认定和坐床严格遵循宗教仪轨和历史惯例。所有必要程序均已妥为完成，包括第十一世班禅额尔德尼·确吉杰布通过银瓶掣签认定转世灵童，以及西藏自治区宗教事务部门的最终批准。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "formally",
-          "hint": "adv. 正式地",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "recognition",
-          "hint": "n. 认定",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "enthronement",
-          "hint": "n. 坐床",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "predecessor",
-          "hint": "n. 前世",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "believers",
-          "hint": "n. 信众",
-          "difficulty": "easy"
-        },
-        {
-          "id": 5,
-          "answer": "Eminent",
-          "hint": "adj. 著名的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "representatives",
-          "hint": "n. 代表",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "pilgrims",
-          "hint": "n. 朝圣者",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "established",
-          "hint": "v. 建立",
-          "difficulty": "easy"
-        },
-        {
-          "id": 9,
-          "answer": "institutions",
-          "hint": "n. 机构",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "initiator",
-          "hint": "n. 发起人",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "organizer",
-          "hint": "n. 组织者",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "entrusted",
-          "hint": "v. 委托",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "overseeing",
-          "hint": "v. 监督",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "reincarnation",
-          "hint": "n. 转世",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "steering",
-          "hint": "n. 指导",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "identification",
-          "hint": "n. 认定",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "comprised",
-          "hint": "v. 组成",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "conventions",
-          "hint": "n. 惯例",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "divination",
-          "hint": "n. 占卜",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
-          "answer": "indications",
-          "hint": "n. 指示",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "discreetly",
-          "hint": "adv. 秘密地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "auspicious",
-          "hint": "adj. 吉兆的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 23,
-          "answer": "attributes",
-          "hint": "n. 特质",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "The 6th Gangchen Tulku Rinpoche, Jamyang Choephel Jampa Gyaltsen, was formally enthroned at Gangchen Monastery in Sakya County, Xizang Autonomous Region, on Tuesday.\nHis recognition and enthronement fulfilled the wishes of his predecessor, the late 5th Gangchen Tulku Rinpoche, Lobsang Thubten Trinley Yarphel, and were also in accordance with the wishes of the monastery’s monks and local Buddhist believers.\nEminent Buddhist masters, representatives of monks and nuns from across Shigatse, pilgrims and other believers attended the ceremony.\nThe late 5th Gangchen Tulku Rinpoche, Lobsang Thubten Trinley Yarphel, was born in Chexü Town, Sakya County, Shigatse, in July 1941.\nHe was recognized in 1945 and enthroned at Gangchen Monastery in Sakya County.\nFrom 1952 to 1958, he studied Buddhist scriptures at Tashi Lhunpo Monastery in Shigatse and Sera Monastery in Lhasa, where he earned the Kachen degree. From the 1980s onward, he established Buddhist institutions and organizations abroad, including the Centro de Dharma da Paz Shi De Tchö Tsog in São Paulo, Brazil and the Kunpen Lama Gangchen Institute in Italy.\nHe also founded the Lama Gangchen World Peace Foundation and the Xizang International Friendship Association in Spain.\nIn addition, he served in several other roles, including as lifetime president of the United Nations World Peace Foundation, and as initiator and organizer of the United Nations World Peace Religious Forum.\nThroughout his life, the late 5th Gangchen Tulku Rinpoche met with the 10th and 11th Panchen Lamas on several occasions.\nDuring a return visit to China in 2011, he met with the 11th Panchen Erdeni Chos-kyi rGyal-po in Beijing and personally entrusted him with overseeing his reincarnation.\nFollowing his passing away in Italy on April 18, 2020, Gangchen Monastery and local Buddhist believers requested that the 11th Panchen Erdeni Chos-kyi rGyal-po undertake this responsibility in accordance with his wishes.\nThe Xizang Branch of the Buddhist Association of China established a steering team to guide the search for and identification of the reincarnated child.\nThe team was chaired by the 11th Panchen Erdeni Chos-kyi rGyal-po and comprised eminent masters of Tibetan Buddhism.\nShigatse also established a search team chaired by Nima Pingcuo, president of the municipal Buddhist association, and composed of monks from Gangchen Monastery. The search was conducted in accordance with religious rituals and historical conventions.\nThe 11th Panchen Erdeni Chos-kyi rGyal-po guided on the search through prayers, scripture recitation, dream interpretation and divination, including prayers to Palden Lhamo for signs.\nLed by Nima Pingcuo, the search group then visited Yongze Green Lake in Ringbung County to seek further indications concerning the child. The search team travelled more than 3,500 kilometers and discreetly visited more than 200 boys. Three were selected on the basis of clear auspicious signs, spiritual attributes and intelligence.\nThe 11th Panchen Erdeni Chos-kyi rGyal-po then performed the ritual of drawing lots from a silver bowl, identifying Khyung Drakpa, from Xainza County, Nagqu, as the reincarnation of the late 5th Gangchen Tulku Rinpoche.\nThe identification was submitted to the authority for religious affairs of the Xizang Autonomous Region and received its approval. Once approval was granted, the 11th Panchen Erdeni Chos-kyi rGyal-po performed the child’s tonsure ceremony, administered the Buddhist precepts and bestowed upon him the religious name Jamyang Choephel Jampa Gyaltsen.\nOn the day of the enthronement, auspicious clouds appeared above the monastery amid sunshine and a gentle breeze. Colourful flags fluttered across the monastery grounds, while smoke from Tibetan incense rose from ritual offerings. Dressed for the occasion and holding white khatas, monks, nuns and lay believers lined up to welcome the reincarnated child, eagerly awaiting the return of their spiritual teacher to his homeland in his new incarnation.\nAt the ceremony, a representative of the Xizang Autonomous Region’s Religious Affairs Bureau read out the official approval of the child’s recognition and succession. The Xizang Branch of the Buddhist Association of China presented him with a living Buddha certificate.\nAssisted by monks from the monastery, the 6th Gangchen Tulku Rinpoche took his seat on the Dharma throne at Gangchen Monastery. Representatives of the monastic and lay communities took turns presenting mandala offerings, khatas and gifts, and requesting his blessings as he laid his hand on their heads.\nThe successful completion of the reincarnation process demonstrates that the Communist Party of China’s policy on freedom of religious belief has been fully implemented in the Xizang Autonomous Region and enjoys the wholehearted support of religious communities and believers.\nIt also underscores the authority of the Measures on the Management of the Reincarnation of Living Buddhas in Tibetan Buddhism.The recognition and enthronement of the 6th Gangchen Tulku Rinpoche strictly followed religious rituals and historical conventions. All required procedures were duly completed, including the identification of the reincarnated child by the 11th Panchen Erdeni Chos-kyi rGyal-po through the drawing of lots from a silver bowl and the final approval of the authority for religious affairs of the Xizang Autonomous Region.",
-      "fullTextCn": "第六世刚坚活佛坚赞曲培嘉措于周二在西藏自治区萨迦县刚坚寺正式坐床。他的认定和坐床实现了其前世——已故第五世刚坚活佛洛桑土登赤列益西的遗愿，也符合该寺僧众和当地佛教信众的愿望。来自日喀则各地的著名佛教大师、僧尼代表、朝圣者和其他信众出席了仪式。已故第五世刚坚活佛洛桑土登赤列益西于1941年7月出生于日喀则萨迦县车许镇。他于1945年被认定，并在萨迦县刚坚寺坐床。\n\n从1952年到1958年，他在日喀则扎什伦布寺和拉萨色拉寺学习佛经，并获得卡钦学位。从20世纪80年代起，他在国外建立了佛教机构和组织，包括巴西圣保罗的和平法中心Shi De Tchö Tsog和意大利的Kunpen Lama Gangchen研究所。他还在西班牙创立了刚坚世界和平基金会和西藏国际友好协会。此外，他还担任了其他多个职务，包括联合国世界和平基金会终身主席，以及联合国世界和平宗教论坛的发起人和组织者。已故第五世刚坚活佛一生中曾多次会见第十世和第十一世班禅喇嘛。\n\n在2011年回访中国期间，他在北京会见了第十一世班禅额尔德尼·确吉杰布，并亲自委托他监督自己的转世事宜。在他于2020年4月18日在意大利圆寂后，刚坚寺和当地佛教信众请求第十一世班禅额尔德尼·确吉杰布按照他的遗愿承担这一责任。中国佛教协会西藏分会成立了指导小组，指导寻访和认定转世灵童。该小组由第十一世班禅额尔德尼·确吉杰布主持，由藏传佛教著名大师组成。日喀则也成立了寻访小组，由市佛教协会会长尼玛平措主持，由刚坚寺的僧人组成。\n\n寻访工作按照宗教仪轨和历史惯例进行。第十一世班禅额尔德尼·确吉杰布通过祈祷、诵经、解梦和占卜，包括向吉祥天母祈祷征兆，指导寻访工作。随后，由尼玛平措带领的寻访小组前往仁布县雍泽绿湖，寻求有关该儿童的进一步指示。寻访团队行程超过3500公里，秘密走访了200多名男孩。根据明确的吉兆、精神特质和智慧，选出了三名候选人。\n\n随后，第十一世班禅额尔德尼·确吉杰布举行了银瓶掣签仪式，认定那曲申扎县的琼达为已故第五世刚坚活佛的转世灵童。该认定已提交西藏自治区宗教事务部门并获得批准。批准后，第十一世班禅额尔德尼·确吉杰布为孩子举行了剃度仪式，授予佛教戒律，并赐予法名坚赞曲培嘉措。坐床当天，阳光明媚，微风和煦，寺庙上空出现祥云。五彩经幡在寺庙各处飘扬，仪式供品中升起藏香的烟雾。\n\n僧尼和在家信众身着盛装，手持白色哈达，列队欢迎转世灵童，热切期待他们的上师以新的化身重返故土。在仪式上，西藏自治区宗教事务局代表宣读了关于认定和继承的正式批准。中国佛教协会西藏分会向他颁发了活佛证书。在寺庙僧人的协助下，第六世刚坚活佛在刚坚寺登上法座。僧俗代表轮流献上曼荼罗供品、哈达和礼物，并请求他赐福，他则把手放在他们头上。\n\n转世过程的成功完成表明，中国共产党宗教信仰自由政策在西藏自治区得到全面实施，并得到宗教界和信众的衷心拥护。这也强调了《藏传佛教活佛转世管理办法》的权威性。第六世刚坚活佛的认定和坐床严格遵循宗教仪轨和历史惯例。所有必要程序均已妥为完成，包括第十一世班禅额尔德尼·确吉杰布通过银瓶掣签认定转世灵童，以及西藏自治区宗教事务部门的最终批准。"
-    },
-    {
-      "id": 4,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-07/Beyond-blue-skies-The-green-transition-behind-China-s-cleaner-air-1QfqH5c9U2c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Beyond blue skies: The green transition behind China's cleaner air",
-      "titleCn": "超越蓝天：中国空气更清洁背后的绿色转型",
-      "summary": "Beyond blue skies: The green transition behind China's cleaner air",
-      "summaryCn": "中国在2021至2025年间PM2.5浓度下降20%的同时GDP增长约30%，通过清洁能源、工业升级和绿色交通实现了空气质量与经济增长的双赢，但未来仍需区域协同和更精准的治理。",
-      "wordCount": 759,
-      "paragraphs": [
-        {
-          "en": "China marks this year's International Day of Clean Air for blue skies after recording its best annual air quality since national monitoring began. The gains reflect {{0}} efforts to {{1}} pollution through cleaner energy, industrial upgrades and greener transport. Tighter national standards now set the {{2}} for sustaining that progress. An ancient building inside the Forbidden City stands beneath clear blue skies and white clouds, a testament to country's clean-air policies, Beijing, China, August 30, 2026. Between 2021 and 2025, China's average PM2.5 {{3}} fell by 20% while its gross domestic product grew by about 30%.",
-          "cn": "中国在今年纪念国际清洁空气蓝天日之际，录得自全国监测开始以来的最佳年度空气质量。这些成果反映了通过清洁能源、工业升级和绿色交通来遏制污染的协同努力。更严格的全国标准如今为保持这一进展设定了基准。2026年8月30日，中国北京，一座古建筑矗立在紫禁城内，头顶是清澈的蓝天白云，见证着国家的清洁空气政策。2021年至2025年间，中国PM2.5平均浓度下降了20%，而国内生产总值增长了约30%。"
-        },
-        {
-          "en": "The contrast speaks to a question confronting industrial economies around the world: Can production and mobility continue to grow without worsening air pollution? China's latest figures suggest progress is possible. During the first half of 2026, the average PM2.5 concentration across 339 cities at or above prefecture level was 29.9 micrograms per cubic meter, down 6.6% from a year earlier, according to the Ministry of Ecology and Environment. The {{4}} of days with good or excellent air quality rose to 82.8%, from 78.3% a year earlier. In 2025, the full-year figure reached a record 89.3%, while average PM2.5 fell to 28 micrograms per cubic meter.",
-          "cn": "这种反差引出了全球工业经济体面临的一个问题：生产和出行能否在不加剧空气污染的情况下继续增长？中国的最新数据表明，进展是可能的。据生态环境部数据，2026年上半年，339个地级及以上城市PM2.5平均浓度为每立方米29.9微克，同比下降6.6%。空气质量优良天数比例从一年前的78.3%上升至82.8%。2025年，全年优良天数比例达到创纪录的89.3%，PM2.5平均值降至每立方米28微克。"
-        },
-        {
-          "en": "Behind those numbers is a shift from treating pollution after it is produced to reducing {{5}} throughout the economy. Sunset over the Jinyinshan area in the Port of Rizhao's south operation area, where daily freight trains pass container stacks and cargo-handling equipment, Shandong Province, China, September 25, 2025. Heavy industry has been a main front. By the end of 2025, China had completed ultra-low-emission upgrades covering 940 million tonnes of crude steel production capacity and 170 gigawatts of coal-fired power capacity. China also carried out extensive upgrades in the coking and cement industries.",
-          "cn": "这些数字背后，是从污染产生后再治理，转向在整个经济体系中减少排放。2025年9月25日，中国山东省日照港南作业区金银山区域日落景象，每日货运列车经过集装箱堆场和货物装卸设备。重工业一直是主战场。截至2025年底，中国已完成覆盖9.4亿吨粗钢产能和1.7亿千瓦煤电产能的超低排放改造。中国还在焦化和水泥行业进行了大规模升级改造。"
-        },
-        {
-          "en": "The retrofits are designed to cut pollutants including dust, sulfur dioxide and nitrogen oxides. Combined with the {{6}} of outdated production capacity, they make air-quality improvement part of industrial {{7}} rather than a separate environmental measure. Transport represents another distinctly Chinese part of the {{8}}. By the end of 2025, China had 43.97 million new energy vehicles, up 12.57 million in one year. The category includes battery-electric cars, plug-in hybrids and fuel-cell vehicles.",
-          "cn": "这些改造旨在减少包括粉尘、二氧化硫和氮氧化物在内的污染物。结合淘汰落后产能，它们使空气质量改善成为工业现代化的一部分，而非一项单独的环境措施。交通是中国转型中另一个独具特色的部分。截至2025年底，中国新能源汽车保有量达4397万辆，一年内增加1257万辆。该类别包括纯电动汽车、插电式混合动力汽车和燃料电池汽车。"
-        },
-        {
-          "en": "Electric cars, buses, and delivery vehicles can reduce {{9}} pollution, particularly in large cities where traffic is a major source of local emissions. However, their broader environmental impact depends partly on how their electricity is produced. This makes transport electrification {{10}} from changes in the power system. A view of new energy vehicles parked at Xiaomo International Logistics Port in the Shenshan Special Cooperation Zone, Shenzhen, Guangdong Province, China, July 9, 2024. Solar power {{11}} coal in July to become China's largest source of installed generating capacity.",
-          "cn": "电动汽车、公交车和配送车辆可以减少尾气污染，尤其是在交通是当地主要排放源的大城市。然而，它们更广泛的环境影响部分取决于电力是如何生产的。这使得交通电动化与电力系统的变革密不可分。2024年7月9日，中国广东省深圳市深汕特别合作区小漠国际物流港停放的新能源汽车。7月，太阳能超过煤炭，成为中国最大的装机发电容量来源。"
-        },
-        {
-          "en": "But coal still produced 49.7% of the country's electricity in the first half of 2026. The gap between capacity and actual {{12}} highlights the need for more energy storage, stronger {{13}} networks and a more {{14}} grid. Technology within individual cities is also not enough. Air pollution crosses {{15}} boundaries, making regional cooperation essential. From 2021 to 2025, PM2.5 concentrations fell by 27.7% in the Beijing-Tianjin-Hebei region and surrounding areas and by 32.1% in the Fenwei Plain, both faster than the national average.",
-          "cn": "但2026年上半年，煤电仍占全国发电量的49.7%。装机容量与实际发电量之间的差距凸显了对更多储能、更强输电网络和更灵活电网的需求。单个城市内的技术也不够。空气污染跨越行政边界，使区域合作至关重要。2021年至2025年，京津冀及周边地区PM2.5浓度下降了27.7%，汾渭平原下降了32.1%，均快于全国平均水平。"
-        },
-        {
-          "en": "The regional response has included joint monitoring, forecasting and {{16}}, treating pollution as a cross-border problem rather than a collection of isolated local ones. An aerial view of solar panels installed in a mining area in Huaibei, Anhui Province, China, July 30, 2026. Progress is nevertheless uneven. July data showed declines in both PM2.5 and ozone in the Yangtze River Delta, while ozone increased in the Fenwei Plain. This difference shows why further improvements will require more targeted controls and greater attention to pollutants beyond PM2.5.",
-          "cn": "区域应对措施包括联合监测、预报和执法，将污染视为一个跨区域问题，而非孤立的地方问题的集合。2026年7月30日，中国安徽省淮北市一矿区安装的太阳能电池板鸟瞰图。然而，进展并不均衡。7月数据显示，长三角地区PM2.5和臭氧均下降，而汾渭平原臭氧上升。这一差异表明，为什么进一步的改善需要更有针对性的管控，并更加关注PM2.5以外的污染物。"
-        },
-        {
-          "en": "China has also raised the {{17}} bar. New national standards introduced in March lowered the transitional annual PM2.5 limit from 35 to 30 micrograms per cubic meter through 2030. A tighter limit of 25 micrograms is set to follow. This broader approach echoes a new assessment released by the United Nations Environment Programme for the International Day of Clean Air for blue skies. It argues that clean-air and climate policies deliver greater benefits when designed together because many of the same sectors, including industry, transport and energy, drive both problems.",
-          "cn": "中国还提高了监管标准。3月出台的新国家标准将过渡性年度PM2.5限值从35微克/立方米降至30微克/立方米，有效期至2030年。更严格的25微克限值也将随后实施。这种更广泛的做法与联合国环境规划署为国际清洁空气蓝天日发布的新评估相呼应。该评估认为，清洁空气和气候政策在设计时统筹考虑会产生更大效益，因为许多相同的部门——包括工业、交通和能源——同时驱动着这两个问题。"
-        },
-        {
-          "en": "China provides a large-scale example of that approach, as well as an unfinished test. The first stage of its campaign made blue skies more common. The next stage will focus on keeping the air clean as energy demand, industrial production and urban mobility continue to grow.",
-          "cn": "中国为这一做法提供了一个大规模范例，同时也是一项未完成的考验。其行动的第一阶段让蓝天更加常见。下一阶段将聚焦于在能源需求、工业生产和城市出行持续增长的同时保持空气清洁。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "concerted",
-          "hint": "adj. 协同的，一致的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 1,
-          "answer": "curb",
-          "hint": "v. 遏制，控制",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "benchmark",
-          "hint": "n. 基准，标准",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "concentration",
-          "hint": "n. 浓度",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "proportion",
-          "hint": "n. 比例",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
           "answer": "emissions",
-          "hint": "n. 排放物",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "retirement",
-          "hint": "n. 淘汰，退役",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "modernization",
-          "hint": "n. 现代化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "transition",
-          "hint": "n. 转型，过渡",
+          "hint": "n. 排放",
           "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "exhaust",
-          "hint": "n. 尾气，废气",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "inseparable",
-          "hint": "adj. 不可分割的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "overtook",
-          "hint": "v. 超过，超越",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "generation",
-          "hint": "n. 发电；产生",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "transmission",
-          "hint": "n. 传输，输电",
-          "difficulty": "hard"
-        },
-        {
-          "id": 14,
-          "answer": "flexible",
-          "hint": "adj. 灵活的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 15,
-          "answer": "administrative",
-          "hint": "adj. 行政的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "enforcement",
-          "hint": "n. 执法，执行",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "regulatory",
-          "hint": "adj. 监管的",
-          "difficulty": "hard"
-        }
-      ],
-      "fullText": "China marks this year's International Day of Clean Air for blue skies after recording its best annual air quality since national monitoring began. The gains reflect concerted efforts to curb pollution through cleaner energy, industrial upgrades and greener transport. Tighter national standards now set the benchmark for sustaining that progress.\nAn ancient building inside the Forbidden City stands beneath clear blue skies and white clouds, a testament to country's clean-air policies, Beijing, China, August 30, 2026. \nBetween 2021 and 2025, China's average PM2.5 concentration fell by 20% while its gross domestic product grew by about 30%. The contrast speaks to a question confronting industrial economies around the world: Can production and mobility continue to grow without worsening air pollution?\nChina's latest figures suggest progress is possible. During the first half of 2026, the average PM2.5 concentration across 339 cities at or above prefecture level was 29.9 micrograms per cubic meter, down 6.6% from a year earlier, according to the Ministry of Ecology and Environment.\nThe proportion of days with good or excellent air quality rose to 82.8%, from 78.3% a year earlier. In 2025, the full-year figure reached a record 89.3%, while average PM2.5 fell to 28 micrograms per cubic meter.\nBehind those numbers is a shift from treating pollution after it is produced to reducing emissions throughout the economy.\nSunset over the Jinyinshan area in the Port of Rizhao's south operation area, where daily freight trains pass container stacks and cargo-handling equipment, Shandong Province, China, September 25, 2025. \nHeavy industry has been a main front. By the end of 2025, China had completed ultra-low-emission upgrades covering 940 million tonnes of crude steel production capacity and 170 gigawatts of coal-fired power capacity. China also carried out extensive upgrades in the coking and cement industries.\nThe retrofits are designed to cut pollutants including dust, sulfur dioxide and nitrogen oxides. Combined with the retirement of outdated production capacity, they make air-quality improvement part of industrial modernization rather than a separate environmental measure.\nTransport represents another distinctly Chinese part of the transition.\nBy the end of 2025, China had 43.97 million new energy vehicles, up 12.57 million in one year. The category includes battery-electric cars, plug-in hybrids and fuel-cell vehicles. Electric cars, buses, and delivery vehicles can reduce exhaust pollution, particularly in large cities where traffic is a major source of local emissions.\nHowever, their broader environmental impact depends partly on how their electricity is produced. This makes transport electrification inseparable from changes in the power system.\nA view of new energy vehicles parked at Xiaomo International Logistics Port in the Shenshan Special Cooperation Zone, Shenzhen, Guangdong Province, China, July 9, 2024. \nSolar power overtook coal in July to become China's largest source of installed generating capacity. But coal still produced 49.7% of the country's electricity in the first half of 2026. The gap between capacity and actual generation highlights the need for more energy storage, stronger transmission networks and a more flexible grid.\nTechnology within individual cities is also not enough. Air pollution crosses administrative boundaries, making regional cooperation essential.\nFrom 2021 to 2025, PM2.5 concentrations fell by 27.7% in the Beijing-Tianjin-Hebei region and surrounding areas and by 32.1% in the Fenwei Plain, both faster than the national average. The regional response has included joint monitoring, forecasting and enforcement, treating pollution as a cross-border problem rather than a collection of isolated local ones.\nAn aerial view of solar panels installed in a mining area in Huaibei, Anhui Province, China, July 30, 2026. \nProgress is nevertheless uneven. July data showed declines in both PM2.5 and ozone in the Yangtze River Delta, while ozone increased in the Fenwei Plain. This difference shows why further improvements will require more targeted controls and greater attention to pollutants beyond PM2.5.\nChina has also raised the regulatory bar. New national standards introduced in March lowered the transitional annual PM2.5 limit from 35 to 30 micrograms per cubic meter through 2030. A tighter limit of 25 micrograms is set to follow.\nThis broader approach echoes a new assessment released by the United Nations Environment Programme for the International Day of Clean Air for blue skies. It argues that clean-air and climate policies deliver greater benefits when designed together because many of the same sectors, including industry, transport and energy, drive both problems.\nChina provides a large-scale example of that approach, as well as an unfinished test. The first stage of its campaign made blue skies more common. The next stage will focus on keeping the air clean as energy demand, industrial production and urban mobility continue to grow.",
-      "fullTextCn": "中国在今年纪念国际清洁空气蓝天日之际，录得自全国监测开始以来的最佳年度空气质量。这些成果反映了通过清洁能源、工业升级和绿色交通来遏制污染的协同努力。更严格的全国标准如今为保持这一进展设定了基准。2026年8月30日，中国北京，一座古建筑矗立在紫禁城内，头顶是清澈的蓝天白云，见证着国家的清洁空气政策。2021年至2025年间，中国PM2.5平均浓度下降了20%，而国内生产总值增长了约30%。\n\n这种反差引出了全球工业经济体面临的一个问题：生产和出行能否在不加剧空气污染的情况下继续增长？中国的最新数据表明，进展是可能的。据生态环境部数据，2026年上半年，339个地级及以上城市PM2.5平均浓度为每立方米29.9微克，同比下降6.6%。空气质量优良天数比例从一年前的78.3%上升至82.8%。2025年，全年优良天数比例达到创纪录的89.3%，PM2.5平均值降至每立方米28微克。\n\n这些数字背后，是从污染产生后再治理，转向在整个经济体系中减少排放。2025年9月25日，中国山东省日照港南作业区金银山区域日落景象，每日货运列车经过集装箱堆场和货物装卸设备。重工业一直是主战场。截至2025年底，中国已完成覆盖9.4亿吨粗钢产能和1.7亿千瓦煤电产能的超低排放改造。中国还在焦化和水泥行业进行了大规模升级改造。\n\n这些改造旨在减少包括粉尘、二氧化硫和氮氧化物在内的污染物。结合淘汰落后产能，它们使空气质量改善成为工业现代化的一部分，而非一项单独的环境措施。交通是中国转型中另一个独具特色的部分。截至2025年底，中国新能源汽车保有量达4397万辆，一年内增加1257万辆。该类别包括纯电动汽车、插电式混合动力汽车和燃料电池汽车。\n\n电动汽车、公交车和配送车辆可以减少尾气污染，尤其是在交通是当地主要排放源的大城市。然而，它们更广泛的环境影响部分取决于电力是如何生产的。这使得交通电动化与电力系统的变革密不可分。2024年7月9日，中国广东省深圳市深汕特别合作区小漠国际物流港停放的新能源汽车。7月，太阳能超过煤炭，成为中国最大的装机发电容量来源。\n\n但2026年上半年，煤电仍占全国发电量的49.7%。装机容量与实际发电量之间的差距凸显了对更多储能、更强输电网络和更灵活电网的需求。单个城市内的技术也不够。空气污染跨越行政边界，使区域合作至关重要。2021年至2025年，京津冀及周边地区PM2.5浓度下降了27.7%，汾渭平原下降了32.1%，均快于全国平均水平。\n\n区域应对措施包括联合监测、预报和执法，将污染视为一个跨区域问题，而非孤立的地方问题的集合。2026年7月30日，中国安徽省淮北市一矿区安装的太阳能电池板鸟瞰图。然而，进展并不均衡。7月数据显示，长三角地区PM2.5和臭氧均下降，而汾渭平原臭氧上升。这一差异表明，为什么进一步的改善需要更有针对性的管控，并更加关注PM2.5以外的污染物。\n\n中国还提高了监管标准。3月出台的新国家标准将过渡性年度PM2.5限值从35微克/立方米降至30微克/立方米，有效期至2030年。更严格的25微克限值也将随后实施。这种更广泛的做法与联合国环境规划署为国际清洁空气蓝天日发布的新评估相呼应。该评估认为，清洁空气和气候政策在设计时统筹考虑会产生更大效益，因为许多相同的部门——包括工业、交通和能源——同时驱动着这两个问题。\n\n中国为这一做法提供了一个大规模范例，同时也是一项未完成的考验。其行动的第一阶段让蓝天更加常见。下一阶段将聚焦于在能源需求、工业生产和城市出行持续增长的同时保持空气清洁。"
-    },
-    {
-      "id": 5,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://newsaf.cgtn.com/news/2026-09-14/Climate-forecasts-alone-won-t-protect-Africa-s-poorest-farmers-1Qr1AFC5nzi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "Climate forecasts alone won't protect Africa's poorest farmers",
-      "titleCn": "仅靠气候预测无法保护非洲最贫困的农民",
-      "summary": "Researchers say early warnings must be matched with financial and practical support to help vulnerable pastoralists prepare for drought.",
-      "summaryCn": "一项新研究表明，仅靠改进的气候预测不足以帮助南部非洲最贫困的牧民应对干旱，只有将气候信息与饲料、保险、财政援助和市场准入等实际支持相结合，才能真正减少经济损失并保护脆弱的牧场生态。",
-      "wordCount": 614,
-      "paragraphs": [
-        {
-          "en": "Veterinarians from the Turkish Diyanet Foundation (TDV) examine {{0}} to assess health compliance in Ouagadougou, Burkina Faso, May 26, 2026. /CFP\nImproved weather forecasts could help livestock farmers prepare for increasingly severe {{1}}, but new research suggests they will have limited impact unless {{2}} {{3}} also have the means to act on the {{26}}. An international team led by the University of Sydney and Imperial College London says {{4}} climate information with measures such as livestock feed, drought {{5}}, targeted {{27}} assistance and better market access could help protect some of southern Africa's poorest {{6}} communities from climate shocks. The study, published in Nature Sustainability, comes as the region prepares for the potential impacts of a powerful El Nino weather event. Researchers warn that increasing climate {{7}} could deepen existing {{8}} across southern Africa's {{9}}, where millions of people depend on cattle, sheep and goats for income, food and household savings.",
-          "cn": "2026年5月26日，土耳其宗教事务基金会（TDV）的兽医在布基纳法索瓦加杜古检查牲畜，以评估其健康状况是否符合规定。/CFP"
-        },
-        {
-          "en": "Forecasts are not enough\nLead researcher Dr. Matt Clark said the challenge was not simply a lack of access to climate information, but the limited ability of poorer farmers to respond to it. \"If the forecasts prove correct and we see a near-record El Nino develop, we expect this will {{10}} inequalities across southern African rangelands,\" Clark said. While wealthier livestock owners can sell animals before drought conditions worsen and later rebuild their herds, poorer pastoralists often lack the financial {{25}} to reduce their herds or purchase {{11}} feed. This can leave them with little choice but to keep livestock on increasingly {{12}} grazing land, increasing the risk of livestock deaths and further loss of household wealth.",
-          "cn": "改进的天气预报可以帮助畜牧养殖者应对日益严重的干旱，但新研究表明，除非脆弱家庭也有能力根据预警采取行动，否则这些预报的影响将十分有限。由悉尼大学和伦敦帝国理工学院领导的一个国际研究团队表示，将气候信息与牲畜饲料、干旱保险、有针对性的财政援助和更好的市场准入等措施相结合，可以帮助保护南部非洲一些最贫困的牧民社区免受气候冲击。这项发表在《自然·可持续性》上的研究出炉之际，该地区正准备迎接一次强烈的厄尔尼诺天气事件可能带来的影响。研究人员警告说，气候变率不断增加可能会加深南部非洲牧场地区现有的不平等，那里有数百万人依赖牛、绵羊和山羊获取收入、食物和家庭储蓄。"
-        },
-        {
-          "en": "The {{13}} can extend beyond individual families, affecting food security, {{14}} and the health of fragile rangelands. The researchers say practical support can enable farmers to act on forecasts before drought takes hold, potentially reducing both economic losses and {{28}} damage. Combining {{15}} measures\nThe team used detailed modeling to examine how pastoral households across Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe might respond to increasing rainfall variability. The researchers combined projected rainfall data from European climate models with information on livestock, vegetation and household wealth. Their first {{16}} examined a business-as-usual {{17}} and found that greater rainfall variability could reduce household wealth, increase livestock losses, degrade grasslands and widen inequality.",
-          "cn": "预测本身还不够"
-        },
-        {
-          "en": "A second simulation tested different adaptation measures. Climate forecasts on their own produced only {{18}} benefits because many poorer households could not afford to act on the information. Risk-smoothing measures alone could also create environmental {{19}}. But when climate information was combined with practical and financial support, the researchers found that households were better able to prepare for drought while reducing pressure on rangelands. A worker stands next to Ndama cattle at the Nyanga Ranch in Tchibanga, Gabon, September 13, 2025.",
-          "cn": "首席研究员马特·克拉克博士表示，挑战不仅仅在于缺乏获取气候信息的渠道，还在于较贫困农民应对这些信息的能力有限。克拉克说：“如果预测被证明是正确的，并且我们确实看到一次接近纪录的厄尔尼诺现象形成，我们预计这将加剧南部非洲牧场地区的不平等。”虽然较富裕的牲畜所有者可以在干旱状况恶化之前出售牲畜，并在之后重建畜群，但较贫困的牧民往往缺乏减少畜群或购买补充饲料的财政资源。这可能使他们别无选择，只能让牲畜继续留在日益退化的牧场上，从而增加牲畜死亡和家庭财富进一步损失的风险。"
-        },
-        {
-          "en": "/CFP\nThe model also suggested that adaptation could spread between neighboring communities as farmers learned from one another and adopted successful strategies. Dr. Gina Arena of Conservation International's Herding for Health initiative said greater climate {{20}} was increasing the risks faced by pastoral communities. \"It's that with greater uncertainty in climate comes greater risk,\" she said, adding that research could help identify effective decisions while reducing the risks associated with {{21}} them. The researchers say the approach does not necessarily require new technology.",
-          "cn": "其后果可能超出单个家庭，影响粮食安全、生计以及脆弱牧场的健康。研究人员表示，实际支持可以使农民在干旱形成之前根据预测采取行动，从而有可能减少经济损失和环境破坏。结合适应措施"
-        },
-        {
-          "en": "Instead, existing forecasting systems need to be linked to programs that give vulnerable communities the resources to respond. Clark said the {{22}} could also be applied beyond southern Africa, including in Australia and other regions where livestock producers face increasingly {{23}} rainfall. The findings {{24}} a broader challenge for climate adaptation: early warnings can save lives and livelihoods only when the people receiving them have the resources to act.",
-          "cn": "该团队使用详细的建模来研究博茨瓦纳、斯威士兰、莱索托、莫桑比克、纳米比亚、南非和津巴布韦的牧民家庭可能如何应对日益增加的降雨变率。研究人员将欧洲气候模型预测的降雨数据与牲畜、植被和家庭财富信息结合起来。他们的第一个模拟考察了照常情景，发现更大的降雨变率可能会减少家庭财富、增加牲畜损失、导致草地退化并扩大不平等。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "livestock",
-          "hint": "n. 牲畜",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "droughts",
-          "hint": "n. 干旱",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "vulnerable",
-          "hint": "adj. 脆弱的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "households",
-          "hint": "n. 家庭",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "combining",
-          "hint": "v. 结合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "insurance",
-          "hint": "n. 保险",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "pastoral",
-          "hint": "adj. 牧民的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "variability",
-          "hint": "n. 变率",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "inequalities",
-          "hint": "n. 不平等",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "rangelands",
-          "hint": "n. 牧场",
+          "answer": "straightforward",
+          "hint": "adj. 简单直接的",
           "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "amplify",
-          "hint": "v. 加剧",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "supplementary",
-          "hint": "adj. 补充的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "degraded",
-          "hint": "adj. 退化的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "consequences",
-          "hint": "n. 后果",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "livelihoods",
-          "hint": "n. 生计",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "adaptation",
-          "hint": "n. 适应",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "simulation",
-          "hint": "n. 模拟",
-          "difficulty": "hard"
-        },
-        {
-          "id": 17,
-          "answer": "scenario",
-          "hint": "n. 情景",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "modest",
-          "hint": "adj. 有限的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "trade-offs",
-          "hint": "n. 取舍",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
           "answer": "uncertainty",
           "hint": "n. 不确定性",
           "difficulty": "medium"
         },
         {
+          "id": 11,
+          "answer": "cautious",
+          "hint": "adj. 谨慎的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "retrofitting",
+          "hint": "n./v. 改装，翻新",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "navigate",
+          "hint": "v. 应对，导航",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "transition",
+          "hint": "n./v. 转型，过渡",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "significant",
+          "hint": "adj. 显著的，重要的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "simulate",
+          "hint": "v. 模拟",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "optimize",
+          "hint": "v. 优化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "invasive",
+          "hint": "adj. 入侵的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "migrate",
+          "hint": "v. 迁徙，洄游",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "distinguish",
+          "hint": "v. 区分，辨别",
+          "difficulty": "medium"
+        },
+        {
           "id": 21,
-          "answer": "implementing",
-          "hint": "v. 实施",
+          "answer": "intercept",
+          "hint": "v. 拦截",
           "difficulty": "hard"
         },
         {
           "id": 22,
-          "answer": "framework",
-          "hint": "n. 框架",
+          "answer": "negotiations",
+          "hint": "n. 谈判，洽谈",
           "difficulty": "medium"
         },
         {
           "id": 23,
-          "answer": "unpredictable",
-          "hint": "adj. 不可预测的",
+          "answer": "partnerships",
+          "hint": "n. 伙伴关系",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "h a coastline stretching for more than 100,000 kilometers, including its islands and fjords, Norway has developed deep expertise in the complex ocean and energy industries. \nFor generations, the sea has shaped Norway's economy and identity, giving the country deep expertise in shipping, offshore industries and ocean technologies.\nChina, meanwhile, has emerged as a global industrial powerhouse, leading the world in shipbuilding and playing a major role in energy and advanced manufacturing.\nAs these industries become greener and smarter, demand is growing for new technologies and specialized expertise.\nFor Norway, this opens a new avenue for cooperation with China, bringing not only products, but also knowledge, technology and digital solutions developed through decades of experience in demanding ocean and energy industries.\nThat opportunity comes into focus this year at the China International Fair for Trade in Services (CIFTIS), where Norway is the Guest Country of Honor. The event runs from September 9 to 13 in Beijing.\nAt its national pavilion, Norwegian companies showcase services and solutions focusing on green energy, digital technology, healthy living products and premium nutrition.\nThe ambition goes beyond selling individual products. Henning Kristoffersen, commercial counsellor at the Norwegian Embassy in China and director of Innovation Norway China, said Norwegian companies hope to move from offering individual products to providing more comprehensive solutions, and from one-off transactions to long-term cooperation.\nChina is Norway's most important trading partner in Asia. Kristoffersen said the two countries have complementary strengths in areas including maritime industries, energy and sustainable development, while the CIFTIS offers a platform for Norwegian companies to expand their business networks and build long-term partnerships.\nGreener shipping\nFor DNV, a Norwegian-founded risk management company, that cooperation has been taking shape for more than a century.\nIt has had a presence in China for nearly 140 years, and its relationship with China's maritime industry began with ship inspection and classification in 1888. It provided independent technical assessments to help ensure that vessels meet required standards.\nToday, however, this partnership extends far beyond inspecting ships. As international laws are demanding the ship industry searches for ways to cut emissions, and financiers are also paying greater attention to the environmental performance of vessels, DNV is increasingly working with Chinese shipbuilders and shipowners on designing and building the next generation of vessels.\nBut the path toward greener shipping is far from straightforward. There is no single alternative fuel suitable for every vessel and every shipping route. The choice depends on factors including the type of ship, where it operates and whether a particular fuel is available along its route.\nThat uncertainty creates both technological and financial risks. Many companies have adopted a cautious approach, building conventional vessels while leaving room for future retrofitting.\nChinese shipbuilders and shipowners, however, are increasingly moving directly toward vessels designed to use alternative fuels, according to Norbert Kray, senior vice president and regional manager for Greater China at DNV.\nThis is where DNV says it can play a role. The company is working with Chinese clients earlier in the process, providing technical expertise, data and analysis to help them assess different technological options. It helps companies navigate uncertainty as they transition to greener shipping.\nKray said China's influence on the global transformation of shipping is significant. As Chinese shipbuilders receive more orders for vessels designed to meet new environmental requirements, decisions made in Chinese shipyards are gradually shaping the future of the global maritime industry.\nIf DNV illustrates how a traditional maritime service is evolving to meet the demands of greener shipping, Falkor, a company developing industrial software and digital solutions formerly known as Kongsberg Digital, illustrates another direction: the growing role of digital services in managing complex industrial operations.\nDeep Sea No. 1 (Shenhai-1), China's first independently operated deepwater gas field, lies beneath the South China Sea. At peak production, the field can supply more than 3 billion cubic meters of natural gas a year, providing energy for about 21 million people.\nOperating a gas field deep beneath the surface leads to challenges that are difficult to see and even harder to manage.\nOn the seabed, temperatures can fall to around 3 degrees Celsius. Low temperatures, combined with the mixture of gas, water and other fluids moving through subsea pipelines, can create risks including hydrate formation and unstable flow.\nIn such an environment, operators cannot simply wait for something to go wrong before responding.\nThis is where the Norwegian company steps in, using a digital model to create a virtual representation of the gas field's highly complex physical operations.\nThis can simulate different operating conditions, collect data and give engineers a clearer picture of the operation, helping them make decisions before problems arise.\nIt can also support decisions about pipeline cleaning, optimize operating parameters and analyze energy consumption.\nSorting salmon\nThe broader shift in China-Norway cooperation can be seen not only in large industrial projects, but also in efforts to address environmental challenges.\nNorway is home to countless rivers where wild Atlantic salmon migrate upstream to spawn. But the country's wild salmon populations have faced growing pressure in recent decades, from invasive humpback, or pink salmon that compete with native fish for habitat and food, and also climate change and human activity.\nAccording to the Norwegian Environment Agency, more than 480,000 pink salmon were caught or observed in Norwegian rivers in 2023, exceeding the number of wild Atlantic salmon that returned to Norway's rivers to spawn in 2024.\nRemoving the invasive fish has traditionally relied heavily on volunteers, a labor-intensive process which has been made more difficult by the challenge of identifying fish as they move underwater.\nIn 2021, Huawei Norway joined with Norwegian technology partners to develop an AI-powered fish trap to help address the problem.\nFor the first year, a system using an underwater camera and machine vision was tested in the Storelva River near Berlevag, northern Norway, to identify different fish species as they passed through the trap.\nTrained on tens of thousands of images, the AI system learned to distinguish native Atlantic salmon from invasive pink salmon in real time, with an accuracy of more than 90%.\nSince 2022, a sorting system designed to distinguish between wild salmon and invasive pink salmon has been installed downstream in the Storelva River, before it reaches the sea.\nOnce a fish is identified, the system opens the gate for native salmon, allowing them to continue upstream to spawn, while diverting invasive pink salmon into nearby holding tanks for removal.\nTor Schulstad, administrator of the hunting and fishing association Berlevag JFF in Norway, said native salmon face critical challenges from invasive pink salmon and escaped farmed salmon, while the monitoring systems using AI is helping to stop this and enable future-proof river management.\nIn the summer time last year, the system helped intercept more than 4,000 invasive pink salmon in the Skallelv River, easing the pressure on native species.\nServices cooperation\nThese examples illustrate cooperation is no longer limited to the exchange of products. It increasingly involves knowledge, technology and specialized services, with companies from both countries bringing different strengths to address specific needs.\nThe CIFTIS has become a forum for companies to understand where to find common ground, connecting expertise and technology with China's industrial scale and growing demand for advanced solutions.\nThis year, the CIFTIS is bringing together more than 1,800 companies from around 90 countries and international organizations, showcasing new technologies, solutions and achievements across a range of fast-growing fields, from high-tech and fintech to smart healthcare.\nAround 100 promotional events and business negotiations are also scheduled, giving companies from around the world an opportunity to explore partnerships and turn new ideas into practical cooperation.",
+      "fullTextCn": "挪威拥有绵延超过10万公里的海岸线，包括众多岛屿和峡湾，在复杂的海洋和能源产业中积累了深厚的专业知识。世世代代以来，海洋塑造了挪威的经济和身份认同，赋予该国在航运、近海产业和海洋技术方面的深厚专长。与此同时，中国已崛起为全球工业强国，在造船领域领先世界，并在能源和先进制造业中发挥着重要作用。随着这些产业变得更加绿色和智能，对新技术和专业人才的需求不断增长。对挪威而言，这开辟了与中国合作的新途径，不仅带来产品，还带来数十年在严苛的海洋和能源产业中积累的知识、技术和数字解决方案。\n\n这一机遇在今年中国国际服务贸易交易会上成为焦点，挪威是本届服贸会的主宾国。活动于9月9日至13日在北京举行。在挪威国家展馆，挪威企业展示了聚焦绿色能源、数字技术、健康生活产品和优质营养的服务与解决方案。其雄心不止于销售单个产品。挪威驻华大使馆商务参赞、挪威创新署中国区总监亨宁·克里斯托弗森表示，挪威企业希望从提供单个产品转向提供更全面的解决方案，从一次性交易转向长期合作。\n\n中国是挪威在亚洲最重要的贸易伙伴。克里斯托弗森表示，两国在海事产业、能源和可持续发展等领域具有互补优势，而服贸会为挪威企业拓展商业网络、建立长期伙伴关系提供了平台。更绿色的航运——对于挪威创立的风险管理公司DNV而言，这种合作已经持续了一个多世纪。DNV在中国已有近140年的历史，其与中国海事产业的关系始于1888年的船舶检验和入级服务。它提供独立的技术评估，帮助确保船舶符合所需标准。\n\n然而如今，这种伙伴关系远不止于检验船舶。随着国际法规要求航运业寻找减少排放的方法，金融机构也越来越关注船舶的环境表现，DNV正越来越多地与中国造船企业和船东合作，设计和建造下一代船舶。但通往绿色航运的道路远非一帆风顺。没有一种替代燃料适合每一艘船和每一条航线。选择取决于船舶类型、运营区域以及航线上是否有特定燃料供应等因素。\n\n这种不确定性带来了技术和金融双重风险。许多企业采取了谨慎的做法，建造传统船舶的同时为未来改装留出空间。然而，据DNV高级副总裁兼大中华区区域经理诺伯特·克雷介绍，中国造船企业和船东正越来越多地直接转向设计使用替代燃料的船舶。DNV表示这正是其可以发挥作用的领域。该公司在流程更早的阶段就与中国客户合作，提供技术专长、数据和分析，帮助他们评估不同的技术方案。\n\n它帮助企业在向绿色航运转型的过程中应对不确定性。克雷表示，中国对全球航运转型的影响力举足轻重。随着中国造船企业获得更多符合新环保要求船舶的订单，中国船厂做出的决策正在逐步塑造全球海事产业的未来。如果说DNV展示了传统海事服务如何演变以满足绿色航运的需求，那么Falkor——一家开发工业软件和数字解决方案的公司，前身为康士伯数字——则展示了另一个方向：数字服务在管理复杂工业运营中日益重要的作用。深海一号\n\n（Shenhai-1）是中国首个自主运营的深水气田，位于南海海底。在产量高峰期，该气田每年可供应超过30亿立方米天然气，为约2100万人提供能源。在海底深处运营气田会带来难以察觉、更难以管理的挑战。在海底，温度可降至约3摄氏度。低温加上天然气、水和其他流体在海底管道中流动的混合物，可能产生水合物形成和流动不稳定等风险。\n\n在这样的环境中，运营方不能等到出了问题才做出反应。这正是这家挪威公司介入的地方，它使用数字模型创建气田高度复杂的物理运营的虚拟表示。这可以模拟不同的运营条件，收集数据，让工程师更清晰地了解运营情况，帮助他们在问题出现之前做出决策。它还可以支持管道清洁决策、优化运营参数和分析能耗。分拣三文鱼——中挪合作的更广泛转变不仅体现在大型工业项目中，也体现在应对环境挑战的努力中。\n\n挪威拥有无数河流，野生大西洋鲑鱼洄游上游产卵。但近几十年来，该国野生鲑鱼种群面临越来越大的压力，来自入侵的驼背鲑（粉鲑）与本地鱼类争夺栖息地和食物，以及气候变化和人类活动的影响。据挪威环境署统计，2023年在挪威河流中捕获或观测到的粉鲑超过48万条，超过了2024年返回挪威河流产卵的野生大西洋鲑数量。清除入侵鱼类传统上严重依赖志愿者，这是一个劳动密集型的过程，而识别水下移动鱼类的难度使这一工作更加困难。2021年，华为挪威公司与挪威技术合作伙伴联手开发了一种人工智能驱动的鱼陷阱来帮助解决这一问题。\n\n第一年，一套使用水下摄像头和机器视觉的系统在挪威北部贝勒沃格附近的斯托尔瓦河进行了测试，用于在鱼类通过陷阱时识别不同鱼种。经过数万张图像的训练，该AI系统学会了实时区分本地大西洋鲑和入侵粉鲑，准确率超过90%。自2022年以来，一套旨在区分野生鲑鱼和入侵粉鲑的分拣系统已安装在斯托尔瓦河下游、入海之前。一旦识别出鱼类，系统便为本地鲑鱼打开闸门，让它们继续上游产卵，同时将入侵粉鲑引入附近的暂养池进行清除。挪威贝勒沃格狩猎和钓鱼协会管理员托尔·舒尔斯塔德表示，本地鲑鱼面临入侵粉鲑和逃逸养殖鲑鱼的严峻挑战，而使用AI的监测系统正在帮助阻止这一趋势，实现面向未来的河流管理。\n\n去年夏天，该系统在斯卡勒尔夫河帮助拦截了4000多条入侵粉鲑，减轻了本地物种的压力。服务合作——这些例子表明，合作不再局限于产品交换。它越来越多地涉及知识、技术和专业服务，两国企业带来不同的优势以满足特定需求。服贸会已成为企业了解在哪里找到共同点的论坛，将专业知识和技术与中国的工业规模和对先进解决方案日益增长的需求对接。今年，服贸会汇聚了来自约90个国家和国际组织的1800多家企业，展示从高科技和金融科技到智慧医疗等一系列快速增长领域的新技术、新解决方案和新成果。\n\n约100场推介活动和商务洽谈也已排定，为来自世界各地的企业提供了探索伙伴关系、将新想法转化为实际合作的机会。"
+    },
+    {
+      "id": 2,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-15/Why-red-tourism-is-winning-over-China-s-younger-generation-1Qshe0mMIzS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Why 'red tourism' is winning over China's younger generation",
+      "titleCn": "为什么“红色旅游”正在赢得中国年轻一代的青睐",
+      "summary": "For many young Chinese, revolutionary history is no longer something to be read about in textbooks or viewed from behind glass. It is becoming an experience — one that can involve walking through historic sites, taking on a role in a wartime scenario or even stepping into a virtual recreation of the Long March.",
+      "summaryCn": "红色旅游在中国年轻人中日益流行，沉浸式体验和数字技术让革命历史变得可参与、可感知，而其深层吸引力在于年轻人对意义、责任与文化自信的追寻。",
+      "wordCount": 980,
+      "paragraphs": [
+        {
+          "en": "Visitors view an exhibition featuring archival documents and photographs about the Red Army's Long March through Yunnan Province at the Kunming Museum in Kunming, southwest China's Yunnan Province, September 12, 2026. For many young Chinese, the Communist Party of China's (CPC) {{0}} history is no longer just something to be read about in textbooks or viewed from behind glass. It is becoming an experience — one that can involve walking through historic sites, taking on a role in a wartime scenario or even stepping into a virtual recreation of the Long March. That {{1}} is helping fuel a new wave of \"red tourism\" in China, as young travelers increasingly visit revolutionary sites, memorials and former revolutionary bases. The trend has gained further {{2}} this year, which marks the 105th anniversary of the CPC's founding and the 90th anniversary of the victory of the Long March.",
+          "cn": "2026年9月12日，在中国西南部云南省昆明市，游客们在昆明博物馆参观一个展出有关红军长征过云南的档案文献和照片的展览。对许多中国年轻人来说，中国共产党的革命历史不再只是课本上读到或隔着玻璃观看的内容。它正在变成一种体验——一种可以包括走过历史遗址、在战时场景中扮演角色，甚至走进长征虚拟重现的体验。这种转变正在助推中国新一轮“红色旅游”热潮，年轻游客越来越多地前往革命遗址、纪念馆和革命旧址。今年这一趋势进一步升温，因为今年是中国共产党成立105周年和长征胜利90周年。"
+        },
+        {
+          "en": "The Long March, a historic {{3}} of the Red Army spanning tens of thousands of kilometers in the 1930s, paved the way for the CPC's eventual defeat of the then-ruling Kuomintang and the {{4}} of the People's Republic of China in 1949. During the past summer holiday, many red tourism destinations saw a {{5}} in visitors, with young people making up an increasingly large share. \"Red tourism was particularly popular this summer, with young travelers accounting for nearly 65% of visitors,\" said Qi Chunguang, vice president of Tuniu, a Chinese online travel agency. Group tours remain popular, he said, with professional guides and carefully planned {{6}} helping visitors get more out of their trips. The trend is also reflected in online searches.",
+          "cn": "长征是20世纪30年代红军进行的一次绵延数万公里的历史性战略转移，为中国共产党最终战胜当时的国民党统治、并于1949年建立中华人民共和国铺平了道路。在刚刚过去的暑假期间，许多红色旅游目的地游客激增，其中年轻人所占比例越来越大。中国在线旅游机构途牛副总裁齐春光表示：“今年夏天红色旅游特别受欢迎，年轻游客占游客总数的近65%。”他说，跟团游仍然很受欢迎，专业导游和精心规划的行程帮助游客从旅行中获得更多收获。这一趋势也反映在网络搜索上。"
+        },
+        {
+          "en": "According to the 2026 Red Tourism Consumption Trends Report released by Tongcheng Travel, searches for red tourism-related products jumped more than 130% year on year in the first half of 2026. Searches for tickets to revolutionary sites rose 86%, while bookings for red tourism itineraries increased 48%. Wu Ruoshan, a council member of the Beijing Tourism Society, said the appeal of red tourism among young people stems from both emotional {{7}} and innovation in tourism products. \"Red tourism is moving from simple sightseeing toward {{8}} experiences,\" Wu said, noting that digital technologies and {{9}} projects are giving young visitors new ways to connect with history. People use VR headsets to experience immersive scenes from the Long March in Changde City, central China's Hunan Province, September 12, 2026.",
+          "cn": "根据同程旅行发布的《2026红色旅游消费趋势报告》，2026年上半年红色旅游相关产品搜索量同比增长超过130%。革命遗址门票搜索量增长86%，红色旅游线路预订量增长48%。北京旅游学会理事吴若山表示，红色旅游对年轻人的吸引力既来自情感共鸣，也来自旅游产品的创新。吴若山说：“红色旅游正从简单的观光转向沉浸式体验。”他指出，数字技术和互动项目正在为年轻游客提供与历史建立联系的新方式。2026年9月12日，在中国中部湖南省常德市，人们使用VR头显体验长征的沉浸式场景。"
+        },
+        {
+          "en": "From watching history to stepping into it\nTraditional red tourism often centered on visiting revolutionary sites, viewing historical {{10}} and listening to guided explanations. But today's young travelers increasingly want to do more than observe — they want to participate. The Tongcheng report found that red tourism attractions featuring real-life missions, period costumes and interactions with non-player characters, or NPCs, have seen particularly rapid growth in bookings. Searches combining \"red tourism\" with \"NPC\" rose more than 120% during the summer holiday. In a tourism area in Linyi, east China's Shandong Province, for example, visitors can take part in an immersive film experience called \"Follow the Commander to Capture the County.\" Led by NPCs, participants {{11}} a battlefield charge as wartime scenes unfold around them.",
+          "cn": "从观看历史到走进历史。传统红色旅游往往以参观革命遗址、观看历史文物和聆听导游讲解为中心。但如今的年轻游客越来越希望不只是观察——他们想要参与。同程的报告发现，以实景任务、年代服装和与真人NPC互动为特色的红色旅游景点，预订量增长尤为迅速。暑假期间，“红色旅游”与“NPC”组合搜索量增长超过120%。例如，在中国东部山东省临沂市的一个旅游区，游客可以参加名为《跟着司令打县城》的沉浸式影视体验。在NPC的带领下，参与者模拟战场冲锋，战时场景在他们周围展开。"
+        },
+        {
+          "en": "Scripted mystery games have also found their way into red tourism. Projects such as The Yan'an Spirit recreate historical events through real-life settings, with visitors taking on different historical roles and becoming part of the story rather than simply watching it unfold. Yan'an, located in northwest China's Shaanxi Province, served as the base of the CPC leadership for around 10 years from 1937 to 1947. Technology is taking that approach a step further. In Wuhan, central China's Hubei Province, an XR immersive experience titled The Great Expedition has become a major attraction at a local museum.",
+          "cn": "剧本杀游戏也进入了红色旅游领域。《延安精神》等项目通过实景重现历史事件，游客扮演不同的历史角色，成为故事的一部分，而不仅仅是观看故事展开。延安位于中国西北部陕西省，从1937年到1947年的大约10年间曾是中国共产党领导中枢所在地。技术正在把这种方式推进得更远。在中国中部湖北省武汉市，一个名为《伟大远征》的XR沉浸式体验已成为当地博物馆的一大亮点。"
+        },
+        {
+          "en": "The project recreates scenes from the Long March in an immersive environment, allowing visitors to experience the historical journey in a more immediate way. In Zunyi, southwest China's Guizhou Province, the Zunyi Conference Memorial Museum is also using technology to make revolutionary history more {{12}}. 3D mapping and animation bring artifacts and sculptures to life, while VR, AI and holographic imaging allow visitors to revisit historical scenes from a first-person {{13}}. Zunyi Conference is widely regarded as a {{14}} turning point in the Long March. It addressed key military and strategic issues and helped establish new leadership within the CPC Central Committee, with Mao Zedong playing a leading role.",
+          "cn": "该项目在沉浸式环境中重现长征场景，让游客以更直接的方式体验这段历史旅程。在中国西南部贵州省遵义市，遵义会议纪念馆也在利用技术让革命历史更易接触。3D映射和动画让文物和雕塑栩栩如生，而VR、AI和全息成像则让游客能够以第一人称视角重温历史场景。遵义会议被广泛视为长征中的关键转折点。它解决了重要的军事和战略问题，并帮助在中共中央内部确立了新的领导层，毛泽东发挥了主导作用。"
+        },
+        {
+          "en": "Visitors explore the site of the Lazikou Battle in Diebu County, Gannan Tibetan Autonomous Prefecture, northwest China's Gansu Province, September 9, 2026. Finding meaning in stories from the past\nTechnology and creative storytelling may be making red tourism more attractive, but they do not fully explain why young people are coming. For some observers, the deeper appeal lies in the search for meaning. As younger generations look beyond material consumption for experiences with emotional and cultural value, stories centered on {{15}}, {{16}}, responsibility and collective purpose can resonate with their own aspirations. Some tourism commentators have noted that young people today are growing up in a world marked by {{17}}.",
+          "cn": "2026年9月9日，在中国西北部甘肃省甘南藏族自治州迭部县，游客们参观腊子口战役遗址。在过去的故事中寻找意义。技术和创意叙事或许让红色旅游更具吸引力，但它们并不能完全解释年轻人为何而来。对一些观察者来说，更深层的吸引力在于对意义的追寻。随着年轻一代超越物质消费，寻求具有情感和文化价值的体验，以牺牲、奉献、责任和集体目标为核心的故事能够与他们的自身愿望产生共鸣。一些旅游评论人士指出，今天的年轻人成长在一个充满不确定性的世界中。"
+        },
+        {
+          "en": "Against this backdrop, revolutionary stories can offer a sense of purpose — stories of young people who once confronted extremely difficult circumstances and sought to contribute to something larger than themselves. The appeal, they argue, is not simply about {{18}} for the past. It is also about asking what kind of person one wants to become in the present. From another perspective, a People's Daily commentary attributed the popularity of red culture among young people to growing cultural {{19}}. Today's young generation, it said, is increasingly confident in engaging with the wider world while also eager to understand the historical forces behind China's development.",
+          "cn": "在这种背景下，革命故事可以提供一种目标感——这些故事讲述的是曾经面对极其艰难处境、并寻求为比自己更宏大的事业作出贡献的年轻人。他们认为，这种吸引力不仅仅是对过去的怀旧。它也关乎追问自己在当下想成为什么样的人。从另一个角度看，《人民日报》一篇评论文章将红色文化在年轻人中的流行归因于日益增强的文化自信。文章说，今天的年轻一代越来越自信地与世界接触，同时也渴望了解中国发展背后的历史力量。"
+        },
+        {
+          "en": "It wrote that for young people, red tourism can serve as a way to understand both the past and the present: to explore where China came from, how its development path took shape, and what values have continued to {{20}} the country today.",
+          "cn": "文章写道，对年轻人来说，红色旅游可以成为理解过去与现在的一种方式：探索中国从何而来，其发展道路如何形成，以及哪些价值观至今仍在影响这个国家。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "revolutionary",
+          "hint": "adj. 革命的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "transformation",
+          "hint": "n. 转变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "momentum",
+          "hint": "n. 势头",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "retreat",
+          "hint": "n. 撤退",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "establishment",
+          "hint": "n. 建立",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "surge",
+          "hint": "n. 激增",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "itineraries",
+          "hint": "n. 行程",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "resonance",
+          "hint": "n. 共鸣",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "immersive",
+          "hint": "adj. 沉浸式的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "interactive",
+          "hint": "adj. 互动的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "artifacts",
+          "hint": "n. 文物",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "simulate",
+          "hint": "v. 模拟",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "accessible",
+          "hint": "adj. 易接触的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "perspective",
+          "hint": "n. 视角",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "crucial",
+          "hint": "adj. 关键的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "sacrifice",
+          "hint": "n. 牺牲",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "dedication",
+          "hint": "n. 奉献",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "uncertainty",
+          "hint": "n. 不确定性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "nostalgia",
+          "hint": "n. 怀旧",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "confidence",
+          "hint": "n. 自信",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "influence",
+          "hint": "v. 影响",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "Visitors view an exhibition featuring archival documents and photographs about the Red Army's Long March through Yunnan Province at the Kunming Museum in Kunming, southwest China's Yunnan Province, September 12, 2026. \nFor many young Chinese, the Communist Party of China's (CPC) revolutionary history is no longer just something to be read about in textbooks or viewed from behind glass. It is becoming an experience — one that can involve walking through historic sites, taking on a role in a wartime scenario or even stepping into a virtual recreation of the Long March.\nThat transformation is helping fuel a new wave of \"red tourism\" in China, as young travelers increasingly visit revolutionary sites, memorials and former revolutionary bases. The trend has gained further momentum this year, which marks the 105th anniversary of the CPC's founding and the 90th anniversary of the victory of the Long March.\nThe Long March, a historic retreat of the Red Army spanning tens of thousands of kilometers in the 1930s, paved the way for the CPC's eventual defeat of the then-ruling Kuomintang and the establishment of the People's Republic of China in 1949.\nDuring the past summer holiday, many red tourism destinations saw a surge in visitors, with young people making up an increasingly large share.\n\"Red tourism was particularly popular this summer, with young travelers accounting for nearly 65% of visitors,\" said Qi Chunguang, vice president of Tuniu, a Chinese online travel agency. Group tours remain popular, he said, with professional guides and carefully planned itineraries helping visitors get more out of their trips.\nThe trend is also reflected in online searches. According to the 2026 Red Tourism Consumption Trends Report released by Tongcheng Travel, searches for red tourism-related products jumped more than 130% year on year in the first half of 2026. Searches for tickets to revolutionary sites rose 86%, while bookings for red tourism itineraries increased 48%.\nWu Ruoshan, a council member of the Beijing Tourism Society, said the appeal of red tourism among young people stems from both emotional resonance and innovation in tourism products.\n\"Red tourism is moving from simple sightseeing toward immersive experiences,\" Wu said, noting that digital technologies and interactive projects are giving young visitors new ways to connect with history.\nPeople use VR headsets to experience immersive scenes from the Long March in Changde City, central China's Hunan Province, September 12, 2026. \nFrom watching history to stepping into it\nTraditional red tourism often centered on visiting revolutionary sites, viewing historical artifacts and listening to guided explanations. But today's young travelers increasingly want to do more than observe — they want to participate.\nThe Tongcheng report found that red tourism attractions featuring real-life missions, period costumes and interactions with non-player characters, or NPCs, have seen particularly rapid growth in bookings. Searches combining \"red tourism\" with \"NPC\" rose more than 120% during the summer holiday.\nIn a tourism area in Linyi, east China's Shandong Province, for example, visitors can take part in an immersive film experience called \"Follow the Commander to Capture the County.\" Led by NPCs, participants simulate a battlefield charge as wartime scenes unfold around them.\nScripted mystery games have also found their way into red tourism. Projects such as The Yan'an Spirit recreate historical events through real-life settings, with visitors taking on different historical roles and becoming part of the story rather than simply watching it unfold. Yan'an, located in northwest China's Shaanxi Province, served as the base of the CPC leadership for around 10 years from 1937 to 1947.\nTechnology is taking that approach a step further.\nIn Wuhan, central China's Hubei Province, an XR immersive experience titled The Great Expedition has become a major attraction at a local museum. The project recreates scenes from the Long March in an immersive environment, allowing visitors to experience the historical journey in a more immediate way.\nIn Zunyi, southwest China's Guizhou Province, the Zunyi Conference Memorial Museum is also using technology to make revolutionary history more accessible. 3D mapping and animation bring artifacts and sculptures to life, while VR, AI and holographic imaging allow visitors to revisit historical scenes from a first-person perspective.\nZunyi Conference is widely regarded as a crucial turning point in the Long March. It addressed key military and strategic issues and helped establish new leadership within the CPC Central Committee, with Mao Zedong playing a leading role.\nVisitors explore the site of the Lazikou Battle in Diebu County, Gannan Tibetan Autonomous Prefecture, northwest China's Gansu Province, September 9, 2026. \nFinding meaning in stories from the past\nTechnology and creative storytelling may be making red tourism more attractive, but they do not fully explain why young people are coming.\nFor some observers, the deeper appeal lies in the search for meaning.\nAs younger generations look beyond material consumption for experiences with emotional and cultural value, stories centered on sacrifice, dedication, responsibility and collective purpose can resonate with their own aspirations.\nSome tourism commentators have noted that young people today are growing up in a world marked by uncertainty. Against this backdrop, revolutionary stories can offer a sense of purpose — stories of young people who once confronted extremely difficult circumstances and sought to contribute to something larger than themselves.\nThe appeal, they argue, is not simply about nostalgia for the past. It is also about asking what kind of person one wants to become in the present.\nFrom another perspective, a People's Daily commentary attributed the popularity of red culture among young people to growing cultural confidence. Today's young generation, it said, is increasingly confident in engaging with the wider world while also eager to understand the historical forces behind China's development.\nIt wrote that for young people, red tourism can serve as a way to understand both the past and the present: to explore where China came from, how its development path took shape, and what values have continued to influence the country today.",
+      "fullTextCn": "2026年9月12日，在中国西南部云南省昆明市，游客们在昆明博物馆参观一个展出有关红军长征过云南的档案文献和照片的展览。对许多中国年轻人来说，中国共产党的革命历史不再只是课本上读到或隔着玻璃观看的内容。它正在变成一种体验——一种可以包括走过历史遗址、在战时场景中扮演角色，甚至走进长征虚拟重现的体验。这种转变正在助推中国新一轮“红色旅游”热潮，年轻游客越来越多地前往革命遗址、纪念馆和革命旧址。今年这一趋势进一步升温，因为今年是中国共产党成立105周年和长征胜利90周年。\n\n长征是20世纪30年代红军进行的一次绵延数万公里的历史性战略转移，为中国共产党最终战胜当时的国民党统治、并于1949年建立中华人民共和国铺平了道路。在刚刚过去的暑假期间，许多红色旅游目的地游客激增，其中年轻人所占比例越来越大。中国在线旅游机构途牛副总裁齐春光表示：“今年夏天红色旅游特别受欢迎，年轻游客占游客总数的近65%。”他说，跟团游仍然很受欢迎，专业导游和精心规划的行程帮助游客从旅行中获得更多收获。这一趋势也反映在网络搜索上。\n\n根据同程旅行发布的《2026红色旅游消费趋势报告》，2026年上半年红色旅游相关产品搜索量同比增长超过130%。革命遗址门票搜索量增长86%，红色旅游线路预订量增长48%。北京旅游学会理事吴若山表示，红色旅游对年轻人的吸引力既来自情感共鸣，也来自旅游产品的创新。吴若山说：“红色旅游正从简单的观光转向沉浸式体验。”他指出，数字技术和互动项目正在为年轻游客提供与历史建立联系的新方式。2026年9月12日，在中国中部湖南省常德市，人们使用VR头显体验长征的沉浸式场景。\n\n从观看历史到走进历史。传统红色旅游往往以参观革命遗址、观看历史文物和聆听导游讲解为中心。但如今的年轻游客越来越希望不只是观察——他们想要参与。同程的报告发现，以实景任务、年代服装和与真人NPC互动为特色的红色旅游景点，预订量增长尤为迅速。暑假期间，“红色旅游”与“NPC”组合搜索量增长超过120%。例如，在中国东部山东省临沂市的一个旅游区，游客可以参加名为《跟着司令打县城》的沉浸式影视体验。在NPC的带领下，参与者模拟战场冲锋，战时场景在他们周围展开。\n\n剧本杀游戏也进入了红色旅游领域。《延安精神》等项目通过实景重现历史事件，游客扮演不同的历史角色，成为故事的一部分，而不仅仅是观看故事展开。延安位于中国西北部陕西省，从1937年到1947年的大约10年间曾是中国共产党领导中枢所在地。技术正在把这种方式推进得更远。在中国中部湖北省武汉市，一个名为《伟大远征》的XR沉浸式体验已成为当地博物馆的一大亮点。\n\n该项目在沉浸式环境中重现长征场景，让游客以更直接的方式体验这段历史旅程。在中国西南部贵州省遵义市，遵义会议纪念馆也在利用技术让革命历史更易接触。3D映射和动画让文物和雕塑栩栩如生，而VR、AI和全息成像则让游客能够以第一人称视角重温历史场景。遵义会议被广泛视为长征中的关键转折点。它解决了重要的军事和战略问题，并帮助在中共中央内部确立了新的领导层，毛泽东发挥了主导作用。\n\n2026年9月9日，在中国西北部甘肃省甘南藏族自治州迭部县，游客们参观腊子口战役遗址。在过去的故事中寻找意义。技术和创意叙事或许让红色旅游更具吸引力，但它们并不能完全解释年轻人为何而来。对一些观察者来说，更深层的吸引力在于对意义的追寻。随着年轻一代超越物质消费，寻求具有情感和文化价值的体验，以牺牲、奉献、责任和集体目标为核心的故事能够与他们的自身愿望产生共鸣。一些旅游评论人士指出，今天的年轻人成长在一个充满不确定性的世界中。\n\n在这种背景下，革命故事可以提供一种目标感——这些故事讲述的是曾经面对极其艰难处境、并寻求为比自己更宏大的事业作出贡献的年轻人。他们认为，这种吸引力不仅仅是对过去的怀旧。它也关乎追问自己在当下想成为什么样的人。从另一个角度看，《人民日报》一篇评论文章将红色文化在年轻人中的流行归因于日益增强的文化自信。文章说，今天的年轻一代越来越自信地与世界接触，同时也渴望了解中国发展背后的历史力量。\n\n文章写道，对年轻人来说，红色旅游可以成为理解过去与现在的一种方式：探索中国从何而来，其发展道路如何形成，以及哪些价值观至今仍在影响这个国家。"
+    },
+    {
+      "id": 3,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/china/regional/2026-09-17/detail-ihfkhtke4051181.shtml",
+      "title": "China opens trade shortcut to SE Asia",
+      "titleCn": "中国开通通往东南亚的贸易捷径",
+      "summary": "China opened a vital waterway on Wednesday, giving its landlocked southwestern areas a shortcut to the coast and overseas markets, as the country moves to further strengthen its trade relations with regional neighbors, particularly those in Southeast Asia.",
+      "summaryCn": "中国开通平陆运河，为西南内陆地区提供通往海洋和东南亚市场的捷径，大幅缩短运输距离并降低物流成本，进一步深化与东盟的贸易联系。",
+      "wordCount": 895,
+      "paragraphs": [
+        {
+          "en": "China opened a {{0}} waterway on Wednesday, giving its {{1}} southwestern areas a {{2}} to the coast and overseas markets, as the country moves to further {{3}} its trade relations with regional neighbors, particularly those in Southeast Asia. The Pinglu Canal, built in the Guangxi Zhuang autonomous region at a cost of 72.7 billion yuan ($10.8 billion), {{4}} for 134.2 kilometers from the Xijin reservoir in the county-level city of Hengzhou to the Qinzhou Port in the Beibu Gulf. It is the first waterway built in the country to {{5}} a river system directly to the sea since the founding of the People's Republic of China in 1949. The canal {{6}} the inland waterway journeys of goods from southwestern China by more than 560 km compared with traditional routes through ports in Guangdong province. It is expected to reduce overall {{7}} {{8}} and save more than 5 billion yuan in transportation costs each year.",
+          "cn": "周三，中国开通了一条重要的水路，为地处内陆的西南地区提供了一条通往海岸和海外市场的捷径。此举正值中国进一步加强与区域邻国、尤其是东南亚国家贸易关系之际。平陆运河建于广西壮族自治区，耗资727亿元人民币（约合108亿美元），全长134.2公里，从横州市西津水库延伸至北部湾钦州港。这是自1949年中华人民共和国成立以来，中国建成的第一条直接连接内河系统与海洋的水路。与传统经广东省港口出海的路线相比，该运河将中国西南地区货物的内河运输距离缩短了560多公里。预计每年可降低整体物流费用，节省超过50亿元的运输成本。"
+        },
+        {
+          "en": "Vice-Premier Ding Xuexiang, who attended the canal's opening ceremony, called for making full use of the new waterway to develop a first-class international {{9}} port in the Beibu Gulf and support further opening-up of China's western region. Ding also called for efficient operation of the canal, which serves as key {{10}} for multimodal transportation {{11}} river, rail and sea, and is a backbone project of the New International Land-Sea Trade Corridor — a {{12}} route connecting China's inland areas with regional and global markets. Construction of the Pinglu Canal started in August 2022 to address a long-standing {{13}} problem in terms of trade. While Guangxi {{14}} a coastline and borders Vietnam, its major inland rivers flow east, which means cargo moving by water from Nanning, the capital of Guangxi, and other parts of the Xijiang River basin could only reach the sea through Guangdong. The Pinglu Canal, designed to handle {{15}} of the 5,000-metric-ton class, now allows cargo to turn south and reach the Beibu Gulf — the closest maritime outlet for much of southwestern China — through the Qinzhou Port.",
+          "cn": "出席运河开通仪式的国务院副总理丁薛祥呼吁充分利用这条新水路，在北部湾打造一流的国际门户港，支持中国西部地区进一步对外开放。丁薛祥还呼吁高效运营该运河。该运河是集水运、铁路和海运于一体的多式联运关键基础设施，也是新国际陆海贸易走廊的骨干工程——这是一条连接中国内陆地区与区域及全球市场的战略通道。平陆运河于2022年8月开工建设，旨在解决贸易方面长期存在的地理难题。虽然广西拥有海岸线并与越南接壤，但其主要内河向东流淌，这意味着从广西首府南宁及西江流域其他地区经水路运输的货物只能通过广东出海。平陆运河按通航5000吨级船舶设计，如今使货物能够转向南下，经钦州港抵达北部湾——这是中国西南大部分地区最近的海上出口。"
+        },
+        {
+          "en": "One of the biggest {{16}} challenges during construction of the canal was {{17}} a difference of 65 meters in the water level between its northern end and the sea. Three navigation hubs — Madao, Qishi and Qingnian — featuring twin-line ship locks were built to raise and lower vessels, effectively acting as giant elevators. Ni Yuping, vice-dean of Tsinghua University's School of Humanities in Beijing, placed the megaproject in a broader context, saying that one of the key questions it seeks to answer is \"how western China can better {{18}} into the global economy\". Unlike the Suez Canal and the Panama Canal, which primarily provide shortcuts for vessels between major seas and oceans, the Pinglu Canal gives a vast inland economic {{19}} a shorter route to the coast — and from there to international markets. Wu Tao, a history professor at Sun Yat-sen University in Guangzhou, the capital of Guangdong, noted that inland waterway shipping routes \"remain {{20}}\" even though China's road, rail and air transportation networks have expanded.",
+          "cn": "运河建设过程中最大的工程挑战之一是应对北端与海面之间65米的水位落差。工程修建了马道、企石和青年三个航运枢纽，配备双线船闸，用于升降船舶，实际上起到了巨型电梯的作用。北京清华大学人文学院副院长倪玉平将这一超级工程置于更广阔的背景下，称其试图回答的关键问题之一是“中国西部如何更好地融入全球经济”。与主要为大洋和海洋之间船舶提供捷径的苏伊士运河和巴拿马运河不同，平陆运河为广阔的内陆经济腹地提供了一条通往海岸——再从那里通往国际市场——的更短路线。广州中山大学历史学教授吴滔指出，尽管中国的公路、铁路和航空运输网络已经扩展，内河航运路线“仍然不可替代”。"
+        },
+        {
+          "en": "Their large carrying {{21}} and relatively low logistics costs make inland waterways particularly suited for bulk cargo, Wu said. For businesses, the new canal is already dictating logistics and investment decisions. On Sept 8, a consignment of auto parts from Chinese vehicle manufacturer SAIC-GM-Wuling left Liuzhou for Nanning Port, before continuing by ship through the Pinglu Canal to reach Can Tho Port in Vietnam. The company said the new river-sea route could cut its logistics costs by about 10 percent. \"For us, the freight saved is real profit, and that translates directly into greater price competitiveness in ASEAN and other global markets,\" said Cai Yan, a senior technical officer at SAIC-GM-Wuling.",
+          "cn": "吴滔表示，内河航运运力大、物流成本相对较低，特别适合散货运输。对企业而言，新运河已经在左右物流和投资决策。9月8日，中国汽车制造商上汽通用五菱的一批汽车零部件从柳州运往南宁港，然后经平陆运河继续航运至越南芹苴港。该公司表示，新的江海联运路线可将其物流成本降低约10%。上汽通用五菱高级技术官员蔡燕表示：“对我们来说，节省的运费就是实实在在的利润，这直接转化为在东盟和其他全球市场更强的价格竞争力。”"
+        },
+        {
+          "en": "The canal has added waterway to the company's existing road and rail transportation options, giving it more flexibility as it expands its business and production links across Southeast Asia, Cai said. The new route is being factored into investment plans of companies. About 50 km from the Pinglu Canal's northern end, French chemicals producer SNF Group is building a plant in Nanning's Liujing Industrial Park, with an annual capacity of 370,000 tons. The factory, which will be the group's largest production base in southern China, is expected to start operations in stages before June 2027. \"The Pinglu Canal will reduce our logistics costs and enable convenient delivery to South China and all of Southeast Asia.",
+          "cn": "蔡燕表示，这条运河在该公司现有的公路和铁路运输选项之外增加了水路运输，使其在拓展东南亚业务和生产联系时拥有更大的灵活性。新路线正被纳入企业的投资计划。在距离平陆运河北端约50公里处，法国化工企业SNF集团正在南宁六景工业园区建设一座工厂，年产能37万吨。该工厂将成为该集团在中国南方的最大生产基地，预计在2027年6月前分阶段投产。“平陆运河将降低我们的物流成本，使我们能够便捷地向华南和整个东南亚地区交货。"
+        },
+        {
+          "en": "It offers great advantages in both materials sourcing and product distribution,\" said Thomas Wilsius, head of the company's Nanning project. The waterway is likely to bring more Southeast Asian products to the Chinese market. Philippine Ambassador to China Jaime A. FlorCruz, who visited the canal with a group of ASEAN envoys in July, said that fresh seafood and other time-sensitive products could be exported more efficiently from his country to China. \"In the long run, this will benefit not only the local people, but the broader region and even the world,\" he said, adding that shorter shipping distances, lower freight costs and faster deliveries would bring tangible benefits to fishermen, farmers, traders and entrepreneurs.",
+          "cn": "它在原材料采购和产品分销方面都具有巨大优势，”该公司南宁项目负责人托马斯·维尔修斯表示。这条水路可能会将更多东南亚产品带入中国市场。菲律宾驻华大使吉米·弗古律斯今年7月与东盟使节团一起参观了该运河。他表示，菲律宾的新鲜海鲜和其他时效性强的产品可以更高效地出口到中国。“从长远来看，这不仅惠及当地人民，还将惠及更广泛的地区乃至全世界，”他说，并补充道，更短的航运距离、更低的运费和更快的交货速度将为渔民、农民、商人和企业家带来实实在在的好处。"
+        },
+        {
+          "en": "For Shen Guiping, a resident of Shangjing village in Qinzhou, who took part in relocation work for the project, the opening of the Pinglu Canal carries a more personal meaning. \"It almost feels like a dream that has finally been realized. It is something generations of locals hoped for,\" she said.",
+          "cn": "对于参与了项目搬迁工作的钦州上井村村民沈桂平来说，平陆运河的开通有着更为个人的意义。“这几乎像是一个终于实现的梦想。这是几代当地人期盼的事情，”她说。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "vital",
+          "hint": "adj. 至关重要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "landlocked",
+          "hint": "adj. 内陆的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 2,
+          "answer": "shortcut",
+          "hint": "n. 捷径",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "strengthen",
+          "hint": "v. 加强",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "stretches",
+          "hint": "v. 延伸",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "connect",
+          "hint": "v. 连接",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "shortens",
+          "hint": "v. 缩短",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "logistics",
+          "hint": "n. 物流",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "expenses",
+          "hint": "n. 费用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "gateway",
+          "hint": "n. 门户",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "integrating",
+          "hint": "v. 整合",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "strategic",
+          "hint": "adj. 战略的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "geographical",
+          "hint": "adj. 地理的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "boasts",
+          "hint": "v. 拥有",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "vessels",
+          "hint": "n. 船只",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "engineering",
+          "hint": "n. 工程",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "navigating",
+          "hint": "v. 应对",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "integrate",
+          "hint": "v. 融入",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "hinterland",
+          "hint": "n. 腹地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "irreplaceable",
+          "hint": "adj. 不可替代的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "capacity",
+          "hint": "n. 容量",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "China opened a vital waterway on Wednesday, giving its landlocked southwestern areas a shortcut to the coast and overseas markets, as the country moves to further strengthen its trade relations with regional neighbors, particularly those in Southeast Asia.\nThe Pinglu Canal, built in the Guangxi Zhuang autonomous region at a cost of 72.7 billion yuan ($10.8 billion), stretches for 134.2 kilometers from the Xijin reservoir in the county-level city of Hengzhou to the Qinzhou Port in the Beibu Gulf. It is the first waterway built in the country to connect a river system directly to the sea since the founding of the People's Republic of China in 1949.\nThe canal shortens the inland waterway journeys of goods from southwestern China by more than 560 km compared with traditional routes through ports in Guangdong province. It is expected to reduce overall logistics expenses and save more than 5 billion yuan in transportation costs each year.\nVice-Premier Ding Xuexiang, who attended the canal's opening ceremony, called for making full use of the new waterway to develop a first-class international gateway port in the Beibu Gulf and support further opening-up of China's western region.\nDing also called for efficient operation of the canal, which serves as key infrastructure for multimodal transportation integrating river, rail and sea, and is a backbone project of the New International Land-Sea Trade Corridor — a strategic route connecting China's inland areas with regional and global markets.\nConstruction of the Pinglu Canal started in August 2022 to address a long-standing geographical problem in terms of trade.\nWhile Guangxi boasts a coastline and borders Vietnam, its major inland rivers flow east, which means cargo moving by water from Nanning, the capital of Guangxi, and other parts of the Xijiang River basin could only reach the sea through Guangdong.\nThe Pinglu Canal, designed to handle vessels of the 5,000-metric-ton class, now allows cargo to turn south and reach the Beibu Gulf — the closest maritime outlet for much of southwestern China — through the Qinzhou Port.\nOne of the biggest engineering challenges during construction of the canal was navigating a difference of 65 meters in the water level between its northern end and the sea. Three navigation hubs — Madao, Qishi and Qingnian — featuring twin-line ship locks were built to raise and lower vessels, effectively acting as giant elevators.\nNi Yuping, vice-dean of Tsinghua University's School of Humanities in Beijing, placed the megaproject in a broader context, saying that one of the key questions it seeks to answer is \"how western China can better integrate into the global economy\".\nUnlike the Suez Canal and the Panama Canal, which primarily provide shortcuts for vessels between major seas and oceans, the Pinglu Canal gives a vast inland economic hinterland a shorter route to the coast — and from there to international markets.\nWu Tao, a history professor at Sun Yat-sen University in Guangzhou, the capital of Guangdong, noted that inland waterway shipping routes \"remain irreplaceable\" even though China's road, rail and air transportation networks have expanded. Their large carrying capacity and relatively low logistics costs make inland waterways particularly suited for bulk cargo, Wu said.\nFor businesses, the new canal is already dictating logistics and investment decisions.\nOn Sept 8, a consignment of auto parts from Chinese vehicle manufacturer SAIC-GM-Wuling left Liuzhou for Nanning Port, before continuing by ship through the Pinglu Canal to reach Can Tho Port in Vietnam.\nThe company said the new river-sea route could cut its logistics costs by about 10 percent. \"For us, the freight saved is real profit, and that translates directly into greater price competitiveness in ASEAN and other global markets,\" said Cai Yan, a senior technical officer at SAIC-GM-Wuling.\nThe canal has added waterway to the company's existing road and rail transportation options, giving it more flexibility as it expands its business and production links across Southeast Asia, Cai said.\nThe new route is being factored into investment plans of companies.\nAbout 50 km from the Pinglu Canal's northern end, French chemicals producer SNF Group is building a plant in Nanning's Liujing Industrial Park, with an annual capacity of 370,000 tons.\nThe factory, which will be the group's largest production base in southern China, is expected to start operations in stages before June 2027.\n\"The Pinglu Canal will reduce our logistics costs and enable convenient delivery to South China and all of Southeast Asia. It offers great advantages in both materials sourcing and product distribution,\" said Thomas Wilsius, head of the company's Nanning project.\nThe waterway is likely to bring more Southeast Asian products to the Chinese market.\nPhilippine Ambassador to China Jaime A. FlorCruz, who visited the canal with a group of ASEAN envoys in July, said that fresh seafood and other time-sensitive products could be exported more efficiently from his country to China.\n\"In the long run, this will benefit not only the local people, but the broader region and even the world,\" he said, adding that shorter shipping distances, lower freight costs and faster deliveries would bring tangible benefits to fishermen, farmers, traders and entrepreneurs.\nFor Shen Guiping, a resident of Shangjing village in Qinzhou, who took part in relocation work for the project, the opening of the Pinglu Canal carries a more personal meaning.\n\"It almost feels like a dream that has finally been realized. It is something generations of locals hoped for,\" she said.",
+      "fullTextCn": "周三，中国开通了一条重要的水路，为地处内陆的西南地区提供了一条通往海岸和海外市场的捷径。此举正值中国进一步加强与区域邻国、尤其是东南亚国家贸易关系之际。平陆运河建于广西壮族自治区，耗资727亿元人民币（约合108亿美元），全长134.2公里，从横州市西津水库延伸至北部湾钦州港。这是自1949年中华人民共和国成立以来，中国建成的第一条直接连接内河系统与海洋的水路。与传统经广东省港口出海的路线相比，该运河将中国西南地区货物的内河运输距离缩短了560多公里。预计每年可降低整体物流费用，节省超过50亿元的运输成本。\n\n出席运河开通仪式的国务院副总理丁薛祥呼吁充分利用这条新水路，在北部湾打造一流的国际门户港，支持中国西部地区进一步对外开放。丁薛祥还呼吁高效运营该运河。该运河是集水运、铁路和海运于一体的多式联运关键基础设施，也是新国际陆海贸易走廊的骨干工程——这是一条连接中国内陆地区与区域及全球市场的战略通道。平陆运河于2022年8月开工建设，旨在解决贸易方面长期存在的地理难题。虽然广西拥有海岸线并与越南接壤，但其主要内河向东流淌，这意味着从广西首府南宁及西江流域其他地区经水路运输的货物只能通过广东出海。平陆运河按通航5000吨级船舶设计，如今使货物能够转向南下，经钦州港抵达北部湾——这是中国西南大部分地区最近的海上出口。\n\n运河建设过程中最大的工程挑战之一是应对北端与海面之间65米的水位落差。工程修建了马道、企石和青年三个航运枢纽，配备双线船闸，用于升降船舶，实际上起到了巨型电梯的作用。北京清华大学人文学院副院长倪玉平将这一超级工程置于更广阔的背景下，称其试图回答的关键问题之一是“中国西部如何更好地融入全球经济”。与主要为大洋和海洋之间船舶提供捷径的苏伊士运河和巴拿马运河不同，平陆运河为广阔的内陆经济腹地提供了一条通往海岸——再从那里通往国际市场——的更短路线。广州中山大学历史学教授吴滔指出，尽管中国的公路、铁路和航空运输网络已经扩展，内河航运路线“仍然不可替代”。\n\n吴滔表示，内河航运运力大、物流成本相对较低，特别适合散货运输。对企业而言，新运河已经在左右物流和投资决策。9月8日，中国汽车制造商上汽通用五菱的一批汽车零部件从柳州运往南宁港，然后经平陆运河继续航运至越南芹苴港。该公司表示，新的江海联运路线可将其物流成本降低约10%。上汽通用五菱高级技术官员蔡燕表示：“对我们来说，节省的运费就是实实在在的利润，这直接转化为在东盟和其他全球市场更强的价格竞争力。”\n\n蔡燕表示，这条运河在该公司现有的公路和铁路运输选项之外增加了水路运输，使其在拓展东南亚业务和生产联系时拥有更大的灵活性。新路线正被纳入企业的投资计划。在距离平陆运河北端约50公里处，法国化工企业SNF集团正在南宁六景工业园区建设一座工厂，年产能37万吨。该工厂将成为该集团在中国南方的最大生产基地，预计在2027年6月前分阶段投产。“平陆运河将降低我们的物流成本，使我们能够便捷地向华南和整个东南亚地区交货。\n\n它在原材料采购和产品分销方面都具有巨大优势，”该公司南宁项目负责人托马斯·维尔修斯表示。这条水路可能会将更多东南亚产品带入中国市场。菲律宾驻华大使吉米·弗古律斯今年7月与东盟使节团一起参观了该运河。他表示，菲律宾的新鲜海鲜和其他时效性强的产品可以更高效地出口到中国。“从长远来看，这不仅惠及当地人民，还将惠及更广泛的地区乃至全世界，”他说，并补充道，更短的航运距离、更低的运费和更快的交货速度将为渔民、农民、商人和企业家带来实实在在的好处。\n\n对于参与了项目搬迁工作的钦州上井村村民沈桂平来说，平陆运河的开通有着更为个人的意义。“这几乎像是一个终于实现的梦想。这是几代当地人期盼的事情，”她说。"
+    },
+    {
+      "id": 4,
+      "category": "technology",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/china/regional/2026-09-17/detail-ihfkanuz5379485.shtml",
+      "title": "Hong Kong to target breakthroughs in core tech",
+      "titleCn": "香港将瞄准核心科技突破",
+      "summary": "Hong Kong will step up efforts to develop into an international innovation and technology center, targeting breakthroughs in core technologies such as artificial intelligence and life sciences, with the push backed by modern finance, expanded public research platforms and closer collaboration with the Chinese mainland.",
+      "summaryCn": "香港发布首个五年规划，将大力发展国际创新科技中心，重点突破人工智能和生命科学等核心技术，并通过现代金融、公共研究平台和与内地合作来推动创新科技生态发展。",
+      "wordCount": 710,
+      "paragraphs": [
+        {
+          "en": "Hong Kong will step up efforts to develop into an international innovation and technology center, targeting {{0}} in core technologies such as {{1}} intelligence and life sciences, with the push backed by modern finance, expanded public research platforms and closer {{2}} with the Chinese mainland. The policy direction and specific measures {{3}} in the city's latest development blueprints will help strengthen Hong Kong's innovation and technology ecosystem and {{4}} the {{5}} of research outcomes, industry insiders said. Chief Executive John Lee Ka-chiu said on Wednesday, while delivering the First Five-Year Plan for Economic and Social Development of the Hong Kong Special Administrative Region (2026-2030), that Hong Kong will continue to increase its {{6}} on innovation activities as a share of gross domestic product, aiming to raise the {{7}} to 3 percent after 2030, from about 1.63 percent in 2024. Lee said the Innovation and Technology Industry-Oriented Fund is expected to be launched this year, covering five {{8}} sectors, including life and health technology, AI and robotics. With a HK$10 billion ($1.27 billion) {{9}} from the HKSAR government and market {{10}} at a ratio of 1 to at least 3, the fund is projected to reach at least HK$40 billion in total.",
+          "cn": "香港将加大力度发展成为国际创新科技中心，瞄准人工智能和生命科学等核心技术的突破，并以现代金融、扩展的公共研究平台以及与内地更紧密的合作为支撑。业内人士表示，香港最新发展蓝图中所勾勒的政策方向和具体措施，将有助于加强香港的创新科技生态系统，并加快研究成果的商业化。行政长官李家超周三在发表《香港特别行政区经济社会发展第一个五年规划（2026-2030）》时表示，香港将继续提高创新活动支出占本地生产总值的比重，目标是在2030年后将该比例从2024年的约1.63%提高至3%。李家超表示，创新及科技产业导向基金预计将于今年推出，涵盖生命与健康科技、人工智能与机器人等五个主题领域。该基金由香港特区政府注入100亿港元（12.7亿美元），并以1比至少3的比例带动市场出资，预计总规模将达到至少400亿港元。"
+        },
+        {
+          "en": "In his annual Policy Address released on the same day, Lee provided further details, saying that about 20 fund managers have been {{11}} {{12}} to raise capital for the establishment of sub-funds. The two road maps also {{13}} advancing the development of the \"three major innovation and technology parks and five key research and development institutions\". The latter include the Artificial Intelligence Research and Development Institute, which is expected to begin operation this year, and the Life and Health Technology Research Institute. Preparatory work for the LHTRI, which will focus on \"AI + life sciences\", will be largely completed by the end of the year. \"We will basically have established an international innovation and technology center based in the Guangdong-Hong Kong-Macao Greater Bay Area, serving the entire country and connected to the world, after 2030,\" Lee said.",
+          "cn": "在同日发布的年度施政报告中，李家超提供了更多细节，称已有约20家基金经理初步入围，负责为设立子基金筹集资金。两份路线图还提出推进“三大创新科技园区和五大重点研发机构”的发展。后者包括预计今年开始运作的人工智能研发院，以及生命与健康科技研究院。专注于“人工智能+生命科学”的生命与健康科技研究院的筹备工作将在年底前基本完成。李家超表示：“2030年后，我们将基本建成一个立足粤港澳大湾区、服务全国、联通世界的国际创新科技中心。”"
+        },
+        {
+          "en": "He added that this will give rise to a new {{14}} for innovation and technology development, with enterprises as the key players, unicorns taking the lead, and modern finance {{15}} the {{16}} development of technological and industrial innovation. Joseph Chan, associate director of the Centre for Innovation and Entrepreneurship at the Business School of the University of Hong Kong, said the \"finance+\" strategy is a smart move because it treats finance as an essential engine powering technological innovation, rather than as an {{17}} sector. Innovation and technology are increasingly becoming key {{18}} of Hong Kong's economy, with their contributions reflected in a growing share of the city's GDP, Chan said. \"The HKSAR government has both the will and a {{19}} plan,\" he said, citing the Innovation and Technology Industry-Oriented Fund and major research institutions as examples of policy support. \"In doing so, far greater social resources can be {{20}}, and more importantly, (this can) generate impactful outcomes that benefit both the people's {{21}} and the wider national economy.\"\nSpeaking of the \"three major innovation and technology parks\", which include the Hong Kong Park of the Hetao Shenzhen-Hong Kong Science and Technology Innovation Cooperation Zone, Hannah Jeong, head of valuation and advisory services at CBRE Hong Kong, said the {{22}} development model is expected to create a more {{23}} innovation ecosystem supporting research, commercialization and advanced manufacturing.",
+          "cn": "他补充说，这将催生创新科技发展的新范式，以企业为主体、以独角兽企业为引领、以现代金融赋能科技创新和产业创新融合发展。香港大学商学院创新及创业中心副总监陈炳雄表示，“金融+”策略是一项明智之举，因为它将金融视为推动科技创新的重要引擎，而不是一个孤立的行业。陈炳雄表示，创新科技正日益成为香港经济的关键驱动力，其贡献体现在占香港本地生产总值比重的不断上升。他说：“香港特区政府既有意愿，也有具体计划”，并以创新及科技产业导向基金和重大研究机构作为政策支持的例子。“这样做可以汇聚远为更多的社会资源，更重要的是，（这可以）产生惠及民生和更广泛国民经济的重大成果。”在谈到包括河套深港科技创新合作区香港园区在内的“三大创新科技园区”时，世邦魏理仕香港估值及咨询服务部主管郑喜年表示，协同发展模式有望打造一个更全面的创新生态系统，支持研究、商业化和先进制造。"
+        },
+        {
+          "en": "Jeong said that while physical {{24}} is important, \"a key success factor will be Hong Kong's ability to attract leading international technology companies, research institutes and universities\". Commenting on the proposed Hong Kong Innovation and Technology Application Scenario Promotion Centre and the target of establishing the SAR's first national manufacturing innovation center by 2027, Victor Kwok, deputy research director of think tank Our Hong Kong Foundation, said the two institutions will play {{25}} roles in building the ecosystem. The application scenario center will help accelerate the process of moving innovation solutions from the R&D stage to market {{26}} and implementation, Kwok said. The national manufacturing innovation center, meanwhile, can help overcome {{27}} in key technologies and promote the {{28}} of research outcomes. \"Together, the two institutions will help address Hong Kong's long-standing {{29}} in midstream and downstream commercialization in its innovation and technology ecosystem,\" he added.",
+          "cn": "郑喜年表示，虽然实体基础设施很重要，但“一个关键成功因素将是香港吸引领先国际科技公司、研究机构和大学的能力”。在评论拟设立的香港创新科技应用场景促进中心以及到2027年建立香港首个国家制造业创新中心的目标时，智库团结香港基金副总裁兼研究部联席主管郭凯杰表示，这两家机构将在构建生态系统方面发挥互补作用。郭凯杰表示，应用场景中心将有助于加快创新解决方案从研发阶段走向市场验证和实施的进程。与此同时，国家制造业创新中心可以帮助突破关键技术瓶颈，并促进研究成果的产业化。他补充说：“这两个机构将共同帮助解决香港创新科技生态系统中长期存在的中间环节和下游商业化薄弱的问题。”"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "breakthroughs",
+          "hint": "n. 突破",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "artificial",
+          "hint": "adj. 人工的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "collaboration",
+          "hint": "n. 合作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "outlined",
+          "hint": "v. 概述",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "accelerate",
+          "hint": "v. 加速",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "commercialization",
+          "hint": "n. 商业化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "expenditure",
+          "hint": "n. 支出",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "ratio",
+          "hint": "n. 比率",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "thematic",
+          "hint": "adj. 主题的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "injection",
+          "hint": "n. 注入",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "contributions",
+          "hint": "n. 贡献",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "preliminarily",
+          "hint": "adv. 初步地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "shortlisted",
+          "hint": "v. 入围",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "proposed",
+          "hint": "v. 提议",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "paradigm",
+          "hint": "n. 范式",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "empowering",
+          "hint": "v. 赋能",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "integrated",
+          "hint": "adj. 综合的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "isolated",
+          "hint": "adj. 孤立的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "drivers",
+          "hint": "n. 驱动力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "concrete",
+          "hint": "adj. 具体的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "rallied",
+          "hint": "v. 集结",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "livelihoods",
+          "hint": "n. 生计",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "coordinated",
+          "hint": "adj. 协调的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "comprehensive",
+          "hint": "adj. 全面的",
           "difficulty": "medium"
         },
         {
           "id": 24,
-          "answer": "highlight",
-          "hint": "v. 凸显",
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
           "difficulty": "medium"
         },
         {
           "id": 25,
-          "answer": "resources",
-          "hint": "n. 资源",
-          "difficulty": "easy"
+          "answer": "complementary",
+          "hint": "adj. 互补的",
+          "difficulty": "hard"
         },
         {
           "id": 26,
-          "answer": "warnings",
-          "hint": "n. 预警",
-          "difficulty": "easy"
+          "answer": "validation",
+          "hint": "n. 验证",
+          "difficulty": "hard"
         },
         {
           "id": 27,
-          "answer": "financial",
-          "hint": "adj. 财政的",
-          "difficulty": "easy"
+          "answer": "bottlenecks",
+          "hint": "n. 瓶颈",
+          "difficulty": "hard"
         },
         {
           "id": 28,
-          "answer": "environmental",
-          "hint": "adj. 环境的",
+          "answer": "industrialization",
+          "hint": "n. 产业化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 29,
+          "answer": "weakness",
+          "hint": "n. 弱点",
           "difficulty": "easy"
         }
       ],
-      "fullText": "Veterinarians from the Turkish Diyanet Foundation (TDV) examine livestock to assess health compliance in Ouagadougou, Burkina Faso, May 26, 2026. /CFP\nImproved weather forecasts could help livestock farmers prepare for increasingly severe droughts, but new research suggests they will have limited impact unless vulnerable households also have the means to act on the warnings.\nAn international team led by the University of Sydney and Imperial College London says combining climate information with measures such as livestock feed, drought insurance, targeted financial assistance and better market access could help protect some of southern Africa's poorest pastoral communities from climate shocks.\nThe study, published in Nature Sustainability, comes as the region prepares for the potential impacts of a powerful El Nino weather event.\nResearchers warn that increasing climate variability could deepen existing inequalities across southern Africa's rangelands, where millions of people depend on cattle, sheep and goats for income, food and household savings.\nForecasts are not enough\nLead researcher Dr. Matt Clark said the challenge was not simply a lack of access to climate information, but the limited ability of poorer farmers to respond to it.\n\"If the forecasts prove correct and we see a near-record El Nino develop, we expect this will amplify inequalities across southern African rangelands,\" Clark said.\nWhile wealthier livestock owners can sell animals before drought conditions worsen and later rebuild their herds, poorer pastoralists often lack the financial resources to reduce their herds or purchase supplementary feed.\nThis can leave them with little choice but to keep livestock on increasingly degraded grazing land, increasing the risk of livestock deaths and further loss of household wealth.\nThe consequences can extend beyond individual families, affecting food security, livelihoods and the health of fragile rangelands.\nThe researchers say practical support can enable farmers to act on forecasts before drought takes hold, potentially reducing both economic losses and environmental damage.\nCombining adaptation measures\nThe team used detailed modeling to examine how pastoral households across Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe might respond to increasing rainfall variability.\nThe researchers combined projected rainfall data from European climate models with information on livestock, vegetation and household wealth.\nTheir first simulation examined a business-as-usual scenario and found that greater rainfall variability could reduce household wealth, increase livestock losses, degrade grasslands and widen inequality.\nA second simulation tested different adaptation measures. Climate forecasts on their own produced only modest benefits because many poorer households could not afford to act on the information. Risk-smoothing measures alone could also create environmental trade-offs.\nBut when climate information was combined with practical and financial support, the researchers found that households were better able to prepare for drought while reducing pressure on rangelands.\nA worker stands next to Ndama cattle at the Nyanga Ranch in Tchibanga, Gabon, September 13, 2025. /CFP\nThe model also suggested that adaptation could spread between neighboring communities as farmers learned from one another and adopted successful strategies.\nDr. Gina Arena of Conservation International's Herding for Health initiative said greater climate uncertainty was increasing the risks faced by pastoral communities.\n\"It's that with greater uncertainty in climate comes greater risk,\" she said, adding that research could help identify effective decisions while reducing the risks associated with implementing them.\nThe researchers say the approach does not necessarily require new technology. Instead, existing forecasting systems need to be linked to programs that give vulnerable communities the resources to respond.\nClark said the framework could also be applied beyond southern Africa, including in Australia and other regions where livestock producers face increasingly unpredictable rainfall.\nThe findings highlight a broader challenge for climate adaptation: early warnings can save lives and livelihoods only when the people receiving them have the resources to act.",
-      "fullTextCn": "2026年5月26日，土耳其宗教事务基金会（TDV）的兽医在布基纳法索瓦加杜古检查牲畜，以评估其健康状况是否符合规定。/CFP\n\n改进的天气预报可以帮助畜牧养殖者应对日益严重的干旱，但新研究表明，除非脆弱家庭也有能力根据预警采取行动，否则这些预报的影响将十分有限。由悉尼大学和伦敦帝国理工学院领导的一个国际研究团队表示，将气候信息与牲畜饲料、干旱保险、有针对性的财政援助和更好的市场准入等措施相结合，可以帮助保护南部非洲一些最贫困的牧民社区免受气候冲击。这项发表在《自然·可持续性》上的研究出炉之际，该地区正准备迎接一次强烈的厄尔尼诺天气事件可能带来的影响。研究人员警告说，气候变率不断增加可能会加深南部非洲牧场地区现有的不平等，那里有数百万人依赖牛、绵羊和山羊获取收入、食物和家庭储蓄。\n\n预测本身还不够\n\n首席研究员马特·克拉克博士表示，挑战不仅仅在于缺乏获取气候信息的渠道，还在于较贫困农民应对这些信息的能力有限。克拉克说：“如果预测被证明是正确的，并且我们确实看到一次接近纪录的厄尔尼诺现象形成，我们预计这将加剧南部非洲牧场地区的不平等。”虽然较富裕的牲畜所有者可以在干旱状况恶化之前出售牲畜，并在之后重建畜群，但较贫困的牧民往往缺乏减少畜群或购买补充饲料的财政资源。这可能使他们别无选择，只能让牲畜继续留在日益退化的牧场上，从而增加牲畜死亡和家庭财富进一步损失的风险。\n\n其后果可能超出单个家庭，影响粮食安全、生计以及脆弱牧场的健康。研究人员表示，实际支持可以使农民在干旱形成之前根据预测采取行动，从而有可能减少经济损失和环境破坏。结合适应措施\n\n该团队使用详细的建模来研究博茨瓦纳、斯威士兰、莱索托、莫桑比克、纳米比亚、南非和津巴布韦的牧民家庭可能如何应对日益增加的降雨变率。研究人员将欧洲气候模型预测的降雨数据与牲畜、植被和家庭财富信息结合起来。他们的第一个模拟考察了照常情景，发现更大的降雨变率可能会减少家庭财富、增加牲畜损失、导致草地退化并扩大不平等。\n\n第二个模拟测试了不同的适应措施。仅靠气候预测只能带来有限的益处，因为许多较贫困家庭无力根据这些信息采取行动。仅靠风险平滑措施也可能造成环境方面的取舍。但是，当气候信息与实际和财政支持相结合时，研究人员发现，家庭能够更好地为干旱做准备，同时减少对牧场的压力。2025年9月13日，一名工人在加蓬奇班加的尼扬加牧场站在恩达马牛旁边。\n\n/CFP\n\n该模型还表明，随着农民相互学习并采用成功策略，适应措施可能会在邻近社区之间传播。保护国际基金会“为健康而放牧”倡议的吉娜·阿雷纳博士表示，更大的气候不确定性正在增加牧民社区面临的风险。她说：“气候不确定性越大，风险就越大。”她还说，研究可以帮助确定有效决策，同时降低实施这些决策所伴随的风险。研究人员表示，这种方法不一定需要新技术。\n\n相反，现有的预报系统需要与那些为脆弱社区提供应对资源的项目相连接。克拉克表示，该框架也可以应用于南部非洲以外地区，包括澳大利亚和其他牲畜生产者面临日益不可预测降雨的地区。这些发现凸显了气候适应面临的一个更广泛挑战：只有当收到预警的人拥有采取行动的资源时，早期预警才能拯救生命和生计。"
+      "fullText": "Hong Kong will step up efforts to develop into an international innovation and technology center, targeting breakthroughs in core technologies such as artificial intelligence and life sciences, with the push backed by modern finance, expanded public research platforms and closer collaboration with the Chinese mainland.\nThe policy direction and specific measures outlined in the city's latest development blueprints will help strengthen Hong Kong's innovation and technology ecosystem and accelerate the commercialization of research outcomes, industry insiders said.\nChief Executive John Lee Ka-chiu said on Wednesday, while delivering the First Five-Year Plan for Economic and Social Development of the Hong Kong Special Administrative Region (2026-2030), that Hong Kong will continue to increase its expenditure on innovation activities as a share of gross domestic product, aiming to raise the ratio to 3 percent after 2030, from about 1.63 percent in 2024.\nLee said the Innovation and Technology Industry-Oriented Fund is expected to be launched this year, covering five thematic sectors, including life and health technology, AI and robotics. With a HK$10 billion ($1.27 billion) injection from the HKSAR government and market contributions at a ratio of 1 to at least 3, the fund is projected to reach at least HK$40 billion in total.\nIn his annual Policy Address released on the same day, Lee provided further details, saying that about 20 fund managers have been preliminarily shortlisted to raise capital for the establishment of sub-funds.\nThe two road maps also proposed advancing the development of the \"three major innovation and technology parks and five key research and development institutions\". The latter include the Artificial Intelligence Research and Development Institute, which is expected to begin operation this year, and the Life and Health Technology Research Institute. Preparatory work for the LHTRI, which will focus on \"AI + life sciences\", will be largely completed by the end of the year.\n\"We will basically have established an international innovation and technology center based in the Guangdong-Hong Kong-Macao Greater Bay Area, serving the entire country and connected to the world, after 2030,\" Lee said.\nHe added that this will give rise to a new paradigm for innovation and technology development, with enterprises as the key players, unicorns taking the lead, and modern finance empowering the integrated development of technological and industrial innovation.\nJoseph Chan, associate director of the Centre for Innovation and Entrepreneurship at the Business School of the University of Hong Kong, said the \"finance+\" strategy is a smart move because it treats finance as an essential engine powering technological innovation, rather than as an isolated sector.\nInnovation and technology are increasingly becoming key drivers of Hong Kong's economy, with their contributions reflected in a growing share of the city's GDP, Chan said.\n\"The HKSAR government has both the will and a concrete plan,\" he said, citing the Innovation and Technology Industry-Oriented Fund and major research institutions as examples of policy support. \"In doing so, far greater social resources can be rallied, and more importantly, (this can) generate impactful outcomes that benefit both the people's livelihoods and the wider national economy.\"\nSpeaking of the \"three major innovation and technology parks\", which include the Hong Kong Park of the Hetao Shenzhen-Hong Kong Science and Technology Innovation Cooperation Zone, Hannah Jeong, head of valuation and advisory services at CBRE Hong Kong, said the coordinated development model is expected to create a more comprehensive innovation ecosystem supporting research, commercialization and advanced manufacturing.\nJeong said that while physical infrastructure is important, \"a key success factor will be Hong Kong's ability to attract leading international technology companies, research institutes and universities\".\nCommenting on the proposed Hong Kong Innovation and Technology Application Scenario Promotion Centre and the target of establishing the SAR's first national manufacturing innovation center by 2027, Victor Kwok, deputy research director of think tank Our Hong Kong Foundation, said the two institutions will play complementary roles in building the ecosystem.\nThe application scenario center will help accelerate the process of moving innovation solutions from the R&D stage to market validation and implementation, Kwok said. The national manufacturing innovation center, meanwhile, can help overcome bottlenecks in key technologies and promote the industrialization of research outcomes.\n\"Together, the two institutions will help address Hong Kong's long-standing weakness in midstream and downstream commercialization in its innovation and technology ecosystem,\" he added.",
+      "fullTextCn": "香港将加大力度发展成为国际创新科技中心，瞄准人工智能和生命科学等核心技术的突破，并以现代金融、扩展的公共研究平台以及与内地更紧密的合作为支撑。业内人士表示，香港最新发展蓝图中所勾勒的政策方向和具体措施，将有助于加强香港的创新科技生态系统，并加快研究成果的商业化。行政长官李家超周三在发表《香港特别行政区经济社会发展第一个五年规划（2026-2030）》时表示，香港将继续提高创新活动支出占本地生产总值的比重，目标是在2030年后将该比例从2024年的约1.63%提高至3%。李家超表示，创新及科技产业导向基金预计将于今年推出，涵盖生命与健康科技、人工智能与机器人等五个主题领域。该基金由香港特区政府注入100亿港元（12.7亿美元），并以1比至少3的比例带动市场出资，预计总规模将达到至少400亿港元。\n\n在同日发布的年度施政报告中，李家超提供了更多细节，称已有约20家基金经理初步入围，负责为设立子基金筹集资金。两份路线图还提出推进“三大创新科技园区和五大重点研发机构”的发展。后者包括预计今年开始运作的人工智能研发院，以及生命与健康科技研究院。专注于“人工智能+生命科学”的生命与健康科技研究院的筹备工作将在年底前基本完成。李家超表示：“2030年后，我们将基本建成一个立足粤港澳大湾区、服务全国、联通世界的国际创新科技中心。”\n\n他补充说，这将催生创新科技发展的新范式，以企业为主体、以独角兽企业为引领、以现代金融赋能科技创新和产业创新融合发展。香港大学商学院创新及创业中心副总监陈炳雄表示，“金融+”策略是一项明智之举，因为它将金融视为推动科技创新的重要引擎，而不是一个孤立的行业。陈炳雄表示，创新科技正日益成为香港经济的关键驱动力，其贡献体现在占香港本地生产总值比重的不断上升。他说：“香港特区政府既有意愿，也有具体计划”，并以创新及科技产业导向基金和重大研究机构作为政策支持的例子。“这样做可以汇聚远为更多的社会资源，更重要的是，（这可以）产生惠及民生和更广泛国民经济的重大成果。”在谈到包括河套深港科技创新合作区香港园区在内的“三大创新科技园区”时，世邦魏理仕香港估值及咨询服务部主管郑喜年表示，协同发展模式有望打造一个更全面的创新生态系统，支持研究、商业化和先进制造。\n\n郑喜年表示，虽然实体基础设施很重要，但“一个关键成功因素将是香港吸引领先国际科技公司、研究机构和大学的能力”。在评论拟设立的香港创新科技应用场景促进中心以及到2027年建立香港首个国家制造业创新中心的目标时，智库团结香港基金副总裁兼研究部联席主管郭凯杰表示，这两家机构将在构建生态系统方面发挥互补作用。郭凯杰表示，应用场景中心将有助于加快创新解决方案从研发阶段走向市场验证和实施的进程。与此同时，国家制造业创新中心可以帮助突破关键技术瓶颈，并促进研究成果的产业化。他补充说：“这两个机构将共同帮助解决香港创新科技生态系统中长期存在的中间环节和下游商业化薄弱的问题。”"
+    },
+    {
+      "id": 5,
+      "category": "military",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-09-17/detail-ihfkhtke4051164.shtml",
+      "title": "20 years on, Beijing Xiangshan Forum plays key role in global security dialogue",
+      "titleCn": "北京香山论坛二十载：在全球安全对话中发挥关键作用",
+      "summary": "Experts and officials from more than100 countries have widely acknowledged the pivotal role of the Beijing Xiangshan Forum, which officially opened in Beijing on Wednesday.",
+      "summaryCn": "北京香山论坛举办二十周年，为各国提供平等包容的对话平台，致力于弥合分歧、促进国际合作，在全球安全治理中发挥重要作用。",
+      "wordCount": 547,
+      "paragraphs": [
+        {
+          "en": "(ECNS）-- Experts and officials from more than100 countries have widely {{1}} the {{0}} role of the Beijing Xiangshan Forum, which officially opened in Beijing on Wednesday. In an interview with China News Network, Li Shuyin, director of the Secretariat Office of the Beijing Xiangshan Forum, noted that the forum provides an equal platform for all participating nations, {{2}} of their size, strength or economic status. Over the past two decades, it has been {{3}} to {{4}} differences through communication and advancing international cooperation via {{5}} dialogue, she added. “This consistent philosophy has steadily strengthened the forum’s influence, appeal and {{6}} capacity for global stability,” Li said. She pointed out that since its launch in 2006, the forum has {{7}} to the principles of equality, openness, {{8}} and mutual learning, and has grown into a major platform for global security dialogue.",
+          "cn": "（中新社）——来自100多个国家的专家学者和官员广泛认可北京香山论坛的关键作用。该论坛于周三在北京正式开幕。在接受中国新闻网采访时，北京香山论坛秘书处办公室主任李淑银指出，论坛为所有参与国提供平等平台，不论其大小、强弱或经济地位如何。她补充说，过去二十年来，论坛始终致力于通过沟通弥合分歧，通过包容性对话推进国际合作。“这一贯的理念不断增强论坛的影响力、吸引力和凝聚全球稳定的共识构建能力，”李淑银说。她指出，自2006年创办以来，论坛秉持平等、开放、包容、互鉴的原则，已发展成为全球安全对话的重要平台。"
+        },
+        {
+          "en": "Jean Christophe Baron von Pfetten, chairman of the Royal Institute for East West Strategic Studies in the UK, {{9}} Confucius’ {{10}} of “seeking harmony without uniformity” to praise the forum, saying that “China is truly an engine for world peace.”\n“The forum is trying to make people have better dialogue together to find a solution. This is what we need. China is the only country to do that,” he added. “With this platform, we can always promote that {{11}} so that we can bring every {{12}}, every problem to the table and into the dialogue, where we can fully manage differences and also manage the common interest,” said Shaftdean Lufty, senior director comprehensive security of the Malaysian Institute of Defence and Security. As a first-time attendee of the forum, Rabb Majumder, editor and publisher of The Security in Bangladesh said he believed it would play a very {{13}} role in {{14}} major global issues, because he thought that this forum would provide a platform or all peace-loving people.",
+          "cn": "英国皇家东西方战略研究所主席让·克里斯托夫·巴龙·冯·普费滕引用孔子“和而不同”的名言赞扬该论坛，称“中国确实是世界和平的引擎”。他补充说：“论坛试图让人们更好地对话，共同寻找解决方案。这正是我们所需要的。中国是唯一这样做的国家。”马来西亚国防与安全研究所综合安全高级主任沙夫迪安·卢夫蒂表示：“有了这个平台，我们始终可以推动多边主义，从而将每一个争端、每一个问题都摆到桌面上、纳入对话之中，让我们能够充分管控分歧，也能管控共同利益。”作为首次参加论坛的代表，孟加拉国《安全》杂志编辑兼出版人拉布·马宗达表示，他相信论坛将在解决重大全球问题上发挥极其重要的作用，因为他认为论坛将为所有爱好和平的人们提供一个平台。"
+        },
+        {
+          "en": "During the forum, international representatives also {{15}} China’s role in global governance. “Unilateral tariffs, use of force outside international law -- we witness this every single day. The Global Governance Initiative (GGI) brings us some kind of {{16}} narrative and an alternative approach to seeing the world,” said Carlos Branco, former director of cooperation and regional security at NATO International Military Staff. “If we analyze the five factors of the GGI, three of them are basically the fundamentals of the United Nations charter: {{17}}, international rule of law, and multilateralism,” he said, adding that countries need to adhere to these basic principles if humanity wants to move forward avoid global {{18}}, and prevent conflicts between major powers. Ahmed Al-Garni, vice president of Rasanah International Institute for Iranian Studies as well as former strategic advisor to the Minister of Defense of the Kingdom of Saudi Arabia, said China has long {{19}} solving issues through dialogue and consultation, and the communication channels it has built are {{20}}.",
+          "cn": "论坛期间，国际代表也盛赞中国在全球治理中的作用。北约国际军事参谋部前合作与地区安全主任卡洛斯·布兰科表示：“单边关税、在国际法之外使用武力——我们每天都能目睹这些。全球治理倡议为我们带来了某种替代性叙事和看待世界的替代性路径。”他说：“如果我们分析全球治理倡议的五大要素，其中三个基本上是《联合国宪章》的根本原则：主权、国际法治和多边主义。”他补充说，如果人类想要向前迈进、避免全球对抗、防止大国之间发生冲突，各国就需要坚持这些基本原则。伊朗研究国际研究所副主席、沙特阿拉伯王国国防部前战略顾问艾哈迈德·阿尔-加尔尼表示，中国长期以来坚持通过对话协商解决问题，其建立的沟通渠道不可替代。"
+        },
+        {
+          "en": "Marking its 20th anniversary, the forum strives to build an equal, inclusive and diverse platform for constructive dialogue, helping all participants {{21}} consensus, enhance mutual trust and pool wisdom to tackle global security and development challenges. Themed \"Build Consensus on Stability, Advance Security Governance Together,\" the Beijing Xiangshan Forum, which runs from Tuesday to Thursday, has brought together about 2,000 official representatives, scholars, experts and observers from almost 100 countries, regions and international organizations.",
+          "cn": "值此二十周年之际，论坛致力于打造平等、包容、多元的建设性对话平台，帮助所有参与者凝聚共识、增进互信、汇聚智慧，共同应对全球安全与发展挑战。本届北京香山论坛以“共筑和平、共享未来”为主题，于周二至周四举行，汇聚了来自近100个国家和地区及国际组织的约2000名官方代表、学者、专家和观察员。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "pivotal",
+          "hint": "adj. 关键的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "acknowledged",
+          "hint": "v. 认可",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "regardless",
+          "hint": "adv. 不论",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "committed",
+          "hint": "adj. 致力于",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "bridging",
+          "hint": "v. 弥合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "inclusive",
+          "hint": "adj. 包容的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "consensus-building",
+          "hint": "n. 共识构建",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "adhered",
+          "hint": "v. 坚持",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "inclusiveness",
+          "hint": "n. 包容性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "quoted",
+          "hint": "v. 引用",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "maxim",
+          "hint": "n. 名言",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "multilateralism",
+          "hint": "n. 多边主义",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "dispute",
+          "hint": "n. 争端",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "vital",
+          "hint": "adj. 至关重要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "resolving",
+          "hint": "v. 解决",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "hailed",
+          "hint": "v. 赞扬",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "alternative",
+          "hint": "adj. 替代的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "sovereignty",
+          "hint": "n. 主权",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "confrontation",
+          "hint": "n. 对抗",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "upheld",
+          "hint": "v. 坚持",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "irreplaceable",
+          "hint": "adj. 不可替代的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "consolidate",
+          "hint": "v. 巩固",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "(ECNS）-- Experts and officials from more than100 countries have widely acknowledged the pivotal role of the Beijing Xiangshan Forum, which officially opened in Beijing on Wednesday.\nIn an interview with China News Network, Li Shuyin, director of the Secretariat Office of the Beijing Xiangshan Forum, noted that the forum provides an equal platform for all participating nations, regardless of their size, strength or economic status.\nOver the past two decades, it has been committed to bridging differences through communication and advancing international cooperation via inclusive dialogue, she added.\n“This consistent philosophy has steadily strengthened the forum’s influence, appeal and consensus-building capacity for global stability,” Li said.\nShe pointed out that since its launch in 2006, the forum has adhered to the principles of equality, openness, inclusiveness and mutual learning, and has grown into a major platform for global security dialogue.\nJean Christophe Baron von Pfetten, chairman of the Royal Institute for East West Strategic Studies in the UK, quoted Confucius’ maxim of “seeking harmony without uniformity” to praise the forum, saying that “China is truly an engine for world peace.”\n“The forum is trying to make people have better dialogue together to find a solution. This is what we need. China is the only country to do that,” he added.\n“With this platform, we can always promote that multilateralism so that we can bring every dispute, every problem to the table and into the dialogue, where we can fully manage differences and also manage the common interest,” said Shaftdean Lufty, senior director comprehensive security of the Malaysian Institute of Defence and Security.\nAs a first-time attendee of the forum, Rabb Majumder, editor and publisher of The Security in Bangladesh said he believed it would play a very vital role in resolving major global issues, because he thought that this forum would provide a platform or all peace-loving people.\nDuring the forum, international representatives also hailed China’s role in global governance.\n“Unilateral tariffs, use of force outside international law -- we witness this every single day. The Global Governance Initiative (GGI) brings us some kind of alternative narrative and an alternative approach to seeing the world,” said Carlos Branco, former director of cooperation and regional security at NATO International Military Staff.\n“If we analyze the five factors of the GGI, three of them are basically the fundamentals of the United Nations charter: sovereignty, international rule of law, and multilateralism,” he said, adding that countries need to adhere to these basic principles if humanity wants to move forward avoid global confrontation, and prevent conflicts between major powers.\nAhmed Al-Garni, vice president of Rasanah International Institute for Iranian Studies as well as former strategic advisor to the Minister of Defense of the Kingdom of Saudi Arabia, said China has long upheld solving issues through dialogue and consultation, and the communication channels it has built are irreplaceable.\nMarking its 20th anniversary, the forum strives to build an equal, inclusive and diverse platform for constructive dialogue, helping all participants consolidate consensus, enhance mutual trust and pool wisdom to tackle global security and development challenges.\nThemed \"Build Consensus on Stability, Advance Security Governance Together,\" the Beijing Xiangshan Forum, which runs from Tuesday to Thursday, has brought together about 2,000 official representatives, scholars, experts and observers from almost 100 countries, regions and international organizations.",
+      "fullTextCn": "（中新社）——来自100多个国家的专家学者和官员广泛认可北京香山论坛的关键作用。该论坛于周三在北京正式开幕。在接受中国新闻网采访时，北京香山论坛秘书处办公室主任李淑银指出，论坛为所有参与国提供平等平台，不论其大小、强弱或经济地位如何。她补充说，过去二十年来，论坛始终致力于通过沟通弥合分歧，通过包容性对话推进国际合作。“这一贯的理念不断增强论坛的影响力、吸引力和凝聚全球稳定的共识构建能力，”李淑银说。她指出，自2006年创办以来，论坛秉持平等、开放、包容、互鉴的原则，已发展成为全球安全对话的重要平台。\n\n英国皇家东西方战略研究所主席让·克里斯托夫·巴龙·冯·普费滕引用孔子“和而不同”的名言赞扬该论坛，称“中国确实是世界和平的引擎”。他补充说：“论坛试图让人们更好地对话，共同寻找解决方案。这正是我们所需要的。中国是唯一这样做的国家。”马来西亚国防与安全研究所综合安全高级主任沙夫迪安·卢夫蒂表示：“有了这个平台，我们始终可以推动多边主义，从而将每一个争端、每一个问题都摆到桌面上、纳入对话之中，让我们能够充分管控分歧，也能管控共同利益。”作为首次参加论坛的代表，孟加拉国《安全》杂志编辑兼出版人拉布·马宗达表示，他相信论坛将在解决重大全球问题上发挥极其重要的作用，因为他认为论坛将为所有爱好和平的人们提供一个平台。\n\n论坛期间，国际代表也盛赞中国在全球治理中的作用。北约国际军事参谋部前合作与地区安全主任卡洛斯·布兰科表示：“单边关税、在国际法之外使用武力——我们每天都能目睹这些。全球治理倡议为我们带来了某种替代性叙事和看待世界的替代性路径。”他说：“如果我们分析全球治理倡议的五大要素，其中三个基本上是《联合国宪章》的根本原则：主权、国际法治和多边主义。”他补充说，如果人类想要向前迈进、避免全球对抗、防止大国之间发生冲突，各国就需要坚持这些基本原则。伊朗研究国际研究所副主席、沙特阿拉伯王国国防部前战略顾问艾哈迈德·阿尔-加尔尼表示，中国长期以来坚持通过对话协商解决问题，其建立的沟通渠道不可替代。\n\n值此二十周年之际，论坛致力于打造平等、包容、多元的建设性对话平台，帮助所有参与者凝聚共识、增进互信、汇聚智慧，共同应对全球安全与发展挑战。本届北京香山论坛以“共筑和平、共享未来”为主题，于周二至周四举行，汇聚了来自近100个国家和地区及国际组织的约2000名官方代表、学者、专家和观察员。"
     }
   ]
 }
