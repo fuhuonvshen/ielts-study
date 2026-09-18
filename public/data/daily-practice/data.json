@@ -1,948 +1,776 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "articles": [
     {
       "id": 1,
-      "category": "military",
+      "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-10/Norway-seeks-deeper-cooperation-with-China-1QjN1v0J1QI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "Norway seeks deeper cooperation with China",
-      "titleCn": "挪威寻求与中国深化合作",
-      "summary": "Norway seeks deeper cooperation with China",
-      "summaryCn": "挪威以主宾国身份参加2024年中国国际服务贸易交易会，寻求在绿色航运、海洋能源和数字技术等领域与中国深化合作，从单纯的产品贸易转向知识、技术和综合解决方案的长期伙伴关系。",
-      "wordCount": 1272,
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-14/AI-safety-Silicon-Valley-s-fear-narrative-meets-its-governance-gap-1QqW4qrrwty/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "AI safety: Silicon Valley's fear narrative meets its governance gap",
+      "titleCn": "AI安全：硅谷的恐惧叙事与治理鸿沟",
+      "summary": "AI safety: Silicon Valley's fear narrative meets its governance gap",
+      "summaryCn": "文章揭示硅谷AI公司在发出生存威胁警告的同时加速商业化的矛盾，并对比中国在AI治理方面的务实举措，指出真正的治理挑战在于行业能否可信地自我监管。",
+      "wordCount": 806,
       "paragraphs": [
         {
-          "en": "h a coastline stretching for more than 100,000 kilometers, including its islands and fjords, Norway has developed deep {{0}} in the complex ocean and energy industries. For generations, the sea has shaped Norway's economy and identity, giving the country deep expertise in shipping, offshore industries and ocean technologies. China, meanwhile, has {{1}} as a global industrial powerhouse, leading the world in shipbuilding and playing a major role in energy and advanced manufacturing. As these industries become greener and smarter, demand is growing for new technologies and {{2}} expertise. For Norway, this opens a new avenue for cooperation with China, bringing not only products, but also knowledge, technology and digital solutions developed through decades of experience in demanding ocean and energy industries.",
-          "cn": "挪威拥有绵延超过10万公里的海岸线，包括众多岛屿和峡湾，在复杂的海洋和能源产业中积累了深厚的专业知识。世世代代以来，海洋塑造了挪威的经济和身份认同，赋予该国在航运、近海产业和海洋技术方面的深厚专长。与此同时，中国已崛起为全球工业强国，在造船领域领先世界，并在能源和先进制造业中发挥着重要作用。随着这些产业变得更加绿色和智能，对新技术和专业人才的需求不断增长。对挪威而言，这开辟了与中国合作的新途径，不仅带来产品，还带来数十年在严苛的海洋和能源产业中积累的知识、技术和数字解决方案。"
+          "en": "When Jacob Coxon {{0}} from Anthropic in September and warned that artificial {{16}} (AI) could end human {{1}}, his post drew over 170 million views in 48 hours. But the more {{2}} story is not why one researcher left – it is why the industry's most safety-conscious talent can only express concern by quitting. Coxon's warning arrived during the same week that Anthropic was finalizing preparations for what could become the largest IPO in market history. Anthropic filed a {{3}} S-1 with the US Securities and Exchange Commission on June 1, targeting a {{4}} of $965 billion, and expects to complete its listing before the US midterm elections in November. Nvidia is in talks to {{5}} the offering at a $2 trillion valuation, Reuters reports.",
+          "cn": "当雅各布·考克森于九月从Anthropic辞职并警告人工智能可能终结人类文明时，他的帖子在48小时内获得了超过1.7亿次浏览。但更具揭示性的故事并非一位研究员为何离开——而是为何这个行业最具安全意识的人才只能通过辞职来表达担忧。考克森的警告发出的同一周，Anthropic正在为可能成为市场历史上最大规模的IPO做最后准备。Anthropic于6月1日向美国证券交易委员会秘密提交了S-1文件，目标估值达9650亿美元，并预计在11月美国中期选举前完成上市。据路透社报道，英伟达正在洽谈以2万亿美元估值锚定此次发行。"
         },
         {
-          "en": "That opportunity comes into focus this year at the China International Fair for Trade in Services (CIFTIS), where Norway is the Guest Country of Honor. The event runs from September 9 to 13 in Beijing. At its national pavilion, Norwegian companies showcase services and solutions focusing on green energy, digital technology, healthy living products and premium nutrition. The ambition goes beyond selling individual products. Henning Kristoffersen, commercial counsellor at the Norwegian Embassy in China and director of Innovation Norway China, said Norwegian companies hope to move from offering individual products to providing more {{3}} solutions, and from one-off transactions to long-term cooperation.",
-          "cn": "这一机遇在今年中国国际服务贸易交易会上成为焦点，挪威是本届服贸会的主宾国。活动于9月9日至13日在北京举行。在挪威国家展馆，挪威企业展示了聚焦绿色能源、数字技术、健康生活产品和优质营养的服务与解决方案。其雄心不止于销售单个产品。挪威驻华大使馆商务参赞、挪威创新署中国区总监亨宁·克里斯托弗森表示，挪威企业希望从提供单个产品转向提供更全面的解决方案，从一次性交易转向长期合作。"
+          "en": "The safety pledge that disappeared\nAnthropic CEO Dario Amodei has publicly called for slowing AI development so safety systems can catch up, yet his company's IPO timetable shows no corresponding {{6}}. In February 2026, Anthropic released Version 3.0 of its Responsible Scaling Policy, which dropped the company's earlier {{7}} to pause model training if risks could not be adequately {{8}}. The \"pause training\" pledge simply disappeared from the document, replaced by softer language about \"responsible development\" and {{9}} mechanisms. As an analysis from Chinese technology news outlet 36Kr noted, Anthropic's safety red lines have become dynamically {{10}}. This is the structural {{11}} at the heart of the AI safety debate.",
+          "cn": "消失的安全承诺\nAnthropic首席执行官达里奥·阿莫代伊曾公开呼吁放缓AI发展，以便安全系统能够跟上，然而其公司的IPO时间表却未见相应的减速。2026年2月，Anthropic发布了其《负责任扩展政策》3.0版本，放弃了此前关于若风险无法充分缓解则暂停模型训练的承诺。“暂停训练”的承诺从文件中悄然消失，取而代之的是关于“负责任发展”和透明度机制的更温和措辞。正如中国科技新闻媒体36氪的一篇分析所指出的，Anthropic的安全红线已变得可以动态调整。这正是AI安全辩论核心的结构性矛盾。"
         },
         {
-          "en": "China is Norway's most important trading partner in Asia. Kristoffersen said the two countries have {{4}} strengths in areas including maritime industries, energy and {{5}} development, while the CIFTIS offers a platform for Norwegian companies to expand their business networks and build long-term {{23}}. Greener shipping\nFor DNV, a Norwegian-founded risk management company, that cooperation has been taking shape for more than a century. It has had a presence in China for nearly 140 years, and its relationship with China's maritime industry began with ship inspection and {{6}} in 1888. It provided independent technical {{7}} to help ensure that vessels meet required standards.",
-          "cn": "中国是挪威在亚洲最重要的贸易伙伴。克里斯托弗森表示，两国在海事产业、能源和可持续发展等领域具有互补优势，而服贸会为挪威企业拓展商业网络、建立长期伙伴关系提供了平台。更绿色的航运——对于挪威创立的风险管理公司DNV而言，这种合作已经持续了一个多世纪。DNV在中国已有近140年的历史，其与中国海事产业的关系始于1888年的船舶检验和入级服务。它提供独立的技术评估，帮助确保船舶符合所需标准。"
+          "en": "Companies warn of civilizational risk while racing to {{12}} the technology at {{13}} speed. OpenAI CEO Sam Altman captured the {{14}} bluntly, comparing Anthropic's approach to fear-based marketing: \"It is clearly incredible marketing to say, 'We have built a bomb. We are about to drop it on your head. We will sell you a bomb shelter for $100 million to run across all your stuff, but only if we pick you as a customer.'\"\nBeyond the IPO\nThe tension between safety {{15}} and commercial behavior extends beyond IPO filings. On September 10 – the same week Coxon's resignation went viral – Anthropic published a 154-page threat intelligence report revealing that its own Claude model had been used for weapons development, military intelligence gathering, cyberattacks and fraud.",
+          "cn": "企业在以空前速度将技术商业化的同时警告文明风险。OpenAI首席执行官萨姆·奥尔特曼直白地捕捉到了这种讽刺，将Anthropic的做法比作恐惧营销：“说‘我们造了一颗炸弹，我们即将把它扔到你头上，我们会以1亿美元卖给你一个防空洞来覆盖你所有的东西，但前提是我们选你当客户’——这显然是令人难以置信的营销。”\n超越IPO\n安全言论与商业行为之间的张力超越了IPO文件。9月10日——考克森辞职事件疯传的同一周——Anthropic发布了一份154页的威胁情报报告，披露其自家的Claude模型曾被用于武器开发、军事情报收集、网络攻击和欺诈。"
         },
         {
-          "en": "Today, however, this partnership extends far beyond inspecting ships. As international laws are demanding the ship industry searches for ways to cut {{8}}, and financiers are also paying greater attention to the environmental performance of vessels, DNV is increasingly working with Chinese shipbuilders and shipowners on designing and building the next generation of vessels. But the path toward greener shipping is far from {{9}}. There is no single alternative fuel suitable for every vessel and every shipping route. The choice depends on factors including the type of ship, where it operates and whether a particular fuel is available along its route.",
-          "cn": "然而如今，这种伙伴关系远不止于检验船舶。随着国际法规要求航运业寻找减少排放的方法，金融机构也越来越关注船舶的环境表现，DNV正越来越多地与中国造船企业和船东合作，设计和建造下一代船舶。但通往绿色航运的道路远非一帆风顺。没有一种替代燃料适合每一艘船和每一条航线。选择取决于船舶类型、运营区域以及航线上是否有特定燃料供应等因素。"
+          "en": "Anthropic acknowledged that its safety mechanisms, while blocking some {{17}}, could not fully prevent misuse. The company also restricted access to its most powerful model through Project Glasswing, limiting it to roughly 200 organizations. And after a US Commerce Department order, it excluded foreign nationals entirely, including the EU's cybersecurity agency ENISA. The governance gap is not confined to corporate boardrooms. The UN Independent International Scientific Panel on AI warned in July that AI is \"{{18}} both scientific understanding and governments' ability to adapt.\" The panel specifically flagged a phase of \"agentic\" autonomy that current {{19}} frameworks cannot manage, potentially allowing dangerous capabilities to emerge before governments can respond.",
+          "cn": "Anthropic承认其安全机制虽然阻止了一些违规行为，但无法完全防止滥用。该公司还通过“玻璃翼计划”限制了其最强大模型的访问权限，仅限约200个组织使用。在美国商务部下达命令后，该公司完全排除了外国公民，包括欧盟网络安全机构ENISA。治理鸿沟并不局限于企业董事会。联合国人工智能独立国际科学小组在七月警告称，AI“正在超越科学理解和政府的适应能力”。该小组特别指出了一种“代理式”自主阶段，当前的监管框架无法管理，可能使危险能力在政府能够应对之前就已出现。"
         },
         {
-          "en": "That {{10}} creates both technological and financial risks. Many companies have adopted a {{11}} approach, building conventional vessels while leaving room for future {{12}}. Chinese shipbuilders and shipowners, however, are increasingly moving directly toward vessels designed to use alternative fuels, according to Norbert Kray, senior vice president and regional manager for Greater China at DNV. This is where DNV says it can play a role. The company is working with Chinese clients earlier in the process, providing technical expertise, data and analysis to help them assess different technological options.",
-          "cn": "这种不确定性带来了技术和金融双重风险。许多企业采取了谨慎的做法，建造传统船舶的同时为未来改装留出空间。然而，据DNV高级副总裁兼大中华区区域经理诺伯特·克雷介绍，中国造船企业和船东正越来越多地直接转向设计使用替代燃料的船舶。DNV表示这正是其可以发挥作用的领域。该公司在流程更早的阶段就与中国客户合作，提供技术专长、数据和分析，帮助他们评估不同的技术方案。"
+          "en": "The EU has delayed {{20}} deadlines for high-risk AI systems from August 2026 to December 2027, citing the need for more preparation time for standards and regulatory infrastructure. A different governance model\nAgainst this backdrop of corporate contradictions and regulatory delays, China's approach has been notably different in method, if not always in pace. China's management measures on generative AI services, implemented in August 2023, were the world's first official regulations governing generative AI services. As of July, 1,028 large model services had completed registration, with applications covering industry, agriculture, commerce, education, transportation and law. The country's AI Safety Governance Framework, now entering its 3.0 version, translates principles of \"classification, agile governance and shared governance\" into actionable implementation plans, addressing risks from both the technology itself and its applications.",
+          "cn": "欧盟已将高风险AI系统的合规截止日期从2026年8月推迟至2027年12月，理由是标准和监管基础设施需要更多准备时间。\n一种不同的治理模式\n在企业矛盾与监管延迟的背景下，中国的方法在方式上——尽管不总是在速度上——明显不同。中国于2023年8月实施的生成式AI服务管理办法是全球首部规范生成式AI服务的官方法规。截至七月，已有1028项大模型服务完成注册，应用覆盖工业、农业、商业、教育、交通和法律等领域。该国的人工智能安全治理框架现已进入3.0版本，将“分类分级、敏捷治理、多方共治”原则转化为可操作的实施方案，从技术本身及其应用两方面应对风险。"
         },
         {
-          "en": "It helps companies {{13}} uncertainty as they {{14}} to greener shipping. Kray said China's influence on the global transformation of shipping is {{15}}. As Chinese shipbuilders receive more orders for vessels designed to meet new environmental requirements, decisions made in Chinese shipyards are gradually shaping the future of the global maritime industry. If DNV illustrates how a traditional maritime service is evolving to meet the demands of greener shipping, Falkor, a company developing industrial software and digital solutions formerly known as Kongsberg Digital, illustrates another direction: the growing role of digital services in managing complex industrial operations. Deep Sea No.",
-          "cn": "它帮助企业在向绿色航运转型的过程中应对不确定性。克雷表示，中国对全球航运转型的影响力举足轻重。随着中国造船企业获得更多符合新环保要求船舶的订单，中国船厂做出的决策正在逐步塑造全球海事产业的未来。如果说DNV展示了传统海事服务如何演变以满足绿色航运的需求，那么Falkor——一家开发工业软件和数字解决方案的公司，前身为康士伯数字——则展示了另一个方向：数字服务在管理复杂工业运营中日益重要的作用。深海一号"
+          "en": "China's \"Qinglang\" internet government initiative has cleaned up over 5.61 million pieces of illegal information, dealt with more than 49,000 accounts and shut down over 2,400 violating websites and applications related to AI misuse. The country also established the World AI Cooperation Organization in July, with 29 founding member states, and pledged 5,000 AI training opportunities for developing countries over the next five years. A CGTN global survey found that 85.4% of respondents believe AI's rapid development is creating new challenges for global security and governance. Some 92.6% expressed concern that deepfakes and AI-generated misinformation could erode social trust, and 82.6% believe developing countries and the Global South should play a greater role in shaping AI governance rules. The real question is not whether AI safety concerns are genuine – they are.",
+          "cn": "中国的“清朗”互联网政府专项行动已清理超过561万条违法信息，处置了超过4.9万个账号，关闭了2400多个与AI滥用相关的违规网站和应用。该国还于七月成立了世界人工智能合作组织，有29个创始成员国，并承诺在未来五年为发展中国家提供5000个AI培训机会。CGTN的一项全球调查发现，85.4%的受访者认为AI的快速发展正在给全球安全和治理带来新挑战。约92.6%的人担心深度伪造和AI生成的虚假信息可能侵蚀社会信任，82.6%的人认为发展中国家和全球南方应在塑造AI治理规则方面发挥更大作用。真正的问题不是AI安全担忧是否真实——它们确实是。"
         },
         {
-          "en": "1 (Shenhai-1), China's first independently operated deepwater gas field, lies beneath the South China Sea. At peak production, the field can supply more than 3 billion cubic meters of natural gas a year, providing energy for about 21 million people. Operating a gas field deep beneath the surface leads to challenges that are difficult to see and even harder to manage. On the seabed, temperatures can fall to around 3 degrees Celsius. Low temperatures, combined with the mixture of gas, water and other fluids moving through subsea pipelines, can create risks including hydrate formation and unstable flow.",
-          "cn": "（Shenhai-1）是中国首个自主运营的深水气田，位于南海海底。在产量高峰期，该气田每年可供应超过30亿立方米天然气，为约2100万人提供能源。在海底深处运营气田会带来难以察觉、更难以管理的挑战。在海底，温度可降至约3摄氏度。低温加上天然气、水和其他流体在海底管道中流动的混合物，可能产生水合物形成和流动不稳定等风险。"
-        },
-        {
-          "en": "In such an environment, operators cannot simply wait for something to go wrong before responding. This is where the Norwegian company steps in, using a digital model to create a virtual representation of the gas field's highly complex physical operations. This can {{16}} different operating conditions, collect data and give engineers a clearer picture of the operation, helping them make decisions before problems arise. It can also support decisions about pipeline cleaning, {{17}} operating parameters and analyze energy consumption. Sorting salmon\nThe broader shift in China-Norway cooperation can be seen not only in large industrial projects, but also in efforts to address environmental challenges.",
-          "cn": "在这样的环境中，运营方不能等到出了问题才做出反应。这正是这家挪威公司介入的地方，它使用数字模型创建气田高度复杂的物理运营的虚拟表示。这可以模拟不同的运营条件，收集数据，让工程师更清晰地了解运营情况，帮助他们在问题出现之前做出决策。它还可以支持管道清洁决策、优化运营参数和分析能耗。分拣三文鱼——中挪合作的更广泛转变不仅体现在大型工业项目中，也体现在应对环境挑战的努力中。"
-        },
-        {
-          "en": "Norway is home to countless rivers where wild Atlantic salmon {{19}} upstream to spawn. But the country's wild salmon populations have faced growing pressure in recent decades, from {{18}} humpback, or pink salmon that compete with native fish for habitat and food, and also climate change and human activity. According to the Norwegian Environment Agency, more than 480,000 pink salmon were caught or observed in Norwegian rivers in 2023, exceeding the number of wild Atlantic salmon that returned to Norway's rivers to spawn in 2024. Removing the invasive fish has traditionally relied heavily on volunteers, a labor-intensive process which has been made more difficult by the challenge of identifying fish as they move underwater. In 2021, Huawei Norway joined with Norwegian technology partners to develop an AI-powered fish trap to help address the problem.",
-          "cn": "挪威拥有无数河流，野生大西洋鲑鱼洄游上游产卵。但近几十年来，该国野生鲑鱼种群面临越来越大的压力，来自入侵的驼背鲑（粉鲑）与本地鱼类争夺栖息地和食物，以及气候变化和人类活动的影响。据挪威环境署统计，2023年在挪威河流中捕获或观测到的粉鲑超过48万条，超过了2024年返回挪威河流产卵的野生大西洋鲑数量。清除入侵鱼类传统上严重依赖志愿者，这是一个劳动密集型的过程，而识别水下移动鱼类的难度使这一工作更加困难。2021年，华为挪威公司与挪威技术合作伙伴联手开发了一种人工智能驱动的鱼陷阱来帮助解决这一问题。"
-        },
-        {
-          "en": "For the first year, a system using an underwater camera and machine vision was tested in the Storelva River near Berlevag, northern Norway, to identify different fish species as they passed through the trap. Trained on tens of thousands of images, the AI system learned to {{20}} native Atlantic salmon from invasive pink salmon in real time, with an accuracy of more than 90%. Since 2022, a sorting system designed to distinguish between wild salmon and invasive pink salmon has been installed downstream in the Storelva River, before it reaches the sea. Once a fish is identified, the system opens the gate for native salmon, allowing them to continue upstream to spawn, while diverting invasive pink salmon into nearby holding tanks for removal. Tor Schulstad, administrator of the hunting and fishing association Berlevag JFF in Norway, said native salmon face critical challenges from invasive pink salmon and escaped farmed salmon, while the monitoring systems using AI is helping to stop this and enable future-proof river management.",
-          "cn": "第一年，一套使用水下摄像头和机器视觉的系统在挪威北部贝勒沃格附近的斯托尔瓦河进行了测试，用于在鱼类通过陷阱时识别不同鱼种。经过数万张图像的训练，该AI系统学会了实时区分本地大西洋鲑和入侵粉鲑，准确率超过90%。自2022年以来，一套旨在区分野生鲑鱼和入侵粉鲑的分拣系统已安装在斯托尔瓦河下游、入海之前。一旦识别出鱼类，系统便为本地鲑鱼打开闸门，让它们继续上游产卵，同时将入侵粉鲑引入附近的暂养池进行清除。挪威贝勒沃格狩猎和钓鱼协会管理员托尔·舒尔斯塔德表示，本地鲑鱼面临入侵粉鲑和逃逸养殖鲑鱼的严峻挑战，而使用AI的监测系统正在帮助阻止这一趋势，实现面向未来的河流管理。"
-        },
-        {
-          "en": "In the summer time last year, the system helped {{21}} more than 4,000 invasive pink salmon in the Skallelv River, easing the pressure on native species. Services cooperation\nThese examples illustrate cooperation is no longer limited to the exchange of products. It increasingly involves knowledge, technology and specialized services, with companies from both countries bringing different strengths to address specific needs. The CIFTIS has become a forum for companies to understand where to find common ground, connecting expertise and technology with China's industrial scale and growing demand for advanced solutions. This year, the CIFTIS is bringing together more than 1,800 companies from around 90 countries and international organizations, showcasing new technologies, solutions and achievements across a range of fast-growing fields, from high-tech and fintech to smart healthcare.",
-          "cn": "去年夏天，该系统在斯卡勒尔夫河帮助拦截了4000多条入侵粉鲑，减轻了本地物种的压力。服务合作——这些例子表明，合作不再局限于产品交换。它越来越多地涉及知识、技术和专业服务，两国企业带来不同的优势以满足特定需求。服贸会已成为企业了解在哪里找到共同点的论坛，将专业知识和技术与中国的工业规模和对先进解决方案日益增长的需求对接。今年，服贸会汇聚了来自约90个国家和国际组织的1800多家企业，展示从高科技和金融科技到智慧医疗等一系列快速增长领域的新技术、新解决方案和新成果。"
-        },
-        {
-          "en": "Around 100 promotional events and business {{22}} are also scheduled, giving companies from around the world an opportunity to explore partnerships and turn new ideas into practical cooperation.",
-          "cn": "约100场推介活动和商务洽谈也已排定，为来自世界各地的企业提供了探索伙伴关系、将新想法转化为实际合作的机会。"
+          "en": "The question is whether an industry that produces existential warnings while racing toward trillion-dollar valuations can credibly govern itself. Chinese Foreign Ministry spokesperson Guo Jiakun put it directly on Monday: \"AI development concerns the common well-being of all humanity. All parties should work together to promote open, inclusive and beneficial AI. Spreading various threat narratives and engaging in confrontation and malicious competition will only disrupt the global AI governance process and serve no one's interests.\"",
+          "cn": "问题在于，一个在奔向万亿美元估值的同时发出生存警告的行业，能否可信地自我治理。中国外交部发言人郭嘉昆周一直接指出：“AI发展关乎全人类共同福祉。各方应携手推动开放、包容、有益的AI。散布各种威胁叙事、搞对抗和恶意竞争，只会扰乱全球AI治理进程，不符合任何人的利益。”"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "expertise",
-          "hint": "n. 专业知识",
-          "difficulty": "medium"
+          "answer": "resigned",
+          "hint": "v. 辞职",
+          "difficulty": "easy"
         },
         {
           "id": 1,
-          "answer": "emerged",
-          "hint": "v. 崛起，出现",
-          "difficulty": "medium"
+          "answer": "civilization",
+          "hint": "n. 文明",
+          "difficulty": "easy"
         },
         {
           "id": 2,
-          "answer": "specialized",
-          "hint": "adj. 专业的，专门的",
+          "answer": "revealing",
+          "hint": "adj. 揭示性的",
           "difficulty": "medium"
         },
         {
           "id": 3,
-          "answer": "comprehensive",
-          "hint": "adj. 全面的，综合的",
+          "answer": "confidential",
+          "hint": "adj. 机密的",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "complementary",
-          "hint": "adj. 互补的",
-          "difficulty": "hard"
+          "answer": "valuation",
+          "hint": "n. 估值",
+          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "sustainable",
-          "hint": "adj. 可持续的",
-          "difficulty": "easy"
+          "answer": "anchor",
+          "hint": "v. 锚定",
+          "difficulty": "hard"
         },
         {
           "id": 6,
-          "answer": "classification",
-          "hint": "n. 分类，入级",
+          "answer": "deceleration",
+          "hint": "n. 减速",
           "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "assessments",
-          "hint": "n. 评估",
-          "difficulty": "medium"
+          "answer": "commitment",
+          "hint": "n. 承诺",
+          "difficulty": "easy"
         },
         {
           "id": 8,
-          "answer": "emissions",
-          "hint": "n. 排放",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "straightforward",
-          "hint": "adj. 简单直接的",
+          "answer": "mitigated",
+          "hint": "v. 缓解",
           "difficulty": "hard"
         },
         {
+          "id": 9,
+          "answer": "transparency",
+          "hint": "n. 透明度",
+          "difficulty": "medium"
+        },
+        {
           "id": 10,
-          "answer": "uncertainty",
-          "hint": "n. 不确定性",
+          "answer": "adjustable",
+          "hint": "adj. 可调整的",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "cautious",
-          "hint": "adj. 谨慎的",
+          "answer": "contradiction",
+          "hint": "n. 矛盾",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "retrofitting",
-          "hint": "n./v. 改装，翻新",
-          "difficulty": "hard"
+          "answer": "commercialize",
+          "hint": "v. 商业化",
+          "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "navigate",
-          "hint": "v. 应对，导航",
+          "answer": "unprecedented",
+          "hint": "adj. 空前的",
           "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "transition",
-          "hint": "n./v. 转型，过渡",
+          "answer": "irony",
+          "hint": "n. 讽刺",
           "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "significant",
-          "hint": "adj. 显著的，重要的",
-          "difficulty": "easy"
+          "answer": "rhetoric",
+          "hint": "n. 言论",
+          "difficulty": "hard"
         },
         {
           "id": 16,
-          "answer": "simulate",
-          "hint": "v. 模拟",
-          "difficulty": "medium"
+          "answer": "intelligence",
+          "hint": "n. 情报",
+          "difficulty": "easy"
         },
         {
           "id": 17,
-          "answer": "optimize",
-          "hint": "v. 优化",
+          "answer": "violations",
+          "hint": "n. 违规行为",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "invasive",
-          "hint": "adj. 入侵的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "migrate",
-          "hint": "v. 迁徙，洄游",
-          "difficulty": "medium"
-        },
-        {
-          "id": 20,
-          "answer": "distinguish",
-          "hint": "v. 区分，辨别",
-          "difficulty": "medium"
-        },
-        {
-          "id": 21,
-          "answer": "intercept",
-          "hint": "v. 拦截",
+          "answer": "outpacing",
+          "hint": "v. 超越",
           "difficulty": "hard"
         },
         {
-          "id": 22,
-          "answer": "negotiations",
-          "hint": "n. 谈判，洽谈",
-          "difficulty": "medium"
+          "id": 19,
+          "answer": "oversight",
+          "hint": "n. 监管",
+          "difficulty": "hard"
         },
         {
-          "id": 23,
-          "answer": "partnerships",
-          "hint": "n. 伙伴关系",
-          "difficulty": "easy"
+          "id": 20,
+          "answer": "compliance",
+          "hint": "n. 合规",
+          "difficulty": "medium"
         }
       ],
-      "fullText": "h a coastline stretching for more than 100,000 kilometers, including its islands and fjords, Norway has developed deep expertise in the complex ocean and energy industries. \nFor generations, the sea has shaped Norway's economy and identity, giving the country deep expertise in shipping, offshore industries and ocean technologies.\nChina, meanwhile, has emerged as a global industrial powerhouse, leading the world in shipbuilding and playing a major role in energy and advanced manufacturing.\nAs these industries become greener and smarter, demand is growing for new technologies and specialized expertise.\nFor Norway, this opens a new avenue for cooperation with China, bringing not only products, but also knowledge, technology and digital solutions developed through decades of experience in demanding ocean and energy industries.\nThat opportunity comes into focus this year at the China International Fair for Trade in Services (CIFTIS), where Norway is the Guest Country of Honor. The event runs from September 9 to 13 in Beijing.\nAt its national pavilion, Norwegian companies showcase services and solutions focusing on green energy, digital technology, healthy living products and premium nutrition.\nThe ambition goes beyond selling individual products. Henning Kristoffersen, commercial counsellor at the Norwegian Embassy in China and director of Innovation Norway China, said Norwegian companies hope to move from offering individual products to providing more comprehensive solutions, and from one-off transactions to long-term cooperation.\nChina is Norway's most important trading partner in Asia. Kristoffersen said the two countries have complementary strengths in areas including maritime industries, energy and sustainable development, while the CIFTIS offers a platform for Norwegian companies to expand their business networks and build long-term partnerships.\nGreener shipping\nFor DNV, a Norwegian-founded risk management company, that cooperation has been taking shape for more than a century.\nIt has had a presence in China for nearly 140 years, and its relationship with China's maritime industry began with ship inspection and classification in 1888. It provided independent technical assessments to help ensure that vessels meet required standards.\nToday, however, this partnership extends far beyond inspecting ships. As international laws are demanding the ship industry searches for ways to cut emissions, and financiers are also paying greater attention to the environmental performance of vessels, DNV is increasingly working with Chinese shipbuilders and shipowners on designing and building the next generation of vessels.\nBut the path toward greener shipping is far from straightforward. There is no single alternative fuel suitable for every vessel and every shipping route. The choice depends on factors including the type of ship, where it operates and whether a particular fuel is available along its route.\nThat uncertainty creates both technological and financial risks. Many companies have adopted a cautious approach, building conventional vessels while leaving room for future retrofitting.\nChinese shipbuilders and shipowners, however, are increasingly moving directly toward vessels designed to use alternative fuels, according to Norbert Kray, senior vice president and regional manager for Greater China at DNV.\nThis is where DNV says it can play a role. The company is working with Chinese clients earlier in the process, providing technical expertise, data and analysis to help them assess different technological options. It helps companies navigate uncertainty as they transition to greener shipping.\nKray said China's influence on the global transformation of shipping is significant. As Chinese shipbuilders receive more orders for vessels designed to meet new environmental requirements, decisions made in Chinese shipyards are gradually shaping the future of the global maritime industry.\nIf DNV illustrates how a traditional maritime service is evolving to meet the demands of greener shipping, Falkor, a company developing industrial software and digital solutions formerly known as Kongsberg Digital, illustrates another direction: the growing role of digital services in managing complex industrial operations.\nDeep Sea No. 1 (Shenhai-1), China's first independently operated deepwater gas field, lies beneath the South China Sea. At peak production, the field can supply more than 3 billion cubic meters of natural gas a year, providing energy for about 21 million people.\nOperating a gas field deep beneath the surface leads to challenges that are difficult to see and even harder to manage.\nOn the seabed, temperatures can fall to around 3 degrees Celsius. Low temperatures, combined with the mixture of gas, water and other fluids moving through subsea pipelines, can create risks including hydrate formation and unstable flow.\nIn such an environment, operators cannot simply wait for something to go wrong before responding.\nThis is where the Norwegian company steps in, using a digital model to create a virtual representation of the gas field's highly complex physical operations.\nThis can simulate different operating conditions, collect data and give engineers a clearer picture of the operation, helping them make decisions before problems arise.\nIt can also support decisions about pipeline cleaning, optimize operating parameters and analyze energy consumption.\nSorting salmon\nThe broader shift in China-Norway cooperation can be seen not only in large industrial projects, but also in efforts to address environmental challenges.\nNorway is home to countless rivers where wild Atlantic salmon migrate upstream to spawn. But the country's wild salmon populations have faced growing pressure in recent decades, from invasive humpback, or pink salmon that compete with native fish for habitat and food, and also climate change and human activity.\nAccording to the Norwegian Environment Agency, more than 480,000 pink salmon were caught or observed in Norwegian rivers in 2023, exceeding the number of wild Atlantic salmon that returned to Norway's rivers to spawn in 2024.\nRemoving the invasive fish has traditionally relied heavily on volunteers, a labor-intensive process which has been made more difficult by the challenge of identifying fish as they move underwater.\nIn 2021, Huawei Norway joined with Norwegian technology partners to develop an AI-powered fish trap to help address the problem.\nFor the first year, a system using an underwater camera and machine vision was tested in the Storelva River near Berlevag, northern Norway, to identify different fish species as they passed through the trap.\nTrained on tens of thousands of images, the AI system learned to distinguish native Atlantic salmon from invasive pink salmon in real time, with an accuracy of more than 90%.\nSince 2022, a sorting system designed to distinguish between wild salmon and invasive pink salmon has been installed downstream in the Storelva River, before it reaches the sea.\nOnce a fish is identified, the system opens the gate for native salmon, allowing them to continue upstream to spawn, while diverting invasive pink salmon into nearby holding tanks for removal.\nTor Schulstad, administrator of the hunting and fishing association Berlevag JFF in Norway, said native salmon face critical challenges from invasive pink salmon and escaped farmed salmon, while the monitoring systems using AI is helping to stop this and enable future-proof river management.\nIn the summer time last year, the system helped intercept more than 4,000 invasive pink salmon in the Skallelv River, easing the pressure on native species.\nServices cooperation\nThese examples illustrate cooperation is no longer limited to the exchange of products. It increasingly involves knowledge, technology and specialized services, with companies from both countries bringing different strengths to address specific needs.\nThe CIFTIS has become a forum for companies to understand where to find common ground, connecting expertise and technology with China's industrial scale and growing demand for advanced solutions.\nThis year, the CIFTIS is bringing together more than 1,800 companies from around 90 countries and international organizations, showcasing new technologies, solutions and achievements across a range of fast-growing fields, from high-tech and fintech to smart healthcare.\nAround 100 promotional events and business negotiations are also scheduled, giving companies from around the world an opportunity to explore partnerships and turn new ideas into practical cooperation.",
-      "fullTextCn": "挪威拥有绵延超过10万公里的海岸线，包括众多岛屿和峡湾，在复杂的海洋和能源产业中积累了深厚的专业知识。世世代代以来，海洋塑造了挪威的经济和身份认同，赋予该国在航运、近海产业和海洋技术方面的深厚专长。与此同时，中国已崛起为全球工业强国，在造船领域领先世界，并在能源和先进制造业中发挥着重要作用。随着这些产业变得更加绿色和智能，对新技术和专业人才的需求不断增长。对挪威而言，这开辟了与中国合作的新途径，不仅带来产品，还带来数十年在严苛的海洋和能源产业中积累的知识、技术和数字解决方案。\n\n这一机遇在今年中国国际服务贸易交易会上成为焦点，挪威是本届服贸会的主宾国。活动于9月9日至13日在北京举行。在挪威国家展馆，挪威企业展示了聚焦绿色能源、数字技术、健康生活产品和优质营养的服务与解决方案。其雄心不止于销售单个产品。挪威驻华大使馆商务参赞、挪威创新署中国区总监亨宁·克里斯托弗森表示，挪威企业希望从提供单个产品转向提供更全面的解决方案，从一次性交易转向长期合作。\n\n中国是挪威在亚洲最重要的贸易伙伴。克里斯托弗森表示，两国在海事产业、能源和可持续发展等领域具有互补优势，而服贸会为挪威企业拓展商业网络、建立长期伙伴关系提供了平台。更绿色的航运——对于挪威创立的风险管理公司DNV而言，这种合作已经持续了一个多世纪。DNV在中国已有近140年的历史，其与中国海事产业的关系始于1888年的船舶检验和入级服务。它提供独立的技术评估，帮助确保船舶符合所需标准。\n\n然而如今，这种伙伴关系远不止于检验船舶。随着国际法规要求航运业寻找减少排放的方法，金融机构也越来越关注船舶的环境表现，DNV正越来越多地与中国造船企业和船东合作，设计和建造下一代船舶。但通往绿色航运的道路远非一帆风顺。没有一种替代燃料适合每一艘船和每一条航线。选择取决于船舶类型、运营区域以及航线上是否有特定燃料供应等因素。\n\n这种不确定性带来了技术和金融双重风险。许多企业采取了谨慎的做法，建造传统船舶的同时为未来改装留出空间。然而，据DNV高级副总裁兼大中华区区域经理诺伯特·克雷介绍，中国造船企业和船东正越来越多地直接转向设计使用替代燃料的船舶。DNV表示这正是其可以发挥作用的领域。该公司在流程更早的阶段就与中国客户合作，提供技术专长、数据和分析，帮助他们评估不同的技术方案。\n\n它帮助企业在向绿色航运转型的过程中应对不确定性。克雷表示，中国对全球航运转型的影响力举足轻重。随着中国造船企业获得更多符合新环保要求船舶的订单，中国船厂做出的决策正在逐步塑造全球海事产业的未来。如果说DNV展示了传统海事服务如何演变以满足绿色航运的需求，那么Falkor——一家开发工业软件和数字解决方案的公司，前身为康士伯数字——则展示了另一个方向：数字服务在管理复杂工业运营中日益重要的作用。深海一号\n\n（Shenhai-1）是中国首个自主运营的深水气田，位于南海海底。在产量高峰期，该气田每年可供应超过30亿立方米天然气，为约2100万人提供能源。在海底深处运营气田会带来难以察觉、更难以管理的挑战。在海底，温度可降至约3摄氏度。低温加上天然气、水和其他流体在海底管道中流动的混合物，可能产生水合物形成和流动不稳定等风险。\n\n在这样的环境中，运营方不能等到出了问题才做出反应。这正是这家挪威公司介入的地方，它使用数字模型创建气田高度复杂的物理运营的虚拟表示。这可以模拟不同的运营条件，收集数据，让工程师更清晰地了解运营情况，帮助他们在问题出现之前做出决策。它还可以支持管道清洁决策、优化运营参数和分析能耗。分拣三文鱼——中挪合作的更广泛转变不仅体现在大型工业项目中，也体现在应对环境挑战的努力中。\n\n挪威拥有无数河流，野生大西洋鲑鱼洄游上游产卵。但近几十年来，该国野生鲑鱼种群面临越来越大的压力，来自入侵的驼背鲑（粉鲑）与本地鱼类争夺栖息地和食物，以及气候变化和人类活动的影响。据挪威环境署统计，2023年在挪威河流中捕获或观测到的粉鲑超过48万条，超过了2024年返回挪威河流产卵的野生大西洋鲑数量。清除入侵鱼类传统上严重依赖志愿者，这是一个劳动密集型的过程，而识别水下移动鱼类的难度使这一工作更加困难。2021年，华为挪威公司与挪威技术合作伙伴联手开发了一种人工智能驱动的鱼陷阱来帮助解决这一问题。\n\n第一年，一套使用水下摄像头和机器视觉的系统在挪威北部贝勒沃格附近的斯托尔瓦河进行了测试，用于在鱼类通过陷阱时识别不同鱼种。经过数万张图像的训练，该AI系统学会了实时区分本地大西洋鲑和入侵粉鲑，准确率超过90%。自2022年以来，一套旨在区分野生鲑鱼和入侵粉鲑的分拣系统已安装在斯托尔瓦河下游、入海之前。一旦识别出鱼类，系统便为本地鲑鱼打开闸门，让它们继续上游产卵，同时将入侵粉鲑引入附近的暂养池进行清除。挪威贝勒沃格狩猎和钓鱼协会管理员托尔·舒尔斯塔德表示，本地鲑鱼面临入侵粉鲑和逃逸养殖鲑鱼的严峻挑战，而使用AI的监测系统正在帮助阻止这一趋势，实现面向未来的河流管理。\n\n去年夏天，该系统在斯卡勒尔夫河帮助拦截了4000多条入侵粉鲑，减轻了本地物种的压力。服务合作——这些例子表明，合作不再局限于产品交换。它越来越多地涉及知识、技术和专业服务，两国企业带来不同的优势以满足特定需求。服贸会已成为企业了解在哪里找到共同点的论坛，将专业知识和技术与中国的工业规模和对先进解决方案日益增长的需求对接。今年，服贸会汇聚了来自约90个国家和国际组织的1800多家企业，展示从高科技和金融科技到智慧医疗等一系列快速增长领域的新技术、新解决方案和新成果。\n\n约100场推介活动和商务洽谈也已排定，为来自世界各地的企业提供了探索伙伴关系、将新想法转化为实际合作的机会。"
+      "fullText": "When Jacob Coxon resigned from Anthropic in September and warned that artificial intelligence (AI) could end human civilization, his post drew over 170 million views in 48 hours. But the more revealing story is not why one researcher left – it is why the industry's most safety-conscious talent can only express concern by quitting.\nCoxon's warning arrived during the same week that Anthropic was finalizing preparations for what could become the largest IPO in market history. Anthropic filed a confidential S-1 with the US Securities and Exchange Commission on June 1, targeting a valuation of $965 billion, and expects to complete its listing before the US midterm elections in November. Nvidia is in talks to anchor the offering at a $2 trillion valuation, Reuters reports.\nThe safety pledge that disappeared\nAnthropic CEO Dario Amodei has publicly called for slowing AI development so safety systems can catch up, yet his company's IPO timetable shows no corresponding deceleration. In February 2026, Anthropic released Version 3.0 of its Responsible Scaling Policy, which dropped the company's earlier commitment to pause model training if risks could not be adequately mitigated.\nThe \"pause training\" pledge simply disappeared from the document, replaced by softer language about \"responsible development\" and transparency mechanisms. As an analysis from Chinese technology news outlet 36Kr noted, Anthropic's safety red lines have become dynamically adjustable.\nThis is the structural contradiction at the heart of the AI safety debate. Companies warn of civilizational risk while racing to commercialize the technology at unprecedented speed.\nOpenAI CEO Sam Altman captured the irony bluntly, comparing Anthropic's approach to fear-based marketing: \"It is clearly incredible marketing to say, 'We have built a bomb. We are about to drop it on your head. We will sell you a bomb shelter for $100 million to run across all your stuff, but only if we pick you as a customer.'\"\nBeyond the IPO\nThe tension between safety rhetoric and commercial behavior extends beyond IPO filings. On September 10 – the same week Coxon's resignation went viral – Anthropic published a 154-page threat intelligence report revealing that its own Claude model had been used for weapons development, military intelligence gathering, cyberattacks and fraud.\nAnthropic acknowledged that its safety mechanisms, while blocking some violations, could not fully prevent misuse. The company also restricted access to its most powerful model through Project Glasswing, limiting it to roughly 200 organizations. And after a US Commerce Department order, it excluded foreign nationals entirely, including the EU's cybersecurity agency ENISA.\nThe governance gap is not confined to corporate boardrooms. The UN Independent International Scientific Panel on AI warned in July that AI is \"outpacing both scientific understanding and governments' ability to adapt.\" The panel specifically flagged a phase of \"agentic\" autonomy that current oversight frameworks cannot manage, potentially allowing dangerous capabilities to emerge before governments can respond.\nThe EU has delayed compliance deadlines for high-risk AI systems from August 2026 to December 2027, citing the need for more preparation time for standards and regulatory infrastructure.\nA different governance model\nAgainst this backdrop of corporate contradictions and regulatory delays, China's approach has been notably different in method, if not always in pace. China's management measures on generative AI services, implemented in August 2023, were the world's first official regulations governing generative AI services. As of July, 1,028 large model services had completed registration, with applications covering industry, agriculture, commerce, education, transportation and law.\nThe country's AI Safety Governance Framework, now entering its 3.0 version, translates principles of \"classification, agile governance and shared governance\" into actionable implementation plans, addressing risks from both the technology itself and its applications.\nChina's \"Qinglang\" internet government initiative has cleaned up over 5.61 million pieces of illegal information, dealt with more than 49,000 accounts and shut down over 2,400 violating websites and applications related to AI misuse. The country also established the World AI Cooperation Organization in July, with 29 founding member states, and pledged 5,000 AI training opportunities for developing countries over the next five years.\nA CGTN global survey found that 85.4% of respondents believe AI's rapid development is creating new challenges for global security and governance. Some 92.6% expressed concern that deepfakes and AI-generated misinformation could erode social trust, and 82.6% believe developing countries and the Global South should play a greater role in shaping AI governance rules.\nThe real question is not whether AI safety concerns are genuine – they are. The question is whether an industry that produces existential warnings while racing toward trillion-dollar valuations can credibly govern itself. Chinese Foreign Ministry spokesperson Guo Jiakun put it directly on Monday: \"AI development concerns the common well-being of all humanity. All parties should work together to promote open, inclusive and beneficial AI. Spreading various threat narratives and engaging in confrontation and malicious competition will only disrupt the global AI governance process and serve no one's interests.\"",
+      "fullTextCn": "当雅各布·考克森于九月从Anthropic辞职并警告人工智能可能终结人类文明时，他的帖子在48小时内获得了超过1.7亿次浏览。但更具揭示性的故事并非一位研究员为何离开——而是为何这个行业最具安全意识的人才只能通过辞职来表达担忧。考克森的警告发出的同一周，Anthropic正在为可能成为市场历史上最大规模的IPO做最后准备。Anthropic于6月1日向美国证券交易委员会秘密提交了S-1文件，目标估值达9650亿美元，并预计在11月美国中期选举前完成上市。据路透社报道，英伟达正在洽谈以2万亿美元估值锚定此次发行。\n\n消失的安全承诺\nAnthropic首席执行官达里奥·阿莫代伊曾公开呼吁放缓AI发展，以便安全系统能够跟上，然而其公司的IPO时间表却未见相应的减速。2026年2月，Anthropic发布了其《负责任扩展政策》3.0版本，放弃了此前关于若风险无法充分缓解则暂停模型训练的承诺。“暂停训练”的承诺从文件中悄然消失，取而代之的是关于“负责任发展”和透明度机制的更温和措辞。正如中国科技新闻媒体36氪的一篇分析所指出的，Anthropic的安全红线已变得可以动态调整。这正是AI安全辩论核心的结构性矛盾。\n\n企业在以空前速度将技术商业化的同时警告文明风险。OpenAI首席执行官萨姆·奥尔特曼直白地捕捉到了这种讽刺，将Anthropic的做法比作恐惧营销：“说‘我们造了一颗炸弹，我们即将把它扔到你头上，我们会以1亿美元卖给你一个防空洞来覆盖你所有的东西，但前提是我们选你当客户’——这显然是令人难以置信的营销。”\n超越IPO\n安全言论与商业行为之间的张力超越了IPO文件。9月10日——考克森辞职事件疯传的同一周——Anthropic发布了一份154页的威胁情报报告，披露其自家的Claude模型曾被用于武器开发、军事情报收集、网络攻击和欺诈。\n\nAnthropic承认其安全机制虽然阻止了一些违规行为，但无法完全防止滥用。该公司还通过“玻璃翼计划”限制了其最强大模型的访问权限，仅限约200个组织使用。在美国商务部下达命令后，该公司完全排除了外国公民，包括欧盟网络安全机构ENISA。治理鸿沟并不局限于企业董事会。联合国人工智能独立国际科学小组在七月警告称，AI“正在超越科学理解和政府的适应能力”。该小组特别指出了一种“代理式”自主阶段，当前的监管框架无法管理，可能使危险能力在政府能够应对之前就已出现。\n\n欧盟已将高风险AI系统的合规截止日期从2026年8月推迟至2027年12月，理由是标准和监管基础设施需要更多准备时间。\n一种不同的治理模式\n在企业矛盾与监管延迟的背景下，中国的方法在方式上——尽管不总是在速度上——明显不同。中国于2023年8月实施的生成式AI服务管理办法是全球首部规范生成式AI服务的官方法规。截至七月，已有1028项大模型服务完成注册，应用覆盖工业、农业、商业、教育、交通和法律等领域。该国的人工智能安全治理框架现已进入3.0版本，将“分类分级、敏捷治理、多方共治”原则转化为可操作的实施方案，从技术本身及其应用两方面应对风险。\n\n中国的“清朗”互联网政府专项行动已清理超过561万条违法信息，处置了超过4.9万个账号，关闭了2400多个与AI滥用相关的违规网站和应用。该国还于七月成立了世界人工智能合作组织，有29个创始成员国，并承诺在未来五年为发展中国家提供5000个AI培训机会。CGTN的一项全球调查发现，85.4%的受访者认为AI的快速发展正在给全球安全和治理带来新挑战。约92.6%的人担心深度伪造和AI生成的虚假信息可能侵蚀社会信任，82.6%的人认为发展中国家和全球南方应在塑造AI治理规则方面发挥更大作用。真正的问题不是AI安全担忧是否真实——它们确实是。\n\n问题在于，一个在奔向万亿美元估值的同时发出生存警告的行业，能否可信地自我治理。中国外交部发言人郭嘉昆周一直接指出：“AI发展关乎全人类共同福祉。各方应携手推动开放、包容、有益的AI。散布各种威胁叙事、搞对抗和恶意竞争，只会扰乱全球AI治理进程，不符合任何人的利益。”"
     },
     {
       "id": 2,
-      "category": "society",
+      "category": "military",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-15/Why-red-tourism-is-winning-over-China-s-younger-generation-1Qshe0mMIzS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "Why 'red tourism' is winning over China's younger generation",
-      "titleCn": "为什么“红色旅游”正在赢得中国年轻一代的青睐",
-      "summary": "For many young Chinese, revolutionary history is no longer something to be read about in textbooks or viewed from behind glass. It is becoming an experience — one that can involve walking through historic sites, taking on a role in a wartime scenario or even stepping into a virtual recreation of the Long March.",
-      "summaryCn": "红色旅游在中国年轻人中日益流行，沉浸式体验和数字技术让革命历史变得可参与、可感知，而其深层吸引力在于年轻人对意义、责任与文化自信的追寻。",
-      "wordCount": 980,
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-14/China-unites-Global-South-for-new-chapter-of-BRICS-cooperation-1Qr3O4oWM1i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "China unites Global South for new chapter of BRICS cooperation",
+      "titleCn": "中国团结全球南方，开启金砖合作新篇章",
+      "summary": "With greater BRICS cooperation entering a new stage of high-quality development, Xi outlined how the grouping can play a more active role in a world marked by growing uncertainty and transformation.",
+      "summaryCn": "中国国家主席习近平出席在印度新德里举行的第十八届金砖国家峰会，呼吁金砖国家在推动更加公正合理的国际秩序中发挥先锋作用，开启全球南方合作新篇章，并提出深化合作的五项倡议。",
+      "wordCount": 830,
       "paragraphs": [
         {
-          "en": "Visitors view an exhibition featuring archival documents and photographs about the Red Army's Long March through Yunnan Province at the Kunming Museum in Kunming, southwest China's Yunnan Province, September 12, 2026. For many young Chinese, the Communist Party of China's (CPC) {{0}} history is no longer just something to be read about in textbooks or viewed from behind glass. It is becoming an experience — one that can involve walking through historic sites, taking on a role in a wartime scenario or even stepping into a virtual recreation of the Long March. That {{1}} is helping fuel a new wave of \"red tourism\" in China, as young travelers increasingly visit revolutionary sites, memorials and former revolutionary bases. The trend has gained further {{2}} this year, which marks the 105th anniversary of the CPC's founding and the 90th anniversary of the victory of the Long March.",
-          "cn": "2026年9月12日，在中国西南部云南省昆明市，游客们在昆明博物馆参观一个展出有关红军长征过云南的档案文献和照片的展览。对许多中国年轻人来说，中国共产党的革命历史不再只是课本上读到或隔着玻璃观看的内容。它正在变成一种体验——一种可以包括走过历史遗址、在战时场景中扮演角色，甚至走进长征虚拟重现的体验。这种转变正在助推中国新一轮“红色旅游”热潮，年轻游客越来越多地前往革命遗址、纪念馆和革命旧址。今年这一趋势进一步升温，因为今年是中国共产党成立105周年和长征胜利90周年。"
+          "en": "Welcome slogan outside the main venue of the 18th BRICS Summit held from September 12 to 13, 2026, New Delhi, India. /CMG\nAt the invitation of Indian Prime Minister Narendra Modi, Chinese President Xi Jinping attended the 18th BRICS Summit in New Delhi, India from September 12 to 13, calling on BRICS countries to take the {{0}} role in promoting a more just and {{1}} international order and {{2}} in a new chapter of cooperation among the Global South. This year marks the 20th anniversary of BRICS cooperation. What began as an economic concept in a research report has grown into an important force shaping the international {{3}}. With greater BRICS cooperation entering a new stage of high-quality development, Xi outlined at the summit how the grouping can play a more active role in a world marked by growing {{4}} and transformation.",
+          "cn": "2026年9月12日至13日在印度新德里举行的第十八届金砖国家峰会主会场外的欢迎标语。/CMG 应印度总理纳伦德拉·莫迪邀请，中国国家主席习近平于2026年9月12日至13日出席在印度新德里举行的第十八届金砖国家峰会，呼吁金砖国家在推动更加公正合理的国际秩序方面发挥先锋作用，开启全球南方合作新篇章。今年是金砖合作二十周年。金砖合作最初只是研究报告中的一个经济概念，如今已发展成为塑造国际格局的重要力量。随着大金砖合作进入高质量发展新阶段，习近平在峰会上阐述了金砖国家如何在充满不确定性和变革的世界中发挥更积极的作用。"
         },
         {
-          "en": "The Long March, a historic {{3}} of the Red Army spanning tens of thousands of kilometers in the 1930s, paved the way for the CPC's eventual defeat of the then-ruling Kuomintang and the {{4}} of the People's Republic of China in 1949. During the past summer holiday, many red tourism destinations saw a {{5}} in visitors, with young people making up an increasingly large share. \"Red tourism was particularly popular this summer, with young travelers accounting for nearly 65% of visitors,\" said Qi Chunguang, vice president of Tuniu, a Chinese online travel agency. Group tours remain popular, he said, with professional guides and carefully planned {{6}} helping visitors get more out of their trips. The trend is also reflected in online searches.",
-          "cn": "长征是20世纪30年代红军进行的一次绵延数万公里的历史性战略转移，为中国共产党最终战胜当时的国民党统治、并于1949年建立中华人民共和国铺平了道路。在刚刚过去的暑假期间，许多红色旅游目的地游客激增，其中年轻人所占比例越来越大。中国在线旅游机构途牛副总裁齐春光表示：“今年夏天红色旅游特别受欢迎，年轻游客占游客总数的近65%。”他说，跟团游仍然很受欢迎，专业导游和精心规划的行程帮助游客从旅行中获得更多收获。这一趋势也反映在网络搜索上。"
+          "en": "Be a pioneer in the changing world\nThe world is undergoing {{5}} changes unseen in a century. Even as the Global South gains strength and multipolarity becomes an {{6}} trend, {{7}} and power politics are resurfacing, posing growing challenges to {{8}} and the international order. Addressing the summit in New Delhi, Xi called on BRICS countries to \"stand firmly on the right side of history, strive to be a pioneer of our times, steer the international order in a direction that is more just and equitable, and work together to build a community with a shared future for humanity.\"\n\"To bring stability to the world and make it a better place, BRICS countries must seize the historical {{9}}, rally the Global South, be an active, {{10}} and positive force in international affairs and advance the well-being of all humanity,\" Xi said. As to the future development of BRICS, Xi urged the grouping to pioneer in advancing innovation-driven development, upholding peace and stability, {{11}} mutual learning between civilizations and reforming and improving global governance. The four pioneering roles align closely with the Global Development Initiative, Global Security Initiative, Global Civilization Initiative and Global Governance Initiative proposed by China, offering a clear roadmap for BRICS cooperation and a better world.",
+          "cn": "做变革世界中的先锋 世界正经历百年未有之大变局。尽管全球南方不断壮大，多极化成为不可逆转的趋势，但单边主义和强权政治正在抬头，对多边主义和国际秩序构成日益严峻的挑战。习近平在新德里峰会上发表讲话，呼吁金砖国家“站在历史正确的一边，努力做时代的先锋，推动国际秩序朝着更加公正合理的方向发展，携手构建人类命运共同体”。习近平表示：“为了让世界更加稳定、更加美好，金砖国家必须把握历史主动，团结全球南方，在国际事务中做积极、稳定、向善的力量，推动全人类福祉。”关于金砖国家未来发展，习近平敦促金砖国家在推进创新驱动发展、维护和平稳定、促进文明互鉴以及改革完善全球治理方面发挥先锋作用。这四个先锋角色与中国提出的全球发展倡议、全球安全倡议、全球文明倡议和全球治理倡议高度契合，为金砖合作和建设更美好的世界提供了清晰的路线图。"
         },
         {
-          "en": "According to the 2026 Red Tourism Consumption Trends Report released by Tongcheng Travel, searches for red tourism-related products jumped more than 130% year on year in the first half of 2026. Searches for tickets to revolutionary sites rose 86%, while bookings for red tourism itineraries increased 48%. Wu Ruoshan, a council member of the Beijing Tourism Society, said the appeal of red tourism among young people stems from both emotional {{7}} and innovation in tourism products. \"Red tourism is moving from simple sightseeing toward {{8}} experiences,\" Wu said, noting that digital technologies and {{9}} projects are giving young visitors new ways to connect with history. People use VR headsets to experience immersive scenes from the Long March in Changde City, central China's Hunan Province, September 12, 2026.",
-          "cn": "根据同程旅行发布的《2026红色旅游消费趋势报告》，2026年上半年红色旅游相关产品搜索量同比增长超过130%。革命遗址门票搜索量增长86%，红色旅游线路预订量增长48%。北京旅游学会理事吴若山表示，红色旅游对年轻人的吸引力既来自情感共鸣，也来自旅游产品的创新。吴若山说：“红色旅游正从简单的观光转向沉浸式体验。”他指出，数字技术和互动项目正在为年轻游客提供与历史建立联系的新方式。2026年9月12日，在中国中部湖南省常德市，人们使用VR头显体验长征的沉浸式场景。"
+          "en": "Xi's remarks reflect the four global initiatives are being translated into more concrete action through BRICS cooperation, providing a broader platform for the Global South to participate in global governance, said Joseph Kimuli, a Ugandan expert on international affairs. Deepening practical cooperation\nBRICS emerged amid the collective rise of emerging markets and developing countries. Over the past two decades, the mechanism has evolved with the times, expanding its membership and strengthening cooperation amid profound changes in the global landscape. Today, BRICS countries span four continents and account for nearly half of the world's population, about 30% of global economic output and more than half of global economic growth, making the grouping a flagship of unity and cooperation among Global South countries. In his address at the first session of the summit on September 12, Xi said {{14}} and cooperation have always been the source of strength for the cause of BRICS throughout its 20-year journey.",
+          "cn": "乌干达国际事务专家约瑟夫·基穆利表示，习近平的讲话反映出四大全球倡议正通过金砖合作转化为更加具体的行动，为全球南方参与全球治理提供了更广阔的平台。深化务实合作 金砖国家在新兴市场和发展中国家集体崛起的背景下应运而生。过去二十年来，金砖机制与时俱进，在全球格局深刻变化中扩大成员规模、加强合作。如今，金砖国家横跨四大洲，占世界人口近一半、全球经济产出约30%、全球经济增长的一半以上，使金砖国家成为全球南方国家团结合作的旗帜。习近平在9月12日峰会第一次会议上发表讲话时表示，团结合作始终是金砖事业二十年历程中力量的源泉。"
         },
         {
-          "en": "From watching history to stepping into it\nTraditional red tourism often centered on visiting revolutionary sites, viewing historical {{10}} and listening to guided explanations. But today's young travelers increasingly want to do more than observe — they want to participate. The Tongcheng report found that red tourism attractions featuring real-life missions, period costumes and interactions with non-player characters, or NPCs, have seen particularly rapid growth in bookings. Searches combining \"red tourism\" with \"NPC\" rose more than 120% during the summer holiday. In a tourism area in Linyi, east China's Shandong Province, for example, visitors can take part in an immersive film experience called \"Follow the Commander to Capture the County.\" Led by NPCs, participants {{11}} a battlefield charge as wartime scenes unfold around them.",
-          "cn": "从观看历史到走进历史。传统红色旅游往往以参观革命遗址、观看历史文物和聆听导游讲解为中心。但如今的年轻游客越来越希望不只是观察——他们想要参与。同程的报告发现，以实景任务、年代服装和与真人NPC互动为特色的红色旅游景点，预订量增长尤为迅速。暑假期间，“红色旅游”与“NPC”组合搜索量增长超过120%。例如，在中国东部山东省临沂市的一个旅游区，游客可以参加名为《跟着司令打县城》的沉浸式影视体验。在NPC的带领下，参与者模拟战场冲锋，战时场景在他们周围展开。"
+          "en": "He called on member countries to treat each other with candor and {{15}}, seek common ground while shelving differences, respect each other's core concerns, stay committed to communication and dialogue to increase mutual understanding and properly handle disagreements. Speaking at the second session on September 13, Xi proposed five initiatives to deepen BRICS cooperation, covering open source and inclusive artificial intelligence, trade and investment facilitation, digital industry cooperation, intelligent manufacturing cooperation and science and technology talent development. While the \"four pioneers\" set out the broader direction for BRICS to contribute to global development, peace, civilization and governance, the five initiatives focus on turning that vision into concrete cooperation. They target emerging areas with direct implications for economic growth and development, offering a more practical action plan for members to work together. For Global South countries, such cooperation is already creating new opportunities.",
+          "cn": "他呼吁成员国坦诚相待、求同存异、尊重彼此核心关切、坚持沟通对话以增进相互理解、妥善处理分歧。习近平在9月13日第二次会议上发表讲话，提出深化金砖合作的五项倡议，涵盖开源包容的人工智能、贸易和投资便利化、数字产业合作、智能制造合作以及科技人才培养。如果说“四个先锋”为金砖国家助力全球发展、和平、文明和治理指明了总体方向，那么五项倡议则着眼于将这一愿景转化为具体合作。它们瞄准对经济增长和发展具有直接影响的新兴领域，为成员国携手合作提供了更加务实的行动计划。对全球南方国家而言，这种合作正在创造新的机遇。"
         },
         {
-          "en": "Scripted mystery games have also found their way into red tourism. Projects such as The Yan'an Spirit recreate historical events through real-life settings, with visitors taking on different historical roles and becoming part of the story rather than simply watching it unfold. Yan'an, located in northwest China's Shaanxi Province, served as the base of the CPC leadership for around 10 years from 1937 to 1947. Technology is taking that approach a step further. In Wuhan, central China's Hubei Province, an XR immersive experience titled The Great Expedition has become a major attraction at a local museum.",
-          "cn": "剧本杀游戏也进入了红色旅游领域。《延安精神》等项目通过实景重现历史事件，游客扮演不同的历史角色，成为故事的一部分，而不仅仅是观看故事展开。延安位于中国西北部陕西省，从1937年到1947年的大约10年间曾是中国共产党领导中枢所在地。技术正在把这种方式推进得更远。在中国中部湖北省武汉市，一个名为《伟大远征》的XR沉浸式体验已成为当地博物馆的一大亮点。"
-        },
-        {
-          "en": "The project recreates scenes from the Long March in an immersive environment, allowing visitors to experience the historical journey in a more immediate way. In Zunyi, southwest China's Guizhou Province, the Zunyi Conference Memorial Museum is also using technology to make revolutionary history more {{12}}. 3D mapping and animation bring artifacts and sculptures to life, while VR, AI and holographic imaging allow visitors to revisit historical scenes from a first-person {{13}}. Zunyi Conference is widely regarded as a {{14}} turning point in the Long March. It addressed key military and strategic issues and helped establish new leadership within the CPC Central Committee, with Mao Zedong playing a leading role.",
-          "cn": "该项目在沉浸式环境中重现长征场景，让游客以更直接的方式体验这段历史旅程。在中国西南部贵州省遵义市，遵义会议纪念馆也在利用技术让革命历史更易接触。3D映射和动画让文物和雕塑栩栩如生，而VR、AI和全息成像则让游客能够以第一人称视角重温历史场景。遵义会议被广泛视为长征中的关键转折点。它解决了重要的军事和战略问题，并帮助在中共中央内部确立了新的领导层，毛泽东发挥了主导作用。"
-        },
-        {
-          "en": "Visitors explore the site of the Lazikou Battle in Diebu County, Gannan Tibetan Autonomous Prefecture, northwest China's Gansu Province, September 9, 2026. Finding meaning in stories from the past\nTechnology and creative storytelling may be making red tourism more attractive, but they do not fully explain why young people are coming. For some observers, the deeper appeal lies in the search for meaning. As younger generations look beyond material consumption for experiences with emotional and cultural value, stories centered on {{15}}, {{16}}, responsibility and collective purpose can resonate with their own aspirations. Some tourism commentators have noted that young people today are growing up in a world marked by {{17}}.",
-          "cn": "2026年9月9日，在中国西北部甘肃省甘南藏族自治州迭部县，游客们参观腊子口战役遗址。在过去的故事中寻找意义。技术和创意叙事或许让红色旅游更具吸引力，但它们并不能完全解释年轻人为何而来。对一些观察者来说，更深层的吸引力在于对意义的追寻。随着年轻一代超越物质消费，寻求具有情感和文化价值的体验，以牺牲、奉献、责任和集体目标为核心的故事能够与他们的自身愿望产生共鸣。一些旅游评论人士指出，今天的年轻人成长在一个充满不确定性的世界中。"
-        },
-        {
-          "en": "Against this backdrop, revolutionary stories can offer a sense of purpose — stories of young people who once confronted extremely difficult circumstances and sought to contribute to something larger than themselves. The appeal, they argue, is not simply about {{18}} for the past. It is also about asking what kind of person one wants to become in the present. From another perspective, a People's Daily commentary attributed the popularity of red culture among young people to growing cultural {{19}}. Today's young generation, it said, is increasingly confident in engaging with the wider world while also eager to understand the historical forces behind China's development.",
-          "cn": "在这种背景下，革命故事可以提供一种目标感——这些故事讲述的是曾经面对极其艰难处境、并寻求为比自己更宏大的事业作出贡献的年轻人。他们认为，这种吸引力不仅仅是对过去的怀旧。它也关乎追问自己在当下想成为什么样的人。从另一个角度看，《人民日报》一篇评论文章将红色文化在年轻人中的流行归因于日益增强的文化自信。文章说，今天的年轻一代越来越自信地与世界接触，同时也渴望了解中国发展背后的历史力量。"
-        },
-        {
-          "en": "It wrote that for young people, red tourism can serve as a way to understand both the past and the present: to explore where China came from, how its development path took shape, and what values have continued to {{20}} the country today.",
-          "cn": "文章写道，对年轻人来说，红色旅游可以成为理解过去与现在的一种方式：探索中国从何而来，其发展道路如何形成，以及哪些价值观至今仍在影响这个国家。"
+          "en": "Sizo Nkala, a researcher at the University of Johannesburg's Center for Africa-China Studies, noted that China's efforts to advance technological and industrial cooperation under the BRICS framework are opening up {{12}} development opportunities for countries across the Global South. German artificial intelligence expert Stefan Lubich described the new ideas and proposals put forward by Xi as a driving force for the development of emerging industries worldwide. Toward a third golden decade\nChina will assume the BRICS presidency next year and host the 19th BRICS Summit, Xi announced at this year's event. As China prepares to take up the baton, Xi said China is ready to \"work with all parties to plan for the future\" and \"usher in the third golden decade of BRICS cooperation.\"\nThe task ahead is to turn the group's growing influence and expanded membership into more effective cooperation and tangible outcomes for the Global South. Sergey Sanakoyev, president of the Asia-Pacific Research Center in Russia, said he expects China to work with Global South countries to turn the BRICS spirit of openness, {{13}} and win-win cooperation into more concrete results.",
+          "cn": "约翰内斯堡大学非中研究中心研究员西佐·恩卡拉指出，中国在金砖框架下推进技术和产业合作，正在为全球南方国家开辟实实在在的发展机遇。德国人工智能专家斯特凡·卢比希将习近平提出的新理念和新倡议描述为全球新兴产业发展的驱动力。迈向第三个金色十年 习近平在今年峰会上宣布，中国将于明年担任金砖国家轮值主席国并主办第十九届金砖国家峰会。在准备接棒之际，习近平表示中国愿“同各方一道规划未来”，“开启金砖合作的第三个金色十年”。当前的任务是将金砖国家日益增长的影响力和扩大的成员规模转化为更有效的合作和惠及全球南方的切实成果。俄罗斯亚太研究中心主任谢尔盖·萨纳科耶夫表示，他期待中国与全球南方国家一道，将开放包容、合作共赢的金砖精神转化为更加具体的成果。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "revolutionary",
-          "hint": "adj. 革命的",
+          "answer": "pioneering",
+          "hint": "adj. 先锋的；开创性的",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "transformation",
-          "hint": "n. 转变",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "momentum",
-          "hint": "n. 势头",
+          "answer": "equitable",
+          "hint": "adj. 公平的；公正的",
           "difficulty": "hard"
         },
         {
+          "id": 2,
+          "answer": "usher",
+          "hint": "v. 开启；引领",
+          "difficulty": "medium"
+        },
+        {
           "id": 3,
-          "answer": "retreat",
-          "hint": "n. 撤退",
+          "answer": "landscape",
+          "hint": "n. 格局；形势",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "establishment",
-          "hint": "n. 建立",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "surge",
-          "hint": "n. 激增",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "itineraries",
-          "hint": "n. 行程",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "resonance",
-          "hint": "n. 共鸣",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "immersive",
-          "hint": "adj. 沉浸式的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "interactive",
-          "hint": "adj. 互动的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "artifacts",
-          "hint": "n. 文物",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "simulate",
-          "hint": "v. 模拟",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "accessible",
-          "hint": "adj. 易接触的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "perspective",
-          "hint": "n. 视角",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "crucial",
-          "hint": "adj. 关键的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "sacrifice",
-          "hint": "n. 牺牲",
-          "difficulty": "medium"
-        },
-        {
-          "id": 16,
-          "answer": "dedication",
-          "hint": "n. 奉献",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
           "answer": "uncertainty",
           "hint": "n. 不确定性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "nostalgia",
-          "hint": "n. 怀旧",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "confidence",
-          "hint": "n. 自信",
           "difficulty": "easy"
-        },
-        {
-          "id": 20,
-          "answer": "influence",
-          "hint": "v. 影响",
-          "difficulty": "easy"
-        }
-      ],
-      "fullText": "Visitors view an exhibition featuring archival documents and photographs about the Red Army's Long March through Yunnan Province at the Kunming Museum in Kunming, southwest China's Yunnan Province, September 12, 2026. \nFor many young Chinese, the Communist Party of China's (CPC) revolutionary history is no longer just something to be read about in textbooks or viewed from behind glass. It is becoming an experience — one that can involve walking through historic sites, taking on a role in a wartime scenario or even stepping into a virtual recreation of the Long March.\nThat transformation is helping fuel a new wave of \"red tourism\" in China, as young travelers increasingly visit revolutionary sites, memorials and former revolutionary bases. The trend has gained further momentum this year, which marks the 105th anniversary of the CPC's founding and the 90th anniversary of the victory of the Long March.\nThe Long March, a historic retreat of the Red Army spanning tens of thousands of kilometers in the 1930s, paved the way for the CPC's eventual defeat of the then-ruling Kuomintang and the establishment of the People's Republic of China in 1949.\nDuring the past summer holiday, many red tourism destinations saw a surge in visitors, with young people making up an increasingly large share.\n\"Red tourism was particularly popular this summer, with young travelers accounting for nearly 65% of visitors,\" said Qi Chunguang, vice president of Tuniu, a Chinese online travel agency. Group tours remain popular, he said, with professional guides and carefully planned itineraries helping visitors get more out of their trips.\nThe trend is also reflected in online searches. According to the 2026 Red Tourism Consumption Trends Report released by Tongcheng Travel, searches for red tourism-related products jumped more than 130% year on year in the first half of 2026. Searches for tickets to revolutionary sites rose 86%, while bookings for red tourism itineraries increased 48%.\nWu Ruoshan, a council member of the Beijing Tourism Society, said the appeal of red tourism among young people stems from both emotional resonance and innovation in tourism products.\n\"Red tourism is moving from simple sightseeing toward immersive experiences,\" Wu said, noting that digital technologies and interactive projects are giving young visitors new ways to connect with history.\nPeople use VR headsets to experience immersive scenes from the Long March in Changde City, central China's Hunan Province, September 12, 2026. \nFrom watching history to stepping into it\nTraditional red tourism often centered on visiting revolutionary sites, viewing historical artifacts and listening to guided explanations. But today's young travelers increasingly want to do more than observe — they want to participate.\nThe Tongcheng report found that red tourism attractions featuring real-life missions, period costumes and interactions with non-player characters, or NPCs, have seen particularly rapid growth in bookings. Searches combining \"red tourism\" with \"NPC\" rose more than 120% during the summer holiday.\nIn a tourism area in Linyi, east China's Shandong Province, for example, visitors can take part in an immersive film experience called \"Follow the Commander to Capture the County.\" Led by NPCs, participants simulate a battlefield charge as wartime scenes unfold around them.\nScripted mystery games have also found their way into red tourism. Projects such as The Yan'an Spirit recreate historical events through real-life settings, with visitors taking on different historical roles and becoming part of the story rather than simply watching it unfold. Yan'an, located in northwest China's Shaanxi Province, served as the base of the CPC leadership for around 10 years from 1937 to 1947.\nTechnology is taking that approach a step further.\nIn Wuhan, central China's Hubei Province, an XR immersive experience titled The Great Expedition has become a major attraction at a local museum. The project recreates scenes from the Long March in an immersive environment, allowing visitors to experience the historical journey in a more immediate way.\nIn Zunyi, southwest China's Guizhou Province, the Zunyi Conference Memorial Museum is also using technology to make revolutionary history more accessible. 3D mapping and animation bring artifacts and sculptures to life, while VR, AI and holographic imaging allow visitors to revisit historical scenes from a first-person perspective.\nZunyi Conference is widely regarded as a crucial turning point in the Long March. It addressed key military and strategic issues and helped establish new leadership within the CPC Central Committee, with Mao Zedong playing a leading role.\nVisitors explore the site of the Lazikou Battle in Diebu County, Gannan Tibetan Autonomous Prefecture, northwest China's Gansu Province, September 9, 2026. \nFinding meaning in stories from the past\nTechnology and creative storytelling may be making red tourism more attractive, but they do not fully explain why young people are coming.\nFor some observers, the deeper appeal lies in the search for meaning.\nAs younger generations look beyond material consumption for experiences with emotional and cultural value, stories centered on sacrifice, dedication, responsibility and collective purpose can resonate with their own aspirations.\nSome tourism commentators have noted that young people today are growing up in a world marked by uncertainty. Against this backdrop, revolutionary stories can offer a sense of purpose — stories of young people who once confronted extremely difficult circumstances and sought to contribute to something larger than themselves.\nThe appeal, they argue, is not simply about nostalgia for the past. It is also about asking what kind of person one wants to become in the present.\nFrom another perspective, a People's Daily commentary attributed the popularity of red culture among young people to growing cultural confidence. Today's young generation, it said, is increasingly confident in engaging with the wider world while also eager to understand the historical forces behind China's development.\nIt wrote that for young people, red tourism can serve as a way to understand both the past and the present: to explore where China came from, how its development path took shape, and what values have continued to influence the country today.",
-      "fullTextCn": "2026年9月12日，在中国西南部云南省昆明市，游客们在昆明博物馆参观一个展出有关红军长征过云南的档案文献和照片的展览。对许多中国年轻人来说，中国共产党的革命历史不再只是课本上读到或隔着玻璃观看的内容。它正在变成一种体验——一种可以包括走过历史遗址、在战时场景中扮演角色，甚至走进长征虚拟重现的体验。这种转变正在助推中国新一轮“红色旅游”热潮，年轻游客越来越多地前往革命遗址、纪念馆和革命旧址。今年这一趋势进一步升温，因为今年是中国共产党成立105周年和长征胜利90周年。\n\n长征是20世纪30年代红军进行的一次绵延数万公里的历史性战略转移，为中国共产党最终战胜当时的国民党统治、并于1949年建立中华人民共和国铺平了道路。在刚刚过去的暑假期间，许多红色旅游目的地游客激增，其中年轻人所占比例越来越大。中国在线旅游机构途牛副总裁齐春光表示：“今年夏天红色旅游特别受欢迎，年轻游客占游客总数的近65%。”他说，跟团游仍然很受欢迎，专业导游和精心规划的行程帮助游客从旅行中获得更多收获。这一趋势也反映在网络搜索上。\n\n根据同程旅行发布的《2026红色旅游消费趋势报告》，2026年上半年红色旅游相关产品搜索量同比增长超过130%。革命遗址门票搜索量增长86%，红色旅游线路预订量增长48%。北京旅游学会理事吴若山表示，红色旅游对年轻人的吸引力既来自情感共鸣，也来自旅游产品的创新。吴若山说：“红色旅游正从简单的观光转向沉浸式体验。”他指出，数字技术和互动项目正在为年轻游客提供与历史建立联系的新方式。2026年9月12日，在中国中部湖南省常德市，人们使用VR头显体验长征的沉浸式场景。\n\n从观看历史到走进历史。传统红色旅游往往以参观革命遗址、观看历史文物和聆听导游讲解为中心。但如今的年轻游客越来越希望不只是观察——他们想要参与。同程的报告发现，以实景任务、年代服装和与真人NPC互动为特色的红色旅游景点，预订量增长尤为迅速。暑假期间，“红色旅游”与“NPC”组合搜索量增长超过120%。例如，在中国东部山东省临沂市的一个旅游区，游客可以参加名为《跟着司令打县城》的沉浸式影视体验。在NPC的带领下，参与者模拟战场冲锋，战时场景在他们周围展开。\n\n剧本杀游戏也进入了红色旅游领域。《延安精神》等项目通过实景重现历史事件，游客扮演不同的历史角色，成为故事的一部分，而不仅仅是观看故事展开。延安位于中国西北部陕西省，从1937年到1947年的大约10年间曾是中国共产党领导中枢所在地。技术正在把这种方式推进得更远。在中国中部湖北省武汉市，一个名为《伟大远征》的XR沉浸式体验已成为当地博物馆的一大亮点。\n\n该项目在沉浸式环境中重现长征场景，让游客以更直接的方式体验这段历史旅程。在中国西南部贵州省遵义市，遵义会议纪念馆也在利用技术让革命历史更易接触。3D映射和动画让文物和雕塑栩栩如生，而VR、AI和全息成像则让游客能够以第一人称视角重温历史场景。遵义会议被广泛视为长征中的关键转折点。它解决了重要的军事和战略问题，并帮助在中共中央内部确立了新的领导层，毛泽东发挥了主导作用。\n\n2026年9月9日，在中国西北部甘肃省甘南藏族自治州迭部县，游客们参观腊子口战役遗址。在过去的故事中寻找意义。技术和创意叙事或许让红色旅游更具吸引力，但它们并不能完全解释年轻人为何而来。对一些观察者来说，更深层的吸引力在于对意义的追寻。随着年轻一代超越物质消费，寻求具有情感和文化价值的体验，以牺牲、奉献、责任和集体目标为核心的故事能够与他们的自身愿望产生共鸣。一些旅游评论人士指出，今天的年轻人成长在一个充满不确定性的世界中。\n\n在这种背景下，革命故事可以提供一种目标感——这些故事讲述的是曾经面对极其艰难处境、并寻求为比自己更宏大的事业作出贡献的年轻人。他们认为，这种吸引力不仅仅是对过去的怀旧。它也关乎追问自己在当下想成为什么样的人。从另一个角度看，《人民日报》一篇评论文章将红色文化在年轻人中的流行归因于日益增强的文化自信。文章说，今天的年轻一代越来越自信地与世界接触，同时也渴望了解中国发展背后的历史力量。\n\n文章写道，对年轻人来说，红色旅游可以成为理解过去与现在的一种方式：探索中国从何而来，其发展道路如何形成，以及哪些价值观至今仍在影响这个国家。"
-    },
-    {
-      "id": 3,
-      "category": "society",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/regional/2026-09-17/detail-ihfkhtke4051181.shtml",
-      "title": "China opens trade shortcut to SE Asia",
-      "titleCn": "中国开通通往东南亚的贸易捷径",
-      "summary": "China opened a vital waterway on Wednesday, giving its landlocked southwestern areas a shortcut to the coast and overseas markets, as the country moves to further strengthen its trade relations with regional neighbors, particularly those in Southeast Asia.",
-      "summaryCn": "中国开通平陆运河，为西南内陆地区提供通往海洋和东南亚市场的捷径，大幅缩短运输距离并降低物流成本，进一步深化与东盟的贸易联系。",
-      "wordCount": 895,
-      "paragraphs": [
-        {
-          "en": "China opened a {{0}} waterway on Wednesday, giving its {{1}} southwestern areas a {{2}} to the coast and overseas markets, as the country moves to further {{3}} its trade relations with regional neighbors, particularly those in Southeast Asia. The Pinglu Canal, built in the Guangxi Zhuang autonomous region at a cost of 72.7 billion yuan ($10.8 billion), {{4}} for 134.2 kilometers from the Xijin reservoir in the county-level city of Hengzhou to the Qinzhou Port in the Beibu Gulf. It is the first waterway built in the country to {{5}} a river system directly to the sea since the founding of the People's Republic of China in 1949. The canal {{6}} the inland waterway journeys of goods from southwestern China by more than 560 km compared with traditional routes through ports in Guangdong province. It is expected to reduce overall {{7}} {{8}} and save more than 5 billion yuan in transportation costs each year.",
-          "cn": "周三，中国开通了一条重要的水路，为地处内陆的西南地区提供了一条通往海岸和海外市场的捷径。此举正值中国进一步加强与区域邻国、尤其是东南亚国家贸易关系之际。平陆运河建于广西壮族自治区，耗资727亿元人民币（约合108亿美元），全长134.2公里，从横州市西津水库延伸至北部湾钦州港。这是自1949年中华人民共和国成立以来，中国建成的第一条直接连接内河系统与海洋的水路。与传统经广东省港口出海的路线相比，该运河将中国西南地区货物的内河运输距离缩短了560多公里。预计每年可降低整体物流费用，节省超过50亿元的运输成本。"
-        },
-        {
-          "en": "Vice-Premier Ding Xuexiang, who attended the canal's opening ceremony, called for making full use of the new waterway to develop a first-class international {{9}} port in the Beibu Gulf and support further opening-up of China's western region. Ding also called for efficient operation of the canal, which serves as key {{10}} for multimodal transportation {{11}} river, rail and sea, and is a backbone project of the New International Land-Sea Trade Corridor — a {{12}} route connecting China's inland areas with regional and global markets. Construction of the Pinglu Canal started in August 2022 to address a long-standing {{13}} problem in terms of trade. While Guangxi {{14}} a coastline and borders Vietnam, its major inland rivers flow east, which means cargo moving by water from Nanning, the capital of Guangxi, and other parts of the Xijiang River basin could only reach the sea through Guangdong. The Pinglu Canal, designed to handle {{15}} of the 5,000-metric-ton class, now allows cargo to turn south and reach the Beibu Gulf — the closest maritime outlet for much of southwestern China — through the Qinzhou Port.",
-          "cn": "出席运河开通仪式的国务院副总理丁薛祥呼吁充分利用这条新水路，在北部湾打造一流的国际门户港，支持中国西部地区进一步对外开放。丁薛祥还呼吁高效运营该运河。该运河是集水运、铁路和海运于一体的多式联运关键基础设施，也是新国际陆海贸易走廊的骨干工程——这是一条连接中国内陆地区与区域及全球市场的战略通道。平陆运河于2022年8月开工建设，旨在解决贸易方面长期存在的地理难题。虽然广西拥有海岸线并与越南接壤，但其主要内河向东流淌，这意味着从广西首府南宁及西江流域其他地区经水路运输的货物只能通过广东出海。平陆运河按通航5000吨级船舶设计，如今使货物能够转向南下，经钦州港抵达北部湾——这是中国西南大部分地区最近的海上出口。"
-        },
-        {
-          "en": "One of the biggest {{16}} challenges during construction of the canal was {{17}} a difference of 65 meters in the water level between its northern end and the sea. Three navigation hubs — Madao, Qishi and Qingnian — featuring twin-line ship locks were built to raise and lower vessels, effectively acting as giant elevators. Ni Yuping, vice-dean of Tsinghua University's School of Humanities in Beijing, placed the megaproject in a broader context, saying that one of the key questions it seeks to answer is \"how western China can better {{18}} into the global economy\". Unlike the Suez Canal and the Panama Canal, which primarily provide shortcuts for vessels between major seas and oceans, the Pinglu Canal gives a vast inland economic {{19}} a shorter route to the coast — and from there to international markets. Wu Tao, a history professor at Sun Yat-sen University in Guangzhou, the capital of Guangdong, noted that inland waterway shipping routes \"remain {{20}}\" even though China's road, rail and air transportation networks have expanded.",
-          "cn": "运河建设过程中最大的工程挑战之一是应对北端与海面之间65米的水位落差。工程修建了马道、企石和青年三个航运枢纽，配备双线船闸，用于升降船舶，实际上起到了巨型电梯的作用。北京清华大学人文学院副院长倪玉平将这一超级工程置于更广阔的背景下，称其试图回答的关键问题之一是“中国西部如何更好地融入全球经济”。与主要为大洋和海洋之间船舶提供捷径的苏伊士运河和巴拿马运河不同，平陆运河为广阔的内陆经济腹地提供了一条通往海岸——再从那里通往国际市场——的更短路线。广州中山大学历史学教授吴滔指出，尽管中国的公路、铁路和航空运输网络已经扩展，内河航运路线“仍然不可替代”。"
-        },
-        {
-          "en": "Their large carrying {{21}} and relatively low logistics costs make inland waterways particularly suited for bulk cargo, Wu said. For businesses, the new canal is already dictating logistics and investment decisions. On Sept 8, a consignment of auto parts from Chinese vehicle manufacturer SAIC-GM-Wuling left Liuzhou for Nanning Port, before continuing by ship through the Pinglu Canal to reach Can Tho Port in Vietnam. The company said the new river-sea route could cut its logistics costs by about 10 percent. \"For us, the freight saved is real profit, and that translates directly into greater price competitiveness in ASEAN and other global markets,\" said Cai Yan, a senior technical officer at SAIC-GM-Wuling.",
-          "cn": "吴滔表示，内河航运运力大、物流成本相对较低，特别适合散货运输。对企业而言，新运河已经在左右物流和投资决策。9月8日，中国汽车制造商上汽通用五菱的一批汽车零部件从柳州运往南宁港，然后经平陆运河继续航运至越南芹苴港。该公司表示，新的江海联运路线可将其物流成本降低约10%。上汽通用五菱高级技术官员蔡燕表示：“对我们来说，节省的运费就是实实在在的利润，这直接转化为在东盟和其他全球市场更强的价格竞争力。”"
-        },
-        {
-          "en": "The canal has added waterway to the company's existing road and rail transportation options, giving it more flexibility as it expands its business and production links across Southeast Asia, Cai said. The new route is being factored into investment plans of companies. About 50 km from the Pinglu Canal's northern end, French chemicals producer SNF Group is building a plant in Nanning's Liujing Industrial Park, with an annual capacity of 370,000 tons. The factory, which will be the group's largest production base in southern China, is expected to start operations in stages before June 2027. \"The Pinglu Canal will reduce our logistics costs and enable convenient delivery to South China and all of Southeast Asia.",
-          "cn": "蔡燕表示，这条运河在该公司现有的公路和铁路运输选项之外增加了水路运输，使其在拓展东南亚业务和生产联系时拥有更大的灵活性。新路线正被纳入企业的投资计划。在距离平陆运河北端约50公里处，法国化工企业SNF集团正在南宁六景工业园区建设一座工厂，年产能37万吨。该工厂将成为该集团在中国南方的最大生产基地，预计在2027年6月前分阶段投产。“平陆运河将降低我们的物流成本，使我们能够便捷地向华南和整个东南亚地区交货。"
-        },
-        {
-          "en": "It offers great advantages in both materials sourcing and product distribution,\" said Thomas Wilsius, head of the company's Nanning project. The waterway is likely to bring more Southeast Asian products to the Chinese market. Philippine Ambassador to China Jaime A. FlorCruz, who visited the canal with a group of ASEAN envoys in July, said that fresh seafood and other time-sensitive products could be exported more efficiently from his country to China. \"In the long run, this will benefit not only the local people, but the broader region and even the world,\" he said, adding that shorter shipping distances, lower freight costs and faster deliveries would bring tangible benefits to fishermen, farmers, traders and entrepreneurs.",
-          "cn": "它在原材料采购和产品分销方面都具有巨大优势，”该公司南宁项目负责人托马斯·维尔修斯表示。这条水路可能会将更多东南亚产品带入中国市场。菲律宾驻华大使吉米·弗古律斯今年7月与东盟使节团一起参观了该运河。他表示，菲律宾的新鲜海鲜和其他时效性强的产品可以更高效地出口到中国。“从长远来看，这不仅惠及当地人民，还将惠及更广泛的地区乃至全世界，”他说，并补充道，更短的航运距离、更低的运费和更快的交货速度将为渔民、农民、商人和企业家带来实实在在的好处。"
-        },
-        {
-          "en": "For Shen Guiping, a resident of Shangjing village in Qinzhou, who took part in relocation work for the project, the opening of the Pinglu Canal carries a more personal meaning. \"It almost feels like a dream that has finally been realized. It is something generations of locals hoped for,\" she said.",
-          "cn": "对于参与了项目搬迁工作的钦州上井村村民沈桂平来说，平陆运河的开通有着更为个人的意义。“这几乎像是一个终于实现的梦想。这是几代当地人期盼的事情，”她说。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "vital",
-          "hint": "adj. 至关重要的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "landlocked",
-          "hint": "adj. 内陆的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 2,
-          "answer": "shortcut",
-          "hint": "n. 捷径",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "strengthen",
-          "hint": "v. 加强",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "stretches",
-          "hint": "v. 延伸",
-          "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "connect",
-          "hint": "v. 连接",
-          "difficulty": "easy"
-        },
-        {
-          "id": 6,
-          "answer": "shortens",
-          "hint": "v. 缩短",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "logistics",
-          "hint": "n. 物流",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "expenses",
-          "hint": "n. 费用",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "gateway",
-          "hint": "n. 门户",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
-          "answer": "integrating",
-          "hint": "v. 整合",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "strategic",
-          "hint": "adj. 战略的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "geographical",
-          "hint": "adj. 地理的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "boasts",
-          "hint": "v. 拥有",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "vessels",
-          "hint": "n. 船只",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "engineering",
-          "hint": "n. 工程",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "navigating",
-          "hint": "v. 应对",
-          "difficulty": "hard"
-        },
-        {
-          "id": 18,
-          "answer": "integrate",
-          "hint": "v. 融入",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "hinterland",
-          "hint": "n. 腹地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
-          "answer": "irreplaceable",
-          "hint": "adj. 不可替代的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "capacity",
-          "hint": "n. 容量",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "China opened a vital waterway on Wednesday, giving its landlocked southwestern areas a shortcut to the coast and overseas markets, as the country moves to further strengthen its trade relations with regional neighbors, particularly those in Southeast Asia.\nThe Pinglu Canal, built in the Guangxi Zhuang autonomous region at a cost of 72.7 billion yuan ($10.8 billion), stretches for 134.2 kilometers from the Xijin reservoir in the county-level city of Hengzhou to the Qinzhou Port in the Beibu Gulf. It is the first waterway built in the country to connect a river system directly to the sea since the founding of the People's Republic of China in 1949.\nThe canal shortens the inland waterway journeys of goods from southwestern China by more than 560 km compared with traditional routes through ports in Guangdong province. It is expected to reduce overall logistics expenses and save more than 5 billion yuan in transportation costs each year.\nVice-Premier Ding Xuexiang, who attended the canal's opening ceremony, called for making full use of the new waterway to develop a first-class international gateway port in the Beibu Gulf and support further opening-up of China's western region.\nDing also called for efficient operation of the canal, which serves as key infrastructure for multimodal transportation integrating river, rail and sea, and is a backbone project of the New International Land-Sea Trade Corridor — a strategic route connecting China's inland areas with regional and global markets.\nConstruction of the Pinglu Canal started in August 2022 to address a long-standing geographical problem in terms of trade.\nWhile Guangxi boasts a coastline and borders Vietnam, its major inland rivers flow east, which means cargo moving by water from Nanning, the capital of Guangxi, and other parts of the Xijiang River basin could only reach the sea through Guangdong.\nThe Pinglu Canal, designed to handle vessels of the 5,000-metric-ton class, now allows cargo to turn south and reach the Beibu Gulf — the closest maritime outlet for much of southwestern China — through the Qinzhou Port.\nOne of the biggest engineering challenges during construction of the canal was navigating a difference of 65 meters in the water level between its northern end and the sea. Three navigation hubs — Madao, Qishi and Qingnian — featuring twin-line ship locks were built to raise and lower vessels, effectively acting as giant elevators.\nNi Yuping, vice-dean of Tsinghua University's School of Humanities in Beijing, placed the megaproject in a broader context, saying that one of the key questions it seeks to answer is \"how western China can better integrate into the global economy\".\nUnlike the Suez Canal and the Panama Canal, which primarily provide shortcuts for vessels between major seas and oceans, the Pinglu Canal gives a vast inland economic hinterland a shorter route to the coast — and from there to international markets.\nWu Tao, a history professor at Sun Yat-sen University in Guangzhou, the capital of Guangdong, noted that inland waterway shipping routes \"remain irreplaceable\" even though China's road, rail and air transportation networks have expanded. Their large carrying capacity and relatively low logistics costs make inland waterways particularly suited for bulk cargo, Wu said.\nFor businesses, the new canal is already dictating logistics and investment decisions.\nOn Sept 8, a consignment of auto parts from Chinese vehicle manufacturer SAIC-GM-Wuling left Liuzhou for Nanning Port, before continuing by ship through the Pinglu Canal to reach Can Tho Port in Vietnam.\nThe company said the new river-sea route could cut its logistics costs by about 10 percent. \"For us, the freight saved is real profit, and that translates directly into greater price competitiveness in ASEAN and other global markets,\" said Cai Yan, a senior technical officer at SAIC-GM-Wuling.\nThe canal has added waterway to the company's existing road and rail transportation options, giving it more flexibility as it expands its business and production links across Southeast Asia, Cai said.\nThe new route is being factored into investment plans of companies.\nAbout 50 km from the Pinglu Canal's northern end, French chemicals producer SNF Group is building a plant in Nanning's Liujing Industrial Park, with an annual capacity of 370,000 tons.\nThe factory, which will be the group's largest production base in southern China, is expected to start operations in stages before June 2027.\n\"The Pinglu Canal will reduce our logistics costs and enable convenient delivery to South China and all of Southeast Asia. It offers great advantages in both materials sourcing and product distribution,\" said Thomas Wilsius, head of the company's Nanning project.\nThe waterway is likely to bring more Southeast Asian products to the Chinese market.\nPhilippine Ambassador to China Jaime A. FlorCruz, who visited the canal with a group of ASEAN envoys in July, said that fresh seafood and other time-sensitive products could be exported more efficiently from his country to China.\n\"In the long run, this will benefit not only the local people, but the broader region and even the world,\" he said, adding that shorter shipping distances, lower freight costs and faster deliveries would bring tangible benefits to fishermen, farmers, traders and entrepreneurs.\nFor Shen Guiping, a resident of Shangjing village in Qinzhou, who took part in relocation work for the project, the opening of the Pinglu Canal carries a more personal meaning.\n\"It almost feels like a dream that has finally been realized. It is something generations of locals hoped for,\" she said.",
-      "fullTextCn": "周三，中国开通了一条重要的水路，为地处内陆的西南地区提供了一条通往海岸和海外市场的捷径。此举正值中国进一步加强与区域邻国、尤其是东南亚国家贸易关系之际。平陆运河建于广西壮族自治区，耗资727亿元人民币（约合108亿美元），全长134.2公里，从横州市西津水库延伸至北部湾钦州港。这是自1949年中华人民共和国成立以来，中国建成的第一条直接连接内河系统与海洋的水路。与传统经广东省港口出海的路线相比，该运河将中国西南地区货物的内河运输距离缩短了560多公里。预计每年可降低整体物流费用，节省超过50亿元的运输成本。\n\n出席运河开通仪式的国务院副总理丁薛祥呼吁充分利用这条新水路，在北部湾打造一流的国际门户港，支持中国西部地区进一步对外开放。丁薛祥还呼吁高效运营该运河。该运河是集水运、铁路和海运于一体的多式联运关键基础设施，也是新国际陆海贸易走廊的骨干工程——这是一条连接中国内陆地区与区域及全球市场的战略通道。平陆运河于2022年8月开工建设，旨在解决贸易方面长期存在的地理难题。虽然广西拥有海岸线并与越南接壤，但其主要内河向东流淌，这意味着从广西首府南宁及西江流域其他地区经水路运输的货物只能通过广东出海。平陆运河按通航5000吨级船舶设计，如今使货物能够转向南下，经钦州港抵达北部湾——这是中国西南大部分地区最近的海上出口。\n\n运河建设过程中最大的工程挑战之一是应对北端与海面之间65米的水位落差。工程修建了马道、企石和青年三个航运枢纽，配备双线船闸，用于升降船舶，实际上起到了巨型电梯的作用。北京清华大学人文学院副院长倪玉平将这一超级工程置于更广阔的背景下，称其试图回答的关键问题之一是“中国西部如何更好地融入全球经济”。与主要为大洋和海洋之间船舶提供捷径的苏伊士运河和巴拿马运河不同，平陆运河为广阔的内陆经济腹地提供了一条通往海岸——再从那里通往国际市场——的更短路线。广州中山大学历史学教授吴滔指出，尽管中国的公路、铁路和航空运输网络已经扩展，内河航运路线“仍然不可替代”。\n\n吴滔表示，内河航运运力大、物流成本相对较低，特别适合散货运输。对企业而言，新运河已经在左右物流和投资决策。9月8日，中国汽车制造商上汽通用五菱的一批汽车零部件从柳州运往南宁港，然后经平陆运河继续航运至越南芹苴港。该公司表示，新的江海联运路线可将其物流成本降低约10%。上汽通用五菱高级技术官员蔡燕表示：“对我们来说，节省的运费就是实实在在的利润，这直接转化为在东盟和其他全球市场更强的价格竞争力。”\n\n蔡燕表示，这条运河在该公司现有的公路和铁路运输选项之外增加了水路运输，使其在拓展东南亚业务和生产联系时拥有更大的灵活性。新路线正被纳入企业的投资计划。在距离平陆运河北端约50公里处，法国化工企业SNF集团正在南宁六景工业园区建设一座工厂，年产能37万吨。该工厂将成为该集团在中国南方的最大生产基地，预计在2027年6月前分阶段投产。“平陆运河将降低我们的物流成本，使我们能够便捷地向华南和整个东南亚地区交货。\n\n它在原材料采购和产品分销方面都具有巨大优势，”该公司南宁项目负责人托马斯·维尔修斯表示。这条水路可能会将更多东南亚产品带入中国市场。菲律宾驻华大使吉米·弗古律斯今年7月与东盟使节团一起参观了该运河。他表示，菲律宾的新鲜海鲜和其他时效性强的产品可以更高效地出口到中国。“从长远来看，这不仅惠及当地人民，还将惠及更广泛的地区乃至全世界，”他说，并补充道，更短的航运距离、更低的运费和更快的交货速度将为渔民、农民、商人和企业家带来实实在在的好处。\n\n对于参与了项目搬迁工作的钦州上井村村民沈桂平来说，平陆运河的开通有着更为个人的意义。“这几乎像是一个终于实现的梦想。这是几代当地人期盼的事情，”她说。"
-    },
-    {
-      "id": 4,
-      "category": "technology",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/china/regional/2026-09-17/detail-ihfkanuz5379485.shtml",
-      "title": "Hong Kong to target breakthroughs in core tech",
-      "titleCn": "香港将瞄准核心科技突破",
-      "summary": "Hong Kong will step up efforts to develop into an international innovation and technology center, targeting breakthroughs in core technologies such as artificial intelligence and life sciences, with the push backed by modern finance, expanded public research platforms and closer collaboration with the Chinese mainland.",
-      "summaryCn": "香港发布首个五年规划，将大力发展国际创新科技中心，重点突破人工智能和生命科学等核心技术，并通过现代金融、公共研究平台和与内地合作来推动创新科技生态发展。",
-      "wordCount": 710,
-      "paragraphs": [
-        {
-          "en": "Hong Kong will step up efforts to develop into an international innovation and technology center, targeting {{0}} in core technologies such as {{1}} intelligence and life sciences, with the push backed by modern finance, expanded public research platforms and closer {{2}} with the Chinese mainland. The policy direction and specific measures {{3}} in the city's latest development blueprints will help strengthen Hong Kong's innovation and technology ecosystem and {{4}} the {{5}} of research outcomes, industry insiders said. Chief Executive John Lee Ka-chiu said on Wednesday, while delivering the First Five-Year Plan for Economic and Social Development of the Hong Kong Special Administrative Region (2026-2030), that Hong Kong will continue to increase its {{6}} on innovation activities as a share of gross domestic product, aiming to raise the {{7}} to 3 percent after 2030, from about 1.63 percent in 2024. Lee said the Innovation and Technology Industry-Oriented Fund is expected to be launched this year, covering five {{8}} sectors, including life and health technology, AI and robotics. With a HK$10 billion ($1.27 billion) {{9}} from the HKSAR government and market {{10}} at a ratio of 1 to at least 3, the fund is projected to reach at least HK$40 billion in total.",
-          "cn": "香港将加大力度发展成为国际创新科技中心，瞄准人工智能和生命科学等核心技术的突破，并以现代金融、扩展的公共研究平台以及与内地更紧密的合作为支撑。业内人士表示，香港最新发展蓝图中所勾勒的政策方向和具体措施，将有助于加强香港的创新科技生态系统，并加快研究成果的商业化。行政长官李家超周三在发表《香港特别行政区经济社会发展第一个五年规划（2026-2030）》时表示，香港将继续提高创新活动支出占本地生产总值的比重，目标是在2030年后将该比例从2024年的约1.63%提高至3%。李家超表示，创新及科技产业导向基金预计将于今年推出，涵盖生命与健康科技、人工智能与机器人等五个主题领域。该基金由香港特区政府注入100亿港元（12.7亿美元），并以1比至少3的比例带动市场出资，预计总规模将达到至少400亿港元。"
-        },
-        {
-          "en": "In his annual Policy Address released on the same day, Lee provided further details, saying that about 20 fund managers have been {{11}} {{12}} to raise capital for the establishment of sub-funds. The two road maps also {{13}} advancing the development of the \"three major innovation and technology parks and five key research and development institutions\". The latter include the Artificial Intelligence Research and Development Institute, which is expected to begin operation this year, and the Life and Health Technology Research Institute. Preparatory work for the LHTRI, which will focus on \"AI + life sciences\", will be largely completed by the end of the year. \"We will basically have established an international innovation and technology center based in the Guangdong-Hong Kong-Macao Greater Bay Area, serving the entire country and connected to the world, after 2030,\" Lee said.",
-          "cn": "在同日发布的年度施政报告中，李家超提供了更多细节，称已有约20家基金经理初步入围，负责为设立子基金筹集资金。两份路线图还提出推进“三大创新科技园区和五大重点研发机构”的发展。后者包括预计今年开始运作的人工智能研发院，以及生命与健康科技研究院。专注于“人工智能+生命科学”的生命与健康科技研究院的筹备工作将在年底前基本完成。李家超表示：“2030年后，我们将基本建成一个立足粤港澳大湾区、服务全国、联通世界的国际创新科技中心。”"
-        },
-        {
-          "en": "He added that this will give rise to a new {{14}} for innovation and technology development, with enterprises as the key players, unicorns taking the lead, and modern finance {{15}} the {{16}} development of technological and industrial innovation. Joseph Chan, associate director of the Centre for Innovation and Entrepreneurship at the Business School of the University of Hong Kong, said the \"finance+\" strategy is a smart move because it treats finance as an essential engine powering technological innovation, rather than as an {{17}} sector. Innovation and technology are increasingly becoming key {{18}} of Hong Kong's economy, with their contributions reflected in a growing share of the city's GDP, Chan said. \"The HKSAR government has both the will and a {{19}} plan,\" he said, citing the Innovation and Technology Industry-Oriented Fund and major research institutions as examples of policy support. \"In doing so, far greater social resources can be {{20}}, and more importantly, (this can) generate impactful outcomes that benefit both the people's {{21}} and the wider national economy.\"\nSpeaking of the \"three major innovation and technology parks\", which include the Hong Kong Park of the Hetao Shenzhen-Hong Kong Science and Technology Innovation Cooperation Zone, Hannah Jeong, head of valuation and advisory services at CBRE Hong Kong, said the {{22}} development model is expected to create a more {{23}} innovation ecosystem supporting research, commercialization and advanced manufacturing.",
-          "cn": "他补充说，这将催生创新科技发展的新范式，以企业为主体、以独角兽企业为引领、以现代金融赋能科技创新和产业创新融合发展。香港大学商学院创新及创业中心副总监陈炳雄表示，“金融+”策略是一项明智之举，因为它将金融视为推动科技创新的重要引擎，而不是一个孤立的行业。陈炳雄表示，创新科技正日益成为香港经济的关键驱动力，其贡献体现在占香港本地生产总值比重的不断上升。他说：“香港特区政府既有意愿，也有具体计划”，并以创新及科技产业导向基金和重大研究机构作为政策支持的例子。“这样做可以汇聚远为更多的社会资源，更重要的是，（这可以）产生惠及民生和更广泛国民经济的重大成果。”在谈到包括河套深港科技创新合作区香港园区在内的“三大创新科技园区”时，世邦魏理仕香港估值及咨询服务部主管郑喜年表示，协同发展模式有望打造一个更全面的创新生态系统，支持研究、商业化和先进制造。"
-        },
-        {
-          "en": "Jeong said that while physical {{24}} is important, \"a key success factor will be Hong Kong's ability to attract leading international technology companies, research institutes and universities\". Commenting on the proposed Hong Kong Innovation and Technology Application Scenario Promotion Centre and the target of establishing the SAR's first national manufacturing innovation center by 2027, Victor Kwok, deputy research director of think tank Our Hong Kong Foundation, said the two institutions will play {{25}} roles in building the ecosystem. The application scenario center will help accelerate the process of moving innovation solutions from the R&D stage to market {{26}} and implementation, Kwok said. The national manufacturing innovation center, meanwhile, can help overcome {{27}} in key technologies and promote the {{28}} of research outcomes. \"Together, the two institutions will help address Hong Kong's long-standing {{29}} in midstream and downstream commercialization in its innovation and technology ecosystem,\" he added.",
-          "cn": "郑喜年表示，虽然实体基础设施很重要，但“一个关键成功因素将是香港吸引领先国际科技公司、研究机构和大学的能力”。在评论拟设立的香港创新科技应用场景促进中心以及到2027年建立香港首个国家制造业创新中心的目标时，智库团结香港基金副总裁兼研究部联席主管郭凯杰表示，这两家机构将在构建生态系统方面发挥互补作用。郭凯杰表示，应用场景中心将有助于加快创新解决方案从研发阶段走向市场验证和实施的进程。与此同时，国家制造业创新中心可以帮助突破关键技术瓶颈，并促进研究成果的产业化。他补充说：“这两个机构将共同帮助解决香港创新科技生态系统中长期存在的中间环节和下游商业化薄弱的问题。”"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "breakthroughs",
-          "hint": "n. 突破",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "artificial",
-          "hint": "adj. 人工的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "collaboration",
-          "hint": "n. 合作",
-          "difficulty": "medium"
-        },
-        {
-          "id": 3,
-          "answer": "outlined",
-          "hint": "v. 概述",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "accelerate",
-          "hint": "v. 加速",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "commercialization",
-          "hint": "n. 商业化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "expenditure",
-          "hint": "n. 支出",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "ratio",
-          "hint": "n. 比率",
-          "difficulty": "easy"
-        },
-        {
-          "id": 8,
-          "answer": "thematic",
-          "hint": "adj. 主题的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "injection",
-          "hint": "n. 注入",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "contributions",
-          "hint": "n. 贡献",
-          "difficulty": "easy"
-        },
-        {
-          "id": 11,
-          "answer": "preliminarily",
-          "hint": "adv. 初步地",
-          "difficulty": "hard"
-        },
-        {
-          "id": 12,
-          "answer": "shortlisted",
-          "hint": "v. 入围",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "proposed",
-          "hint": "v. 提议",
-          "difficulty": "easy"
-        },
-        {
-          "id": 14,
-          "answer": "paradigm",
-          "hint": "n. 范式",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "empowering",
-          "hint": "v. 赋能",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "integrated",
-          "hint": "adj. 综合的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "isolated",
-          "hint": "adj. 孤立的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "drivers",
-          "hint": "n. 驱动力",
-          "difficulty": "medium"
-        },
-        {
-          "id": 19,
-          "answer": "concrete",
-          "hint": "adj. 具体的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 20,
-          "answer": "rallied",
-          "hint": "v. 集结",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "livelihoods",
-          "hint": "n. 生计",
-          "difficulty": "hard"
-        },
-        {
-          "id": 22,
-          "answer": "coordinated",
-          "hint": "adj. 协调的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 23,
-          "answer": "comprehensive",
-          "hint": "adj. 全面的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 24,
-          "answer": "infrastructure",
-          "hint": "n. 基础设施",
-          "difficulty": "medium"
-        },
-        {
-          "id": 25,
-          "answer": "complementary",
-          "hint": "adj. 互补的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 26,
-          "answer": "validation",
-          "hint": "n. 验证",
-          "difficulty": "hard"
-        },
-        {
-          "id": 27,
-          "answer": "bottlenecks",
-          "hint": "n. 瓶颈",
-          "difficulty": "hard"
-        },
-        {
-          "id": 28,
-          "answer": "industrialization",
-          "hint": "n. 产业化",
-          "difficulty": "hard"
-        },
-        {
-          "id": 29,
-          "answer": "weakness",
-          "hint": "n. 弱点",
-          "difficulty": "easy"
-        }
-      ],
-      "fullText": "Hong Kong will step up efforts to develop into an international innovation and technology center, targeting breakthroughs in core technologies such as artificial intelligence and life sciences, with the push backed by modern finance, expanded public research platforms and closer collaboration with the Chinese mainland.\nThe policy direction and specific measures outlined in the city's latest development blueprints will help strengthen Hong Kong's innovation and technology ecosystem and accelerate the commercialization of research outcomes, industry insiders said.\nChief Executive John Lee Ka-chiu said on Wednesday, while delivering the First Five-Year Plan for Economic and Social Development of the Hong Kong Special Administrative Region (2026-2030), that Hong Kong will continue to increase its expenditure on innovation activities as a share of gross domestic product, aiming to raise the ratio to 3 percent after 2030, from about 1.63 percent in 2024.\nLee said the Innovation and Technology Industry-Oriented Fund is expected to be launched this year, covering five thematic sectors, including life and health technology, AI and robotics. With a HK$10 billion ($1.27 billion) injection from the HKSAR government and market contributions at a ratio of 1 to at least 3, the fund is projected to reach at least HK$40 billion in total.\nIn his annual Policy Address released on the same day, Lee provided further details, saying that about 20 fund managers have been preliminarily shortlisted to raise capital for the establishment of sub-funds.\nThe two road maps also proposed advancing the development of the \"three major innovation and technology parks and five key research and development institutions\". The latter include the Artificial Intelligence Research and Development Institute, which is expected to begin operation this year, and the Life and Health Technology Research Institute. Preparatory work for the LHTRI, which will focus on \"AI + life sciences\", will be largely completed by the end of the year.\n\"We will basically have established an international innovation and technology center based in the Guangdong-Hong Kong-Macao Greater Bay Area, serving the entire country and connected to the world, after 2030,\" Lee said.\nHe added that this will give rise to a new paradigm for innovation and technology development, with enterprises as the key players, unicorns taking the lead, and modern finance empowering the integrated development of technological and industrial innovation.\nJoseph Chan, associate director of the Centre for Innovation and Entrepreneurship at the Business School of the University of Hong Kong, said the \"finance+\" strategy is a smart move because it treats finance as an essential engine powering technological innovation, rather than as an isolated sector.\nInnovation and technology are increasingly becoming key drivers of Hong Kong's economy, with their contributions reflected in a growing share of the city's GDP, Chan said.\n\"The HKSAR government has both the will and a concrete plan,\" he said, citing the Innovation and Technology Industry-Oriented Fund and major research institutions as examples of policy support. \"In doing so, far greater social resources can be rallied, and more importantly, (this can) generate impactful outcomes that benefit both the people's livelihoods and the wider national economy.\"\nSpeaking of the \"three major innovation and technology parks\", which include the Hong Kong Park of the Hetao Shenzhen-Hong Kong Science and Technology Innovation Cooperation Zone, Hannah Jeong, head of valuation and advisory services at CBRE Hong Kong, said the coordinated development model is expected to create a more comprehensive innovation ecosystem supporting research, commercialization and advanced manufacturing.\nJeong said that while physical infrastructure is important, \"a key success factor will be Hong Kong's ability to attract leading international technology companies, research institutes and universities\".\nCommenting on the proposed Hong Kong Innovation and Technology Application Scenario Promotion Centre and the target of establishing the SAR's first national manufacturing innovation center by 2027, Victor Kwok, deputy research director of think tank Our Hong Kong Foundation, said the two institutions will play complementary roles in building the ecosystem.\nThe application scenario center will help accelerate the process of moving innovation solutions from the R&D stage to market validation and implementation, Kwok said. The national manufacturing innovation center, meanwhile, can help overcome bottlenecks in key technologies and promote the industrialization of research outcomes.\n\"Together, the two institutions will help address Hong Kong's long-standing weakness in midstream and downstream commercialization in its innovation and technology ecosystem,\" he added.",
-      "fullTextCn": "香港将加大力度发展成为国际创新科技中心，瞄准人工智能和生命科学等核心技术的突破，并以现代金融、扩展的公共研究平台以及与内地更紧密的合作为支撑。业内人士表示，香港最新发展蓝图中所勾勒的政策方向和具体措施，将有助于加强香港的创新科技生态系统，并加快研究成果的商业化。行政长官李家超周三在发表《香港特别行政区经济社会发展第一个五年规划（2026-2030）》时表示，香港将继续提高创新活动支出占本地生产总值的比重，目标是在2030年后将该比例从2024年的约1.63%提高至3%。李家超表示，创新及科技产业导向基金预计将于今年推出，涵盖生命与健康科技、人工智能与机器人等五个主题领域。该基金由香港特区政府注入100亿港元（12.7亿美元），并以1比至少3的比例带动市场出资，预计总规模将达到至少400亿港元。\n\n在同日发布的年度施政报告中，李家超提供了更多细节，称已有约20家基金经理初步入围，负责为设立子基金筹集资金。两份路线图还提出推进“三大创新科技园区和五大重点研发机构”的发展。后者包括预计今年开始运作的人工智能研发院，以及生命与健康科技研究院。专注于“人工智能+生命科学”的生命与健康科技研究院的筹备工作将在年底前基本完成。李家超表示：“2030年后，我们将基本建成一个立足粤港澳大湾区、服务全国、联通世界的国际创新科技中心。”\n\n他补充说，这将催生创新科技发展的新范式，以企业为主体、以独角兽企业为引领、以现代金融赋能科技创新和产业创新融合发展。香港大学商学院创新及创业中心副总监陈炳雄表示，“金融+”策略是一项明智之举，因为它将金融视为推动科技创新的重要引擎，而不是一个孤立的行业。陈炳雄表示，创新科技正日益成为香港经济的关键驱动力，其贡献体现在占香港本地生产总值比重的不断上升。他说：“香港特区政府既有意愿，也有具体计划”，并以创新及科技产业导向基金和重大研究机构作为政策支持的例子。“这样做可以汇聚远为更多的社会资源，更重要的是，（这可以）产生惠及民生和更广泛国民经济的重大成果。”在谈到包括河套深港科技创新合作区香港园区在内的“三大创新科技园区”时，世邦魏理仕香港估值及咨询服务部主管郑喜年表示，协同发展模式有望打造一个更全面的创新生态系统，支持研究、商业化和先进制造。\n\n郑喜年表示，虽然实体基础设施很重要，但“一个关键成功因素将是香港吸引领先国际科技公司、研究机构和大学的能力”。在评论拟设立的香港创新科技应用场景促进中心以及到2027年建立香港首个国家制造业创新中心的目标时，智库团结香港基金副总裁兼研究部联席主管郭凯杰表示，这两家机构将在构建生态系统方面发挥互补作用。郭凯杰表示，应用场景中心将有助于加快创新解决方案从研发阶段走向市场验证和实施的进程。与此同时，国家制造业创新中心可以帮助突破关键技术瓶颈，并促进研究成果的产业化。他补充说：“这两个机构将共同帮助解决香港创新科技生态系统中长期存在的中间环节和下游商业化薄弱的问题。”"
-    },
-    {
-      "id": 5,
-      "category": "military",
-      "source": "ECNS",
-      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-09-17/detail-ihfkhtke4051164.shtml",
-      "title": "20 years on, Beijing Xiangshan Forum plays key role in global security dialogue",
-      "titleCn": "北京香山论坛二十载：在全球安全对话中发挥关键作用",
-      "summary": "Experts and officials from more than100 countries have widely acknowledged the pivotal role of the Beijing Xiangshan Forum, which officially opened in Beijing on Wednesday.",
-      "summaryCn": "北京香山论坛举办二十周年，为各国提供平等包容的对话平台，致力于弥合分歧、促进国际合作，在全球安全治理中发挥重要作用。",
-      "wordCount": 547,
-      "paragraphs": [
-        {
-          "en": "(ECNS）-- Experts and officials from more than100 countries have widely {{1}} the {{0}} role of the Beijing Xiangshan Forum, which officially opened in Beijing on Wednesday. In an interview with China News Network, Li Shuyin, director of the Secretariat Office of the Beijing Xiangshan Forum, noted that the forum provides an equal platform for all participating nations, {{2}} of their size, strength or economic status. Over the past two decades, it has been {{3}} to {{4}} differences through communication and advancing international cooperation via {{5}} dialogue, she added. “This consistent philosophy has steadily strengthened the forum’s influence, appeal and {{6}} capacity for global stability,” Li said. She pointed out that since its launch in 2006, the forum has {{7}} to the principles of equality, openness, {{8}} and mutual learning, and has grown into a major platform for global security dialogue.",
-          "cn": "（中新社）——来自100多个国家的专家学者和官员广泛认可北京香山论坛的关键作用。该论坛于周三在北京正式开幕。在接受中国新闻网采访时，北京香山论坛秘书处办公室主任李淑银指出，论坛为所有参与国提供平等平台，不论其大小、强弱或经济地位如何。她补充说，过去二十年来，论坛始终致力于通过沟通弥合分歧，通过包容性对话推进国际合作。“这一贯的理念不断增强论坛的影响力、吸引力和凝聚全球稳定的共识构建能力，”李淑银说。她指出，自2006年创办以来，论坛秉持平等、开放、包容、互鉴的原则，已发展成为全球安全对话的重要平台。"
-        },
-        {
-          "en": "Jean Christophe Baron von Pfetten, chairman of the Royal Institute for East West Strategic Studies in the UK, {{9}} Confucius’ {{10}} of “seeking harmony without uniformity” to praise the forum, saying that “China is truly an engine for world peace.”\n“The forum is trying to make people have better dialogue together to find a solution. This is what we need. China is the only country to do that,” he added. “With this platform, we can always promote that {{11}} so that we can bring every {{12}}, every problem to the table and into the dialogue, where we can fully manage differences and also manage the common interest,” said Shaftdean Lufty, senior director comprehensive security of the Malaysian Institute of Defence and Security. As a first-time attendee of the forum, Rabb Majumder, editor and publisher of The Security in Bangladesh said he believed it would play a very {{13}} role in {{14}} major global issues, because he thought that this forum would provide a platform or all peace-loving people.",
-          "cn": "英国皇家东西方战略研究所主席让·克里斯托夫·巴龙·冯·普费滕引用孔子“和而不同”的名言赞扬该论坛，称“中国确实是世界和平的引擎”。他补充说：“论坛试图让人们更好地对话，共同寻找解决方案。这正是我们所需要的。中国是唯一这样做的国家。”马来西亚国防与安全研究所综合安全高级主任沙夫迪安·卢夫蒂表示：“有了这个平台，我们始终可以推动多边主义，从而将每一个争端、每一个问题都摆到桌面上、纳入对话之中，让我们能够充分管控分歧，也能管控共同利益。”作为首次参加论坛的代表，孟加拉国《安全》杂志编辑兼出版人拉布·马宗达表示，他相信论坛将在解决重大全球问题上发挥极其重要的作用，因为他认为论坛将为所有爱好和平的人们提供一个平台。"
-        },
-        {
-          "en": "During the forum, international representatives also {{15}} China’s role in global governance. “Unilateral tariffs, use of force outside international law -- we witness this every single day. The Global Governance Initiative (GGI) brings us some kind of {{16}} narrative and an alternative approach to seeing the world,” said Carlos Branco, former director of cooperation and regional security at NATO International Military Staff. “If we analyze the five factors of the GGI, three of them are basically the fundamentals of the United Nations charter: {{17}}, international rule of law, and multilateralism,” he said, adding that countries need to adhere to these basic principles if humanity wants to move forward avoid global {{18}}, and prevent conflicts between major powers. Ahmed Al-Garni, vice president of Rasanah International Institute for Iranian Studies as well as former strategic advisor to the Minister of Defense of the Kingdom of Saudi Arabia, said China has long {{19}} solving issues through dialogue and consultation, and the communication channels it has built are {{20}}.",
-          "cn": "论坛期间，国际代表也盛赞中国在全球治理中的作用。北约国际军事参谋部前合作与地区安全主任卡洛斯·布兰科表示：“单边关税、在国际法之外使用武力——我们每天都能目睹这些。全球治理倡议为我们带来了某种替代性叙事和看待世界的替代性路径。”他说：“如果我们分析全球治理倡议的五大要素，其中三个基本上是《联合国宪章》的根本原则：主权、国际法治和多边主义。”他补充说，如果人类想要向前迈进、避免全球对抗、防止大国之间发生冲突，各国就需要坚持这些基本原则。伊朗研究国际研究所副主席、沙特阿拉伯王国国防部前战略顾问艾哈迈德·阿尔-加尔尼表示，中国长期以来坚持通过对话协商解决问题，其建立的沟通渠道不可替代。"
-        },
-        {
-          "en": "Marking its 20th anniversary, the forum strives to build an equal, inclusive and diverse platform for constructive dialogue, helping all participants {{21}} consensus, enhance mutual trust and pool wisdom to tackle global security and development challenges. Themed \"Build Consensus on Stability, Advance Security Governance Together,\" the Beijing Xiangshan Forum, which runs from Tuesday to Thursday, has brought together about 2,000 official representatives, scholars, experts and observers from almost 100 countries, regions and international organizations.",
-          "cn": "值此二十周年之际，论坛致力于打造平等、包容、多元的建设性对话平台，帮助所有参与者凝聚共识、增进互信、汇聚智慧，共同应对全球安全与发展挑战。本届北京香山论坛以“共筑和平、共享未来”为主题，于周二至周四举行，汇聚了来自近100个国家和地区及国际组织的约2000名官方代表、学者、专家和观察员。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "pivotal",
-          "hint": "adj. 关键的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "acknowledged",
-          "hint": "v. 认可",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "regardless",
-          "hint": "adv. 不论",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "committed",
-          "hint": "adj. 致力于",
-          "difficulty": "medium"
-        },
-        {
-          "id": 4,
-          "answer": "bridging",
-          "hint": "v. 弥合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "inclusive",
-          "hint": "adj. 包容的",
+          "answer": "profound",
+          "hint": "adj. 深刻的；深远的",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "consensus-building",
-          "hint": "n. 共识构建",
+          "answer": "irreversible",
+          "hint": "adj. 不可逆转的",
           "difficulty": "hard"
         },
         {
           "id": 7,
-          "answer": "adhered",
-          "hint": "v. 坚持",
+          "answer": "unilateralism",
+          "hint": "n. 单边主义",
           "difficulty": "hard"
         },
         {
           "id": 8,
-          "answer": "inclusiveness",
-          "hint": "n. 包容性",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "quoted",
-          "hint": "v. 引用",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "maxim",
-          "hint": "n. 名言",
-          "difficulty": "hard"
-        },
-        {
-          "id": 11,
           "answer": "multilateralism",
           "hint": "n. 多边主义",
           "difficulty": "hard"
         },
         {
-          "id": 12,
-          "answer": "dispute",
-          "hint": "n. 争端",
+          "id": 9,
+          "answer": "initiative",
+          "hint": "n. 倡议；主动性",
           "difficulty": "medium"
         },
         {
+          "id": 10,
+          "answer": "stabilizing",
+          "hint": "adj. 稳定的；起稳定作用的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "facilitating",
+          "hint": "v. 促进；便利化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "tangible",
+          "hint": "adj. 切实的；有形的",
+          "difficulty": "hard"
+        },
+        {
           "id": 13,
-          "answer": "vital",
-          "hint": "adj. 至关重要的",
+          "answer": "inclusiveness",
+          "hint": "n. 包容性",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "resolving",
-          "hint": "v. 解决",
-          "difficulty": "medium"
+          "answer": "solidarity",
+          "hint": "n. 团结",
+          "difficulty": "easy"
         },
         {
           "id": 15,
-          "answer": "hailed",
-          "hint": "v. 赞扬",
+          "answer": "sincerity",
+          "hint": "n. 真诚；诚意",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Welcome slogan outside the main venue of the 18th BRICS Summit held from September 12 to 13, 2026, New Delhi, India. /CMG\nAt the invitation of Indian Prime Minister Narendra Modi, Chinese President Xi Jinping attended the 18th BRICS Summit in New Delhi, India from September 12 to 13, calling on BRICS countries to take the pioneering role in promoting a more just and equitable international order and usher in a new chapter of cooperation among the Global South.\nThis year marks the 20th anniversary of BRICS cooperation. What began as an economic concept in a research report has grown into an important force shaping the international landscape.\nWith greater BRICS cooperation entering a new stage of high-quality development, Xi outlined at the summit how the grouping can play a more active role in a world marked by growing uncertainty and transformation.\nBe a pioneer in the changing world\nThe world is undergoing profound changes unseen in a century.\nEven as the Global South gains strength and multipolarity becomes an irreversible trend, unilateralism and power politics are resurfacing, posing growing challenges to multilateralism and the international order.\nAddressing the summit in New Delhi, Xi called on BRICS countries to \"stand firmly on the right side of history, strive to be a pioneer of our times, steer the international order in a direction that is more just and equitable, and work together to build a community with a shared future for humanity.\"\n\"To bring stability to the world and make it a better place, BRICS countries must seize the historical initiative, rally the Global South, be an active, stabilizing and positive force in international affairs and advance the well-being of all humanity,\" Xi said.\nAs to the future development of BRICS, Xi urged the grouping to pioneer in advancing innovation-driven development, upholding peace and stability, facilitating mutual learning between civilizations and reforming and improving global governance.\nThe four pioneering roles align closely with the Global Development Initiative, Global Security Initiative, Global Civilization Initiative and Global Governance Initiative proposed by China, offering a clear roadmap for BRICS cooperation and a better world.\nXi's remarks reflect the four global initiatives are being translated into more concrete action through BRICS cooperation, providing a broader platform for the Global South to participate in global governance, said Joseph Kimuli, a Ugandan expert on international affairs.\nDeepening practical cooperation\nBRICS emerged amid the collective rise of emerging markets and developing countries.\nOver the past two decades, the mechanism has evolved with the times, expanding its membership and strengthening cooperation amid profound changes in the global landscape.\nToday, BRICS countries span four continents and account for nearly half of the world's population, about 30% of global economic output and more than half of global economic growth, making the grouping a flagship of unity and cooperation among Global South countries.\nIn his address at the first session of the summit on September 12, Xi said solidarity and cooperation have always been the source of strength for the cause of BRICS throughout its 20-year journey.\nHe called on member countries to treat each other with candor and sincerity, seek common ground while shelving differences, respect each other's core concerns, stay committed to communication and dialogue to increase mutual understanding and properly handle disagreements.\nSpeaking at the second session on September 13, Xi proposed five initiatives to deepen BRICS cooperation, covering open source and inclusive artificial intelligence, trade and investment facilitation, digital industry cooperation, intelligent manufacturing cooperation and science and technology talent development.\nWhile the \"four pioneers\" set out the broader direction for BRICS to contribute to global development, peace, civilization and governance, the five initiatives focus on turning that vision into concrete cooperation. They target emerging areas with direct implications for economic growth and development, offering a more practical action plan for members to work together.\nFor Global South countries, such cooperation is already creating new opportunities. Sizo Nkala, a researcher at the University of Johannesburg's Center for Africa-China Studies, noted that China's efforts to advance technological and industrial cooperation under the BRICS framework are opening up tangible development opportunities for countries across the Global South. German artificial intelligence expert Stefan Lubich described the new ideas and proposals put forward by Xi as a driving force for the development of emerging industries worldwide.\nToward a third golden decade\nChina will assume the BRICS presidency next year and host the 19th BRICS Summit, Xi announced at this year's event.\nAs China prepares to take up the baton, Xi said China is ready to \"work with all parties to plan for the future\" and \"usher in the third golden decade of BRICS cooperation.\"\nThe task ahead is to turn the group's growing influence and expanded membership into more effective cooperation and tangible outcomes for the Global South.\nSergey Sanakoyev, president of the Asia-Pacific Research Center in Russia, said he expects China to work with Global South countries to turn the BRICS spirit of openness, inclusiveness and win-win cooperation into more concrete results.",
+      "fullTextCn": "2026年9月12日至13日在印度新德里举行的第十八届金砖国家峰会主会场外的欢迎标语。/CMG 应印度总理纳伦德拉·莫迪邀请，中国国家主席习近平于2026年9月12日至13日出席在印度新德里举行的第十八届金砖国家峰会，呼吁金砖国家在推动更加公正合理的国际秩序方面发挥先锋作用，开启全球南方合作新篇章。今年是金砖合作二十周年。金砖合作最初只是研究报告中的一个经济概念，如今已发展成为塑造国际格局的重要力量。随着大金砖合作进入高质量发展新阶段，习近平在峰会上阐述了金砖国家如何在充满不确定性和变革的世界中发挥更积极的作用。\n\n做变革世界中的先锋 世界正经历百年未有之大变局。尽管全球南方不断壮大，多极化成为不可逆转的趋势，但单边主义和强权政治正在抬头，对多边主义和国际秩序构成日益严峻的挑战。习近平在新德里峰会上发表讲话，呼吁金砖国家“站在历史正确的一边，努力做时代的先锋，推动国际秩序朝着更加公正合理的方向发展，携手构建人类命运共同体”。习近平表示：“为了让世界更加稳定、更加美好，金砖国家必须把握历史主动，团结全球南方，在国际事务中做积极、稳定、向善的力量，推动全人类福祉。”关于金砖国家未来发展，习近平敦促金砖国家在推进创新驱动发展、维护和平稳定、促进文明互鉴以及改革完善全球治理方面发挥先锋作用。这四个先锋角色与中国提出的全球发展倡议、全球安全倡议、全球文明倡议和全球治理倡议高度契合，为金砖合作和建设更美好的世界提供了清晰的路线图。\n\n乌干达国际事务专家约瑟夫·基穆利表示，习近平的讲话反映出四大全球倡议正通过金砖合作转化为更加具体的行动，为全球南方参与全球治理提供了更广阔的平台。深化务实合作 金砖国家在新兴市场和发展中国家集体崛起的背景下应运而生。过去二十年来，金砖机制与时俱进，在全球格局深刻变化中扩大成员规模、加强合作。如今，金砖国家横跨四大洲，占世界人口近一半、全球经济产出约30%、全球经济增长的一半以上，使金砖国家成为全球南方国家团结合作的旗帜。习近平在9月12日峰会第一次会议上发表讲话时表示，团结合作始终是金砖事业二十年历程中力量的源泉。\n\n他呼吁成员国坦诚相待、求同存异、尊重彼此核心关切、坚持沟通对话以增进相互理解、妥善处理分歧。习近平在9月13日第二次会议上发表讲话，提出深化金砖合作的五项倡议，涵盖开源包容的人工智能、贸易和投资便利化、数字产业合作、智能制造合作以及科技人才培养。如果说“四个先锋”为金砖国家助力全球发展、和平、文明和治理指明了总体方向，那么五项倡议则着眼于将这一愿景转化为具体合作。它们瞄准对经济增长和发展具有直接影响的新兴领域，为成员国携手合作提供了更加务实的行动计划。对全球南方国家而言，这种合作正在创造新的机遇。\n\n约翰内斯堡大学非中研究中心研究员西佐·恩卡拉指出，中国在金砖框架下推进技术和产业合作，正在为全球南方国家开辟实实在在的发展机遇。德国人工智能专家斯特凡·卢比希将习近平提出的新理念和新倡议描述为全球新兴产业发展的驱动力。迈向第三个金色十年 习近平在今年峰会上宣布，中国将于明年担任金砖国家轮值主席国并主办第十九届金砖国家峰会。在准备接棒之际，习近平表示中国愿“同各方一道规划未来”，“开启金砖合作的第三个金色十年”。当前的任务是将金砖国家日益增长的影响力和扩大的成员规模转化为更有效的合作和惠及全球南方的切实成果。俄罗斯亚太研究中心主任谢尔盖·萨纳科耶夫表示，他期待中国与全球南方国家一道，将开放包容、合作共赢的金砖精神转化为更加具体的成果。"
+    },
+    {
+      "id": 3,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-08/2026-CIFTIS-Where-China-services-meet-the-world--1QgQ5c9jEnm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "2026 CIFTIS: Where 'China services' meet the world",
+      "titleCn": "2026年服贸会：当“中国服务”遇见世界",
+      "summary": "The 2026 China International Fair for Trade in Services (CIFTIS) will be held at Beijing's Shougang Park from September 9 to 13, offering a window into the latest trends reshaping China's service trade.",
+      "summaryCn": "2026年中国国际服务贸易交易会在北京首钢园举办，展示了中国服务贸易向知识密集型、高附加值和创新驱动方向转型的最新趋势。",
+      "wordCount": 726,
+      "paragraphs": [
+        {
+          "en": "The 2026 China International Fair for Trade in Services (CIFTIS) will be held at Beijing's Shougang Park from September 9 to 13, offering a window into the latest trends {{0}} China's service trade. As the first national-level {{1}} exhibition for trade in services held in the opening year of the 15th Five-Year Plan period (2026-2030), this year's CIFTIS has {{2}} its exhibition format and service model. A total of 90 countries, regions and international organizations will {{3}} in the event, while more than 1,830 companies will attend the exhibitions offline, including 473 Fortune Global 500 companies and industry leaders. The fair will feature more than 190 forums, conferences and business {{4}} activities, alongside 74 supporting events and 11 business inspection routes. Knowledge-{{5}} services as a new engine\nKnowledge-intensive services have been increasingly driving China's service exports.",
+          "cn": "2026年中国国际服务贸易交易会（服贸会）将于9月9日至13日在北京首钢园举行，为人们了解重塑中国服务贸易的最新趋势提供了一个窗口。作为“十五五”规划开局之年（2026—2030年）举办的首个国家级综合性服务贸易展会，今年的服贸会升级了展览形式和服务模式。共有90个国家、地区和国际组织将参加此次活动，超过1830家企业将线下参展，其中包括473家《财富》世界500强企业和行业领军企业。本届服贸会将举办190多场论坛、会议和商务对接活动，以及74场配套活动和11条商务考察路线。知识密集型服务成为新引擎，知识密集型服务日益推动中国服务出口。"
+        },
+        {
+          "en": "In the first half of 2026, the country's total service imports and exports reached 3.8 trillion yuan (about $566.2 billion), up 8.3% year on year, according to the Ministry of Commerce. Among them, exports of intellectual property {{6}}, financial services, transport services, and telecommunications, computer and information services grew 44.3%, 25.9%, 25.4% and 10.9%, respectively. Knowledge-intensive services {{7}} for 53.5% of total service exports, increasing 3 percentage points from the end of 2025. The figures show that China's service trade is shifting toward higher-value-added and technology-intensive {{8}}, said Zhao Ruojin, an associate researcher at the Institute of International Service Trade under the Chinese Academy of International Trade and Economic Cooperation. From exporting products to delivering technologies and services\nThe Information and Communication Exhibition at this year's China International Fair for Trade in Services (CIFTIS).",
+          "cn": "据商务部数据，2026年上半年，我国服务进出口总额达到3.8万亿元人民币（约5662亿美元），同比增长8.3%。其中，知识产权使用费、金融服务、运输服务以及电信、计算机和信息服务出口分别增长44.3%、25.9%、25.4%和10.9%。知识密集型服务占服务出口总额的53.5%，较2025年底提高3个百分点。中国国际贸易经济合作研究院国际服务贸易研究所副研究员赵若锦表示，这些数据表明中国服务贸易正朝着更高附加值和科技密集型领域转变。从出口产品到输出技术与服务，今年中国国际服务贸易交易会的信息与通信展区。"
+        },
+        {
+          "en": "Wang Chulun\nThe transformation is closely linked to the deeper {{9}} of manufacturing and services. Chinese companies are increasingly moving from simply exporting goods to providing integrated technologies, solutions and full-cycle services. One example comes from the aviation maintenance sector in south China's Hainan Province. {{10}} the policy advantages of the Hainan Free Trade Port, the Haikou Airport Comprehensive Bonded Zone has established specialized aircraft and aero-engine maintenance facilities, {{11}} five leading aviation maintenance companies and holding 24 international maintenance licenses covering 19 countries and regions, as well as more than 2,300 component maintenance {{12}}. During this year's summer travel season, overseas aircraft arrived for maintenance.",
+          "cn": "王楚伦。这一转变与制造业和服务业更深层次的融合密切相关。中国企业正日益从单纯的商品出口转向提供集成技术、解决方案和全周期服务。一个例子来自中国南方海南省航空维修领域。依托海南自由贸易港的政策优势，海口空港综合保税区建立了专业的飞机和航空发动机维修设施，入驻了五家领先航空维修企业，持有覆盖19个国家和地区的24项国际维修许可证，以及2300多项部件维修认证。在今年暑运期间，境外飞机前来维修。"
+        },
+        {
+          "en": "\"Airlines from Qatar, Jordan, Thailand and Vietnam have become repeat customers,\" said Guo Luoyi, a business manager at Grand China Aviation Maintenance Co., Ltd., a subsidiary of HNA Technic, noting that overseas maintenance orders are expected to exceed 100 aircraft this year. \"China's service exports are shifting from traditional sectors such as engineering and transportation to the export of high value-added capabilities, including knowledge, creativity and other high value-added services,\" said Lin Xuejun, a professor at the International Business School of Jinan University. Lin said this transformation is driven by years of innovation {{13}}, with numerous research achievements, patents, and brands developed through new business models and emerging industries providing strong support for intellectual property-related service exports. Innovation will be another highlight of this year's fair. China views digitalization, intelligent technologies, and green development as key drivers of high-quality development and is promoting the application of big data, cloud computing and artificial intelligence (AI) across service trade, said Vice Minister of Commerce Yan Dong at a press conference briefing the media about CIFTIS in August.",
+          "cn": "“来自卡塔尔、约旦、泰国和越南的航空公司已成为回头客，”海航技术旗下大新华飞机维修服务有限公司业务经理郭洛屹表示，并指出今年海外维修订单预计将超过100架飞机。“中国服务出口正从工程和运输等传统领域转向知识、创意等高附加值能力的出口，”暨南大学国际商学院教授林学军表示。林学军说，这一转变由多年创新积累驱动，大量通过新商业模式和新兴产业形成的科研成果、专利和品牌为知识产权相关服务出口提供了有力支撑。创新将是今年服贸会的又一亮点。商务部副部长鄢东在8月就服贸会向媒体吹风时表示，中国将数字化、智能技术和绿色发展视为高质量发展的关键驱动力，并正在推动大数据、云计算和人工智能（AI）在服务贸易中的应用。"
+        },
+        {
+          "en": "More than 200 new products and achievements will be {{14}} at this year's CIFTIS, with over 100 making their global or China {{15}}, covering areas including information and communications, fintech, digital healthcare, smart education, and energy {{16}} and environmental protection. 'China services' expanding through innovation\nThe innovation-driven transformation will be showcased in the newly established “China services” exhibition zone, featuring 140 representative cases from domestic regions and enterprises across a broad range of service trade sectors. The demonstrated cases will highlight the expanding global reach of Chinese services, with solutions ranging from BeiDou-based space and time information services and cross-border trade platforms to international pharmaceutical research and development services and logistics solutions. Nearly 40% of the cases involve AI, large language models, or intelligent agents applied in fields such as legal services, digital trade, cultural tourism and quantum computing. The exhibition will also showcase the closer integration of services into manufacturing and daily life, with smart driving insurance, elderly-friendly digital solutions, and intelligent childcare platforms {{17}} how service innovation is {{18}} people more and more.",
+          "cn": "今年服贸会将发布200多项新产品和新成果，其中100多项为全球或中国首发，涵盖信息通信、金融科技、数字医疗、智慧教育以及节能环保等领域。“中国服务”通过创新不断拓展。创新驱动的转型将在新设立的“中国服务”展区得到展示，该展区汇集了来自国内各地区和企业的140个代表性案例，覆盖广泛的服务贸易领域。展示的案例将突出中国服务不断扩大的全球影响力，解决方案涵盖基于北斗的时空信息服务、跨境贸易平台、国际医药研发服务和物流解决方案等。近40%的案例涉及人工智能、大语言模型或智能体在法律服务、数字贸易、文化旅游和量子计算等领域的应用。展览还将展示服务与制造业及日常生活更紧密的融合，智能驾驶保险、适老化数字解决方案和智能育儿平台将展示服务创新如何越来越多地惠及民众。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "reshaping",
+          "hint": "v. 重塑",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "comprehensive",
+          "hint": "adj. 综合的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "upgraded",
+          "hint": "v. 升级",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "participate",
+          "hint": "v. 参与",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "matchmaking",
+          "hint": "n. 对接",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "intensive",
+          "hint": "adj. 密集的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "royalties",
+          "hint": "n. 使用费",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "accounted",
+          "hint": "v. 占（比例）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "segments",
+          "hint": "n. 领域",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "integration",
+          "hint": "n. 融合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "Leveraging",
+          "hint": "v. 利用",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "accommodating",
+          "hint": "v. 容纳",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "certifications",
+          "hint": "n. 认证",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "accumulation",
+          "hint": "n. 积累",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "unveiled",
+          "hint": "v. 发布",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "debut",
+          "hint": "n. 首次亮相",
           "difficulty": "hard"
         },
         {
           "id": 16,
-          "answer": "alternative",
-          "hint": "adj. 替代的",
+          "answer": "conservation",
+          "hint": "n. 保护",
           "difficulty": "medium"
         },
         {
           "id": 17,
+          "answer": "demonstrating",
+          "hint": "v. 展示",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "benefiting",
+          "hint": "v. 惠及",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "The 2026 China International Fair for Trade in Services (CIFTIS) will be held at Beijing's Shougang Park from September 9 to 13, offering a window into the latest trends reshaping China's service trade.\nAs the first national-level comprehensive exhibition for trade in services held in the opening year of the 15th Five-Year Plan period (2026-2030), this year's CIFTIS has upgraded its exhibition format and service model.\nA total of 90 countries, regions and international organizations will participate in the event, while more than 1,830 companies will attend the exhibitions offline, including 473 Fortune Global 500 companies and industry leaders. The fair will feature more than 190 forums, conferences and business matchmaking activities, alongside 74 supporting events and 11 business inspection routes.\nKnowledge-intensive services as a new engine\nKnowledge-intensive services have been increasingly driving China's service exports. In the first half of 2026, the country's total service imports and exports reached 3.8 trillion yuan (about $566.2 billion), up 8.3% year on year, according to the Ministry of Commerce.\nAmong them, exports of intellectual property royalties, financial services, transport services, and telecommunications, computer and information services grew 44.3%, 25.9%, 25.4% and 10.9%, respectively. Knowledge-intensive services accounted for 53.5% of total service exports, increasing 3 percentage points from the end of 2025.\nThe figures show that China's service trade is shifting toward higher-value-added and technology-intensive segments, said Zhao Ruojin, an associate researcher at the Institute of International Service Trade under the Chinese Academy of International Trade and Economic Cooperation.\nFrom exporting products to delivering technologies and services\nThe Information and Communication Exhibition at this year's China International Fair for Trade in Services (CIFTIS). Wang Chulun\nThe transformation is closely linked to the deeper integration of manufacturing and services. Chinese companies are increasingly moving from simply exporting goods to providing integrated technologies, solutions and full-cycle services.\nOne example comes from the aviation maintenance sector in south China's Hainan Province. Leveraging the policy advantages of the Hainan Free Trade Port, the Haikou Airport Comprehensive Bonded Zone has established specialized aircraft and aero-engine maintenance facilities, accommodating five leading aviation maintenance companies and holding 24 international maintenance licenses covering 19 countries and regions, as well as more than 2,300 component maintenance certifications.\nDuring this year's summer travel season, overseas aircraft arrived for maintenance.\n\"Airlines from Qatar, Jordan, Thailand and Vietnam have become repeat customers,\" said Guo Luoyi, a business manager at Grand China Aviation Maintenance Co., Ltd., a subsidiary of HNA Technic, noting that overseas maintenance orders are expected to exceed 100 aircraft this year.\n\"China's service exports are shifting from traditional sectors such as engineering and transportation to the export of high value-added capabilities, including knowledge, creativity and other high value-added services,\" said Lin Xuejun, a professor at the International Business School of Jinan University.\nLin said this transformation is driven by years of innovation accumulation, with numerous research achievements, patents, and brands developed through new business models and emerging industries providing strong support for intellectual property-related service exports.\nInnovation will be another highlight of this year's fair.\nChina views digitalization, intelligent technologies, and green development as key drivers of high-quality development and is promoting the application of big data, cloud computing and artificial intelligence (AI) across service trade, said Vice Minister of Commerce Yan Dong at a press conference briefing the media about CIFTIS in August.\nMore than 200 new products and achievements will be unveiled at this year's CIFTIS, with over 100 making their global or China debut, covering areas including information and communications, fintech, digital healthcare, smart education, and energy conservation and environmental protection.\n'China services' expanding through innovation\nThe innovation-driven transformation will be showcased in the newly established “China services” exhibition zone, featuring 140 representative cases from domestic regions and enterprises across a broad range of service trade sectors.\nThe demonstrated cases will highlight the expanding global reach of Chinese services, with solutions ranging from BeiDou-based space and time information services and cross-border trade platforms to international pharmaceutical research and development services and logistics solutions.\nNearly 40% of the cases involve AI, large language models, or intelligent agents applied in fields such as legal services, digital trade, cultural tourism and quantum computing.\nThe exhibition will also showcase the closer integration of services into manufacturing and daily life, with smart driving insurance, elderly-friendly digital solutions, and intelligent childcare platforms demonstrating how service innovation is benefiting people more and more.",
+      "fullTextCn": "2026年中国国际服务贸易交易会（服贸会）将于9月9日至13日在北京首钢园举行，为人们了解重塑中国服务贸易的最新趋势提供了一个窗口。作为“十五五”规划开局之年（2026—2030年）举办的首个国家级综合性服务贸易展会，今年的服贸会升级了展览形式和服务模式。共有90个国家、地区和国际组织将参加此次活动，超过1830家企业将线下参展，其中包括473家《财富》世界500强企业和行业领军企业。本届服贸会将举办190多场论坛、会议和商务对接活动，以及74场配套活动和11条商务考察路线。知识密集型服务成为新引擎，知识密集型服务日益推动中国服务出口。\n\n据商务部数据，2026年上半年，我国服务进出口总额达到3.8万亿元人民币（约5662亿美元），同比增长8.3%。其中，知识产权使用费、金融服务、运输服务以及电信、计算机和信息服务出口分别增长44.3%、25.9%、25.4%和10.9%。知识密集型服务占服务出口总额的53.5%，较2025年底提高3个百分点。中国国际贸易经济合作研究院国际服务贸易研究所副研究员赵若锦表示，这些数据表明中国服务贸易正朝着更高附加值和科技密集型领域转变。从出口产品到输出技术与服务，今年中国国际服务贸易交易会的信息与通信展区。\n\n王楚伦。这一转变与制造业和服务业更深层次的融合密切相关。中国企业正日益从单纯的商品出口转向提供集成技术、解决方案和全周期服务。一个例子来自中国南方海南省航空维修领域。依托海南自由贸易港的政策优势，海口空港综合保税区建立了专业的飞机和航空发动机维修设施，入驻了五家领先航空维修企业，持有覆盖19个国家和地区的24项国际维修许可证，以及2300多项部件维修认证。在今年暑运期间，境外飞机前来维修。\n\n“来自卡塔尔、约旦、泰国和越南的航空公司已成为回头客，”海航技术旗下大新华飞机维修服务有限公司业务经理郭洛屹表示，并指出今年海外维修订单预计将超过100架飞机。“中国服务出口正从工程和运输等传统领域转向知识、创意等高附加值能力的出口，”暨南大学国际商学院教授林学军表示。林学军说，这一转变由多年创新积累驱动，大量通过新商业模式和新兴产业形成的科研成果、专利和品牌为知识产权相关服务出口提供了有力支撑。创新将是今年服贸会的又一亮点。商务部副部长鄢东在8月就服贸会向媒体吹风时表示，中国将数字化、智能技术和绿色发展视为高质量发展的关键驱动力，并正在推动大数据、云计算和人工智能（AI）在服务贸易中的应用。\n\n今年服贸会将发布200多项新产品和新成果，其中100多项为全球或中国首发，涵盖信息通信、金融科技、数字医疗、智慧教育以及节能环保等领域。“中国服务”通过创新不断拓展。创新驱动的转型将在新设立的“中国服务”展区得到展示，该展区汇集了来自国内各地区和企业的140个代表性案例，覆盖广泛的服务贸易领域。展示的案例将突出中国服务不断扩大的全球影响力，解决方案涵盖基于北斗的时空信息服务、跨境贸易平台、国际医药研发服务和物流解决方案等。近40%的案例涉及人工智能、大语言模型或智能体在法律服务、数字贸易、文化旅游和量子计算等领域的应用。展览还将展示服务与制造业及日常生活更紧密的融合，智能驾驶保险、适老化数字解决方案和智能育儿平台将展示服务创新如何越来越多地惠及民众。"
+    },
+    {
+      "id": 4,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-16/China-ASEAN-cooperation-gains-momentum-through-shared-opportunities-1Qu40IZAI9O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "China-ASEAN cooperation gains momentum through shared opportunities",
+      "titleCn": "中国—东盟合作借共享机遇势头强劲",
+      "summary": "China-ASEAN ties are deepening, with trade serving as a key driver of broader cooperation in investment, infrastructure, people-to-people exchanges and regional supply chains. The two sides have been each other's largest trading partners for several consecutive years, with bilateral trade surpassing $1 trillion for the first time in 2025.",
+      "summaryCn": "中国与东盟贸易持续增长，双方迎来全面战略伙伴关系五周年，并通过东博会等平台深化投资、基础设施、人文交流及区域供应链合作。",
+      "wordCount": 711,
+      "paragraphs": [
+        {
+          "en": "Nanning welcomes the 23rd China-ASEAN Expo and China-ASEAN Business and Investment Summit, Guangxi Zhuang Autonomous Region, south China, September 15, 2026. \"The number of durian containers in the first seven months has almost matched the total for all of last year,\" said Li Qianchang, native of Pingxiang, a border county in south China's Guangxi Zhuang Autonomous Region, who has been {{1}} fruits since joining his current company in 2020. For Li, the growing trade between China and the Association of South East Asian Nations (ASEAN) can be read from a tally board hanging at the entrance to his office. The trend is part of a broader {{2}} in China-ASEAN cooperation. In the first seven months of this year, Guangxi's imports from ASEAN reached 62.84 billion yuan ($9.4 billion), up 19% year on year.",
+          "cn": "2026年9月15日，中国广西壮族自治区南宁市迎来第23届中国—东盟博览会和中国—东盟商务与投资峰会。“今年前七个月的榴莲集装箱数量几乎与去年全年总量持平，”来自中国南部广西壮族自治区边境县凭祥的李乾昌说。他自2020年加入现公司以来一直从事水果贸易。对李乾昌而言，中国与东南亚国家联盟（东盟）之间不断增长的贸易可以从他办公室入口处挂着的计数板上看出来。这一趋势是中国—东盟合作更广泛扩展的一部分。今年前七个月，广西从东盟的进口额达到628.4亿元人民币（94亿美元），同比增长19%。"
+        },
+        {
+          "en": "Among major import categories, imports of {{3}} products rose 23.8%, while those of metal ores and {{4}} increased 3.4%. Across the region, China-ASEAN ties are {{5}}, with trade serving as a key driver of broader cooperation in investment, {{6}}, people-to-people exchanges and regional supply chains. The two sides have been each other's largest trading partners for several {{7}} years, with {{8}} trade {{9}} $1 trillion for the first time in 2025. Stronger ties fuel trade growth\nThis year marks the fifth {{10}} of the China-ASEAN Comprehensive Strategic Partnership. Officials from China and ASEAN member states gathered in Beijing on Tuesday to commemorate the {{12}}.",
+          "cn": "在主要进口类别中，机电产品进口增长23.8%，金属矿及矿砂进口增长3.4%。在整个地区，中国—东盟关系正在加深，贸易成为投资、基础设施、人文交流和区域供应链等更广泛合作的关键驱动力。双方已连续多年互为最大贸易伙伴，2025年双边贸易额首次超过1万亿美元。更紧密的关系推动贸易增长。今年是中国—东盟全面战略伙伴关系建立五周年。周二，中国和东盟成员国官员齐聚北京，纪念这一里程碑。"
+        },
+        {
+          "en": "\"The partnership had proven its value over the past five years by bringing {{13}} benefits to more than 2 billion people and contributing to peace, stability and {{14}} in the region,\" said ASEAN Secretary-General Kao Kim Hourn at the event. From the establishment of dialogue relations in 1991 to the {{15}} of ties to a {{11}} strategic partnership in 2021, China and ASEAN have developed close and {{16}} links. China has made significant advances in areas such as artificial intelligence (AI), electric vehicles and {{17}} energy, where it has strong capabilities, said Destarata Mustafa, counsellor for political affairs at the Indonesian Embassy in Beijing. \"We hope to expand cooperation with China in these fields.\"\nVietnamese Ambassador to China Pham Thanh Binh, whose country currently chairs the ASEAN Committee in Beijing, said bilateral trade rose 25.6% year on year in the first eight months of 2026 to more than $862 billion. The figures, he said, {{18}} the depth of ties between the two sides and their shared development opportunities, calling for the comprehensive strategic partnership to continue producing tangible benefits for businesses and people.",
+          "cn": "东盟秘书长高金洪在活动上表示：“过去五年，这一伙伴关系证明了其价值，为超过20亿人带来了实实在在的利益，并为地区和平、稳定与繁荣作出了贡献。”从1991年建立对话关系，到2021年将关系提升为全面战略伙伴关系，中国和东盟已发展出密切而多方面的联系。印度尼西亚驻北京大使馆政治事务参赞德斯塔拉塔·穆斯塔法表示，中国在人工智能、电动汽车和可再生能源等领域取得了重大进展，并在这些领域拥有强大能力。“我们希望在这些领域扩大与中国的合作。”越南驻华大使范清平表示，2026年前八个月，双边贸易额同比增长25.6%，超过8620亿美元。他说，这些数字表明双方关系的深度以及共同的发展机遇，并呼吁全面战略伙伴关系继续为企业 and 人民带来实实在在的利益。"
+        },
+        {
+          "en": "The venue for the China-ASEAN Expo, Nanning, Guangxi Zhuang Autonomous Region, south China, September 15, 2026. China-ASEAN Expo opens new avenues for cooperation\nThe {{19}} 23rd China-ASEAN Expo and China-ASEAN Business and Investment Summit in Nanning, Guangxi, will provide another platform for that cooperation. This year's expo will feature several firsts, reflecting an increasing emphasis on technology, two-way demand and business participation. For the first time, the expo will establish exhibition areas dedicated to the future and the growth of sci-tech companies, where {{20}} products and newly launched innovations will be {{21}}. A new exhibition area will also focus on the needs of ASEAN countries, shifting the emphasis from what Chinese companies can offer to what ASEAN markets are looking for, including technologies and applications.",
+          "cn": "2026年9月15日，中国广西壮族自治区南宁市，中国—东盟博览会举办地。中国—东盟博览会开辟合作新途径。即将在广西南宁举行的第23届中国—东盟博览会和中国—东盟商务与投资峰会将为这种合作提供另一个平台。今年的博览会将有多个“首次”，反映出对技术、双向需求和商业参与的日益重视。博览会将首次设立面向未来和科技企业成长的展区，展示前沿产品和新近推出的创新成果。新的展区还将聚焦东盟国家的需求，将重点从中国企业能提供什么转向东盟市场正在寻找什么，包括技术和应用。"
+        },
+        {
+          "en": "Another new format will see leading companies bring their upstream and downstream small and medium-sized enterprises to the expo, giving specialized and innovative firms greater exposure to international markets. AI will be another major feature of this year's expo. For the first time, the event will set up a sector featuring a range of AI hardware and software products, while showcasing AI applications in areas including finance and cross-border financial services. More than 400 new products, including the Tianzhu-1 satellite, and over 100 new technologies are expected to make their debut at the event. The expo will also host, for the first time, a special session displaying Thai products for the Chinese market, along with a China-ASEAN AI matchmaking event and a high-level dialogue on coordinated development under the Regional Comprehensive Economic Partnership (RCEP) and the China-ASEAN Free Trade Area.",
+          "cn": "另一种新形式将让龙头企业带领其上下游中小企业参加博览会，使专业化、创新型企业在国际市场上获得更多曝光。人工智能将是今年博览会的另一大特色。活动将首次设立一个展区，展示一系列人工智能硬件和软件产品，同时展示人工智能在金融和跨境金融服务等领域的应用。包括“天竺一号”卫星在内的400多种新产品和100多项新技术预计将在活动上首次亮相。博览会还将首次举办专门展示面向中国市场的泰国产品的特别会议，以及中国—东盟人工智能对接活动和关于《区域全面经济伙伴关系协定》（RCEP）与中国—东盟自由贸易区协同发展的高级别对话。"
+        },
+        {
+          "en": "The new initiatives {{22}} a shift toward making trade and business the core of the expo, companies the main participants and practical applications a key feature.",
+          "cn": "这些新举措凸显了一种转变，即让贸易和商业成为博览会的核心，让企业成为主要参与者，让实际应用成为关键特色。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "trading",
+          "hint": "v. 从事贸易（现在分词）",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "expansion",
+          "hint": "n. 扩展；扩张",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "electromechanical",
+          "hint": "adj. 机电的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "concentrates",
+          "hint": "n. 精矿（复数）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "deepening",
+          "hint": "v. 加深（现在分词）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "consecutive",
+          "hint": "adj. 连续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "bilateral",
+          "hint": "adj. 双边的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "surpassing",
+          "hint": "v. 超过（现在分词）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "anniversary",
+          "hint": "n. 周年纪念",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "comprehensive",
+          "hint": "adj. 全面的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "milestone",
+          "hint": "n. 里程碑",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "tangible",
+          "hint": "adj. 切实的；有形的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "prosperity",
+          "hint": "n. 繁荣",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "elevation",
+          "hint": "n. 提升；升级",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "multifaceted",
+          "hint": "adj. 多方面的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "renewable",
+          "hint": "adj. 可再生的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "demonstrate",
+          "hint": "v. 表明；证明",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "upcoming",
+          "hint": "adj. 即将到来的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
+          "answer": "cutting-edge",
+          "hint": "adj. 前沿的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "showcased",
+          "hint": "v. 展示（过去分词）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "underscore",
+          "hint": "v. 强调；凸显",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Nanning welcomes the 23rd China-ASEAN Expo and China-ASEAN Business and Investment Summit, Guangxi Zhuang Autonomous Region, south China, September 15, 2026. \n\"The number of durian containers in the first seven months has almost matched the total for all of last year,\" said Li Qianchang, native of Pingxiang, a border county in south China's Guangxi Zhuang Autonomous Region, who has been trading fruits since joining his current company in 2020.\nFor Li, the growing trade between China and the Association of South East Asian Nations (ASEAN) can be read from a tally board hanging at the entrance to his office.\nThe trend is part of a broader expansion in China-ASEAN cooperation. In the first seven months of this year, Guangxi's imports from ASEAN reached 62.84 billion yuan ($9.4 billion), up 19% year on year. Among major import categories, imports of electromechanical products rose 23.8%, while those of metal ores and concentrates increased 3.4%.\nAcross the region, China-ASEAN ties are deepening, with trade serving as a key driver of broader cooperation in investment, infrastructure, people-to-people exchanges and regional supply chains. The two sides have been each other's largest trading partners for several consecutive years, with bilateral trade surpassing $1 trillion for the first time in 2025.\nStronger ties fuel trade growth\nThis year marks the fifth anniversary of the China-ASEAN Comprehensive Strategic Partnership. Officials from China and ASEAN member states gathered in Beijing on Tuesday to commemorate the milestone.\n\"The partnership had proven its value over the past five years by bringing tangible benefits to more than 2 billion people and contributing to peace, stability and prosperity in the region,\" said ASEAN Secretary-General Kao Kim Hourn at the event.\nFrom the establishment of dialogue relations in 1991 to the elevation of ties to a comprehensive strategic partnership in 2021, China and ASEAN have developed close and multifaceted links.\nChina has made significant advances in areas such as artificial intelligence (AI), electric vehicles and renewable energy, where it has strong capabilities, said Destarata Mustafa, counsellor for political affairs at the Indonesian Embassy in Beijing. \"We hope to expand cooperation with China in these fields.\"\nVietnamese Ambassador to China Pham Thanh Binh, whose country currently chairs the ASEAN Committee in Beijing, said bilateral trade rose 25.6% year on year in the first eight months of 2026 to more than $862 billion.\nThe figures, he said, demonstrate the depth of ties between the two sides and their shared development opportunities, calling for the comprehensive strategic partnership to continue producing tangible benefits for businesses and people.\nThe venue for the China-ASEAN Expo, Nanning, Guangxi Zhuang Autonomous Region, south China, September 15, 2026. \nChina-ASEAN Expo opens new avenues for cooperation\nThe upcoming 23rd China-ASEAN Expo and China-ASEAN Business and Investment Summit in Nanning, Guangxi, will provide another platform for that cooperation.\nThis year's expo will feature several firsts, reflecting an increasing emphasis on technology, two-way demand and business participation.\nFor the first time, the expo will establish exhibition areas dedicated to the future and the growth of sci-tech companies, where cutting-edge products and newly launched innovations will be showcased.\nA new exhibition area will also focus on the needs of ASEAN countries, shifting the emphasis from what Chinese companies can offer to what ASEAN markets are looking for, including technologies and applications.\nAnother new format will see leading companies bring their upstream and downstream small and medium-sized enterprises to the expo, giving specialized and innovative firms greater exposure to international markets.\nAI will be another major feature of this year's expo. For the first time, the event will set up a sector featuring a range of AI hardware and software products, while showcasing AI applications in areas including finance and cross-border financial services.\nMore than 400 new products, including the Tianzhu-1 satellite, and over 100 new technologies are expected to make their debut at the event.\nThe expo will also host, for the first time, a special session displaying Thai products for the Chinese market, along with a China-ASEAN AI matchmaking event and a high-level dialogue on coordinated development under the Regional Comprehensive Economic Partnership (RCEP) and the China-ASEAN Free Trade Area.\nThe new initiatives underscore a shift toward making trade and business the core of the expo, companies the main participants and practical applications a key feature.",
+      "fullTextCn": "2026年9月15日，中国广西壮族自治区南宁市迎来第23届中国—东盟博览会和中国—东盟商务与投资峰会。“今年前七个月的榴莲集装箱数量几乎与去年全年总量持平，”来自中国南部广西壮族自治区边境县凭祥的李乾昌说。他自2020年加入现公司以来一直从事水果贸易。对李乾昌而言，中国与东南亚国家联盟（东盟）之间不断增长的贸易可以从他办公室入口处挂着的计数板上看出来。这一趋势是中国—东盟合作更广泛扩展的一部分。今年前七个月，广西从东盟的进口额达到628.4亿元人民币（94亿美元），同比增长19%。\n\n在主要进口类别中，机电产品进口增长23.8%，金属矿及矿砂进口增长3.4%。在整个地区，中国—东盟关系正在加深，贸易成为投资、基础设施、人文交流和区域供应链等更广泛合作的关键驱动力。双方已连续多年互为最大贸易伙伴，2025年双边贸易额首次超过1万亿美元。更紧密的关系推动贸易增长。今年是中国—东盟全面战略伙伴关系建立五周年。周二，中国和东盟成员国官员齐聚北京，纪念这一里程碑。\n\n东盟秘书长高金洪在活动上表示：“过去五年，这一伙伴关系证明了其价值，为超过20亿人带来了实实在在的利益，并为地区和平、稳定与繁荣作出了贡献。”从1991年建立对话关系，到2021年将关系提升为全面战略伙伴关系，中国和东盟已发展出密切而多方面的联系。印度尼西亚驻北京大使馆政治事务参赞德斯塔拉塔·穆斯塔法表示，中国在人工智能、电动汽车和可再生能源等领域取得了重大进展，并在这些领域拥有强大能力。“我们希望在这些领域扩大与中国的合作。”越南驻华大使范清平表示，2026年前八个月，双边贸易额同比增长25.6%，超过8620亿美元。他说，这些数字表明双方关系的深度以及共同的发展机遇，并呼吁全面战略伙伴关系继续为企业 and 人民带来实实在在的利益。\n\n2026年9月15日，中国广西壮族自治区南宁市，中国—东盟博览会举办地。中国—东盟博览会开辟合作新途径。即将在广西南宁举行的第23届中国—东盟博览会和中国—东盟商务与投资峰会将为这种合作提供另一个平台。今年的博览会将有多个“首次”，反映出对技术、双向需求和商业参与的日益重视。博览会将首次设立面向未来和科技企业成长的展区，展示前沿产品和新近推出的创新成果。新的展区还将聚焦东盟国家的需求，将重点从中国企业能提供什么转向东盟市场正在寻找什么，包括技术和应用。\n\n另一种新形式将让龙头企业带领其上下游中小企业参加博览会，使专业化、创新型企业在国际市场上获得更多曝光。人工智能将是今年博览会的另一大特色。活动将首次设立一个展区，展示一系列人工智能硬件和软件产品，同时展示人工智能在金融和跨境金融服务等领域的应用。包括“天竺一号”卫星在内的400多种新产品和100多项新技术预计将在活动上首次亮相。博览会还将首次举办专门展示面向中国市场的泰国产品的特别会议，以及中国—东盟人工智能对接活动和关于《区域全面经济伙伴关系协定》（RCEP）与中国—东盟自由贸易区协同发展的高级别对话。\n\n这些新举措凸显了一种转变，即让贸易和商业成为博览会的核心，让企业成为主要参与者，让实际应用成为关键特色。"
+    },
+    {
+      "id": 5,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-16/China-s-top-diplomat-holds-talks-with-Iranian-FM-1QtR93WHzfG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Wang Yi: China encourages Iran, US to return to Islamabad MoU",
+      "titleCn": "王毅：中国鼓励伊朗和美国重返伊斯兰堡谅解备忘录",
+      "summary": "Chinese Foreign Minister Wang Yi held talks with Minister of Foreign Affairs of Iran Seyyed Abbas Araghchi on Wednesday in Beijing, encouraging Iran and the United States to stay rational and exercise restraint, and return to the Islamabad Memorandum of Understanding (MoU) at an early date.",
+      "summaryCn": "中国外交部长王毅在北京与伊朗外长阿拉格齐会谈，鼓励伊朗与美国保持理性克制、早日重返伊斯兰堡谅解备忘录，并呼吁各方采取措施开放霍尔木兹海峡、通过对话协商解决中东问题。",
+      "wordCount": 678,
+      "paragraphs": [
+        {
+          "en": "Chinese Foreign Minister Wang Yi (R), also a member of the Political Bureau of the Communist Party of China Central Committee, holds talks with Minister of Foreign Affairs of Iran Seyyed Abbas Araghchi in Beijing, China, September 16, 2026. Chinese Foreign Minister Wang Yi held talks with Minister of Foreign Affairs of Iran Seyyed Abbas Araghchi on Wednesday in Beijing, encouraging Iran and the United States to stay {{0}} and exercise {{1}}, and return to the Islamabad Memorandum of Understanding (MoU) at an early date. Wang, also a member of the Political Bureau of the Communist Party of China Central Committee, noted China, as a permanent member of the UN Security Council, is willing to play a {{2}} role in resolving international {{3}}. Noting that China and Iran are {{4}} strategic partners, he said China is ready to work with Iran to strengthen dialogue and cooperation, and {{10}} Iran's {{5}} rights and interests. Wang said the continued {{6}} of the US-Iran conflict is not in the common interest of the parties concerned and the international community. China encourages Iran and the US to rebuild the negotiation mechanism on the basis of the {{7}} reached so far, and conduct {{8}} consultations on issues of respective concern, Wang said, adding that China supports Iran in engaging in dialogue with Gulf states, respecting each other's territorial {{9}} and national security, and safeguarding the shared regional interests in a constructive manner.",
+          "cn": "中国外交部长、中共中央政治局委员王毅（右）于2026年9月16日在中国北京与伊朗外交部长赛义德·阿巴斯·阿拉格齐举行会谈。中国外交部长王毅周三在北京与伊朗外交部长赛义德·阿巴斯·阿拉格齐举行会谈，鼓励伊朗和美国保持理性、保持克制，并早日重返伊斯兰堡谅解备忘录。王毅同时也是中共中央政治局委员，他指出，中国作为联合国安理会常任理事国，愿意为解决国际争端发挥建设性作用。他指出，中国和伊朗是全面战略伙伴，并表示中国愿与伊朗一道加强对话与合作，维护伊朗的正当权益。王毅表示，美伊冲突持续延长不符合有关各方和国际社会的共同利益。王毅说，中国鼓励伊朗和美国在迄今达成的共识基础上重建谈判机制，就各自关心的问题进行实质性磋商，并补充说，中国支持伊朗与海湾国家开展对话，尊重彼此的领土主权和国家安全，并以建设性方式维护地区共同利益。"
+        },
+        {
+          "en": "China urges all parties to take effective measures to open the Strait of Hormuz at an early date, safeguard the smooth and safe operation of international shipping routes, and maintain the {{11}} of international energy transport, as well as global industrial and supply chains, he said. \"We do not wish to see regional {{12}} spill over further into Yemen and the Red Sea,\" the Chinese foreign minister said, calling on all parties to {{13}} from further complicating the situation and resolve issues through dialogue and negotiation. Wang pointed out that current developments have once again proven that the existing security architecture in the Middle East is {{14}}, calling for reform and {{15}}. During his visit to Egypt, Chinese President Xi Jinping raised a four-point proposal on building a new security architecture in the Middle East via upholding a vision of common, comprehensive, cooperative and {{16}} security, Wang said, adding that China welcomes useful explorations by regional countries in this regard. On Middle East issues, China, as a responsible major country, will as always contribute to peace and stability, promote peace talks, and uphold fairness and justice, Wang said. Wang said China's policy toward Iran maintains continuity and consistency, adding that China always upholds justice, opposes the use of force, and safeguards the norms governing international relations within the UN Security Council and other multilateral platforms.",
+          "cn": "他说，中国敦促各方采取有效措施，早日开放霍尔木兹海峡，保障国际航运通道的畅通和安全运行，维护国际能源运输以及全球产业链和供应链的稳定。这位中国外交部长说：“我们不希望看到地区紧张局势进一步蔓延到也门和红海，”并呼吁各方避免使局势进一步复杂化，通过对话和谈判解决问题。王毅指出，当前事态发展再次证明，中东现有的安全架构不足，呼吁进行改革和加强。王毅说，中国国家主席习近平在访问埃及期间提出了关于建设中东新安全架构的四点主张，即坚持共同、综合、合作、可持续的安全观，并补充说中国欢迎地区国家在这方面进行有益探索。王毅说，在中东问题上，中国作为负责任的大国，将一如既往地为和平与稳定作出贡献，推动和谈，维护公平正义。王毅表示，中国对伊朗的政策保持连续性和一致性，并补充说，中国始终秉持公正，反对使用武力，并在联合国安理会和其他多边平台上维护国际关系准则。"
+        },
+        {
+          "en": "China stands ready to step up communication and {{17}} with Iran to deliver new progress in China‑Iran relations, he added. Briefing on the latest situation in the Middle East as well as Iran's considerations for the next steps, Araghchi said Iran does not wish for the conflict to drag on and hopes to return to diplomatic channels, while resolutely safeguarding its own rights and interests. Iran holds that the US‑Iran MoU remains valid, and has reached an agreement with Oman on a plan to reopen the Strait of Hormuz, he said, adding that the US should earnestly honor all its {{18}}. The Iranian side also stands ready to engage in dialogue and consultation with regional countries, establish and develop good-neighborly and friendly relations, and promote the early restoration of peace and tranquility in the region, said Araghchi. He said Iran welcomes and supports President Xi's four‑point proposal, and is ready to work with China to strengthen cooperation, and looks forward to China playing a greater role in promoting regional peace and stability. Iran attaches great importance to its relations with China and stands ready to continue mutual support, maintain close exchanges at all levels, deepen practical cooperation, jointly address challenges, and push for the sustained and in-depth development of bilateral ties, said the Iranian foreign minister.",
+          "cn": "他补充说，中国愿与伊朗加强沟通协调，推动中伊关系取得新进展。阿拉格齐在通报中东最新局势以及伊朗对下一步的考虑时说，伊朗不希望冲突拖延下去，希望回到外交渠道，同时坚决维护自身权益。他说，伊朗认为美伊谅解备忘录仍然有效，并已与阿曼就重新开放霍尔木兹海峡的计划达成一致，并补充说美国应切实履行其所有承诺。阿拉格齐说，伊方也愿与地区国家开展对话协商，建立和发展睦邻友好关系，推动地区早日恢复和平与安宁。他说，伊朗欢迎并支持习近平主席的四点主张，愿与中国加强合作，并期待中国在促进地区和平与稳定方面发挥更大作用。这位伊朗外交部长说，伊朗高度重视与中国的关系，愿继续相互支持，保持各级别密切交流，深化务实合作，共同应对挑战，推动双边关系持续深入发展。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "rational",
+          "hint": "adj. 理性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "restraint",
+          "hint": "n. 克制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "constructive",
+          "hint": "adj. 建设性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "disputes",
+          "hint": "n. 争端",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "comprehensive",
+          "hint": "adj. 全面的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "legitimate",
+          "hint": "adj. 合法的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "prolongation",
+          "hint": "n. 延长",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "consensus",
+          "hint": "n. 共识",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "substantive",
+          "hint": "adj. 实质性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
           "answer": "sovereignty",
           "hint": "n. 主权",
           "difficulty": "hard"
         },
         {
+          "id": 10,
+          "answer": "safeguard",
+          "hint": "v. 保障",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "stability",
+          "hint": "n. 稳定",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "tensions",
+          "hint": "n. 紧张局势",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "refrain",
+          "hint": "v. 避免",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "inadequate",
+          "hint": "adj. 不足的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "reinforcement",
+          "hint": "n. 加强",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
           "id": 18,
-          "answer": "confrontation",
-          "hint": "n. 对抗",
-          "difficulty": "hard"
-        },
-        {
-          "id": 19,
-          "answer": "upheld",
-          "hint": "v. 坚持",
-          "difficulty": "hard"
-        },
-        {
-          "id": 20,
-          "answer": "irreplaceable",
-          "hint": "adj. 不可替代的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 21,
-          "answer": "consolidate",
-          "hint": "v. 巩固",
-          "difficulty": "hard"
+          "answer": "commitments",
+          "hint": "n. 承诺",
+          "difficulty": "medium"
         }
       ],
-      "fullText": "(ECNS）-- Experts and officials from more than100 countries have widely acknowledged the pivotal role of the Beijing Xiangshan Forum, which officially opened in Beijing on Wednesday.\nIn an interview with China News Network, Li Shuyin, director of the Secretariat Office of the Beijing Xiangshan Forum, noted that the forum provides an equal platform for all participating nations, regardless of their size, strength or economic status.\nOver the past two decades, it has been committed to bridging differences through communication and advancing international cooperation via inclusive dialogue, she added.\n“This consistent philosophy has steadily strengthened the forum’s influence, appeal and consensus-building capacity for global stability,” Li said.\nShe pointed out that since its launch in 2006, the forum has adhered to the principles of equality, openness, inclusiveness and mutual learning, and has grown into a major platform for global security dialogue.\nJean Christophe Baron von Pfetten, chairman of the Royal Institute for East West Strategic Studies in the UK, quoted Confucius’ maxim of “seeking harmony without uniformity” to praise the forum, saying that “China is truly an engine for world peace.”\n“The forum is trying to make people have better dialogue together to find a solution. This is what we need. China is the only country to do that,” he added.\n“With this platform, we can always promote that multilateralism so that we can bring every dispute, every problem to the table and into the dialogue, where we can fully manage differences and also manage the common interest,” said Shaftdean Lufty, senior director comprehensive security of the Malaysian Institute of Defence and Security.\nAs a first-time attendee of the forum, Rabb Majumder, editor and publisher of The Security in Bangladesh said he believed it would play a very vital role in resolving major global issues, because he thought that this forum would provide a platform or all peace-loving people.\nDuring the forum, international representatives also hailed China’s role in global governance.\n“Unilateral tariffs, use of force outside international law -- we witness this every single day. The Global Governance Initiative (GGI) brings us some kind of alternative narrative and an alternative approach to seeing the world,” said Carlos Branco, former director of cooperation and regional security at NATO International Military Staff.\n“If we analyze the five factors of the GGI, three of them are basically the fundamentals of the United Nations charter: sovereignty, international rule of law, and multilateralism,” he said, adding that countries need to adhere to these basic principles if humanity wants to move forward avoid global confrontation, and prevent conflicts between major powers.\nAhmed Al-Garni, vice president of Rasanah International Institute for Iranian Studies as well as former strategic advisor to the Minister of Defense of the Kingdom of Saudi Arabia, said China has long upheld solving issues through dialogue and consultation, and the communication channels it has built are irreplaceable.\nMarking its 20th anniversary, the forum strives to build an equal, inclusive and diverse platform for constructive dialogue, helping all participants consolidate consensus, enhance mutual trust and pool wisdom to tackle global security and development challenges.\nThemed \"Build Consensus on Stability, Advance Security Governance Together,\" the Beijing Xiangshan Forum, which runs from Tuesday to Thursday, has brought together about 2,000 official representatives, scholars, experts and observers from almost 100 countries, regions and international organizations.",
-      "fullTextCn": "（中新社）——来自100多个国家的专家学者和官员广泛认可北京香山论坛的关键作用。该论坛于周三在北京正式开幕。在接受中国新闻网采访时，北京香山论坛秘书处办公室主任李淑银指出，论坛为所有参与国提供平等平台，不论其大小、强弱或经济地位如何。她补充说，过去二十年来，论坛始终致力于通过沟通弥合分歧，通过包容性对话推进国际合作。“这一贯的理念不断增强论坛的影响力、吸引力和凝聚全球稳定的共识构建能力，”李淑银说。她指出，自2006年创办以来，论坛秉持平等、开放、包容、互鉴的原则，已发展成为全球安全对话的重要平台。\n\n英国皇家东西方战略研究所主席让·克里斯托夫·巴龙·冯·普费滕引用孔子“和而不同”的名言赞扬该论坛，称“中国确实是世界和平的引擎”。他补充说：“论坛试图让人们更好地对话，共同寻找解决方案。这正是我们所需要的。中国是唯一这样做的国家。”马来西亚国防与安全研究所综合安全高级主任沙夫迪安·卢夫蒂表示：“有了这个平台，我们始终可以推动多边主义，从而将每一个争端、每一个问题都摆到桌面上、纳入对话之中，让我们能够充分管控分歧，也能管控共同利益。”作为首次参加论坛的代表，孟加拉国《安全》杂志编辑兼出版人拉布·马宗达表示，他相信论坛将在解决重大全球问题上发挥极其重要的作用，因为他认为论坛将为所有爱好和平的人们提供一个平台。\n\n论坛期间，国际代表也盛赞中国在全球治理中的作用。北约国际军事参谋部前合作与地区安全主任卡洛斯·布兰科表示：“单边关税、在国际法之外使用武力——我们每天都能目睹这些。全球治理倡议为我们带来了某种替代性叙事和看待世界的替代性路径。”他说：“如果我们分析全球治理倡议的五大要素，其中三个基本上是《联合国宪章》的根本原则：主权、国际法治和多边主义。”他补充说，如果人类想要向前迈进、避免全球对抗、防止大国之间发生冲突，各国就需要坚持这些基本原则。伊朗研究国际研究所副主席、沙特阿拉伯王国国防部前战略顾问艾哈迈德·阿尔-加尔尼表示，中国长期以来坚持通过对话协商解决问题，其建立的沟通渠道不可替代。\n\n值此二十周年之际，论坛致力于打造平等、包容、多元的建设性对话平台，帮助所有参与者凝聚共识、增进互信、汇聚智慧，共同应对全球安全与发展挑战。本届北京香山论坛以“共筑和平、共享未来”为主题，于周二至周四举行，汇聚了来自近100个国家和地区及国际组织的约2000名官方代表、学者、专家和观察员。"
+      "fullText": "Chinese Foreign Minister Wang Yi (R), also a member of the Political Bureau of the Communist Party of China Central Committee, holds talks with Minister of Foreign Affairs of Iran Seyyed Abbas Araghchi in Beijing, China, September 16, 2026. \nChinese Foreign Minister Wang Yi held talks with Minister of Foreign Affairs of Iran Seyyed Abbas Araghchi on Wednesday in Beijing, encouraging Iran and the United States to stay rational and exercise restraint, and return to the Islamabad Memorandum of Understanding (MoU) at an early date.\nWang, also a member of the Political Bureau of the Communist Party of China Central Committee, noted China, as a permanent member of the UN Security Council, is willing to play a constructive role in resolving international disputes.\nNoting that China and Iran are comprehensive strategic partners, he said China is ready to work with Iran to strengthen dialogue and cooperation, and safeguard Iran's legitimate rights and interests.\nWang said the continued prolongation of the US-Iran conflict is not in the common interest of the parties concerned and the international community.\nChina encourages Iran and the US to rebuild the negotiation mechanism on the basis of the consensus reached so far, and conduct substantive consultations on issues of respective concern, Wang said, adding that China supports Iran in engaging in dialogue with Gulf states, respecting each other's territorial sovereignty and national security, and safeguarding the shared regional interests in a constructive manner.\nChina urges all parties to take effective measures to open the Strait of Hormuz at an early date, safeguard the smooth and safe operation of international shipping routes, and maintain the stability of international energy transport, as well as global industrial and supply chains, he said.\n\"We do not wish to see regional tensions spill over further into Yemen and the Red Sea,\" the Chinese foreign minister said, calling on all parties to refrain from further complicating the situation and resolve issues through dialogue and negotiation.\nWang pointed out that current developments have once again proven that the existing security architecture in the Middle East is inadequate, calling for reform and reinforcement.\nDuring his visit to Egypt, Chinese President Xi Jinping raised a four-point proposal on building a new security architecture in the Middle East via upholding a vision of common, comprehensive, cooperative and sustainable security, Wang said, adding that China welcomes useful explorations by regional countries in this regard.\nOn Middle East issues, China, as a responsible major country, will as always contribute to peace and stability, promote peace talks, and uphold fairness and justice, Wang said.\nWang said China's policy toward Iran maintains continuity and consistency, adding that China always upholds justice, opposes the use of force, and safeguards the norms governing international relations within the UN Security Council and other multilateral platforms.\nChina stands ready to step up communication and coordination with Iran to deliver new progress in China‑Iran relations, he added.\nBriefing on the latest situation in the Middle East as well as Iran's considerations for the next steps, Araghchi said Iran does not wish for the conflict to drag on and hopes to return to diplomatic channels, while resolutely safeguarding its own rights and interests.\nIran holds that the US‑Iran MoU remains valid, and has reached an agreement with Oman on a plan to reopen the Strait of Hormuz, he said, adding that the US should earnestly honor all its commitments.\nThe Iranian side also stands ready to engage in dialogue and consultation with regional countries, establish and develop good-neighborly and friendly relations, and promote the early restoration of peace and tranquility in the region, said Araghchi.\nHe said Iran welcomes and supports President Xi's four‑point proposal, and is ready to work with China to strengthen cooperation, and looks forward to China playing a greater role in promoting regional peace and stability.\nIran attaches great importance to its relations with China and stands ready to continue mutual support, maintain close exchanges at all levels, deepen practical cooperation, jointly address challenges, and push for the sustained and in-depth development of bilateral ties, said the Iranian foreign minister.",
+      "fullTextCn": "中国外交部长、中共中央政治局委员王毅（右）于2026年9月16日在中国北京与伊朗外交部长赛义德·阿巴斯·阿拉格齐举行会谈。中国外交部长王毅周三在北京与伊朗外交部长赛义德·阿巴斯·阿拉格齐举行会谈，鼓励伊朗和美国保持理性、保持克制，并早日重返伊斯兰堡谅解备忘录。王毅同时也是中共中央政治局委员，他指出，中国作为联合国安理会常任理事国，愿意为解决国际争端发挥建设性作用。他指出，中国和伊朗是全面战略伙伴，并表示中国愿与伊朗一道加强对话与合作，维护伊朗的正当权益。王毅表示，美伊冲突持续延长不符合有关各方和国际社会的共同利益。王毅说，中国鼓励伊朗和美国在迄今达成的共识基础上重建谈判机制，就各自关心的问题进行实质性磋商，并补充说，中国支持伊朗与海湾国家开展对话，尊重彼此的领土主权和国家安全，并以建设性方式维护地区共同利益。\n\n他说，中国敦促各方采取有效措施，早日开放霍尔木兹海峡，保障国际航运通道的畅通和安全运行，维护国际能源运输以及全球产业链和供应链的稳定。这位中国外交部长说：“我们不希望看到地区紧张局势进一步蔓延到也门和红海，”并呼吁各方避免使局势进一步复杂化，通过对话和谈判解决问题。王毅指出，当前事态发展再次证明，中东现有的安全架构不足，呼吁进行改革和加强。王毅说，中国国家主席习近平在访问埃及期间提出了关于建设中东新安全架构的四点主张，即坚持共同、综合、合作、可持续的安全观，并补充说中国欢迎地区国家在这方面进行有益探索。王毅说，在中东问题上，中国作为负责任的大国，将一如既往地为和平与稳定作出贡献，推动和谈，维护公平正义。王毅表示，中国对伊朗的政策保持连续性和一致性，并补充说，中国始终秉持公正，反对使用武力，并在联合国安理会和其他多边平台上维护国际关系准则。\n\n他补充说，中国愿与伊朗加强沟通协调，推动中伊关系取得新进展。阿拉格齐在通报中东最新局势以及伊朗对下一步的考虑时说，伊朗不希望冲突拖延下去，希望回到外交渠道，同时坚决维护自身权益。他说，伊朗认为美伊谅解备忘录仍然有效，并已与阿曼就重新开放霍尔木兹海峡的计划达成一致，并补充说美国应切实履行其所有承诺。阿拉格齐说，伊方也愿与地区国家开展对话协商，建立和发展睦邻友好关系，推动地区早日恢复和平与安宁。他说，伊朗欢迎并支持习近平主席的四点主张，愿与中国加强合作，并期待中国在促进地区和平与稳定方面发挥更大作用。这位伊朗外交部长说，伊朗高度重视与中国的关系，愿继续相互支持，保持各级别密切交流，深化务实合作，共同应对挑战，推动双边关系持续深入发展。"
     }
   ]
 }
