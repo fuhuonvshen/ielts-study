@@ -1,776 +1,910 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "articles": [
     {
       "id": 1,
-      "category": "technology",
+      "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-14/AI-safety-Silicon-Valley-s-fear-narrative-meets-its-governance-gap-1QqW4qrrwty/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "AI safety: Silicon Valley's fear narrative meets its governance gap",
-      "titleCn": "AI安全：硅谷的恐惧叙事与治理鸿沟",
-      "summary": "AI safety: Silicon Valley's fear narrative meets its governance gap",
-      "summaryCn": "文章揭示硅谷AI公司在发出生存威胁警告的同时加速商业化的矛盾，并对比中国在AI治理方面的务实举措，指出真正的治理挑战在于行业能否可信地自我监管。",
-      "wordCount": 806,
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-17/Dinner-then-a-walk-China-s-evening-ritual-1QvSe6fud1e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Dinner, then a walk: China's evening ritual",
+      "titleCn": "晚餐后散步：中国的傍晚仪式",
+      "summary": "Dinner, then a walk: China's evening ritual",
+      "summaryCn": "本文从健康观念与社会习俗两个角度，探讨中国人晚饭后散步这一日常习惯背后的文化内涵与现实意义。",
+      "wordCount": 1056,
       "paragraphs": [
         {
-          "en": "When Jacob Coxon {{0}} from Anthropic in September and warned that artificial {{16}} (AI) could end human {{1}}, his post drew over 170 million views in 48 hours. But the more {{2}} story is not why one researcher left – it is why the industry's most safety-conscious talent can only express concern by quitting. Coxon's warning arrived during the same week that Anthropic was finalizing preparations for what could become the largest IPO in market history. Anthropic filed a {{3}} S-1 with the US Securities and Exchange Commission on June 1, targeting a {{4}} of $965 billion, and expects to complete its listing before the US midterm elections in November. Nvidia is in talks to {{5}} the offering at a $2 trillion valuation, Reuters reports.",
-          "cn": "当雅各布·考克森于九月从Anthropic辞职并警告人工智能可能终结人类文明时，他的帖子在48小时内获得了超过1.7亿次浏览。但更具揭示性的故事并非一位研究员为何离开——而是为何这个行业最具安全意识的人才只能通过辞职来表达担忧。考克森的警告发出的同一周，Anthropic正在为可能成为市场历史上最大规模的IPO做最后准备。Anthropic于6月1日向美国证券交易委员会秘密提交了S-1文件，目标估值达9650亿美元，并预计在11月美国中期选举前完成上市。据路透社报道，英伟达正在洽谈以2万亿美元估值锚定此次发行。"
+          "en": "As the evening cools, people begin heading outside. Couples walk through their neighborhoods. Parents take children to nearby parks. Older residents {{1}} together, while others walk alone, taking a few laps around a {{2}} route. It can look like exercise, but it doesn't always feel like it.",
+          "cn": "傍晚凉意渐起，人们开始走出家门。情侣在小区里散步，父母带孩子去附近的公园，老年人结伴闲逛，也有人独自沿着熟悉的路线走上几圈。这看起来像是锻炼，但感觉并不总是如此。"
         },
         {
-          "en": "The safety pledge that disappeared\nAnthropic CEO Dario Amodei has publicly called for slowing AI development so safety systems can catch up, yet his company's IPO timetable shows no corresponding {{6}}. In February 2026, Anthropic released Version 3.0 of its Responsible Scaling Policy, which dropped the company's earlier {{7}} to pause model training if risks could not be adequately {{8}}. The \"pause training\" pledge simply disappeared from the document, replaced by softer language about \"responsible development\" and {{9}} mechanisms. As an analysis from Chinese technology news outlet 36Kr noted, Anthropic's safety red lines have become dynamically {{10}}. This is the structural {{11}} at the heart of the AI safety debate.",
-          "cn": "消失的安全承诺\nAnthropic首席执行官达里奥·阿莫代伊曾公开呼吁放缓AI发展，以便安全系统能够跟上，然而其公司的IPO时间表却未见相应的减速。2026年2月，Anthropic发布了其《负责任扩展政策》3.0版本，放弃了此前关于若风险无法充分缓解则暂停模型训练的承诺。“暂停训练”的承诺从文件中悄然消失，取而代之的是关于“负责任发展”和透明度机制的更温和措辞。正如中国科技新闻媒体36氪的一篇分析所指出的，Anthropic的安全红线已变得可以动态调整。这正是AI安全辩论核心的结构性矛盾。"
+          "en": "For many people, the evening walk is simply part of what happens after dinner. Why walk after dinner? There is a familiar Chinese saying: 饭后百步走，活到九十九 — \"Walk 100 steps after a meal and live to 99.\"\nThe \"100 steps\" is not meant to be taken literally. Rather, the saying {{3}} a long-standing {{4}} that {{5}} movement after eating is good for the body. Some Chinese health guidance has traditionally linked a slow post-meal walk with {{6}}, while warning against {{7}} exercise immediately after eating.",
+          "cn": "对许多人来说，傍晚散步不过是晚饭后自然而然要做的事。为什么饭后要散步？中国有句耳熟能详的俗语：饭后百步走，活到九十九。这里的“百步”并非字面意义上的数字，而是反映了一种由来已久的观念，即饭后适度活动对身体有益。中国的一些健康指导历来将饭后慢走与消化联系起来，同时提醒人们不要在饭后立即进行剧烈运动。"
         },
         {
-          "en": "Companies warn of civilizational risk while racing to {{12}} the technology at {{13}} speed. OpenAI CEO Sam Altman captured the {{14}} bluntly, comparing Anthropic's approach to fear-based marketing: \"It is clearly incredible marketing to say, 'We have built a bomb. We are about to drop it on your head. We will sell you a bomb shelter for $100 million to run across all your stuff, but only if we pick you as a customer.'\"\nBeyond the IPO\nThe tension between safety {{15}} and commercial behavior extends beyond IPO filings. On September 10 – the same week Coxon's resignation went viral – Anthropic published a 154-page threat intelligence report revealing that its own Claude model had been used for weapons development, military intelligence gathering, cyberattacks and fraud.",
-          "cn": "企业在以空前速度将技术商业化的同时警告文明风险。OpenAI首席执行官萨姆·奥尔特曼直白地捕捉到了这种讽刺，将Anthropic的做法比作恐惧营销：“说‘我们造了一颗炸弹，我们即将把它扔到你头上，我们会以1亿美元卖给你一个防空洞来覆盖你所有的东西，但前提是我们选你当客户’——这显然是令人难以置信的营销。”\n超越IPO\n安全言论与商业行为之间的张力超越了IPO文件。9月10日——考克森辞职事件疯传的同一周——Anthropic发布了一份154页的威胁情报报告，披露其自家的Claude模型曾被用于武器开发、军事情报收集、网络攻击和欺诈。"
+          "en": "Traditional Chinese medicine also offers an explanation for the practice, linking gentle movement with the health of the digestive system. Beijing's Traditional Chinese medicine authorities have described slow walking after a meal as a way of supporting digestion, while emphasizing that \"walking 100 steps\" means gentle movement rather than {{8}} exercise. People stroll and stretch along a walkway at Beijing Olympic Forest Park during an evening walk. Modern research offers some support for the broader idea. A 2023 {{9}} review and meta-analysis looked at eight {{10}} controlled {{11}} involving 116 people and found that exercise after eating {{12}} post-meal blood glucose more than exercising before a meal or remaining inactive.",
+          "cn": "中医也为这一习惯提供了理论解释，将温和的活动与消化系统的健康联系在一起。北京市中医药管理部门曾将饭后慢走描述为一种促进消化的方式，同时强调“百步走”指的是温和的活动，而非剧烈运动。现代研究也在更宽泛的意义上提供了一些支持。2023年的一项系统综述与荟萃分析考察了八项随机对照试验，涉及116人，发现饭后运动比饭前运动或保持静止更能降低餐后血糖。"
         },
         {
-          "en": "Anthropic acknowledged that its safety mechanisms, while blocking some {{17}}, could not fully prevent misuse. The company also restricted access to its most powerful model through Project Glasswing, limiting it to roughly 200 organizations. And after a US Commerce Department order, it excluded foreign nationals entirely, including the EU's cybersecurity agency ENISA. The governance gap is not confined to corporate boardrooms. The UN Independent International Scientific Panel on AI warned in July that AI is \"{{18}} both scientific understanding and governments' ability to adapt.\" The panel specifically flagged a phase of \"agentic\" autonomy that current {{19}} frameworks cannot manage, potentially allowing dangerous capabilities to emerge before governments can respond.",
-          "cn": "Anthropic承认其安全机制虽然阻止了一些违规行为，但无法完全防止滥用。该公司还通过“玻璃翼计划”限制了其最强大模型的访问权限，仅限约200个组织使用。在美国商务部下达命令后，该公司完全排除了外国公民，包括欧盟网络安全机构ENISA。治理鸿沟并不局限于企业董事会。联合国人工智能独立国际科学小组在七月警告称，AI“正在超越科学理解和政府的适应能力”。该小组特别指出了一种“代理式”自主阶段，当前的监管框架无法管理，可能使危险能力在政府能够应对之前就已出现。"
+          "en": "The researchers also found that the timing of exercise mattered, with activity closer to the meal producing a greater effect. The authors {{13}}, however, that the included trials had a high risk of {{14}} and the sample was small. A Chinese health expert has made a similar distinction. At a 2025 National Health Commission press conference, Peking Union Medical College Hospital physician Li Jingnan said {{15}} walking after a meal can {{16}} {{17}} movement and may help with post-meal fullness or reduced gastrointestinal {{18}}. But strenuous exercise after eating can instead place {{19}} stress on the digestive system.",
+          "cn": "研究人员还发现，运动的时间点很重要，越接近进餐时间进行活动，效果越明显。不过作者也提醒，纳入的试验存在较高的偏倚风险，且样本量较小。中国的一位健康专家也做出了类似的区分。在2025年国家卫生健康委员会的一次新闻发布会上，北京协和医院医生李景南表示，饭后适度步行可以促进肠道蠕动，可能有助于缓解餐后饱胀感或胃肠动力减弱。但饭后剧烈运动反而会给消化系统带来额外负担。"
         },
         {
-          "en": "The EU has delayed {{20}} deadlines for high-risk AI systems from August 2026 to December 2027, citing the need for more preparation time for standards and regulatory infrastructure. A different governance model\nAgainst this backdrop of corporate contradictions and regulatory delays, China's approach has been notably different in method, if not always in pace. China's management measures on generative AI services, implemented in August 2023, were the world's first official regulations governing generative AI services. As of July, 1,028 large model services had completed registration, with applications covering industry, agriculture, commerce, education, transportation and law. The country's AI Safety Governance Framework, now entering its 3.0 version, translates principles of \"classification, agile governance and shared governance\" into actionable implementation plans, addressing risks from both the technology itself and its applications.",
-          "cn": "欧盟已将高风险AI系统的合规截止日期从2026年8月推迟至2027年12月，理由是标准和监管基础设施需要更多准备时间。\n一种不同的治理模式\n在企业矛盾与监管延迟的背景下，中国的方法在方式上——尽管不总是在速度上——明显不同。中国于2023年8月实施的生成式AI服务管理办法是全球首部规范生成式AI服务的官方法规。截至七月，已有1028项大模型服务完成注册，应用覆盖工业、农业、商业、教育、交通和法律等领域。该国的人工智能安全治理框架现已进入3.0版本，将“分类分级、敏捷治理、多方共治”原则转化为可操作的实施方案，从技术本身及其应用两方面应对风险。"
+          "en": "So the old saying is not really an instruction to exercise after every meal. It is closer to an invitation to keep moving gently rather than immediately sitting or lying down. And that may help explain why the habit has lasted. A public square transforms into a community gathering space as local residents join an evening dance routine after dinner. Walking as social time\nFor many people, an evening walk is also an opportunity to spend time with other people.",
+          "cn": "所以，这句老话并不是要求人们每餐饭后都去锻炼，而更像是一种邀请——邀请人们保持温和的活动，而不是立刻坐下或躺下。这或许有助于解释这一习惯为何能延续至今。许多人在晚饭后散步，也是在借机与他人相处。"
         },
         {
-          "en": "China's \"Qinglang\" internet government initiative has cleaned up over 5.61 million pieces of illegal information, dealt with more than 49,000 accounts and shut down over 2,400 violating websites and applications related to AI misuse. The country also established the World AI Cooperation Organization in July, with 29 founding member states, and pledged 5,000 AI training opportunities for developing countries over the next five years. A CGTN global survey found that 85.4% of respondents believe AI's rapid development is creating new challenges for global security and governance. Some 92.6% expressed concern that deepfakes and AI-generated misinformation could erode social trust, and 82.6% believe developing countries and the Global South should play a greater role in shaping AI governance rules. The real question is not whether AI safety concerns are genuine – they are.",
-          "cn": "中国的“清朗”互联网政府专项行动已清理超过561万条违法信息，处置了超过4.9万个账号，关闭了2400多个与AI滥用相关的违规网站和应用。该国还于七月成立了世界人工智能合作组织，有29个创始成员国，并承诺在未来五年为发展中国家提供5000个AI培训机会。CGTN的一项全球调查发现，85.4%的受访者认为AI的快速发展正在给全球安全和治理带来新挑战。约92.6%的人担心深度伪造和AI生成的虚假信息可能侵蚀社会信任，82.6%的人认为发展中国家和全球南方应在塑造AI治理规则方面发挥更大作用。真正的问题不是AI安全担忧是否真实——它们确实是。"
+          "en": "A friend can be invited along. Parents can take their children outside. Couples can use the time to talk after a busy day. Research has increasingly looked at the relationship between physical activity and social connection. The World Health Organization notes that walking is an {{20}} form of physical activity that can be {{21}} into {{22}} and everyday life.",
+          "cn": "可以约上朋友一起走，父母可以带孩子出门，情侣可以利用这段时间在忙碌一天后聊聊天。研究越来越多地关注身体活动与社会联系之间的关系。世界卫生组织指出，步行是一种易于开展的体育活动，可以融入娱乐和日常生活之中。"
         },
         {
-          "en": "The question is whether an industry that produces existential warnings while racing toward trillion-dollar valuations can credibly govern itself. Chinese Foreign Ministry spokesperson Guo Jiakun put it directly on Monday: \"AI development concerns the common well-being of all humanity. All parties should work together to promote open, inclusive and beneficial AI. Spreading various threat narratives and engaging in confrontation and malicious competition will only disrupt the global AI governance process and serve no one's interests.\"",
-          "cn": "问题在于，一个在奔向万亿美元估值的同时发出生存警告的行业，能否可信地自我治理。中国外交部发言人郭嘉昆周一直接指出：“AI发展关乎全人类共同福祉。各方应携手推动开放、包容、有益的AI。散布各种威胁叙事、搞对抗和恶意竞争，只会扰乱全球AI治理进程，不符合任何人的利益。”"
+          "en": "That social element is particularly visible in China's parks. An evening walk can easily turn into an evening gathering. In some places, people dance. In others, they practice tai chi, play badminton, use outdoor fitness equipment or simply sit and chat. The activity may change, but the principle is similar: people have a reason to leave their homes and spend some time outside.",
+          "cn": "这种社交属性在中国的公园里尤为明显。傍晚散步很容易变成傍晚聚会。有些地方人们跳舞，有些地方人们打太极、打羽毛球、使用户外健身器材，或者干脆坐着聊天。活动形式可能不同，但道理相似：人们有了出门待一会儿的理由。"
+        },
+        {
+          "en": "A resident walks his dogs through a neighborhood park, reflecting the relaxed rhythm of post-dinner strolls in China. From health habit to social {{0}}\nThis is what makes the after-dinner walk interesting. The health explanation may be one reason people walk, but it doesn't fully explain the atmosphere that develops around it. A walk gives people somewhere to go after dinner without requiring a particular destination. It can be a chance to talk with a partner, accompany a child, meet a friend or simply spend some time outdoors before returning home.",
+          "cn": "这正是晚饭后散步的有趣之处。健康解释可能是人们散步的原因之一，但并不能完全解释围绕它形成的氛围。散步让人们晚饭后有地方可去，而不必设定特定目的地。它可以是一个与伴侣交谈、陪伴孩子、会见朋友，或者只是在回家前到户外待一会儿的机会。"
+        },
+        {
+          "en": "In that sense, the walk sits somewhere between exercise and {{23}}. It is movement without the pressure of a workout. That distinction matters in a city like Beijing, where public space can change character throughout the day. Parks, residential compounds, sidewalks and riverside paths can become informal gathering places as temperatures drop and people finish eating. The city slows down, but it doesn't stop.",
+          "cn": "从这个意义上说，散步介于锻炼与休闲之间。它是一种没有锻炼压力的活动。这一区别在北京这样的城市尤为重要，因为公共空间在一天中会呈现出不同的面貌。随着气温下降、人们吃完饭，公园、小区、人行道和河边小路都可以变成非正式的聚会场所。城市慢了下来，但并没有停下。"
+        },
+        {
+          "en": "A neighborhood playground fills with families at dusk, offering children a chance to play and unwind after dinner. A different kind of exercise\nAs someone who runs regularly, I notice the difference immediately. Running usually comes with a purpose. There is a distance to cover, a pace to maintain or a route to complete. Even an easy run can feel like a workout.",
+          "cn": "作为一名经常跑步的人，我立刻就能注意到这种差别。跑步通常带有目的：有距离要完成，有配速要保持，或者有路线要跑完。即便是轻松跑，也可能感觉像是一次锻炼。"
+        },
+        {
+          "en": "Walking after dinner doesn't have to. You can stop to talk. You can change direction. You can walk slowly. You can turn around after 10 minutes because you've had enough.",
+          "cn": "晚饭后散步则不必如此。你可以停下来聊天，可以改变方向，可以慢慢走，也可以在十分钟后觉得够了就掉头回家。"
+        },
+        {
+          "en": "There is something appealing about movement that asks so little of you. And perhaps that is part of why the habit fits so naturally into everyday life. It doesn't require special equipment, a gym membership or a large block of time. Dinner is already happening. The walk simply comes next.",
+          "cn": "这种对你要求极低的运动有一种吸引力。也许这正是它如此自然地融入日常生活的原因之一。它不需要特殊装备、健身房会员资格或大块时间。晚饭本来就要吃，散步只是接下来的事。"
+        },
+        {
+          "en": "In Traditional Chinese Medicine, slow walking after a meal supports digestion by promoting gentle movement without straining the body. An ordinary part of the evening\nThere is a tendency to think of fitness in terms of {{24}} effort: running a race, joining a gym, following a training plan or tracking a personal best. The evening walk is almost the opposite. It is unremarkable. That may be exactly why it works.",
+          "cn": "人们往往倾向于把健身理解为刻意的努力：跑一场比赛、办一张健身卡、执行训练计划或追踪个人最好成绩。傍晚散步几乎恰恰相反。它平淡无奇。也许正因如此，它才行之有效。"
+        },
+        {
+          "en": "In China, a walk after dinner can be a health habit, a family routine, a chance to catch up with a friend or simply an excuse to get out of the house. It doesn't need to be labelled. It doesn't need to be measured. And it doesn't need to be particularly long. As the evening stretches on and people gradually make their way home, the paths become quieter again.",
+          "cn": "在中国，晚饭后散步可以是一种健康习惯、一项家庭日常、一次与朋友叙旧的机会，或者只是一个出门走走的借口。它不需要被贴上标签，不需要被计量，也不需要特别长。随着夜色渐深，人们陆续回家，路上又恢复了安静。"
+        },
+        {
+          "en": "Tomorrow, many of them will do it all over again. Dinner. Then a walk. Editor's Note: Denique Daniëls is a multimedia editor for CGTN Digital. This article is part of China in Motion, a recurring column that explores contemporary Chinese life through movement – from running and walking to the design of public space, health culture and community.",
+          "cn": "明天，他们中的许多人还会再来一遍。晚饭，然后散步。编者按：Denique Daniëls是CGTN Digital的多媒体编辑。本文是“动感中国”系列专栏的一部分，该专栏通过运动——从跑步、步行到公共空间设计、健康文化和社区——探索当代中国生活。"
+        },
+        {
+          "en": "By observing cities at a human pace, the series captures how ordinary routines shape the experience of life in China.",
+          "cn": "通过以人的节奏观察城市，该系列捕捉了日常习惯如何塑造在中国的生活体验。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "resigned",
-          "hint": "v. 辞职",
-          "difficulty": "easy"
-        },
-        {
-          "id": 1,
-          "answer": "civilization",
-          "hint": "n. 文明",
-          "difficulty": "easy"
-        },
-        {
-          "id": 2,
-          "answer": "revealing",
-          "hint": "adj. 揭示性的",
+          "answer": "ritual",
+          "hint": "n. 仪式；例行公事",
           "difficulty": "medium"
         },
         {
+          "id": 1,
+          "answer": "stroll",
+          "hint": "v. 散步；闲逛",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "familiar",
+          "hint": "adj. 熟悉的",
+          "difficulty": "easy"
+        },
+        {
           "id": 3,
-          "answer": "confidential",
-          "hint": "adj. 机密的",
+          "answer": "reflects",
+          "hint": "v. 反映；体现",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "valuation",
-          "hint": "n. 估值",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "anchor",
-          "hint": "v. 锚定",
-          "difficulty": "hard"
-        },
-        {
-          "id": 6,
-          "answer": "deceleration",
-          "hint": "n. 减速",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "commitment",
-          "hint": "n. 承诺",
+          "answer": "belief",
+          "hint": "n. 信念；观念",
           "difficulty": "easy"
         },
         {
+          "id": 5,
+          "answer": "gentle",
+          "hint": "adj. 温和的；轻柔的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "digestion",
+          "hint": "n. 消化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "strenuous",
+          "hint": "adj. 剧烈的；费力的",
+          "difficulty": "hard"
+        },
+        {
           "id": 8,
-          "answer": "mitigated",
-          "hint": "v. 缓解",
+          "answer": "vigorous",
+          "hint": "adj. 剧烈的；有力的",
           "difficulty": "hard"
         },
         {
           "id": 9,
-          "answer": "transparency",
-          "hint": "n. 透明度",
+          "answer": "systematic",
+          "hint": "adj. 系统的",
           "difficulty": "medium"
         },
         {
           "id": 10,
-          "answer": "adjustable",
-          "hint": "adj. 可调整的",
-          "difficulty": "medium"
+          "answer": "randomized",
+          "hint": "adj. 随机的",
+          "difficulty": "hard"
         },
         {
           "id": 11,
-          "answer": "contradiction",
-          "hint": "n. 矛盾",
+          "answer": "trials",
+          "hint": "n. 试验",
           "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "commercialize",
-          "hint": "v. 商业化",
-          "difficulty": "medium"
+          "answer": "reduced",
+          "hint": "v. 降低；减少",
+          "difficulty": "easy"
         },
         {
           "id": 13,
-          "answer": "unprecedented",
-          "hint": "adj. 空前的",
+          "answer": "cautioned",
+          "hint": "v. 警告；提醒",
           "difficulty": "hard"
         },
         {
           "id": 14,
-          "answer": "irony",
-          "hint": "n. 讽刺",
-          "difficulty": "medium"
-        },
-        {
-          "id": 15,
-          "answer": "rhetoric",
-          "hint": "n. 言论",
+          "answer": "bias",
+          "hint": "n. 偏差；偏倚",
           "difficulty": "hard"
         },
         {
-          "id": 16,
-          "answer": "intelligence",
-          "hint": "n. 情报",
-          "difficulty": "easy"
-        },
-        {
-          "id": 17,
-          "answer": "violations",
-          "hint": "n. 违规行为",
+          "id": 15,
+          "answer": "moderate",
+          "hint": "adj. 适度的；中等的",
           "difficulty": "medium"
         },
         {
+          "id": 16,
+          "answer": "promote",
+          "hint": "v. 促进；推动",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "intestinal",
+          "hint": "adj. 肠道的",
+          "difficulty": "hard"
+        },
+        {
           "id": 18,
-          "answer": "outpacing",
-          "hint": "v. 超越",
+          "answer": "motility",
+          "hint": "n. 运动性；动力",
           "difficulty": "hard"
         },
         {
           "id": 19,
-          "answer": "oversight",
-          "hint": "n. 监管",
-          "difficulty": "hard"
+          "answer": "additional",
+          "hint": "adj. 额外的",
+          "difficulty": "easy"
         },
         {
           "id": 20,
-          "answer": "compliance",
-          "hint": "n. 合规",
+          "answer": "accessible",
+          "hint": "adj. 易获得的；可及的",
           "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "incorporated",
+          "hint": "v. 纳入；融入",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "recreation",
+          "hint": "n. 娱乐；消遣",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "leisure",
+          "hint": "n. 休闲；闲暇",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "deliberate",
+          "hint": "adj. 刻意的；深思熟虑的",
+          "difficulty": "hard"
         }
       ],
-      "fullText": "When Jacob Coxon resigned from Anthropic in September and warned that artificial intelligence (AI) could end human civilization, his post drew over 170 million views in 48 hours. But the more revealing story is not why one researcher left – it is why the industry's most safety-conscious talent can only express concern by quitting.\nCoxon's warning arrived during the same week that Anthropic was finalizing preparations for what could become the largest IPO in market history. Anthropic filed a confidential S-1 with the US Securities and Exchange Commission on June 1, targeting a valuation of $965 billion, and expects to complete its listing before the US midterm elections in November. Nvidia is in talks to anchor the offering at a $2 trillion valuation, Reuters reports.\nThe safety pledge that disappeared\nAnthropic CEO Dario Amodei has publicly called for slowing AI development so safety systems can catch up, yet his company's IPO timetable shows no corresponding deceleration. In February 2026, Anthropic released Version 3.0 of its Responsible Scaling Policy, which dropped the company's earlier commitment to pause model training if risks could not be adequately mitigated.\nThe \"pause training\" pledge simply disappeared from the document, replaced by softer language about \"responsible development\" and transparency mechanisms. As an analysis from Chinese technology news outlet 36Kr noted, Anthropic's safety red lines have become dynamically adjustable.\nThis is the structural contradiction at the heart of the AI safety debate. Companies warn of civilizational risk while racing to commercialize the technology at unprecedented speed.\nOpenAI CEO Sam Altman captured the irony bluntly, comparing Anthropic's approach to fear-based marketing: \"It is clearly incredible marketing to say, 'We have built a bomb. We are about to drop it on your head. We will sell you a bomb shelter for $100 million to run across all your stuff, but only if we pick you as a customer.'\"\nBeyond the IPO\nThe tension between safety rhetoric and commercial behavior extends beyond IPO filings. On September 10 – the same week Coxon's resignation went viral – Anthropic published a 154-page threat intelligence report revealing that its own Claude model had been used for weapons development, military intelligence gathering, cyberattacks and fraud.\nAnthropic acknowledged that its safety mechanisms, while blocking some violations, could not fully prevent misuse. The company also restricted access to its most powerful model through Project Glasswing, limiting it to roughly 200 organizations. And after a US Commerce Department order, it excluded foreign nationals entirely, including the EU's cybersecurity agency ENISA.\nThe governance gap is not confined to corporate boardrooms. The UN Independent International Scientific Panel on AI warned in July that AI is \"outpacing both scientific understanding and governments' ability to adapt.\" The panel specifically flagged a phase of \"agentic\" autonomy that current oversight frameworks cannot manage, potentially allowing dangerous capabilities to emerge before governments can respond.\nThe EU has delayed compliance deadlines for high-risk AI systems from August 2026 to December 2027, citing the need for more preparation time for standards and regulatory infrastructure.\nA different governance model\nAgainst this backdrop of corporate contradictions and regulatory delays, China's approach has been notably different in method, if not always in pace. China's management measures on generative AI services, implemented in August 2023, were the world's first official regulations governing generative AI services. As of July, 1,028 large model services had completed registration, with applications covering industry, agriculture, commerce, education, transportation and law.\nThe country's AI Safety Governance Framework, now entering its 3.0 version, translates principles of \"classification, agile governance and shared governance\" into actionable implementation plans, addressing risks from both the technology itself and its applications.\nChina's \"Qinglang\" internet government initiative has cleaned up over 5.61 million pieces of illegal information, dealt with more than 49,000 accounts and shut down over 2,400 violating websites and applications related to AI misuse. The country also established the World AI Cooperation Organization in July, with 29 founding member states, and pledged 5,000 AI training opportunities for developing countries over the next five years.\nA CGTN global survey found that 85.4% of respondents believe AI's rapid development is creating new challenges for global security and governance. Some 92.6% expressed concern that deepfakes and AI-generated misinformation could erode social trust, and 82.6% believe developing countries and the Global South should play a greater role in shaping AI governance rules.\nThe real question is not whether AI safety concerns are genuine – they are. The question is whether an industry that produces existential warnings while racing toward trillion-dollar valuations can credibly govern itself. Chinese Foreign Ministry spokesperson Guo Jiakun put it directly on Monday: \"AI development concerns the common well-being of all humanity. All parties should work together to promote open, inclusive and beneficial AI. Spreading various threat narratives and engaging in confrontation and malicious competition will only disrupt the global AI governance process and serve no one's interests.\"",
-      "fullTextCn": "当雅各布·考克森于九月从Anthropic辞职并警告人工智能可能终结人类文明时，他的帖子在48小时内获得了超过1.7亿次浏览。但更具揭示性的故事并非一位研究员为何离开——而是为何这个行业最具安全意识的人才只能通过辞职来表达担忧。考克森的警告发出的同一周，Anthropic正在为可能成为市场历史上最大规模的IPO做最后准备。Anthropic于6月1日向美国证券交易委员会秘密提交了S-1文件，目标估值达9650亿美元，并预计在11月美国中期选举前完成上市。据路透社报道，英伟达正在洽谈以2万亿美元估值锚定此次发行。\n\n消失的安全承诺\nAnthropic首席执行官达里奥·阿莫代伊曾公开呼吁放缓AI发展，以便安全系统能够跟上，然而其公司的IPO时间表却未见相应的减速。2026年2月，Anthropic发布了其《负责任扩展政策》3.0版本，放弃了此前关于若风险无法充分缓解则暂停模型训练的承诺。“暂停训练”的承诺从文件中悄然消失，取而代之的是关于“负责任发展”和透明度机制的更温和措辞。正如中国科技新闻媒体36氪的一篇分析所指出的，Anthropic的安全红线已变得可以动态调整。这正是AI安全辩论核心的结构性矛盾。\n\n企业在以空前速度将技术商业化的同时警告文明风险。OpenAI首席执行官萨姆·奥尔特曼直白地捕捉到了这种讽刺，将Anthropic的做法比作恐惧营销：“说‘我们造了一颗炸弹，我们即将把它扔到你头上，我们会以1亿美元卖给你一个防空洞来覆盖你所有的东西，但前提是我们选你当客户’——这显然是令人难以置信的营销。”\n超越IPO\n安全言论与商业行为之间的张力超越了IPO文件。9月10日——考克森辞职事件疯传的同一周——Anthropic发布了一份154页的威胁情报报告，披露其自家的Claude模型曾被用于武器开发、军事情报收集、网络攻击和欺诈。\n\nAnthropic承认其安全机制虽然阻止了一些违规行为，但无法完全防止滥用。该公司还通过“玻璃翼计划”限制了其最强大模型的访问权限，仅限约200个组织使用。在美国商务部下达命令后，该公司完全排除了外国公民，包括欧盟网络安全机构ENISA。治理鸿沟并不局限于企业董事会。联合国人工智能独立国际科学小组在七月警告称，AI“正在超越科学理解和政府的适应能力”。该小组特别指出了一种“代理式”自主阶段，当前的监管框架无法管理，可能使危险能力在政府能够应对之前就已出现。\n\n欧盟已将高风险AI系统的合规截止日期从2026年8月推迟至2027年12月，理由是标准和监管基础设施需要更多准备时间。\n一种不同的治理模式\n在企业矛盾与监管延迟的背景下，中国的方法在方式上——尽管不总是在速度上——明显不同。中国于2023年8月实施的生成式AI服务管理办法是全球首部规范生成式AI服务的官方法规。截至七月，已有1028项大模型服务完成注册，应用覆盖工业、农业、商业、教育、交通和法律等领域。该国的人工智能安全治理框架现已进入3.0版本，将“分类分级、敏捷治理、多方共治”原则转化为可操作的实施方案，从技术本身及其应用两方面应对风险。\n\n中国的“清朗”互联网政府专项行动已清理超过561万条违法信息，处置了超过4.9万个账号，关闭了2400多个与AI滥用相关的违规网站和应用。该国还于七月成立了世界人工智能合作组织，有29个创始成员国，并承诺在未来五年为发展中国家提供5000个AI培训机会。CGTN的一项全球调查发现，85.4%的受访者认为AI的快速发展正在给全球安全和治理带来新挑战。约92.6%的人担心深度伪造和AI生成的虚假信息可能侵蚀社会信任，82.6%的人认为发展中国家和全球南方应在塑造AI治理规则方面发挥更大作用。真正的问题不是AI安全担忧是否真实——它们确实是。\n\n问题在于，一个在奔向万亿美元估值的同时发出生存警告的行业，能否可信地自我治理。中国外交部发言人郭嘉昆周一直接指出：“AI发展关乎全人类共同福祉。各方应携手推动开放、包容、有益的AI。散布各种威胁叙事、搞对抗和恶意竞争，只会扰乱全球AI治理进程，不符合任何人的利益。”"
+      "fullText": "As the evening cools, people begin heading outside. Couples walk through their neighborhoods. Parents take children to nearby parks. Older residents stroll together, while others walk alone, taking a few laps around a familiar route.\nIt can look like exercise, but it doesn't always feel like it. For many people, the evening walk is simply part of what happens after dinner.\nWhy walk after dinner?\nThere is a familiar Chinese saying: 饭后百步走，活到九十九 — \"Walk 100 steps after a meal and live to 99.\"\nThe \"100 steps\" is not meant to be taken literally. Rather, the saying reflects a long-standing belief that gentle movement after eating is good for the body. Some Chinese health guidance has traditionally linked a slow post-meal walk with digestion, while warning against strenuous exercise immediately after eating.\nTraditional Chinese medicine also offers an explanation for the practice, linking gentle movement with the health of the digestive system. Beijing's Traditional Chinese medicine authorities have described slow walking after a meal as a way of supporting digestion, while emphasizing that \"walking 100 steps\" means gentle movement rather than vigorous exercise.\nPeople stroll and stretch along a walkway at Beijing Olympic Forest Park during an evening walk. \nModern research offers some support for the broader idea.\nA 2023 systematic review and meta-analysis looked at eight randomized controlled trials involving 116 people and found that exercise after eating reduced post-meal blood glucose more than exercising before a meal or remaining inactive. The researchers also found that the timing of exercise mattered, with activity closer to the meal producing a greater effect. The authors cautioned, however, that the included trials had a high risk of bias and the sample was small.\nA Chinese health expert has made a similar distinction. At a 2025 National Health Commission press conference, Peking Union Medical College Hospital physician Li Jingnan said moderate walking after a meal can promote intestinal movement and may help with post-meal fullness or reduced gastrointestinal motility. But strenuous exercise after eating can instead place additional stress on the digestive system.\nSo the old saying is not really an instruction to exercise after every meal. It is closer to an invitation to keep moving gently rather than immediately sitting or lying down.\nAnd that may help explain why the habit has lasted.\nA public square transforms into a community gathering space as local residents join an evening dance routine after dinner. \nWalking as social time\nFor many people, an evening walk is also an opportunity to spend time with other people.\nA friend can be invited along. Parents can take their children outside. Couples can use the time to talk after a busy day.\nResearch has increasingly looked at the relationship between physical activity and social connection. The World Health Organization notes that walking is an accessible form of physical activity that can be incorporated into recreation and everyday life.\nThat social element is particularly visible in China's parks. An evening walk can easily turn into an evening gathering.\nIn some places, people dance. In others, they practice tai chi, play badminton, use outdoor fitness equipment or simply sit and chat.\nThe activity may change, but the principle is similar: people have a reason to leave their homes and spend some time outside.\nA resident walks his dogs through a neighborhood park, reflecting the relaxed rhythm of post-dinner strolls in China. \nFrom health habit to social ritual\nThis is what makes the after-dinner walk interesting. The health explanation may be one reason people walk, but it doesn't fully explain the atmosphere that develops around it.\nA walk gives people somewhere to go after dinner without requiring a particular destination.\nIt can be a chance to talk with a partner, accompany a child, meet a friend or simply spend some time outdoors before returning home.\nIn that sense, the walk sits somewhere between exercise and leisure. It is movement without the pressure of a workout.\nThat distinction matters in a city like Beijing, where public space can change character throughout the day. Parks, residential compounds, sidewalks and riverside paths can become informal gathering places as temperatures drop and people finish eating.\nThe city slows down, but it doesn't stop.\nA neighborhood playground fills with families at dusk, offering children a chance to play and unwind after dinner. \nA different kind of exercise\nAs someone who runs regularly, I notice the difference immediately.\nRunning usually comes with a purpose. There is a distance to cover, a pace to maintain or a route to complete. Even an easy run can feel like a workout.\nWalking after dinner doesn't have to.\nYou can stop to talk. You can change direction. You can walk slowly. You can turn around after 10 minutes because you've had enough.\nThere is something appealing about movement that asks so little of you.\nAnd perhaps that is part of why the habit fits so naturally into everyday life. It doesn't require special equipment, a gym membership or a large block of time. Dinner is already happening. The walk simply comes next.\nIn Traditional Chinese Medicine, slow walking after a meal supports digestion by promoting gentle movement without straining the body. \nAn ordinary part of the evening\nThere is a tendency to think of fitness in terms of deliberate effort: running a race, joining a gym, following a training plan or tracking a personal best.\nThe evening walk is almost the opposite. It is unremarkable.\nThat may be exactly why it works.\nIn China, a walk after dinner can be a health habit, a family routine, a chance to catch up with a friend or simply an excuse to get out of the house.\nIt doesn't need to be labelled. It doesn't need to be measured.\nAnd it doesn't need to be particularly long.\nAs the evening stretches on and people gradually make their way home, the paths become quieter again. Tomorrow, many of them will do it all over again.\nDinner. Then a walk.\nEditor's Note: Denique Daniëls is a multimedia editor for CGTN Digital. This article is part of China in Motion, a recurring column that explores contemporary Chinese life through movement – from running and walking to the design of public space, health culture and community. By observing cities at a human pace, the series captures how ordinary routines shape the experience of life in China.",
+      "fullTextCn": "傍晚凉意渐起，人们开始走出家门。情侣在小区里散步，父母带孩子去附近的公园，老年人结伴闲逛，也有人独自沿着熟悉的路线走上几圈。这看起来像是锻炼，但感觉并不总是如此。\n\n对许多人来说，傍晚散步不过是晚饭后自然而然要做的事。为什么饭后要散步？中国有句耳熟能详的俗语：饭后百步走，活到九十九。这里的“百步”并非字面意义上的数字，而是反映了一种由来已久的观念，即饭后适度活动对身体有益。中国的一些健康指导历来将饭后慢走与消化联系起来，同时提醒人们不要在饭后立即进行剧烈运动。\n\n中医也为这一习惯提供了理论解释，将温和的活动与消化系统的健康联系在一起。北京市中医药管理部门曾将饭后慢走描述为一种促进消化的方式，同时强调“百步走”指的是温和的活动，而非剧烈运动。现代研究也在更宽泛的意义上提供了一些支持。2023年的一项系统综述与荟萃分析考察了八项随机对照试验，涉及116人，发现饭后运动比饭前运动或保持静止更能降低餐后血糖。\n\n研究人员还发现，运动的时间点很重要，越接近进餐时间进行活动，效果越明显。不过作者也提醒，纳入的试验存在较高的偏倚风险，且样本量较小。中国的一位健康专家也做出了类似的区分。在2025年国家卫生健康委员会的一次新闻发布会上，北京协和医院医生李景南表示，饭后适度步行可以促进肠道蠕动，可能有助于缓解餐后饱胀感或胃肠动力减弱。但饭后剧烈运动反而会给消化系统带来额外负担。\n\n所以，这句老话并不是要求人们每餐饭后都去锻炼，而更像是一种邀请——邀请人们保持温和的活动，而不是立刻坐下或躺下。这或许有助于解释这一习惯为何能延续至今。许多人在晚饭后散步，也是在借机与他人相处。\n\n可以约上朋友一起走，父母可以带孩子出门，情侣可以利用这段时间在忙碌一天后聊聊天。研究越来越多地关注身体活动与社会联系之间的关系。世界卫生组织指出，步行是一种易于开展的体育活动，可以融入娱乐和日常生活之中。\n\n这种社交属性在中国的公园里尤为明显。傍晚散步很容易变成傍晚聚会。有些地方人们跳舞，有些地方人们打太极、打羽毛球、使用户外健身器材，或者干脆坐着聊天。活动形式可能不同，但道理相似：人们有了出门待一会儿的理由。\n\n这正是晚饭后散步的有趣之处。健康解释可能是人们散步的原因之一，但并不能完全解释围绕它形成的氛围。散步让人们晚饭后有地方可去，而不必设定特定目的地。它可以是一个与伴侣交谈、陪伴孩子、会见朋友，或者只是在回家前到户外待一会儿的机会。\n\n从这个意义上说，散步介于锻炼与休闲之间。它是一种没有锻炼压力的活动。这一区别在北京这样的城市尤为重要，因为公共空间在一天中会呈现出不同的面貌。随着气温下降、人们吃完饭，公园、小区、人行道和河边小路都可以变成非正式的聚会场所。城市慢了下来，但并没有停下。\n\n作为一名经常跑步的人，我立刻就能注意到这种差别。跑步通常带有目的：有距离要完成，有配速要保持，或者有路线要跑完。即便是轻松跑，也可能感觉像是一次锻炼。\n\n晚饭后散步则不必如此。你可以停下来聊天，可以改变方向，可以慢慢走，也可以在十分钟后觉得够了就掉头回家。\n\n这种对你要求极低的运动有一种吸引力。也许这正是它如此自然地融入日常生活的原因之一。它不需要特殊装备、健身房会员资格或大块时间。晚饭本来就要吃，散步只是接下来的事。\n\n人们往往倾向于把健身理解为刻意的努力：跑一场比赛、办一张健身卡、执行训练计划或追踪个人最好成绩。傍晚散步几乎恰恰相反。它平淡无奇。也许正因如此，它才行之有效。\n\n在中国，晚饭后散步可以是一种健康习惯、一项家庭日常、一次与朋友叙旧的机会，或者只是一个出门走走的借口。它不需要被贴上标签，不需要被计量，也不需要特别长。随着夜色渐深，人们陆续回家，路上又恢复了安静。\n\n明天，他们中的许多人还会再来一遍。晚饭，然后散步。编者按：Denique Daniëls是CGTN Digital的多媒体编辑。本文是“动感中国”系列专栏的一部分，该专栏通过运动——从跑步、步行到公共空间设计、健康文化和社区——探索当代中国生活。\n\n通过以人的节奏观察城市，该系列捕捉了日常习惯如何塑造在中国的生活体验。"
     },
     {
       "id": 2,
-      "category": "military",
+      "category": "technology",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-14/China-unites-Global-South-for-new-chapter-of-BRICS-cooperation-1Qr3O4oWM1i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-      "title": "China unites Global South for new chapter of BRICS cooperation",
-      "titleCn": "中国团结全球南方，开启金砖合作新篇章",
-      "summary": "With greater BRICS cooperation entering a new stage of high-quality development, Xi outlined how the grouping can play a more active role in a world marked by growing uncertainty and transformation.",
-      "summaryCn": "中国国家主席习近平出席在印度新德里举行的第十八届金砖国家峰会，呼吁金砖国家在推动更加公正合理的国际秩序中发挥先锋作用，开启全球南方合作新篇章，并提出深化合作的五项倡议。",
-      "wordCount": 830,
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-16/China-s-Pinglu-Canal-opens-for-navigation-1QtEl6Bh2gg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Major river-to-sea project: China's  Pinglu Canal opens for navigation",
+      "titleCn": "平陆运河正式通航：中国重大江海联运工程",
+      "summary": "Major river-to-sea project: China's  Pinglu Canal opens for navigation",
+      "summaryCn": "中国首条国家级规划建设的江海联运运河平陆运河正式通航，大幅缩短西南地区出海距离并降低物流成本，同时在建设过程中注重生态保护与野生动物通道建设。",
+      "wordCount": 674,
       "paragraphs": [
         {
-          "en": "Welcome slogan outside the main venue of the 18th BRICS Summit held from September 12 to 13, 2026, New Delhi, India. /CMG\nAt the invitation of Indian Prime Minister Narendra Modi, Chinese President Xi Jinping attended the 18th BRICS Summit in New Delhi, India from September 12 to 13, calling on BRICS countries to take the {{0}} role in promoting a more just and {{1}} international order and {{2}} in a new chapter of cooperation among the Global South. This year marks the 20th anniversary of BRICS cooperation. What began as an economic concept in a research report has grown into an important force shaping the international {{3}}. With greater BRICS cooperation entering a new stage of high-quality development, Xi outlined at the summit how the grouping can play a more active role in a world marked by growing {{4}} and transformation.",
-          "cn": "2026年9月12日至13日在印度新德里举行的第十八届金砖国家峰会主会场外的欢迎标语。/CMG 应印度总理纳伦德拉·莫迪邀请，中国国家主席习近平于2026年9月12日至13日出席在印度新德里举行的第十八届金砖国家峰会，呼吁金砖国家在推动更加公正合理的国际秩序方面发挥先锋作用，开启全球南方合作新篇章。今年是金砖合作二十周年。金砖合作最初只是研究报告中的一个经济概念，如今已发展成为塑造国际格局的重要力量。随着大金砖合作进入高质量发展新阶段，习近平在峰会上阐述了金砖国家如何在充满不确定性和变革的世界中发挥更积极的作用。"
+          "en": "The Pinglu Canal in south China's Guangxi Zhuang Autonomous Region officially opened to {{0}} {{1}} on Wednesday, marking the country's first major river-to-sea canal project planned and {{2}} at the national level since 1949. The 134.2-kilometer waterway connects the Xijiang River {{3}} with the Beibu Gulf, cutting the {{4}} shipping distance between southwestern China and the sea by more than 560 kilometers. A view of Pinglu Canal in south China's Guangxi Zhuang Autonomous Region. A new gateway for China-ASEAN trade\nFor decades, much of the cargo from China's southwest had to travel eastward before reaching the sea through Guangdong and other coastal areas. The Pinglu Canal provides a more direct route to the Beibu Gulf, allowing vessels of up to 5,000 tonnes to sail from the inland river network to the sea.",
+          "cn": "位于中国南部广西壮族自治区的平陆运河于周三正式开通商业通航，标志着自1949年以来中国首个在国家层面规划和协调的重大江海联运运河工程。这条134.2公里的水道连接西江走廊与北部湾，将中国西南地区与海洋之间的传统航运距离缩短了560多公里。平陆运河位于中国南部广西壮族自治区的一处景观。中国-东盟贸易的新门户。几十年来，中国西南地区的大部分货物不得不先向东行驶，再经广东和其他沿海地区出海。平陆运河提供了一条通往北部湾的更直接路线，使载重量达5000吨的船舶能够从内河网络驶向大海。"
         },
         {
-          "en": "Be a pioneer in the changing world\nThe world is undergoing {{5}} changes unseen in a century. Even as the Global South gains strength and multipolarity becomes an {{6}} trend, {{7}} and power politics are resurfacing, posing growing challenges to {{8}} and the international order. Addressing the summit in New Delhi, Xi called on BRICS countries to \"stand firmly on the right side of history, strive to be a pioneer of our times, steer the international order in a direction that is more just and equitable, and work together to build a community with a shared future for humanity.\"\n\"To bring stability to the world and make it a better place, BRICS countries must seize the historical {{9}}, rally the Global South, be an active, {{10}} and positive force in international affairs and advance the well-being of all humanity,\" Xi said. As to the future development of BRICS, Xi urged the grouping to pioneer in advancing innovation-driven development, upholding peace and stability, {{11}} mutual learning between civilizations and reforming and improving global governance. The four pioneering roles align closely with the Global Development Initiative, Global Security Initiative, Global Civilization Initiative and Global Governance Initiative proposed by China, offering a clear roadmap for BRICS cooperation and a better world.",
-          "cn": "做变革世界中的先锋 世界正经历百年未有之大变局。尽管全球南方不断壮大，多极化成为不可逆转的趋势，但单边主义和强权政治正在抬头，对多边主义和国际秩序构成日益严峻的挑战。习近平在新德里峰会上发表讲话，呼吁金砖国家“站在历史正确的一边，努力做时代的先锋，推动国际秩序朝着更加公正合理的方向发展，携手构建人类命运共同体”。习近平表示：“为了让世界更加稳定、更加美好，金砖国家必须把握历史主动，团结全球南方，在国际事务中做积极、稳定、向善的力量，推动全人类福祉。”关于金砖国家未来发展，习近平敦促金砖国家在推进创新驱动发展、维护和平稳定、促进文明互鉴以及改革完善全球治理方面发挥先锋作用。这四个先锋角色与中国提出的全球发展倡议、全球安全倡议、全球文明倡议和全球治理倡议高度契合，为金砖合作和建设更美好的世界提供了清晰的路线图。"
+          "en": "Local authorities {{5}} that the shortcut could reduce {{6}} costs by 18% to 30%, saving about 5.2 billion yuan ($720 million) each year. The canal also forms a key part of the New International Land-Sea Trade Corridor, giving inland regions such as Chongqing, Chengdu, Guizhou and Yunnan a more direct maritime gateway to Southeast Asia. The timing is {{7}}. China and ASEAN have been each other's largest trading partners for six {{8}} years. In the first half of 2026, their trade reached 4.34 trillion yuan, up 18.2% year on year.",
+          "cn": "当地政府估计，这条捷径可将物流成本降低18%至30%，每年节省约52亿元人民币（7.2亿美元）。该运河也是新国际陆海贸易走廊的重要组成部分，为重庆、成都、贵州和云南等内陆地区提供了通往东南亚的更直接海上通道。时机意义重大。中国与东盟已连续六年互为最大贸易伙伴。2026年上半年，双方贸易额达到4.34万亿元人民币，同比增长18.2%。"
         },
         {
-          "en": "Xi's remarks reflect the four global initiatives are being translated into more concrete action through BRICS cooperation, providing a broader platform for the Global South to participate in global governance, said Joseph Kimuli, a Ugandan expert on international affairs. Deepening practical cooperation\nBRICS emerged amid the collective rise of emerging markets and developing countries. Over the past two decades, the mechanism has evolved with the times, expanding its membership and strengthening cooperation amid profound changes in the global landscape. Today, BRICS countries span four continents and account for nearly half of the world's population, about 30% of global economic output and more than half of global economic growth, making the grouping a flagship of unity and cooperation among Global South countries. In his address at the first session of the summit on September 12, Xi said {{14}} and cooperation have always been the source of strength for the cause of BRICS throughout its 20-year journey.",
-          "cn": "乌干达国际事务专家约瑟夫·基穆利表示，习近平的讲话反映出四大全球倡议正通过金砖合作转化为更加具体的行动，为全球南方参与全球治理提供了更广阔的平台。深化务实合作 金砖国家在新兴市场和发展中国家集体崛起的背景下应运而生。过去二十年来，金砖机制与时俱进，在全球格局深刻变化中扩大成员规模、加强合作。如今，金砖国家横跨四大洲，占世界人口近一半、全球经济产出约30%、全球经济增长的一半以上，使金砖国家成为全球南方国家团结合作的旗帜。习近平在9月12日峰会第一次会议上发表讲话时表示，团结合作始终是金砖事业二十年历程中力量的源泉。"
+          "en": "The Beibu Gulf is already becoming an important gateway for that trade, with container {{9}} at Beibu Gulf Port reaching about 10 million TEUs in 2025, compared with around 2.28 million TEUs in 2017. The canal could further {{10}} the port's economic {{11}}, allowing manufactured goods to move south toward ASEAN markets and agricultural products, minerals and other raw materials to move north into China's inland economy. But connecting economies also means cutting through landscape. For Pinglu Canal, that has meant designing {{12}} not only for ships, but also for the {{18}} and {{13}} along its route. Longmen Bridge near the estuary of Pinglu Canal in Qinzhou, Guangxi, August 25, 2026.",
+          "cn": "北部湾已经成为该贸易的重要门户，2025年北部湾港集装箱吞吐量达到约1000万标准箱，而2017年约为228万标准箱。该运河可能进一步扩大港口的经济腹地，使制成品向南运往东盟市场，农产品、矿产和其他原材料向北进入中国内陆经济。但连接经济体也意味着要穿越自然景观。对于平陆运河而言，这意味着不仅要为船舶设计基础设施，还要为沿线物种和生态系统进行设计。2026年8月25日，广西钦州平陆运河河口附近的龙门大桥。"
         },
         {
-          "en": "He called on member countries to treat each other with candor and {{15}}, seek common ground while shelving differences, respect each other's core concerns, stay committed to communication and dialogue to increase mutual understanding and properly handle disagreements. Speaking at the second session on September 13, Xi proposed five initiatives to deepen BRICS cooperation, covering open source and inclusive artificial intelligence, trade and investment facilitation, digital industry cooperation, intelligent manufacturing cooperation and science and technology talent development. While the \"four pioneers\" set out the broader direction for BRICS to contribute to global development, peace, civilization and governance, the five initiatives focus on turning that vision into concrete cooperation. They target emerging areas with direct implications for economic growth and development, offering a more practical action plan for members to work together. For Global South countries, such cooperation is already creating new opportunities.",
-          "cn": "他呼吁成员国坦诚相待、求同存异、尊重彼此核心关切、坚持沟通对话以增进相互理解、妥善处理分歧。习近平在9月13日第二次会议上发表讲话，提出深化金砖合作的五项倡议，涵盖开源包容的人工智能、贸易和投资便利化、数字产业合作、智能制造合作以及科技人才培养。如果说“四个先锋”为金砖国家助力全球发展、和平、文明和治理指明了总体方向，那么五项倡议则着眼于将这一愿景转化为具体合作。它们瞄准对经济增长和发展具有直接影响的新兴领域，为成员国携手合作提供了更加务实的行动计划。对全球南方国家而言，这种合作正在创造新的机遇。"
+          "en": "Building a canal while keeping nature connected\nAt the Qingnian navigation hub, engineers built a {{14}} fish passage to help {{15}} species overcome a water-level difference of nearly 10 meters. The passage is more than 480 meters long and contains 120 pools. By gradually reducing water levels and flow {{16}}, the system allows fish to move upstream step by step. A separate passage has been designed for eels and other species capable of crawling or climbing. Monitoring equipment has been operating since 2025.",
+          "cn": "建运河的同时保持自然连通。在青年航运枢纽，工程师建造了一条专用鱼道，帮助水生生物克服近10米的水位差。该鱼道长480多米，包含120个水池。通过逐步降低水位和流速，该系统使鱼类能够一步步向上游移动。另外还为鳗鱼和其他能够爬行或攀爬的物种设计了一条独立通道。监测设备自2025年起持续运行。"
         },
         {
-          "en": "Sizo Nkala, a researcher at the University of Johannesburg's Center for Africa-China Studies, noted that China's efforts to advance technological and industrial cooperation under the BRICS framework are opening up {{12}} development opportunities for countries across the Global South. German artificial intelligence expert Stefan Lubich described the new ideas and proposals put forward by Xi as a driving force for the development of emerging industries worldwide. Toward a third golden decade\nChina will assume the BRICS presidency next year and host the 19th BRICS Summit, Xi announced at this year's event. As China prepares to take up the baton, Xi said China is ready to \"work with all parties to plan for the future\" and \"usher in the third golden decade of BRICS cooperation.\"\nThe task ahead is to turn the group's growing influence and expanded membership into more effective cooperation and tangible outcomes for the Global South. Sergey Sanakoyev, president of the Asia-Pacific Research Center in Russia, said he expects China to work with Global South countries to turn the BRICS spirit of openness, {{13}} and win-win cooperation into more concrete results.",
-          "cn": "约翰内斯堡大学非中研究中心研究员西佐·恩卡拉指出，中国在金砖框架下推进技术和产业合作，正在为全球南方国家开辟实实在在的发展机遇。德国人工智能专家斯特凡·卢比希将习近平提出的新理念和新倡议描述为全球新兴产业发展的驱动力。迈向第三个金色十年 习近平在今年峰会上宣布，中国将于明年担任金砖国家轮值主席国并主办第十九届金砖国家峰会。在准备接棒之际，习近平表示中国愿“同各方一道规划未来”，“开启金砖合作的第三个金色十年”。当前的任务是将金砖国家日益增长的影响力和扩大的成员规模转化为更有效的合作和惠及全球南方的切实成果。俄罗斯亚太研究中心主任谢尔盖·萨纳科耶夫表示，他期待中国与全球南方国家一道，将开放包容、合作共赢的金砖精神转化为更加具体的成果。"
+          "en": "Project {{17}} data show that more than 10 fish species have used the passage, with about 76,000 upstream movements and 115,000 downstream movements recorded. On land, a similar principle is being applied. At the Fenshuiling section, a wildlife-only bridge crosses the canal. Covered with soil and native {{19}}, the overpass reconnects forest {{20}} separated by the waterway. It is designed to allow species including leopard cats, masked palm civets and red-bellied squirrels to cross what would otherwise be a physical barrier.",
+          "cn": "项目监测数据显示，已有10多种鱼类使用了该鱼道，记录到约76000次上游移动和115000次下游移动。在陆地上，类似的原则也在应用。在分水岭段，一座野生动物专用桥梁横跨运河。这座天桥覆盖着土壤和本地植被，重新连接了被水道分隔的森林栖息地。它的设计目的是让豹猫、果子狸和红腹松鼠等物种能够穿越原本会成为物理屏障的水道。"
+        },
+        {
+          "en": "The measure follows recommendations from a 2025 study published in the journal Land, which assessed habitat {{21}} across 11 regional wildlife groups and called for dedicated ecological corridors to be {{22}} into infrastructure planning. The project's environmental approach also extends to the enormous amount of material generated during construction. Engineers {{23}} roughly 315 million cubic meters of earth and rock. More than 98% of the material was reused for riverbank {{24}}, soil {{25}} and the creation of about 13,900 mu, or 927 hectares, of farmland. The opening of the canal marks the beginning of another phase.",
+          "cn": "该措施遵循了2025年发表在《Land》期刊上的一项研究的建议，该研究评估了11个区域野生动物群体的栖息地破碎化情况，并呼吁将专用生态廊道纳入基础设施规划。该项目的环保方法还延伸到施工过程中产生的大量材料。工程师开挖了约3.15亿立方米的土石。超过98%的材料被重新用于河岸加固、土壤修复以及创建约13900亩（927公顷）农田。运河的开通标志着另一个阶段的开始。"
+        },
+        {
+          "en": "As commercial traffic grows, maintaining water quality, {{26}} wildlife movement and protecting coastal ecosystems will require continuous monitoring and management. Estuary of Pinglu Canal in the Maowei Sea waters of Qinzhou, Guangxi, August 25, 2026. The Pinglu Canal is intended to create new connections — between inland China and the sea, between China and ASEAN, and between production centers and global markets. The challenge now is to ensure that these new connections do not {{27}} {{28}} the ecosystems along its route.",
+          "cn": "随着商业交通的增长，维持水质、保护野生动物迁徙和保护沿海生态系统将需要持续监测和管理。2026年8月25日，广西钦州茅尾海水域平陆运河河口。平陆运河旨在创造新的连接——中国内陆与海洋之间、中国与东盟之间，以及生产中心与全球市场之间。现在的挑战是确保这些新的连接不会永久切断沿线生态系统。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "pioneering",
-          "hint": "adj. 先锋的；开创性的",
+          "answer": "commercial",
+          "hint": "adj. 商业的",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "equitable",
-          "hint": "adj. 公平的；公正的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 2,
-          "answer": "usher",
-          "hint": "v. 开启；引领",
+          "answer": "navigation",
+          "hint": "n. 航行，通航",
           "difficulty": "medium"
         },
         {
+          "id": 2,
+          "answer": "coordinated",
+          "hint": "v. 协调（过去分词）",
+          "difficulty": "hard"
+        },
+        {
           "id": 3,
-          "answer": "landscape",
-          "hint": "n. 格局；形势",
+          "answer": "corridor",
+          "hint": "n. 走廊，通道",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "uncertainty",
-          "hint": "n. 不确定性",
+          "answer": "traditional",
+          "hint": "adj. 传统的",
           "difficulty": "easy"
         },
         {
           "id": 5,
-          "answer": "profound",
-          "hint": "adj. 深刻的；深远的",
+          "answer": "estimate",
+          "hint": "v. 估计",
           "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "irreversible",
-          "hint": "adj. 不可逆转的",
-          "difficulty": "hard"
+          "answer": "logistics",
+          "hint": "n. 物流",
+          "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "unilateralism",
-          "hint": "n. 单边主义",
-          "difficulty": "hard"
-        },
-        {
-          "id": 8,
-          "answer": "multilateralism",
-          "hint": "n. 多边主义",
-          "difficulty": "hard"
-        },
-        {
-          "id": 9,
-          "answer": "initiative",
-          "hint": "n. 倡议；主动性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "stabilizing",
-          "hint": "adj. 稳定的；起稳定作用的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "facilitating",
-          "hint": "v. 促进；便利化",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "tangible",
-          "hint": "adj. 切实的；有形的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 13,
-          "answer": "inclusiveness",
-          "hint": "n. 包容性",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "solidarity",
-          "hint": "n. 团结",
-          "difficulty": "easy"
-        },
-        {
-          "id": 15,
-          "answer": "sincerity",
-          "hint": "n. 真诚；诚意",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "Welcome slogan outside the main venue of the 18th BRICS Summit held from September 12 to 13, 2026, New Delhi, India. /CMG\nAt the invitation of Indian Prime Minister Narendra Modi, Chinese President Xi Jinping attended the 18th BRICS Summit in New Delhi, India from September 12 to 13, calling on BRICS countries to take the pioneering role in promoting a more just and equitable international order and usher in a new chapter of cooperation among the Global South.\nThis year marks the 20th anniversary of BRICS cooperation. What began as an economic concept in a research report has grown into an important force shaping the international landscape.\nWith greater BRICS cooperation entering a new stage of high-quality development, Xi outlined at the summit how the grouping can play a more active role in a world marked by growing uncertainty and transformation.\nBe a pioneer in the changing world\nThe world is undergoing profound changes unseen in a century.\nEven as the Global South gains strength and multipolarity becomes an irreversible trend, unilateralism and power politics are resurfacing, posing growing challenges to multilateralism and the international order.\nAddressing the summit in New Delhi, Xi called on BRICS countries to \"stand firmly on the right side of history, strive to be a pioneer of our times, steer the international order in a direction that is more just and equitable, and work together to build a community with a shared future for humanity.\"\n\"To bring stability to the world and make it a better place, BRICS countries must seize the historical initiative, rally the Global South, be an active, stabilizing and positive force in international affairs and advance the well-being of all humanity,\" Xi said.\nAs to the future development of BRICS, Xi urged the grouping to pioneer in advancing innovation-driven development, upholding peace and stability, facilitating mutual learning between civilizations and reforming and improving global governance.\nThe four pioneering roles align closely with the Global Development Initiative, Global Security Initiative, Global Civilization Initiative and Global Governance Initiative proposed by China, offering a clear roadmap for BRICS cooperation and a better world.\nXi's remarks reflect the four global initiatives are being translated into more concrete action through BRICS cooperation, providing a broader platform for the Global South to participate in global governance, said Joseph Kimuli, a Ugandan expert on international affairs.\nDeepening practical cooperation\nBRICS emerged amid the collective rise of emerging markets and developing countries.\nOver the past two decades, the mechanism has evolved with the times, expanding its membership and strengthening cooperation amid profound changes in the global landscape.\nToday, BRICS countries span four continents and account for nearly half of the world's population, about 30% of global economic output and more than half of global economic growth, making the grouping a flagship of unity and cooperation among Global South countries.\nIn his address at the first session of the summit on September 12, Xi said solidarity and cooperation have always been the source of strength for the cause of BRICS throughout its 20-year journey.\nHe called on member countries to treat each other with candor and sincerity, seek common ground while shelving differences, respect each other's core concerns, stay committed to communication and dialogue to increase mutual understanding and properly handle disagreements.\nSpeaking at the second session on September 13, Xi proposed five initiatives to deepen BRICS cooperation, covering open source and inclusive artificial intelligence, trade and investment facilitation, digital industry cooperation, intelligent manufacturing cooperation and science and technology talent development.\nWhile the \"four pioneers\" set out the broader direction for BRICS to contribute to global development, peace, civilization and governance, the five initiatives focus on turning that vision into concrete cooperation. They target emerging areas with direct implications for economic growth and development, offering a more practical action plan for members to work together.\nFor Global South countries, such cooperation is already creating new opportunities. Sizo Nkala, a researcher at the University of Johannesburg's Center for Africa-China Studies, noted that China's efforts to advance technological and industrial cooperation under the BRICS framework are opening up tangible development opportunities for countries across the Global South. German artificial intelligence expert Stefan Lubich described the new ideas and proposals put forward by Xi as a driving force for the development of emerging industries worldwide.\nToward a third golden decade\nChina will assume the BRICS presidency next year and host the 19th BRICS Summit, Xi announced at this year's event.\nAs China prepares to take up the baton, Xi said China is ready to \"work with all parties to plan for the future\" and \"usher in the third golden decade of BRICS cooperation.\"\nThe task ahead is to turn the group's growing influence and expanded membership into more effective cooperation and tangible outcomes for the Global South.\nSergey Sanakoyev, president of the Asia-Pacific Research Center in Russia, said he expects China to work with Global South countries to turn the BRICS spirit of openness, inclusiveness and win-win cooperation into more concrete results.",
-      "fullTextCn": "2026年9月12日至13日在印度新德里举行的第十八届金砖国家峰会主会场外的欢迎标语。/CMG 应印度总理纳伦德拉·莫迪邀请，中国国家主席习近平于2026年9月12日至13日出席在印度新德里举行的第十八届金砖国家峰会，呼吁金砖国家在推动更加公正合理的国际秩序方面发挥先锋作用，开启全球南方合作新篇章。今年是金砖合作二十周年。金砖合作最初只是研究报告中的一个经济概念，如今已发展成为塑造国际格局的重要力量。随着大金砖合作进入高质量发展新阶段，习近平在峰会上阐述了金砖国家如何在充满不确定性和变革的世界中发挥更积极的作用。\n\n做变革世界中的先锋 世界正经历百年未有之大变局。尽管全球南方不断壮大，多极化成为不可逆转的趋势，但单边主义和强权政治正在抬头，对多边主义和国际秩序构成日益严峻的挑战。习近平在新德里峰会上发表讲话，呼吁金砖国家“站在历史正确的一边，努力做时代的先锋，推动国际秩序朝着更加公正合理的方向发展，携手构建人类命运共同体”。习近平表示：“为了让世界更加稳定、更加美好，金砖国家必须把握历史主动，团结全球南方，在国际事务中做积极、稳定、向善的力量，推动全人类福祉。”关于金砖国家未来发展，习近平敦促金砖国家在推进创新驱动发展、维护和平稳定、促进文明互鉴以及改革完善全球治理方面发挥先锋作用。这四个先锋角色与中国提出的全球发展倡议、全球安全倡议、全球文明倡议和全球治理倡议高度契合，为金砖合作和建设更美好的世界提供了清晰的路线图。\n\n乌干达国际事务专家约瑟夫·基穆利表示，习近平的讲话反映出四大全球倡议正通过金砖合作转化为更加具体的行动，为全球南方参与全球治理提供了更广阔的平台。深化务实合作 金砖国家在新兴市场和发展中国家集体崛起的背景下应运而生。过去二十年来，金砖机制与时俱进，在全球格局深刻变化中扩大成员规模、加强合作。如今，金砖国家横跨四大洲，占世界人口近一半、全球经济产出约30%、全球经济增长的一半以上，使金砖国家成为全球南方国家团结合作的旗帜。习近平在9月12日峰会第一次会议上发表讲话时表示，团结合作始终是金砖事业二十年历程中力量的源泉。\n\n他呼吁成员国坦诚相待、求同存异、尊重彼此核心关切、坚持沟通对话以增进相互理解、妥善处理分歧。习近平在9月13日第二次会议上发表讲话，提出深化金砖合作的五项倡议，涵盖开源包容的人工智能、贸易和投资便利化、数字产业合作、智能制造合作以及科技人才培养。如果说“四个先锋”为金砖国家助力全球发展、和平、文明和治理指明了总体方向，那么五项倡议则着眼于将这一愿景转化为具体合作。它们瞄准对经济增长和发展具有直接影响的新兴领域，为成员国携手合作提供了更加务实的行动计划。对全球南方国家而言，这种合作正在创造新的机遇。\n\n约翰内斯堡大学非中研究中心研究员西佐·恩卡拉指出，中国在金砖框架下推进技术和产业合作，正在为全球南方国家开辟实实在在的发展机遇。德国人工智能专家斯特凡·卢比希将习近平提出的新理念和新倡议描述为全球新兴产业发展的驱动力。迈向第三个金色十年 习近平在今年峰会上宣布，中国将于明年担任金砖国家轮值主席国并主办第十九届金砖国家峰会。在准备接棒之际，习近平表示中国愿“同各方一道规划未来”，“开启金砖合作的第三个金色十年”。当前的任务是将金砖国家日益增长的影响力和扩大的成员规模转化为更有效的合作和惠及全球南方的切实成果。俄罗斯亚太研究中心主任谢尔盖·萨纳科耶夫表示，他期待中国与全球南方国家一道，将开放包容、合作共赢的金砖精神转化为更加具体的成果。"
-    },
-    {
-      "id": 3,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-08/2026-CIFTIS-Where-China-services-meet-the-world--1QgQ5c9jEnm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
-      "title": "2026 CIFTIS: Where 'China services' meet the world",
-      "titleCn": "2026年服贸会：当“中国服务”遇见世界",
-      "summary": "The 2026 China International Fair for Trade in Services (CIFTIS) will be held at Beijing's Shougang Park from September 9 to 13, offering a window into the latest trends reshaping China's service trade.",
-      "summaryCn": "2026年中国国际服务贸易交易会在北京首钢园举办，展示了中国服务贸易向知识密集型、高附加值和创新驱动方向转型的最新趋势。",
-      "wordCount": 726,
-      "paragraphs": [
-        {
-          "en": "The 2026 China International Fair for Trade in Services (CIFTIS) will be held at Beijing's Shougang Park from September 9 to 13, offering a window into the latest trends {{0}} China's service trade. As the first national-level {{1}} exhibition for trade in services held in the opening year of the 15th Five-Year Plan period (2026-2030), this year's CIFTIS has {{2}} its exhibition format and service model. A total of 90 countries, regions and international organizations will {{3}} in the event, while more than 1,830 companies will attend the exhibitions offline, including 473 Fortune Global 500 companies and industry leaders. The fair will feature more than 190 forums, conferences and business {{4}} activities, alongside 74 supporting events and 11 business inspection routes. Knowledge-{{5}} services as a new engine\nKnowledge-intensive services have been increasingly driving China's service exports.",
-          "cn": "2026年中国国际服务贸易交易会（服贸会）将于9月9日至13日在北京首钢园举行，为人们了解重塑中国服务贸易的最新趋势提供了一个窗口。作为“十五五”规划开局之年（2026—2030年）举办的首个国家级综合性服务贸易展会，今年的服贸会升级了展览形式和服务模式。共有90个国家、地区和国际组织将参加此次活动，超过1830家企业将线下参展，其中包括473家《财富》世界500强企业和行业领军企业。本届服贸会将举办190多场论坛、会议和商务对接活动，以及74场配套活动和11条商务考察路线。知识密集型服务成为新引擎，知识密集型服务日益推动中国服务出口。"
-        },
-        {
-          "en": "In the first half of 2026, the country's total service imports and exports reached 3.8 trillion yuan (about $566.2 billion), up 8.3% year on year, according to the Ministry of Commerce. Among them, exports of intellectual property {{6}}, financial services, transport services, and telecommunications, computer and information services grew 44.3%, 25.9%, 25.4% and 10.9%, respectively. Knowledge-intensive services {{7}} for 53.5% of total service exports, increasing 3 percentage points from the end of 2025. The figures show that China's service trade is shifting toward higher-value-added and technology-intensive {{8}}, said Zhao Ruojin, an associate researcher at the Institute of International Service Trade under the Chinese Academy of International Trade and Economic Cooperation. From exporting products to delivering technologies and services\nThe Information and Communication Exhibition at this year's China International Fair for Trade in Services (CIFTIS).",
-          "cn": "据商务部数据，2026年上半年，我国服务进出口总额达到3.8万亿元人民币（约5662亿美元），同比增长8.3%。其中，知识产权使用费、金融服务、运输服务以及电信、计算机和信息服务出口分别增长44.3%、25.9%、25.4%和10.9%。知识密集型服务占服务出口总额的53.5%，较2025年底提高3个百分点。中国国际贸易经济合作研究院国际服务贸易研究所副研究员赵若锦表示，这些数据表明中国服务贸易正朝着更高附加值和科技密集型领域转变。从出口产品到输出技术与服务，今年中国国际服务贸易交易会的信息与通信展区。"
-        },
-        {
-          "en": "Wang Chulun\nThe transformation is closely linked to the deeper {{9}} of manufacturing and services. Chinese companies are increasingly moving from simply exporting goods to providing integrated technologies, solutions and full-cycle services. One example comes from the aviation maintenance sector in south China's Hainan Province. {{10}} the policy advantages of the Hainan Free Trade Port, the Haikou Airport Comprehensive Bonded Zone has established specialized aircraft and aero-engine maintenance facilities, {{11}} five leading aviation maintenance companies and holding 24 international maintenance licenses covering 19 countries and regions, as well as more than 2,300 component maintenance {{12}}. During this year's summer travel season, overseas aircraft arrived for maintenance.",
-          "cn": "王楚伦。这一转变与制造业和服务业更深层次的融合密切相关。中国企业正日益从单纯的商品出口转向提供集成技术、解决方案和全周期服务。一个例子来自中国南方海南省航空维修领域。依托海南自由贸易港的政策优势，海口空港综合保税区建立了专业的飞机和航空发动机维修设施，入驻了五家领先航空维修企业，持有覆盖19个国家和地区的24项国际维修许可证，以及2300多项部件维修认证。在今年暑运期间，境外飞机前来维修。"
-        },
-        {
-          "en": "\"Airlines from Qatar, Jordan, Thailand and Vietnam have become repeat customers,\" said Guo Luoyi, a business manager at Grand China Aviation Maintenance Co., Ltd., a subsidiary of HNA Technic, noting that overseas maintenance orders are expected to exceed 100 aircraft this year. \"China's service exports are shifting from traditional sectors such as engineering and transportation to the export of high value-added capabilities, including knowledge, creativity and other high value-added services,\" said Lin Xuejun, a professor at the International Business School of Jinan University. Lin said this transformation is driven by years of innovation {{13}}, with numerous research achievements, patents, and brands developed through new business models and emerging industries providing strong support for intellectual property-related service exports. Innovation will be another highlight of this year's fair. China views digitalization, intelligent technologies, and green development as key drivers of high-quality development and is promoting the application of big data, cloud computing and artificial intelligence (AI) across service trade, said Vice Minister of Commerce Yan Dong at a press conference briefing the media about CIFTIS in August.",
-          "cn": "“来自卡塔尔、约旦、泰国和越南的航空公司已成为回头客，”海航技术旗下大新华飞机维修服务有限公司业务经理郭洛屹表示，并指出今年海外维修订单预计将超过100架飞机。“中国服务出口正从工程和运输等传统领域转向知识、创意等高附加值能力的出口，”暨南大学国际商学院教授林学军表示。林学军说，这一转变由多年创新积累驱动，大量通过新商业模式和新兴产业形成的科研成果、专利和品牌为知识产权相关服务出口提供了有力支撑。创新将是今年服贸会的又一亮点。商务部副部长鄢东在8月就服贸会向媒体吹风时表示，中国将数字化、智能技术和绿色发展视为高质量发展的关键驱动力，并正在推动大数据、云计算和人工智能（AI）在服务贸易中的应用。"
-        },
-        {
-          "en": "More than 200 new products and achievements will be {{14}} at this year's CIFTIS, with over 100 making their global or China {{15}}, covering areas including information and communications, fintech, digital healthcare, smart education, and energy {{16}} and environmental protection. 'China services' expanding through innovation\nThe innovation-driven transformation will be showcased in the newly established “China services” exhibition zone, featuring 140 representative cases from domestic regions and enterprises across a broad range of service trade sectors. The demonstrated cases will highlight the expanding global reach of Chinese services, with solutions ranging from BeiDou-based space and time information services and cross-border trade platforms to international pharmaceutical research and development services and logistics solutions. Nearly 40% of the cases involve AI, large language models, or intelligent agents applied in fields such as legal services, digital trade, cultural tourism and quantum computing. The exhibition will also showcase the closer integration of services into manufacturing and daily life, with smart driving insurance, elderly-friendly digital solutions, and intelligent childcare platforms {{17}} how service innovation is {{18}} people more and more.",
-          "cn": "今年服贸会将发布200多项新产品和新成果，其中100多项为全球或中国首发，涵盖信息通信、金融科技、数字医疗、智慧教育以及节能环保等领域。“中国服务”通过创新不断拓展。创新驱动的转型将在新设立的“中国服务”展区得到展示，该展区汇集了来自国内各地区和企业的140个代表性案例，覆盖广泛的服务贸易领域。展示的案例将突出中国服务不断扩大的全球影响力，解决方案涵盖基于北斗的时空信息服务、跨境贸易平台、国际医药研发服务和物流解决方案等。近40%的案例涉及人工智能、大语言模型或智能体在法律服务、数字贸易、文化旅游和量子计算等领域的应用。展览还将展示服务与制造业及日常生活更紧密的融合，智能驾驶保险、适老化数字解决方案和智能育儿平台将展示服务创新如何越来越多地惠及民众。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "reshaping",
-          "hint": "v. 重塑",
-          "difficulty": "medium"
-        },
-        {
-          "id": 1,
-          "answer": "comprehensive",
-          "hint": "adj. 综合的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "upgraded",
-          "hint": "v. 升级",
-          "difficulty": "easy"
-        },
-        {
-          "id": 3,
-          "answer": "participate",
-          "hint": "v. 参与",
-          "difficulty": "easy"
-        },
-        {
-          "id": 4,
-          "answer": "matchmaking",
-          "hint": "n. 对接",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
-          "answer": "intensive",
-          "hint": "adj. 密集的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 6,
-          "answer": "royalties",
-          "hint": "n. 使用费",
-          "difficulty": "hard"
-        },
-        {
-          "id": 7,
-          "answer": "accounted",
-          "hint": "v. 占（比例）",
+          "answer": "significant",
+          "hint": "adj. 重要的，显著的",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "segments",
-          "hint": "n. 领域",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "integration",
-          "hint": "n. 融合",
-          "difficulty": "medium"
-        },
-        {
-          "id": 10,
-          "answer": "Leveraging",
-          "hint": "v. 利用",
+          "answer": "consecutive",
+          "hint": "adj. 连续的",
           "difficulty": "hard"
         },
         {
+          "id": 9,
+          "answer": "throughput",
+          "hint": "n. 吞吐量",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "expand",
+          "hint": "v. 扩大",
+          "difficulty": "medium"
+        },
+        {
           "id": 11,
-          "answer": "accommodating",
-          "hint": "v. 容纳",
+          "answer": "hinterland",
+          "hint": "n. 腹地",
           "difficulty": "hard"
         },
         {
           "id": 12,
-          "answer": "certifications",
-          "hint": "n. 认证",
-          "difficulty": "medium"
-        },
-        {
-          "id": 13,
-          "answer": "accumulation",
-          "hint": "n. 积累",
-          "difficulty": "medium"
-        },
-        {
-          "id": 14,
-          "answer": "unveiled",
-          "hint": "v. 发布",
-          "difficulty": "hard"
-        },
-        {
-          "id": 15,
-          "answer": "debut",
-          "hint": "n. 首次亮相",
-          "difficulty": "hard"
-        },
-        {
-          "id": 16,
-          "answer": "conservation",
-          "hint": "n. 保护",
-          "difficulty": "medium"
-        },
-        {
-          "id": 17,
-          "answer": "demonstrating",
-          "hint": "v. 展示",
-          "difficulty": "medium"
-        },
-        {
-          "id": 18,
-          "answer": "benefiting",
-          "hint": "v. 惠及",
-          "difficulty": "medium"
-        }
-      ],
-      "fullText": "The 2026 China International Fair for Trade in Services (CIFTIS) will be held at Beijing's Shougang Park from September 9 to 13, offering a window into the latest trends reshaping China's service trade.\nAs the first national-level comprehensive exhibition for trade in services held in the opening year of the 15th Five-Year Plan period (2026-2030), this year's CIFTIS has upgraded its exhibition format and service model.\nA total of 90 countries, regions and international organizations will participate in the event, while more than 1,830 companies will attend the exhibitions offline, including 473 Fortune Global 500 companies and industry leaders. The fair will feature more than 190 forums, conferences and business matchmaking activities, alongside 74 supporting events and 11 business inspection routes.\nKnowledge-intensive services as a new engine\nKnowledge-intensive services have been increasingly driving China's service exports. In the first half of 2026, the country's total service imports and exports reached 3.8 trillion yuan (about $566.2 billion), up 8.3% year on year, according to the Ministry of Commerce.\nAmong them, exports of intellectual property royalties, financial services, transport services, and telecommunications, computer and information services grew 44.3%, 25.9%, 25.4% and 10.9%, respectively. Knowledge-intensive services accounted for 53.5% of total service exports, increasing 3 percentage points from the end of 2025.\nThe figures show that China's service trade is shifting toward higher-value-added and technology-intensive segments, said Zhao Ruojin, an associate researcher at the Institute of International Service Trade under the Chinese Academy of International Trade and Economic Cooperation.\nFrom exporting products to delivering technologies and services\nThe Information and Communication Exhibition at this year's China International Fair for Trade in Services (CIFTIS). Wang Chulun\nThe transformation is closely linked to the deeper integration of manufacturing and services. Chinese companies are increasingly moving from simply exporting goods to providing integrated technologies, solutions and full-cycle services.\nOne example comes from the aviation maintenance sector in south China's Hainan Province. Leveraging the policy advantages of the Hainan Free Trade Port, the Haikou Airport Comprehensive Bonded Zone has established specialized aircraft and aero-engine maintenance facilities, accommodating five leading aviation maintenance companies and holding 24 international maintenance licenses covering 19 countries and regions, as well as more than 2,300 component maintenance certifications.\nDuring this year's summer travel season, overseas aircraft arrived for maintenance.\n\"Airlines from Qatar, Jordan, Thailand and Vietnam have become repeat customers,\" said Guo Luoyi, a business manager at Grand China Aviation Maintenance Co., Ltd., a subsidiary of HNA Technic, noting that overseas maintenance orders are expected to exceed 100 aircraft this year.\n\"China's service exports are shifting from traditional sectors such as engineering and transportation to the export of high value-added capabilities, including knowledge, creativity and other high value-added services,\" said Lin Xuejun, a professor at the International Business School of Jinan University.\nLin said this transformation is driven by years of innovation accumulation, with numerous research achievements, patents, and brands developed through new business models and emerging industries providing strong support for intellectual property-related service exports.\nInnovation will be another highlight of this year's fair.\nChina views digitalization, intelligent technologies, and green development as key drivers of high-quality development and is promoting the application of big data, cloud computing and artificial intelligence (AI) across service trade, said Vice Minister of Commerce Yan Dong at a press conference briefing the media about CIFTIS in August.\nMore than 200 new products and achievements will be unveiled at this year's CIFTIS, with over 100 making their global or China debut, covering areas including information and communications, fintech, digital healthcare, smart education, and energy conservation and environmental protection.\n'China services' expanding through innovation\nThe innovation-driven transformation will be showcased in the newly established “China services” exhibition zone, featuring 140 representative cases from domestic regions and enterprises across a broad range of service trade sectors.\nThe demonstrated cases will highlight the expanding global reach of Chinese services, with solutions ranging from BeiDou-based space and time information services and cross-border trade platforms to international pharmaceutical research and development services and logistics solutions.\nNearly 40% of the cases involve AI, large language models, or intelligent agents applied in fields such as legal services, digital trade, cultural tourism and quantum computing.\nThe exhibition will also showcase the closer integration of services into manufacturing and daily life, with smart driving insurance, elderly-friendly digital solutions, and intelligent childcare platforms demonstrating how service innovation is benefiting people more and more.",
-      "fullTextCn": "2026年中国国际服务贸易交易会（服贸会）将于9月9日至13日在北京首钢园举行，为人们了解重塑中国服务贸易的最新趋势提供了一个窗口。作为“十五五”规划开局之年（2026—2030年）举办的首个国家级综合性服务贸易展会，今年的服贸会升级了展览形式和服务模式。共有90个国家、地区和国际组织将参加此次活动，超过1830家企业将线下参展，其中包括473家《财富》世界500强企业和行业领军企业。本届服贸会将举办190多场论坛、会议和商务对接活动，以及74场配套活动和11条商务考察路线。知识密集型服务成为新引擎，知识密集型服务日益推动中国服务出口。\n\n据商务部数据，2026年上半年，我国服务进出口总额达到3.8万亿元人民币（约5662亿美元），同比增长8.3%。其中，知识产权使用费、金融服务、运输服务以及电信、计算机和信息服务出口分别增长44.3%、25.9%、25.4%和10.9%。知识密集型服务占服务出口总额的53.5%，较2025年底提高3个百分点。中国国际贸易经济合作研究院国际服务贸易研究所副研究员赵若锦表示，这些数据表明中国服务贸易正朝着更高附加值和科技密集型领域转变。从出口产品到输出技术与服务，今年中国国际服务贸易交易会的信息与通信展区。\n\n王楚伦。这一转变与制造业和服务业更深层次的融合密切相关。中国企业正日益从单纯的商品出口转向提供集成技术、解决方案和全周期服务。一个例子来自中国南方海南省航空维修领域。依托海南自由贸易港的政策优势，海口空港综合保税区建立了专业的飞机和航空发动机维修设施，入驻了五家领先航空维修企业，持有覆盖19个国家和地区的24项国际维修许可证，以及2300多项部件维修认证。在今年暑运期间，境外飞机前来维修。\n\n“来自卡塔尔、约旦、泰国和越南的航空公司已成为回头客，”海航技术旗下大新华飞机维修服务有限公司业务经理郭洛屹表示，并指出今年海外维修订单预计将超过100架飞机。“中国服务出口正从工程和运输等传统领域转向知识、创意等高附加值能力的出口，”暨南大学国际商学院教授林学军表示。林学军说，这一转变由多年创新积累驱动，大量通过新商业模式和新兴产业形成的科研成果、专利和品牌为知识产权相关服务出口提供了有力支撑。创新将是今年服贸会的又一亮点。商务部副部长鄢东在8月就服贸会向媒体吹风时表示，中国将数字化、智能技术和绿色发展视为高质量发展的关键驱动力，并正在推动大数据、云计算和人工智能（AI）在服务贸易中的应用。\n\n今年服贸会将发布200多项新产品和新成果，其中100多项为全球或中国首发，涵盖信息通信、金融科技、数字医疗、智慧教育以及节能环保等领域。“中国服务”通过创新不断拓展。创新驱动的转型将在新设立的“中国服务”展区得到展示，该展区汇集了来自国内各地区和企业的140个代表性案例，覆盖广泛的服务贸易领域。展示的案例将突出中国服务不断扩大的全球影响力，解决方案涵盖基于北斗的时空信息服务、跨境贸易平台、国际医药研发服务和物流解决方案等。近40%的案例涉及人工智能、大语言模型或智能体在法律服务、数字贸易、文化旅游和量子计算等领域的应用。展览还将展示服务与制造业及日常生活更紧密的融合，智能驾驶保险、适老化数字解决方案和智能育儿平台将展示服务创新如何越来越多地惠及民众。"
-    },
-    {
-      "id": 4,
-      "category": "society",
-      "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-16/China-ASEAN-cooperation-gains-momentum-through-shared-opportunities-1Qu40IZAI9O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "China-ASEAN cooperation gains momentum through shared opportunities",
-      "titleCn": "中国—东盟合作借共享机遇势头强劲",
-      "summary": "China-ASEAN ties are deepening, with trade serving as a key driver of broader cooperation in investment, infrastructure, people-to-people exchanges and regional supply chains. The two sides have been each other's largest trading partners for several consecutive years, with bilateral trade surpassing $1 trillion for the first time in 2025.",
-      "summaryCn": "中国与东盟贸易持续增长，双方迎来全面战略伙伴关系五周年，并通过东博会等平台深化投资、基础设施、人文交流及区域供应链合作。",
-      "wordCount": 711,
-      "paragraphs": [
-        {
-          "en": "Nanning welcomes the 23rd China-ASEAN Expo and China-ASEAN Business and Investment Summit, Guangxi Zhuang Autonomous Region, south China, September 15, 2026. \"The number of durian containers in the first seven months has almost matched the total for all of last year,\" said Li Qianchang, native of Pingxiang, a border county in south China's Guangxi Zhuang Autonomous Region, who has been {{1}} fruits since joining his current company in 2020. For Li, the growing trade between China and the Association of South East Asian Nations (ASEAN) can be read from a tally board hanging at the entrance to his office. The trend is part of a broader {{2}} in China-ASEAN cooperation. In the first seven months of this year, Guangxi's imports from ASEAN reached 62.84 billion yuan ($9.4 billion), up 19% year on year.",
-          "cn": "2026年9月15日，中国广西壮族自治区南宁市迎来第23届中国—东盟博览会和中国—东盟商务与投资峰会。“今年前七个月的榴莲集装箱数量几乎与去年全年总量持平，”来自中国南部广西壮族自治区边境县凭祥的李乾昌说。他自2020年加入现公司以来一直从事水果贸易。对李乾昌而言，中国与东南亚国家联盟（东盟）之间不断增长的贸易可以从他办公室入口处挂着的计数板上看出来。这一趋势是中国—东盟合作更广泛扩展的一部分。今年前七个月，广西从东盟的进口额达到628.4亿元人民币（94亿美元），同比增长19%。"
-        },
-        {
-          "en": "Among major import categories, imports of {{3}} products rose 23.8%, while those of metal ores and {{4}} increased 3.4%. Across the region, China-ASEAN ties are {{5}}, with trade serving as a key driver of broader cooperation in investment, {{6}}, people-to-people exchanges and regional supply chains. The two sides have been each other's largest trading partners for several {{7}} years, with {{8}} trade {{9}} $1 trillion for the first time in 2025. Stronger ties fuel trade growth\nThis year marks the fifth {{10}} of the China-ASEAN Comprehensive Strategic Partnership. Officials from China and ASEAN member states gathered in Beijing on Tuesday to commemorate the {{12}}.",
-          "cn": "在主要进口类别中，机电产品进口增长23.8%，金属矿及矿砂进口增长3.4%。在整个地区，中国—东盟关系正在加深，贸易成为投资、基础设施、人文交流和区域供应链等更广泛合作的关键驱动力。双方已连续多年互为最大贸易伙伴，2025年双边贸易额首次超过1万亿美元。更紧密的关系推动贸易增长。今年是中国—东盟全面战略伙伴关系建立五周年。周二，中国和东盟成员国官员齐聚北京，纪念这一里程碑。"
-        },
-        {
-          "en": "\"The partnership had proven its value over the past five years by bringing {{13}} benefits to more than 2 billion people and contributing to peace, stability and {{14}} in the region,\" said ASEAN Secretary-General Kao Kim Hourn at the event. From the establishment of dialogue relations in 1991 to the {{15}} of ties to a {{11}} strategic partnership in 2021, China and ASEAN have developed close and {{16}} links. China has made significant advances in areas such as artificial intelligence (AI), electric vehicles and {{17}} energy, where it has strong capabilities, said Destarata Mustafa, counsellor for political affairs at the Indonesian Embassy in Beijing. \"We hope to expand cooperation with China in these fields.\"\nVietnamese Ambassador to China Pham Thanh Binh, whose country currently chairs the ASEAN Committee in Beijing, said bilateral trade rose 25.6% year on year in the first eight months of 2026 to more than $862 billion. The figures, he said, {{18}} the depth of ties between the two sides and their shared development opportunities, calling for the comprehensive strategic partnership to continue producing tangible benefits for businesses and people.",
-          "cn": "东盟秘书长高金洪在活动上表示：“过去五年，这一伙伴关系证明了其价值，为超过20亿人带来了实实在在的利益，并为地区和平、稳定与繁荣作出了贡献。”从1991年建立对话关系，到2021年将关系提升为全面战略伙伴关系，中国和东盟已发展出密切而多方面的联系。印度尼西亚驻北京大使馆政治事务参赞德斯塔拉塔·穆斯塔法表示，中国在人工智能、电动汽车和可再生能源等领域取得了重大进展，并在这些领域拥有强大能力。“我们希望在这些领域扩大与中国的合作。”越南驻华大使范清平表示，2026年前八个月，双边贸易额同比增长25.6%，超过8620亿美元。他说，这些数字表明双方关系的深度以及共同的发展机遇，并呼吁全面战略伙伴关系继续为企业 and 人民带来实实在在的利益。"
-        },
-        {
-          "en": "The venue for the China-ASEAN Expo, Nanning, Guangxi Zhuang Autonomous Region, south China, September 15, 2026. China-ASEAN Expo opens new avenues for cooperation\nThe {{19}} 23rd China-ASEAN Expo and China-ASEAN Business and Investment Summit in Nanning, Guangxi, will provide another platform for that cooperation. This year's expo will feature several firsts, reflecting an increasing emphasis on technology, two-way demand and business participation. For the first time, the expo will establish exhibition areas dedicated to the future and the growth of sci-tech companies, where {{20}} products and newly launched innovations will be {{21}}. A new exhibition area will also focus on the needs of ASEAN countries, shifting the emphasis from what Chinese companies can offer to what ASEAN markets are looking for, including technologies and applications.",
-          "cn": "2026年9月15日，中国广西壮族自治区南宁市，中国—东盟博览会举办地。中国—东盟博览会开辟合作新途径。即将在广西南宁举行的第23届中国—东盟博览会和中国—东盟商务与投资峰会将为这种合作提供另一个平台。今年的博览会将有多个“首次”，反映出对技术、双向需求和商业参与的日益重视。博览会将首次设立面向未来和科技企业成长的展区，展示前沿产品和新近推出的创新成果。新的展区还将聚焦东盟国家的需求，将重点从中国企业能提供什么转向东盟市场正在寻找什么，包括技术和应用。"
-        },
-        {
-          "en": "Another new format will see leading companies bring their upstream and downstream small and medium-sized enterprises to the expo, giving specialized and innovative firms greater exposure to international markets. AI will be another major feature of this year's expo. For the first time, the event will set up a sector featuring a range of AI hardware and software products, while showcasing AI applications in areas including finance and cross-border financial services. More than 400 new products, including the Tianzhu-1 satellite, and over 100 new technologies are expected to make their debut at the event. The expo will also host, for the first time, a special session displaying Thai products for the Chinese market, along with a China-ASEAN AI matchmaking event and a high-level dialogue on coordinated development under the Regional Comprehensive Economic Partnership (RCEP) and the China-ASEAN Free Trade Area.",
-          "cn": "另一种新形式将让龙头企业带领其上下游中小企业参加博览会，使专业化、创新型企业在国际市场上获得更多曝光。人工智能将是今年博览会的另一大特色。活动将首次设立一个展区，展示一系列人工智能硬件和软件产品，同时展示人工智能在金融和跨境金融服务等领域的应用。包括“天竺一号”卫星在内的400多种新产品和100多项新技术预计将在活动上首次亮相。博览会还将首次举办专门展示面向中国市场的泰国产品的特别会议，以及中国—东盟人工智能对接活动和关于《区域全面经济伙伴关系协定》（RCEP）与中国—东盟自由贸易区协同发展的高级别对话。"
-        },
-        {
-          "en": "The new initiatives {{22}} a shift toward making trade and business the core of the expo, companies the main participants and practical applications a key feature.",
-          "cn": "这些新举措凸显了一种转变，即让贸易和商业成为博览会的核心，让企业成为主要参与者，让实际应用成为关键特色。"
-        }
-      ],
-      "blanks": [
-        {
-          "id": 0,
-          "answer": "trading",
-          "hint": "v. 从事贸易（现在分词）",
-          "difficulty": "easy"
-        },
-        {
-          "id": 1,
-          "answer": "expansion",
-          "hint": "n. 扩展；扩张",
-          "difficulty": "medium"
-        },
-        {
-          "id": 2,
-          "answer": "electromechanical",
-          "hint": "adj. 机电的",
-          "difficulty": "hard"
-        },
-        {
-          "id": 3,
-          "answer": "concentrates",
-          "hint": "n. 精矿（复数）",
-          "difficulty": "hard"
-        },
-        {
-          "id": 4,
-          "answer": "deepening",
-          "hint": "v. 加深（现在分词）",
-          "difficulty": "medium"
-        },
-        {
-          "id": 5,
           "answer": "infrastructure",
           "hint": "n. 基础设施",
           "difficulty": "medium"
         },
         {
-          "id": 6,
-          "answer": "consecutive",
-          "hint": "adj. 连续的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 7,
-          "answer": "bilateral",
-          "hint": "adj. 双边的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 8,
-          "answer": "surpassing",
-          "hint": "v. 超过（现在分词）",
-          "difficulty": "medium"
-        },
-        {
-          "id": 9,
-          "answer": "anniversary",
-          "hint": "n. 周年纪念",
-          "difficulty": "easy"
-        },
-        {
-          "id": 10,
-          "answer": "comprehensive",
-          "hint": "adj. 全面的",
-          "difficulty": "medium"
-        },
-        {
-          "id": 11,
-          "answer": "milestone",
-          "hint": "n. 里程碑",
-          "difficulty": "medium"
-        },
-        {
-          "id": 12,
-          "answer": "tangible",
-          "hint": "adj. 切实的；有形的",
-          "difficulty": "hard"
-        },
-        {
           "id": 13,
-          "answer": "prosperity",
-          "hint": "n. 繁荣",
+          "answer": "ecosystems",
+          "hint": "n. 生态系统",
           "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "elevation",
-          "hint": "n. 提升；升级",
-          "difficulty": "hard"
+          "answer": "dedicated",
+          "hint": "adj. 专用的",
+          "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "multifaceted",
-          "hint": "adj. 多方面的",
+          "answer": "aquatic",
+          "hint": "adj. 水生的",
           "difficulty": "hard"
         },
         {
           "id": 16,
-          "answer": "renewable",
-          "hint": "adj. 可再生的",
-          "difficulty": "medium"
+          "answer": "velocity",
+          "hint": "n. 速度",
+          "difficulty": "hard"
         },
         {
           "id": 17,
-          "answer": "demonstrate",
-          "hint": "v. 表明；证明",
+          "answer": "monitoring",
+          "hint": "n. 监测",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "upcoming",
-          "hint": "adj. 即将到来的",
-          "difficulty": "easy"
-        },
-        {
-          "id": 19,
-          "answer": "cutting-edge",
-          "hint": "adj. 前沿的",
+          "answer": "species",
+          "hint": "n. 物种",
           "difficulty": "medium"
         },
         {
+          "id": 19,
+          "answer": "vegetation",
+          "hint": "n. 植被",
+          "difficulty": "hard"
+        },
+        {
           "id": 20,
-          "answer": "showcased",
-          "hint": "v. 展示（过去分词）",
+          "answer": "habitats",
+          "hint": "n. 栖息地",
           "difficulty": "medium"
         },
         {
           "id": 21,
-          "answer": "underscore",
-          "hint": "v. 强调；凸显",
+          "answer": "fragmentation",
+          "hint": "n. 破碎化",
           "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "incorporated",
+          "hint": "v. 纳入（过去分词）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 23,
+          "answer": "excavated",
+          "hint": "v. 挖掘（过去式）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 24,
+          "answer": "reinforcement",
+          "hint": "n. 加固",
+          "difficulty": "hard"
+        },
+        {
+          "id": 25,
+          "answer": "remediation",
+          "hint": "n. 修复",
+          "difficulty": "hard"
+        },
+        {
+          "id": 26,
+          "answer": "preserving",
+          "hint": "v. 保护（现在分词）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "permanently",
+          "hint": "adv. 永久地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 28,
+          "answer": "disconnect",
+          "hint": "v. 切断，使分离",
+          "difficulty": "medium"
         }
       ],
-      "fullText": "Nanning welcomes the 23rd China-ASEAN Expo and China-ASEAN Business and Investment Summit, Guangxi Zhuang Autonomous Region, south China, September 15, 2026. \n\"The number of durian containers in the first seven months has almost matched the total for all of last year,\" said Li Qianchang, native of Pingxiang, a border county in south China's Guangxi Zhuang Autonomous Region, who has been trading fruits since joining his current company in 2020.\nFor Li, the growing trade between China and the Association of South East Asian Nations (ASEAN) can be read from a tally board hanging at the entrance to his office.\nThe trend is part of a broader expansion in China-ASEAN cooperation. In the first seven months of this year, Guangxi's imports from ASEAN reached 62.84 billion yuan ($9.4 billion), up 19% year on year. Among major import categories, imports of electromechanical products rose 23.8%, while those of metal ores and concentrates increased 3.4%.\nAcross the region, China-ASEAN ties are deepening, with trade serving as a key driver of broader cooperation in investment, infrastructure, people-to-people exchanges and regional supply chains. The two sides have been each other's largest trading partners for several consecutive years, with bilateral trade surpassing $1 trillion for the first time in 2025.\nStronger ties fuel trade growth\nThis year marks the fifth anniversary of the China-ASEAN Comprehensive Strategic Partnership. Officials from China and ASEAN member states gathered in Beijing on Tuesday to commemorate the milestone.\n\"The partnership had proven its value over the past five years by bringing tangible benefits to more than 2 billion people and contributing to peace, stability and prosperity in the region,\" said ASEAN Secretary-General Kao Kim Hourn at the event.\nFrom the establishment of dialogue relations in 1991 to the elevation of ties to a comprehensive strategic partnership in 2021, China and ASEAN have developed close and multifaceted links.\nChina has made significant advances in areas such as artificial intelligence (AI), electric vehicles and renewable energy, where it has strong capabilities, said Destarata Mustafa, counsellor for political affairs at the Indonesian Embassy in Beijing. \"We hope to expand cooperation with China in these fields.\"\nVietnamese Ambassador to China Pham Thanh Binh, whose country currently chairs the ASEAN Committee in Beijing, said bilateral trade rose 25.6% year on year in the first eight months of 2026 to more than $862 billion.\nThe figures, he said, demonstrate the depth of ties between the two sides and their shared development opportunities, calling for the comprehensive strategic partnership to continue producing tangible benefits for businesses and people.\nThe venue for the China-ASEAN Expo, Nanning, Guangxi Zhuang Autonomous Region, south China, September 15, 2026. \nChina-ASEAN Expo opens new avenues for cooperation\nThe upcoming 23rd China-ASEAN Expo and China-ASEAN Business and Investment Summit in Nanning, Guangxi, will provide another platform for that cooperation.\nThis year's expo will feature several firsts, reflecting an increasing emphasis on technology, two-way demand and business participation.\nFor the first time, the expo will establish exhibition areas dedicated to the future and the growth of sci-tech companies, where cutting-edge products and newly launched innovations will be showcased.\nA new exhibition area will also focus on the needs of ASEAN countries, shifting the emphasis from what Chinese companies can offer to what ASEAN markets are looking for, including technologies and applications.\nAnother new format will see leading companies bring their upstream and downstream small and medium-sized enterprises to the expo, giving specialized and innovative firms greater exposure to international markets.\nAI will be another major feature of this year's expo. For the first time, the event will set up a sector featuring a range of AI hardware and software products, while showcasing AI applications in areas including finance and cross-border financial services.\nMore than 400 new products, including the Tianzhu-1 satellite, and over 100 new technologies are expected to make their debut at the event.\nThe expo will also host, for the first time, a special session displaying Thai products for the Chinese market, along with a China-ASEAN AI matchmaking event and a high-level dialogue on coordinated development under the Regional Comprehensive Economic Partnership (RCEP) and the China-ASEAN Free Trade Area.\nThe new initiatives underscore a shift toward making trade and business the core of the expo, companies the main participants and practical applications a key feature.",
-      "fullTextCn": "2026年9月15日，中国广西壮族自治区南宁市迎来第23届中国—东盟博览会和中国—东盟商务与投资峰会。“今年前七个月的榴莲集装箱数量几乎与去年全年总量持平，”来自中国南部广西壮族自治区边境县凭祥的李乾昌说。他自2020年加入现公司以来一直从事水果贸易。对李乾昌而言，中国与东南亚国家联盟（东盟）之间不断增长的贸易可以从他办公室入口处挂着的计数板上看出来。这一趋势是中国—东盟合作更广泛扩展的一部分。今年前七个月，广西从东盟的进口额达到628.4亿元人民币（94亿美元），同比增长19%。\n\n在主要进口类别中，机电产品进口增长23.8%，金属矿及矿砂进口增长3.4%。在整个地区，中国—东盟关系正在加深，贸易成为投资、基础设施、人文交流和区域供应链等更广泛合作的关键驱动力。双方已连续多年互为最大贸易伙伴，2025年双边贸易额首次超过1万亿美元。更紧密的关系推动贸易增长。今年是中国—东盟全面战略伙伴关系建立五周年。周二，中国和东盟成员国官员齐聚北京，纪念这一里程碑。\n\n东盟秘书长高金洪在活动上表示：“过去五年，这一伙伴关系证明了其价值，为超过20亿人带来了实实在在的利益，并为地区和平、稳定与繁荣作出了贡献。”从1991年建立对话关系，到2021年将关系提升为全面战略伙伴关系，中国和东盟已发展出密切而多方面的联系。印度尼西亚驻北京大使馆政治事务参赞德斯塔拉塔·穆斯塔法表示，中国在人工智能、电动汽车和可再生能源等领域取得了重大进展，并在这些领域拥有强大能力。“我们希望在这些领域扩大与中国的合作。”越南驻华大使范清平表示，2026年前八个月，双边贸易额同比增长25.6%，超过8620亿美元。他说，这些数字表明双方关系的深度以及共同的发展机遇，并呼吁全面战略伙伴关系继续为企业 and 人民带来实实在在的利益。\n\n2026年9月15日，中国广西壮族自治区南宁市，中国—东盟博览会举办地。中国—东盟博览会开辟合作新途径。即将在广西南宁举行的第23届中国—东盟博览会和中国—东盟商务与投资峰会将为这种合作提供另一个平台。今年的博览会将有多个“首次”，反映出对技术、双向需求和商业参与的日益重视。博览会将首次设立面向未来和科技企业成长的展区，展示前沿产品和新近推出的创新成果。新的展区还将聚焦东盟国家的需求，将重点从中国企业能提供什么转向东盟市场正在寻找什么，包括技术和应用。\n\n另一种新形式将让龙头企业带领其上下游中小企业参加博览会，使专业化、创新型企业在国际市场上获得更多曝光。人工智能将是今年博览会的另一大特色。活动将首次设立一个展区，展示一系列人工智能硬件和软件产品，同时展示人工智能在金融和跨境金融服务等领域的应用。包括“天竺一号”卫星在内的400多种新产品和100多项新技术预计将在活动上首次亮相。博览会还将首次举办专门展示面向中国市场的泰国产品的特别会议，以及中国—东盟人工智能对接活动和关于《区域全面经济伙伴关系协定》（RCEP）与中国—东盟自由贸易区协同发展的高级别对话。\n\n这些新举措凸显了一种转变，即让贸易和商业成为博览会的核心，让企业成为主要参与者，让实际应用成为关键特色。"
+      "fullText": "The Pinglu Canal in south China's Guangxi Zhuang Autonomous Region officially opened to commercial navigation on Wednesday, marking the country's first major river-to-sea canal project planned and coordinated at the national level since 1949.\nThe 134.2-kilometer waterway connects the Xijiang River corridor with the Beibu Gulf, cutting the traditional shipping distance between southwestern China and the sea by more than 560 kilometers.\nA view of Pinglu Canal in south China's Guangxi Zhuang Autonomous Region. \nA new gateway for China-ASEAN trade\nFor decades, much of the cargo from China's southwest had to travel eastward before reaching the sea through Guangdong and other coastal areas. The Pinglu Canal provides a more direct route to the Beibu Gulf, allowing vessels of up to 5,000 tonnes to sail from the inland river network to the sea.\nLocal authorities estimate that the shortcut could reduce logistics costs by 18% to 30%, saving about 5.2 billion yuan ($720 million) each year.\nThe canal also forms a key part of the New International Land-Sea Trade Corridor, giving inland regions such as Chongqing, Chengdu, Guizhou and Yunnan a more direct maritime gateway to Southeast Asia.\nThe timing is significant. China and ASEAN have been each other's largest trading partners for six consecutive years. In the first half of 2026, their trade reached 4.34 trillion yuan, up 18.2% year on year.\nThe Beibu Gulf is already becoming an important gateway for that trade, with container throughput at Beibu Gulf Port reaching about 10 million TEUs in 2025, compared with around 2.28 million TEUs in 2017.\nThe canal could further expand the port's economic hinterland, allowing manufactured goods to move south toward ASEAN markets and agricultural products, minerals and other raw materials to move north into China's inland economy.\nBut connecting economies also means cutting through landscape. For Pinglu Canal, that has meant designing infrastructure not only for ships, but also for the species and ecosystems along its route.\nLongmen Bridge near the estuary of Pinglu Canal in Qinzhou, Guangxi, August 25, 2026. \nBuilding a canal while keeping nature connected\nAt the Qingnian navigation hub, engineers built a dedicated fish passage to help aquatic species overcome a water-level difference of nearly 10 meters.\nThe passage is more than 480 meters long and contains 120 pools. By gradually reducing water levels and flow velocity, the system allows fish to move upstream step by step. A separate passage has been designed for eels and other species capable of crawling or climbing.\nMonitoring equipment has been operating since 2025. Project monitoring data show that more than 10 fish species have used the passage, with about 76,000 upstream movements and 115,000 downstream movements recorded.\nOn land, a similar principle is being applied.\nAt the Fenshuiling section, a wildlife-only bridge crosses the canal. Covered with soil and native vegetation, the overpass reconnects forest habitats separated by the waterway. It is designed to allow species including leopard cats, masked palm civets and red-bellied squirrels to cross what would otherwise be a physical barrier.\nThe measure follows recommendations from a 2025 study published in the journal Land, which assessed habitat fragmentation across 11 regional wildlife groups and called for dedicated ecological corridors to be incorporated into infrastructure planning.\nThe project's environmental approach also extends to the enormous amount of material generated during construction.\nEngineers excavated roughly 315 million cubic meters of earth and rock. More than 98% of the material was reused for riverbank reinforcement, soil remediation and the creation of about 13,900 mu, or 927 hectares, of farmland.\nThe opening of the canal marks the beginning of another phase. As commercial traffic grows, maintaining water quality, preserving wildlife movement and protecting coastal ecosystems will require continuous monitoring and management.\nEstuary of Pinglu Canal in the Maowei Sea waters of Qinzhou, Guangxi, August 25, 2026. \nThe Pinglu Canal is intended to create new connections — between inland China and the sea, between China and ASEAN, and between production centers and global markets. The challenge now is to ensure that these new connections do not permanently disconnect the ecosystems along its route.",
+      "fullTextCn": "位于中国南部广西壮族自治区的平陆运河于周三正式开通商业通航，标志着自1949年以来中国首个在国家层面规划和协调的重大江海联运运河工程。这条134.2公里的水道连接西江走廊与北部湾，将中国西南地区与海洋之间的传统航运距离缩短了560多公里。平陆运河位于中国南部广西壮族自治区的一处景观。中国-东盟贸易的新门户。几十年来，中国西南地区的大部分货物不得不先向东行驶，再经广东和其他沿海地区出海。平陆运河提供了一条通往北部湾的更直接路线，使载重量达5000吨的船舶能够从内河网络驶向大海。\n\n当地政府估计，这条捷径可将物流成本降低18%至30%，每年节省约52亿元人民币（7.2亿美元）。该运河也是新国际陆海贸易走廊的重要组成部分，为重庆、成都、贵州和云南等内陆地区提供了通往东南亚的更直接海上通道。时机意义重大。中国与东盟已连续六年互为最大贸易伙伴。2026年上半年，双方贸易额达到4.34万亿元人民币，同比增长18.2%。\n\n北部湾已经成为该贸易的重要门户，2025年北部湾港集装箱吞吐量达到约1000万标准箱，而2017年约为228万标准箱。该运河可能进一步扩大港口的经济腹地，使制成品向南运往东盟市场，农产品、矿产和其他原材料向北进入中国内陆经济。但连接经济体也意味着要穿越自然景观。对于平陆运河而言，这意味着不仅要为船舶设计基础设施，还要为沿线物种和生态系统进行设计。2026年8月25日，广西钦州平陆运河河口附近的龙门大桥。\n\n建运河的同时保持自然连通。在青年航运枢纽，工程师建造了一条专用鱼道，帮助水生生物克服近10米的水位差。该鱼道长480多米，包含120个水池。通过逐步降低水位和流速，该系统使鱼类能够一步步向上游移动。另外还为鳗鱼和其他能够爬行或攀爬的物种设计了一条独立通道。监测设备自2025年起持续运行。\n\n项目监测数据显示，已有10多种鱼类使用了该鱼道，记录到约76000次上游移动和115000次下游移动。在陆地上，类似的原则也在应用。在分水岭段，一座野生动物专用桥梁横跨运河。这座天桥覆盖着土壤和本地植被，重新连接了被水道分隔的森林栖息地。它的设计目的是让豹猫、果子狸和红腹松鼠等物种能够穿越原本会成为物理屏障的水道。\n\n该措施遵循了2025年发表在《Land》期刊上的一项研究的建议，该研究评估了11个区域野生动物群体的栖息地破碎化情况，并呼吁将专用生态廊道纳入基础设施规划。该项目的环保方法还延伸到施工过程中产生的大量材料。工程师开挖了约3.15亿立方米的土石。超过98%的材料被重新用于河岸加固、土壤修复以及创建约13900亩（927公顷）农田。运河的开通标志着另一个阶段的开始。\n\n随着商业交通的增长，维持水质、保护野生动物迁徙和保护沿海生态系统将需要持续监测和管理。2026年8月25日，广西钦州茅尾海水域平陆运河河口。平陆运河旨在创造新的连接——中国内陆与海洋之间、中国与东盟之间，以及生产中心与全球市场之间。现在的挑战是确保这些新的连接不会永久切断沿线生态系统。"
     },
     {
-      "id": 5,
-      "category": "military",
+      "id": 3,
+      "category": "society",
       "source": "CGTN",
-      "sourceUrl": "https://news.cgtn.com/news/2026-09-16/China-s-top-diplomat-holds-talks-with-Iranian-FM-1QtR93WHzfG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "title": "Wang Yi: China encourages Iran, US to return to Islamabad MoU",
-      "titleCn": "王毅：中国鼓励伊朗和美国重返伊斯兰堡谅解备忘录",
-      "summary": "Chinese Foreign Minister Wang Yi held talks with Minister of Foreign Affairs of Iran Seyyed Abbas Araghchi on Wednesday in Beijing, encouraging Iran and the United States to stay rational and exercise restraint, and return to the Islamabad Memorandum of Understanding (MoU) at an early date.",
-      "summaryCn": "中国外交部长王毅在北京与伊朗外长阿拉格齐会谈，鼓励伊朗与美国保持理性克制、早日重返伊斯兰堡谅解备忘录，并呼吁各方采取措施开放霍尔木兹海峡、通过对话协商解决中东问题。",
-      "wordCount": 678,
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-11/Sharp-rebound-in-US-firms-business-confidence-in-China-report-shows-1Qm9mTKWck8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Sharp rebound in US firms' business confidence in China, report shows",
+      "titleCn": "报告显示：美国企业在华商业信心大幅回升",
+      "summary": "Sharp rebound in US firms' business confidence in China, report shows",
+      "summaryCn": "上海美国商会报告显示，受财务表现改善、地缘政治趋稳及监管进展推动，美国企业在华商业信心大幅回升，投资增加，并出现“在中国为全球”的战略转变。",
+      "wordCount": 649,
       "paragraphs": [
         {
-          "en": "Chinese Foreign Minister Wang Yi (R), also a member of the Political Bureau of the Communist Party of China Central Committee, holds talks with Minister of Foreign Affairs of Iran Seyyed Abbas Araghchi in Beijing, China, September 16, 2026. Chinese Foreign Minister Wang Yi held talks with Minister of Foreign Affairs of Iran Seyyed Abbas Araghchi on Wednesday in Beijing, encouraging Iran and the United States to stay {{0}} and exercise {{1}}, and return to the Islamabad Memorandum of Understanding (MoU) at an early date. Wang, also a member of the Political Bureau of the Communist Party of China Central Committee, noted China, as a permanent member of the UN Security Council, is willing to play a {{2}} role in resolving international {{3}}. Noting that China and Iran are {{4}} strategic partners, he said China is ready to work with Iran to strengthen dialogue and cooperation, and {{10}} Iran's {{5}} rights and interests. Wang said the continued {{6}} of the US-Iran conflict is not in the common interest of the parties concerned and the international community. China encourages Iran and the US to rebuild the negotiation mechanism on the basis of the {{7}} reached so far, and conduct {{8}} consultations on issues of respective concern, Wang said, adding that China supports Iran in engaging in dialogue with Gulf states, respecting each other's territorial {{9}} and national security, and safeguarding the shared regional interests in a constructive manner.",
-          "cn": "中国外交部长、中共中央政治局委员王毅（右）于2026年9月16日在中国北京与伊朗外交部长赛义德·阿巴斯·阿拉格齐举行会谈。中国外交部长王毅周三在北京与伊朗外交部长赛义德·阿巴斯·阿拉格齐举行会谈，鼓励伊朗和美国保持理性、保持克制，并早日重返伊斯兰堡谅解备忘录。王毅同时也是中共中央政治局委员，他指出，中国作为联合国安理会常任理事国，愿意为解决国际争端发挥建设性作用。他指出，中国和伊朗是全面战略伙伴，并表示中国愿与伊朗一道加强对话与合作，维护伊朗的正当权益。王毅表示，美伊冲突持续延长不符合有关各方和国际社会的共同利益。王毅说，中国鼓励伊朗和美国在迄今达成的共识基础上重建谈判机制，就各自关心的问题进行实质性磋商，并补充说，中国支持伊朗与海湾国家开展对话，尊重彼此的领土主权和国家安全，并以建设性方式维护地区共同利益。"
+          "en": "Business confidence among US companies in China {{0}} sharply amid stronger financial performance, a more stable geopolitical landscape and {{1}} regulatory progress, according to AmCham Shanghai's 2026 China Business Report, released on September 10. Of the 262 member companies surveyed, 78% said their China businesses were profitable in 2025, while 58% were {{2}} about their five-year outlook in China. Industrial robots transport {{3}} for inspection at a smart workshop in Yueqing, Zhejiang Province, China, September 8, 2026. The rebound in business confidence was accompanied by stronger investment activity. A total of 28% of {{4}} increased their investment in China in 2025, the highest share in four years.",
+          "cn": "根据上海美国商会9月10日发布的《2026年中国商业报告》，在更强劲的财务表现、更稳定的地缘政治格局以及被认为取得的监管进展推动下，美国企业在华商业信心大幅回升。在接受调查的262家会员企业中，78%表示其中国业务在2025年实现盈利，58%对中国业务的五年前景持乐观态度。2026年9月8日，中国浙江省乐清市一家智能车间内，工业机器人正在运送待检零部件。商业信心的回升伴随着更强劲的投资活动。共有28%的受访企业在2025年增加了在华投资，为四年来最高比例。"
         },
         {
-          "en": "China urges all parties to take effective measures to open the Strait of Hormuz at an early date, safeguard the smooth and safe operation of international shipping routes, and maintain the {{11}} of international energy transport, as well as global industrial and supply chains, he said. \"We do not wish to see regional {{12}} spill over further into Yemen and the Red Sea,\" the Chinese foreign minister said, calling on all parties to {{13}} from further complicating the situation and resolve issues through dialogue and negotiation. Wang pointed out that current developments have once again proven that the existing security architecture in the Middle East is {{14}}, calling for reform and {{15}}. During his visit to Egypt, Chinese President Xi Jinping raised a four-point proposal on building a new security architecture in the Middle East via upholding a vision of common, comprehensive, cooperative and {{16}} security, Wang said, adding that China welcomes useful explorations by regional countries in this regard. On Middle East issues, China, as a responsible major country, will as always contribute to peace and stability, promote peace talks, and uphold fairness and justice, Wang said. Wang said China's policy toward Iran maintains continuity and consistency, adding that China always upholds justice, opposes the use of force, and safeguards the norms governing international relations within the UN Security Council and other multilateral platforms.",
-          "cn": "他说，中国敦促各方采取有效措施，早日开放霍尔木兹海峡，保障国际航运通道的畅通和安全运行，维护国际能源运输以及全球产业链和供应链的稳定。这位中国外交部长说：“我们不希望看到地区紧张局势进一步蔓延到也门和红海，”并呼吁各方避免使局势进一步复杂化，通过对话和谈判解决问题。王毅指出，当前事态发展再次证明，中东现有的安全架构不足，呼吁进行改革和加强。王毅说，中国国家主席习近平在访问埃及期间提出了关于建设中东新安全架构的四点主张，即坚持共同、综合、合作、可持续的安全观，并补充说中国欢迎地区国家在这方面进行有益探索。王毅说，在中东问题上，中国作为负责任的大国，将一如既往地为和平与稳定作出贡献，推动和谈，维护公平正义。王毅表示，中国对伊朗的政策保持连续性和一致性，并补充说，中国始终秉持公正，反对使用武力，并在联合国安理会和其他多边平台上维护国际关系准则。"
+          "en": "Views of the business environment also improved, with 55% describing it as {{5}}, up seven percentage points from a year earlier. Eric Zheng, president of AmCham Shanghai, {{6}} the great importance of the Chinese market, mainly from two {{7}}. China remains one of the most efficient manufacturing bases in the world and continues to be a highly {{8}} market for members' products and services, Zheng said. \"That {{9}} the positive {{10}},\" he added. Among members with US operations, three-quarters confirmed that their China presence benefits their US operations in some way, with one-third emphasizing that their China presence {{11}} the global {{12}} of their US operations.",
+          "cn": "企业对商业环境的看法也有所改善，55%的受访者认为商业环境透明，较上年上升7个百分点。上海美国商会会长郑艺强调了中国市场的重要性，主要从两个维度来看。郑艺表示，中国仍是全球最高效的制造基地之一，并继续成为会员企业产品和服务极具战略意义的市场。他补充说：“这支撑了积极情绪。”在美国设有业务的会员企业中，四分之三确认其在华业务在某种程度上惠及美国业务，三分之一强调其在华业务增强了美国业务的全球竞争力。"
         },
         {
-          "en": "China stands ready to step up communication and {{17}} with Iran to deliver new progress in China‑Iran relations, he added. Briefing on the latest situation in the Middle East as well as Iran's considerations for the next steps, Araghchi said Iran does not wish for the conflict to drag on and hopes to return to diplomatic channels, while resolutely safeguarding its own rights and interests. Iran holds that the US‑Iran MoU remains valid, and has reached an agreement with Oman on a plan to reopen the Strait of Hormuz, he said, adding that the US should earnestly honor all its {{18}}. The Iranian side also stands ready to engage in dialogue and consultation with regional countries, establish and develop good-neighborly and friendly relations, and promote the early restoration of peace and tranquility in the region, said Araghchi. He said Iran welcomes and supports President Xi's four‑point proposal, and is ready to work with China to strengthen cooperation, and looks forward to China playing a greater role in promoting regional peace and stability. Iran attaches great importance to its relations with China and stands ready to continue mutual support, maintain close exchanges at all levels, deepen practical cooperation, jointly address challenges, and push for the sustained and in-depth development of bilateral ties, said the Iranian foreign minister.",
-          "cn": "他补充说，中国愿与伊朗加强沟通协调，推动中伊关系取得新进展。阿拉格齐在通报中东最新局势以及伊朗对下一步的考虑时说，伊朗不希望冲突拖延下去，希望回到外交渠道，同时坚决维护自身权益。他说，伊朗认为美伊谅解备忘录仍然有效，并已与阿曼就重新开放霍尔木兹海峡的计划达成一致，并补充说美国应切实履行其所有承诺。阿拉格齐说，伊方也愿与地区国家开展对话协商，建立和发展睦邻友好关系，推动地区早日恢复和平与安宁。他说，伊朗欢迎并支持习近平主席的四点主张，愿与中国加强合作，并期待中国在促进地区和平与稳定方面发挥更大作用。这位伊朗外交部长说，伊朗高度重视与中国的关系，愿继续相互支持，保持各级别密切交流，深化务实合作，共同应对挑战，推动双边关系持续深入发展。"
+          "en": "A {{13}} strategic shift is also emerging, with more surveyed companies {{14}} a global-oriented strategy. The \"in China for the world\" strategy has become the top business priority for 29% of surveyed companies in 2026, {{15}} the \"in China for China\" model chosen by 24%. ABB Robotics showcases its robotics and automation solutions at productronica China 2026 in Shanghai, China, March 26, 2026. More respondents are also betting on China-based {{16}}, the report said. Half of surveyed members with China-based research and development (R&D) facilities plan to increase R&D spending this year, up sharply from one-third in 2025.",
+          "cn": "一种显著的战略转变也正在出现，更多受访企业采取面向全球的战略。2026年，“在中国为全球”战略已成为29%受访企业的首要业务重点，超过选择“在中国为中国”模式的24%。2026年3月26日，ABB机器人在中国上海举行的2026慕尼黑上海电子生产设备展上展示其机器人和自动化解决方案。报告称，更多受访者也在押注中国本土创新。拥有在华研发设施的受访会员企业中，有一半计划今年增加研发支出，较2025年的三分之一大幅上升。"
+        },
+        {
+          "en": "In a vote of confidence in the Chinese market, General Motors (GM) in August announced a 20-year {{17}} of its joint venture partnership with Chinese automaker SAIC Motor, with it now running to 2047. \"We will continue to strengthen our performance here in China by developing products and technologies in China, for China, and bringing them to market faster,\" said John Roth, senior vice president of GM and president of GM China. The joint venture plans to launch at least 30 new energy vehicle models by 2030. \"We see meaningful opportunities to grow beyond China. SAIC-GM has strong local {{18}} across engineering, manufacturing and quality, and we can apply those strengths in select international markets, including the Middle East, Africa, South America, Mexico and Asia-Pacific,\" Roth said.",
+          "cn": "作为对中国市场投下的信任票，通用汽车8月宣布将其与中国汽车制造商上汽集团的合资合作关系延长20年，现已延续至2047年。通用汽车高级副总裁兼通用汽车中国总裁何思文表示：“我们将继续通过在中国开发、为中国开发产品和技术，并更快地将其推向市场，来增强我们在中国的表现。”该合资企业计划到2030年推出至少30款新能源汽车车型。何思文说：“我们看到了在中国以外实现增长的重要机遇。上汽通用在工程、制造和质量方面拥有强大的本土能力，我们可以将这些优势应用于部分国际市场，包括中东、非洲、南美、墨西哥和亚太地区。”"
+        },
+        {
+          "en": "The front of the Siemens booth is seen at the Shanghai New Expo Center during the World Artificial Intelligence Conference 2026 in Shanghai, China. July 20, 2026. Siemens offers another example. Its Digital Native Factory in Nanjing, the German technology group's largest research and production center for computer numerical control systems, drives and electric motors outside Germany, was added to the World Economic Forum's Global Lighthouse Network in January. The factory has introduced digital twins, modular automation and more than 50 AI applications.",
+          "cn": "2026年7月20日，在中国上海举行的2026世界人工智能大会期间，上海新国际博览中心西门子展台正面。西门子是另一个例子。其在南京的数字化原生工厂于1月被加入世界经济论坛全球灯塔网络，该工厂是这家德国科技集团在德国以外最大的计算机数控系统、驱动器和电动机研发与生产中心。该工厂引入了数字孪生、模块化自动化以及50多项人工智能应用。"
+        },
+        {
+          "en": "Siemens said these technologies had cut its time to market by one-third compared with 2022. In a March interview with Xinhua, Siemens global executive vice president Xiao Song said the breadth of China's industries, the depth of its manufacturing system, the speed of technological innovation and the openness to new technologies created opportunities for foreign companies. A separate 2026 survey by the European Union Chamber of Commerce in China also identified innovation, cost and speed as strengths of the Chinese market. However, it noted continuing economic pressure, market access {{19}} and regulatory concerns. Jeffrey Lehman, chair of AmCham Shanghai, said members had seen improvements in the regulatory environment, reinforced by steadier China-US relations.",
+          "cn": "西门子表示，与2022年相比，这些技术将其上市时间缩短了三分之一。在接受新华社3月采访时，西门子全球执行副总裁肖松表示，中国产业的广度、制造体系的深度、技术创新的速度以及对新技术的开放态度为外国企业创造了机遇。中国欧盟商会另行开展的2026年调查也认为，创新、成本和速度是中国市场的优势。然而，调查也指出持续存在的经济压力、市场准入壁垒和监管担忧。上海美国商会主席雷蒙表示，会员企业已看到监管环境的改善，这得益于更加稳定的中美关系。"
+        },
+        {
+          "en": "He also called for a stable and transparent {{20}} that supports cross-border trade and investment.",
+          "cn": "他还呼吁建立稳定透明的框架，以支持跨境贸易和投资。"
         }
       ],
       "blanks": [
         {
           "id": 0,
-          "answer": "rational",
-          "hint": "adj. 理性的",
+          "answer": "rebounded",
+          "hint": "v. 回升，反弹",
           "difficulty": "medium"
         },
         {
           "id": 1,
-          "answer": "restraint",
-          "hint": "n. 克制",
+          "answer": "perceived",
+          "hint": "adj. 被认为的，感知的",
           "difficulty": "medium"
         },
         {
           "id": 2,
-          "answer": "constructive",
-          "hint": "adj. 建设性的",
-          "difficulty": "medium"
+          "answer": "optimistic",
+          "hint": "adj. 乐观的",
+          "difficulty": "easy"
         },
         {
           "id": 3,
-          "answer": "disputes",
-          "hint": "n. 争端",
+          "answer": "components",
+          "hint": "n. 零部件，组件",
           "difficulty": "medium"
         },
         {
           "id": 4,
-          "answer": "comprehensive",
-          "hint": "adj. 全面的",
+          "answer": "respondents",
+          "hint": "n. 受访者",
           "difficulty": "medium"
         },
         {
           "id": 5,
-          "answer": "legitimate",
-          "hint": "adj. 合法的",
-          "difficulty": "hard"
+          "answer": "transparent",
+          "hint": "adj. 透明的",
+          "difficulty": "medium"
         },
         {
           "id": 6,
-          "answer": "prolongation",
-          "hint": "n. 延长",
-          "difficulty": "hard"
+          "answer": "emphasized",
+          "hint": "v. 强调",
+          "difficulty": "medium"
         },
         {
           "id": 7,
-          "answer": "consensus",
-          "hint": "n. 共识",
+          "answer": "dimensions",
+          "hint": "n. 维度，方面",
           "difficulty": "medium"
         },
         {
           "id": 8,
-          "answer": "substantive",
-          "hint": "adj. 实质性的",
-          "difficulty": "hard"
+          "answer": "strategic",
+          "hint": "adj. 战略性的",
+          "difficulty": "medium"
         },
         {
           "id": 9,
-          "answer": "sovereignty",
-          "hint": "n. 主权",
+          "answer": "underpins",
+          "hint": "v. 支撑，构成基础",
           "difficulty": "hard"
         },
         {
           "id": 10,
-          "answer": "safeguard",
-          "hint": "v. 保障",
+          "answer": "sentiment",
+          "hint": "n. 情绪，看法",
           "difficulty": "medium"
         },
         {
           "id": 11,
-          "answer": "stability",
-          "hint": "n. 稳定",
-          "difficulty": "easy"
+          "answer": "enhances",
+          "hint": "v. 增强，提升",
+          "difficulty": "medium"
         },
         {
           "id": 12,
-          "answer": "tensions",
-          "hint": "n. 紧张局势",
+          "answer": "competitiveness",
+          "hint": "n. 竞争力",
           "difficulty": "medium"
         },
         {
           "id": 13,
-          "answer": "refrain",
-          "hint": "v. 避免",
-          "difficulty": "hard"
+          "answer": "notable",
+          "hint": "adj. 显著的",
+          "difficulty": "medium"
         },
         {
           "id": 14,
-          "answer": "inadequate",
-          "hint": "adj. 不足的",
-          "difficulty": "hard"
+          "answer": "adopting",
+          "hint": "v. 采用，采取",
+          "difficulty": "medium"
         },
         {
           "id": 15,
-          "answer": "reinforcement",
-          "hint": "n. 加强",
+          "answer": "surpassing",
+          "hint": "v. 超过，胜过",
           "difficulty": "hard"
         },
         {
           "id": 16,
-          "answer": "sustainable",
-          "hint": "adj. 可持续的",
-          "difficulty": "medium"
+          "answer": "innovation",
+          "hint": "n. 创新",
+          "difficulty": "easy"
         },
         {
           "id": 17,
-          "answer": "coordination",
-          "hint": "n. 协调",
+          "answer": "extension",
+          "hint": "n. 延长，扩展",
           "difficulty": "medium"
         },
         {
           "id": 18,
-          "answer": "commitments",
-          "hint": "n. 承诺",
+          "answer": "capabilities",
+          "hint": "n. 能力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "barriers",
+          "hint": "n. 壁垒，障碍",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "framework",
+          "hint": "n. 框架",
           "difficulty": "medium"
         }
       ],
-      "fullText": "Chinese Foreign Minister Wang Yi (R), also a member of the Political Bureau of the Communist Party of China Central Committee, holds talks with Minister of Foreign Affairs of Iran Seyyed Abbas Araghchi in Beijing, China, September 16, 2026. \nChinese Foreign Minister Wang Yi held talks with Minister of Foreign Affairs of Iran Seyyed Abbas Araghchi on Wednesday in Beijing, encouraging Iran and the United States to stay rational and exercise restraint, and return to the Islamabad Memorandum of Understanding (MoU) at an early date.\nWang, also a member of the Political Bureau of the Communist Party of China Central Committee, noted China, as a permanent member of the UN Security Council, is willing to play a constructive role in resolving international disputes.\nNoting that China and Iran are comprehensive strategic partners, he said China is ready to work with Iran to strengthen dialogue and cooperation, and safeguard Iran's legitimate rights and interests.\nWang said the continued prolongation of the US-Iran conflict is not in the common interest of the parties concerned and the international community.\nChina encourages Iran and the US to rebuild the negotiation mechanism on the basis of the consensus reached so far, and conduct substantive consultations on issues of respective concern, Wang said, adding that China supports Iran in engaging in dialogue with Gulf states, respecting each other's territorial sovereignty and national security, and safeguarding the shared regional interests in a constructive manner.\nChina urges all parties to take effective measures to open the Strait of Hormuz at an early date, safeguard the smooth and safe operation of international shipping routes, and maintain the stability of international energy transport, as well as global industrial and supply chains, he said.\n\"We do not wish to see regional tensions spill over further into Yemen and the Red Sea,\" the Chinese foreign minister said, calling on all parties to refrain from further complicating the situation and resolve issues through dialogue and negotiation.\nWang pointed out that current developments have once again proven that the existing security architecture in the Middle East is inadequate, calling for reform and reinforcement.\nDuring his visit to Egypt, Chinese President Xi Jinping raised a four-point proposal on building a new security architecture in the Middle East via upholding a vision of common, comprehensive, cooperative and sustainable security, Wang said, adding that China welcomes useful explorations by regional countries in this regard.\nOn Middle East issues, China, as a responsible major country, will as always contribute to peace and stability, promote peace talks, and uphold fairness and justice, Wang said.\nWang said China's policy toward Iran maintains continuity and consistency, adding that China always upholds justice, opposes the use of force, and safeguards the norms governing international relations within the UN Security Council and other multilateral platforms.\nChina stands ready to step up communication and coordination with Iran to deliver new progress in China‑Iran relations, he added.\nBriefing on the latest situation in the Middle East as well as Iran's considerations for the next steps, Araghchi said Iran does not wish for the conflict to drag on and hopes to return to diplomatic channels, while resolutely safeguarding its own rights and interests.\nIran holds that the US‑Iran MoU remains valid, and has reached an agreement with Oman on a plan to reopen the Strait of Hormuz, he said, adding that the US should earnestly honor all its commitments.\nThe Iranian side also stands ready to engage in dialogue and consultation with regional countries, establish and develop good-neighborly and friendly relations, and promote the early restoration of peace and tranquility in the region, said Araghchi.\nHe said Iran welcomes and supports President Xi's four‑point proposal, and is ready to work with China to strengthen cooperation, and looks forward to China playing a greater role in promoting regional peace and stability.\nIran attaches great importance to its relations with China and stands ready to continue mutual support, maintain close exchanges at all levels, deepen practical cooperation, jointly address challenges, and push for the sustained and in-depth development of bilateral ties, said the Iranian foreign minister.",
-      "fullTextCn": "中国外交部长、中共中央政治局委员王毅（右）于2026年9月16日在中国北京与伊朗外交部长赛义德·阿巴斯·阿拉格齐举行会谈。中国外交部长王毅周三在北京与伊朗外交部长赛义德·阿巴斯·阿拉格齐举行会谈，鼓励伊朗和美国保持理性、保持克制，并早日重返伊斯兰堡谅解备忘录。王毅同时也是中共中央政治局委员，他指出，中国作为联合国安理会常任理事国，愿意为解决国际争端发挥建设性作用。他指出，中国和伊朗是全面战略伙伴，并表示中国愿与伊朗一道加强对话与合作，维护伊朗的正当权益。王毅表示，美伊冲突持续延长不符合有关各方和国际社会的共同利益。王毅说，中国鼓励伊朗和美国在迄今达成的共识基础上重建谈判机制，就各自关心的问题进行实质性磋商，并补充说，中国支持伊朗与海湾国家开展对话，尊重彼此的领土主权和国家安全，并以建设性方式维护地区共同利益。\n\n他说，中国敦促各方采取有效措施，早日开放霍尔木兹海峡，保障国际航运通道的畅通和安全运行，维护国际能源运输以及全球产业链和供应链的稳定。这位中国外交部长说：“我们不希望看到地区紧张局势进一步蔓延到也门和红海，”并呼吁各方避免使局势进一步复杂化，通过对话和谈判解决问题。王毅指出，当前事态发展再次证明，中东现有的安全架构不足，呼吁进行改革和加强。王毅说，中国国家主席习近平在访问埃及期间提出了关于建设中东新安全架构的四点主张，即坚持共同、综合、合作、可持续的安全观，并补充说中国欢迎地区国家在这方面进行有益探索。王毅说，在中东问题上，中国作为负责任的大国，将一如既往地为和平与稳定作出贡献，推动和谈，维护公平正义。王毅表示，中国对伊朗的政策保持连续性和一致性，并补充说，中国始终秉持公正，反对使用武力，并在联合国安理会和其他多边平台上维护国际关系准则。\n\n他补充说，中国愿与伊朗加强沟通协调，推动中伊关系取得新进展。阿拉格齐在通报中东最新局势以及伊朗对下一步的考虑时说，伊朗不希望冲突拖延下去，希望回到外交渠道，同时坚决维护自身权益。他说，伊朗认为美伊谅解备忘录仍然有效，并已与阿曼就重新开放霍尔木兹海峡的计划达成一致，并补充说美国应切实履行其所有承诺。阿拉格齐说，伊方也愿与地区国家开展对话协商，建立和发展睦邻友好关系，推动地区早日恢复和平与安宁。他说，伊朗欢迎并支持习近平主席的四点主张，愿与中国加强合作，并期待中国在促进地区和平与稳定方面发挥更大作用。这位伊朗外交部长说，伊朗高度重视与中国的关系，愿继续相互支持，保持各级别密切交流，深化务实合作，共同应对挑战，推动双边关系持续深入发展。"
+      "fullText": "Business confidence among US companies in China rebounded sharply amid stronger financial performance, a more stable geopolitical landscape and perceived regulatory progress, according to AmCham Shanghai's 2026 China Business Report, released on September 10.\nOf the 262 member companies surveyed, 78% said their China businesses were profitable in 2025, while 58% were optimistic about their five-year outlook in China.\nIndustrial robots transport components for inspection at a smart workshop in Yueqing, Zhejiang Province, China, September 8, 2026. \nThe rebound in business confidence was accompanied by stronger investment activity. A total of 28% of respondents increased their investment in China in 2025, the highest share in four years. Views of the business environment also improved, with 55% describing it as transparent, up seven percentage points from a year earlier.\nEric Zheng, president of AmCham Shanghai, emphasized the great importance of the Chinese market, mainly from two dimensions.\nChina remains one of the most efficient manufacturing bases in the world and continues to be a highly strategic market for members' products and services, Zheng said. \"That underpins the positive sentiment,\" he added.\nAmong members with US operations, three-quarters confirmed that their China presence benefits their US operations in some way, with one-third emphasizing that their China presence enhances the global competitiveness of their US operations.\nA notable strategic shift is also emerging, with more surveyed companies adopting a global-oriented strategy. The \"in China for the world\" strategy has become the top business priority for 29% of surveyed companies in 2026, surpassing the \"in China for China\" model chosen by 24%.\nABB Robotics showcases its robotics and automation solutions at productronica China 2026 in Shanghai, China, March 26, 2026. \nMore respondents are also betting on China-based innovation, the report said. Half of surveyed members with China-based research and development (R&D) facilities plan to increase R&D spending this year, up sharply from one-third in 2025.\nIn a vote of confidence in the Chinese market, General Motors (GM) in August announced a 20-year extension of its joint venture partnership with Chinese automaker SAIC Motor, with it now running to 2047.\n\"We will continue to strengthen our performance here in China by developing products and technologies in China, for China, and bringing them to market faster,\" said John Roth, senior vice president of GM and president of GM China. The joint venture plans to launch at least 30 new energy vehicle models by 2030.\n\"We see meaningful opportunities to grow beyond China. SAIC-GM has strong local capabilities across engineering, manufacturing and quality, and we can apply those strengths in select international markets, including the Middle East, Africa, South America, Mexico and Asia-Pacific,\" Roth said.\nThe front of the Siemens booth is seen at the Shanghai New Expo Center during the World Artificial Intelligence Conference 2026 in Shanghai, China. July 20, 2026. \nSiemens offers another example. Its Digital Native Factory in Nanjing, the German technology group's largest research and production center for computer numerical control systems, drives and electric motors outside Germany, was added to the World Economic Forum's Global Lighthouse Network in January.\nThe factory has introduced digital twins, modular automation and more than 50 AI applications. Siemens said these technologies had cut its time to market by one-third compared with 2022.\nIn a March interview with Xinhua, Siemens global executive vice president Xiao Song said the breadth of China's industries, the depth of its manufacturing system, the speed of technological innovation and the openness to new technologies created opportunities for foreign companies.\nA separate 2026 survey by the European Union Chamber of Commerce in China also identified innovation, cost and speed as strengths of the Chinese market. However, it noted continuing economic pressure, market access barriers and regulatory concerns.\nJeffrey Lehman, chair of AmCham Shanghai, said members had seen improvements in the regulatory environment, reinforced by steadier China-US relations. He also called for a stable and transparent framework that supports cross-border trade and investment.",
+      "fullTextCn": "根据上海美国商会9月10日发布的《2026年中国商业报告》，在更强劲的财务表现、更稳定的地缘政治格局以及被认为取得的监管进展推动下，美国企业在华商业信心大幅回升。在接受调查的262家会员企业中，78%表示其中国业务在2025年实现盈利，58%对中国业务的五年前景持乐观态度。2026年9月8日，中国浙江省乐清市一家智能车间内，工业机器人正在运送待检零部件。商业信心的回升伴随着更强劲的投资活动。共有28%的受访企业在2025年增加了在华投资，为四年来最高比例。\n\n企业对商业环境的看法也有所改善，55%的受访者认为商业环境透明，较上年上升7个百分点。上海美国商会会长郑艺强调了中国市场的重要性，主要从两个维度来看。郑艺表示，中国仍是全球最高效的制造基地之一，并继续成为会员企业产品和服务极具战略意义的市场。他补充说：“这支撑了积极情绪。”在美国设有业务的会员企业中，四分之三确认其在华业务在某种程度上惠及美国业务，三分之一强调其在华业务增强了美国业务的全球竞争力。\n\n一种显著的战略转变也正在出现，更多受访企业采取面向全球的战略。2026年，“在中国为全球”战略已成为29%受访企业的首要业务重点，超过选择“在中国为中国”模式的24%。2026年3月26日，ABB机器人在中国上海举行的2026慕尼黑上海电子生产设备展上展示其机器人和自动化解决方案。报告称，更多受访者也在押注中国本土创新。拥有在华研发设施的受访会员企业中，有一半计划今年增加研发支出，较2025年的三分之一大幅上升。\n\n作为对中国市场投下的信任票，通用汽车8月宣布将其与中国汽车制造商上汽集团的合资合作关系延长20年，现已延续至2047年。通用汽车高级副总裁兼通用汽车中国总裁何思文表示：“我们将继续通过在中国开发、为中国开发产品和技术，并更快地将其推向市场，来增强我们在中国的表现。”该合资企业计划到2030年推出至少30款新能源汽车车型。何思文说：“我们看到了在中国以外实现增长的重要机遇。上汽通用在工程、制造和质量方面拥有强大的本土能力，我们可以将这些优势应用于部分国际市场，包括中东、非洲、南美、墨西哥和亚太地区。”\n\n2026年7月20日，在中国上海举行的2026世界人工智能大会期间，上海新国际博览中心西门子展台正面。西门子是另一个例子。其在南京的数字化原生工厂于1月被加入世界经济论坛全球灯塔网络，该工厂是这家德国科技集团在德国以外最大的计算机数控系统、驱动器和电动机研发与生产中心。该工厂引入了数字孪生、模块化自动化以及50多项人工智能应用。\n\n西门子表示，与2022年相比，这些技术将其上市时间缩短了三分之一。在接受新华社3月采访时，西门子全球执行副总裁肖松表示，中国产业的广度、制造体系的深度、技术创新的速度以及对新技术的开放态度为外国企业创造了机遇。中国欧盟商会另行开展的2026年调查也认为，创新、成本和速度是中国市场的优势。然而，调查也指出持续存在的经济压力、市场准入壁垒和监管担忧。上海美国商会主席雷蒙表示，会员企业已看到监管环境的改善，这得益于更加稳定的中美关系。\n\n他还呼吁建立稳定透明的框架，以支持跨境贸易和投资。"
+    },
+    {
+      "id": 4,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-17/2026-SCO-Forum-on-Traditional-Medicine-opens-in-Nanchang--1QvK6s2wN0s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "2026 SCO Forum on Traditional Medicine opens in Nanchang",
+      "titleCn": "2026年上合组织传统医学论坛在南昌开幕",
+      "summary": "The opening ceremony of the 2026 SCO Forum on Traditional Medicine was held on Thursday in Nanchang, Jiangxi Province, bringing together 81 international delegates from 21 countries. The three-day forum, running from September 16 to 18, focuses on combining smart technology with traditional medicine while accelerating cooperation from academic exchange toward platform co-building.",
+      "summaryCn": "2026年上海合作组织传统医学论坛在江西南昌开幕，来自21个国家的81名代表参会，聚焦传统医学的技术创新、国际合作与数字化转型。",
+      "wordCount": 562,
+      "paragraphs": [
+        {
+          "en": "The opening ceremony of the 2026 Shanghai Cooperation Organization (SCO) Forum on Traditional Medicine was held on Thursday in Nanchang, Jiangxi Province, bringing new {{0}} for the growth and international cooperation of traditional medicine. This year's event set a record for international attendance, drawing 81 {{1}} from 21 countries, including Sri Lanka, Belarus, India and Kazakhstan. The delegation features senior government officials, health ministers, foreign {{2}} and representatives from international bodies such as the SCO Secretariat and the World Federation of Chinese Medicine Societies. Officials noted that the strong participation of high-level leaders {{3}} a shift in traditional medicine cooperation – moving from basic academic exchange toward joint platform building and shared {{4}} mechanisms. The 2026 Shanghai Cooperation Organization (SCO) Forum on Traditional Medicine takes place in Nanchang City, east China's Jiangxi Province, September 17, 2026.",
+          "cn": "2026年上海合作组织（SCO）传统医学论坛开幕式于周四在江西省南昌市举行，为传统医学的发展和国际合作带来了新机遇。本届论坛的国际参与人数创下纪录，吸引了来自斯里兰卡、白俄罗斯、印度和哈萨克斯坦等21个国家的81名代表。代表团成员包括高级政府官员、卫生部长、外国外交官以及上合组织秘书处和世界中医药学会联合会等国际机构的代表。官员们指出，高层领导人的踊跃参与标志着传统医学合作正在发生转变——从基础的学术交流迈向联合平台建设和共享制度机制。2026年上海合作组织（SCO）传统医学论坛于2026年9月17日在中国东部江西省南昌市举行。"
+        },
+        {
+          "en": "A major {{5}} of the forum is its focus on technological innovation and practical application. A special release session for new policies, standards, technologies and products will {{6}} cutting-edge sector achievements, such as AI-assisted {{7}} tools and intelligent herbal processing systems. Spanning policy dialogues, standard mutual recognition and product {{8}}, the forum aims to serve as a primary {{9}} for innovation and global product debuts in traditional medicine. Addressing the ceremony, Yin Hong, secretary of the Communist Party of China (CPC) Jiangxi Provincial Committee and chairman of the Standing Committee of the Jiangxi Provincial People's Congress, highlighted Jiangxi's progress in traditional Chinese medicine (TCM), noting that the sector reached 27.9 billion yuan (about $3.93 billion) in {{10}}. With 3,146 TCM institutions across the province, Jiangxi has built a \"15-minute TCM healthcare service circle,\" ensuring {{11}}, high-quality care for residents.",
+          "cn": "本次论坛的一大亮点是聚焦技术创新与实际应用。一场关于新政策、新标准、新技术和新产品的特别发布会将展示该领域的前沿成果，如人工智能辅助诊断工具和智能草药加工系统。论坛涵盖政策对话、标准互认和产品商业化，旨在成为传统医学创新和全球产品首发的首要平台。在开幕式上，江西省委书记、江西省人大常委会主任尹弘发表讲话，强调了江西省在中医药（TCM）方面的进展，指出该行业收入达到279亿元（约39.3亿美元）。全省拥有3146家中医机构，江西已建成“15分钟中医医疗服务圈”，确保居民获得便捷、优质的医疗服务。"
+        },
+        {
+          "en": "The opening ceremony of the 2026 Shanghai Cooperation Organization (SCO) Forum on Traditional Medicine in Nanchang City, east China's Jiangxi Province, September 17, 2026. Yin emphasized that as the SCO marks its 25th anniversary, recent SCO initiatives prioritizing AI and the digital economy have injected fresh {{12}} into traditional medicine. Jiangxi will {{13}} digital technologies to build smart TCM service systems, develop AI-assisted diagnostics and utilize the SCO multilingual platform to make quality healthcare more accessible globally. Shen Yueyue, vice-chairperson of the National Committee of the Chinese People's Political Consultative Conference (CPPCC) and chairperson of the Good-Neighborliness, Friendship and Cooperation Commission of the SCO (GNFCC SCO), noted that since its launch in 2020, the forum has held five sessions, forging a path of cooperation that aligns with both the principles of traditional medicine and the shared needs of regional countries. \"The forum serves as an essential platform for policy dialogue, yielding key {{14}} such as the Nanchang Initiative and the Nanchang Consensus to deepen regional {{15}},\" Shen said.",
+          "cn": "2026年上海合作组织（SCO）传统医学论坛开幕式于2026年9月17日在中国东部江西省南昌市举行。尹弘强调，在上合组织迎来成立25周年之际，近期上合组织优先关注人工智能和数字经济的举措为传统医学注入了新动力。江西将利用数字技术建设智慧中医服务系统，开发人工智能辅助诊断，并借助上合组织多语言平台，让优质医疗服务在全球更加可及。全国政协副主席、上合组织睦邻友好合作委员会主席沈跃跃指出，自2020年创办以来，该论坛已举办五届，开辟了一条既符合传统医学原则又契合地区国家共同需求的合作之路。沈跃跃表示：“论坛是政策对话的重要平台，产生了《南昌倡议》和《南昌共识》等关键共识，以深化区域合作。”"
+        },
+        {
+          "en": "A foreign tourist receives a traditional Chinese medicine (TCM) pulse diagnosis in Dexing, east China's Jiangxi Province, November 15, 2025. /CFP\nBeyond high-level policy dialogues and technological showcases, the event features parallel sessions designed to strengthen international education standards and build cross-regional industrial supply chains, alongside interactive exhibitions showcasing traditional medical history and digital healthcare tools like thermal moxibustion robots. Delegates will also participate in field visits across Jiangxi to inspect key research laboratories, leading pharmaceutical companies and major medical institutions. The three-day event, held from September 16 to 18, focuses on integrating smart technologies with traditional medicine {{16}} to {{17}} global public health. The forum is co-hosted by the People's Government of Jiangxi Province and the GNFCC SCO.",
+          "cn": "一名外国游客在中国东部江西省德兴市接受中医（TCM）脉诊，2025年11月15日。/CFP"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "opportunities",
+          "hint": "n. 机会",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "delegates",
+          "hint": "n. 代表",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "diplomats",
+          "hint": "n. 外交官",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "signals",
+          "hint": "v. 表明，标志",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "institutional",
+          "hint": "adj. 制度的，机构的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "highlight",
+          "hint": "n. 亮点",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "unveil",
+          "hint": "v. 揭晓，公布",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "diagnostic",
+          "hint": "adj. 诊断的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "commercialization",
+          "hint": "n. 商业化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "launchpad",
+          "hint": "n. 发射台，起点",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "revenue",
+          "hint": "n. 收入",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "accessible",
+          "hint": "adj. 可及的，易获得的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "momentum",
+          "hint": "n. 势头，动力",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "leverage",
+          "hint": "v. 利用",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "consensuses",
+          "hint": "n. 共识",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "collaboration",
+          "hint": "n. 合作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "expertise",
+          "hint": "n. 专业知识",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "enhance",
+          "hint": "v. 增强，提升",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "The opening ceremony of the 2026 Shanghai Cooperation Organization (SCO) Forum on Traditional Medicine was held on Thursday in Nanchang, Jiangxi Province, bringing new opportunities for the growth and international cooperation of traditional medicine.\nThis year's event set a record for international attendance, drawing 81 delegates from 21 countries, including Sri Lanka, Belarus, India and Kazakhstan. The delegation features senior government officials, health ministers, foreign diplomats and representatives from international bodies such as the SCO Secretariat and the World Federation of Chinese Medicine Societies. Officials noted that the strong participation of high-level leaders signals a shift in traditional medicine cooperation – moving from basic academic exchange toward joint platform building and shared institutional mechanisms.\nThe 2026 Shanghai Cooperation Organization (SCO) Forum on Traditional Medicine takes place in Nanchang City, east China's Jiangxi Province, September 17, 2026. \nA major highlight of the forum is its focus on technological innovation and practical application. A special release session for new policies, standards, technologies and products will unveil cutting-edge sector achievements, such as AI-assisted diagnostic tools and intelligent herbal processing systems. Spanning policy dialogues, standard mutual recognition and product commercialization, the forum aims to serve as a primary launchpad for innovation and global product debuts in traditional medicine.\nAddressing the ceremony, Yin Hong, secretary of the Communist Party of China (CPC) Jiangxi Provincial Committee and chairman of the Standing Committee of the Jiangxi Provincial People's Congress, highlighted Jiangxi's progress in traditional Chinese medicine (TCM), noting that the sector reached 27.9 billion yuan (about $3.93 billion) in revenue. With 3,146 TCM institutions across the province, Jiangxi has built a \"15-minute TCM healthcare service circle,\" ensuring accessible, high-quality care for residents.\nThe opening ceremony of the 2026 Shanghai Cooperation Organization (SCO) Forum on Traditional Medicine in Nanchang City, east China's Jiangxi Province, September 17, 2026. \nYin emphasized that as the SCO marks its 25th anniversary, recent SCO initiatives prioritizing AI and the digital economy have injected fresh momentum into traditional medicine. Jiangxi will leverage digital technologies to build smart TCM service systems, develop AI-assisted diagnostics and utilize the SCO multilingual platform to make quality healthcare more accessible globally.\nShen Yueyue, vice-chairperson of the National Committee of the Chinese People's Political Consultative Conference (CPPCC) and chairperson of the Good-Neighborliness, Friendship and Cooperation Commission of the SCO (GNFCC SCO), noted that since its launch in 2020, the forum has held five sessions, forging a path of cooperation that aligns with both the principles of traditional medicine and the shared needs of regional countries.\n\"The forum serves as an essential platform for policy dialogue, yielding key consensuses such as the Nanchang Initiative and the Nanchang Consensus to deepen regional collaboration,\" Shen said.\nA foreign tourist receives a traditional Chinese medicine (TCM) pulse diagnosis in Dexing, east China's Jiangxi Province, November 15, 2025. /CFP\nBeyond high-level policy dialogues and technological showcases, the event features parallel sessions designed to strengthen international education standards and build cross-regional industrial supply chains, alongside interactive exhibitions showcasing traditional medical history and digital healthcare tools like thermal moxibustion robots. Delegates will also participate in field visits across Jiangxi to inspect key research laboratories, leading pharmaceutical companies and major medical institutions.\nThe three-day event, held from September 16 to 18, focuses on integrating smart technologies with traditional medicine expertise to enhance global public health. The forum is co-hosted by the People's Government of Jiangxi Province and the GNFCC SCO.",
+      "fullTextCn": "2026年上海合作组织（SCO）传统医学论坛开幕式于周四在江西省南昌市举行，为传统医学的发展和国际合作带来了新机遇。本届论坛的国际参与人数创下纪录，吸引了来自斯里兰卡、白俄罗斯、印度和哈萨克斯坦等21个国家的81名代表。代表团成员包括高级政府官员、卫生部长、外国外交官以及上合组织秘书处和世界中医药学会联合会等国际机构的代表。官员们指出，高层领导人的踊跃参与标志着传统医学合作正在发生转变——从基础的学术交流迈向联合平台建设和共享制度机制。2026年上海合作组织（SCO）传统医学论坛于2026年9月17日在中国东部江西省南昌市举行。\n\n本次论坛的一大亮点是聚焦技术创新与实际应用。一场关于新政策、新标准、新技术和新产品的特别发布会将展示该领域的前沿成果，如人工智能辅助诊断工具和智能草药加工系统。论坛涵盖政策对话、标准互认和产品商业化，旨在成为传统医学创新和全球产品首发的首要平台。在开幕式上，江西省委书记、江西省人大常委会主任尹弘发表讲话，强调了江西省在中医药（TCM）方面的进展，指出该行业收入达到279亿元（约39.3亿美元）。全省拥有3146家中医机构，江西已建成“15分钟中医医疗服务圈”，确保居民获得便捷、优质的医疗服务。\n\n2026年上海合作组织（SCO）传统医学论坛开幕式于2026年9月17日在中国东部江西省南昌市举行。尹弘强调，在上合组织迎来成立25周年之际，近期上合组织优先关注人工智能和数字经济的举措为传统医学注入了新动力。江西将利用数字技术建设智慧中医服务系统，开发人工智能辅助诊断，并借助上合组织多语言平台，让优质医疗服务在全球更加可及。全国政协副主席、上合组织睦邻友好合作委员会主席沈跃跃指出，自2020年创办以来，该论坛已举办五届，开辟了一条既符合传统医学原则又契合地区国家共同需求的合作之路。沈跃跃表示：“论坛是政策对话的重要平台，产生了《南昌倡议》和《南昌共识》等关键共识，以深化区域合作。”\n\n一名外国游客在中国东部江西省德兴市接受中医（TCM）脉诊，2025年11月15日。/CFP\n\n除了高层政策对话和技术展示外，本次活动还设有平行会议，旨在加强国际教育标准并构建跨区域产业供应链，同时还有互动展览，展示传统医学历史和数字医疗工具，如热灸机器人。代表们还将参加在江西各地的实地考察，参观重点研究实验室、领先制药企业和主要医疗机构。这场为期三天的活动于9月16日至18日举行，重点是将智能技术与传统医学专业知识相结合，以增进全球公共卫生。论坛由江西省人民政府和上合组织睦邻友好合作委员会共同主办。"
+    },
+    {
+      "id": 5,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-09-17/Japan-s-PM-Takaichi-reshuffles-cabinet-taps-first-JIP-member-1Qwf964rw5y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Japan's PM Takaichi reshuffles cabinet, taps first JIP member",
+      "titleCn": "日本首相高市早苗改组内阁，首次任命维新会成员入阁",
+      "summary": "Japanese Prime Minister Sanae Takaichi reshuffled her cabinet on Thursday, retaining most key ministers while bringing in a newcomer from the Japan Innovation Party (JIP), the junior coalition partner of the ruling Liberal Democratic Party (LDP).",
+      "summaryCn": "日本首相高市早苗改组内阁，保留多数关键大臣，首次引入执政联盟伙伴日本维新会成员入阁，同时两名曾受党纪处分的议员首次获得内阁职位，分析认为此举旨在推进既定政策议程并巩固其权力基础。",
+      "wordCount": 383,
+      "paragraphs": [
+        {
+          "en": "Japanese Prime Minister Sanae Takaichi and members of her {{0}} Cabinet arrive at the prime minister’s office in Tokyo on September 17, 2026. Japanese Prime Minister Sanae Takaichi reshuffled her cabinet on Thursday, {{1}} most key ministers while bringing in a newcomer from the Japan Innovation Party (JIP), the junior {{2}} partner of the ruling Liberal Democratic Party (LDP). It is Takaichi's first cabinet reshuffle since she took office last October. According to the new {{3}}, Chief Cabinet Secretary Minoru Kihara, Foreign Minister Toshimitsu Motegi, Defense Minister Shinjiro Koizumi and Finance Minister Satsuki Katayama all remained in their {{4}} posts. Among those entering the cabinet for the first time, House of Representatives members Kazuo Yana and Yoshihiro Seki had previously been {{5}} by the LDP over a high-profile political slush fund {{6}}.",
+          "cn": "日本首相高市早苗及其改组后的内阁成员于2026年9月17日抵达东京首相官邸。日本首相高市早苗于周四改组内阁，保留了大多数关键大臣，同时从执政党自由民主党的初级联盟伙伴日本维新会引入一名新成员。这是高市自去年10月就任以来首次改组内阁。根据新阵容，内阁官房长官木原稔、外务大臣茂木敏充、防卫大臣小泉进次郎和财务大臣片山皋月均留任原职。在首次入阁的人士中，众议院议员矢田一男和关义弘此前曾因一起备受关注的政治秘密资金丑闻而受到自民党处分。"
+        },
+        {
+          "en": "They were named agriculture minister and education minister, respectively. This marked the first time since the scandal came to light that lawmakers disciplined by the party over the affair had received cabinet positions. Hiroshi Nakatsuka, formerly secretary general of the JIP, was {{7}} minister in charge of {{8}} reform, making him the first JIP member to serve as a cabinet minister. The move marked a shift from the LDP and JIP {{9}} outside the cabinet to cooperation within the cabinet. Shigeaki Koga, a former official at Japan's Ministry of Economy, Trade and Industry, said that on foreign and security policies, the JIP is even more {{10}} than Takaichi and could {{11}} encourage the prime minister to pursue more hawkish policies.",
+          "cn": "他们分别被任命为农业大臣和教育大臣。这标志着自丑闻曝光以来，因该事件受到党内处分的议员首次获得内阁职位。日本维新会前干事长中司宏被任命为规制改革担当大臣，成为首位担任内阁大臣的维新会成员。此举标志着自民党与维新会的合作从内阁外合作转向内阁内合作。日本经济产业省前官员古贺茂明表示，在外交和安全政策方面，维新会比高市更为鹰派，可能会鼓励首相推行更为鹰派的政策。"
+        },
+        {
+          "en": "Another focus of the reshuffle is the {{12}} of former Internal Affairs and Communications Minister Yoshimasa Hayashi from the new cabinet. Hayashi was Takaichi's {{13}} in last year's LDP presidential election. Analysts said the {{14}} changes indicate, on the one hand, that the Takaichi administration will press ahead with its established military {{15}}, {{16}} fiscal policy, and diplomatic agenda. The Takaichi government is set to revise Japan's three key security documents by the end of this year, potentially including plans to acquire large numbers of unmanned systems and move toward mass production of hypersonic missiles. On the other hand, Takaichi's latest cabinet reshuffle is also aimed at {{17}} her administration's power base and {{18}} the way for her to secure another term as LDP president in next autumn's party leadership race.",
+          "cn": "此次改组的另一个焦点是前总务大臣林芳正未进入新内阁。林芳正是高市在去年自民党总裁选举中的竞争对手。分析人士表示，此次人事变动一方面表明高市政权将推进其既定的军备建设、积极财政政策和外交议程。高市政府计划在今年年底前修订日本三份关键安全文件，其中可能包括获取大量无人系统的计划以及迈向高超音速导弹量产。另一方面，高市最新的内阁改组也旨在巩固其政权的权力基础，为她明年秋季在自民党总裁选举中争取连任铺平道路。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "reshuffled",
+          "hint": "v. 改组，重新调整",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "retaining",
+          "hint": "v. 保留，留住",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "coalition",
+          "hint": "n. 联盟，联合政府",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "lineup",
+          "hint": "n. 阵容，人员配置",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "respective",
+          "hint": "adj. 各自的，分别的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "disciplined",
+          "hint": "v. 处分，惩戒",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "scandal",
+          "hint": "n. 丑闻",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "appointed",
+          "hint": "v. 任命，委任",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "regulatory",
+          "hint": "adj. 监管的，规制的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "cooperating",
+          "hint": "v. 合作，协作",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "hawkish",
+          "hint": "adj. 鹰派的，强硬的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "potentially",
+          "hint": "adv. 潜在地，可能地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "absence",
+          "hint": "n. 缺席，不在",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "rival",
+          "hint": "n. 竞争对手",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "personnel",
+          "hint": "n. 人事，人员",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "buildup",
+          "hint": "n. 建设，增强",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "proactive",
+          "hint": "adj. 积极的，主动的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "consolidating",
+          "hint": "v. 巩固，加强",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "paving",
+          "hint": "v. 铺平，为…铺路",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Japanese Prime Minister Sanae Takaichi and members of her reshuffled Cabinet arrive at the prime minister’s office in Tokyo on September 17, 2026. \nJapanese Prime Minister Sanae Takaichi reshuffled her cabinet on Thursday, retaining most key ministers while bringing in a newcomer from the Japan Innovation Party (JIP), the junior coalition partner of the ruling Liberal Democratic Party (LDP).\nIt is Takaichi's first cabinet reshuffle since she took office last October.\nAccording to the new lineup, Chief Cabinet Secretary Minoru Kihara, Foreign Minister Toshimitsu Motegi, Defense Minister Shinjiro Koizumi and Finance Minister Satsuki Katayama all remained in their respective posts.\nAmong those entering the cabinet for the first time, House of Representatives members Kazuo Yana and Yoshihiro Seki had previously been disciplined by the LDP over a high-profile political slush fund scandal. They were named agriculture minister and education minister, respectively. This marked the first time since the scandal came to light that lawmakers disciplined by the party over the affair had received cabinet positions.\nHiroshi Nakatsuka, formerly secretary general of the JIP, was appointed minister in charge of regulatory reform, making him the first JIP member to serve as a cabinet minister. The move marked a shift from the LDP and JIP cooperating outside the cabinet to cooperation within the cabinet.\nShigeaki Koga, a former official at Japan's Ministry of Economy, Trade and Industry, said that on foreign and security policies, the JIP is even more hawkish than Takaichi and could potentially encourage the prime minister to pursue more hawkish policies.\nAnother focus of the reshuffle is the absence of former Internal Affairs and Communications Minister Yoshimasa Hayashi from the new cabinet. Hayashi was Takaichi's rival in last year's LDP presidential election.\nAnalysts said the personnel changes indicate, on the one hand, that the Takaichi administration will press ahead with its established military buildup, proactive fiscal policy, and diplomatic agenda.\nThe Takaichi government is set to revise Japan's three key security documents by the end of this year, potentially including plans to acquire large numbers of unmanned systems and move toward mass production of hypersonic missiles.\nOn the other hand, Takaichi's latest cabinet reshuffle is also aimed at consolidating her administration's power base and paving the way for her to secure another term as LDP president in next autumn's party leadership race.",
+      "fullTextCn": "日本首相高市早苗及其改组后的内阁成员于2026年9月17日抵达东京首相官邸。日本首相高市早苗于周四改组内阁，保留了大多数关键大臣，同时从执政党自由民主党的初级联盟伙伴日本维新会引入一名新成员。这是高市自去年10月就任以来首次改组内阁。根据新阵容，内阁官房长官木原稔、外务大臣茂木敏充、防卫大臣小泉进次郎和财务大臣片山皋月均留任原职。在首次入阁的人士中，众议院议员矢田一男和关义弘此前曾因一起备受关注的政治秘密资金丑闻而受到自民党处分。\n\n他们分别被任命为农业大臣和教育大臣。这标志着自丑闻曝光以来，因该事件受到党内处分的议员首次获得内阁职位。日本维新会前干事长中司宏被任命为规制改革担当大臣，成为首位担任内阁大臣的维新会成员。此举标志着自民党与维新会的合作从内阁外合作转向内阁内合作。日本经济产业省前官员古贺茂明表示，在外交和安全政策方面，维新会比高市更为鹰派，可能会鼓励首相推行更为鹰派的政策。\n\n此次改组的另一个焦点是前总务大臣林芳正未进入新内阁。林芳正是高市在去年自民党总裁选举中的竞争对手。分析人士表示，此次人事变动一方面表明高市政权将推进其既定的军备建设、积极财政政策和外交议程。高市政府计划在今年年底前修订日本三份关键安全文件，其中可能包括获取大量无人系统的计划以及迈向高超音速导弹量产。另一方面，高市最新的内阁改组也旨在巩固其政权的权力基础，为她明年秋季在自民党总裁选举中争取连任铺平道路。"
     }
   ]
 }
