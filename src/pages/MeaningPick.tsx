@@ -11,6 +11,7 @@ import { generateOptions } from '@/services/practiceService'
 import { useWordStore } from '@/stores/wordStore'
 import { usePracticeStore } from '@/stores/practiceStore'
 import type { OptionState } from '@/components/practice/OptionCard'
+import { ShortcutHint } from '@/components/practice/ShortcutHint'
 
 export function MeaningPick() {
   const { session, selectedAnswer, showResult, currentWord, selectAnswer, nextWord } = usePracticeSession('meaning', 10)
@@ -121,7 +122,7 @@ export function MeaningPick() {
 
   return (
     <div className="mx-auto max-w-4xl">
-      <div className="mb-6 flex items-center gap-2">
+      <div className="mb-3 flex items-center gap-2">
         <div className="flex-1">
           <ProgressBar current={session.currentIndex + (showResult ? 1 : 0)} total={session.words.length} />
         </div>
@@ -130,6 +131,7 @@ export function MeaningPick() {
         <ContentScaleSlider />
         <LayoutRatioSlider />
       </div>
+      <ShortcutHint optionKeys />
       <div style={{ transform: `scale(${contentScale})`, transformOrigin: 'top right' }}>
         <div className="flex flex-col md:flex-row gap-6">
         {/* 左侧：单词信息 */}

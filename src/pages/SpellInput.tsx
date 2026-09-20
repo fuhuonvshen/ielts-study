@@ -12,6 +12,7 @@ import { RepeatSlider } from '@/components/practice/RepeatSlider'
 import { SessionResult } from '@/components/practice/SessionResult'
 import { AiPronunciation } from '@/components/ai/AiPronunciation'
 import { checkSpellingAnswer } from '@/services/practiceService'
+import { ShortcutHint } from '@/components/practice/ShortcutHint'
 
 export function SpellInput() {
   const { play, isPlaying } = useAudio()
@@ -140,7 +141,7 @@ export function SpellInput() {
 
   return (
     <div className="mx-auto max-w-4xl">
-      <div className="mb-6 flex items-center gap-2">
+      <div className="mb-3 flex items-center gap-2">
         <div className="flex-1">
           <ProgressBar current={session.currentIndex + (submitted ? 1 : 0)} total={session.words.length} />
         </div>
@@ -149,6 +150,7 @@ export function SpellInput() {
         <ContentScaleSlider />
         <LayoutRatioSlider />
       </div>
+      <ShortcutHint replayKey />
       <div style={{ transform: `scale(${contentScale})`, transformOrigin: 'top right' }}>
         <div className="flex flex-col md:flex-row gap-6">
           {/* 左侧：喇叭按钮 */}
