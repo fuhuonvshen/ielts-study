@@ -4,6 +4,7 @@ import type { Word, PersonaId } from '@/types'
 import { DEFAULT_PERSONA } from '@/types'
 import { useAiAnalysis } from '@/hooks/useAiAnalysis'
 import { PersonaSelector } from './PersonaSelector'
+import { AiNetworkHint } from './AiNetworkHint'
 import { AiAnalysisDisplay } from './AiAnalysisDisplay'
 
 interface AiAnalysisSectionProps {
@@ -62,6 +63,12 @@ export function AiAnalysisSection({ word }: AiAnalysisSectionProps) {
           <div className="mb-3">
             <PersonaSelector selected={persona} onChange={handlePersonaChange} />
           </div>
+
+          {!analysis && !isLoading && !error && (
+            <div className="mb-3">
+              <AiNetworkHint />
+            </div>
+          )}
 
           {error && (
             <div className="mb-3 rounded-xl bg-red-50 p-3">

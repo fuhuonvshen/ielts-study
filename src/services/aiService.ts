@@ -3,7 +3,15 @@ import { PERSONAS } from '@/types'
 
 const API_MODEL = 'deepseek-chat'
 
-// The DeepSeek key lives in the Worker, never in the browser bundle.
+const REQUEST_TIMEOUT_MS = 30_000
+
+export const UNREACHABLE_MESSAGE =
+  '连接 AI 服务超时。如果你在中国大陆，需要挂代理（梯子）才能使用 AI 功能；如果已经开了代理，请检查它是否正常工作。'
+
+// The DeepSeek key lives in the Worker, never in the browser bundle. The
+// Worker sits on a *.workers.dev domain, which mainland China blocks at the
+// DNS level — so a bare fetch failure here nearly always means "no proxy"
+// rather than an actual outage.
 function getApiUrl(): string {
   const proxy = import.meta.env.VITE_AI_PROXY as string | undefined
   if (!proxy) throw new Error('VITE_AI_PROXY is not configured')
@@ -11,6 +19,33 @@ function getApiUrl(): string {
 }
 
 const JSON_HEADERS = { 'Content-Type': 'application/json' }
+
+async function postCompletion(payload: unknown): Promise<Response> {
+  const controller = new AbortController()
+  const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS)
+  try {
+    const response = await fetch(getApiUrl(), {
+      method: 'POST',
+      headers: JSON_HEADERS,
+      body: JSON.stringify(payload),
+      signal: controller.signal,
+    })
+    if (!response.ok) {
+      const errorBody = await response.text().catch(() => '')
+      throw new Error(`API error ${response.status}: ${errorBody.slice(0, 200)}`)
+    }
+    return response
+  } catch (err) {
+    // fetch rejects with a TypeError when the request never reaches the
+    // server; our own abort surfaces as an AbortError.
+    if (err instanceof TypeError || (err as Error)?.name === 'AbortError') {
+      throw new Error(UNREACHABLE_MESSAGE)
+    }
+    throw err
+  } finally {
+    clearTimeout(timer)
+  }
+}
 
 function buildWordData(word: Word) {
   return {
@@ -43,28 +78,18 @@ export async function analyzeWord(
   if (!persona) throw new Error(`Unknown persona: ${personaId}`)
 
   const wordData = buildWordData(word)
-  const url = getApiUrl()
 
-  const response = await fetch(url, {
-    method: 'POST',
-    headers: JSON_HEADERS,
-    body: JSON.stringify({
-      model: API_MODEL,
-      max_tokens: 1024,
-      messages: [
-        { role: 'system', content: persona.systemPrompt },
-        {
-          role: 'user',
-          content: `Analyze the following IELTS word and return a JSON object with 4 fields:\n\n${JSON.stringify(wordData, null, 2)}`,
-        },
-      ],
-    }),
+  const response = await postCompletion({
+    model: API_MODEL,
+    max_tokens: 1024,
+    messages: [
+      { role: 'system', content: persona.systemPrompt },
+      {
+        role: 'user',
+        content: `Analyze the following IELTS word and return a JSON object with 4 fields:\n\n${JSON.stringify(wordData, null, 2)}`,
+      },
+    ],
   })
-
-  if (!response.ok) {
-    const errorBody = await response.text().catch(() => '')
-    throw new Error(`API error ${response.status}: ${errorBody.slice(0, 200)}`)
-  }
 
   const data = await response.json()
   const text: string = data.choices?.[0]?.message?.content ?? ''
@@ -88,18 +113,13 @@ export async function analyzeWord(
 }
 
 export async function analyzePronunciation(word: string): Promise<string> {
-  const url = getApiUrl()
-
-  const response = await fetch(url, {
-    method: 'POST',
-    headers: JSON_HEADERS,
-    body: JSON.stringify({
-      model: API_MODEL,
-      max_tokens: 512,
-      messages: [
-        {
-          role: 'system',
-          content: `你是一位专业的英语发音教练，精通音标、连读、弱读、重音等发音技巧。你的任务是纯发音教学。
+  const response = await postCompletion({
+    model: API_MODEL,
+    max_tokens: 512,
+    messages: [
+      {
+        role: 'system',
+        content: `你是一位专业的英语发音教练，精通音标、连读、弱读、重音等发音技巧。你的任务是纯发音教学。
 
 重要规则：
 - 绝对不要在回复中写出这个单词的拼写，用户正在做听力练习，不能看到单词
@@ -108,19 +128,13 @@ export async function analyzePronunciation(word: string): Promise<string> {
 - 只专注于发音教学：音标拆解、音节划分、重音位置、连读规则、弱读现象、易错发音点
 - 用中文讲解，音标用英文
 - 回复控制在150字以内，简洁实用`,
-        },
-        {
-          role: 'user',
-          content: `请教我如何正确发音这个单词："${word}"。只讲发音，不要写出单词拼写，不讲意思。`,
-        },
-      ],
-    }),
+      },
+      {
+        role: 'user',
+        content: `请教我如何正确发音这个单词："${word}"。只讲发音，不要写出单词拼写，不讲意思。`,
+      },
+    ],
   })
-
-  if (!response.ok) {
-    const errorBody = await response.text().catch(() => '')
-    throw new Error(`API error ${response.status}: ${errorBody.slice(0, 200)}`)
-  }
 
   const data = await response.json()
   const text: string = data.choices?.[0]?.message?.content ?? ''

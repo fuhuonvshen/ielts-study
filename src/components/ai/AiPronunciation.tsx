@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Link } from 'react-router-dom'
 import { Mic, Loader2, X } from 'lucide-react'
 import { analyzePronunciation } from '@/services/aiService'
 
@@ -58,7 +59,15 @@ export function AiPronunciation({ word }: AiPronunciationProps) {
             <X className="h-3.5 w-3.5" />
           </button>
           {error ? (
-            <p className="text-sm text-red-500">{error}</p>
+            <>
+              <p className="text-sm text-red-500">{error}</p>
+              <p className="mt-2 text-xs text-gray-400">
+                不知道怎么挂代理？
+                <Link to="/feedback" className="text-primary-500 hover:underline">
+                  在反馈里留下邮箱，我告诉你
+                </Link>
+              </p>
+            </>
           ) : (
             <>
               <div className="mb-2 flex items-center gap-1.5">
