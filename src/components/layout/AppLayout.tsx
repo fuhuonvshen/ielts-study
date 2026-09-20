@@ -10,6 +10,7 @@ const pageTitles: Record<string, { title: string; subtitle?: string }> = {
   '/favorites': { title: 'Favorites', subtitle: 'Your starred words' },
   '/daily-practice': { title: 'Daily Practice', subtitle: 'Real-world English listening practice' },
   '/stats': { title: 'Statistics', subtitle: 'Your learning progress' },
+  '/feedback': { title: 'Feedback', subtitle: 'Tell me what to build next' },
 }
 
 export function AppLayout() {

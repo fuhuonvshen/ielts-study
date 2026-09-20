@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { Play, BookOpen, TrendingUp, Target } from 'lucide-react'
 import { useStatsStore } from '@/stores/statsStore'
@@ -7,19 +7,40 @@ import { Heatmap } from '@/components/stats/Heatmap'
 import { TrendChart } from '@/components/stats/TrendChart'
 import { formatAccuracy } from '@/lib/utils'
 import { DataImport } from '@/components/DataImport'
+import { AnnouncementModal } from '@/components/feedback/AnnouncementModal'
+import { markNoticeSeen, muteNoticeForWeek, shouldShowNotice } from '@/lib/notice'
 
 export function Dashboard() {
   const navigate = useNavigate()
   const { todayTotal, todayCorrect, streak, last7Days, loadStats } = useStatsStore()
   const { words, loadWords } = useWordStore()
+  const [showNotice, setShowNotice] = useState(false)
 
   useEffect(() => { loadStats(); loadWords() }, [loadStats, loadWords])
 
+  useEffect(() => {
+    const now = new Date()
+    if (shouldShowNotice(now)) {
+      markNoticeSeen(now)
+      setShowNotice(true)
+    }
+  }, [])
+
+  const handleNoticeClose = (muted: boolean) => {
+    if (muted) muteNoticeForWeek(new Date())
+    setShowNotice(false)
+  }
+
+  const notice = showNotice ? <AnnouncementModal onClose={handleNoticeClose} /> : null
+
   if (words.length === 0) {
     return (
-      <div className="mx-auto max-w-xl py-12">
-        <DataImport />
-      </div>
+      <>
+        <div className="mx-auto max-w-xl py-12">
+          <DataImport />
+        </div>
+        {notice}
+      </>
     )
   }
 
@@ -31,30 +52,33 @@ export function Dashboard() {
   ]
 
   return (
-    <div className="mx-auto max-w-4xl space-y-6">
-      <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
-        {stats.map(({ label, value, icon: Icon, color }) => (
-          <div key={label} className="rounded-2xl border border-gray-100 bg-white p-5">
-            <div className={`mb-3 inline-flex h-10 w-10 items-center justify-center rounded-xl ${color}`}>
-              <Icon className="h-5 w-5" />
+    <>
+      <div className="mx-auto max-w-4xl space-y-6">
+        <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
+          {stats.map(({ label, value, icon: Icon, color }) => (
+            <div key={label} className="rounded-2xl border border-gray-100 bg-white p-5">
+              <div className={`mb-3 inline-flex h-10 w-10 items-center justify-center rounded-xl ${color}`}>
+                <Icon className="h-5 w-5" />
+              </div>
+              <p className="text-2xl font-bold">{value}</p>
+              <p className="text-sm text-gray-400">{label}</p>
             </div>
-            <p className="text-2xl font-bold">{value}</p>
-            <p className="text-sm text-gray-400">{label}</p>
-          </div>
-        ))}
+          ))}
+        </div>
+        <div className="grid gap-6 md:grid-cols-2">
+          <Heatmap data={last7Days} />
+          <TrendChart data={last7Days} />
+        </div>
+        <div className="flex gap-4">
+          <button onClick={() => navigate('/practice')} className="flex items-center gap-2 rounded-2xl bg-primary-500 px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-primary-600">
+            <Play className="h-4 w-4" /> Start Practice
+          </button>
+          <button onClick={() => navigate('/words')} className="flex items-center gap-2 rounded-2xl border border-gray-200 bg-white px-6 py-3 text-sm font-semibold text-gray-700 transition-colors hover:bg-gray-50">
+            <BookOpen className="h-4 w-4" /> Browse Words
+          </button>
+        </div>
       </div>
-      <div className="grid gap-6 md:grid-cols-2">
-        <Heatmap data={last7Days} />
-        <TrendChart data={last7Days} />
-      </div>
-      <div className="flex gap-4">
-        <button onClick={() => navigate('/practice')} className="flex items-center gap-2 rounded-2xl bg-primary-500 px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-primary-600">
-          <Play className="h-4 w-4" /> Start Practice
-        </button>
-        <button onClick={() => navigate('/words')} className="flex items-center gap-2 rounded-2xl border border-gray-200 bg-white px-6 py-3 text-sm font-semibold text-gray-700 transition-colors hover:bg-gray-50">
-          <BookOpen className="h-4 w-4" /> Browse Words
-        </button>
-      </div>
-    </div>
+      {notice}
+    </>
   )
 }

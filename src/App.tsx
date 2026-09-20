@@ -12,6 +12,7 @@ import { Stats } from '@/pages/Stats'
 import { WrongBook } from '@/pages/WrongBook'
 import { Favorites } from '@/pages/Favorites'
 import { DailyPractice } from '@/pages/DailyPractice'
+import { Feedback } from '@/pages/Feedback'
 
 const router = createHashRouter([
   {
@@ -30,6 +31,7 @@ const router = createHashRouter([
       { path: 'wrong-book', element: <WrongBook /> },
       { path: 'favorites', element: <Favorites /> },
       { path: 'daily-practice', element: <DailyPractice /> },
+      { path: 'feedback', element: <Feedback /> },
     ],
   },
 ])

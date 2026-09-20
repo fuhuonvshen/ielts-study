@@ -8,6 +8,7 @@ import {
   Star,
   BarChart3,
   Newspaper,
+  MessageSquare,
 } from 'lucide-react'
 
 const links = [
@@ -18,6 +19,7 @@ const links = [
   { to: '/wrong-book', icon: AlertTriangle, label: 'Wrong Book' },
   { to: '/favorites', icon: Star, label: 'Favorites' },
   { to: '/stats', icon: BarChart3, label: 'Statistics' },
+  { to: '/feedback', icon: MessageSquare, label: 'Feedback' },
 ]
 
 export function Sidebar() {
