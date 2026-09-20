@@ -62,9 +62,9 @@ export function AiPronunciation({ word }: AiPronunciationProps) {
             <>
               <p className="text-sm text-red-500">{error}</p>
               <p className="mt-2 text-xs text-gray-400">
-                不知道怎么挂代理？
+                如果不知道怎么使用，
                 <Link to="/feedback" className="text-primary-500 hover:underline">
-                  在反馈里留下邮箱，我告诉你
+                  请在反馈里留下邮箱，我私信发您
                 </Link>
               </p>
             </>

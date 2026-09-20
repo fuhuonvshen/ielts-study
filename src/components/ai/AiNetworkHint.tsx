@@ -8,9 +8,9 @@ export function AiNetworkHint() {
       <p>
         AI 功能需要挂代理（梯子）才能使用 —— 服务在境外，大陆网络直连不上。
         <br />
-        不知道怎么弄？
+        如果不知道怎么使用，
         <Link to="/feedback" className="text-primary-500 hover:underline">
-          在反馈里留下邮箱，我告诉你
+          请在反馈里留下邮箱，我私信发您
         </Link>
       </p>
     </div>
