@@ -9,6 +9,7 @@ const pageTitles: Record<string, { title: string; subtitle?: string }> = {
   '/wrong-book': { title: 'Wrong Book', subtitle: 'Words you missed' },
   '/favorites': { title: 'Favorites', subtitle: 'Your starred words' },
   '/daily-practice': { title: 'Daily Practice', subtitle: 'Real-world English listening practice' },
+  '/archive': { title: 'Archive', subtitle: 'Every past daily practice, one day at a time' },
   '/stats': { title: 'Statistics', subtitle: 'Your learning progress' },
   '/feedback': { title: 'Feedback', subtitle: 'Tell me what to build next' },
 }

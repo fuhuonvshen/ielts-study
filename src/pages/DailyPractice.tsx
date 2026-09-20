@@ -1,17 +1,20 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
-import { ArrowLeft, Eye, EyeOff } from 'lucide-react'
+import { Link, useSearchParams } from 'react-router-dom'
+import { ArrowLeft, CalendarDays, Eye, EyeOff } from 'lucide-react'
 import { ArticleCard } from '@/components/daily-practice/ArticleCard'
 import { ArticleAudioPlayer } from '@/components/daily-practice/ArticleAudioPlayer'
 import { BlankInput } from '@/components/daily-practice/BlankInput'
 import { ExerciseResult } from '@/components/daily-practice/ExerciseResult'
+import { fetchArchiveIndex, fetchDay } from '@/services/dailyPracticeService'
 import type { BlankState } from '@/components/daily-practice/BlankInput'
 import type { DailyPracticeData, DailyArticle, BlankItem } from '@/types/dailyPractice'
 
 type PageView = 'list' | 'exercise' | 'result'
 
-const DATA_URL = import.meta.env.BASE_URL + 'data/daily-practice/data.json'
-
 export function DailyPractice() {
+  const [searchParams] = useSearchParams()
+  const requestedDate = searchParams.get('date')
+
   const [view, setView] = useState<PageView>('list')
   const [data, setData] = useState<DailyPracticeData | null>(null)
   const [loading, setLoading] = useState(true)
@@ -27,9 +30,17 @@ export function DailyPractice() {
     setLoading(true)
     setError(null)
     try {
-      const res = await fetch(DATA_URL)
-      if (!res.ok) throw new Error(`HTTP ${res.status}`)
-      const json: DailyPracticeData = await res.json()
+      // ?date= picks an archived day; otherwise fall back to the newest one.
+      let target = requestedDate
+      if (!target) {
+        const dates = await fetchArchiveIndex()
+        target = dates[dates.length - 1] ?? null
+      }
+      if (!target) {
+        setError('No practice data available yet')
+        return
+      }
+      const json = await fetchDay(target)
       if (!json.articles || json.articles.length === 0) {
         setError('No practice data available yet')
       } else {
@@ -40,7 +51,7 @@ export function DailyPractice() {
     } finally {
       setLoading(false)
     }
-  }, [])
+  }, [requestedDate])
 
   useEffect(() => {
     fetchData()
@@ -259,14 +270,23 @@ export function DailyPractice() {
       <div className="mb-4 flex items-center justify-between">
         <div>
           <span className="text-xs text-gray-400">{data.date}</span>
-          <span className="ml-2 text-sm text-gray-500">{data.articles.length} articles today</span>
+          <span className="ml-2 text-sm text-gray-500">{data.articles.length} articles</span>
         </div>
-        <button
-          onClick={fetchData}
-          className="rounded-lg px-3 py-1.5 text-xs font-medium text-gray-400 hover:text-gray-600 hover:bg-gray-50"
-        >
-          Refresh
-        </button>
+        <div className="flex items-center gap-1">
+          <Link
+            to="/archive"
+            className="flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-xs font-medium text-gray-400 transition-colors hover:bg-gray-50 hover:text-gray-600"
+          >
+            <CalendarDays className="h-3.5 w-3.5" />
+            Archive
+          </Link>
+          <button
+            onClick={fetchData}
+            className="rounded-lg px-3 py-1.5 text-xs font-medium text-gray-400 transition-colors hover:bg-gray-50 hover:text-gray-600"
+          >
+            Refresh
+          </button>
+        </div>
       </div>
       <div className="space-y-3">
         {data.articles.map((article, i) => (

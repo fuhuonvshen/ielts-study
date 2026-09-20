@@ -9,6 +9,7 @@ import {
   BarChart3,
   Newspaper,
   MessageSquare,
+  CalendarDays,
 } from 'lucide-react'
 
 const links = [
@@ -16,6 +17,7 @@ const links = [
   { to: '/words', icon: BookOpen, label: 'Words' },
   { to: '/practice', icon: Play, label: 'Practice' },
   { to: '/daily-practice', icon: Newspaper, label: 'Daily Practice' },
+  { to: '/archive', icon: CalendarDays, label: 'Archive' },
   { to: '/wrong-book', icon: AlertTriangle, label: 'Wrong Book' },
   { to: '/favorites', icon: Star, label: 'Favorites' },
   { to: '/stats', icon: BarChart3, label: 'Statistics' },
