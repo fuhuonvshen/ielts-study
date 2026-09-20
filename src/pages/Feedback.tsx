@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { AlertCircle, CheckCircle2, Loader2, Send } from 'lucide-react'
 import { isValidEmail, sendFeedback } from '@/services/feedbackService'
+import { SupportNote } from '@/components/feedback/SupportNote'
 
 const inputClass =
   'w-full rounded-2xl border border-gray-200 bg-white px-4 py-3 text-sm outline-none transition-colors focus:border-primary-300 focus:ring-2 focus:ring-primary-50'
@@ -46,6 +47,7 @@ export function Feedback() {
             再写一条
           </button>
         </div>
+        <SupportNote />
       </div>
     )
   }
@@ -110,6 +112,7 @@ export function Feedback() {
           )}
         </button>
       </form>
+      <SupportNote />
     </div>
   )
 }
