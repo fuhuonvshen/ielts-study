@@ -1,0 +1,872 @@
+{
+  "date": "2026-06-27",
+  "articles": [
+    {
+      "id": 1,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-23/How-intelligent-systems-keep-high-speed-rail-safe-precise-and-smooth-1OcYVMNTapO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "How intelligent systems keep high-speed rail safe, precise and smooth",
+      "titleCn": "智能系统如何确保高铁安全、精准与平稳运行",
+      "summary": "How intelligent systems keep high-speed rail safe, precise and smooth",
+      "summaryCn": "文章介绍了中国智能高铁系统通过先进列车控制技术实现精准停车、安全运行和舒适驾驶，并展望了未来铁路网络融合的发展。",
+      "wordCount": 840,
+      "paragraphs": [
+        {
+          "en": "On December 30, 2019, the Beijing-Zhangjiakou high-speed railway officially began {{1}}, becoming the world's first {{0}} high-speed railway running at 350 km/h with driver-attended automated driving. In parallel, intelligent driving in road transportation is also accelerating rapidly in China. According to Wang Shuiyin, vice president of the Research Institute of Highway under the Ministry of Transport, the country's {{2}} rate of intelligent driving passenger vehicles has {{3}} 68%, and the total length of open testing roads for autonomous driving has surpassed 28,000 kilometers. A Beijing-Zhangjiakou high-speed train passes through the Juyongguan section of the Great Wall, January 7, 2022. However, despite both belonging to intelligent driving, rail and road systems differ fundamentally in {{4}} and operating environments.",
+          "cn": "2019年12月30日，京张高铁正式开通运营，成为世界上首条时速350公里、有人值守自动驾驶的智能高铁。与此同时，道路运输中的智能驾驶在中国也在加速推进。据交通运输部公路科学研究院副院长王水印介绍，我国智能驾驶乘用车渗透率已超过68%，自动驾驶开放测试道路总里程已超过2.8万公里。2022年1月7日，一列京张高铁列车驶过长城居庸关段。然而，尽管同属智能驾驶，铁路和道路系统在复杂性和运行环境上存在根本差异。"
+        },
+        {
+          "en": "\"The gap between automotive and rail {{5}} is significant,\" Wang Xiaoliang, vice president and chief engineer of Beijing Hollysys Co., Ltd. under the Hollysys Group, told CGTN. \"One of the core challenges is {{6}} stopping,\" Wang said. \"Due to environmental variations, parameter {{7}} and massive real-time data {{8}} requirement, achieving this in high-speed rail is extremely difficult.\"\nA Fuxing Electric Multiple Unit (EMU) runs along the Beijing-Shanghai high-speed railway, Changzhou, Jiangsu Province, January 15, 2025. Unlike road vehicles, high-speed trains operate under tightly controlled conditions at extreme speeds, where even minor deviations can have amplified {{9}}.",
+          "cn": "“汽车与铁路自动化的差距是显著的，”和利时集团旗下北京和利时系统工程有限公司副总裁兼总工程师汪小亮告诉CGTN。“核心挑战之一是精准停车，”汪小亮说。“由于环境变化、参数偏差以及海量实时数据传输需求，在高铁中实现这一点极其困难。”2025年1月15日，一列复兴号动车组行驶在江苏省常州市的京沪高铁线上。与道路车辆不同，高铁列车在极端速度下、受严格控制的条件中运行，即使是微小的偏差也可能产生放大的后果。"
+        },
+        {
+          "en": "Wang explained that the Beijing-Zhangjiakou high-speed railway is {{10}} with the Chinese Train Control System Level 3 (CTCS-3), along with three Radio Block Centers (RBCs) and multiple Automatic Train Protection (ATP) systems provided by Hollysys, enabling precise and safe operation. RBC and ATP are core safety equipment of high-speed rail train control system, which {{11}} communicate with onboard and offboard equipment, enabling real-time information exchange between train and ground. They function like a \"central nervous system\" for safe and {{12}} train operation. Ensuring both {{13}} and safety\nForeign representatives attending the 12th World Congress on High-Speed Rail travel on the Beijing–Zhangjiakou high-speed railway from Beijing North Railway Station to Taizicheng, a venue for the Beijing 2022 Winter Olympics, July 11, 2025. \"Behind the punctuality of high-speed rail is truly the train control system,\" He Chunming, vice president of Hollysys Group, told CGTN.",
+          "cn": "汪小亮解释说，京张高铁配备了CTCS-3级中国列车运行控制系统，以及和利时提供的三个无线闭塞中心（RBC）和多个自动列车防护（ATP）系统，实现了精准安全运行。RBC和ATP是高铁列车控制系统的核心安全设备，它们持续与车载和地面设备通信，实现车地之间的实时信息交换。它们就像一个“中枢神经系统”，确保列车安全协调运行。确保准点与安全。2025年7月11日，参加第十二届世界高速铁路大会的外国代表乘坐京张高铁从北京北站前往北京2022年冬奥会举办地太子城。“高铁准点运行的背后实际上是列车控制系统，”和利时集团副总裁何春明告诉CGTN。"
+        },
+        {
+          "en": "The system consists of both onboard and ground-based equipment, responsible for managing train {{14}} and speed. As train speeds increase, manual control by drivers becomes increasingly difficult. \"Braking distance is directly related to speed,\" said He. \"When a high-speed train is running at 350 km/h, the {{15}} distance needs to be about 20 kilometers.\"\nTo ensure safety, the system must continuously calculate safe operating speeds based on information far ahead of the train. \"To determine a safe speed, we need to obtain all data within about 20 kilometers ahead.",
+          "cn": "该系统由车载和地面设备组成，负责管理列车间距和速度。随着列车速度的提高，司机的手动控制变得越来越困难。“制动距离与速度直接相关，”何春明说。“当高铁以350公里/小时运行时，制动距离需要大约20公里。”为确保安全，系统必须根据列车前方远距离的信息持续计算安全运行速度。“要确定安全速度，我们需要获取前方约20公里范围内的所有数据。"
+        },
+        {
+          "en": "Now, data from up to 32 kilometers ahead is already available.\" said He. \"Only with this level of information can the system calculate safe speed for each segment.\"\nSpeed control is not only about distance. Conditions such as {{16}}, curves, and switches will all have an impact. \"For example, an uphill or downhill slope will have significantly different effects on deceleration,\" said He, \"and if a train enters a curve or switch at excessive speed, it could {{17}}. \"Therefore, all information within 20 or 30 kilometers ahead must be {{18}} to generate a unified safe speed.\"\nHigh-speed rail systems are built on very strict safety principles.",
+          "cn": "“现在，前方32公里范围内的数据已经可用。”何春明说。“只有拥有这种级别的信息，系统才能为每个路段计算出安全速度。”速度控制不仅关乎距离。坡度、弯道和道岔等条件都会产生影响。“例如，上坡或下坡对减速的影响显著不同，”何春明说，“如果列车以过高速度进入弯道或道岔，可能会脱轨。”因此，前方20或30公里范围内的所有信息必须整合起来，生成一个统一的安全速度。高铁系统建立在非常严格的安全原则之上。"
+        },
+        {
+          "en": "He noted that if communication is {{19}}, the train must stop. \"Because once we cannot confirm whether the information is up to date or accurate, we must follow the {{20}} principle.\"\nIn railway signaling design, any fault must lead to a safe outcome – the fail-safe principle. If communication is lost beyond certain duration, the system discards all data and triggers an emergency brake. Although highly automated, high-speed rail does not eliminate human {{21}}. \"The automated driving system reduces the driver's workload, and about 90% of operations can be automated, but some key points still require human confirmation,\" said He.",
+          "cn": "何春明指出，如果通信中断，列车必须停车。“因为一旦我们无法确认信息是否最新或准确，就必须遵循故障导向安全原则。”在铁路信号设计中，任何故障都必须导致安全结果——这就是故障导向安全原则。如果通信中断超过一定时长，系统会丢弃所有数据并触发紧急制动。尽管高度自动化，高铁并未消除人的监督。“自动驾驶系统减轻了司机的工作量，大约90%的操作可以自动化，但某些关键点仍需人工确认，”何春明说。"
+        },
+        {
+          "en": "Developing such systems is a long process. A railway control system takes 5 to 8 years from development to deployment. More comfort through intelligent speed control\nHigh-speed EMU trains at Wuhan Railway Station, February 2, 2026. Human driving can be inconsistent, and frequent acceleration and braking reduce comfort and {{23}}. Intelligent systems incorporate experienced drivers' strategies into their control {{22}}, automatically generating optimal speed curves that balance punctuality, comfort and energy efficiency, enabling the train to run more smoothly and efficiently.",
+          "cn": "开发这样的系统是一个漫长的过程。一个铁路控制系统从开发到部署需要5到8年。通过智能速度控制提升舒适度。2026年2月2日，武汉火车站的高铁动车组。人工驾驶可能不一致，频繁的加速和制动会降低舒适度和效率。智能系统将经验丰富司机的策略纳入其控制算法，自动生成优化速度曲线，平衡准点、舒适和能效，使列车运行更平稳、更高效。"
+        },
+        {
+          "en": "In the future, travel could be more {{24}} with the advancement of \"four-network integration,\" referring to the deep integration of mainline railways, intercity railways, suburban railways and urban rail transit systems. In this framework, rail services would function as a unified mobility network rather than separate systems. Different control systems developed by Hollysys Group. He noted that this technology is still under development. As a global provider of rail transit control systems and services, Hollysys Group has deployed train control systems on more than 80 main railway lines across China, covering over 16,000 kilometers in total.",
+          "cn": "未来，随着“四网融合”的推进，出行可能更加无缝衔接。“四网融合”指的是干线铁路、城际铁路、市域（郊）铁路和城市轨道交通系统的深度融合。在这一框架下，铁路服务将作为一个统一的出行网络运行，而非独立的系统。和利时集团开发的不同控制系统。何春明指出，这项技术仍在开发中。作为全球轨道交通控制系统和服务提供商，和利时集团已在中国80多条主要铁路线上部署了列车控制系统，总覆盖里程超过1.6万公里。"
+        },
+        {
+          "en": "It is leveraging its accumulated technological strengths to turn this vision into reality.",
+          "cn": "它正利用积累的技术优势将这一愿景变为现实。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "intelligent",
+          "hint": "adj. 智能的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "operation",
+          "hint": "n. 运行，运营",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "penetration",
+          "hint": "n. 渗透率",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "exceeded",
+          "hint": "v. 超过",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "complexity",
+          "hint": "n. 复杂性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "automation",
+          "hint": "n. 自动化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "precise",
+          "hint": "adj. 精确的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "deviations",
+          "hint": "n. 偏差",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "transmission",
+          "hint": "n. 传输",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "consequences",
+          "hint": "n. 后果",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "equipped",
+          "hint": "v. 配备",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "continuously",
+          "hint": "adv. 持续地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "coordinated",
+          "hint": "adj. 协调的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "punctuality",
+          "hint": "n. 准点",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "spacing",
+          "hint": "n. 间距",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "braking",
+          "hint": "n. 制动",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "gradients",
+          "hint": "n. 坡度",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "derail",
+          "hint": "v. 脱轨",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "integrated",
+          "hint": "v. 整合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "interrupted",
+          "hint": "v. 中断",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "fail-safe",
+          "hint": "adj. 故障导向安全的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "oversight",
+          "hint": "n. 监督",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "algorithms",
+          "hint": "n. 算法",
+          "difficulty": "hard"
+        },
+        {
+          "id": 23,
+          "answer": "efficiency",
+          "hint": "n. 效率",
+          "difficulty": "easy"
+        },
+        {
+          "id": 24,
+          "answer": "seamless",
+          "hint": "adj. 无缝的",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "On December 30, 2019, the Beijing-Zhangjiakou high-speed railway officially began operation, becoming the world's first intelligent high-speed railway running at 350 km/h with driver-attended automated driving.\nIn parallel, intelligent driving in road transportation is also accelerating rapidly in China. According to Wang Shuiyin, vice president of the Research Institute of Highway under the Ministry of Transport, the country's penetration rate of intelligent driving passenger vehicles has exceeded 68%, and the total length of open testing roads for autonomous driving has surpassed 28,000 kilometers.\nA Beijing-Zhangjiakou high-speed train passes through the Juyongguan section of the Great Wall, January 7, 2022. \nHowever, despite both belonging to intelligent driving, rail and road systems differ fundamentally in complexity and operating environments.\n\"The gap between automotive and rail automation is significant,\" Wang Xiaoliang, vice president and chief engineer of Beijing Hollysys Co., Ltd. under the Hollysys Group, told CGTN.\n\"One of the core challenges is precise stopping,\" Wang said. \"Due to environmental variations, parameter deviations and massive real-time data transmission requirement, achieving this in high-speed rail is extremely difficult.\"\nA Fuxing Electric Multiple Unit (EMU) runs along the Beijing-Shanghai high-speed railway, Changzhou, Jiangsu Province, January 15, 2025. \nUnlike road vehicles, high-speed trains operate under tightly controlled conditions at extreme speeds, where even minor deviations can have amplified consequences.\nWang explained that the Beijing-Zhangjiakou high-speed railway is equipped with the Chinese Train Control System Level 3 (CTCS-3), along with three Radio Block Centers (RBCs) and multiple Automatic Train Protection (ATP) systems provided by Hollysys, enabling precise and safe operation.\nRBC and ATP are core safety equipment of high-speed rail train control system, which continuously communicate with onboard and offboard equipment, enabling real-time information exchange between train and ground. They function like a \"central nervous system\" for safe and coordinated train operation.\nEnsuring both punctuality and safety\nForeign representatives attending the 12th World Congress on High-Speed Rail travel on the Beijing–Zhangjiakou high-speed railway from Beijing North Railway Station to Taizicheng, a venue for the Beijing 2022 Winter Olympics, July 11, 2025. \n\"Behind the punctuality of high-speed rail is truly the train control system,\" He Chunming, vice president of Hollysys Group, told CGTN.\nThe system consists of both onboard and ground-based equipment, responsible for managing train spacing and speed. As train speeds increase, manual control by drivers becomes increasingly difficult.\n\"Braking distance is directly related to speed,\" said He. \"When a high-speed train is running at 350 km/h, the braking distance needs to be about 20 kilometers.\"\nTo ensure safety, the system must continuously calculate safe operating speeds based on information far ahead of the train.\n\"To determine a safe speed, we need to obtain all data within about 20 kilometers ahead. Now, data from up to 32 kilometers ahead is already available.\" said He. \"Only with this level of information can the system calculate safe speed for each segment.\"\nSpeed control is not only about distance. Conditions such as gradients, curves, and switches will all have an impact.\n\"For example, an uphill or downhill slope will have significantly different effects on deceleration,\" said He, \"and if a train enters a curve or switch at excessive speed, it could derail.\n\"Therefore, all information within 20 or 30 kilometers ahead must be integrated to generate a unified safe speed.\"\nHigh-speed rail systems are built on very strict safety principles. He noted that if communication is interrupted, the train must stop. \"Because once we cannot confirm whether the information is up to date or accurate, we must follow the fail-safe principle.\"\nIn railway signaling design, any fault must lead to a safe outcome – the fail-safe principle. If communication is lost beyond certain duration, the system discards all data and triggers an emergency brake.\nAlthough highly automated, high-speed rail does not eliminate human oversight.\n\"The automated driving system reduces the driver's workload, and about 90% of operations can be automated, but some key points still require human confirmation,\" said He.\nDeveloping such systems is a long process. A railway control system takes 5 to 8 years from development to deployment.\nMore comfort through intelligent speed control\nHigh-speed EMU trains at Wuhan Railway Station, February 2, 2026. \nHuman driving can be inconsistent, and frequent acceleration and braking reduce comfort and efficiency.\nIntelligent systems incorporate experienced drivers' strategies into their control algorithms, automatically generating optimal speed curves that balance punctuality, comfort and energy efficiency, enabling the train to run more smoothly and efficiently.\nIn the future, travel could be more seamless with the advancement of \"four-network integration,\" referring to the deep integration of mainline railways, intercity railways, suburban railways and urban rail transit systems. In this framework, rail services would function as a unified mobility network rather than separate systems.\nDifferent control systems developed by Hollysys Group. \nHe noted that this technology is still under development. As a global provider of rail transit control systems and services, Hollysys Group has deployed train control systems on more than 80 main railway lines across China, covering over 16,000 kilometers in total. It is leveraging its accumulated technological strengths to turn this vision into reality.",
+      "fullTextCn": "2019年12月30日，京张高铁正式开通运营，成为世界上首条时速350公里、有人值守自动驾驶的智能高铁。与此同时，道路运输中的智能驾驶在中国也在加速推进。据交通运输部公路科学研究院副院长王水印介绍，我国智能驾驶乘用车渗透率已超过68%，自动驾驶开放测试道路总里程已超过2.8万公里。2022年1月7日，一列京张高铁列车驶过长城居庸关段。然而，尽管同属智能驾驶，铁路和道路系统在复杂性和运行环境上存在根本差异。\n\n“汽车与铁路自动化的差距是显著的，”和利时集团旗下北京和利时系统工程有限公司副总裁兼总工程师汪小亮告诉CGTN。“核心挑战之一是精准停车，”汪小亮说。“由于环境变化、参数偏差以及海量实时数据传输需求，在高铁中实现这一点极其困难。”2025年1月15日，一列复兴号动车组行驶在江苏省常州市的京沪高铁线上。与道路车辆不同，高铁列车在极端速度下、受严格控制的条件中运行，即使是微小的偏差也可能产生放大的后果。\n\n汪小亮解释说，京张高铁配备了CTCS-3级中国列车运行控制系统，以及和利时提供的三个无线闭塞中心（RBC）和多个自动列车防护（ATP）系统，实现了精准安全运行。RBC和ATP是高铁列车控制系统的核心安全设备，它们持续与车载和地面设备通信，实现车地之间的实时信息交换。它们就像一个“中枢神经系统”，确保列车安全协调运行。确保准点与安全。2025年7月11日，参加第十二届世界高速铁路大会的外国代表乘坐京张高铁从北京北站前往北京2022年冬奥会举办地太子城。“高铁准点运行的背后实际上是列车控制系统，”和利时集团副总裁何春明告诉CGTN。\n\n该系统由车载和地面设备组成，负责管理列车间距和速度。随着列车速度的提高，司机的手动控制变得越来越困难。“制动距离与速度直接相关，”何春明说。“当高铁以350公里/小时运行时，制动距离需要大约20公里。”为确保安全，系统必须根据列车前方远距离的信息持续计算安全运行速度。“要确定安全速度，我们需要获取前方约20公里范围内的所有数据。\n\n“现在，前方32公里范围内的数据已经可用。”何春明说。“只有拥有这种级别的信息，系统才能为每个路段计算出安全速度。”速度控制不仅关乎距离。坡度、弯道和道岔等条件都会产生影响。“例如，上坡或下坡对减速的影响显著不同，”何春明说，“如果列车以过高速度进入弯道或道岔，可能会脱轨。”因此，前方20或30公里范围内的所有信息必须整合起来，生成一个统一的安全速度。高铁系统建立在非常严格的安全原则之上。\n\n何春明指出，如果通信中断，列车必须停车。“因为一旦我们无法确认信息是否最新或准确，就必须遵循故障导向安全原则。”在铁路信号设计中，任何故障都必须导致安全结果——这就是故障导向安全原则。如果通信中断超过一定时长，系统会丢弃所有数据并触发紧急制动。尽管高度自动化，高铁并未消除人的监督。“自动驾驶系统减轻了司机的工作量，大约90%的操作可以自动化，但某些关键点仍需人工确认，”何春明说。\n\n开发这样的系统是一个漫长的过程。一个铁路控制系统从开发到部署需要5到8年。通过智能速度控制提升舒适度。2026年2月2日，武汉火车站的高铁动车组。人工驾驶可能不一致，频繁的加速和制动会降低舒适度和效率。智能系统将经验丰富司机的策略纳入其控制算法，自动生成优化速度曲线，平衡准点、舒适和能效，使列车运行更平稳、更高效。\n\n未来，随着“四网融合”的推进，出行可能更加无缝衔接。“四网融合”指的是干线铁路、城际铁路、市域（郊）铁路和城市轨道交通系统的深度融合。在这一框架下，铁路服务将作为一个统一的出行网络运行，而非独立的系统。和利时集团开发的不同控制系统。何春明指出，这项技术仍在开发中。作为全球轨道交通控制系统和服务提供商，和利时集团已在中国80多条主要铁路线上部署了列车控制系统，总覆盖里程超过1.6万公里。\n\n它正利用积累的技术优势将这一愿景变为现实。"
+    },
+    {
+      "id": 2,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/china/2026-06-26/detail-ihfftxzk2712787.shtml",
+      "title": "Visit boosts confidence in rural future",
+      "titleCn": "视察提振农村未来信心",
+      "summary": "When President Xi Jinping visited Dongyujia village in Dezhou, Shandong province, during the busy summer farming season on Wednesday morning, Li Lianjun, 54, and other villagers shared with him their joy over this year's summer grain harvest.",
+      "summaryCn": "习近平主席视察山东德州东于家村，与农民亲切交流，强调粮食安全与农业科技，鼓舞农民信心。",
+      "wordCount": 714,
+      "paragraphs": [
+        {
+          "en": "When President Xi Jinping visited Dongyujia village in Dezhou, Shandong province, during the busy summer farming season on Wednesday morning, Li Lianjun, 54, and other villagers shared with him their joy over this year's summer grain {{1}}. Xi was pleased to learn that wheat {{2}} had increased again this year and that corn was being planted rapidly without missing the {{3}} planting window. He encouraged the farmers to steadily increase both yields and returns, and strive for a {{4}} grain harvest for the whole year. \"With all the wheat harvested, we knew we had secured a good harvest,\" Li said, noting that yields had increased by about 300 to 375 kilograms per hectare compared with last year. Xi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, was on an {{5}} trip to Dezhou on Wednesday.",
+          "cn": "周三上午，正值繁忙的夏收时节，国家主席习近平来到山东省德州市东于家村视察。54岁的李连军和其他村民与他分享了今年夏粮丰收的喜悦。习近平得知今年小麦产量再次提高，玉米正在抢抓农时迅速播种，感到欣慰。他鼓励农民稳步提高产量和收益，力争全年粮食丰收。李连军说：“小麦都收完了，我们知道收成稳了。”他提到，与去年相比，每公顷产量增加了约300到375公斤。习近平是中共中央总书记、中央军委主席，周三在德州进行考察。"
+        },
+        {
+          "en": "For Li, who farms 6.7 hectares of land, the conversation in the fields remains {{6}}. \"I never imagined that the general secretary would come right up to us,\" he said. \"He was so warm and {{7}}.\"\nXi also asked Li about his household income, as well as his children's studies and lives. Li said that those questions made the {{8}} feel more like a warm and informal chat about everyday life rather than an official inspection. This year's bumper harvest, however, had not come easily for Dezhou's farmers.",
+          "cn": "对于耕种6.7公顷土地的李连军来说，田间地头的对话依然历历在目。“我从没想过总书记会直接走到我们跟前，”他说，“他非常热情、平易近人。”习近平还询问了李连军的家庭收入以及孩子们的学习和生活情况。李连军说，这些问题让这次会面更像是一次温馨随意的家常聊天，而非正式视察。然而，对德州的农民来说，今年的丰收来之不易。"
+        },
+        {
+          "en": "Prolonged autumn rains in 2025 delayed wheat planting by more than 20 days, raising concerns about whether the crop could grow strongly enough before winter and recover in spring. With the help of agricultural {{10}} throughout the growing season, the crop had fully recovered by early April, when the wheat entered the {{11}} stage. Cui Xinyan, a local agricultural technician, said Xi showed a particular interest in the {{12}} {{13}} and {{14}} system used in the fields. \"He crouched down to take a close look and asked detailed questions about the system's operating costs and fertilizer mix,\" Cui recalled. According to Cui, the technology can increase planting {{15}} from around 67,500 to more than 82,500 plants per hectare, raising average yields by over 10 percent.",
+          "cn": "2025年秋季的持续降雨导致小麦播种推迟了20多天，人们担心作物能否在冬季前茁壮成长并在春季恢复。在整个生长季节，农业技术人员的帮助下，作物在4月初小麦进入拔节期时已完全恢复。当地农业技术员崔新燕表示，习近平对田间使用的水肥一体化系统表现出特别兴趣。“他蹲下来仔细查看，并详细询问了系统的运行成本和肥料配比，”崔新燕回忆道。据崔新燕介绍，这项技术可以将种植密度从每公顷约67500株提高到超过82500株，使平均产量提高10%以上。"
+        },
+        {
+          "en": "Cui said that her strongest impression from speaking face to face with Xi was his close attention to agriculture, food security and agricultural technology. \"His words and actions reflected his deep {{16}} for farmers,\" Cui said. Xi's visit then continued from the fields to the nearby Xiyujia village, where he was offered a closer look at how changes in agricultural production and rural employment are {{17}} villagers' lives. At the home of Yu Xinhui, 36, Xi looked around and sat down with the family for a conversation. He asked about their jobs and income, the health of elderly family members and the children's studies.",
+          "cn": "崔新燕说，与习近平面对面交流给她最深的印象是他对农业、粮食安全和农业科技的高度关注。“他的言行体现了他对农民的深厚感情，”崔新燕说。随后，习近平的视察从田间来到附近的西于家村，在那里他更深入地了解了农业生产和农村就业的变化如何重塑村民的生活。在36岁的于新辉家中，习近平环顾四周，并与一家人坐下交谈。他询问了他们的工作和收入、老人的健康状况以及孩子们的学习情况。"
+        },
+        {
+          "en": "He also asked in detail whether policies concerning agriculture, rural areas and farmers had been fully {{18}}. One question from Xi left a particularly deep impression on the villager. \"The general secretary asked whether there was anything I was unhappy with or wanted to complain about,\" Yu recalled. \"That really warmed my heart. He truly cares about young people like us.\"\nYu said that the conversation gave him and other villagers a stronger sense of {{0}} and security.",
+          "cn": "他还详细询问了关于农业、农村和农民的政策是否得到全面落实。习近平的一个问题给这位村民留下了特别深刻的印象。“总书记问我有没有什么不满意或想抱怨的事情，”于新辉回忆道，“这让我心里很暖。他真心关心我们这样的年轻人。”于新辉说，这次谈话让他和其他村民感到更加自信和安全。"
+        },
+        {
+          "en": "\"We feel more motivated and reassured,\" he said. \"It feels we have strong support behind us.\"\nThis year marks the beginning of China's 15th Five-Year Plan (2026-30) period. Agricultural and rural modernization, as outlined in the plan, has a major bearing on Chinese modernization as a whole. By 2030, the country aims to further strengthen food security, improve the quality, efficiency and competitiveness of agriculture, enhance agricultural sci-tech capabilities and continue raising farmers' incomes, among other goals. Xi's fact-finding trip, which came a week before the CPC marks its 105th anniversary, underscored the Party's long-standing priorities of safeguarding food security, raising farmers' incomes and improving people's well-being.",
+          "cn": "“我们感到更有动力、更安心了，”他说，“感觉背后有强大的支持。”今年是中国第十五个五年规划（2026-2030年）的开局之年。规划中提出的农业农村现代化，对中国式现代化具有重大意义。到2030年，国家目标是进一步加强粮食安全，提高农业质量、效益和竞争力，增强农业科技能力，并继续提高农民收入等。习近平的这次考察，恰逢中国共产党成立105周年前一周，凸显了党长期以来保障粮食安全、提高农民收入、改善民生福祉的优先事项。"
+        },
+        {
+          "en": "As Xi left the village, residents gathered to give him a warm send-off. \"As we are marching on the new journey of building China into a modern socialist country in all respects, we must work together and keep up our stride on the new Long March to create a brighter future and continuously meet the people's {{19}} for a better life,\" Xi said to them.",
+          "cn": "习近平离开村庄时，村民们聚集在一起热情送别。“在全面建设社会主义现代化国家的新征程上，我们要团结一心，在新长征路上继续前进，创造更加美好的未来，不断满足人民对美好生活的向往，”习近平对大家说。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "confidence",
+          "hint": "n. 信心",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "harvest",
+          "hint": "n. 收成",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "yields",
+          "hint": "n. 产量",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "optimal",
+          "hint": "adj. 最佳的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "bumper",
+          "hint": "adj. 丰盛的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "inspection",
+          "hint": "n. 视察",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "vivid",
+          "hint": "adj. 生动的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "approachable",
+          "hint": "adj. 平易近人的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "encounter",
+          "hint": "n. 相遇",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "technicians",
+          "hint": "n. 技术员",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "jointing",
+          "hint": "n. 拔节",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "integrated",
+          "hint": "adj. 综合的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "irrigation",
+          "hint": "n. 灌溉",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "fertilization",
+          "hint": "n. 施肥",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "density",
+          "hint": "n. 密度",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "affection",
+          "hint": "n. 感情",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "reshaping",
+          "hint": "v. 重塑",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "implemented",
+          "hint": "v. 实施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "aspirations",
+          "hint": "n. 愿望",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "When President Xi Jinping visited Dongyujia village in Dezhou, Shandong province, during the busy summer farming season on Wednesday morning, Li Lianjun, 54, and other villagers shared with him their joy over this year's summer grain harvest.\nXi was pleased to learn that wheat yields had increased again this year and that corn was being planted rapidly without missing the optimal planting window. He encouraged the farmers to steadily increase both yields and returns, and strive for a bumper grain harvest for the whole year.\n\"With all the wheat harvested, we knew we had secured a good harvest,\" Li said, noting that yields had increased by about 300 to 375 kilograms per hectare compared with last year.\nXi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, was on an inspection trip to Dezhou on Wednesday.\nFor Li, who farms 6.7 hectares of land, the conversation in the fields remains vivid. \"I never imagined that the general secretary would come right up to us,\" he said. \"He was so warm and approachable.\"\nXi also asked Li about his household income, as well as his children's studies and lives.\nLi said that those questions made the encounter feel more like a warm and informal chat about everyday life rather than an official inspection.\nThis year's bumper harvest, however, had not come easily for Dezhou's farmers.\nProlonged autumn rains in 2025 delayed wheat planting by more than 20 days, raising concerns about whether the crop could grow strongly enough before winter and recover in spring.\nWith the help of agricultural technicians throughout the growing season, the crop had fully recovered by early April, when the wheat entered the jointing stage.\nCui Xinyan, a local agricultural technician, said Xi showed a particular interest in the integrated irrigation and fertilization system used in the fields.\n\"He crouched down to take a close look and asked detailed questions about the system's operating costs and fertilizer mix,\" Cui recalled.\nAccording to Cui, the technology can increase planting density from around 67,500 to more than 82,500 plants per hectare, raising average yields by over 10 percent.\nCui said that her strongest impression from speaking face to face with Xi was his close attention to agriculture, food security and agricultural technology.\n\"His words and actions reflected his deep affection for farmers,\" Cui said.\nXi's visit then continued from the fields to the nearby Xiyujia village, where he was offered a closer look at how changes in agricultural production and rural employment are reshaping villagers' lives.\nAt the home of Yu Xinhui, 36, Xi looked around and sat down with the family for a conversation. He asked about their jobs and income, the health of elderly family members and the children's studies. He also asked in detail whether policies concerning agriculture, rural areas and farmers had been fully implemented.\nOne question from Xi left a particularly deep impression on the villager.\n\"The general secretary asked whether there was anything I was unhappy with or wanted to complain about,\" Yu recalled. \"That really warmed my heart. He truly cares about young people like us.\"\nYu said that the conversation gave him and other villagers a stronger sense of confidence and security.\n\"We feel more motivated and reassured,\" he said. \"It feels we have strong support behind us.\"\nThis year marks the beginning of China's 15th Five-Year Plan (2026-30) period. Agricultural and rural modernization, as outlined in the plan, has a major bearing on Chinese modernization as a whole. By 2030, the country aims to further strengthen food security, improve the quality, efficiency and competitiveness of agriculture, enhance agricultural sci-tech capabilities and continue raising farmers' incomes, among other goals.\nXi's fact-finding trip, which came a week before the CPC marks its 105th anniversary, underscored the Party's long-standing priorities of safeguarding food security, raising farmers' incomes and improving people's well-being.\nAs Xi left the village, residents gathered to give him a warm send-off.\n\"As we are marching on the new journey of building China into a modern socialist country in all respects, we must work together and keep up our stride on the new Long March to create a brighter future and continuously meet the people's aspirations for a better life,\" Xi said to them.",
+      "fullTextCn": "周三上午，正值繁忙的夏收时节，国家主席习近平来到山东省德州市东于家村视察。54岁的李连军和其他村民与他分享了今年夏粮丰收的喜悦。习近平得知今年小麦产量再次提高，玉米正在抢抓农时迅速播种，感到欣慰。他鼓励农民稳步提高产量和收益，力争全年粮食丰收。李连军说：“小麦都收完了，我们知道收成稳了。”他提到，与去年相比，每公顷产量增加了约300到375公斤。习近平是中共中央总书记、中央军委主席，周三在德州进行考察。\n\n对于耕种6.7公顷土地的李连军来说，田间地头的对话依然历历在目。“我从没想过总书记会直接走到我们跟前，”他说，“他非常热情、平易近人。”习近平还询问了李连军的家庭收入以及孩子们的学习和生活情况。李连军说，这些问题让这次会面更像是一次温馨随意的家常聊天，而非正式视察。然而，对德州的农民来说，今年的丰收来之不易。\n\n2025年秋季的持续降雨导致小麦播种推迟了20多天，人们担心作物能否在冬季前茁壮成长并在春季恢复。在整个生长季节，农业技术人员的帮助下，作物在4月初小麦进入拔节期时已完全恢复。当地农业技术员崔新燕表示，习近平对田间使用的水肥一体化系统表现出特别兴趣。“他蹲下来仔细查看，并详细询问了系统的运行成本和肥料配比，”崔新燕回忆道。据崔新燕介绍，这项技术可以将种植密度从每公顷约67500株提高到超过82500株，使平均产量提高10%以上。\n\n崔新燕说，与习近平面对面交流给她最深的印象是他对农业、粮食安全和农业科技的高度关注。“他的言行体现了他对农民的深厚感情，”崔新燕说。随后，习近平的视察从田间来到附近的西于家村，在那里他更深入地了解了农业生产和农村就业的变化如何重塑村民的生活。在36岁的于新辉家中，习近平环顾四周，并与一家人坐下交谈。他询问了他们的工作和收入、老人的健康状况以及孩子们的学习情况。\n\n他还详细询问了关于农业、农村和农民的政策是否得到全面落实。习近平的一个问题给这位村民留下了特别深刻的印象。“总书记问我有没有什么不满意或想抱怨的事情，”于新辉回忆道，“这让我心里很暖。他真心关心我们这样的年轻人。”于新辉说，这次谈话让他和其他村民感到更加自信和安全。\n\n“我们感到更有动力、更安心了，”他说，“感觉背后有强大的支持。”今年是中国第十五个五年规划（2026-2030年）的开局之年。规划中提出的农业农村现代化，对中国式现代化具有重大意义。到2030年，国家目标是进一步加强粮食安全，提高农业质量、效益和竞争力，增强农业科技能力，并继续提高农民收入等。习近平的这次考察，恰逢中国共产党成立105周年前一周，凸显了党长期以来保障粮食安全、提高农民收入、改善民生福祉的优先事项。\n\n习近平离开村庄时，村民们聚集在一起热情送别。“在全面建设社会主义现代化国家的新征程上，我们要团结一心，在新长征路上继续前进，创造更加美好的未来，不断满足人民对美好生活的向往，”习近平对大家说。"
+    },
+    {
+      "id": 3,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-18/Tropical-Storm-Arthur-forms-near-Texas-coast-flooding-expected-1O4nVAjuJAk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Tropical Storm Arthur forms near Texas coast, flooding expected",
+      "titleCn": "热带风暴亚瑟在得克萨斯州海岸附近形成，预计将引发洪水",
+      "summary": "Tropical Storm Arthur, the first named storm of the 2026 Atlantic hurricane season, formed on Wednesday near the Texas coast and is expected to bring life-threatening flooding across portions of the southeastern US, according to the US National Hurricane Center.",
+      "summaryCn": "热带风暴亚瑟作为2026年大西洋飓风季首个命名风暴，在得克萨斯州海岸形成，预计将给美国东南部带来危及生命的洪水和强降雨。",
+      "wordCount": 442,
+      "paragraphs": [
+        {
+          "en": "A person walks through a {{0}} neighborhood after Tropical Storm Arthur made {{1}} in Freeport, Texas, June 17, 2026. Tropical Storm Arthur, the first named storm of the 2026 Atlantic hurricane season, formed on Wednesday near the Texas coast and is expected to bring {{2}} flooding across {{3}} of the southeastern US, according to the US National Hurricane Center (NHC). As of Wednesday night, the storm was {{4}} about 15 km northwest of Galveston, Texas, and about 185 km west-southwest of Lake Charles, Louisiana, moving northeast with maximum {{5}} winds of about 65 km/h – above the 63 km/h {{6}} for a tropical storm, said the NHC. Forecasters expect the system to gradually weaken and potentially {{7}} by late Wednesday night or early Thursday as it moves further {{8}} over southeastern Texas. Heavy surf stirred up by Tropical Storm Arthur {{9}} the beach in Surfside, Texas, June 17, 2026. Despite weakening, Arthur is expected to produce {{10}} heavy rainfall and life-threatening {{11}} flooding across portions of the southeastern US. The storm is expected to produce 127 to 254 mm of rainfall.",
+          "cn": "2026年6月17日，热带风暴亚瑟在得克萨斯州弗里波特登陆后，一名行人穿过被洪水淹没的社区。据美国国家飓风中心称，作为2026年大西洋飓风季首个命名风暴，热带风暴亚瑟于周三在得克萨斯州海岸附近形成，预计将给美国东南部部分地区带来危及生命的洪水。截至周三晚间，风暴中心位于得克萨斯州加尔维斯顿西北约15公里处，路易斯安那州查尔斯湖西南偏西约185公里处，以最大持续风速约65公里/小时向东北移动——高于热带风暴的63公里/小时阈值。预报员预计，随着该系统向得克萨斯州东南部内陆移动，它将在周三深夜或周四早些时候逐渐减弱并可能消散。2026年6月17日，热带风暴亚瑟引发的巨浪冲击着得克萨斯州瑟夫赛德海滩。尽管减弱，亚瑟预计仍将给美国东南部部分地区带来大范围强降雨和危及生命的山洪暴发。该风暴预计将带来127至254毫米的降雨量。"
+        },
+        {
+          "en": "Isolated higher totals near 50 cm are expected through early Friday from the mid and upper Texas coast east-northeast into southern and central portions of Louisiana, Mississippi and Alabama, along with western portions of Georgia and the Florida Panhandle, said the NHC. \"Very heavy rainfall is expected to fall across southeast Louisiana into southern Mississippi, where there can be {{13}} and even life-threatening flooding, before {{14}} northeastward through the Carolinas and Georgia,\" said AccuWeather hurricane expert Alex DaSilva. Significant rain is expected to last through Friday across the Southeast, and the zone of greatest risk will {{15}} from far eastern Texas and Louisiana to Georgia by Friday, according to AccuWeather. Potential impacts on the energy sector\nArthur's path runs near the Gulf Coast {{16}} region, which stretches from Corpus Christi to Pascagoula, Mississippi, and holds around half of US refining {{17}} of 18.4 million barrels per day. Operators including major oil refiners and LNG exporters along the coast have been {{18}} the storm. A model from consulting firm Earth Science Associates based on past storms is {{19}} that around 20,000 barrels of oil could be lost because of {{20}} at {{21}} platforms in the storm's path. \"Part of the past losses occur due to an {{22}} of {{23}} for personnel and other dangers, and that is part of the data in the model, though for the current storm we haven't seen those actions, so it is likely to be on the low side of the forecast,\" Earth Science Associates Chief Operating Officer Tony Dupont said in an emailed response to questions.",
+          "cn": "美国国家飓风中心表示，预计到周五早些时候，从得克萨斯州中上游海岸向东北方向延伸至路易斯安那州、密西西比州和阿拉巴马州的中部和南部，以及佐治亚州西部和佛罗里达州狭长地带，孤立地区降雨总量接近50厘米。AccuWeather飓风专家亚历克斯·达席尔瓦表示：“预计强降雨将落在路易斯安那州东南部至密西西比州南部，那里可能发生严重甚至危及生命的洪水，然后向东北方向蔓延至卡罗来纳州和佐治亚州。”据AccuWeather称，预计东南部地区的大雨将持续到周五，到周五，最大风险区域将从得克萨斯州东部和路易斯安那州转移到佐治亚州。对能源行业的潜在影响：亚瑟的路径靠近墨西哥湾沿岸的炼油区，该区域从科珀斯克里斯蒂延伸至密西西比州帕斯卡古拉，拥有美国约1840万桶/日炼油产能的一半。包括主要石油炼油商和液化天然气出口商在内的沿海运营商一直在监测该风暴。咨询公司地球科学协会基于过去风暴的模型预测，由于风暴路径上的海上平台停产，可能损失约2万桶石油。地球科学协会首席运营官托尼·杜邦在回复问题的电子邮件中表示：“过去的部分损失是由于对人员和其他危险的高度谨慎造成的，这也是模型数据的一部分，尽管对于当前风暴，我们尚未看到这些行动，因此很可能处于预测的低端。”"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "flooded",
+          "hint": "adj. 被水淹没的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "landfall",
+          "hint": "n. 登陆",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "life-threatening",
+          "hint": "adj. 危及生命的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "portions",
+          "hint": "n. 部分",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "centered",
+          "hint": "v. 位于中心",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "sustained",
+          "hint": "adj. 持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "threshold",
+          "hint": "n. 阈值",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "dissipate",
+          "hint": "v. 消散",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "inland",
+          "hint": "adv. 向内陆",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "batters",
+          "hint": "v. 猛烈冲击",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "widespread",
+          "hint": "adj. 广泛的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "flash",
+          "hint": "adj. 突发的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "significant",
+          "hint": "adj. 显著的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "spreading",
+          "hint": "v. 蔓延",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "shift",
+          "hint": "v. 转移",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "refining",
+          "hint": "n. 炼油",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "capacity",
+          "hint": "n. 产能",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "monitoring",
+          "hint": "v. 监测",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "forecasting",
+          "hint": "v. 预测",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "shut-ins",
+          "hint": "n. 停产",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "offshore",
+          "hint": "adj. 海上的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "abundance",
+          "hint": "n. 大量",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "caution",
+          "hint": "n. 谨慎",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "A person walks through a flooded neighborhood after Tropical Storm Arthur made landfall in Freeport, Texas, June 17, 2026. \nTropical Storm Arthur, the first named storm of the 2026 Atlantic hurricane season, formed on Wednesday near the Texas coast and is expected to bring life-threatening flooding across portions of the southeastern US, according to the US National Hurricane Center (NHC).\nAs of Wednesday night, the storm was centered about 15 km northwest of Galveston, Texas, and about 185 km west-southwest of Lake Charles, Louisiana, moving northeast with maximum sustained winds of about 65 km/h – above the 63 km/h threshold for a tropical storm, said the NHC.\nForecasters expect the system to gradually weaken and potentially dissipate by late Wednesday night or early Thursday as it moves further inland over southeastern Texas.\nHeavy surf stirred up by Tropical Storm Arthur batters the beach in Surfside, Texas, June 17, 2026. \nDespite weakening, Arthur is expected to produce widespread heavy rainfall and life-threatening flash flooding across portions of the southeastern US.\nThe storm is expected to produce 127 to 254 mm of rainfall. Isolated higher totals near 50 cm are expected through early Friday from the mid and upper Texas coast east-northeast into southern and central portions of Louisiana, Mississippi and Alabama, along with western portions of Georgia and the Florida Panhandle, said the NHC.\n\"Very heavy rainfall is expected to fall across southeast Louisiana into southern Mississippi, where there can be significant and even life-threatening flooding, before spreading northeastward through the Carolinas and Georgia,\" said AccuWeather hurricane expert Alex DaSilva.\nSignificant rain is expected to last through Friday across the Southeast, and the zone of greatest risk will shift from far eastern Texas and Louisiana to Georgia by Friday, according to AccuWeather.\nPotential impacts on the energy sector\nArthur's path runs near the Gulf Coast refining region, which stretches from Corpus Christi to Pascagoula, Mississippi, and holds around half of US refining capacity of 18.4 million barrels per day.\nOperators including major oil refiners and LNG exporters along the coast have been monitoring the storm.\nA model from consulting firm Earth Science Associates based on past storms is forecasting that around 20,000 barrels of oil could be lost because of shut-ins at offshore platforms in the storm's path.\n\"Part of the past losses occur due to an abundance of caution for personnel and other dangers, and that is part of the data in the model, though for the current storm we haven't seen those actions, so it is likely to be on the low side of the forecast,\" Earth Science Associates Chief Operating Officer Tony Dupont said in an emailed response to questions.",
+      "fullTextCn": "2026年6月17日，热带风暴亚瑟在得克萨斯州弗里波特登陆后，一名行人穿过被洪水淹没的社区。据美国国家飓风中心称，作为2026年大西洋飓风季首个命名风暴，热带风暴亚瑟于周三在得克萨斯州海岸附近形成，预计将给美国东南部部分地区带来危及生命的洪水。截至周三晚间，风暴中心位于得克萨斯州加尔维斯顿西北约15公里处，路易斯安那州查尔斯湖西南偏西约185公里处，以最大持续风速约65公里/小时向东北移动——高于热带风暴的63公里/小时阈值。预报员预计，随着该系统向得克萨斯州东南部内陆移动，它将在周三深夜或周四早些时候逐渐减弱并可能消散。2026年6月17日，热带风暴亚瑟引发的巨浪冲击着得克萨斯州瑟夫赛德海滩。尽管减弱，亚瑟预计仍将给美国东南部部分地区带来大范围强降雨和危及生命的山洪暴发。该风暴预计将带来127至254毫米的降雨量。\n\n美国国家飓风中心表示，预计到周五早些时候，从得克萨斯州中上游海岸向东北方向延伸至路易斯安那州、密西西比州和阿拉巴马州的中部和南部，以及佐治亚州西部和佛罗里达州狭长地带，孤立地区降雨总量接近50厘米。AccuWeather飓风专家亚历克斯·达席尔瓦表示：“预计强降雨将落在路易斯安那州东南部至密西西比州南部，那里可能发生严重甚至危及生命的洪水，然后向东北方向蔓延至卡罗来纳州和佐治亚州。”据AccuWeather称，预计东南部地区的大雨将持续到周五，到周五，最大风险区域将从得克萨斯州东部和路易斯安那州转移到佐治亚州。对能源行业的潜在影响：亚瑟的路径靠近墨西哥湾沿岸的炼油区，该区域从科珀斯克里斯蒂延伸至密西西比州帕斯卡古拉，拥有美国约1840万桶/日炼油产能的一半。包括主要石油炼油商和液化天然气出口商在内的沿海运营商一直在监测该风暴。咨询公司地球科学协会基于过去风暴的模型预测，由于风暴路径上的海上平台停产，可能损失约2万桶石油。地球科学协会首席运营官托尼·杜邦在回复问题的电子邮件中表示：“过去的部分损失是由于对人员和其他危险的高度谨慎造成的，这也是模型数据的一部分，尽管对于当前风暴，我们尚未看到这些行动，因此很可能处于预测的低端。”"
+    },
+    {
+      "id": 4,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-25/Pew-survey-finds-global-trust-in-US-falls-sharply--1Og22ePax8I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Pew survey finds global trust in US falls sharply",
+      "titleCn": "皮尤调查发现全球对美国信任度大幅下降",
+      "summary": "Global confidence in the United States has declined significantly in recent years, with fewer people around the world viewing it as a reliable partner, according to a new Pew Research Center survey.",
+      "summaryCn": "皮尤研究中心调查显示，全球对美国作为可靠伙伴的信任度显著下降，尤其在长期盟友中，同时对特朗普处理国际事务的信心普遍低迷。",
+      "wordCount": 408,
+      "paragraphs": [
+        {
+          "en": "Global {{0}} in the United States has {{1}} significantly in recent years, with fewer people around the world viewing it as a {{2}} partner, according to a new survey by the Pew Research Center. The survey found particularly {{3}} declines in countries that have long maintained close economic and security ties with Washington. In Canada, the share of people who described the United States as a reliable partner fell from 83% in 2022 to 35% in 2026. Similar declines were recorded in France, Germany and the United Kingdom, where the figures fell from 62% to 27%, 83% to 39%, and 82% to 49%, respectively. Australia, one of Washington's key Asia-Pacific {{4}}, also saw confidence fall sharply, from 79% in 2022 to 37% this year. The survey also revealed widespread {{5}} toward Trump.",
+          "cn": "根据皮尤研究中心的一项新调查，全球对美国的信心近年来显著下降，世界各地视其为可靠伙伴的人越来越少。调查发现，在与华盛顿长期保持密切经济和安全关系的国家中，下降幅度尤为剧烈。在加拿大，将美国描述为可靠伙伴的比例从2022年的83%降至2026年的35%。法国、德国和英国也出现了类似下降，比例分别从62%降至27%、83%降至39%和82%降至49%。澳大利亚作为华盛顿在亚太地区的关键盟友之一，信心也大幅下降，从2022年的79%降至今年的37%。调查还显示了对特朗普的普遍怀疑态度。"
+        },
+        {
+          "en": "Across the 36 countries surveyed, a {{6}} of just 23% of adults said they have confidence in his {{7}} of world affairs. Respondents gave Trump largely negative {{8}} on several major foreign policy issues, including {{9}}, the Gaza conflict, Iran, Greenland and the Russia-Ukraine conflict. Beyond perceptions of Trump, the survey pointed to a broader {{10}} in America's global image. A median of 35% of respondents said the United States {{11}} to peace and {{12}} around the world, down significantly from 2023. Views of Washington's {{13}} to consider other countries' interests have also weakened. In Germany, for example, the share of people who said the United States takes other nations' interests into {{14}} dropped from 60% in 2023 to 23% in 2026.",
+          "cn": "在接受调查的36个国家中，中位数仅有23%的成年人表示对特朗普处理国际事务有信心。受访者在多个主要外交政策问题上对特朗普给出了大体负面的评价，包括关税、加沙冲突、伊朗、格陵兰岛以及俄乌冲突。除了对特朗普的看法，调查还指出美国全球形象出现更广泛的恶化。中位数35%的受访者表示美国为世界和平与稳定做出了贡献，这一比例较2023年显著下降。对华盛顿是否愿意考虑其他国家利益的看法也有所减弱。例如，在德国，认为美国会考虑其他国家利益的比例从2023年的60%降至2026年的23%。"
+        },
+        {
+          "en": "Similarly, in Canada, Australia and the United Kingdom, the figures declined from 37%, 40% and 49% to 18%, 13% and 26%, respectively. The survey further found declining belief in America's {{15}} to individual {{16}}. The {{17}} of respondents who said the United States respects personal {{18}} has reached its lowest level in several countries surveyed by Pew over the years, including Australia, Canada and Greece. From 2021 to 2026, that figure fell from 57% to 33% in Australia, from 60% to 34% in Canada and from 53% to 36% in Greece. Overall {{19}} views of the United States also declined in many countries over the past year, including {{20}} drops in Indonesia, Italy, Nigeria, South Africa, South Korea and Türkiye. Some of the least favorable views came from {{21}} {{22}} populations, including Malaysia, Pakistan and {{23}} in the West Bank and East Jerusalem.",
+          "cn": "同样，在加拿大、澳大利亚和英国，这一比例分别从37%、40%和49%降至18%、13%和26%。调查还发现，对美国致力于个人自由的信念有所下降。表示美国尊重个人自由的受访者比例在皮尤多年来调查的多个国家中达到了最低水平，包括澳大利亚、加拿大和希腊。从2021年到2026年，这一比例在澳大利亚从57%降至33%，在加拿大从60%降至34%，在希腊从53%降至36%。过去一年中，许多国家对美国的总体好感度也有所下降，包括印度尼西亚、意大利、尼日利亚、南非、韩国和土耳其，降幅达两位数。一些最不友好的看法来自以穆斯林为主的人群，包括马来西亚、巴基斯坦以及约旦河西岸和东耶路撒冷的巴勒斯坦人。"
+        },
+        {
+          "en": "Israel recorded the highest level of {{24}} among the countries surveyed.",
+          "cn": "在接受调查的国家中，以色列的支持率最高。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "confidence",
+          "hint": "n. 信心",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "declined",
+          "hint": "v. 下降",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "reliable",
+          "hint": "adj. 可靠的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "steep",
+          "hint": "adj. 急剧的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "allies",
+          "hint": "n. 盟友",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "skepticism",
+          "hint": "n. 怀疑态度",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "median",
+          "hint": "n. 中位数",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "handling",
+          "hint": "n. 处理",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "ratings",
+          "hint": "n. 评价",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "tariffs",
+          "hint": "n. 关税",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "deterioration",
+          "hint": "n. 恶化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "contributes",
+          "hint": "v. 贡献",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "stability",
+          "hint": "n. 稳定",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "willingness",
+          "hint": "n. 意愿",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "account",
+          "hint": "n. 考虑",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "commitment",
+          "hint": "n. 承诺",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "freedoms",
+          "hint": "n. 自由",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "proportion",
+          "hint": "n. 比例",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "liberty",
+          "hint": "n. 自由",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "favorable",
+          "hint": "adj. 有利的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "double-digit",
+          "hint": "adj. 两位数的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "predominantly",
+          "hint": "adv. 主要地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "Muslim",
+          "hint": "adj. 穆斯林的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 23,
+          "answer": "Palestinians",
+          "hint": "n. 巴勒斯坦人",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "support",
+          "hint": "n. 支持",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "Global confidence in the United States has declined significantly in recent years, with fewer people around the world viewing it as a reliable partner, according to a new survey by the Pew Research Center.\nThe survey found particularly steep declines in countries that have long maintained close economic and security ties with Washington. In Canada, the share of people who described the United States as a reliable partner fell from 83% in 2022 to 35% in 2026. Similar declines were recorded in France, Germany and the United Kingdom, where the figures fell from 62% to 27%, 83% to 39%, and 82% to 49%, respectively.\nAustralia, one of Washington's key Asia-Pacific allies, also saw confidence fall sharply, from 79% in 2022 to 37% this year.\nThe survey also revealed widespread skepticism toward Trump. Across the 36 countries surveyed, a median of just 23% of adults said they have confidence in his handling of world affairs.\nRespondents gave Trump largely negative ratings on several major foreign policy issues, including tariffs, the Gaza conflict, Iran, Greenland and the Russia-Ukraine conflict.\nBeyond perceptions of Trump, the survey pointed to a broader deterioration in America's global image.\nA median of 35% of respondents said the United States contributes to peace and stability around the world, down significantly from 2023.\nViews of Washington's willingness to consider other countries' interests have also weakened. In Germany, for example, the share of people who said the United States takes other nations' interests into account dropped from 60% in 2023 to 23% in 2026.\nSimilarly, in Canada, Australia and the United Kingdom, the figures declined from 37%, 40% and 49% to 18%, 13% and 26%, respectively.\nThe survey further found declining belief in America's commitment to individual freedoms. The proportion of respondents who said the United States respects personal liberty has reached its lowest level in several countries surveyed by Pew over the years, including Australia, Canada and Greece.\nFrom 2021 to 2026, that figure fell from 57% to 33% in Australia, from 60% to 34% in Canada and from 53% to 36% in Greece.\nOverall favorable views of the United States also declined in many countries over the past year, including double-digit drops in Indonesia, Italy, Nigeria, South Africa, South Korea and Türkiye.\nSome of the least favorable views came from predominantly Muslim populations, including Malaysia, Pakistan and Palestinians in the West Bank and East Jerusalem. Israel recorded the highest level of support among the countries surveyed.",
+      "fullTextCn": "根据皮尤研究中心的一项新调查，全球对美国的信心近年来显著下降，世界各地视其为可靠伙伴的人越来越少。调查发现，在与华盛顿长期保持密切经济和安全关系的国家中，下降幅度尤为剧烈。在加拿大，将美国描述为可靠伙伴的比例从2022年的83%降至2026年的35%。法国、德国和英国也出现了类似下降，比例分别从62%降至27%、83%降至39%和82%降至49%。澳大利亚作为华盛顿在亚太地区的关键盟友之一，信心也大幅下降，从2022年的79%降至今年的37%。调查还显示了对特朗普的普遍怀疑态度。\n\n在接受调查的36个国家中，中位数仅有23%的成年人表示对特朗普处理国际事务有信心。受访者在多个主要外交政策问题上对特朗普给出了大体负面的评价，包括关税、加沙冲突、伊朗、格陵兰岛以及俄乌冲突。除了对特朗普的看法，调查还指出美国全球形象出现更广泛的恶化。中位数35%的受访者表示美国为世界和平与稳定做出了贡献，这一比例较2023年显著下降。对华盛顿是否愿意考虑其他国家利益的看法也有所减弱。例如，在德国，认为美国会考虑其他国家利益的比例从2023年的60%降至2026年的23%。\n\n同样，在加拿大、澳大利亚和英国，这一比例分别从37%、40%和49%降至18%、13%和26%。调查还发现，对美国致力于个人自由的信念有所下降。表示美国尊重个人自由的受访者比例在皮尤多年来调查的多个国家中达到了最低水平，包括澳大利亚、加拿大和希腊。从2021年到2026年，这一比例在澳大利亚从57%降至33%，在加拿大从60%降至34%，在希腊从53%降至36%。过去一年中，许多国家对美国的总体好感度也有所下降，包括印度尼西亚、意大利、尼日利亚、南非、韩国和土耳其，降幅达两位数。一些最不友好的看法来自以穆斯林为主的人群，包括马来西亚、巴基斯坦以及约旦河西岸和东耶路撒冷的巴勒斯坦人。\n\n在接受调查的国家中，以色列的支持率最高。"
+    },
+    {
+      "id": 5,
+      "category": "education",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-19/Science-cover-study-suggests-vertebrate-ancestors-had-complex-brains-1O6MEoQ4IxO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Science cover study suggests vertebrate ancestors had complex brains",
+      "titleCn": "《科学》封面研究揭示脊椎动物祖先拥有复杂大脑",
+      "summary": "Science cover study suggests vertebrate ancestors had complex brains",
+      "summaryCn": "一项由中国主导的研究发现，脊椎动物的共同祖先在5亿年前可能已经拥有高度区域化和复杂的脑结构。",
+      "wordCount": 375,
+      "paragraphs": [
+        {
+          "en": "A Chinese-led study {{0}} on the cover of Science {{1}} that one important {{2}} may lie in the brain of a lamprey, an ancient jawless fish often described as a living fossil. The research found that the common {{3}} of vertebrates may already have {{4}} a surprisingly {{5}} brain around 500 million years ago. The study was {{6}} by researchers from BGI Research, the Kunming Institute of Zoology under the Chinese Academy of Sciences, and Liaoning Normal University. The Far Eastern brook lamprey (Lethenteron reissneri) on the June 18, 2026, cover of Science. The cover highlights research on vertebrate brain evolution.",
+          "cn": "一项由中国主导的研究登上了《科学》杂志封面，该研究表明，一个重要的线索可能隐藏在七鳃鳗（一种常被描述为活化石的古老无颌鱼）的大脑中。研究发现，脊椎动物的共同祖先可能早在5亿年前就已经拥有一个令人惊讶的复杂大脑。这项研究由华大研究院、中国科学院昆明动物研究所和辽宁师范大学的研究人员共同完成。远东溪七鳃鳗（Lethenteron reissneri）出现在2026年6月18日的《科学》杂志封面上。该封面突出了关于脊椎动物大脑进化的研究。"
+        },
+        {
+          "en": "/ Science\nThe study focused on the Far Eastern brook lamprey (Lethenteron reissneri), a species whose ancestors {{7}} from those of modern fish, birds, mammals and humans hundreds of millions of years ago. Because its basic body plan has changed relatively little since then, scientists {{8}} it as one of the best living models for studying the {{9}} of vertebrate brains. Using spatial {{10}} and single-nucleus RNA sequencing, the team created the first three-dimensional single-cell atlas of a lamprey brain, {{11}} more than 460,000 cells across 14 major brain regions. A graphic from the study illustrates a three-dimensional transcriptomic atlas of the lamprey brain and key findings on vertebrate brain evolution. /Science\nThe researchers found that the vertebrate common ancestor already had a highly {{12}} brain, with distinct regions {{13}} for different functions.",
+          "cn": "该研究聚焦于远东溪七鳃鳗，其祖先在数亿年前就与现代鱼类、鸟类、哺乳动物和人类的祖先分化。由于它的基本身体结构自那时以来变化相对较小，科学家将其视为研究脊椎动物大脑起源的最佳活体模型之一。利用空间转录组学和单核RNA测序技术，研究团队创建了首个七鳃鳗大脑的三维单细胞图谱，分析了跨越14个主要脑区的超过46万个细胞。研究中的一张图表展示了七鳃鳗大脑的三维转录组图谱以及关于脊椎动物大脑进化的关键发现。研究人员发现，脊椎动物的共同祖先已经拥有一个高度区域化的大脑，不同区域专门负责不同的功能。"
+        },
+        {
+          "en": "Many of the basic brain structures seen in vertebrates today appear to have been {{14}} far earlier than previously understood. The findings {{15}} the idea that complex vertebrate brains gradually evolved from a simple ancestral nervous system. Instead, they suggest that much of the {{16}} for modern vertebrate brains was already in place half a billion years ago. By comparing lampreys with other vertebrates, the researchers also found evidence that brain evolution was {{17}} in part by increasing neuronal {{18}}. Early vertebrates appear to have {{19}} more heavily on broadly functioning nerve cells, while later vertebrate groups developed more specialized neurons with distinct roles.",
+          "cn": "如今脊椎动物中看到的许多基本脑结构似乎比之前认为的建立得更早。这些发现挑战了复杂脊椎动物大脑是从简单的祖先神经系统逐渐进化而来的观点。相反，它们表明，现代脊椎动物大脑的大部分蓝图在5亿年前就已经存在。通过将七鳃鳗与其他脊椎动物进行比较，研究人员还发现证据表明，大脑进化部分是由神经元特化程度的增加所驱动的。早期的脊椎动物似乎更依赖功能广泛的神经细胞，而较晚的脊椎动物群体则发展出具有不同角色的更特化的神经元。"
+        },
+        {
+          "en": "The findings provide new insight into how vertebrate brains became more {{20}} over time and offer a clearer picture of how the complex brains seen in modern animals – including humans – evolved from their ancient ancestors.",
+          "cn": "这些发现为脊椎动物大脑如何随时间变得更加多样化提供了新的见解，并更清晰地描绘了现代动物（包括人类）中看到的复杂大脑是如何从它们的古老祖先进化而来的。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "featured",
+          "hint": "v. 以……为特色",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "suggests",
+          "hint": "v. 表明，暗示",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "clue",
+          "hint": "n. 线索",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "ancestor",
+          "hint": "n. 祖先",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "possessed",
+          "hint": "v. 拥有",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "complex",
+          "hint": "adj. 复杂的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "conducted",
+          "hint": "v. 进行，实施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "diverged",
+          "hint": "v. 分化，分歧",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "regard",
+          "hint": "v. 视为，认为",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "origins",
+          "hint": "n. 起源",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "transcriptomics",
+          "hint": "n. 转录组学",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "analyzing",
+          "hint": "v. 分析",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "regionalized",
+          "hint": "adj. 区域化的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "specialized",
+          "hint": "adj. 专门的，特化的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "established",
+          "hint": "v. 建立",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "challenge",
+          "hint": "v. 挑战",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "blueprint",
+          "hint": "n. 蓝图",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "driven",
+          "hint": "v. 驱动",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "specialization",
+          "hint": "n. 特化，专门化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "relied",
+          "hint": "v. 依赖",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "diverse",
+          "hint": "adj. 多样的",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "A Chinese-led study featured on the cover of Science suggests that one important clue may lie in the brain of a lamprey, an ancient jawless fish often described as a living fossil. The research found that the common ancestor of vertebrates may already have possessed a surprisingly complex brain around 500 million years ago.\nThe study was conducted by researchers from BGI Research, the Kunming Institute of Zoology under the Chinese Academy of Sciences, and Liaoning Normal University.\nThe Far Eastern brook lamprey (Lethenteron reissneri) on the June 18, 2026, cover of Science. The cover highlights research on vertebrate brain evolution. / Science\nThe study focused on the Far Eastern brook lamprey (Lethenteron reissneri), a species whose ancestors diverged from those of modern fish, birds, mammals and humans hundreds of millions of years ago. Because its basic body plan has changed relatively little since then, scientists regard it as one of the best living models for studying the origins of vertebrate brains.\nUsing spatial transcriptomics and single-nucleus RNA sequencing, the team created the first three-dimensional single-cell atlas of a lamprey brain, analyzing more than 460,000 cells across 14 major brain regions.\nA graphic from the study illustrates a three-dimensional transcriptomic atlas of the lamprey brain and key findings on vertebrate brain evolution. /Science\nThe researchers found that the vertebrate common ancestor already had a highly regionalized brain, with distinct regions specialized for different functions. Many of the basic brain structures seen in vertebrates today appear to have been established far earlier than previously understood.\nThe findings challenge the idea that complex vertebrate brains gradually evolved from a simple ancestral nervous system. Instead, they suggest that much of the blueprint for modern vertebrate brains was already in place half a billion years ago.\nBy comparing lampreys with other vertebrates, the researchers also found evidence that brain evolution was driven in part by increasing neuronal specialization. Early vertebrates appear to have relied more heavily on broadly functioning nerve cells, while later vertebrate groups developed more specialized neurons with distinct roles.\nThe findings provide new insight into how vertebrate brains became more diverse over time and offer a clearer picture of how the complex brains seen in modern animals – including humans – evolved from their ancient ancestors.",
+      "fullTextCn": "一项由中国主导的研究登上了《科学》杂志封面，该研究表明，一个重要的线索可能隐藏在七鳃鳗（一种常被描述为活化石的古老无颌鱼）的大脑中。研究发现，脊椎动物的共同祖先可能早在5亿年前就已经拥有一个令人惊讶的复杂大脑。这项研究由华大研究院、中国科学院昆明动物研究所和辽宁师范大学的研究人员共同完成。远东溪七鳃鳗（Lethenteron reissneri）出现在2026年6月18日的《科学》杂志封面上。该封面突出了关于脊椎动物大脑进化的研究。\n\n该研究聚焦于远东溪七鳃鳗，其祖先在数亿年前就与现代鱼类、鸟类、哺乳动物和人类的祖先分化。由于它的基本身体结构自那时以来变化相对较小，科学家将其视为研究脊椎动物大脑起源的最佳活体模型之一。利用空间转录组学和单核RNA测序技术，研究团队创建了首个七鳃鳗大脑的三维单细胞图谱，分析了跨越14个主要脑区的超过46万个细胞。研究中的一张图表展示了七鳃鳗大脑的三维转录组图谱以及关于脊椎动物大脑进化的关键发现。研究人员发现，脊椎动物的共同祖先已经拥有一个高度区域化的大脑，不同区域专门负责不同的功能。\n\n如今脊椎动物中看到的许多基本脑结构似乎比之前认为的建立得更早。这些发现挑战了复杂脊椎动物大脑是从简单的祖先神经系统逐渐进化而来的观点。相反，它们表明，现代脊椎动物大脑的大部分蓝图在5亿年前就已经存在。通过将七鳃鳗与其他脊椎动物进行比较，研究人员还发现证据表明，大脑进化部分是由神经元特化程度的增加所驱动的。早期的脊椎动物似乎更依赖功能广泛的神经细胞，而较晚的脊椎动物群体则发展出具有不同角色的更特化的神经元。\n\n这些发现为脊椎动物大脑如何随时间变得更加多样化提供了新的见解，并更清晰地描绘了现代动物（包括人类）中看到的复杂大脑是如何从它们的古老祖先进化而来的。"
+    }
+  ]
+}

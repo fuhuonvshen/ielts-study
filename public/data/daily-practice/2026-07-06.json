@@ -1,0 +1,844 @@
+{
+  "date": "2026-07-06",
+  "articles": [
+    {
+      "id": 1,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-07-02/Why-computing-in-space-is-the-world-s-next-tech-battleground-1OrBzSQ2UPm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Why 'computing in space' is the world's next tech battleground",
+      "titleCn": "为什么“太空计算”是下一个全球科技战场",
+      "summary": "As artificial intelligence and Earth-observation data grow exponentially, computing is beginning to move beyond terrestrial data centers into orbit. China is accelerating its push into space computing through system planning and technological breakthroughs, joining an increasingly competitive global race to build the next generation of space-based digital infrastructure.",
+      "summaryCn": "随着人工智能对算力需求激增，中国正通过部署太空计算星座来应对地面数据中心的能耗与气候挑战，并推动全球竞争格局转变。",
+      "wordCount": 896,
+      "paragraphs": [
+        {
+          "en": "As record-breaking heat waves sweep across parts of the world, another challenge is {{0}} the artificial intelligence boom: keeping the high-performance chips inside data centers cool enough to keep running. The challenge extends far beyond seasonal heat. As AI models become larger and more computationally {{1}}, demand for computing power is rising at a pace that is testing the physical limits of conventional data centers. According to the International Energy Agency (IEA), data centers accounted for about 1.5% of global electricity {{2}} in 2024, with power demand expected to rise sharply as AI deployment accelerates. Rising electricity use, cooling costs and increasing exposure to climate-related {{3}} are prompting governments and technology companies to rethink where future computing {{4}} should be built.",
+          "cn": "随着创纪录的热浪席卷全球部分地区，人工智能热潮正面临另一项挑战：保持数据中心内高性能芯片足够冷却以持续运行。这一挑战远不止于季节性高温。随着人工智能模型变得更大、计算密集度更高，对计算能力的需求正以考验传统数据中心物理极限的速度增长。根据国际能源署的数据，2024年数据中心约占全球电力消耗的1.5%，随着人工智能部署加速，电力需求预计将急剧上升。不断增长的电力消耗、冷却成本以及日益增加的气候相关干扰风险，正促使各国政府和技术公司重新思考未来计算基础设施应建在哪里。"
+        },
+        {
+          "en": "Translating this background into action, a multi-city layout is taking shape in China. Beijing serves as the anchor for research and development and standard setting through its new innovation center. Tianjin focuses on space-ground computing {{5}} and hardware development. Shanghai is building out the broader industrial {{6}}. Hangzhou leans into intelligent applications, anchored by the \"Three-Body Computing Constellation,\" which has already been deployed in orbit.",
+          "cn": "将这一背景转化为行动，中国正在形成多城市布局。北京通过其新创新中心，作为研发和标准制定的锚点。天津专注于天地计算集成和硬件开发。上海正在建设更广泛的产业生态系统。杭州则侧重于智能应用，以已部署在轨的“三体计算星座”为依托。"
+        },
+        {
+          "en": "Led by Zhejiang Lab (ZJ Lab), it aims to build a network of thousands of satellites with a total computing power of 1,000 peta operations per second. The {{7}} will enable real-time in-orbit data processing with intelligent {{8}}. Why move computing power into space? Traditional satellites act like \"cameras that only take pictures\": they collect raw data in orbit, beam it all down to ground stations and wait for Earth-based supercomputers to process it. Industry estimates suggest less than 10% of collected data ever gets used, with {{9}} running to hours or days.",
+          "cn": "由之江实验室牵头，该项目旨在构建一个由数千颗卫星组成的网络，总计算能力达到每秒1000千万亿次运算。该星座将利用智能有效载荷实现实时在轨数据处理。为什么要把计算能力送入太空？传统卫星就像“只拍照的相机”：它们在轨道上收集原始数据，将所有数据波束传回地面站，然后等待地球上的超级计算机进行处理。行业估计表明，收集到的数据中只有不到10%被实际使用，延迟长达数小时或数天。"
+        },
+        {
+          "en": "Space computing flips the model. Satellites are equipped with {{10}} chips, onboard servers and storage, linked into constellations that can collect, analyze and decide in orbit, sending back only high-value results. According to industry insiders, space computing mainly comprises three operating models: \"in-orbit processing of space-collected data,\" which processes data gathered in space on board and downlinks only high-value results; \"space-based processing of ground-uploaded data,\" which leverages the advantages of space computing to process data uploaded from the ground and \"integrated space-ground collaborative computing,\" which builds a global distributed computing network to achieve efficient {{11}} of space and terrestrial resources. Bandwidth consumption can drop by more than 90%; response times shrink from hours to seconds. Applications range from real-time wildfire and flood alerts to crop-stress tracking, illegal-fishing {{13}} in remote oceans and polar-ice monitoring – all without waiting for a downlink window.",
+          "cn": "太空计算颠覆了这一模式。卫星配备了抗辐射芯片、机载服务器和存储设备，连接成星座，可以在轨道上收集、分析并做出决策，只传回高价值的结果。据业内人士称，太空计算主要包括三种运行模式：“天基数据在轨处理”，即在轨处理太空收集的数据，仅下传高价值结果；“天基处理地上传数据”，即利用太空计算的优势处理从地面上传的数据；以及“天地协同计算”，即构建全球分布式计算网络，实现空间和地面资源的高效互补。带宽消耗可降低90%以上；响应时间从数小时缩短到数秒。应用范围从实时野火和洪水警报，到作物胁迫跟踪、偏远海域非法捕捞检测以及极地冰盖监测——所有这些都无需等待下传窗口。"
+        },
+        {
+          "en": "A Long March-2D rocket launches 12 satellites from the Jiuquan Satellite Launch Center, May 14, 2025. Accelerating tech breakthroughs to {{14}} space intelligent infrastructure\nProgress across computing, energy and communications is reinforcing the foundations of China's space-based intelligent infrastructure. On the computing front, the country is prioritizing constellation-scale in-orbit clusters and homegrown anti-radiation technologies. The Three-Body Computing Constellation serves as a reference case: the 12-satellite network, equipped with domestically produced space-borne AI servers, delivers a peak of 744 TOPS per satellite and 5 POPS in aggregate, with core components fully {{15}} through native aerospace-grade chips and tailored processes. On the energy front, efforts center on high-efficiency space power generation and radiative thermal management.",
+          "cn": "加速技术突破以强化太空智能基础设施。计算、能源和通信方面的进展正在巩固中国天基智能基础设施的基础。在计算方面，国家优先发展星座级在轨集群和国产抗辐射技术。三体计算星座是一个参考案例：这个由12颗卫星组成的网络，配备了国产星载AI服务器，每颗卫星峰值性能达744 TOPS，总计5 POPS，核心组件通过本土航天级芯片和定制工艺实现完全本地化。在能源方面，工作重点集中在高效太空发电和辐射热管理上。"
+        },
+        {
+          "en": "Galactic Aerospace's Lingxi 03, China's first flat-stack satellite with flexible solar wings, illustrates the direction: the \"flexible wings\" are compact, lightweight and modular, easier to stow and per unit mass, larger in area to capture more solar energy. On the thermal side, the company has broken through in pump-driven fluid-loop heat {{16}}, technologies that Zhang Shijie, chief scientist at Galactic Aerospace, says will underpin high-power space computing payloads. On the communication front, the focus is on a regionally {{17}} architecture. With dense ground-station coverage domestically and selective nodes overseas, inter-satellite laser links have stabilized at 100 Gbps and satellite-to-ground laser tests have reached 120 Gbps, while round-trip latency within China and the Asia-Pacific is held at 30 to 50 milliseconds, sufficient for time-sensitive scenarios such as emergency communications, with core devices 100% domestically controlled, according to Xu Zifan, a prominent technology analyst and the deputy director of the Advanced Computing Research Office at the Electronics Research Institute, which is part of the China Center for Information Industry Development. In an aerial view, a SpaceX Falcon 9 rocket rises after launching from Vandenberg Space Force Base carrying 24 Starlink internet satellites in Pasadena, California, US, June 24, 2026.",
+          "cn": "银河航天的灵犀03是中国首颗带有柔性太阳翼的平板式卫星，它指明了方向：“柔性翼”紧凑、轻便且模块化，更易于收纳，单位质量面积更大，可捕获更多太阳能。在热控方面，该公司在泵驱流体回路散热技术上取得突破，银河航天首席科学家张世杰表示，这些技术将为高功率太空计算有效载荷提供支撑。在通信方面，重点在于构建区域弹性架构。据知名技术分析师、中国电子信息产业发展研究院电子信息研究所先进计算研究室副主任徐子凡称，凭借国内密集的地面站覆盖和海外选择性节点，星间激光链路已稳定在100 Gbps，星地激光测试达到120 Gbps，而中国及亚太地区的往返延迟控制在30至50毫秒，足以满足应急通信等时间敏感场景，核心设备100%国产化。"
+        },
+        {
+          "en": "The global race intensifies\nThe global race is {{18}}. SpaceX has outlined a long-term vision of deploying up to one million low-Earth orbit (LEO) satellites as orbital data centers, while the European Union is advancing its Space Data Center initiative. Russia is enhancing onboard computing capabilities for its Sfera constellation, and Japan is investing in in-orbit processing for Earth-observation satellites. Some recent studies estimate that the LEO region between 300 and 2,000 km could safely accommodate only around 175,000 satellites under current collision-avoidance assumptions. Meanwhile, under the International Telecommunication Union's spectrum filing framework, satellite operators generally have seven years to bring frequency filings into use, followed by phased deployment milestones for non-geostationary constellations.",
+          "cn": "全球竞赛正在加剧。SpaceX已勾勒出长期愿景，计划部署多达100万颗低地球轨道卫星作为轨道数据中心，而欧盟正在推进其太空数据中心计划。俄罗斯正在增强其Sfera星座的星载计算能力，日本则投资于地球观测卫星的在轨处理。一些近期研究估计，根据当前的碰撞规避假设，300至2000公里之间的低地球轨道区域只能安全容纳约17.5万颗卫星。与此同时，根据国际电信联盟的频谱申报框架，卫星运营商通常有七年时间将频率申报投入使用，随后是非静止轨道星座的分阶段部署里程碑。"
+        },
+        {
+          "en": "As AI models become larger and Earth observation grows exponentially, the competition is no longer about who can launch more satellites, but who can process information first. The next frontier of the digital economy may therefore be measured not only by computing power on Earth, but also by intelligence deployed in orbit.",
+          "cn": "随着人工智能模型变得更大，地球观测数据呈指数级增长，竞争已不再是关于谁能发射更多卫星，而是谁能首先处理信息。因此，数字经济的下一个前沿可能不仅取决于地球上的计算能力，还取决于部署在轨道上的智能水平。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "confronting",
+          "hint": "v. 面对",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "intensive",
+          "hint": "adj. 密集的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "consumption",
+          "hint": "n. 消耗",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "disruptions",
+          "hint": "n. 中断",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "integration",
+          "hint": "n. 整合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "ecosystem",
+          "hint": "n. 生态系统",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "constellation",
+          "hint": "n. 星座",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "payloads",
+          "hint": "n. 有效载荷",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "latency",
+          "hint": "n. 延迟",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "radiation-hardened",
+          "hint": "adj. 抗辐射的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "complementarity",
+          "hint": "n. 互补性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "detection",
+          "hint": "n. 检测",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "fortify",
+          "hint": "v. 加强",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "localized",
+          "hint": "adj. 本地化的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "dissipation",
+          "hint": "n. 散热",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "resilient",
+          "hint": "adj. 有弹性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "intensifying",
+          "hint": "v. 加剧",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "As record-breaking heat waves sweep across parts of the world, another challenge is confronting the artificial intelligence boom: keeping the high-performance chips inside data centers cool enough to keep running.\nThe challenge extends far beyond seasonal heat. As AI models become larger and more computationally intensive, demand for computing power is rising at a pace that is testing the physical limits of conventional data centers.\nAccording to the International Energy Agency (IEA), data centers accounted for about 1.5% of global electricity consumption in 2024, with power demand expected to rise sharply as AI deployment accelerates.\nRising electricity use, cooling costs and increasing exposure to climate-related disruptions are prompting governments and technology companies to rethink where future computing infrastructure should be built.\nTranslating this background into action, a multi-city layout is taking shape in China. Beijing serves as the anchor for research and development and standard setting through its new innovation center. Tianjin focuses on space-ground computing integration and hardware development. Shanghai is building out the broader industrial ecosystem. Hangzhou leans into intelligent applications, anchored by the \"Three-Body Computing Constellation,\" which has already been deployed in orbit. Led by Zhejiang Lab (ZJ Lab), it aims to build a network of thousands of satellites with a total computing power of 1,000 peta operations per second. The constellation will enable real-time in-orbit data processing with intelligent payloads.\nWhy move computing power into space?\nTraditional satellites act like \"cameras that only take pictures\": they collect raw data in orbit, beam it all down to ground stations and wait for Earth-based supercomputers to process it. Industry estimates suggest less than 10% of collected data ever gets used, with latency running to hours or days.\nSpace computing flips the model. Satellites are equipped with radiation-hardened chips, onboard servers and storage, linked into constellations that can collect, analyze and decide in orbit, sending back only high-value results.\nAccording to industry insiders, space computing mainly comprises three operating models: \"in-orbit processing of space-collected data,\" which processes data gathered in space on board and downlinks only high-value results; \"space-based processing of ground-uploaded data,\" which leverages the advantages of space computing to process data uploaded from the ground and \"integrated space-ground collaborative computing,\" which builds a global distributed computing network to achieve efficient complementarity of space and terrestrial resources.\nBandwidth consumption can drop by more than 90%; response times shrink from hours to seconds. Applications range from real-time wildfire and flood alerts to crop-stress tracking, illegal-fishing detection in remote oceans and polar-ice monitoring – all without waiting for a downlink window.\nA Long March-2D rocket launches 12 satellites from the Jiuquan Satellite Launch Center, May 14, 2025. \nAccelerating tech breakthroughs to fortify space intelligent infrastructure\nProgress across computing, energy and communications is reinforcing the foundations of China's space-based intelligent infrastructure.\nOn the computing front, the country is prioritizing constellation-scale in-orbit clusters and homegrown anti-radiation technologies. The Three-Body Computing Constellation serves as a reference case: the 12-satellite network, equipped with domestically produced space-borne AI servers, delivers a peak of 744 TOPS per satellite and 5 POPS in aggregate, with core components fully localized through native aerospace-grade chips and tailored processes.\nOn the energy front, efforts center on high-efficiency space power generation and radiative thermal management. Galactic Aerospace's Lingxi 03, China's first flat-stack satellite with flexible solar wings, illustrates the direction: the \"flexible wings\" are compact, lightweight and modular, easier to stow and per unit mass, larger in area to capture more solar energy. On the thermal side, the company has broken through in pump-driven fluid-loop heat dissipation, technologies that Zhang Shijie, chief scientist at Galactic Aerospace, says will underpin high-power space computing payloads.\nOn the communication front, the focus is on a regionally resilient architecture. With dense ground-station coverage domestically and selective nodes overseas, inter-satellite laser links have stabilized at 100 Gbps and satellite-to-ground laser tests have reached 120 Gbps, while round-trip latency within China and the Asia-Pacific is held at 30 to 50 milliseconds, sufficient for time-sensitive scenarios such as emergency communications, with core devices 100% domestically controlled, according to Xu Zifan, a prominent technology analyst and the deputy director of the Advanced Computing Research Office at the Electronics Research Institute, which is part of the China Center for Information Industry Development.\nIn an aerial view, a SpaceX Falcon 9 rocket rises after launching from Vandenberg Space Force Base carrying 24 Starlink internet satellites in Pasadena, California, US, June 24, 2026. \nThe global race intensifies\nThe global race is intensifying. SpaceX has outlined a long-term vision of deploying up to one million low-Earth orbit (LEO) satellites as orbital data centers, while the European Union is advancing its Space Data Center initiative. Russia is enhancing onboard computing capabilities for its Sfera constellation, and Japan is investing in in-orbit processing for Earth-observation satellites. Some recent studies estimate that the LEO region between 300 and 2,000 km could safely accommodate only around 175,000 satellites under current collision-avoidance assumptions.\nMeanwhile, under the International Telecommunication Union's spectrum filing framework, satellite operators generally have seven years to bring frequency filings into use, followed by phased deployment milestones for non-geostationary constellations.\nAs AI models become larger and Earth observation grows exponentially, the competition is no longer about who can launch more satellites, but who can process information first. The next frontier of the digital economy may therefore be measured not only by computing power on Earth, but also by intelligence deployed in orbit.",
+      "fullTextCn": "随着创纪录的热浪席卷全球部分地区，人工智能热潮正面临另一项挑战：保持数据中心内高性能芯片足够冷却以持续运行。这一挑战远不止于季节性高温。随着人工智能模型变得更大、计算密集度更高，对计算能力的需求正以考验传统数据中心物理极限的速度增长。根据国际能源署的数据，2024年数据中心约占全球电力消耗的1.5%，随着人工智能部署加速，电力需求预计将急剧上升。不断增长的电力消耗、冷却成本以及日益增加的气候相关干扰风险，正促使各国政府和技术公司重新思考未来计算基础设施应建在哪里。\n\n将这一背景转化为行动，中国正在形成多城市布局。北京通过其新创新中心，作为研发和标准制定的锚点。天津专注于天地计算集成和硬件开发。上海正在建设更广泛的产业生态系统。杭州则侧重于智能应用，以已部署在轨的“三体计算星座”为依托。\n\n由之江实验室牵头，该项目旨在构建一个由数千颗卫星组成的网络，总计算能力达到每秒1000千万亿次运算。该星座将利用智能有效载荷实现实时在轨数据处理。为什么要把计算能力送入太空？传统卫星就像“只拍照的相机”：它们在轨道上收集原始数据，将所有数据波束传回地面站，然后等待地球上的超级计算机进行处理。行业估计表明，收集到的数据中只有不到10%被实际使用，延迟长达数小时或数天。\n\n太空计算颠覆了这一模式。卫星配备了抗辐射芯片、机载服务器和存储设备，连接成星座，可以在轨道上收集、分析并做出决策，只传回高价值的结果。据业内人士称，太空计算主要包括三种运行模式：“天基数据在轨处理”，即在轨处理太空收集的数据，仅下传高价值结果；“天基处理地上传数据”，即利用太空计算的优势处理从地面上传的数据；以及“天地协同计算”，即构建全球分布式计算网络，实现空间和地面资源的高效互补。带宽消耗可降低90%以上；响应时间从数小时缩短到数秒。应用范围从实时野火和洪水警报，到作物胁迫跟踪、偏远海域非法捕捞检测以及极地冰盖监测——所有这些都无需等待下传窗口。\n\n加速技术突破以强化太空智能基础设施。计算、能源和通信方面的进展正在巩固中国天基智能基础设施的基础。在计算方面，国家优先发展星座级在轨集群和国产抗辐射技术。三体计算星座是一个参考案例：这个由12颗卫星组成的网络，配备了国产星载AI服务器，每颗卫星峰值性能达744 TOPS，总计5 POPS，核心组件通过本土航天级芯片和定制工艺实现完全本地化。在能源方面，工作重点集中在高效太空发电和辐射热管理上。\n\n银河航天的灵犀03是中国首颗带有柔性太阳翼的平板式卫星，它指明了方向：“柔性翼”紧凑、轻便且模块化，更易于收纳，单位质量面积更大，可捕获更多太阳能。在热控方面，该公司在泵驱流体回路散热技术上取得突破，银河航天首席科学家张世杰表示，这些技术将为高功率太空计算有效载荷提供支撑。在通信方面，重点在于构建区域弹性架构。据知名技术分析师、中国电子信息产业发展研究院电子信息研究所先进计算研究室副主任徐子凡称，凭借国内密集的地面站覆盖和海外选择性节点，星间激光链路已稳定在100 Gbps，星地激光测试达到120 Gbps，而中国及亚太地区的往返延迟控制在30至50毫秒，足以满足应急通信等时间敏感场景，核心设备100%国产化。\n\n全球竞赛正在加剧。SpaceX已勾勒出长期愿景，计划部署多达100万颗低地球轨道卫星作为轨道数据中心，而欧盟正在推进其太空数据中心计划。俄罗斯正在增强其Sfera星座的星载计算能力，日本则投资于地球观测卫星的在轨处理。一些近期研究估计，根据当前的碰撞规避假设，300至2000公里之间的低地球轨道区域只能安全容纳约17.5万颗卫星。与此同时，根据国际电信联盟的频谱申报框架，卫星运营商通常有七年时间将频率申报投入使用，随后是非静止轨道星座的分阶段部署里程碑。\n\n随着人工智能模型变得更大，地球观测数据呈指数级增长，竞争已不再是关于谁能发射更多卫星，而是谁能首先处理信息。因此，数字经济的下一个前沿可能不仅取决于地球上的计算能力，还取决于部署在轨道上的智能水平。"
+    },
+    {
+      "id": 2,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-27/Europe-enduring-record-breaking-heatwave-health-systems-under-strain-1OjoNGKa4Xm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Europe enduring record-breaking heatwave, health systems under strain",
+      "titleCn": "欧洲遭遇创纪录热浪，医疗系统承压",
+      "summary": "Europe is experiencing an extremely severe heatwave that has swept across the continent, with scientists describing it as one of the worst recorded.",
+      "summaryCn": "欧洲遭遇创纪录热浪，多国医疗系统面临巨大压力，基础设施受损，政府采取紧急措施应对。",
+      "wordCount": 857,
+      "paragraphs": [
+        {
+          "en": "Europe is experiencing an extremely severe {{0}} that has swept across the continent, with scientists describing it as one of the worst recorded. Health authorities across multiple countries have issued high-level {{2}} as extreme temperatures {{1}} hospitals, transport systems, {{13}} and public services, while governments have introduced emergency {{3}} such as alcohol limits, event cancellations and public safety measures. The UK recorded its hottest June day on record on Friday, with a {{7}} temperature of 37.3 degrees Celsius recorded in Santon Downham, Suffolk, surpassing a previous record of 36.7 degrees Celsius set just a day earlier in Merryfield, Somerset. In London, pavement temperatures in parts of the capital were reported to have reached up to 57 degrees Celsius, while the London Ambulance Service said emergency 999 calls {{5}} by 50% during the heatwave. Sheffield's tram network was also {{6}} due to extreme temperatures.",
+          "cn": "欧洲正经历一场席卷整个大陆的极端严重热浪，科学家称其为有记录以来最严重的热浪之一。多个国家的卫生部门已发布高级别警报，极端气温给医院、交通系统、基础设施和公共服务带来压力，政府出台了酒精限制、活动取消和公共安全措施等紧急限制。英国周五录得有史以来最热的六月天，萨福克郡桑顿唐纳姆的临时气温达到37.3摄氏度，超过了前一天在萨默塞特郡梅里菲尔德创下的36.7摄氏度的纪录。在伦敦，据报道首都部分地区的路面温度高达57摄氏度，而伦敦救护车服务中心表示，热浪期间紧急999电话激增了50%。谢菲尔德的电车网络也因极端气温而暂停运营。"
+        },
+        {
+          "en": "People sit at the side of the Dortmund-Ems Canal in Dortmund, western Germany during a heatwave in Europe, June 26, 2026. Germany reported a provisional national temperature record of 41.3 degrees Celsius on Friday in Saarbruecken-Burbach, surpassing its previous record of 41.2 degrees Celsius from 2019. The country also {{8}} for the possibility of an even hotter weekend. Its emergency departments reported a significant rise in heat-related illnesses such as dizziness, heatstroke and {{9}}. Italy remained under severe heat stress, with 18 cities placed under a red alert, the highest heat warning level, including Rome, Milan, Turin, Florence, Bologna, Venice and Verona.",
+          "cn": "2026年6月26日，欧洲热浪期间，人们坐在德国西部多特蒙德的埃姆斯运河边。德国周五在萨尔布吕肯-布尔巴赫报告了41.3摄氏度的全国临时气温纪录，超过了2019年创下的41.2摄氏度的纪录。该国还面临周末气温可能更高的可能性。其急诊部门报告称，与高温相关的疾病如头晕、中暑和脱水显著增加。意大利仍处于严重热应激状态，18个城市被列入红色警报，这是最高级别的热浪警告，包括罗马、米兰、都灵、佛罗伦萨、博洛尼亚、威尼斯和维罗纳。"
+        },
+        {
+          "en": "Temperatures in parts of central and northern Italy are forecast to reach 38 to 40 degrees Celsius. Authorities have also warned of an {{10}} {{11}} risk, particularly in Sardinia and southern regions, where civil protection agencies have issued alerts as {{12}} has dried out after weeks of unusually hot and dry weather. A digital pharmacy thermometer displays 40 degree Celsius during a heat wave in Orvieto, Umbria, Italy, June 25, 2026. Switzerland also recorded its hottest June temperature on Friday, hitting 38.8 degrees Celsius in the northern city of Basel, breaking a record just set there a day earlier. The extreme heat has also affected infrastructure and industry.",
+          "cn": "意大利中部和北部部分地区的温度预计将达到38至40摄氏度。当局还警告了野火风险升高，特别是在撒丁岛和南部地区，经过数周异常炎热干燥的天气后，植被干枯，民防机构已发布警报。2026年6月25日，意大利翁布里亚奥维耶托，一个数字药房温度计显示40摄氏度。瑞士周五也录得有史以来最热的六月天，北部城市巴塞尔达到38.8摄氏度，打破了前一天刚在那里创下的纪录。极端高温也影响了基础设施和工业。"
+        },
+        {
+          "en": "In Switzerland, the heat forced the {{14}} of reactors at Europe's oldest nuclear plant due to elevated river temperatures affecting cooling systems. In Germany, older concrete sections of highways expanded and broke apart, forcing temporary closures, while in Sweden, rail infrastructure was reportedly {{15}} by extreme heat. In France, Paris hit a June record of 40.9 degree Celsius earlier in the week, with authorities warning of rising heat-related deaths and a surge in emergency calls. \"There will be consequences in terms of the number of additional deaths,\" said French Health Minister Stephanie Rist. Hospitals under pressure\nFirefighters from the Paris Fire Brigade assist a person, who became unwell during an intense heatwave, into an ambulance, Paris, France, June 25, 2026.",
+          "cn": "在瑞士，高温迫使欧洲最古老的核电站因河水温度升高影响冷却系统而关闭反应堆。在德国，较老的混凝土高速公路路段膨胀破裂，导致临时关闭，而在瑞典，据报道铁路基础设施因极端高温而变形。在法国，巴黎本周早些时候达到了40.9摄氏度的六月纪录，当局警告与高温相关的死亡人数上升以及紧急电话激增。“这将导致额外死亡人数的增加，”法国卫生部长斯蒂芬妮·里斯特说。医院面临压力。2026年6月25日，法国巴黎，巴黎消防队的消防员帮助一名在强烈热浪中感到不适的人上救护车。"
+        },
+        {
+          "en": "Hospitals reported {{16}} and difficulty coping with the volume of patients, and scientists have highlighted the danger of sweltering night-time temperatures. Temperatures overnight have not dropped below 22 degrees Celsius, {{17}} the human body of the ability to recover and shed the excess heat from the day, and which can drive excess deaths, said John Kennedy, head of Climate Information at the World Meteorological Organization. France saw a fourfold increase in heat-related hospital visits and a surge of cardiac arrests. \"We are reaching a {{18}} point in hospital facilities,\" Paris police chief Patrice Faure said, announcing a rare ban on evening alcohol sales in Paris over the weekend. In the UK, Hilary Williams, clinical vice president of Britain's Royal College of Physicians, said overcrowding and heat in hospital wards were putting patients, staff and infrastructure under severe strain.",
+          "cn": "医院报告人满为患，难以应对患者数量，科学家强调了夜间闷热气温的危险。世界气象组织气候信息负责人约翰·肯尼迪表示，夜间气温没有低于22摄氏度，使人体无法恢复并排出白天多余的热量，这可能导致额外死亡。法国与高温相关的医院就诊次数增加了四倍，心脏骤停病例激增。“我们正在达到医院设施的饱和点，”巴黎警察局长帕特里斯·福尔说，他宣布周末在巴黎罕见地禁止晚间酒精销售。在英国，英国皇家内科医学院临床副主席希拉里·威廉姆斯表示，医院病房的人满为患和高温正使患者、员工和基础设施承受严重压力。"
+        },
+        {
+          "en": "\"People are far too hot,\" she told BBC Radio, adding that some critical equipment, including MRI scanners and cancer treatment machines, was being affected by the heat. Heatwave heads east\nA storm broke the heat overnight in France's western region of Brittany, bringing some {{19}} on Friday. People walk outside office buildings during a Code Red heat alert in The Hague, Netherlands, June 26, 2026. But much of the Netherlands remained under red alert, with authorities advising people to travel only if necessary and most schools closed. Organizers cancelled the four-day techno music festival Defqon.1 in the central Netherlands.",
+          "cn": "\"人们太热了，\"她告诉BBC广播，并补充说一些关键设备，包括核磁共振扫描仪和癌症治疗机器，正受到高温影响。热浪向东移动。周五，一场风暴打破了法国西部布列塔尼地区的炎热，带来了一些缓解。2026年6月26日，荷兰海牙，人们在红色高温警报期间走出办公楼。但荷兰大部分地区仍处于红色警报之下，当局建议人们只在必要时出行，大多数学校关闭。组织者取消了荷兰中部为期四天的电子音乐节Defqon.1。"
+        },
+        {
+          "en": "Slovakia forecast temperatures up to 36 degrees Celsius, with Bratislava extending swimming pool opening hours and deploying tanker trucks of drinking water. The Czech Republic and Hungary were on red alert for the weekend, with temperatures of up to 40 degrees Celsius forecast. Hungary's Prime Minister Peter Magyar said authorities were preparing millions of bags of drinking water for possible public distribution and urging residents to conserve water. People cool off during a French Film Festival in Belgrade as Serbia endures a heatwave, June 26, 2026. The Balkans are also bracing for sustained heat.",
+          "cn": "斯洛伐克预测气温高达36摄氏度，布拉迪斯拉发延长了游泳池开放时间，并部署了饮用水罐车。捷克共和国和匈牙利周末处于红色警报状态，预测气温高达40摄氏度。匈牙利总理彼得·马扎尔表示，当局正在准备数百万袋饮用水以备可能的公共分发，并敦促居民节约用水。2026年6月26日，塞尔维亚贝尔格莱德，人们在法国电影节期间降温。巴尔干地区也面临持续高温。"
+        },
+        {
+          "en": "Serbia is facing an intense and prolonged heatwave starting Friday, with maximum temperatures forecasted to reach up to 39 degrees Celsius through early next week. In Bosnia and Herzegovina (BiH), heat warnings were issued for large parts of the country on Friday as temperatures were forecast to reach up to 38 degrees Celsius.",
+          "cn": "塞尔维亚从周五开始面临一场强烈且持久的热浪，预测最高气温将持续到下周一，达到39摄氏度。在波斯尼亚和黑塞哥维那，周五全国大部分地区发布了高温警告，预测气温高达38摄氏度。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "heatwave",
+          "hint": "n. 热浪",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "strain",
+          "hint": "v. 使紧张，使承受压力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "alerts",
+          "hint": "n. 警报",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "restrictions",
+          "hint": "n. 限制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "surged",
+          "hint": "v. 激增",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "suspended",
+          "hint": "v. 暂停",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "provisional",
+          "hint": "adj. 临时的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "braces",
+          "hint": "v. 准备迎接",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "dehydration",
+          "hint": "n. 脱水",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "elevated",
+          "hint": "adj. 升高的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "wildfire",
+          "hint": "n. 野火",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "vegetation",
+          "hint": "n. 植被",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "shutdown",
+          "hint": "n. 关闭",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "distorted",
+          "hint": "v. 变形",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "overcrowding",
+          "hint": "n. 过度拥挤",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "depriving",
+          "hint": "v. 剥夺",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "saturation",
+          "hint": "n. 饱和",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "respite",
+          "hint": "n. 缓解",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Europe is experiencing an extremely severe heatwave that has swept across the continent, with scientists describing it as one of the worst recorded.\nHealth authorities across multiple countries have issued high-level alerts as extreme temperatures strain hospitals, transport systems, infrastructure and public services, while governments have introduced emergency restrictions such as alcohol limits, event cancellations and public safety measures.\nThe UK recorded its hottest June day on record on Friday, with a provisional temperature of 37.3 degrees Celsius recorded in Santon Downham, Suffolk, surpassing a previous record of 36.7 degrees Celsius set just a day earlier in Merryfield, Somerset. In London, pavement temperatures in parts of the capital were reported to have reached up to 57 degrees Celsius, while the London Ambulance Service said emergency 999 calls surged by 50% during the heatwave. Sheffield's tram network was also suspended due to extreme temperatures.\nPeople sit at the side of the Dortmund-Ems Canal in Dortmund, western Germany during a heatwave in Europe, June 26, 2026. \nGermany reported a provisional national temperature record of 41.3 degrees Celsius on Friday in Saarbruecken-Burbach, surpassing its previous record of 41.2 degrees Celsius from 2019. The country also braces for the possibility of an even hotter weekend. Its emergency departments reported a significant rise in heat-related illnesses such as dizziness, heatstroke and dehydration.\nItaly remained under severe heat stress, with 18 cities placed under a red alert, the highest heat warning level, including Rome, Milan, Turin, Florence, Bologna, Venice and Verona. Temperatures in parts of central and northern Italy are forecast to reach 38 to 40 degrees Celsius. Authorities have also warned of an elevated wildfire risk, particularly in Sardinia and southern regions, where civil protection agencies have issued alerts as vegetation has dried out after weeks of unusually hot and dry weather.\nA digital pharmacy thermometer displays 40 degree Celsius during a heat wave in Orvieto, Umbria, Italy, June 25, 2026. \nSwitzerland also recorded its hottest June temperature on Friday, hitting 38.8 degrees Celsius in the northern city of Basel, breaking a record just set there a day earlier.\nThe extreme heat has also affected infrastructure and industry. In Switzerland, the heat forced the shutdown of reactors at Europe's oldest nuclear plant due to elevated river temperatures affecting cooling systems. In Germany, older concrete sections of highways expanded and broke apart, forcing temporary closures, while in Sweden, rail infrastructure was reportedly distorted by extreme heat.\nIn France, Paris hit a June record of 40.9 degree Celsius earlier in the week, with authorities warning of rising heat-related deaths and a surge in emergency calls.\n\"There will be consequences in terms of the number of additional deaths,\" said French Health Minister Stephanie Rist.\nHospitals under pressure\nFirefighters from the Paris Fire Brigade assist a person, who became unwell during an intense heatwave, into an ambulance, Paris, France, June 25, 2026. \nHospitals reported overcrowding and difficulty coping with the volume of patients, and scientists have highlighted the danger of sweltering night-time temperatures.\nTemperatures overnight have not dropped below 22 degrees Celsius, depriving the human body of the ability to recover and shed the excess heat from the day, and which can drive excess deaths, said John Kennedy, head of Climate Information at the World Meteorological Organization.\nFrance saw a fourfold increase in heat-related hospital visits and a surge of cardiac arrests.\n\"We are reaching a saturation point in hospital facilities,\" Paris police chief Patrice Faure said, announcing a rare ban on evening alcohol sales in Paris over the weekend.\nIn the UK, Hilary Williams, clinical vice president of Britain's Royal College of Physicians, said overcrowding and heat in hospital wards were putting patients, staff and infrastructure under severe strain.\n\"People are far too hot,\" she told BBC Radio, adding that some critical equipment, including MRI scanners and cancer treatment machines, was being affected by the heat.\nHeatwave heads east\nA storm broke the heat overnight in France's western region of Brittany, bringing some respite on Friday.\nPeople walk outside office buildings during a Code Red heat alert in The Hague, Netherlands, June 26, 2026. \nBut much of the Netherlands remained under red alert, with authorities advising people to travel only if necessary and most schools closed. Organizers cancelled the four-day techno music festival Defqon.1 in the central Netherlands.\nSlovakia forecast temperatures up to 36 degrees Celsius, with Bratislava extending swimming pool opening hours and deploying tanker trucks of drinking water.\nThe Czech Republic and Hungary were on red alert for the weekend, with temperatures of up to 40 degrees Celsius forecast.\nHungary's Prime Minister Peter Magyar said authorities were preparing millions of bags of drinking water for possible public distribution and urging residents to conserve water.\nPeople cool off during a French Film Festival in Belgrade as Serbia endures a heatwave, June 26, 2026. \nThe Balkans are also bracing for sustained heat. Serbia is facing an intense and prolonged heatwave starting Friday, with maximum temperatures forecasted to reach up to 39 degrees Celsius through early next week. In Bosnia and Herzegovina (BiH), heat warnings were issued for large parts of the country on Friday as temperatures were forecast to reach up to 38 degrees Celsius.",
+      "fullTextCn": "欧洲正经历一场席卷整个大陆的极端严重热浪，科学家称其为有记录以来最严重的热浪之一。多个国家的卫生部门已发布高级别警报，极端气温给医院、交通系统、基础设施和公共服务带来压力，政府出台了酒精限制、活动取消和公共安全措施等紧急限制。英国周五录得有史以来最热的六月天，萨福克郡桑顿唐纳姆的临时气温达到37.3摄氏度，超过了前一天在萨默塞特郡梅里菲尔德创下的36.7摄氏度的纪录。在伦敦，据报道首都部分地区的路面温度高达57摄氏度，而伦敦救护车服务中心表示，热浪期间紧急999电话激增了50%。谢菲尔德的电车网络也因极端气温而暂停运营。\n\n2026年6月26日，欧洲热浪期间，人们坐在德国西部多特蒙德的埃姆斯运河边。德国周五在萨尔布吕肯-布尔巴赫报告了41.3摄氏度的全国临时气温纪录，超过了2019年创下的41.2摄氏度的纪录。该国还面临周末气温可能更高的可能性。其急诊部门报告称，与高温相关的疾病如头晕、中暑和脱水显著增加。意大利仍处于严重热应激状态，18个城市被列入红色警报，这是最高级别的热浪警告，包括罗马、米兰、都灵、佛罗伦萨、博洛尼亚、威尼斯和维罗纳。\n\n意大利中部和北部部分地区的温度预计将达到38至40摄氏度。当局还警告了野火风险升高，特别是在撒丁岛和南部地区，经过数周异常炎热干燥的天气后，植被干枯，民防机构已发布警报。2026年6月25日，意大利翁布里亚奥维耶托，一个数字药房温度计显示40摄氏度。瑞士周五也录得有史以来最热的六月天，北部城市巴塞尔达到38.8摄氏度，打破了前一天刚在那里创下的纪录。极端高温也影响了基础设施和工业。\n\n在瑞士，高温迫使欧洲最古老的核电站因河水温度升高影响冷却系统而关闭反应堆。在德国，较老的混凝土高速公路路段膨胀破裂，导致临时关闭，而在瑞典，据报道铁路基础设施因极端高温而变形。在法国，巴黎本周早些时候达到了40.9摄氏度的六月纪录，当局警告与高温相关的死亡人数上升以及紧急电话激增。“这将导致额外死亡人数的增加，”法国卫生部长斯蒂芬妮·里斯特说。医院面临压力。2026年6月25日，法国巴黎，巴黎消防队的消防员帮助一名在强烈热浪中感到不适的人上救护车。\n\n医院报告人满为患，难以应对患者数量，科学家强调了夜间闷热气温的危险。世界气象组织气候信息负责人约翰·肯尼迪表示，夜间气温没有低于22摄氏度，使人体无法恢复并排出白天多余的热量，这可能导致额外死亡。法国与高温相关的医院就诊次数增加了四倍，心脏骤停病例激增。“我们正在达到医院设施的饱和点，”巴黎警察局长帕特里斯·福尔说，他宣布周末在巴黎罕见地禁止晚间酒精销售。在英国，英国皇家内科医学院临床副主席希拉里·威廉姆斯表示，医院病房的人满为患和高温正使患者、员工和基础设施承受严重压力。\n\n\"人们太热了，\"她告诉BBC广播，并补充说一些关键设备，包括核磁共振扫描仪和癌症治疗机器，正受到高温影响。热浪向东移动。周五，一场风暴打破了法国西部布列塔尼地区的炎热，带来了一些缓解。2026年6月26日，荷兰海牙，人们在红色高温警报期间走出办公楼。但荷兰大部分地区仍处于红色警报之下，当局建议人们只在必要时出行，大多数学校关闭。组织者取消了荷兰中部为期四天的电子音乐节Defqon.1。\n\n斯洛伐克预测气温高达36摄氏度，布拉迪斯拉发延长了游泳池开放时间，并部署了饮用水罐车。捷克共和国和匈牙利周末处于红色警报状态，预测气温高达40摄氏度。匈牙利总理彼得·马扎尔表示，当局正在准备数百万袋饮用水以备可能的公共分发，并敦促居民节约用水。2026年6月26日，塞尔维亚贝尔格莱德，人们在法国电影节期间降温。巴尔干地区也面临持续高温。\n\n塞尔维亚从周五开始面临一场强烈且持久的热浪，预测最高气温将持续到下周一，达到39摄氏度。在波斯尼亚和黑塞哥维那，周五全国大部分地区发布了高温警告，预测气温高达38摄氏度。"
+    },
+    {
+      "id": 3,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-07-03/Ethiopia-s-digital-ID-registrations-surpass-46-million-people-1Os6p7gnjiM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Ethiopia's digital ID registrations surpass 46 million people",
+      "titleCn": "埃塞俄比亚数字身份证注册人数突破4600万",
+      "summary": "Ethiopia's national digital identification program, known as Fayda, has registered more than 46 million people in just three years, making it one of Africa's fastest-growing digital identity initiatives.",
+      "summaryCn": "埃塞俄比亚的Fayda数字身份证计划在三年内注册超4600万人，成为非洲增长最快的数字身份倡议之一，并推动金融包容性和公共服务整合。",
+      "wordCount": 683,
+      "paragraphs": [
+        {
+          "en": "Ethiopia's national digital identification program, known as Fayda, has registered more than 46 million people in just three years, making it one of Africa's fastest-growing digital identity {{1}} and a central {{2}} of the country's digital transformation strategy. The {{3}} and {{4}} identification system is designed to provide every resident with a unique and {{5}} digital identity, enabling easier access to {{17}} services, government programs, and other {{13}} services. According to officials, nearly 165 institutions, including banks, digital payment providers, startups, and public service agencies have already {{6}} with the national database. The integrations allow for {{7}} identity {{8}}, faster service delivery, and secure data exchange across sectors. \"When you get a driver's license, you have a different address.",
+          "cn": "埃塞俄比亚的国家数字身份识别计划，即Fayda，在短短三年内已注册超过4600万人，使其成为非洲增长最快的数字身份倡议之一，也是该国数字化转型战略的核心支柱。这一生物识别和人口统计识别系统旨在为每位居民提供独特且可验证的数字身份，从而更方便地获取金融服务、政府项目及其他基本服务。据官员称，包括银行、数字支付提供商、初创公司和公共服务机构在内的近165家机构已与国家数据库整合。这些整合实现了跨部门的无缝身份验证、更快的服务交付和安全的数据交换。“当你拿到驾照时，你有一个不同的地址。"
+        },
+        {
+          "en": "When you get a kebele ID, you have one address. When you open a bank account, you enter a different address. So there is no single source of truth for the service provider and for you, it's inconvenient because you have to spend a lot of time entering all of this data again and again, the same data,\" said Yodahe Zemichael, executive director of Ethiopia's National ID Program. \"With Fayda, the process becomes {{9}}. Users only need to provide their identification number, and their {{10}} Know Your Customer information can be securely shared with authorized service providers,\"\nWhile the government had initially targeted {{11}} 90 million people by the end of 2026, authorities have now shifted their focus toward achieving {{12}} enrollment over the coming years.",
+          "cn": "当你拿到kebele身份证时，你有一个地址。当你开立银行账户时，你又输入一个不同的地址。因此，对于服务提供商和你来说，都没有单一的真实信息来源，这很不方便，因为你必须反复花费大量时间输入所有这些相同的数据，”埃塞俄比亚国家身份证计划执行主任Yodahe Zemichael说。“有了Fayda，这一过程变得无摩擦。用户只需提供他们的身份证号码，他们经过验证的‘了解你的客户’信息就可以安全地与授权服务提供商共享。”虽然政府最初的目标是到2026年底注册9000万人，但当局现在已将重点转向在未来几年实现全民注册。"
+        },
+        {
+          "en": "Growing demand as digital ID becomes key for public services\nDespite registration campaigns having covered most major urban centers, enrollment facilities in the capital, Addis Ababa, continue to experience high demand as citizens seek to register or update their records. For many Ethiopians, possessing a Fayda ID is increasingly becoming essential for accessing public and financial services. \"I live in South Africa, but I travel frequently to Ethiopia for business,\" said Abreham Tilahun, one of the program's {{14}}. \"People like me often face challenges accessing services because we are not {{15}} residents. Fayda became a much-needed solution.",
+          "cn": "随着数字身份成为公共服务的关键，需求日益增长。尽管注册活动已覆盖大多数主要城市中心，但首都亚的斯亚贝巴的注册设施仍面临高需求，因为公民寻求注册或更新记录。对许多埃塞俄比亚人来说，拥有Fayda身份证对于获取公共和金融服务正变得越来越必要。“我住在南非，但我经常因商务前往埃塞俄比亚，”该计划的受益者之一Abreham Tilahun说。“像我这样的人在获取服务时经常面临挑战，因为我们不是永久居民。Fayda成了一个急需的解决方案。"
+        },
+        {
+          "en": "I was able to renew my passport and open bank accounts without difficulty. It has been very useful.\"\nPrime Minister Abiy Ahmed recently highlighted the role of digital identity systems in promoting economic {{16}} and expanding access to financial services. \"Imagine a woman running a small business in a market,\" the prime minister said in a recent address. \"For years, she operated outside the formal financial system. She had no bank account, no credit history, and no registered business.",
+          "cn": "我能够毫无困难地更新护照和开立银行账户。它非常有用。”总理阿比·艾哈迈德最近强调了数字身份系统在促进经济包容性和扩大金融服务获取方面的作用。“想象一下，一位女性在市场上经营一家小企业，”总理在最近的一次讲话中说。“多年来，她在正规金融体系之外运营。她没有银行账户，没有信用记录，也没有注册的企业。"
+        },
+        {
+          "en": "After enrolling in Fayda and beginning to use digital payments, she started building a financial record. That record became trust, and that trust opened the door to finance.\"\nPrime Minister Abiy Ahmed highlights the role of digital identity systems in promoting economic inclusion in Addis Ababa, Ethiopia, July 1, 2026. Africa\nPrivacy concerns remain as officials pledge strong {{19}}\nAs the digital ID system expands, concerns have emerged over data {{18}} and the potential misuse of personal information. Ethiopian officials, however, insist that robust legal and technical safeguards have been established to protect citizens' data. Yodahe Zemichael, the executive director of the Ethiopian National ID Program, July 1, 2026.",
+          "cn": "在注册Fayda并开始使用数字支付后，她开始建立金融记录。这份记录变成了信任，而信任为她打开了融资的大门。”总理阿比·艾哈迈德在2026年7月1日于埃塞俄比亚亚的斯亚贝巴强调数字身份系统在促进经济包容性方面的作用。随着数字身份系统的扩展，人们对数据隐私和个人信息可能被滥用的担忧也随之出现。然而，埃塞俄比亚官员坚称，已经建立了强有力的法律和技术保障措施来保护公民数据。埃塞俄比亚国家身份证计划执行主任Yodahe Zemichael，2026年7月1日。"
+        },
+        {
+          "en": "Africa\n\"For instance, the courts can request data on any individual for law enforcement purposes. It's legally put in the law. But when it comes to privacy, no third party can access it without your {{20}}. \" Zemichael said. \"However, no third party can access personal data without the individual's consent.\"\nHe emphasized that citizens retain {{21}} of their personal information.",
+          "cn": "非洲“例如，法院可以出于执法目的要求获取任何个人的数据。这在法律中有明确规定。但在隐私方面，未经你的同意，任何第三方都无法访问它，”Zemichael说。“然而，未经个人同意，任何第三方都无法访问个人数据。”他强调，公民保留对其个人信息的拥有权。"
+        },
+        {
+          "en": "\"The citizen is the owner of the data. Fayda's role is only to safeguard the database,\" he said. \"It's similar to a bank: the money belongs to the customer, while the bank is responsible for keeping it secure.\"\nThe national digital ID program has recently {{22}} into a state-owned enterprise model, allowing it to generate its own revenue. Ethiopian officials say the program has also begun partnering with several African countries seeking to establish their own digital identity systems, positioning Ethiopia as an emerging leader in digital public {{23}} across the continent.",
+          "cn": "“公民是数据的所有者。Fayda的角色只是保护数据库，”他说。“这类似于银行：钱属于客户，而银行负责确保其安全。”国家数字身份证计划最近转型为国有企业模式，使其能够产生自己的收入。埃塞俄比亚官员表示，该计划已开始与几个寻求建立自己数字身份系统的非洲国家合作，使埃塞俄比亚成为非洲大陆数字公共基础设施领域的新兴领导者。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "initiatives",
+          "hint": "n. 倡议",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "pillar",
+          "hint": "n. 支柱",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "biometric",
+          "hint": "adj. 生物识别的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "demographic",
+          "hint": "adj. 人口统计的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "verifiable",
+          "hint": "adj. 可验证的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "integrated",
+          "hint": "v. 整合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "seamless",
+          "hint": "adj. 无缝的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "verification",
+          "hint": "n. 验证",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "frictionless",
+          "hint": "adj. 无摩擦的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "verified",
+          "hint": "adj. 经核实的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "enrolling",
+          "hint": "v. 注册",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "universal",
+          "hint": "adj. 普遍的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "essential",
+          "hint": "adj. 必要的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "beneficiaries",
+          "hint": "n. 受益者",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "permanent",
+          "hint": "adj. 永久的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "inclusion",
+          "hint": "n. 包容性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "financial",
+          "hint": "adj. 金融的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "privacy",
+          "hint": "n. 隐私",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "safeguards",
+          "hint": "n. 保障措施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "consent",
+          "hint": "n. 同意",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "ownership",
+          "hint": "n. 所有权",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "transitioned",
+          "hint": "v. 转型",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Ethiopia's national digital identification program, known as Fayda, has registered more than 46 million people in just three years, making it one of Africa's fastest-growing digital identity initiatives and a central pillar of the country's digital transformation strategy.\nThe biometric and demographic identification system is designed to provide every resident with a unique and verifiable digital identity, enabling easier access to financial services, government programs, and other essential services.\nAccording to officials, nearly 165 institutions, including banks, digital payment providers, startups, and public service agencies have already integrated with the national database. The integrations allow for seamless identity verification, faster service delivery, and secure data exchange across sectors.\n\"When you get a driver's license, you have a different address. When you get a kebele ID, you have one address. When you open a bank account, you enter a different address. So there is no single source of truth for the service provider and for you, it's inconvenient because you have to spend a lot of time entering all of this data again and again, the same data,\" said Yodahe Zemichael, executive director of Ethiopia's National ID Program. \"With Fayda, the process becomes frictionless. Users only need to provide their identification number, and their verified Know Your Customer information can be securely shared with authorized service providers,\"\nWhile the government had initially targeted enrolling 90 million people by the end of 2026, authorities have now shifted their focus toward achieving universal enrollment over the coming years.\nGrowing demand as digital ID becomes key for public services\nDespite registration campaigns having covered most major urban centers, enrollment facilities in the capital, Addis Ababa, continue to experience high demand as citizens seek to register or update their records.\nFor many Ethiopians, possessing a Fayda ID is increasingly becoming essential for accessing public and financial services.\n\"I live in South Africa, but I travel frequently to Ethiopia for business,\" said Abreham Tilahun, one of the program's beneficiaries. \"People like me often face challenges accessing services because we are not permanent residents. Fayda became a much-needed solution. I was able to renew my passport and open bank accounts without difficulty. It has been very useful.\"\nPrime Minister Abiy Ahmed recently highlighted the role of digital identity systems in promoting economic inclusion and expanding access to financial services.\n\"Imagine a woman running a small business in a market,\" the prime minister said in a recent address. \"For years, she operated outside the formal financial system. She had no bank account, no credit history, and no registered business. After enrolling in Fayda and beginning to use digital payments, she started building a financial record. That record became trust, and that trust opened the door to finance.\"\nPrime Minister Abiy Ahmed highlights the role of digital identity systems in promoting economic inclusion in Addis Ababa, Ethiopia, July 1, 2026. \n Africa\nPrivacy concerns remain as officials pledge strong safeguards\nAs the digital ID system expands, concerns have emerged over data privacy and the potential misuse of personal information. Ethiopian officials, however, insist that robust legal and technical safeguards have been established to protect citizens' data.\nYodahe Zemichael, the executive director of the Ethiopian National ID Program, July 1, 2026. \n Africa\n\"For instance, the courts can request data on any individual for law enforcement purposes. It's legally put in the law. But when it comes to privacy, no third party can access it without your consent. \" Zemichael said. \"However, no third party can access personal data without the individual's consent.\"\nHe emphasized that citizens retain ownership of their personal information.\n\"The citizen is the owner of the data. Fayda's role is only to safeguard the database,\" he said. \"It's similar to a bank: the money belongs to the customer, while the bank is responsible for keeping it secure.\"\nThe national digital ID program has recently transitioned into a state-owned enterprise model, allowing it to generate its own revenue. Ethiopian officials say the program has also begun partnering with several African countries seeking to establish their own digital identity systems, positioning Ethiopia as an emerging leader in digital public infrastructure across the continent.",
+      "fullTextCn": "埃塞俄比亚的国家数字身份识别计划，即Fayda，在短短三年内已注册超过4600万人，使其成为非洲增长最快的数字身份倡议之一，也是该国数字化转型战略的核心支柱。这一生物识别和人口统计识别系统旨在为每位居民提供独特且可验证的数字身份，从而更方便地获取金融服务、政府项目及其他基本服务。据官员称，包括银行、数字支付提供商、初创公司和公共服务机构在内的近165家机构已与国家数据库整合。这些整合实现了跨部门的无缝身份验证、更快的服务交付和安全的数据交换。“当你拿到驾照时，你有一个不同的地址。\n\n当你拿到kebele身份证时，你有一个地址。当你开立银行账户时，你又输入一个不同的地址。因此，对于服务提供商和你来说，都没有单一的真实信息来源，这很不方便，因为你必须反复花费大量时间输入所有这些相同的数据，”埃塞俄比亚国家身份证计划执行主任Yodahe Zemichael说。“有了Fayda，这一过程变得无摩擦。用户只需提供他们的身份证号码，他们经过验证的‘了解你的客户’信息就可以安全地与授权服务提供商共享。”虽然政府最初的目标是到2026年底注册9000万人，但当局现在已将重点转向在未来几年实现全民注册。\n\n随着数字身份成为公共服务的关键，需求日益增长。尽管注册活动已覆盖大多数主要城市中心，但首都亚的斯亚贝巴的注册设施仍面临高需求，因为公民寻求注册或更新记录。对许多埃塞俄比亚人来说，拥有Fayda身份证对于获取公共和金融服务正变得越来越必要。“我住在南非，但我经常因商务前往埃塞俄比亚，”该计划的受益者之一Abreham Tilahun说。“像我这样的人在获取服务时经常面临挑战，因为我们不是永久居民。Fayda成了一个急需的解决方案。\n\n我能够毫无困难地更新护照和开立银行账户。它非常有用。”总理阿比·艾哈迈德最近强调了数字身份系统在促进经济包容性和扩大金融服务获取方面的作用。“想象一下，一位女性在市场上经营一家小企业，”总理在最近的一次讲话中说。“多年来，她在正规金融体系之外运营。她没有银行账户，没有信用记录，也没有注册的企业。\n\n在注册Fayda并开始使用数字支付后，她开始建立金融记录。这份记录变成了信任，而信任为她打开了融资的大门。”总理阿比·艾哈迈德在2026年7月1日于埃塞俄比亚亚的斯亚贝巴强调数字身份系统在促进经济包容性方面的作用。随着数字身份系统的扩展，人们对数据隐私和个人信息可能被滥用的担忧也随之出现。然而，埃塞俄比亚官员坚称，已经建立了强有力的法律和技术保障措施来保护公民数据。埃塞俄比亚国家身份证计划执行主任Yodahe Zemichael，2026年7月1日。\n\n非洲“例如，法院可以出于执法目的要求获取任何个人的数据。这在法律中有明确规定。但在隐私方面，未经你的同意，任何第三方都无法访问它，”Zemichael说。“然而，未经个人同意，任何第三方都无法访问个人数据。”他强调，公民保留对其个人信息的拥有权。\n\n“公民是数据的所有者。Fayda的角色只是保护数据库，”他说。“这类似于银行：钱属于客户，而银行负责确保其安全。”国家数字身份证计划最近转型为国有企业模式，使其能够产生自己的收入。埃塞俄比亚官员表示，该计划已开始与几个寻求建立自己数字身份系统的非洲国家合作，使埃塞俄比亚成为非洲大陆数字公共基础设施领域的新兴领导者。"
+    },
+    {
+      "id": 4,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-28/Experts-explain-cause-of-Venezuela-s-two-consecutive-earthquakes-1OlK6oUuses/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Experts explain cause of Venezuela's two consecutive earthquakes",
+      "titleCn": "专家解释委内瑞拉连续两次地震的原因",
+      "summary": "Experts explain cause of Venezuela's two consecutive earthquakes",
+      "summaryCn": "专家指出，委内瑞拉连续两次地震是由加勒比板块与南美板块边界处两个相互连接的断层系统运动引起的，属于正常地质现象。",
+      "wordCount": 391,
+      "paragraphs": [
+        {
+          "en": "Two {{0}} earthquakes that {{1}} Venezuela within a minute of each other on June 24 were caused by movements along two {{2}} fault systems at the {{3}} between the Caribbean and South American {{4}} plates, according to experts. According to the US Geological Survey, a magnitude-7.1 earthquake struck near Montalbán, Venezuela, on June 24, followed less than a minute later by a magnitude-7.5 quake. The magnitude of the first earthquake was later {{5}} to 7.2. Qu Guosheng, former chief engineer of the China Earthquake Emergency Search and Rescue Center, told China News Service that the first magnitude-7.2 earthquake occurred along the Central Range Fault, a thrust strike-slip fault at the eastern end of the Andes Mountains. The {{6}} {{7}} northeastward and subsequently {{8}} movement along the Boconó-San Sebastián-El Pilar fault system, an east-west trending strike-slip fault zone, resulting in the second earthquake.",
+          "cn": "据专家称，6月24日，委内瑞拉在一分钟内接连发生两次强烈地震，原因是加勒比板块与南美板块边界处两个相互连接的断层系统发生了运动。根据美国地质调查局的数据，6月24日，委内瑞拉蒙塔尔万附近发生7.1级地震，不到一分钟后，又发生7.5级地震。第一次地震的震级后来修正为7.2级。中国地震应急搜救中心原总工程师曲国胜向中新社表示，第一次7.2级地震发生在中央山脉断层，这是安第斯山脉东端的一个逆冲走滑断层。破裂向东北方向传播，随后触发了博科诺-圣塞巴斯蒂安-埃尔皮拉尔断层系统（一个东西走向的走滑断层带）的运动，导致了第二次地震。"
+        },
+        {
+          "en": "Sergio Barrientos, director of the National Seismological Center at the University of Chile, said Caracas and surrounding areas have {{9}} several major earthquakes throughout history because the region lies along the boundary between the Caribbean and South American plates. Barrientos noted that major earthquakes struck Caracas in 1812, 1900 and 1967. The {{10}} movement of the Caribbean Plate against the South American Plate, which shifts by about two centimeters each year, gradually builds up stress in the Earth's {{14}}. When the {{11}} stress {{12}} the {{13}} of the rocks, the crust ruptures along the plate boundary, triggering earthquakes. He said the two recent earthquakes were caused by the same tectonic process.",
+          "cn": "智利大学国家地震中心主任塞尔吉奥·巴里恩托斯表示，加拉加斯及周边地区历史上曾发生过多次大地震，因为该地区位于加勒比板块和南美板块的边界上。巴里恩托斯指出，加拉加斯在1812年、1900年和1967年都发生过大地震。加勒比板块相对于南美板块每年移动约两厘米，这种相对运动逐渐在地壳中积累应力。当累积的应力超过岩石的强度时，地壳会沿着板块边界破裂，从而引发地震。他说，最近的两次地震是由相同的构造过程引起的。"
+        },
+        {
+          "en": "Barrientos added that both earthquakes were {{15}} and occurred along near-{{16}} faults, allowing the movement between the tectonic plates to release {{17}} energy, contributing to significant {{18}} and property damage. The two earthquakes, both exceeding magnitude 7, have raised {{19}} about whether the Earth is entering a period of {{20}} {{21}} activity. However, Barrientos said global {{22}} suggest earthquakes of this {{23}} fall within the normal range of tectonic activity. On average, one magnitude 8 or stronger earthquake occurs worldwide each year, he said. Statistically, each magnitude 8 earthquake is {{24}} by about 10 magnitude 7 earthquakes, 100 magnitude 6 earthquakes and 1,000 magnitude 5 earthquakes over the same period.",
+          "cn": "巴里恩托斯补充说，这两次地震都是浅源地震，且发生在近乎垂直的断层上，这使得板块之间的运动释放出大量能量，造成了重大人员伤亡和财产损失。这两次震级均超过7级的地震引发了人们对地球是否进入地震活跃期的担忧。然而，巴里恩托斯表示，全球统计数据表明，这种规模的地震属于正常构造活动范围。他说，全球平均每年发生一次8级或以上的地震。据统计，每发生一次8级地震，同期大约会伴随发生10次7级地震、100次6级地震和1000次5级地震。"
+        },
+        {
+          "en": "Barrientos said earthquakes of the size recorded in Venezuela are a normal geological {{25}}, {{26}} within the {{27}} {{28}} Pacific Ring of Fire and other {{29}} active regions.",
+          "cn": "巴里恩托斯说，委内瑞拉记录到的这种规模的地震是一种正常的地质现象，尤其是在地震活跃的环太平洋火山带和其他构造活跃地区。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "powerful",
+          "hint": "adj. 强大的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "struck",
+          "hint": "v. 袭击",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "interconnected",
+          "hint": "adj. 相互连接的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "boundary",
+          "hint": "n. 边界",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "tectonic",
+          "hint": "adj. 构造的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "revised",
+          "hint": "v. 修正",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "rupture",
+          "hint": "n. 破裂",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "propagated",
+          "hint": "v. 传播",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "triggered",
+          "hint": "v. 触发",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "experienced",
+          "hint": "v. 经历",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "relative",
+          "hint": "adj. 相对的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "accumulated",
+          "hint": "v. 累积",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "exceeds",
+          "hint": "v. 超过",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "strength",
+          "hint": "n. 强度",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "crust",
+          "hint": "n. 地壳",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "shallow",
+          "hint": "adj. 浅的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "vertical",
+          "hint": "adj. 垂直的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "substantial",
+          "hint": "adj. 大量的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "casualties",
+          "hint": "n. 伤亡",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "concerns",
+          "hint": "n. 担忧",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "heightened",
+          "hint": "adj. 加剧的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "seismic",
+          "hint": "adj. 地震的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "statistics",
+          "hint": "n. 统计数据",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "scale",
+          "hint": "n. 规模",
+          "difficulty": "easy"
+        },
+        {
+          "id": 24,
+          "answer": "accompanied",
+          "hint": "v. 伴随",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "phenomenon",
+          "hint": "n. 现象",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "particularly",
+          "hint": "adv. 尤其",
+          "difficulty": "easy"
+        },
+        {
+          "id": 27,
+          "answer": "seismically",
+          "hint": "adv. 在地震方面",
+          "difficulty": "hard"
+        },
+        {
+          "id": 28,
+          "answer": "active",
+          "hint": "adj. 活跃的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 29,
+          "answer": "tectonically",
+          "hint": "adv. 在构造上",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Two powerful earthquakes that struck Venezuela within a minute of each other on June 24 were caused by movements along two interconnected fault systems at the boundary between the Caribbean and South American tectonic plates, according to experts.\nAccording to the US Geological Survey, a magnitude-7.1 earthquake struck near Montalbán, Venezuela, on June 24, followed less than a minute later by a magnitude-7.5 quake. The magnitude of the first earthquake was later revised to 7.2.\nQu Guosheng, former chief engineer of the China Earthquake Emergency Search and Rescue Center, told China News Service that the first magnitude-7.2 earthquake occurred along the Central Range Fault, a thrust strike-slip fault at the eastern end of the Andes Mountains. The rupture propagated northeastward and subsequently triggered movement along the Boconó-San Sebastián-El Pilar fault system, an east-west trending strike-slip fault zone, resulting in the second earthquake.\nSergio Barrientos, director of the National Seismological Center at the University of Chile, said Caracas and surrounding areas have experienced several major earthquakes throughout history because the region lies along the boundary between the Caribbean and South American plates.\nBarrientos noted that major earthquakes struck Caracas in 1812, 1900 and 1967. The relative movement of the Caribbean Plate against the South American Plate, which shifts by about two centimeters each year, gradually builds up stress in the Earth's crust. When the accumulated stress exceeds the strength of the rocks, the crust ruptures along the plate boundary, triggering earthquakes. He said the two recent earthquakes were caused by the same tectonic process.\nBarrientos added that both earthquakes were shallow and occurred along near-vertical faults, allowing the movement between the tectonic plates to release substantial energy, contributing to significant casualties and property damage.\nThe two earthquakes, both exceeding magnitude 7, have raised concerns about whether the Earth is entering a period of heightened seismic activity. However, Barrientos said global statistics suggest earthquakes of this scale fall within the normal range of tectonic activity.\nOn average, one magnitude 8 or stronger earthquake occurs worldwide each year, he said. Statistically, each magnitude 8 earthquake is accompanied by about 10 magnitude 7 earthquakes, 100 magnitude 6 earthquakes and 1,000 magnitude 5 earthquakes over the same period. Barrientos said earthquakes of the size recorded in Venezuela are a normal geological phenomenon, particularly within the seismically active Pacific Ring of Fire and other tectonically active regions.",
+      "fullTextCn": "据专家称，6月24日，委内瑞拉在一分钟内接连发生两次强烈地震，原因是加勒比板块与南美板块边界处两个相互连接的断层系统发生了运动。根据美国地质调查局的数据，6月24日，委内瑞拉蒙塔尔万附近发生7.1级地震，不到一分钟后，又发生7.5级地震。第一次地震的震级后来修正为7.2级。中国地震应急搜救中心原总工程师曲国胜向中新社表示，第一次7.2级地震发生在中央山脉断层，这是安第斯山脉东端的一个逆冲走滑断层。破裂向东北方向传播，随后触发了博科诺-圣塞巴斯蒂安-埃尔皮拉尔断层系统（一个东西走向的走滑断层带）的运动，导致了第二次地震。\n\n智利大学国家地震中心主任塞尔吉奥·巴里恩托斯表示，加拉加斯及周边地区历史上曾发生过多次大地震，因为该地区位于加勒比板块和南美板块的边界上。巴里恩托斯指出，加拉加斯在1812年、1900年和1967年都发生过大地震。加勒比板块相对于南美板块每年移动约两厘米，这种相对运动逐渐在地壳中积累应力。当累积的应力超过岩石的强度时，地壳会沿着板块边界破裂，从而引发地震。他说，最近的两次地震是由相同的构造过程引起的。\n\n巴里恩托斯补充说，这两次地震都是浅源地震，且发生在近乎垂直的断层上，这使得板块之间的运动释放出大量能量，造成了重大人员伤亡和财产损失。这两次震级均超过7级的地震引发了人们对地球是否进入地震活跃期的担忧。然而，巴里恩托斯表示，全球统计数据表明，这种规模的地震属于正常构造活动范围。他说，全球平均每年发生一次8级或以上的地震。据统计，每发生一次8级地震，同期大约会伴随发生10次7级地震、100次6级地震和1000次5级地震。\n\n巴里恩托斯说，委内瑞拉记录到的这种规模的地震是一种正常的地质现象，尤其是在地震活跃的环太平洋火山带和其他构造活跃地区。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-07-02/WFP-warns-hunger-in-northern-Nigeria-at-highest-levels-1OslvaThPnW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "WFP warns hunger in northern Nigeria at highest levels",
+      "titleCn": "世界粮食计划署警告尼日利亚北部饥饿问题达到最高水平",
+      "summary": "The UN World Food Programme says conflict, displacement and funding cuts have pushed hunger in northern Nigeria to its worst levels in almost a decade, with more than 17 million people facing acute food insecurity.",
+      "summaryCn": "联合国世界粮食计划署警告称，受冲突影响的尼日利亚北部地区饥饿问题达到近十年最高水平，超过1700万人面临严重粮食不安全。",
+      "wordCount": 344,
+      "paragraphs": [
+        {
+          "en": "People line up to receive food donations from the United Nations World Food Programme in Damasak, northeastern Nigeria, October 6, 2024. /CFP\nHunger across {{0}} northern Nigeria has reached its highest levels in nearly a decade, with more than 17 million people experiencing {{1}}, {{2}} or {{3}} food {{4}}, the UN World Food Programme (WFP) warned on Thursday. The agency said worsening insecurity, {{5}} armed violence and shrinking humanitarian funding are driving the crisis, as conflict spreads beyond the northeast into parts of northwestern Nigeria. \"What concerns us most is how this crisis is expanding,\" WFP Regional Director for West and Central Africa, Kinday Samba, said in a statement. He noted that growing insecurity is forcing people off their farmland, {{6}} communities and {{7}} humanitarian access.",
+          "cn": "2024年10月6日，尼日利亚东北部达马萨克，人们排队领取联合国世界粮食计划署的食品捐赠。/CFP\n联合国世界粮食计划署周四警告称，受冲突影响的尼日利亚北部地区饥饿问题已达到近十年来的最高水平，超过1700万人面临危机、紧急或灾难性的粮食不安全。该机构表示，日益恶化的安全局势、不断扩大的武装暴力以及人道主义资金的缩减正在推动这场危机，冲突已从东北部蔓延至尼日利亚西北部部分地区。世界粮食计划署西非和中非区域主任金迪·桑巴在一份声明中表示：“我们最担心的是这场危机正在扩大。”他指出，日益加剧的不安全局势正迫使人们离开农田，导致社区流离失所，并限制人道主义援助的进入。"
+        },
+        {
+          "en": "Nigeria has battled a militant {{8}} centered in the northeast since 2009, with violence intensifying again since 2025. Armed bandit groups have also expanded operations in the northwest, {{9}} the humanitarian crisis. According to the WFP, the number of areas {{10}} to humanitarian workers has doubled, with 15 additional locations now considered only partially accessible because of insecurity. The agency said the food security situation is {{11}} faster than previously anticipated. In Borno State, the epicenter of the insurgency, more than three million people are {{12}} food insecure, including around 10,000 facing catastrophic hunger.",
+          "cn": "自2009年以来，尼日利亚一直在与以东北部为中心的武装叛乱作斗争，自2025年以来暴力再次加剧。武装匪帮也在西北部扩大了行动，加剧了人道主义危机。据世界粮食计划署称，人道主义工作者无法进入的地区数量翻了一番，另有15个地点因安全局势仅被视为部分可进入。该机构表示，粮食安全状况的恶化速度超出预期。在叛乱中心博尔诺州，超过300万人严重粮食不安全，其中约1万人面临灾难性饥饿。"
+        },
+        {
+          "en": "Despite rising needs, humanitarian assistance is declining because of severe funding {{13}}. During the 2025 lean season, the WFP provided food and nutrition assistance to 1.3 million people. This year, it expects to reach just over half that number. Across northeastern Nigeria, 6.2 million people are now food insecure, but the agency says it can assist only about 740,000 people, leaving roughly 5.5 million, many of them children, without food assistance. The WFP warned that dwindling aid is forcing vulnerable households to adopt increasingly desperate {{14}} strategies, including reports of some people joining armed groups in search of food or income.",
+          "cn": "尽管需求不断上升，但由于严重的资金短缺，人道主义援助正在减少。在2025年淡季，世界粮食计划署向130万人提供了粮食和营养援助。今年，该机构预计只能覆盖这一数字的一半多一点。在尼日利亚东北部，620万人目前处于粮食不安全状态，但该机构表示只能援助约74万人，这意味着大约550万人（其中许多是儿童）无法获得粮食援助。世界粮食计划署警告称，援助的减少正迫使脆弱家庭采取越来越绝望的应对策略，包括有报道称一些人为了寻找食物或收入而加入武装团体。"
+        },
+        {
+          "en": "The warning comes amid broader economic challenges in Nigeria, where rising poverty, inflation and conflict continue to strain livelihoods despite ongoing economic reforms.",
+          "cn": "这一警告是在尼日利亚面临更广泛经济挑战的背景下发出的，尽管正在进行经济改革，但不断加剧的贫困、通货膨胀和冲突仍在持续影响民生。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "conflict-affected",
+          "hint": "adj. 受冲突影响的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "crisis",
+          "hint": "n. 危机",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "emergency",
+          "hint": "n. 紧急情况",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "catastrophic",
+          "hint": "adj. 灾难性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "insecurity",
+          "hint": "n. 不安全",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "expanding",
+          "hint": "v. 扩大",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "displacing",
+          "hint": "v. 使流离失所",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "restricting",
+          "hint": "v. 限制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "insurgency",
+          "hint": "n. 叛乱",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "compounding",
+          "hint": "v. 加剧",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "inaccessible",
+          "hint": "adj. 无法进入的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "deteriorating",
+          "hint": "v. 恶化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "acutely",
+          "hint": "adv. 严重地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "shortages",
+          "hint": "n. 短缺",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "coping",
+          "hint": "v. 应对",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "People line up to receive food donations from the United Nations World Food Programme in Damasak, northeastern Nigeria, October 6, 2024. /CFP\nHunger across conflict-affected northern Nigeria has reached its highest levels in nearly a decade, with more than 17 million people experiencing crisis, emergency or catastrophic food insecurity, the UN World Food Programme (WFP) warned on Thursday.\nThe agency said worsening insecurity, expanding armed violence and shrinking humanitarian funding are driving the crisis, as conflict spreads beyond the northeast into parts of northwestern Nigeria.\n\"What concerns us most is how this crisis is expanding,\" WFP Regional Director for West and Central Africa, Kinday Samba, said in a statement. He noted that growing insecurity is forcing people off their farmland, displacing communities and restricting humanitarian access.\nNigeria has battled a militant insurgency centered in the northeast since 2009, with violence intensifying again since 2025. Armed bandit groups have also expanded operations in the northwest, compounding the humanitarian crisis.\nAccording to the WFP, the number of areas inaccessible to humanitarian workers has doubled, with 15 additional locations now considered only partially accessible because of insecurity.\nThe agency said the food security situation is deteriorating faster than previously anticipated. In Borno State, the epicenter of the insurgency, more than three million people are acutely food insecure, including around 10,000 facing catastrophic hunger.\nDespite rising needs, humanitarian assistance is declining because of severe funding shortages. During the 2025 lean season, the WFP provided food and nutrition assistance to 1.3 million people. This year, it expects to reach just over half that number.\nAcross northeastern Nigeria, 6.2 million people are now food insecure, but the agency says it can assist only about 740,000 people, leaving roughly 5.5 million, many of them children, without food assistance.\nThe WFP warned that dwindling aid is forcing vulnerable households to adopt increasingly desperate coping strategies, including reports of some people joining armed groups in search of food or income.\nThe warning comes amid broader economic challenges in Nigeria, where rising poverty, inflation and conflict continue to strain livelihoods despite ongoing economic reforms.",
+      "fullTextCn": "2024年10月6日，尼日利亚东北部达马萨克，人们排队领取联合国世界粮食计划署的食品捐赠。/CFP\n联合国世界粮食计划署周四警告称，受冲突影响的尼日利亚北部地区饥饿问题已达到近十年来的最高水平，超过1700万人面临危机、紧急或灾难性的粮食不安全。该机构表示，日益恶化的安全局势、不断扩大的武装暴力以及人道主义资金的缩减正在推动这场危机，冲突已从东北部蔓延至尼日利亚西北部部分地区。世界粮食计划署西非和中非区域主任金迪·桑巴在一份声明中表示：“我们最担心的是这场危机正在扩大。”他指出，日益加剧的不安全局势正迫使人们离开农田，导致社区流离失所，并限制人道主义援助的进入。\n\n自2009年以来，尼日利亚一直在与以东北部为中心的武装叛乱作斗争，自2025年以来暴力再次加剧。武装匪帮也在西北部扩大了行动，加剧了人道主义危机。据世界粮食计划署称，人道主义工作者无法进入的地区数量翻了一番，另有15个地点因安全局势仅被视为部分可进入。该机构表示，粮食安全状况的恶化速度超出预期。在叛乱中心博尔诺州，超过300万人严重粮食不安全，其中约1万人面临灾难性饥饿。\n\n尽管需求不断上升，但由于严重的资金短缺，人道主义援助正在减少。在2025年淡季，世界粮食计划署向130万人提供了粮食和营养援助。今年，该机构预计只能覆盖这一数字的一半多一点。在尼日利亚东北部，620万人目前处于粮食不安全状态，但该机构表示只能援助约74万人，这意味着大约550万人（其中许多是儿童）无法获得粮食援助。世界粮食计划署警告称，援助的减少正迫使脆弱家庭采取越来越绝望的应对策略，包括有报道称一些人为了寻找食物或收入而加入武装团体。\n\n这一警告是在尼日利亚面临更广泛经济挑战的背景下发出的，尽管正在进行经济改革，但不断加剧的贫困、通货膨胀和冲突仍在持续影响民生。"
+    }
+  ]
+}

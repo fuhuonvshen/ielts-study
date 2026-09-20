@@ -1,0 +1,788 @@
+{
+  "date": "2026-06-20",
+  "articles": [
+    {
+      "id": 1,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-16/How-is-climate-tech-preparing-for-El-Nino-s-return--1O1CvelQi9q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "How is climate tech preparing for El Nino's return?",
+      "titleCn": "气候科技如何为厄尔尼诺的回归做准备？",
+      "summary": "How is climate tech preparing for El Nino's return?",
+      "summaryCn": "随着厄尔尼诺现象可能回归，各国正利用AI等先进技术加强天气预报和灾害应对能力。",
+      "wordCount": 495,
+      "paragraphs": [
+        {
+          "en": "The San Gabriel River floods near the Good Water RV Park and the Shady River RV Resort in Georgetown, Texas, US, May 27, 2026. The world is {{0}} for the return of El Nino, a climate {{1}} that could {{2}} {{3}} weather and push global temperatures even higher. According to the World Meteorological Organization, there is an 80% chance that El Nino conditions will develop between June and August 2026, with the {{4}} rising to more than 90% through at least November. Most forecast models suggest the event could reach {{5}} to strong {{6}}. UN Secretary-General Antonio Guterres warned that El Nino would \"pour fuel on the fire of a warming world\" and stressed that early warning systems are essential to protecting {{7}} communities from climate-related disasters.",
+          "cn": "2026年5月27日，美国德克萨斯州乔治敦，圣盖博河在Good Water房车公园和Shady River房车度假村附近泛滥。全球正在为厄尔尼诺的回归做准备，这种气候现象可能加剧极端天气，并将全球气温推得更高。据世界气象组织称，2026年6月至8月间出现厄尔尼诺条件的概率为80%，到11月前概率将升至90%以上。大多数预测模型显示，该事件可能达到中等至强强度。联合国秘书长安东尼奥·古特雷斯警告说，厄尔尼诺将“给变暖的世界火上浇油”，并强调早期预警系统对于保护脆弱社区免受气候相关灾害至关重要。"
+        },
+        {
+          "en": "As countries prepare for potentially more frequent heatwaves, floods and droughts, artificial intelligence (AI) is increasingly becoming a key tool in climate {{8}}. China has been developing a new {{9}} of AI-powered weather forecasting systems, including the \"Feng\" or \"Wind\" series (Fengqing, Fenglei, Fengshun and Fengyuan) of meteorological models. Fengqing is a global medium‑range model that produces 10.5‑day forecasts within three minutes and has been {{10}} nationwide. Fenglei is a nowcasting model that directly predicts {{11}} {{12}}, improving heavy rain forecasts by 25% and {{13}} lead time to three hours. It supports four‑tier severe weather warnings.",
+          "cn": "随着各国为可能更频繁的热浪、洪水和干旱做准备，人工智能正日益成为气候适应的关键工具。中国一直在开发新一代AI驱动的天气预报系统，包括“风”系列气象模型（风清、风雷、风顺和风源）。风清是一个全球中期模型，能在三分钟内生成10.5天的预报，并已在全国范围内投入运行。风雷是一个临近预报模型，可直接预测定量降水，将强降雨预报准确率提高25%，并将预警时间延长至三小时。它支持四级恶劣天气预警。"
+        },
+        {
+          "en": "Fengshun is a {{14}}‑to‑seasonal model with 0.25-degree {{15}} and {{16}} in international competitions. Fengyuan is a scientific AI base model {{17}} data {{18}} and forecasting, serving as an open research and innovation platform. Together, the series addresses {{19}} needs – from disaster prevention to {{20}} energy and {{21}} – and marks China's fully independent, end‑to‑end AI forecasting capability. China has also launched the MAZU Early Warning Cloud Platform, a national-level solution supporting the United Nations' \"Early Warnings for All\" {{22}}. The platform integrates meteorological {{23}}, risk {{24}}, and disaster alerts and has been introduced in countries including Pakistan, Mongolia and Sri Lanka, helping {{25}} local disaster preparedness.",
+          "cn": "风顺是一个次季节到季节模型，分辨率为0.25度，在国际竞赛中表现出色。风源是一个科学AI基础模型，集成了数据同化和预报功能，作为一个开放的研究与创新平台。该系列共同满足了从防灾到可再生能源和航空等多样化需求，标志着中国完全自主的端到端AI预报能力。中国还推出了“妈祖”早期预警云平台，这是一个支持联合国“全民早期预警”倡议的国家级解决方案。该平台集成了气象监测、风险评估和灾害警报，并已在巴基斯坦、蒙古和斯里兰卡等国家推广，帮助加强当地的灾害准备。"
+        },
+        {
+          "en": "Other countries are also turning to advanced technologies to {{26}} with climate risks associated with El Nino. In the United States, the National Oceanic and Atmospheric Administration uses AI-{{27}} forecasting systems and climate models to improve seasonal outlooks and extreme weather predictions. Australia's Bureau of Meteorology has expanded its climate monitoring and forecasting capabilities as the country faces heightened risks of drought, heat waves and bushfires during El Nino years. Meanwhile, the European Union has expanded the use of advanced climate forecasting through the European Center for Medium-Range Weather Forecasts (ECMWF) and the Copernicus Climate Change Service. These platforms combine satellite observations, AI-assisted modeling and high-performance computing to provide seasonal forecasts that help governments prepare for El Nino-related heatwaves, droughts and extreme rainfall events.",
+          "cn": "其他国家也在转向先进技术，以应对与厄尔尼诺相关的气候风险。在美国，国家海洋和大气管理局使用AI增强的预报系统和气候模型，以改进季节性展望和极端天气预测。澳大利亚气象局扩大了其气候监测和预报能力，因为该国在厄尔尼诺年份面临干旱、热浪和丛林火灾的风险增加。与此同时，欧盟通过欧洲中期天气预报中心和哥白尼气候变化服务扩大了先进气候预报的使用。这些平台结合了卫星观测、AI辅助建模和高性能计算，提供季节性预报，帮助政府为厄尔尼诺相关的热浪、干旱和极端降雨事件做准备。"
+        },
+        {
+          "en": "As El Nino approaches, scientists say the challenge is no longer simply forecasting the weather but translating climate information into timely action. Around the world, technology is becoming an increasingly important line of defense against a warming and more {{28}} climate.",
+          "cn": "随着厄尔尼诺的临近，科学家表示，挑战已不再是简单地预报天气，而是将气候信息转化为及时的行动。在全球范围内，技术正日益成为抵御变暖和更不稳定气候的重要防线。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "bracing",
+          "hint": "v. 准备迎接",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "phenomenon",
+          "hint": "n. 现象",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "intensify",
+          "hint": "v. 加剧",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "extreme",
+          "hint": "adj. 极端的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "probability",
+          "hint": "n. 概率",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "moderate",
+          "hint": "adj. 中等的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "intensity",
+          "hint": "n. 强度",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "vulnerable",
+          "hint": "adj. 脆弱的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "adaptation",
+          "hint": "n. 适应",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "generation",
+          "hint": "n. 代",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "operationalized",
+          "hint": "v. 投入运行",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "quantitative",
+          "hint": "adj. 定量的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "precipitation",
+          "hint": "n. 降水",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "extending",
+          "hint": "v. 延长",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "subseasonal",
+          "hint": "adj. 次季节的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "resolution",
+          "hint": "n. 分辨率",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "excels",
+          "hint": "v. 擅长",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "integrating",
+          "hint": "v. 整合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "assimilation",
+          "hint": "n. 同化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "diverse",
+          "hint": "adj. 多样的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "renewable",
+          "hint": "adj. 可再生的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "aviation",
+          "hint": "n. 航空",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "initiative",
+          "hint": "n. 倡议",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "monitoring",
+          "hint": "n. 监测",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "assessment",
+          "hint": "n. 评估",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "strengthen",
+          "hint": "v. 加强",
+          "difficulty": "easy"
+        },
+        {
+          "id": 26,
+          "answer": "cope",
+          "hint": "v. 应对",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "enhanced",
+          "hint": "adj. 增强的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 28,
+          "answer": "volatile",
+          "hint": "adj. 不稳定的",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "The San Gabriel River floods near the Good Water RV Park and the Shady River RV Resort in Georgetown, Texas, US, May 27, 2026. \nThe world is bracing for the return of El Nino, a climate phenomenon that could intensify extreme weather and push global temperatures even higher.\nAccording to the World Meteorological Organization, there is an 80% chance that El Nino conditions will develop between June and August 2026, with the probability rising to more than 90% through at least November. Most forecast models suggest the event could reach moderate to strong intensity.\nUN Secretary-General Antonio Guterres warned that El Nino would \"pour fuel on the fire of a warming world\" and stressed that early warning systems are essential to protecting vulnerable communities from climate-related disasters.\nAs countries prepare for potentially more frequent heatwaves, floods and droughts, artificial intelligence (AI) is increasingly becoming a key tool in climate adaptation.\nChina has been developing a new generation of AI-powered weather forecasting systems, including the \"Feng\" or \"Wind\" series (Fengqing, Fenglei, Fengshun and Fengyuan) of meteorological models.\nFengqing is a global medium‑range model that produces 10.5‑day forecasts within three minutes and has been operationalized nationwide. Fenglei is a nowcasting model that directly predicts quantitative precipitation, improving heavy rain forecasts by 25% and extending lead time to three hours. It supports four‑tier severe weather warnings. Fengshun is a subseasonal‑to‑seasonal model with 0.25-degree resolution and excels in international competitions. Fengyuan is a scientific AI base model integrating data assimilation and forecasting, serving as an open research and innovation platform. Together, the series addresses diverse needs – from disaster prevention to renewable energy and aviation – and marks China's fully independent, end‑to‑end AI forecasting capability.\nChina has also launched the MAZU Early Warning Cloud Platform, a national-level solution supporting the United Nations' \"Early Warnings for All\" initiative. The platform integrates meteorological monitoring, risk assessment, and disaster alerts and has been introduced in countries including Pakistan, Mongolia and Sri Lanka, helping strengthen local disaster preparedness.\nOther countries are also turning to advanced technologies to cope with climate risks associated with El Nino.\nIn the United States, the National Oceanic and Atmospheric Administration uses AI-enhanced forecasting systems and climate models to improve seasonal outlooks and extreme weather predictions.\nAustralia's Bureau of Meteorology has expanded its climate monitoring and forecasting capabilities as the country faces heightened risks of drought, heat waves and bushfires during El Nino years.\nMeanwhile, the European Union has expanded the use of advanced climate forecasting through the European Center for Medium-Range Weather Forecasts (ECMWF) and the Copernicus Climate Change Service. These platforms combine satellite observations, AI-assisted modeling and high-performance computing to provide seasonal forecasts that help governments prepare for El Nino-related heatwaves, droughts and extreme rainfall events.\nAs El Nino approaches, scientists say the challenge is no longer simply forecasting the weather but translating climate information into timely action. Around the world, technology is becoming an increasingly important line of defense against a warming and more volatile climate.",
+      "fullTextCn": "2026年5月27日，美国德克萨斯州乔治敦，圣盖博河在Good Water房车公园和Shady River房车度假村附近泛滥。全球正在为厄尔尼诺的回归做准备，这种气候现象可能加剧极端天气，并将全球气温推得更高。据世界气象组织称，2026年6月至8月间出现厄尔尼诺条件的概率为80%，到11月前概率将升至90%以上。大多数预测模型显示，该事件可能达到中等至强强度。联合国秘书长安东尼奥·古特雷斯警告说，厄尔尼诺将“给变暖的世界火上浇油”，并强调早期预警系统对于保护脆弱社区免受气候相关灾害至关重要。\n\n随着各国为可能更频繁的热浪、洪水和干旱做准备，人工智能正日益成为气候适应的关键工具。中国一直在开发新一代AI驱动的天气预报系统，包括“风”系列气象模型（风清、风雷、风顺和风源）。风清是一个全球中期模型，能在三分钟内生成10.5天的预报，并已在全国范围内投入运行。风雷是一个临近预报模型，可直接预测定量降水，将强降雨预报准确率提高25%，并将预警时间延长至三小时。它支持四级恶劣天气预警。\n\n风顺是一个次季节到季节模型，分辨率为0.25度，在国际竞赛中表现出色。风源是一个科学AI基础模型，集成了数据同化和预报功能，作为一个开放的研究与创新平台。该系列共同满足了从防灾到可再生能源和航空等多样化需求，标志着中国完全自主的端到端AI预报能力。中国还推出了“妈祖”早期预警云平台，这是一个支持联合国“全民早期预警”倡议的国家级解决方案。该平台集成了气象监测、风险评估和灾害警报，并已在巴基斯坦、蒙古和斯里兰卡等国家推广，帮助加强当地的灾害准备。\n\n其他国家也在转向先进技术，以应对与厄尔尼诺相关的气候风险。在美国，国家海洋和大气管理局使用AI增强的预报系统和气候模型，以改进季节性展望和极端天气预测。澳大利亚气象局扩大了其气候监测和预报能力，因为该国在厄尔尼诺年份面临干旱、热浪和丛林火灾的风险增加。与此同时，欧盟通过欧洲中期天气预报中心和哥白尼气候变化服务扩大了先进气候预报的使用。这些平台结合了卫星观测、AI辅助建模和高性能计算，提供季节性预报，帮助政府为厄尔尼诺相关的热浪、干旱和极端降雨事件做准备。\n\n随着厄尔尼诺的临近，科学家表示，挑战已不再是简单地预报天气，而是将气候信息转化为及时的行动。在全球范围内，技术正日益成为抵御变暖和更不稳定气候的重要防线。"
+    },
+    {
+      "id": 2,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-10/NASA-names-US-Italian-astronauts-for-Artemis-III-lunar-mission-1NRbDoD50YM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "NASA names US, Italian astronauts for Artemis III lunar mission",
+      "titleCn": "NASA公布阿尔忒弥斯三号月球任务美意宇航员名单",
+      "summary": "NASA on Tuesday named three US astronauts and one Italian astronaut as the crew for Artemis III, a spacecraft docking demonstration mission scheduled for late next year that will test lunar landers from SpaceX and Blue Origin in orbit for the first time.",
+      "summaryCn": "美国宇航局宣布了阿尔忒弥斯三号任务的四名宇航员，该任务将首次在轨道上测试SpaceX和蓝色起源的月球着陆器。",
+      "wordCount": 553,
+      "paragraphs": [
+        {
+          "en": "From L: NASA astronaut {{4}} Randy Bresnik, ESA astronaut pilot Luca Parmitano, NASA astronaut mission specialist Frank Rubio, and NASA astronaut mission specialist Andre Douglas at a press conference announcing the {{0}} for the Artemis III mission at NASA's Johnson Space Center in Houston, Texas, on June 9, 2026. NASA on Tuesday named three US astronauts and one Italian astronaut as the crew for Artemis III, a spacecraft {{1}} {{2}} mission scheduled for late next year that will test lunar landers from SpaceX and Blue Origin in orbit for the first time. At a ceremony in Houston, NASA Administrator Jared Isaacman announced that {{3}} astronaut Randy Bresnik will serve as commander, with Andre Douglas and Frank Rubio as mission {{5}}, and Luca Parmitano of the European Space Agency (ESA) as pilot. NASA astronaut Bob Hines was named as a {{6}} crew member and will train alongside the {{7}} crew. Italian Space Agency President Teodoro Valente said in a statement that Parmitano's selection as pilot for Artemis III \"confirms and {{8}} the role and {{9}} of the European and Italian space system in the human {{10}} of the universe.\"\n\"Artemis III is an incredibly exciting, {{11}} and highly {{12}} multi-launch {{13}},\" Jeremy Parsons, NASA's Artemis program manager, said at the Houston event. \"It's going to happen in a short period of time with three of the world's most powerful rockets.\"\nThe mission will involve NASA's Orion capsule, SpaceX's Starship lunar lander, and Blue Origin's Blue Moon lander.",
+          "cn": "从左至右：NASA宇航员指挥官兰迪·布雷斯尼克、ESA宇航员飞行员卢卡·帕尔米塔诺、NASA宇航员任务专家弗兰克·鲁比奥和NASA宇航员任务专家安德烈·道格拉斯，在2026年6月9日于德克萨斯州休斯顿NASA约翰逊航天中心举行的新闻发布会上，宣布阿尔忒弥斯三号任务的机组人员。NASA周二任命三名美国宇航员和一名意大利宇航员为阿尔忒弥斯三号任务的机组人员，这是一项计划于明年晚些时候进行的航天器对接演示任务，将首次在轨道上测试SpaceX和蓝色起源的月球着陆器。在休斯顿的仪式上，NASA局长贾里德·艾萨克曼宣布，资深宇航员兰迪·布雷斯尼克将担任指挥官，安德烈·道格拉斯和弗兰克·鲁比奥担任任务专家，欧洲航天局（ESA）的卢卡·帕尔米塔诺担任飞行员。NASA宇航员鲍勃·海因斯被任命为后备机组人员，将与主要机组人员一起训练。意大利航天局局长特奥多罗·瓦伦特在一份声明中表示，帕尔米塔诺被选为阿尔忒弥斯三号任务的飞行员，“确认并增强了欧洲和意大利航天系统在人类宇宙探索中的角色和能力。”"
+        },
+        {
+          "en": "Although the two-week mission will remain in low-Earth orbit and will not travel to the moon, it is seen as a {{14}} test of the two primary moon landers NASA will use on {{15}} Artemis missions to put astronauts on the lunar surface. Blue Moon will launch first, followed by Orion carrying the astronauts. The two spacecraft will dock for about two days while the astronauts conduct tests and technology demonstrations in Blue Moon. Blue Moon will then undock from Orion, making way for Starship, which will attempt to dock for a day before returning to Earth. The mission will test docking {{16}} and {{17}} that will be required for future lunar missions. Artemis III follows Artemis I, an {{18}} lunar mission in 2022, and Artemis II, which carried three US astronauts and one Canadian astronaut around the moon and back in April.",
+          "cn": "“阿尔忒弥斯三号是一项极其令人兴奋、复杂且高度协调的多发射任务，”NASA阿尔忒弥斯项目经理杰里米·帕森斯在休斯顿的活动上说。“它将在短时间内使用三枚世界上最强大的火箭完成。”该任务将涉及NASA的猎户座太空舱、SpaceX的星舰月球着陆器和蓝色起源的蓝月着陆器。"
+        },
+        {
+          "en": "It will be the final Artemis mission before NASA {{19}} to land astronauts on the lunar surface in 2028. SpaceX and Blue Origin have faced years of delays in the development of their landers. Last year, the companies pitched NASA on sped-up development plans that prompted a {{20}} of the agency's Artemis program, giving rise to the Artemis III docking mission. The 2027 mission would require both SpaceX's Starship and a {{21}} version of Blue Origin's Blue Moon to be ready for launch at nearly the same time. SpaceX last month test-launched a new version of its Starship designed for lunar missions. Blue Origin's New Glenn rocket {{22}} on its launchpad in Florida last month as it was preparing to launch a batch of Amazon satellites.",
+          "cn": "尽管为期两周的任务将停留在近地轨道，不会前往月球，但它被视为对NASA后续阿尔忒弥斯任务中用于将宇航员送上月球表面的两个主要月球着陆器的关键测试。蓝月将首先发射，随后是搭载宇航员的猎户座。两艘航天器将对接约两天，期间宇航员将在蓝月上进行测试和技术演示。然后蓝月将与猎户座分离，为星舰让路，星舰将尝试对接一天，然后返回地球。该任务将测试未来月球任务所需的对接机制和操作。阿尔忒弥斯三号任务紧随2022年无人月球任务阿尔忒弥斯一号和2025年4月搭载三名美国宇航员和一名加拿大宇航员绕月飞行的阿尔忒弥斯二号之后。"
+        },
+        {
+          "en": "The explosion destroyed much of the company's only launchpad and grounded for at least several months the rocket that Blue Origin aims to use to launch its Blue Moon lander, which is being ground-tested in Houston and Florida.",
+          "cn": "这将是NASA在2028年尝试将宇航员送上月球表面之前的最后一次阿尔忒弥斯任务。SpaceX和蓝色起源在着陆器开发方面面临多年的延误。去年，这些公司向NASA提出了加速开发计划，促使该机构的阿尔忒弥斯计划重新调整，从而催生了阿尔忒弥斯三号对接任务。2027年的任务将要求SpaceX的星舰和蓝色起源蓝月的原型版本几乎同时准备好发射。SpaceX上个月试射了专为月球任务设计的新版星舰。蓝色起源的新格伦火箭上个月在佛罗里达州准备发射一批亚马逊卫星时在发射台上爆炸。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "crew",
+          "hint": "n. 机组人员",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "docking",
+          "hint": "n. 对接",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "demonstration",
+          "hint": "n. 演示",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "veteran",
+          "hint": "adj. 经验丰富的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "commander",
+          "hint": "n. 指挥官",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "specialists",
+          "hint": "n. 专家",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "backup",
+          "hint": "n. 后备",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "prime",
+          "hint": "adj. 主要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "enhances",
+          "hint": "v. 增强",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "capabilities",
+          "hint": "n. 能力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "exploration",
+          "hint": "n. 探索",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "complicated",
+          "hint": "adj. 复杂的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "coordinated",
+          "hint": "adj. 协调的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "campaign",
+          "hint": "n. 行动",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "critical",
+          "hint": "adj. 关键的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "subsequent",
+          "hint": "adj. 随后的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "mechanisms",
+          "hint": "n. 机制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "operations",
+          "hint": "n. 操作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "uncrewed",
+          "hint": "adj. 无人驾驶的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "attempts",
+          "hint": "v. 尝试",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "reshuffling",
+          "hint": "n. 重新调整",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "prototype",
+          "hint": "n. 原型",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "exploded",
+          "hint": "v. 爆炸",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "From L: NASA astronaut commander Randy Bresnik, ESA astronaut pilot Luca Parmitano, NASA astronaut mission specialist Frank Rubio, and NASA astronaut mission specialist Andre Douglas at a press conference announcing the crew for the Artemis III mission at NASA's Johnson Space Center in Houston, Texas, on June 9, 2026. \nNASA on Tuesday named three US astronauts and one Italian astronaut as the crew for Artemis III, a spacecraft docking demonstration mission scheduled for late next year that will test lunar landers from SpaceX and Blue Origin in orbit for the first time.\nAt a ceremony in Houston, NASA Administrator Jared Isaacman announced that veteran astronaut Randy Bresnik will serve as commander, with Andre Douglas and Frank Rubio as mission specialists, and Luca Parmitano of the European Space Agency (ESA) as pilot. NASA astronaut Bob Hines was named as a backup crew member and will train alongside the prime crew.\nItalian Space Agency President Teodoro Valente said in a statement that Parmitano's selection as pilot for Artemis III \"confirms and enhances the role and capabilities of the European and Italian space system in the human exploration of the universe.\"\n\"Artemis III is an incredibly exciting, complicated and highly coordinated multi-launch campaign,\" Jeremy Parsons, NASA's Artemis program manager, said at the Houston event. \"It's going to happen in a short period of time with three of the world's most powerful rockets.\"\nThe mission will involve NASA's Orion capsule, SpaceX's Starship lunar lander, and Blue Origin's Blue Moon lander. Although the two-week mission will remain in low-Earth orbit and will not travel to the moon, it is seen as a critical test of the two primary moon landers NASA will use on subsequent Artemis missions to put astronauts on the lunar surface.\nBlue Moon will launch first, followed by Orion carrying the astronauts. The two spacecraft will dock for about two days while the astronauts conduct tests and technology demonstrations in Blue Moon. Blue Moon will then undock from Orion, making way for Starship, which will attempt to dock for a day before returning to Earth. The mission will test docking mechanisms and operations that will be required for future lunar missions.\nArtemis III follows Artemis I, an uncrewed lunar mission in 2022, and Artemis II, which carried three US astronauts and one Canadian astronaut around the moon and back in April. It will be the final Artemis mission before NASA attempts to land astronauts on the lunar surface in 2028.\nSpaceX and Blue Origin have faced years of delays in the development of their landers. Last year, the companies pitched NASA on sped-up development plans that prompted a reshuffling of the agency's Artemis program, giving rise to the Artemis III docking mission.\nThe 2027 mission would require both SpaceX's Starship and a prototype version of Blue Origin's Blue Moon to be ready for launch at nearly the same time.\nSpaceX last month test-launched a new version of its Starship designed for lunar missions. Blue Origin's New Glenn rocket exploded on its launchpad in Florida last month as it was preparing to launch a batch of Amazon satellites. The explosion destroyed much of the company's only launchpad and grounded for at least several months the rocket that Blue Origin aims to use to launch its Blue Moon lander, which is being ground-tested in Houston and Florida.",
+      "fullTextCn": "从左至右：NASA宇航员指挥官兰迪·布雷斯尼克、ESA宇航员飞行员卢卡·帕尔米塔诺、NASA宇航员任务专家弗兰克·鲁比奥和NASA宇航员任务专家安德烈·道格拉斯，在2026年6月9日于德克萨斯州休斯顿NASA约翰逊航天中心举行的新闻发布会上，宣布阿尔忒弥斯三号任务的机组人员。NASA周二任命三名美国宇航员和一名意大利宇航员为阿尔忒弥斯三号任务的机组人员，这是一项计划于明年晚些时候进行的航天器对接演示任务，将首次在轨道上测试SpaceX和蓝色起源的月球着陆器。在休斯顿的仪式上，NASA局长贾里德·艾萨克曼宣布，资深宇航员兰迪·布雷斯尼克将担任指挥官，安德烈·道格拉斯和弗兰克·鲁比奥担任任务专家，欧洲航天局（ESA）的卢卡·帕尔米塔诺担任飞行员。NASA宇航员鲍勃·海因斯被任命为后备机组人员，将与主要机组人员一起训练。意大利航天局局长特奥多罗·瓦伦特在一份声明中表示，帕尔米塔诺被选为阿尔忒弥斯三号任务的飞行员，“确认并增强了欧洲和意大利航天系统在人类宇宙探索中的角色和能力。”\n\n“阿尔忒弥斯三号是一项极其令人兴奋、复杂且高度协调的多发射任务，”NASA阿尔忒弥斯项目经理杰里米·帕森斯在休斯顿的活动上说。“它将在短时间内使用三枚世界上最强大的火箭完成。”该任务将涉及NASA的猎户座太空舱、SpaceX的星舰月球着陆器和蓝色起源的蓝月着陆器。\n\n尽管为期两周的任务将停留在近地轨道，不会前往月球，但它被视为对NASA后续阿尔忒弥斯任务中用于将宇航员送上月球表面的两个主要月球着陆器的关键测试。蓝月将首先发射，随后是搭载宇航员的猎户座。两艘航天器将对接约两天，期间宇航员将在蓝月上进行测试和技术演示。然后蓝月将与猎户座分离，为星舰让路，星舰将尝试对接一天，然后返回地球。该任务将测试未来月球任务所需的对接机制和操作。阿尔忒弥斯三号任务紧随2022年无人月球任务阿尔忒弥斯一号和2025年4月搭载三名美国宇航员和一名加拿大宇航员绕月飞行的阿尔忒弥斯二号之后。\n\n这将是NASA在2028年尝试将宇航员送上月球表面之前的最后一次阿尔忒弥斯任务。SpaceX和蓝色起源在着陆器开发方面面临多年的延误。去年，这些公司向NASA提出了加速开发计划，促使该机构的阿尔忒弥斯计划重新调整，从而催生了阿尔忒弥斯三号对接任务。2027年的任务将要求SpaceX的星舰和蓝色起源蓝月的原型版本几乎同时准备好发射。SpaceX上个月试射了专为月球任务设计的新版星舰。蓝色起源的新格伦火箭上个月在佛罗里达州准备发射一批亚马逊卫星时在发射台上爆炸。\n\n爆炸摧毁了该公司唯一的发射台，并使蓝色起源计划用于发射蓝月着陆器的火箭至少停飞数月，该着陆器正在休斯顿和佛罗里达进行地面测试。"
+    },
+    {
+      "id": 3,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-17/UN-envoy-calls-for-revival-of-Yemeni-political-process-1O2EdzwRW7K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "UN envoy calls for revival of Yemeni political process",
+      "titleCn": "联合国特使呼吁重启也门政治进程",
+      "summary": "UN Special Envoy for Yemen Hans Grundberg on Tuesday urged relevant parties of the Yemeni conflict to seize the opportunity created by regional de-escalation following the Iran-US deal and revive the stalled political process.",
+      "summaryCn": "联合国也门问题特使格伦德贝格敦促冲突各方抓住地区局势缓和的机遇，重启停滞的政治进程。",
+      "wordCount": 357,
+      "paragraphs": [
+        {
+          "en": "A UN aircraft is seen at Sana'a airport after transporting a Houthi delegation from Jordan to Sana'a, Yemen, May 21, 2026. UN Special Envoy for Yemen Hans Grundberg on Tuesday {{2}} relevant parties of the Yemeni conflict to {{3}} the opportunity created by regional {{4}} following the Iran-US deal and revive the {{5}} political process. Briefing the UN Security Council, Grundberg said he hoped the regional developments could create {{6}} for progress in Yemen and {{7}} to continue engaging the parties to advance political efforts. \"I hope this deal marks a {{8}} point for the region, and I will be working with the parties to encourage them to seize this moment to make progress on Yemen,\" Grundberg said. He said the recent US-Israeli-Iran conflict has so far had limited {{9}} impact inside Yemen, where the relative calm established since the 2022 {{10}} has largely held. However, he warned that regional {{11}} have added economic pressure to Yemen due to its heavy {{12}} on imports and {{13}} to regional developments.",
+          "cn": "一架联合国飞机在将胡塞武装代表团从约旦运送到也门萨那机场后出现在机场，摄于2026年5月21日。联合国也门问题特使汉斯·格伦德贝格周二敦促也门冲突相关各方抓住伊朗与美国达成协议后地区局势缓和所创造的机会，重启停滞的政治进程。格伦德贝格在向联合国安理会通报情况时表示，他希望地区事态发展能为也门取得进展创造动力，并承诺继续与各方接触以推进政治努力。格伦德贝格说：“我希望这项协议能成为该地区的转折点，我将与各方合作，鼓励他们抓住这一时机在也门问题上取得进展。”他表示，近期美国、以色列和伊朗之间的冲突迄今为止对也门境内产生的军事影响有限，自2022年停火以来建立的相对平静局面基本得以维持。然而，他警告说，由于也门严重依赖进口且靠近地区事态发展，地区紧张局势给也门增加了经济压力。"
+        },
+        {
+          "en": "Grundberg said his office recently held two separate meetings under the {{14}} of the Military Coordination Committee (MCC) – one involving military representatives from the Saudi-led Joint Forces Command and Yemen's Houthi rebels, and another involving the Joint Forces Command and the Yemeni government. The meetings enabled discussions on security priorities, de-escalation measures and improving communication channels. Based on commitments from all sides, the UN plans to convene a {{15}} MCC meeting in the near future, he said. Grundberg added that his office has also continued consultations and preparatory work on economic issues that will ultimately need to be addressed through negotiations. He said these efforts are aimed at building confidence and paving the way for an inclusive political process to end the conflict, noting that despite negotiations on other issues, the parties have not held face-to-face political talks for years. Warning that continued deadlock risks further instability inside Yemen and across the region, Grundberg called on the parties to use the current period of regional de-escalation to advance a sustainable political settlement, adding that the United Nations remains committed to supporting the process and the Yemeni people.",
+          "cn": "格伦德贝格表示，他的办公室最近在军事协调委员会框架下举行了两次单独会议——一次涉及沙特领导的联合部队司令部和也门胡塞武装的军事代表，另一次涉及联合部队司令部和也门政府。这些会议使得各方能够讨论安全优先事项、缓和措施以及改善沟通渠道。他说，基于各方的承诺，联合国计划在不久的将来召开一次三方军事协调委员会会议。格伦德贝格补充说，他的办公室还继续就最终需要通过谈判解决的经济问题进行磋商和准备工作。他表示，这些努力旨在建立信任，并为结束冲突的包容性政治进程铺平道路，并指出尽管在其他问题上进行了谈判，但各方多年来未举行面对面的政治会谈。格伦德贝格警告说，持续的僵局有可能加剧也门境内及整个地区的不稳定，他呼吁各方利用当前地区局势缓和时期推进可持续的政治解决方案，并补充说联合国仍然致力于支持这一进程和也门人民。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "urged",
+          "hint": "v. 敦促",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "seize",
+          "hint": "v. 抓住",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "de-escalation",
+          "hint": "n. 缓和",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "stalled",
+          "hint": "adj. 停滞的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "momentum",
+          "hint": "n. 动力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "pledged",
+          "hint": "v. 承诺",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "turning",
+          "hint": "n. 转折",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "military",
+          "hint": "adj. 军事的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "truce",
+          "hint": "n. 停火",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "tensions",
+          "hint": "n. 紧张局势",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "reliance",
+          "hint": "n. 依赖",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "proximity",
+          "hint": "n. 靠近",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "framework",
+          "hint": "n. 框架",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "trilateral",
+          "hint": "adj. 三方的",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "A UN aircraft is seen at Sana'a airport after transporting a Houthi delegation from Jordan to Sana'a, Yemen, May 21, 2026. \nUN Special Envoy for Yemen Hans Grundberg on Tuesday urged relevant parties of the Yemeni conflict to seize the opportunity created by regional de-escalation following the Iran-US deal and revive the stalled political process.\nBriefing the UN Security Council, Grundberg said he hoped the regional developments could create momentum for progress in Yemen and pledged to continue engaging the parties to advance political efforts.\n\"I hope this deal marks a turning point for the region, and I will be working with the parties to encourage them to seize this moment to make progress on Yemen,\" Grundberg said.\nHe said the recent US-Israeli-Iran conflict has so far had limited military impact inside Yemen, where the relative calm established since the 2022 truce has largely held. However, he warned that regional tensions have added economic pressure to Yemen due to its heavy reliance on imports and proximity to regional developments.\nGrundberg said his office recently held two separate meetings under the framework of the Military Coordination Committee (MCC) – one involving military representatives from the Saudi-led Joint Forces Command and Yemen's Houthi rebels, and another involving the Joint Forces Command and the Yemeni government.\nThe meetings enabled discussions on security priorities, de-escalation measures and improving communication channels. Based on commitments from all sides, the UN plans to convene a trilateral MCC meeting in the near future, he said.\nGrundberg added that his office has also continued consultations and preparatory work on economic issues that will ultimately need to be addressed through negotiations.\nHe said these efforts are aimed at building confidence and paving the way for an inclusive political process to end the conflict, noting that despite negotiations on other issues, the parties have not held face-to-face political talks for years.\nWarning that continued deadlock risks further instability inside Yemen and across the region, Grundberg called on the parties to use the current period of regional de-escalation to advance a sustainable political settlement, adding that the United Nations remains committed to supporting the process and the Yemeni people.",
+      "fullTextCn": "一架联合国飞机在将胡塞武装代表团从约旦运送到也门萨那机场后出现在机场，摄于2026年5月21日。联合国也门问题特使汉斯·格伦德贝格周二敦促也门冲突相关各方抓住伊朗与美国达成协议后地区局势缓和所创造的机会，重启停滞的政治进程。格伦德贝格在向联合国安理会通报情况时表示，他希望地区事态发展能为也门取得进展创造动力，并承诺继续与各方接触以推进政治努力。格伦德贝格说：“我希望这项协议能成为该地区的转折点，我将与各方合作，鼓励他们抓住这一时机在也门问题上取得进展。”他表示，近期美国、以色列和伊朗之间的冲突迄今为止对也门境内产生的军事影响有限，自2022年停火以来建立的相对平静局面基本得以维持。然而，他警告说，由于也门严重依赖进口且靠近地区事态发展，地区紧张局势给也门增加了经济压力。\n\n格伦德贝格表示，他的办公室最近在军事协调委员会框架下举行了两次单独会议——一次涉及沙特领导的联合部队司令部和也门胡塞武装的军事代表，另一次涉及联合部队司令部和也门政府。这些会议使得各方能够讨论安全优先事项、缓和措施以及改善沟通渠道。他说，基于各方的承诺，联合国计划在不久的将来召开一次三方军事协调委员会会议。格伦德贝格补充说，他的办公室还继续就最终需要通过谈判解决的经济问题进行磋商和准备工作。他表示，这些努力旨在建立信任，并为结束冲突的包容性政治进程铺平道路，并指出尽管在其他问题上进行了谈判，但各方多年来未举行面对面的政治会谈。格伦德贝格警告说，持续的僵局有可能加剧也门境内及整个地区的不稳定，他呼吁各方利用当前地区局势缓和时期推进可持续的政治解决方案，并补充说联合国仍然致力于支持这一进程和也门人民。"
+    },
+    {
+      "id": 4,
+      "category": "military",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/news/politics/2026-06-20/detail-ihffptmh9489913.shtml",
+      "title": "Pakistan reaffirms commitment to SCO, highlights role in regional connectivity, development",
+      "titleCn": "巴基斯坦重申对上合组织的承诺，强调其在区域互联互通与发展中的作用",
+      "summary": "ISLAMABAD, June 15--Pakistans Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Monday reaffirmed the countrys commitment to the Shanghai Cooperation Organization.",
+      "summaryCn": "巴基斯坦副总理兼外长达尔重申对上合组织的承诺，强调其在促进区域合作、安全与发展中的关键作用，并宣布将担任2027年上合组织峰会主席国。",
+      "wordCount": 304,
+      "paragraphs": [
+        {
+          "en": "Pakistan's Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Monday {{0}} the country's {{1}} to the Shanghai Cooperation Organization (SCO), describing it as a {{2}} {{3}} for {{4}} regional cooperation, peace, security and economic development. In a message marking the 25th anniversary of the SCO, Dar congratulated the organization and its member states, noting that the organization has grown into an influential forum for regional {{5}} since its establishment in 2001. \"The {{6}} of the 25th anniversary confirms the {{7}} power of the 'Shanghai Spirit,' which continues to guide us through {{8}} trust, equality, respect for cultural {{9}}, shared development and {{10}} engagement,\" Dar said. The foreign minister noted that Pakistan's {{11}} from an SCO observer to a full member in 2017 reflects its strong commitment to {{12}} and regional cooperation. Pakistan remains firmly committed to the principles and objectives of the SCO Charter and appreciates the organization's emphasis on international law, mutual respect and good-neighborly relations, added the minister.",
+          "cn": "巴基斯坦副总理兼外交部长穆罕默德·伊沙克·达尔周一重申了该国对上海合作组织的承诺，称其为促进区域合作、和平、安全与经济发展的重要平台。在纪念上合组织成立25周年的致辞中，达尔向该组织及其成员国表示祝贺，指出该组织自2001年成立以来已发展成为区域合作的重要论坛。达尔表示：“25周年里程碑印证了‘上海精神’的持久力量，它继续以互信、平等、尊重文化多样性、共同发展和建设性接触指引我们。”外长指出，巴基斯坦从2017年由上合组织观察员国晋升为正式成员国，体现了其对多边主义和区域合作的坚定承诺。巴基斯坦仍坚定致力于《上合组织宪章》的原则和目标，并赞赏该组织对国际法、相互尊重和友好睦邻关系的重视，外长补充道。"
+        },
+        {
+          "en": "The foreign minister added that Islamabad would continue pursuing a {{13}} and action-oriented agenda focused on expanding economic cooperation, strengthening regional connectivity and deepening people-to-people exchanges among SCO member states. Highlighting the organization's contribution to regional stability, Dar praised the SCO's role in fostering peace and security, stressing that Pakistan values its collaborative efforts to {{14}} terrorism, separatism and extremism. Beyond security cooperation, the foreign minister welcomed the SCO's initiatives in economic development, digital innovation, energy security and the promotion of national currencies in mutual transactions. According to the foreign minister, Pakistan stands ready to contribute to greater regional cooperation in trade, investment, food security, climate {{15}}, public health, education and sustainable development. Dar also said Pakistan is looking forward to assuming the chairmanship of the SCO Council of Heads of State later this year and hosting the SCO Summit in 2027.",
+          "cn": "外长补充说，伊斯兰堡将继续推行前瞻性和以行动为导向的议程，重点扩大经济合作、加强区域互联互通并深化上合组织成员国间的人文交流。在强调该组织对区域稳定的贡献时，达尔赞扬了上合组织在促进和平与安全方面的作用，并强调巴基斯坦重视其打击恐怖主义、分裂主义和极端主义的合作努力。除安全合作外，外长对上合组织在经济创新、数字创新、能源安全以及推动本币在相互交易中使用等方面的举措表示欢迎。据外长称，巴基斯坦已准备好为贸易、投资、粮食安全、气候韧性、公共卫生、教育和可持续发展等领域的更大区域合作做出贡献。达尔还表示，巴基斯坦期待今年晚些时候担任上合组织国家元首理事会主席国，并于2027年主办上合组织峰会。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "reaffirmed",
+          "hint": "v. 重申",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "commitment",
+          "hint": "n. 承诺",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "vital",
+          "hint": "adj. 至关重要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "platform",
+          "hint": "n. 平台",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "promoting",
+          "hint": "v. 促进",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "collaboration",
+          "hint": "n. 合作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "milestone",
+          "hint": "n. 里程碑",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "enduring",
+          "hint": "adj. 持久的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "mutual",
+          "hint": "adj. 相互的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "diversity",
+          "hint": "n. 多样性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "constructive",
+          "hint": "adj. 建设性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "progression",
+          "hint": "n. 进展",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "multilateralism",
+          "hint": "n. 多边主义",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "forward-looking",
+          "hint": "adj. 前瞻性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "combat",
+          "hint": "v. 打击",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "resilience",
+          "hint": "n. 韧性",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Pakistan's Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar on Monday reaffirmed the country's commitment to the Shanghai Cooperation Organization (SCO), describing it as a vital platform for promoting regional cooperation, peace, security and economic development.\nIn a message marking the 25th anniversary of the SCO, Dar congratulated the organization and its member states, noting that the organization has grown into an influential forum for regional collaboration since its establishment in 2001.\n\"The milestone of the 25th anniversary confirms the enduring power of the 'Shanghai Spirit,' which continues to guide us through mutual trust, equality, respect for cultural diversity, shared development and constructive engagement,\" Dar said.\nThe foreign minister noted that Pakistan's progression from an SCO observer to a full member in 2017 reflects its strong commitment to multilateralism and regional cooperation.\nPakistan remains firmly committed to the principles and objectives of the SCO Charter and appreciates the organization's emphasis on international law, mutual respect and good-neighborly relations, added the minister.\nThe foreign minister added that Islamabad would continue pursuing a forward-looking and action-oriented agenda focused on expanding economic cooperation, strengthening regional connectivity and deepening people-to-people exchanges among SCO member states.\nHighlighting the organization's contribution to regional stability, Dar praised the SCO's role in fostering peace and security, stressing that Pakistan values its collaborative efforts to combat terrorism, separatism and extremism.\nBeyond security cooperation, the foreign minister welcomed the SCO's initiatives in economic development, digital innovation, energy security and the promotion of national currencies in mutual transactions.\nAccording to the foreign minister, Pakistan stands ready to contribute to greater regional cooperation in trade, investment, food security, climate resilience, public health, education and sustainable development.\nDar also said Pakistan is looking forward to assuming the chairmanship of the SCO Council of Heads of State later this year and hosting the SCO Summit in 2027.",
+      "fullTextCn": "巴基斯坦副总理兼外交部长穆罕默德·伊沙克·达尔周一重申了该国对上海合作组织的承诺，称其为促进区域合作、和平、安全与经济发展的重要平台。在纪念上合组织成立25周年的致辞中，达尔向该组织及其成员国表示祝贺，指出该组织自2001年成立以来已发展成为区域合作的重要论坛。达尔表示：“25周年里程碑印证了‘上海精神’的持久力量，它继续以互信、平等、尊重文化多样性、共同发展和建设性接触指引我们。”外长指出，巴基斯坦从2017年由上合组织观察员国晋升为正式成员国，体现了其对多边主义和区域合作的坚定承诺。巴基斯坦仍坚定致力于《上合组织宪章》的原则和目标，并赞赏该组织对国际法、相互尊重和友好睦邻关系的重视，外长补充道。\n\n外长补充说，伊斯兰堡将继续推行前瞻性和以行动为导向的议程，重点扩大经济合作、加强区域互联互通并深化上合组织成员国间的人文交流。在强调该组织对区域稳定的贡献时，达尔赞扬了上合组织在促进和平与安全方面的作用，并强调巴基斯坦重视其打击恐怖主义、分裂主义和极端主义的合作努力。除安全合作外，外长对上合组织在经济创新、数字创新、能源安全以及推动本币在相互交易中使用等方面的举措表示欢迎。据外长称，巴基斯坦已准备好为贸易、投资、粮食安全、气候韧性、公共卫生、教育和可持续发展等领域的更大区域合作做出贡献。达尔还表示，巴基斯坦期待今年晚些时候担任上合组织国家元首理事会主席国，并于2027年主办上合组织峰会。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-06-18/South-China-responds-to-flooding-as-torrential-rains-continue-1O4W3mgpPGg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "South China responds to flooding as torrential rains continue",
+      "titleCn": "华南地区持续暴雨引发洪涝，各地积极应对",
+      "summary": "South China responds to flooding as torrential rains continue",
+      "summaryCn": "华南多省持续暴雨导致城市内涝、海水倒灌和山体滑坡，当地政府启动应急响应并展开救援。",
+      "wordCount": 307,
+      "paragraphs": [
+        {
+          "en": "Floodwater is {{0}} from Huangniupu Reservoir following {{1}} upstream rainfall in Dongguan, Guangdong Province, south China, June 17, 2026. Heavy rainfall continues to affect parts of southern China in recent days, with provincial regions hit by {{2}} downpours on Wednesday. Local authorities launched {{3}} response measures, carrying out {{4}} operations and efforts to {{5}} residents' daily lives. Urban areas are flooded in Guigang, Guangxi Zhuang Autonomous Region, south China, June 17, 2026. /China Media Group\nIn Guigang, Guangxi Zhuang Autonomous Region, days of heavy rainfall caused {{6}} urban flooding, with rivers {{7}} and {{8}} systems operating at full capacity.",
+          "cn": "2026年6月17日，中国南方广东省东莞市黄牛埔水库因上游持续降雨而开闸泄洪。近日，强降雨持续影响华南部分地区，周三多个省份遭遇暴雨袭击。当地政府启动应急响应措施，开展救援行动，努力保障居民日常生活。2026年6月17日，中国南方广西壮族自治区贵港市城区出现内涝。/中央广播电视总台\n在广西壮族自治区贵港市，连日强降雨导致大范围城市内涝，河流水位上涨，排水系统满负荷运行。"
+        },
+        {
+          "en": "Emergency {{9}} carried out drainage and rescue work, while firefighters {{10}} high-capacity pumps in affected neighborhoods where more than 100 households were {{11}}. Rescue operations are underway in Beihai, Guangxi Zhuang Autonomous Region, south China, June 17, 2026. /China Media Group\nIn Beihai, Guangxi, {{12}} high tides combined with continuous rainfall caused seawater {{13}} and flooding on some low-lying coastal roads. Water levels at several monitoring stations exceeded warning {{14}}, prompting authorities to issue alerts and {{15}} traffic. Floodwaters gradually {{16}} as rescue and recovery efforts continue in Lufeng, Guangdong Province, south China, June 17, 2026.",
+          "cn": "应急人员开展排水和救援工作，消防员在受影响社区部署大功率水泵，超过100户居民受到影响。2026年6月17日，中国南方广西壮族自治区北海市正在开展救援行动。/中央广播电视总台\n在广西北海，天文大潮与持续降雨叠加，导致部分低洼沿海道路出现海水倒灌和洪涝。多个监测站水位超过警戒线，促使当局发布警报并疏导交通。2026年6月17日，中国南方广东省陆丰市，洪水逐渐退去，救援和恢复工作仍在继续。"
+        },
+        {
+          "en": "/China Media Group\nIn Lufeng, Guangdong Province, floodwaters triggered by days of intense rainfall have gradually receded. Authorities are continuing drainage, cleanup, {{17}} supply {{18}} and {{19}}-prevention measures. As of 6 p.m. on Wednesday, authorities had set up 21 temporary {{20}} in Jiaxi Town, Lufeng, and {{21}} 496 residents. A {{22}} occurs along a provincial highway in Ningde, Fujian Province, southeast China, June 17, 2026.",
+          "cn": "/中央广播电视总台\n在广东省陆丰市，连日强降雨引发的洪水已逐渐退去。当局继续开展排水、清淤、救灾物资分发和防疫措施。截至周三下午6时，陆丰市甲西镇已设立21个临时安置点，转移安置居民496人。2026年6月17日，中国东南部福建省宁德市一条省道发生山体滑坡。"
+        },
+        {
+          "en": "/China Media Group\nIn Ningde, Fujian Province, persistent rainfall saturated the soil and triggered a landslide on a section of Provincial Highway 207 on Wednesday, temporarily disrupting traffic. After more than five hours of emergency clearance work, the road was reopened to two-way traffic later that day.",
+          "cn": "/中央广播电视总台\n在福建省宁德市，持续降雨导致土壤饱和，周三在207省道一段引发山体滑坡，交通一度中断。经过五个多小时的紧急抢通，该路段于当天晚些时候恢复双向通行。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "discharged",
+          "hint": "v. 排放",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "persistent",
+          "hint": "adj. 持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "torrential",
+          "hint": "adj. 倾盆的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "emergency",
+          "hint": "n. 紧急情况",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "rescue",
+          "hint": "n. 救援",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "safeguard",
+          "hint": "v. 保护",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "widespread",
+          "hint": "adj. 广泛的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "swelling",
+          "hint": "v. 上涨",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "drainage",
+          "hint": "n. 排水系统",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "crews",
+          "hint": "n. 工作人员",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "deployed",
+          "hint": "v. 部署",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "impacted",
+          "hint": "v. 影响",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "astronomical",
+          "hint": "adj. 天文的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "inundation",
+          "hint": "n. 淹没",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "thresholds",
+          "hint": "n. 阈值",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "redirect",
+          "hint": "v. 疏导",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "recede",
+          "hint": "v. 退去",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "relief",
+          "hint": "n. 救济",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "distribution",
+          "hint": "n. 分发",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "epidemic",
+          "hint": "n. 流行病",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "shelters",
+          "hint": "n. 避难所",
+          "difficulty": "easy"
+        },
+        {
+          "id": 21,
+          "answer": "relocated",
+          "hint": "v. 转移",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "landslide",
+          "hint": "n. 山体滑坡",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Floodwater is discharged from Huangniupu Reservoir following persistent upstream rainfall in Dongguan, Guangdong Province, south China, June 17, 2026. \nHeavy rainfall continues to affect parts of southern China in recent days, with provincial regions hit by torrential downpours on Wednesday. Local authorities launched emergency response measures, carrying out rescue operations and efforts to safeguard residents' daily lives.\nUrban areas are flooded in Guigang, Guangxi Zhuang Autonomous Region, south China, June 17, 2026. /China Media Group\nIn Guigang, Guangxi Zhuang Autonomous Region, days of heavy rainfall caused widespread urban flooding, with rivers swelling and drainage systems operating at full capacity.\nEmergency crews carried out drainage and rescue work, while firefighters deployed high-capacity pumps in affected neighborhoods where more than 100 households were impacted.\nRescue operations are underway in Beihai, Guangxi Zhuang Autonomous Region, south China, June 17, 2026. /China Media Group\nIn Beihai, Guangxi, astronomical high tides combined with continuous rainfall caused seawater inundation and flooding on some low-lying coastal roads.\nWater levels at several monitoring stations exceeded warning thresholds, prompting authorities to issue alerts and redirect traffic.\nFloodwaters gradually recede as rescue and recovery efforts continue in Lufeng, Guangdong Province, south China, June 17, 2026. /China Media Group\nIn Lufeng, Guangdong Province, floodwaters triggered by days of intense rainfall have gradually receded. Authorities are continuing drainage, cleanup, relief supply distribution and epidemic-prevention measures.\nAs of 6 p.m. on Wednesday, authorities had set up 21 temporary shelters in Jiaxi Town, Lufeng, and relocated 496 residents.\nA landslide occurs along a provincial highway in Ningde, Fujian Province, southeast China, June 17, 2026. /China Media Group\nIn Ningde, Fujian Province, persistent rainfall saturated the soil and triggered a landslide on a section of Provincial Highway 207 on Wednesday, temporarily disrupting traffic. After more than five hours of emergency clearance work, the road was reopened to two-way traffic later that day.",
+      "fullTextCn": "2026年6月17日，中国南方广东省东莞市黄牛埔水库因上游持续降雨而开闸泄洪。近日，强降雨持续影响华南部分地区，周三多个省份遭遇暴雨袭击。当地政府启动应急响应措施，开展救援行动，努力保障居民日常生活。2026年6月17日，中国南方广西壮族自治区贵港市城区出现内涝。/中央广播电视总台\n在广西壮族自治区贵港市，连日强降雨导致大范围城市内涝，河流水位上涨，排水系统满负荷运行。\n\n应急人员开展排水和救援工作，消防员在受影响社区部署大功率水泵，超过100户居民受到影响。2026年6月17日，中国南方广西壮族自治区北海市正在开展救援行动。/中央广播电视总台\n在广西北海，天文大潮与持续降雨叠加，导致部分低洼沿海道路出现海水倒灌和洪涝。多个监测站水位超过警戒线，促使当局发布警报并疏导交通。2026年6月17日，中国南方广东省陆丰市，洪水逐渐退去，救援和恢复工作仍在继续。\n\n/中央广播电视总台\n在广东省陆丰市，连日强降雨引发的洪水已逐渐退去。当局继续开展排水、清淤、救灾物资分发和防疫措施。截至周三下午6时，陆丰市甲西镇已设立21个临时安置点，转移安置居民496人。2026年6月17日，中国东南部福建省宁德市一条省道发生山体滑坡。\n\n/中央广播电视总台\n在福建省宁德市，持续降雨导致土壤饱和，周三在207省道一段引发山体滑坡，交通一度中断。经过五个多小时的紧急抢通，该路段于当天晚些时候恢复双向通行。"
+    }
+  ]
+}

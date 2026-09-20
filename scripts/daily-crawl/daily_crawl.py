@@ -7,8 +7,10 @@ Flow:
   3. LLM classifies articles into 5 categories
   4. Pick best article per category
   5. LLM translates + generates cloze blanks for each
-  6. edge-tts generates MP3 audio
-  7. Output public/data/daily-practice/data.json + article-N.mp3
+  6. Write public/data/daily-practice/YYYY-MM-DD.json and refresh index.json
+
+Audio is synthesised in the browser (speechSynthesis), so nothing is stored.
+Past days are kept — the calendar view lazy-loads them one at a time.
 """
 
 import asyncio
@@ -591,7 +593,7 @@ async def main():
 
     repo_root = Path(__file__).resolve().parent.parent.parent
     output_dir = repo_root / OUTPUT_DIR
-    _clear_dir(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
 
     client = build_client()
 
@@ -675,23 +677,26 @@ async def main():
         sys.exit(1)
 
     # ---- Step 6: Write output ----
+    # One file per day so the archive stays lazily loadable — opening a past
+    # day must not pull down every day before it. index.json is the manifest
+    # the calendar reads to find out which days exist.
     data = {"date": today, "articles": output_articles}
-    data_path = output_dir / "data.json"
+    data_path = output_dir / f"{today}.json"
     with open(data_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+    index_path = output_dir / "index.json"
+    dates: set[str] = set()
+    if index_path.exists():
+        with open(index_path, encoding="utf-8") as f:
+            dates = set(json.load(f).get("dates", []))
+    dates.add(today)
+    with open(index_path, "w", encoding="utf-8") as f:
+        json.dump({"dates": sorted(dates)}, f, ensure_ascii=False, indent=2)
+
     print(f"\n{'=' * 60}")
-    print(f"DONE: {len(output_articles)} articles → {output_dir}")
-    files = [f.name for f in sorted(output_dir.iterdir())]
-    print(f"  Files: {files}")
-
-
-def _clear_dir(path: Path) -> None:
-    if path.exists():
-        for f in path.iterdir():
-            if f.is_file():
-                f.unlink()
-    path.mkdir(parents=True, exist_ok=True)
+    print(f"DONE: {len(output_articles)} articles → {data_path.name}")
+    print(f"  Archive now holds {len(dates)} days")
 
 
 def _first_sentence(text: str) -> str:
