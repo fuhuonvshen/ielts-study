@@ -25,10 +25,10 @@ export function AnnouncementModal({ onClose }: AnnouncementModalProps) {
         <h2 className="text-lg font-semibold tracking-tight">写在前面</h2>
 
         <div className="mt-4 space-y-3 text-sm leading-relaxed text-gray-600">
-          <p>这个小站最初是做给女朋友备考雅思用的。后来我们分开了，它也就被搁置了很久，一直没再打理。</p>
-          <p>今天偶然打开仓库，发现已经有 7 个 star 了 —— 原来除了她，还有人在用。</p>
-          <p>所以我加了这个反馈入口。你需要什么功能、哪里不好用，都可以写给我。我看到就会去做。</p>
-          <p>谢谢你还在用。</p>
+          <p>这个网站最初是做给女朋友备考雅思用的，但后来我们分开了TMT，它也就被搁置了很久，一直没再打理。</p>
+          <p>今天偶然打开仓库，发现已经有 7 个 star 了，原来还有很多小伙伴们在使用它。</p>
+          <p>所以我加了一个反馈入口。如果需要什么功能、哪里不好用，都可以写给我。我收到后就会去更新。</p>
+          <p>谢谢你还在使用，祝你留学顺利</p>
         </div>
 
         <div className="mt-6 flex items-center justify-between gap-4">
@@ -39,7 +39,7 @@ export function AnnouncementModal({ onClose }: AnnouncementModalProps) {
               onChange={(e) => setMuted(e.target.checked)}
               className="h-3.5 w-3.5 rounded border-gray-300 text-primary-500 focus:ring-primary-300"
             />
-            本周不再提醒
+            Don't remind again this week
           </label>
           <button
             onClick={() => {
@@ -48,7 +48,7 @@ export function AnnouncementModal({ onClose }: AnnouncementModalProps) {
             }}
             className="rounded-xl bg-primary-500 px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-primary-600"
           >
-            去提意见
+            feedback
           </button>
         </div>
       </div>
