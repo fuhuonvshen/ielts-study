@@ -26,7 +26,7 @@ export function WordListPage() {
   }
 
   return (
-    <div>
+    <div className="mx-auto max-w-3xl">
       <div className="mb-6 flex items-center gap-3">
         <div className="relative flex-1">
           <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" />
