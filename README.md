@@ -65,8 +65,10 @@ npm run build
 如需使用 AI 功能，在项目根目录创建 `.env` 文件：
 
 ```env
-VITE_ANTHROPIC_API_KEY=你的DeepSeek_API_Key
+VITE_AI_PROXY=你的Worker代理地址
 ```
+
+DeepSeek 的 API Key 保存在 Worker 里（Cloudflare Worker secret `DEEPSEEK_API_KEY`），不会进入前端代码。
 
 每日训练的爬虫脚本位于 `scripts/daily-crawl/`，可手动运行：
 

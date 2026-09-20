@@ -3,30 +3,14 @@ import { PERSONAS } from '@/types'
 
 const API_MODEL = 'deepseek-chat'
 
+// The DeepSeek key lives in the Worker, never in the browser bundle.
 function getApiUrl(): string {
   const proxy = import.meta.env.VITE_AI_PROXY as string | undefined
-  if (proxy) return `${proxy}/v1/chat/completions`
-  // Dev: use Vite proxy
-  return '/api/deepseek/v1/chat/completions'
+  if (!proxy) throw new Error('VITE_AI_PROXY is not configured')
+  return `${proxy}/v1/chat/completions`
 }
 
-function getApiKey(): string | undefined {
-  return import.meta.env.VITE_ANTHROPIC_API_KEY as string | undefined
-}
-
-function buildHeaders(): Record<string, string> {
-  const headers: Record<string, string> = { 'Content-Type': 'application/json' }
-  const apiKey = getApiKey()
-  if (!apiKey) return headers
-  const proxy = import.meta.env.VITE_AI_PROXY as string | undefined
-  // Worker 代理用 X-Api-Key；本地 Vite 代理用 Authorization
-  if (proxy) {
-    headers['X-Api-Key'] = apiKey
-  } else {
-    headers['Authorization'] = `Bearer ${apiKey}`
-  }
-  return headers
-}
+const JSON_HEADERS = { 'Content-Type': 'application/json' }
 
 function buildWordData(word: Word) {
   return {
@@ -55,9 +39,6 @@ export async function analyzeWord(
   word: Word,
   personaId: PersonaId
 ): Promise<AiAnalysisContent> {
-  const apiKey = getApiKey()
-  if (!apiKey) throw new Error('No API key configured')
-
   const persona = PERSONAS.find((p) => p.id === personaId)
   if (!persona) throw new Error(`Unknown persona: ${personaId}`)
 
@@ -66,7 +47,7 @@ export async function analyzeWord(
 
   const response = await fetch(url, {
     method: 'POST',
-    headers: buildHeaders(),
+    headers: JSON_HEADERS,
     body: JSON.stringify({
       model: API_MODEL,
       max_tokens: 1024,
@@ -107,14 +88,11 @@ export async function analyzeWord(
 }
 
 export async function analyzePronunciation(word: string): Promise<string> {
-  const apiKey = getApiKey()
-  if (!apiKey) throw new Error('No API key configured')
-
   const url = getApiUrl()
 
   const response = await fetch(url, {
     method: 'POST',
-    headers: buildHeaders(),
+    headers: JSON_HEADERS,
     body: JSON.stringify({
       model: API_MODEL,
       max_tokens: 512,

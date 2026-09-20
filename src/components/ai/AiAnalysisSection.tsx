@@ -33,7 +33,7 @@ export function AiAnalysisSection({ word }: AiAnalysisSectionProps) {
     setPersonaKey(id)
   }
 
-  const apiKey = import.meta.env.VITE_ANTHROPIC_API_KEY as string | undefined
+  const aiConfigured = Boolean(import.meta.env.VITE_AI_PROXY)
 
   return (
     <section className="rounded-2xl border border-gray-100 bg-white p-5">
@@ -48,16 +48,16 @@ export function AiAnalysisSection({ word }: AiAnalysisSectionProps) {
         )}
       </div>
 
-      {!apiKey && (
+      {!aiConfigured && (
         <div className="rounded-xl bg-amber-50 p-3 text-center">
           <AlertCircle className="mx-auto mb-1 h-5 w-5 text-amber-500" />
           <p className="text-sm text-amber-700">
-            Please set <code className="rounded bg-amber-100 px-1 text-xs">VITE_ANTHROPIC_API_KEY</code> in <code className="rounded bg-amber-100 px-1 text-xs">.env</code>
+            Please set <code className="rounded bg-amber-100 px-1 text-xs">VITE_AI_PROXY</code> in <code className="rounded bg-amber-100 px-1 text-xs">.env</code>
           </p>
         </div>
       )}
 
-      {apiKey && (
+      {aiConfigured && (
         <>
           <div className="mb-3">
             <PersonaSelector selected={persona} onChange={handlePersonaChange} />
