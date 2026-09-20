@@ -48,7 +48,7 @@ export function AnnouncementModal({ onClose }: AnnouncementModalProps) {
             }}
             className="rounded-xl bg-primary-500 px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-primary-600"
           >
-            feedback
+            Feedback
           </button>
         </div>
       </div>
