@@ -2,9 +2,10 @@ name: Daily News Crawl
 
 on:
   schedule:
-    # 20:05 UTC = 04:05 Beijing next day. Off the top of the hour because
-    # GitHub delays scheduled runs most at :00, when every repo fires at once.
-    - cron: '5 20 * * *'
+    # 14:05 UTC = 22:05 Beijing. Runs late enough that the day's news has
+    # all been published, so the file's date matches its contents. Off the
+    # top of the hour because GitHub delays scheduled runs most at :00.
+    - cron: '5 14 * * *'
   workflow_dispatch:        # Manual trigger
 
 permissions:
