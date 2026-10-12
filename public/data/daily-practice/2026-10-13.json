@@ -1,0 +1,716 @@
+{
+  "date": "2026-10-13",
+  "articles": [
+    {
+      "id": 1,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-10-09/US-county-sues-to-block-Trump-s-Triumphal-Arch-project-1R6aTQRk6SA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "US county sues to block Trump's Triumphal Arch project",
+      "titleCn": "美国一县起诉阻止特朗普凯旋门项目",
+      "summary": "Local authorities in Arlington County, Virginia, on Thursday sued to block construction of US President Donald Trump's planned Triumphal Arch project.",
+      "summaryCn": "弗吉尼亚州阿灵顿县起诉特朗普政府，试图阻止其在纪念环岛建造一座250英尺高的凯旋门，理由是该项目违反环境法、危害公共安全并影响交通与航空。",
+      "wordCount": 379,
+      "paragraphs": [
+        {
+          "en": "President Donald Trump holds up a model of the {{0}} triumphal arch as he addresses a dinner for donors who have contributed to build the new ballroom at the White House, October 15, 2025, in Washington, DC. Local {{1}} in Arlington County, Virginia, on Thursday sued to block {{2}} of US President Donald Trump's planned Triumphal Arch project. Arlington County is located in Northern Virginia just across the Potomac River from Washington, DC. The county government filed the lawsuit in the US District Court for the Eastern District of Virginia, arguing that the Trump administration's planned 250-foot-tall arch {{3}} environmental laws and {{4}} further review. \"As {{5}}, the Arch will dwarf Paris's Arc de Triomphe and directly {{6}} the line of sight between the Lincoln Memorial and Arlington National Cemetery that was {{7}} created to {{8}} the nation's post-Civil War {{9}},\" the complaint said.",
+          "cn": "2025年10月15日，在华盛顿特区，美国总统唐纳德·特朗普在向为白宫新宴会厅建设捐款的捐赠者发表讲话时，举起拟建凯旋门的模型。弗吉尼亚州阿灵顿县地方当局周四提起诉讼，试图阻止美国总统唐纳德·特朗普计划中的凯旋门项目建设。阿灵顿县位于北弗吉尼亚，与华盛顿特区隔波托马克河相望。县政府向美国弗吉尼亚东区联邦地区法院提起诉讼，主张特朗普政府计划建造的250英尺高凯旋门违反环境法，需要进一步审查。诉状称：“按设想，这座凯旋门将令巴黎凯旋门相形见绌，并直接遮挡林肯纪念堂与阿灵顿国家公墓之间刻意营造的视线，这一视线象征着内战后国家的重新统一。”"
+        },
+        {
+          "en": "Construction of the arch on Memorial Circle will \"cause {{10}} harm\" to Arlington County and its residents, as the site lies within a busy traffic {{11}}, according to the five-person Arlington County Board. The complaint also noted that construction of the arch will \"harm public safety\" in Arlington by {{12}} {{13}} needed for emergency transport services. \"It threatens to increase noise and air pollution in Arlington by necessitating the {{14}} of certain flights into and out of Reagan National Airport,\" it continued. According to the complaint, the National Park Service failed to take a \"hard look\" at the environmental {{15}} of the arch project, as required by law. The county filed the lawsuit to {{16}} the agency's \"feverish pace\" toward construction of the arch and to ensure that the \"hard look\" {{17}} by the National Environmental Policy Act is completed before the agency commences \"{{18}} and harmful ground-disturbing activities.\"\nTrump first unveiled the administration's plan to construct the arch in October 2025, at the time hailing it as a monument to the 250th anniversary of American independence.",
+          "cn": "由五人组成的阿灵顿县委员会称，在纪念环岛建造这座凯旋门将对阿灵顿县及其居民“造成重大伤害”，因为选址位于繁忙的交通走廊内。诉状还指出，建造凯旋门将堵塞紧急运输服务所需的要道，从而“危害阿灵顿的公共安全”。诉状继续写道：“由于必须将部分进出里根国家机场的航班改道，它可能加剧阿灵顿的噪音和空气污染。”根据诉状，国家公园管理局未能依法对凯旋门项目的环境影响进行“认真审查”。该县提起诉讼，旨在阻止该机构以“狂热速度”推进凯旋门建设，并确保在该机构开始“破坏性且有害的扰动地面活动”之前，完成《国家环境政策法》所要求的“认真审查”。特朗普于2025年10月首次公布政府建造凯旋门的计划，当时将其誉为纪念美国独立250周年的纪念碑。"
+        },
+        {
+          "en": "More recently, Trump announced the arch would serve as a \"top-grade Military Complex/Triumphal Arch,\" which will store large quantities of ammunition and \"house, store, and have the rapid ability to use large numbers of drones, plus Snipers.\"\nIn early September, Interior Secretary Doug Burgum announced on social media that excavation work could begin over the next two weeks.",
+          "cn": "最近，特朗普宣布这座凯旋门将作为“顶级军事综合体/凯旋门”，用于储存大量弹药，并“容纳、储存并具备快速使用大量无人机以及狙击手的能力”。9月初，内政部长道格·伯格姆在社交媒体上宣布，挖掘工作可能在未来两周内开始。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "proposed",
+          "hint": "adj. 拟议的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "authorities",
+          "hint": "n. 当局",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "construction",
+          "hint": "n. 建设",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "violates",
+          "hint": "v. 违反",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "requires",
+          "hint": "v. 需要",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "contemplated",
+          "hint": "v. 设想",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "obstruct",
+          "hint": "v. 遮挡",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "deliberately",
+          "hint": "adv. 刻意地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "symbolize",
+          "hint": "v. 象征",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "reunification",
+          "hint": "n. 重新统一",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "significant",
+          "hint": "adj. 重大的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "corridor",
+          "hint": "n. 走廊",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "clogging",
+          "hint": "v. 堵塞",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "thoroughfares",
+          "hint": "n. 要道",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "diversion",
+          "hint": "n. 改道",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "impacts",
+          "hint": "n. 影响",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "halt",
+          "hint": "v. 阻止",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "mandated",
+          "hint": "v. 强制要求",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "disruptive",
+          "hint": "adj. 破坏性的",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "President Donald Trump holds up a model of the proposed triumphal arch as he addresses a dinner for donors who have contributed to build the new ballroom at the White House, October 15, 2025, in Washington, DC. \nLocal authorities in Arlington County, Virginia, on Thursday sued to block construction of US President Donald Trump's planned Triumphal Arch project.\nArlington County is located in Northern Virginia just across the Potomac River from Washington, DC.\nThe county government filed the lawsuit in the US District Court for the Eastern District of Virginia, arguing that the Trump administration's planned 250-foot-tall arch violates environmental laws and requires further review.\n\"As contemplated, the Arch will dwarf Paris's Arc de Triomphe and directly obstruct the line of sight between the Lincoln Memorial and Arlington National Cemetery that was deliberately created to symbolize the nation's post-Civil War reunification,\" the complaint said.\nConstruction of the arch on Memorial Circle will \"cause significant harm\" to Arlington County and its residents, as the site lies within a busy traffic corridor, according to the five-person Arlington County Board.\nThe complaint also noted that construction of the arch will \"harm public safety\" in Arlington by clogging thoroughfares needed for emergency transport services.\n\"It threatens to increase noise and air pollution in Arlington by necessitating the diversion of certain flights into and out of Reagan National Airport,\" it continued.\nAccording to the complaint, the National Park Service failed to take a \"hard look\" at the environmental impacts of the arch project, as required by law.\nThe county filed the lawsuit to halt the agency's \"feverish pace\" toward construction of the arch and to ensure that the \"hard look\" mandated by the National Environmental Policy Act is completed before the agency commences \"disruptive and harmful ground-disturbing activities.\"\nTrump first unveiled the administration's plan to construct the arch in October 2025, at the time hailing it as a monument to the 250th anniversary of American independence.\nMore recently, Trump announced the arch would serve as a \"top-grade Military Complex/Triumphal Arch,\" which will store large quantities of ammunition and \"house, store, and have the rapid ability to use large numbers of drones, plus Snipers.\"\nIn early September, Interior Secretary Doug Burgum announced on social media that excavation work could begin over the next two weeks.",
+      "fullTextCn": "2025年10月15日，在华盛顿特区，美国总统唐纳德·特朗普在向为白宫新宴会厅建设捐款的捐赠者发表讲话时，举起拟建凯旋门的模型。弗吉尼亚州阿灵顿县地方当局周四提起诉讼，试图阻止美国总统唐纳德·特朗普计划中的凯旋门项目建设。阿灵顿县位于北弗吉尼亚，与华盛顿特区隔波托马克河相望。县政府向美国弗吉尼亚东区联邦地区法院提起诉讼，主张特朗普政府计划建造的250英尺高凯旋门违反环境法，需要进一步审查。诉状称：“按设想，这座凯旋门将令巴黎凯旋门相形见绌，并直接遮挡林肯纪念堂与阿灵顿国家公墓之间刻意营造的视线，这一视线象征着内战后国家的重新统一。”\n\n由五人组成的阿灵顿县委员会称，在纪念环岛建造这座凯旋门将对阿灵顿县及其居民“造成重大伤害”，因为选址位于繁忙的交通走廊内。诉状还指出，建造凯旋门将堵塞紧急运输服务所需的要道，从而“危害阿灵顿的公共安全”。诉状继续写道：“由于必须将部分进出里根国家机场的航班改道，它可能加剧阿灵顿的噪音和空气污染。”根据诉状，国家公园管理局未能依法对凯旋门项目的环境影响进行“认真审查”。该县提起诉讼，旨在阻止该机构以“狂热速度”推进凯旋门建设，并确保在该机构开始“破坏性且有害的扰动地面活动”之前，完成《国家环境政策法》所要求的“认真审查”。特朗普于2025年10月首次公布政府建造凯旋门的计划，当时将其誉为纪念美国独立250周年的纪念碑。\n\n最近，特朗普宣布这座凯旋门将作为“顶级军事综合体/凯旋门”，用于储存大量弹药，并“容纳、储存并具备快速使用大量无人机以及狙击手的能力”。9月初，内政部长道格·伯格姆在社交媒体上宣布，挖掘工作可能在未来两周内开始。"
+    },
+    {
+      "id": 2,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-10-09/Lesotho-confirms-measles-outbreak-in-two-northern-districts-1R6HYIk12Ks/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Lesotho confirms measles outbreak in two northern districts",
+      "titleCn": "莱索托确认北部两区爆发麻疹疫情",
+      "summary": "Lesotho has confirmed a measles outbreak in its northern districts of Butha-Buthe and Leribe, with 12 confirmed and 20 suspected cases as of September 30.",
+      "summaryCn": "莱索托北部布塔-布泰和莱里贝两区确认爆发麻疹疫情，已出现12例确诊病例和20例疑似病例，卫生部门正开展接触者追踪和疫苗接种补种工作。",
+      "wordCount": 299,
+      "paragraphs": [
+        {
+          "en": "Lesotho has {{0}} a measles {{1}} in its northern districts of Butha-Buthe and Leribe, with 12 confirmed and 20 {{2}} cases as of September 30, according to health {{3}}. Mants'oanelo Monyobi, deputy principal secretary in the Ministry of Health, said in a statement that the outbreak was first {{4}} on September 23 at Dr Strong Thabo Makenete Hospital in Butha-Buthe, where four suspected cases were {{5}}. The National Reference Laboratory confirmed measles in three of the samples two days later. The {{6}} confirmed cases involved school-going children aged six to 14 from the Urban, Likila and Nqoe community councils in Butha-Buthe. By September 30, the district's {{7}} had risen to 12 confirmed and 14 suspected cases. Meanwhile, the {{8}} Leribe district reported six suspected cases among children aged 13 to 15 in the Maputsoe Community Council. Rapid response teams in both northern districts have {{10}} contact tracing and active case finding, while health workers are providing treatment and {{11}} infection prevention and control measures.",
+          "cn": "据卫生当局称，莱索托已确认其北部布塔-布泰和莱里贝两区爆发麻疹疫情，截至9月30日已有12例确诊病例和20例疑似病例。卫生部副首席秘书曼措阿内洛·莫尼奥比在一份声明中表示，疫情于9月23日在布塔-布泰的斯特朗·塔博·马凯内特医生医院首次被发现，当时确认了4例疑似病例。国家参考实验室两天后在三份样本中确认了麻疹。最初的确诊病例涉及布塔-布泰城市、利基拉和恩科埃社区委员会的6至14岁学龄儿童。截至9月30日，该区的病例总数已升至12例确诊病例和14例疑似病例。与此同时，邻近的莱里贝区报告了马普措埃社区委员会13至15岁儿童中的6例疑似病例。两个北部地区的快速响应小组已启动接触者追踪和主动病例搜索，同时卫生工作者正在提供治疗并执行感染预防和控制措施。"
+        },
+        {
+          "en": "Monyobi noted that the health ministry is also {{12}} local vaccination {{13}} to identify {{14}} and guide {{15}} catch-up immunization campaigns. Measles is a highly {{16}} viral disease spread through {{17}} droplets. Symptoms typically appear seven to 18 days after exposure and include fever, a red rash, cough, a runny nose, and red or watery eyes. Monyobi warned that measles can lead to severe {{19}} such as pneumonia, severe diarrhea, ear infections, brain inflammation, and even death. Young children, pregnant women, and individuals suffering from {{20}} or vitamin A {{21}} are particularly {{22}}. Urging parents to keep their children's routine vaccinations up to date, Monyobi {{23}} that measles-containing vaccines are both safe and highly effective. She also advised anyone showing {{18}} to {{24}} from schools, workplaces, and public gatherings, and to seek immediate medical attention.",
+          "cn": "莫尼奥比指出，卫生部还在评估当地疫苗接种覆盖率，以找出缺口并指导有针对性的补种免疫活动。麻疹是一种通过呼吸道飞沫传播的高度传染性病毒性疾病。症状通常在接触后7至18天出现，包括发热、红色皮疹、咳嗽、流鼻涕以及眼睛发红或流泪。莫尼奥比警告说，麻疹可导致严重并发症，如肺炎、严重腹泻、耳部感染、脑部炎症，甚至死亡。幼儿、孕妇以及患有营养不良或维生素A缺乏症的人尤其易感。莫尼奥比敦促家长及时为孩子接种常规疫苗，并强调含麻疹成分的疫苗既安全又高效。她还建议任何出现症状的人远离学校、工作场所和公共集会进行隔离，并立即就医。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "confirmed",
+          "hint": "v. 确认",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "outbreak",
+          "hint": "n. 爆发",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "suspected",
+          "hint": "adj. 疑似的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "authorities",
+          "hint": "n. 当局",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "detected",
+          "hint": "v. 发现，检测",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "identified",
+          "hint": "v. 确认，识别",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "initial",
+          "hint": "adj. 最初的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "tally",
+          "hint": "n. 计数，总数",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "neighboring",
+          "hint": "adj. 邻近的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "launched",
+          "hint": "v. 启动，发起",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "enforcing",
+          "hint": "v. 执行，实施",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "assessing",
+          "hint": "v. 评估",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "coverage",
+          "hint": "n. 覆盖率",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "gaps",
+          "hint": "n. 缺口，差距",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "targeted",
+          "hint": "adj. 有针对性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "contagious",
+          "hint": "adj. 传染性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "respiratory",
+          "hint": "adj. 呼吸道的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "symptoms",
+          "hint": "n. 症状",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "complications",
+          "hint": "n. 并发症",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "malnutrition",
+          "hint": "n. 营养不良",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "deficiency",
+          "hint": "n. 缺乏",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "vulnerable",
+          "hint": "adj. 易受感染的，脆弱的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "emphasized",
+          "hint": "v. 强调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "isolate",
+          "hint": "v. 隔离",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Lesotho has confirmed a measles outbreak in its northern districts of Butha-Buthe and Leribe, with 12 confirmed and 20 suspected cases as of September 30, according to health authorities.\nMants'oanelo Monyobi, deputy principal secretary in the Ministry of Health, said in a statement that the outbreak was first detected on September 23 at Dr Strong Thabo Makenete Hospital in Butha-Buthe, where four suspected cases were identified. The National Reference Laboratory confirmed measles in three of the samples two days later.\nThe initial confirmed cases involved school-going children aged six to 14 from the Urban, Likila and Nqoe community councils in Butha-Buthe. By September 30, the district's tally had risen to 12 confirmed and 14 suspected cases.\nMeanwhile, the neighboring Leribe district reported six suspected cases among children aged 13 to 15 in the Maputsoe Community Council.\nRapid response teams in both northern districts have launched contact tracing and active case finding, while health workers are providing treatment and enforcing infection prevention and control measures.\nMonyobi noted that the health ministry is also assessing local vaccination coverage to identify gaps and guide targeted catch-up immunization campaigns.\nMeasles is a highly contagious viral disease spread through respiratory droplets. Symptoms typically appear seven to 18 days after exposure and include fever, a red rash, cough, a runny nose, and red or watery eyes.\nMonyobi warned that measles can lead to severe complications such as pneumonia, severe diarrhea, ear infections, brain inflammation, and even death. Young children, pregnant women, and individuals suffering from malnutrition or vitamin A deficiency are particularly vulnerable.\nUrging parents to keep their children's routine vaccinations up to date, Monyobi emphasized that measles-containing vaccines are both safe and highly effective. She also advised anyone showing symptoms to isolate from schools, workplaces, and public gatherings, and to seek immediate medical attention.",
+      "fullTextCn": "据卫生当局称，莱索托已确认其北部布塔-布泰和莱里贝两区爆发麻疹疫情，截至9月30日已有12例确诊病例和20例疑似病例。卫生部副首席秘书曼措阿内洛·莫尼奥比在一份声明中表示，疫情于9月23日在布塔-布泰的斯特朗·塔博·马凯内特医生医院首次被发现，当时确认了4例疑似病例。国家参考实验室两天后在三份样本中确认了麻疹。最初的确诊病例涉及布塔-布泰城市、利基拉和恩科埃社区委员会的6至14岁学龄儿童。截至9月30日，该区的病例总数已升至12例确诊病例和14例疑似病例。与此同时，邻近的莱里贝区报告了马普措埃社区委员会13至15岁儿童中的6例疑似病例。两个北部地区的快速响应小组已启动接触者追踪和主动病例搜索，同时卫生工作者正在提供治疗并执行感染预防和控制措施。\n\n莫尼奥比指出，卫生部还在评估当地疫苗接种覆盖率，以找出缺口并指导有针对性的补种免疫活动。麻疹是一种通过呼吸道飞沫传播的高度传染性病毒性疾病。症状通常在接触后7至18天出现，包括发热、红色皮疹、咳嗽、流鼻涕以及眼睛发红或流泪。莫尼奥比警告说，麻疹可导致严重并发症，如肺炎、严重腹泻、耳部感染、脑部炎症，甚至死亡。幼儿、孕妇以及患有营养不良或维生素A缺乏症的人尤其易感。莫尼奥比敦促家长及时为孩子接种常规疫苗，并强调含麻疹成分的疫苗既安全又高效。她还建议任何出现症状的人远离学校、工作场所和公共集会进行隔离，并立即就医。"
+    },
+    {
+      "id": 3,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-10-11/Discover-music-and-ancient-civilizations-in-Beijing-1R9GktZXjj2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Discover music and ancient civilizations in Beijing",
+      "titleCn": "在北京探索音乐与古代文明",
+      "summary": "The Beijing Music Festival and the Capital Museum have teamed up to offer holders of Beijing Music Festival ticket stubs discounted admission to the exhibition \"Maize, Gold and Jaguar – A Grand Exhibition of Ancient Maya and Andean Civilizations,\" giving audiences an opportunity to explore different cultures through music and history.",
+      "summaryCn": "北京音乐节与首都博物馆联手推出玛雅与安第斯文明特展，持音乐节票根可享优惠，让观众通过音乐与历史探索不同文化。",
+      "wordCount": 318,
+      "paragraphs": [
+        {
+          "en": "A {{0}} head with a cosmic tree {{1}} is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. A {{2}} jaguar {{3}} with a maize cob headdress is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. A sun-{{4}} disk is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. A jaguar-shaped flag stand is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. Enjoy a cultural feast in Beijing this October! The Beijing Music Festival and the Capital Museum have teamed up to offer holders of Beijing Music Festival ticket stubs discounted admission to the exhibition Maize, Gold and Jaguar – A Grand Exhibition of Ancient Maya and Andean Civilizations, giving audiences an opportunity to explore different cultures through music and history. Replicas of a jade mask and jewelry are seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing.",
+          "cn": "在北京首都博物馆举办的“玉米、黄金与美洲豹”展览上，展出了一件头戴宇宙树头饰的砂岩头像。同样在该展览上，还展出了一件头戴玉米穗头饰的兽形美洲豹雕塑。一件太阳纹圆盘也在该展览中亮相。此外，一件美洲豹形状的旗座也在此展出。今年十月，来北京享受一场文化盛宴吧！北京音乐节与首都博物馆联手，为北京音乐节票根持有者提供“玉米、黄金与美洲豹——古代玛雅与安第斯文明大展”的优惠门票，让观众有机会通过音乐和历史探索不同的文化。在北京首都博物馆的“玉米、黄金与美洲豹”展览上，还展出了玉面具和珠宝的复制品。"
+        },
+        {
+          "en": "A {{6}} {{7}} is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. A white shell bead {{8}} is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. A copper {{9}} is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. Featuring around 800 {{10}} from more than 20 cultural {{11}} in Mexico and Peru, the exhibition offers a {{12}} into 3,000 years of Maya and Andean {{13}}. It remains open through October 18. A poster for the opening concert of the 29th Beijing Music Festival. /CMG\nRunning from October 9 to 20, the 29th Beijing Music Festival brings together {{14}} international {{15}}, {{16}} {{17}} and artists from China and abroad, with a {{18}} program including opera, {{19}} music and world music.",
+          "cn": "在北京首都博物馆的“玉米、黄金与美洲豹”展览上，展出了一件武士小雕像。一件白色贝壳珠胸饰也在该展览中展出。此外，一件铜权杖也在此亮相。该展览汇集了来自墨西哥和秘鲁20多家文化机构的约800件文物，让观众得以一窥玛雅和安第斯文明3000年的历史。展览将持续至10月18日。第29届北京音乐节开幕音乐会的海报。/CMG"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "sandstone",
+          "hint": "n. 砂岩",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "headdress",
+          "hint": "n. 头饰",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "zoomorphic",
+          "hint": "adj. 兽形的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "sculpture",
+          "hint": "n. 雕塑",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "motif",
+          "hint": "n. 图案，纹样",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "warrior",
+          "hint": "n. 武士，战士",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "figurine",
+          "hint": "n. 小雕像",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "pectoral",
+          "hint": "n. 胸饰",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "scepter",
+          "hint": "n. 权杖",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "artifacts",
+          "hint": "n. 文物，手工艺品",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "institutions",
+          "hint": "n. 机构",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "glimpse",
+          "hint": "n. 一瞥，初步了解",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "civilizations",
+          "hint": "n. 文明",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "renowned",
+          "hint": "adj. 著名的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "conductors",
+          "hint": "n. 指挥家",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "acclaimed",
+          "hint": "adj. 广受赞誉的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "orchestras",
+          "hint": "n. 管弦乐团",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "diverse",
+          "hint": "adj. 多样的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "symphonic",
+          "hint": "adj. 交响乐的",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "A sandstone head with a cosmic tree headdress is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. \nA zoomorphic jaguar sculpture with a maize cob headdress is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. \nA sun-motif disk is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. \nA jaguar-shaped flag stand is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. \nEnjoy a cultural feast in Beijing this October!\nThe Beijing Music Festival and the Capital Museum have teamed up to offer holders of Beijing Music Festival ticket stubs discounted admission to the exhibition Maize, Gold and Jaguar – A Grand Exhibition of Ancient Maya and Andean Civilizations, giving audiences an opportunity to explore different cultures through music and history.\nReplicas of a jade mask and jewelry are seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. \nA warrior figurine is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. \nA white shell bead pectoral is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. \nA copper scepter is seen on display at the \"Maize, Gold and Jaguar\" exhibition at the Capital Museum in Beijing. \nFeaturing around 800 artifacts from more than 20 cultural institutions in Mexico and Peru, the exhibition offers a glimpse into 3,000 years of Maya and Andean civilizations. It remains open through October 18.\nA poster for the opening concert of the 29th Beijing Music Festival. /CMG\nRunning from October 9 to 20, the 29th Beijing Music Festival brings together renowned international conductors, acclaimed orchestras and artists from China and abroad, with a diverse program including opera, symphonic music and world music.",
+      "fullTextCn": "在北京首都博物馆举办的“玉米、黄金与美洲豹”展览上，展出了一件头戴宇宙树头饰的砂岩头像。同样在该展览上，还展出了一件头戴玉米穗头饰的兽形美洲豹雕塑。一件太阳纹圆盘也在该展览中亮相。此外，一件美洲豹形状的旗座也在此展出。今年十月，来北京享受一场文化盛宴吧！北京音乐节与首都博物馆联手，为北京音乐节票根持有者提供“玉米、黄金与美洲豹——古代玛雅与安第斯文明大展”的优惠门票，让观众有机会通过音乐和历史探索不同的文化。在北京首都博物馆的“玉米、黄金与美洲豹”展览上，还展出了玉面具和珠宝的复制品。\n\n在北京首都博物馆的“玉米、黄金与美洲豹”展览上，展出了一件武士小雕像。一件白色贝壳珠胸饰也在该展览中展出。此外，一件铜权杖也在此亮相。该展览汇集了来自墨西哥和秘鲁20多家文化机构的约800件文物，让观众得以一窥玛雅和安第斯文明3000年的历史。展览将持续至10月18日。第29届北京音乐节开幕音乐会的海报。/CMG\n\n第29届北京音乐节于10月9日至20日举行，汇聚了国内外著名的国际指挥家、知名乐团和艺术家，节目丰富多样，包括歌剧、交响乐和世界音乐。"
+    },
+    {
+      "id": 4,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-10-09/Chinese-envoy-Japan-s-remilitarization-drive-threatens-regional-peace-1R6o6GZaYGA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Chinese envoy: Japan's remilitarization drive threatens regional peace",
+      "titleCn": "中国特使：日本重整军备威胁地区和平",
+      "summary": "Japan, with its remilitarization drive, has become a prominent factor threatening regional peace and stability, a Chinese envoy told the General Debate of the UN General Assembly Disarmament and International Security Committee (First Committee) on Thursday.",
+      "summaryCn": "中国特使在联合国大会第一委员会一般性辩论中批评日本否认侵略历史、加速重整军备并挑战战后国际秩序，呼吁国际社会敦促日本彻底放弃军国主义。",
+      "wordCount": 278,
+      "paragraphs": [
+        {
+          "en": "Japan, with its {{0}} drive, has become a {{1}} factor threatening regional peace and {{2}}, a Chinese {{3}} told the General Debate of the UN General Assembly {{4}} and International Security Committee (First Committee) on Thursday. This year marks the 80th {{5}} of the opening of the Tokyo Trial. Japan was admitted to the United Nations on the {{6}} that it would recognize the crimes of Japanese {{7}} and accept the UN Charter in its entirety. However, the current Japanese government denies Japan's history of {{8}}, {{9}} war crimes and worships war criminals of World War II. Meanwhile, it has continuously stepped up military {{10}} and {{11}} remilitarization, attempted to abandon the Three Non-Nuclear Principles, and has thus become a prominent factor threatening regional peace and stability, said Sun Xiaobo, head of the Chinese delegation to the 81st session of the UN General Assembly First Committee. \"Current Japanese high-ranking officials have openly made {{12}} remarks about discussing the possession of nuclear weapons without any taboos, which is serious {{13}} of and {{14}} on the international nuclear non-{{15}} regime,\" said Sun, who is director general of the Arms Control Department of the Chinese Foreign Ministry. Japan's proposal to delete the \"enemy state clause\" from the UN Charter is the latest example of its challenge to the post-war international order under the guise of normal country status, he said. The international community should seriously reflect on any act that {{16}} or even supports the remilitarization of Japan, urge Japan to profoundly reflect on its history of aggression, make a clean break with militarism, completely abandon its plans for remilitarization and genuinely fulfill its non-proliferation obligations under international law, said Sun.",
+          "cn": "周四，一位中国特使在联合国大会裁军与国际安全委员会（第一委员会）一般性辩论上表示，日本通过其重整军备的举动，已成为威胁地区和平与稳定的突出因素。今年是东京审判开庭80周年。日本被接纳加入联合国的前提是承认日本军国主义的罪行并全面接受《联合国宪章》。然而，现任日本政府否认日本的侵略历史，美化战争罪行，崇拜二战战犯。与此同时，它不断加快军事建设、加速重整军备，试图放弃“无核三原则”，从而成为威胁地区和平与稳定的突出因素，中国常驻联合国大会第81届会议第一委员会代表团团长孙晓波如是说。“当前日本高级官员公开肆无忌惮地发表关于讨论拥有核武器的鲁莽言论，这是对国际核不扩散体制的严重挑衅和践踏，”中国外交部军控司司长孙晓波表示。他说，日本提出从《联合国宪章》中删除“敌国条款”的提议，是其以“正常国家”地位为幌子挑战战后国际秩序的最新例证。孙晓波表示，国际社会应认真反思任何纵容甚至支持日本重整军备的行为，敦促日本深刻反省其侵略历史，与军国主义彻底决裂，完全放弃重整军备计划，并切实履行国际法规定的不扩散义务。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "remilitarization",
+          "hint": "n. 重整军备",
+          "difficulty": "hard"
+        },
+        {
+          "id": 1,
+          "answer": "prominent",
+          "hint": "adj. 突出的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "stability",
+          "hint": "n. 稳定",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "envoy",
+          "hint": "n. 特使",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "Disarmament",
+          "hint": "n. 裁军",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "anniversary",
+          "hint": "n. 周年纪念",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "premise",
+          "hint": "n. 前提",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "militarism",
+          "hint": "n. 军国主义",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "aggression",
+          "hint": "n. 侵略",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "glorifies",
+          "hint": "v. 美化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "buildup",
+          "hint": "n. 建设",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "accelerated",
+          "hint": "v. 加速",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "reckless",
+          "hint": "adj. 鲁莽的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "provocation",
+          "hint": "n. 挑衅",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "trampling",
+          "hint": "v. 践踏",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "proliferation",
+          "hint": "n. 扩散",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "condones",
+          "hint": "v. 纵容",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Japan, with its remilitarization drive, has become a prominent factor threatening regional peace and stability, a Chinese envoy told the General Debate of the UN General Assembly Disarmament and International Security Committee (First Committee) on Thursday.\nThis year marks the 80th anniversary of the opening of the Tokyo Trial. Japan was admitted to the United Nations on the premise that it would recognize the crimes of Japanese militarism and accept the UN Charter in its entirety. However, the current Japanese government denies Japan's history of aggression, glorifies war crimes and worships war criminals of World War II. Meanwhile, it has continuously stepped up military buildup and accelerated remilitarization, attempted to abandon the Three Non-Nuclear Principles, and has thus become a prominent factor threatening regional peace and stability, said Sun Xiaobo, head of the Chinese delegation to the 81st session of the UN General Assembly First Committee.\n\"Current Japanese high-ranking officials have openly made reckless remarks about discussing the possession of nuclear weapons without any taboos, which is serious provocation of and trampling on the international nuclear non-proliferation regime,\" said Sun, who is director general of the Arms Control Department of the Chinese Foreign Ministry.\nJapan's proposal to delete the \"enemy state clause\" from the UN Charter is the latest example of its challenge to the post-war international order under the guise of normal country status, he said.\nThe international community should seriously reflect on any act that condones or even supports the remilitarization of Japan, urge Japan to profoundly reflect on its history of aggression, make a clean break with militarism, completely abandon its plans for remilitarization and genuinely fulfill its non-proliferation obligations under international law, said Sun.",
+      "fullTextCn": "周四，一位中国特使在联合国大会裁军与国际安全委员会（第一委员会）一般性辩论上表示，日本通过其重整军备的举动，已成为威胁地区和平与稳定的突出因素。今年是东京审判开庭80周年。日本被接纳加入联合国的前提是承认日本军国主义的罪行并全面接受《联合国宪章》。然而，现任日本政府否认日本的侵略历史，美化战争罪行，崇拜二战战犯。与此同时，它不断加快军事建设、加速重整军备，试图放弃“无核三原则”，从而成为威胁地区和平与稳定的突出因素，中国常驻联合国大会第81届会议第一委员会代表团团长孙晓波如是说。“当前日本高级官员公开肆无忌惮地发表关于讨论拥有核武器的鲁莽言论，这是对国际核不扩散体制的严重挑衅和践踏，”中国外交部军控司司长孙晓波表示。他说，日本提出从《联合国宪章》中删除“敌国条款”的提议，是其以“正常国家”地位为幌子挑战战后国际秩序的最新例证。孙晓波表示，国际社会应认真反思任何纵容甚至支持日本重整军备的行为，敦促日本深刻反省其侵略历史，与军国主义彻底决裂，完全放弃重整军备计划，并切实履行国际法规定的不扩散义务。"
+    },
+    {
+      "id": 5,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-10-04/China-s-first-offshore-CO2-injection-platform-completed-1QXT4ns2d20/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "China's first offshore CO2 injection platform completed",
+      "titleCn": "中国首个海上二氧化碳注入平台完工",
+      "summary": "China's first offshore CO2 injection platform completed",
+      "summaryCn": "中国首个海上碳注入示范项目主体结构完工，东方1-1气田新建中心平台进入调试阶段，投运后每年可永久封存超100万吨二氧化碳，助力海上能源产业大规模减排。",
+      "wordCount": 280,
+      "paragraphs": [
+        {
+          "en": "The main structure of China's first offshore carbon injection project has been completed, with the new central platform for the Dongfang 1-1 gas field entering the {{0}} stage, October 4, 2026. /CMG\nThe main structure of China's first offshore carbon injection project has been completed, as the new central platform for the Dongfang 1-1 gas field enters the commissioning stage on Sunday. The {{1}} project is designed to {{2}} captured carbon dioxide into underground {{3}} to {{4}} natural gas production. Once operational, it will be able to {{5}} store more than 1 million tonnes of CO2 each year, supporting large-scale {{6}} reduction in China's offshore energy industry. The central platform weighs nearly 17,000 tonnes and rises more than 28 stories high, with a total deck area of over 10,000 square meters, {{7}} to nearly 22 standard basketball courts.",
+          "cn": "中国首个海上碳注入项目主体结构已完工，东方1-1气田新建中心平台于周日进入调试阶段。该示范项目旨在将捕集的二氧化碳注入地下地层以提高天然气产量。一旦投入运营，它每年将能够永久封存超过100万吨二氧化碳，支持中国海上能源产业的大规模减排。该中心平台重近17000吨，高逾28层楼，总甲板面积超过1万平方米，相当于近22个标准篮球场。"
+        },
+        {
+          "en": "The platform will capture and {{8}} CO2 produced alongside natural gas, then {{9}} and inject it back into underground formations. The process can both improve the {{10}} of hard-to-extract natural gas and permanently store CO2. The Dongfang 1-1 gas field is China's first offshore {{11}} gas field and a major offshore gas field with high CO2 content. Since production began in 2003, it has produced more than 50 billion cubic meters of natural gas. As the gas field enters the later stage of development, natural gas production has {{12}} while CO2 content has increased, providing conditions for the {{13}} of carbon injection technology.",
+          "cn": "该平台将捕集并净化与天然气一同产出的二氧化碳，然后将其压缩并回注到地下地层中。这一过程既能提高难以开采的天然气的采收率，又能永久封存二氧化碳。东方1-1气田是中国首个海上自营气田，也是一个高二氧化碳含量的重要海上气田。自2003年投产以来，它已生产超过500亿立方米天然气。随着该气田进入开发后期，天然气产量下降而二氧化碳含量上升，为碳注入技术的应用提供了条件。"
+        },
+        {
+          "en": "Once fully operational, the project will inject more than 1 million tonnes of CO2 into underground formations {{14}}, {{15}} the first large-scale offshore application of carbon injection technology in China and {{16}} the resource {{17}} of CO2 in industry.",
+          "cn": "一旦全面投入运营，该项目每年将向地下地层注入超过100万吨二氧化碳，标志着碳注入技术在中国首次实现大规模海上应用，并推动二氧化碳在工业中的资源化利用。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "commissioning",
+          "hint": "n. 调试；试运行",
+          "difficulty": "hard"
+        },
+        {
+          "id": 1,
+          "answer": "demonstration",
+          "hint": "n. 示范；演示",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "inject",
+          "hint": "v. 注入",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "formations",
+          "hint": "n. 地层；构造",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "boost",
+          "hint": "v. 提高；促进",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "permanently",
+          "hint": "adv. 永久地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "emissions",
+          "hint": "n. 排放",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "equivalent",
+          "hint": "adj. 相当于；相等的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "purify",
+          "hint": "v. 净化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "compress",
+          "hint": "v. 压缩",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "recovery",
+          "hint": "n. 采收；回收",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "self-operated",
+          "hint": "adj. 自营的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "declined",
+          "hint": "v. 下降；减少",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "application",
+          "hint": "n. 应用",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "annually",
+          "hint": "adv. 每年",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "marking",
+          "hint": "v. 标志着",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "promoting",
+          "hint": "v. 促进；推动",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "utilization",
+          "hint": "n. 利用",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "The main structure of China's first offshore carbon injection project has been completed, with the new central platform for the Dongfang 1-1 gas field entering the commissioning stage, October 4, 2026. /CMG\nThe main structure of China's first offshore carbon injection project has been completed, as the new central platform for the Dongfang 1-1 gas field enters the commissioning stage on Sunday.\nThe demonstration project is designed to inject captured carbon dioxide into underground formations to boost natural gas production. Once operational, it will be able to permanently store more than 1 million tonnes of CO2 each year, supporting large-scale emissions reduction in China's offshore energy industry.\nThe central platform weighs nearly 17,000 tonnes and rises more than 28 stories high, with a total deck area of over 10,000 square meters, equivalent to nearly 22 standard basketball courts.\nThe platform will capture and purify CO2 produced alongside natural gas, then compress and inject it back into underground formations. The process can both improve the recovery of hard-to-extract natural gas and permanently store CO2.\nThe Dongfang 1-1 gas field is China's first offshore self-operated gas field and a major offshore gas field with high CO2 content. Since production began in 2003, it has produced more than 50 billion cubic meters of natural gas.\nAs the gas field enters the later stage of development, natural gas production has declined while CO2 content has increased, providing conditions for the application of carbon injection technology.\nOnce fully operational, the project will inject more than 1 million tonnes of CO2 into underground formations annually, marking the first large-scale offshore application of carbon injection technology in China and promoting the resource utilization of CO2 in industry.",
+      "fullTextCn": "中国首个海上碳注入项目主体结构已完工，东方1-1气田新建中心平台于周日进入调试阶段。该示范项目旨在将捕集的二氧化碳注入地下地层以提高天然气产量。一旦投入运营，它每年将能够永久封存超过100万吨二氧化碳，支持中国海上能源产业的大规模减排。该中心平台重近17000吨，高逾28层楼，总甲板面积超过1万平方米，相当于近22个标准篮球场。\n\n该平台将捕集并净化与天然气一同产出的二氧化碳，然后将其压缩并回注到地下地层中。这一过程既能提高难以开采的天然气的采收率，又能永久封存二氧化碳。东方1-1气田是中国首个海上自营气田，也是一个高二氧化碳含量的重要海上气田。自2003年投产以来，它已生产超过500亿立方米天然气。随着该气田进入开发后期，天然气产量下降而二氧化碳含量上升，为碳注入技术的应用提供了条件。\n\n一旦全面投入运营，该项目每年将向地下地层注入超过100万吨二氧化碳，标志着碳注入技术在中国首次实现大规模海上应用，并推动二氧化碳在工业中的资源化利用。"
+    }
+  ]
+}
