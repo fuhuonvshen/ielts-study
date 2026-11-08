@@ -1,0 +1,784 @@
+{
+  "date": "2026-11-09",
+  "articles": [
+    {
+      "id": 1,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-03/From-robot-competitions-to-inclusive-cross-border-AI-cooperation-1RMaytL0sco/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "From robot competitions to inclusive cross‑border AI cooperation",
+      "titleCn": "从机器人竞赛到包容性跨境人工智能合作",
+      "summary": "From robot competitions to inclusive cross‑border AI cooperation",
+      "summaryCn": "文章以机器人竞赛为切入点，探讨如何通过开放合作、标准化接口和跨境人才交流，推动具身人工智能从实验室走向实际应用，并让更多国家和开发者共享创新成果。",
+      "wordCount": 1777,
+      "paragraphs": [
+        {
+          "en": "Robot Lightning sets a new world record at the second World Humanoid Robot Games, held at the National Speed Skating Oval (the Ice Ribbon) in Beijing, China, August 22, 2026. Editor's note: The APEC Economic Leaders' Meeting is set to convene in Shenzhen from November 18–19, 2026. Against growing global interest in {{0}} AI and cross‑border robotics collaboration, CGTN invited Zhou Changjiu, president of RoboCup Asia‑Pacific (RCAP) Confederation and vice‑president of the RoboCup Federation, to share his insights. As co‑founder of the RoboCup Humanoid Soccer League, he draws on decades‑long competition‑driven research experience to analyze opportunities, practical {{2}} and {{3}} pathways for {{1}} cross‑border AI cooperation across the Asia‑Pacific, ahead of the upcoming RCAP Changsha Invitational Tournament in December. The Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting will take place in Shenzhen, China, on November 18–19, 2026.",
+          "cn": "2026年8月22日，在中国北京国家速滑馆（冰丝带）举行的第二届世界人形机器人运动会上，机器人“闪电”创造了新的世界纪录。编者按：亚太经合组织（APEC）经济领导人会议定于2026年11月18日至19日在深圳召开。在全球对具身人工智能和跨境机器人合作日益关注的背景下，CGTN邀请亚太机器人世界杯（RCAP）联合会主席、机器人世界杯联合会副主席周长久分享他的见解。作为机器人世界杯人形足球联赛的联合创始人，他凭借数十年以竞赛驱动研究的经验，在即将于12月举行的RCAP长沙邀请赛之前，分析亚太地区包容性跨境人工智能合作的机遇、实际瓶颈和可行路径。亚太经合组织（APEC）经济领导人会议将于2026年11月18日至19日在中国深圳举行。"
+        },
+        {
+          "en": "As artificial intelligence (AI) reshapes technology and industry worldwide, a key question is how economies can combine their technological capabilities and industrial strengths so that more people can participate in this innovation and benefit from it. AI is moving beyond the digital realm into the physical world. Embodied AI, particularly humanoid robotics, is advancing from laboratories and competition arenas toward factories and everyday settings. But turning technological breakthroughs into practical applications, and individual innovations into international industrial collaboration, remains challenging. Since its first competition in 1997, RoboCup has spent nearly three decades advancing AI and robotics research through international competition.",
+          "cn": "随着人工智能（AI）重塑全球技术和产业，一个关键问题是各经济体如何结合各自的技术能力和产业优势，使更多人能够参与这一创新并从中受益。人工智能正从数字领域迈向物理世界。具身人工智能，尤其是人形机器人，正从实验室和竞赛场走向工厂和日常场景。但将技术突破转化为实际应用、将个体创新转化为国际产业合作，仍然充满挑战。自1997年首次举办竞赛以来，机器人世界杯已用近三十年时间通过国际竞赛推动人工智能和机器人研究。"
+        },
+        {
+          "en": "As one of the co-founders of RoboCup's Humanoid Soccer League, I have been deeply involved in developing its international competition framework and fostering cooperation between the global robotics research community and China’s robotics industry. This experience has convinced me that AI's value depends on both technical progress and the cooperation that puts it to use. Combining different countries' technological strengths and industrial resources can enable more developers to innovate and more sectors to benefit. Opportunities: Collaborative innovation from the robotics arena to global value chains\nHumanoid robot football offers a useful window into this cooperation. During play, fully {{4}} robots must perceive their surroundings, control their movements, make decisions and work together without remote control or human guidance.",
+          "cn": "作为机器人世界杯人形足球联赛的联合创始人之一，我深度参与了其国际竞赛框架的制定，并推动全球机器人研究界与中国机器人产业之间的合作。这一经历让我确信，人工智能的价值既取决于技术进步，也取决于将其付诸应用的合作。结合不同国家的技术优势和产业资源，可以让更多开发者进行创新，让更多行业受益。机遇：从机器人赛场到全球价值链的协同创新。人形机器人足球为这种合作提供了一个有用的窗口。在比赛中，完全自主的机器人必须在没有远程控制或人工引导的情况下感知周围环境、控制运动、做出决策并协同工作。"
+        },
+        {
+          "en": "Five-a-side and eleven-a-side matches extend the challenge from individual intelligence to multi-robot {{5}} and collective intelligence. In August 2026, a total of 24 international RoboCup teams from 16 countries and regions participated in the RCAP Beijing Masters, held as part of the second World Humanoid Robot Games in Beijing. Using humanoid robot platforms supplied by Chinese companies, the teams tested their AI algorithms and systems {{6}} capabilities under common competition rules. The significance went far beyond the matches. Chinese companies provided robotic hardware and engineering support, while international research teams contributed AI algorithms, software and systems integration expertise.",
+          "cn": "五人制和十一人制比赛将挑战从个体智能扩展到多机器人协调和集体智能。2026年8月，来自16个国家和地区的24支国际机器人世界杯队伍参加了RCAP北京大师赛，该赛事是第二届世界人形机器人运动会的组成部分。各队使用中国公司提供的人形机器人平台，在共同的竞赛规则下测试其人工智能算法和系统集成能力。其意义远超比赛本身。中国公司提供机器人硬件和工程支持，而国际研究团队则贡献人工智能算法、软件和系统集成专业知识。"
+        },
+        {
+          "en": "Training, testing and competition helped both sides identify technical bottlenecks, improve hardware-software integration and {{7}} development. RCAP is now extending this model from the competition field to industrial applications. The RoboCup Asia-Pacific (RCAP) Changsha Invitational Tournament 2026, scheduled for December 18–20 in Changsha, Hunan Province, will bring together teams from China, Portugal, Brazil, Thailand, Malaysia and Singapore. The tournament will feature humanoid robots developed by a major Chinese heavy-equipment manufacturer based in the host city, a company whose core businesses include construction and agricultural machinery. The company's expansion into humanoid robotics illustrates how established manufacturers can draw on engineering expertise, manufacturing capacity and real-world industrial environments to advance embodied AI.",
+          "cn": "训练、测试和竞赛帮助双方识别技术瓶颈、改进软硬件集成并加速开发。RCAP目前正将这一模式从竞赛场扩展到工业应用。2026年RCAP长沙邀请赛定于12月18日至20日在湖南省长沙市举行，将汇聚来自中国、葡萄牙、巴西、泰国、马来西亚和新加坡的队伍。赛事将使用由总部位于主办城市的一家中国大型重型装备制造商开发的人形机器人，该公司核心业务包括建筑和农业机械。该公司向人形机器人领域的拓展表明，成熟制造商如何利用工程专业知识、制造能力和真实工业环境来推进具身人工智能。"
+        },
+        {
+          "en": "Participants will use these robots for training, joint research and international competition, while exploring potential applications in industrial production and household services. The event aims to connect China's robot platforms and application environments with the global RoboCup developer community and leading industrial enterprises. By bringing competition, collaborative research and real-world testing together, it seeks to create a clearer pathway from technical experimentation to practical application. Industrial testing can also generate valuable operational data. Repeated trials can reveal how variations in lighting, object placement or workflow affect robot performance, helping researchers identify weaknesses and refine their systems.",
+          "cn": "参与者将使用这些机器人进行训练、联合研究和国际竞赛，同时探索在工业生产和家庭服务中的潜在应用。该活动旨在将中国的机器人平台和应用环境与全球机器人世界杯开发者社区及领先工业企业连接起来。通过将竞赛、合作研究和真实环境测试相结合，它力求开辟一条从技术实验到实际应用的更清晰路径。工业测试还能产生有价值的运行数据。反复试验可以揭示光照、物体摆放或工作流程的变化如何影响机器人性能，帮助研究人员发现弱点并改进系统。"
+        },
+        {
+          "en": "For these benefits to extend across borders, partners need clear agreements on data access and reuse, supported by safeguards for security, privacy and intellectual property. These arrangements can help turn access to industrial environments into shared opportunities for research and innovation. China's extensive robotics manufacturing ecosystem, efficient supply chains, rapid engineering iteration and varied applications in smart manufacturing and services offer international researchers valuable opportunities for development and {{13}}. In return, Chinese manufacturers can use the diverse AI algorithms, software solutions and technical feedback of global developers to improve their products and software ecosystems. This two-way exchange demonstrates how hardware, software, AI algorithms and application scenarios can complement one another across global robotics value chains, creating more opportunities for shared innovation.",
+          "cn": "要使这些益处跨越国界，合作伙伴需要在数据访问和再利用方面达成明确协议，并辅以安全、隐私和知识产权保障。这些安排有助于将对工业环境的访问转化为研究和创新的共同机遇。中国庞大的机器人制造生态系统、高效的供应链、快速的工程迭代以及智能制造和服务领域的多样化应用，为国际研究人员提供了宝贵的发展和验证机会。反过来，中国制造商可以利用全球开发者的多样化人工智能算法、软件解决方案和技术反馈来改进其产品和软件生态系统。这种双向交流表明，硬件、软件、人工智能算法和应用场景如何在全球机器人价值链中相互补充，创造更多共享创新的机会。"
+        },
+        {
+          "en": "Barriers: Technical capability alone does not guarantee real-world use\nDespite rapid advances in AI and robotics, moving a technology from the laboratory into everyday use remains difficult. The obstacles often lie not in the intelligence of the robot itself, but in infrastructure, device interfaces, technical standards and system {{9}}. Consider a simple task: how does a service robot take an elevator? Many robots can already navigate autonomously, recognize their surroundings and avoid obstacles. Yet in some commercial buildings in Singapore and elsewhere, elevator control systems offer no usable communication interface for third-party robots.",
+          "cn": "障碍：仅靠技术能力并不能保证实际应用。尽管人工智能和机器人技术飞速进步，但将技术从实验室推向日常使用仍然困难。障碍往往不在于机器人本身的智能，而在于基础设施、设备接口、技术标准和系统兼容性。考虑一个简单的任务：服务机器人如何乘坐电梯？许多机器人已经能够自主导航、识别周围环境并避开障碍物。然而在新加坡及其他地方的一些商业建筑中，电梯控制系统没有为第三方机器人提供可用的通信接口。"
+        },
+        {
+          "en": "A robot may be unable to call an elevator or select a floor digitally, and may instead require an add-on mechanical arm to physically press the buttons. The contrast is striking: a robot capable of sophisticated autonomous decisions can still be held back by something as basic as an elevator interface. Of course, elevators are safety-critical systems. Access to their controls must meet requirements for physical safety, cybersecurity and building management. Safe integration requires standardized interfaces, appropriate {{10}} and clear access rules.",
+          "cn": "机器人可能无法以数字方式呼叫电梯或选择楼层，反而可能需要附加机械臂来物理按下按钮。对比是鲜明的：一个能够进行复杂自主决策的机器人，仍可能被电梯接口这样基本的问题所阻碍。当然，电梯是安全关键系统。对其控制系统的访问必须满足物理安全、网络安全和建筑管理的要求。安全集成需要标准化接口、适当的认证和明确的访问规则。"
+        },
+        {
+          "en": "Singapore's national standard for data exchange between robots, elevators and automated doors is a step in this direction, though upgrading existing buildings takes time. Similar problems arise in industrial automation. Robots from different manufacturers often use different communication protocols, software architectures and control systems. An AI algorithm that performs well on one platform may need substantial software adaptation, parameter tuning and testing before it can run on another. Differences in development tools, operating environments, data-use requirements and intellectual property arrangements can further complicate international joint research and the reuse of research results.",
+          "cn": "新加坡关于机器人、电梯和自动门之间数据交换的国家标准是朝这一方向迈出的一步，但升级现有建筑需要时间。工业自动化中也出现类似问题。来自不同制造商的机器人通常使用不同的通信协议、软件架构和控制系统。在一个平台上表现良好的人工智能算法，在另一个平台上运行之前可能需要大量的软件适配、参数调整和测试。开发工具、运行环境、数据使用要求和知识产权安排方面的差异，可能进一步使国际联合研究和研究成果的再利用复杂化。"
+        },
+        {
+          "en": "Technical compatibility is only part of the challenge. A robot that performs well in a trial may still require further assessment or approval before {{14}} in another economy. Differences in certification requirements, {{11}} procedures and market access can add time and cost to joint projects. Cooperation therefore needs more than compatible hardware and software. It also depends on transparent requirements and coordination among technology providers, regulators and users.",
+          "cn": "技术兼容性只是挑战的一部分。在试验中表现良好的机器人，在另一个经济体部署之前仍可能需要进一步评估或批准。认证要求、采购程序和市场准入的差异会增加联合项目的时间和成本。因此，合作需要的不仅仅是兼容的硬件和软件。它还取决于透明的要求以及技术提供商、监管机构和用户之间的协调。"
+        },
+        {
+          "en": "These examples point to a broader lesson: technological {{12}} does not automatically translate into practical usability, let alone into benefits that are widely shared. A breakthrough in one component does not establish the maturity of an entire system, and success in a laboratory does not guarantee reliable performance in the real world. Wider adoption therefore depends not only on stronger AI algorithms, but also on {{8}}, standardized interfaces, system safety and dependable performance in real operating environments. Pathways: Making the fruits of AI innovation more accessible worldwide through open cooperation\nHow can international collaboration lower development barriers and help more countries, companies and researchers participate in AI innovation? RoboCup's nearly three decades of experience offer practical lessons.",
+          "cn": "这些例子指向一个更广泛的教训：技术先进性不会自动转化为实际可用性，更不用说转化为广泛共享的益处。一个组件的突破并不能确立整个系统的成熟度，实验室的成功也不能保证在现实世界中的可靠性能。因此，更广泛的采用不仅取决于更强的人工智能算法，还取决于互操作性、标准化接口、系统安全以及在真实运行环境中的可靠性能。路径：通过开放合作让人工智能创新成果更易惠及全球。国际合作如何降低发展壁垒，帮助更多国家、公司和研究人员参与人工智能创新？机器人世界杯近三十年的经验提供了实际教训。"
+        },
+        {
+          "en": "Even when teams from different countries work on the same task and use identical hardware, they often choose very different technical approaches. Some specialize in motion control, others in computer vision and autonomous decision-making, and still others in software architecture or multi-robot coordination. Common rules, shared testing environments and technical exchanges let teams compare, validate and improve these approaches. At international competitions, I have often witnessed teams compete fiercely on the field and then, after the final whistle, exchange AI algorithms, share experience and sometimes begin long-term research partnerships. Shared technical goals leave room for different development paths.",
+          "cn": "即使来自不同国家的团队从事相同的任务并使用相同的硬件，他们也常常选择非常不同的技术方法。有些专注于运动控制，有些专注于计算机视觉和自主决策，还有些专注于软件架构或多机器人协调。共同的规则、共享的测试环境和技术交流让团队能够比较、验证和改进这些方法。在国际比赛中，我经常目睹各队在赛场上激烈竞争，然后在终场哨响后交换人工智能算法、分享经验，有时还开始长期研究合作。共同的技术目标为不同的发展路径留下了空间。"
+        },
+        {
+          "en": "This approach is consistent with APEC's principles of voluntary cooperation and consensus. Economies should be able to exchange experience and choose technologies suited to their own needs, resources and stages of development, rather than follow a single prescribed model. Joint research and talent exchanges can support those choices, building capabilities through sustained testing and adaptation. Three practical priorities follow. First, build open and interoperable development platforms.",
+          "cn": "这种做法符合APEC自愿合作和协商一致的原则。各经济体应能够交流经验，选择适合自身需求、资源和发展阶段的技术，而不是遵循单一规定模式。联合研究和人才交流可以支持这些选择，通过持续测试和调整来建设能力。由此得出三个实际优先事项。第一，构建开放且可互操作的开发平台。"
+        },
+        {
+          "en": "Accessible software development kits, simulation tools, standardized interfaces and technical documentation can reduce integration costs and encourage the reuse of algorithms and software modules. This allows developers to spend less time on repetitive integration work and more on core technical problems. Second, make real-world applications the focus of joint R&D. Universities, research institutes and companies from different countries can work on common platforms to develop and validate solutions for smart manufacturing, logistics, public services and home assistance. China's robotics supply chains and application scenarios can complement the AI algorithms and software expertise of developers worldwide, accelerating the transition from research to deployment.",
+          "cn": "可访问的软件开发工具包、仿真工具、标准化接口和技术文档可以降低集成成本，鼓励算法和软件模块的再利用。这使开发者能够减少重复性集成工作的时间，将更多时间用于核心技术问题。第二，将实际应用作为联合研发的重点。来自不同国家的大学、研究机构和公司可以在共同平台上合作，开发和验证智能制造、物流、公共服务和家庭辅助的解决方案。中国的机器人供应链和应用场景可以补充全球开发者的人工智能算法和软件专业知识，加速从研究到部署的转化。"
+        },
+        {
+          "en": "Third, strengthen research partnerships and talent exchanges across the Asia-Pacific. Joint laboratories could pair university teams with industrial partners to test robots on shared tasks, while researcher exchanges could provide practical training in deployment and maintenance. Participants could take tested methods and engineering experience back to their institutions and adapt them to local needs. International competitions can help initiate these relationships and keep partners working toward shared technical goals. Wider access to advanced products matters.",
+          "cn": "第三，加强亚太地区的研究伙伴关系和人才交流。联合实验室可以将大学团队与产业伙伴配对，在共同任务上测试机器人，而研究人员交流可以提供部署和维护方面的实践培训。参与者可以将经过测试的方法和工程经验带回各自机构，并根据当地需求进行调整。国际竞赛可以帮助建立这些关系，并推动合作伙伴朝着共同的技术目标努力。更广泛地获取先进产品很重要。"
+        },
+        {
+          "en": "So does the capacity to develop and adapt the technology behind them. Lowering barriers to innovation enables research teams in different countries to contribute according to their strengths and build lasting research and application capabilities. Such capacity-building is a gradual, long-term process, not a one-off transfer. Innovation to deployment: Leveraging China's strengths for shared global innovation\nChina's growing strengths in robotics manufacturing, supply-chain efficiency and real-world applications are creating new opportunities for AI developers around the world. At the same time, the AI algorithms, software and application expertise of international teams are helping Chinese robotics companies improve their technologies.",
+          "cn": "开发和适配这些产品背后技术的能力同样重要。降低创新壁垒使不同国家的研究团队能够根据自身优势做出贡献，并建立持久的研究和应用能力。这种能力建设是一个渐进的长期过程，而不是一次性转移。从创新到部署：利用中国优势促进全球共享创新。中国在机器人制造、供应链效率和实际应用方面日益增强的实力，正在为全球人工智能开发者创造新机遇。与此同时，国际团队的人工智能算法、软件和应用专业知识也在帮助中国机器人公司改进其技术。"
+        },
+        {
+          "en": "Moving from innovation to large-scale deployment still requires sustained engineering work, open collaboration and talent development. RoboCup's experience shows that competition and cooperation can reinforce each other: shared challenges encourage diverse solutions, while open exchange helps knowledge and technology advance faster. Connecting China's robotics industry and real-world application environments with the creativity of developers worldwide can lower barriers to innovation, enabling more people to contribute to and benefit from advances in robotics and AI. The long-term promise of international AI cooperation lies in translating innovation in the competition arena into practical solutions for factories, services and everyday life, delivering {{15}} benefits across industries and societies.",
+          "cn": "从创新走向大规模部署仍然需要持续的工程工作、开放合作和人才培养。机器人世界杯的经验表明，竞争与合作可以相互促进：共同挑战鼓励多样化解决方案，而开放交流有助于知识和技术更快进步。将中国机器人产业和实际应用环境与全球开发者的创造力连接起来，可以降低创新壁垒，使更多人能够为机器人和人工智能的进步做出贡献并从中受益。国际人工智能合作的长期前景在于将竞赛场上的创新转化为工厂、服务和日常生活的实际解决方案，为各行业和社会带来切实利益。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "embodied",
+          "hint": "adj. 具身的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 1,
+          "answer": "inclusive",
+          "hint": "adj. 包容性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "bottlenecks",
+          "hint": "n. 瓶颈",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "viable",
+          "hint": "adj. 可行的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "autonomous",
+          "hint": "adj. 自主的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "integration",
+          "hint": "n. 集成；整合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "accelerate",
+          "hint": "v. 加速",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "interoperability",
+          "hint": "n. 互操作性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "compatibility",
+          "hint": "n. 兼容性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "certification",
+          "hint": "n. 认证",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "procurement",
+          "hint": "n. 采购",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "sophistication",
+          "hint": "n. 复杂性；先进性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "validation",
+          "hint": "n. 验证",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "deployment",
+          "hint": "n. 部署",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "tangible",
+          "hint": "adj. 切实的；有形的",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Robot Lightning sets a new world record at the second World Humanoid Robot Games, held at the National Speed Skating Oval (the Ice Ribbon) in Beijing, China, August 22, 2026. \nEditor's note: The APEC Economic Leaders' Meeting is set to convene in Shenzhen from November 18–19, 2026. Against growing global interest in embodied AI and cross‑border robotics collaboration, CGTN invited Zhou Changjiu, president of RoboCup Asia‑Pacific (RCAP) Confederation and vice‑president of the RoboCup Federation, to share his insights. As co‑founder of the RoboCup Humanoid Soccer League, he draws on decades‑long competition‑driven research experience to analyze opportunities, practical bottlenecks and viable pathways for inclusive cross‑border AI cooperation across the Asia‑Pacific, ahead of the upcoming RCAP Changsha Invitational Tournament in December.\nThe Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting will take place in Shenzhen, China, on November 18–19, 2026.\nAs artificial intelligence (AI) reshapes technology and industry worldwide, a key question is how economies can combine their technological capabilities and industrial strengths so that more people can participate in this innovation and benefit from it.\nAI is moving beyond the digital realm into the physical world. Embodied AI, particularly humanoid robotics, is advancing from laboratories and competition arenas toward factories and everyday settings.\nBut turning technological breakthroughs into practical applications, and individual innovations into international industrial collaboration, remains challenging.\nSince its first competition in 1997, RoboCup has spent nearly three decades advancing AI and robotics research through international competition.\nAs one of the co-founders of RoboCup's Humanoid Soccer League, I have been deeply involved in developing its international competition framework and fostering cooperation between the global robotics research community and China’s robotics industry.\nThis experience has convinced me that AI's value depends on both technical progress and the cooperation that puts it to use. Combining different countries' technological strengths and industrial resources can enable more developers to innovate and more sectors to benefit.\nOpportunities: Collaborative innovation from the robotics arena to global value chains\nHumanoid robot football offers a useful window into this cooperation.\nDuring play, fully autonomous robots must perceive their surroundings, control their movements, make decisions and work together without remote control or human guidance.\nFive-a-side and eleven-a-side matches extend the challenge from individual intelligence to multi-robot coordination and collective intelligence.\nIn August 2026, a total of 24 international RoboCup teams from 16 countries and regions participated in the RCAP Beijing Masters, held as part of the second World Humanoid Robot Games in Beijing.\nUsing humanoid robot platforms supplied by Chinese companies, the teams tested their AI algorithms and systems integration capabilities under common competition rules.\nThe significance went far beyond the matches. Chinese companies provided robotic hardware and engineering support, while international research teams contributed AI algorithms, software and systems integration expertise.\nTraining, testing and competition helped both sides identify technical bottlenecks, improve hardware-software integration and accelerate development.\nRCAP is now extending this model from the competition field to industrial applications. The RoboCup Asia-Pacific (RCAP) Changsha Invitational Tournament 2026, scheduled for December 18–20 in Changsha, Hunan Province, will bring together teams from China, Portugal, Brazil, Thailand, Malaysia and Singapore.\nThe tournament will feature humanoid robots developed by a major Chinese heavy-equipment manufacturer based in the host city, a company whose core businesses include construction and agricultural machinery.\nThe company's expansion into humanoid robotics illustrates how established manufacturers can draw on engineering expertise, manufacturing capacity and real-world industrial environments to advance embodied AI.\nParticipants will use these robots for training, joint research and international competition, while exploring potential applications in industrial production and household services.\nThe event aims to connect China's robot platforms and application environments with the global RoboCup developer community and leading industrial enterprises.\nBy bringing competition, collaborative research and real-world testing together, it seeks to create a clearer pathway from technical experimentation to practical application.\nIndustrial testing can also generate valuable operational data. Repeated trials can reveal how variations in lighting, object placement or workflow affect robot performance, helping researchers identify weaknesses and refine their systems.\nFor these benefits to extend across borders, partners need clear agreements on data access and reuse, supported by safeguards for security, privacy and intellectual property.\nThese arrangements can help turn access to industrial environments into shared opportunities for research and innovation.\nChina's extensive robotics manufacturing ecosystem, efficient supply chains, rapid engineering iteration and varied applications in smart manufacturing and services offer international researchers valuable opportunities for development and validation.\nIn return, Chinese manufacturers can use the diverse AI algorithms, software solutions and technical feedback of global developers to improve their products and software ecosystems.\nThis two-way exchange demonstrates how hardware, software, AI algorithms and application scenarios can complement one another across global robotics value chains, creating more opportunities for shared innovation.\nBarriers: Technical capability alone does not guarantee real-world use\nDespite rapid advances in AI and robotics, moving a technology from the laboratory into everyday use remains difficult.\nThe obstacles often lie not in the intelligence of the robot itself, but in infrastructure, device interfaces, technical standards and system compatibility.\nConsider a simple task: how does a service robot take an elevator?\nMany robots can already navigate autonomously, recognize their surroundings and avoid obstacles. Yet in some commercial buildings in Singapore and elsewhere, elevator control systems offer no usable communication interface for third-party robots.\nA robot may be unable to call an elevator or select a floor digitally, and may instead require an add-on mechanical arm to physically press the buttons.\nThe contrast is striking: a robot capable of sophisticated autonomous decisions can still be held back by something as basic as an elevator interface.\nOf course, elevators are safety-critical systems. Access to their controls must meet requirements for physical safety, cybersecurity and building management.\nSafe integration requires standardized interfaces, appropriate certification and clear access rules.\nSingapore's national standard for data exchange between robots, elevators and automated doors is a step in this direction, though upgrading existing buildings takes time.\nSimilar problems arise in industrial automation. Robots from different manufacturers often use different communication protocols, software architectures and control systems.\nAn AI algorithm that performs well on one platform may need substantial software adaptation, parameter tuning and testing before it can run on another.\nDifferences in development tools, operating environments, data-use requirements and intellectual property arrangements can further complicate international joint research and the reuse of research results.\nTechnical compatibility is only part of the challenge. A robot that performs well in a trial may still require further assessment or approval before deployment in another economy.\nDifferences in certification requirements, procurement procedures and market access can add time and cost to joint projects. Cooperation therefore needs more than compatible hardware and software.\nIt also depends on transparent requirements and coordination among technology providers, regulators and users.\nThese examples point to a broader lesson: technological sophistication does not automatically translate into practical usability, let alone into benefits that are widely shared.\nA breakthrough in one component does not establish the maturity of an entire system, and success in a laboratory does not guarantee reliable performance in the real world.\nWider adoption therefore depends not only on stronger AI algorithms, but also on interoperability, standardized interfaces, system safety and dependable performance in real operating environments.\nPathways: Making the fruits of AI innovation more accessible worldwide through open cooperation\nHow can international collaboration lower development barriers and help more countries, companies and researchers participate in AI innovation? RoboCup's nearly three decades of experience offer practical lessons.\nEven when teams from different countries work on the same task and use identical hardware, they often choose very different technical approaches.\nSome specialize in motion control, others in computer vision and autonomous decision-making, and still others in software architecture or multi-robot coordination.\nCommon rules, shared testing environments and technical exchanges let teams compare, validate and improve these approaches.\nAt international competitions, I have often witnessed teams compete fiercely on the field and then, after the final whistle, exchange AI algorithms, share experience and sometimes begin long-term research partnerships.\nShared technical goals leave room for different development paths. This approach is consistent with APEC's principles of voluntary cooperation and consensus.\nEconomies should be able to exchange experience and choose technologies suited to their own needs, resources and stages of development, rather than follow a single prescribed model.\nJoint research and talent exchanges can support those choices, building capabilities through sustained testing and adaptation.\nThree practical priorities follow.\nFirst, build open and interoperable development platforms. Accessible software development kits, simulation tools, standardized interfaces and technical documentation can reduce integration costs and encourage the reuse of algorithms and software modules.\nThis allows developers to spend less time on repetitive integration work and more on core technical problems.\nSecond, make real-world applications the focus of joint R&D. Universities, research institutes and companies from different countries can work on common platforms to develop and validate solutions for smart manufacturing, logistics, public services and home assistance.\nChina's robotics supply chains and application scenarios can complement the AI algorithms and software expertise of developers worldwide, accelerating the transition from research to deployment.\nThird, strengthen research partnerships and talent exchanges across the Asia-Pacific. Joint laboratories could pair university teams with industrial partners to test robots on shared tasks, while researcher exchanges could provide practical training in deployment and maintenance.\nParticipants could take tested methods and engineering experience back to their institutions and adapt them to local needs. International competitions can help initiate these relationships and keep partners working toward shared technical goals.\nWider access to advanced products matters. So does the capacity to develop and adapt the technology behind them.\nLowering barriers to innovation enables research teams in different countries to contribute according to their strengths and build lasting research and application capabilities.\nSuch capacity-building is a gradual, long-term process, not a one-off transfer.\nInnovation to deployment: Leveraging China's strengths for shared global innovation\nChina's growing strengths in robotics manufacturing, supply-chain efficiency and real-world applications are creating new opportunities for AI developers around the world.\nAt the same time, the AI algorithms, software and application expertise of international teams are helping Chinese robotics companies improve their technologies.\nMoving from innovation to large-scale deployment still requires sustained engineering work, open collaboration and talent development.\nRoboCup's experience shows that competition and cooperation can reinforce each other: shared challenges encourage diverse solutions, while open exchange helps knowledge and technology advance faster.\nConnecting China's robotics industry and real-world application environments with the creativity of developers worldwide can lower barriers to innovation, enabling more people to contribute to and benefit from advances in robotics and AI.\nThe long-term promise of international AI cooperation lies in translating innovation in the competition arena into practical solutions for factories, services and everyday life, delivering tangible benefits across industries and societies.",
+      "fullTextCn": "2026年8月22日，在中国北京国家速滑馆（冰丝带）举行的第二届世界人形机器人运动会上，机器人“闪电”创造了新的世界纪录。编者按：亚太经合组织（APEC）经济领导人会议定于2026年11月18日至19日在深圳召开。在全球对具身人工智能和跨境机器人合作日益关注的背景下，CGTN邀请亚太机器人世界杯（RCAP）联合会主席、机器人世界杯联合会副主席周长久分享他的见解。作为机器人世界杯人形足球联赛的联合创始人，他凭借数十年以竞赛驱动研究的经验，在即将于12月举行的RCAP长沙邀请赛之前，分析亚太地区包容性跨境人工智能合作的机遇、实际瓶颈和可行路径。亚太经合组织（APEC）经济领导人会议将于2026年11月18日至19日在中国深圳举行。\n\n随着人工智能（AI）重塑全球技术和产业，一个关键问题是各经济体如何结合各自的技术能力和产业优势，使更多人能够参与这一创新并从中受益。人工智能正从数字领域迈向物理世界。具身人工智能，尤其是人形机器人，正从实验室和竞赛场走向工厂和日常场景。但将技术突破转化为实际应用、将个体创新转化为国际产业合作，仍然充满挑战。自1997年首次举办竞赛以来，机器人世界杯已用近三十年时间通过国际竞赛推动人工智能和机器人研究。\n\n作为机器人世界杯人形足球联赛的联合创始人之一，我深度参与了其国际竞赛框架的制定，并推动全球机器人研究界与中国机器人产业之间的合作。这一经历让我确信，人工智能的价值既取决于技术进步，也取决于将其付诸应用的合作。结合不同国家的技术优势和产业资源，可以让更多开发者进行创新，让更多行业受益。机遇：从机器人赛场到全球价值链的协同创新。人形机器人足球为这种合作提供了一个有用的窗口。在比赛中，完全自主的机器人必须在没有远程控制或人工引导的情况下感知周围环境、控制运动、做出决策并协同工作。\n\n五人制和十一人制比赛将挑战从个体智能扩展到多机器人协调和集体智能。2026年8月，来自16个国家和地区的24支国际机器人世界杯队伍参加了RCAP北京大师赛，该赛事是第二届世界人形机器人运动会的组成部分。各队使用中国公司提供的人形机器人平台，在共同的竞赛规则下测试其人工智能算法和系统集成能力。其意义远超比赛本身。中国公司提供机器人硬件和工程支持，而国际研究团队则贡献人工智能算法、软件和系统集成专业知识。\n\n训练、测试和竞赛帮助双方识别技术瓶颈、改进软硬件集成并加速开发。RCAP目前正将这一模式从竞赛场扩展到工业应用。2026年RCAP长沙邀请赛定于12月18日至20日在湖南省长沙市举行，将汇聚来自中国、葡萄牙、巴西、泰国、马来西亚和新加坡的队伍。赛事将使用由总部位于主办城市的一家中国大型重型装备制造商开发的人形机器人，该公司核心业务包括建筑和农业机械。该公司向人形机器人领域的拓展表明，成熟制造商如何利用工程专业知识、制造能力和真实工业环境来推进具身人工智能。\n\n参与者将使用这些机器人进行训练、联合研究和国际竞赛，同时探索在工业生产和家庭服务中的潜在应用。该活动旨在将中国的机器人平台和应用环境与全球机器人世界杯开发者社区及领先工业企业连接起来。通过将竞赛、合作研究和真实环境测试相结合，它力求开辟一条从技术实验到实际应用的更清晰路径。工业测试还能产生有价值的运行数据。反复试验可以揭示光照、物体摆放或工作流程的变化如何影响机器人性能，帮助研究人员发现弱点并改进系统。\n\n要使这些益处跨越国界，合作伙伴需要在数据访问和再利用方面达成明确协议，并辅以安全、隐私和知识产权保障。这些安排有助于将对工业环境的访问转化为研究和创新的共同机遇。中国庞大的机器人制造生态系统、高效的供应链、快速的工程迭代以及智能制造和服务领域的多样化应用，为国际研究人员提供了宝贵的发展和验证机会。反过来，中国制造商可以利用全球开发者的多样化人工智能算法、软件解决方案和技术反馈来改进其产品和软件生态系统。这种双向交流表明，硬件、软件、人工智能算法和应用场景如何在全球机器人价值链中相互补充，创造更多共享创新的机会。\n\n障碍：仅靠技术能力并不能保证实际应用。尽管人工智能和机器人技术飞速进步，但将技术从实验室推向日常使用仍然困难。障碍往往不在于机器人本身的智能，而在于基础设施、设备接口、技术标准和系统兼容性。考虑一个简单的任务：服务机器人如何乘坐电梯？许多机器人已经能够自主导航、识别周围环境并避开障碍物。然而在新加坡及其他地方的一些商业建筑中，电梯控制系统没有为第三方机器人提供可用的通信接口。\n\n机器人可能无法以数字方式呼叫电梯或选择楼层，反而可能需要附加机械臂来物理按下按钮。对比是鲜明的：一个能够进行复杂自主决策的机器人，仍可能被电梯接口这样基本的问题所阻碍。当然，电梯是安全关键系统。对其控制系统的访问必须满足物理安全、网络安全和建筑管理的要求。安全集成需要标准化接口、适当的认证和明确的访问规则。\n\n新加坡关于机器人、电梯和自动门之间数据交换的国家标准是朝这一方向迈出的一步，但升级现有建筑需要时间。工业自动化中也出现类似问题。来自不同制造商的机器人通常使用不同的通信协议、软件架构和控制系统。在一个平台上表现良好的人工智能算法，在另一个平台上运行之前可能需要大量的软件适配、参数调整和测试。开发工具、运行环境、数据使用要求和知识产权安排方面的差异，可能进一步使国际联合研究和研究成果的再利用复杂化。\n\n技术兼容性只是挑战的一部分。在试验中表现良好的机器人，在另一个经济体部署之前仍可能需要进一步评估或批准。认证要求、采购程序和市场准入的差异会增加联合项目的时间和成本。因此，合作需要的不仅仅是兼容的硬件和软件。它还取决于透明的要求以及技术提供商、监管机构和用户之间的协调。\n\n这些例子指向一个更广泛的教训：技术先进性不会自动转化为实际可用性，更不用说转化为广泛共享的益处。一个组件的突破并不能确立整个系统的成熟度，实验室的成功也不能保证在现实世界中的可靠性能。因此，更广泛的采用不仅取决于更强的人工智能算法，还取决于互操作性、标准化接口、系统安全以及在真实运行环境中的可靠性能。路径：通过开放合作让人工智能创新成果更易惠及全球。国际合作如何降低发展壁垒，帮助更多国家、公司和研究人员参与人工智能创新？机器人世界杯近三十年的经验提供了实际教训。\n\n即使来自不同国家的团队从事相同的任务并使用相同的硬件，他们也常常选择非常不同的技术方法。有些专注于运动控制，有些专注于计算机视觉和自主决策，还有些专注于软件架构或多机器人协调。共同的规则、共享的测试环境和技术交流让团队能够比较、验证和改进这些方法。在国际比赛中，我经常目睹各队在赛场上激烈竞争，然后在终场哨响后交换人工智能算法、分享经验，有时还开始长期研究合作。共同的技术目标为不同的发展路径留下了空间。\n\n这种做法符合APEC自愿合作和协商一致的原则。各经济体应能够交流经验，选择适合自身需求、资源和发展阶段的技术，而不是遵循单一规定模式。联合研究和人才交流可以支持这些选择，通过持续测试和调整来建设能力。由此得出三个实际优先事项。第一，构建开放且可互操作的开发平台。\n\n可访问的软件开发工具包、仿真工具、标准化接口和技术文档可以降低集成成本，鼓励算法和软件模块的再利用。这使开发者能够减少重复性集成工作的时间，将更多时间用于核心技术问题。第二，将实际应用作为联合研发的重点。来自不同国家的大学、研究机构和公司可以在共同平台上合作，开发和验证智能制造、物流、公共服务和家庭辅助的解决方案。中国的机器人供应链和应用场景可以补充全球开发者的人工智能算法和软件专业知识，加速从研究到部署的转化。\n\n第三，加强亚太地区的研究伙伴关系和人才交流。联合实验室可以将大学团队与产业伙伴配对，在共同任务上测试机器人，而研究人员交流可以提供部署和维护方面的实践培训。参与者可以将经过测试的方法和工程经验带回各自机构，并根据当地需求进行调整。国际竞赛可以帮助建立这些关系，并推动合作伙伴朝着共同的技术目标努力。更广泛地获取先进产品很重要。\n\n开发和适配这些产品背后技术的能力同样重要。降低创新壁垒使不同国家的研究团队能够根据自身优势做出贡献，并建立持久的研究和应用能力。这种能力建设是一个渐进的长期过程，而不是一次性转移。从创新到部署：利用中国优势促进全球共享创新。中国在机器人制造、供应链效率和实际应用方面日益增强的实力，正在为全球人工智能开发者创造新机遇。与此同时，国际团队的人工智能算法、软件和应用专业知识也在帮助中国机器人公司改进其技术。\n\n从创新走向大规模部署仍然需要持续的工程工作、开放合作和人才培养。机器人世界杯的经验表明，竞争与合作可以相互促进：共同挑战鼓励多样化解决方案，而开放交流有助于知识和技术更快进步。将中国机器人产业和实际应用环境与全球开发者的创造力连接起来，可以降低创新壁垒，使更多人能够为机器人和人工智能的进步做出贡献并从中受益。国际人工智能合作的长期前景在于将竞赛场上的创新转化为工厂、服务和日常生活的实际解决方案，为各行业和社会带来切实利益。"
+    },
+    {
+      "id": 2,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-11-07/detail-ihfmuiku4869242.shtml",
+      "title": "(W.E. Talk) Daren Tang: What can Dunhuang's millennia-old legacy teach us about creativity in the digital and AI age?",
+      "titleCn": "东西问丨邓鸿森：敦煌千年遗产对数字与AI时代的创造力有何启示？",
+      "summary": "The 2026 International Copyright Forum, jointly organized by the National Copyright Administration of China and the World Intellectual Property Organization (WIPO), was held in Dunhuang, northwest China’s Gansu Province, from November 2 to 4.",
+      "summaryCn": "世界知识产权组织总干事邓鸿森在敦煌举行的2026国际版权论坛期间接受专访，探讨敦煌文化遗产、人工智能对版权制度的挑战，以及如何确保人类创作者始终处于知识产权体系的核心。",
+      "wordCount": 1358,
+      "paragraphs": [
+        {
+          "en": "(CNS) --The 2026 International Copyright Forum, jointly organized by the National Copyright Administration of China and the World Intellectual Property Organization (WIPO), was held in Dunhuang, northwest China's Gansu Province, from Monday to Wednesday. Under the theme “Copyright and Creative Industries in the Digital and AI Age — Protecting Cultural Heritage, Empowering Innovation and Creativity”，the forum brought together participants to discuss the opportunities and challenges that artificial intelligence presents for copyright, the protection and {{0}} of cultural {{6}}, and the development of the creative economy. For centuries, Dunhuang was one of the great meeting points of the Silk Road. Different peoples, cultures and ideas came together here, giving rise to extraordinary forms of artistic and cultural expression. Today, digital technologies and artificial intelligence are once again transforming the way culture is preserved, created and shared.",
+          "cn": "中新社敦煌电——由中国国家版权局与世界知识产权组织（WIPO）共同主办的2026国际版权论坛于周一至周三在中国西北部甘肃省敦煌市举行。论坛以“数字与人工智能时代的版权与创意产业——保护文化遗产，赋能创新与创造力”为主题，汇聚各方参与者，讨论人工智能为版权带来的机遇与挑战、文化遗产的保护与活化，以及创意经济的发展。数百年来，敦煌一直是丝绸之路上重要的交汇点之一。不同民族、文化和思想在此汇聚，催生出非凡的艺术与文化表达形式。如今，数字技术和人工智能正在再次改变文化被保存、创造和分享的方式。"
+        },
+        {
+          "en": "What can Dunhuang’s millennia-old {{1}} teach us about creativity in the digital and AI age? And how can intellectual property continue to support cultural exchange and human creativity? Daren Tang, director general of WIPO, recently sat down with China News Service’s \"East Meets West\" for an exclusive interview in Dunhuang to discuss cultural heritage, technological change and the future of human creativity. CNS: For centuries, different cultures met, {{2}} and came together in Dunhuang, giving rise to unique forms of artistic expression. In the digital and AI age, what can Dunhuang’s legacy of cultural exchange and creativity teach us about copyright and the development of the creative industries?",
+          "cn": "敦煌数千年的遗产能教给我们什么关于数字与AI时代创造力的启示？知识产权又如何继续支持文化交流与人类创造力？世界知识产权组织总干事邓鸿森近日在敦煌接受中新社“东西问”独家专访，探讨文化遗产、技术变革与人类创造力的未来。中新社：数百年来，不同文化在敦煌相遇、互动、交融，催生出独特的艺术表达形式。在数字与AI时代，敦煌文化交流与创造力的遗产能为版权和创意产业发展提供什么启示？"
+        },
+        {
+          "en": "Daren Tang: Dunhuang is a fitting place to discuss copyright, creativity and culture. For centuries, this city was one of the great meeting points of the Silk Road. People came here from China, Central Asia, Persia, Europe and beyond, bringing not just goods, but also their stories, knowledge, beliefs and ways of seeing the world. Trade created those connections, but the {{3}} went far beyond commerce. Through connection, exchange and engagement between peoples, new ideas were forged, different perspectives were combined and a unique culture was born.",
+          "cn": "邓鸿森：敦煌是讨论版权、创造力与文化的合适之地。数百年来，这座城市一直是丝绸之路上重要的交汇点之一。来自中国、中亚、波斯、欧洲乃至更远地方的人们来到这里，带来的不仅是货物，还有他们的故事、知识、信仰和看待世界的方式。贸易创造了这些联系，但其影响远远超出了商业范畴。通过人与人之间的连接、交流与互动，新思想得以锻造，不同视角得以融合，一种独特的文化由此诞生。"
+        },
+        {
+          "en": "There is an important lesson in this for us today. Cultures need exchange and engagement to remain alive and {{4}}. Copyright can help each culture preserve its identity while giving it the confidence to exchange with other cultures. This is even more important in the age of digital technology and artificial intelligence. Creators need to know that their works can be protected, that they can license their creations, receive a fair return and continue to make a living from their creativity.",
+          "cn": "这对我们今天有重要启示。文化需要交流与互动才能保持活力和生机。版权可以帮助每种文化在保持自身认同的同时，赋予其与其他文化交流的自信。在数字技术和人工智能时代，这一点更为重要。创作者需要知道他们的作品能够得到保护，他们可以授权自己的创作、获得公平回报，并继续靠创造力谋生。"
+        },
+        {
+          "en": "By supporting creators, intellectual property also helps culture to {{5}}, evolve and remain vibrant. CNS: In recent years, the Dunhuang Academy has used digital technologies to bring this ancient cultural heritage to audiences around the world. As traditional culture moves into the digital space and becomes part of the material used to train AI, how can we balance wider access and creative use with respect for rights and interests? Daren Tang: Digital Dunhuang is an excellent example of how technology can help bring culture and heritage to the world. Not everyone can come to Dunhuang and see the caves and murals for themselves.",
+          "cn": "通过支持创作者，知识产权也帮助文化得以延续、演进并保持活力。中新社：近年来，敦煌研究院利用数字技术将这一古老文化遗产带给世界各地的观众。随着传统文化进入数字空间并成为训练AI的素材，我们如何平衡更广泛的获取和创造性使用与对权益的尊重？邓鸿森：数字敦煌是技术如何帮助将文化与遗产带给世界的绝佳范例。并非每个人都能亲自来到敦煌，亲眼看到洞窟和壁画。"
+        },
+        {
+          "en": "But digital technology gives many more people, wherever they may be, the opportunity to experience and learn about Dunhuang. This is a very good example of technology serving culture and heritage. In China, we are also seeing examples of traditional culture reaching international audiences through new media. A game such as Black Myth: Wukong introduces audiences around the world to Chinese literature, history, culture and historical sites through video games. Digital technology at its best can be a bridge: a new way of connecting people and bringing Chinese culture and stories to global audiences.",
+          "cn": "但数字技术让更多身处各地的人们有机会体验和了解敦煌。这是技术服务文化与遗产的非常好的例子。在中国，我们也看到传统文化通过新媒体触达国际受众的例子。像《黑神话：悟空》这样的游戏通过电子游戏向世界各地的观众介绍中国文学、历史、文化和历史遗迹。数字技术在最佳状态下可以成为一座桥梁：一种连接人们、将中国文化和故事带给全球受众的新方式。"
+        },
+        {
+          "en": "Technology should {{7}} culture, heritage and human creators, keeping them at the center of the intellectual property system. CNS: Dunhuang’s art itself grew out of cultural exchange, interaction and constant reinvention. Today, AI is transforming the way content is created, while China’s online literature, games, film, television and animation are reaching more international audiences. How do you see the challenges AI presents for copyright, and China’s role in the global creative economy? Daren Tang: Artificial intelligence is changing the way we create, distribute and consume content.",
+          "cn": "技术应当赋能文化、遗产和人类创作者，使他们始终处于知识产权体系的中心。中新社：敦煌艺术本身就是在文化交流、互动和不断再造中生长出来的。如今，AI正在改变内容创作方式，而中国的网络文学、游戏、影视和动画正在触达更多国际受众。您如何看待AI对版权带来的挑战，以及中国在全球创意经济中的角色？邓鸿森：人工智能正在改变我们创作、传播和消费内容的方式。"
+        },
+        {
+          "en": "It is more than just another technology. Like electricity or the printing press, it has the potential to {{8}} change the way we live, work and create. And the questions it raises for copyright are very real. If an AI company uses the works of writers, artists and other creators to train its models, should those creators be {{9}}? If AI is used to generate music, images or other creative content, who should own the rights, and who should benefit economically?",
+          "cn": "它不仅仅是又一种技术。就像电力或印刷机一样，它有潜力从根本上改变我们生活、工作和创作的方式。而它对版权提出的问题是真实存在的。如果一家AI公司使用作家、艺术家和其他创作者的作品来训练其模型，这些创作者是否应该获得补偿？如果AI被用于生成音乐、图像或其他创意内容，谁应该拥有权利，谁应该在经济上受益？"
+        },
+        {
+          "en": "These are difficult questions, and we need to find the right balance between supporting technological {{10}} and protecting the interests of creators. We should not look at AI only as a challenge, but also as an opportunity to empower and support a new generation of creators. There is one fundamental principle that should remain clear: human creators must remain at the heart of the copyright and intellectual property system. Technology should not replace people or push them to the {{11}}. It should empower, assist and support human creativity.",
+          "cn": "这些是难题，我们需要在支持技术创新与保护创作者利益之间找到恰当的平衡。我们不应只把AI视为挑战，也应将其视为赋能和支持新一代创作者的机会。有一个基本原则应当保持明确：人类创作者必须始终处于版权和知识产权体系的核心。技术不应取代人或将人推向边缘。它应当赋能、协助和支持人类创造力。"
+        },
+        {
+          "en": "We also need to make sure that AI does not create a single monoculture. The aim is for diverse civilizations and cultures to continue {{12}} in the age of AI. Training AI on material from across the world can help it draw on that diversity when creating new forms of art, rather than on a single cultural source. China offers an interesting example of how the creative economy, cultural heritage and the digital economy can come together. We just saw a presentation explaining how digital platforms are creating new films, music and stories to promote Chinese culture in other parts of the world.",
+          "cn": "我们还需要确保AI不会造成单一的文化 monoculture。目标是让多元文明和文化在AI时代继续繁荣。用来自世界各地的素材训练AI，可以帮助它在创造新艺术形式时汲取这种多样性，而不是依赖单一文化来源。中国提供了一个有趣的例子，展示创意经济、文化遗产和数字经济如何融合。我们刚刚看到一场演示，介绍数字平台如何创造新的电影、音乐和故事，以在世界其他地区推广中国文化。"
+        },
+        {
+          "en": "This is also part of a much broader global trend. In Poland, for example, The Witcher draws on stories from medieval Poland. In Saudi Arabia, an animation studio has also created a game to promote Saudi culture to the rest of the world. What we are seeing is a new {{13}} of the creative economy, cultural heritage and digital technology. This is creating new experiences for audiences, but it is also creating jobs, livelihoods and economic opportunities.",
+          "cn": "这也是更广泛的全球趋势的一部分。例如在波兰，《巫师》借鉴了中世纪波兰的故事。在沙特阿拉伯，一家动画工作室也制作了一款游戏，向世界其他地区推广沙特文化。我们看到的是创意经济、文化遗产和数字技术的新融合。这正在为观众创造新体验，同时也在创造就业、生计和经济机会。"
+        },
+        {
+          "en": "I believe this will be an important part of the next chapter of the global creative economy. CNS: The ancient Silk Road crossed mountains and deserts and helped connect civilizations across East and West. Today, digital networks allow culture and creativity to travel around the world almost {{14}}. If we think of these networks as a new “Digital Silk Road,” what should the intellectual property system seek above all to protect? Daren Tang: Creativity and expression are a fundamental part of humanity.",
+          "cn": "我相信这将成为全球创意经济下一篇章的重要组成部分。中新社：古丝绸之路穿越山脉和沙漠，帮助连接东西方文明。如今，数字网络让文化和创造力几乎瞬间传遍世界。如果我们把这些网络视为一条新的“数字丝绸之路”，知识产权制度首先应当保护什么？邓鸿森：创造力和表达是人类的基本组成部分。"
+        },
+        {
+          "en": "From ancient cave art to stone tools and instruments made from bones, human beings have been creating for tens of thousands of years, and perhaps much longer. The role of copyright is to support that human spirit of creativity and expression. Even in the age of AI and digital technologies, the copyright system must continue to support it. Otherwise, we risk losing something very {{15}} and fundamental to humanity. Technologies come and go.",
+          "cn": "从古代洞穴艺术到石器和骨制乐器，人类已经创作了数万年，甚至可能更久。版权的作用是支持这种人类的创造与表达精神。即使在AI和数字技术时代，版权制度也必须继续支持它。否则，我们就有可能失去对人类而言非常珍贵和根本的东西。技术来来去去。"
+        },
+        {
+          "en": "Even AI, a technology that may come along only once every few hundred years, is still a technology. The human spirit has been with us for hundreds of thousands of years. It is something more fundamental and {{16}}. The role of the intellectual property system is therefore not to push away these technologies, but to make sure they serve the human spirit of creativity, expression and connection. Biography\nDaren Tang，World Intellectual Property Organization Director General.",
+          "cn": "即便是AI——一种可能数百年才出现一次的技术——仍然只是一种技术。人类精神已经伴随我们数十万年。它是更根本、更持久的东西。因此，知识产权制度的作用不是排斥这些技术，而是确保它们服务于人类的创造力、表达和连接精神。简介"
+        },
+        {
+          "en": "He is a national of Singapore, began his first six-year mandate as Director General of the World Intellectual Property Organization (WIPO) on October 1, 2020 and was reappointed on April 21, 2026 for a second term that will run from October 1, 2026 through September 30, 2032. His last appointment before joining WIPO was Chief Executive of the Intellectual Property Office of Singapore (IPOS) where he transformed IPOS from a traditional IP registry into an innovation agency, enhancing Singapore's IP {{17}} and strengthening international collaborations.",
+          "cn": "邓鸿森，世界知识产权组织总干事。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "revitalization",
+          "hint": "n. 复兴；活化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 1,
+          "answer": "legacy",
+          "hint": "n. 遗产；遗留",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "interacted",
+          "hint": "v. 互动（过去式）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "consequences",
+          "hint": "n. 后果；影响",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "vibrant",
+          "hint": "adj. 充满活力的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "endure",
+          "hint": "v. 持续；忍受",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "heritage",
+          "hint": "n. 遗产",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "empower",
+          "hint": "v. 赋能；授权",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "fundamentally",
+          "hint": "adv. 根本上地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "compensated",
+          "hint": "v. 补偿（过去分词）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "innovation",
+          "hint": "n. 创新",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "margins",
+          "hint": "n. 边缘（复数）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "flourishing",
+          "hint": "v. 繁荣（现在分词）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "convergence",
+          "hint": "n. 融合；汇聚",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "instantaneously",
+          "hint": "adv. 瞬间地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "precious",
+          "hint": "adj. 珍贵的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "enduring",
+          "hint": "adj. 持久的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "ecosystem",
+          "hint": "n. 生态系统",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "(CNS) --The 2026 International Copyright Forum, jointly organized by the National Copyright Administration of China and the World Intellectual Property Organization (WIPO), was held in Dunhuang, northwest China's Gansu Province, from Monday to Wednesday.\nUnder the theme “Copyright and Creative Industries in the Digital and AI Age — Protecting Cultural Heritage, Empowering Innovation and Creativity”，the forum brought together participants to discuss the opportunities and challenges that artificial intelligence presents for copyright, the protection and revitalization of cultural heritage, and the development of the creative economy.\nFor centuries, Dunhuang was one of the great meeting points of the Silk Road. Different peoples, cultures and ideas came together here, giving rise to extraordinary forms of artistic and cultural expression. Today, digital technologies and artificial intelligence are once again transforming the way culture is preserved, created and shared.\nWhat can Dunhuang’s millennia-old legacy teach us about creativity in the digital and AI age? And how can intellectual property continue to support cultural exchange and human creativity?\nDaren Tang, director general of WIPO, recently sat down with China News Service’s \"East Meets West\" for an exclusive interview in Dunhuang to discuss cultural heritage, technological change and the future of human creativity.\nCNS: For centuries, different cultures met, interacted and came together in Dunhuang, giving rise to unique forms of artistic expression. In the digital and AI age, what can Dunhuang’s legacy of cultural exchange and creativity teach us about copyright and the development of the creative industries?\nDaren Tang: Dunhuang is a fitting place to discuss copyright, creativity and culture.\nFor centuries, this city was one of the great meeting points of the Silk Road. People came here from China, Central Asia, Persia, Europe and beyond, bringing not just goods, but also their stories, knowledge, beliefs and ways of seeing the world.\nTrade created those connections, but the consequences went far beyond commerce. Through connection, exchange and engagement between peoples, new ideas were forged, different perspectives were combined and a unique culture was born.\nThere is an important lesson in this for us today. Cultures need exchange and engagement to remain alive and vibrant. Copyright can help each culture preserve its identity while giving it the confidence to exchange with other cultures.\nThis is even more important in the age of digital technology and artificial intelligence. Creators need to know that their works can be protected, that they can license their creations, receive a fair return and continue to make a living from their creativity.\nBy supporting creators, intellectual property also helps culture to endure, evolve and remain vibrant.\nCNS: In recent years, the Dunhuang Academy has used digital technologies to bring this ancient cultural heritage to audiences around the world. As traditional culture moves into the digital space and becomes part of the material used to train AI, how can we balance wider access and creative use with respect for rights and interests?\nDaren Tang: Digital Dunhuang is an excellent example of how technology can help bring culture and heritage to the world.\nNot everyone can come to Dunhuang and see the caves and murals for themselves. But digital technology gives many more people, wherever they may be, the opportunity to experience and learn about Dunhuang. This is a very good example of technology serving culture and heritage.\nIn China, we are also seeing examples of traditional culture reaching international audiences through new media. A game such as Black Myth: Wukong introduces audiences around the world to Chinese literature, history, culture and historical sites through video games.\nDigital technology at its best can be a bridge: a new way of connecting people and bringing Chinese culture and stories to global audiences.\nTechnology should empower culture, heritage and human creators, keeping them at the center of the intellectual property system.\nCNS: Dunhuang’s art itself grew out of cultural exchange, interaction and constant reinvention. Today, AI is transforming the way content is created, while China’s online literature, games, film, television and animation are reaching more international audiences. How do you see the challenges AI presents for copyright, and China’s role in the global creative economy?\nDaren Tang: Artificial intelligence is changing the way we create, distribute and consume content.\nIt is more than just another technology. Like electricity or the printing press, it has the potential to fundamentally change the way we live, work and create.\nAnd the questions it raises for copyright are very real. If an AI company uses the works of writers, artists and other creators to train its models, should those creators be compensated? If AI is used to generate music, images or other creative content, who should own the rights, and who should benefit economically?\nThese are difficult questions, and we need to find the right balance between supporting technological innovation and protecting the interests of creators.\nWe should not look at AI only as a challenge, but also as an opportunity to empower and support a new generation of creators. There is one fundamental principle that should remain clear: human creators must remain at the heart of the copyright and intellectual property system.\nTechnology should not replace people or push them to the margins. It should empower, assist and support human creativity. We also need to make sure that AI does not create a single monoculture.\nThe aim is for diverse civilizations and cultures to continue flourishing in the age of AI. Training AI on material from across the world can help it draw on that diversity when creating new forms of art, rather than on a single cultural source.\nChina offers an interesting example of how the creative economy, cultural heritage and the digital economy can come together.\nWe just saw a presentation explaining how digital platforms are creating new films, music and stories to promote Chinese culture in other parts of the world.\nThis is also part of a much broader global trend. In Poland, for example, The Witcher draws on stories from medieval Poland. In Saudi Arabia, an animation studio has also created a game to promote Saudi culture to the rest of the world.\nWhat we are seeing is a new convergence of the creative economy, cultural heritage and digital technology. This is creating new experiences for audiences, but it is also creating jobs, livelihoods and economic opportunities. I believe this will be an important part of the next chapter of the global creative economy.\nCNS: The ancient Silk Road crossed mountains and deserts and helped connect civilizations across East and West. Today, digital networks allow culture and creativity to travel around the world almost instantaneously. If we think of these networks as a new “Digital Silk Road,” what should the intellectual property system seek above all to protect?\nDaren Tang: Creativity and expression are a fundamental part of humanity. From ancient cave art to stone tools and instruments made from bones, human beings have been creating for tens of thousands of years, and perhaps much longer.\nThe role of copyright is to support that human spirit of creativity and expression. Even in the age of AI and digital technologies, the copyright system must continue to support it. Otherwise, we risk losing something very precious and fundamental to humanity.\nTechnologies come and go. Even AI, a technology that may come along only once every few hundred years, is still a technology. The human spirit has been with us for hundreds of thousands of years. It is something more fundamental and enduring.\nThe role of the intellectual property system is therefore not to push away these technologies, but to make sure they serve the human spirit of creativity, expression and connection.\nBiography\nDaren Tang，World Intellectual Property Organization Director General. He is a national of Singapore, began his first six-year mandate as Director General of the World Intellectual Property Organization (WIPO) on October 1, 2020 and was reappointed on April 21, 2026 for a second term that will run from October 1, 2026 through September 30, 2032.\nHis last appointment before joining WIPO was Chief Executive of the Intellectual Property Office of Singapore (IPOS) where he transformed IPOS from a traditional IP registry into an innovation agency, enhancing Singapore's IP ecosystem and strengthening international collaborations.",
+      "fullTextCn": "中新社敦煌电——由中国国家版权局与世界知识产权组织（WIPO）共同主办的2026国际版权论坛于周一至周三在中国西北部甘肃省敦煌市举行。论坛以“数字与人工智能时代的版权与创意产业——保护文化遗产，赋能创新与创造力”为主题，汇聚各方参与者，讨论人工智能为版权带来的机遇与挑战、文化遗产的保护与活化，以及创意经济的发展。数百年来，敦煌一直是丝绸之路上重要的交汇点之一。不同民族、文化和思想在此汇聚，催生出非凡的艺术与文化表达形式。如今，数字技术和人工智能正在再次改变文化被保存、创造和分享的方式。\n\n敦煌数千年的遗产能教给我们什么关于数字与AI时代创造力的启示？知识产权又如何继续支持文化交流与人类创造力？世界知识产权组织总干事邓鸿森近日在敦煌接受中新社“东西问”独家专访，探讨文化遗产、技术变革与人类创造力的未来。中新社：数百年来，不同文化在敦煌相遇、互动、交融，催生出独特的艺术表达形式。在数字与AI时代，敦煌文化交流与创造力的遗产能为版权和创意产业发展提供什么启示？\n\n邓鸿森：敦煌是讨论版权、创造力与文化的合适之地。数百年来，这座城市一直是丝绸之路上重要的交汇点之一。来自中国、中亚、波斯、欧洲乃至更远地方的人们来到这里，带来的不仅是货物，还有他们的故事、知识、信仰和看待世界的方式。贸易创造了这些联系，但其影响远远超出了商业范畴。通过人与人之间的连接、交流与互动，新思想得以锻造，不同视角得以融合，一种独特的文化由此诞生。\n\n这对我们今天有重要启示。文化需要交流与互动才能保持活力和生机。版权可以帮助每种文化在保持自身认同的同时，赋予其与其他文化交流的自信。在数字技术和人工智能时代，这一点更为重要。创作者需要知道他们的作品能够得到保护，他们可以授权自己的创作、获得公平回报，并继续靠创造力谋生。\n\n通过支持创作者，知识产权也帮助文化得以延续、演进并保持活力。中新社：近年来，敦煌研究院利用数字技术将这一古老文化遗产带给世界各地的观众。随着传统文化进入数字空间并成为训练AI的素材，我们如何平衡更广泛的获取和创造性使用与对权益的尊重？邓鸿森：数字敦煌是技术如何帮助将文化与遗产带给世界的绝佳范例。并非每个人都能亲自来到敦煌，亲眼看到洞窟和壁画。\n\n但数字技术让更多身处各地的人们有机会体验和了解敦煌。这是技术服务文化与遗产的非常好的例子。在中国，我们也看到传统文化通过新媒体触达国际受众的例子。像《黑神话：悟空》这样的游戏通过电子游戏向世界各地的观众介绍中国文学、历史、文化和历史遗迹。数字技术在最佳状态下可以成为一座桥梁：一种连接人们、将中国文化和故事带给全球受众的新方式。\n\n技术应当赋能文化、遗产和人类创作者，使他们始终处于知识产权体系的中心。中新社：敦煌艺术本身就是在文化交流、互动和不断再造中生长出来的。如今，AI正在改变内容创作方式，而中国的网络文学、游戏、影视和动画正在触达更多国际受众。您如何看待AI对版权带来的挑战，以及中国在全球创意经济中的角色？邓鸿森：人工智能正在改变我们创作、传播和消费内容的方式。\n\n它不仅仅是又一种技术。就像电力或印刷机一样，它有潜力从根本上改变我们生活、工作和创作的方式。而它对版权提出的问题是真实存在的。如果一家AI公司使用作家、艺术家和其他创作者的作品来训练其模型，这些创作者是否应该获得补偿？如果AI被用于生成音乐、图像或其他创意内容，谁应该拥有权利，谁应该在经济上受益？\n\n这些是难题，我们需要在支持技术创新与保护创作者利益之间找到恰当的平衡。我们不应只把AI视为挑战，也应将其视为赋能和支持新一代创作者的机会。有一个基本原则应当保持明确：人类创作者必须始终处于版权和知识产权体系的核心。技术不应取代人或将人推向边缘。它应当赋能、协助和支持人类创造力。\n\n我们还需要确保AI不会造成单一的文化 monoculture。目标是让多元文明和文化在AI时代继续繁荣。用来自世界各地的素材训练AI，可以帮助它在创造新艺术形式时汲取这种多样性，而不是依赖单一文化来源。中国提供了一个有趣的例子，展示创意经济、文化遗产和数字经济如何融合。我们刚刚看到一场演示，介绍数字平台如何创造新的电影、音乐和故事，以在世界其他地区推广中国文化。\n\n这也是更广泛的全球趋势的一部分。例如在波兰，《巫师》借鉴了中世纪波兰的故事。在沙特阿拉伯，一家动画工作室也制作了一款游戏，向世界其他地区推广沙特文化。我们看到的是创意经济、文化遗产和数字技术的新融合。这正在为观众创造新体验，同时也在创造就业、生计和经济机会。\n\n我相信这将成为全球创意经济下一篇章的重要组成部分。中新社：古丝绸之路穿越山脉和沙漠，帮助连接东西方文明。如今，数字网络让文化和创造力几乎瞬间传遍世界。如果我们把这些网络视为一条新的“数字丝绸之路”，知识产权制度首先应当保护什么？邓鸿森：创造力和表达是人类的基本组成部分。\n\n从古代洞穴艺术到石器和骨制乐器，人类已经创作了数万年，甚至可能更久。版权的作用是支持这种人类的创造与表达精神。即使在AI和数字技术时代，版权制度也必须继续支持它。否则，我们就有可能失去对人类而言非常珍贵和根本的东西。技术来来去去。\n\n即便是AI——一种可能数百年才出现一次的技术——仍然只是一种技术。人类精神已经伴随我们数十万年。它是更根本、更持久的东西。因此，知识产权制度的作用不是排斥这些技术，而是确保它们服务于人类的创造力、表达和连接精神。简介\n\n邓鸿森，世界知识产权组织总干事。"
+    },
+    {
+      "id": 3,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-11-07/detail-ihfmuiku4869124.shtml",
+      "title": "Xiamen's role in global ocean governance draws international attention",
+      "titleCn": "厦门在全球海洋治理中的作用引起国际关注",
+      "summary": "The 2026 World Ocean Week, which kicked off in the city under the theme \"Safeguard the deep blue together, foster human-ocean harmony\" has brought together government officials, experts and representatives of international organizations to explore ways to advance global ocean governance and marine sustainability.",
+      "summaryCn": "厦门通过举办2026世界海洋周，展示了其在海洋科学、生态保护和国际合作方面的优势，凸显了中国在全球海洋治理中的贡献以及沿海城市在推动全球目标中的地方实践。",
+      "wordCount": 645,
+      "paragraphs": [
+        {
+          "en": "Located in east China's Fujian Province, the coastal city of Xiamen is {{0}} as an important {{1}} for marine science, ocean {{2}} and international cooperation on ocean {{3}}. The 2026 World Ocean Week, which kicked off in the city under the theme \"Safeguard the deep blue together, foster human-ocean harmony\" has brought together government officials, experts and representatives of international organizations to explore ways to advance global ocean governance and marine sustainability. With marine ecological conservation at its core, the event highlights the importance of scientific research, policy {{4}}, local practices and public {{5}} in translating global commitments into {{6}} action. A report released during the 2026 World Ocean Week highlights China's contributions to global ocean governance and the conservation and {{7}} use of marine {{8}}. Compiled by the China Institute for Marine Affairs under the Ministry of Natural Resources, the report details China's contributions to the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction, known as the BBNJ Agreement.",
+          "cn": "位于中国东部福建省的沿海城市厦门，正崛起为海洋科学、海洋保护和全球海洋治理国际合作的重要枢纽。以“共同守护深蓝，促进人海和谐”为主题的2026世界海洋周在该市开幕，汇聚了政府官员、专家和国际组织代表，共同探讨推进全球海洋治理和海洋可持续发展的途径。活动以海洋生态保护为核心，强调了科学研究、政策协调、地方实践和公众参与在将全球承诺转化为具体行动中的重要性。2026世界海洋周期间发布的一份报告强调了中国对全球海洋治理以及海洋生物多样性养护和可持续利用的贡献。该报告由自然资源部下属的中国海洋发展研究所编制，详细介绍了中国对《联合国海洋法公约》下关于养护和可持续利用国家管辖范围以外区域海洋生物多样性的协定（即BBNJ协定）的贡献。"
+        },
+        {
+          "en": "It {{11}} China's efforts to share marine {{12}}, {{13}} differences between developed and developing countries, and advance international cooperation. According to the report, China has signed marine cooperation agreements with more than 50 countries and international organizations and jointly established over 40 marine research centers and laboratories. International experts attending the event highlighted China's growing {{14}} in the global ocean economy and its contributions to international marine conservation. They also pointed to Xiamen's strengths in marine research and its potential role in supporting global ocean governance. Vaipo Mataora, permanent secretary of the Ministry of Infrastructure of the Cook Islands, noted in his remarks at the opening ceremony of World Ocean Week that international cooperation is {{15}} to addressing the challenges facing small island states in ocean governance.",
+          "cn": "报告概述了中国在分享海洋专业知识、弥合发达国家与发展中国家之间的分歧以及推进国际合作方面的努力。据报告，中国已与50多个国家和国际组织签署了海洋合作协议，并联合建立了40多个海洋研究中心和实验室。出席活动的国际专家强调了中国在全球海洋经济中日益增长的影响力及其对国际海洋保护的贡献。他们还指出了厦门在海洋研究方面的优势及其在支持全球海洋治理中的潜在作用。库克群岛基础设施部常务秘书瓦伊波·马陶拉在世界海洋周开幕式上致辞时指出，国际合作对于应对小岛屿国家在海洋治理中面临的挑战至关重要。"
+        },
+        {
+          "en": "\"Small island states hold vast ocean spaces, but we have small populations and limited technical {{16}}. We need shared science, shared data and shared skills,\" he said, {{17}} the importance of sharing scientific knowledge, data and expertise to support marine conservation and sustainable development. Alfredo Giron, director of the Ocean Agenda at the World Economic Forum's Centre for Nature and Climate, said in an interview with China News Network that China's influence on the global ocean economy is {{18}}, given its significant role in sectors such as offshore wind energy and fisheries. \"It's undeniable that China is one of the major influences in the global ocean economy,\" he said, noting that China's development of marine-related industries has a {{19}} impact globally. José María Figueres, former president of Costa Rica, said in an interview with China News Network that Xiamen has a strong foundation for contributing to global ocean governance, citing its ecosystem of universities, research centers and marine laboratories.",
+          "cn": "“小岛屿国家拥有广阔的海洋空间，但我们人口少，技术能力有限。我们需要共享的科学、共享的数据和共享的技能，”他说，强调了分享科学知识、数据和专业知识以支持海洋保护和可持续发展的重要性。世界经济论坛自然与气候中心海洋议程主任阿尔弗雷多·希龙在接受中国新闻网采访时表示，鉴于中国在海上风能和渔业等领域的重要作用，其对全球海洋经济的影响不可否认。“不可否认，中国是全球海洋经济的主要影响者之一，”他说，并指出中国海洋相关产业的发展在全球具有相当大的影响。哥斯达黎加前总统何塞·玛丽亚·菲格雷斯在接受中国新闻网采访时表示，厦门拥有为全球海洋治理做出贡献的坚实基础，并列举了其大学、研究中心和海洋实验室的生态系统。"
+        },
+        {
+          "en": "\"Xiamen has an ecosystem of universities, research centers, ocean laboratories that no other place has,\" he said, adding that the city could make a significant contribution to the {{20}} of the BBNJ Agreement. Figueres also spoke highly of China's efforts in advancing global ocean governance, particularly its cooperation with developing countries. He noted that China has worked with countries with fewer resources to conduct joint research and share knowledge. \"There is no other country in the world today that is doing the things that China is doing in working together with other countries to help understand better of the ocean and the potential that it has in our {{21}},\" he said, highlighting China's role in helping bridge scientific gaps within the global community. As the international community moves from negotiating agreements to implementing them, stronger scientific support, knowledge sharing and cooperation among countries will be essential to addressing the challenges facing the ocean.",
+          "cn": "“厦门拥有大学、研究中心、海洋实验室的生态系统，这是其他任何地方都没有的，”他说，并补充说该市可以为BBNJ协定的实施做出重大贡献。菲格雷斯还高度评价中国在推进全球海洋治理方面的努力，特别是与发展中国家的合作。他指出，中国与资源较少的国家合作开展联合研究并分享知识。“当今世界上没有其他国家在做中国正在做的事情，即与其他国家合作，帮助更好地了解海洋及其在我们生计中的潜力，”他说，强调了中国在帮助弥合国际社会科学差距方面的作用。随着国际社会从谈判协议转向实施协议，加强科学支持、知识共享和国家间的合作对于应对海洋面临的挑战至关重要。"
+        },
+        {
+          "en": "Xiamen's experience in bringing together marine research, ecological conservation and economic development offers a local perspective on how coastal cities can contribute to these shared global goals.",
+          "cn": "厦门将海洋研究、生态保护和经济发展相结合的经验，为沿海城市如何为这些共同的全球目标做出贡献提供了地方视角。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "emerging",
+          "hint": "v. 兴起；崭露头角",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "hub",
+          "hint": "n. 中心；枢纽",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "conservation",
+          "hint": "n. 保护；养护",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "engagement",
+          "hint": "n. 参与；互动",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "concrete",
+          "hint": "adj. 具体的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "biodiversity",
+          "hint": "n. 生物多样性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "outlines",
+          "hint": "v. 概述；勾勒",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "expertise",
+          "hint": "n. 专业知识；专长",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "bridge",
+          "hint": "v. 弥合；连接",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "influence",
+          "hint": "n. 影响力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "essential",
+          "hint": "adj. 至关重要的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "capacity",
+          "hint": "n. 能力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "emphasizing",
+          "hint": "v. 强调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "undeniable",
+          "hint": "adj. 不可否认的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "considerable",
+          "hint": "adj. 相当大的；重要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "implementation",
+          "hint": "n. 实施；执行",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "livelihoods",
+          "hint": "n. 生计",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Located in east China's Fujian Province, the coastal city of Xiamen is emerging as an important hub for marine science, ocean conservation and international cooperation on ocean governance.\nThe 2026 World Ocean Week, which kicked off in the city under the theme \"Safeguard the deep blue together, foster human-ocean harmony\" has brought together government officials, experts and representatives of international organizations to explore ways to advance global ocean governance and marine sustainability.\nWith marine ecological conservation at its core, the event highlights the importance of scientific research, policy coordination, local practices and public engagement in translating global commitments into concrete action.\nA report released during the 2026 World Ocean Week highlights China's contributions to global ocean governance and the conservation and sustainable use of marine biodiversity. Compiled by the China Institute for Marine Affairs under the Ministry of Natural Resources, the report details China's contributions to the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction, known as the BBNJ Agreement.\nIt outlines China's efforts to share marine expertise, bridge differences between developed and developing countries, and advance international cooperation.\nAccording to the report, China has signed marine cooperation agreements with more than 50 countries and international organizations and jointly established over 40 marine research centers and laboratories.\nInternational experts attending the event highlighted China's growing influence in the global ocean economy and its contributions to international marine conservation. They also pointed to Xiamen's strengths in marine research and its potential role in supporting global ocean governance.\nVaipo Mataora, permanent secretary of the Ministry of Infrastructure of the Cook Islands, noted in his remarks at the opening ceremony of World Ocean Week that international cooperation is essential to addressing the challenges facing small island states in ocean governance.\n\"Small island states hold vast ocean spaces, but we have small populations and limited technical capacity. We need shared science, shared data and shared skills,\" he said, emphasizing the importance of sharing scientific knowledge, data and expertise to support marine conservation and sustainable development.\nAlfredo Giron, director of the Ocean Agenda at the World Economic Forum's Centre for Nature and Climate, said in an interview with China News Network that China's influence on the global ocean economy is undeniable, given its significant role in sectors such as offshore wind energy and fisheries.\n\"It's undeniable that China is one of the major influences in the global ocean economy,\" he said, noting that China's development of marine-related industries has a considerable impact globally.\nJosé María Figueres, former president of Costa Rica, said in an interview with China News Network that Xiamen has a strong foundation for contributing to global ocean governance, citing its ecosystem of universities, research centers and marine laboratories.\n\"Xiamen has an ecosystem of universities, research centers, ocean laboratories that no other place has,\" he said, adding that the city could make a significant contribution to the implementation of the BBNJ Agreement.\nFigueres also spoke highly of China's efforts in advancing global ocean governance, particularly its cooperation with developing countries. He noted that China has worked with countries with fewer resources to conduct joint research and share knowledge.\n\"There is no other country in the world today that is doing the things that China is doing in working together with other countries to help understand better of the ocean and the potential that it has in our livelihoods,\" he said, highlighting China's role in helping bridge scientific gaps within the global community.\nAs the international community moves from negotiating agreements to implementing them, stronger scientific support, knowledge sharing and cooperation among countries will be essential to addressing the challenges facing the ocean.\nXiamen's experience in bringing together marine research, ecological conservation and economic development offers a local perspective on how coastal cities can contribute to these shared global goals.",
+      "fullTextCn": "位于中国东部福建省的沿海城市厦门，正崛起为海洋科学、海洋保护和全球海洋治理国际合作的重要枢纽。以“共同守护深蓝，促进人海和谐”为主题的2026世界海洋周在该市开幕，汇聚了政府官员、专家和国际组织代表，共同探讨推进全球海洋治理和海洋可持续发展的途径。活动以海洋生态保护为核心，强调了科学研究、政策协调、地方实践和公众参与在将全球承诺转化为具体行动中的重要性。2026世界海洋周期间发布的一份报告强调了中国对全球海洋治理以及海洋生物多样性养护和可持续利用的贡献。该报告由自然资源部下属的中国海洋发展研究所编制，详细介绍了中国对《联合国海洋法公约》下关于养护和可持续利用国家管辖范围以外区域海洋生物多样性的协定（即BBNJ协定）的贡献。\n\n报告概述了中国在分享海洋专业知识、弥合发达国家与发展中国家之间的分歧以及推进国际合作方面的努力。据报告，中国已与50多个国家和国际组织签署了海洋合作协议，并联合建立了40多个海洋研究中心和实验室。出席活动的国际专家强调了中国在全球海洋经济中日益增长的影响力及其对国际海洋保护的贡献。他们还指出了厦门在海洋研究方面的优势及其在支持全球海洋治理中的潜在作用。库克群岛基础设施部常务秘书瓦伊波·马陶拉在世界海洋周开幕式上致辞时指出，国际合作对于应对小岛屿国家在海洋治理中面临的挑战至关重要。\n\n“小岛屿国家拥有广阔的海洋空间，但我们人口少，技术能力有限。我们需要共享的科学、共享的数据和共享的技能，”他说，强调了分享科学知识、数据和专业知识以支持海洋保护和可持续发展的重要性。世界经济论坛自然与气候中心海洋议程主任阿尔弗雷多·希龙在接受中国新闻网采访时表示，鉴于中国在海上风能和渔业等领域的重要作用，其对全球海洋经济的影响不可否认。“不可否认，中国是全球海洋经济的主要影响者之一，”他说，并指出中国海洋相关产业的发展在全球具有相当大的影响。哥斯达黎加前总统何塞·玛丽亚·菲格雷斯在接受中国新闻网采访时表示，厦门拥有为全球海洋治理做出贡献的坚实基础，并列举了其大学、研究中心和海洋实验室的生态系统。\n\n“厦门拥有大学、研究中心、海洋实验室的生态系统，这是其他任何地方都没有的，”他说，并补充说该市可以为BBNJ协定的实施做出重大贡献。菲格雷斯还高度评价中国在推进全球海洋治理方面的努力，特别是与发展中国家的合作。他指出，中国与资源较少的国家合作开展联合研究并分享知识。“当今世界上没有其他国家在做中国正在做的事情，即与其他国家合作，帮助更好地了解海洋及其在我们生计中的潜力，”他说，强调了中国在帮助弥合国际社会科学差距方面的作用。随着国际社会从谈判协议转向实施协议，加强科学支持、知识共享和国家间的合作对于应对海洋面临的挑战至关重要。\n\n厦门将海洋研究、生态保护和经济发展相结合的经验，为沿海城市如何为这些共同的全球目标做出贡献提供了地方视角。"
+    },
+    {
+      "id": 4,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-05/China-s-governance-global-development-dialogue-held-in-Kuwait-City-1RPuKEFqI0g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "China's governance, worldwide development dialogue held in Kuwait City",
+      "titleCn": "中国治理与全球发展对话在科威特城举行",
+      "summary": "The Kuwait edition of the Global Dialogue on China's Governance and Global Development was held in Kuwait City on Tuesday, co-hosted by China Media Group (CMG), the Chinese Embassy in Kuwait and the Kuwait-China Friendship Club.",
+      "summaryCn": "中国治理与全球发展全球对话在科威特城举办，与会者就中国治理经验、发展战略对接和务实合作前景交换意见。",
+      "wordCount": 441,
+      "paragraphs": [
+        {
+          "en": "The Kuwait edition of the China's Governance and Worldwide Development Global Dialogue is held in Kuwait City, Kuwait, November 3, 2026. /CMG\nThe Kuwait edition of the China's Governance and Worldwide Development Global Dialogue was held in Kuwait City on Tuesday, co-hosted by China Media Group (CMG), the Chinese Embassy in Kuwait and the Kuwait-China Friendship Club. More than 100 guests from academic, business and media circles, as well as university students, {{16}} views on China's governance experience, the {{0}} of development strategies and the {{1}} for practical cooperation. Shen Haixiong, deputy head of the Publicity Department of the Communist Party of China (CPC) Central Committee and president of CMG, {{2}} a video address. To understand today's China, one must understand the CPC, he said, noting that the recently {{3}} fifth plenary session of the 20th CPC Central Committee sent a clear message to the world: The 105-year-old Party will strengthen itself with higher standards and more concrete measures, turning the CPC's {{4}} self-governance into the effective governance of China. Citing a CGTN global poll, Shen said respondents worldwide see the CPC as having turned institutional norms for upholding Party leadership into {{5}} governance strengths, offering a path different from Western political parties. He {{6}} that CMG will continue to tell the CPC's story well and deepen dialogue and people-to-people exchanges.",
+          "cn": "2026年11月3日，中国治理与全球发展全球对话科威特专场在科威特科威特城举行。/CMG\n中国治理与全球发展全球对话科威特专场于周二在科威特城举行，由中国中央广播电视总台（CMG）、中国驻科威特大使馆和科威特-中国友好俱乐部共同主办。来自学术界、商界和媒体界以及大学生的一百多名嘉宾就中国治理经验、发展战略对接和务实合作前景交换了意见。中共中央宣传部副部长、中央广播电视总台台长慎海雄发表视频致辞。他说，要了解今天的中国，就必须了解中国共产党，并指出最近闭幕的中国共产党第二十届中央委员会第五次全体会议向世界发出了明确信息：这个拥有105年历史的政党将以更高标准和更具体措施加强自身建设，把中国共产党的严格自我治理转化为对中国的有效治理。慎海雄援引中国国际电视台（CGTN）的一项全球民调说，全球受访者认为中国共产党已将坚持党的领导的制度规范转化为切实的治理优势，提供了一条不同于西方政党的道路。他承诺，中央广播电视总台将继续讲好中国共产党的故事，深化对话和人文交流。"
+        },
+        {
+          "en": "Chinese Ambassador to Kuwait Yang Xin said the session's arrangements for full and rigorous Party self-governance provide a strong {{7}} for Chinese modernization and a successful example for countries exploring paths of governance. Noting that Kuwait was the first Gulf Arab country to establish {{8}} ties with China, he said high-quality Belt and Road cooperation has been deeply aligned with Kuwait Vision 2035, with potential for growth in trade, energy, {{9}}, finance, green development and the digital economy. Sheikha Al-Anoud Al-Ibrahim Al-Duaij Al-Sabah, a Kuwaiti royal family member and chairwoman of the Kuwait-China Friendship Club, said the session has laid a solid foundation for China's long-term development. Marking 55 years of diplomatic ties this year, she said China's experience in smart cities, infrastructure, clean energy and digital technologies highly aligns with Kuwait's goals of economic {{10}} and modernization. Panelists, including Kuwait University professors Mai AlFarhan and Anwar AlShriaan, former Central Statistical Bureau director Abdullah Yousef Sahar and Chinese business representatives, discussed long-term governance, technological innovation, economic development and environmental protection. Participants agreed that China's development practices and policy {{11}} offer an important window through which to understand China's governance, urging deeper {{13}} alignment and new areas of cooperation. Trailers for {{14}} CMG productions were also screened, and {{15}} media outlets in Kuwait and across the Middle East covered the event.",
+          "cn": "中国驻科威特大使杨欣表示，全会关于全面从严治党的部署为中国式现代化提供了坚强保障，也为探索治理道路的国家提供了成功范例。他指出，科威特是第一个与中国建交的海湾阿拉伯国家，高质量共建“一带一路”与科威特2035愿景深度对接，在贸易、能源、基础设施、金融、绿色发展和数字经济方面具有增长潜力。科威特王室成员、科威特-中国友好俱乐部主席谢赫·阿努德·易卜拉欣·杜艾吉·萨巴赫表示，全会为中国长期发展奠定了坚实基础。她指出，今年是两国建交55周年，中国在智慧城市、基础设施、清洁能源和数字技术方面的经验与科威特经济多元化和现代化目标高度契合。科威特大学教授迈·法尔汉和安瓦尔·什里安、前中央统计局主任阿卜杜拉·优素福·萨哈尔以及中国企业代表等小组成员讨论了长期治理、技术创新、经济发展和环境保护。与会者一致认为，中国的发展实践和政策连续性为了解中国治理提供了重要窗口，并呼吁深化战略对接、拓展新的合作领域。活动还放映了中央广播电视总台精品节目的预告片，科威特和中东地区主流媒体对活动进行了报道。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "alignment",
+          "hint": "n. 对接；协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "prospects",
+          "hint": "n. 前景",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "delivered",
+          "hint": "v. 发表（致辞）",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "concluded",
+          "hint": "adj. 最近结束的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "rigorous",
+          "hint": "adj. 严格的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "tangible",
+          "hint": "adj. 切实的；有形的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "pledged",
+          "hint": "v. 承诺",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "guarantee",
+          "hint": "n. 保障",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "diplomatic",
+          "hint": "adj. 外交的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "diversification",
+          "hint": "n. 多元化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "consistency",
+          "hint": "n. 连续性；一致性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "strategic",
+          "hint": "adj. 战略的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "premium",
+          "hint": "adj. 优质的；精品的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "mainstream",
+          "hint": "adj. 主流的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "exchanged",
+          "hint": "v. 交换",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "The Kuwait edition of the China's Governance and Worldwide Development Global Dialogue is held in Kuwait City, Kuwait, November 3, 2026. /CMG\nThe Kuwait edition of the China's Governance and Worldwide Development Global Dialogue was held in Kuwait City on Tuesday, co-hosted by China Media Group (CMG), the Chinese Embassy in Kuwait and the Kuwait-China Friendship Club.\nMore than 100 guests from academic, business and media circles, as well as university students, exchanged views on China's governance experience, the alignment of development strategies and the prospects for practical cooperation.\nShen Haixiong, deputy head of the Publicity Department of the Communist Party of China (CPC) Central Committee and president of CMG, delivered a video address. To understand today's China, one must understand the CPC, he said, noting that the recently concluded fifth plenary session of the 20th CPC Central Committee sent a clear message to the world: The 105-year-old Party will strengthen itself with higher standards and more concrete measures, turning the CPC's rigorous self-governance into the effective governance of China.\nCiting a CGTN global poll, Shen said respondents worldwide see the CPC as having turned institutional norms for upholding Party leadership into tangible governance strengths, offering a path different from Western political parties. He pledged that CMG will continue to tell the CPC's story well and deepen dialogue and people-to-people exchanges.\nChinese Ambassador to Kuwait Yang Xin said the session's arrangements for full and rigorous Party self-governance provide a strong guarantee for Chinese modernization and a successful example for countries exploring paths of governance. Noting that Kuwait was the first Gulf Arab country to establish diplomatic ties with China, he said high-quality Belt and Road cooperation has been deeply aligned with Kuwait Vision 2035, with potential for growth in trade, energy, infrastructure, finance, green development and the digital economy.\nSheikha Al-Anoud Al-Ibrahim Al-Duaij Al-Sabah, a Kuwaiti royal family member and chairwoman of the Kuwait-China Friendship Club, said the session has laid a solid foundation for China's long-term development. Marking 55 years of diplomatic ties this year, she said China's experience in smart cities, infrastructure, clean energy and digital technologies highly aligns with Kuwait's goals of economic diversification and modernization.\nPanelists, including Kuwait University professors Mai AlFarhan and Anwar AlShriaan, former Central Statistical Bureau director Abdullah Yousef Sahar and Chinese business representatives, discussed long-term governance, technological innovation, economic development and environmental protection. Participants agreed that China's development practices and policy consistency offer an important window through which to understand China's governance, urging deeper strategic alignment and new areas of cooperation.\nTrailers for premium CMG productions were also screened, and mainstream media outlets in Kuwait and across the Middle East covered the event.",
+      "fullTextCn": "2026年11月3日，中国治理与全球发展全球对话科威特专场在科威特科威特城举行。/CMG\n中国治理与全球发展全球对话科威特专场于周二在科威特城举行，由中国中央广播电视总台（CMG）、中国驻科威特大使馆和科威特-中国友好俱乐部共同主办。来自学术界、商界和媒体界以及大学生的一百多名嘉宾就中国治理经验、发展战略对接和务实合作前景交换了意见。中共中央宣传部副部长、中央广播电视总台台长慎海雄发表视频致辞。他说，要了解今天的中国，就必须了解中国共产党，并指出最近闭幕的中国共产党第二十届中央委员会第五次全体会议向世界发出了明确信息：这个拥有105年历史的政党将以更高标准和更具体措施加强自身建设，把中国共产党的严格自我治理转化为对中国的有效治理。慎海雄援引中国国际电视台（CGTN）的一项全球民调说，全球受访者认为中国共产党已将坚持党的领导的制度规范转化为切实的治理优势，提供了一条不同于西方政党的道路。他承诺，中央广播电视总台将继续讲好中国共产党的故事，深化对话和人文交流。\n\n中国驻科威特大使杨欣表示，全会关于全面从严治党的部署为中国式现代化提供了坚强保障，也为探索治理道路的国家提供了成功范例。他指出，科威特是第一个与中国建交的海湾阿拉伯国家，高质量共建“一带一路”与科威特2035愿景深度对接，在贸易、能源、基础设施、金融、绿色发展和数字经济方面具有增长潜力。科威特王室成员、科威特-中国友好俱乐部主席谢赫·阿努德·易卜拉欣·杜艾吉·萨巴赫表示，全会为中国长期发展奠定了坚实基础。她指出，今年是两国建交55周年，中国在智慧城市、基础设施、清洁能源和数字技术方面的经验与科威特经济多元化和现代化目标高度契合。科威特大学教授迈·法尔汉和安瓦尔·什里安、前中央统计局主任阿卜杜拉·优素福·萨哈尔以及中国企业代表等小组成员讨论了长期治理、技术创新、经济发展和环境保护。与会者一致认为，中国的发展实践和政策连续性为了解中国治理提供了重要窗口，并呼吁深化战略对接、拓展新的合作领域。活动还放映了中央广播电视总台精品节目的预告片，科威特和中东地区主流媒体对活动进行了报道。"
+    },
+    {
+      "id": 5,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-05/Chinese-FM-China-stands-ready-to-work-with-Mekong-countries-1RPcVPyVRWE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Chinese FM: China stands ready to work with Mekong countries",
+      "titleCn": "中国外长：中国愿与湄公河国家携手合作",
+      "summary": "The Lancang-Mekong Cooperation (LMC) countries are becoming more interconnected, with more robust growth momentum, stronger security safeguards, and closer people-to-people bonds, Guo Jiakun, a spokesperson for the Chinese Foreign Ministry, said in a press conference on Thursday.",
+      "summaryCn": "中国外长王毅在第十一届澜沧江-湄公河合作外长会上提出五项建议，涵盖团结协作、开放共赢、绿色发展、安全协调和灾害治理，以推动澜湄合作进入新的黄金十年。",
+      "wordCount": 421,
+      "paragraphs": [
+        {
+          "en": "Chinese Foreign Minister Wang Yi and his counterparts attending the 11th Lancang-Mekong Cooperation (LMC) Foreign Ministers' Meeting pose for a group photo in Beijing, China, on November 4, 2026. /Xinhua\nThe Lancang-Mekong Cooperation (LMC) countries are becoming more {{0}}, with more robust growth {{1}}, stronger security {{2}}, and closer people-to-people bonds, Guo Jiakun, a spokesperson for the Chinese Foreign Ministry, said in a press conference on Thursday. In response to CGTN's request to share more details on the 11th Lancang-Mekong Cooperation Foreign Ministers' Meeting, Guo said the LMC countries agreed that over the past decade, it has grown with strong momentum in all dimensions, at various levels and in multiple areas, and delivered {{3}} results beneficial to all. Guo noted Chinese Foreign Minister Wang Yi has put forward five proposals for the future development of LMC. First, Wang urged the LMC countries to form new {{4}} for {{5}} and collective strength.",
+          "cn": "2026年11月4日，中国外交部长王毅与出席第十一届澜沧江-湄公河合作外长会的各国外长在中国北京合影留念。/新华社\n中国外交部发言人郭嘉昆在周四的新闻发布会上表示，澜沧江-湄公河合作国家间的互联互通日益增强，增长势头更加强劲，安全保障更加有力，人文纽带更加紧密。在回应CGTN关于进一步了解第十一届澜沧江-湄公河合作外长会详情的请求时，郭嘉昆表示，澜湄合作国家一致认为，过去十年来，澜湄合作在各维度、各层级、各领域强劲发展，取得了惠及各方的实实在在的成果。郭嘉昆指出，中国外交部长王毅为澜湄合作的未来发展提出了五点建议。第一，王毅敦促澜湄合作国家凝聚团结和集体力量的新合力。"
+        },
+        {
+          "en": "The six countries need to carry forward the LMC culture of equality, sincerity, mutual assistance and {{6}}, and have closer exchanges at all levels and communication on policies. Second, he called on the six countries to reach new heights of open and win-win cooperation. The countries need to deepen cooperation along the New International Land-Sea Trade Corridor, promote regional trade and investment {{7}} and {{8}}, build the LMC Economic Development Belt, and support more small and smart {{9}} programs. Third, Wang said the countries should {{10}} new driving force through green development and innovation. The six countries need to expand cooperation in emerging areas such as the digital economy and artificial intelligence (AI).",
+          "cn": "六国需要弘扬平等、真诚、互助、亲如一家的澜湄合作文化，加强各层级交流和政策沟通。第二，他呼吁六国将开放共赢合作推向新高度。各国需要深化新国际陆海贸易走廊沿线合作，促进区域贸易和投资自由化便利化，建设澜湄经济发展带，支持更多小而美的民生项目。第三，王毅表示，各国应通过绿色发展和创新培育新动力。六国需要拓展数字经济和人工智能等新兴领域的合作。"
+        },
+        {
+          "en": "Fourth, Wang called on the countries to enhance security coordination. The six countries need to carry forward the Asian values of peace, cooperation, openness and {{11}} and the vision of common, comprehensive, cooperative and sustainable security, reject external {{12}} and bloc {{13}}, and step up efforts to fight cross-border crimes. Fifth, create new highlights in disaster governance. The six countries need to set up a cross-border cooperation mechanism for disaster warning, and strengthen cooperation in disaster monitoring, early warning and emergency response to improve capability in disaster prevention, {{14}} and relief. Wang stressed that China stands ready to work with Mekong countries in the direction charted by our leaders, take down-to-earth actions to solve problems and improve people's {{15}}, and take more effective measures to jointly advance modernization, set LMC as a leading example of regional cooperation and solidarity and collective strength of the Global South, and jointly {{16}} in a new LMC golden decade, Guo said.",
+          "cn": "第四，王毅呼吁各国加强安全协调。六国需要弘扬和平、合作、开放、包容的亚洲价值观以及共同、综合、合作、可持续的安全观，拒绝外部干涉和集团对抗，加大打击跨境犯罪的力度。第五，打造灾害治理新亮点。六国需要建立跨境灾害预警合作机制，加强灾害监测、预警和应急响应方面的合作，提升防灾、减灾和救灾能力。郭嘉昆表示，王毅强调，中国愿与湄公河国家一道，按照领导人指引的方向，采取务实行动解决问题、改善民生，采取更有效的措施共同推进现代化，使澜湄合作成为区域合作以及全球南方团结和集体力量的典范，共同迎接澜湄合作新的黄金十年。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "interconnected",
+          "hint": "adj. 相互连接的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "momentum",
+          "hint": "n. 势头；动力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "safeguards",
+          "hint": "n. 保障措施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "tangible",
+          "hint": "adj. 切实的；有形的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "synergy",
+          "hint": "n. 协同效应；合力",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "solidarity",
+          "hint": "n. 团结",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "kinship",
+          "hint": "n. 亲属关系；亲密关系",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "liberalization",
+          "hint": "n. 自由化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "facilitation",
+          "hint": "n. 便利化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "livelihood",
+          "hint": "n. 生计；民生",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "foster",
+          "hint": "v. 培养；促进",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "inclusiveness",
+          "hint": "n. 包容性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "interference",
+          "hint": "n. 干涉；干预",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "confrontation",
+          "hint": "n. 对抗；对峙",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "mitigation",
+          "hint": "n. 缓解；减轻",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "well-being",
+          "hint": "n. 福祉；幸福",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "usher",
+          "hint": "v. 引领；开创",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Chinese Foreign Minister Wang Yi and his counterparts attending the 11th Lancang-Mekong Cooperation (LMC) Foreign Ministers' Meeting pose for a group photo in Beijing, China, on November 4, 2026. /Xinhua\nThe Lancang-Mekong Cooperation (LMC) countries are becoming more interconnected, with more robust growth momentum, stronger security safeguards, and closer people-to-people bonds, Guo Jiakun, a spokesperson for the Chinese Foreign Ministry, said in a press conference on Thursday.\nIn response to CGTN's request to share more details on the 11th Lancang-Mekong Cooperation Foreign Ministers' Meeting, Guo said the LMC countries agreed that over the past decade, it has grown with strong momentum in all dimensions, at various levels and in multiple areas, and delivered tangible results beneficial to all.\nGuo noted Chinese Foreign Minister Wang Yi has put forward five proposals for the future development of LMC.\nFirst, Wang urged the LMC countries to form new synergy for solidarity and collective strength. The six countries need to carry forward the LMC culture of equality, sincerity, mutual assistance and kinship, and have closer exchanges at all levels and communication on policies.\nSecond, he called on the six countries to reach new heights of open and win-win cooperation. The countries need to deepen cooperation along the New International Land-Sea Trade Corridor, promote regional trade and investment liberalization and facilitation, build the LMC Economic Development Belt, and support more small and smart livelihood programs.\nThird, Wang said the countries should foster new driving force through green development and innovation. The six countries need to expand cooperation in emerging areas such as the digital economy and artificial intelligence (AI).\nFourth, Wang called on the countries to enhance security coordination. The six countries need to carry forward the Asian values of peace, cooperation, openness and inclusiveness and the vision of common, comprehensive, cooperative and sustainable security, reject external interference and bloc confrontation, and step up efforts to fight cross-border crimes.\nFifth, create new highlights in disaster governance. The six countries need to set up a cross-border cooperation mechanism for disaster warning, and strengthen cooperation in disaster monitoring, early warning and emergency response to improve capability in disaster prevention, mitigation and relief.\nWang stressed that China stands ready to work with Mekong countries in the direction charted by our leaders, take down-to-earth actions to solve problems and improve people's well-being, and take more effective measures to jointly advance modernization, set LMC as a leading example of regional cooperation and solidarity and collective strength of the Global South, and jointly usher in a new LMC golden decade, Guo said.",
+      "fullTextCn": "2026年11月4日，中国外交部长王毅与出席第十一届澜沧江-湄公河合作外长会的各国外长在中国北京合影留念。/新华社\n中国外交部发言人郭嘉昆在周四的新闻发布会上表示，澜沧江-湄公河合作国家间的互联互通日益增强，增长势头更加强劲，安全保障更加有力，人文纽带更加紧密。在回应CGTN关于进一步了解第十一届澜沧江-湄公河合作外长会详情的请求时，郭嘉昆表示，澜湄合作国家一致认为，过去十年来，澜湄合作在各维度、各层级、各领域强劲发展，取得了惠及各方的实实在在的成果。郭嘉昆指出，中国外交部长王毅为澜湄合作的未来发展提出了五点建议。第一，王毅敦促澜湄合作国家凝聚团结和集体力量的新合力。\n\n六国需要弘扬平等、真诚、互助、亲如一家的澜湄合作文化，加强各层级交流和政策沟通。第二，他呼吁六国将开放共赢合作推向新高度。各国需要深化新国际陆海贸易走廊沿线合作，促进区域贸易和投资自由化便利化，建设澜湄经济发展带，支持更多小而美的民生项目。第三，王毅表示，各国应通过绿色发展和创新培育新动力。六国需要拓展数字经济和人工智能等新兴领域的合作。\n\n第四，王毅呼吁各国加强安全协调。六国需要弘扬和平、合作、开放、包容的亚洲价值观以及共同、综合、合作、可持续的安全观，拒绝外部干涉和集团对抗，加大打击跨境犯罪的力度。第五，打造灾害治理新亮点。六国需要建立跨境灾害预警合作机制，加强灾害监测、预警和应急响应方面的合作，提升防灾、减灾和救灾能力。郭嘉昆表示，王毅强调，中国愿与湄公河国家一道，按照领导人指引的方向，采取务实行动解决问题、改善民生，采取更有效的措施共同推进现代化，使澜湄合作成为区域合作以及全球南方团结和集体力量的典范，共同迎接澜湄合作新的黄金十年。"
+    }
+  ]
+}
