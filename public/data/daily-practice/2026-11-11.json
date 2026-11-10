@@ -1,0 +1,1028 @@
+{
+  "date": "2026-11-11",
+  "articles": [
+    {
+      "id": 1,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-03/From-robot-competitions-to-inclusive-cross-border-AI-cooperation-1RMaytL0sco/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "From robot competitions to inclusive cross‑border AI cooperation",
+      "titleCn": "从机器人竞赛到包容性跨境人工智能合作",
+      "summary": "From robot competitions to inclusive cross‑border AI cooperation",
+      "summaryCn": "文章通过RoboCup和世界人形机器人运动会等案例，探讨了具身智能与人形机器人领域跨境合作的机会、技术瓶颈与可行路径，强调开放合作、标准化接口和能力建设对让人工智能创新惠及更多国家的重要性。",
+      "wordCount": 1777,
+      "paragraphs": [
+        {
+          "en": "Robot Lightning sets a new world record at the second World Humanoid Robot Games, held at the National Speed Skating Oval (the Ice Ribbon) in Beijing, China, August 22, 2026. Editor's note: The APEC Economic Leaders' Meeting is set to convene in Shenzhen from November 18–19, 2026. Against growing global interest in {{0}} AI and cross‑border robotics collaboration, CGTN invited Zhou Changjiu, president of RoboCup Asia‑Pacific (RCAP) Confederation and vice‑president of the RoboCup Federation, to share his insights. As co‑founder of the RoboCup Humanoid Soccer League, he draws on decades‑long competition‑driven research experience to analyze opportunities, practical {{2}} and {{3}} pathways for {{1}} cross‑border AI cooperation across the Asia‑Pacific, ahead of the upcoming RCAP Changsha Invitational Tournament in December. The Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting will take place in Shenzhen, China, on November 18–19, 2026.",
+          "cn": "2026年8月22日，在中国北京国家速滑馆（冰丝带）举行的第二届世界人形机器人运动会上，机器人“闪电”创造了新的世界纪录。编者按：亚太经合组织（APEC）经济领导人会议将于2026年11月18日至19日在深圳召开。在全球对具身人工智能和跨境机器人合作日益关注的背景下，CGTN邀请RoboCup亚太区（RCAP）联合会主席、RoboCup联合会副主席周长久分享他的见解。作为RoboCup人形足球联赛的联合创始人，他凭借数十年以竞赛驱动研究的经验，在即将于12月举行的RCAP长沙邀请赛之前，分析亚太地区包容性跨境人工智能合作的机遇、实际瓶颈和可行路径。亚太经济合作组织（APEC）经济领导人会议将于2026年11月18日至19日在中国深圳举行。"
+        },
+        {
+          "en": "As artificial intelligence (AI) reshapes technology and industry worldwide, a key question is how economies can combine their technological {{4}} and industrial strengths so that more people can participate in this innovation and benefit from it. AI is moving beyond the digital {{5}} into the physical world. Embodied AI, particularly humanoid robotics, is advancing from laboratories and competition arenas toward factories and everyday settings. But turning technological {{6}} into practical applications, and individual innovations into international industrial collaboration, remains challenging. Since its first competition in 1997, RoboCup has spent nearly three decades advancing AI and robotics research through international competition.",
+          "cn": "随着人工智能（AI）重塑全球技术和产业，一个关键问题是各经济体如何结合各自的技术能力和产业优势，让更多人参与这一创新并从中受益。人工智能正从数字领域走向物理世界。具身人工智能，尤其是人形机器人，正从实验室和竞赛场走向工厂和日常场景。但将技术突破转化为实际应用、将个体创新转化为国际产业合作，仍然充满挑战。自1997年首次举办竞赛以来，RoboCup已用近三十年时间通过国际竞赛推动人工智能和机器人研究。"
+        },
+        {
+          "en": "As one of the co-founders of RoboCup's Humanoid Soccer League, I have been deeply involved in developing its international competition {{7}} and {{8}} cooperation between the global robotics research community and China’s robotics industry. This experience has convinced me that AI's value depends on both technical progress and the cooperation that puts it to use. Combining different countries' technological strengths and industrial resources can enable more developers to innovate and more sectors to benefit. Opportunities: Collaborative innovation from the robotics arena to global value chains\nHumanoid robot football offers a useful window into this cooperation. During play, fully {{9}} robots must {{10}} their surroundings, control their movements, make decisions and work together without remote control or human guidance.",
+          "cn": "作为RoboCup人形足球联赛的联合创始人之一，我深度参与了其国际竞赛框架的制定，并推动全球机器人研究界与中国机器人产业之间的合作。这一经历让我确信，人工智能的价值既取决于技术进步，也取决于将其付诸应用的合作。结合不同国家的技术优势和产业资源，可以让更多开发者进行创新，让更多行业受益。机遇：从机器人赛场到全球价值链的协同创新。人形机器人足球为这种合作提供了一个有益的窗口。在比赛中，完全自主的机器人必须在没有远程控制或人工引导的情况下感知周围环境、控制自身运动、做出决策并协同工作。"
+        },
+        {
+          "en": "Five-a-side and eleven-a-side matches extend the challenge from individual intelligence to multi-robot {{11}} and {{12}} intelligence. In August 2026, a total of 24 international RoboCup teams from 16 countries and regions participated in the RCAP Beijing Masters, held as part of the second World Humanoid Robot Games in Beijing. Using humanoid robot platforms supplied by Chinese companies, the teams tested their AI {{13}} and systems {{14}} capabilities under common competition rules. The significance went far beyond the matches. Chinese companies provided robotic hardware and engineering support, while international research teams contributed AI algorithms, software and systems integration {{15}}.",
+          "cn": "五人制和十一人制比赛将挑战从个体智能扩展到多机器人协调和集体智能。2026年8月，来自16个国家和地区的24支国际RoboCup队伍参加了作为第二届世界人形机器人运动会组成部分在北京举行的RCAP北京大师赛。这些队伍使用中国公司提供的人形机器人平台，在共同的竞赛规则下测试了各自的人工智能算法和系统集成能力。其意义远超比赛本身。中国公司提供了机器人硬件和工程支持，而国际研究团队则贡献了人工智能算法、软件和系统集成专业知识。"
+        },
+        {
+          "en": "Training, testing and competition helped both sides identify technical bottlenecks, improve hardware-software integration and {{16}} development. RCAP is now extending this model from the competition field to industrial applications. The RoboCup Asia-Pacific (RCAP) Changsha Invitational Tournament 2026, scheduled for December 18–20 in Changsha, Hunan Province, will bring together teams from China, Portugal, Brazil, Thailand, Malaysia and Singapore. The tournament will feature humanoid robots developed by a major Chinese heavy-equipment manufacturer based in the host city, a company whose core businesses include construction and agricultural machinery. The company's expansion into humanoid robotics {{17}} how established manufacturers can draw on engineering expertise, manufacturing capacity and real-world industrial environments to advance embodied AI.",
+          "cn": "训练、测试和竞赛帮助双方识别技术瓶颈、改进软硬件集成并加速开发。RCAP目前正将这一模式从竞赛领域扩展到工业应用。定于12月18日至20日在湖南长沙举行的2026年RoboCup亚太区（RCAP）长沙邀请赛将汇聚来自中国、葡萄牙、巴西、泰国、马来西亚和新加坡的队伍。该赛事将使用由总部位于主办城市的一家中国大型重型装备制造商开发的人形机器人，该公司核心业务包括建筑和农业机械。该公司向人形机器人领域的拓展表明，成熟的制造商可以借助工程专业知识、制造能力和真实工业环境来推进具身人工智能。"
+        },
+        {
+          "en": "Participants will use these robots for training, joint research and international competition, while exploring potential applications in industrial production and household services. The event aims to connect China's robot platforms and application environments with the global RoboCup developer community and leading industrial enterprises. By bringing competition, collaborative research and real-world testing together, it seeks to create a clearer pathway from technical experimentation to practical application. Industrial testing can also generate valuable operational data. Repeated trials can reveal how variations in lighting, object placement or workflow affect robot performance, helping researchers identify weaknesses and {{18}} their systems.",
+          "cn": "参赛者将使用这些机器人进行训练、联合研究和国际竞赛，同时探索在工业生产和家庭服务中的潜在应用。该活动旨在将中国的机器人平台和应用环境与全球RoboCup开发者社区及领先工业企业连接起来。通过将竞赛、合作研究和真实环境测试相结合，它力求开辟一条从技术实验到实际应用的更清晰路径。工业测试还能产生有价值的运行数据。反复试验可以揭示光照、物体摆放或工作流程的变化如何影响机器人性能，帮助研究人员发现弱点并改进系统。"
+        },
+        {
+          "en": "For these benefits to extend across borders, partners need clear agreements on data access and reuse, supported by {{19}} for security, privacy and {{20}} property. These arrangements can help turn access to industrial environments into shared opportunities for research and innovation. China's extensive robotics manufacturing {{21}}, efficient supply chains, rapid engineering {{22}} and varied applications in smart manufacturing and services offer international researchers valuable opportunities for development and {{23}}. In return, Chinese manufacturers can use the diverse AI algorithms, software solutions and technical feedback of global developers to improve their products and software ecosystems. This two-way exchange demonstrates how hardware, software, AI algorithms and application scenarios can {{24}} one another across global robotics value chains, creating more opportunities for shared innovation.",
+          "cn": "要让这些益处跨越国界，合作伙伴需要在数据访问和再利用方面达成明确协议，并辅以安全、隐私和知识产权保障。这些安排有助于将对工业环境的访问转化为研究和创新的共同机遇。中国庞大的机器人制造生态系统、高效的供应链、快速的工程迭代以及智能制造和服务领域的多样化应用，为国际研究人员提供了宝贵的发展和验证机会。反过来，中国制造商可以利用全球开发者多样的人工智能算法、软件解决方案和技术反馈来改进其产品和软件生态系统。这种双向交流表明，硬件、软件、人工智能算法和应用场景可以在全球机器人价值链上相互补充，创造更多共同创新的机会。"
+        },
+        {
+          "en": "Barriers: Technical capability alone does not guarantee real-world use\nDespite rapid advances in AI and robotics, moving a technology from the laboratory into everyday use remains difficult. The {{25}} often lie not in the intelligence of the robot itself, but in {{26}}, device interfaces, technical standards and system {{27}}. Consider a simple task: how does a service robot take an elevator? Many robots can already navigate autonomously, recognize their surroundings and avoid obstacles. Yet in some commercial buildings in Singapore and elsewhere, elevator control systems offer no usable communication interface for third-party robots.",
+          "cn": "障碍：仅靠技术能力并不能保证实际应用。尽管人工智能和机器人技术飞速发展，但将技术从实验室推向日常使用仍然困难重重。障碍往往不在于机器人本身的智能，而在于基础设施、设备接口、技术标准和系统兼容性。考虑一个简单的任务：服务机器人如何乘坐电梯？许多机器人已经能够自主导航、识别周围环境并避开障碍物。然而在新加坡及其他地方的一些商业建筑中，电梯控制系统没有为第三方机器人提供可用的通信接口。"
+        },
+        {
+          "en": "A robot may be unable to call an elevator or select a floor digitally, and may instead require an add-on mechanical arm to physically press the buttons. The contrast is striking: a robot capable of sophisticated autonomous decisions can still be held back by something as basic as an elevator interface. Of course, elevators are safety-critical systems. Access to their controls must meet requirements for physical safety, cybersecurity and building management. Safe integration requires standardized interfaces, appropriate {{28}} and clear access rules.",
+          "cn": "机器人可能无法以数字方式呼叫电梯或选择楼层，反而可能需要附加机械臂来物理按下按钮。对比鲜明：一个能够做出复杂自主决策的机器人，仍可能被电梯接口这样基本的问题所阻碍。当然，电梯是安全关键系统。对其控制系统的访问必须满足物理安全、网络安全和建筑管理的要求。安全集成需要标准化接口、适当的认证和明确的访问规则。"
+        },
+        {
+          "en": "Singapore's national standard for data exchange between robots, elevators and automated doors is a step in this direction, though upgrading existing buildings takes time. Similar problems arise in industrial automation. Robots from different manufacturers often use different communication protocols, software architectures and control systems. An AI algorithm that performs well on one platform may need substantial software adaptation, parameter tuning and testing before it can run on another. Differences in development tools, operating environments, data-use requirements and intellectual property arrangements can further complicate international joint research and the reuse of research results.",
+          "cn": "新加坡关于机器人、电梯和自动门之间数据交换的国家标准是朝这一方向迈出的一步，不过升级现有建筑需要时间。工业自动化中也存在类似问题。不同制造商的机器人往往使用不同的通信协议、软件架构和控制系统。在一个平台上表现良好的人工智能算法，在另一个平台上运行之前可能需要大量的软件适配、参数调整和测试。开发工具、运行环境、数据使用要求和知识产权安排方面的差异，可能进一步使国际联合研究和研究成果的再利用复杂化。"
+        },
+        {
+          "en": "Technical compatibility is only part of the challenge. A robot that performs well in a trial may still require further assessment or approval before deployment in another economy. Differences in certification requirements, procurement procedures and market access can add time and cost to joint projects. Cooperation therefore needs more than compatible hardware and software. It also depends on transparent requirements and coordination among technology providers, regulators and users.",
+          "cn": "技术兼容性只是挑战的一部分。在试验中表现良好的机器人，在另一个经济体部署之前仍可能需要进一步评估或审批。认证要求、采购程序和市场准入方面的差异会增加联合项目的时间和成本。因此，合作需要的不仅仅是兼容的硬件和软件。它还取决于透明的要求以及技术提供者、监管者和用户之间的协调。"
+        },
+        {
+          "en": "These examples point to a broader lesson: technological sophistication does not automatically translate into practical usability, let alone into benefits that are widely shared. A breakthrough in one component does not establish the maturity of an entire system, and success in a laboratory does not guarantee reliable performance in the real world. Wider adoption therefore depends not only on stronger AI algorithms, but also on interoperability, standardized interfaces, system safety and dependable performance in real operating environments. Pathways: Making the fruits of AI innovation more accessible worldwide through open cooperation\nHow can international collaboration lower development barriers and help more countries, companies and researchers participate in AI innovation? RoboCup's nearly three decades of experience offer practical lessons.",
+          "cn": "这些例子指向一个更广泛的教训：技术先进性并不会自动转化为实际可用性，更不用说转化为广泛共享的益处。一个组件的突破并不能确立整个系统的成熟度，实验室中的成功也不能保证在现实世界中的可靠性能。因此，更广泛的采用不仅取决于更强的人工智能算法，还取决于互操作性、标准化接口、系统安全以及在真实运行环境中的可靠性能。路径：通过开放合作让人工智能创新成果更易惠及全球。国际合作如何降低发展壁垒，帮助更多国家、公司和研究人员参与人工智能创新？RoboCup近三十年的经验提供了实际借鉴。"
+        },
+        {
+          "en": "Even when teams from different countries work on the same task and use identical hardware, they often choose very different technical approaches. Some specialize in motion control, others in computer vision and autonomous decision-making, and still others in software architecture or multi-robot coordination. Common rules, shared testing environments and technical exchanges let teams compare, validate and improve these approaches. At international competitions, I have often witnessed teams compete fiercely on the field and then, after the final whistle, exchange AI algorithms, share experience and sometimes begin long-term research partnerships. Shared technical goals leave room for different development paths.",
+          "cn": "即使来自不同国家的团队从事同一任务并使用相同的硬件，他们也常常选择截然不同的技术路径。有的专攻运动控制，有的专攻计算机视觉和自主决策，还有的专攻软件架构或多机器人协调。共同的规则、共享的测试环境和技术交流让团队能够比较、验证和改进这些方法。在国际比赛中，我经常看到各队在赛场上激烈竞争，而在终场哨响后交换人工智能算法、分享经验，有时还开启长期研究合作。共同的技术目标为不同的发展路径留出了空间。"
+        },
+        {
+          "en": "This approach is consistent with APEC's principles of voluntary cooperation and consensus. Economies should be able to exchange experience and choose technologies suited to their own needs, resources and stages of development, rather than follow a single prescribed model. Joint research and talent exchanges can support those choices, building capabilities through sustained testing and adaptation. Three practical priorities follow. First, build open and interoperable development platforms.",
+          "cn": "这种做法与APEC自愿合作和协商一致的原则相一致。各经济体应当能够交流经验，并根据自身需求、资源和发展阶段选择适合自己的技术，而不是遵循单一规定模式。联合研究和人才交流可以支持这些选择，通过持续测试和调整来建设能力。由此得出三个实际优先事项。第一，构建开放且可互操作的开发平台。"
+        },
+        {
+          "en": "Accessible software development kits, simulation tools, standardized interfaces and technical documentation can reduce integration costs and encourage the reuse of algorithms and software modules. This allows developers to spend less time on repetitive integration work and more on core technical problems. Second, make real-world applications the focus of joint R&D. Universities, research institutes and companies from different countries can work on common platforms to develop and validate solutions for smart manufacturing, logistics, public services and home assistance. China's robotics supply chains and application scenarios can complement the AI algorithms and software expertise of developers worldwide, accelerating the transition from research to deployment.",
+          "cn": "易于获取的软件开发工具包、仿真工具、标准化接口和技术文档可以降低集成成本，鼓励算法和软件模块的再利用。这使开发者能够减少在重复性集成工作上花费的时间，将更多精力投入核心技术问题。第二，将实际应用作为联合研发的重点。来自不同国家的大学、研究机构和公司可以在共同平台上合作，开发和验证智能制造、物流、公共服务和家庭辅助的解决方案。中国的机器人供应链和应用场景可以补充全球开发者的人工智能算法和软件专长，加速从研究到部署的转化。"
+        },
+        {
+          "en": "Third, strengthen research partnerships and talent exchanges across the Asia-Pacific. Joint laboratories could pair university teams with industrial partners to test robots on shared tasks, while researcher exchanges could provide practical training in deployment and maintenance. Participants could take tested methods and engineering experience back to their institutions and adapt them to local needs. International competitions can help initiate these relationships and keep partners working toward shared technical goals. Wider access to advanced products matters.",
+          "cn": "第三，加强亚太地区的研究伙伴关系和人才交流。联合实验室可以将大学团队与产业伙伴配对，在共同任务上测试机器人，而研究人员交流可以提供部署和维护方面的实践培训。参与者可以将经过测试的方法和工程经验带回各自机构，并根据当地需求进行调整。国际竞赛可以帮助建立这些关系，并推动合作伙伴朝着共同的技术目标努力。更广泛地获取先进产品很重要。"
+        },
+        {
+          "en": "So does the capacity to develop and adapt the technology behind them. Lowering barriers to innovation enables research teams in different countries to contribute according to their strengths and build lasting research and application capabilities. Such capacity-building is a gradual, long-term process, not a one-off transfer. Innovation to deployment: Leveraging China's strengths for shared global innovation\nChina's growing strengths in robotics manufacturing, supply-chain efficiency and real-world applications are creating new opportunities for AI developers around the world. At the same time, the AI algorithms, software and application expertise of international teams are helping Chinese robotics companies improve their technologies.",
+          "cn": "开发和适配这些产品背后技术的能力同样重要。降低创新壁垒使不同国家的研究团队能够根据自身优势做出贡献，并建立持久的研究和应用能力。这种能力建设是一个渐进的长期过程，而不是一次性转移。从创新到部署：发挥中国优势，促进全球共同创新。中国在机器人制造、供应链效率和实际应用方面日益增强的实力，正在为世界各地的AI开发者创造新机遇。与此同时，国际团队的AI算法、软件和应用专长也在帮助中国机器人企业改进技术。"
+        },
+        {
+          "en": "Moving from innovation to large-scale deployment still requires sustained engineering work, open collaboration and talent development. RoboCup's experience shows that competition and cooperation can reinforce each other: shared challenges encourage diverse solutions, while open exchange helps knowledge and technology advance faster. Connecting China's robotics industry and real-world application environments with the creativity of developers worldwide can lower barriers to innovation, enabling more people to contribute to and benefit from advances in robotics and AI. The long-term promise of international AI cooperation lies in translating innovation in the competition arena into practical solutions for factories, services and everyday life, delivering tangible benefits across industries and societies.",
+          "cn": "从创新走向大规模部署仍然需要持续的工程工作、开放合作和人才培养。RoboCup的经验表明，竞争与合作可以相互促进：共同的挑战鼓励多样化的解决方案，而开放交流有助于知识和技术更快进步。将中国机器人产业和真实应用环境与全球开发者的创造力连接起来，可以降低创新壁垒，让更多人能够为机器人和人工智能的进步做出贡献并从中受益。国际人工智能合作的长期前景在于将竞赛场上的创新转化为工厂、服务和日常生活的实际解决方案，为各行业和社会带来切实利益。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "embodied",
+          "hint": "adj. 具身的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 1,
+          "answer": "inclusive",
+          "hint": "adj. 包容的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "bottlenecks",
+          "hint": "n. 瓶颈",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "viable",
+          "hint": "adj. 可行的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "capabilities",
+          "hint": "n. 能力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "realm",
+          "hint": "n. 领域",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "breakthroughs",
+          "hint": "n. 突破",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "framework",
+          "hint": "n. 框架",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "fostering",
+          "hint": "v. 促进",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "autonomous",
+          "hint": "adj. 自主的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "perceive",
+          "hint": "v. 感知",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "collective",
+          "hint": "adj. 集体的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "algorithms",
+          "hint": "n. 算法",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "integration",
+          "hint": "n. 集成",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "expertise",
+          "hint": "n. 专业知识",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "accelerate",
+          "hint": "v. 加速",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "illustrates",
+          "hint": "v. 说明",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "refine",
+          "hint": "v. 改进",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "safeguards",
+          "hint": "n. 保障措施",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "intellectual",
+          "hint": "adj. 智力的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "ecosystem",
+          "hint": "n. 生态系统",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "iteration",
+          "hint": "n. 迭代",
+          "difficulty": "hard"
+        },
+        {
+          "id": 23,
+          "answer": "validation",
+          "hint": "n. 验证",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "complement",
+          "hint": "v. 补充",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "obstacles",
+          "hint": "n. 障碍",
+          "difficulty": "easy"
+        },
+        {
+          "id": 26,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "compatibility",
+          "hint": "n. 兼容性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 28,
+          "answer": "certification",
+          "hint": "n. 认证",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Robot Lightning sets a new world record at the second World Humanoid Robot Games, held at the National Speed Skating Oval (the Ice Ribbon) in Beijing, China, August 22, 2026. \nEditor's note: The APEC Economic Leaders' Meeting is set to convene in Shenzhen from November 18–19, 2026. Against growing global interest in embodied AI and cross‑border robotics collaboration, CGTN invited Zhou Changjiu, president of RoboCup Asia‑Pacific (RCAP) Confederation and vice‑president of the RoboCup Federation, to share his insights. As co‑founder of the RoboCup Humanoid Soccer League, he draws on decades‑long competition‑driven research experience to analyze opportunities, practical bottlenecks and viable pathways for inclusive cross‑border AI cooperation across the Asia‑Pacific, ahead of the upcoming RCAP Changsha Invitational Tournament in December.\nThe Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting will take place in Shenzhen, China, on November 18–19, 2026.\nAs artificial intelligence (AI) reshapes technology and industry worldwide, a key question is how economies can combine their technological capabilities and industrial strengths so that more people can participate in this innovation and benefit from it.\nAI is moving beyond the digital realm into the physical world. Embodied AI, particularly humanoid robotics, is advancing from laboratories and competition arenas toward factories and everyday settings.\nBut turning technological breakthroughs into practical applications, and individual innovations into international industrial collaboration, remains challenging.\nSince its first competition in 1997, RoboCup has spent nearly three decades advancing AI and robotics research through international competition.\nAs one of the co-founders of RoboCup's Humanoid Soccer League, I have been deeply involved in developing its international competition framework and fostering cooperation between the global robotics research community and China’s robotics industry.\nThis experience has convinced me that AI's value depends on both technical progress and the cooperation that puts it to use. Combining different countries' technological strengths and industrial resources can enable more developers to innovate and more sectors to benefit.\nOpportunities: Collaborative innovation from the robotics arena to global value chains\nHumanoid robot football offers a useful window into this cooperation.\nDuring play, fully autonomous robots must perceive their surroundings, control their movements, make decisions and work together without remote control or human guidance.\nFive-a-side and eleven-a-side matches extend the challenge from individual intelligence to multi-robot coordination and collective intelligence.\nIn August 2026, a total of 24 international RoboCup teams from 16 countries and regions participated in the RCAP Beijing Masters, held as part of the second World Humanoid Robot Games in Beijing.\nUsing humanoid robot platforms supplied by Chinese companies, the teams tested their AI algorithms and systems integration capabilities under common competition rules.\nThe significance went far beyond the matches. Chinese companies provided robotic hardware and engineering support, while international research teams contributed AI algorithms, software and systems integration expertise.\nTraining, testing and competition helped both sides identify technical bottlenecks, improve hardware-software integration and accelerate development.\nRCAP is now extending this model from the competition field to industrial applications. The RoboCup Asia-Pacific (RCAP) Changsha Invitational Tournament 2026, scheduled for December 18–20 in Changsha, Hunan Province, will bring together teams from China, Portugal, Brazil, Thailand, Malaysia and Singapore.\nThe tournament will feature humanoid robots developed by a major Chinese heavy-equipment manufacturer based in the host city, a company whose core businesses include construction and agricultural machinery.\nThe company's expansion into humanoid robotics illustrates how established manufacturers can draw on engineering expertise, manufacturing capacity and real-world industrial environments to advance embodied AI.\nParticipants will use these robots for training, joint research and international competition, while exploring potential applications in industrial production and household services.\nThe event aims to connect China's robot platforms and application environments with the global RoboCup developer community and leading industrial enterprises.\nBy bringing competition, collaborative research and real-world testing together, it seeks to create a clearer pathway from technical experimentation to practical application.\nIndustrial testing can also generate valuable operational data. Repeated trials can reveal how variations in lighting, object placement or workflow affect robot performance, helping researchers identify weaknesses and refine their systems.\nFor these benefits to extend across borders, partners need clear agreements on data access and reuse, supported by safeguards for security, privacy and intellectual property.\nThese arrangements can help turn access to industrial environments into shared opportunities for research and innovation.\nChina's extensive robotics manufacturing ecosystem, efficient supply chains, rapid engineering iteration and varied applications in smart manufacturing and services offer international researchers valuable opportunities for development and validation.\nIn return, Chinese manufacturers can use the diverse AI algorithms, software solutions and technical feedback of global developers to improve their products and software ecosystems.\nThis two-way exchange demonstrates how hardware, software, AI algorithms and application scenarios can complement one another across global robotics value chains, creating more opportunities for shared innovation.\nBarriers: Technical capability alone does not guarantee real-world use\nDespite rapid advances in AI and robotics, moving a technology from the laboratory into everyday use remains difficult.\nThe obstacles often lie not in the intelligence of the robot itself, but in infrastructure, device interfaces, technical standards and system compatibility.\nConsider a simple task: how does a service robot take an elevator?\nMany robots can already navigate autonomously, recognize their surroundings and avoid obstacles. Yet in some commercial buildings in Singapore and elsewhere, elevator control systems offer no usable communication interface for third-party robots.\nA robot may be unable to call an elevator or select a floor digitally, and may instead require an add-on mechanical arm to physically press the buttons.\nThe contrast is striking: a robot capable of sophisticated autonomous decisions can still be held back by something as basic as an elevator interface.\nOf course, elevators are safety-critical systems. Access to their controls must meet requirements for physical safety, cybersecurity and building management.\nSafe integration requires standardized interfaces, appropriate certification and clear access rules.\nSingapore's national standard for data exchange between robots, elevators and automated doors is a step in this direction, though upgrading existing buildings takes time.\nSimilar problems arise in industrial automation. Robots from different manufacturers often use different communication protocols, software architectures and control systems.\nAn AI algorithm that performs well on one platform may need substantial software adaptation, parameter tuning and testing before it can run on another.\nDifferences in development tools, operating environments, data-use requirements and intellectual property arrangements can further complicate international joint research and the reuse of research results.\nTechnical compatibility is only part of the challenge. A robot that performs well in a trial may still require further assessment or approval before deployment in another economy.\nDifferences in certification requirements, procurement procedures and market access can add time and cost to joint projects. Cooperation therefore needs more than compatible hardware and software.\nIt also depends on transparent requirements and coordination among technology providers, regulators and users.\nThese examples point to a broader lesson: technological sophistication does not automatically translate into practical usability, let alone into benefits that are widely shared.\nA breakthrough in one component does not establish the maturity of an entire system, and success in a laboratory does not guarantee reliable performance in the real world.\nWider adoption therefore depends not only on stronger AI algorithms, but also on interoperability, standardized interfaces, system safety and dependable performance in real operating environments.\nPathways: Making the fruits of AI innovation more accessible worldwide through open cooperation\nHow can international collaboration lower development barriers and help more countries, companies and researchers participate in AI innovation? RoboCup's nearly three decades of experience offer practical lessons.\nEven when teams from different countries work on the same task and use identical hardware, they often choose very different technical approaches.\nSome specialize in motion control, others in computer vision and autonomous decision-making, and still others in software architecture or multi-robot coordination.\nCommon rules, shared testing environments and technical exchanges let teams compare, validate and improve these approaches.\nAt international competitions, I have often witnessed teams compete fiercely on the field and then, after the final whistle, exchange AI algorithms, share experience and sometimes begin long-term research partnerships.\nShared technical goals leave room for different development paths. This approach is consistent with APEC's principles of voluntary cooperation and consensus.\nEconomies should be able to exchange experience and choose technologies suited to their own needs, resources and stages of development, rather than follow a single prescribed model.\nJoint research and talent exchanges can support those choices, building capabilities through sustained testing and adaptation.\nThree practical priorities follow.\nFirst, build open and interoperable development platforms. Accessible software development kits, simulation tools, standardized interfaces and technical documentation can reduce integration costs and encourage the reuse of algorithms and software modules.\nThis allows developers to spend less time on repetitive integration work and more on core technical problems.\nSecond, make real-world applications the focus of joint R&D. Universities, research institutes and companies from different countries can work on common platforms to develop and validate solutions for smart manufacturing, logistics, public services and home assistance.\nChina's robotics supply chains and application scenarios can complement the AI algorithms and software expertise of developers worldwide, accelerating the transition from research to deployment.\nThird, strengthen research partnerships and talent exchanges across the Asia-Pacific. Joint laboratories could pair university teams with industrial partners to test robots on shared tasks, while researcher exchanges could provide practical training in deployment and maintenance.\nParticipants could take tested methods and engineering experience back to their institutions and adapt them to local needs. International competitions can help initiate these relationships and keep partners working toward shared technical goals.\nWider access to advanced products matters. So does the capacity to develop and adapt the technology behind them.\nLowering barriers to innovation enables research teams in different countries to contribute according to their strengths and build lasting research and application capabilities.\nSuch capacity-building is a gradual, long-term process, not a one-off transfer.\nInnovation to deployment: Leveraging China's strengths for shared global innovation\nChina's growing strengths in robotics manufacturing, supply-chain efficiency and real-world applications are creating new opportunities for AI developers around the world.\nAt the same time, the AI algorithms, software and application expertise of international teams are helping Chinese robotics companies improve their technologies.\nMoving from innovation to large-scale deployment still requires sustained engineering work, open collaboration and talent development.\nRoboCup's experience shows that competition and cooperation can reinforce each other: shared challenges encourage diverse solutions, while open exchange helps knowledge and technology advance faster.\nConnecting China's robotics industry and real-world application environments with the creativity of developers worldwide can lower barriers to innovation, enabling more people to contribute to and benefit from advances in robotics and AI.\nThe long-term promise of international AI cooperation lies in translating innovation in the competition arena into practical solutions for factories, services and everyday life, delivering tangible benefits across industries and societies.",
+      "fullTextCn": "2026年8月22日，在中国北京国家速滑馆（冰丝带）举行的第二届世界人形机器人运动会上，机器人“闪电”创造了新的世界纪录。编者按：亚太经合组织（APEC）经济领导人会议将于2026年11月18日至19日在深圳召开。在全球对具身人工智能和跨境机器人合作日益关注的背景下，CGTN邀请RoboCup亚太区（RCAP）联合会主席、RoboCup联合会副主席周长久分享他的见解。作为RoboCup人形足球联赛的联合创始人，他凭借数十年以竞赛驱动研究的经验，在即将于12月举行的RCAP长沙邀请赛之前，分析亚太地区包容性跨境人工智能合作的机遇、实际瓶颈和可行路径。亚太经济合作组织（APEC）经济领导人会议将于2026年11月18日至19日在中国深圳举行。\n\n随着人工智能（AI）重塑全球技术和产业，一个关键问题是各经济体如何结合各自的技术能力和产业优势，让更多人参与这一创新并从中受益。人工智能正从数字领域走向物理世界。具身人工智能，尤其是人形机器人，正从实验室和竞赛场走向工厂和日常场景。但将技术突破转化为实际应用、将个体创新转化为国际产业合作，仍然充满挑战。自1997年首次举办竞赛以来，RoboCup已用近三十年时间通过国际竞赛推动人工智能和机器人研究。\n\n作为RoboCup人形足球联赛的联合创始人之一，我深度参与了其国际竞赛框架的制定，并推动全球机器人研究界与中国机器人产业之间的合作。这一经历让我确信，人工智能的价值既取决于技术进步，也取决于将其付诸应用的合作。结合不同国家的技术优势和产业资源，可以让更多开发者进行创新，让更多行业受益。机遇：从机器人赛场到全球价值链的协同创新。人形机器人足球为这种合作提供了一个有益的窗口。在比赛中，完全自主的机器人必须在没有远程控制或人工引导的情况下感知周围环境、控制自身运动、做出决策并协同工作。\n\n五人制和十一人制比赛将挑战从个体智能扩展到多机器人协调和集体智能。2026年8月，来自16个国家和地区的24支国际RoboCup队伍参加了作为第二届世界人形机器人运动会组成部分在北京举行的RCAP北京大师赛。这些队伍使用中国公司提供的人形机器人平台，在共同的竞赛规则下测试了各自的人工智能算法和系统集成能力。其意义远超比赛本身。中国公司提供了机器人硬件和工程支持，而国际研究团队则贡献了人工智能算法、软件和系统集成专业知识。\n\n训练、测试和竞赛帮助双方识别技术瓶颈、改进软硬件集成并加速开发。RCAP目前正将这一模式从竞赛领域扩展到工业应用。定于12月18日至20日在湖南长沙举行的2026年RoboCup亚太区（RCAP）长沙邀请赛将汇聚来自中国、葡萄牙、巴西、泰国、马来西亚和新加坡的队伍。该赛事将使用由总部位于主办城市的一家中国大型重型装备制造商开发的人形机器人，该公司核心业务包括建筑和农业机械。该公司向人形机器人领域的拓展表明，成熟的制造商可以借助工程专业知识、制造能力和真实工业环境来推进具身人工智能。\n\n参赛者将使用这些机器人进行训练、联合研究和国际竞赛，同时探索在工业生产和家庭服务中的潜在应用。该活动旨在将中国的机器人平台和应用环境与全球RoboCup开发者社区及领先工业企业连接起来。通过将竞赛、合作研究和真实环境测试相结合，它力求开辟一条从技术实验到实际应用的更清晰路径。工业测试还能产生有价值的运行数据。反复试验可以揭示光照、物体摆放或工作流程的变化如何影响机器人性能，帮助研究人员发现弱点并改进系统。\n\n要让这些益处跨越国界，合作伙伴需要在数据访问和再利用方面达成明确协议，并辅以安全、隐私和知识产权保障。这些安排有助于将对工业环境的访问转化为研究和创新的共同机遇。中国庞大的机器人制造生态系统、高效的供应链、快速的工程迭代以及智能制造和服务领域的多样化应用，为国际研究人员提供了宝贵的发展和验证机会。反过来，中国制造商可以利用全球开发者多样的人工智能算法、软件解决方案和技术反馈来改进其产品和软件生态系统。这种双向交流表明，硬件、软件、人工智能算法和应用场景可以在全球机器人价值链上相互补充，创造更多共同创新的机会。\n\n障碍：仅靠技术能力并不能保证实际应用。尽管人工智能和机器人技术飞速发展，但将技术从实验室推向日常使用仍然困难重重。障碍往往不在于机器人本身的智能，而在于基础设施、设备接口、技术标准和系统兼容性。考虑一个简单的任务：服务机器人如何乘坐电梯？许多机器人已经能够自主导航、识别周围环境并避开障碍物。然而在新加坡及其他地方的一些商业建筑中，电梯控制系统没有为第三方机器人提供可用的通信接口。\n\n机器人可能无法以数字方式呼叫电梯或选择楼层，反而可能需要附加机械臂来物理按下按钮。对比鲜明：一个能够做出复杂自主决策的机器人，仍可能被电梯接口这样基本的问题所阻碍。当然，电梯是安全关键系统。对其控制系统的访问必须满足物理安全、网络安全和建筑管理的要求。安全集成需要标准化接口、适当的认证和明确的访问规则。\n\n新加坡关于机器人、电梯和自动门之间数据交换的国家标准是朝这一方向迈出的一步，不过升级现有建筑需要时间。工业自动化中也存在类似问题。不同制造商的机器人往往使用不同的通信协议、软件架构和控制系统。在一个平台上表现良好的人工智能算法，在另一个平台上运行之前可能需要大量的软件适配、参数调整和测试。开发工具、运行环境、数据使用要求和知识产权安排方面的差异，可能进一步使国际联合研究和研究成果的再利用复杂化。\n\n技术兼容性只是挑战的一部分。在试验中表现良好的机器人，在另一个经济体部署之前仍可能需要进一步评估或审批。认证要求、采购程序和市场准入方面的差异会增加联合项目的时间和成本。因此，合作需要的不仅仅是兼容的硬件和软件。它还取决于透明的要求以及技术提供者、监管者和用户之间的协调。\n\n这些例子指向一个更广泛的教训：技术先进性并不会自动转化为实际可用性，更不用说转化为广泛共享的益处。一个组件的突破并不能确立整个系统的成熟度，实验室中的成功也不能保证在现实世界中的可靠性能。因此，更广泛的采用不仅取决于更强的人工智能算法，还取决于互操作性、标准化接口、系统安全以及在真实运行环境中的可靠性能。路径：通过开放合作让人工智能创新成果更易惠及全球。国际合作如何降低发展壁垒，帮助更多国家、公司和研究人员参与人工智能创新？RoboCup近三十年的经验提供了实际借鉴。\n\n即使来自不同国家的团队从事同一任务并使用相同的硬件，他们也常常选择截然不同的技术路径。有的专攻运动控制，有的专攻计算机视觉和自主决策，还有的专攻软件架构或多机器人协调。共同的规则、共享的测试环境和技术交流让团队能够比较、验证和改进这些方法。在国际比赛中，我经常看到各队在赛场上激烈竞争，而在终场哨响后交换人工智能算法、分享经验，有时还开启长期研究合作。共同的技术目标为不同的发展路径留出了空间。\n\n这种做法与APEC自愿合作和协商一致的原则相一致。各经济体应当能够交流经验，并根据自身需求、资源和发展阶段选择适合自己的技术，而不是遵循单一规定模式。联合研究和人才交流可以支持这些选择，通过持续测试和调整来建设能力。由此得出三个实际优先事项。第一，构建开放且可互操作的开发平台。\n\n易于获取的软件开发工具包、仿真工具、标准化接口和技术文档可以降低集成成本，鼓励算法和软件模块的再利用。这使开发者能够减少在重复性集成工作上花费的时间，将更多精力投入核心技术问题。第二，将实际应用作为联合研发的重点。来自不同国家的大学、研究机构和公司可以在共同平台上合作，开发和验证智能制造、物流、公共服务和家庭辅助的解决方案。中国的机器人供应链和应用场景可以补充全球开发者的人工智能算法和软件专长，加速从研究到部署的转化。\n\n第三，加强亚太地区的研究伙伴关系和人才交流。联合实验室可以将大学团队与产业伙伴配对，在共同任务上测试机器人，而研究人员交流可以提供部署和维护方面的实践培训。参与者可以将经过测试的方法和工程经验带回各自机构，并根据当地需求进行调整。国际竞赛可以帮助建立这些关系，并推动合作伙伴朝着共同的技术目标努力。更广泛地获取先进产品很重要。\n\n开发和适配这些产品背后技术的能力同样重要。降低创新壁垒使不同国家的研究团队能够根据自身优势做出贡献，并建立持久的研究和应用能力。这种能力建设是一个渐进的长期过程，而不是一次性转移。从创新到部署：发挥中国优势，促进全球共同创新。中国在机器人制造、供应链效率和实际应用方面日益增强的实力，正在为世界各地的AI开发者创造新机遇。与此同时，国际团队的AI算法、软件和应用专长也在帮助中国机器人企业改进技术。\n\n从创新走向大规模部署仍然需要持续的工程工作、开放合作和人才培养。RoboCup的经验表明，竞争与合作可以相互促进：共同的挑战鼓励多样化的解决方案，而开放交流有助于知识和技术更快进步。将中国机器人产业和真实应用环境与全球开发者的创造力连接起来，可以降低创新壁垒，让更多人能够为机器人和人工智能的进步做出贡献并从中受益。国际人工智能合作的长期前景在于将竞赛场上的创新转化为工厂、服务和日常生活的实际解决方案，为各行业和社会带来切实利益。"
+    },
+    {
+      "id": 2,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-08/From-resources-to-manufacturing-A-new-model-of-Asia-Pacific-growth-1RSS9hhd94s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "From resources to manufacturing: A new model of Asia-Pacific growth",
+      "titleCn": "从资源到制造：亚太增长的新模式",
+      "summary": "From resources to manufacturing: A new model of Asia-Pacific growth",
+      "summaryCn": "亚太地区经济体正通过整合资源、投资、技术和市场，构建更一体化的工业网络，从简单的原材料交换转向跨境的产业链合作，为区域增长创造共享机遇。",
+      "wordCount": 757,
+      "paragraphs": [
+        {
+          "en": "The supply chain behind an electric vehicle sold in Southeast Asia can stretch across continents: nickel from Indonesia, lithium from Chile, investment and manufacturing {{1}} from across Asia and a growing regional market bringing these elements together. It is a reminder that the economic value of a product increasingly lies not in any single country's resources or factories, but in the connections between them. Across the Asia-Pacific, economies are drawing on their respective strengths to build more {{0}} industrial networks, moving beyond the simple exchange of raw materials and finished goods. From mineral {{2}} to vehicle manufacturing and battery supply, these links are creating {{25}} for investment, technology transfer and industrial development across the region. Indonesia offers a {{3}} example of how a resource-rich economy can seek a greater role in global industry.",
+          "cn": "在东南亚销售的一辆电动汽车背后的供应链可以跨越多个大洲：来自印度尼西亚的镍、来自智利的锂、来自亚洲各地的投资和制造专长，以及一个将这些要素汇聚在一起的不断增长的区域市场。这提醒人们，一个产品的经济价值越来越不在于任何单一国家的资源或工厂，而在于它们之间的联系。在整个亚太地区，各经济体正利用各自的优势构建更加一体化的工业网络，超越简单的原材料和成品交换。从矿物加工到汽车制造和电池供应，这些联系正在为整个地区的投资、技术转让和工业发展创造机会。印度尼西亚提供了一个引人注目的例子，说明一个资源丰富的经济体如何寻求在全球工业中发挥更大的作用。"
+        },
+        {
+          "en": "As the world's leading nickel producer, Indonesia saw its mined nickel output increase by an estimated 13% in 2025, according to the US Geological Survey. The country has attracted investment in {{17}} {{4}} and processing, seeking to turn its mineral resources into higher-value products rather than relying on raw ore exports. A worker inspects plants at a tree nursery facility inside a nickel mining site operated by PT Vale Indonesia in Sorowako, South Sulawesi, Indonesia, February 4, 2026. Nickel is widely used in stainless steel and is also an important material in some electric vehicle batteries. By expanding its processing capacity, Indonesia is positioning itself to {{18}} in a broader industrial chain that connects mineral {{16}} with battery production and vehicle manufacturing.",
+          "cn": "作为世界领先的镍生产国，根据美国地质调查局的数据，印度尼西亚2025年的镍矿产量估计增长了13%。该国吸引了国内冶炼和加工领域的投资，寻求将其矿产资源转化为更高价值的产品，而不是依赖原矿出口。2026年2月4日，印度尼西亚南苏拉威西省索罗瓦科，一名工人在PT Vale Indonesia运营的镍矿区内检查苗圃设施的植物。镍广泛用于不锈钢，也是某些电动汽车电池的重要材料。通过扩大加工能力，印度尼西亚正将自己定位为参与一个更广泛的产业链，将矿产开采与电池生产和汽车制造连接起来。"
+        },
+        {
+          "en": "Its resources can {{5}} the technological expertise, investment and manufacturing {{6}} available elsewhere in Asia. That {{24}} is unfolding alongside the rapid {{7}} of Southeast Asia's electric vehicle market. Sales of electric cars in the region more than doubled in 2025 to exceed half a million, with such vehicles {{8}} for nearly one in five new cars sold, according to the International Energy Agency (IEA). Vietnam, Indonesia and Thailand were among the markets leading the growth. The expanding market is attracting automakers and {{20}} to the region, creating opportunities to develop local production and connect manufacturers with regional supply networks.",
+          "cn": "其资源可以补充亚洲其他地区可用的技术专长、投资和制造能力。这种合作与东南亚电动汽车市场的快速扩张同步展开。根据国际能源署（IEA）的数据，2025年该地区的电动汽车销量增长了一倍多，超过50万辆，此类车辆占新车销量的近五分之一。越南、印度尼西亚和泰国是引领增长的市场。不断扩大的市场正在吸引汽车制造商和供应商进入该地区，为发展本地生产并将制造商与区域供应网络连接起来创造了机会。"
+        },
+        {
+          "en": "Chinese carmakers have become an increasingly important part of this development. More than half of the electric cars sold in Southeast Asia in 2025 were Chinese brands, while manufacturers have also been expanding production {{19}} in the region, the IEA said. A production workshop for new energy vehicles in Zhengzhou, China, September 30, 2026. This creates a broader economic relationship: Indonesia's mineral resources can support battery-related industries, while Southeast Asia's growing consumer markets and manufacturing base provide opportunities for investment and production. The benefits can extend beyond vehicle makers to suppliers, workers and businesses involved in {{21}} and related services.",
+          "cn": "中国汽车制造商已成为这一发展中日益重要的组成部分。IEA表示，2025年东南亚销售的电动汽车中有一半以上是中国品牌，同时制造商也在该地区扩大生产设施。2026年9月30日，中国郑州，新能源汽车生产车间。这创造了更广泛的经济关系：印度尼西亚的矿产资源可以支持电池相关产业，而东南亚不断增长的消费市场和制造基地为投资和生产提供了机会。好处可以超越汽车制造商，延伸到参与零部件及相关服务的供应商、工人和企业。"
+        },
+        {
+          "en": "Further across the Pacific, Chile is seeking to turn its mineral wealth into a stronger domestic industry. A major producer of copper and lithium, the South American economy supplies materials {{12}} to {{13}}, from power grids and electric motors to rechargeable batteries. Asia received 95% of Chile's lithium exports in 2025, with China accounting for 67%, according to the country's Subsecretariat of International Economic Relations. But Chile's {{9}} extends beyond supplying overseas manufacturers. Its National Lithium Strategy aims to attract capital and technology, expand production and {{22}} the development of {{10}} industries.",
+          "cn": "再往太平洋对岸，智利正寻求将其矿产财富转化为更强大的国内产业。作为铜和锂的主要生产国，这个南美经济体供应着电气化所必需的材料，从电网和电动机到可充电电池。根据该国国际经济关系副秘书处的数据，2025年亚洲接收了智利95%的锂出口，其中中国占67%。但智利的雄心不止于供应海外制造商。其国家锂战略旨在吸引资本和技术，扩大生产并促进下游产业的发展。"
+        },
+        {
+          "en": "A {{11}} between state-owned copper producer Codelco and lithium company SQM is a key part of that effort, combining public-sector participation with private-sector expertise to develop lithium resources. Aerial view of brine ponds and processing areas at the lithium mine operated by Chilean company SQM (Sociedad Quimica Minera) in the Atacama Desert, Calama, Chile, September 12, 2022. Canada is also working to build a more complete domestic supply chain, connecting its mineral resources with processing and advanced manufacturing. As of March 2025, the country had 31 critical mineral processing facilities and 171 advanced projects, including 28 processing projects, according to the Canadian government. Its NextStar Energy battery plant in Ontario, backed by an investment of 5 billion Canadian dollars ($3.54 billion), began producing electric vehicle battery modules in 2024 and battery cells for energy storage systems in November 2025.",
+          "cn": "国有铜生产商Codelco与锂公司SQM之间的合作是这一努力的关键部分，将公共部门参与与私营部门专长相结合来开发锂资源。2022年9月12日，智利卡拉马，阿塔卡马沙漠中智利公司SQM（化学和矿业公司）运营的锂矿的盐水池和加工区鸟瞰图。加拿大也在努力建设更完整的国内供应链，将其矿产资源与加工和先进制造业连接起来。根据加拿大政府的数据，截至2025年3月，该国拥有31个关键矿物加工设施和171个先进项目，其中包括28个加工项目。其位于安大略省的NextStar Energy电池工厂在50亿加元（35.4亿美元）投资的支持下，于2024年开始生产电动汽车电池模组，并于2025年11月开始生产用于储能系统的电池电芯。"
+        },
+        {
+          "en": "The project reflects a broader effort to turn Canada's mineral resources into a {{23}} for advanced manufacturing. From Indonesia's nickel processing and Southeast Asia's expanding vehicle industry to Chile's mineral exports, these connections show how economies can turn their individual advantages into shared opportunities. When resources, investment, technology and markets {{14}} one another, cooperation can create value across borders and give more economies a {{15}} in the growth of the Asia-Pacific.",
+          "cn": "该项目反映了将加拿大的矿产资源转化为先进制造业基础的更广泛努力。从印度尼西亚的镍加工和东南亚不断扩大的汽车工业到智利的矿产出口，这些联系展示了各经济体如何将其各自优势转化为共享机遇。当资源、投资、技术和市场相互强化时，合作可以创造跨境价值，并让更多经济体在亚太地区的增长中获益。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "integrated",
+          "hint": "adj. 一体化的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "expertise",
+          "hint": "n. 专长",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "processing",
+          "hint": "n. 加工",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "striking",
+          "hint": "adj. 引人注目的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "smelting",
+          "hint": "n. 冶炼",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "complement",
+          "hint": "v. 补充",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "capabilities",
+          "hint": "n. 能力",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "expansion",
+          "hint": "n. 扩张",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "accounting",
+          "hint": "v. 占（比例）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "ambition",
+          "hint": "n. 雄心",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "downstream",
+          "hint": "adj. 下游的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "partnership",
+          "hint": "n. 合作关系",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "essential",
+          "hint": "adj. 必不可少的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "electrification",
+          "hint": "n. 电气化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "reinforce",
+          "hint": "v. 强化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "stake",
+          "hint": "n. 利益份额",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "extraction",
+          "hint": "n. 开采",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "domestic",
+          "hint": "adj. 国内的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "participate",
+          "hint": "v. 参与",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
+          "answer": "facilities",
+          "hint": "n. 设施",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "suppliers",
+          "hint": "n. 供应商",
+          "difficulty": "easy"
+        },
+        {
+          "id": 21,
+          "answer": "components",
+          "hint": "n. 零部件",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "promote",
+          "hint": "v. 促进",
+          "difficulty": "easy"
+        },
+        {
+          "id": 23,
+          "answer": "foundation",
+          "hint": "n. 基础",
+          "difficulty": "easy"
+        },
+        {
+          "id": 24,
+          "answer": "cooperation",
+          "hint": "n. 合作",
+          "difficulty": "easy"
+        },
+        {
+          "id": 25,
+          "answer": "opportunities",
+          "hint": "n. 机会",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "The supply chain behind an electric vehicle sold in Southeast Asia can stretch across continents: nickel from Indonesia, lithium from Chile, investment and manufacturing expertise from across Asia and a growing regional market bringing these elements together. It is a reminder that the economic value of a product increasingly lies not in any single country's resources or factories, but in the connections between them.\nAcross the Asia-Pacific, economies are drawing on their respective strengths to build more integrated industrial networks, moving beyond the simple exchange of raw materials and finished goods. From mineral processing to vehicle manufacturing and battery supply, these links are creating opportunities for investment, technology transfer and industrial development across the region.\nIndonesia offers a striking example of how a resource-rich economy can seek a greater role in global industry. As the world's leading nickel producer, Indonesia saw its mined nickel output increase by an estimated 13% in 2025, according to the US Geological Survey. The country has attracted investment in domestic smelting and processing, seeking to turn its mineral resources into higher-value products rather than relying on raw ore exports.\nA worker inspects plants at a tree nursery facility inside a nickel mining site operated by PT Vale Indonesia in Sorowako, South Sulawesi, Indonesia, February 4, 2026. \nNickel is widely used in stainless steel and is also an important material in some electric vehicle batteries. By expanding its processing capacity, Indonesia is positioning itself to participate in a broader industrial chain that connects mineral extraction with battery production and vehicle manufacturing. Its resources can complement the technological expertise, investment and manufacturing capabilities available elsewhere in Asia.\nThat cooperation is unfolding alongside the rapid expansion of Southeast Asia's electric vehicle market. Sales of electric cars in the region more than doubled in 2025 to exceed half a million, with such vehicles accounting for nearly one in five new cars sold, according to the International Energy Agency (IEA). Vietnam, Indonesia and Thailand were among the markets leading the growth.\nThe expanding market is attracting automakers and suppliers to the region, creating opportunities to develop local production and connect manufacturers with regional supply networks. Chinese carmakers have become an increasingly important part of this development. More than half of the electric cars sold in Southeast Asia in 2025 were Chinese brands, while manufacturers have also been expanding production facilities in the region, the IEA said.\nA production workshop for new energy vehicles in Zhengzhou, China, September 30, 2026. \nThis creates a broader economic relationship: Indonesia's mineral resources can support battery-related industries, while Southeast Asia's growing consumer markets and manufacturing base provide opportunities for investment and production. The benefits can extend beyond vehicle makers to suppliers, workers and businesses involved in components and related services.\nFurther across the Pacific, Chile is seeking to turn its mineral wealth into a stronger domestic industry. A major producer of copper and lithium, the South American economy supplies materials essential to electrification, from power grids and electric motors to rechargeable batteries. Asia received 95% of Chile's lithium exports in 2025, with China accounting for 67%, according to the country's Subsecretariat of International Economic Relations.\nBut Chile's ambition extends beyond supplying overseas manufacturers. Its National Lithium Strategy aims to attract capital and technology, expand production and promote the development of downstream industries. A partnership between state-owned copper producer Codelco and lithium company SQM is a key part of that effort, combining public-sector participation with private-sector expertise to develop lithium resources.\nAerial view of brine ponds and processing areas at the lithium mine operated by Chilean company SQM (Sociedad Quimica Minera) in the Atacama Desert, Calama, Chile, September 12, 2022. \nCanada is also working to build a more complete domestic supply chain, connecting its mineral resources with processing and advanced manufacturing. As of March 2025, the country had 31 critical mineral processing facilities and 171 advanced projects, including 28 processing projects, according to the Canadian government. Its NextStar Energy battery plant in Ontario, backed by an investment of 5 billion Canadian dollars ($3.54 billion), began producing electric vehicle battery modules in 2024 and battery cells for energy storage systems in November 2025. The project reflects a broader effort to turn Canada's mineral resources into a foundation for advanced manufacturing.\nFrom Indonesia's nickel processing and Southeast Asia's expanding vehicle industry to Chile's mineral exports, these connections show how economies can turn their individual advantages into shared opportunities. When resources, investment, technology and markets reinforce one another, cooperation can create value across borders and give more economies a stake in the growth of the Asia-Pacific.",
+      "fullTextCn": "在东南亚销售的一辆电动汽车背后的供应链可以跨越多个大洲：来自印度尼西亚的镍、来自智利的锂、来自亚洲各地的投资和制造专长，以及一个将这些要素汇聚在一起的不断增长的区域市场。这提醒人们，一个产品的经济价值越来越不在于任何单一国家的资源或工厂，而在于它们之间的联系。在整个亚太地区，各经济体正利用各自的优势构建更加一体化的工业网络，超越简单的原材料和成品交换。从矿物加工到汽车制造和电池供应，这些联系正在为整个地区的投资、技术转让和工业发展创造机会。印度尼西亚提供了一个引人注目的例子，说明一个资源丰富的经济体如何寻求在全球工业中发挥更大的作用。\n\n作为世界领先的镍生产国，根据美国地质调查局的数据，印度尼西亚2025年的镍矿产量估计增长了13%。该国吸引了国内冶炼和加工领域的投资，寻求将其矿产资源转化为更高价值的产品，而不是依赖原矿出口。2026年2月4日，印度尼西亚南苏拉威西省索罗瓦科，一名工人在PT Vale Indonesia运营的镍矿区内检查苗圃设施的植物。镍广泛用于不锈钢，也是某些电动汽车电池的重要材料。通过扩大加工能力，印度尼西亚正将自己定位为参与一个更广泛的产业链，将矿产开采与电池生产和汽车制造连接起来。\n\n其资源可以补充亚洲其他地区可用的技术专长、投资和制造能力。这种合作与东南亚电动汽车市场的快速扩张同步展开。根据国际能源署（IEA）的数据，2025年该地区的电动汽车销量增长了一倍多，超过50万辆，此类车辆占新车销量的近五分之一。越南、印度尼西亚和泰国是引领增长的市场。不断扩大的市场正在吸引汽车制造商和供应商进入该地区，为发展本地生产并将制造商与区域供应网络连接起来创造了机会。\n\n中国汽车制造商已成为这一发展中日益重要的组成部分。IEA表示，2025年东南亚销售的电动汽车中有一半以上是中国品牌，同时制造商也在该地区扩大生产设施。2026年9月30日，中国郑州，新能源汽车生产车间。这创造了更广泛的经济关系：印度尼西亚的矿产资源可以支持电池相关产业，而东南亚不断增长的消费市场和制造基地为投资和生产提供了机会。好处可以超越汽车制造商，延伸到参与零部件及相关服务的供应商、工人和企业。\n\n再往太平洋对岸，智利正寻求将其矿产财富转化为更强大的国内产业。作为铜和锂的主要生产国，这个南美经济体供应着电气化所必需的材料，从电网和电动机到可充电电池。根据该国国际经济关系副秘书处的数据，2025年亚洲接收了智利95%的锂出口，其中中国占67%。但智利的雄心不止于供应海外制造商。其国家锂战略旨在吸引资本和技术，扩大生产并促进下游产业的发展。\n\n国有铜生产商Codelco与锂公司SQM之间的合作是这一努力的关键部分，将公共部门参与与私营部门专长相结合来开发锂资源。2022年9月12日，智利卡拉马，阿塔卡马沙漠中智利公司SQM（化学和矿业公司）运营的锂矿的盐水池和加工区鸟瞰图。加拿大也在努力建设更完整的国内供应链，将其矿产资源与加工和先进制造业连接起来。根据加拿大政府的数据，截至2025年3月，该国拥有31个关键矿物加工设施和171个先进项目，其中包括28个加工项目。其位于安大略省的NextStar Energy电池工厂在50亿加元（35.4亿美元）投资的支持下，于2024年开始生产电动汽车电池模组，并于2025年11月开始生产用于储能系统的电池电芯。\n\n该项目反映了将加拿大的矿产资源转化为先进制造业基础的更广泛努力。从印度尼西亚的镍加工和东南亚不断扩大的汽车工业到智利的矿产出口，这些联系展示了各经济体如何将其各自优势转化为共享机遇。当资源、投资、技术和市场相互强化时，合作可以创造跨境价值，并让更多经济体在亚太地区的增长中获益。"
+    },
+    {
+      "id": 3,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-03/China-to-beef-up-support-for-emerging-pillar-industries-1RMc8JIk6f6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "China to beef up support for emerging pillar industries",
+      "titleCn": "中国将加大对新兴支柱产业的支持力度",
+      "summary": "China to beef up support for emerging pillar industries",
+      "summaryCn": "国家发展改革委表示，中国将加大对新兴支柱产业的支持力度，推动经济高质量发展，预计到“十五五”末新兴支柱产业产值将超过10万亿元。",
+      "wordCount": 644,
+      "paragraphs": [
+        {
+          "en": "Visitors check out an unmanned firefighting aircraft for high-rise fire suppression at the 2026 Nanchang Aviation Industry Expo, Nanchang, Jiangxi Province, east China, October 31, 2026. China will strengthen support for its emerging {{0}} industries to promote high-quality development, the National Development and Reform Commission (NDRC) said on Tuesday. The output value of emerging pillar industries is {{1}} to exceed 10 trillion yuan (about $1.4 trillion) by the end of the 15th Five-Year Plan period (2026-2030), almost doubling from nearly 6 trillion yuan last year, Ren Zhongbao, an official with the NDRC, told a press conference. In the first three quarters of 2026, China's {{2}} circuit output reached 442.8 billion units, up 23.3% year on year. The value of China's {{3}} drug out-licensing deals totaled roughly $130 billion in this period, close to the total for all of last year, according to the NDRC.",
+          "cn": "2026年10月31日，在中国东部江西省南昌市举办的2026南昌航空产业博览会上，参观者查看用于高层灭火的无人消防飞机。国家发展改革委周二表示，中国将加大对新兴支柱产业的支持力度，以推动高质量发展。国家发展改革委官员任中保在新闻发布会上表示，预计到“十五五”规划期末（2026-2030年），新兴支柱产业产值将超过10万亿元人民币（约合1.4万亿美元），比去年的近6万亿元人民币几乎翻一番。2026年前三季度，中国集成电路产量达到4428亿块，同比增长23.3%。据国家发展改革委数据，这一时期中国创新药对外授权交易总额约为1300亿美元，接近去年全年的总额。"
+        },
+        {
+          "en": "Ren said the country will increase {{4}} and financial policy support, and guide social {{5}} into emerging pillar industries. The NDRC also said China will support enterprises in taking the lead in {{6}} national science and technology projects and in building innovation platforms. China has vowed to {{7}} emerging pillar industries such as integrated circuits, aerospace, biomedicine, low-altitude economy, new energy storage and intelligent robotics to foster new growth {{8}}. China will focus on quantum technology, bio-manufacturing, hydrogen energy, nuclear fusion energy, brain-computer interfaces, embodied intelligence and 6G in developing future industries. It will also encourage regions to develop sub-sectors where they have {{9}} advantages, the NDRC said.",
+          "cn": "任中保表示，国家将加大财政和金融政策支持力度，引导社会资本进入新兴支柱产业。国家发展改革委还表示，中国将支持企业牵头实施国家科技项目、建设创新平台。中国已承诺支持集成电路、航空航天、生物医药、低空经济、新型储能和智能机器人等新兴支柱产业，以培育新的增长动能。中国将重点发展量子科技、生物制造、氢能、核聚变能、脑机接口、具身智能和6G等未来产业。国家发展改革委表示，还将鼓励各地区发展具有比较优势的细分领域。"
+        },
+        {
+          "en": "In recent years, China has taken a leading position worldwide in terms of the speed of artificial intelligence (AI) development and the scale of its applications, achieving positive results in shaping new drivers of economic growth. During the 15th Five-Year Plan period, China will deepen and expand the \"AI Plus\" {{10}}, said Wang Ruomeng of the NDRC at the press conference. Efforts will be made to organize key projects focused on \"AI Plus\" applications, {{11}} scenarios such as mining operations, aerial work and {{12}} disaster response, aiming to address industry challenges through AI technologies. The construction of national pilot application bases for AI in manufacturing, energy, transportation and healthcare will be continuously promoted. Wang also stated that during the 15th Five-Year Plan period, AI {{13}} will be strengthened and international cooperation in the AI field will be advanced.",
+          "cn": "近年来，中国在人工智能发展速度和应用规模方面处于全球领先地位，在塑造经济增长新动能方面取得了积极成效。国家发展改革委的王若萌在新闻发布会上表示，“十五五”期间，中国将深化和拓展“人工智能+”行动。将组织以“人工智能+”应用为重点的关键项目，优先考虑矿山作业、高空作业和应急救灾等场景，旨在通过人工智能技术解决行业挑战。将持续推进人工智能在制造业、能源、交通和医疗领域的国家试点应用基地建设。王若萌还表示，“十五五”期间，将加强人工智能监管，推进人工智能领域国际合作。"
+        },
+        {
+          "en": "The National Development and Reform Commission (NDRC) holds a press conference briefing on efforts to foster and expand new growth drivers in Beijing, China, November 3, 2026. Regarding the marine economy, Ma Weichen, an official with the NDRC, said at the press conference that China's gross ocean product is expected to exceed 13 trillion yuan by 2030. Ma noted that the 15th Five-Year Plan period is crucial for China's transition from a major maritime country to a strong maritime power. China will {{14}} marine equipment manufacturing, maritime transport and marine fisheries, while {{15}} new sectors like marine biomedicine, new marine materials and marine electronic information, Ma said. China's gross ocean product reached 8.5 trillion yuan in the first three quarters of 2026, up 4.9% year on year, according to data released by the Ministry of Natural Resources.",
+          "cn": "2026年11月3日，国家发展改革委在北京举行新闻发布会，介绍培育和壮大新增长动能的相关工作。关于海洋经济，国家发展改革委官员马维晨在新闻发布会上表示，预计到2030年，中国海洋生产总值将超过13万亿元人民币。马维晨指出，“十五五”时期是中国从海洋大国向海洋强国转变的关键时期。马维晨表示，中国将巩固海洋装备制造、海上运输和海洋渔业，同时培育海洋生物医药、新型海洋材料和海洋电子信息等新领域。根据自然资源部发布的数据，2026年前三季度中国海洋生产总值达到8.5万亿元人民币，同比增长4.9%。"
+        },
+        {
+          "en": "China's economy is undergoing positive and {{16}} changes, with innovation playing a growing role in driving growth, the National Bureau of Statistics (NBS) has said. New growth areas are attracting more investment as China {{17}} the shift from old growth drivers to new ones. In the first three quarters of 2026, new growth drivers continued to expand, {{18}} more than 40% to China's economic growth, NBS data revealed. Value-added industrial output rose 5.3% year on year, with equipment manufacturing up 10.2% and high-tech manufacturing rising 14.3%. China's GDP grew 4.5% year on year in the third quarter of the year, higher than the second quarter's reading of 4.3%, supported by fast-growing new drivers and fresh policy support.",
+          "cn": "国家统计局表示，中国经济正在发生积极而深刻的变化，创新在推动增长中的作用日益增强。随着中国加快新旧增长动能转换，新增长领域正在吸引更多投资。国家统计局数据显示，2026年前三季度，新增长动能持续壮大，对中国经济增长的贡献超过40%。规模以上工业增加值同比增长5.3%，其中装备制造业增长10.2%，高技术制造业增长14.3%。在快速增长的新动能和新的政策支持下，今年第三季度中国国内生产总值同比增长4.5%，高于第二季度的4.3%。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "pillar",
+          "hint": "n. 支柱",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "projected",
+          "hint": "v. 预计",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "integrated",
+          "hint": "adj. 集成的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "innovative",
+          "hint": "adj. 创新的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "fiscal",
+          "hint": "adj. 财政的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "capital",
+          "hint": "n. 资本",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "implementing",
+          "hint": "v. 实施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "bolster",
+          "hint": "v. 支持，加强",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "momentum",
+          "hint": "n. 势头，动力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "comparative",
+          "hint": "adj. 比较的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "initiative",
+          "hint": "n. 倡议，行动",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "prioritizing",
+          "hint": "v. 优先考虑",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "emergency",
+          "hint": "n. 紧急情况",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "regulation",
+          "hint": "n. 监管，法规",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "consolidate",
+          "hint": "v. 巩固",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "fostering",
+          "hint": "v. 培育",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "profound",
+          "hint": "adj. 深刻的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "accelerates",
+          "hint": "v. 加速",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "contributing",
+          "hint": "v. 贡献",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "Visitors check out an unmanned firefighting aircraft for high-rise fire suppression at the 2026 Nanchang Aviation Industry Expo, Nanchang, Jiangxi Province, east China, October 31, 2026. \nChina will strengthen support for its emerging pillar industries to promote high-quality development, the National Development and Reform Commission (NDRC) said on Tuesday.\nThe output value of emerging pillar industries is projected to exceed 10 trillion yuan (about $1.4 trillion) by the end of the 15th Five-Year Plan period (2026-2030), almost doubling from nearly 6 trillion yuan last year, Ren Zhongbao, an official with the NDRC, told a press conference.\nIn the first three quarters of 2026, China's integrated circuit output reached 442.8 billion units, up 23.3% year on year. The value of China's innovative drug out-licensing deals totaled roughly $130 billion in this period, close to the total for all of last year, according to the NDRC.\nRen said the country will increase fiscal and financial policy support, and guide social capital into emerging pillar industries.\nThe NDRC also said China will support enterprises in taking the lead in implementing national science and technology projects and in building innovation platforms.\nChina has vowed to bolster emerging pillar industries such as integrated circuits, aerospace, biomedicine, low-altitude economy, new energy storage and intelligent robotics to foster new growth momentum.\nChina will focus on quantum technology, bio-manufacturing, hydrogen energy, nuclear fusion energy, brain-computer interfaces, embodied intelligence and 6G in developing future industries. It will also encourage regions to develop sub-sectors where they have comparative advantages, the NDRC said.\nIn recent years, China has taken a leading position worldwide in terms of the speed of artificial intelligence (AI) development and the scale of its applications, achieving positive results in shaping new drivers of economic growth.\nDuring the 15th Five-Year Plan period, China will deepen and expand the \"AI Plus\" initiative, said Wang Ruomeng of the NDRC at the press conference. Efforts will be made to organize key projects focused on \"AI Plus\" applications, prioritizing scenarios such as mining operations, aerial work and emergency disaster response, aiming to address industry challenges through AI technologies.\nThe construction of national pilot application bases for AI in manufacturing, energy, transportation and healthcare will be continuously promoted.\nWang also stated that during the 15th Five-Year Plan period, AI regulation will be strengthened and international cooperation in the AI field will be advanced.\nThe National Development and Reform Commission (NDRC) holds a press conference briefing on efforts to foster and expand new growth drivers in Beijing, China, November 3, 2026. \nRegarding the marine economy, Ma Weichen, an official with the NDRC, said at the press conference that China's gross ocean product is expected to exceed 13 trillion yuan by 2030.\nMa noted that the 15th Five-Year Plan period is crucial for China's transition from a major maritime country to a strong maritime power.\nChina will consolidate marine equipment manufacturing, maritime transport and marine fisheries, while fostering new sectors like marine biomedicine, new marine materials and marine electronic information, Ma said.\nChina's gross ocean product reached 8.5 trillion yuan in the first three quarters of 2026, up 4.9% year on year, according to data released by the Ministry of Natural Resources.\nChina's economy is undergoing positive and profound changes, with innovation playing a growing role in driving growth, the National Bureau of Statistics (NBS) has said. New growth areas are attracting more investment as China accelerates the shift from old growth drivers to new ones.\nIn the first three quarters of 2026, new growth drivers continued to expand, contributing more than 40% to China's economic growth, NBS data revealed. Value-added industrial output rose 5.3% year on year, with equipment manufacturing up 10.2% and high-tech manufacturing rising 14.3%.\nChina's GDP grew 4.5% year on year in the third quarter of the year, higher than the second quarter's reading of 4.3%, supported by fast-growing new drivers and fresh policy support.",
+      "fullTextCn": "2026年10月31日，在中国东部江西省南昌市举办的2026南昌航空产业博览会上，参观者查看用于高层灭火的无人消防飞机。国家发展改革委周二表示，中国将加大对新兴支柱产业的支持力度，以推动高质量发展。国家发展改革委官员任中保在新闻发布会上表示，预计到“十五五”规划期末（2026-2030年），新兴支柱产业产值将超过10万亿元人民币（约合1.4万亿美元），比去年的近6万亿元人民币几乎翻一番。2026年前三季度，中国集成电路产量达到4428亿块，同比增长23.3%。据国家发展改革委数据，这一时期中国创新药对外授权交易总额约为1300亿美元，接近去年全年的总额。\n\n任中保表示，国家将加大财政和金融政策支持力度，引导社会资本进入新兴支柱产业。国家发展改革委还表示，中国将支持企业牵头实施国家科技项目、建设创新平台。中国已承诺支持集成电路、航空航天、生物医药、低空经济、新型储能和智能机器人等新兴支柱产业，以培育新的增长动能。中国将重点发展量子科技、生物制造、氢能、核聚变能、脑机接口、具身智能和6G等未来产业。国家发展改革委表示，还将鼓励各地区发展具有比较优势的细分领域。\n\n近年来，中国在人工智能发展速度和应用规模方面处于全球领先地位，在塑造经济增长新动能方面取得了积极成效。国家发展改革委的王若萌在新闻发布会上表示，“十五五”期间，中国将深化和拓展“人工智能+”行动。将组织以“人工智能+”应用为重点的关键项目，优先考虑矿山作业、高空作业和应急救灾等场景，旨在通过人工智能技术解决行业挑战。将持续推进人工智能在制造业、能源、交通和医疗领域的国家试点应用基地建设。王若萌还表示，“十五五”期间，将加强人工智能监管，推进人工智能领域国际合作。\n\n2026年11月3日，国家发展改革委在北京举行新闻发布会，介绍培育和壮大新增长动能的相关工作。关于海洋经济，国家发展改革委官员马维晨在新闻发布会上表示，预计到2030年，中国海洋生产总值将超过13万亿元人民币。马维晨指出，“十五五”时期是中国从海洋大国向海洋强国转变的关键时期。马维晨表示，中国将巩固海洋装备制造、海上运输和海洋渔业，同时培育海洋生物医药、新型海洋材料和海洋电子信息等新领域。根据自然资源部发布的数据，2026年前三季度中国海洋生产总值达到8.5万亿元人民币，同比增长4.9%。\n\n国家统计局表示，中国经济正在发生积极而深刻的变化，创新在推动增长中的作用日益增强。随着中国加快新旧增长动能转换，新增长领域正在吸引更多投资。国家统计局数据显示，2026年前三季度，新增长动能持续壮大，对中国经济增长的贡献超过40%。规模以上工业增加值同比增长5.3%，其中装备制造业增长10.2%，高技术制造业增长14.3%。在快速增长的新动能和新的政策支持下，今年第三季度中国国内生产总值同比增长4.5%，高于第二季度的4.3%。"
+    },
+    {
+      "id": 4,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-10-30/Frontier-tech-Sharing-AI-dividends-across-Asia-Pacific-1REVZWi1gqs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Frontier tech: Sharing AI dividends across Asia-Pacific",
+      "titleCn": "前沿科技：亚太地区共享人工智能红利",
+      "summary": "Frontier tech: Sharing AI dividends across Asia-Pacific",
+      "summaryCn": "亚太经合组织经济体面临极端天气、公共服务不均和能源需求上升等共同挑战，专家建议通过量子计算、AI预警、太空数据中心等前沿技术合作，以自愿知识交流、联合实验室和能力建设推动技术普惠。",
+      "wordCount": 551,
+      "paragraphs": [
+        {
+          "en": "Across the Asia-Pacific, {{0}} {{1}} weather, {{2}} public service {{3}} and rising energy demand driven by growing {{4}} needs present common challenges for many APEC economies. CGTN spoke with two experts in quantum computing and next-generation computing: Professor Lin Jing from City University of Hong Kong and Professor Wen Yonggang, associate provost at Nanyang Technological University and a fellow of the Singapore Academy of Engineering. AI-powered {{5}} early warning systems process real-time weather data to issue typhoon and flood {{6}} and support local disaster {{7}}. Open-source AI tools for public health are shared regionally to assist local medical teams in providing {{8}} care. Embodied intelligence {{9}} showcased at humanoid robot competitions are seen as {{10}} tools for elderly care and on-site emergency rescue, helping to fill service gaps where labor is {{11}}.",
+          "cn": "在亚太地区，频繁的极端天气、不均衡的公共服务能力以及由不断增长的计算需求驱动的能源需求上升，给许多亚太经合组织经济体带来了共同挑战。CGTN采访了两位量子计算和下一代计算领域的专家：香港城市大学的林静教授和南洋理工大学副教务长、新加坡工程院院士温永刚教授。人工智能驱动的气象预警系统处理实时天气数据，发布台风和洪水警报，支持地方灾害防备工作。开源公共卫生人工智能工具在区域内共享，帮助当地医疗团队提供常规护理。在人形机器人竞赛中展示的具身智能原型被视为有前景的养老护理和现场应急救援工具，有助于填补劳动力稀缺地区的服务缺口。"
+        },
+        {
+          "en": "Professor Lin Jing from City University of Hong Kong. Professor Lin Jing, academic curator of the \"Future Computing · Future Compute Power\" forum at the 2026 World Artificial Intelligence Conference, said quantum-AI {{12}} architectures offer unique research advantages for high-fidelity climate {{13}} and molecular-level drug development, yet the technology remains largely {{14}} to laboratory research. \"Quantum computing is still in its {{15}} research phase. It is not yet ready for widespread {{16}} as standard digital infrastructure. While it offers theoretical advantages for modelling complex natural systems, it needs {{17}} investment from governments, universities and research bodies to move forward,\" Lin said.",
+          "cn": "香港城市大学的林静教授。林静教授是2026年世界人工智能大会“未来计算·未来算力”论坛的学术策展人，她表示量子-人工智能混合架构为高保真气候模拟和分子级药物开发提供了独特的研究优势，但该技术在很大程度上仍局限于实验室研究。“量子计算仍处于基础研究阶段。它尚未准备好作为标准数字基础设施广泛部署。虽然它在模拟复杂自然系统方面具有理论优势，但需要政府、大学和研究机构持续投资才能向前推进，”林静说。"
+        },
+        {
+          "en": "\"Hong Kong can serve as a regional hub for quantum {{18}} in the Asia-Pacific, connecting talent and capital from across the globe. Partners can co-develop prototypes first, before testing suitable routes for local {{19}} and wider regional {{20}}.\"\nShe noted that open quantum cloud platforms and Asia-Pacific joint research laboratories offer a {{21}} model for collaboration. Rather than one-off technology transfers, these initiatives focus on shared computing resources, joint experiments and cross-border academic exchanges. In her view, {{22}} access to technology cannot be achieved overnight and requires {{23}}, long-term collaboration among economies at different stages of digital development. Professor Wen Yonggang, Associate Provost of Nanyang Technological University and Fellow of the Singapore Academy of Engineering.",
+          "cn": "“香港可以成为亚太地区量子合作的区域枢纽，连接全球的人才和资本。合作伙伴可以先共同开发原型，然后测试适合本地采用和更广泛区域推广的路径。”她指出，开放量子云平台和亚太联合研究实验室提供了一种可行的合作模式。这些举措侧重于共享计算资源、联合实验和跨境学术交流，而非一次性技术转让。在她看来，技术的包容性获取不可能一蹴而就，需要处于不同数字发展阶段的各经济体之间自愿、长期的合作。南洋理工大学副教务长、新加坡工程院院士温永刚教授。"
+        },
+        {
+          "en": "Sustainable computing is another shared regional challenge. Surging AI {{25}} are driving up data center power {{26}}, creating particular pressure on land-scarce economies in Southeast Asia. Wen's research examines space-based data center designs. He says space-hosted computing could harness greater solar irradiance and natural radiative cooling in space, while orbital resources could help ease land {{27}} on Earth. \"Many Southeast Asian economies have expanded their data center footprint rapidly.",
+          "cn": "可持续计算是另一个区域共同挑战。激增的人工智能工作负载推高了数据中心的电力消耗，给东南亚土地稀缺的经济体带来了特别大的压力。温永刚的研究考察了太空数据中心设计。他表示，太空托管计算可以利用太空中更强的太阳辐照度和自然辐射冷却，而轨道资源有助于缓解地球上的土地限制。“许多东南亚经济体迅速扩大了数据中心足迹。"
+        },
+        {
+          "en": "Some are drawing lessons from Singapore's {{28}} framework: aligning data center growth with renewable power supply, rolling out regular energy efficiency audits and putting guardrails in place to pursue greener digital infrastructure,\" Wen noted. He believes innovators in the Asia-Pacific may carve out distinct technical pathways for next-generation computing, similar to the divergent development trajectories seen in the global electric vehicle sector. Both experts observed that the digital divide across APEC economies means that uniform, top-down technology rollouts do not suit regional conditions. For regional cooperation on frontier technologies for the public good, voluntary knowledge exchange, joint laboratory research and capacity building are more practical approaches. They said regional stakeholders aim to translate advances in AI, quantum simulation and {{24}} computing into tangible outcomes: stronger climate {{29}}, more accessible healthcare and improved social services.",
+          "cn": "一些经济体正在借鉴新加坡的监管框架：使数据中心增长与可再生能源供应相匹配，定期开展能效审计，并设置护栏以追求更绿色的数字基础设施，”温永刚指出。他认为，亚太地区的创新者可能会为下一代计算开辟独特的技术路径，类似于全球电动汽车行业出现的分化发展轨迹。两位专家都观察到，亚太经合组织经济体之间的数字鸿沟意味着统一的、自上而下的技术推广不适合区域情况。对于前沿技术的区域公益合作，自愿知识交流、联合实验室研究和能力建设是更务实的方法。他们表示，区域利益相关者旨在将人工智能、量子模拟和可持续计算的进步转化为切实成果：更强的气候韧性、更可及的医疗保健和改善的社会服务。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "frequent",
+          "hint": "adj. 频繁的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "extreme",
+          "hint": "adj. 极端的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "uneven",
+          "hint": "adj. 不均衡的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "capacity",
+          "hint": "n. 能力；容量",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "computing",
+          "hint": "n. 计算",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "meteorological",
+          "hint": "adj. 气象的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "alerts",
+          "hint": "n. 警报",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "preparedness",
+          "hint": "n. 防备；准备状态",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "routine",
+          "hint": "adj. 常规的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "prototypes",
+          "hint": "n. 原型",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "promising",
+          "hint": "adj. 有前景的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "scarce",
+          "hint": "adj. 稀缺的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "hybrid",
+          "hint": "adj. 混合的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "simulation",
+          "hint": "n. 模拟",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "confined",
+          "hint": "adj. 局限于",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "foundational",
+          "hint": "adj. 基础的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "deployment",
+          "hint": "n. 部署",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "consistent",
+          "hint": "adj. 持续的；一致的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "collaboration",
+          "hint": "n. 合作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "adoption",
+          "hint": "n. 采用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "scaling",
+          "hint": "n. 扩展；推广",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "viable",
+          "hint": "adj. 可行的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "inclusive",
+          "hint": "adj. 包容的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "voluntary",
+          "hint": "adj. 自愿的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "workloads",
+          "hint": "n. 工作负载",
+          "difficulty": "hard"
+        },
+        {
+          "id": 26,
+          "answer": "consumption",
+          "hint": "n. 消耗",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "constraints",
+          "hint": "n. 限制",
+          "difficulty": "hard"
+        },
+        {
+          "id": 28,
+          "answer": "regulatory",
+          "hint": "adj. 监管的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 29,
+          "answer": "resilience",
+          "hint": "n. 韧性",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Across the Asia-Pacific, frequent extreme weather, uneven public service capacity and rising energy demand driven by growing computing needs present common challenges for many APEC economies.\nCGTN spoke with two experts in quantum computing and next-generation computing: Professor Lin Jing from City University of Hong Kong and Professor Wen Yonggang, associate provost at Nanyang Technological University and a fellow of the Singapore Academy of Engineering.\nAI-powered meteorological early warning systems process real-time weather data to issue typhoon and flood alerts and support local disaster preparedness.\nOpen-source AI tools for public health are shared regionally to assist local medical teams in providing routine care.\nEmbodied intelligence prototypes showcased at humanoid robot competitions are seen as promising tools for elderly care and on-site emergency rescue, helping to fill service gaps where labor is scarce.\nProfessor Lin Jing from City University of Hong Kong. \nProfessor Lin Jing, academic curator of the \"Future Computing · Future Compute Power\" forum at the 2026 World Artificial Intelligence Conference, said quantum-AI hybrid architectures offer unique research advantages for high-fidelity climate simulation and molecular-level drug development, yet the technology remains largely confined to laboratory research.\n\"Quantum computing is still in its foundational research phase. It is not yet ready for widespread deployment as standard digital infrastructure. While it offers theoretical advantages for modelling complex natural systems, it needs consistent investment from governments, universities and research bodies to move forward,\" Lin said.\n\"Hong Kong can serve as a regional hub for quantum collaboration in the Asia-Pacific, connecting talent and capital from across the globe. Partners can co-develop prototypes first, before testing suitable routes for local adoption and wider regional scaling.\"\nShe noted that open quantum cloud platforms and Asia-Pacific joint research laboratories offer a viable model for collaboration.\nRather than one-off technology transfers, these initiatives focus on shared computing resources, joint experiments and cross-border academic exchanges.\nIn her view, inclusive access to technology cannot be achieved overnight and requires voluntary, long-term collaboration among economies at different stages of digital development.\nProfessor Wen Yonggang, Associate Provost of Nanyang Technological University and Fellow of the Singapore Academy of Engineering. \nSustainable computing is another shared regional challenge.\nSurging AI workloads are driving up data center power consumption, creating particular pressure on land-scarce economies in Southeast Asia.\nWen's research examines space-based data center designs. He says space-hosted computing could harness greater solar irradiance and natural radiative cooling in space, while orbital resources could help ease land constraints on Earth.\n\"Many Southeast Asian economies have expanded their data center footprint rapidly. Some are drawing lessons from Singapore's regulatory framework: aligning data center growth with renewable power supply, rolling out regular energy efficiency audits and putting guardrails in place to pursue greener digital infrastructure,\" Wen noted.\nHe believes innovators in the Asia-Pacific may carve out distinct technical pathways for next-generation computing, similar to the divergent development trajectories seen in the global electric vehicle sector.\nBoth experts observed that the digital divide across APEC economies means that uniform, top-down technology rollouts do not suit regional conditions.\nFor regional cooperation on frontier technologies for the public good, voluntary knowledge exchange, joint laboratory research and capacity building are more practical approaches.\nThey said regional stakeholders aim to translate advances in AI, quantum simulation and sustainable computing into tangible outcomes: stronger climate resilience, more accessible healthcare and improved social services.",
+      "fullTextCn": "在亚太地区，频繁的极端天气、不均衡的公共服务能力以及由不断增长的计算需求驱动的能源需求上升，给许多亚太经合组织经济体带来了共同挑战。CGTN采访了两位量子计算和下一代计算领域的专家：香港城市大学的林静教授和南洋理工大学副教务长、新加坡工程院院士温永刚教授。人工智能驱动的气象预警系统处理实时天气数据，发布台风和洪水警报，支持地方灾害防备工作。开源公共卫生人工智能工具在区域内共享，帮助当地医疗团队提供常规护理。在人形机器人竞赛中展示的具身智能原型被视为有前景的养老护理和现场应急救援工具，有助于填补劳动力稀缺地区的服务缺口。\n\n香港城市大学的林静教授。林静教授是2026年世界人工智能大会“未来计算·未来算力”论坛的学术策展人，她表示量子-人工智能混合架构为高保真气候模拟和分子级药物开发提供了独特的研究优势，但该技术在很大程度上仍局限于实验室研究。“量子计算仍处于基础研究阶段。它尚未准备好作为标准数字基础设施广泛部署。虽然它在模拟复杂自然系统方面具有理论优势，但需要政府、大学和研究机构持续投资才能向前推进，”林静说。\n\n“香港可以成为亚太地区量子合作的区域枢纽，连接全球的人才和资本。合作伙伴可以先共同开发原型，然后测试适合本地采用和更广泛区域推广的路径。”她指出，开放量子云平台和亚太联合研究实验室提供了一种可行的合作模式。这些举措侧重于共享计算资源、联合实验和跨境学术交流，而非一次性技术转让。在她看来，技术的包容性获取不可能一蹴而就，需要处于不同数字发展阶段的各经济体之间自愿、长期的合作。南洋理工大学副教务长、新加坡工程院院士温永刚教授。\n\n可持续计算是另一个区域共同挑战。激增的人工智能工作负载推高了数据中心的电力消耗，给东南亚土地稀缺的经济体带来了特别大的压力。温永刚的研究考察了太空数据中心设计。他表示，太空托管计算可以利用太空中更强的太阳辐照度和自然辐射冷却，而轨道资源有助于缓解地球上的土地限制。“许多东南亚经济体迅速扩大了数据中心足迹。\n\n一些经济体正在借鉴新加坡的监管框架：使数据中心增长与可再生能源供应相匹配，定期开展能效审计，并设置护栏以追求更绿色的数字基础设施，”温永刚指出。他认为，亚太地区的创新者可能会为下一代计算开辟独特的技术路径，类似于全球电动汽车行业出现的分化发展轨迹。两位专家都观察到，亚太经合组织经济体之间的数字鸿沟意味着统一的、自上而下的技术推广不适合区域情况。对于前沿技术的区域公益合作，自愿知识交流、联合实验室研究和能力建设是更务实的方法。他们表示，区域利益相关者旨在将人工智能、量子模拟和可持续计算的进步转化为切实成果：更强的气候韧性、更可及的医疗保健和改善的社会服务。"
+    },
+    {
+      "id": 5,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-10-27/Anthropic-files-for-IPO-reveals-soaring-revenue-massive-net-losses-1RzGVHGukKY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Anthropic files for IPO, reveals soaring revenue, massive net losses",
+      "titleCn": "Anthropic提交IPO申请，营收飙升但净亏损巨大",
+      "summary": "US AI company Anthropic publicly filed its prospectus for an initial public offering (IPO) on Monday, which could become the largest stock market debut in history.",
+      "summaryCn": "美国AI公司Anthropic正式提交IPO招股书，有望成为史上最大规模上市，其营收快速增长但净亏损主要来自会计处理，同时面临算力成本高企和客户集中等风险。",
+      "wordCount": 668,
+      "paragraphs": [
+        {
+          "en": "A television station broadcasts Anthropic IPO news on the floor of the New York Stock Exchange in New York, US, October 26, 2026. US artificial intelligence (AI) company Anthropic publicly filed its {{0}} for an initial public offering (IPO) on Monday, which could become the largest stock market {{1}} in history. The filing, a registration statement on Form S-1 with the US Securities and Exchange Commission, did not set the number of shares to be sold or a price range. Anthropic intends to list its Class A common stock on the Nasdaq Global Select Market under the ticker symbol ANT, according to a release on the company's website. Both the company and existing shareholders will sell shares, with Goldman Sachs and Morgan Stanley named first among 24 {{2}}.",
+          "cn": "2026年10月26日，美国纽约证券交易所交易大厅的电视屏幕播放Anthropic IPO新闻。美国人工智能公司Anthropic于周一公开提交首次公开募股招股说明书，这可能成为史上最大规模的股市上市。该文件是向美国证券交易委员会提交的S-1表格注册声明，但未设定发行股数或价格区间。根据公司网站发布的消息，Anthropic计划在纳斯达克全球精选市场上市其A类普通股，股票代码为ANT。公司和现有股东都将出售股份，高盛和摩根士丹利在24家承销商中名列前茅。"
+        },
+        {
+          "en": "The company is expected to begin trading in mid-November, and backers hope for a {{3}} of up to $2 trillion, though some investors have weighed a figure closer to $1.5 trillion, according to Reuters. A news ticker displays Anthropic IPO news on the floor of the New York Stock Exchange in New York, US, October 26, 2026. The prospectus offers the first detailed look at the finances of the developer of the Claude AI models. Revenues reached $16.29 billion in the first half of 2026, up from $1.16 billion year on year, after growing from $41 million in 2023 to $386 million in 2024 and $4.59 billion in 2025. Revenues in the second quarter alone were $11.56 billion, and the company reported its first quarterly operating profit of $974 million.",
+          "cn": "该公司预计将于11月中旬开始交易，支持者希望估值高达2万亿美元，尽管一些投资者考虑的数字更接近1.5万亿美元，据路透社报道。2026年10月26日，纽约证券交易所交易大厅的新闻滚动条显示Anthropic IPO新闻。招股书首次详细披露了Claude AI模型开发商的财务状况。2026年上半年营收达到162.9亿美元，高于去年同期的11.6亿美元，此前从2023年的4100万美元增长到2024年的3.86亿美元和2025年的45.9亿美元。仅第二季度营收就达115.6亿美元，公司报告了首个季度运营利润9.74亿美元。"
+        },
+        {
+          "en": "The headline losses are far larger, but most {{5}} from accounting {{6}} rather than cash spending. Anthropic recorded a net loss of $80.7 billion in the first half of 2026, of which $72.4 billion came from changes in the fair value of {{7}} notes and other {{8}} as the company's own valuation climbed. Its operating loss for the period was $693 million, while operating cash flow turned positive at $3.93 billion. Cash and short-term investments totaled $131.7 billion at June 30. The filing warns that this rapid pace may not last.",
+          "cn": "头条亏损数字要大得多，但大部分源于会计费用而非现金支出。Anthropic在2026年上半年录得净亏损807亿美元，其中724亿美元来自公司自身估值攀升导致的可转换票据和其他工具公允价值变动。该期间运营亏损为6.93亿美元，而运营现金流转为正值39.3亿美元。截至6月30日，现金和短期投资总额为1317亿美元。招股书警告称，这种快速增长步伐可能不会持续。"
+        },
+        {
+          "en": "\"We cannot assure you [revenue] will continue to grow at all,\" the company said in the prospectus, which also notes it is on track for a second {{23}} quarter of {{9}} operating profit. Spending on {{24}} power remains the central cost. Anthropic spent nearly $9 billion on computing resources and {{10}} in the first half of 2026, and has {{11}} to $518 billion in future infrastructure spending. It has agreed to spend at least $110 billion with Amazon through April 2036 and at least $114.5 billion with Google through July 2033. Amazon holds $6.2 billion of notes that convert into non-voting stock, capped at 12% of the company.",
+          "cn": "“我们无法保证（营收）会继续增长，”该公司在招股书中表示，并指出其有望连续第二个季度实现调整后运营利润。算力支出仍是核心成本。Anthropic在2026年上半年在计算资源和基础设施上花费了近90亿美元，并已承诺未来基础设施支出5180亿美元。它已同意到2036年4月至少向亚马逊支出1100亿美元，到2033年7月至少向谷歌支出1145亿美元。亚马逊持有62亿美元可转换为无投票权股票的票据，上限为公司12%的股份。"
+        },
+        {
+          "en": "By September 30, more than 1,900 customers generated at least $1 million each in {{12}} annual revenue, and more than 11,900 generated at least $100,000, up from 950 a year earlier. Existing customers spend roughly nine times what they did a year ago, but two unnamed customers {{13}} for about 23% of {{4}} in the first half of 2026. Public investors will be able to buy the shares but will not {{14}} the company. A single Class F share held by the seven co-founders carries 50.1% of every stockholder vote, and a trust will elect a majority of the board. A Public Benefit Fund will hold 5% of the company in non-voting shares, and each co-founder has {{15}} to give 80% of their personal Anthropic equity to {{16}} causes.",
+          "cn": "截至9月30日，超过1900家客户在过去12个月的年化营收中各自贡献至少100万美元，超过11900家客户贡献至少10万美元，高于一年前的950家。现有客户的支出约为一年前的九倍，但两个未具名客户占2026年上半年营收的约23%。公众投资者将能够购买股票，但不会主导公司。七位联合创始人持有的一股F类股票在每次股东投票中拥有50.1%的投票权，一个信托将选举董事会多数成员。一个公共利益基金将持有公司5%的无投票权股份，每位联合创始人都承诺将个人Anthropic股权的80%捐给慈善事业。"
+        },
+        {
+          "en": "The prospectus devotes sections to risk factors, including warnings that advanced AI could pose \"{{17}} or {{18}} risks to humanity\" and that {{19}} from extreme harm could exceed what any {{20}} can cover. Anthropic raised $65 billion in May at a $965-billion valuation. A debut above $2 trillion would {{21}} SpaceX's $1.77-trillion listing in June, the current record. Reuters has reported Anthropic's third-quarter revenue of $16.8 billion and forward {{22}} pointing to revenue of about $190 billion to $200 billion in 2028.",
+          "cn": "招股书用专门章节列出风险因素，包括警告先进AI可能对人类构成“灾难性或生存性风险”，以及极端伤害的责任可能超出任何保险公司的承保能力。Anthropic在5月以9650亿美元估值融资650亿美元。若上市估值超过2万亿美元，将超越SpaceX在6月创下的1.77万亿美元上市纪录，成为新的纪录。路透社报道称，Anthropic第三季度营收为168亿美元，前瞻性预测显示2028年营收约为1900亿至2000亿美元。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "prospectus",
+          "hint": "n. 招股说明书",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "debut",
+          "hint": "n. 首次亮相/上市",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "underwriters",
+          "hint": "n. 承销商",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "valuation",
+          "hint": "n. 估值",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "revenues",
+          "hint": "n. 营收",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "stem",
+          "hint": "v. 源于",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "charges",
+          "hint": "n. 费用/扣款",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "convertible",
+          "hint": "adj. 可转换的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "instruments",
+          "hint": "n. 金融工具",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "adjusted",
+          "hint": "adj. 调整后的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "committed",
+          "hint": "v. 承诺",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "trailing",
+          "hint": "adj. 过去12个月的/滚动",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "accounted",
+          "hint": "v. 占（比例）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "steer",
+          "hint": "v. 控制/引导",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "pledged",
+          "hint": "v. 承诺",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "philanthropic",
+          "hint": "adj. 慈善的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "catastrophic",
+          "hint": "adj. 灾难性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "existential",
+          "hint": "adj. 生存性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "liability",
+          "hint": "n. 责任/负债",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "insurer",
+          "hint": "n. 保险公司",
+          "difficulty": "easy"
+        },
+        {
+          "id": 21,
+          "answer": "surpass",
+          "hint": "v. 超过",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "projections",
+          "hint": "n. 预测",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "consecutive",
+          "hint": "adj. 连续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "computing",
+          "hint": "n. 计算/算力",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "A television station broadcasts Anthropic IPO news on the floor of the New York Stock Exchange in New York, US, October 26, 2026. \nUS artificial intelligence (AI) company Anthropic publicly filed its prospectus for an initial public offering (IPO) on Monday, which could become the largest stock market debut in history.\nThe filing, a registration statement on Form S-1 with the US Securities and Exchange Commission, did not set the number of shares to be sold or a price range. Anthropic intends to list its Class A common stock on the Nasdaq Global Select Market under the ticker symbol ANT, according to a release on the company's website.\nBoth the company and existing shareholders will sell shares, with Goldman Sachs and Morgan Stanley named first among 24 underwriters. The company is expected to begin trading in mid-November, and backers hope for a valuation of up to $2 trillion, though some investors have weighed a figure closer to $1.5 trillion, according to Reuters.\nA news ticker displays Anthropic IPO news on the floor of the New York Stock Exchange in New York, US, October 26, 2026. \nThe prospectus offers the first detailed look at the finances of the developer of the Claude AI models. Revenues reached $16.29 billion in the first half of 2026, up from $1.16 billion year on year, after growing from $41 million in 2023 to $386 million in 2024 and $4.59 billion in 2025. Revenues in the second quarter alone were $11.56 billion, and the company reported its first quarterly operating profit of $974 million.\nThe headline losses are far larger, but most stem from accounting charges rather than cash spending. Anthropic recorded a net loss of $80.7 billion in the first half of 2026, of which $72.4 billion came from changes in the fair value of convertible notes and other instruments as the company's own valuation climbed. Its operating loss for the period was $693 million, while operating cash flow turned positive at $3.93 billion. Cash and short-term investments totaled $131.7 billion at June 30.\nThe filing warns that this rapid pace may not last. \"We cannot assure you [revenue] will continue to grow at all,\" the company said in the prospectus, which also notes it is on track for a second consecutive quarter of adjusted operating profit.\nSpending on computing power remains the central cost. Anthropic spent nearly $9 billion on computing resources and infrastructure in the first half of 2026, and has committed to $518 billion in future infrastructure spending. It has agreed to spend at least $110 billion with Amazon through April 2036 and at least $114.5 billion with Google through July 2033. Amazon holds $6.2 billion of notes that convert into non-voting stock, capped at 12% of the company.\nBy September 30, more than 1,900 customers generated at least $1 million each in trailing annual revenue, and more than 11,900 generated at least $100,000, up from 950 a year earlier. Existing customers spend roughly nine times what they did a year ago, but two unnamed customers accounted for about 23% of revenues in the first half of 2026.\nPublic investors will be able to buy the shares but will not steer the company. A single Class F share held by the seven co-founders carries 50.1% of every stockholder vote, and a trust will elect a majority of the board. A Public Benefit Fund will hold 5% of the company in non-voting shares, and each co-founder has pledged to give 80% of their personal Anthropic equity to philanthropic causes.\nThe prospectus devotes sections to risk factors, including warnings that advanced AI could pose \"catastrophic or existential risks to humanity\" and that liability from extreme harm could exceed what any insurer can cover.\nAnthropic raised $65 billion in May at a $965-billion valuation. A debut above $2 trillion would surpass SpaceX's $1.77-trillion listing in June, the current record. Reuters has reported Anthropic's third-quarter revenue of $16.8 billion and forward projections pointing to revenue of about $190 billion to $200 billion in 2028.",
+      "fullTextCn": "2026年10月26日，美国纽约证券交易所交易大厅的电视屏幕播放Anthropic IPO新闻。美国人工智能公司Anthropic于周一公开提交首次公开募股招股说明书，这可能成为史上最大规模的股市上市。该文件是向美国证券交易委员会提交的S-1表格注册声明，但未设定发行股数或价格区间。根据公司网站发布的消息，Anthropic计划在纳斯达克全球精选市场上市其A类普通股，股票代码为ANT。公司和现有股东都将出售股份，高盛和摩根士丹利在24家承销商中名列前茅。\n\n该公司预计将于11月中旬开始交易，支持者希望估值高达2万亿美元，尽管一些投资者考虑的数字更接近1.5万亿美元，据路透社报道。2026年10月26日，纽约证券交易所交易大厅的新闻滚动条显示Anthropic IPO新闻。招股书首次详细披露了Claude AI模型开发商的财务状况。2026年上半年营收达到162.9亿美元，高于去年同期的11.6亿美元，此前从2023年的4100万美元增长到2024年的3.86亿美元和2025年的45.9亿美元。仅第二季度营收就达115.6亿美元，公司报告了首个季度运营利润9.74亿美元。\n\n头条亏损数字要大得多，但大部分源于会计费用而非现金支出。Anthropic在2026年上半年录得净亏损807亿美元，其中724亿美元来自公司自身估值攀升导致的可转换票据和其他工具公允价值变动。该期间运营亏损为6.93亿美元，而运营现金流转为正值39.3亿美元。截至6月30日，现金和短期投资总额为1317亿美元。招股书警告称，这种快速增长步伐可能不会持续。\n\n“我们无法保证（营收）会继续增长，”该公司在招股书中表示，并指出其有望连续第二个季度实现调整后运营利润。算力支出仍是核心成本。Anthropic在2026年上半年在计算资源和基础设施上花费了近90亿美元，并已承诺未来基础设施支出5180亿美元。它已同意到2036年4月至少向亚马逊支出1100亿美元，到2033年7月至少向谷歌支出1145亿美元。亚马逊持有62亿美元可转换为无投票权股票的票据，上限为公司12%的股份。\n\n截至9月30日，超过1900家客户在过去12个月的年化营收中各自贡献至少100万美元，超过11900家客户贡献至少10万美元，高于一年前的950家。现有客户的支出约为一年前的九倍，但两个未具名客户占2026年上半年营收的约23%。公众投资者将能够购买股票，但不会主导公司。七位联合创始人持有的一股F类股票在每次股东投票中拥有50.1%的投票权，一个信托将选举董事会多数成员。一个公共利益基金将持有公司5%的无投票权股份，每位联合创始人都承诺将个人Anthropic股权的80%捐给慈善事业。\n\n招股书用专门章节列出风险因素，包括警告先进AI可能对人类构成“灾难性或生存性风险”，以及极端伤害的责任可能超出任何保险公司的承保能力。Anthropic在5月以9650亿美元估值融资650亿美元。若上市估值超过2万亿美元，将超越SpaceX在6月创下的1.77万亿美元上市纪录，成为新的纪录。路透社报道称，Anthropic第三季度营收为168亿美元，前瞻性预测显示2028年营收约为1900亿至2000亿美元。"
+    }
+  ]
+}
