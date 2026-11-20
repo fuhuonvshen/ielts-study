@@ -1,0 +1,778 @@
+{
+  "date": "2026-11-21",
+  "articles": [
+    {
+      "id": 1,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-12/China-Film-Showcase-brings-Chinese-cinema-to-Dublin-1S0myvcz5Zu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "China Film Showcase brings Chinese cinema to Dublin",
+      "titleCn": "中国电影展映将中国电影带到都柏林",
+      "summary": "The China Film Showcase was held on Tuesday at the Stella Cinema in Dublin, Ireland, bringing together more than 200 guests and moviegoers.",
+      "summaryCn": "中国电影展映在都柏林举办，展映了三部中国影片，旨在增进爱尔兰观众对当代中国电影的了解并加强两国文化联系。",
+      "wordCount": 405,
+      "paragraphs": [
+        {
+          "en": "The China Film {{0}} was held on Tuesday at the Stella Cinema in Dublin, Ireland, bringing together more than 200 {{1}} and {{2}}. Attendees included Jiang Haiqing, a member of China Media Group's (CMG) {{3}} board and chairman of China International Television Corporation (CITVC); Zhao Yingguang, chargé d'affaires ad {{4}} of the Chinese Embassy in Ireland; former Irish Prime Minister Enda Kenny; former Irish Ambassador to China Declan Kelleher; former European Parliament President Pat Cox; John Kennedy, {{5}} officer at Ireland's Department of Culture, Communications and Sport; Liang Hong, director of CMG's Film, Drama and Documentary Center; Dublin City Councillor Danny Byrne; and Anthony Leo, CEO of animation studio Cartoon Saloon. Jiang Haiqing, a member of CMG's editorial board and chairman of CITVC, addresses the launch event in Dublin, Ireland, November 10, 2026. /CMG\nJiang noted that CMG has long been {{6}} to promoting {{7}} in the film industry and international exchange. She expressed hope that the screenings would give Irish audiences a better understanding of {{8}} Chinese cinema and help {{9}} cultural ties between the two countries.",
+          "cn": "中国电影展映于周二在爱尔兰都柏林的斯特拉电影院举行，汇聚了200多位嘉宾和影迷。出席者包括中国媒体集团（CMG）编委会成员、中国国际电视总公司（CITVC）董事长姜海清；中国驻爱尔兰使馆临时代办赵英光；爱尔兰前总理恩达·肯尼；爱尔兰前驻华大使戴克澜；欧洲议会前议长帕特·考克斯；爱尔兰文化、通信和体育部首席官员约翰·肯尼迪；CMG影视剧纪录片中心主任梁红；都柏林市议员丹尼·伯恩；以及动画工作室卡通沙龙首席执行官安东尼·利奥。2026年11月10日，CMG编委会成员、CITVC董事长姜海清在爱尔兰都柏林启动仪式上致辞。/CMG 姜海清指出，CMG长期致力于推动电影产业创新和国际交流。她表示，希望展映能让爱尔兰观众更好地了解当代中国电影，并有助于加强两国文化纽带。"
+        },
+        {
+          "en": "John Kennedy, principal officer at Ireland's Department of Culture, Communications and Sport, addresses the launch event in Dublin, Ireland, November 10, 2026. /CMG\nKennedy said film serves as an important {{10}} across languages and national borders, {{11}} mutual understanding and strengthening {{12}} relations. He expressed hope for closer {{13}} between the film industries of China and Ireland. Liang Hong, director of CMG's Film, Drama and Documentary Center, at the launch event in Dublin, Ireland, November 10, 2026. /CMG\nAs part of the showcase, a special screening of CMG's {{14}} Blue Planet Outside the Window, also known as Shenzhou 13, was held followed by a discussion.",
+          "cn": "2026年11月10日，爱尔兰文化、通信和体育部首席官员约翰·肯尼迪在爱尔兰都柏林启动仪式上致辞。/CMG 肯尼迪表示，电影是跨越语言和国界的重要桥梁，促进相互理解并加强双边关系。他希望中爱两国电影产业加强合作。2026年11月10日，CMG影视剧纪录片中心主任梁红在爱尔兰都柏林启动仪式上。/CMG 作为展映的一部分，特别放映了CMG纪录片《窗外是蓝星》（又名《神舟十三号》），随后进行了讨论。"
+        },
+        {
+          "en": "The film features 8K footage of Earth captured from orbit, offering a {{15}} on the planet from space. The cinema quickly filled to {{16}}, with additional seats added to {{17}} the audience. Liang thanked Irish audiences for their warm response and announced that the documentary had won the Best Documentary/Science and Education Film award at the China Golden Rooster Awards. She said documentaries can {{18}} national borders and bring people closer through shared emotions, adding that CMG hopes to explore joint documentary projects with Irish counterparts. The showcase also featured two other CMG productions, the documentary Fabric of Lives and the animated film The Reunion Journey.",
+          "cn": "该片采用从轨道拍摄的8K地球影像，提供了从太空观看地球的视角。影院很快座无虚席，并增加了座位以容纳观众。梁红感谢爱尔兰观众的热烈反响，并宣布该纪录片获得中国电影金鸡奖最佳科教片奖。她表示，纪录片可以超越国界，通过共同情感拉近人们距离，并补充说CMG希望与爱尔兰同行探索联合纪录片项目。展映还放映了另外两部CMG作品：纪录片《人生织锦》和动画电影《团圆之旅》。"
+        },
+        {
+          "en": "Together, the three films showcased the {{19}} of themes and artistic styles in contemporary Chinese {{20}}.",
+          "cn": "这三部影片共同展示了当代中国电影在主题和艺术风格上的多样性。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "Showcase",
+          "hint": "n. 展映",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "guests",
+          "hint": "n. 嘉宾",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "moviegoers",
+          "hint": "n. 影迷",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "editorial",
+          "hint": "adj. 编委会的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "interim",
+          "hint": "adj. 临时的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "principal",
+          "hint": "adj. 首席的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "committed",
+          "hint": "adj. 致力于的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "innovation",
+          "hint": "n. 创新",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "contemporary",
+          "hint": "adj. 当代的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "strengthen",
+          "hint": "v. 加强",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "bridge",
+          "hint": "n. 桥梁",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "fostering",
+          "hint": "v. 促进",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "bilateral",
+          "hint": "adj. 双边的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "cooperation",
+          "hint": "n. 合作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "documentary",
+          "hint": "n. 纪录片",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "perspective",
+          "hint": "n. 视角",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "capacity",
+          "hint": "n. 容量",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "accommodate",
+          "hint": "v. 容纳",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "transcend",
+          "hint": "v. 超越",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "diversity",
+          "hint": "n. 多样性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "filmmaking",
+          "hint": "n. 电影制作",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "The China Film Showcase was held on Tuesday at the Stella Cinema in Dublin, Ireland, bringing together more than 200 guests and moviegoers.\nAttendees included Jiang Haiqing, a member of China Media Group's (CMG) editorial board and chairman of China International Television Corporation (CITVC); Zhao Yingguang, chargé d'affaires ad interim of the Chinese Embassy in Ireland; former Irish Prime Minister Enda Kenny; former Irish Ambassador to China Declan Kelleher; former European Parliament President Pat Cox; John Kennedy, principal officer at Ireland's Department of Culture, Communications and Sport; Liang Hong, director of CMG's Film, Drama and Documentary Center; Dublin City Councillor Danny Byrne; and Anthony Leo, CEO of animation studio Cartoon Saloon.\nJiang Haiqing, a member of CMG's editorial board and chairman of CITVC, addresses the launch event in Dublin, Ireland, November 10, 2026. /CMG\nJiang noted that CMG has long been committed to promoting innovation in the film industry and international exchange.\nShe expressed hope that the screenings would give Irish audiences a better understanding of contemporary Chinese cinema and help strengthen cultural ties between the two countries.\nJohn Kennedy, principal officer at Ireland's Department of Culture, Communications and Sport, addresses the launch event in Dublin, Ireland, November 10, 2026. /CMG\nKennedy said film serves as an important bridge across languages and national borders, fostering mutual understanding and strengthening bilateral relations.\nHe expressed hope for closer cooperation between the film industries of China and Ireland.\nLiang Hong, director of CMG's Film, Drama and Documentary Center, at the launch event in Dublin, Ireland, November 10, 2026. /CMG\nAs part of the showcase, a special screening of CMG's documentary Blue Planet Outside the Window, also known as Shenzhou 13, was held followed by a discussion.\nThe film features 8K footage of Earth captured from orbit, offering a perspective on the planet from space. The cinema quickly filled to capacity, with additional seats added to accommodate the audience.\nLiang thanked Irish audiences for their warm response and announced that the documentary had won the Best Documentary/Science and Education Film award at the China Golden Rooster Awards.\nShe said documentaries can transcend national borders and bring people closer through shared emotions, adding that CMG hopes to explore joint documentary projects with Irish counterparts.\nThe showcase also featured two other CMG productions, the documentary Fabric of Lives and the animated film The Reunion Journey. Together, the three films showcased the diversity of themes and artistic styles in contemporary Chinese filmmaking.",
+      "fullTextCn": "中国电影展映于周二在爱尔兰都柏林的斯特拉电影院举行，汇聚了200多位嘉宾和影迷。出席者包括中国媒体集团（CMG）编委会成员、中国国际电视总公司（CITVC）董事长姜海清；中国驻爱尔兰使馆临时代办赵英光；爱尔兰前总理恩达·肯尼；爱尔兰前驻华大使戴克澜；欧洲议会前议长帕特·考克斯；爱尔兰文化、通信和体育部首席官员约翰·肯尼迪；CMG影视剧纪录片中心主任梁红；都柏林市议员丹尼·伯恩；以及动画工作室卡通沙龙首席执行官安东尼·利奥。2026年11月10日，CMG编委会成员、CITVC董事长姜海清在爱尔兰都柏林启动仪式上致辞。/CMG 姜海清指出，CMG长期致力于推动电影产业创新和国际交流。她表示，希望展映能让爱尔兰观众更好地了解当代中国电影，并有助于加强两国文化纽带。\n\n2026年11月10日，爱尔兰文化、通信和体育部首席官员约翰·肯尼迪在爱尔兰都柏林启动仪式上致辞。/CMG 肯尼迪表示，电影是跨越语言和国界的重要桥梁，促进相互理解并加强双边关系。他希望中爱两国电影产业加强合作。2026年11月10日，CMG影视剧纪录片中心主任梁红在爱尔兰都柏林启动仪式上。/CMG 作为展映的一部分，特别放映了CMG纪录片《窗外是蓝星》（又名《神舟十三号》），随后进行了讨论。\n\n该片采用从轨道拍摄的8K地球影像，提供了从太空观看地球的视角。影院很快座无虚席，并增加了座位以容纳观众。梁红感谢爱尔兰观众的热烈反响，并宣布该纪录片获得中国电影金鸡奖最佳科教片奖。她表示，纪录片可以超越国界，通过共同情感拉近人们距离，并补充说CMG希望与爱尔兰同行探索联合纪录片项目。展映还放映了另外两部CMG作品：纪录片《人生织锦》和动画电影《团圆之旅》。\n\n这三部影片共同展示了当代中国电影在主题和艺术风格上的多样性。"
+    },
+    {
+      "id": 2,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-11-19/Somalia-asks-UAE-ambassador-to-leave-within-72-hours-1ScLHe2diXS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Somalia asks UAE ambassador to leave within 72 hours",
+      "titleCn": "索马里要求阿联酋大使72小时内离境",
+      "summary": "Somalia has ordered the United Arab Emirates (UAE) ambassador to leave the country within 72 hours and recalled its own envoy from Abu Dhabi, accusing the Gulf state of violating its sovereignty.",
+      "summaryCn": "索马里指责阿联酋侵犯其主权，要求阿联酋大使72小时内离境并召回本国特使，此举是两国关系因港口协议和地区干预而持续紧张的最新升级。",
+      "wordCount": 302,
+      "paragraphs": [
+        {
+          "en": "Somalia has ordered the United Arab Emirates (UAE) ambassador to leave the country within 72 hours and {{0}} its own {{1}} from Abu Dhabi, {{2}} the Gulf state of violating its {{3}}. Information Minister Abdifatah Kasim Mohamud {{4}} the decision on Thursday, warning that action would be taken against anyone {{5}} with the UAE in what he described as an \"open {{6}}\" of Somalia. The minister did not specify the {{7}} {{8}}. However, President Hassan Sheikh Mohamud accused the UAE in a speech on Tuesday of providing economic and political support to some regional Somali administrations in opposition to the federal government. The UAE foreign ministry had not immediately commented on the latest developments. The latest move follows Somalia's decision in January to {{9}} all agreements with the UAE, including port deals and defense and security cooperation, accusing Abu Dhabi of {{10}} its sovereignty.",
+          "cn": "索马里已下令阿拉伯联合酋长国（阿联酋）大使在72小时内离境，并召回驻阿布扎比的特使，指责这个海湾国家侵犯其主权。信息部长阿卜迪法塔赫·卡西姆·马哈茂德周四宣布了这一决定，并警告将对任何与阿联酋合作的人采取行动，他称这是对索马里的“公开入侵”。这位部长没有具体说明所指控的侵犯行为。然而，总统哈桑·谢赫·马哈茂德在周二的讲话中指责阿联酋向索马里一些反对联邦政府的地区行政当局提供经济和政治支持。阿联酋外交部尚未就最新事态发展立即发表评论。这一最新举动是在索马里1月决定终止与阿联酋的所有协议（包括港口交易以及国防和安全合作）之后做出的，索马里当时指责阿布扎比破坏其主权。"
+        },
+        {
+          "en": "Three self-governing Somali regions with close ties to the UAE {{11}} the federal government's decision at the time. The UAE has {{12}} its economic, military and diplomatic presence across the Horn of Africa, including through investments in ports and military {{13}} along key international shipping routes. Relations have also been shaped by tensions over the {{14}} of power within Somalia. The federal government has {{15}} to extend its authority across the country and defeat Islamist militants despite years of international support, including African peacekeeping operations and US air strikes. The UAE trained hundreds of Somali troops between 2014 and 2018. It also continues to pay salaries and provide {{16}} support to around 3,400 military police and special forces personnel in and around the capital, according to senior Somali sources.",
+          "cn": "三个与阿联酋关系密切的索马里自治地区当时拒绝了联邦政府的决定。阿联酋扩大了在非洲之角的经济、军事和外交存在，包括通过投资港口和沿关键国际航运路线的军事基础设施。两国关系也受到索马里内部权力分配紧张局势的影响。尽管多年来得到国际支持（包括非洲维和行动和美国空袭），联邦政府仍难以将其权力扩展到全国并击败伊斯兰武装分子。阿联酋在2014年至2018年间训练了数百名索马里士兵。据索马里高级消息人士称，阿联酋还继续向首都及其周边约3400名宪兵和特种部队人员支付工资并提供后勤支持。"
+        },
+        {
+          "en": "Beyond its military {{17}}, the UAE has established direct ties with regional Somali administrations, investing hundreds of millions of dollars in ports and military infrastructure along the country's coast.",
+          "cn": "除了军事介入之外，阿联酋还与索马里地区行政当局建立了直接联系，在该国沿海的港口和军事基础设施上投资了数亿美元。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "recalled",
+          "hint": "v. 召回",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "envoy",
+          "hint": "n. 特使",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "accusing",
+          "hint": "v. 指责",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "sovereignty",
+          "hint": "n. 主权",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "announced",
+          "hint": "v. 宣布",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "cooperating",
+          "hint": "v. 合作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "invasion",
+          "hint": "n. 入侵",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "alleged",
+          "hint": "adj. 涉嫌的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "violations",
+          "hint": "n. 侵犯行为",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "terminate",
+          "hint": "v. 终止",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "undermining",
+          "hint": "v. 破坏",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "rejected",
+          "hint": "v. 拒绝",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "expanded",
+          "hint": "v. 扩大",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "distribution",
+          "hint": "n. 分配",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "struggled",
+          "hint": "v. 挣扎",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "logistical",
+          "hint": "adj. 后勤的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "involvement",
+          "hint": "n. 介入",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Somalia has ordered the United Arab Emirates (UAE) ambassador to leave the country within 72 hours and recalled its own envoy from Abu Dhabi, accusing the Gulf state of violating its sovereignty.\nInformation Minister Abdifatah Kasim Mohamud announced the decision on Thursday, warning that action would be taken against anyone cooperating with the UAE in what he described as an \"open invasion\" of Somalia.\nThe minister did not specify the alleged violations. However, President Hassan Sheikh Mohamud accused the UAE in a speech on Tuesday of providing economic and political support to some regional Somali administrations in opposition to the federal government.\nThe UAE foreign ministry had not immediately commented on the latest developments.\nThe latest move follows Somalia's decision in January to terminate all agreements with the UAE, including port deals and defense and security cooperation, accusing Abu Dhabi of undermining its sovereignty.\nThree self-governing Somali regions with close ties to the UAE rejected the federal government's decision at the time.\nThe UAE has expanded its economic, military and diplomatic presence across the Horn of Africa, including through investments in ports and military infrastructure along key international shipping routes.\nRelations have also been shaped by tensions over the distribution of power within Somalia. The federal government has struggled to extend its authority across the country and defeat Islamist militants despite years of international support, including African peacekeeping operations and US air strikes.\nThe UAE trained hundreds of Somali troops between 2014 and 2018. It also continues to pay salaries and provide logistical support to around 3,400 military police and special forces personnel in and around the capital, according to senior Somali sources.\nBeyond its military involvement, the UAE has established direct ties with regional Somali administrations, investing hundreds of millions of dollars in ports and military infrastructure along the country's coast.",
+      "fullTextCn": "索马里已下令阿拉伯联合酋长国（阿联酋）大使在72小时内离境，并召回驻阿布扎比的特使，指责这个海湾国家侵犯其主权。信息部长阿卜迪法塔赫·卡西姆·马哈茂德周四宣布了这一决定，并警告将对任何与阿联酋合作的人采取行动，他称这是对索马里的“公开入侵”。这位部长没有具体说明所指控的侵犯行为。然而，总统哈桑·谢赫·马哈茂德在周二的讲话中指责阿联酋向索马里一些反对联邦政府的地区行政当局提供经济和政治支持。阿联酋外交部尚未就最新事态发展立即发表评论。这一最新举动是在索马里1月决定终止与阿联酋的所有协议（包括港口交易以及国防和安全合作）之后做出的，索马里当时指责阿布扎比破坏其主权。\n\n三个与阿联酋关系密切的索马里自治地区当时拒绝了联邦政府的决定。阿联酋扩大了在非洲之角的经济、军事和外交存在，包括通过投资港口和沿关键国际航运路线的军事基础设施。两国关系也受到索马里内部权力分配紧张局势的影响。尽管多年来得到国际支持（包括非洲维和行动和美国空袭），联邦政府仍难以将其权力扩展到全国并击败伊斯兰武装分子。阿联酋在2014年至2018年间训练了数百名索马里士兵。据索马里高级消息人士称，阿联酋还继续向首都及其周边约3400名宪兵和特种部队人员支付工资并提供后勤支持。\n\n除了军事介入之外，阿联酋还与索马里地区行政当局建立了直接联系，在该国沿海的港口和军事基础设施上投资了数亿美元。"
+    },
+    {
+      "id": 3,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-19/Xi-s-vision-for-Asia-Pacific-development-wins-support-at-APEC-meeting-1Scy00AGorC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Xi's vision for Asia-Pacific development wins support at APEC meeting",
+      "titleCn": "习近平亚太发展愿景在APEC会议上获广泛支持",
+      "summary": "Chinese President Xi Jinping's speech at the 33rd APEC Economic Leaders' Meeting on Thursday has drawn widespread support from attendees, who stressed the importance of Asia-Pacific cooperation and welcomed his vision as offering clear direction for the region's future development.",
+      "summaryCn": "习近平主席在APEC会议上的讲话获得与会者广泛支持，各方强调亚太合作重要性并欢迎其为地区未来发展指明方向。",
+      "wordCount": 235,
+      "paragraphs": [
+        {
+          "en": "Chinese President Xi Jinping's speech at the 33rd APEC Economic Leaders' Meeting on Thursday has drawn {{0}} support from {{1}}, who {{2}} the importance of Asia-Pacific cooperation and welcomed his {{3}} as offering clear direction for the region's future development. Gong Xiaofeng, director of the Shenzhen University APEC Research Institute, said President Xi's speech offered {{4}} {{5}} amid the changing global {{6}} and put forward a clear vision for building an Asia-Pacific community characterized by {{7}}, openness, innovation and {{8}} development. Gong also {{9}} the {{10}} of China's role as Xi's vision reflects China's {{11}} from an active {{12}} in Asia-Pacific cooperation to a leading force in shaping its future, {{13}} how high-level strategic thinking can be {{14}} into practical action. Tahir Farooq, the chief editor of Daily Ittehad, also {{15}} the {{16}} of Asia-Pacific as a crucial region of cooperation, and said this year's APEC meeting carries special significance and hope it will deliver more {{17}}, practical {{18}}. Speaking of the specific aspects in which APEC economies can come together in cooperation, Xu Yangsheng, President of the Chinese University of Hong Kong, Shenzhen, {{19}} the need to foster an open and innovative {{20}} and promote the widespread application of artificial intelligence (AI). Xu also pointed out the advantage of the Guangdong-Hong Kong-Macao Greater Bay Area as an ideal hub for innovation, which is capable of continuously generating technological {{21}} to support the AI industry.",
+          "cn": "中国国家主席习近平周四在第三十三次亚太经合组织领导人非正式会议上的讲话获得与会者的广泛支持，他们强调亚太合作的重要性，并欢迎他的愿景为地区未来发展指明了方向。深圳大学APEC研究中心主任龚晓峰表示，习近平主席的讲话在变化的全球格局中提供了战略见解，并为建设一个以团结、开放、创新和包容发展為特征的亚太共同体提出了清晰愿景。龚还强调了中国角色转变的意义，指出习近平的愿景反映了中国从亚太合作的积极参与者演变为塑造其未来的引领力量，展示了高水平战略思维如何转化为实际行动。《每日团结报》主编塔希尔·法鲁克也强调亚太作为重要合作区域的意义，并表示今年的APEC会议具有特殊意义，希望它能带来更多切实、实际的成果。在谈到APEC经济体可以具体在哪些方面开展合作时，香港中文大学（深圳）校长徐扬生强调需要培育开放创新的生态系统，并推动人工智能（AI）的广泛应用。徐还指出粤港澳大湾区作为理想创新枢纽的优势，该区域能够不断产生技术突破以支持人工智能产业。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "widespread",
+          "hint": "adj. 广泛的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "attendees",
+          "hint": "n. 与会者",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "stressed",
+          "hint": "v. 强调",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "vision",
+          "hint": "n. 愿景",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "strategic",
+          "hint": "adj. 战略的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "insights",
+          "hint": "n. 见解",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "landscape",
+          "hint": "n. 格局",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "solidarity",
+          "hint": "n. 团结",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "inclusive",
+          "hint": "adj. 包容的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "highlighted",
+          "hint": "v. 强调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "transformation",
+          "hint": "n. 转变",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "evolution",
+          "hint": "n. 演变",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "participant",
+          "hint": "n. 参与者",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "demonstrating",
+          "hint": "v. 展示",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "translated",
+          "hint": "v. 转化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "underscores",
+          "hint": "v. 强调",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "significance",
+          "hint": "n. 重要性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "tangible",
+          "hint": "adj. 切实的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "outcomes",
+          "hint": "n. 成果",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "emphasized",
+          "hint": "v. 强调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "ecosystem",
+          "hint": "n. 生态系统",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "breakthroughs",
+          "hint": "n. 突破",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Chinese President Xi Jinping's speech at the 33rd APEC Economic Leaders' Meeting on Thursday has drawn widespread support from attendees, who stressed the importance of Asia-Pacific cooperation and welcomed his vision as offering clear direction for the region's future development.\nGong Xiaofeng, director of the Shenzhen University APEC Research Institute, said President Xi's speech offered strategic insights amid the changing global landscape and put forward a clear vision for building an Asia-Pacific community characterized by solidarity, openness, innovation and inclusive development.\nGong also highlighted the transformation of China's role as Xi's vision reflects China's evolution from an active participant in Asia-Pacific cooperation to a leading force in shaping its future, demonstrating how high-level strategic thinking can be translated into practical action.\nTahir Farooq, the chief editor of Daily Ittehad, also underscores the significance of Asia-Pacific as a crucial region of cooperation, and said this year's APEC meeting carries special significance and hope it will deliver more tangible, practical outcomes.\nSpeaking of the specific aspects in which APEC economies can come together in cooperation, Xu Yangsheng, President of the Chinese University of Hong Kong, Shenzhen, emphasized the need to foster an open and innovative ecosystem and promote the widespread application of artificial intelligence (AI).\nXu also pointed out the advantage of the Guangdong-Hong Kong-Macao Greater Bay Area as an ideal hub for innovation, which is capable of continuously generating technological breakthroughs to support the AI industry.",
+      "fullTextCn": "中国国家主席习近平周四在第三十三次亚太经合组织领导人非正式会议上的讲话获得与会者的广泛支持，他们强调亚太合作的重要性，并欢迎他的愿景为地区未来发展指明了方向。深圳大学APEC研究中心主任龚晓峰表示，习近平主席的讲话在变化的全球格局中提供了战略见解，并为建设一个以团结、开放、创新和包容发展為特征的亚太共同体提出了清晰愿景。龚还强调了中国角色转变的意义，指出习近平的愿景反映了中国从亚太合作的积极参与者演变为塑造其未来的引领力量，展示了高水平战略思维如何转化为实际行动。《每日团结报》主编塔希尔·法鲁克也强调亚太作为重要合作区域的意义，并表示今年的APEC会议具有特殊意义，希望它能带来更多切实、实际的成果。在谈到APEC经济体可以具体在哪些方面开展合作时，香港中文大学（深圳）校长徐扬生强调需要培育开放创新的生态系统，并推动人工智能（AI）的广泛应用。徐还指出粤港澳大湾区作为理想创新枢纽的优势，该区域能够不断产生技术突破以支持人工智能产业。"
+    },
+    {
+      "id": 4,
+      "category": "technology",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-11-20/detail-ihfneuqn7429397.shtml",
+      "title": "China unveils its first rating system for vehicle cockpit AI",
+      "titleCn": "中国推出首个车辆座舱AI评级系统",
+      "summary": "China has introduced its first system for evaluating artificial intelligence (AI) capabilities in vehicle cockpits, as automakers increasingly turn to AI to enhance the in-car experience.",
+      "summaryCn": "中国汽车技术研究中心发布了国内首个车辆座舱人工智能能力评估系统，以五级量表对座舱AI进行评级，旨在将用户主观体验转化为可衡量的指标，为消费者提供客观的对比基准。",
+      "wordCount": 212,
+      "paragraphs": [
+        {
+          "en": "(ECNS) -- China has introduced its first system for {{0}} artificial intelligence (AI) {{1}} in vehicle cockpits, as automakers {{2}} turn to AI to {{3}} the in-car experience. The system, developed by the China Automotive Technology and Research Center (CATARC), rates cockpit AI capabilities on a five-level scale from C1 to C5. It aims to translate users' {{4}} experiences into {{5}} {{6}}, covering eight {{7}} capabilities and behavioral {{8}} across nine driving {{9}}. Zhang Yanan, {{10}} general manager of CATARC Intelligent Technology, said the {{11}} {{12}} capabilities such as {{13}}, {{14}}, {{15}} and {{16}} in scenarios involving smart mobility, {{17}} {{18}} and health care. The system also records these assessments in a {{19}} database to better reflect real-world driving conditions, Zhang said. The center has completed an initial round of {{20}} tests using the framework, which is intended to provide consumers with an {{21}} {{22}} for comparing AI capabilities across vehicles. According to CATARC, more than 90% of {{23}} produced new energy vehicles priced above 200,000 yuan (about $28,200) now offer AI-powered cockpit features that generate more than 30 million in-car {{24}} a day. China's intelligent cockpit market is expected to exceed 180 billion yuan (about $26.98 billion) in 2026, with smart cockpit features playing an increasingly important role in car-buying decisions.",
+          "cn": "（中新社）——随着汽车制造商越来越多地借助人工智能（AI）提升车内体验，中国推出了首个评估车辆座舱人工智能能力的系统。该系统由中国汽车技术研究中心（CATARC）开发，将座舱AI能力按C1至C5的五级量表进行评级。它旨在将用户的主观体验转化为可衡量的指标，涵盖九大驾驶场景中的八项核心能力和行为属性。中汽研智能科技副总经理张亚楠表示，该框架评估了智能出行、情感陪伴和健康护理等场景下的感知、执行、自主和进化等能力。张亚楠说，该系统还将这些评估记录在结构化数据库中，以更好地反映真实驾驶条件。该中心已利用该框架完成了首轮验证测试，旨在为消费者提供一个客观基准，用于比较不同车辆的AI能力。据中汽研称，目前国内售价20万元（约合2.82万美元）以上的新能源汽车中，超过90%提供AI驱动的座舱功能，每天产生超过3000万次车内交互。中国智能座舱市场预计将在2026年超过1800亿元（约合269.8亿美元），智能座舱功能在购车决策中发挥着越来越重要的作用。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "evaluating",
+          "hint": "v. 评估",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "capabilities",
+          "hint": "n. 能力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "increasingly",
+          "hint": "adv. 越来越",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "enhance",
+          "hint": "v. 提升",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "subjective",
+          "hint": "adj. 主观的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "measurable",
+          "hint": "adj. 可衡量的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "indicators",
+          "hint": "n. 指标",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "core",
+          "hint": "adj. 核心的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "attributes",
+          "hint": "n. 属性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "scenarios",
+          "hint": "n. 场景",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "deputy",
+          "hint": "adj. 副的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "framework",
+          "hint": "n. 框架",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "assesses",
+          "hint": "v. 评估",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "perception",
+          "hint": "n. 感知",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "execution",
+          "hint": "n. 执行",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "autonomy",
+          "hint": "n. 自主性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "evolution",
+          "hint": "n. 进化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "emotional",
+          "hint": "adj. 情感的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "companionship",
+          "hint": "n. 陪伴",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "structured",
+          "hint": "adj. 结构化的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "validation",
+          "hint": "n. 验证",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "objective",
+          "hint": "adj. 客观的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "benchmark",
+          "hint": "n. 基准",
+          "difficulty": "hard"
+        },
+        {
+          "id": 23,
+          "answer": "domestically",
+          "hint": "adv. 国内地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 24,
+          "answer": "interactions",
+          "hint": "n. 交互",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "(ECNS) -- China has introduced its first system for evaluating artificial intelligence (AI) capabilities in vehicle cockpits, as automakers increasingly turn to AI to enhance the in-car experience.\nThe system, developed by the China Automotive Technology and Research Center (CATARC), rates cockpit AI capabilities on a five-level scale from C1 to C5. It aims to translate users' subjective experiences into measurable indicators, covering eight core capabilities and behavioral attributes across nine driving scenarios.\nZhang Yanan, deputy general manager of CATARC Intelligent Technology, said the framework assesses capabilities such as perception, execution, autonomy and evolution in scenarios involving smart mobility, emotional companionship and health care.\nThe system also records these assessments in a structured database to better reflect real-world driving conditions, Zhang said. The center has completed an initial round of validation tests using the framework, which is intended to provide consumers with an objective benchmark for comparing AI capabilities across vehicles.\nAccording to CATARC, more than 90% of domestically produced new energy vehicles priced above 200,000 yuan (about $28,200) now offer AI-powered cockpit features that generate more than 30 million in-car interactions a day.\nChina's intelligent cockpit market is expected to exceed 180 billion yuan (about $26.98 billion) in 2026, with smart cockpit features playing an increasingly important role in car-buying decisions.",
+      "fullTextCn": "（中新社）——随着汽车制造商越来越多地借助人工智能（AI）提升车内体验，中国推出了首个评估车辆座舱人工智能能力的系统。该系统由中国汽车技术研究中心（CATARC）开发，将座舱AI能力按C1至C5的五级量表进行评级。它旨在将用户的主观体验转化为可衡量的指标，涵盖九大驾驶场景中的八项核心能力和行为属性。中汽研智能科技副总经理张亚楠表示，该框架评估了智能出行、情感陪伴和健康护理等场景下的感知、执行、自主和进化等能力。张亚楠说，该系统还将这些评估记录在结构化数据库中，以更好地反映真实驾驶条件。该中心已利用该框架完成了首轮验证测试，旨在为消费者提供一个客观基准，用于比较不同车辆的AI能力。据中汽研称，目前国内售价20万元（约合2.82万美元）以上的新能源汽车中，超过90%提供AI驱动的座舱功能，每天产生超过3000万次车内交互。中国智能座舱市场预计将在2026年超过1800亿元（约合269.8亿美元），智能座舱功能在购车决策中发挥着越来越重要的作用。"
+    },
+    {
+      "id": 5,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-19/The-Shenzhen-Miracle-From-fishing-village-to-global-tech-hub-1ScIA9Zc7V6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "The Shenzhen Miracle: From fishing village to global tech hub",
+      "titleCn": "深圳奇迹：从渔村到全球科技中心",
+      "summary": "The Shenzhen Miracle: From fishing village to global tech hub",
+      "summaryCn": "深圳从四十多年前的宁静渔村崛起为全球创新与人才中心，凭借“深圳速度”和完整的产业链支持，正筹备举办第33届APEC领导人会议。",
+      "wordCount": 187,
+      "paragraphs": [
+        {
+          "en": "More than four decades ago, Shenzhen was a quiet fishing village. Today, {{0}} deliver meals through the air, robots {{1}} its streets and {{2}} technology is part of everyday life. A global {{16}} for {{3}} and {{17}}, the city is now set to {{18}} the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting. So, what powers this {{4}} {{5}}? CGTN reporter Li Jingjing teams up with US vlogger Cyrus Janssen, who has more than two million followers, to {{6}} the city and discover the forces behind its remarkable rise. In Shenzhen, ideas can move from {{7}} to product at remarkable {{19}}. With design, {{8}} and {{9}} resources closely connected, and the Greater Bay Area providing an {{10}} network of industrial support, {{11}} can get the key steps in place in just over a week. That's “Shenzhen speed.”\nHaving spent time in China over the past 20 years, Janssen has {{12}} firsthand the country's remarkable {{13}}, particularly how {{14}} {{20}} has {{21}} people's lives across the country. His message to the world: Look beyond media {{15}}, come to China, meet its people and see the country for yourself.",
+          "cn": "四十多年前，深圳还是一个宁静的渔村。如今，无人机在空中送餐，机器人在街道上巡逻，尖端技术已成为日常生活的一部分。作为全球创新和人才中心，这座城市现在将主办第33届亚太经合组织（APEC）经济领导人会议。那么，是什么推动了这一非凡的转变？CGTN记者李晶晶与美国视频博主Cyrus Janssen（拥有超过200万粉丝）联手探索这座城市，揭示其非凡崛起背后的力量。在深圳，想法可以以惊人的速度从概念变为产品。由于设计、原型制作和制造资源紧密相连，加上大湾区提供了一体化的产业支持网络，企业家可以在短短一周多的时间内完成关键步骤。这就是“深圳速度”。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "drones",
+          "hint": "n. 无人机",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "patrol",
+          "hint": "v. 巡逻",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "cutting-edge",
+          "hint": "adj. 尖端的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "innovation",
+          "hint": "n. 创新",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "remarkable",
+          "hint": "adj. 非凡的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "transformation",
+          "hint": "n. 转变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "explore",
+          "hint": "v. 探索",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "concept",
+          "hint": "n. 概念",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "prototyping",
+          "hint": "n. 原型制作",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "manufacturing",
+          "hint": "n. 制造",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "integrated",
+          "hint": "adj. 综合的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "entrepreneurs",
+          "hint": "n. 企业家",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "witnessed",
+          "hint": "v. 目睹",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "progress",
+          "hint": "n. 进步",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "narratives",
+          "hint": "n. 叙述",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "hub",
+          "hint": "n. 中心",
+          "difficulty": "easy"
+        },
+        {
+          "id": 17,
+          "answer": "talent",
+          "hint": "n. 人才",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "host",
+          "hint": "v. 主办",
+          "difficulty": "easy"
+        },
+        {
+          "id": 19,
+          "answer": "speed",
+          "hint": "n. 速度",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "development",
+          "hint": "n. 发展",
+          "difficulty": "easy"
+        },
+        {
+          "id": 21,
+          "answer": "improved",
+          "hint": "v. 改善",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "More than four decades ago, Shenzhen was a quiet fishing village. Today, drones deliver meals through the air, robots patrol its streets and cutting-edge technology is part of everyday life. A global hub for innovation and talent, the city is now set to host the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting.\nSo, what powers this remarkable transformation?\nCGTN reporter Li Jingjing teams up with US vlogger Cyrus Janssen, who has more than two million followers, to explore the city and discover the forces behind its remarkable rise.\nIn Shenzhen, ideas can move from concept to product at remarkable speed. With design, prototyping and manufacturing resources closely connected, and the Greater Bay Area providing an integrated network of industrial support, entrepreneurs can get the key steps in place in just over a week. That's “Shenzhen speed.”\nHaving spent time in China over the past 20 years, Janssen has witnessed firsthand the country's remarkable progress, particularly how infrastructure development has improved people's lives across the country. His message to the world: Look beyond media narratives, come to China, meet its people and see the country for yourself.",
+      "fullTextCn": "四十多年前，深圳还是一个宁静的渔村。如今，无人机在空中送餐，机器人在街道上巡逻，尖端技术已成为日常生活的一部分。作为全球创新和人才中心，这座城市现在将主办第33届亚太经合组织（APEC）经济领导人会议。那么，是什么推动了这一非凡的转变？CGTN记者李晶晶与美国视频博主Cyrus Janssen（拥有超过200万粉丝）联手探索这座城市，揭示其非凡崛起背后的力量。在深圳，想法可以以惊人的速度从概念变为产品。由于设计、原型制作和制造资源紧密相连，加上大湾区提供了一体化的产业支持网络，企业家可以在短短一周多的时间内完成关键步骤。这就是“深圳速度”。\n\n在过去的20年里，Janssen在中国度过了一段时间，他亲眼目睹了中国的显著进步，特别是基础设施建设如何改善了全国各地人民的生活。他向世界传达的信息是：超越媒体叙事，来中国，结识这里的人民，亲自看看这个国家。"
+    }
+  ]
+}
