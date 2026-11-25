@@ -1,0 +1,914 @@
+{
+  "date": "2026-11-26",
+  "articles": [
+    {
+      "id": 1,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-17/AI-guzzles-power-how-does-China-feed-it-cheap-reliable-green-power-1S8YRj3CqA0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "AI guzzles power – how does China feed it cheap, reliable green power",
+      "titleCn": "AI 耗电巨大——中国如何为其提供廉价可靠的绿色电力",
+      "summary": "AI guzzles power – how does China feed it cheap, reliable green power",
+      "summaryCn": "随着AI数据中心电力需求激增，中国通过“东数西算”、绿电直连和算电协同等策略，应对算力与电力之间的地理、时间和制度错配，探索数字与能源转型相互促进的路径。",
+      "wordCount": 1051,
+      "paragraphs": [
+        {
+          "en": "Editor's note: As more {{0}} AI data centers are built around the world, governments are increasingly {{1}} the challenge of balancing accelerating AI {{2}} expansion with limited power {{3}}. CGTN invites Meng Yao, the deputy director of the Energy Governance Center at the Energy Internet Research Institute, Tsinghua University, to explore how China is tackling that challenge while seeking to power AI with {{4}}, reliable green electricity. Server racks inside a data center in Zhangbei County, north China's Hebei Province, September 11, 2016. Rapid advances in large language models have driven {{5}} growth in computing demand, translating into massive electricity {{6}}. A single hyperscale AI data center (AIDC) can draw a load {{7}} to that of a medium-sized city.",
+          "cn": "编者按：随着全球各地建设越来越多的超大规模AI数据中心，各国政府日益面临在加速AI基础设施扩张与有限电力容量之间取得平衡的挑战。CGTN邀请清华大学能源互联网研究院能源治理研究中心副主任孟垚，探讨中国如何在寻求以可负担、可靠的绿色电力为AI供能的同时应对这一挑战。2016年9月11日，中国北方河北省张北县一个数据中心内的服务器机架。大语言模型的快速进步推动了算力需求的指数级增长，转化为巨大的电力消耗。单个超大规模AI数据中心（AIDC）的用电负荷可与一座中等城市相当。"
+        },
+        {
+          "en": "Amid {{8}} data-center power demand, Denmark has paused new grid connection approvals, while New York State has imposed a {{9}} on permits for large new data centers. Tensions between expanding computing capacity and securing reliable power supply have become a global challenge. In 2026, China included computing-electricity {{10}} in its Government Work Report for the first time and wrote it into the Outline of the 15th Five-Year Plan (2026–2030). Integrated development of computing networks, next-generation power grids and advanced communications networks has become a core strategy for China to meet AI's rising energy {{12}}. A view of the cooling towers at a cloud computing campus in Changzhou, east China's Jiangsu Province, September 4, 2026.",
+          "cn": "在数据中心电力需求激增的背景下，丹麦暂停了新的电网接入审批，纽约州也对大型新数据中心的许可实施了暂停令。不断扩大的算力与确保可靠电力供应之间的紧张关系已成为全球性挑战。2026年，中国首次将算电协同纳入《政府工作报告》，并写入《第十五个五年规划纲要（2026—2030年）》。算力网络、下一代电网和先进通信网络的融合发展已成为中国满足AI日益增长的能源需求的核心战略。2026年9月4日，中国东部江苏省常州一个云计算园区的冷却塔景观。"
+        },
+        {
+          "en": "The energy {{13}} behind AI expansion\nThe computing sector faces an energy trilemma: uninterrupted power supply, maximum clean-energy utilization and affordable electricity costs. Meeting all three goals {{14}} remains highly challenging. China has three structural {{15}}. First, a {{16}} imbalance: over 70% of its wind, solar and hydropower resources lie in China's less-developed northern and western regions, yet roughly 60% of computing demand {{17}} in eastern urban clusters. Resource-rich regions often lack computing loads, while major computing hubs struggle to access sufficient green power.",
+          "cn": "AI扩张背后的能源三难困境\n算力行业面临能源三难困境：不间断的电力供应、最大化的清洁能源利用和可负担的电力成本。同时实现这三个目标仍然极具挑战性。中国存在三重结构性错配。第一，地理失衡：中国超过70%的风能、太阳能和水力资源位于欠发达的北部和西部地区，而约60%的算力需求集中在东部城市群。资源丰富地区往往缺乏算力负荷，而主要算力枢纽难以获得足够的绿色电力。"
+        },
+        {
+          "en": "Second, a temporal mismatch: wind and solar power generation {{18}} sharply with weather and diurnal cycles, while AI infrastructure requires stable, round-the-clock operation. Midday renewable generation peaks often fail to align with peak AI computing demand, while evening power consumption surges coincide with sharp declines in solar output, creating {{19}} supply-demand asynchronization. Additionally, a prominent construction cycle mismatch exists: AI computing infrastructure can be rapidly expanded within months, while renewable energy and grid facilities take years to build and commission. The fast iteration of AI capacity and slow upgrade of energy infrastructure further widen the temporal supply-demand gap. Third, institutional and operational {{20}}: the power and computing sectors have long operated separately, with independent planning, scheduling and limited {{21}}.",
+          "cn": "第二，时间错配：风能和太阳能发电随天气和昼夜周期剧烈波动，而AI基础设施需要稳定、全天候运行。正午可再生能源发电高峰往往无法与AI算力需求高峰对齐，而傍晚用电激增恰逢太阳能输出急剧下降，造成持续的供需不同步。此外，还存在显著的建设周期错配：AI算力基础设施可在数月内快速扩张，而可再生能源和电网设施需要数年才能建成并投运。AI算力的快速迭代与能源基础设施的缓慢升级进一步扩大了时间性供需缺口。第三，制度和运营碎片化：电力和算力行业长期各自为政，规划、调度独立，互操作性有限。"
+        },
+        {
+          "en": "The two systems face barriers involving data sharing, operational coordination and economic incentives. These challenges make coordination between computing and electricity {{22}} for high-quality digital-economy growth. Numerous wind turbines dot the grassland beside a lake in Ulanqab, north China's Inner Mongolia Autonomous Region, October 15, 2026. Reshaping computing and electricity {{23}}\nChina is rebalancing the spatial distribution of computing and power resources through the \"East Data, West Computing\" initiative, which optimizes infrastructure layout, enables cross-regional task scheduling and deepens integration between digital and energy networks. Workloads are classified by {{24}} sensitivity: latency-critical services such as online consultation and real-time inference stay close to end users in eastern China, while latency-tolerant tasks, including model training and offline data processing, can be shifted to western computing hubs with abundant renewables.",
+          "cn": "两个系统面临数据共享、运营协调和经济激励方面的障碍。这些挑战使得算力与电力的协同对于高质量数字经济增长不可或缺。2026年10月15日，中国北部内蒙古自治区乌兰察布，众多风力涡轮机点缀在湖畔草原上。重塑算力与电力配置\n中国正通过“东数西算”工程重新平衡算力和电力资源的空间分布，该工程优化基础设施布局、实现跨区域任务调度、深化数字网络与能源网络的融合。工作负载按延迟敏感性分类：在线咨询和实时推理等延迟关键服务留在东部靠近终端用户的地方，而模型训练和离线数据处理等延迟容忍型任务则可转移到可再生能源丰富的西部算力枢纽。"
+        },
+        {
+          "en": "Meanwhile, China is scaling up direct green-power connections and {{11}} generation-grid-load-storage systems. In Ulanqab, north China's Inner Mongolia Autonomous Region, dedicated transmission lines link renewable farms directly to computing clusters, paired with energy storage to smooth {{25}} wind and solar output and deliver stable clean power for AI. Equally vital is coordinated development of computing, power and communications networks. By cutting cross-region data transmission costs and removing network bottlenecks, China enables flexible workload shifting between east and west, unlocking western renewable resources to support AI nationwide. An aerial view of a Huawei Cloud data center in Guian New Area, southwest China's Guizhou Province, September 12, 2021.",
+          "cn": "与此同时，中国正在扩大绿电直连和源网荷储一体化系统的规模。在中国北部内蒙古自治区乌兰察布，专用输电线路将可再生能源电场直接连接到算力集群，并配套储能以平滑波动的风能和太阳能输出，为AI提供稳定的清洁电力。同样重要的是算力、电力和通信网络的协调发展。通过降低跨区域数据传输成本、消除网络瓶颈，中国实现了东西部之间灵活的工作负载转移，释放西部可再生资源以支持全国AI发展。2021年9月12日，中国西南部贵州省贵安新区华为云数据中心的鸟瞰图。"
+        },
+        {
+          "en": "Pilots of computing-electricity coordination\nDemonstration projects across China are proving the tangible value of coordinated computing and power systems. Workloads are adjusted dynamically to match renewable output and storage {{26}} supply volatility to lift renewable utilization, sustain service reliability and lower power bills. Shanghai Lingang delivered China's first cross-provincial migration test for an automated high-precision 100-card AI intelligent computing cluster. During grid peak hours, AI training and inference workloads migrated between nodes in under three minutes, rapidly easing grid stress. The test validates how computing clusters can act as flexible resources for peak load management.",
+          "cn": "算电协同试点\n全国各地的示范项目正在证明算力与电力系统协同的实际价值。工作负载根据可再生能源输出动态调整，储能缓解供应波动，以提高可再生能源利用率、维持服务可靠性并降低电费。上海临港交付了中国首个自动化高精度100卡AI智能算力集群的跨省迁移测试。在电网高峰时段，AI训练和推理工作负载在不到三分钟内于节点间迁移，迅速缓解电网压力。该测试验证了算力集群如何作为灵活资源参与峰值负荷管理。"
+        },
+        {
+          "en": "In Ulanqab, Centrin Data's zero-carbon computing base runs an integrated renewable supply model featuring direct green power access and generation-grid-load-storage integration. Supported by 300 megawatts (MW) of wind and solar capacity and 45 MW of energy storage, the center runs energy-intensive AI training at full load when renewables are plentiful. When wind and solar fade, storage supplements power to sustain continuous operation. This model boosts local renewable absorption while guaranteeing reliable computing and reduced electricity costs. The \"Xinjiang Computing for Chongqing\" initiative leverages high-speed dedicated links to run Changan Automobile's autonomous-driving large-model training in northwest China's Xinjiang Uygur Autonomous Region's renewable energy-rich zones.",
+          "cn": "在乌兰察布，中联数据的零碳算力基地运行着一种集绿电直连和源网荷储一体化于一体的可再生综合供应模式。在300兆瓦（MW）风能和太阳能容量及45兆瓦储能的支撑下，该中心在可再生能源充足时满负荷运行能源密集型AI训练。当风能和太阳能减弱时，储能补充电力以维持连续运行。该模式提升了本地可再生能源消纳，同时保障了可靠算力并降低了电力成本。“疆算入渝”计划利用高速专用链路，在中国西北部新疆维吾尔自治区可再生能源丰富区域运行长安汽车的自动驾驶大模型训练。"
+        },
+        {
+          "en": "Training proceeds during green-power surpluses, and the results are transmitted back to Chongqing via high-speed networks. This lets Changan Automobile and other local Chongqing industries tap low-cost western green computing resources without building extra power-hungry computing facilities locally. Together, these three pilots validate the {{27}} of computing-electricity coordination via local flexible scheduling, on-site source-load management and cross-regional resource allocation. The setting sun casts a golden glow over a molten-salt solar tower power plant in Dunhuang, northwest China's Gansu Province, August 13, 2026. A new pathway for digital and green transitions\nRobust coordination between computing and electricity requires inter-agency and cross-industry collaboration, unified technical standards, and market-based pricing mechanisms.",
+          "cn": "训练在绿色电力盈余期间进行，结果通过高速网络传回重庆。这使得长安汽车和重庆其他本地产业能够利用低成本的西部绿色算力资源，而无需在本地建设额外的高耗能算力设施。这三个试点共同验证了通过本地灵活调度、就地源荷管理和跨区域资源配置实现算电协同的可行性。2026年8月13日，中国西北部甘肃省敦煌，夕阳为熔盐太阳能塔式光热电站披上金色光辉。数字与绿色转型的新路径\n算力与电力之间的强有力协同需要跨机构、跨行业合作、统一技术标准和基于市场的定价机制。"
+        },
+        {
+          "en": "As China advances integrated computing, power, and communications infrastructure under the 15th Five-Year Plan, the relationship between AI and power systems will fundamentally {{28}}. Computing infrastructure will evolve from a major electricity consumer into a flexible grid resource, adjusting loads to stabilize power systems and accommodate more renewables. By powering AI with green electricity while deploying flexible computing loads to boost renewable integration, China is charting a mutually reinforcing path for digital and energy transitions.",
+          "cn": "随着中国在“十五五”规划下推进算力、电力和通信基础设施一体化，AI与电力系统之间的关系将发生根本性转变。算力基础设施将从主要电力消费者演变为灵活的电网资源，调整负荷以稳定电力系统并消纳更多可再生能源。通过以绿色电力为AI供能，同时部署灵活算力负荷以促进可再生能源整合，中国正在为数字和能源转型开辟一条相互强化的路径。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "hyperscale",
+          "hint": "adj. 超大规模的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 1,
+          "answer": "confronting",
+          "hint": "v. 面对，面临",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "capacity",
+          "hint": "n. 容量，能力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "affordable",
+          "hint": "adj. 可负担的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "exponential",
+          "hint": "adj. 指数级的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "consumption",
+          "hint": "n. 消耗，消费",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "comparable",
+          "hint": "adj. 可比的，相当的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "surging",
+          "hint": "adj. 激增的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "moratorium",
+          "hint": "n. 暂停令，延期偿付",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "coordination",
+          "hint": "n. 协调，协同",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "integrated",
+          "hint": "adj. 综合的，一体化的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "appetite",
+          "hint": "n. 欲望，需求",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "trilemma",
+          "hint": "n. 三难困境",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "simultaneously",
+          "hint": "adv. 同时地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "mismatches",
+          "hint": "n. 错配，不匹配",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "geographical",
+          "hint": "adj. 地理的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "concentrates",
+          "hint": "v. 集中",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "fluctuates",
+          "hint": "v. 波动",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "persistent",
+          "hint": "adj. 持续的，顽固的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "fragmentation",
+          "hint": "n. 碎片化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "interoperability",
+          "hint": "n. 互操作性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "indispensable",
+          "hint": "adj. 不可或缺的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 23,
+          "answer": "allocation",
+          "hint": "n. 分配，配置",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "latency",
+          "hint": "n. 延迟",
+          "difficulty": "hard"
+        },
+        {
+          "id": 25,
+          "answer": "volatile",
+          "hint": "adj. 波动的，不稳定的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 26,
+          "answer": "mitigates",
+          "hint": "v. 缓解，减轻",
+          "difficulty": "hard"
+        },
+        {
+          "id": 27,
+          "answer": "viability",
+          "hint": "n. 可行性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 28,
+          "answer": "transform",
+          "hint": "v. 转变，改变",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Editor's note: As more hyperscale AI data centers are built around the world, governments are increasingly confronting the challenge of balancing accelerating AI infrastructure expansion with limited power capacity. CGTN invites Meng Yao, the deputy director of the Energy Governance Center at the Energy Internet Research Institute, Tsinghua University, to explore how China is tackling that challenge while seeking to power AI with affordable, reliable green electricity.\nServer racks inside a data center in Zhangbei County, north China's Hebei Province, September 11, 2016. \nRapid advances in large language models have driven exponential growth in computing demand, translating into massive electricity consumption. A single hyperscale AI data center (AIDC) can draw a load comparable to that of a medium-sized city.\nAmid surging data-center power demand, Denmark has paused new grid connection approvals, while New York State has imposed a moratorium on permits for large new data centers. Tensions between expanding computing capacity and securing reliable power supply have become a global challenge.\nIn 2026, China included computing-electricity coordination in its Government Work Report for the first time and wrote it into the Outline of the 15th Five-Year Plan (2026–2030). Integrated development of computing networks, next-generation power grids and advanced communications networks has become a core strategy for China to meet AI's rising energy appetite.\nA view of the cooling towers at a cloud computing campus in Changzhou, east China's Jiangsu Province, September 4, 2026. \nThe energy trilemma behind AI expansion\nThe computing sector faces an energy trilemma: uninterrupted power supply, maximum clean-energy utilization and affordable electricity costs. Meeting all three goals simultaneously remains highly challenging.\nChina has three structural mismatches.\nFirst, a geographical imbalance: over 70% of its wind, solar and hydropower resources lie in China's less-developed northern and western regions, yet roughly 60% of computing demand concentrates in eastern urban clusters. Resource-rich regions often lack computing loads, while major computing hubs struggle to access sufficient green power.\nSecond, a temporal mismatch: wind and solar power generation fluctuates sharply with weather and diurnal cycles, while AI infrastructure requires stable, round-the-clock operation. Midday renewable generation peaks often fail to align with peak AI computing demand, while evening power consumption surges coincide with sharp declines in solar output, creating persistent supply-demand asynchronization.\nAdditionally, a prominent construction cycle mismatch exists: AI computing infrastructure can be rapidly expanded within months, while renewable energy and grid facilities take years to build and commission. The fast iteration of AI capacity and slow upgrade of energy infrastructure further widen the temporal supply-demand gap.\nThird, institutional and operational fragmentation: the power and computing sectors have long operated separately, with independent planning, scheduling and limited interoperability. The two systems face barriers involving data sharing, operational coordination and economic incentives. These challenges make coordination between computing and electricity indispensable for high-quality digital-economy growth.\nNumerous wind turbines dot the grassland beside a lake in Ulanqab, north China's Inner Mongolia Autonomous Region, October 15, 2026. \nReshaping computing and electricity allocation\nChina is rebalancing the spatial distribution of computing and power resources through the \"East Data, West Computing\" initiative, which optimizes infrastructure layout, enables cross-regional task scheduling and deepens integration between digital and energy networks.\nWorkloads are classified by latency sensitivity: latency-critical services such as online consultation and real-time inference stay close to end users in eastern China, while latency-tolerant tasks, including model training and offline data processing, can be shifted to western computing hubs with abundant renewables.\nMeanwhile, China is scaling up direct green-power connections and integrated generation-grid-load-storage systems. In Ulanqab, north China's Inner Mongolia Autonomous Region, dedicated transmission lines link renewable farms directly to computing clusters, paired with energy storage to smooth volatile wind and solar output and deliver stable clean power for AI.\nEqually vital is coordinated development of computing, power and communications networks. By cutting cross-region data transmission costs and removing network bottlenecks, China enables flexible workload shifting between east and west, unlocking western renewable resources to support AI nationwide.\nAn aerial view of a Huawei Cloud data center in Guian New Area, southwest China's Guizhou Province, September 12, 2021. \nPilots of computing-electricity coordination\nDemonstration projects across China are proving the tangible value of coordinated computing and power systems. Workloads are adjusted dynamically to match renewable output and storage mitigates supply volatility to lift renewable utilization, sustain service reliability and lower power bills.\nShanghai Lingang delivered China's first cross-provincial migration test for an automated high-precision 100-card AI intelligent computing cluster. During grid peak hours, AI training and inference workloads migrated between nodes in under three minutes, rapidly easing grid stress. The test validates how computing clusters can act as flexible resources for peak load management.\nIn Ulanqab, Centrin Data's zero-carbon computing base runs an integrated renewable supply model featuring direct green power access and generation-grid-load-storage integration. Supported by 300 megawatts (MW) of wind and solar capacity and 45 MW of energy storage, the center runs energy-intensive AI training at full load when renewables are plentiful. When wind and solar fade, storage supplements power to sustain continuous operation. This model boosts local renewable absorption while guaranteeing reliable computing and reduced electricity costs.\nThe \"Xinjiang Computing for Chongqing\" initiative leverages high-speed dedicated links to run Changan Automobile's autonomous-driving large-model training in northwest China's Xinjiang Uygur Autonomous Region's renewable energy-rich zones. Training proceeds during green-power surpluses, and the results are transmitted back to Chongqing via high-speed networks.\nThis lets Changan Automobile and other local Chongqing industries tap low-cost western green computing resources without building extra power-hungry computing facilities locally. Together, these three pilots validate the viability of computing-electricity coordination via local flexible scheduling, on-site source-load management and cross-regional resource allocation.\nThe setting sun casts a golden glow over a molten-salt solar tower power plant in Dunhuang, northwest China's Gansu Province, August 13, 2026. \nA new pathway for digital and green transitions\nRobust coordination between computing and electricity requires inter-agency and cross-industry collaboration, unified technical standards, and market-based pricing mechanisms. As China advances integrated computing, power, and communications infrastructure under the 15th Five-Year Plan, the relationship between AI and power systems will fundamentally transform.\nComputing infrastructure will evolve from a major electricity consumer into a flexible grid resource, adjusting loads to stabilize power systems and accommodate more renewables. By powering AI with green electricity while deploying flexible computing loads to boost renewable integration, China is charting a mutually reinforcing path for digital and energy transitions.",
+      "fullTextCn": "编者按：随着全球各地建设越来越多的超大规模AI数据中心，各国政府日益面临在加速AI基础设施扩张与有限电力容量之间取得平衡的挑战。CGTN邀请清华大学能源互联网研究院能源治理研究中心副主任孟垚，探讨中国如何在寻求以可负担、可靠的绿色电力为AI供能的同时应对这一挑战。2016年9月11日，中国北方河北省张北县一个数据中心内的服务器机架。大语言模型的快速进步推动了算力需求的指数级增长，转化为巨大的电力消耗。单个超大规模AI数据中心（AIDC）的用电负荷可与一座中等城市相当。\n\n在数据中心电力需求激增的背景下，丹麦暂停了新的电网接入审批，纽约州也对大型新数据中心的许可实施了暂停令。不断扩大的算力与确保可靠电力供应之间的紧张关系已成为全球性挑战。2026年，中国首次将算电协同纳入《政府工作报告》，并写入《第十五个五年规划纲要（2026—2030年）》。算力网络、下一代电网和先进通信网络的融合发展已成为中国满足AI日益增长的能源需求的核心战略。2026年9月4日，中国东部江苏省常州一个云计算园区的冷却塔景观。\n\nAI扩张背后的能源三难困境\n算力行业面临能源三难困境：不间断的电力供应、最大化的清洁能源利用和可负担的电力成本。同时实现这三个目标仍然极具挑战性。中国存在三重结构性错配。第一，地理失衡：中国超过70%的风能、太阳能和水力资源位于欠发达的北部和西部地区，而约60%的算力需求集中在东部城市群。资源丰富地区往往缺乏算力负荷，而主要算力枢纽难以获得足够的绿色电力。\n\n第二，时间错配：风能和太阳能发电随天气和昼夜周期剧烈波动，而AI基础设施需要稳定、全天候运行。正午可再生能源发电高峰往往无法与AI算力需求高峰对齐，而傍晚用电激增恰逢太阳能输出急剧下降，造成持续的供需不同步。此外，还存在显著的建设周期错配：AI算力基础设施可在数月内快速扩张，而可再生能源和电网设施需要数年才能建成并投运。AI算力的快速迭代与能源基础设施的缓慢升级进一步扩大了时间性供需缺口。第三，制度和运营碎片化：电力和算力行业长期各自为政，规划、调度独立，互操作性有限。\n\n两个系统面临数据共享、运营协调和经济激励方面的障碍。这些挑战使得算力与电力的协同对于高质量数字经济增长不可或缺。2026年10月15日，中国北部内蒙古自治区乌兰察布，众多风力涡轮机点缀在湖畔草原上。重塑算力与电力配置\n中国正通过“东数西算”工程重新平衡算力和电力资源的空间分布，该工程优化基础设施布局、实现跨区域任务调度、深化数字网络与能源网络的融合。工作负载按延迟敏感性分类：在线咨询和实时推理等延迟关键服务留在东部靠近终端用户的地方，而模型训练和离线数据处理等延迟容忍型任务则可转移到可再生能源丰富的西部算力枢纽。\n\n与此同时，中国正在扩大绿电直连和源网荷储一体化系统的规模。在中国北部内蒙古自治区乌兰察布，专用输电线路将可再生能源电场直接连接到算力集群，并配套储能以平滑波动的风能和太阳能输出，为AI提供稳定的清洁电力。同样重要的是算力、电力和通信网络的协调发展。通过降低跨区域数据传输成本、消除网络瓶颈，中国实现了东西部之间灵活的工作负载转移，释放西部可再生资源以支持全国AI发展。2021年9月12日，中国西南部贵州省贵安新区华为云数据中心的鸟瞰图。\n\n算电协同试点\n全国各地的示范项目正在证明算力与电力系统协同的实际价值。工作负载根据可再生能源输出动态调整，储能缓解供应波动，以提高可再生能源利用率、维持服务可靠性并降低电费。上海临港交付了中国首个自动化高精度100卡AI智能算力集群的跨省迁移测试。在电网高峰时段，AI训练和推理工作负载在不到三分钟内于节点间迁移，迅速缓解电网压力。该测试验证了算力集群如何作为灵活资源参与峰值负荷管理。\n\n在乌兰察布，中联数据的零碳算力基地运行着一种集绿电直连和源网荷储一体化于一体的可再生综合供应模式。在300兆瓦（MW）风能和太阳能容量及45兆瓦储能的支撑下，该中心在可再生能源充足时满负荷运行能源密集型AI训练。当风能和太阳能减弱时，储能补充电力以维持连续运行。该模式提升了本地可再生能源消纳，同时保障了可靠算力并降低了电力成本。“疆算入渝”计划利用高速专用链路，在中国西北部新疆维吾尔自治区可再生能源丰富区域运行长安汽车的自动驾驶大模型训练。\n\n训练在绿色电力盈余期间进行，结果通过高速网络传回重庆。这使得长安汽车和重庆其他本地产业能够利用低成本的西部绿色算力资源，而无需在本地建设额外的高耗能算力设施。这三个试点共同验证了通过本地灵活调度、就地源荷管理和跨区域资源配置实现算电协同的可行性。2026年8月13日，中国西北部甘肃省敦煌，夕阳为熔盐太阳能塔式光热电站披上金色光辉。数字与绿色转型的新路径\n算力与电力之间的强有力协同需要跨机构、跨行业合作、统一技术标准和基于市场的定价机制。\n\n随着中国在“十五五”规划下推进算力、电力和通信基础设施一体化，AI与电力系统之间的关系将发生根本性转变。算力基础设施将从主要电力消费者演变为灵活的电网资源，调整负荷以稳定电力系统并消纳更多可再生能源。通过以绿色电力为AI供能，同时部署灵活算力负荷以促进可再生能源整合，中国正在为数字和能源转型开辟一条相互强化的路径。"
+    },
+    {
+      "id": 2,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-16/Over-75-at-risk-US-flight-disruption-exposes-problems-in-ATC-system-1S7hXEMkRnW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Over 75% at risk: US flight disruption exposes problems in ATC system",
+      "titleCn": "超过75%面临风险：美国航班中断暴露空管系统问题",
+      "summary": "The US is still recovering from a nationwide flight shutdown triggered by a communications failure in its air traffic control (ATC) network, raising concerns over the country's aging aviation infrastructure and delayed modernization.",
+      "summaryCn": "美国联邦航空管理局因电信故障导致全国航班停飞近五小时，暴露出空管系统老化、现代化滞后及资金不足等深层问题。",
+      "wordCount": 975,
+      "paragraphs": [
+        {
+          "en": "People wait at a terminal at Ronald Reagan Washington National Airport in Virginia, the United States, November 13, 2026. The United States is still recovering from a nationwide flight shutdown triggered by a communications failure in its air traffic control (ATC) network, raising concerns over the country's aging aviation {{1}} and delayed {{2}}. On November 13, the Federal Aviation Administration (FAA) issued a nationwide ground stop that lasted nearly five hours after a {{3}} failure disrupted communications and {{4}} data across its air traffic control network, the longest nationwide shutdown since the September 11 attacks in 2001. Although the stop was lifted later that evening, the {{0}} continued to affect airline operations over the weekend. On Sunday, Transportation Secretary Sean Duffy said flights were expected to fully return to normal by Monday.",
+          "cn": "2026年11月13日，美国弗吉尼亚州罗纳德·里根华盛顿国家机场航站楼内等待的人们。美国仍在从空中交通管制（ATC）网络通信故障引发的全国性航班停飞中恢复，这引发了对该国老化的航空基础设施和延迟的现代化的担忧。11月13日，美国联邦航空管理局（FAA）在全国范围内发布地面停飞令，持续近五小时，此前电信故障中断了其空中交通管制网络的通信和雷达数据，这是自2001年9月11日袭击以来最长的全国性停飞。尽管停飞令当晚晚些时候解除，但中断仍在周末持续影响航空公司运营。周日，交通部长肖恩·达菲表示，航班预计将在周一完全恢复正常。"
+        },
+        {
+          "en": "More than 11,500 flights were canceled or delayed on Sunday, Reuters reported, citing aviation data site FlightAware. \"About 28% of JetBlue flights and 20% of American Airlines flights were canceled, with United Airlines, Southwest and Delta reporting cancellations of 3% to 5% of their flights,\" Reuters reported. A nationwide shutdown triggered by local equipment\nUS Transportation Secretary Sean Duffy (R) speaks alongside FAA Administrator Bryan Bedford during a press briefing at the Department of Transportation headquarters in Washington, DC, US, November 14, 2026. Duffy told ABC's \"This Week\" program that there was no evidence of a cyberattack or other {{5}} intent. He said an investigation is underway.",
+          "cn": "据路透社援引航空数据网站FlightAware报道，周日有超过11,500架次航班被取消或延误。路透社报道称：“捷蓝航空约28%的航班和美国航空20%的航班被取消，联合航空、西南航空和达美航空报告其3%至5%的航班被取消。”由当地设备引发的全国性停飞。2026年11月14日，美国交通部长肖恩·达菲（右）与FAA局长布莱恩·贝德福德在华盛顿特区美国交通部总部举行的新闻发布会上讲话。达菲告诉ABC的“本周”节目，没有证据表明存在网络攻击或其他恶意意图。他表示调查正在进行中。"
+        },
+        {
+          "en": "The {{6}} investigation points to a problem that took place during a {{7}} upgrade at an FAA telecommunications facility in El Dorado, Arkansas. According to Duffy, the FAA {{8}} L3Harris was replacing aging copper telephone lines with fiber for at least one new router. However, the new routers began flooding other routers with more than 1,000 connection attempts every four to five seconds. The FAA subsequently disabled the broadcasting function on 69 similar routers across the national airspace system, helping stabilize the network. The root cause remains under investigation.",
+          "cn": "初步调查指向在阿肯色州埃尔多拉多FAA电信设施进行例行升级时发生的问题。据达菲称，FAA承包商L3Harris正在用光纤替换老化的铜电话线，至少为一个新路由器进行更换。然而，新路由器开始每四到五秒向其他路由器发送超过1,000次连接尝试，造成洪水攻击。FAA随后禁用了全国空域系统中69个类似路由器的广播功能，帮助稳定了网络。根本原因仍在调查中。"
+        },
+        {
+          "en": "Duffy said officials were examining whether the problem stemmed from faulty equipment or an installation error by the contractor. Aging infrastructure behind the technical failure\nAn information board at Chicago O'Hare International Airport after the Federal Aviation Administration ordered a nationwide ground stop on all departing flights following a communication issue that affected air traffic control centers across the US, Illinois, US, November 13, 2026. Duffy said some of the affected routers were purchased in 2001 and were {{9}} by 2006, yet remained in service. A September 2024 report by the US Government Accountability Office (GAO) found that of the FAA's 138 air traffic control systems, \"51 were unsustainable and 54 were potentially unsustainable,\" meaning 105 systems, or over 76%, faced {{10}} risks. Of the 105 systems, 58 have \"{{11}} operational impacts on the safety and {{12}} of the national airspace.\"\nThe GAO reported that 73 of these systems were deployed more than 20 years ago, with 40 deployed over 30 years ago and six more than 60 years ago.",
+          "cn": "达菲表示，官员们正在检查问题是否源于设备故障或承包商的安装错误。技术故障背后的老化基础设施。2026年11月13日，美国伊利诺伊州芝加哥奥黑尔国际机场的信息板，此前FAA因影响全美空中交通管制中心的通信问题下令所有离港航班全国停飞。达菲表示，部分受影响的路由器购于2001年，到2006年已过时，却仍在服役。2024年9月美国政府问责局（GAO）的一份报告发现，在FAA的138个空中交通管制系统中，“51个不可持续，54个可能不可持续”，这意味着105个系统（超过76%）面临可持续性风险。在这105个系统中，58个对“国家空域的安全和效率具有关键运营影响”。GAO报告称，其中73个系统部署超过20年，40个部署超过30年，另有6个超过60年。"
+        },
+        {
+          "en": "It also identified difficulties obtaining spare parts and finding technicians with the {{13}} needed to maintain aging equipment. FAA Administrator Bryan Bedford told Reuters in September that more than 300 of the agency's ATC facilities operated as technological silos. In some cases, they still depend on decades-old computers and telecommunications systems that cannot communicate {{14}} with one another. For some obsolete equipment, replacement parts can only be obtained through online {{15}} sites or made by 3D printing. This is not the first time a technical failure has disrupted US air travel.",
+          "cn": "报告还指出，获取备件和寻找具备维护老化设备所需专业知识的技术人员存在困难。FAA局长布莱恩·贝德福德9月告诉路透社，该机构300多个ATC设施作为技术孤岛运行。在某些情况下，它们仍依赖数十年前的计算机和电信系统，这些系统无法彼此无缝通信。对于一些过时设备，替换零件只能通过在线拍卖网站获得或通过3D打印制造。这不是技术故障第一次扰乱美国航空旅行。"
+        },
+        {
+          "en": "In January 2023, a failure in the FAA's Notice to Air Missions (NOTAM) system, which provides pilots with essential flight safety information, forced the agency to temporarily {{16}} departing flights nationwide, disrupting more than 11,000 flights. In September this year, a primary telecommunications {{17}} failed at an FAA air traffic control facility in Philadelphia, causing around 9,500 flight delays and cancellations. Christopher Sununu, the head of Airlines for America and the former Republican governor of New Hampshire, described the system as \"held together with string and duct tape.\"\nDuffy had requested $30 billion from Congress to upgrade the system. However, after the nationwide stop, his request rose to $50 billion. US President Donald Trump has urged Congress to \"give the money, FAST!\" on Truth Social on Sunday.",
+          "cn": "2023年1月，FAA的飞行任务通知（NOTAM）系统（为飞行员提供基本飞行安全信息）发生故障，迫使该机构暂时停止全国离港航班，扰乱了超过11,000架次航班。今年9月，费城FAA空中交通管制设施的一条主电信线路故障，导致约9,500架次航班延误和取消。美国航空协会负责人、前新罕布什尔州共和党州长克里斯托弗·苏努努将该系统描述为“用绳子和胶带拼凑起来的”。达菲曾请求国会拨款300亿美元升级系统。然而，在全国停飞后，他的请求增至500亿美元。美国总统唐纳德·特朗普周日敦促国会“给钱，快点！”在Truth Social上。"
+        },
+        {
+          "en": "Despite funding and technology, structural and institutional problems that have {{18}} over decades could also be the reasons, according to Chinese aviation expert Wang Yanan. FAA, airlines, and other agencies have different priorities and operational needs, making {{19}} difficult. Meanwhile, modernizing an ATC system is complicated, as it must run around the clock, meaning new equipment and technologies have to be installed, tested and {{20}} without disrupting existing operations. Political disputes and repeated changes in budget priorities have also slowed modernization efforts. Political blame game over flight chaos\nThe flight shutdown quickly sparked a political blame game, with officials pointing fingers over responsibility for the crisis and the funding needed to fix the system.",
+          "cn": "据中国航空专家王亚男表示，尽管有资金和技术，数十年来积累的结构性和制度性问题也可能是原因。FAA、航空公司和其他机构的优先事项和运营需求不同，使得协调困难。与此同时，空管系统的现代化很复杂，因为它必须全天候运行，这意味着新设备和技术必须在不妨碍现有运营的情况下安装、测试和整合。政治争端和预算优先事项的反复变化也减缓了现代化努力。航班混乱引发政治指责游戏。航班停飞迅速引发了政治指责游戏，官员们就危机责任和修复系统所需资金相互推诿。"
+        },
+        {
+          "en": "Duffy acknowledged the shutdown happened under his watch but declined to apologize, arguing that he inherited decades of underinvestment in air traffic control infrastructure. He said the Trump administration was moving faster than its predecessors to modernize the system and called on Congress to provide more than $50 billion for a full {{21}}. Trump, meanwhile, blamed the Biden administration for leaving behind a {{22}} FAA system and urged Congress to approve additional funding. Democrats pushed back, arguing that Congress had already approved $12.5 billion for upgrades, while the administration had spent only about $1 billion. Democratic Senator Tammy Duckworth also questioned why funding had been available for other projects but not air traffic control modernization.",
+          "cn": "达菲承认停飞发生在他的任期内，但拒绝道歉，辩称他继承了数十年来对空中交通管制基础设施投资不足的问题。他表示特朗普政府比前任更快地推进系统现代化，并呼吁国会提供超过500亿美元进行全面改革。与此同时，特朗普指责拜登政府留下了恶化的FAA系统，并敦促国会批准额外资金。民主党人反驳称，国会已批准125亿美元用于升级，而政府仅花费了约10亿美元。民主党参议员塔米·达克沃斯还质疑为何其他项目有资金而空中交通管制现代化却没有。"
+        },
+        {
+          "en": "Duffy defended the spending, saying the existing funds had already been committed to equipment expected to be deployed by 2028, but were {{23}} for a new telecommunications network and software.",
+          "cn": "达菲为支出辩护，称现有资金已承诺用于预计2028年部署的设备，但不足以建设新的电信网络和软件。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "disruption",
+          "hint": "n. 中断，扰乱",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "modernization",
+          "hint": "n. 现代化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "telecommunications",
+          "hint": "n. 电信",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "radar",
+          "hint": "n. 雷达",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "malicious",
+          "hint": "adj. 恶意的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "preliminary",
+          "hint": "adj. 初步的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "routine",
+          "hint": "adj. 例行的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "contractor",
+          "hint": "n. 承包商",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "obsolete",
+          "hint": "adj. 过时的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "sustainability",
+          "hint": "n. 可持续性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "critical",
+          "hint": "adj. 关键的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "efficiency",
+          "hint": "n. 效率",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "expertise",
+          "hint": "n. 专业知识",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "seamlessly",
+          "hint": "adv. 无缝地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "auction",
+          "hint": "n. 拍卖",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "halt",
+          "hint": "v. 停止",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "circuit",
+          "hint": "n. 电路",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "accumulated",
+          "hint": "v. 积累",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "integrated",
+          "hint": "v. 整合",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "overhaul",
+          "hint": "n. 全面改革",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "deteriorating",
+          "hint": "adj. 恶化的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 23,
+          "answer": "insufficient",
+          "hint": "adj. 不足的",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "People wait at a terminal at Ronald Reagan Washington National Airport in Virginia, the United States, November 13, 2026. \nThe United States is still recovering from a nationwide flight shutdown triggered by a communications failure in its air traffic control (ATC) network, raising concerns over the country's aging aviation infrastructure and delayed modernization.\nOn November 13, the Federal Aviation Administration (FAA) issued a nationwide ground stop that lasted nearly five hours after a telecommunications failure disrupted communications and radar data across its air traffic control network, the longest nationwide shutdown since the September 11 attacks in 2001. Although the stop was lifted later that evening, the disruption continued to affect airline operations over the weekend.\nOn Sunday, Transportation Secretary Sean Duffy said flights were expected to fully return to normal by Monday. More than 11,500 flights were canceled or delayed on Sunday, Reuters reported, citing aviation data site FlightAware.\n\"About 28% of JetBlue flights and 20% of American Airlines flights were canceled, with United Airlines, Southwest and Delta reporting cancellations of 3% to 5% of their flights,\" Reuters reported.\nA nationwide shutdown triggered by local equipment\nUS Transportation Secretary Sean Duffy (R) speaks alongside FAA Administrator Bryan Bedford during a press briefing at the Department of Transportation headquarters in Washington, DC, US, November 14, 2026. \nDuffy told ABC's \"This Week\" program that there was no evidence of a cyberattack or other malicious intent.\nHe said an investigation is underway. The preliminary investigation points to a problem that took place during a routine upgrade at an FAA telecommunications facility in El Dorado, Arkansas.\nAccording to Duffy, the FAA contractor L3Harris was replacing aging copper telephone lines with fiber for at least one new router. However, the new routers began flooding other routers with more than 1,000 connection attempts every four to five seconds.\nThe FAA subsequently disabled the broadcasting function on 69 similar routers across the national airspace system, helping stabilize the network.\nThe root cause remains under investigation. Duffy said officials were examining whether the problem stemmed from faulty equipment or an installation error by the contractor.\nAging infrastructure behind the technical failure\nAn information board at Chicago O'Hare International Airport after the Federal Aviation Administration ordered a nationwide ground stop on all departing flights following a communication issue that affected air traffic control centers across the US, Illinois, US, November 13, 2026. \nDuffy said some of the affected routers were purchased in 2001 and were obsolete by 2006, yet remained in service.\nA September 2024 report by the US Government Accountability Office (GAO) found that of the FAA's 138 air traffic control systems, \"51 were unsustainable and 54 were potentially unsustainable,\" meaning 105 systems, or over 76%, faced sustainability risks. Of the 105 systems, 58 have \"critical operational impacts on the safety and efficiency of the national airspace.\"\nThe GAO reported that 73 of these systems were deployed more than 20 years ago, with 40 deployed over 30 years ago and six more than 60 years ago. It also identified difficulties obtaining spare parts and finding technicians with the expertise needed to maintain aging equipment.\nFAA Administrator Bryan Bedford told Reuters in September that more than 300 of the agency's ATC facilities operated as technological silos. In some cases, they still depend on decades-old computers and telecommunications systems that cannot communicate seamlessly with one another. For some obsolete equipment, replacement parts can only be obtained through online auction sites or made by 3D printing.\nThis is not the first time a technical failure has disrupted US air travel.\nIn January 2023, a failure in the FAA's Notice to Air Missions (NOTAM) system, which provides pilots with essential flight safety information, forced the agency to temporarily halt departing flights nationwide, disrupting more than 11,000 flights.\nIn September this year, a primary telecommunications circuit failed at an FAA air traffic control facility in Philadelphia, causing around 9,500 flight delays and cancellations.\nChristopher Sununu, the head of Airlines for America and the former Republican governor of New Hampshire, described the system as \"held together with string and duct tape.\"\nDuffy had requested $30 billion from Congress to upgrade the system. However, after the nationwide stop, his request rose to $50 billion. US President Donald Trump has urged Congress to \"give the money, FAST!\" on Truth Social on Sunday.\nDespite funding and technology, structural and institutional problems that have accumulated over decades could also be the reasons, according to Chinese aviation expert Wang Yanan.\nFAA, airlines, and other agencies have different priorities and operational needs, making coordination difficult. Meanwhile, modernizing an ATC system is complicated, as it must run around the clock, meaning new equipment and technologies have to be installed, tested and integrated without disrupting existing operations. Political disputes and repeated changes in budget priorities have also slowed modernization efforts.\nPolitical blame game over flight chaos\nThe flight shutdown quickly sparked a political blame game, with officials pointing fingers over responsibility for the crisis and the funding needed to fix the system.\nDuffy acknowledged the shutdown happened under his watch but declined to apologize, arguing that he inherited decades of underinvestment in air traffic control infrastructure. He said the Trump administration was moving faster than its predecessors to modernize the system and called on Congress to provide more than $50 billion for a full overhaul.\nTrump, meanwhile, blamed the Biden administration for leaving behind a deteriorating FAA system and urged Congress to approve additional funding. Democrats pushed back, arguing that Congress had already approved $12.5 billion for upgrades, while the administration had spent only about $1 billion. Democratic Senator Tammy Duckworth also questioned why funding had been available for other projects but not air traffic control modernization.\nDuffy defended the spending, saying the existing funds had already been committed to equipment expected to be deployed by 2028, but were insufficient for a new telecommunications network and software.",
+      "fullTextCn": "2026年11月13日，美国弗吉尼亚州罗纳德·里根华盛顿国家机场航站楼内等待的人们。美国仍在从空中交通管制（ATC）网络通信故障引发的全国性航班停飞中恢复，这引发了对该国老化的航空基础设施和延迟的现代化的担忧。11月13日，美国联邦航空管理局（FAA）在全国范围内发布地面停飞令，持续近五小时，此前电信故障中断了其空中交通管制网络的通信和雷达数据，这是自2001年9月11日袭击以来最长的全国性停飞。尽管停飞令当晚晚些时候解除，但中断仍在周末持续影响航空公司运营。周日，交通部长肖恩·达菲表示，航班预计将在周一完全恢复正常。\n\n据路透社援引航空数据网站FlightAware报道，周日有超过11,500架次航班被取消或延误。路透社报道称：“捷蓝航空约28%的航班和美国航空20%的航班被取消，联合航空、西南航空和达美航空报告其3%至5%的航班被取消。”由当地设备引发的全国性停飞。2026年11月14日，美国交通部长肖恩·达菲（右）与FAA局长布莱恩·贝德福德在华盛顿特区美国交通部总部举行的新闻发布会上讲话。达菲告诉ABC的“本周”节目，没有证据表明存在网络攻击或其他恶意意图。他表示调查正在进行中。\n\n初步调查指向在阿肯色州埃尔多拉多FAA电信设施进行例行升级时发生的问题。据达菲称，FAA承包商L3Harris正在用光纤替换老化的铜电话线，至少为一个新路由器进行更换。然而，新路由器开始每四到五秒向其他路由器发送超过1,000次连接尝试，造成洪水攻击。FAA随后禁用了全国空域系统中69个类似路由器的广播功能，帮助稳定了网络。根本原因仍在调查中。\n\n达菲表示，官员们正在检查问题是否源于设备故障或承包商的安装错误。技术故障背后的老化基础设施。2026年11月13日，美国伊利诺伊州芝加哥奥黑尔国际机场的信息板，此前FAA因影响全美空中交通管制中心的通信问题下令所有离港航班全国停飞。达菲表示，部分受影响的路由器购于2001年，到2006年已过时，却仍在服役。2024年9月美国政府问责局（GAO）的一份报告发现，在FAA的138个空中交通管制系统中，“51个不可持续，54个可能不可持续”，这意味着105个系统（超过76%）面临可持续性风险。在这105个系统中，58个对“国家空域的安全和效率具有关键运营影响”。GAO报告称，其中73个系统部署超过20年，40个部署超过30年，另有6个超过60年。\n\n报告还指出，获取备件和寻找具备维护老化设备所需专业知识的技术人员存在困难。FAA局长布莱恩·贝德福德9月告诉路透社，该机构300多个ATC设施作为技术孤岛运行。在某些情况下，它们仍依赖数十年前的计算机和电信系统，这些系统无法彼此无缝通信。对于一些过时设备，替换零件只能通过在线拍卖网站获得或通过3D打印制造。这不是技术故障第一次扰乱美国航空旅行。\n\n2023年1月，FAA的飞行任务通知（NOTAM）系统（为飞行员提供基本飞行安全信息）发生故障，迫使该机构暂时停止全国离港航班，扰乱了超过11,000架次航班。今年9月，费城FAA空中交通管制设施的一条主电信线路故障，导致约9,500架次航班延误和取消。美国航空协会负责人、前新罕布什尔州共和党州长克里斯托弗·苏努努将该系统描述为“用绳子和胶带拼凑起来的”。达菲曾请求国会拨款300亿美元升级系统。然而，在全国停飞后，他的请求增至500亿美元。美国总统唐纳德·特朗普周日敦促国会“给钱，快点！”在Truth Social上。\n\n据中国航空专家王亚男表示，尽管有资金和技术，数十年来积累的结构性和制度性问题也可能是原因。FAA、航空公司和其他机构的优先事项和运营需求不同，使得协调困难。与此同时，空管系统的现代化很复杂，因为它必须全天候运行，这意味着新设备和技术必须在不妨碍现有运营的情况下安装、测试和整合。政治争端和预算优先事项的反复变化也减缓了现代化努力。航班混乱引发政治指责游戏。航班停飞迅速引发了政治指责游戏，官员们就危机责任和修复系统所需资金相互推诿。\n\n达菲承认停飞发生在他的任期内，但拒绝道歉，辩称他继承了数十年来对空中交通管制基础设施投资不足的问题。他表示特朗普政府比前任更快地推进系统现代化，并呼吁国会提供超过500亿美元进行全面改革。与此同时，特朗普指责拜登政府留下了恶化的FAA系统，并敦促国会批准额外资金。民主党人反驳称，国会已批准125亿美元用于升级，而政府仅花费了约10亿美元。民主党参议员塔米·达克沃斯还质疑为何其他项目有资金而空中交通管制现代化却没有。\n\n达菲为支出辩护，称现有资金已承诺用于预计2028年部署的设备，但不足以建设新的电信网络和软件。"
+    },
+    {
+      "id": 3,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-22/COP31-fails-to-reach-consensus-on-Antalya-Pact-1ShNqP9QQg0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "COP31 fails to reach consensus on Antalya Pact",
+      "titleCn": "COP31未能就安塔利亚协议达成共识",
+      "summary": "COP31 fails to reach consensus on Antalya Pact",
+      "summaryCn": "由于欧盟等国认为最终草案在化石燃料和气候融资问题上过于软弱，COP31气候峰会未能就《安塔利亚协议》达成共识。",
+      "wordCount": 855,
+      "paragraphs": [
+        {
+          "en": "COP31 President Murat Kurum, center, leaves a closing plenary session at the COP31 UN Climate Summit, Antalya, Türkiye, November 22, 2026. The 31st United Nations Climate Change Conference (COP31) failed to reach {{0}} on the Antalya Pact on Sunday as the European Union and others {{1}} a final draft deal put forward by COP31 presidents Türkiye and Australia, saying it was too ‌weak to {{2}} the fight against global warming. After more than two weeks of {{3}} that spilled two days into overtime, Türkiye's COP31 President Murat Kurum said at the closing plenary that he could see there was no agreement, {{4}} he would not advance any new text, and later left the stage in the midst of speeches being delivered by country representatives. \"There is nothing to do, we did all that we could. Since there are 196 countries, they will make the decision and we will respect their decision,\" he said.",
+          "cn": "2026年11月22日，在土耳其安塔利亚举行的COP31联合国气候峰会上，COP31主席穆拉特·库鲁姆（中）在闭幕全体会议后离场。周日，第31届联合国气候变化大会（COP31）未能就《安塔利亚协议》达成共识，欧盟和其他国家拒绝了COP31主席国土耳其和澳大利亚提出的最终协议草案，称其过于软弱，无法推进应对全球变暖的斗争。经过两周多的谈判，谈判超时两天后，土耳其COP31主席穆拉特·库鲁姆在闭幕全体会议上表示，他看得出各方没有达成一致，确认他不会推进任何新文本，随后在各国代表发言期间离开了讲台。他说：“无能为力了，我们已经尽了全力。既然有196个国家，他们将做出决定，我们将尊重他们的决定。”"
+        },
+        {
+          "en": "\"There will be no new text from now on.\"\nUN Secretary-General António Guterres said in a statement that he was {{5}} with the outcome, urging the world to \"do much more\" to {{6}} the climate crisis now. \"The climate crisis will not wait for governments to find common ground. Neither can we,\" he noted. Wopke Hoekstra, EU climate commissioner, speaks outside a plenary session at the COP31 UN Climate Summit, Antalya, Türkiye, November 22, 2026. What kept COP31 from reaching a deal?",
+          "cn": "“从现在起不会再有新文本。”联合国秘书长安东尼奥·古特雷斯在一份声明中表示，他对这一结果感到失望，并敦促世界现在就要“做得更多”以应对气候危机。他指出：“气候危机不会等待各国政府找到共同点。我们也不能等。”2026年11月22日，土耳其安塔利亚，欧盟气候专员沃普克·霍克斯特拉在COP31联合国气候峰会全体会议外讲话。是什么让COP31未能达成协议？"
+        },
+        {
+          "en": "Two {{7}} pushed the summit past its deadline: whether the final text should address fossil fuel use and what financial support it should offer poorer countries to tackle climate change. Ireland's Minister for Climate, Energy and the Environment Darragh O'Brien said the European Union could not support the proposed deal, in part because it made no mention of the fossil fuels that scientists say drive global warming. \"It is unconscionable that we would have a climate act that makes no reference to fossil fuel, no reference to {{8}} away from fossil fuels,\" he said. Panama also said it could not support the text because it failed to address the scale and urgency of the climate crisis. Russia, however, supported the decision to leave the {{9}} mention of \"fossil fuels\" out of the final deal.",
+          "cn": "两场争端使峰会超过了最后期限：最终文本是否应涉及化石燃料的使用，以及应向较贫穷国家提供何种财政支持以应对气候变化。爱尔兰气候、能源和环境部长达拉·奥布莱恩表示，欧盟无法支持拟议的协议，部分原因是它只字未提科学家认为导致全球变暖的化石燃料。他说：“如果我们有一项气候法案却不提及化石燃料，不提及摆脱化石燃料的转型，那是不合情理的。”巴拿马也表示无法支持该文本，因为它未能应对气候危机的规模和紧迫性。然而，俄罗斯支持将“化石燃料”的明确表述排除在最终协议之外的决定。"
+        },
+        {
+          "en": "This year's COP is the first since the UN's environmental body in October confirmed the rise in global temperature was set to exceed 1.5 degrees Celsius, a {{10}} countries agreed at Paris climate ‌talks over a decade ago to try not to exceed, and beyond which extreme weather impacts {{11}}. Saudi Arabia's Mohammad Ayoub, a climate negotiator, speaks on screen during a closing plenary session at the COP31 UN Climate Summit, Antalya, Türkiye, November 22, 2026. The proposed deal had {{12}} the overshoot, but called for faster development of carbon removal technologies to eventually {{13}} it. Observers at the venue said Saudi Arabia and other big oil-producing nations had pushed hard in negotiations for a text that left out explicit mention of fossil fuels, while including carbon removal technologies. While scientists say removing carbon from the atmosphere – when paired with steep emissions cuts – is {{14}} to avoiding the worst impacts of climate change, critics of the deal said they worried the carbon removal language would be used as a license to keep pumping oil.",
+          "cn": "今年的COP是自联合国环境机构10月确认全球气温上升将超过1.5摄氏度以来的首次会议。1.5摄氏度是各国十多年前在巴黎气候谈判中同意尽量不超过的阈值，超过该阈值极端天气影响将加剧。2026年11月22日，土耳其安塔利亚，沙特阿拉伯气候谈判代表穆罕默德·阿尤布在COP31联合国气候峰会闭幕全体会议上通过屏幕发言。拟议协议承认了超调，但呼吁加快碳去除技术的发展以最终扭转局面。会场观察人士表示，沙特阿拉伯和其他大型石油生产国在谈判中大力推动一份不明确提及化石燃料、但包含碳去除技术的文本。虽然科学家表示，从大气中去除碳——与大幅减排相结合——对于避免气候变化的最严重影响至关重要，但协议的批评者表示，他们担心碳去除的措辞会被用作继续开采石油的许可证。"
+        },
+        {
+          "en": "A representative for the Saudi delegation told the summit he was surprised at the {{15}} to technology. \"If indeed the climate challenge, as some have mentioned today, is so important, it makes no sense that solutions, concrete solutions ... will be taken off the table,\" he said. Simon Stiell, United Nations climate chief, listens during a closing plenary session at the COP31 UN Climate Summit, Antalya, Türkiye, November 22, 2026. Why UN climate talks keep running overtime\nThe {{16}} in Antalya echoed the 2009 Copenhagen summit, where countries failed to reach consensus on adopting the Copenhagen Accord.",
+          "cn": "沙特代表团的一位代表对峰会表示，他对技术的阻力感到惊讶。他说：“如果像今天一些人提到的那样，气候挑战确实如此重要，那么将解决方案、具体解决方案……排除在讨论之外就毫无意义。”2026年11月22日，土耳其安塔利亚，联合国气候负责人西蒙·斯蒂尔在COP31联合国气候峰会闭幕全体会议上聆听。为什么联合国气候谈判总是超时。安塔利亚的僵局与2009年哥本哈根峰会如出一辙，当时各国未能就通过《哥本哈根协议》达成共识。"
+        },
+        {
+          "en": "In Antalya, Australia and host Türkiye circulated several drafts in an effort to bridge the divide between countries most {{17}} to climate change and those whose economies rely on producing or consuming fossil fuels. Climate finance remains a sticking point. Many developing countries are among the hardest hit by climate change and need funding to respond. Developed countries, which industrialized earlier and account for a {{18}} share of historical emissions, are required under the Paris Agreement to help fund those efforts. So far, funding has fallen well short of expectations.",
+          "cn": "在安塔利亚，澳大利亚和东道主土耳其散发了多份草案，试图弥合最易受气候变化影响的国家与依赖化石燃料生产或消费的经济体之间的分歧。气候融资仍是一个症结。许多发展中国家是受气候变化影响最严重的国家之一，需要资金来应对。根据《巴黎协定》，工业化较早、历史排放占比过高的发达国家有义务帮助资助这些努力。迄今为止，资金远远低于预期。"
+        },
+        {
+          "en": "UN climate talks operate by consensus, giving every party a say. On divisive issues, an objection from even one party can hold up a deal and trigger another round of negotiations. The COP process is the main vehicle through which countries coordinate their efforts to curb global warming. Its annual summit provides an opportunity for nations to signal they are willing to work together to find solutions and help finance the problems rising temperatures cause. Past summits have delivered incremental gains even after running past their deadlines.",
+          "cn": "联合国气候谈判以协商一致方式运作，每个缔约方都有发言权。在有争议的问题上，即使一个缔约方反对，也可能阻碍协议并引发新一轮谈判。COP进程是各国协调遏制全球变暖努力的主要渠道。其年度峰会为各国提供了一个机会，表明它们愿意共同努力寻找解决方案，并为气温上升造成的问题提供资金。过去的峰会在超过最后期限后仍取得了渐进式成果。"
+        },
+        {
+          "en": "UN climate chief Simon Stiell has said there is no quick fix for the climate crisis and that each summit should move efforts forward. He called for greater political will to turn climate pledges into action.",
+          "cn": "联合国气候负责人西蒙·斯蒂尔曾表示，气候危机没有快速解决方案，每次峰会都应推动努力向前。他呼吁增强政治意愿，将气候承诺转化为行动。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "consensus",
+          "hint": "n. 共识",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "rejected",
+          "hint": "v. 拒绝",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "advance",
+          "hint": "v. 推进",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "negotiations",
+          "hint": "n. 谈判",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "confirmed",
+          "hint": "v. 确认",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "disappointed",
+          "hint": "adj. 失望的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "confront",
+          "hint": "v. 面对",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "disputes",
+          "hint": "n. 争端",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "transitioning",
+          "hint": "v. 转型",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "explicit",
+          "hint": "adj. 明确的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "threshold",
+          "hint": "n. 阈值",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "intensify",
+          "hint": "v. 加剧",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "acknowledged",
+          "hint": "v. 承认",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "reverse",
+          "hint": "v. 扭转",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "vital",
+          "hint": "adj. 至关重要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "resistance",
+          "hint": "n. 阻力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "deadlock",
+          "hint": "n. 僵局",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "vulnerable",
+          "hint": "adj. 脆弱的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "disproportionate",
+          "hint": "adj. 不成比例的",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "COP31 President Murat Kurum, center, leaves a closing plenary session at the COP31 UN Climate Summit, Antalya, Türkiye, November 22, 2026. \nThe 31st United Nations Climate Change Conference (COP31) failed to reach consensus on the Antalya Pact on Sunday as the European Union and others rejected a final draft deal put forward by COP31 presidents Türkiye and Australia, saying it was too ‌weak to advance the fight against global warming.\nAfter more than two weeks of negotiations that spilled two days into overtime, Türkiye's COP31 President Murat Kurum said at the closing plenary that he could see there was no agreement, confirmed he would not advance any new text, and later left the stage in the midst of speeches being delivered by country representatives.\n\"There is nothing to do, we did all that we could. Since there are 196 countries, they will make the decision and we will respect their decision,\" he said. \"There will be no new text from now on.\"\nUN Secretary-General António Guterres said in a statement that he was disappointed with the outcome, urging the world to \"do much more\" to confront the climate crisis now.\n\"The climate crisis will not wait for governments to find common ground. Neither can we,\" he noted.\nWopke Hoekstra, EU climate commissioner, speaks outside a plenary session at the COP31 UN Climate Summit, Antalya, Türkiye, November 22, 2026. \nWhat kept COP31 from reaching a deal?\nTwo disputes pushed the summit past its deadline: whether the final text should address fossil fuel use and what financial support it should offer poorer countries to tackle climate change.\nIreland's Minister for Climate, Energy and the Environment Darragh O'Brien said the European Union could not support the proposed deal, in part because it made no mention of the fossil fuels that scientists say drive global warming.\n\"It is unconscionable that we would have a climate act that makes no reference to fossil fuel, no reference to transitioning away from fossil fuels,\" he said.\nPanama also said it could not support the text because it failed to address the scale and urgency of the climate crisis.\nRussia, however, supported the decision to leave the explicit mention of \"fossil fuels\" out of the final deal.\nThis year's COP is the first since the UN's environmental body in October confirmed the rise in global temperature was set to exceed 1.5 degrees Celsius, a threshold countries agreed at Paris climate ‌talks over a decade ago to try not to exceed, and beyond which extreme weather impacts intensify.\nSaudi Arabia's Mohammad Ayoub, a climate negotiator, speaks on screen during a closing plenary session at the COP31 UN Climate Summit, Antalya, Türkiye, November 22, 2026. \nThe proposed deal had acknowledged the overshoot, but called for faster development of carbon removal technologies to eventually reverse it.\nObservers at the venue said Saudi Arabia and other big oil-producing nations had pushed hard in negotiations for a text that left out explicit mention of fossil fuels, while including carbon removal technologies.\nWhile scientists say removing carbon from the atmosphere – when paired with steep emissions cuts – is vital to avoiding the worst impacts of climate change, critics of the deal said they worried the carbon removal language would be used as a license to keep pumping oil.\nA representative for the Saudi delegation told the summit he was surprised at the resistance to technology.\n\"If indeed the climate challenge, as some have mentioned today, is so important, it makes no sense that solutions, concrete solutions ... will be taken off the table,\" he said.\nSimon Stiell, United Nations climate chief, listens during a closing plenary session at the COP31 UN Climate Summit, Antalya, Türkiye, November 22, 2026. \nWhy UN climate talks keep running overtime\nThe deadlock in Antalya echoed the 2009 Copenhagen summit, where countries failed to reach consensus on adopting the Copenhagen Accord. In Antalya, Australia and host Türkiye circulated several drafts in an effort to bridge the divide between countries most vulnerable to climate change and those whose economies rely on producing or consuming fossil fuels.\nClimate finance remains a sticking point. Many developing countries are among the hardest hit by climate change and need funding to respond. Developed countries, which industrialized earlier and account for a disproportionate share of historical emissions, are required under the Paris Agreement to help fund those efforts. So far, funding has fallen well short of expectations.\nUN climate talks operate by consensus, giving every party a say. On divisive issues, an objection from even one party can hold up a deal and trigger another round of negotiations.\nThe COP process is the main vehicle through which countries coordinate their efforts to curb global warming. Its annual summit provides an opportunity for nations to signal they are willing to work together to find solutions and help finance the problems rising temperatures cause.\nPast summits have delivered incremental gains even after running past their deadlines. UN climate chief Simon Stiell has said there is no quick fix for the climate crisis and that each summit should move efforts forward. He called for greater political will to turn climate pledges into action.",
+      "fullTextCn": "2026年11月22日，在土耳其安塔利亚举行的COP31联合国气候峰会上，COP31主席穆拉特·库鲁姆（中）在闭幕全体会议后离场。周日，第31届联合国气候变化大会（COP31）未能就《安塔利亚协议》达成共识，欧盟和其他国家拒绝了COP31主席国土耳其和澳大利亚提出的最终协议草案，称其过于软弱，无法推进应对全球变暖的斗争。经过两周多的谈判，谈判超时两天后，土耳其COP31主席穆拉特·库鲁姆在闭幕全体会议上表示，他看得出各方没有达成一致，确认他不会推进任何新文本，随后在各国代表发言期间离开了讲台。他说：“无能为力了，我们已经尽了全力。既然有196个国家，他们将做出决定，我们将尊重他们的决定。”\n\n“从现在起不会再有新文本。”联合国秘书长安东尼奥·古特雷斯在一份声明中表示，他对这一结果感到失望，并敦促世界现在就要“做得更多”以应对气候危机。他指出：“气候危机不会等待各国政府找到共同点。我们也不能等。”2026年11月22日，土耳其安塔利亚，欧盟气候专员沃普克·霍克斯特拉在COP31联合国气候峰会全体会议外讲话。是什么让COP31未能达成协议？\n\n两场争端使峰会超过了最后期限：最终文本是否应涉及化石燃料的使用，以及应向较贫穷国家提供何种财政支持以应对气候变化。爱尔兰气候、能源和环境部长达拉·奥布莱恩表示，欧盟无法支持拟议的协议，部分原因是它只字未提科学家认为导致全球变暖的化石燃料。他说：“如果我们有一项气候法案却不提及化石燃料，不提及摆脱化石燃料的转型，那是不合情理的。”巴拿马也表示无法支持该文本，因为它未能应对气候危机的规模和紧迫性。然而，俄罗斯支持将“化石燃料”的明确表述排除在最终协议之外的决定。\n\n今年的COP是自联合国环境机构10月确认全球气温上升将超过1.5摄氏度以来的首次会议。1.5摄氏度是各国十多年前在巴黎气候谈判中同意尽量不超过的阈值，超过该阈值极端天气影响将加剧。2026年11月22日，土耳其安塔利亚，沙特阿拉伯气候谈判代表穆罕默德·阿尤布在COP31联合国气候峰会闭幕全体会议上通过屏幕发言。拟议协议承认了超调，但呼吁加快碳去除技术的发展以最终扭转局面。会场观察人士表示，沙特阿拉伯和其他大型石油生产国在谈判中大力推动一份不明确提及化石燃料、但包含碳去除技术的文本。虽然科学家表示，从大气中去除碳——与大幅减排相结合——对于避免气候变化的最严重影响至关重要，但协议的批评者表示，他们担心碳去除的措辞会被用作继续开采石油的许可证。\n\n沙特代表团的一位代表对峰会表示，他对技术的阻力感到惊讶。他说：“如果像今天一些人提到的那样，气候挑战确实如此重要，那么将解决方案、具体解决方案……排除在讨论之外就毫无意义。”2026年11月22日，土耳其安塔利亚，联合国气候负责人西蒙·斯蒂尔在COP31联合国气候峰会闭幕全体会议上聆听。为什么联合国气候谈判总是超时。安塔利亚的僵局与2009年哥本哈根峰会如出一辙，当时各国未能就通过《哥本哈根协议》达成共识。\n\n在安塔利亚，澳大利亚和东道主土耳其散发了多份草案，试图弥合最易受气候变化影响的国家与依赖化石燃料生产或消费的经济体之间的分歧。气候融资仍是一个症结。许多发展中国家是受气候变化影响最严重的国家之一，需要资金来应对。根据《巴黎协定》，工业化较早、历史排放占比过高的发达国家有义务帮助资助这些努力。迄今为止，资金远远低于预期。\n\n联合国气候谈判以协商一致方式运作，每个缔约方都有发言权。在有争议的问题上，即使一个缔约方反对，也可能阻碍协议并引发新一轮谈判。COP进程是各国协调遏制全球变暖努力的主要渠道。其年度峰会为各国提供了一个机会，表明它们愿意共同努力寻找解决方案，并为气温上升造成的问题提供资金。过去的峰会在超过最后期限后仍取得了渐进式成果。\n\n联合国气候负责人西蒙·斯蒂尔曾表示，气候危机没有快速解决方案，每次峰会都应推动努力向前。他呼吁增强政治意愿，将气候承诺转化为行动。"
+    },
+    {
+      "id": 4,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-22/Why-the-China-ASEAN-relation-matters-1Shbu0B5R16/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Why the China-ASEAN relation matters",
+      "titleCn": "中国-东盟关系为何重要",
+      "summary": "November 22 marks the fifth anniversary of the Comprehensive Strategic Partnership between China and the Association of Southeast Asian Nations (ASEAN), established on the same day in 2021.",
+      "summaryCn": "文章回顾了中国与东盟从对话关系发展到全面战略伙伴关系的历程，指出基础设施互联互通、经济互补和机制化合作持续推动双方贸易与投资增长，未来自贸区3.0和人工智能合作将带来新机遇。",
+      "wordCount": 739,
+      "paragraphs": [
+        {
+          "en": "The newly opened Pinglu Canal, which cuts through south China's Guangxi Zhuang Autonomous Region to the sea, is expected to {{0}} boost China's trade with ASEAN countries. November 22 marks the fifth {{1}} of the Comprehensive Strategic Partnership between China and the Association of Southeast Asian Nations (ASEAN), established on the same day in 2021. China and ASEAN's {{2}} relations date back to 1991, when the two first established dialogue relations at the 24th ASEAN Ministerial Meeting in Kuala Lumpur. Five years later, in 1996, their relationship was {{3}} to the full dialogue partnership status. Over the decades, China-ASEAN relations have been shaped by {{4}} and a shared sense of responsibility, particularly during regional challenges.",
+          "cn": "新开通的平陆运河穿越中国南部的广西壮族自治区通向大海，预计将大幅促进中国与东盟国家的贸易。11月22日是中国与东南亚国家联盟（东盟）全面战略伙伴关系建立五周年，该伙伴关系于2021年同一天建立。中国与东盟的外交关系可追溯至1991年，当时双方在吉隆坡举行的第24届东盟部长级会议上首次建立对话关系。五年后的1996年，双方关系提升为全面对话伙伴关系。几十年来，中国-东盟关系以团结和共同责任感为特征，尤其是在地区挑战期间。"
+        },
+        {
+          "en": "In the wake of the Asian financial crisis in 1997, China chose not to {{5}} its currency in a decision to prioritize regional economic stability and recovery, which was considered \"a major reason why the crisis did not {{6}} an even more {{7}} meltdown in the region,\" according to an economic study in 1999. Thirty-five years after the partnership began and five years into the latest round of elevated diplomatic ties, China-ASEAN relations continue to build {{8}}. From {{10}} to mutual {{9}}\nAs close neighbors, China's engagement with ASEAN developed naturally. Of ASEAN's 11 member states, three share land borders with China, and five are connected to China by the Lancang-Mekong River. Improved infrastructure has {{11}} this natural proximity.",
+          "cn": "1997年亚洲金融危机爆发后，中国选择不让人民币贬值，以优先考虑地区经济稳定和复苏，据1999年的一项经济研究，这被认为是“危机没有在该地区引发更具破坏性的崩溃的主要原因”。伙伴关系开始35年后、最新一轮外交关系提升五年后，中国-东盟关系继续积聚势头。从邻近到共同繁荣。作为近邻，中国与东盟的交往自然发展。东盟11个成员国中，三个与中国接壤，五个通过澜沧江-湄公河与中国相连。基础设施的改善加强了这种天然邻近性。"
+        },
+        {
+          "en": "Since opening in 2021, the China-Laos Railway has linked Yunnan Province in southwest China with Vientiane, the capital of Laos, and helped cut shipping costs between the two countries by 40% to 50%, according to a World Bank report. Transportation links are also expanding with the opening of the Pinglu Canal in 2026, a 134-kilometer waterway that connects south China's Guangxi Zhuang Autonomous Region to the Beibu Gulf and provides a more direct maritime route to countries including the Philippines, Malaysia and Singapore. These geographical and infrastructure links have underpinned the economic {{12}}. Since 2009, China has been ASEAN's largest trading partner, while ASEAN has held the same position for China since 2019. Underpinning the effort to improve connectivity is the economic {{13}}, which continues to push for trade growth, said Zhai Kun, deputy director of the Institute of Area Studies and a senior research fellow at the Institute of International and Strategic Studies at Peking University.",
+          "cn": "据世界银行报告，中老铁路自2021年开通以来，将中国西南部的云南省与老挝首都万象连接起来，帮助两国间的运输成本降低了40%至50%。随着2026年平陆运河的开通，交通联系也在扩大，这条134公里的水道将中国南部的广西壮族自治区与北部湾连接起来，为包括菲律宾、马来西亚和新加坡在内的国家提供更直接的海上路线。这些地理和基础设施联系支撑了经济相互依存。自2009年以来，中国一直是东盟最大的贸易伙伴，而东盟自2019年以来也一直是中国最大的贸易伙伴。北京大学区域与国别研究院副院长、国际战略研究院高级研究员翟崑表示，改善互联互通努力的基础是经济互补性，这继续推动贸易增长。"
+        },
+        {
+          "en": "According to Zhai, China is a key market for ASEAN's agricultural products, raw materials and manufactured goods. Meanwhile, ASEAN's consumer demand and industrial growth create opportunities for Chinese suppliers of industrial components and clean energy technologies. Thai tourists shop for cultural and creative products in Jingning, northwest China's Gansu Province, February 13, 2026. Mechanism facilitates deeper cooperation\nElevating diplomatic ties with ASEAN five years ago strengthened the relationship's foundation and {{14}} new momentum. In the past five years, China has signed the China-ASEAN Free Trade Area (CAFTA) 3.0 Upgrade Protocol.",
+          "cn": "据翟崑介绍，中国是东盟农产品、原材料和制成品的关键市场。与此同时，东盟的消费需求和工业增长为中国工业零部件和清洁能源技术供应商创造了机会。2026年2月13日，泰国游客在中国西北部甘肃省景宁购买文化创意产品。机制促进更深入合作。五年前提升与东盟的外交关系加强了关系基础并注入了新动力。过去五年，中国签署了中国-东盟自由贸易区（CAFTA）3.0升级议定书。"
+        },
+        {
+          "en": "The agreement goes beyond traditional tariff reductions and market opening, moving toward closer regulatory standards {{15}}. In 2025, trade between China and ASEAN exceeded $1 trillion, up 20.1% from 2021, according to ASEAN's official website. To have a clear {{16}} for action, the two sides have also adopted the Plan of Action to Implement the China-ASEAN Comprehensive Strategic Partnership (2026-2030), which sets out key priorities and provides a roadmap for the next five years of development. People-to-people connectivity has also reached new heights, as China rolled out the \"ASEAN Visa,\" which made business travel among the countries even more barrier-free. Zhai said the upgrade in diplomatic ties in 2021 was motivated by a determination to build a stronger institutional framework for closer economic ties, a strategic goal that he expects to translate into {{17}} benefits for people and businesses.",
+          "cn": "该协议超越了传统的关税削减和市场开放，朝着更紧密的监管标准对接迈进。据东盟官方网站数据，2025年中国与东盟贸易额超过1万亿美元，较2021年增长20.1%。为有明确的行动蓝图，双方还通过了《落实中国-东盟全面战略伙伴关系行动计划（2026-2030）》，该计划确定了关键优先事项，并为未来五年发展提供了路线图。人文交流也达到新高度，中国推出了“东盟签证”，使各国之间的商务旅行更加便利。翟崑表示，2021年外交关系提升的动机是决心为更紧密的经济联系建立更强的制度框架，他预计这一战略目标将转化为对人民和企业的切实利益。"
+        },
+        {
+          "en": "\"Cooperation on smart customs, single window digital trade system and electronic documentation can help reduce waiting times and avoid repetitive paperwork. Coordination on standards and regulation can lower {{18}} costs, while cooperation in digitalization, green development and supply chains can create more opportunities for technology applications and industrial {{19}}. Support for micro, small and medium-sized enterprises, along with technical assistance and talent development, can help more businesses seize the opportunities created by greater openness,\" Zhai specified. Looking ahead, the upgraded China-ASEAN Free Trade Area (CAFTA) 3.0 is set to officially take effect in December. The two sides have also {{21}} 2027 as the Year of China-ASEAN Cooperation on Artificial Intelligence, giving further {{20}} to a major area of cooperation.",
+          "cn": "“在智慧海关、单一窗口数字贸易系统和电子文件方面的合作可以帮助减少等待时间，避免重复的文书工作。在标准和监管方面的协调可以降低合规成本，而在数字化、绿色发展和供应链方面的合作可以为技术应用和产业整合创造更多机会。对微型、小型和中型企业的支持，以及技术援助和人才发展，可以帮助更多企业抓住更大开放带来的机遇，”翟崑具体说道。展望未来，升级后的中国-东盟自由贸易区（CAFTA）3.0将于12月正式生效。双方还将2027年指定为中国-东盟人工智能合作年，进一步推动这一主要合作领域。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "substantially",
+          "hint": "adv. 大幅地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "anniversary",
+          "hint": "n. 周年纪念",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "diplomatic",
+          "hint": "adj. 外交的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "elevated",
+          "hint": "v. 提升",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "solidarity",
+          "hint": "n. 团结",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "devalue",
+          "hint": "v. 贬值",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "precipitate",
+          "hint": "v. 引发",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "devastating",
+          "hint": "adj. 毁灭性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "momentum",
+          "hint": "n. 势头",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "prosperity",
+          "hint": "n. 繁荣",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "proximity",
+          "hint": "n. 邻近",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "reinforced",
+          "hint": "v. 加强",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "interdependence",
+          "hint": "n. 相互依存",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "complementarity",
+          "hint": "n. 互补性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "injected",
+          "hint": "v. 注入",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "alignment",
+          "hint": "n. 对接",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "blueprint",
+          "hint": "n. 蓝图",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "tangible",
+          "hint": "adj. 切实的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "compliance",
+          "hint": "n. 合规",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "integration",
+          "hint": "n. 整合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "impetus",
+          "hint": "n. 推动力",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "designated",
+          "hint": "v. 指定",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "The newly opened Pinglu Canal, which cuts through south China's Guangxi Zhuang Autonomous Region to the sea, is expected to substantially boost China's trade with ASEAN countries. \nNovember 22 marks the fifth anniversary of the Comprehensive Strategic Partnership between China and the Association of Southeast Asian Nations (ASEAN), established on the same day in 2021.\nChina and ASEAN's diplomatic relations date back to 1991, when the two first established dialogue relations at the 24th ASEAN Ministerial Meeting in Kuala Lumpur. Five years later, in 1996, their relationship was elevated to the full dialogue partnership status.\nOver the decades, China-ASEAN relations have been shaped by solidarity and a shared sense of responsibility, particularly during regional challenges.\nIn the wake of the Asian financial crisis in 1997, China chose not to devalue its currency in a decision to prioritize regional economic stability and recovery, which was considered \"a major reason why the crisis did not precipitate an even more devastating meltdown in the region,\" according to an economic study in 1999.\nThirty-five years after the partnership began and five years into the latest round of elevated diplomatic ties, China-ASEAN relations continue to build momentum.\nFrom proximity to mutual prosperity\nAs close neighbors, China's engagement with ASEAN developed naturally.\nOf ASEAN's 11 member states, three share land borders with China, and five are connected to China by the Lancang-Mekong River.\nImproved infrastructure has reinforced this natural proximity. Since opening in 2021, the China-Laos Railway has linked Yunnan Province in southwest China with Vientiane, the capital of Laos, and helped cut shipping costs between the two countries by 40% to 50%, according to a World Bank report.\nTransportation links are also expanding with the opening of the Pinglu Canal in 2026, a 134-kilometer waterway that connects south China's Guangxi Zhuang Autonomous Region to the Beibu Gulf and provides a more direct maritime route to countries including the Philippines, Malaysia and Singapore.\nThese geographical and infrastructure links have underpinned the economic interdependence.\nSince 2009, China has been ASEAN's largest trading partner, while ASEAN has held the same position for China since 2019.\nUnderpinning the effort to improve connectivity is the economic complementarity, which continues to push for trade growth, said Zhai Kun, deputy director of the Institute of Area Studies and a senior research fellow at the Institute of International and Strategic Studies at Peking University.\nAccording to Zhai, China is a key market for ASEAN's agricultural products, raw materials and manufactured goods. Meanwhile, ASEAN's consumer demand and industrial growth create opportunities for Chinese suppliers of industrial components and clean energy technologies.\nThai tourists shop for cultural and creative products in Jingning, northwest China's Gansu Province, February 13, 2026. \nMechanism facilitates deeper cooperation\nElevating diplomatic ties with ASEAN five years ago strengthened the relationship's foundation and injected new momentum.\nIn the past five years, China has signed the China-ASEAN Free Trade Area (CAFTA) 3.0 Upgrade Protocol. The agreement goes beyond traditional tariff reductions and market opening, moving toward closer regulatory standards alignment.\nIn 2025, trade between China and ASEAN exceeded $1 trillion, up 20.1% from 2021, according to ASEAN's official website.\nTo have a clear blueprint for action, the two sides have also adopted the Plan of Action to Implement the China-ASEAN Comprehensive Strategic Partnership (2026-2030), which sets out key priorities and provides a roadmap for the next five years of development.\nPeople-to-people connectivity has also reached new heights, as China rolled out the \"ASEAN Visa,\" which made business travel among the countries even more barrier-free.\nZhai said the upgrade in diplomatic ties in 2021 was motivated by a determination to build a stronger institutional framework for closer economic ties, a strategic goal that he expects to translate into tangible benefits for people and businesses.\n\"Cooperation on smart customs, single window digital trade system and electronic documentation can help reduce waiting times and avoid repetitive paperwork. Coordination on standards and regulation can lower compliance costs, while cooperation in digitalization, green development and supply chains can create more opportunities for technology applications and industrial integration. Support for micro, small and medium-sized enterprises, along with technical assistance and talent development, can help more businesses seize the opportunities created by greater openness,\" Zhai specified.\nLooking ahead, the upgraded China-ASEAN Free Trade Area (CAFTA) 3.0 is set to officially take effect in December. The two sides have also designated 2027 as the Year of China-ASEAN Cooperation on Artificial Intelligence, giving further impetus to a major area of cooperation.",
+      "fullTextCn": "新开通的平陆运河穿越中国南部的广西壮族自治区通向大海，预计将大幅促进中国与东盟国家的贸易。11月22日是中国与东南亚国家联盟（东盟）全面战略伙伴关系建立五周年，该伙伴关系于2021年同一天建立。中国与东盟的外交关系可追溯至1991年，当时双方在吉隆坡举行的第24届东盟部长级会议上首次建立对话关系。五年后的1996年，双方关系提升为全面对话伙伴关系。几十年来，中国-东盟关系以团结和共同责任感为特征，尤其是在地区挑战期间。\n\n1997年亚洲金融危机爆发后，中国选择不让人民币贬值，以优先考虑地区经济稳定和复苏，据1999年的一项经济研究，这被认为是“危机没有在该地区引发更具破坏性的崩溃的主要原因”。伙伴关系开始35年后、最新一轮外交关系提升五年后，中国-东盟关系继续积聚势头。从邻近到共同繁荣。作为近邻，中国与东盟的交往自然发展。东盟11个成员国中，三个与中国接壤，五个通过澜沧江-湄公河与中国相连。基础设施的改善加强了这种天然邻近性。\n\n据世界银行报告，中老铁路自2021年开通以来，将中国西南部的云南省与老挝首都万象连接起来，帮助两国间的运输成本降低了40%至50%。随着2026年平陆运河的开通，交通联系也在扩大，这条134公里的水道将中国南部的广西壮族自治区与北部湾连接起来，为包括菲律宾、马来西亚和新加坡在内的国家提供更直接的海上路线。这些地理和基础设施联系支撑了经济相互依存。自2009年以来，中国一直是东盟最大的贸易伙伴，而东盟自2019年以来也一直是中国最大的贸易伙伴。北京大学区域与国别研究院副院长、国际战略研究院高级研究员翟崑表示，改善互联互通努力的基础是经济互补性，这继续推动贸易增长。\n\n据翟崑介绍，中国是东盟农产品、原材料和制成品的关键市场。与此同时，东盟的消费需求和工业增长为中国工业零部件和清洁能源技术供应商创造了机会。2026年2月13日，泰国游客在中国西北部甘肃省景宁购买文化创意产品。机制促进更深入合作。五年前提升与东盟的外交关系加强了关系基础并注入了新动力。过去五年，中国签署了中国-东盟自由贸易区（CAFTA）3.0升级议定书。\n\n该协议超越了传统的关税削减和市场开放，朝着更紧密的监管标准对接迈进。据东盟官方网站数据，2025年中国与东盟贸易额超过1万亿美元，较2021年增长20.1%。为有明确的行动蓝图，双方还通过了《落实中国-东盟全面战略伙伴关系行动计划（2026-2030）》，该计划确定了关键优先事项，并为未来五年发展提供了路线图。人文交流也达到新高度，中国推出了“东盟签证”，使各国之间的商务旅行更加便利。翟崑表示，2021年外交关系提升的动机是决心为更紧密的经济联系建立更强的制度框架，他预计这一战略目标将转化为对人民和企业的切实利益。\n\n“在智慧海关、单一窗口数字贸易系统和电子文件方面的合作可以帮助减少等待时间，避免重复的文书工作。在标准和监管方面的协调可以降低合规成本，而在数字化、绿色发展和供应链方面的合作可以为技术应用和产业整合创造更多机会。对微型、小型和中型企业的支持，以及技术援助和人才发展，可以帮助更多企业抓住更大开放带来的机遇，”翟崑具体说道。展望未来，升级后的中国-东盟自由贸易区（CAFTA）3.0将于12月正式生效。双方还将2027年指定为中国-东盟人工智能合作年，进一步推动这一主要合作领域。"
+    },
+    {
+      "id": 5,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-24/Shenzhou-24-mission-to-conduct-over-90-space-experiments-tests-1SkXDJgksAo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Shenzhou-24 mission to conduct over 90 space experiments, tests",
+      "titleCn": "神舟二十四号任务将开展90余项空间实验与测试",
+      "summary": "Shenzhou-24 mission to conduct over 90 space experiments, tests",
+      "summaryCn": "神舟二十四号任务计划开展90余项科学实验与技术测试，涵盖空间生命科学、材料科学、微重力物理、空间医学等领域，并将进行中巴联合科学项目。",
+      "wordCount": 634,
+      "paragraphs": [
+        {
+          "en": "A total of more than 90 scientific experiments and technology tests are planned for the Shenzhou-24 mission, the China Manned Space Agency (CMSA) announced on Tuesday. The mission's main objectives are to complete an in-orbit crew {{0}} with the Shenzhou-23 crew, maintain routine station operations, conduct space science and application work, and carry out maintenance, public {{1}} and {{17}} tests, said Zhang Jingbo, spokesperson for the CMSA, at a press conference. A view of the launch pad for the Shenzhou-24 mission is seen at the Jiuquan Satellite Launch Center near Jiuquan, Gansu Province, northwest China, November 24, 2026. The experiments and tests will cover space life sciences, space materials science, microgravity fluid physics and {{6}} science, fundamental physics, space medicine and new space technologies. In space life sciences, researchers will develop {{2}} chips and multi-type organ chips to explore how the space environment affects major {{3}} processes, such as vascular aging, with the aim of developing new strategies to prevent and treat age-related vascular diseases.",
+          "cn": "中国载人航天工程办公室（CMSA）周二宣布，神舟二十四号任务共计划开展90余项科学实验和技术测试。CMSA发言人张静波在新闻发布会上表示，该任务的主要目标是与神舟二十三号乘组完成在轨轮换，维持空间站日常运行，开展空间科学及应用工作，并进行维护、公众宣传和载荷测试。2026年11月24日，在中国西北部甘肃省酒泉市附近的酒泉卫星发射中心，神舟二十四号任务的发射台景象。这些实验和测试将涵盖空间生命科学、空间材料科学、微重力流体物理与燃烧科学、基础物理、空间医学和新型空间技术。在空间生命科学方面，研究人员将开发血管芯片和多类型器官芯片，探索空间环境如何影响血管衰老等主要生理过程，旨在开发预防和治疗年龄相关血管疾病的新策略。"
+        },
+        {
+          "en": "In space materials science, the mission will focus on the in-orbit preparation and performance control of ultra-high-temperature niobium-silicon {{4}} compounds and calcium-silicon {{5}} bioactive glass. It will also involve scientific studies of materials such as single-crystal silicon and perovskite. Experiments in microgravity fluid physics and combustion science will focus on high-efficiency space heat exchange and fire prevention and control technologies. These include electric-field-coupled micro-nano structures for enhanced boiling heat transfer under microgravity conditions, as well as studies of the interaction between clean-gas fire {{7}} and {{8}} flames under varying pressure and oxygen conditions. In fundamental physics, the mission will explore new states of matter and physical laws through optical-lattice quantum simulations and research into novel quantum states.",
+          "cn": "在空间材料科学方面，该任务将聚焦超高温铌硅金属间化合物和钙硅多组分生物活性玻璃的在轨制备与性能调控。还将涉及单晶硅和钙钛矿等材料的科学研究。微重力流体物理与燃烧科学实验将聚焦高效空间热交换和火灾防控技术。这些包括电场耦合微纳结构在微重力条件下增强沸腾传热，以及研究清洁气体灭火剂与扩散火焰在不同压力和氧气条件下的相互作用。在基础物理方面，该任务将通过光晶格量子模拟和对新型量子态的研究，探索新的物质状态和物理规律。"
+        },
+        {
+          "en": "It will also investigate key technologies for inertial measurement based on a space cold-atom {{9}}. In space medicine, the crew will advance multi-omics research and behavioral and brain function studies under the space human research program, while further testing new technologies for maintaining the health of astronauts and the general public. In aerospace technology, the mission will conduct key tests of a chem-electric hybrid {{10}} system using new ionic liquid propellants, as part of efforts to develop next-generation spacecraft propulsion technologies. Asked about the value of long-term experiments aboard the space station, Zhang noted that basic research requires scientists to accept years of quiet, {{11}} work and keep deepening research into their chosen fields. By taking advantage of space conditions that are difficult to reproduce on Earth, including microgravity, high vacuum, intense radiation and high {{12}}, and combining orbital experiments with ground-based research, scientists can uncover physical laws that are difficult to detect on Earth and pave the way for major discoveries and technological {{13}}, he said.",
+          "cn": "还将研究基于空间冷原子干涉仪的惯性测量关键技术。在空间医学方面，乘组将在空间人类研究计划下推进多组学研究和行为与脑功能研究，同时进一步测试维持宇航员和公众健康的新技术。在航空航天技术方面，该任务将使用新型离子液体推进剂对化学-电混合推进系统进行关键测试，作为开发下一代航天器推进技术努力的一部分。当被问及空间站长期实验的价值时，张指出，基础研究需要科学家接受多年安静、不起眼的工作，并不断深化对所选领域的研究。他表示，通过利用地球上难以复现的空间条件，包括微重力、高真空、强辐射和高洁净度，并将轨道实验与地面研究相结合，科学家可以揭示地球上难以探测的物理规律，为重大发现和技术突破铺平道路。"
+        },
+        {
+          "en": "Zhang cited an example from fundamental physics: the century-long pursuit of absolute zero. After 15 years of research, Chinese scientists pioneered the use of all-optical trap cooling technology in the space station's ultra-cold atom rack to cool a rubidium atom cloud to 9.7 picokelvins, about 14 orders of magnitude below room temperature, and keep it {{14}} for seven seconds. The result, he said, is the coldest known man-made matter, setting a record low that opens up new possibilities for fundamental physics and related technologies. \"China will continue to use the space station as a national space laboratory to steadily advance space science, space applications and space technology, better serving sci-tech progress and economic and social development,\" he said. The Shenzhou-24 spacecraft, carrying Chinese astronauts Tang Hongbo and Wu Yi, along with Pakistani astronaut Muhammad Zeeshan Ali, is scheduled to launch at 8:18 a.m.",
+          "cn": "张引用了基础物理学中的一个例子：长达一个世纪对绝对零度的追求。经过15年的研究，中国科学家率先在空间站超冷原子柜中使用全光阱冷却技术，将铷原子云冷却至9.7皮开尔文，比室温低约14个数量级，并保持可观测7秒。他表示，这一结果是已知最冷的人造物质，创下了最低温度纪录，为基础物理及相关技术开辟了新的可能性。“中国将继续利用空间站作为国家太空实验室，稳步推进空间科学、空间应用和空间技术，更好地服务于科技进步和经济社会发展，”他说。神舟二十四号飞船搭载中国航天员唐洪波和吴怡，以及巴基斯坦航天员穆罕默德·泽山·阿里，计划于上午8:18发射。"
+        },
+        {
+          "en": "on Wednesday from the Jiuquan Satellite Launch Center in northwest China. According to Zhang, the Shenzhou-24 mission will also include four China-Pakistan joint scientific projects in biotechnology and materials science. The Pakistani payload specialist will conduct a {{15}} {{16}} experiment in orbit.",
+          "cn": "周三，从中国西北部的酒泉卫星发射中心发射。据张介绍，神舟二十四号任务还将包括生物技术和材料科学领域的四个中巴联合科学项目。巴基斯坦载荷专家将在轨进行光合蓝细菌实验。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "rotation",
+          "hint": "n. 轮换",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "outreach",
+          "hint": "n. 外展宣传",
+          "difficulty": "hard"
+        },
+        {
+          "id": 2,
+          "answer": "vascular",
+          "hint": "adj. 血管的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "physiological",
+          "hint": "adj. 生理的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "intermetallic",
+          "hint": "adj. 金属间化合物的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "multicomponent",
+          "hint": "adj. 多组分的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "combustion",
+          "hint": "n. 燃烧",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "suppressants",
+          "hint": "n. 抑制剂",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "diffusion",
+          "hint": "n. 扩散",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "interferometer",
+          "hint": "n. 干涉仪",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "propulsion",
+          "hint": "n. 推进",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "unglamorous",
+          "hint": "adj. 不起眼的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "cleanliness",
+          "hint": "n. 洁净度",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "breakthroughs",
+          "hint": "n. 突破",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "observable",
+          "hint": "adj. 可观测的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "photosynthetic",
+          "hint": "adj. 光合作用的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "cyanobacteria",
+          "hint": "n. 蓝细菌",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "payload",
+          "hint": "n. 载荷",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "A total of more than 90 scientific experiments and technology tests are planned for the Shenzhou-24 mission, the China Manned Space Agency (CMSA) announced on Tuesday.\nThe mission's main objectives are to complete an in-orbit crew rotation with the Shenzhou-23 crew, maintain routine station operations, conduct space science and application work, and carry out maintenance, public outreach and payload tests, said Zhang Jingbo, spokesperson for the CMSA, at a press conference.\nA view of the launch pad for the Shenzhou-24 mission is seen at the Jiuquan Satellite Launch Center near Jiuquan, Gansu Province, northwest China, November 24, 2026. \nThe experiments and tests will cover space life sciences, space materials science, microgravity fluid physics and combustion science, fundamental physics, space medicine and new space technologies.\nIn space life sciences, researchers will develop vascular chips and multi-type organ chips to explore how the space environment affects major physiological processes, such as vascular aging, with the aim of developing new strategies to prevent and treat age-related vascular diseases.\nIn space materials science, the mission will focus on the in-orbit preparation and performance control of ultra-high-temperature niobium-silicon intermetallic compounds and calcium-silicon multicomponent bioactive glass. It will also involve scientific studies of materials such as single-crystal silicon and perovskite.\nExperiments in microgravity fluid physics and combustion science will focus on high-efficiency space heat exchange and fire prevention and control technologies. These include electric-field-coupled micro-nano structures for enhanced boiling heat transfer under microgravity conditions, as well as studies of the interaction between clean-gas fire suppressants and diffusion flames under varying pressure and oxygen conditions.\nIn fundamental physics, the mission will explore new states of matter and physical laws through optical-lattice quantum simulations and research into novel quantum states. It will also investigate key technologies for inertial measurement based on a space cold-atom interferometer.\nIn space medicine, the crew will advance multi-omics research and behavioral and brain function studies under the space human research program, while further testing new technologies for maintaining the health of astronauts and the general public.\nIn aerospace technology, the mission will conduct key tests of a chem-electric hybrid propulsion system using new ionic liquid propellants, as part of efforts to develop next-generation spacecraft propulsion technologies.\nAsked about the value of long-term experiments aboard the space station, Zhang noted that basic research requires scientists to accept years of quiet, unglamorous work and keep deepening research into their chosen fields.\nBy taking advantage of space conditions that are difficult to reproduce on Earth, including microgravity, high vacuum, intense radiation and high cleanliness, and combining orbital experiments with ground-based research, scientists can uncover physical laws that are difficult to detect on Earth and pave the way for major discoveries and technological breakthroughs, he said.\nZhang cited an example from fundamental physics: the century-long pursuit of absolute zero. After 15 years of research, Chinese scientists pioneered the use of all-optical trap cooling technology in the space station's ultra-cold atom rack to cool a rubidium atom cloud to 9.7 picokelvins, about 14 orders of magnitude below room temperature, and keep it observable for seven seconds.\nThe result, he said, is the coldest known man-made matter, setting a record low that opens up new possibilities for fundamental physics and related technologies.\n\"China will continue to use the space station as a national space laboratory to steadily advance space science, space applications and space technology, better serving sci-tech progress and economic and social development,\" he said.\nThe Shenzhou-24 spacecraft, carrying Chinese astronauts Tang Hongbo and Wu Yi, along with Pakistani astronaut Muhammad Zeeshan Ali, is scheduled to launch at 8:18 a.m. on Wednesday from the Jiuquan Satellite Launch Center in northwest China.\nAccording to Zhang, the Shenzhou-24 mission will also include four China-Pakistan joint scientific projects in biotechnology and materials science. The Pakistani payload specialist will conduct a photosynthetic cyanobacteria experiment in orbit.",
+      "fullTextCn": "中国载人航天工程办公室（CMSA）周二宣布，神舟二十四号任务共计划开展90余项科学实验和技术测试。CMSA发言人张静波在新闻发布会上表示，该任务的主要目标是与神舟二十三号乘组完成在轨轮换，维持空间站日常运行，开展空间科学及应用工作，并进行维护、公众宣传和载荷测试。2026年11月24日，在中国西北部甘肃省酒泉市附近的酒泉卫星发射中心，神舟二十四号任务的发射台景象。这些实验和测试将涵盖空间生命科学、空间材料科学、微重力流体物理与燃烧科学、基础物理、空间医学和新型空间技术。在空间生命科学方面，研究人员将开发血管芯片和多类型器官芯片，探索空间环境如何影响血管衰老等主要生理过程，旨在开发预防和治疗年龄相关血管疾病的新策略。\n\n在空间材料科学方面，该任务将聚焦超高温铌硅金属间化合物和钙硅多组分生物活性玻璃的在轨制备与性能调控。还将涉及单晶硅和钙钛矿等材料的科学研究。微重力流体物理与燃烧科学实验将聚焦高效空间热交换和火灾防控技术。这些包括电场耦合微纳结构在微重力条件下增强沸腾传热，以及研究清洁气体灭火剂与扩散火焰在不同压力和氧气条件下的相互作用。在基础物理方面，该任务将通过光晶格量子模拟和对新型量子态的研究，探索新的物质状态和物理规律。\n\n还将研究基于空间冷原子干涉仪的惯性测量关键技术。在空间医学方面，乘组将在空间人类研究计划下推进多组学研究和行为与脑功能研究，同时进一步测试维持宇航员和公众健康的新技术。在航空航天技术方面，该任务将使用新型离子液体推进剂对化学-电混合推进系统进行关键测试，作为开发下一代航天器推进技术努力的一部分。当被问及空间站长期实验的价值时，张指出，基础研究需要科学家接受多年安静、不起眼的工作，并不断深化对所选领域的研究。他表示，通过利用地球上难以复现的空间条件，包括微重力、高真空、强辐射和高洁净度，并将轨道实验与地面研究相结合，科学家可以揭示地球上难以探测的物理规律，为重大发现和技术突破铺平道路。\n\n张引用了基础物理学中的一个例子：长达一个世纪对绝对零度的追求。经过15年的研究，中国科学家率先在空间站超冷原子柜中使用全光阱冷却技术，将铷原子云冷却至9.7皮开尔文，比室温低约14个数量级，并保持可观测7秒。他表示，这一结果是已知最冷的人造物质，创下了最低温度纪录，为基础物理及相关技术开辟了新的可能性。“中国将继续利用空间站作为国家太空实验室，稳步推进空间科学、空间应用和空间技术，更好地服务于科技进步和经济社会发展，”他说。神舟二十四号飞船搭载中国航天员唐洪波和吴怡，以及巴基斯坦航天员穆罕默德·泽山·阿里，计划于上午8:18发射。\n\n周三，从中国西北部的酒泉卫星发射中心发射。据张介绍，神舟二十四号任务还将包括生物技术和材料科学领域的四个中巴联合科学项目。巴基斯坦载荷专家将在轨进行光合蓝细菌实验。"
+    }
+  ]
+}
