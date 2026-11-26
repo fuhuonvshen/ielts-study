@@ -22,13 +22,10 @@ export function AnnouncementModal({ onClose }: AnnouncementModalProps) {
           <X className="h-4 w-4" />
         </button>
 
-        <h2 className="text-lg font-semibold tracking-tight">写在前面</h2>
+        <h2 className="text-lg font-semibold tracking-tight">公告</h2>
 
         <div className="mt-4 space-y-3 text-sm leading-relaxed text-gray-600">
-          <p>这个网站最初是做给女朋友备考雅思用的，但后来我们分开了TMT，它也就被搁置了很久，一直没再打理。</p>
-          <p>今天偶然打开仓库，发现已经有 7 个 star 了，原来还有很多小伙伴们在使用它。</p>
-          <p>所以我加了一个反馈入口。如果需要什么功能、哪里不好用，都可以写给我。我收到后就会去更新。</p>
-          <p>谢谢你还在使用，祝你留学顺利</p>
+          <p>由于使用此网站人数较少，而运营网站需要额外成本，因此网站将会在一周后关闭。</p>
         </div>
 
         <div className="mt-6 flex items-center justify-between gap-4">
