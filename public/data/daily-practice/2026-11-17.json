@@ -1,0 +1,934 @@
+{
+  "date": "2026-11-17",
+  "articles": [
+    {
+      "id": 1,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-10/Why-is-China-spending-5-trillion-yuan-to-transform-its-power-grid--1RVD2suh4gU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Why is China spending 5 trillion yuan to 'transform' its power grid?",
+      "titleCn": "中国为何投入5万亿元“改造”电网？",
+      "summary": "Why is China spending 5 trillion yuan to 'transform' its power grid?",
+      "summaryCn": "中国计划在“十五五”期间投资超过5万亿元，将传统电网系统性地转型为新型电力系统，以应对可再生能源的波动性、极端天气挑战，并支撑数字经济和绿色转型。",
+      "wordCount": 1092,
+      "paragraphs": [
+        {
+          "en": "Editor's note: Zhang Xuan is the director of the Energy Strategy and Policy Research Institute at the Energy Research Development Institute under China Southern Power Grid (CSG). The article reflects the author's opinions and not necessarily the views of CGTN. In the opening year of China's 15th Five-Year Plan (2026-2030), the Central Committee of the Communist Party of China (CPC) has laid out a {{0}} plan for the \"six networks,\" including the water network, the new-type power grid, the computing power network, the next-generation communication network, the urban underground pipeline network and the logistics network. The new-type power grid carries particular weight. According to the National Development and Reform Commission, investment in China's new-type power grids during this five-year period is expected to exceed 5 trillion yuan (about $749.27 billion), far {{1}} the scale of the 14th Five-Year Plan period (2021-2025).",
+          "cn": "编者按：张轩是中国南方电网能源发展研究院能源战略与政策研究所所长。本文仅代表作者观点，不一定反映CGTN的立场。在中国“十五五”规划（2026-2030年）开局之年，中共中央对“六网”（水网、新型电网、算力网、新一代通信网、城市地下管网和物流网）作出了统筹部署。新型电网尤为重要。据国家发展和改革委员会称，这五年期间中国新型电网投资预计将超过5万亿元人民币（约7492.7亿美元），远超“十四五”期间（2021-2025年）的规模。"
+        },
+        {
+          "en": "This {{2}} investment is not aimed at simply expanding transmission capacity, but at a {{3}} \"transforming\" of the grid's functions, forms and operating models. A technician conducts an inspection of a wind turbine to ensure its safe and stable operation, Zhoushan, east China's Zhejiang Province, November 1, 2023. Why the {{4}} grid is no longer sufficient\nConventional grids were designed around conventional generation such as coal and hydro with relatively stable and controllable output, where {{5}} operators only needed to forecast the load and match generation. But as wind and solar become the main sources of new capacity, this logic is being {{6}}. Data from the National Energy Administration shows that by the end of September 2026, China's {{7}} installed wind and solar capacity reached 2.01 billion kilowatts (kW), accounting for roughly half of the country's total installed capacity of 4.13 billion kW.",
+          "cn": "这一前所未有的投资并非仅仅为了扩大输电能力，而是为了系统性地“改造”电网的功能、形态和运行模式。2023年11月1日，在中国东部浙江省舟山市，一名技术人员对风力发电机进行巡检，以确保其安全稳定运行。为何传统电网已不再足够——传统电网是围绕煤炭和水电等输出相对稳定可控的传统发电方式设计的，调度员只需预测负荷并匹配发电。但随着风电和光伏成为新增装机的主要来源，这一逻辑正被颠覆。国家能源局数据显示，截至2026年9月底，中国风电和光伏累计装机容量达到20.1亿千瓦，约占全国总装机容量41.3亿千瓦的一半。"
+        },
+        {
+          "en": "The {{8}}, randomness and {{9}} of renewables pose new challenges: solar output surges around midday, potentially creating oversupply, then falls rapidly after sunset, while periods of high wind often fail to coincide with peak load. Extreme weather has further {{10}} the problem. This summer, temperatures in many parts of China broke historical records. Loads on six regional grids and 23 provincial grids repeatedly hit new highs, while the nationwide peak load reached 1.56 billion kW. With air-conditioning demand rising {{11}} under heat and wind-solar output {{12}} sharply with weather, real-time grid balancing has become exponentially harder.",
+          "cn": "可再生能源的波动性、随机性和间歇性带来了新挑战：光伏出力在正午前后激增，可能造成供过于求，日落后又迅速下降，而大风时段往往与负荷高峰不重合。极端天气进一步放大了这一问题。今年夏天，中国多地气温打破历史纪录。六个区域电网和23个省级电网负荷屡创新高，全国最高负荷达到15.6亿千瓦。在高温下空调需求刚性上升，风光出力又随天气剧烈波动，实时电网平衡变得指数级困难。"
+        },
+        {
+          "en": "If the conventional grid architecture and operating model were retained, large-scale renewables would face the risk of not being able to be transmitted, {{13}} or dispatched, potentially leading to the coexistence of {{14}} and supply tightness. This is precisely why China must \"transform\" its grid. A view inside a converter station, Jiangmen, south China's Guangdong Province, October 12, 2026. What makes the new-type grid 'new'\nThe new-type grid is not a single technological breakthrough but a coordinated operating system {{15}} by backbone and distribution grids and {{16}} by microgrids. The backbone grid emphasizes flexible configuration to optimize the allocation of clean energy over vast distances.",
+          "cn": "如果保留传统电网架构和运行模式，大规模可再生能源将面临无法输送、消纳或调度的风险，可能导致弃电与供应紧张并存。这正是中国必须“改造”电网的原因。2026年10月12日，在中国南部广东省江门市，一座换流站的内部景象。新型电网“新”在何处——新型电网不是单一技术突破，而是以主干电网和配电网为支撑、微电网为补充的协同运行体系。主干电网强调灵活配置，以优化清洁能源在远距离上的配置。"
+        },
+        {
+          "en": "With energy resources concentrated in western China and load centers generally located in the eastern side of the country, China must rely on a flexibly interconnected backbone to enable the free flow of power across regions and provinces. The world's first ±800 kV multi-terminal Voltage Source Converter-High Voltage Direct Current (VSC-HVDC ) project, the Kunliulong VSC-HVDC project, links Yunnan, Guizhou, Guangdong provinces and Guangxi Zhuang Autonomous Region with 8 gigawatts (GW) of transmission capacity over 1,452 kilometers, delivering hydropower from the Wudongde Hydropower Station to load centers in Guangdong and Guangxi. The distribution grid emphasizes {{17}} and interaction – capable of accommodating distributed renewables while withstanding external shocks such as typhoons and extreme heat. With the massive integration of rooftop solar, electric vehicles and user-side storage, distribution grids are shifting from one-way power supply to local energy platforms that {{18}} distributed resources and enhance system flexibility. Rooftop solar panels and greenery are integrated into buildings at Shenzhen Virtual University Park to promote clean energy use, June 21, 2025.",
+          "cn": "由于能源资源集中在中国西部，而负荷中心一般位于东部，中国必须依靠灵活互联的主干电网来实现电力跨区域、跨省份的自由流动。世界首个±800千伏多端柔性直流（VSC-HVDC）工程——昆柳龙柔性直流工程，连接云南、贵州、广东三省和广西壮族自治区，输电容量800万千瓦，线路全长1452公里，将乌东德水电站的水电输送至广东和广西的负荷中心。配电网强调韧性和互动——既能接纳分布式可再生能源，又能抵御台风和极端高温等外部冲击。随着屋顶光伏、电动汽车和用户侧储能的规模化接入，配电网正从单向供电转向本地能源平台，聚合分布式资源并增强系统灵活性。2025年6月21日，深圳虚拟大学园将屋顶光伏板和绿植融入建筑，以促进清洁能源利用。"
+        },
+        {
+          "en": "During this summer's heat wave in south China's Shenzhen, 61 operators and more than 14,000 users participated in virtual power plant (VPP) dispatch. The Shenzhen VPP management center aggregated up to 1.4 GW of adjustable capacity in a short period – equivalent to the output of a medium-sized coal plant – effectively easing pressure on grid operations. Microgrids emphasize elastic balancing, maintaining local supply-demand equilibrium {{19}} while interacting flexibly with the main grid. In industrial parks, buildings, communities and remote areas, microgrids integrating distributed solar, small wind, storage and charging facilities can achieve localized source-grid-load-storage (SGLS) balance and safeguard critical loads. In a simulation test conducted on Dadaosha Island in Guangzhou's Panyu District, when the external grid was disconnected, microgrid clusters powered by methanol-to-hydrogen generation were quickly activated.",
+          "cn": "在今年夏天中国南部深圳的热浪期间，61家运营商和超过1.4万用户参与了虚拟电厂（VPP）调度。深圳虚拟电厂管理中心在短时间内聚合了高达140万千瓦的可调节容量——相当于一座中型燃煤电厂的出力——有效缓解了电网运行压力。微电网强调弹性平衡，在自主维持局部供需平衡的同时与主网灵活互动。在工业园区、建筑、社区和偏远地区，集成分布式光伏、小型风电、储能和充电设施的微电网可以实现本地源网荷储（SGLS）平衡，并保障关键负荷。在广州番禺区大刀沙岛进行的一次模拟测试中，当外部电网断开时，由甲醇制氢发电供能的微电网集群迅速启动。"
+        },
+        {
+          "en": "Once the external fault was cleared, the microgrid smoothly withdrew, ensuring uninterrupted power for island residents. Workers carry out high-altitude construction work on an ultra-high-voltage direct current (UHVDC) transmission project, Wuhu, east China's Anhui Province, October 26, 2026. What the new-type grid actually supports\nThe value of the new-type grid ultimately {{20}} in three dimensions: reliable supply, green transition and industrial support. In terms of supply reliability, ultra-high-voltage cross-regional transmission by the backbone grid, the distribution grid's hosting and adjustment of distributed flexible resources, and microgrids' local autonomy together form a multi-layered, multidimensional power security system that enhances the grid's ability to cope with extreme weather and other emergencies. In terms of green absorption, China's wind and solar generation reached 1.92 trillion kilowatt-hours (kWh) in the first three quarters of 2026, accounting for about 23.8% of total electricity consumption, with the carbon-reduction benefits of large-scale renewable substitution continuing to materialize.",
+          "cn": "外部故障清除后，微电网平稳退出，确保岛上居民用电不中断。2026年10月26日，在中国东部安徽省芜湖市，工人们在特高压直流输电工程上进行高空施工作业。新型电网实际支撑什么——新型电网的价值最终体现在三个维度：可靠供应、绿色转型和产业支撑。在供应可靠性方面，主干电网的特高压跨区输电、配电网对分布式灵活资源的承载和调节，以及微电网的本地自治，共同构成多层次、多维度的电力安全保障体系，增强了电网应对极端天气和其他突发事件的能力。在绿色消纳方面，2026年前三季度中国风电和光伏发电量达到1.92万亿千瓦时，约占全社会用电量的23.8%，大规模可再生能源替代的减碳效益持续显现。"
+        },
+        {
+          "en": "The new-type grid is also providing critical support for the digital economy and industrial upgrading. As AI and digital infrastructure accelerate, computing loads continue to expand, placing higher demands on the reliability, stability and green credentials of power supply. The new-type grid strengthens {{21}} between power planning and computing layout to enhance supply security for large computing clusters; integrates substations with computing stations and new-type energy storage to reduce construction and energy costs of computing infrastructure; and coordinates power dispatch with computing scheduling to shift computing tasks flexibly to periods and regions with abundant green power and lower prices. The 15th Five-Year Plan period is a crucial phase for carbon peaking and a hard stretch for the energy transition. What the 5-trillion-yuan investment is \"transforming\" is a smarter, more flexible, resilient and elastic network for allocating energy resources.",
+          "cn": "新型电网还为数字经济和产业升级提供关键支撑。随着人工智能和数字基础设施加速发展，算力负荷不断扩大，对供电的可靠性、稳定性和绿色属性提出更高要求。新型电网加强电力规划与算力布局的衔接，增强大型算力集群的供电保障；将变电站与算力站、新型储能融合，降低算力基础设施的建设和能源成本；协调电力调度与算力调度，将算力任务灵活转移到绿色电力充裕、电价较低时段和地区。“十五五”时期是碳达峰的关键阶段，也是能源转型的攻坚期。5万亿元投资所“改造”的，是一个更智能、更灵活、更有韧性和弹性的能源资源配置网络。"
+        },
+        {
+          "en": "It will couple deeply and develop in coordination with the other five networks, jointly underpinning a green, low-carbon, secure, efficient and interconnected future.",
+          "cn": "它将与其他五网深度融合、协同发展，共同支撑绿色、低碳、安全、高效、互联互通的未来。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "coordinated",
+          "hint": "adj. 协调的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "surpassing",
+          "hint": "v. 超过",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "unprecedented",
+          "hint": "adj. 前所未有的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "systematic",
+          "hint": "adj. 系统性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "conventional",
+          "hint": "adj. 传统的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "dispatch",
+          "hint": "n./v. 调度",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "upended",
+          "hint": "v. 颠覆",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "cumulative",
+          "hint": "adj. 累计的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "volatility",
+          "hint": "n. 波动性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "intermittency",
+          "hint": "n. 间歇性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "amplified",
+          "hint": "v. 放大",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "rigidly",
+          "hint": "adv. 刚性地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "fluctuating",
+          "hint": "v. 波动",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "absorbed",
+          "hint": "v. 消纳",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "curtailment",
+          "hint": "n. 弃电",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "underpinned",
+          "hint": "v. 支撑",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "supplemented",
+          "hint": "v. 补充",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "resilience",
+          "hint": "n. 韧性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "aggregate",
+          "hint": "v. 聚合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "autonomously",
+          "hint": "adv. 自主地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "manifests",
+          "hint": "v. 体现",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "alignment",
+          "hint": "n. 衔接",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Editor's note: Zhang Xuan is the director of the Energy Strategy and Policy Research Institute at the Energy Research Development Institute under China Southern Power Grid (CSG). The article reflects the author's opinions and not necessarily the views of CGTN.\nIn the opening year of China's 15th Five-Year Plan (2026-2030), the Central Committee of the Communist Party of China (CPC) has laid out a coordinated plan for the \"six networks,\" including the water network, the new-type power grid, the computing power network, the next-generation communication network, the urban underground pipeline network and the logistics network.\nThe new-type power grid carries particular weight. According to the National Development and Reform Commission, investment in China's new-type power grids during this five-year period is expected to exceed 5 trillion yuan (about $749.27 billion), far surpassing the scale of the 14th Five-Year Plan period (2021-2025).\nThis unprecedented investment is not aimed at simply expanding transmission capacity, but at a systematic \"transforming\" of the grid's functions, forms and operating models.\nA technician conducts an inspection of a wind turbine to ensure its safe and stable operation, Zhoushan, east China's Zhejiang Province, November 1, 2023. \nWhy the conventional grid is no longer sufficient\nConventional grids were designed around conventional generation such as coal and hydro with relatively stable and controllable output, where dispatch operators only needed to forecast the load and match generation. But as wind and solar become the main sources of new capacity, this logic is being upended.\nData from the National Energy Administration shows that by the end of September 2026, China's cumulative installed wind and solar capacity reached 2.01 billion kilowatts (kW), accounting for roughly half of the country's total installed capacity of 4.13 billion kW. The volatility, randomness and intermittency of renewables pose new challenges: solar output surges around midday, potentially creating oversupply, then falls rapidly after sunset, while periods of high wind often fail to coincide with peak load.\nExtreme weather has further amplified the problem. This summer, temperatures in many parts of China broke historical records. Loads on six regional grids and 23 provincial grids repeatedly hit new highs, while the nationwide peak load reached 1.56 billion kW. With air-conditioning demand rising rigidly under heat and wind-solar output fluctuating sharply with weather, real-time grid balancing has become exponentially harder.\nIf the conventional grid architecture and operating model were retained, large-scale renewables would face the risk of not being able to be transmitted, absorbed or dispatched, potentially leading to the coexistence of curtailment and supply tightness. This is precisely why China must \"transform\" its grid.\nA view inside a converter station, Jiangmen, south China's Guangdong Province, October 12, 2026. \nWhat makes the new-type grid 'new'\nThe new-type grid is not a single technological breakthrough but a coordinated operating system underpinned by backbone and distribution grids and supplemented by microgrids.\nThe backbone grid emphasizes flexible configuration to optimize the allocation of clean energy over vast distances. With energy resources concentrated in western China and load centers generally located in the eastern side of the country, China must rely on a flexibly interconnected backbone to enable the free flow of power across regions and provinces.\nThe world's first ±800 kV multi-terminal Voltage Source Converter-High Voltage Direct Current (VSC-HVDC ) project, the Kunliulong VSC-HVDC project, links Yunnan, Guizhou, Guangdong provinces and Guangxi Zhuang Autonomous Region with 8 gigawatts (GW) of transmission capacity over 1,452 kilometers, delivering hydropower from the Wudongde Hydropower Station to load centers in Guangdong and Guangxi.\nThe distribution grid emphasizes resilience and interaction – capable of accommodating distributed renewables while withstanding external shocks such as typhoons and extreme heat. With the massive integration of rooftop solar, electric vehicles and user-side storage, distribution grids are shifting from one-way power supply to local energy platforms that aggregate distributed resources and enhance system flexibility.\nRooftop solar panels and greenery are integrated into buildings at Shenzhen Virtual University Park to promote clean energy use, June 21, 2025. \nDuring this summer's heat wave in south China's Shenzhen, 61 operators and more than 14,000 users participated in virtual power plant (VPP) dispatch. The Shenzhen VPP management center aggregated up to 1.4 GW of adjustable capacity in a short period – equivalent to the output of a medium-sized coal plant – effectively easing pressure on grid operations.\nMicrogrids emphasize elastic balancing, maintaining local supply-demand equilibrium autonomously while interacting flexibly with the main grid. In industrial parks, buildings, communities and remote areas, microgrids integrating distributed solar, small wind, storage and charging facilities can achieve localized source-grid-load-storage (SGLS) balance and safeguard critical loads.\nIn a simulation test conducted on Dadaosha Island in Guangzhou's Panyu District, when the external grid was disconnected, microgrid clusters powered by methanol-to-hydrogen generation were quickly activated. Once the external fault was cleared, the microgrid smoothly withdrew, ensuring uninterrupted power for island residents.\nWorkers carry out high-altitude construction work on an ultra-high-voltage direct current (UHVDC) transmission project, Wuhu, east China's Anhui Province, October 26, 2026. \nWhat the new-type grid actually supports\nThe value of the new-type grid ultimately manifests in three dimensions: reliable supply, green transition and industrial support.\nIn terms of supply reliability, ultra-high-voltage cross-regional transmission by the backbone grid, the distribution grid's hosting and adjustment of distributed flexible resources, and microgrids' local autonomy together form a multi-layered, multidimensional power security system that enhances the grid's ability to cope with extreme weather and other emergencies.\nIn terms of green absorption, China's wind and solar generation reached 1.92 trillion kilowatt-hours (kWh) in the first three quarters of 2026, accounting for about 23.8% of total electricity consumption, with the carbon-reduction benefits of large-scale renewable substitution continuing to materialize.\nThe new-type grid is also providing critical support for the digital economy and industrial upgrading. As AI and digital infrastructure accelerate, computing loads continue to expand, placing higher demands on the reliability, stability and green credentials of power supply. The new-type grid strengthens alignment between power planning and computing layout to enhance supply security for large computing clusters; integrates substations with computing stations and new-type energy storage to reduce construction and energy costs of computing infrastructure; and coordinates power dispatch with computing scheduling to shift computing tasks flexibly to periods and regions with abundant green power and lower prices.\nThe 15th Five-Year Plan period is a crucial phase for carbon peaking and a hard stretch for the energy transition. What the 5-trillion-yuan investment is \"transforming\" is a smarter, more flexible, resilient and elastic network for allocating energy resources. It will couple deeply and develop in coordination with the other five networks, jointly underpinning a green, low-carbon, secure, efficient and interconnected future.",
+      "fullTextCn": "编者按：张轩是中国南方电网能源发展研究院能源战略与政策研究所所长。本文仅代表作者观点，不一定反映CGTN的立场。在中国“十五五”规划（2026-2030年）开局之年，中共中央对“六网”（水网、新型电网、算力网、新一代通信网、城市地下管网和物流网）作出了统筹部署。新型电网尤为重要。据国家发展和改革委员会称，这五年期间中国新型电网投资预计将超过5万亿元人民币（约7492.7亿美元），远超“十四五”期间（2021-2025年）的规模。\n\n这一前所未有的投资并非仅仅为了扩大输电能力，而是为了系统性地“改造”电网的功能、形态和运行模式。2023年11月1日，在中国东部浙江省舟山市，一名技术人员对风力发电机进行巡检，以确保其安全稳定运行。为何传统电网已不再足够——传统电网是围绕煤炭和水电等输出相对稳定可控的传统发电方式设计的，调度员只需预测负荷并匹配发电。但随着风电和光伏成为新增装机的主要来源，这一逻辑正被颠覆。国家能源局数据显示，截至2026年9月底，中国风电和光伏累计装机容量达到20.1亿千瓦，约占全国总装机容量41.3亿千瓦的一半。\n\n可再生能源的波动性、随机性和间歇性带来了新挑战：光伏出力在正午前后激增，可能造成供过于求，日落后又迅速下降，而大风时段往往与负荷高峰不重合。极端天气进一步放大了这一问题。今年夏天，中国多地气温打破历史纪录。六个区域电网和23个省级电网负荷屡创新高，全国最高负荷达到15.6亿千瓦。在高温下空调需求刚性上升，风光出力又随天气剧烈波动，实时电网平衡变得指数级困难。\n\n如果保留传统电网架构和运行模式，大规模可再生能源将面临无法输送、消纳或调度的风险，可能导致弃电与供应紧张并存。这正是中国必须“改造”电网的原因。2026年10月12日，在中国南部广东省江门市，一座换流站的内部景象。新型电网“新”在何处——新型电网不是单一技术突破，而是以主干电网和配电网为支撑、微电网为补充的协同运行体系。主干电网强调灵活配置，以优化清洁能源在远距离上的配置。\n\n由于能源资源集中在中国西部，而负荷中心一般位于东部，中国必须依靠灵活互联的主干电网来实现电力跨区域、跨省份的自由流动。世界首个±800千伏多端柔性直流（VSC-HVDC）工程——昆柳龙柔性直流工程，连接云南、贵州、广东三省和广西壮族自治区，输电容量800万千瓦，线路全长1452公里，将乌东德水电站的水电输送至广东和广西的负荷中心。配电网强调韧性和互动——既能接纳分布式可再生能源，又能抵御台风和极端高温等外部冲击。随着屋顶光伏、电动汽车和用户侧储能的规模化接入，配电网正从单向供电转向本地能源平台，聚合分布式资源并增强系统灵活性。2025年6月21日，深圳虚拟大学园将屋顶光伏板和绿植融入建筑，以促进清洁能源利用。\n\n在今年夏天中国南部深圳的热浪期间，61家运营商和超过1.4万用户参与了虚拟电厂（VPP）调度。深圳虚拟电厂管理中心在短时间内聚合了高达140万千瓦的可调节容量——相当于一座中型燃煤电厂的出力——有效缓解了电网运行压力。微电网强调弹性平衡，在自主维持局部供需平衡的同时与主网灵活互动。在工业园区、建筑、社区和偏远地区，集成分布式光伏、小型风电、储能和充电设施的微电网可以实现本地源网荷储（SGLS）平衡，并保障关键负荷。在广州番禺区大刀沙岛进行的一次模拟测试中，当外部电网断开时，由甲醇制氢发电供能的微电网集群迅速启动。\n\n外部故障清除后，微电网平稳退出，确保岛上居民用电不中断。2026年10月26日，在中国东部安徽省芜湖市，工人们在特高压直流输电工程上进行高空施工作业。新型电网实际支撑什么——新型电网的价值最终体现在三个维度：可靠供应、绿色转型和产业支撑。在供应可靠性方面，主干电网的特高压跨区输电、配电网对分布式灵活资源的承载和调节，以及微电网的本地自治，共同构成多层次、多维度的电力安全保障体系，增强了电网应对极端天气和其他突发事件的能力。在绿色消纳方面，2026年前三季度中国风电和光伏发电量达到1.92万亿千瓦时，约占全社会用电量的23.8%，大规模可再生能源替代的减碳效益持续显现。\n\n新型电网还为数字经济和产业升级提供关键支撑。随着人工智能和数字基础设施加速发展，算力负荷不断扩大，对供电的可靠性、稳定性和绿色属性提出更高要求。新型电网加强电力规划与算力布局的衔接，增强大型算力集群的供电保障；将变电站与算力站、新型储能融合，降低算力基础设施的建设和能源成本；协调电力调度与算力调度，将算力任务灵活转移到绿色电力充裕、电价较低时段和地区。“十五五”时期是碳达峰的关键阶段，也是能源转型的攻坚期。5万亿元投资所“改造”的，是一个更智能、更灵活、更有韧性和弹性的能源资源配置网络。\n\n它将与其他五网深度融合、协同发展，共同支撑绿色、低碳、安全、高效、互联互通的未来。"
+    },
+    {
+      "id": 2,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-13/Aid-work-in-South-Sudan-How-OCHA-chief-steers-aid-through-conflict-1RvDVH2sHUA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Aid work in South Sudan: How OCHA chief steers aid through conflict",
+      "titleCn": "南苏丹援助工作：OCHA负责人如何在冲突中引导援助",
+      "summary": "Aid work in South Sudan: How OCHA chief steers aid through conflict",
+      "summaryCn": "联合国人道主义事务协调厅驻南苏丹负责人戴维·卡登在冲突与气候冲击交织的艰难环境中，通过谈判、建立信任和灵活协调，努力将援助送达最脆弱的人群，同时强调持久和平才是根本解决方案。",
+      "wordCount": 1165,
+      "paragraphs": [
+        {
+          "en": "Families gather under the shade of a tree at an informal site where {{4}} people have assembled without assistance or shelter at Yolakot informal camp near Mingkaman, South Sudan on February 14, 2026. Editor's note: This is the first story in CGTN's series documenting the experiences of {{0}} workers around the world, exploring the challenges they face, the people they serve and what keeps them going in some of the world's most difficult environments. Before David Carden sat down for an interview about South Sudan's humanitarian crisis, he had been out in the field, visiting a drought-affected community where crops had failed and a river had dried up. His visit came amid mounting humanitarian challenges in a country where a {{1}} peace has come under renewed strain. Fighting between government and opposition forces has {{2}} since 2025, further {{3}} the 2018 peace agreement.",
+          "cn": "2026年2月14日，在南苏丹明卡曼附近的约拉科特非正式营地，流离失所的家庭在没有任何援助或住所的情况下聚集在一棵树的树荫下。编者按：这是CGTN系列报道的第一篇，记录世界各地人道主义工作者的经历，探讨他们面临的挑战、他们服务的人群，以及是什么支撑他们在世界上一些最艰难的环境中坚持下去。在戴维·卡登坐下来接受关于南苏丹人道主义危机的采访之前，他一直在实地走访一个受干旱影响的社区，那里的庄稼歉收，一条河流已经干涸。他的访问正值该国人道主义挑战日益加剧之际，脆弱的和平再次面临压力。自2025年以来，政府军与反对派武装之间的战斗不断加剧，进一步削弱了2018年的和平协议。"
+        },
+        {
+          "en": "Armed clashes, including in Jonglei and Upper Nile states, have displaced more than 2.5 million people and {{5}} humanitarian access across the country, as South Sudan prepares for general elections scheduled for December 2026. But conflict is only part of the challenge. In Lafon, in Eastern Equatoria State, Carden saw the effects of {{6}} climate shocks: farmland damaged by floods late last year, crops destroyed by drought and water sources that had dried up. Local authorities reported rising {{7}} and deaths in recent months. A screenshot of CGTN's interview with David Carden, head of the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) in South Sudan.",
+          "cn": "包括琼莱州和上尼罗州在内的武装冲突已导致超过250万人流离失所，并使全国的人道主义准入变得复杂，而南苏丹正准备于2026年12月举行大选。但冲突只是挑战的一部分。在东赤道州拉丰，卡登看到了接连不断的气候冲击造成的影响：去年年底洪水损坏了农田，干旱摧毁了庄稼，水源也已干涸。地方当局报告称，近几个月营养不良和死亡人数不断上升。CGTN采访联合国人道主义事务协调厅（OCHA）驻南苏丹负责人戴维·卡登的截图。"
+        },
+        {
+          "en": "For Carden, head of the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) in South Sudan, such visits are part of a job that rarely follows a {{8}} schedule. \"They come up all the time,\" he said of emergencies that disrupt planned engagements. Humanitarian workers, he added, must remain {{9}} and ready to respond as needs arise. Yet it is not only the scale of suffering that has shaped his experience in the country. Asked what keeps him motivated, Carden pointed to something less easily captured in humanitarian statistics: the {{10}} of the people he meets.",
+          "cn": "对于卡登——联合国人道主义事务协调厅（OCHA）驻南苏丹负责人——来说，这类走访是一项很少按可预测日程进行的工作的一部分。谈到打乱计划活动的紧急情况，他说：“它们总是层出不穷。”他还说，人道主义工作者必须保持灵活，随时准备在需求出现时做出响应。然而，塑造他在该国经历的不仅仅是苦难的规模。当被问及是什么让他保持动力时，卡登指向了人道主义统计数据中不易捕捉的东西：他所遇到的人的韧性。"
+        },
+        {
+          "en": "\"When you talk to the communities themselves, they are {{11}} resilient in very difficult circumstances,\" he said, describing how families continue to care for one another and neighbors support each other despite {{12}}. That determination, he said, is {{13}}. With appropriate assistance and greater security, he believes, communities can rebuild their lives. Negotiating a way through\nThe work behind humanitarian assistance can be less visible than the aid itself. In South Sudan, where access to affected communities can depend on {{14}} with different authorities and armed actors, getting help to people often requires {{15}} {{16}}.",
+          "cn": "他说：“当你与社区本身交谈时，会发现他们在非常困难的境况下具有令人难以置信的韧性。”他描述了家庭如何在艰难中继续相互照顾，邻居如何相互支持。他说，这种决心令人谦卑。他相信，只要有适当的援助和更大的安全保障，社区就能重建生活。谈判开辟通路\n人道主义援助背后的工作可能比援助本身更不为人所见。在南苏丹，能否接触到受影响社区往往取决于与不同当局和武装行为体的谈判，因此将援助送达民众通常需要艰苦的协调。"
+        },
+        {
+          "en": "Carden cited the crisis in Akobo, a border town in Jonglei State near Ethiopia, as an example of how quickly humanitarian operations can be {{17}} – and how difficult it can be to get them back on track. The town had become a place of {{18}} for people fleeing conflict elsewhere in northern Jonglei. Many chose to go there because the United Nations Mission in South Sudan (UNMISS), whose peacekeepers had maintained a protective presence in Akobo, provided physical protection for civilians, he said. But the situation took a dramatic turn in March, when government forces ordered civilians, UN peacekeepers and humanitarian organizations to leave ahead of planned military operations. Humanitarian groups withdrew, and Akobo hospital and other humanitarian facilities were {{19}}, resulting in the loss of medical supplies and other resources.",
+          "cn": "卡登以阿科博的危机为例，说明人道主义行动可能多么迅速地受到干扰——以及恢复行动可能多么困难。阿科博是琼莱州靠近埃塞俄比亚的一个边境城镇。该镇已成为逃离琼莱州北部其他地区冲突的人们的避难所。他说，许多人选择去那里，是因为联合国南苏丹特派团（UNMISS）的维和人员一直在阿科博保持保护性存在，为平民提供人身保护。但3月局势发生了戏剧性转变，政府军下令平民、联合国维和人员和人道主义组织在计划中的军事行动之前撤离。人道主义组织撤出，阿科博医院和其他人道主义设施遭到抢劫，导致医疗用品和其他资源损失。"
+        },
+        {
+          "en": "As control of the town shifted between government and opposition forces, aid agencies faced further {{20}} over how to reach people in need. For Carden, the loss of humanitarian assets was particularly {{21}} because aid organizations had only just scaled up their support. The challenge was then to get humanitarian partners back into the area. More than 300,000 people were displaced in May, including people who crossed into Ethiopia, Carden said. OCHA worked to {{22}} the return of aid organizations, which were able to provide food, health and nutrition assistance to more than 100,000 returnees within three weeks.",
+          "cn": "随着该镇的控制权在政府军和反对派武装之间来回转移，援助机构在如何接触有需要的民众方面面临更多不确定性。对卡登来说，人道主义资产的损失尤其令人沮丧，因为援助组织才刚刚扩大支持规模。接下来的挑战是让人道主义伙伴重返该地区。卡登说，5月有超过30万人流离失所，其中包括越境进入埃塞俄比亚的人。OCHA努力推动援助组织返回，这些组织在三周内为超过10万名返回者提供了食品、健康和营养援助。"
+        },
+        {
+          "en": "The return required {{23}} a shifting military and political landscape. Akobo moved from opposition to government control and then back to opposition control, Carden said, meaning humanitarian agencies had to engage with different parties to secure access. Even after partners returned, field teams had to sustain operations under difficult conditions, with field workers remaining in the area for two or three months to support the delivery of assistance. A worker sits atop sacks of food aid in a hangar where supplies are piling up because deliveries are halted due to food insecurity from the conflict, at a World Food Programme (WFP) warehouse in Bor, Jonglei State, on February 13, 2026. For Carden, the principle guiding such efforts is straightforward: humanitarian assistance should go to the most {{24}}, regardless of where they live or which side controls the territory.",
+          "cn": "返回需要应对不断变化的军事和政治格局。卡登说，阿科博从反对派控制转为政府控制，然后又回到反对派控制，这意味着人道主义机构不得不与不同各方接触以确保准入。即使伙伴返回后，实地团队也必须在困难条件下维持行动，实地工作人员在该地区停留两到三个月以支持援助的送达。2026年2月13日，在琼莱州博尔的世界粮食计划署（WFP）仓库，一名工人坐在一个机库内的食品援助袋上，由于冲突导致的粮食不安全使运送中断，物资正在堆积。对卡登来说，指导这些努力的原则很明确：人道主义援助应送达最脆弱的人群，无论他们住在哪里，也无论哪一方控制该地区。"
+        },
+        {
+          "en": "Putting that principle into practice, however, can mean negotiating access repeatedly as circumstances change. The {{25}} extend beyond shifts in territorial control. Field teams encounter checkpoint extortion, bureaucratic restrictions, robberies and, in some cases, abductions. Problems that cannot be resolved locally may require intervention from senior officials in Juba. Carden said the key to overcoming these challenges is to build trust with the different parties involved, making clear that \"our sole purpose is to deliver assistance in line with the humanitarian principles of humanity, {{26}}, independence and neutrality.\"\n\"They need to understand that we have a humanitarian mandate,\" he said.",
+          "cn": "然而，将这一原则付诸实践，可能意味着随着情况变化而反复谈判准入。障碍不仅限于领土控制的变化。实地团队遭遇检查站勒索、官僚限制、抢劫，在某些情况下还有绑架。无法在当地解决的问题可能需要朱巴的高级官员介入。卡登说，克服这些挑战的关键是与相关各方建立信任，明确表示“我们唯一的目的就是按照人道、公正、独立和中立的人道主义原则提供援助”。他说：“他们需要明白，我们有人道主义使命。”"
+        },
+        {
+          "en": "The people who stay\nCarden's reflections extend beyond the communities receiving assistance to the colleagues delivering it. He said South Sudanese humanitarian workers continue working despite security risks, even as some have family members living in neighboring countries because of insecurity at home. They remain willing to travel to areas where needs are greatest, he said. Internally displaced South Sudanese shelter at a church compound in Akobo, South Sudan, February 21, 2026. Their commitment has left a strong impression on him.",
+          "cn": "留下来的人\n卡登的思考不仅延伸到接受援助的社区，也延伸到提供援助的同事。他说，南苏丹人道主义工作者尽管面临安全风险仍继续工作，甚至一些人的家人因国内不安全而住在邻国。他说，他们仍然愿意前往需求最大的地区。2026年2月21日，南苏丹阿科博，国内流离失所的南苏丹人在一座教堂院落内避难。他们的奉献给他留下了深刻印象。"
+        },
+        {
+          "en": "The experience has also reinforced his belief that humanitarian aid alone cannot provide a lasting solution. Communities cannot recover and rebuild while they remain exposed to violence and displacement, he said, urging political leaders to continue working to de-escalate tensions and pursue peace. In Bentiu and Malakal, Carden said, humanitarian partners are also working to help people who have spent years in camp settings find more lasting solutions. Livelihood support and opportunities to move to other areas in safety could help them rebuild more productive lives, he added. He described progress on these efforts as slow and complicated, but believes they could make a significant difference to people's lives.",
+          "cn": "这段经历也坚定了他的一种信念：仅靠人道主义援助无法提供持久解决方案。他说，社区在仍然面临暴力和流离失所的情况下无法恢复和重建，并敦促政治领导人继续努力缓和紧张局势、追求和平。卡登说，在本提乌和马拉卡勒，人道主义伙伴也在努力帮助那些在营地环境中生活多年的人找到更持久的解决方案。他补充说，生计支持和安全迁移到其他地区的机会可以帮助他们重建更有生产力的生活。他形容这些努力的进展缓慢而复杂，但他相信它们可以给人们的生活带来重大改变。"
+        },
+        {
+          "en": "For a humanitarian coordinator, success is not simply measured by how much aid is delivered. It also means helping create the conditions in which people no longer need emergency assistance to survive. In a country where crises repeatedly interrupt daily life, Carden's account returns to the people who continue to care for their families, support their neighbors and deliver assistance despite the risks.",
+          "cn": "对于人道主义协调员来说，成功不仅仅以提供了多少援助来衡量。它还意味着帮助创造条件，使人们不再需要紧急援助才能生存。在一个危机反复打断日常生活的国家，卡登的叙述最终回到那些继续照顾家人、支持邻居并冒着风险提供援助的人们身上。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "humanitarian",
+          "hint": "adj. 人道主义的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "fragile",
+          "hint": "adj. 脆弱的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "intensified",
+          "hint": "v. 加剧了",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "undermining",
+          "hint": "v. 削弱",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "displaced",
+          "hint": "v. 使流离失所",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "complicated",
+          "hint": "v. 使复杂化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "successive",
+          "hint": "adj. 接连的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "malnutrition",
+          "hint": "n. 营养不良",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "predictable",
+          "hint": "adj. 可预测的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "flexible",
+          "hint": "adj. 灵活的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "resilience",
+          "hint": "n. 韧性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "incredibly",
+          "hint": "adv. 难以置信地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "hardship",
+          "hint": "n. 艰难困苦",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "humbling",
+          "hint": "adj. 令人谦卑的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "negotiations",
+          "hint": "n. 谈判",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "painstaking",
+          "hint": "adj. 艰苦的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "disrupted",
+          "hint": "v. 被打断",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "refuge",
+          "hint": "n. 避难所",
+          "difficulty": "hard"
+        },
+        {
+          "id": 19,
+          "answer": "looted",
+          "hint": "v. 被抢劫",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "uncertainty",
+          "hint": "n. 不确定性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "frustrating",
+          "hint": "adj. 令人沮丧的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "facilitate",
+          "hint": "v. 促进",
+          "difficulty": "hard"
+        },
+        {
+          "id": 23,
+          "answer": "navigating",
+          "hint": "v. 应对",
+          "difficulty": "hard"
+        },
+        {
+          "id": 24,
+          "answer": "vulnerable",
+          "hint": "adj. 脆弱的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "obstacles",
+          "hint": "n. 障碍",
+          "difficulty": "medium"
+        },
+        {
+          "id": 26,
+          "answer": "impartiality",
+          "hint": "n. 公正",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Families gather under the shade of a tree at an informal site where displaced people have assembled without assistance or shelter at Yolakot informal camp near Mingkaman, South Sudan on February 14, 2026. \nEditor's note: This is the first story in CGTN's series documenting the experiences of humanitarian workers around the world, exploring the challenges they face, the people they serve and what keeps them going in some of the world's most difficult environments.\nBefore David Carden sat down for an interview about South Sudan's humanitarian crisis, he had been out in the field, visiting a drought-affected community where crops had failed and a river had dried up.\nHis visit came amid mounting humanitarian challenges in a country where a fragile peace has come under renewed strain. Fighting between government and opposition forces has intensified since 2025, further undermining the 2018 peace agreement. Armed clashes, including in Jonglei and Upper Nile states, have displaced more than 2.5 million people and complicated humanitarian access across the country, as South Sudan prepares for general elections scheduled for December 2026.\nBut conflict is only part of the challenge. In Lafon, in Eastern Equatoria State, Carden saw the effects of successive climate shocks: farmland damaged by floods late last year, crops destroyed by drought and water sources that had dried up. Local authorities reported rising malnutrition and deaths in recent months.\nA screenshot of CGTN's interview with David Carden, head of the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) in South Sudan. \nFor Carden, head of the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) in South Sudan, such visits are part of a job that rarely follows a predictable schedule.\n\"They come up all the time,\" he said of emergencies that disrupt planned engagements. Humanitarian workers, he added, must remain flexible and ready to respond as needs arise.\nYet it is not only the scale of suffering that has shaped his experience in the country. Asked what keeps him motivated, Carden pointed to something less easily captured in humanitarian statistics: the resilience of the people he meets.\n\"When you talk to the communities themselves, they are incredibly resilient in very difficult circumstances,\" he said, describing how families continue to care for one another and neighbors support each other despite hardship.\nThat determination, he said, is humbling. With appropriate assistance and greater security, he believes, communities can rebuild their lives.\nNegotiating a way through\nThe work behind humanitarian assistance can be less visible than the aid itself. In South Sudan, where access to affected communities can depend on negotiations with different authorities and armed actors, getting help to people often requires painstaking coordination.\nCarden cited the crisis in Akobo, a border town in Jonglei State near Ethiopia, as an example of how quickly humanitarian operations can be disrupted – and how difficult it can be to get them back on track. The town had become a place of refuge for people fleeing conflict elsewhere in northern Jonglei. Many chose to go there because the United Nations Mission in South Sudan (UNMISS), whose peacekeepers had maintained a protective presence in Akobo, provided physical protection for civilians, he said.\nBut the situation took a dramatic turn in March, when government forces ordered civilians, UN peacekeepers and humanitarian organizations to leave ahead of planned military operations. Humanitarian groups withdrew, and Akobo hospital and other humanitarian facilities were looted, resulting in the loss of medical supplies and other resources. As control of the town shifted between government and opposition forces, aid agencies faced further uncertainty over how to reach people in need.\nFor Carden, the loss of humanitarian assets was particularly frustrating because aid organizations had only just scaled up their support.\nThe challenge was then to get humanitarian partners back into the area. More than 300,000 people were displaced in May, including people who crossed into Ethiopia, Carden said. OCHA worked to facilitate the return of aid organizations, which were able to provide food, health and nutrition assistance to more than 100,000 returnees within three weeks.\nThe return required navigating a shifting military and political landscape. Akobo moved from opposition to government control and then back to opposition control, Carden said, meaning humanitarian agencies had to engage with different parties to secure access. Even after partners returned, field teams had to sustain operations under difficult conditions, with field workers remaining in the area for two or three months to support the delivery of assistance.\nA worker sits atop sacks of food aid in a hangar where supplies are piling up because deliveries are halted due to food insecurity from the conflict, at a World Food Programme (WFP) warehouse in Bor, Jonglei State, on February 13, 2026. \nFor Carden, the principle guiding such efforts is straightforward: humanitarian assistance should go to the most vulnerable, regardless of where they live or which side controls the territory. Putting that principle into practice, however, can mean negotiating access repeatedly as circumstances change.\nThe obstacles extend beyond shifts in territorial control. Field teams encounter checkpoint extortion, bureaucratic restrictions, robberies and, in some cases, abductions. Problems that cannot be resolved locally may require intervention from senior officials in Juba.\nCarden said the key to overcoming these challenges is to build trust with the different parties involved, making clear that \"our sole purpose is to deliver assistance in line with the humanitarian principles of humanity, impartiality, independence and neutrality.\"\n\"They need to understand that we have a humanitarian mandate,\" he said.\nThe people who stay\nCarden's reflections extend beyond the communities receiving assistance to the colleagues delivering it.\nHe said South Sudanese humanitarian workers continue working despite security risks, even as some have family members living in neighboring countries because of insecurity at home. They remain willing to travel to areas where needs are greatest, he said.\nInternally displaced South Sudanese shelter at a church compound in Akobo, South Sudan, February 21, 2026. \nTheir commitment has left a strong impression on him.\nThe experience has also reinforced his belief that humanitarian aid alone cannot provide a lasting solution. Communities cannot recover and rebuild while they remain exposed to violence and displacement, he said, urging political leaders to continue working to de-escalate tensions and pursue peace.\nIn Bentiu and Malakal, Carden said, humanitarian partners are also working to help people who have spent years in camp settings find more lasting solutions. Livelihood support and opportunities to move to other areas in safety could help them rebuild more productive lives, he added.\nHe described progress on these efforts as slow and complicated, but believes they could make a significant difference to people's lives.\nFor a humanitarian coordinator, success is not simply measured by how much aid is delivered. It also means helping create the conditions in which people no longer need emergency assistance to survive.\nIn a country where crises repeatedly interrupt daily life, Carden's account returns to the people who continue to care for their families, support their neighbors and deliver assistance despite the risks.",
+      "fullTextCn": "2026年2月14日，在南苏丹明卡曼附近的约拉科特非正式营地，流离失所的家庭在没有任何援助或住所的情况下聚集在一棵树的树荫下。编者按：这是CGTN系列报道的第一篇，记录世界各地人道主义工作者的经历，探讨他们面临的挑战、他们服务的人群，以及是什么支撑他们在世界上一些最艰难的环境中坚持下去。在戴维·卡登坐下来接受关于南苏丹人道主义危机的采访之前，他一直在实地走访一个受干旱影响的社区，那里的庄稼歉收，一条河流已经干涸。他的访问正值该国人道主义挑战日益加剧之际，脆弱的和平再次面临压力。自2025年以来，政府军与反对派武装之间的战斗不断加剧，进一步削弱了2018年的和平协议。\n\n包括琼莱州和上尼罗州在内的武装冲突已导致超过250万人流离失所，并使全国的人道主义准入变得复杂，而南苏丹正准备于2026年12月举行大选。但冲突只是挑战的一部分。在东赤道州拉丰，卡登看到了接连不断的气候冲击造成的影响：去年年底洪水损坏了农田，干旱摧毁了庄稼，水源也已干涸。地方当局报告称，近几个月营养不良和死亡人数不断上升。CGTN采访联合国人道主义事务协调厅（OCHA）驻南苏丹负责人戴维·卡登的截图。\n\n对于卡登——联合国人道主义事务协调厅（OCHA）驻南苏丹负责人——来说，这类走访是一项很少按可预测日程进行的工作的一部分。谈到打乱计划活动的紧急情况，他说：“它们总是层出不穷。”他还说，人道主义工作者必须保持灵活，随时准备在需求出现时做出响应。然而，塑造他在该国经历的不仅仅是苦难的规模。当被问及是什么让他保持动力时，卡登指向了人道主义统计数据中不易捕捉的东西：他所遇到的人的韧性。\n\n他说：“当你与社区本身交谈时，会发现他们在非常困难的境况下具有令人难以置信的韧性。”他描述了家庭如何在艰难中继续相互照顾，邻居如何相互支持。他说，这种决心令人谦卑。他相信，只要有适当的援助和更大的安全保障，社区就能重建生活。谈判开辟通路\n人道主义援助背后的工作可能比援助本身更不为人所见。在南苏丹，能否接触到受影响社区往往取决于与不同当局和武装行为体的谈判，因此将援助送达民众通常需要艰苦的协调。\n\n卡登以阿科博的危机为例，说明人道主义行动可能多么迅速地受到干扰——以及恢复行动可能多么困难。阿科博是琼莱州靠近埃塞俄比亚的一个边境城镇。该镇已成为逃离琼莱州北部其他地区冲突的人们的避难所。他说，许多人选择去那里，是因为联合国南苏丹特派团（UNMISS）的维和人员一直在阿科博保持保护性存在，为平民提供人身保护。但3月局势发生了戏剧性转变，政府军下令平民、联合国维和人员和人道主义组织在计划中的军事行动之前撤离。人道主义组织撤出，阿科博医院和其他人道主义设施遭到抢劫，导致医疗用品和其他资源损失。\n\n随着该镇的控制权在政府军和反对派武装之间来回转移，援助机构在如何接触有需要的民众方面面临更多不确定性。对卡登来说，人道主义资产的损失尤其令人沮丧，因为援助组织才刚刚扩大支持规模。接下来的挑战是让人道主义伙伴重返该地区。卡登说，5月有超过30万人流离失所，其中包括越境进入埃塞俄比亚的人。OCHA努力推动援助组织返回，这些组织在三周内为超过10万名返回者提供了食品、健康和营养援助。\n\n返回需要应对不断变化的军事和政治格局。卡登说，阿科博从反对派控制转为政府控制，然后又回到反对派控制，这意味着人道主义机构不得不与不同各方接触以确保准入。即使伙伴返回后，实地团队也必须在困难条件下维持行动，实地工作人员在该地区停留两到三个月以支持援助的送达。2026年2月13日，在琼莱州博尔的世界粮食计划署（WFP）仓库，一名工人坐在一个机库内的食品援助袋上，由于冲突导致的粮食不安全使运送中断，物资正在堆积。对卡登来说，指导这些努力的原则很明确：人道主义援助应送达最脆弱的人群，无论他们住在哪里，也无论哪一方控制该地区。\n\n然而，将这一原则付诸实践，可能意味着随着情况变化而反复谈判准入。障碍不仅限于领土控制的变化。实地团队遭遇检查站勒索、官僚限制、抢劫，在某些情况下还有绑架。无法在当地解决的问题可能需要朱巴的高级官员介入。卡登说，克服这些挑战的关键是与相关各方建立信任，明确表示“我们唯一的目的就是按照人道、公正、独立和中立的人道主义原则提供援助”。他说：“他们需要明白，我们有人道主义使命。”\n\n留下来的人\n卡登的思考不仅延伸到接受援助的社区，也延伸到提供援助的同事。他说，南苏丹人道主义工作者尽管面临安全风险仍继续工作，甚至一些人的家人因国内不安全而住在邻国。他说，他们仍然愿意前往需求最大的地区。2026年2月21日，南苏丹阿科博，国内流离失所的南苏丹人在一座教堂院落内避难。他们的奉献给他留下了深刻印象。\n\n这段经历也坚定了他的一种信念：仅靠人道主义援助无法提供持久解决方案。他说，社区在仍然面临暴力和流离失所的情况下无法恢复和重建，并敦促政治领导人继续努力缓和紧张局势、追求和平。卡登说，在本提乌和马拉卡勒，人道主义伙伴也在努力帮助那些在营地环境中生活多年的人找到更持久的解决方案。他补充说，生计支持和安全迁移到其他地区的机会可以帮助他们重建更有生产力的生活。他形容这些努力的进展缓慢而复杂，但他相信它们可以给人们的生活带来重大改变。\n\n对于人道主义协调员来说，成功不仅仅以提供了多少援助来衡量。它还意味着帮助创造条件，使人们不再需要紧急援助才能生存。在一个危机反复打断日常生活的国家，卡登的叙述最终回到那些继续照顾家人、支持邻居并冒着风险提供援助的人们身上。"
+    },
+    {
+      "id": 3,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-13/What-signals-did-the-latest-China-US-dialogue-send--1S2Id1AvX3O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "What signals did the latest China-US dialogue send?",
+      "titleCn": "最新中美对话释放了哪些信号？",
+      "summary": "A recurring message from both sides was the need for stability in bilateral relations. Against a backdrop of global uncertainty, participants called for greater dialogue, stronger mutual trust and efforts to find the right way for the two major powers to coexist.",
+      "summaryCn": "2026年中美政治对话在北京举行，双方代表呼吁加强沟通、增进互信，共同探索大国共处的正确之道。",
+      "wordCount": 860,
+      "paragraphs": [
+        {
+          "en": "Lu Kang, vice-minister of the International Department of the CPC Central Committee, chairs the 2026 US-China Political Dialogue in Beijing, capital of China November 12, 2026. /International Department of the CPC Central Committee\nThe 2026 US-China Political Dialogue was held in Beijing on Thursday, bringing together representatives from US political parties, strategic circles and business communities, alongside Chinese government officials, local authorities, think tanks, universities and civil society organizations. A {{0}} message from both sides was the need for stability in bilateral relations. Against a backdrop of global {{1}}, participants called for greater dialogue, stronger {{8}} trust and efforts to find the right way for the two major powers to {{2}}. More dialogue, greater trust\nThemed \"US-China Relations in the New Era: Exploring the Right Approach in a Changing Asia-Pacific and the World,\" the dialogue featured {{3}}, in-depth and {{4}} discussions between Chinese and US representatives.",
+          "cn": "2026年中美政治对话于周四在北京举行，汇聚了来自美国政党、战略界和商界的代表，以及中国政府官员、地方负责人、智库、高校和民间社会组织。双方反复传递的一个信息是双边关系需要稳定。在全球不确定性背景下，与会者呼吁加强对话、增强互信，努力找到两个大国共处的正确方式。更多对话，更多信任。本次对话以“新时代中美关系：在变化中的亚太与世界探索正确路径”为主题，中美代表进行了坦诚、深入和建设性的讨论。"
+        },
+        {
+          "en": "A senior official from the International Department of the Central Committee of the Communist Party of China (CPC) said a stable, healthy and {{5}} China-US relationship serves the interests of both peoples and is also important for peace and {{6}} in the Asia-Pacific region and the wider world. Looking ahead, the two countries should uphold the {{7}} of mutual respect, peaceful coexistence and win-win cooperation, and work together to find the right way for major powers to get along in the new era, the official said. US representatives said a more stable and balanced bilateral relationship would help both countries achieve their development goals and address global governance challenges. They called for {{9}} communication, constructive competition and mutually {{10}} cooperation. Former US Ambassador to China Max Baucus welcomed the fact that the two countries' leaders had met twice this year, saying more frequent high-level exchanges could help advance bilateral relations.",
+          "cn": "中共中央对外联络部一位高级官员表示，稳定、健康、可持续的中美关系符合两国人民利益，对亚太地区乃至世界的和平与繁荣也至关重要。该官员表示，展望未来，两国应坚持相互尊重、和平共处、合作共赢的原则，共同找到新时代大国相处的正确之道。美方代表表示，更加稳定和平衡的双边关系有助于两国实现发展目标、应对全球治理挑战。他们呼吁持续沟通、建设性竞争和互利合作。美国前驻华大使马克斯·博卡斯对两国领导人今年两次会晤表示欢迎，称更频繁的高层交流有助于推进双边关系。"
+        },
+        {
+          "en": "He noted that although China and the United States have different national conditions and are both major powers, maintaining a balance in areas such as power, economic interests and {{11}} influence was key to managing their relationship. Baucus also stressed the importance of gradually building trust through sustained efforts, including more frequent meetings between the two leaders and greater people-to-people exchanges. He encouraged more Americans to visit different parts of China and experience the country firsthand, while expressing hope that more Chinese people would also travel to the US. Participants also expressed expectations for the upcoming APEC meeting in Shenzhen. Michael Hart, president of the American Chamber of Commerce in China, said a meeting between the two countries' leaders at APEC would be significant.",
+          "cn": "他指出，尽管中美国情不同且都是大国，但在权力、经济利益和地缘政治影响力等领域保持平衡是管理两国关系的关键。博卡斯还强调通过持续努力逐步建立信任的重要性，包括两国领导人更频繁会晤和更多人文交流。他鼓励更多美国人访问中国各地、亲身感受中国，同时表示希望更多中国人也能前往美国。与会者还对即将在深圳举行的亚太经合组织会议表达了期待。中国美国商会主席迈克尔·哈特表示，两国领导人在亚太经合组织会议期间会晤将具有重要意义。"
+        },
+        {
+          "en": "He stressed that businesses urgently need a stable environment and {{12}} long-term prospects, calling on both sides to {{13}} issues such as tariffs and exports to give companies greater {{14}} in trade. Reviving the spirit of ping-pong diplomacy\nThe dialogue also featured a table tennis activity, paying {{16}} to the historic \"ping-pong diplomacy\" of 55 years ago, when exchanges between players helped pave the way for improved China-US relations. Fu Qiang, assistant dean of Tsinghua University's Schwarzman College, said the spirit of ping-pong diplomacy could serve as a model for cultural, educational and technological exchanges. He said governments could create favorable conditions for scientists, researchers, artists and athletes to build friendships across borders, adding that bilateral relations should go beyond trade and {{17}} deeper and broader ties between the two peoples. Susan Thornton, former acting assistant secretary of state for East Asian and Pacific affairs, also {{18}} the importance of people-to-people exchanges in laying a solid foundation for bilateral relations.",
+          "cn": "他强调企业迫切需要稳定环境和可预测的长期前景，呼吁双方明确关税和出口等问题，给企业更大的贸易确定性。重振乒乓外交精神。本次对话还安排了乒乓球活动，致敬55年前的历史性“乒乓外交”，当时球员之间的交流为改善中美关系铺平了道路。清华大学苏世民书院副院长富强表示，乒乓外交精神可以作为文化、教育和技术交流的典范。他说政府可以为科学家、研究人员、艺术家和运动员搭建跨国友谊创造有利条件，并补充说双边关系应超越贸易，促进两国人民之间更深入、更广泛的联系。前代理助理国务卿苏珊·桑顿也强调了人文交流为双边关系奠定坚实基础的重要性。"
+        },
+        {
+          "en": "She said younger generations in both countries were increasingly interested in and familiar with each other's cultures. Chinese culture, in particular, was gaining influence among young Americans, with social media providing new opportunities to learn about China. Looking back at shared history\nThe US {{19}} also visited the Museum of the Communist Party of China, marking the first visit to the museum by a high-level US delegation. During the visit, members asked about the route and participants of the Long March and revisited key moments in China-US relations, including former US President Richard Nixon's visit to China. One delegation member said the museum's {{20}} presentation of the Long March helped him better understand its {{21}} in China's national history.",
+          "cn": "她说两国年轻一代对彼此文化越来越感兴趣和熟悉。尤其是中国文化在美国年轻人中影响力日益增强，社交媒体为了解中国提供了新机会。回顾共同历史。美国代表团还参观了中国共产党历史展览馆，这是美国高级别代表团首次参观该馆。参观期间，成员们询问了长征的路线和参与者，并重温了中美关系的关键时刻，包括美国前总统理查德·尼克松访华。一位代表团成员说，展览馆对长征的沉浸式展示帮助他更好地理解长征在中国国家历史中的意义。"
+        },
+        {
+          "en": "Another member said she was particularly impressed by exhibits related to the Shenzhou-17 spacecraft, adding that the visit offered a closer look at China's history, culture and development under the leadership of the CPC. Baucus described the museum as highly educational, saying it would be worthwhile for both Chinese and American visitors. He added that greater opportunities for people from the two countries to visit each other's countries and cultural institutions could help foster better bilateral relations. The delegation also viewed exhibits {{22}} the Flying Tigers, the US volunteer air force that fought alongside Chinese forces against Japanese aggression during World War II. One member recalled that her father had flown several missions to Shanghai to bomb Japanese forces during the war.",
+          "cn": "另一位成员说，她对与神舟十七号飞船相关的展品印象尤为深刻，并补充说这次参观让她更近距离地了解了中国共产党领导下的中国历史、文化和发展。博卡斯称该展览馆极具教育意义，对中美两国参观者都值得一看。他还说，两国人民有更多机会互访对方国家和文化机构，有助于促进更好的双边关系。代表团还观看了记录飞虎队的展品，这支美国志愿航空队在二战期间与中国军队并肩抗击日本侵略。一位成员回忆说，她的父亲曾在战争期间多次飞往上海轰炸日军。"
+        },
+        {
+          "en": "She said Americans today should look back on that period and remember when the two countries were partners and {{23}}. \"Although we have differences, we must remember that very important moment in history, when we worked together,\" she said.",
+          "cn": "她说今天的美国人应该回顾那段时期，记住两国曾是伙伴和盟友。“尽管我们有分歧，但我们必须记住那个非常重要的历史时刻，当时我们并肩合作，”她说。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "recurring",
+          "hint": "adj. 反复出现的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "uncertainty",
+          "hint": "n. 不确定性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "coexist",
+          "hint": "v. 共存",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "candid",
+          "hint": "adj. 坦诚的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "constructive",
+          "hint": "adj. 建设性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "prosperity",
+          "hint": "n. 繁荣",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "principles",
+          "hint": "n. 原则",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "mutual",
+          "hint": "adj. 相互的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 9,
+          "answer": "sustained",
+          "hint": "adj. 持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "beneficial",
+          "hint": "adj. 有益的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "geopolitical",
+          "hint": "adj. 地缘政治的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "predictable",
+          "hint": "adj. 可预测的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "clarify",
+          "hint": "v. 澄清",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "certainty",
+          "hint": "n. 确定性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "tribute",
+          "hint": "n. 致敬",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "foster",
+          "hint": "v. 促进",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "emphasized",
+          "hint": "v. 强调",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "delegation",
+          "hint": "n. 代表团",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "immersive",
+          "hint": "adj. 沉浸式的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "significance",
+          "hint": "n. 意义",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "documenting",
+          "hint": "v. 记录",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "allies",
+          "hint": "n. 盟友",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "Lu Kang, vice-minister of the International Department of the CPC Central Committee, chairs the 2026 US-China Political Dialogue in Beijing, capital of China November 12, 2026. /International Department of the CPC Central Committee\nThe 2026 US-China Political Dialogue was held in Beijing on Thursday, bringing together representatives from US political parties, strategic circles and business communities, alongside Chinese government officials, local authorities, think tanks, universities and civil society organizations.\nA recurring message from both sides was the need for stability in bilateral relations. Against a backdrop of global uncertainty, participants called for greater dialogue, stronger mutual trust and efforts to find the right way for the two major powers to coexist.\nMore dialogue, greater trust\nThemed \"US-China Relations in the New Era: Exploring the Right Approach in a Changing Asia-Pacific and the World,\" the dialogue featured candid, in-depth and constructive discussions between Chinese and US representatives.\nA senior official from the International Department of the Central Committee of the Communist Party of China (CPC) said a stable, healthy and sustainable China-US relationship serves the interests of both peoples and is also important for peace and prosperity in the Asia-Pacific region and the wider world.\nLooking ahead, the two countries should uphold the principles of mutual respect, peaceful coexistence and win-win cooperation, and work together to find the right way for major powers to get along in the new era, the official said.\nUS representatives said a more stable and balanced bilateral relationship would help both countries achieve their development goals and address global governance challenges. They called for sustained communication, constructive competition and mutually beneficial cooperation.\nFormer US Ambassador to China Max Baucus welcomed the fact that the two countries' leaders had met twice this year, saying more frequent high-level exchanges could help advance bilateral relations. He noted that although China and the United States have different national conditions and are both major powers, maintaining a balance in areas such as power, economic interests and geopolitical influence was key to managing their relationship.\nBaucus also stressed the importance of gradually building trust through sustained efforts, including more frequent meetings between the two leaders and greater people-to-people exchanges. He encouraged more Americans to visit different parts of China and experience the country firsthand, while expressing hope that more Chinese people would also travel to the US.\nParticipants also expressed expectations for the upcoming APEC meeting in Shenzhen.\nMichael Hart, president of the American Chamber of Commerce in China, said a meeting between the two countries' leaders at APEC would be significant. He stressed that businesses urgently need a stable environment and predictable long-term prospects, calling on both sides to clarify issues such as tariffs and exports to give companies greater certainty in trade.\nReviving the spirit of ping-pong diplomacy\nThe dialogue also featured a table tennis activity, paying tribute to the historic \"ping-pong diplomacy\" of 55 years ago, when exchanges between players helped pave the way for improved China-US relations.\nFu Qiang, assistant dean of Tsinghua University's Schwarzman College, said the spirit of ping-pong diplomacy could serve as a model for cultural, educational and technological exchanges.\nHe said governments could create favorable conditions for scientists, researchers, artists and athletes to build friendships across borders, adding that bilateral relations should go beyond trade and foster deeper and broader ties between the two peoples.\nSusan Thornton, former acting assistant secretary of state for East Asian and Pacific affairs, also emphasized the importance of people-to-people exchanges in laying a solid foundation for bilateral relations.\nShe said younger generations in both countries were increasingly interested in and familiar with each other's cultures. Chinese culture, in particular, was gaining influence among young Americans, with social media providing new opportunities to learn about China.\nLooking back at shared history\nThe US delegation also visited the Museum of the Communist Party of China, marking the first visit to the museum by a high-level US delegation.\nDuring the visit, members asked about the route and participants of the Long March and revisited key moments in China-US relations, including former US President Richard Nixon's visit to China.\nOne delegation member said the museum's immersive presentation of the Long March helped him better understand its significance in China's national history.\nAnother member said she was particularly impressed by exhibits related to the Shenzhou-17 spacecraft, adding that the visit offered a closer look at China's history, culture and development under the leadership of the CPC.\nBaucus described the museum as highly educational, saying it would be worthwhile for both Chinese and American visitors. He added that greater opportunities for people from the two countries to visit each other's countries and cultural institutions could help foster better bilateral relations.\nThe delegation also viewed exhibits documenting the Flying Tigers, the US volunteer air force that fought alongside Chinese forces against Japanese aggression during World War II.\nOne member recalled that her father had flown several missions to Shanghai to bomb Japanese forces during the war. She said Americans today should look back on that period and remember when the two countries were partners and allies.\n\"Although we have differences, we must remember that very important moment in history, when we worked together,\" she said.",
+      "fullTextCn": "2026年中美政治对话于周四在北京举行，汇聚了来自美国政党、战略界和商界的代表，以及中国政府官员、地方负责人、智库、高校和民间社会组织。双方反复传递的一个信息是双边关系需要稳定。在全球不确定性背景下，与会者呼吁加强对话、增强互信，努力找到两个大国共处的正确方式。更多对话，更多信任。本次对话以“新时代中美关系：在变化中的亚太与世界探索正确路径”为主题，中美代表进行了坦诚、深入和建设性的讨论。\n\n中共中央对外联络部一位高级官员表示，稳定、健康、可持续的中美关系符合两国人民利益，对亚太地区乃至世界的和平与繁荣也至关重要。该官员表示，展望未来，两国应坚持相互尊重、和平共处、合作共赢的原则，共同找到新时代大国相处的正确之道。美方代表表示，更加稳定和平衡的双边关系有助于两国实现发展目标、应对全球治理挑战。他们呼吁持续沟通、建设性竞争和互利合作。美国前驻华大使马克斯·博卡斯对两国领导人今年两次会晤表示欢迎，称更频繁的高层交流有助于推进双边关系。\n\n他指出，尽管中美国情不同且都是大国，但在权力、经济利益和地缘政治影响力等领域保持平衡是管理两国关系的关键。博卡斯还强调通过持续努力逐步建立信任的重要性，包括两国领导人更频繁会晤和更多人文交流。他鼓励更多美国人访问中国各地、亲身感受中国，同时表示希望更多中国人也能前往美国。与会者还对即将在深圳举行的亚太经合组织会议表达了期待。中国美国商会主席迈克尔·哈特表示，两国领导人在亚太经合组织会议期间会晤将具有重要意义。\n\n他强调企业迫切需要稳定环境和可预测的长期前景，呼吁双方明确关税和出口等问题，给企业更大的贸易确定性。重振乒乓外交精神。本次对话还安排了乒乓球活动，致敬55年前的历史性“乒乓外交”，当时球员之间的交流为改善中美关系铺平了道路。清华大学苏世民书院副院长富强表示，乒乓外交精神可以作为文化、教育和技术交流的典范。他说政府可以为科学家、研究人员、艺术家和运动员搭建跨国友谊创造有利条件，并补充说双边关系应超越贸易，促进两国人民之间更深入、更广泛的联系。前代理助理国务卿苏珊·桑顿也强调了人文交流为双边关系奠定坚实基础的重要性。\n\n她说两国年轻一代对彼此文化越来越感兴趣和熟悉。尤其是中国文化在美国年轻人中影响力日益增强，社交媒体为了解中国提供了新机会。回顾共同历史。美国代表团还参观了中国共产党历史展览馆，这是美国高级别代表团首次参观该馆。参观期间，成员们询问了长征的路线和参与者，并重温了中美关系的关键时刻，包括美国前总统理查德·尼克松访华。一位代表团成员说，展览馆对长征的沉浸式展示帮助他更好地理解长征在中国国家历史中的意义。\n\n另一位成员说，她对与神舟十七号飞船相关的展品印象尤为深刻，并补充说这次参观让她更近距离地了解了中国共产党领导下的中国历史、文化和发展。博卡斯称该展览馆极具教育意义，对中美两国参观者都值得一看。他还说，两国人民有更多机会互访对方国家和文化机构，有助于促进更好的双边关系。代表团还观看了记录飞虎队的展品，这支美国志愿航空队在二战期间与中国军队并肩抗击日本侵略。一位成员回忆说，她的父亲曾在战争期间多次飞往上海轰炸日军。\n\n她说今天的美国人应该回顾那段时期，记住两国曾是伙伴和盟友。“尽管我们有分歧，但我们必须记住那个非常重要的历史时刻，当时我们并肩合作，”她说。"
+    },
+    {
+      "id": 4,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-10/AI-meets-APEC-Injecting-new-momentum-into-regional-development-1RXeovi39fi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "AI meets APEC: Injecting new momentum into regional development",
+      "titleCn": "人工智能遇上APEC：为区域发展注入新动力",
+      "summary": "AI is creating new opportunities for economic growth and regional cooperation across the Asia-Pacific. As the region prepares for the 2026 APEC Economic Leaders' Meeting in Shenzhen, south China's Guangdong Province, making AI more accessible, inclusive and beneficial to all has become a key priority.",
+      "summaryCn": "中国作为人工智能大国，通过开源模型、气象预警、教育和农业等领域的务实合作，推动亚太地区包容性发展并缩小数字鸿沟。",
+      "wordCount": 669,
+      "paragraphs": [
+        {
+          "en": "Artificial intelligence (AI) is creating new opportunities for economic growth and regional cooperation across the Asia-Pacific. As the region prepares for the 2026 APEC Economic Leaders' Meeting in Shenzhen, south China's Guangdong Province, making AI more {{0}}, {{1}} and beneficial to all has become a key priority. Under the theme \"Building an Asia-Pacific Community to Prosper Together,\" the 2026 APEC meeting has set openness, innovation and cooperation as its three {{2}}. Against this backdrop, inclusive development, {{3}} the digital divide and promoting open-source technologies are becoming important themes in regional AI cooperation. China, as a major AI power, has been playing an active role in global AI {{4}} and international cooperation.",
+          "cn": "人工智能（AI）正在为亚太地区的经济增长和区域合作创造新机遇。随着该地区筹备2026年在中国广东省深圳市举行的APEC经济领导人会议，让AI更加可及、包容并惠及所有人已成为一项关键优先事项。2026年APEC会议以“共建亚太共同体，共促繁荣”为主题，将开放、创新和合作确定为三大优先事项。在此背景下，包容性发展、缩小数字鸿沟和推广开源技术正成为区域AI合作的重要主题。中国作为AI大国，一直在全球AI治理和国际合作中发挥积极作用。"
+        },
+        {
+          "en": "In 2023, it proposed the Global AI Governance Initiative, outlining the principle of developing AI for good, respecting the relevant international laws and aligning AI's development with humanity's common values of peace, development, equity, justice, democracy and freedom, while developing open, fair and efficient governing mechanisms. Subsequent efforts include the AI Capacity-Building Action Plan for Good and for All, the Global AI Governance Action Plan and the AI+ International Cooperation Initiative, reflecting China's push to build broader international {{5}} and make AI a technology that benefits people worldwide. In July 2026, the APEC Digital and AI Ministerial Meeting adopted a statement known as the Chengdu Statement, aiming to jointly promote digital and AI technologies to {{6}} the Asia-Pacific community. The statement provides an action {{7}} for deepening cooperation in the region in the coming years. Open-source AI expanding access\nLogos of Chinese AI models DeepSeek and Qwen.",
+          "cn": "2023年，中国提出《全球人工智能治理倡议》，阐述了发展向善的AI、尊重相关国际法、使AI发展与人类和平、发展、公平、正义、民主和自由的共同价值相一致的原则，同时发展开放、公平和高效的治理机制。后续努力包括《人工智能能力建设普惠计划》、《全球人工智能治理行动计划》和《“人工智能+”国际合作倡议》，反映了中国推动构建更广泛国际共识、使AI成为造福全世界人民的技术。2026年7月，APEC数字和人工智能部长会议通过了一项名为《成都声明》的声明，旨在共同推动数字和AI技术赋能亚太共同体。该声明为未来几年深化区域合作提供了行动框架。开源AI扩大可及性\n中国AI模型DeepSeek和Qwen的标志。"
+        },
+        {
+          "en": "Practical cooperation is already taking shape, with open-source AI models offering developing economies more {{8}} tools to build their own AI capabilities. In recent years, Chinese-developed open models have gained growing international {{9}}. Malaysia has incorporated DeepSeek into its national-scale sovereign AI {{10}}, while Singapore's AI Singapore program has used Alibaba's Qwen as the foundation to build its latest region model for Southeast Asian languages. According to the AI platform Hugging Face's State of Open Source on Hugging Face: Spring 2026 report, Chinese-developed open-source models account for 41% of global downloads. Empowering public services\nChina's AI-powered MAZU meteorological platform.",
+          "cn": "务实合作已经初具规模，开源AI模型为发展中经济体提供了更负担得起的工具来建设自身的AI能力。近年来，中国开发的开源模型在国际上获得越来越多的采用。马来西亚已将DeepSeek纳入其国家规模的主权AI基础设施，而新加坡的AI Singapore项目已使用阿里巴巴的Qwen作为基础，构建其最新的东南亚语言区域模型。根据AI平台Hugging Face的《Hugging Face开源状况：2026年春季》报告，中国开发的开源模型占全球下载量的41%。赋能公共服务\n中国AI驱动的MAZU气象平台。"
+        },
+        {
+          "en": "Such models are been increasingly applied in public service sectors. \"China's AI-powered MAZU weather early-warning system has been {{11}} in eight countries, including Pakistan, Ethiopia, Sri Lanka and Mongolia, while its cloud-based services have been tested in more than 40 countries,\" reported Pakistan Today. Since 2024, meteorological agencies in more than 40 countries have accessed MAZU through the cloud. With the could-based system, information can be accessed in any city or region across the country at any time, said Sohail Babar Cheema, an expert at the Pakistan Meteorological Department. Warda Aslam, AI expert and professor at the Faculty of Computing & AI at Air University, Islamabad, said such cooperation represents a practical example of how AI can serve as an international public good.",
+          "cn": "此类模型正越来越多地应用于公共服务领域。据《今日巴基斯坦》报道：“中国AI驱动的MAZU天气预警系统已在巴基斯坦、埃塞俄比亚、斯里兰卡和蒙古等八个国家部署，其云服务已在40多个国家测试。”自2024年以来，40多个国家的气象机构已通过云访问MAZU。巴基斯坦气象局专家Sohail Babar Cheema表示，借助云系统，全国任何城市或地区的信息都可以随时访问。伊斯兰堡空军大学计算与AI学院AI专家兼教授Warda Aslam表示，此类合作体现了AI如何作为国际公共产品发挥作用的实际范例。"
+        },
+        {
+          "en": "By sharing early-warning technologies with developing countries, Aslam said, China is helping bridge the technological gap and enabling nations to improve disaster {{12}}, emergency response and long-term climate {{13}}. In Thailand, AI-powered teaching systems are being introduced in schools to support Chinese-language education. Using large language models, the systems provide pronunciation correction and {{14}} exercises, helping address teacher {{15}} and the difficulty of offering individual guidance in large classrooms. Agriculture is another area where AI is helping translate technology into practical benefits. China's Landy AI agricultural model has been applied in Southeast Asian markets, such as Laos and Cambodia.",
+          "cn": "Aslam表示，通过与发展中国家分享预警技术，中国正在帮助弥合技术差距，使各国能够改善灾害防备、应急响应和长期气候适应能力。在泰国，AI驱动的教学系统正被引入学校以支持中文教育。这些系统使用大型语言模型提供发音纠正和个性化练习，帮助解决教师短缺和大课堂中难以提供个别指导的问题。农业是AI帮助将技术转化为实际效益的另一个领域。中国的Landy AI农业模型已在老挝和柬埔寨等东南亚市场应用。"
+        },
+        {
+          "en": "By combining information on soil conditions, farmland location and weather, the system can {{16}} which crops are suitable for a particular plot and {{17}} reports to help farmers make planting decisions. The Shenzhen International Exchange Center, the main {{18}} for APEC 2026, Shenzhen, south China's Guangdong Province, November 9, 2026. As the host of APEC 2026, China is placing AI and the digital economy among the core priorities for regional discussion. The meeting will be held on November 18 and 19, bringing together leaders to discuss the region's future development.",
+          "cn": "通过结合土壤条件、农田位置和天气信息，该系统可以评估特定地块适合种植哪些作物，并生成报告帮助农民做出种植决策。2026年11月9日，中国广东省深圳市的深圳国际交流中心，这是2026年APEC的主会场。作为2026年APEC的主办方，中国正将AI和数字经济列为区域讨论的核心优先事项。会议将于11月18日至19日举行，汇聚领导人讨论该地区的未来发展。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "accessible",
+          "hint": "adj. 可获得的；易接近的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "inclusive",
+          "hint": "adj. 包容的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "priorities",
+          "hint": "n. 优先事项",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "narrowing",
+          "hint": "v. 缩小",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "consensus",
+          "hint": "n. 共识",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "empower",
+          "hint": "v. 赋能",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "framework",
+          "hint": "n. 框架",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "affordable",
+          "hint": "adj. 负担得起的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "adoption",
+          "hint": "n. 采用",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "deployed",
+          "hint": "v. 部署",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "preparedness",
+          "hint": "n. 防备状态",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "adaptation",
+          "hint": "n. 适应",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "personalized",
+          "hint": "adj. 个性化的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "shortages",
+          "hint": "n. 短缺",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "assess",
+          "hint": "v. 评估",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "generate",
+          "hint": "v. 生成",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "venue",
+          "hint": "n. 会场；举办地",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Artificial intelligence (AI) is creating new opportunities for economic growth and regional cooperation across the Asia-Pacific. As the region prepares for the 2026 APEC Economic Leaders' Meeting in Shenzhen, south China's Guangdong Province, making AI more accessible, inclusive and beneficial to all has become a key priority.\nUnder the theme \"Building an Asia-Pacific Community to Prosper Together,\" the 2026 APEC meeting has set openness, innovation and cooperation as its three priorities. Against this backdrop, inclusive development, narrowing the digital divide and promoting open-source technologies are becoming important themes in regional AI cooperation.\nChina, as a major AI power, has been playing an active role in global AI governance and international cooperation.\nIn 2023, it proposed the Global AI Governance Initiative, outlining the principle of developing AI for good, respecting the relevant international laws and aligning AI's development with humanity's common values of peace, development, equity, justice, democracy and freedom, while developing open, fair and efficient governing mechanisms. Subsequent efforts include the AI Capacity-Building Action Plan for Good and for All, the Global AI Governance Action Plan and the AI+ International Cooperation Initiative, reflecting China's push to build broader international consensus and make AI a technology that benefits people worldwide.\nIn July 2026, the APEC Digital and AI Ministerial Meeting adopted a statement known as the Chengdu Statement, aiming to jointly promote digital and AI technologies to empower the Asia-Pacific community. The statement provides an action framework for deepening cooperation in the region in the coming years.\nOpen-source AI expanding access\nLogos of Chinese AI models DeepSeek and Qwen. \nPractical cooperation is already taking shape, with open-source AI models offering developing economies more affordable tools to build their own AI capabilities.\nIn recent years, Chinese-developed open models have gained growing international adoption. Malaysia has incorporated DeepSeek into its national-scale sovereign AI infrastructure, while Singapore's AI Singapore program has used Alibaba's Qwen as the foundation to build its latest region model for Southeast Asian languages.\nAccording to the AI platform Hugging Face's State of Open Source on Hugging Face: Spring 2026 report, Chinese-developed open-source models account for 41% of global downloads.\nEmpowering public services\nChina's AI-powered MAZU meteorological platform. \nSuch models are been increasingly applied in public service sectors.\n\"China's AI-powered MAZU weather early-warning system has been deployed in eight countries, including Pakistan, Ethiopia, Sri Lanka and Mongolia, while its cloud-based services have been tested in more than 40 countries,\" reported Pakistan Today.\nSince 2024, meteorological agencies in more than 40 countries have accessed MAZU through the cloud.\nWith the could-based system, information can be accessed in any city or region across the country at any time, said Sohail Babar Cheema, an expert at the Pakistan Meteorological Department.\nWarda Aslam, AI expert and professor at the Faculty of Computing & AI at Air University, Islamabad, said such cooperation represents a practical example of how AI can serve as an international public good.\nBy sharing early-warning technologies with developing countries, Aslam said, China is helping bridge the technological gap and enabling nations to improve disaster preparedness, emergency response and long-term climate adaptation.\nIn Thailand, AI-powered teaching systems are being introduced in schools to support Chinese-language education. Using large language models, the systems provide pronunciation correction and personalized exercises, helping address teacher shortages and the difficulty of offering individual guidance in large classrooms.\nAgriculture is another area where AI is helping translate technology into practical benefits. China's Landy AI agricultural model has been applied in Southeast Asian markets, such as Laos and Cambodia. By combining information on soil conditions, farmland location and weather, the system can assess which crops are suitable for a particular plot and generate reports to help farmers make planting decisions.\nThe Shenzhen International Exchange Center, the main venue for APEC 2026, Shenzhen, south China's Guangdong Province, November 9, 2026. \nAs the host of APEC 2026, China is placing AI and the digital economy among the core priorities for regional discussion. The meeting will be held on November 18 and 19, bringing together leaders to discuss the region's future development.",
+      "fullTextCn": "人工智能（AI）正在为亚太地区的经济增长和区域合作创造新机遇。随着该地区筹备2026年在中国广东省深圳市举行的APEC经济领导人会议，让AI更加可及、包容并惠及所有人已成为一项关键优先事项。2026年APEC会议以“共建亚太共同体，共促繁荣”为主题，将开放、创新和合作确定为三大优先事项。在此背景下，包容性发展、缩小数字鸿沟和推广开源技术正成为区域AI合作的重要主题。中国作为AI大国，一直在全球AI治理和国际合作中发挥积极作用。\n\n2023年，中国提出《全球人工智能治理倡议》，阐述了发展向善的AI、尊重相关国际法、使AI发展与人类和平、发展、公平、正义、民主和自由的共同价值相一致的原则，同时发展开放、公平和高效的治理机制。后续努力包括《人工智能能力建设普惠计划》、《全球人工智能治理行动计划》和《“人工智能+”国际合作倡议》，反映了中国推动构建更广泛国际共识、使AI成为造福全世界人民的技术。2026年7月，APEC数字和人工智能部长会议通过了一项名为《成都声明》的声明，旨在共同推动数字和AI技术赋能亚太共同体。该声明为未来几年深化区域合作提供了行动框架。开源AI扩大可及性\n中国AI模型DeepSeek和Qwen的标志。\n\n务实合作已经初具规模，开源AI模型为发展中经济体提供了更负担得起的工具来建设自身的AI能力。近年来，中国开发的开源模型在国际上获得越来越多的采用。马来西亚已将DeepSeek纳入其国家规模的主权AI基础设施，而新加坡的AI Singapore项目已使用阿里巴巴的Qwen作为基础，构建其最新的东南亚语言区域模型。根据AI平台Hugging Face的《Hugging Face开源状况：2026年春季》报告，中国开发的开源模型占全球下载量的41%。赋能公共服务\n中国AI驱动的MAZU气象平台。\n\n此类模型正越来越多地应用于公共服务领域。据《今日巴基斯坦》报道：“中国AI驱动的MAZU天气预警系统已在巴基斯坦、埃塞俄比亚、斯里兰卡和蒙古等八个国家部署，其云服务已在40多个国家测试。”自2024年以来，40多个国家的气象机构已通过云访问MAZU。巴基斯坦气象局专家Sohail Babar Cheema表示，借助云系统，全国任何城市或地区的信息都可以随时访问。伊斯兰堡空军大学计算与AI学院AI专家兼教授Warda Aslam表示，此类合作体现了AI如何作为国际公共产品发挥作用的实际范例。\n\nAslam表示，通过与发展中国家分享预警技术，中国正在帮助弥合技术差距，使各国能够改善灾害防备、应急响应和长期气候适应能力。在泰国，AI驱动的教学系统正被引入学校以支持中文教育。这些系统使用大型语言模型提供发音纠正和个性化练习，帮助解决教师短缺和大课堂中难以提供个别指导的问题。农业是AI帮助将技术转化为实际效益的另一个领域。中国的Landy AI农业模型已在老挝和柬埔寨等东南亚市场应用。\n\n通过结合土壤条件、农田位置和天气信息，该系统可以评估特定地块适合种植哪些作物，并生成报告帮助农民做出种植决策。2026年11月9日，中国广东省深圳市的深圳国际交流中心，这是2026年APEC的主会场。作为2026年APEC的主办方，中国正将AI和数字经济列为区域讨论的核心优先事项。会议将于11月18日至19日举行，汇聚领导人讨论该地区的未来发展。"
+    },
+    {
+      "id": 5,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-13/The-Microsoft-outage-China-barely-felt-A-lesson-on-data-sovereignty-1S2ri8aDEgo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "The Microsoft outage China barely felt: A lesson on data sovereignty",
+      "titleCn": "微软宕机中国几乎无感：数据主权的一课",
+      "summary": "The Microsoft outage China barely felt: A lesson on data sovereignty",
+      "summaryCn": "微软全球服务中断影响多国，但中国因数据本地化法律和独立运营的云服务而基本未受影响，凸显数据主权的重要性，但也提醒集中化风险。",
+      "wordCount": 566,
+      "paragraphs": [
+        {
+          "en": "From around 4.17 p.m. UTC on Thursday, the US tech giant's services including Outlook, Teams, Exchange Online, SharePoint, OneDrive and Copilot, were {{0}} for more than 10 hours. The disruption reached at least 74 countries, with Outlook complaints on Downdetector – a third-party outage-monitoring platform that {{1}} user reports – peaking near 140,000. The damage was heavily {{2}} in the Americas, Europe and Australia. Governments didn't treat it as a purely private-sector issue.",
+          "cn": "从周四UTC时间下午4：17左右开始，这家美国科技巨头的服务，包括Outlook、Teams、Exchange Online、SharePoint、OneDrive和Copilot，性能下降超过10小时。中断波及至少74个国家，Downdetector（一个汇总用户报告的第三方宕机监测平台）上的Outlook投诉峰值接近14万。损害主要集中在美洲、欧洲和澳大利亚。各国政府并未将其视为纯粹的私营部门问题。"
+        },
+        {
+          "en": "Germany's federal cybersecurity authority, BSI, said it was in contact with Microsoft and that \"numerous companies\" had been cut off from core cloud services. Australia's Home Affairs Minister Tony Burke said he had {{3}} a mechanism requiring Microsoft to {{4}} the country's recovery, after both the Australian Federal Police and the domestic intelligence agency ASIO confirmed they were hit. Japan's government said its shared administrative IT backbone, GSS, was {{5}} forcing some ministries back to phone communication. The Philippines' Supreme Court warned that email responses and online transactions would be delayed. China sat in a blank space on that map.",
+          "cn": "德国联邦网络安全局BSI表示，正在与微软联系，并称“众多公司”被切断了核心云服务。澳大利亚内政部长托尼·伯克表示，在澳大利亚联邦警察和国内情报机构ASIO确认受到冲击后，他已启动一项机制，要求微软优先恢复该国服务。日本政府表示，其共享行政IT骨干系统GSS中断，迫使一些部门恢复使用电话通信。菲律宾最高法院警告称，电子邮件回复和在线交易将延迟。中国则在那张地图上处于空白区域。"
+        },
+        {
+          "en": "Multinationals in Shanghai on Microsoft's global platform were hit, as were Chinese exporters whose partners live on Outlook. Some foreign firms and foreign-related personnel in China using the global version were still affected. But the broader country didn't blink. Microsoft 365 in the Chinese mainland isn't run by Microsoft. It's licensed to 21Vianet – a Chinese data center and cloud provider, which runs a physically and logically {{6}} instance inside the country.",
+          "cn": "上海使用微软全球平台的跨国公司受到了影响，那些合作伙伴依赖Outlook的中国出口商也受到了影响。一些在华使用全球版的外国公司和涉外人员仍受到影响。但更广泛的中国并未动摇。中国大陆的Microsoft 365并非由微软运营，而是授权给世纪互联——一家中国数据中心和云服务提供商，其在国内运行一个物理和逻辑隔离的实例。"
+        },
+        {
+          "en": "Accounts hosted by 21Vianet are kept separate from Microsoft’s global cloud, so they weren't caught up in the global failure. Government agencies and state-owned enterprises have been actively {{7}} to domastic services – WPS office suite, DingTalk enterprise collaboration platform, WeCom for internal communication and customer contact, and Feishu, an integrated collaboration platform for documents, meetings, tasks and management – with many replacements due by 2027. So an incident at Microsoft's headquarters in Redmond doesn't {{8}} a national incident in China. The legal {{9}}\nChina's strict data laws forced data and operations onshore, making cross-border transfers {{10}} rather than default, subject to security {{11}}, {{12}} or standard contract. Over the past decade, China has built a legal {{13}} through the Cybersecurity Law, Data Security Law and Personal Information Protection Law.",
+          "cn": "由世纪互联托管的账户与微软全球云保持分离，因此未卷入全球故障。政府机构和国有企业一直在积极迁移到国内服务——WPS办公套件、钉钉企业协作平台、用于内部沟通和客户联系的企业微信，以及集成文档、会议、任务和管理的协作平台飞书——许多替换计划在2027年前完成。因此，微软雷德蒙德总部的事故在中国不构成国家事件。法律架构：中国严格的数据法律强制数据和运营在岸，使跨境传输成为有条件而非默认，需经过安全评估、认证或标准合同。过去十年，中国通过《网络安全法》、《数据安全法》和《个人信息保护法》建立了法律框架。"
+        },
+        {
+          "en": "In practice, this means data is protected according to how sensitive it is, operators of key infrastructure face extra {{14}}, and sending data abroad is not the default. Companies must first pass a security review, obtain certification or sign standard contracts. The goal isn't to switch off the internet but to make the legal and technical basis of connectivity a matter of {{15}} choice. The limits of {{16}}\nBut the immunity is partial and should not be {{17}}. The underlying risk – extreme {{18}} in a handful of massive cloud providers – applies equally to Chinese services like Alibaba Cloud, Huawei Cloud and Tencent Cloud.",
+          "cn": "在实践中，这意味着数据根据其敏感程度受到保护，关键基础设施运营者面临额外保障，向国外发送数据不是默认选项。公司必须首先通过安全审查、获得认证或签署标准合同。目标不是关闭互联网，而是使连接的法律和技术基础成为主权选择的问题。免疫的局限性：但这种免疫是部分的，不应被神话化。潜在风险——极端集中于少数大型云提供商——同样适用于阿里云、华为云和腾讯云等中国服务。"
+        },
+        {
+          "en": "That is the real takeaway here. True digital sovereignty is not {{19}}. An isolated stack can fail alone, quietly, with no external {{20}}. What matters is having an exit startegy: data you can pack up and move, {{21}} standards, contractual rights to audit and migrate, and {{22}} disclosure when systems go down. The outage proved that putting all your eggs in one basket comes at a cost.",
+          "cn": "这才是真正的要点。真正的数字主权不是自给自足。一个孤立的堆栈可能独自失败，悄无声息，没有外部审查。重要的是要有退出策略：可以打包迁移的数据、可互操作的标准、审计和迁移的合同权利，以及系统宕机时的强制披露。这次宕机证明，把所有鸡蛋放在一个篮子里是有代价的。"
+        },
+        {
+          "en": "China is trying to strike a balance between staying open to the world without ceding its national cyber sovereignty.",
+          "cn": "中国正试图在保持对世界开放与不放弃国家网络主权之间取得平衡。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "degraded",
+          "hint": "v. 降级，性能下降",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "aggregates",
+          "hint": "v. 汇总，聚集",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "concentrated",
+          "hint": "adj. 集中的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "activated",
+          "hint": "v. 激活，启动",
+          "difficulty": "easy"
+        },
+        {
+          "id": 4,
+          "answer": "prioritize",
+          "hint": "v. 优先处理",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "disrupted",
+          "hint": "v. 中断，扰乱",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "isolated",
+          "hint": "adj. 隔离的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "migrating",
+          "hint": "v. 迁移",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "constitute",
+          "hint": "v. 构成",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "architecture",
+          "hint": "n. 架构",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "conditional",
+          "hint": "adj. 有条件的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "assessment",
+          "hint": "n. 评估",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "certification",
+          "hint": "n. 认证",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "framework",
+          "hint": "n. 框架",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "safeguards",
+          "hint": "n. 保障措施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "sovereign",
+          "hint": "adj. 主权的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "immunity",
+          "hint": "n. 免疫，豁免",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "mythologized",
+          "hint": "v. 神话化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "concentration",
+          "hint": "n. 集中",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "autarky",
+          "hint": "n. 自给自足",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "scrutiny",
+          "hint": "n. 审查，监督",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "interoperable",
+          "hint": "adj. 可互操作的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "mandatory",
+          "hint": "adj. 强制性的",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "From around 4.17 p.m. UTC on Thursday, the US tech giant's services including Outlook, Teams, Exchange Online, SharePoint, OneDrive and Copilot, were degraded for more than 10 hours. The disruption reached at least 74 countries, with Outlook complaints on Downdetector – a third-party outage-monitoring platform that aggregates user reports – peaking near 140,000.\nThe damage was heavily concentrated in the Americas, Europe and Australia. Governments didn't treat it as a purely private-sector issue. Germany's federal cybersecurity authority, BSI, said it was in contact with Microsoft and that \"numerous companies\" had been cut off from core cloud services. Australia's Home Affairs Minister Tony Burke said he had activated a mechanism requiring Microsoft to prioritize the country's recovery, after both the Australian Federal Police and the domestic intelligence agency ASIO confirmed they were hit. Japan's government said its shared administrative IT backbone, GSS, was disrupted forcing some ministries back to phone communication. The Philippines' Supreme Court warned that email responses and online transactions would be delayed.\nChina sat in a blank space on that map.\nMultinationals in Shanghai on Microsoft's global platform were hit, as were Chinese exporters whose partners live on Outlook. Some foreign firms and foreign-related personnel in China using the global version were still affected. But the broader country didn't blink.\nMicrosoft 365 in the Chinese mainland isn't run by Microsoft. It's licensed to 21Vianet – a Chinese data center and cloud provider, which runs a physically and logically isolated instance inside the country. Accounts hosted by 21Vianet are kept separate from Microsoft’s global cloud, so they weren't caught up in the global failure.\nGovernment agencies and state-owned enterprises have been actively migrating to domastic services – WPS office suite, DingTalk enterprise collaboration platform, WeCom for internal communication and customer contact, and Feishu, an integrated collaboration platform for documents, meetings, tasks and management – with many replacements due by 2027. So an incident at Microsoft's headquarters in Redmond doesn't constitute a national incident in China.\nThe legal architecture\nChina's strict data laws forced data and operations onshore, making cross-border transfers conditional rather than default, subject to security assessment, certification or standard contract.\nOver the past decade, China has built a legal framework through the Cybersecurity Law, Data Security Law and Personal Information Protection Law. In practice, this means data is protected according to how sensitive it is, operators of key infrastructure face extra safeguards, and sending data abroad is not the default. Companies must first pass a security review, obtain certification or sign standard contracts.\nThe goal isn't to switch off the internet but to make the legal and technical basis of connectivity a matter of sovereign choice.\nThe limits of immunity\nBut the immunity is partial and should not be mythologized. The underlying risk – extreme concentration in a handful of massive cloud providers – applies equally to Chinese services like Alibaba Cloud, Huawei Cloud and Tencent Cloud.\nThat is the real takeaway here. True digital sovereignty is not autarky. An isolated stack can fail alone, quietly, with no external scrutiny. What matters is having an exit startegy: data you can pack up and move, interoperable standards, contractual rights to audit and migrate, and mandatory disclosure when systems go down.\nThe outage proved that putting all your eggs in one basket comes at a cost. China is trying to strike a balance between staying open to the world without ceding its national cyber sovereignty.",
+      "fullTextCn": "从周四UTC时间下午4：17左右开始，这家美国科技巨头的服务，包括Outlook、Teams、Exchange Online、SharePoint、OneDrive和Copilot，性能下降超过10小时。中断波及至少74个国家，Downdetector（一个汇总用户报告的第三方宕机监测平台）上的Outlook投诉峰值接近14万。损害主要集中在美洲、欧洲和澳大利亚。各国政府并未将其视为纯粹的私营部门问题。\n\n德国联邦网络安全局BSI表示，正在与微软联系，并称“众多公司”被切断了核心云服务。澳大利亚内政部长托尼·伯克表示，在澳大利亚联邦警察和国内情报机构ASIO确认受到冲击后，他已启动一项机制，要求微软优先恢复该国服务。日本政府表示，其共享行政IT骨干系统GSS中断，迫使一些部门恢复使用电话通信。菲律宾最高法院警告称，电子邮件回复和在线交易将延迟。中国则在那张地图上处于空白区域。\n\n上海使用微软全球平台的跨国公司受到了影响，那些合作伙伴依赖Outlook的中国出口商也受到了影响。一些在华使用全球版的外国公司和涉外人员仍受到影响。但更广泛的中国并未动摇。中国大陆的Microsoft 365并非由微软运营，而是授权给世纪互联——一家中国数据中心和云服务提供商，其在国内运行一个物理和逻辑隔离的实例。\n\n由世纪互联托管的账户与微软全球云保持分离，因此未卷入全球故障。政府机构和国有企业一直在积极迁移到国内服务——WPS办公套件、钉钉企业协作平台、用于内部沟通和客户联系的企业微信，以及集成文档、会议、任务和管理的协作平台飞书——许多替换计划在2027年前完成。因此，微软雷德蒙德总部的事故在中国不构成国家事件。法律架构：中国严格的数据法律强制数据和运营在岸，使跨境传输成为有条件而非默认，需经过安全评估、认证或标准合同。过去十年，中国通过《网络安全法》、《数据安全法》和《个人信息保护法》建立了法律框架。\n\n在实践中，这意味着数据根据其敏感程度受到保护，关键基础设施运营者面临额外保障，向国外发送数据不是默认选项。公司必须首先通过安全审查、获得认证或签署标准合同。目标不是关闭互联网，而是使连接的法律和技术基础成为主权选择的问题。免疫的局限性：但这种免疫是部分的，不应被神话化。潜在风险——极端集中于少数大型云提供商——同样适用于阿里云、华为云和腾讯云等中国服务。\n\n这才是真正的要点。真正的数字主权不是自给自足。一个孤立的堆栈可能独自失败，悄无声息，没有外部审查。重要的是要有退出策略：可以打包迁移的数据、可互操作的标准、审计和迁移的合同权利，以及系统宕机时的强制披露。这次宕机证明，把所有鸡蛋放在一个篮子里是有代价的。\n\n中国正试图在保持对世界开放与不放弃国家网络主权之间取得平衡。"
+    }
+  ]
+}

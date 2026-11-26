@@ -1,0 +1,778 @@
+{
+  "date": "2026-11-18",
+  "articles": [
+    {
+      "id": 1,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-16/Why-we-must-use-antibiotics-wisely-1S7O78aRVf2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Why we must use antibiotics wisely",
+      "titleCn": "为什么我们必须明智地使用抗生素",
+      "summary": "Why we must use antibiotics wisely",
+      "summaryCn": "抗生素滥用导致抗菌素耐药性（AMR）威胁全球健康，需要个人、医生和政府的共同行动来明智使用抗生素，保护现代医学的基石。",
+      "wordCount": 1024,
+      "paragraphs": [
+        {
+          "en": "A sore throat, a runny nose or an earache can {{0}} an ordinary day. When {{1}} become uncomfortable, some people reach for antibiotics left over from a previous illness, believing they will recover faster. But antibiotics do not work against every infection. If a sore throat is caused by a virus, for example, an antibiotic will not treat the cause. Unnecessary or incorrect use can have {{2}} far beyond one episode of illness.",
+          "cn": "喉咙痛、流鼻涕或耳痛会打乱普通的一天。当症状变得不舒服时，有些人会使用之前生病剩下的抗生素，认为这样能更快康复。但抗生素并非对所有感染都有效。例如，如果喉咙痛是由病毒引起的，抗生素就无法治疗病因。不必要的或错误的使用可能带来的后果远不止一次疾病。"
+        },
+        {
+          "en": "This everyday decision is connected to a much larger threat: antimicrobial {{3}} (AMR). As microorganisms become resistant to medicines designed to treat them, infections can become harder to cure. Antibiotic resistance is a major part of this challenge, {{4}} medicines on which modern healthcare depends. That is why World AMR Awareness Week, observed from November 18 to 24, matters to everyone. Its 2026 theme, \"One Health, one action: Prevent AMR now,\" calls for {{5}} action across human, animal and environmental health.",
+          "cn": "这个日常决定与一个更大的威胁相关：抗菌素耐药性（AMR）。随着微生物对用于治疗它们的药物产生耐药性，感染可能变得更难治愈。抗生素耐药性是这一挑战的主要部分，威胁着现代医疗所依赖的药物。这就是为什么11月18日至24日的世界提高抗微生物药物认识周对每个人都重要。其2026年主题“同一健康，同一行动：立即预防AMR”呼吁在人类、动物和环境健康领域采取协调行动。"
+        },
+        {
+          "en": "World Children's Day on November 20, which falls during this week, reminds us that protecting children’s health also means using antibiotics wisely so that effective medicines remain available for future generations. A mother cares for her sick daughter and gives her medicine. A threat that concerns us all\nA 2024 study published in The Lancet {{6}} that bacterial AMR was directly responsible for 1.14 million deaths worldwide in 2021. According to the study's baseline estimate, bacterial AMR could directly cause a {{7}} total of 39.1 million deaths between 2025 to 2050. These figures are a warning, not an {{8}} future.",
+          "cn": "11月20日的世界儿童日恰逢这一周，提醒我们保护儿童健康也意味着明智地使用抗生素，以便为后代保留有效的药物。一位母亲照顾生病的女儿并给她服药。一个关乎我们所有人的威胁。2024年发表在《柳叶刀》上的一项研究估计，2021年细菌AMR直接导致全球114万人死亡。根据该研究的基线估计，2025年至2050年间，细菌AMR可能直接导致累计3910万人死亡。这些数字是一个警告，而非不可避免的未来。"
+        },
+        {
+          "en": "AMR threatens more than the treatment of infections. Antibiotics help make major surgery, organ {{9}}, cancer treatment and intensive care safer. If effective antibiotics become harder to use, many areas of modern medicine could face greater risks. Not every sore throat needs an antibiotic\nIn ear, nose and throat practice, one of the most common conversations is explaining why an antibiotic may not be necessary. Most acute sore throats are caused by viruses, against which antibiotics have no effect.",
+          "cn": "AMR威胁的不仅仅是感染的治疗。抗生素有助于使大手术、器官移植、癌症治疗和重症监护更安全。如果有效抗生素变得更难使用，现代医学的许多领域可能面临更大风险。并非每个喉咙痛都需要抗生素。在耳鼻喉科实践中，最常见的对话之一就是解释为什么可能不需要抗生素。大多数急性喉咙痛由病毒引起，抗生素对其无效。"
+        },
+        {
+          "en": "Some are caused by bacteria, such as group A streptococcus, and may require treatment. A doctor's assessment and, when {{11}}, testing can help identify the likely cause. Bacteria that are resistant to antibiotics. Sinusitis is another common source of misunderstanding. Yellow or green nasal discharge does not automatically mean a bacterial infection; mucus color alone cannot establish the cause.",
+          "cn": "有些由细菌引起，例如A组链球菌，可能需要治疗。医生的评估以及适当的检测可以帮助确定可能的病因。对抗生素耐药的细菌。鼻窦炎是另一个常见的误解来源。黄色或绿色鼻涕并不自动意味着细菌感染；仅凭黏液颜色无法确定病因。"
+        },
+        {
+          "en": "The 2025 update of the American Academy of Otolaryngology–Head and Neck Surgery Foundation's adult sinusitis guideline advises clinicians to consider bacterial sinusitis when symptoms {{10}} without improvement for at least 10 days, or worsen after initially getting better. For uncomplicated cases, watchful waiting may be appropriate when follow-up is assured. Ear pain also does not automatically call for oral antibiotics. Treatment depends on the underlying condition, not the symptom alone. When a patient asks for antibiotics, simply saying \"You don't need them\" is rarely enough.",
+          "cn": "2025年美国耳鼻咽喉头颈外科学会成人鼻窦炎指南更新建议临床医生在症状持续至少10天无改善，或初期好转后加重时考虑细菌性鼻窦炎。对于无并发症的病例，当确保随访时，观察等待可能是合适的。耳痛也不自动需要口服抗生素。治疗取决于潜在疾病，而不仅仅是症状。当患者要求抗生素时，简单地说“你不需要”很少足够。"
+        },
+        {
+          "en": "Doctors should explain what the examination suggests, why an antibiotic is unlikely to help, and what can {{12}} the symptoms. Patients also need to know when to return if their condition worsens or fails to improve. Not {{13}} an unnecessary antibiotic is not the same as doing nothing. It is a clinical decision based on likely benefit and risk. Equally, when a bacterial infection requires antibiotics, treatment should not be delayed because of concerns about resistance.",
+          "cn": "医生应解释检查结果提示什么，为什么抗生素不太可能有帮助，以及什么可以缓解症状。患者还需要知道如果病情恶化或没有改善何时复诊。不开不必要的抗生素不等于什么都不做。这是基于可能获益和风险的临床决策。同样，当细菌感染需要抗生素时，不应因担心耐药性而延迟治疗。"
+        },
+        {
+          "en": "The aim is not to avoid antibiotics at all costs, but to use them when they are likely to benefit the patient. Assortment of antibiotic pills and tablets. Patients and doctors share responsibility\nSome patients take antibiotics without medical advice, reuse leftover medicines or share prescriptions. Doctors, too, may feel pressure from limited consultation time, diagnostic uncertainty or patient expectations and prescribe \"just in case.\" Prescribing should instead be guided by clinical evidence, appropriate testing and local resistance data. Hospitals can support responsible use through antimicrobial management, professional education, infection {{14}} and effective infection prevention.",
+          "cn": "目的不是不惜一切代价避免抗生素，而是在可能对患者有益时使用它们。各种抗生素药丸和片剂。患者和医生共同承担责任。一些患者未经医嘱服用抗生素，重复使用剩余药物或共享处方。医生也可能因咨询时间有限、诊断不确定性或患者期望而感到压力，从而“以防万一”地开药。开处方应改为以临床证据、适当检测和当地耐药数据为指导。医院可以通过抗菌药物管理、专业教育、感染监测和有效的感染预防来支持负责任的使用。"
+        },
+        {
+          "en": "Patients should seek professional advice rather than {{15}}, and follow their clinician's instructions when antibiotics are prescribed. Good communication is essential. When patients understand why an antibiotic is unnecessary, they are more likely to accept an alternative treatment plan. Doctors should listen to their concerns, explain decisions in plain language and provide clear follow-up advice. Responsible prescribing should strengthen trust between doctors and patients, not create conflict.",
+          "cn": "患者应寻求专业建议而不是自行用药，并在开具抗生素时遵循临床医生的指示。良好的沟通至关重要。当患者理解为什么不需要抗生素时，他们更可能接受替代治疗方案。医生应倾听他们的担忧，用通俗语言解释决定，并提供明确的随访建议。负责任的处方应加强医患之间的信任，而不是制造冲突。"
+        },
+        {
+          "en": "Why global cooperation matters\nAMR crosses national borders and connects human, animal and environmental health. Resistant microorganisms and resistance genes can spread through direct contact, food, water and inadequately managed waste. The One Health approach recognizes these connections. Reducing unnecessary antimicrobial use in human healthcare, veterinary medicine and agriculture must go hand in hand with vaccination, sanitation, food safety, infection prevention and responsible waste management. No country can tackle AMR alone.",
+          "cn": "为什么全球合作很重要。AMR跨越国界，连接人类、动物和环境健康。耐药微生物和耐药基因可以通过直接接触、食物、水和处理不当的废物传播。“同一健康”方法认识到这些联系。减少人类医疗、兽医和农业中不必要的抗微生物药物使用必须与疫苗接种、环境卫生、食品安全、感染预防和负责任的废物管理齐头并进。没有哪个国家能单独应对AMR。"
+        },
+        {
+          "en": "Governments and researchers need to share surveillance data and scientific knowledge, develop faster diagnostic tests, new medicines and vaccines, and help ensure that effective diagnostics and treatments are {{16}} in lower-resource settings. In May 2026, the World Health Assembly adopted an updated Global Action Plan on Antimicrobial Resistance for 2026–2036, reinforcing the need for coordinated action across sectors. Protecting tomorrow's medicines starts today\nIndividuals can help by not taking antibiotics for a common cold without medical advice. Doctors can prescribe carefully and explain their decisions. Hospitals and governments can invest in prevention, surveillance, research and cooperation.",
+          "cn": "政府和研究人员需要共享监测数据和科学知识，开发更快的诊断测试、新药和疫苗，并帮助确保在资源较少的环境中也能获得有效的诊断和治疗。2026年5月，世界卫生大会通过了2026-2036年更新的抗微生物药物耐药性全球行动计划，强调跨部门协调行动的必要性。保护明天的药物从今天开始。个人可以通过不未经医嘱服用抗生素治疗普通感冒来提供帮助。医生可以谨慎开处方并解释他们的决定。医院和政府可以投资于预防、监测、研究和合作。"
+        },
+        {
+          "en": "Protecting antibiotics does not mean {{17}} treatment from patients who need it. It means using these medicines wisely today so they can continue to save lives tomorrow. The next time a sore throat or runny nose develops, the most useful question may not be, \"Which antibiotic should I take?\" but rather, \"What is causing my symptoms, and what treatment will actually work?\"\nGroup A streptococcus (scanning electron microscope image) \nEditor's note:\nMa Fengjie holds a Doctor of Medicine (M.D.) degree and is a chief physician and chief examining physician at the Institute of Civil Aviation Aircrew Medical Assessment, Civil Aviation Medicine Center of the Civil Aviation Administration of China. He is also a member of the Otorhinolaryngology Group of the Civil Aviation Aircrew Examination and Assessment Expert Committee. His expertise includes the diagnosis and differential diagnosis of ear diseases and hearing-related disorders.",
+          "cn": "保护抗生素并不意味着不给需要它的患者治疗。这意味着今天明智地使用这些药物，以便它们明天能继续拯救生命。下次出现喉咙痛或流鼻涕时，最有用的问题可能不是“我应该吃哪种抗生素？”而是“我的症状是什么引起的，什么治疗才真正有效？”A组链球菌（扫描电子显微镜图像）。编辑注：马凤杰拥有医学博士学位，是中国民用航空局民用航空医学中心民航飞行员医学鉴定所主任医师、主检医师。他还是民航飞行员体检鉴定专家委员会耳鼻咽喉科组成员。他的专业领域包括耳部疾病和听力相关疾病的诊断和鉴别诊断。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "disrupt",
+          "hint": "v. 扰乱",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "symptoms",
+          "hint": "n. 症状",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "consequences",
+          "hint": "n. 后果",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "resistance",
+          "hint": "n. 耐药性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "threatening",
+          "hint": "v. 威胁",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "coordinated",
+          "hint": "adj. 协调的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "estimated",
+          "hint": "v. 估计",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "cumulative",
+          "hint": "adj. 累积的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "inevitable",
+          "hint": "adj. 不可避免的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "transplantation",
+          "hint": "n. 移植",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "persist",
+          "hint": "v. 持续",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "appropriate",
+          "hint": "adj. 适当的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "relieve",
+          "hint": "v. 缓解",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "prescribing",
+          "hint": "v. 开处方",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "surveillance",
+          "hint": "n. 监测",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "self-medicate",
+          "hint": "v. 自行用药",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "accessible",
+          "hint": "adj. 可获得的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "withholding",
+          "hint": "v. 保留",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "A sore throat, a runny nose or an earache can disrupt an ordinary day. When symptoms become uncomfortable, some people reach for antibiotics left over from a previous illness, believing they will recover faster.\nBut antibiotics do not work against every infection. If a sore throat is caused by a virus, for example, an antibiotic will not treat the cause. Unnecessary or incorrect use can have consequences far beyond one episode of illness.\nThis everyday decision is connected to a much larger threat: antimicrobial resistance (AMR). As microorganisms become resistant to medicines designed to treat them, infections can become harder to cure. Antibiotic resistance is a major part of this challenge, threatening medicines on which modern healthcare depends.\nThat is why World AMR Awareness Week, observed from November 18 to 24, matters to everyone. Its 2026 theme, \"One Health, one action: Prevent AMR now,\" calls for coordinated action across human, animal and environmental health.\nWorld Children's Day on November 20, which falls during this week, reminds us that protecting children’s health also means using antibiotics wisely so that effective medicines remain available for future generations.\nA mother cares for her sick daughter and gives her medicine. \nA threat that concerns us all\nA 2024 study published in The Lancet estimated that bacterial AMR was directly responsible for 1.14 million deaths worldwide in 2021. According to the study's baseline estimate, bacterial AMR could directly cause a cumulative total of 39.1 million deaths between 2025 to 2050.\nThese figures are a warning, not an inevitable future. AMR threatens more than the treatment of infections. Antibiotics help make major surgery, organ transplantation, cancer treatment and intensive care safer. If effective antibiotics become harder to use, many areas of modern medicine could face greater risks.\nNot every sore throat needs an antibiotic\nIn ear, nose and throat practice, one of the most common conversations is explaining why an antibiotic may not be necessary.\nMost acute sore throats are caused by viruses, against which antibiotics have no effect. Some are caused by bacteria, such as group A streptococcus, and may require treatment. A doctor's assessment and, when appropriate, testing can help identify the likely cause.\nBacteria that are resistant to antibiotics. \nSinusitis is another common source of misunderstanding. Yellow or green nasal discharge does not automatically mean a bacterial infection; mucus color alone cannot establish the cause. The 2025 update of the American Academy of Otolaryngology–Head and Neck Surgery Foundation's adult sinusitis guideline advises clinicians to consider bacterial sinusitis when symptoms persist without improvement for at least 10 days, or worsen after initially getting better. For uncomplicated cases, watchful waiting may be appropriate when follow-up is assured.\nEar pain also does not automatically call for oral antibiotics. Treatment depends on the underlying condition, not the symptom alone.\nWhen a patient asks for antibiotics, simply saying \"You don't need them\" is rarely enough. Doctors should explain what the examination suggests, why an antibiotic is unlikely to help, and what can relieve the symptoms. Patients also need to know when to return if their condition worsens or fails to improve.\nNot prescribing an unnecessary antibiotic is not the same as doing nothing. It is a clinical decision based on likely benefit and risk. Equally, when a bacterial infection requires antibiotics, treatment should not be delayed because of concerns about resistance. The aim is not to avoid antibiotics at all costs, but to use them when they are likely to benefit the patient.\nAssortment of antibiotic pills and tablets. \nPatients and doctors share responsibility\nSome patients take antibiotics without medical advice, reuse leftover medicines or share prescriptions. Doctors, too, may feel pressure from limited consultation time, diagnostic uncertainty or patient expectations and prescribe \"just in case.\" Prescribing should instead be guided by clinical evidence, appropriate testing and local resistance data.\nHospitals can support responsible use through antimicrobial management, professional education, infection surveillance and effective infection prevention. Patients should seek professional advice rather than self-medicate, and follow their clinician's instructions when antibiotics are prescribed.\nGood communication is essential. When patients understand why an antibiotic is unnecessary, they are more likely to accept an alternative treatment plan. Doctors should listen to their concerns, explain decisions in plain language and provide clear follow-up advice. Responsible prescribing should strengthen trust between doctors and patients, not create conflict.\nWhy global cooperation matters\nAMR crosses national borders and connects human, animal and environmental health. Resistant microorganisms and resistance genes can spread through direct contact, food, water and inadequately managed waste.\nThe One Health approach recognizes these connections. Reducing unnecessary antimicrobial use in human healthcare, veterinary medicine and agriculture must go hand in hand with vaccination, sanitation, food safety, infection prevention and responsible waste management.\nNo country can tackle AMR alone. Governments and researchers need to share surveillance data and scientific knowledge, develop faster diagnostic tests, new medicines and vaccines, and help ensure that effective diagnostics and treatments are accessible in lower-resource settings. In May 2026, the World Health Assembly adopted an updated Global Action Plan on Antimicrobial Resistance for 2026–2036, reinforcing the need for coordinated action across sectors.\nProtecting tomorrow's medicines starts today\nIndividuals can help by not taking antibiotics for a common cold without medical advice. Doctors can prescribe carefully and explain their decisions. Hospitals and governments can invest in prevention, surveillance, research and cooperation.\nProtecting antibiotics does not mean withholding treatment from patients who need it. It means using these medicines wisely today so they can continue to save lives tomorrow.\nThe next time a sore throat or runny nose develops, the most useful question may not be, \"Which antibiotic should I take?\" but rather, \"What is causing my symptoms, and what treatment will actually work?\"\nGroup A streptococcus (scanning electron microscope image) \nEditor's note:\nMa Fengjie holds a Doctor of Medicine (M.D.) degree and is a chief physician and chief examining physician at the Institute of Civil Aviation Aircrew Medical Assessment, Civil Aviation Medicine Center of the Civil Aviation Administration of China. He is also a member of the Otorhinolaryngology Group of the Civil Aviation Aircrew Examination and Assessment Expert Committee. His expertise includes the diagnosis and differential diagnosis of ear diseases and hearing-related disorders.",
+      "fullTextCn": "喉咙痛、流鼻涕或耳痛会打乱普通的一天。当症状变得不舒服时，有些人会使用之前生病剩下的抗生素，认为这样能更快康复。但抗生素并非对所有感染都有效。例如，如果喉咙痛是由病毒引起的，抗生素就无法治疗病因。不必要的或错误的使用可能带来的后果远不止一次疾病。\n\n这个日常决定与一个更大的威胁相关：抗菌素耐药性（AMR）。随着微生物对用于治疗它们的药物产生耐药性，感染可能变得更难治愈。抗生素耐药性是这一挑战的主要部分，威胁着现代医疗所依赖的药物。这就是为什么11月18日至24日的世界提高抗微生物药物认识周对每个人都重要。其2026年主题“同一健康，同一行动：立即预防AMR”呼吁在人类、动物和环境健康领域采取协调行动。\n\n11月20日的世界儿童日恰逢这一周，提醒我们保护儿童健康也意味着明智地使用抗生素，以便为后代保留有效的药物。一位母亲照顾生病的女儿并给她服药。一个关乎我们所有人的威胁。2024年发表在《柳叶刀》上的一项研究估计，2021年细菌AMR直接导致全球114万人死亡。根据该研究的基线估计，2025年至2050年间，细菌AMR可能直接导致累计3910万人死亡。这些数字是一个警告，而非不可避免的未来。\n\nAMR威胁的不仅仅是感染的治疗。抗生素有助于使大手术、器官移植、癌症治疗和重症监护更安全。如果有效抗生素变得更难使用，现代医学的许多领域可能面临更大风险。并非每个喉咙痛都需要抗生素。在耳鼻喉科实践中，最常见的对话之一就是解释为什么可能不需要抗生素。大多数急性喉咙痛由病毒引起，抗生素对其无效。\n\n有些由细菌引起，例如A组链球菌，可能需要治疗。医生的评估以及适当的检测可以帮助确定可能的病因。对抗生素耐药的细菌。鼻窦炎是另一个常见的误解来源。黄色或绿色鼻涕并不自动意味着细菌感染；仅凭黏液颜色无法确定病因。\n\n2025年美国耳鼻咽喉头颈外科学会成人鼻窦炎指南更新建议临床医生在症状持续至少10天无改善，或初期好转后加重时考虑细菌性鼻窦炎。对于无并发症的病例，当确保随访时，观察等待可能是合适的。耳痛也不自动需要口服抗生素。治疗取决于潜在疾病，而不仅仅是症状。当患者要求抗生素时，简单地说“你不需要”很少足够。\n\n医生应解释检查结果提示什么，为什么抗生素不太可能有帮助，以及什么可以缓解症状。患者还需要知道如果病情恶化或没有改善何时复诊。不开不必要的抗生素不等于什么都不做。这是基于可能获益和风险的临床决策。同样，当细菌感染需要抗生素时，不应因担心耐药性而延迟治疗。\n\n目的不是不惜一切代价避免抗生素，而是在可能对患者有益时使用它们。各种抗生素药丸和片剂。患者和医生共同承担责任。一些患者未经医嘱服用抗生素，重复使用剩余药物或共享处方。医生也可能因咨询时间有限、诊断不确定性或患者期望而感到压力，从而“以防万一”地开药。开处方应改为以临床证据、适当检测和当地耐药数据为指导。医院可以通过抗菌药物管理、专业教育、感染监测和有效的感染预防来支持负责任的使用。\n\n患者应寻求专业建议而不是自行用药，并在开具抗生素时遵循临床医生的指示。良好的沟通至关重要。当患者理解为什么不需要抗生素时，他们更可能接受替代治疗方案。医生应倾听他们的担忧，用通俗语言解释决定，并提供明确的随访建议。负责任的处方应加强医患之间的信任，而不是制造冲突。\n\n为什么全球合作很重要。AMR跨越国界，连接人类、动物和环境健康。耐药微生物和耐药基因可以通过直接接触、食物、水和处理不当的废物传播。“同一健康”方法认识到这些联系。减少人类医疗、兽医和农业中不必要的抗微生物药物使用必须与疫苗接种、环境卫生、食品安全、感染预防和负责任的废物管理齐头并进。没有哪个国家能单独应对AMR。\n\n政府和研究人员需要共享监测数据和科学知识，开发更快的诊断测试、新药和疫苗，并帮助确保在资源较少的环境中也能获得有效的诊断和治疗。2026年5月，世界卫生大会通过了2026-2036年更新的抗微生物药物耐药性全球行动计划，强调跨部门协调行动的必要性。保护明天的药物从今天开始。个人可以通过不未经医嘱服用抗生素治疗普通感冒来提供帮助。医生可以谨慎开处方并解释他们的决定。医院和政府可以投资于预防、监测、研究和合作。\n\n保护抗生素并不意味着不给需要它的患者治疗。这意味着今天明智地使用这些药物，以便它们明天能继续拯救生命。下次出现喉咙痛或流鼻涕时，最有用的问题可能不是“我应该吃哪种抗生素？”而是“我的症状是什么引起的，什么治疗才真正有效？”A组链球菌（扫描电子显微镜图像）。编辑注：马凤杰拥有医学博士学位，是中国民用航空局民用航空医学中心民航飞行员医学鉴定所主任医师、主检医师。他还是民航飞行员体检鉴定专家委员会耳鼻咽喉科组成员。他的专业领域包括耳部疾病和听力相关疾病的诊断和鉴别诊断。"
+    },
+    {
+      "id": 2,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-10/How-BRICS-youth-bring-the-Global-Civilization-Initiative-to-life-1RXC5ck2KiY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "Young people across BRICS bring Global Civilization Initiative to life",
+      "titleCn": "金砖国家青年让全球文明倡议焕发生机",
+      "summary": "From exploring historical neighborhoods to exchanging ideas on technology and cultural innovation, the exchanges not only reflected the GCI's emphasis on dialogue and mutual learning among civilizations, but highlighted the role young people can play in keeping cultural heritage alive and finding new ways to share it across borders.",
+      "summaryCn": "金砖国家青年代表齐聚福州，探讨如何借助数字技术传承和创新文化遗产，促进跨文化交流与文明互鉴。",
+      "wordCount": 809,
+      "paragraphs": [
+        {
+          "en": "Representatives from BRICS countries gather to take part in the International Youth Talk on the Global Civilization Initiative, Fuzhou City, southeast China's Fujian Province, November 10, 2026. In an old riverside building in Fuzhou, southeast China's Fujian Province, young representatives from BRICS countries gathered on Tuesday to discuss how cultural {{2}} can be {{0}}, {{1}} and shared across borders. The event, titled the International Youth Talk on the Global Civilization Initiative, was held at Zhuzifang Fund Harbor, a historic area where traditional buildings have been preserved and {{3}} for modern use. Organized by the China International Youth Exchange Center and hosted by the Fuzhou Youth Federation, the event aimed to promote cross-cultural understanding and encourage young people from different countries to exchange ideas on preserving traditional culture and exploring new forms of cultural expression through digital technologies. At the event, Zhang Afeng, vice president of the Fujian Youth Federation, highlighted the Global Civilization Initiative (GCI) and its relevance to exchanges among young people.",
+          "cn": "2026年11月10日，来自金砖国家的代表齐聚中国东南部福建省福州市，参加全球文明倡议国际青年对话会。在福州一座古老的河畔建筑中，来自金砖国家的青年代表于周二相聚，探讨如何保护、重新诠释和跨境共享文化遗产。这场名为“全球文明倡议国际青年对话会”的活动在朱紫坊基金港举行，这是一个历史悠久的区域，传统建筑得到保护和翻新，用于现代用途。活动由中国国际青年交流中心组织、福州市青年联合会主办，旨在促进跨文化理解，鼓励来自不同国家的青年就保护传统文化、通过数字技术探索文化表达新形式交流想法。活动中，福建省青年联合会副主席张阿峰强调了全球文明倡议（GCI）及其与青年交流的相关性。"
+        },
+        {
+          "en": "Proposed by China in March 2023, the GCI calls for respect for the {{4}} of civilizations, the promotion of common values of humanity, the importance of the {{5}} and {{6}} of civilizations, and stronger international people-to-people exchanges and {{7}}. Zhang said Fujian has maintained close ties with BRICS countries, with cooperation {{8}} beyond trade to areas including healthcare, education, the marine economy and the digital economy. In 2025, trade between Fujian and BRICS countries accounted for nearly one-fifth of the province's total foreign trade, he noted. He said the Fujian Youth Federation would continue to build platforms for exchanges between Chinese and foreign young people, encouraging them to use technology as a bridge and civilization as a {{9}} to deepen {{10}} understanding and pursue shared development. Representatives from BRICS countries pose for a group photo after the International Youth Talk on the Global Civilization Initiative, Fuzhou City, southeast China's Fujian Province, November 10, 2026.",
+          "cn": "全球文明倡议由中国于2023年3月提出，呼吁尊重文明多样性，弘扬全人类共同价值，重视文明的传承与创新，并加强国际人文交流与合作。张阿峰表示，福建与金砖国家保持着密切联系，合作已超越贸易，扩展到医疗、教育、海洋经济和数字经济等领域。他指出，2025年，福建与金砖国家的贸易额占全省外贸总额的近五分之一。他表示，福建省青年联合会将继续搭建中外青年交流平台，鼓励他们以技术为桥梁、以文明为纽带，加深相互理解，追求共同发展。2026年11月10日，来自金砖国家的代表在全球文明倡议国际青年对话会后合影留念，地点位于中国东南部福建省福州市。"
+        },
+        {
+          "en": "Dong Lin, an {{11}} professor at Fujian Polytechnic Normal University, introduced the young participants to Fujian's history and cultural traditions, including folk songs and traditional woodcarving. The discussion that followed focused on two questions: how young people can pass on traditional culture and bring it into {{12}} life, and how digital technologies can create new possibilities for cultural expression. Participants shared examples of using digital supply chains to bring traditional tea culture to modern consumers, as well as applying digital avatars and artificial intelligence to make traditional lacquerware more {{13}} and {{14}}. Others discussed the {{15}} of generative AI and augmented reality to lower barriers to cultural participation and enable people from different backgrounds to take part in cultural creation. The discussions highlighted how young people can serve not only as {{16}} of traditional culture but also as drivers of its {{17}}.",
+          "cn": "福建技术师范学院副教授董林向青年参与者介绍了福建的历史和文化传统，包括民歌和传统木雕。随后的讨论聚焦两个问题：青年如何传承传统文化并将其带入当代生活，以及数字技术如何为文化表达创造新的可能性。参与者分享了利用数字供应链将传统茶文化带给现代消费者的例子，以及应用数字虚拟人和人工智能使传统漆器更易接触和互动。其他人讨论了生成式人工智能和增强现实在降低文化参与门槛、使不同背景的人参与文化创作方面的潜力。讨论强调了青年不仅可以作为传统文化的继承者，还可以作为其复兴的推动者。"
+        },
+        {
+          "en": "Through technology, creative approaches and cross-cultural collaboration, they can help give cultural heritage new forms of expression and make it more relevant to contemporary audiences. Several young people from BRICS countries take selfies in the Yantai Hill Historic and Cultural District, Fuzhou City, southeast China's Fujian Province, November 9, 2026. /China International Youth Exchange Center\nThe cultural exchange activities also extended beyond the discussion venue. A day earlier, the young representatives visited Yantai Hill Historic and Cultural District, known for its blend of Chinese and Western architectural styles. They learned about efforts to preserve and renew its historic buildings, pass on architectural heritage and integrate cultural tourism into urban development.",
+          "cn": "通过技术、创意方法和跨文化合作，他们可以帮助赋予文化遗产新的表达形式，使其更贴近当代受众。2026年11月9日，几位来自金砖国家的青年在中国东南部福建省福州市烟台山历史文化街区自拍。/中国国际青年交流中心\n文化交流活动还延伸到了讨论会场之外。一天前，青年代表参观了以中西建筑风格融合而闻名的烟台山历史文化街区。他们了解了保护和更新历史建筑、传承建筑遗产以及将文化旅游融入城市发展的努力。"
+        },
+        {
+          "en": "Marwan Elsafty, COO at Grecem, a tech company in Egypt, told CGTN that cultural exchanges help people from different countries find common ground despite differences in their ways of thinking. “We have some differences, so we need to find the middle ground. How we can find the middle ground? Just by cultural exchange,” he said. For Anastasia Semenova, CEO of Russian video technology company ViSaver LLC, exchanges are important because people living in their own countries may not fully understand how others view the same events, opportunities or technologies.",
+          "cn": "埃及科技公司Grecem首席运营官马尔万·埃尔萨夫蒂告诉CGTN，文化交流有助于不同国家的人们尽管思维方式不同，也能找到共同点。“我们有一些差异，所以我们需要找到中间地带。如何找到中间地带？就是通过文化交流，”他说。对于俄罗斯视频技术公司ViSaver LLC首席执行官阿纳斯塔西娅·谢苗诺娃来说，交流很重要，因为生活在各自国家的人们可能无法完全理解他人如何看待相同的事件、机遇或技术。"
+        },
+        {
+          "en": "“When we all the time live in one country, in our own country, although it's our motherland and beloved, still we don't know how exactly the same things, the same events, the same opportunities, technologies, they are {{18}} in other countries, how people in other countries think about the same things,” she said. Siska Pebiana, a researcher at Indonesia's National Research and Innovation Agency (BRIN), said learning about different cultures can broaden young people's horizons and help them build friendships across borders. She added that being open-minded and understanding different cultural backgrounds makes it easier to connect with people from other countries. From exploring historic neighborhoods to exchanging ideas on technology and cultural innovation, the exchanges not only reflected the GCI's emphasis on dialogue and mutual learning among civilizations, but highlighted the role young people can play in keeping cultural heritage alive and finding new ways to share it across borders.",
+          "cn": "“当我们一直生活在一个国家，在我们自己的国家，尽管它是我们的祖国、我们所热爱的，但我们仍然不知道同样的事情、同样的事件、同样的机遇、技术在其他国家是如何被看待的，其他国家的人如何看待同样的事情，”她说。印度尼西亚国家研究与创新署（BRIN）研究员西斯卡·佩比亚纳表示，了解不同文化可以拓宽青年的视野，帮助他们建立跨境友谊。她补充说，保持开放心态、理解不同文化背景，更容易与来自其他国家的人建立联系。从探索历史街区到交流技术和文化创新的想法，这些交流不仅体现了全球文明倡议对文明对话和互鉴的重视，也凸显了青年在保持文化遗产活力、寻找跨境共享新方式方面可以发挥的作用。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "preserved",
+          "hint": "v. 保护，保存",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "reinterpreted",
+          "hint": "v. 重新诠释",
+          "difficulty": "hard"
+        },
+        {
+          "id": 2,
+          "answer": "heritage",
+          "hint": "n. 遗产",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "renovated",
+          "hint": "v. 翻新，修复",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "diversity",
+          "hint": "n. 多样性",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "inheritance",
+          "hint": "n. 继承，传承",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "innovation",
+          "hint": "n. 创新",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "cooperation",
+          "hint": "n. 合作",
+          "difficulty": "easy"
+        },
+        {
+          "id": 8,
+          "answer": "extending",
+          "hint": "v. 延伸，扩展",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "bond",
+          "hint": "n. 纽带，联系",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "mutual",
+          "hint": "adj. 相互的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "associate",
+          "hint": "adj. 副的；n. 同事",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "contemporary",
+          "hint": "adj. 当代的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "accessible",
+          "hint": "adj. 可接触的，易理解的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "interactive",
+          "hint": "adj. 互动的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "potential",
+          "hint": "n. 潜力；adj. 潜在的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "inheritors",
+          "hint": "n. 继承者",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "renewal",
+          "hint": "n. 复兴，更新",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "perceived",
+          "hint": "v. 感知，看待",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Representatives from BRICS countries gather to take part in the International Youth Talk on the Global Civilization Initiative, Fuzhou City, southeast China's Fujian Province, November 10, 2026. \nIn an old riverside building in Fuzhou, southeast China's Fujian Province, young representatives from BRICS countries gathered on Tuesday to discuss how cultural heritage can be preserved, reinterpreted and shared across borders.\nThe event, titled the International Youth Talk on the Global Civilization Initiative, was held at Zhuzifang Fund Harbor, a historic area where traditional buildings have been preserved and renovated for modern use.\nOrganized by the China International Youth Exchange Center and hosted by the Fuzhou Youth Federation, the event aimed to promote cross-cultural understanding and encourage young people from different countries to exchange ideas on preserving traditional culture and exploring new forms of cultural expression through digital technologies.\nAt the event, Zhang Afeng, vice president of the Fujian Youth Federation, highlighted the Global Civilization Initiative (GCI) and its relevance to exchanges among young people.\nProposed by China in March 2023, the GCI calls for respect for the diversity of civilizations, the promotion of common values of humanity, the importance of the inheritance and innovation of civilizations, and stronger international people-to-people exchanges and cooperation.\nZhang said Fujian has maintained close ties with BRICS countries, with cooperation extending beyond trade to areas including healthcare, education, the marine economy and the digital economy. In 2025, trade between Fujian and BRICS countries accounted for nearly one-fifth of the province's total foreign trade, he noted.\nHe said the Fujian Youth Federation would continue to build platforms for exchanges between Chinese and foreign young people, encouraging them to use technology as a bridge and civilization as a bond to deepen mutual understanding and pursue shared development.\nRepresentatives from BRICS countries pose for a group photo after the International Youth Talk on the Global Civilization Initiative, Fuzhou City, southeast China's Fujian Province, November 10, 2026. \nDong Lin, an associate professor at Fujian Polytechnic Normal University, introduced the young participants to Fujian's history and cultural traditions, including folk songs and traditional woodcarving.\nThe discussion that followed focused on two questions: how young people can pass on traditional culture and bring it into contemporary life, and how digital technologies can create new possibilities for cultural expression.\nParticipants shared examples of using digital supply chains to bring traditional tea culture to modern consumers, as well as applying digital avatars and artificial intelligence to make traditional lacquerware more accessible and interactive. Others discussed the potential of generative AI and augmented reality to lower barriers to cultural participation and enable people from different backgrounds to take part in cultural creation.\nThe discussions highlighted how young people can serve not only as inheritors of traditional culture but also as drivers of its renewal. Through technology, creative approaches and cross-cultural collaboration, they can help give cultural heritage new forms of expression and make it more relevant to contemporary audiences.\nSeveral young people from BRICS countries take selfies in the Yantai Hill Historic and Cultural District, Fuzhou City, southeast China's Fujian Province, November 9, 2026. /China International Youth Exchange Center\nThe cultural exchange activities also extended beyond the discussion venue.\nA day earlier, the young representatives visited Yantai Hill Historic and Cultural District, known for its blend of Chinese and Western architectural styles. They learned about efforts to preserve and renew its historic buildings, pass on architectural heritage and integrate cultural tourism into urban development.\nMarwan Elsafty, COO at Grecem, a tech company in Egypt, told CGTN that cultural exchanges help people from different countries find common ground despite differences in their ways of thinking.\n“We have some differences, so we need to find the middle ground. How we can find the middle ground? Just by cultural exchange,” he said.\nFor Anastasia Semenova, CEO of Russian video technology company ViSaver LLC, exchanges are important because people living in their own countries may not fully understand how others view the same events, opportunities or technologies.\n“When we all the time live in one country, in our own country, although it's our motherland and beloved, still we don't know how exactly the same things, the same events, the same opportunities, technologies, they are perceived in other countries, how people in other countries think about the same things,” she said.\nSiska Pebiana, a researcher at Indonesia's National Research and Innovation Agency (BRIN), said learning about different cultures can broaden young people's horizons and help them build friendships across borders. She added that being open-minded and understanding different cultural backgrounds makes it easier to connect with people from other countries.\nFrom exploring historic neighborhoods to exchanging ideas on technology and cultural innovation, the exchanges not only reflected the GCI's emphasis on dialogue and mutual learning among civilizations, but highlighted the role young people can play in keeping cultural heritage alive and finding new ways to share it across borders.",
+      "fullTextCn": "2026年11月10日，来自金砖国家的代表齐聚中国东南部福建省福州市，参加全球文明倡议国际青年对话会。在福州一座古老的河畔建筑中，来自金砖国家的青年代表于周二相聚，探讨如何保护、重新诠释和跨境共享文化遗产。这场名为“全球文明倡议国际青年对话会”的活动在朱紫坊基金港举行，这是一个历史悠久的区域，传统建筑得到保护和翻新，用于现代用途。活动由中国国际青年交流中心组织、福州市青年联合会主办，旨在促进跨文化理解，鼓励来自不同国家的青年就保护传统文化、通过数字技术探索文化表达新形式交流想法。活动中，福建省青年联合会副主席张阿峰强调了全球文明倡议（GCI）及其与青年交流的相关性。\n\n全球文明倡议由中国于2023年3月提出，呼吁尊重文明多样性，弘扬全人类共同价值，重视文明的传承与创新，并加强国际人文交流与合作。张阿峰表示，福建与金砖国家保持着密切联系，合作已超越贸易，扩展到医疗、教育、海洋经济和数字经济等领域。他指出，2025年，福建与金砖国家的贸易额占全省外贸总额的近五分之一。他表示，福建省青年联合会将继续搭建中外青年交流平台，鼓励他们以技术为桥梁、以文明为纽带，加深相互理解，追求共同发展。2026年11月10日，来自金砖国家的代表在全球文明倡议国际青年对话会后合影留念，地点位于中国东南部福建省福州市。\n\n福建技术师范学院副教授董林向青年参与者介绍了福建的历史和文化传统，包括民歌和传统木雕。随后的讨论聚焦两个问题：青年如何传承传统文化并将其带入当代生活，以及数字技术如何为文化表达创造新的可能性。参与者分享了利用数字供应链将传统茶文化带给现代消费者的例子，以及应用数字虚拟人和人工智能使传统漆器更易接触和互动。其他人讨论了生成式人工智能和增强现实在降低文化参与门槛、使不同背景的人参与文化创作方面的潜力。讨论强调了青年不仅可以作为传统文化的继承者，还可以作为其复兴的推动者。\n\n通过技术、创意方法和跨文化合作，他们可以帮助赋予文化遗产新的表达形式，使其更贴近当代受众。2026年11月9日，几位来自金砖国家的青年在中国东南部福建省福州市烟台山历史文化街区自拍。/中国国际青年交流中心\n文化交流活动还延伸到了讨论会场之外。一天前，青年代表参观了以中西建筑风格融合而闻名的烟台山历史文化街区。他们了解了保护和更新历史建筑、传承建筑遗产以及将文化旅游融入城市发展的努力。\n\n埃及科技公司Grecem首席运营官马尔万·埃尔萨夫蒂告诉CGTN，文化交流有助于不同国家的人们尽管思维方式不同，也能找到共同点。“我们有一些差异，所以我们需要找到中间地带。如何找到中间地带？就是通过文化交流，”他说。对于俄罗斯视频技术公司ViSaver LLC首席执行官阿纳斯塔西娅·谢苗诺娃来说，交流很重要，因为生活在各自国家的人们可能无法完全理解他人如何看待相同的事件、机遇或技术。\n\n“当我们一直生活在一个国家，在我们自己的国家，尽管它是我们的祖国、我们所热爱的，但我们仍然不知道同样的事情、同样的事件、同样的机遇、技术在其他国家是如何被看待的，其他国家的人如何看待同样的事情，”她说。印度尼西亚国家研究与创新署（BRIN）研究员西斯卡·佩比亚纳表示，了解不同文化可以拓宽青年的视野，帮助他们建立跨境友谊。她补充说，保持开放心态、理解不同文化背景，更容易与来自其他国家的人建立联系。从探索历史街区到交流技术和文化创新的想法，这些交流不仅体现了全球文明倡议对文明对话和互鉴的重视，也凸显了青年在保持文化遗产活力、寻找跨境共享新方式方面可以发挥的作用。"
+    },
+    {
+      "id": 3,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-11-17/detail-ihfneuqn7425248.shtml",
+      "title": "Foreign business leaders eye easier trade within Asia-Pacific, closer collaboration with China at Shenzhen APEC",
+      "titleCn": "外国商界领袖在深圳APEC期待亚太贸易更便利、对华合作更紧密",
+      "summary": "Thirty-seven years after its founding, Asia-Pacific Economic Cooperation (APEC) remains committed to advancing trade and investment liberalization and facilitation, and fostering regional economic growth and shared prosperity.",
+      "summaryCn": "多位外国商界领袖在深圳APEC会议前表示，期待亚太经济体加强政策协调、推动贸易投资自由化便利化，并在清洁能源、人工智能等领域深化与中国的合作。",
+      "wordCount": 696,
+      "paragraphs": [
+        {
+          "en": "(ECNS) -- Thirty-seven years after its founding, Asia-Pacific Economic Cooperation (APEC) remains committed to advancing trade and investment {{0}} and {{1}}, and fostering regional economic growth and shared {{2}}. Ahead of the 33rd APEC Economic Leaders' Meeting, which will take place in Shenzhen, Guangdong Province, on Nov. 18–19, foreign business leaders told China News Service that they expect to see stronger policy {{3}} among APEC economies to promote trade and investment liberalization and facilitation and strengthen cooperation on innovation with the region, while voicing optimism about collaboration with China in clean energy, artificial intelligence and other sectors. A large delegation of U.S. companies is attending this year's APEC CEO Summit.",
+          "cn": "（中新社）——亚太经济合作组织（APEC）成立37年来，始终致力于推进贸易和投资自由化便利化，促进区域经济增长和共同繁荣。在将于11月18日至19日在广东省深圳举行的第33次APEC领导人非正式会议前夕，外国商界领袖向中新社表示，他们期待APEC经济体加强政策协调，推动贸易和投资自由化便利化，并加强区域内的创新合作，同时对在清洁能源、人工智能等领域与中国合作表示乐观。一个庞大的美国企业代表团将参加今年的APEC工商领导人峰会。"
+        },
+        {
+          "en": "Sean Stein, president of the U.S.-China Business Council (USCBC), said that many U.S. chief executives hope to see what {{4}} will be reached across sectors in Shenzhen, which they believe will help them expand the Asia-Pacific market and make cross-border business easier. What we'll see coming out of APEC are many small, {{5}} changes and recommendations that add up to a great deal in the {{6}}, Stein said. \"Even if it only makes transactions a little tiny bit bigger, think of all the millions of trades and transactions that happen every year across the region,\" he said. He described APEC as a vital {{7}} platform connecting businesses and governments.",
+          "cn": "美中贸易全国委员会（USCBC）主席肖恩·斯坦表示，许多美国首席执行官希望看到深圳会议在各领域达成何种共识，他们认为这将有助于他们拓展亚太市场、使跨境业务更加便利。斯坦说：“我们将从APEC看到的是许多小的、渐进式的变化和建议，这些变化和建议累积起来会产生巨大的总体效果。”他说：“即使它只让交易规模稍微大一点点，想想整个地区每年发生的数百万笔贸易和交易吧。”他将APEC描述为连接企业和政府的重要多边平台。"
+        },
+        {
+          "en": "Sustained improvements to trade and commercial rules will ease cross-border operations and ultimately benefit consumers throughout the region, he said. Australia is one of APEC's founding members. Greg Smith, chair of AustCham South China, said Australia \"really believes in the community.\" \"Trade within a community is the best way of strengthening understanding and developing commerce and prosperity for all.\"\nSmith hopes APEC members will work together to cut {{9}} and further reduce trade {{10}}, thus promoting free trade in this area. Beyond trade facilitation, business leaders are also focused on how Asia-Pacific economies can navigate technological transformation. Brittany Masalosalo, chief public policy officer at HP Inc, said {{11}} technologies are causing governments to rethink how they cooperate, and companies are having to adapt to these challenges as well.",
+          "cn": "他说，贸易和商业规则的持续改善将便利跨境运营，并最终惠及整个地区的消费者。澳大利亚是APEC创始成员之一。华南澳大利亚商会主席格雷格·史密斯表示，澳大利亚“真正相信这个共同体”。“共同体内部的贸易是增进理解、发展商业、实现共同繁荣的最佳方式。”史密斯希望APEC成员共同努力削减关税、进一步减少贸易限制，从而促进该地区的自由贸易。除贸易便利化外，商界领袖还关注亚太经济体如何应对技术变革。惠普公司首席公共政策官布列塔尼·马萨洛萨洛表示，颠覆性技术正促使各国政府重新思考如何合作，企业也不得不适应这些挑战。"
+        },
+        {
+          "en": "\"The Asia Pacific region is one of the most {{12}} regions around the world. It's also one of the most {{13}} regions. Bringing that diversity to bear with the spirit of innovation at this moment is critical. And it's also critical to HP strategy.\"\nFor the AI industry, {{14}} technical standards and governance rules across economies pose {{15}} to cross-border collaboration. Alveiro Mateus, co-founder and chief architect of U.S.",
+          "cn": "“亚太地区是世界上最具活力的地区之一，也是最多元化的地区之一。此时此刻，将这种多元化与创新精神相结合至关重要。这对惠普的战略也至关重要。”对于人工智能行业而言，各经济体技术标准和治理规则的分歧给跨境合作带来了障碍。美国AI公司OptimOps.ai联合创始人兼首席架构师阿尔韦罗·马特乌斯表示，APEC的一个优先事项是制定各经济体可参考和采纳的标准与治理框架。"
+        },
+        {
+          "en": "AI firm OptimOps.ai, said one priority for APEC is to develop standards and governance frameworks that economies can reference and adopt. Greater {{16}} on AI safety and reliability, he added, would build trust and unlock more cross-border technology partnerships. According to China's Ministry of Commerce, China is now the largest trading partner for 13 APEC economies. Expanding economic and trade links between China and its Asia-Pacific counterparts create broader avenues for all parties to share development dividends. Smith singled out renewable energy and aged care as promising areas for Australia-China collaboration.",
+          "cn": "他补充说，在AI安全性和可靠性方面加强协调一致将建立信任，并释放更多跨境技术合作潜力。据中国商务部数据，中国目前是13个APEC经济体的最大贸易伙伴。扩大中国与亚太伙伴的经贸联系为各方共享发展红利开辟了更广阔的渠道。史密斯特别指出，可再生能源和养老护理是澳中合作有前景的领域。"
+        },
+        {
+          "en": "China's fast-growing electric vehicle and solar panel sectors offer new opportunities for Australian businesses, he said. At the same time, the two sides can \"{{17}} each other in responding to population ageing\": China brings technological strengths, while Australia boasts a well-established aged-care service system. Having operated in China for more than four decades, HP continues to find opportunities from China's development. Masalosalo said China is not only an important part of HP's global manufacturing supply chain but also a major hub for R&D and innovation. Abundant talent from Chinese universities and vibrant local innovators create ample opportunities for partnerships with multinational corporations.",
+          "cn": "他说，中国快速增长的电动汽车和太阳能电池板行业为澳大利亚企业提供了新机遇。同时，双方可以“在应对人口老龄化方面互补”：中国带来技术优势，而澳大利亚拥有完善的养老服务体系。惠普在中国经营四十多年，仍不断从中国发展中寻找机遇。马萨洛萨洛表示，中国不仅是惠普全球制造供应链的重要组成部分，也是研发和创新的重要枢纽。中国高校的丰富人才和活跃的本地创新者为与跨国公司合作创造了充足机会。"
+        },
+        {
+          "en": "\"HP has been proud that we've been able to grow in China, for China, alongside China,\" she said. Mateus pointed to complementary strengths in the U.S. and Chinese AI industries, urging stakeholders to explore untapped potential for collaboration. The U.S. enjoys advantages in R&D and has large models for manufacturing and logistics, while China excels at deploying technology and has strong production capacity, he noted.",
+          "cn": "她说：“惠普一直为能够在中国发展、为中国发展、与中国共同发展而感到自豪。”马特乌斯指出，美中人工智能产业优势互补，呼吁利益相关方挖掘尚未开发的合作潜力。他指出，美国在研发方面具有优势，拥有用于制造业和物流的大型模型，而中国擅长技术部署，拥有强大的生产能力。"
+        },
+        {
+          "en": "Closer collaboration can combine cutting-edge research with large-scale applications in healthcare and manufacturing, delivering more efficient solutions for global markets, he said.",
+          "cn": "他说，更紧密的合作可以将前沿研究与医疗和制造业的大规模应用相结合，为全球市场提供更高效的解决方案。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "liberalization",
+          "hint": "n. 自由化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 1,
+          "answer": "facilitation",
+          "hint": "n. 便利化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 2,
+          "answer": "prosperity",
+          "hint": "n. 繁荣",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "consensus",
+          "hint": "n. 共识",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "incremental",
+          "hint": "adj. 渐进的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "aggregate",
+          "hint": "n./adj. 总体；总计的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "multilateral",
+          "hint": "adj. 多边的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "tariffs",
+          "hint": "n. 关税",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "restrictions",
+          "hint": "n. 限制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "disruptive",
+          "hint": "adj. 颠覆性的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "dynamic",
+          "hint": "adj. 有活力的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "diverse",
+          "hint": "adj. 多元化的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 13,
+          "answer": "divergent",
+          "hint": "adj. 分歧的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "hurdles",
+          "hint": "n. 障碍",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "alignment",
+          "hint": "n. 协调一致",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "complement",
+          "hint": "v. 互补",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "(ECNS) -- Thirty-seven years after its founding, Asia-Pacific Economic Cooperation (APEC) remains committed to advancing trade and investment liberalization and facilitation, and fostering regional economic growth and shared prosperity.\nAhead of the 33rd APEC Economic Leaders' Meeting, which will take place in Shenzhen, Guangdong Province, on Nov. 18–19, foreign business leaders told China News Service that they expect to see stronger policy coordination among APEC economies to promote trade and investment liberalization and facilitation and strengthen cooperation on innovation with the region, while voicing optimism about collaboration with China in clean energy, artificial intelligence and other sectors.\nA large delegation of U.S. companies is attending this year's APEC CEO Summit. Sean Stein, president of the U.S.-China Business Council (USCBC), said that many U.S. chief executives hope to see what consensus will be reached across sectors in Shenzhen, which they believe will help them expand the Asia-Pacific market and make cross-border business easier.\nWhat we'll see coming out of APEC are many small, incremental changes and recommendations that add up to a great deal in the aggregate, Stein said.\n\"Even if it only makes transactions a little tiny bit bigger, think of all the millions of trades and transactions that happen every year across the region,\" he said.\nHe described APEC as a vital multilateral platform connecting businesses and governments. Sustained improvements to trade and commercial rules will ease cross-border operations and ultimately benefit consumers throughout the region, he said.\nAustralia is one of APEC's founding members. Greg Smith, chair of AustCham South China, said Australia \"really believes in the community.\" \"Trade within a community is the best way of strengthening understanding and developing commerce and prosperity for all.\"\nSmith hopes APEC members will work together to cut tariffs and further reduce trade restrictions, thus promoting free trade in this area.\nBeyond trade facilitation, business leaders are also focused on how Asia-Pacific economies can navigate technological transformation.\nBrittany Masalosalo, chief public policy officer at HP Inc, said disruptive technologies are causing governments to rethink how they cooperate, and companies are having to adapt to these challenges as well.\n\"The Asia Pacific region is one of the most dynamic regions around the world. It's also one of the most diverse regions. Bringing that diversity to bear with the spirit of innovation at this moment is critical. And it's also critical to HP strategy.\"\nFor the AI industry, divergent technical standards and governance rules across economies pose hurdles to cross-border collaboration. Alveiro Mateus, co-founder and chief architect of U.S. AI firm OptimOps.ai, said one priority for APEC is to develop standards and governance frameworks that economies can reference and adopt.\nGreater alignment on AI safety and reliability, he added, would build trust and unlock more cross-border technology partnerships.\nAccording to China's Ministry of Commerce, China is now the largest trading partner for 13 APEC economies. Expanding economic and trade links between China and its Asia-Pacific counterparts create broader avenues for all parties to share development dividends.\nSmith singled out renewable energy and aged care as promising areas for Australia-China collaboration. China's fast-growing electric vehicle and solar panel sectors offer new opportunities for Australian businesses, he said. At the same time, the two sides can \"complement each other in responding to population ageing\": China brings technological strengths, while Australia boasts a well-established aged-care service system.\nHaving operated in China for more than four decades, HP continues to find opportunities from China's development.\nMasalosalo said China is not only an important part of HP's global manufacturing supply chain but also a major hub for R&D and innovation. Abundant talent from Chinese universities and vibrant local innovators create ample opportunities for partnerships with multinational corporations.\n\"HP has been proud that we've been able to grow in China, for China, alongside China,\" she said.\nMateus pointed to complementary strengths in the U.S. and Chinese AI industries, urging stakeholders to explore untapped potential for collaboration.\nThe U.S. enjoys advantages in R&D and has large models for manufacturing and logistics, while China excels at deploying technology and has strong production capacity, he noted.\nCloser collaboration can combine cutting-edge research with large-scale applications in healthcare and manufacturing, delivering more efficient solutions for global markets, he said.",
+      "fullTextCn": "（中新社）——亚太经济合作组织（APEC）成立37年来，始终致力于推进贸易和投资自由化便利化，促进区域经济增长和共同繁荣。在将于11月18日至19日在广东省深圳举行的第33次APEC领导人非正式会议前夕，外国商界领袖向中新社表示，他们期待APEC经济体加强政策协调，推动贸易和投资自由化便利化，并加强区域内的创新合作，同时对在清洁能源、人工智能等领域与中国合作表示乐观。一个庞大的美国企业代表团将参加今年的APEC工商领导人峰会。\n\n美中贸易全国委员会（USCBC）主席肖恩·斯坦表示，许多美国首席执行官希望看到深圳会议在各领域达成何种共识，他们认为这将有助于他们拓展亚太市场、使跨境业务更加便利。斯坦说：“我们将从APEC看到的是许多小的、渐进式的变化和建议，这些变化和建议累积起来会产生巨大的总体效果。”他说：“即使它只让交易规模稍微大一点点，想想整个地区每年发生的数百万笔贸易和交易吧。”他将APEC描述为连接企业和政府的重要多边平台。\n\n他说，贸易和商业规则的持续改善将便利跨境运营，并最终惠及整个地区的消费者。澳大利亚是APEC创始成员之一。华南澳大利亚商会主席格雷格·史密斯表示，澳大利亚“真正相信这个共同体”。“共同体内部的贸易是增进理解、发展商业、实现共同繁荣的最佳方式。”史密斯希望APEC成员共同努力削减关税、进一步减少贸易限制，从而促进该地区的自由贸易。除贸易便利化外，商界领袖还关注亚太经济体如何应对技术变革。惠普公司首席公共政策官布列塔尼·马萨洛萨洛表示，颠覆性技术正促使各国政府重新思考如何合作，企业也不得不适应这些挑战。\n\n“亚太地区是世界上最具活力的地区之一，也是最多元化的地区之一。此时此刻，将这种多元化与创新精神相结合至关重要。这对惠普的战略也至关重要。”对于人工智能行业而言，各经济体技术标准和治理规则的分歧给跨境合作带来了障碍。美国AI公司OptimOps.ai联合创始人兼首席架构师阿尔韦罗·马特乌斯表示，APEC的一个优先事项是制定各经济体可参考和采纳的标准与治理框架。\n\n他补充说，在AI安全性和可靠性方面加强协调一致将建立信任，并释放更多跨境技术合作潜力。据中国商务部数据，中国目前是13个APEC经济体的最大贸易伙伴。扩大中国与亚太伙伴的经贸联系为各方共享发展红利开辟了更广阔的渠道。史密斯特别指出，可再生能源和养老护理是澳中合作有前景的领域。\n\n他说，中国快速增长的电动汽车和太阳能电池板行业为澳大利亚企业提供了新机遇。同时，双方可以“在应对人口老龄化方面互补”：中国带来技术优势，而澳大利亚拥有完善的养老服务体系。惠普在中国经营四十多年，仍不断从中国发展中寻找机遇。马萨洛萨洛表示，中国不仅是惠普全球制造供应链的重要组成部分，也是研发和创新的重要枢纽。中国高校的丰富人才和活跃的本地创新者为与跨国公司合作创造了充足机会。\n\n她说：“惠普一直为能够在中国发展、为中国发展、与中国共同发展而感到自豪。”马特乌斯指出，美中人工智能产业优势互补，呼吁利益相关方挖掘尚未开发的合作潜力。他指出，美国在研发方面具有优势，拥有用于制造业和物流的大型模型，而中国擅长技术部署，拥有强大的生产能力。\n\n他说，更紧密的合作可以将前沿研究与医疗和制造业的大规模应用相结合，为全球市场提供更高效的解决方案。"
+    },
+    {
+      "id": 4,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-16/APEC-ambassadors-CEOs-hold-roundtable-in-Shenzhen-1S78Jhz1WjS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "APEC ambassadors, CEOs hold roundtable in Shenzhen",
+      "titleCn": "APEC大使与CEO圆桌会议在深圳举行",
+      "summary": "APEC ambassadors, CEOs hold roundtable in Shenzhen",
+      "summaryCn": "APEC大使与CEO圆桌会议在深圳举行，旨在促进亚太经济体与中国企业间的对话与合作。",
+      "wordCount": 622,
+      "paragraphs": [
+        {
+          "en": "The APEC Ambassadors and CEOs Roundtable, hosted by the Finance Program Center of China Media Group (CMG), took place in Shenzhen. Centered on the theme \"Shared Open Opportunities for Win-Win Outcomes,\" the event serves as a platform for {{1}} among Asia-Pacific Economic Cooperation (APEC) member economies and Chinese {{2}}. It marks CMG's first major media event during the 2026 APEC Leaders' Week. Shen Haixiong, deputy head of the Publicity Department of the Communist Party of China Central Committee and president of CMG; Ren Hongbin, chairman of the China Council for the Promotion of International Trade (CCPIT); Djauhari Oratmangun, ambassador of the Republic of Indonesia to China; Thaddeus Kambanei, ambassador of the Independent State of Papua New Guinea to China; Carlos Vasquez, ambassador of the Republic of Peru to China; and Ma Mingzhe, chairman of Ping An Group, delivered remarks at the {{0}}. Shen Haixiong, deputy head of the Publicity Department of the Communist Party of China Central Committee and president of CMG.",
+          "cn": "由中央广播电视总台（CMG）财经节目中心主办的APEC大使与CEO圆桌会议在深圳举行。会议以“共享开放机遇，共创共赢成果”为主题，为亚太经济合作组织（APEC）成员经济体与中国企业之间的对话提供平台。这是CMG在2026年APEC领导人会议周期间的首场大型媒体活动。中共中央宣传部副部长、中央广播电视总台台长慎海雄；中国国际贸易促进委员会（CCPIT）会长任鸿斌；印度尼西亚共和国驻华大使周浩黎；巴布亚新几内亚独立国驻华大使塔迪厄斯·坎巴内；秘鲁共和国驻华大使卡洛斯·巴斯克斯；以及平安集团董事长马明哲在圆桌会议上发表讲话。中共中央宣传部副部长、中央广播电视总台台长慎海雄。"
+        },
+        {
+          "en": "/CMG\nShen Haixiong noted that the Asia-Pacific region is home to all parties and a powerhouse of global economic growth. As a witness, recorder, participant and supporter of Asia-Pacific economic cooperation, CMG has produced and broadcast {{3}} programs for APEC audiences, {{4}} the application of AI, ultra-high-definition and big data technologies, supported Chinese brands in going global, and promoted people-to-people exchanges across the region. He expressed hope that the roundtable will deepen mutual understanding and trust among Asia-Pacific partners and help build an Asia-Pacific community for common {{5}}. Ren Hongbin, chairman of the China Council for the Promotion of International Trade (CCPIT). /CMG\nRen Hongbin said the APEC \"China Year\" has entered the \"Shenzhen moment.\"\nThe new roundtable creates a valuable channel for diplomatic envoys and leading Chinese businesses to connect.",
+          "cn": "慎海雄指出，亚太地区是各方的共同家园，也是全球经济增长的动力源。作为亚太经济合作的见证者、记录者、参与者和支持者，CMG为APEC观众制作并播出了旗舰节目，推动了人工智能、超高清和大数据技术的应用，支持中国品牌走向全球，并促进了区域间的人文交流。他表示，希望圆桌会议能加深亚太伙伴之间的相互理解和信任，帮助构建共同繁荣的亚太共同体。中国国际贸易促进委员会（CCPIT）会长任鸿斌。/CMG 任鸿斌表示，APEC“中国年”已进入“深圳时刻”。新的圆桌会议为外交使节和中国领先企业搭建了宝贵的联系渠道。"
+        },
+        {
+          "en": "China will uphold {{6}}, stable policies and advance high-quality development and high-standard opening-up. CCPIT will continue to boost ties between China's business community and Asia-Pacific partners so that the gains from China's modernization drive can unlock fresh opportunities for industrial cooperation across the region. Djauhari Oratmangun, ambassador of the Republic of Indonesia to China. /CMG\nIndonesian Ambassador Djauhari Oratmangun said China's investment, technologies and industrial {{7}} have boosted Indonesia's industrial growth. Indonesia is improving its business environment and welcomes Chinese investment.",
+          "cn": "中国将坚持一贯、稳定的政策，推进高质量发展和高水平对外开放。CCPIT将继续促进中国商界与亚太伙伴之间的联系，使中国现代化建设的成果能够为区域产业合作带来新机遇。印度尼西亚共和国驻华大使周浩黎。/CMG 印尼大使周浩黎表示，中国的投资、技术和产业专长促进了印尼的工业增长。印尼正在改善营商环境，欢迎中国投资。"
+        },
+        {
+          "en": "He called for deeper industrial {{8}} and joint {{9}} between enterprises of the two countries. Thaddeus Kambanei, ambassador of the Independent State of Papua New Guinea to China. /CMG\nPapua New Guinea Ambassador Thaddeus Kambanei thanked CMG for organizing the forum. He described China as a key source of trade, investment and technology. Papua New Guinea stands ready to learn from China's experience and strengthen economic and trade links to pursue shared prosperity in the Asia-Pacific, he said.",
+          "cn": "他呼吁两国企业深化产业合作和联合创新。巴布亚新几内亚独立国驻华大使塔迪厄斯·坎巴内。/CMG 巴布亚新几内亚大使塔迪厄斯·坎巴内感谢CMG组织此次论坛。他将中国描述为贸易、投资和技术的关键来源。他表示，巴布亚新几内亚愿意学习中国的经验，加强经贸联系，以追求亚太地区的共同繁荣。"
+        },
+        {
+          "en": "Carlos Vasquez, ambassador of the Republic of Peru to China. /CMG\nPeruvian Ambassador Carlos Vasquez highlighted that the upgraded {{10}} to the China-Peru free trade agreement has recently entered into force, coinciding with the 55th anniversary of diplomatic ties between the two nations. Chancay Port stands as a {{11}} of {{12}} cooperation. He invited more Chinese firms to expand from trade to investment and industrial development in Peru. Ma Mingzhe of Ping An Group said the roundtable offers a rare channel for foreign diplomats and Chinese entrepreneurs to engage directly, showcasing China's {{13}} to opening up and helping domestic businesses connect with global resources.",
+          "cn": "秘鲁共和国驻华大使卡洛斯·巴斯克斯。/CMG 秘鲁大使卡洛斯·巴斯克斯强调，中国-秘鲁自由贸易协定升级议定书最近生效，恰逢两国建交55周年。钱凯港是双边合作的标志性项目。他邀请更多中国企业从贸易扩展到秘鲁的投资和产业发展。平安集团的马明哲表示，圆桌会议为外国外交官和中国企业家直接接触提供了难得的渠道，展示了中国对外开放的承诺，并帮助国内企业与全球资源对接。"
+        },
+        {
+          "en": "Executives from leading firms including Gree, Hisense, Seres, EVE Energy, Hiconics and TCL exchanged views with ambassadors on high-standard opening-up and AI industrial development. They shared investment plans and market {{14}}, reaching broad {{15}} on cooperation. Around 80 {{16}} attended the gathering, including officials from CMG and CCPIT, diplomatic representatives from APEC member economies, executives of Chinese and overseas companies, and representatives of foreign business associations.",
+          "cn": "来自格力、海信、赛力斯、亿纬锂能、汇川技术和TCL等领先企业的高管与大使们就高水平开放和人工智能产业发展交换了意见。他们分享了投资计划和市场激励措施，在合作上达成了广泛共识。约80名参与者出席了会议，包括CMG和CCPIT的官员、APEC成员经济体的外交代表、中外公司高管以及外国商业协会的代表。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "roundtable",
+          "hint": "n. 圆桌会议",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "dialogue",
+          "hint": "n. 对话",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "enterprises",
+          "hint": "n. 企业",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "flagship",
+          "hint": "adj. 旗舰级的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "facilitated",
+          "hint": "v. 促进",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "prosperity",
+          "hint": "n. 繁荣",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "consistent",
+          "hint": "adj. 一贯的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "expertise",
+          "hint": "n. 专业知识",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "collaboration",
+          "hint": "n. 合作",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "innovation",
+          "hint": "n. 创新",
+          "difficulty": "easy"
+        },
+        {
+          "id": 10,
+          "answer": "protocol",
+          "hint": "n. 议定书",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "landmark",
+          "hint": "n. 标志性项目",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "bilateral",
+          "hint": "adj. 双边的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "commitment",
+          "hint": "n. 承诺",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "incentives",
+          "hint": "n. 激励措施",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "consensus",
+          "hint": "n. 共识",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "participants",
+          "hint": "n. 参与者",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "The APEC Ambassadors and CEOs Roundtable, hosted by the Finance Program Center of China Media Group (CMG), took place in Shenzhen.\nCentered on the theme \"Shared Open Opportunities for Win-Win Outcomes,\" the event serves as a platform for dialogue among Asia-Pacific Economic Cooperation (APEC) member economies and Chinese enterprises.\nIt marks CMG's first major media event during the 2026 APEC Leaders' Week.\nShen Haixiong, deputy head of the Publicity Department of the Communist Party of China Central Committee and president of CMG; Ren Hongbin, chairman of the China Council for the Promotion of International Trade (CCPIT); Djauhari Oratmangun, ambassador of the Republic of Indonesia to China; Thaddeus Kambanei, ambassador of the Independent State of Papua New Guinea to China; Carlos Vasquez, ambassador of the Republic of Peru to China; and Ma Mingzhe, chairman of Ping An Group, delivered remarks at the roundtable.\nShen Haixiong, deputy head of the Publicity Department of the Communist Party of China Central Committee and president of CMG. /CMG\nShen Haixiong noted that the Asia-Pacific region is home to all parties and a powerhouse of global economic growth.\nAs a witness, recorder, participant and supporter of Asia-Pacific economic cooperation, CMG has produced and broadcast flagship programs for APEC audiences, facilitated the application of AI, ultra-high-definition and big data technologies, supported Chinese brands in going global, and promoted people-to-people exchanges across the region.\nHe expressed hope that the roundtable will deepen mutual understanding and trust among Asia-Pacific partners and help build an Asia-Pacific community for common prosperity.\nRen Hongbin, chairman of the China Council for the Promotion of International Trade (CCPIT). /CMG\nRen Hongbin said the APEC \"China Year\" has entered the \"Shenzhen moment.\"\nThe new roundtable creates a valuable channel for diplomatic envoys and leading Chinese businesses to connect.\nChina will uphold consistent, stable policies and advance high-quality development and high-standard opening-up.\nCCPIT will continue to boost ties between China's business community and Asia-Pacific partners so that the gains from China's modernization drive can unlock fresh opportunities for industrial cooperation across the region.\nDjauhari Oratmangun, ambassador of the Republic of Indonesia to China. /CMG\nIndonesian Ambassador Djauhari Oratmangun said China's investment, technologies and industrial expertise have boosted Indonesia's industrial growth.\nIndonesia is improving its business environment and welcomes Chinese investment. He called for deeper industrial collaboration and joint innovation between enterprises of the two countries.\nThaddeus Kambanei, ambassador of the Independent State of Papua New Guinea to China. /CMG\nPapua New Guinea Ambassador Thaddeus Kambanei thanked CMG for organizing the forum.\nHe described China as a key source of trade, investment and technology.\nPapua New Guinea stands ready to learn from China's experience and strengthen economic and trade links to pursue shared prosperity in the Asia-Pacific, he said.\nCarlos Vasquez, ambassador of the Republic of Peru to China. /CMG\nPeruvian Ambassador Carlos Vasquez highlighted that the upgraded protocol to the China-Peru free trade agreement has recently entered into force, coinciding with the 55th anniversary of diplomatic ties between the two nations.\nChancay Port stands as a landmark of bilateral cooperation. He invited more Chinese firms to expand from trade to investment and industrial development in Peru.\nMa Mingzhe of Ping An Group said the roundtable offers a rare channel for foreign diplomats and Chinese entrepreneurs to engage directly, showcasing China's commitment to opening up and helping domestic businesses connect with global resources.\nExecutives from leading firms including Gree, Hisense, Seres, EVE Energy, Hiconics and TCL exchanged views with ambassadors on high-standard opening-up and AI industrial development.\nThey shared investment plans and market incentives, reaching broad consensus on cooperation.\nAround 80 participants attended the gathering, including officials from CMG and CCPIT, diplomatic representatives from APEC member economies, executives of Chinese and overseas companies, and representatives of foreign business associations.",
+      "fullTextCn": "由中央广播电视总台（CMG）财经节目中心主办的APEC大使与CEO圆桌会议在深圳举行。会议以“共享开放机遇，共创共赢成果”为主题，为亚太经济合作组织（APEC）成员经济体与中国企业之间的对话提供平台。这是CMG在2026年APEC领导人会议周期间的首场大型媒体活动。中共中央宣传部副部长、中央广播电视总台台长慎海雄；中国国际贸易促进委员会（CCPIT）会长任鸿斌；印度尼西亚共和国驻华大使周浩黎；巴布亚新几内亚独立国驻华大使塔迪厄斯·坎巴内；秘鲁共和国驻华大使卡洛斯·巴斯克斯；以及平安集团董事长马明哲在圆桌会议上发表讲话。中共中央宣传部副部长、中央广播电视总台台长慎海雄。\n\n慎海雄指出，亚太地区是各方的共同家园，也是全球经济增长的动力源。作为亚太经济合作的见证者、记录者、参与者和支持者，CMG为APEC观众制作并播出了旗舰节目，推动了人工智能、超高清和大数据技术的应用，支持中国品牌走向全球，并促进了区域间的人文交流。他表示，希望圆桌会议能加深亚太伙伴之间的相互理解和信任，帮助构建共同繁荣的亚太共同体。中国国际贸易促进委员会（CCPIT）会长任鸿斌。/CMG 任鸿斌表示，APEC“中国年”已进入“深圳时刻”。新的圆桌会议为外交使节和中国领先企业搭建了宝贵的联系渠道。\n\n中国将坚持一贯、稳定的政策，推进高质量发展和高水平对外开放。CCPIT将继续促进中国商界与亚太伙伴之间的联系，使中国现代化建设的成果能够为区域产业合作带来新机遇。印度尼西亚共和国驻华大使周浩黎。/CMG 印尼大使周浩黎表示，中国的投资、技术和产业专长促进了印尼的工业增长。印尼正在改善营商环境，欢迎中国投资。\n\n他呼吁两国企业深化产业合作和联合创新。巴布亚新几内亚独立国驻华大使塔迪厄斯·坎巴内。/CMG 巴布亚新几内亚大使塔迪厄斯·坎巴内感谢CMG组织此次论坛。他将中国描述为贸易、投资和技术的关键来源。他表示，巴布亚新几内亚愿意学习中国的经验，加强经贸联系，以追求亚太地区的共同繁荣。\n\n秘鲁共和国驻华大使卡洛斯·巴斯克斯。/CMG 秘鲁大使卡洛斯·巴斯克斯强调，中国-秘鲁自由贸易协定升级议定书最近生效，恰逢两国建交55周年。钱凯港是双边合作的标志性项目。他邀请更多中国企业从贸易扩展到秘鲁的投资和产业发展。平安集团的马明哲表示，圆桌会议为外国外交官和中国企业家直接接触提供了难得的渠道，展示了中国对外开放的承诺，并帮助国内企业与全球资源对接。\n\n来自格力、海信、赛力斯、亿纬锂能、汇川技术和TCL等领先企业的高管与大使们就高水平开放和人工智能产业发展交换了意见。他们分享了投资计划和市场激励措施，在合作上达成了广泛共识。约80名参与者出席了会议，包括CMG和CCPIT的官员、APEC成员经济体的外交代表、中外公司高管以及外国商业协会的代表。"
+    },
+    {
+      "id": 5,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-10/China-s-two-homegrown-cruise-ships-berth-side-by-side-in-Shanghai--1RXJkFAJDSo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "China's two homegrown cruise ships berth side by side in Shanghai",
+      "titleCn": "中国两艘国产邮轮在上海并靠",
+      "summary": "China's two homegrown cruise ships berth side by side in Shanghai",
+      "summaryCn": "中国第二艘国产大型邮轮“爱达·花城号”从上海开启首次试航，并与首艘国产大型邮轮“爱达·魔都号”首次并靠上海吴淞口国际邮轮港，标志着中国邮轮产业从建造突破迈向系列化生产与产业生态升级。",
+      "wordCount": 525,
+      "paragraphs": [
+        {
+          "en": "China's second {{0}} built large cruise ship, Adora Flora City, departed from Shanghai's Wusongkou International Cruise Terminal on November 9, for its first trial voyage, marking another {{1}} in the country's efforts to develop its homegrown cruise industry. The vessel is scheduled to arrive at Nansha International Cruise Home Port in Guangzhou, south China's Guangdong Province, on November 12. During the voyage, {{2}} tests and adjustments will be conducted in areas including maritime operations, navigation safety, products and services, ship-shore {{3}}, and integrated information systems, according to the operator. China's two domestically built large cruise ships, the Adora Magic City (R) and Adora Flora City (L), docked side by side at Wusongkou International Cruise Terminal in Shanghai, China. /\nUnder {{4}} real operating conditions, the trial will also {{5}} key passenger experiences, including cabin services, dining, entertainment, shopping and leisure activities, while testing coordination and response capabilities across different departments.",
+          "cn": "中国第二艘国产大型邮轮“爱达·花城号”于11月9日从上海吴淞口国际邮轮港出发，开启首次试航，这标志着中国在发展自主邮轮产业方面又迈出一个里程碑。该船计划于11月12日抵达位于中国南方广东省广州的南沙国际邮轮母港。据运营方介绍，试航期间将在海上运营、航行安全、产品与服务、船岸协同以及综合信息系统等领域开展系统性测试和调整。中国两艘国产大型邮轮——“爱达·魔都号”（右）和“爱达·花城号”（左）并靠在中国上海吴淞口国际邮轮港。/ 在模拟真实运营条件下，此次试航还将评估关键旅客体验，包括客舱服务、餐饮、娱乐、购物和休闲活动，同时测试不同部门之间的协调与响应能力。"
+        },
+        {
+          "en": "The {{6}} testing marks a {{7}} step toward the ship's commercial operation. Adora Flora City is scheduled to begin its {{8}} season on November 22. The ship's departure came just one day after a {{9}} scene unfolded at Wusongkou. On November 8, Adora Flora City and Adora Magic City, China's two domestically built large cruise ships, {{10}} side by side at Shanghai's Wusongkou International Cruise Terminal for the first time. The two vessels sounded their horns to greet each other.",
+          "cn": "此次全面测试标志着该船向商业运营迈出关键一步。“爱达·花城号”计划于11月22日开启首个航季。该船启航前一天，吴淞口刚刚上演了历史性一幕。11月8日，中国两艘国产大型邮轮“爱达·花城号”和“爱达·魔都号”首次并靠在上海吴淞口国际邮轮港。两艘船鸣笛互致问候。"
+        },
+        {
+          "en": "The historic gathering reflects a major step forward for China's shipbuilding industry, from the {{11}} of building its first large cruise ship to developing the capacity for {{12}} production. Large cruise ships are among the most {{13}} engineering projects in the global industrial system, involving {{14}} coordination across shipbuilding, advanced equipment manufacturing, information technology and supporting industries. The emergence of the two sister ships highlights China's growing capabilities in high-end shipbuilding and industrial {{15}}. China's second domestically built large cruise ship, Adora Flora City. /\nThe development of the cruise industry is also closely tied to the {{16}} of Shanghai's Wusongkou International Cruise Terminal.",
+          "cn": "这一历史性聚首反映出中国造船业向前迈出重要一步：从建造首艘大型邮轮的突破，到形成系列化生产能力。大型邮轮是全球工业体系中最复杂的工程项目之一，涉及造船、先进装备制造、信息技术和配套产业之间的广泛协同。两艘姊妹船的出现凸显了中国在高端造船和产业整合方面不断增强的能力。中国第二艘国产大型邮轮“爱达·花城号”。/ 邮轮产业的发展也与上海吴淞口国际邮轮港的转型密切相关。"
+        },
+        {
+          "en": "At the 2026 Wusongkou Forum held at Baoshan District on Sunday, industry representatives highlighted the vision of transforming the port from a cruise home port into a comprehensive hub connecting river and sea transportation, while fostering a broader cruise industry {{17}}. As a key gateway for China's cruise industry, Wusongkou International Cruise Terminal has maintained its leading position in the country's cruise market for several consecutive years. In the first three quarters of 2026, cruise ship calls and inbound and outbound passenger traffic at the port accounted for 55% and 76% of the respective national totals, according to Baoshan District People's government. The growing presence of international travelers has also become a notable feature of its operations. On March 28, a registered nearly 5,900 passenger visits marked a new record at the terminal for the highest number of inbound foreign passengers in a single day.",
+          "cn": "在周日于宝山区举行的2026吴淞口论坛上，行业代表强调了将吴淞口从邮轮母港转型为连接江海运输的综合枢纽，同时培育更广泛邮轮产业生态的愿景。作为中国邮轮产业的重要门户，吴淞口国际邮轮港已连续多年保持在中国邮轮市场的领先地位。根据宝山区人民政府的数据，2026年前三季度，该港邮轮靠泊艘次和出入境旅客流量分别占全国总量的55%和76%。国际旅客的日益增多也成为其运营的一个显著特点。3月28日，近5900名注册旅客到访，创下该码头单日入境外国旅客人数的新纪录。"
+        },
+        {
+          "en": "The increase in international cruise passengers comes amid China's expanded visa-free entry policies and {{18}} of inbound tourism. Cruise travel is also emerging as an important channel for overseas tourists to explore China, with Shanghai serving as a major gateway connecting international travelers to more destinations.",
+          "cn": "国际邮轮旅客的增长，正值中国扩大免签入境政策并促进入境旅游便利化之际。邮轮旅行也正成为海外游客探索中国的重要渠道，而上海则是连接国际旅客与更多目的地的主要门户。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "domestically",
+          "hint": "adv. 在国内；国产地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "milestone",
+          "hint": "n. 里程碑",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "systematic",
+          "hint": "adj. 系统性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "coordination",
+          "hint": "n. 协调；协同",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "simulated",
+          "hint": "adj. 模拟的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "assess",
+          "hint": "v. 评估",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "comprehensive",
+          "hint": "adj. 全面的；综合的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "crucial",
+          "hint": "adj. 关键的；至关重要的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "inaugural",
+          "hint": "adj. 首航的；开幕的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "historic",
+          "hint": "adj. 历史性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "berthed",
+          "hint": "v. 停泊；靠泊",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "breakthrough",
+          "hint": "n. 突破",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "serial",
+          "hint": "adj. 系列的；连续的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "complex",
+          "hint": "adj. 复杂的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "extensive",
+          "hint": "adj. 广泛的；大量的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "integration",
+          "hint": "n. 整合；一体化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "transformation",
+          "hint": "n. 转型；转变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "ecosystem",
+          "hint": "n. 生态系统",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "facilitation",
+          "hint": "n. 便利化；促进",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "China's second domestically built large cruise ship, Adora Flora City, departed from Shanghai's Wusongkou International Cruise Terminal on November 9, for its first trial voyage, marking another milestone in the country's efforts to develop its homegrown cruise industry.\nThe vessel is scheduled to arrive at Nansha International Cruise Home Port in Guangzhou, south China's Guangdong Province, on November 12. During the voyage, systematic tests and adjustments will be conducted in areas including maritime operations, navigation safety, products and services, ship-shore coordination, and integrated information systems, according to the operator.\nChina's two domestically built large cruise ships, the Adora Magic City (R) and Adora Flora City (L), docked side by side at Wusongkou International Cruise Terminal in Shanghai, China. /\nUnder simulated real operating conditions, the trial will also assess key passenger experiences, including cabin services, dining, entertainment, shopping and leisure activities, while testing coordination and response capabilities across different departments. The comprehensive testing marks a crucial step toward the ship's commercial operation. Adora Flora City is scheduled to begin its inaugural season on November 22.\nThe ship's departure came just one day after a historic scene unfolded at Wusongkou. On November 8, Adora Flora City and Adora Magic City, China's two domestically built large cruise ships, berthed side by side at Shanghai's Wusongkou International Cruise Terminal for the first time. The two vessels sounded their horns to greet each other.\nThe historic gathering reflects a major step forward for China's shipbuilding industry, from the breakthrough of building its first large cruise ship to developing the capacity for serial production. Large cruise ships are among the most complex engineering projects in the global industrial system, involving extensive coordination across shipbuilding, advanced equipment manufacturing, information technology and supporting industries. The emergence of the two sister ships highlights China's growing capabilities in high-end shipbuilding and industrial integration.\nChina's second domestically built large cruise ship, Adora Flora City. /\nThe development of the cruise industry is also closely tied to the transformation of Shanghai's Wusongkou International Cruise Terminal. At the 2026 Wusongkou Forum held at Baoshan District on Sunday, industry representatives highlighted the vision of transforming the port from a cruise home port into a comprehensive hub connecting river and sea transportation, while fostering a broader cruise industry ecosystem.\nAs a key gateway for China's cruise industry, Wusongkou International Cruise Terminal has maintained its leading position in the country's cruise market for several consecutive years. In the first three quarters of 2026, cruise ship calls and inbound and outbound passenger traffic at the port accounted for 55% and 76% of the respective national totals, according to Baoshan District People's government. The growing presence of international travelers has also become a notable feature of its operations. On March 28, a registered nearly 5,900 passenger visits marked a new record at the terminal for the highest number of inbound foreign passengers in a single day.\nThe increase in international cruise passengers comes amid China's expanded visa-free entry policies and facilitation of inbound tourism. Cruise travel is also emerging as an important channel for overseas tourists to explore China, with Shanghai serving as a major gateway connecting international travelers to more destinations.",
+      "fullTextCn": "中国第二艘国产大型邮轮“爱达·花城号”于11月9日从上海吴淞口国际邮轮港出发，开启首次试航，这标志着中国在发展自主邮轮产业方面又迈出一个里程碑。该船计划于11月12日抵达位于中国南方广东省广州的南沙国际邮轮母港。据运营方介绍，试航期间将在海上运营、航行安全、产品与服务、船岸协同以及综合信息系统等领域开展系统性测试和调整。中国两艘国产大型邮轮——“爱达·魔都号”（右）和“爱达·花城号”（左）并靠在中国上海吴淞口国际邮轮港。/ 在模拟真实运营条件下，此次试航还将评估关键旅客体验，包括客舱服务、餐饮、娱乐、购物和休闲活动，同时测试不同部门之间的协调与响应能力。\n\n此次全面测试标志着该船向商业运营迈出关键一步。“爱达·花城号”计划于11月22日开启首个航季。该船启航前一天，吴淞口刚刚上演了历史性一幕。11月8日，中国两艘国产大型邮轮“爱达·花城号”和“爱达·魔都号”首次并靠在上海吴淞口国际邮轮港。两艘船鸣笛互致问候。\n\n这一历史性聚首反映出中国造船业向前迈出重要一步：从建造首艘大型邮轮的突破，到形成系列化生产能力。大型邮轮是全球工业体系中最复杂的工程项目之一，涉及造船、先进装备制造、信息技术和配套产业之间的广泛协同。两艘姊妹船的出现凸显了中国在高端造船和产业整合方面不断增强的能力。中国第二艘国产大型邮轮“爱达·花城号”。/ 邮轮产业的发展也与上海吴淞口国际邮轮港的转型密切相关。\n\n在周日于宝山区举行的2026吴淞口论坛上，行业代表强调了将吴淞口从邮轮母港转型为连接江海运输的综合枢纽，同时培育更广泛邮轮产业生态的愿景。作为中国邮轮产业的重要门户，吴淞口国际邮轮港已连续多年保持在中国邮轮市场的领先地位。根据宝山区人民政府的数据，2026年前三季度，该港邮轮靠泊艘次和出入境旅客流量分别占全国总量的55%和76%。国际旅客的日益增多也成为其运营的一个显著特点。3月28日，近5900名注册旅客到访，创下该码头单日入境外国旅客人数的新纪录。\n\n国际邮轮旅客的增长，正值中国扩大免签入境政策并促进入境旅游便利化之际。邮轮旅行也正成为海外游客探索中国的重要渠道，而上海则是连接国际旅客与更多目的地的主要门户。"
+    }
+  ]
+}

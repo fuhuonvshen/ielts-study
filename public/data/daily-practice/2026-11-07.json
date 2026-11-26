@@ -1,0 +1,892 @@
+{
+  "date": "2026-11-07",
+  "articles": [
+    {
+      "id": 1,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-04/China-s-APEC-opportunities-AI-native-grid-green-energy-transition-1RNif1v1JrW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "China's APEC opportunities: AI-native grid, green‑energy transition",
+      "titleCn": "中国的APEC机遇：AI原生电网与绿色能源转型",
+      "summary": "China's APEC opportunities: AI-native grid, green‑energy transition",
+      "summaryCn": "中国南方电网专家梁凌宇在APEC会议前夕阐述了AI原生电网范式如何推动绿色能源转型，并提出亚太经济体在联合研发、跨境示范、标准对接和基础设施合作等方面的务实合作路径。",
+      "wordCount": 1256,
+      "paragraphs": [
+        {
+          "en": "A mobile computing‑power vehicle draws visitors at China Southern Power Grid's booth during the 2026 China International Big Data Industry Expo in Guiyang, southwest China's Guizhou Province, August 27, 2026. Editor's note: The APEC Economic Leaders' Meeting will be held in Shenzhen this month. Liang Lingyu, Strategic‑level Expert at China Southern Power Grid and Director of Computing‑Power‑Grid Engineering Company of CSG Digital Research Institute, shares industry insights on the shift toward an AI‑native power grid . He discusses how to align computing workloads with electricity supply and proposes practical APEC cooperation options for green energy and AI integration. Faced with global climate challenges and surging power demand driven by the artificial‑intelligence boom, accelerating green‑energy transition has become an urgent priority to build a power system that is safe, reliable, adequately supplied, {{0}}, {{19}}, sustainable and {{1}}.",
+          "cn": "2026年8月27日，在中国西南部贵州省贵阳市举行的2026中国国际大数据产业博览会上，一辆移动算力车在中国南方电网展台吸引参观者。编者按：APEC经济领导人会议将于本月在深圳举行。中国南方电网战略级专家、南网数字研究院算力电网工程公司总监梁凌宇分享了对向AI原生电网转型的行业见解。他讨论了如何使算力工作负载与电力供应相匹配，并提出了绿色能源与AI融合的APEC务实合作方案。面对全球气候挑战和人工智能热潮驱动的电力需求激增，加速绿色能源转型已成为构建安全、可靠、供应充足、有韧性、包容、可持续且可负担的电力系统的紧迫优先事项。"
+        },
+        {
+          "en": "Advancing {{2}} development of the six key infrastructure networks – water, electricity, computing, communications, urban underground utilities, and logistics – through new‑grid development serves as a major driving force toward this goal. Better planning alignment matches energy demand with clean‑energy supply across geographies. Joint‑facility construction and resource‑sharing cut {{3}} investment, lower energy consumption and reduce costs. Through unified coordination, flexibly‑scheduled power‑intensive activities such as computing workloads can be prioritized at times and locations with abundant green power. This builds a solid green‑energy foundation for more effective climate action, improves the stability, resilience and affordability of energy systems, and better underpins global AI development.",
+          "cn": "通过新电网发展推进水、电、算力、通信、城市地下管线和物流六大关键基础设施网络的协调发展，是实现这一目标的主要驱动力。更好的规划对接使能源需求与跨地域的清洁能源供应相匹配。联合设施建设和资源共享可减少重复投资、降低能源消耗并降低成本。通过统一协调，算力工作负载等可灵活调度的电力密集型活动可以在绿色电力充足的时间和地点优先安排。这为更有效的气候行动奠定了坚实的绿色能源基础，提高了能源系统的稳定性、韧性和可负担性，并更好地支撑全球AI发展。"
+        },
+        {
+          "en": "A critical pathway to deliver this vision lies in the AI‑native {{4}}, which merges the precision, real‑time responsiveness and trustworthiness of energy‑sector operations to integrate general‑purpose and domain‑specific models. By deeply {{5}} artificial intelligence into production workflows and organizational models of the power sector, the AI‑native paradigm provides essential energy‑infrastructure backing for industrial‑AI advancement. Meanwhile, by meeting strict requirements for intelligent perception, dependable decision‑making and secure operation in power systems, it identifies generic {{6}} for intelligent transformation of complex industrial systems and offers technological guidance for broader industrial‑AI upgrading. Why the AI‑native paradigm matters\nAgainst shared pressures from global climate change and the AI revolution, energy constitutes a key battlefield and power systems act as a primary workhorse. Exploring the AI‑native paradigm and realizing two‑way {{7}} between power infrastructure and power‑sector native AI represents a vital pathway toward energy‑system upgrading, green transition, coordinated infrastructure development and industrial‑AI transformation.",
+          "cn": "实现这一愿景的关键路径在于AI原生范式，它融合了能源行业运营的精确性、实时响应能力和可信性，以整合通用模型和领域特定模型。通过将人工智能深度嵌入电力行业的生产流程和组织模式，AI原生范式为工业AI发展提供了必要的能源基础设施支撑。同时，通过满足电力系统在智能感知、可靠决策和安全运行方面的严格要求，它为复杂工业系统的智能化转型确定了通用方法论，并为更广泛的工业AI升级提供了技术指导。AI原生范式为何重要：面对全球气候变化和AI革命的共同压力，能源是关键战场，电力系统是主要工作载体。探索AI原生范式并实现电力基础设施与电力行业原生AI的双向赋能，是通往能源系统升级、绿色转型、基础设施协调发展和工业AI转型的重要路径。"
+        },
+        {
+          "en": "Power systems possess unique strengths in terms of public‑service mandate, strategic importance and system complexity. Delivering technical breakthroughs of the AI‑native energy architecture within industrial scenarios can realize dual dividends: robust energy‑infrastructure support and innovation‑driven leadership, which in turn accelerate overall industrial‑AI progress and digital‑intelligent upgrading across real‑economy industries. First, as foundational infrastructure linking energy production, industrial operations, urban governance and social livelihoods, advances in the AI‑native paradigm will upgrade energy systems and deliver more stable, reliable and affordable power supplies to underpin large‑scale deployment of industrial‑AI applications. Furthermore, power systems serve as a representative test‑bed for exploring industry‑native AI. Power supply requires real‑time supply‑demand balance; generation, transmission and consumption are tightly {{9}}, and all operations must satisfy {{8}} safety rules.",
+          "cn": "电力系统在公共服务使命、战略重要性和系统复杂性方面具有独特优势。在工业场景中实现AI原生能源架构的技术突破可以带来双重红利：强大的能源基础设施支撑和创新驱动的引领作用，进而加速整体工业AI进步和实体经济行业的数字智能升级。首先，作为连接能源生产、工业运营、城市治理和社会民生的基础基础设施，AI原生范式的进步将升级能源系统，提供更稳定、可靠和可负担的电力供应，以支撑工业AI应用的大规模部署。此外，电力系统是探索行业原生AI的代表性试验场。电力供应需要实时供需平衡；发电、输电和用电紧密互联，所有运营都必须满足严格的安全规则。"
+        },
+        {
+          "en": "As growing volumes of variable‑renewable‑energy generation from wind and solar feed into grids, closer coordination is needed among power‑generation, end‑use and energy‑storage assets, raising operational and coordination complexity. AI must interpret physical laws governing power‑system behavior, detect evolving conditions and make robust decisions under complex {{10}} to guarantee operational safety. These challenges are widely shared across other industrial sectors. For this reason, technical advances and practical experience from the AI‑native paradigm can deliver valuable reference for other industries and {{11}} broader industrial‑AI development. China's practice\nConfronted with global climate change and heavy power loads brought by artificial‑intelligence expansion, China is advancing new‑grid development to boost coordination across the six key infrastructure networks, advance green‑energy transition and build a stable, clean, sufficient and affordable energy foundation for AI growth.",
+          "cn": "随着风能和太阳能等可变可再生能源发电量不断增长并接入电网，发电、终端用电和储能资产之间需要更紧密的协调，这提高了运营和协调的复杂性。AI必须解读支配电力系统行为的物理规律，检测不断变化的条件，并在复杂约束下做出稳健决策以保证运营安全。这些挑战在其他工业部门也普遍存在。因此，AI原生范式的技术进步和实践经验可以为其他行业提供宝贵参考，并催化更广泛的工业AI发展。中国的实践：面对全球气候变化和人工智能扩张带来的沉重电力负荷，中国正在推进新电网发展，以促进六大关键基础设施网络的协调，推进绿色能源转型，并为AI增长构建稳定、清洁、充足且可负担的能源基础。"
+        },
+        {
+          "en": "The AI‑native paradigm provides core technical support for this undertaking. To satisfy requirements for coordinated national critical‑infrastructure development featuring \"unified dispatching, tiered management and on‑site decision‑making\", China has proposed and is implementing an integrated technical framework built on four pillars: AI‑native interaction, AI‑native architecture, AI‑native processes, and AI‑native tool integration. AI‑native interaction: allows operators to submit requirements and complete tasks using everyday‑language inputs, lowering technical barriers for cross‑network business workflows. AI‑native architecture: reorganizes industry‑wide digital underpinnings around AI, enabling {{12}} among diverse agents, algorithms and models and advancing connectivity across intelligent systems of the six key infrastructure networks. AI‑native processes: empowers intelligent agents serving the six key infrastructure networks to {{13}} generate solutions and collaborate on tasks, supporting integrated planning and sequenced construction of cross‑network infrastructure.",
+          "cn": "AI原生范式为这一事业提供了核心技术支撑。为满足以“统一调度、分级管理、就地决策”为特征的国家关键基础设施协调发展的要求，中国提出并正在实施一个基于四大支柱的综合技术框架：AI原生交互、AI原生架构、AI原生流程和AI原生工具集成。AI原生交互：允许操作员使用日常语言输入提交需求并完成任务，降低跨网络业务工作流程的技术门槛。AI原生架构：围绕AI重组全行业数字基础，实现多种智能体、算法和模型之间的互操作性，并推进六大关键基础设施网络智能系统之间的互联互通。AI原生流程：赋能服务于六大关键基础设施网络的智能体自主生成解决方案并协作完成任务，支持跨网络基础设施的综合规划和有序建设。"
+        },
+        {
+          "en": "AI‑native tool integration: unifies access to diverse professional tools, maps equipment, business workflows and inter‑relationships within the six key infrastructure networks, and enables AI to invoke relevant tools on‑demand for joint task delivery. This technical framework is being put into practice at China Southern Power Grid, enabling coordinated planning, construction, dispatching and operation of related infrastructure. Through its E‑Hong AI innovation platform, China Southern Power Grid interconnects grid equipment, operational systems and artificial‑intelligence capabilities, merging previously {{14}} data and tool‑sets for seamless workflows – an illustration of AI‑native architecture. For grid‑construction planning, operators can submit work requirements in conversational natural‑language to Da‑Wate, eliminating {{15}} manual operations, embodying AI‑native interaction. Its companion module Da‑Wate Yun‑Rui then analyses where and how much grid capacity should be built, and automatically generates plans and reports.",
+          "cn": "AI原生工具集成：统一对多种专业工具的访问，映射六大关键基础设施网络内的设备、业务工作流程和相互关系，并使AI能够按需调用相关工具以协同完成任务交付。这一技术框架正在中国南方电网付诸实践，实现相关基础设施的协调规划、建设、调度和运营。通过其E-Hong AI创新平台，中国南方电网将电网设备、运营系统和人工智能能力互联互通，合并了此前孤立的数据和工具集以实现无缝工作流程——这是AI原生架构的一个例证。对于电网建设规划，操作员可以用对话式自然语言向Da-Wate提交工作要求，消除繁琐的人工操作，体现AI原生交互。其配套模块Da-Wate Yun-Rui随后分析应在何处建设以及建设多少电网容量，并自动生成计划和报告。"
+        },
+        {
+          "en": "Tasks that once took multiple days can now be finished within 10 minutes, with AI driving end‑to‑end workflows – demonstrating AI‑native processes. In power dispatching, Tian‑Quan performs high‑speed complex calculations based on generation‑load conditions and grid‑safety constraints. It supports power‑market participants in determining traded energy volumes and prices, furnishing appropriate specialized computing resources for AI‑driven professional tasks, representing AI‑native tool integration. For equipment inspection, artificial‑intelligence models process inspection imagery to identify line hazards and equipment defects, guiding maintenance {{16}}. This shifts equipment upkeep from rigid calendar‑based checks toward condition‑driven maintenance, another real‑world instance of AI‑native processes.",
+          "cn": "曾经需要数天的任务现在可以在10分钟内完成，AI驱动端到端工作流程——展示了AI原生流程。在电力调度中，Tian-Quan根据发电负荷条件和电网安全约束执行高速复杂计算。它支持电力市场参与者确定交易电量和价格，为AI驱动的专业任务提供适当的专业计算资源，代表AI原生工具集成。对于设备巡检，人工智能模型处理巡检图像以识别线路隐患和设备缺陷，指导维护优先级排序。这将设备维护从僵化的基于日历的检查转向基于状态的维护，这是AI原生流程的另一个现实实例。"
+        },
+        {
+          "en": "These domestic explorations open new avenues for Asia‑Pacific economies to develop clean energy and build smarter infrastructure. Asia-Pacific green energy integration\nChina's experience with technical innovation under the AI‑native paradigm and coordinated deployment of the six key infrastructure networks offers fresh cooperative approaches for Asia‑Pacific green‑energy transition and AI‑energy integration. Going forward, APEC economies can deepen multi‑level, cross‑border collaboration across several dimensions:\nJoint R&D: Co‑develop AI‑enhanced approaches to boost variable renewable energy {{20}} for wind and solar power. Explore how to align computing workloads with electricity supply to foster more stable, reliable and greener grid operation. Cross‑border demonstration projects: Launch joint pilots on power‑sector AI and clean‑energy solutions tailored to local energy {{17}} and practical needs of individual economies.",
+          "cn": "这些国内探索为亚太经济体发展清洁能源和建设更智能的基础设施开辟了新途径。亚太绿色能源一体化：中国在AI原生范式下技术创新和六大关键基础设施网络协调部署方面的经验，为亚太绿色能源转型和AI-能源融合提供了新的合作方式。展望未来，APEC经济体可以在多个层面深化多层次、跨境合作：联合研发：共同开发AI增强方法，以提高风能和太阳能等可变可再生能源的利用率。探索如何使算力工作负载与电力供应相匹配，以促进更稳定、可靠和更绿色的电网运营。跨境示范项目：针对各经济体的当地能源禀赋和实际需求，启动电力行业AI和清洁能源解决方案的联合试点。"
+        },
+        {
+          "en": "Test coordinated planning, construction and operation of supporting facilities to accelerate translation of research outputs into real‑world deployment. Standards alignment and knowledge sharing: Encourage participation in international‑standards‑setting. Exchange technical specifications, data‑exchange protocols and usage rules to improve interoperability of equipment and systems across borders, and enable coordinated dispatching of emergency‑response resources. Infrastructure and industrial cooperation: Promote resource‑sharing and coordinated operation across water‑supply, power, computing, communications, urban‑underground‑utility and logistics infrastructure. Examples include scheduling computing workloads in response to power‑generation profiles, and integrated laying of pipelines and cables during urban‑renovation programmes.",
+          "cn": "测试配套设施的协调规划、建设和运营，以加速研究成果向现实部署的转化。标准对接和知识共享：鼓励参与国际标准制定。交流技术规范、数据交换协议和使用规则，以提高跨境设备和系统的互操作性，并实现应急响应资源的协调调度。基础设施和产业合作：促进供水、电力、算力、通信、城市地下管线和物流基础设施的资源共享和协调运营。示例包括根据发电情况调度算力工作负载，以及在城市改造项目中综合铺设管道和电缆。"
+        },
+        {
+          "en": "Expand cross‑regional and cross‑enterprise collaboration to reduce redundant construction and resource waste, improve variable‑renewable‑energy utilization, and cut energy use and carbon emissions during construction and operation. Looking ahead, through co‑innovation on technologies, co‑building of use‑case scenarios, {{18}} standards and win‑win ecosystem development, APEC economies can accelerate delivery of a green, smart, reliable and inclusive modern energy and infrastructure system.",
+          "cn": "扩大跨区域和跨企业合作，以减少重复建设和资源浪费，提高可变可再生能源利用率，并减少建设和运营期间的能源使用和碳排放。展望未来，通过技术共同创新、应用场景共建、标准协调和共赢生态发展，APEC经济体可以加速交付绿色、智能、可靠和包容的现代能源和基础设施系统。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "resilient",
+          "hint": "adj. 有韧性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "affordable",
+          "hint": "adj. 可负担的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 2,
+          "answer": "coordinated",
+          "hint": "adj. 协调的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "redundant",
+          "hint": "adj. 多余的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "paradigm",
+          "hint": "n. 范式",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "embedding",
+          "hint": "v. 嵌入",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "methodologies",
+          "hint": "n. 方法论",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "empowerment",
+          "hint": "n. 赋能",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "stringent",
+          "hint": "adj. 严格的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "interconnected",
+          "hint": "adj. 互联的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "constraints",
+          "hint": "n. 约束",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "catalyses",
+          "hint": "v. 催化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "interoperability",
+          "hint": "n. 互操作性",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "autonomously",
+          "hint": "adv. 自主地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "answer": "siloed",
+          "hint": "adj. 孤立的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "cumbersome",
+          "hint": "adj. 繁琐的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "prioritisation",
+          "hint": "n. 优先级排序",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "endowments",
+          "hint": "n. 禀赋",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "harmonized",
+          "hint": "adj. 协调统一的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "inclusive",
+          "hint": "adj. 包容的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "utilization",
+          "hint": "n. 利用",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "A mobile computing‑power vehicle draws visitors at China Southern Power Grid's booth during the 2026 China International Big Data Industry Expo in Guiyang, southwest China's Guizhou Province, August 27, 2026. \nEditor's note: The APEC Economic Leaders' Meeting will be held in Shenzhen this month. Liang Lingyu, Strategic‑level Expert at China Southern Power Grid and Director of Computing‑Power‑Grid Engineering Company of CSG Digital Research Institute, shares industry insights on the shift toward an AI‑native power grid . He discusses how to align computing workloads with electricity supply and proposes practical APEC cooperation options for green energy and AI integration.\nFaced with global climate challenges and surging power demand driven by the artificial‑intelligence boom, accelerating green‑energy transition has become an urgent priority to build a power system that is safe, reliable, adequately supplied, resilient, inclusive, sustainable and affordable.\nAdvancing coordinated development of the six key infrastructure networks – water, electricity, computing, communications, urban underground utilities, and logistics – through new‑grid development serves as a major driving force toward this goal.\nBetter planning alignment matches energy demand with clean‑energy supply across geographies.\nJoint‑facility construction and resource‑sharing cut redundant investment, lower energy consumption and reduce costs.\nThrough unified coordination, flexibly‑scheduled power‑intensive activities such as computing workloads can be prioritized at times and locations with abundant green power.\nThis builds a solid green‑energy foundation for more effective climate action, improves the stability, resilience and affordability of energy systems, and better underpins global AI development.\nA critical pathway to deliver this vision lies in the AI‑native paradigm, which merges the precision, real‑time responsiveness and trustworthiness of energy‑sector operations to integrate general‑purpose and domain‑specific models.\nBy deeply embedding artificial intelligence into production workflows and organizational models of the power sector, the AI‑native paradigm provides essential energy‑infrastructure backing for industrial‑AI advancement.\nMeanwhile, by meeting strict requirements for intelligent perception, dependable decision‑making and secure operation in power systems, it identifies generic methodologies for intelligent transformation of complex industrial systems and offers technological guidance for broader industrial‑AI upgrading.\nWhy the AI‑native paradigm matters\nAgainst shared pressures from global climate change and the AI revolution, energy constitutes a key battlefield and power systems act as a primary workhorse.\nExploring the AI‑native paradigm and realizing two‑way empowerment between power infrastructure and power‑sector native AI represents a vital pathway toward energy‑system upgrading, green transition, coordinated infrastructure development and industrial‑AI transformation.\nPower systems possess unique strengths in terms of public‑service mandate, strategic importance and system complexity.\nDelivering technical breakthroughs of the AI‑native energy architecture within industrial scenarios can realize dual dividends: robust energy‑infrastructure support and innovation‑driven leadership, which in turn accelerate overall industrial‑AI progress and digital‑intelligent upgrading across real‑economy industries.\nFirst, as foundational infrastructure linking energy production, industrial operations, urban governance and social livelihoods, advances in the AI‑native paradigm will upgrade energy systems and deliver more stable, reliable and affordable power supplies to underpin large‑scale deployment of industrial‑AI applications.\nFurthermore, power systems serve as a representative test‑bed for exploring industry‑native AI.\nPower supply requires real‑time supply‑demand balance; generation, transmission and consumption are tightly interconnected, and all operations must satisfy stringent safety rules.\nAs growing volumes of variable‑renewable‑energy generation from wind and solar feed into grids, closer coordination is needed among power‑generation, end‑use and energy‑storage assets, raising operational and coordination complexity.\nAI must interpret physical laws governing power‑system behavior, detect evolving conditions and make robust decisions under complex constraints to guarantee operational safety.\nThese challenges are widely shared across other industrial sectors.\nFor this reason, technical advances and practical experience from the AI‑native paradigm can deliver valuable reference for other industries and catalyses broader industrial‑AI development.\nChina's practice\nConfronted with global climate change and heavy power loads brought by artificial‑intelligence expansion, China is advancing new‑grid development to boost coordination across the six key infrastructure networks, advance green‑energy transition and build a stable, clean, sufficient and affordable energy foundation for AI growth.\nThe AI‑native paradigm provides core technical support for this undertaking.\nTo satisfy requirements for coordinated national critical‑infrastructure development featuring \"unified dispatching, tiered management and on‑site decision‑making\", China has proposed and is implementing an integrated technical framework built on four pillars: AI‑native interaction, AI‑native architecture, AI‑native processes, and AI‑native tool integration.\nAI‑native interaction: allows operators to submit requirements and complete tasks using everyday‑language inputs, lowering technical barriers for cross‑network business workflows.\nAI‑native architecture: reorganizes industry‑wide digital underpinnings around AI, enabling interoperability among diverse agents, algorithms and models and advancing connectivity across intelligent systems of the six key infrastructure networks.\nAI‑native processes: empowers intelligent agents serving the six key infrastructure networks to autonomously generate solutions and collaborate on tasks, supporting integrated planning and sequenced construction of cross‑network infrastructure.\nAI‑native tool integration: unifies access to diverse professional tools, maps equipment, business workflows and inter‑relationships within the six key infrastructure networks, and enables AI to invoke relevant tools on‑demand for joint task delivery.\nThis technical framework is being put into practice at China Southern Power Grid, enabling coordinated planning, construction, dispatching and operation of related infrastructure.\nThrough its E‑Hong AI innovation platform, China Southern Power Grid interconnects grid equipment, operational systems and artificial‑intelligence capabilities, merging previously siloed data and tool‑sets for seamless workflows – an illustration of AI‑native architecture.\nFor grid‑construction planning, operators can submit work requirements in conversational natural‑language to Da‑Wate, eliminating cumbersome manual operations, embodying AI‑native interaction.\nIts companion module Da‑Wate Yun‑Rui then analyses where and how much grid capacity should be built, and automatically generates plans and reports.\nTasks that once took multiple days can now be finished within 10 minutes, with AI driving end‑to‑end workflows – demonstrating AI‑native processes.\nIn power dispatching, Tian‑Quan performs high‑speed complex calculations based on generation‑load conditions and grid‑safety constraints.\nIt supports power‑market participants in determining traded energy volumes and prices, furnishing appropriate specialized computing resources for AI‑driven professional tasks, representing AI‑native tool integration.\nFor equipment inspection, artificial‑intelligence models process inspection imagery to identify line hazards and equipment defects, guiding maintenance prioritisation.\nThis shifts equipment upkeep from rigid calendar‑based checks toward condition‑driven maintenance, another real‑world instance of AI‑native processes.\nThese domestic explorations open new avenues for Asia‑Pacific economies to develop clean energy and build smarter infrastructure.\nAsia-Pacific green energy integration\nChina's experience with technical innovation under the AI‑native paradigm and coordinated deployment of the six key infrastructure networks offers fresh cooperative approaches for Asia‑Pacific green‑energy transition and AI‑energy integration.\nGoing forward, APEC economies can deepen multi‑level, cross‑border collaboration across several dimensions:\nJoint R&D: Co‑develop AI‑enhanced approaches to boost variable renewable energy utilization for wind and solar power. Explore how to align computing workloads with electricity supply to foster more stable, reliable and greener grid operation.\nCross‑border demonstration projects: Launch joint pilots on power‑sector AI and clean‑energy solutions tailored to local energy endowments and practical needs of individual economies. Test coordinated planning, construction and operation of supporting facilities to accelerate translation of research outputs into real‑world deployment.\nStandards alignment and knowledge sharing: Encourage participation in international‑standards‑setting. Exchange technical specifications, data‑exchange protocols and usage rules to improve interoperability of equipment and systems across borders, and enable coordinated dispatching of emergency‑response resources.\nInfrastructure and industrial cooperation: Promote resource‑sharing and coordinated operation across water‑supply, power, computing, communications, urban‑underground‑utility and logistics infrastructure. Examples include scheduling computing workloads in response to power‑generation profiles, and integrated laying of pipelines and cables during urban‑renovation programmes. Expand cross‑regional and cross‑enterprise collaboration to reduce redundant construction and resource waste, improve variable‑renewable‑energy utilization, and cut energy use and carbon emissions during construction and operation.\nLooking ahead, through co‑innovation on technologies, co‑building of use‑case scenarios, harmonized standards and win‑win ecosystem development, APEC economies can accelerate delivery of a green, smart, reliable and inclusive modern energy and infrastructure system.",
+      "fullTextCn": "2026年8月27日，在中国西南部贵州省贵阳市举行的2026中国国际大数据产业博览会上，一辆移动算力车在中国南方电网展台吸引参观者。编者按：APEC经济领导人会议将于本月在深圳举行。中国南方电网战略级专家、南网数字研究院算力电网工程公司总监梁凌宇分享了对向AI原生电网转型的行业见解。他讨论了如何使算力工作负载与电力供应相匹配，并提出了绿色能源与AI融合的APEC务实合作方案。面对全球气候挑战和人工智能热潮驱动的电力需求激增，加速绿色能源转型已成为构建安全、可靠、供应充足、有韧性、包容、可持续且可负担的电力系统的紧迫优先事项。\n\n通过新电网发展推进水、电、算力、通信、城市地下管线和物流六大关键基础设施网络的协调发展，是实现这一目标的主要驱动力。更好的规划对接使能源需求与跨地域的清洁能源供应相匹配。联合设施建设和资源共享可减少重复投资、降低能源消耗并降低成本。通过统一协调，算力工作负载等可灵活调度的电力密集型活动可以在绿色电力充足的时间和地点优先安排。这为更有效的气候行动奠定了坚实的绿色能源基础，提高了能源系统的稳定性、韧性和可负担性，并更好地支撑全球AI发展。\n\n实现这一愿景的关键路径在于AI原生范式，它融合了能源行业运营的精确性、实时响应能力和可信性，以整合通用模型和领域特定模型。通过将人工智能深度嵌入电力行业的生产流程和组织模式，AI原生范式为工业AI发展提供了必要的能源基础设施支撑。同时，通过满足电力系统在智能感知、可靠决策和安全运行方面的严格要求，它为复杂工业系统的智能化转型确定了通用方法论，并为更广泛的工业AI升级提供了技术指导。AI原生范式为何重要：面对全球气候变化和AI革命的共同压力，能源是关键战场，电力系统是主要工作载体。探索AI原生范式并实现电力基础设施与电力行业原生AI的双向赋能，是通往能源系统升级、绿色转型、基础设施协调发展和工业AI转型的重要路径。\n\n电力系统在公共服务使命、战略重要性和系统复杂性方面具有独特优势。在工业场景中实现AI原生能源架构的技术突破可以带来双重红利：强大的能源基础设施支撑和创新驱动的引领作用，进而加速整体工业AI进步和实体经济行业的数字智能升级。首先，作为连接能源生产、工业运营、城市治理和社会民生的基础基础设施，AI原生范式的进步将升级能源系统，提供更稳定、可靠和可负担的电力供应，以支撑工业AI应用的大规模部署。此外，电力系统是探索行业原生AI的代表性试验场。电力供应需要实时供需平衡；发电、输电和用电紧密互联，所有运营都必须满足严格的安全规则。\n\n随着风能和太阳能等可变可再生能源发电量不断增长并接入电网，发电、终端用电和储能资产之间需要更紧密的协调，这提高了运营和协调的复杂性。AI必须解读支配电力系统行为的物理规律，检测不断变化的条件，并在复杂约束下做出稳健决策以保证运营安全。这些挑战在其他工业部门也普遍存在。因此，AI原生范式的技术进步和实践经验可以为其他行业提供宝贵参考，并催化更广泛的工业AI发展。中国的实践：面对全球气候变化和人工智能扩张带来的沉重电力负荷，中国正在推进新电网发展，以促进六大关键基础设施网络的协调，推进绿色能源转型，并为AI增长构建稳定、清洁、充足且可负担的能源基础。\n\nAI原生范式为这一事业提供了核心技术支撑。为满足以“统一调度、分级管理、就地决策”为特征的国家关键基础设施协调发展的要求，中国提出并正在实施一个基于四大支柱的综合技术框架：AI原生交互、AI原生架构、AI原生流程和AI原生工具集成。AI原生交互：允许操作员使用日常语言输入提交需求并完成任务，降低跨网络业务工作流程的技术门槛。AI原生架构：围绕AI重组全行业数字基础，实现多种智能体、算法和模型之间的互操作性，并推进六大关键基础设施网络智能系统之间的互联互通。AI原生流程：赋能服务于六大关键基础设施网络的智能体自主生成解决方案并协作完成任务，支持跨网络基础设施的综合规划和有序建设。\n\nAI原生工具集成：统一对多种专业工具的访问，映射六大关键基础设施网络内的设备、业务工作流程和相互关系，并使AI能够按需调用相关工具以协同完成任务交付。这一技术框架正在中国南方电网付诸实践，实现相关基础设施的协调规划、建设、调度和运营。通过其E-Hong AI创新平台，中国南方电网将电网设备、运营系统和人工智能能力互联互通，合并了此前孤立的数据和工具集以实现无缝工作流程——这是AI原生架构的一个例证。对于电网建设规划，操作员可以用对话式自然语言向Da-Wate提交工作要求，消除繁琐的人工操作，体现AI原生交互。其配套模块Da-Wate Yun-Rui随后分析应在何处建设以及建设多少电网容量，并自动生成计划和报告。\n\n曾经需要数天的任务现在可以在10分钟内完成，AI驱动端到端工作流程——展示了AI原生流程。在电力调度中，Tian-Quan根据发电负荷条件和电网安全约束执行高速复杂计算。它支持电力市场参与者确定交易电量和价格，为AI驱动的专业任务提供适当的专业计算资源，代表AI原生工具集成。对于设备巡检，人工智能模型处理巡检图像以识别线路隐患和设备缺陷，指导维护优先级排序。这将设备维护从僵化的基于日历的检查转向基于状态的维护，这是AI原生流程的另一个现实实例。\n\n这些国内探索为亚太经济体发展清洁能源和建设更智能的基础设施开辟了新途径。亚太绿色能源一体化：中国在AI原生范式下技术创新和六大关键基础设施网络协调部署方面的经验，为亚太绿色能源转型和AI-能源融合提供了新的合作方式。展望未来，APEC经济体可以在多个层面深化多层次、跨境合作：联合研发：共同开发AI增强方法，以提高风能和太阳能等可变可再生能源的利用率。探索如何使算力工作负载与电力供应相匹配，以促进更稳定、可靠和更绿色的电网运营。跨境示范项目：针对各经济体的当地能源禀赋和实际需求，启动电力行业AI和清洁能源解决方案的联合试点。\n\n测试配套设施的协调规划、建设和运营，以加速研究成果向现实部署的转化。标准对接和知识共享：鼓励参与国际标准制定。交流技术规范、数据交换协议和使用规则，以提高跨境设备和系统的互操作性，并实现应急响应资源的协调调度。基础设施和产业合作：促进供水、电力、算力、通信、城市地下管线和物流基础设施的资源共享和协调运营。示例包括根据发电情况调度算力工作负载，以及在城市改造项目中综合铺设管道和电缆。\n\n扩大跨区域和跨企业合作，以减少重复建设和资源浪费，提高可变可再生能源利用率，并减少建设和运营期间的能源使用和碳排放。展望未来，通过技术共同创新、应用场景共建、标准协调和共赢生态发展，APEC经济体可以加速交付绿色、智能、可靠和包容的现代能源和基础设施系统。"
+    },
+    {
+      "id": 2,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://newsaf.cgtn.com/news/2026-11-04/Africa-s-El-Nino-readiness-From-early-warning-to-early-action-1RMjIeXKeCk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Africa's El Nino readiness: From early warning to early action",
+      "titleCn": "非洲应对厄尔尼诺：从早期预警到早期行动",
+      "summary": "The intensifying El Nino weather phenomenon has divided Sub-Saharan Africa along extreme meteorological lines, precipitating a dual crisis. East Africa faces severe flooding and Southern Africa suffers from parched droughts. Modern climate science successfully anticipates these environmental shocks months in advance.",
+      "summaryCn": "非洲虽能提前数月预测厄尔尼诺等气候冲击，但因官僚、结构和资金脱节，预警难以转化为早期行动，亟需弥合这一鸿沟。",
+      "wordCount": 903,
+      "paragraphs": [
+        {
+          "en": "Editor's note: Talk Africa is a weekly talk show that brings together guests from across Africa and beyond to discuss pressing African issues and global topics, amplifying the continent's voice and showcasing diverse perspectives and independent thinking. This episode examines Africa's preparedness for the devastating impacts of El Nino and explores how to bridge the gap between early warning and early action. The intensifying El Nino weather phenomenon has divided Sub-Saharan Africa along extreme meteorological lines, {{0}} a dual crisis. East Africa faces severe flooding and Southern Africa suffers from parched droughts. Modern climate science successfully {{1}} these environmental shocks months in advance.",
+          "cn": "编者按：《Talk Africa》是一档每周脱口秀节目，汇聚来自非洲及世界各地的嘉宾，讨论紧迫的非洲议题和全球话题，放大非洲大陆的声音，展示多元视角和独立思考。本期节目审视非洲对厄尔尼诺破坏性影响的准备情况，并探讨如何弥合早期预警与早期行动之间的差距。日益加剧的厄尔尼诺天气现象以极端气象界线将撒哈拉以南非洲一分为二，引发双重危机。东非面临严重洪灾，南部非洲则遭受干旱炙烤。现代气候科学成功提前数月预判这些环境冲击。"
+        },
+        {
+          "en": "Despite this accuracy, an expert panel discussion on Talk Africa revealed that the continent's most severe {{2}} stem from {{3}}, structural, and financial disconnects rather than the weather patterns themselves. Early warnings are routinely generated. However, they frequently fail to inspire early action. Eliminating this operational divide has become an urgent developmental necessity to prevent predictable seasonal hazards from defaulting into major humanitarian {{4}}. FILE: A climate expert looks at potential hazards in East Africa at the IGAD Climate Prediction and Application Center in Kenya.",
+          "cn": "尽管预测准确，但《Talk Africa》的一场专家小组讨论揭示，非洲大陆最严重的脆弱性源于官僚、结构和财政上的脱节，而非天气模式本身。早期预警照常发布，却常常无法激发早期行动。消除这一操作层面的鸿沟已成为紧迫的发展必需，以防止可预测的季节性灾害沦为重大人道主义灾难。资料图：一名气候专家在肯尼亚的政府间发展组织气候预测与应用中心查看东非潜在灾害。"
+        },
+        {
+          "en": "A primary operational blind spot lies within the current structure of regional meteorological modeling. National climate providers excel at predicting broad weather patterns. Even so, Eunice Koech, a Climate Modeling Specialist at the IGAD Climate Prediction and Applications Center, noted that a lack of {{5}} {{6}} and vulnerability data poses distinct challenges. \"Impact-based forecasting is something that is coming up and we have less information out there,\" Koech explained. Meteorologists know whether to expect a flood or a drought, but they still lack information regarding the specific impacts these hazards will have on agriculture and {{7}}.",
+          "cn": "一个主要的操作盲点在于当前区域气象建模的结构。国家气候机构擅长预测大范围天气模式。然而，政府间发展组织气候预测与应用中心的气候建模专家尤妮斯·科奇指出，缺乏全面的社会经济和脆弱性数据构成了独特挑战。科奇解释说：“基于影响的预报正在兴起，但我们掌握的信息较少。”气象学家知道要预期洪水还是干旱，但仍缺乏关于这些灾害将对农业和基础设施造成具体影响的信息。"
+        },
+        {
+          "en": "Weather risks influenced by El Nino are forecast to span dynamically from late September into January. Due to this long timeline, the persistent inability to deliver highly specific, localized {{8}} leaves vulnerable populations entirely exposed during narrow action windows. A general view of parched land showing deep surface cracks following several consecutive weeks without rainfall in southern Madagascar, September 24, 2026. This data {{9}} is compounded by a profound temporal and bureaucratic mismatch in public resource allocation. Reliable seasonal forecasts are routinely available up to three months in advance.",
+          "cn": "受厄尔尼诺影响的天气风险预计将从9月下旬动态持续至1月。由于时间跨度长，持续无法提供高度具体、本地化的预警建议，使脆弱人群在狭窄的行动窗口期完全暴露。2026年9月24日，马达加斯加南部连续数周无降雨后，干裂土地上的深表土裂缝。这种数据缺失因公共资源分配中深刻的时间与官僚错配而加剧。可靠的季节性预报通常可提前三个月获得。"
+        },
+        {
+          "en": "Unfortunately, the spatial window for pre-emptive action is consistently missed because state funds remain rigidly {{10}} for aftermath management. Koech observes that \"most of the funding that is allocated is mainly for response and recovery.\" Besides, administrative processes remain far too slow to {{11}} funds within the small action windows available. Consequently, scientific data is widely {{12}}, but it often lacks {{13}}, contextual advice. Emmah Mwangi, a Climate Scientist with the International Federation of Red Cross and Red Crescent Societies, noted that simply warning communities of above-average rainfall is ineffective if individuals lack the capacity to respond. \"Though we have early warning to communities, to the government, do we know what we're expected to do?\" Mwangi posed.",
+          "cn": "不幸的是，预防性行动的空间窗口一再错过，因为国家资金仍 rigidly  earmarked 用于灾后管理。科奇观察到，“大部分拨款主要用于响应和恢复。”此外，行政流程过于缓慢，无法在可用的短暂行动窗口内重新分配资金。因此，科学数据广泛传播，但往往缺乏可操作、结合情境的建议。红十字会与红新月会国际联合会气候科学家埃玛·姆旺吉指出，如果个人缺乏响应能力，仅仅警告社区降雨量高于平均水平是无效的。“尽管我们向社区、向政府发出了早期预警，但我们知道预期该做什么吗？”姆旺吉问道。"
+        },
+        {
+          "en": "People might receive a warning, yet they rarely understand its practical {{14}} or possess the financial means to act on the information. In this photo released by Ghana's National Disaster Management Organisation, flooded neighbourhoods are seen in Accra, Ghana, Monday, June 29, 2026. Maintaining a {{15}} posture comes with a {{16}} high economic cost. Proactive planning offers a much more sustainable developmental path. The African Development Bank (AfDB) warns that these recurring climate events could permanently reduce national GDP by 1–2%, making reactive planning an unaffordable choice.",
+          "cn": "人们可能收到预警，却很少理解其实际含义，也不具备根据信息采取行动的经济手段。在这张由加纳国家灾害管理组织发布的照片中，2026年6月29日星期一，加纳阿克拉的洪水淹没街区。保持被动应对姿态会带来惊人的高昂经济成本。主动规划则提供了一条更可持续的发展路径。非洲开发银行警告，这些反复出现的气候事件可能永久性削减国家GDP的1%至2%，使被动规划成为无法承受的选择。"
+        },
+        {
+          "en": "Managing disasters post-facto is the traditional norm. Breaking with this tradition, Bhekumuzi Dean Bhebhe, Founder and Director of Africa Change Lab, argues that governments must treat El Nino as a predictable fiscal risk on national balance sheets. Governments must immediately deploy three fundamental economic shock absorbers: scalable social protection networks, pre-emptive defense for the productive economy, and pre-arranged {{18}} financing. Bhebhe emphasizes that \"the choice is not between spending money and saving money.\" He clarifies that \"the choice is between paying a smaller bill before the crisis hits or a much larger one afterwards.\"\nTraditional global climate funding faces severe budget cuts. To counter this, Africa must aggressively {{19}} its internal {{20}} finance architecture.",
+          "cn": "灾后管理灾难是传统常态。非洲变革实验室创始人兼主任贝库穆齐·迪恩·贝贝打破这一传统，主张政府必须将厄尔尼诺视为国家资产负债表上可预测的财政风险。政府必须立即部署三大基本经济冲击吸收器：可扩展的社会保护网络、生产性经济的预防性防御，以及预先安排的应急融资。贝贝强调，“选择不是在花钱和省钱之间。”他澄清说，“选择是在危机来袭前支付较小账单，还是在事后支付大得多的账单。”传统的全球气候资金面临严重预算削减。为应对这一局面，非洲必须积极多元化其内部韧性融资架构。"
+        },
+        {
+          "en": "Bhebhe asserts that \"we need to create our own African transformation fund that is really deeply rooted in actually addressing such crises such as the El Nino.\"\nFILE: A farmer shows an empty maize cob on his farm in Eldoret, Kenya. Ultimately, {{21}} these climate impacts requires redefining how communities interact with science on the ground. Mwangi notes that major structural overhauls are necessary, but individuals frequently look at a single seasonal forecast and ignore the vital updates released bi-weekly or weekly. She urges everyone to closely track weekly and monthly forecast updates rather than relying only on the initial seasonal outlook. An initial forecast sets the baseline.",
+          "cn": "贝贝断言，“我们需要建立自己的非洲转型基金，真正深深扎根于解决厄尔尼诺等危机。”资料图：肯尼亚埃尔多雷特，一位农民展示空玉米棒。最终，减轻这些气候影响需要重新定义社区如何在实地与科学互动。姆旺吉指出，重大结构性改革是必要的，但个人常常只看单一的季节性预报，而忽视每两周或每周发布的重要更新。她敦促每个人密切关注每周和每月的预报更新，而不是仅依赖最初的季节性展望。初始预报设定基线。"
+        },
+        {
+          "en": "In contrast, monitoring regular updates allows lowland residents to evacuate flood zones. It simultaneously helps farmers prevent crop waterlogging and gives traders time to secure their inventory before transport networks fracture. As the panel concluded, recent field surveys confirm that the {{22}} of information is no longer Africa's bottleneck. Historical frameworks blamed a lack of data. Rectifying this misconception, Bhebhe summarizes the contemporary dilemma sharply: \"The tragedy is not that we do not know what is coming.\" He concludes that \"the crisis is actually moving faster than the information...",
+          "cn": "相比之下，监测定期更新使低地居民能够撤离洪泛区。它同时帮助农民防止作物涝害，并让贸易商在运输网络断裂前有时间保护库存。正如小组总结的那样，最近的实地调查证实，信息传播不再是非洲的瓶颈。历史框架曾归咎于数据缺乏。为纠正这一误解，贝贝尖锐地总结了当代困境：“悲剧不在于我们不知道即将发生什么。”他总结道，“危机实际上比信息移动得更快……"
+        },
+        {
+          "en": "Africa does not have an early warning gap. We actually have an early action gap.\"",
+          "cn": "非洲不存在早期预警差距。我们实际上存在的是早期行动差距。”"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "precipitating",
+          "hint": "v. 加速；引发",
+          "difficulty": "hard"
+        },
+        {
+          "id": 1,
+          "answer": "anticipates",
+          "hint": "v. 预期；预判",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "vulnerabilities",
+          "hint": "n. 脆弱性；弱点",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "bureaucratic",
+          "hint": "adj. 官僚的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "catastrophes",
+          "hint": "n. 灾难；大祸",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "comprehensive",
+          "hint": "adj. 全面的；综合的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "socioeconomic",
+          "hint": "adj. 社会经济的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "advisories",
+          "hint": "n. 预警；公告",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "deficiency",
+          "hint": "n. 缺乏；不足",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "earmarked",
+          "hint": "v. 专款专用；指定用途",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "reallocate",
+          "hint": "v. 重新分配",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "disseminated",
+          "hint": "v. 传播；散布",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "actionable",
+          "hint": "adj. 可操作的；可行动的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "implications",
+          "hint": "n. 含义；影响",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "reactive",
+          "hint": "adj. 被动的；反应性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "staggeringly",
+          "hint": "adv. 惊人地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "contingency",
+          "hint": "n. 应急；意外情况",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "diversify",
+          "hint": "v. 多样化；多元化",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "resilience",
+          "hint": "n. 韧性；恢复力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "mitigating",
+          "hint": "v. 减轻；缓解",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "dissemination",
+          "hint": "n. 传播；散布",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Editor's note: Talk Africa is a weekly talk show that brings together guests from across Africa and beyond to discuss pressing African issues and global topics, amplifying the continent's voice and showcasing diverse perspectives and independent thinking. This episode examines Africa's preparedness for the devastating impacts of El Nino and explores how to bridge the gap between early warning and early action.\nThe intensifying El Nino weather phenomenon has divided Sub-Saharan Africa along extreme meteorological lines, precipitating a dual crisis. East Africa faces severe flooding and Southern Africa suffers from parched droughts. Modern climate science successfully anticipates these environmental shocks months in advance.\nDespite this accuracy, an expert panel discussion on Talk Africa revealed that the continent's most severe vulnerabilities stem from bureaucratic, structural, and financial disconnects rather than the weather patterns themselves.\nEarly warnings are routinely generated. However, they frequently fail to inspire early action. Eliminating this operational divide has become an urgent developmental necessity to prevent predictable seasonal hazards from defaulting into major humanitarian catastrophes.\nFILE: A climate expert looks at potential hazards in East Africa at the IGAD Climate Prediction and Application Center in Kenya. \nA primary operational blind spot lies within the current structure of regional meteorological modeling. National climate providers excel at predicting broad weather patterns.\nEven so, Eunice Koech, a Climate Modeling Specialist at the IGAD Climate Prediction and Applications Center, noted that a lack of comprehensive socioeconomic and vulnerability data poses distinct challenges.\n\"Impact-based forecasting is something that is coming up and we have less information out there,\" Koech explained. Meteorologists know whether to expect a flood or a drought, but they still lack information regarding the specific impacts these hazards will have on agriculture and infrastructure.\nWeather risks influenced by El Nino are forecast to span dynamically from late September into January. Due to this long timeline, the persistent inability to deliver highly specific, localized advisories leaves vulnerable populations entirely exposed during narrow action windows.\nA general view of parched land showing deep surface cracks following several consecutive weeks without rainfall in southern Madagascar, September 24, 2026. \nThis data deficiency is compounded by a profound temporal and bureaucratic mismatch in public resource allocation. Reliable seasonal forecasts are routinely available up to three months in advance.\nUnfortunately, the spatial window for pre-emptive action is consistently missed because state funds remain rigidly earmarked for aftermath management. Koech observes that \"most of the funding that is allocated is mainly for response and recovery.\" Besides, administrative processes remain far too slow to reallocate funds within the small action windows available.\nConsequently, scientific data is widely disseminated, but it often lacks actionable, contextual advice. Emmah Mwangi, a Climate Scientist with the International Federation of Red Cross and Red Crescent Societies, noted that simply warning communities of above-average rainfall is ineffective if individuals lack the capacity to respond. \"Though we have early warning to communities, to the government, do we know what we're expected to do?\" Mwangi posed. People might receive a warning, yet they rarely understand its practical implications or possess the financial means to act on the information.\nIn this photo released by Ghana's National Disaster Management Organisation, flooded neighbourhoods are seen in Accra, Ghana, Monday, June 29, 2026. \nMaintaining a reactive posture comes with a staggeringly high economic cost. Proactive planning offers a much more sustainable developmental path. The African Development Bank (AfDB) warns that these recurring climate events could permanently reduce national GDP by 1–2%, making reactive planning an unaffordable choice.\nManaging disasters post-facto is the traditional norm. Breaking with this tradition, Bhekumuzi Dean Bhebhe, Founder and Director of Africa Change Lab, argues that governments must treat El Nino as a predictable fiscal risk on national balance sheets.\nGovernments must immediately deploy three fundamental economic shock absorbers: scalable social protection networks, pre-emptive defense for the productive economy, and pre-arranged contingency financing.\nBhebhe emphasizes that \"the choice is not between spending money and saving money.\" He clarifies that \"the choice is between paying a smaller bill before the crisis hits or a much larger one afterwards.\"\nTraditional global climate funding faces severe budget cuts. To counter this, Africa must aggressively diversify its internal resilience finance architecture. Bhebhe asserts that \"we need to create our own African transformation fund that is really deeply rooted in actually addressing such crises such as the El Nino.\"\nFILE: A farmer shows an empty maize cob on his farm in Eldoret, Kenya. \nUltimately, mitigating these climate impacts requires redefining how communities interact with science on the ground. Mwangi notes that major structural overhauls are necessary, but individuals frequently look at a single seasonal forecast and ignore the vital updates released bi-weekly or weekly. She urges everyone to closely track weekly and monthly forecast updates rather than relying only on the initial seasonal outlook.\nAn initial forecast sets the baseline. In contrast, monitoring regular updates allows lowland residents to evacuate flood zones. It simultaneously helps farmers prevent crop waterlogging and gives traders time to secure their inventory before transport networks fracture.\nAs the panel concluded, recent field surveys confirm that the dissemination of information is no longer Africa's bottleneck. Historical frameworks blamed a lack of data. Rectifying this misconception, Bhebhe summarizes the contemporary dilemma sharply: \"The tragedy is not that we do not know what is coming.\" He concludes that \"the crisis is actually moving faster than the information... Africa does not have an early warning gap. We actually have an early action gap.\"",
+      "fullTextCn": "编者按：《Talk Africa》是一档每周脱口秀节目，汇聚来自非洲及世界各地的嘉宾，讨论紧迫的非洲议题和全球话题，放大非洲大陆的声音，展示多元视角和独立思考。本期节目审视非洲对厄尔尼诺破坏性影响的准备情况，并探讨如何弥合早期预警与早期行动之间的差距。日益加剧的厄尔尼诺天气现象以极端气象界线将撒哈拉以南非洲一分为二，引发双重危机。东非面临严重洪灾，南部非洲则遭受干旱炙烤。现代气候科学成功提前数月预判这些环境冲击。\n\n尽管预测准确，但《Talk Africa》的一场专家小组讨论揭示，非洲大陆最严重的脆弱性源于官僚、结构和财政上的脱节，而非天气模式本身。早期预警照常发布，却常常无法激发早期行动。消除这一操作层面的鸿沟已成为紧迫的发展必需，以防止可预测的季节性灾害沦为重大人道主义灾难。资料图：一名气候专家在肯尼亚的政府间发展组织气候预测与应用中心查看东非潜在灾害。\n\n一个主要的操作盲点在于当前区域气象建模的结构。国家气候机构擅长预测大范围天气模式。然而，政府间发展组织气候预测与应用中心的气候建模专家尤妮斯·科奇指出，缺乏全面的社会经济和脆弱性数据构成了独特挑战。科奇解释说：“基于影响的预报正在兴起，但我们掌握的信息较少。”气象学家知道要预期洪水还是干旱，但仍缺乏关于这些灾害将对农业和基础设施造成具体影响的信息。\n\n受厄尔尼诺影响的天气风险预计将从9月下旬动态持续至1月。由于时间跨度长，持续无法提供高度具体、本地化的预警建议，使脆弱人群在狭窄的行动窗口期完全暴露。2026年9月24日，马达加斯加南部连续数周无降雨后，干裂土地上的深表土裂缝。这种数据缺失因公共资源分配中深刻的时间与官僚错配而加剧。可靠的季节性预报通常可提前三个月获得。\n\n不幸的是，预防性行动的空间窗口一再错过，因为国家资金仍 rigidly  earmarked 用于灾后管理。科奇观察到，“大部分拨款主要用于响应和恢复。”此外，行政流程过于缓慢，无法在可用的短暂行动窗口内重新分配资金。因此，科学数据广泛传播，但往往缺乏可操作、结合情境的建议。红十字会与红新月会国际联合会气候科学家埃玛·姆旺吉指出，如果个人缺乏响应能力，仅仅警告社区降雨量高于平均水平是无效的。“尽管我们向社区、向政府发出了早期预警，但我们知道预期该做什么吗？”姆旺吉问道。\n\n人们可能收到预警，却很少理解其实际含义，也不具备根据信息采取行动的经济手段。在这张由加纳国家灾害管理组织发布的照片中，2026年6月29日星期一，加纳阿克拉的洪水淹没街区。保持被动应对姿态会带来惊人的高昂经济成本。主动规划则提供了一条更可持续的发展路径。非洲开发银行警告，这些反复出现的气候事件可能永久性削减国家GDP的1%至2%，使被动规划成为无法承受的选择。\n\n灾后管理灾难是传统常态。非洲变革实验室创始人兼主任贝库穆齐·迪恩·贝贝打破这一传统，主张政府必须将厄尔尼诺视为国家资产负债表上可预测的财政风险。政府必须立即部署三大基本经济冲击吸收器：可扩展的社会保护网络、生产性经济的预防性防御，以及预先安排的应急融资。贝贝强调，“选择不是在花钱和省钱之间。”他澄清说，“选择是在危机来袭前支付较小账单，还是在事后支付大得多的账单。”传统的全球气候资金面临严重预算削减。为应对这一局面，非洲必须积极多元化其内部韧性融资架构。\n\n贝贝断言，“我们需要建立自己的非洲转型基金，真正深深扎根于解决厄尔尼诺等危机。”资料图：肯尼亚埃尔多雷特，一位农民展示空玉米棒。最终，减轻这些气候影响需要重新定义社区如何在实地与科学互动。姆旺吉指出，重大结构性改革是必要的，但个人常常只看单一的季节性预报，而忽视每两周或每周发布的重要更新。她敦促每个人密切关注每周和每月的预报更新，而不是仅依赖最初的季节性展望。初始预报设定基线。\n\n相比之下，监测定期更新使低地居民能够撤离洪泛区。它同时帮助农民防止作物涝害，并让贸易商在运输网络断裂前有时间保护库存。正如小组总结的那样，最近的实地调查证实，信息传播不再是非洲的瓶颈。历史框架曾归咎于数据缺乏。为纠正这一误解，贝贝尖锐地总结了当代困境：“悲剧不在于我们不知道即将发生什么。”他总结道，“危机实际上比信息移动得更快……\n\n非洲不存在早期预警差距。我们实际上存在的是早期行动差距。”"
+    },
+    {
+      "id": 3,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-04/US-Iran-tensions-persist-amid-US-midterms-regional-mediation-1RMVPdC1Bba/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "US-Iran tensions persist amid US midterms, regional mediation",
+      "titleCn": "美国中期选举与地区斡旋之际，美伊紧张局势持续",
+      "summary": "With US midterm elections beginning Tuesday, tensions between Washington and Tehran remained high as both sides exchanged warnings and conditions for a possible settlement, while regional countries stepped up diplomatic efforts to prevent renewed hostilities.",
+      "summaryCn": "在美国中期选举临近、地区国家加紧外交斡旋的背景下，美伊双方继续互放警告并提出条件，紧张局势持续，同时美方被曝对伊朗实施有限打击，凸显局势升级风险。",
+      "wordCount": 783,
+      "paragraphs": [
+        {
+          "en": "A man looks out over the water as a small boat passes cargo ships {{0}} in the Strait of Hormuz off Bandar Abbas, Iran, October 24, 2026. With US midterm elections beginning on Tuesday, tensions between Washington and Tehran remained high as both sides exchanged warnings and conditions for a possible {{1}}, while regional countries stepped up {{2}} efforts to prevent renewed {{3}}. Chief of Staff of the Iranian Armed Forces Ali Abdollahi warned on Tuesday that Iran's armed forces would respond to any level or type of threat from the United States and Israel immediately and \"without geographical {{4}}.\"\nMeanwhile, Secretary of Iran's Supreme National Security Council Mohsen Rezaei said in a post on social media platform X that the US response to Iran's demands was not {{5}}. \"They must completely and {{6}} address Iran's seven conditions and act upon them. Only in this case the Strait of Hormuz will be reopened,\" Rezaei said.",
+          "cn": "2026年10月24日，一名男子眺望水面，一艘小船驶过停泊在伊朗阿巴斯港附近霍尔木兹海峡的货船。随着美国中期选举于周二开始，华盛顿与德黑兰之间的紧张关系依然高涨，双方就可能的解决方案交换警告和条件，而地区国家则加大外交努力以防止再次爆发敌对行动。伊朗武装部队总参谋长阿里·阿卜杜拉希周二警告说，伊朗武装部队将立即回应来自美国和以色列的任何级别或类型的威胁，且“不受地理限制”。与此同时，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊在社交媒体平台X上发文称，美国对伊朗要求的回应并不令人信服。“他们必须完全明确地回应伊朗的七项条件并付诸行动。只有在这种情况下，霍尔木兹海峡才会重新开放，”雷扎伊说。"
+        },
+        {
+          "en": "Iran {{7}} a plan to the United States through {{8}} on September 22 to end hostilities and reopen the Strait of Hormuz within seven days if its conditions were met. Iranian Foreign Ministry spokesman Esmaeil Baghaei said on Monday that Iran had reduced the period for {{9}} the seven-day plan to two days in good faith. US President Donald Trump speaks at the Lincoln Memorial Reflecting Pool in Washington, DC, US, November 2, 2026. Trump weighs options\nUS President Donald Trump said on Monday that he was \"in no rush\" to decide whether to {{10}} military action against Iran. \"One way or the other, we will do something, but there is no rush.",
+          "cn": "伊朗于9月22日通过调解人向美国转达了一项计划，如果其条件得到满足，将在七天内结束敌对行动并重新开放霍尔木兹海峡。伊朗外交部发言人伊斯梅尔·巴加埃周一表示，伊朗本着善意已将执行七天计划的期限缩短至两天。2026年11月2日，美国总统唐纳德·特朗普在华盛顿特区林肯纪念堂倒影池发表讲话。特朗普权衡选项。美国总统唐纳德·特朗普周一表示，他“不急于”决定是否恢复对伊朗的军事行动。“无论哪种方式，我们都会做点什么，但不着急。"
+        },
+        {
+          "en": "We {{11}} them financially,\" Trump said in a phone interview with Axios. Trump later wrote on Truth Social that Iran wanted a settlement and that could happen soon. According to Axios, Trump was {{12}} three possible courses of action: reaching a diplomatic deal, resuming military action, or {{13}} maximum economic pressure without a deal or renewed hostilities. US Vice President JD Vance and White House envoy Steve Witkoff favor diplomacy, while Israeli Prime Minister Benjamin Netanyahu and US Secretary of Defense Pete Hegseth are pushing for renewed military operations. Treasury Secretary Scott Bessent, CIA Director John Ratcliffe and Secretary of State Marco Rubio favor maintaining the current \"no war, no deal\" {{14}}, the report said.",
+          "cn": "我们在经济上重创了他们，”特朗普在接受Axios电话采访时说。特朗普后来在Truth Social上写道，伊朗希望达成解决方案，而且可能很快实现。据Axios报道，特朗普正在权衡三种可能的行动方案：达成外交协议、恢复军事行动，或在没有协议或重启敌对行动的情况下维持最大经济压力。美国副总统JD·万斯和白宫特使史蒂夫·维特科夫主张外交，而以色列总理本雅明·内塔尼亚胡和美国国防部长皮特·赫格塞思则推动恢复军事行动。报道称，财政部长斯科特·贝森特、中央情报局局长约翰·拉特克利夫和国务卿马可·卢比奥主张维持当前“不战不和”的现状。"
+        },
+        {
+          "en": "The Wall Street Journal (WSJ) reported on Monday that Trump was {{15}} toward launching a large-scale attack on Iran after the midterm elections, potentially targeting Iranian {{16}} and nuclear facilities, although no final decision had been made. Voters cast their ballots at a polling location inside the Italian Heritage Center in Portland, Maine, US, November 3, 2026. Regional countries step up mediation efforts\nQatari Foreign Ministry spokesperson Majed Al Ansari said on Tuesday that the United States and Iran were reviewing {{17}} to end their conflict, but differences remained {{18}}. He told a weekly press briefing that a Qatari {{19}} had returned from Tehran on Monday evening after more than three hours of talks with Iranian officials. Qatar was relaying proposals in {{20}} with Pakistan, Gulf Cooperation Council countries and other regional and international partners, he said, adding that no concrete {{21}} had been achieved.",
+          "cn": "《华尔街日报》周一报道，特朗普倾向于在中期选举后对伊朗发动大规模攻击，可能针对伊朗的基础设施和核设施，尽管尚未做出最终决定。2026年11月3日，选民在美国缅因州波特兰意大利遗产中心的投票站投票。地区国家加大斡旋力度。卡塔尔外交部发言人马吉德·安萨里周二表示，美国和伊朗正在审议结束冲突的提案，但分歧仍未解决。他在每周新闻发布会上说，一个卡塔尔代表团周一晚间在与伊朗官员进行了三个多小时的会谈后从德黑兰返回。他说，卡塔尔正在与巴基斯坦、海湾合作委员会国家及其他地区和国际伙伴协调转达提案，并补充说尚未取得具体突破。"
+        },
+        {
+          "en": "Also on Tuesday, Egyptian President Abdel Fattah El-Sisi urged the United States and Iran to show maximum {{22}} and seek a political settlement. At a joint press conference in Cairo with visiting Slovenian President Natasa Pirc Musar, he called on the two sides to \"create space for understanding and dialogue\" and pledged Egypt's continued efforts with regional and international partners to {{23}} tensions. Egyptian Foreign Minister Badr Abdelatty and his Iranian counterpart Seyed Abbas Araghchi made a phone call on Tuesday evening and discussed regional efforts to de-escalate tensions and reach a {{24}} deal addressing all parties' concerns, the Egyptian Foreign Ministry said. Limited US strikes {{25}} escalation risks\nDespite diplomatic efforts, military tensions have persisted. The United States attacked Iran's {{26}} Qeshm Island in the Strait of Hormuz on Monday, The WSJ reported, citing US officials.",
+          "cn": "同样在周二，埃及总统阿卜杜勒·法塔赫·塞西敦促美国和伊朗展现最大灵活性并寻求政治解决。在开罗与来访的斯洛文尼亚总统娜塔莎·皮尔茨·穆萨尔举行的联合新闻发布会上，他呼吁双方“为理解和对话创造空间”，并承诺埃及将继续与地区和国际伙伴合作，以缓和紧张局势。埃及外交部表示，埃及外长巴德尔·阿卜杜拉蒂与伊朗外长赛义德·阿巴斯·阿拉格齐周二晚间通电话，讨论了缓和紧张局势的地区努力，以及达成一项解决各方关切的全面协议。美国有限打击凸显升级风险。尽管进行了外交努力，军事紧张局势依然持续。据《华尔街日报》援引美国官员的话报道，美国周一袭击了伊朗在霍尔木兹海峡的战略要地格什姆岛。"
+        },
+        {
+          "en": "Iran's Islamic Revolution Guard Corps said on Monday that its air defense systems had {{27}} three US drones in the country's southern airspace, identifying two of them as MQM-170 Outlaw drones, which it said were intercepted over Qeshm Island, and the third as an MQ-9 Reaper, which it said was shot down in waters east of the Strait of Hormuz. The strikes were part of a series of limited attacks Washington had {{28}} carried out against Iran in recent weeks while Trump was touting the possibility of a diplomatic deal, the WSJ report said. Washington did not publicly announce the strikes to avoid {{29}} a resumption of major combat operations, one US official was quoted as saying.",
+          "cn": "伊朗伊斯兰革命卫队周一表示，其防空系统在该国南部领空拦截了三架美国无人机，其中两架被确认为MQM-170“亡命徒”无人机，称其在格什姆岛上空被拦截，第三架为MQ-9“死神”无人机，称其在霍尔木兹海峡以东水域被击落。据《华尔街日报》报道，这些打击是华盛顿近几周在特朗普宣扬外交协议可能性之际秘密对伊朗实施的一系列有限攻击的一部分。一名美国官员被引述说，华盛顿没有公开宣布这些打击，以避免发出恢复重大作战行动的讯号。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "anchored",
+          "hint": "adj./v. 停泊的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "settlement",
+          "hint": "n. 解决方案；协议",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "diplomatic",
+          "hint": "adj. 外交的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "hostilities",
+          "hint": "n. 敌对行动",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "limitations",
+          "hint": "n. 限制",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "convincing",
+          "hint": "adj. 令人信服的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "explicitly",
+          "hint": "adv. 明确地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "conveyed",
+          "hint": "v. 传达",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "mediators",
+          "hint": "n. 调解人",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "implementing",
+          "hint": "v. 实施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "resume",
+          "hint": "v. 恢复",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "crippled",
+          "hint": "v. 严重削弱",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "weighing",
+          "hint": "v. 权衡",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "maintaining",
+          "hint": "v. 维持",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "status quo",
+          "hint": "n. 现状",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "leaning",
+          "hint": "v. 倾向于",
+          "difficulty": "medium"
+        },
+        {
+          "id": 16,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "proposals",
+          "hint": "n. 提案",
+          "difficulty": "easy"
+        },
+        {
+          "id": 18,
+          "answer": "unresolved",
+          "hint": "adj. 未解决的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "delegation",
+          "hint": "n. 代表团",
+          "difficulty": "medium"
+        },
+        {
+          "id": 20,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "breakthrough",
+          "hint": "n. 突破",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "flexibility",
+          "hint": "n. 灵活性",
+          "difficulty": "easy"
+        },
+        {
+          "id": 23,
+          "answer": "de-escalate",
+          "hint": "v. 缓和",
+          "difficulty": "hard"
+        },
+        {
+          "id": 24,
+          "answer": "comprehensive",
+          "hint": "adj. 全面的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 25,
+          "answer": "underscore",
+          "hint": "v. 凸显",
+          "difficulty": "hard"
+        },
+        {
+          "id": 26,
+          "answer": "strategic",
+          "hint": "adj. 战略的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 27,
+          "answer": "intercepted",
+          "hint": "v. 拦截",
+          "difficulty": "medium"
+        },
+        {
+          "id": 28,
+          "answer": "secretly",
+          "hint": "adv. 秘密地",
+          "difficulty": "easy"
+        },
+        {
+          "id": 29,
+          "answer": "signaling",
+          "hint": "v. 发出信号",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "A man looks out over the water as a small boat passes cargo ships anchored in the Strait of Hormuz off Bandar Abbas, Iran, October 24, 2026. \nWith US midterm elections beginning on Tuesday, tensions between Washington and Tehran remained high as both sides exchanged warnings and conditions for a possible settlement, while regional countries stepped up diplomatic efforts to prevent renewed hostilities.\nChief of Staff of the Iranian Armed Forces Ali Abdollahi warned on Tuesday that Iran's armed forces would respond to any level or type of threat from the United States and Israel immediately and \"without geographical limitations.\"\nMeanwhile, Secretary of Iran's Supreme National Security Council Mohsen Rezaei said in a post on social media platform X that the US response to Iran's demands was not convincing.\n\"They must completely and explicitly address Iran's seven conditions and act upon them. Only in this case the Strait of Hormuz will be reopened,\" Rezaei said.\nIran conveyed a plan to the United States through mediators on September 22 to end hostilities and reopen the Strait of Hormuz within seven days if its conditions were met.\nIranian Foreign Ministry spokesman Esmaeil Baghaei said on Monday that Iran had reduced the period for implementing the seven-day plan to two days in good faith.\nUS President Donald Trump speaks at the Lincoln Memorial Reflecting Pool in Washington, DC, US, November 2, 2026. \nTrump weighs options\nUS President Donald Trump said on Monday that he was \"in no rush\" to decide whether to resume military action against Iran.\n\"One way or the other, we will do something, but there is no rush. We crippled them financially,\" Trump said in a phone interview with Axios.\nTrump later wrote on Truth Social that Iran wanted a settlement and that could happen soon.\nAccording to Axios, Trump was weighing three possible courses of action: reaching a diplomatic deal, resuming military action, or maintaining maximum economic pressure without a deal or renewed hostilities.\nUS Vice President JD Vance and White House envoy Steve Witkoff favor diplomacy, while Israeli Prime Minister Benjamin Netanyahu and US Secretary of Defense Pete Hegseth are pushing for renewed military operations. Treasury Secretary Scott Bessent, CIA Director John Ratcliffe and Secretary of State Marco Rubio favor maintaining the current \"no war, no deal\" status quo, the report said.\nThe Wall Street Journal (WSJ) reported on Monday that Trump was leaning toward launching a large-scale attack on Iran after the midterm elections, potentially targeting Iranian infrastructure and nuclear facilities, although no final decision had been made.\nVoters cast their ballots at a polling location inside the Italian Heritage Center in Portland, Maine, US, November 3, 2026. \nRegional countries step up mediation efforts\nQatari Foreign Ministry spokesperson Majed Al Ansari said on Tuesday that the United States and Iran were reviewing proposals to end their conflict, but differences remained unresolved.\nHe told a weekly press briefing that a Qatari delegation had returned from Tehran on Monday evening after more than three hours of talks with Iranian officials.\nQatar was relaying proposals in coordination with Pakistan, Gulf Cooperation Council countries and other regional and international partners, he said, adding that no concrete breakthrough had been achieved.\nAlso on Tuesday, Egyptian President Abdel Fattah El-Sisi urged the United States and Iran to show maximum flexibility and seek a political settlement.\nAt a joint press conference in Cairo with visiting Slovenian President Natasa Pirc Musar, he called on the two sides to \"create space for understanding and dialogue\" and pledged Egypt's continued efforts with regional and international partners to de-escalate tensions.\nEgyptian Foreign Minister Badr Abdelatty and his Iranian counterpart Seyed Abbas Araghchi made a phone call on Tuesday evening and discussed regional efforts to de-escalate tensions and reach a comprehensive deal addressing all parties' concerns, the Egyptian Foreign Ministry said.\nLimited US strikes underscore escalation risks\nDespite diplomatic efforts, military tensions have persisted.\nThe United States attacked Iran's strategic Qeshm Island in the Strait of Hormuz on Monday, The WSJ reported, citing US officials.\nIran's Islamic Revolution Guard Corps said on Monday that its air defense systems had intercepted three US drones in the country's southern airspace, identifying two of them as MQM-170 Outlaw drones, which it said were intercepted over Qeshm Island, and the third as an MQ-9 Reaper, which it said was shot down in waters east of the Strait of Hormuz.\nThe strikes were part of a series of limited attacks Washington had secretly carried out against Iran in recent weeks while Trump was touting the possibility of a diplomatic deal, the WSJ report said.\nWashington did not publicly announce the strikes to avoid signaling a resumption of major combat operations, one US official was quoted as saying.",
+      "fullTextCn": "2026年10月24日，一名男子眺望水面，一艘小船驶过停泊在伊朗阿巴斯港附近霍尔木兹海峡的货船。随着美国中期选举于周二开始，华盛顿与德黑兰之间的紧张关系依然高涨，双方就可能的解决方案交换警告和条件，而地区国家则加大外交努力以防止再次爆发敌对行动。伊朗武装部队总参谋长阿里·阿卜杜拉希周二警告说，伊朗武装部队将立即回应来自美国和以色列的任何级别或类型的威胁，且“不受地理限制”。与此同时，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊在社交媒体平台X上发文称，美国对伊朗要求的回应并不令人信服。“他们必须完全明确地回应伊朗的七项条件并付诸行动。只有在这种情况下，霍尔木兹海峡才会重新开放，”雷扎伊说。\n\n伊朗于9月22日通过调解人向美国转达了一项计划，如果其条件得到满足，将在七天内结束敌对行动并重新开放霍尔木兹海峡。伊朗外交部发言人伊斯梅尔·巴加埃周一表示，伊朗本着善意已将执行七天计划的期限缩短至两天。2026年11月2日，美国总统唐纳德·特朗普在华盛顿特区林肯纪念堂倒影池发表讲话。特朗普权衡选项。美国总统唐纳德·特朗普周一表示，他“不急于”决定是否恢复对伊朗的军事行动。“无论哪种方式，我们都会做点什么，但不着急。\n\n我们在经济上重创了他们，”特朗普在接受Axios电话采访时说。特朗普后来在Truth Social上写道，伊朗希望达成解决方案，而且可能很快实现。据Axios报道，特朗普正在权衡三种可能的行动方案：达成外交协议、恢复军事行动，或在没有协议或重启敌对行动的情况下维持最大经济压力。美国副总统JD·万斯和白宫特使史蒂夫·维特科夫主张外交，而以色列总理本雅明·内塔尼亚胡和美国国防部长皮特·赫格塞思则推动恢复军事行动。报道称，财政部长斯科特·贝森特、中央情报局局长约翰·拉特克利夫和国务卿马可·卢比奥主张维持当前“不战不和”的现状。\n\n《华尔街日报》周一报道，特朗普倾向于在中期选举后对伊朗发动大规模攻击，可能针对伊朗的基础设施和核设施，尽管尚未做出最终决定。2026年11月3日，选民在美国缅因州波特兰意大利遗产中心的投票站投票。地区国家加大斡旋力度。卡塔尔外交部发言人马吉德·安萨里周二表示，美国和伊朗正在审议结束冲突的提案，但分歧仍未解决。他在每周新闻发布会上说，一个卡塔尔代表团周一晚间在与伊朗官员进行了三个多小时的会谈后从德黑兰返回。他说，卡塔尔正在与巴基斯坦、海湾合作委员会国家及其他地区和国际伙伴协调转达提案，并补充说尚未取得具体突破。\n\n同样在周二，埃及总统阿卜杜勒·法塔赫·塞西敦促美国和伊朗展现最大灵活性并寻求政治解决。在开罗与来访的斯洛文尼亚总统娜塔莎·皮尔茨·穆萨尔举行的联合新闻发布会上，他呼吁双方“为理解和对话创造空间”，并承诺埃及将继续与地区和国际伙伴合作，以缓和紧张局势。埃及外交部表示，埃及外长巴德尔·阿卜杜拉蒂与伊朗外长赛义德·阿巴斯·阿拉格齐周二晚间通电话，讨论了缓和紧张局势的地区努力，以及达成一项解决各方关切的全面协议。美国有限打击凸显升级风险。尽管进行了外交努力，军事紧张局势依然持续。据《华尔街日报》援引美国官员的话报道，美国周一袭击了伊朗在霍尔木兹海峡的战略要地格什姆岛。\n\n伊朗伊斯兰革命卫队周一表示，其防空系统在该国南部领空拦截了三架美国无人机，其中两架被确认为MQM-170“亡命徒”无人机，称其在格什姆岛上空被拦截，第三架为MQ-9“死神”无人机，称其在霍尔木兹海峡以东水域被击落。据《华尔街日报》报道，这些打击是华盛顿近几周在特朗普宣扬外交协议可能性之际秘密对伊朗实施的一系列有限攻击的一部分。一名美国官员被引述说，华盛顿没有公开宣布这些打击，以避免发出恢复重大作战行动的讯号。"
+    },
+    {
+      "id": 4,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-10-25/CIIS-report-urges-wider-AI-access-for-developing-countries-1RwzGtokVxu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "CIIS report urges wider AI access for developing countries",
+      "titleCn": "国研院报告呼吁扩大发展中国家的人工智能准入",
+      "summary": "CIIS report urges wider AI access for developing countries",
+      "summaryCn": "中国国际问题研究院发布报告，呼吁共享人工智能模型、扩大发展中国家算力资源获取并加强国际标准与安全合作。",
+      "wordCount": 400,
+      "paragraphs": [
+        {
+          "en": "Zou Xiaoli, vice president of the Chinese People’s Institute of Foreign Affairs, speaks at the 2026 Global Governance Forum in Xiongan, Hebei Province, China, October 24, 2026. A new report from the China Institute of International Studies (CIIS) calls for sharing artificial intelligence models, expanding developing countries' access to {{0}} resources and strengthening international cooperation on standards and safety. Released on October 24 during the 2026 Global Governance Forum in Xiongan, north China's Hebei Province, the report {{1}} {{2}} to help more countries develop and use AI while participating in its {{3}}. (Full text: Global Governance Initiative: Towards a More Just, {{4}} and {{5}} World)\nThe report, \"Global Governance Initiative: Towards a More Just, Inclusive and Orderly World,\" was prepared by the Xi Jinping Thought on Diplomacy Studies Centre at the CIIS. The report links participation in AI governance with the practical ability to use the technology. Developing countries need the {{6}} to understand AI, {{7}} its risks and apply it to their needs to participate {{8}} in shaping its rules, it says.",
+          "cn": "2026年10月24日，中国人民外交学会副会长邹晓黎在中国河北雄安举行的2026年全球治理论坛上发言。中国国际问题研究院（CIIS）的一份新报告呼吁共享人工智能模型、扩大发展中国家对计算资源的获取，并加强在标准和安全方面的国际合作。该报告于10月24日在中国北方河北省雄安举行的2026年全球治理论坛上发布，概述了帮助更多国家发展和使用人工智能同时参与其治理的建议。（全文：全球治理倡议：迈向更加公正、包容和有序的世界）该报告题为《全球治理倡议：迈向更加公正、包容和有序的世界》，由中国国际问题研究院习近平外交思想研究中心编写。报告将参与人工智能治理与使用该技术的实际能力联系起来。报告称，发展中国家需要具备理解人工智能、评估其风险并将其应用于自身需求的能力，才能有效参与塑造其规则。"
+        },
+        {
+          "en": "To {{9}} access, the report calls on international open-source communities to share AI models, algorithms and software tools. It supports countries {{10}} open-source models to local needs, alongside jointly developed {{11}} rules and security guidelines. Computing resources are another priority. The report proposes connecting AI computing facilities and making computing services more {{12}} to developing countries. It also recommends {{13}} arrangements for secure cross-border data flows in specific sectors, together with jointly developed industry datasets and {{14}} text collections for AI development. The proposals extend to practical applications in healthcare, education, agriculture, manufacturing and poverty {{15}}.",
+          "cn": "为扩大准入，报告呼吁国际开源社区共享人工智能模型、算法和软件工具。它支持各国根据当地需求调整开源模型，同时共同制定合规规则和安全准则。计算资源是另一个优先事项。报告提议连接人工智能计算设施，并使发展中国家更容易获得计算服务。它还建议在特定领域建立可信安排以实现安全的跨境数据流动，并共同开发用于人工智能开发的行业数据集和多语言文本集合。这些建议还延伸到医疗、教育、农业、制造业和扶贫等实际应用领域。"
+        },
+        {
+          "en": "Countries should share {{16}} and experience and cooperate across borders to expand AI use, the report says. Alongside wider access, it calls for closer {{17}} on standards through dialogue among national bodies and work through the International Telecommunication Union, the International Organization for Standardization and the International Electrotechnical Commission. This cooperation should {{18}} the development and revision of technical standards covering security, industry and ethics. The report also urges efforts to address algorithmic bias and make standards more {{19}} across countries. On safety, it recommends legal rules, technical monitoring, risk alerts, and {{20}} response systems to prevent misuse and keep AI under human control. It also calls for clear {{21}} on military applications of AI while opposing an overly broad interpretation of national security that prioritizes one country's security over others'.",
+          "cn": "报告称，各国应共享基础设施和经验，开展跨境合作以扩大人工智能的应用。在扩大准入的同时，报告呼吁通过国家机构之间的对话以及通过国际电信联盟、国际标准化组织和国际电工委员会的工作，在标准方面加强协调。这种合作应加速制定和修订涵盖安全、行业和伦理的技术标准。报告还敦促努力解决算法偏见，并使各国标准更加兼容。在安全方面，报告建议建立法律规则、技术监测、风险警报和应急响应系统，以防止滥用并使人工智能处于人类控制之下。报告还呼吁对人工智能的军事应用设定明确的护栏，同时反对过度宽泛地解释国家安全，将一国安全置于他国安全之上。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "computing",
+          "hint": "n. 计算",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "outlines",
+          "hint": "v. 概述",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "proposals",
+          "hint": "n. 建议",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "Inclusive",
+          "hint": "adj. 包容的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "Orderly",
+          "hint": "adj. 有序的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "capacity",
+          "hint": "n. 能力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "assess",
+          "hint": "v. 评估",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "effectively",
+          "hint": "adv. 有效地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "broaden",
+          "hint": "v. 扩大",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "adapting",
+          "hint": "v. 调整适应",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "compliance",
+          "hint": "n. 合规",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "accessible",
+          "hint": "adj. 可获得的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "trusted",
+          "hint": "adj. 可信的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "multilingual",
+          "hint": "adj. 多语言的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "alleviation",
+          "hint": "n. 缓解",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "infrastructure",
+          "hint": "n. 基础设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "coordination",
+          "hint": "n. 协调",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "accelerate",
+          "hint": "v. 加速",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "compatible",
+          "hint": "adj. 兼容的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "emergency",
+          "hint": "n. 紧急情况",
+          "difficulty": "easy"
+        },
+        {
+          "id": 21,
+          "answer": "guardrails",
+          "hint": "n. 护栏",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Zou Xiaoli, vice president of the Chinese People’s Institute of Foreign Affairs, speaks at the 2026 Global Governance Forum in Xiongan, Hebei Province, China, October 24, 2026. \nA new report from the China Institute of International Studies (CIIS) calls for sharing artificial intelligence models, expanding developing countries' access to computing resources and strengthening international cooperation on standards and safety.\nReleased on October 24 during the 2026 Global Governance Forum in Xiongan, north China's Hebei Province, the report outlines proposals to help more countries develop and use AI while participating in its governance. (Full text: Global Governance Initiative: Towards a More Just, Inclusive and Orderly World)\nThe report, \"Global Governance Initiative: Towards a More Just, Inclusive and Orderly World,\" was prepared by the Xi Jinping Thought on Diplomacy Studies Centre at the CIIS.\nThe report links participation in AI governance with the practical ability to use the technology. Developing countries need the capacity to understand AI, assess its risks and apply it to their needs to participate effectively in shaping its rules, it says.\nTo broaden access, the report calls on international open-source communities to share AI models, algorithms and software tools. It supports countries adapting open-source models to local needs, alongside jointly developed compliance rules and security guidelines.\nComputing resources are another priority. The report proposes connecting AI computing facilities and making computing services more accessible to developing countries.\nIt also recommends trusted arrangements for secure cross-border data flows in specific sectors, together with jointly developed industry datasets and multilingual text collections for AI development.\nThe proposals extend to practical applications in healthcare, education, agriculture, manufacturing and poverty alleviation. Countries should share infrastructure and experience and cooperate across borders to expand AI use, the report says.\nAlongside wider access, it calls for closer coordination on standards through dialogue among national bodies and work through the International Telecommunication Union, the International Organization for Standardization and the International Electrotechnical Commission.\nThis cooperation should accelerate the development and revision of technical standards covering security, industry and ethics. The report also urges efforts to address algorithmic bias and make standards more compatible across countries.\nOn safety, it recommends legal rules, technical monitoring, risk alerts, and emergency response systems to prevent misuse and keep AI under human control.\nIt also calls for clear guardrails on military applications of AI while opposing an overly broad interpretation of national security that prioritizes one country's security over others'.",
+      "fullTextCn": "2026年10月24日，中国人民外交学会副会长邹晓黎在中国河北雄安举行的2026年全球治理论坛上发言。中国国际问题研究院（CIIS）的一份新报告呼吁共享人工智能模型、扩大发展中国家对计算资源的获取，并加强在标准和安全方面的国际合作。该报告于10月24日在中国北方河北省雄安举行的2026年全球治理论坛上发布，概述了帮助更多国家发展和使用人工智能同时参与其治理的建议。（全文：全球治理倡议：迈向更加公正、包容和有序的世界）该报告题为《全球治理倡议：迈向更加公正、包容和有序的世界》，由中国国际问题研究院习近平外交思想研究中心编写。报告将参与人工智能治理与使用该技术的实际能力联系起来。报告称，发展中国家需要具备理解人工智能、评估其风险并将其应用于自身需求的能力，才能有效参与塑造其规则。\n\n为扩大准入，报告呼吁国际开源社区共享人工智能模型、算法和软件工具。它支持各国根据当地需求调整开源模型，同时共同制定合规规则和安全准则。计算资源是另一个优先事项。报告提议连接人工智能计算设施，并使发展中国家更容易获得计算服务。它还建议在特定领域建立可信安排以实现安全的跨境数据流动，并共同开发用于人工智能开发的行业数据集和多语言文本集合。这些建议还延伸到医疗、教育、农业、制造业和扶贫等实际应用领域。\n\n报告称，各国应共享基础设施和经验，开展跨境合作以扩大人工智能的应用。在扩大准入的同时，报告呼吁通过国家机构之间的对话以及通过国际电信联盟、国际标准化组织和国际电工委员会的工作，在标准方面加强协调。这种合作应加速制定和修订涵盖安全、行业和伦理的技术标准。报告还敦促努力解决算法偏见，并使各国标准更加兼容。在安全方面，报告建议建立法律规则、技术监测、风险警报和应急响应系统，以防止滥用并使人工智能处于人类控制之下。报告还呼吁对人工智能的军事应用设定明确的护栏，同时反对过度宽泛地解释国家安全，将一国安全置于他国安全之上。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-05/China-Canada-hold-first-ministerial-level-economic-and-trade-talks-1RP3xN0KcaQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "China, Canada hold first ministerial-level economic and trade talks",
+      "titleCn": "中国与加拿大举行首次部长级经贸会谈",
+      "summary": "China, Canada hold first ministerial-level economic and trade talks",
+      "summaryCn": "中国与加拿大在北京举行第29届联合经济贸易委员会会议，双方就双边经贸关系、合作领域及共同关心的问题进行了坦诚深入的讨论，并签署了建立中加企业家圆桌会议的谅解备忘录。",
+      "wordCount": 398,
+      "paragraphs": [
+        {
+          "en": "Chinese Commerce Minister Wang Wentao (R) and Canada's Minister of International Trade Maninder Sidhu shake hands, Beijing, capital of China, November 3, 2026. /China’s Ministry of Commerce\nChina and Canada held their first {{0}} meeting under the Joint Economic and Trade Commission (JETC) {{1}} in Beijing on Tuesday, as the two countries seek to strengthen economic ties and address trade concerns. Chinese Commerce Minister Wang Wentao and Canada's Minister of International Trade Maninder Sidhu co-chaired the 29th meeting of the commission. According to China’s Ministry of Commerce (MOFCOM), the two sides held {{2}} and in-depth discussions on {{3}} economic and trade relations, cooperation in traditional and emerging sectors, and issues of mutual concern. Li Chenggang, China's international trade representative and vice minister of commerce, also attended the meeting.",
+          "cn": "2026年11月3日，中国商务部部长王文涛（右）与加拿大国际贸易部长曼宁德·西杜在北京握手。/中国商务部"
+        },
+        {
+          "en": "Wang said recent economic and trade {{4}} between the two countries had made positive progress under the {{5}} guidance of their leaders. This included a further extension of certain {{6}} under a {{7}} joint arrangement between the two sides. China is willing to make full use of the JETC as a key channel for resolving trade differences and advancing economic cooperation, Wang said. He called on both sides to continue narrowing their list of outstanding issues while expanding areas of cooperation. He also urged the two countries to implement their economic and trade cooperation roadmap, {{8}} ties in traditional sectors such as oil and gas, agricultural and {{9}} products, and consumer goods, and explore new opportunities in advanced materials, advanced manufacturing, clean energy and smart agriculture.",
+          "cn": "中国与加拿大周二在北京举行了联合经济贸易委员会（JETC）机制下的首次部长级会议，两国寻求加强经济联系并解决贸易关切。中国商务部部长王文涛与加拿大国际贸易部长曼宁德·西杜共同主持了委员会第29次会议。据中国商务部（MOFCOM）消息，双方就双边经贸关系、传统与新兴领域合作以及共同关心的问题进行了坦诚深入的讨论。中国国际贸易谈判代表兼商务部副部长李成钢也出席了会议。"
+        },
+        {
+          "en": "Sidhu described the current {{10}} in Canada-China relations as encouraging, saying the two sides had made progress in various areas by implementing the {{11}} reached by their leaders. Canadian agricultural and aquatic products have {{12}} exports to China, while bilateral trade has grown rapidly, he said. Calling the JETC one of the two countries' most important mechanisms for economic and trade dialogue, Sidhu said Canada was ready to work with China to address outstanding issues and advance cooperation through the {{13}}. He also encouraged businesses from both countries to expand trade and investment, welcoming greater participation by Chinese companies in Canada's modern agriculture, manufacturing, financial services and energy sectors. Before the meeting, Wang and Sidhu jointly attended a China-Canada investment and trade {{15}}.",
+          "cn": "王文涛表示，在两国领导人的战略引领下，两国近期经贸磋商取得了积极进展，包括进一步延长双方初步联合安排下的某些豁免。王文涛说，中方愿充分利用JETC作为解决贸易分歧、推进经济合作的重要渠道。他呼吁双方继续缩小未决问题清单，同时扩大合作领域。他还敦促两国落实经贸合作路线图，巩固油气、农产品和水产品、消费品等传统领域的关系，并在先进材料、先进制造、清洁能源和智慧农业等领域探索新机遇。"
+        },
+        {
+          "en": "Following the meeting, the two sides signed a {{14}} of understanding on establishing a China-Canada business leaders' roundtable, according to MOFCOM.",
+          "cn": "西杜称当前加中关系势头令人鼓舞，表示双方通过落实领导人达成的共识在多个领域取得了进展。他说，加拿大农产品和水产品已恢复对华出口，双边贸易增长迅速。西杜称JETC是两国最重要的经贸对话机制之一，表示加拿大愿与中国一道通过该框架解决未决问题、推进合作。他还鼓励两国企业扩大贸易和投资，欢迎中国企业更多参与加拿大现代农业、制造业、金融服务和能源领域。会前，王文涛与西杜共同出席了中加投资贸易圆桌会。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "ministerial-level",
+          "hint": "adj. 部长级的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "mechanism",
+          "hint": "n. 机制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "candid",
+          "hint": "adj. 坦诚的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 3,
+          "answer": "bilateral",
+          "hint": "adj. 双边的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "consultations",
+          "hint": "n. 磋商",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "strategic",
+          "hint": "adj. 战略的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "exemptions",
+          "hint": "n. 豁免",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "preliminary",
+          "hint": "adj. 初步的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "consolidate",
+          "hint": "v. 巩固",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "aquatic",
+          "hint": "adj. 水生的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "momentum",
+          "hint": "n. 势头",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "consensus",
+          "hint": "n. 共识",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "resumed",
+          "hint": "v. 恢复",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "framework",
+          "hint": "n. 框架",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "memorandum",
+          "hint": "n. 备忘录",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "roundtable",
+          "hint": "n. 圆桌会议",
+          "difficulty": "medium"
+        }
+      ],
+      "fullText": "Chinese Commerce Minister Wang Wentao (R) and Canada's Minister of International Trade Maninder Sidhu shake hands, Beijing, capital of China, November 3, 2026. /China’s Ministry of Commerce\nChina and Canada held their first ministerial-level meeting under the Joint Economic and Trade Commission (JETC) mechanism in Beijing on Tuesday, as the two countries seek to strengthen economic ties and address trade concerns.\nChinese Commerce Minister Wang Wentao and Canada's Minister of International Trade Maninder Sidhu co-chaired the 29th meeting of the commission. According to China’s Ministry of Commerce (MOFCOM), the two sides held candid and in-depth discussions on bilateral economic and trade relations, cooperation in traditional and emerging sectors, and issues of mutual concern.\nLi Chenggang, China's international trade representative and vice minister of commerce, also attended the meeting.\nWang said recent economic and trade consultations between the two countries had made positive progress under the strategic guidance of their leaders. This included a further extension of certain exemptions under a preliminary joint arrangement between the two sides.\nChina is willing to make full use of the JETC as a key channel for resolving trade differences and advancing economic cooperation, Wang said. He called on both sides to continue narrowing their list of outstanding issues while expanding areas of cooperation.\nHe also urged the two countries to implement their economic and trade cooperation roadmap, consolidate ties in traditional sectors such as oil and gas, agricultural and aquatic products, and consumer goods, and explore new opportunities in advanced materials, advanced manufacturing, clean energy and smart agriculture.\nSidhu described the current momentum in Canada-China relations as encouraging, saying the two sides had made progress in various areas by implementing the consensus reached by their leaders.\nCanadian agricultural and aquatic products have resumed exports to China, while bilateral trade has grown rapidly, he said.\nCalling the JETC one of the two countries' most important mechanisms for economic and trade dialogue, Sidhu said Canada was ready to work with China to address outstanding issues and advance cooperation through the framework.\nHe also encouraged businesses from both countries to expand trade and investment, welcoming greater participation by Chinese companies in Canada's modern agriculture, manufacturing, financial services and energy sectors.\nBefore the meeting, Wang and Sidhu jointly attended a China-Canada investment and trade roundtable. Following the meeting, the two sides signed a memorandum of understanding on establishing a China-Canada business leaders' roundtable, according to MOFCOM.",
+      "fullTextCn": "2026年11月3日，中国商务部部长王文涛（右）与加拿大国际贸易部长曼宁德·西杜在北京握手。/中国商务部\n\n中国与加拿大周二在北京举行了联合经济贸易委员会（JETC）机制下的首次部长级会议，两国寻求加强经济联系并解决贸易关切。中国商务部部长王文涛与加拿大国际贸易部长曼宁德·西杜共同主持了委员会第29次会议。据中国商务部（MOFCOM）消息，双方就双边经贸关系、传统与新兴领域合作以及共同关心的问题进行了坦诚深入的讨论。中国国际贸易谈判代表兼商务部副部长李成钢也出席了会议。\n\n王文涛表示，在两国领导人的战略引领下，两国近期经贸磋商取得了积极进展，包括进一步延长双方初步联合安排下的某些豁免。王文涛说，中方愿充分利用JETC作为解决贸易分歧、推进经济合作的重要渠道。他呼吁双方继续缩小未决问题清单，同时扩大合作领域。他还敦促两国落实经贸合作路线图，巩固油气、农产品和水产品、消费品等传统领域的关系，并在先进材料、先进制造、清洁能源和智慧农业等领域探索新机遇。\n\n西杜称当前加中关系势头令人鼓舞，表示双方通过落实领导人达成的共识在多个领域取得了进展。他说，加拿大农产品和水产品已恢复对华出口，双边贸易增长迅速。西杜称JETC是两国最重要的经贸对话机制之一，表示加拿大愿与中国一道通过该框架解决未决问题、推进合作。他还鼓励两国企业扩大贸易和投资，欢迎中国企业更多参与加拿大现代农业、制造业、金融服务和能源领域。会前，王文涛与西杜共同出席了中加投资贸易圆桌会。\n\n据商务部消息，会后双方签署了关于建立中加企业家圆桌会议的谅解备忘录。"
+    }
+  ]
+}
