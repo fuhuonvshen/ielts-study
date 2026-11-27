@@ -1,0 +1,854 @@
+{
+  "date": "2026-11-28",
+  "articles": [
+    {
+      "id": 1,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-24/Shenzhou-24-mission-to-conduct-over-90-space-experiments-tests-1SkXDJgksAo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Shenzhou-24 mission to conduct over 90 space experiments, tests",
+      "titleCn": "神舟二十四号任务将开展90余项空间实验与测试",
+      "summary": "Shenzhou-24 mission to conduct over 90 space experiments, tests",
+      "summaryCn": "神舟二十四号任务计划开展90余项科学实验与技术测试，涵盖空间生命科学、材料科学、微重力物理、空间医学及新型推进技术等领域，并将实施中巴联合科学项目。",
+      "wordCount": 634,
+      "paragraphs": [
+        {
+          "en": "A total of more than 90 scientific experiments and technology tests are planned for the Shenzhou-24 mission, the China Manned Space Agency (CMSA) announced on Tuesday. The mission's main objectives are to complete an in-orbit crew {{0}} with the Shenzhou-23 crew, maintain routine station operations, conduct space science and application work, and carry out maintenance, public {{1}} and payload tests, said Zhang Jingbo, spokesperson for the CMSA, at a press conference. A view of the launch pad for the Shenzhou-24 mission is seen at the Jiuquan Satellite Launch Center near Jiuquan, Gansu Province, northwest China, November 24, 2026. The experiments and tests will cover space life sciences, space materials science, {{2}} fluid physics and {{3}} science, fundamental physics, space medicine and new space technologies. In space life sciences, researchers will develop vascular chips and multi-type organ chips to explore how the space environment affects major {{4}} processes, such as vascular aging, with the aim of developing new {{5}} to prevent and treat age-related vascular diseases.",
+          "cn": "中国载人航天工程办公室（CMSA）周二宣布，神舟二十四号任务共计划开展90余项科学实验与技术测试。CMSA发言人张静波在新闻发布会上表示，该任务的主要目标包括：与神舟二十三号乘组完成在轨轮换、维持空间站日常运行、开展空间科学及应用工作，以及进行维护、公众宣传和有效载荷测试。2026年11月24日，在中国西北部甘肃省酒泉附近的酒泉卫星发射中心，神舟二十四号任务的发射工位一览。这些实验和测试将涵盖空间生命科学、空间材料科学、微重力流体物理与燃烧科学、基础物理、空间医学及新型空间技术等领域。在空间生命科学方面，研究人员将开发血管芯片和多类型器官芯片，探究空间环境如何影响血管老化等主要生理过程，旨在开发预防和治疗年龄相关血管疾病的新策略。"
+        },
+        {
+          "en": "In space materials science, the mission will focus on the in-orbit preparation and performance control of ultra-high-temperature niobium-silicon {{6}} compounds and calcium-silicon multicomponent bioactive glass. It will also involve scientific studies of materials such as single-crystal silicon and {{7}}. Experiments in microgravity fluid physics and combustion science will focus on high-efficiency space heat exchange and fire prevention and control technologies. These include electric-field-coupled micro-nano structures for enhanced boiling heat transfer under microgravity conditions, as well as studies of the interaction between clean-gas fire {{8}} and {{9}} flames under varying pressure and oxygen conditions. In fundamental physics, the mission will explore new states of matter and physical laws through optical-lattice quantum simulations and research into novel quantum states.",
+          "cn": "在空间材料科学方面，该任务将聚焦超高温铌硅金属间化合物和钙硅多组分生物活性玻璃的在轨制备与性能调控，还将涉及单晶硅和钙钛矿等材料的科学研究。微重力流体物理与燃烧科学实验将聚焦高效空间热交换及火灾防控技术，包括电场耦合微纳结构强化微重力条件下沸腾传热的研究，以及不同压力和氧气条件下清洁气体灭火剂与扩散火焰相互作用的研究。在基础物理方面，该任务将通过光晶格量子模拟和新型量子态研究，探索物质新状态和物理规律。"
+        },
+        {
+          "en": "It will also investigate key technologies for inertial measurement based on a space cold-atom {{10}}. In space medicine, the crew will advance multi-omics research and behavioral and brain function studies under the space human research program, while further testing new technologies for maintaining the health of astronauts and the general public. In aerospace technology, the mission will conduct key tests of a chem-electric hybrid {{11}} system using new ionic liquid propellants, as part of efforts to develop next-generation spacecraft propulsion technologies. Asked about the value of long-term experiments aboard the space station, Zhang noted that basic research requires scientists to accept years of quiet, {{12}} work and keep deepening research into their chosen fields. By taking advantage of space conditions that are difficult to reproduce on Earth, including microgravity, high vacuum, intense radiation and high cleanliness, and combining orbital experiments with ground-based research, scientists can uncover physical laws that are difficult to detect on Earth and pave the way for major discoveries and technological {{13}}, he said.",
+          "cn": "该任务还将研究基于空间冷原子干涉仪的惯性测量关键技术。在空间医学方面，乘组将在空间人体研究计划下推进多组学研究及行为与脑功能研究，同时进一步测试维护航天员及公众健康的新技术。在航天技术方面，该任务将对采用新型离子液体推进剂的化学-电混合推进系统进行关键测试，以推动下一代航天器推进技术的发展。当被问及空间站长期实验的价值时，张静波指出，基础研究需要科学家接受多年默默无闻、不引人注目的工作，并不断深化所选领域的研究。他表示，利用地球上难以复现的空间条件——包括微重力、高真空、强辐射和高洁净度——并将轨道实验与地面研究相结合，科学家能够揭示在地球上难以探测的物理规律，为重大发现和技术突破铺平道路。"
+        },
+        {
+          "en": "Zhang cited an example from fundamental physics: the century-long pursuit of absolute zero. After 15 years of research, Chinese scientists pioneered the use of all-optical trap cooling technology in the space station's ultra-cold atom rack to cool a rubidium atom cloud to 9.7 picokelvins, about 14 orders of magnitude below room temperature, and keep it observable for seven seconds. The result, he said, is the coldest known man-made matter, setting a record low that opens up new possibilities for fundamental physics and related technologies. \"China will continue to use the space station as a national space laboratory to steadily advance space science, space applications and space technology, better serving sci-tech progress and economic and social development,\" he said. The Shenzhou-24 spacecraft, carrying Chinese astronauts Tang Hongbo and Wu Yi, along with Pakistani astronaut Muhammad Zeeshan Ali, is scheduled to launch at 8:18 a.m.",
+          "cn": "张静波举了基础物理领域的一个例子：对绝对零度的百年追求。经过15年的研究，中国科学家首创全光阱冷却技术，在空间站超冷原子柜中将铷原子云冷却至9.7皮开尔文，比室温低约14个数量级，并使其保持可观测状态达7秒。他表示，这一成果是已知最冷的人造物质，创下了最低温度纪录，为基础物理及相关技术开辟了新的可能性。“中国将继续把空间站作为国家太空实验室，稳步推进空间科学、空间应用和空间技术发展，更好地服务科技进步和经济社会发展，”他说。神舟二十四号飞船搭载中国航天员唐洪波、吴毅以及巴基斯坦航天员穆罕默德·泽山·阿里，计划于上午8时18分发射。"
+        },
+        {
+          "en": "on Wednesday from the Jiuquan Satellite Launch Center in northwest China. According to Zhang, the Shenzhou-24 mission will also include four China-Pakistan joint scientific projects in biotechnology and materials science. The Pakistani payload specialist will conduct a {{14}} cyanobacteria experiment in orbit.",
+          "cn": "发射定于周三在中国西北部的酒泉卫星发射中心进行。据张静波介绍，神舟二十四号任务还将包括生物技术和材料科学领域的四个中巴联合科学项目。巴基斯坦有效载荷专家将在轨开展光合蓝细菌实验。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "rotation",
+          "hint": "n. 轮换",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "outreach",
+          "hint": "n. 外联宣传",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "microgravity",
+          "hint": "n. 微重力",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "combustion",
+          "hint": "n. 燃烧",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "physiological",
+          "hint": "adj. 生理的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "strategies",
+          "hint": "n. 策略",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "intermetallic",
+          "hint": "adj. 金属间化合物的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "perovskite",
+          "hint": "n. 钙钛矿",
+          "difficulty": "hard"
+        },
+        {
+          "id": 8,
+          "answer": "suppressants",
+          "hint": "n. 抑制剂",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "diffusion",
+          "hint": "n. 扩散",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "interferometer",
+          "hint": "n. 干涉仪",
+          "difficulty": "hard"
+        },
+        {
+          "id": 11,
+          "answer": "propulsion",
+          "hint": "n. 推进",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "answer": "unglamorous",
+          "hint": "adj. 不吸引人的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "answer": "breakthroughs",
+          "hint": "n. 突破",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "photosynthetic",
+          "hint": "adj. 光合作用的",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "A total of more than 90 scientific experiments and technology tests are planned for the Shenzhou-24 mission, the China Manned Space Agency (CMSA) announced on Tuesday.\nThe mission's main objectives are to complete an in-orbit crew rotation with the Shenzhou-23 crew, maintain routine station operations, conduct space science and application work, and carry out maintenance, public outreach and payload tests, said Zhang Jingbo, spokesperson for the CMSA, at a press conference.\nA view of the launch pad for the Shenzhou-24 mission is seen at the Jiuquan Satellite Launch Center near Jiuquan, Gansu Province, northwest China, November 24, 2026. \nThe experiments and tests will cover space life sciences, space materials science, microgravity fluid physics and combustion science, fundamental physics, space medicine and new space technologies.\nIn space life sciences, researchers will develop vascular chips and multi-type organ chips to explore how the space environment affects major physiological processes, such as vascular aging, with the aim of developing new strategies to prevent and treat age-related vascular diseases.\nIn space materials science, the mission will focus on the in-orbit preparation and performance control of ultra-high-temperature niobium-silicon intermetallic compounds and calcium-silicon multicomponent bioactive glass. It will also involve scientific studies of materials such as single-crystal silicon and perovskite.\nExperiments in microgravity fluid physics and combustion science will focus on high-efficiency space heat exchange and fire prevention and control technologies. These include electric-field-coupled micro-nano structures for enhanced boiling heat transfer under microgravity conditions, as well as studies of the interaction between clean-gas fire suppressants and diffusion flames under varying pressure and oxygen conditions.\nIn fundamental physics, the mission will explore new states of matter and physical laws through optical-lattice quantum simulations and research into novel quantum states. It will also investigate key technologies for inertial measurement based on a space cold-atom interferometer.\nIn space medicine, the crew will advance multi-omics research and behavioral and brain function studies under the space human research program, while further testing new technologies for maintaining the health of astronauts and the general public.\nIn aerospace technology, the mission will conduct key tests of a chem-electric hybrid propulsion system using new ionic liquid propellants, as part of efforts to develop next-generation spacecraft propulsion technologies.\nAsked about the value of long-term experiments aboard the space station, Zhang noted that basic research requires scientists to accept years of quiet, unglamorous work and keep deepening research into their chosen fields.\nBy taking advantage of space conditions that are difficult to reproduce on Earth, including microgravity, high vacuum, intense radiation and high cleanliness, and combining orbital experiments with ground-based research, scientists can uncover physical laws that are difficult to detect on Earth and pave the way for major discoveries and technological breakthroughs, he said.\nZhang cited an example from fundamental physics: the century-long pursuit of absolute zero. After 15 years of research, Chinese scientists pioneered the use of all-optical trap cooling technology in the space station's ultra-cold atom rack to cool a rubidium atom cloud to 9.7 picokelvins, about 14 orders of magnitude below room temperature, and keep it observable for seven seconds.\nThe result, he said, is the coldest known man-made matter, setting a record low that opens up new possibilities for fundamental physics and related technologies.\n\"China will continue to use the space station as a national space laboratory to steadily advance space science, space applications and space technology, better serving sci-tech progress and economic and social development,\" he said.\nThe Shenzhou-24 spacecraft, carrying Chinese astronauts Tang Hongbo and Wu Yi, along with Pakistani astronaut Muhammad Zeeshan Ali, is scheduled to launch at 8:18 a.m. on Wednesday from the Jiuquan Satellite Launch Center in northwest China.\nAccording to Zhang, the Shenzhou-24 mission will also include four China-Pakistan joint scientific projects in biotechnology and materials science. The Pakistani payload specialist will conduct a photosynthetic cyanobacteria experiment in orbit.",
+      "fullTextCn": "中国载人航天工程办公室（CMSA）周二宣布，神舟二十四号任务共计划开展90余项科学实验与技术测试。CMSA发言人张静波在新闻发布会上表示，该任务的主要目标包括：与神舟二十三号乘组完成在轨轮换、维持空间站日常运行、开展空间科学及应用工作，以及进行维护、公众宣传和有效载荷测试。2026年11月24日，在中国西北部甘肃省酒泉附近的酒泉卫星发射中心，神舟二十四号任务的发射工位一览。这些实验和测试将涵盖空间生命科学、空间材料科学、微重力流体物理与燃烧科学、基础物理、空间医学及新型空间技术等领域。在空间生命科学方面，研究人员将开发血管芯片和多类型器官芯片，探究空间环境如何影响血管老化等主要生理过程，旨在开发预防和治疗年龄相关血管疾病的新策略。\n\n在空间材料科学方面，该任务将聚焦超高温铌硅金属间化合物和钙硅多组分生物活性玻璃的在轨制备与性能调控，还将涉及单晶硅和钙钛矿等材料的科学研究。微重力流体物理与燃烧科学实验将聚焦高效空间热交换及火灾防控技术，包括电场耦合微纳结构强化微重力条件下沸腾传热的研究，以及不同压力和氧气条件下清洁气体灭火剂与扩散火焰相互作用的研究。在基础物理方面，该任务将通过光晶格量子模拟和新型量子态研究，探索物质新状态和物理规律。\n\n该任务还将研究基于空间冷原子干涉仪的惯性测量关键技术。在空间医学方面，乘组将在空间人体研究计划下推进多组学研究及行为与脑功能研究，同时进一步测试维护航天员及公众健康的新技术。在航天技术方面，该任务将对采用新型离子液体推进剂的化学-电混合推进系统进行关键测试，以推动下一代航天器推进技术的发展。当被问及空间站长期实验的价值时，张静波指出，基础研究需要科学家接受多年默默无闻、不引人注目的工作，并不断深化所选领域的研究。他表示，利用地球上难以复现的空间条件——包括微重力、高真空、强辐射和高洁净度——并将轨道实验与地面研究相结合，科学家能够揭示在地球上难以探测的物理规律，为重大发现和技术突破铺平道路。\n\n张静波举了基础物理领域的一个例子：对绝对零度的百年追求。经过15年的研究，中国科学家首创全光阱冷却技术，在空间站超冷原子柜中将铷原子云冷却至9.7皮开尔文，比室温低约14个数量级，并使其保持可观测状态达7秒。他表示，这一成果是已知最冷的人造物质，创下了最低温度纪录，为基础物理及相关技术开辟了新的可能性。“中国将继续把空间站作为国家太空实验室，稳步推进空间科学、空间应用和空间技术发展，更好地服务科技进步和经济社会发展，”他说。神舟二十四号飞船搭载中国航天员唐洪波、吴毅以及巴基斯坦航天员穆罕默德·泽山·阿里，计划于上午8时18分发射。\n\n发射定于周三在中国西北部的酒泉卫星发射中心进行。据张静波介绍，神舟二十四号任务还将包括生物技术和材料科学领域的四个中巴联合科学项目。巴基斯坦有效载荷专家将在轨开展光合蓝细菌实验。"
+    },
+    {
+      "id": 2,
+      "category": "military",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-24/FM-China-vows-mature-stead-sustainable-development-of-ties-with-UK-1Sl7wQTPoIw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "China vows mature, steady, sustainable development of ties with UK",
+      "titleCn": "中国承诺推动中英关系成熟、稳定、可持续发展",
+      "summary": "China stands ready to work with Britain to promote the mature, steady and sustainable development of bilateral relations, Chinese Foreign Minister Wang Yi said on Tuesday.",
+      "summaryCn": "中国外交部长王毅与英国外交大臣米利班德通电话，双方表示将共同推动中英关系成熟稳定可持续发展，深化各领域合作。",
+      "wordCount": 436,
+      "paragraphs": [
+        {
+          "en": "China stands ready to work with Britain to promote the {{0}}, steady and {{1}} development of {{2}} relations, Chinese Foreign Minister Wang Yi said on Tuesday. Wang, also a member of the Political Bureau of the Communist Party of China Central Committee, made the remarks in phone talks with British Foreign Secretary Ed Miliband on bilateral relations and international issues. Since the beginning of this year, under the guidance of the leaders of both countries, positive progress has been made in improving China-Britain relations, which is worth being {{3}} by both sides, Wang said. History and facts will prove that developing a long-term and stable comprehensive strategic partnership between China and Britain fully serves the {{4}} interests of both countries and their peoples, he said. Next year will mark the 55th {{5}} of diplomatic relations at the {{6}} level between China and Britain, making it an important year for the bilateral relationship to build on past achievements and forge ahead, he noted. Wang expressed China's readiness to work with Britain to play a {{7}} role in {{8}} regional and world peace and stability.",
+          "cn": "中国外交部长王毅周二表示，中国愿与英国一道，推动双边关系成熟、稳定、可持续发展。王毅也是中共中央政治局委员，他在与英国外交大臣埃德·米利班德的电话会谈中就双边关系和国际问题作出了上述表示。王毅说，今年以来，在两国领导人指引下，中英关系改善取得积极进展，值得双方珍惜。他表示，历史和事实将证明，发展中英长期稳定的全面战略伙伴关系完全符合两国和两国人民的根本利益。他指出，明年将迎来中英建立大使级外交关系55周年，是双边关系承前启后的重要年份。王毅表示，中国愿与英国一道，为维护地区与世界和平稳定发挥建设性作用。"
+        },
+        {
+          "en": "China and Britain should follow the direction charted by the leaders of the two countries, make sound plans for the next stage of high-level exchanges, fully {{9}} the potential for cooperation across various fields, and continuously {{10}} their comprehensive strategic partnership, Wang said. Wang expressed his hope that Britain will {{11}} {{12}} by the one-China principle and {{13}} the political foundation of bilateral relations. China will continue to expand opening up during the 15th Five-Year Plan period (2026-2030), and create broad opportunities for practical cooperation between the two countries, said Wang. China hopes that the British side will uphold the principle of free trade and adopt an open approach, and provide Chinese enterprises with stable policy {{14}} and a {{15}} business environment for cooperation in Britain, he added. Wang said China supports Britain in its work holding the G20 presidency next year and stands ready to strengthen {{16}} coordination with Britain to bring greater stability and certainty to a {{17}} world. For his part, Miliband congratulated China on successfully hosting the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting, saying that the British side attaches great importance to developing relations with China and looks forward to maintaining close high-level exchanges, expanding mutually beneficial cooperation, and promoting the healthy and steady development of bilateral relations.",
+          "cn": "王毅表示，中英应遵循两国领导人指明的方向，做好下一阶段高层交往的周密规划，充分释放各领域合作潜力，不断充实全面战略伙伴关系内涵。王毅表示，希望英方切实恪守一个中国原则，维护双边关系的政治基础。王毅说，中国将在“十五五”规划期间（2026-2030年）继续扩大对外开放，为两国务实合作创造广阔机遇。他补充说，中国希望英方坚持自由贸易原则，采取开放态度，为中国企业在英合作提供稳定的政策预期和良好的营商环境。王毅表示，中国支持英国担任明年二十国集团主席国，愿与英方加强多边协调，为动荡世界带来更多稳定性和确定性。米利班德则祝贺中国成功主办亚太经合组织领导人非正式会议，表示英方高度重视发展对华关系，期待保持密切高层交往，扩大互利合作，推动双边关系健康稳定发展。"
+        },
+        {
+          "en": "The British side {{18}} that its position on the Taiwan question remains unchanged, said Miliband, expressing {{19}} to strengthen dialogue and communication with China on climate change and international and regional {{20}} issues, jointly address challenges and safeguard world peace.",
+          "cn": "米利班德表示，英方重申在台湾问题上的立场没有改变，表示愿与中方就气候变化和国际地区热点问题加强对话沟通，共同应对挑战，维护世界和平。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "mature",
+          "hint": "adj. 成熟的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "sustainable",
+          "hint": "adj. 可持续的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "bilateral",
+          "hint": "adj. 双边的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "cherished",
+          "hint": "v. 珍惜",
+          "difficulty": "hard"
+        },
+        {
+          "id": 4,
+          "answer": "fundamental",
+          "hint": "adj. 根本的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "anniversary",
+          "hint": "n. 周年纪念",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "ambassadorial",
+          "hint": "adj. 大使级的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "constructive",
+          "hint": "adj. 建设性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "safeguarding",
+          "hint": "v. 维护",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "unleash",
+          "hint": "v. 释放",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "enrich",
+          "hint": "v. 充实",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "earnestly",
+          "hint": "adv. 认真地",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "abide",
+          "hint": "v. 遵守",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "uphold",
+          "hint": "v. 坚持",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "expectations",
+          "hint": "n. 预期",
+          "difficulty": "easy"
+        },
+        {
+          "id": 15,
+          "answer": "favorable",
+          "hint": "adj. 有利的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "multilateral",
+          "hint": "adj. 多边的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 17,
+          "answer": "turbulent",
+          "hint": "adj. 动荡的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 18,
+          "answer": "reaffirmed",
+          "hint": "v. 重申",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "willingness",
+          "hint": "n. 意愿",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "hotspot",
+          "hint": "n. 热点",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "China stands ready to work with Britain to promote the mature, steady and sustainable development of bilateral relations, Chinese Foreign Minister Wang Yi said on Tuesday.\nWang, also a member of the Political Bureau of the Communist Party of China Central Committee, made the remarks in phone talks with British Foreign Secretary Ed Miliband on bilateral relations and international issues.\nSince the beginning of this year, under the guidance of the leaders of both countries, positive progress has been made in improving China-Britain relations, which is worth being cherished by both sides, Wang said.\nHistory and facts will prove that developing a long-term and stable comprehensive strategic partnership between China and Britain fully serves the fundamental interests of both countries and their peoples, he said.\nNext year will mark the 55th anniversary of diplomatic relations at the ambassadorial level between China and Britain, making it an important year for the bilateral relationship to build on past achievements and forge ahead, he noted.\nWang expressed China's readiness to work with Britain to play a constructive role in safeguarding regional and world peace and stability.\nChina and Britain should follow the direction charted by the leaders of the two countries, make sound plans for the next stage of high-level exchanges, fully unleash the potential for cooperation across various fields, and continuously enrich their comprehensive strategic partnership, Wang said.\nWang expressed his hope that Britain will earnestly abide by the one-China principle and uphold the political foundation of bilateral relations.\nChina will continue to expand opening up during the 15th Five-Year Plan period (2026-2030), and create broad opportunities for practical cooperation between the two countries, said Wang.\nChina hopes that the British side will uphold the principle of free trade and adopt an open approach, and provide Chinese enterprises with stable policy expectations and a favorable business environment for cooperation in Britain, he added.\nWang said China supports Britain in its work holding the G20 presidency next year and stands ready to strengthen multilateral coordination with Britain to bring greater stability and certainty to a turbulent world.\nFor his part, Miliband congratulated China on successfully hosting the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting, saying that the British side attaches great importance to developing relations with China and looks forward to maintaining close high-level exchanges, expanding mutually beneficial cooperation, and promoting the healthy and steady development of bilateral relations.\nThe British side reaffirmed that its position on the Taiwan question remains unchanged, said Miliband, expressing willingness to strengthen dialogue and communication with China on climate change and international and regional hotspot issues, jointly address challenges and safeguard world peace.",
+      "fullTextCn": "中国外交部长王毅周二表示，中国愿与英国一道，推动双边关系成熟、稳定、可持续发展。王毅也是中共中央政治局委员，他在与英国外交大臣埃德·米利班德的电话会谈中就双边关系和国际问题作出了上述表示。王毅说，今年以来，在两国领导人指引下，中英关系改善取得积极进展，值得双方珍惜。他表示，历史和事实将证明，发展中英长期稳定的全面战略伙伴关系完全符合两国和两国人民的根本利益。他指出，明年将迎来中英建立大使级外交关系55周年，是双边关系承前启后的重要年份。王毅表示，中国愿与英国一道，为维护地区与世界和平稳定发挥建设性作用。\n\n王毅表示，中英应遵循两国领导人指明的方向，做好下一阶段高层交往的周密规划，充分释放各领域合作潜力，不断充实全面战略伙伴关系内涵。王毅表示，希望英方切实恪守一个中国原则，维护双边关系的政治基础。王毅说，中国将在“十五五”规划期间（2026-2030年）继续扩大对外开放，为两国务实合作创造广阔机遇。他补充说，中国希望英方坚持自由贸易原则，采取开放态度，为中国企业在英合作提供稳定的政策预期和良好的营商环境。王毅表示，中国支持英国担任明年二十国集团主席国，愿与英方加强多边协调，为动荡世界带来更多稳定性和确定性。米利班德则祝贺中国成功主办亚太经合组织领导人非正式会议，表示英方高度重视发展对华关系，期待保持密切高层交往，扩大互利合作，推动双边关系健康稳定发展。\n\n米利班德表示，英方重申在台湾问题上的立场没有改变，表示愿与中方就气候变化和国际地区热点问题加强对话沟通，共同应对挑战，维护世界和平。"
+    },
+    {
+      "id": 3,
+      "category": "sports",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-26/Isak-double-lifts-Liverpool-past-Brugge-Barcelona-beats-Sabah-1SnEfWkag6s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+      "title": "Isak double lifts Liverpool past Brugge, Barcelona beats Sabah",
+      "titleCn": "伊萨克双响助利物浦客胜布鲁日，巴塞罗那击败萨巴赫",
+      "summary": "Isak double lifts Liverpool past Brugge, Barcelona beats Sabah",
+      "summaryCn": "伊萨克梅开二度帮助利物浦客场3-0战胜布鲁日，戈登同样独中两元助巴塞罗那4-1轻取萨巴赫，两队均在欧冠联赛阶段占据有利晋级位置。",
+      "wordCount": 465,
+      "paragraphs": [
+        {
+          "en": "Liverpool {{0}} Alexander Isak (L) scores a goal in the UEFA Champions League league-phase match against Club Brugge in Bruges, Belgium, November 25, 2026. Alexander Isak and Anthony Gordon starred for their {{1}} clubs on Matchday 5 of the UEFA Champions League. Isak {{2}} twice as Liverpool beat Club Brugge 3-0 away from home while Gordon also bagged a brace as Barcelona recorded a {{3}} 4-1 win over Azerbaijan's Sabah. Liverpool took the lead in the 13th minute at the Jan Breydel Stadium when Isak {{4}} on a pass from Dominik Szoboszlai after the visitors took advantage of a {{5}} {{6}} by Club Brugge goalkeeper Yann Sommer. The Belgian side {{7}} to {{8}}, but Liverpool goalkeeper Alisson Becker produced several important saves to prevent his side from {{9}}. Andoni Iraola's side {{10}} their advantage in the 79th minute when Florian Wirtz found the net following an {{11}} run by {{12}} Rio Ngumoha, who had replaced the injured Víctor Muñoz in the first half.",
+          "cn": "利物浦前锋亚历山大·伊萨克（左）在2026年11月25日于比利时布鲁日举行的欧洲冠军联赛联赛阶段对阵布鲁日俱乐部的比赛中进球。亚历山大·伊萨克和安东尼·戈登在欧冠联赛阶段第5轮分别为各自俱乐部闪耀。伊萨克梅开二度，帮助利物浦客场3-0击败布鲁日俱乐部，而戈登同样独中两元，帮助巴塞罗那以4-1轻松战胜阿塞拜疆的萨巴赫。利物浦在第13分钟于扬·布雷德尔球场取得领先，伊萨克抓住布鲁日门将扬·索默解围失误的机会，接多米尼克·索博斯洛伊的传球破门。比利时球队一度有扳平之势，但利物浦门将阿利松·贝克尔多次做出重要扑救，力保球门不失。安多尼·伊拉奥拉的球队在第79分钟扩大优势，弗洛里安·维尔茨在替补出场的里奥·恩古莫哈精彩突破后找到球门，后者在上半场替换了受伤的维克托·穆尼奥斯。"
+        },
+        {
+          "en": "Isak {{13}} the victory three minutes later, {{14}} onto a long pass from Alisson before lifting the ball over Sommer to score his second goal of the night. The Swedish striker has now scored in six {{15}} away appearances for Liverpool, who {{16}} from a 3-2 defeat to Fenerbahçe in their previous European outing. Liverpool moved to fifth in the league phase {{17}} with 12 points from five matches and will host Porto at Anfield on December 9. Barcelona winger Anthony Gordon celebrates after scoring a goal in the UEFA Champions League league-phase match against Sabah in Baku, Azerbaijan, November 25, 2026. Barca scores four in Azerbaijan\nAt the Baku Olympic Stadium, Barcelona {{18}} an early scare to record their fourth victory in five Champions League matches this season. Playing without the injured Lamine Yamal, Hansi Flick's side {{19}} to break down Sabah in the early stages, with the hosts coming close to taking the lead when Ivan Lepinjica struck the crossbar.",
+          "cn": "伊萨克在三分钟后锁定胜局，他接阿利松的长传，将球挑过索默，打入个人当晚第二球。这位瑞典前锋现已连续六场利物浦客场比赛取得进球，利物浦也从上一场欧洲赛事2-3负于费内巴切的失利中恢复过来。利物浦以五场比赛积12分升至联赛阶段积分榜第五位，并将于12月9日在安菲尔德主场迎战波尔图。巴塞罗那边锋安东尼·戈登在2026年11月25日于阿塞拜疆巴库举行的欧洲冠军联赛联赛阶段对阵萨巴赫的比赛中进球后庆祝。巴萨在阿塞拜疆打入四球。在巴库奥林匹克体育场，巴塞罗那克服了开场的惊吓，取得了本赛季五场欧冠比赛中的第四场胜利。由于拉明·亚马尔受伤缺阵，汉西·弗利克的球队在开场阶段难以攻破萨巴赫的防线，主队一度接近取得领先，伊万·莱平吉察击中横梁。"
+        },
+        {
+          "en": "Gordon broke the {{20}} in the first half, {{21}} from close range after Sabah goalkeeper Stas Pokatilov failed to clear the danger. The England international added his second shortly after halftime, capitalizing on a {{22}} after Pokatilov saved an attempt from Gabriel Jesus. Karim Adeyemi and Jesus then scored in quick {{23}} as Barcelona established a four-goal {{24}} before the hour mark. Joy-Lance Mickels reduced the deficit for Sabah, but the hosts were unable to mount a comeback. Gordon was named Player of the Match, while Barcelona climbed to fourth in the standings with 12 points, ahead of Liverpool on goal difference. The Spanish champions will host Manchester City on December 8 in their next Champions League fixture.",
+          "cn": "戈登在上半场打破僵局，在萨巴赫门将斯塔斯·波卡季洛夫未能解围后近距离破门。这位英格兰国脚在中场休息后不久再入一球，抓住波卡季洛夫扑出加布里埃尔·热苏斯射门后的补射机会。随后卡里姆·阿德耶米和热苏斯接连进球，巴塞罗那在不到一小时前便建立了四球优势。乔伊-兰斯·米克尔斯为萨巴赫扳回一球，但主队未能发起逆转。戈登当选全场最佳球员，巴塞罗那则以12分升至积分榜第四位，凭借净胜球优势领先利物浦。这支西班牙冠军球队将于12月8日在下一场欧冠比赛中主场迎战曼城。"
+        },
+        {
+          "en": "Both Liverpool and Barcelona are well positioned to secure automatic qualification for the round of 16, with three league phase matches remaining.",
+          "cn": "利物浦和巴塞罗那都处于有利位置，有望在还剩三场联赛阶段比赛的情况下锁定16强自动晋级资格。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "striker",
+          "hint": "n. 前锋",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "respective",
+          "hint": "adj. 各自的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "struck",
+          "hint": "v. 击中；进球（strike的过去式）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "routine",
+          "hint": "adj. 常规的；平淡无奇的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "capitalized",
+          "hint": "v. 利用（capitalize on）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 5,
+          "answer": "misplaced",
+          "hint": "adj. 位置不当的；失误的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 6,
+          "answer": "clearance",
+          "hint": "n. 解围；清除",
+          "difficulty": "hard"
+        },
+        {
+          "id": 7,
+          "answer": "threatened",
+          "hint": "v. 威胁；有…之势",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "equalize",
+          "hint": "v. 扳平比分",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "conceding",
+          "hint": "v. 失球；承认（concede的现在分词）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "answer": "doubled",
+          "hint": "v. 使加倍；扩大（比分）",
+          "difficulty": "easy"
+        },
+        {
+          "id": 11,
+          "answer": "impressive",
+          "hint": "adj. 令人印象深刻的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 12,
+          "answer": "substitute",
+          "hint": "n. 替补球员",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "sealed",
+          "hint": "v. 锁定（胜局）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "latching",
+          "hint": "v. 抓住；接住（latch onto）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "consecutive",
+          "hint": "adj. 连续的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 16,
+          "answer": "recovered",
+          "hint": "v. 恢复；重整旗鼓",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "standings",
+          "hint": "n. 积分榜排名",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "overcame",
+          "hint": "v. 克服（overcome的过去式）",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "struggled",
+          "hint": "v. 挣扎；艰难应对",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "deadlock",
+          "hint": "n. 僵局（break the deadlock 打破僵局）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 21,
+          "answer": "converting",
+          "hint": "v. 转化；把握机会得分",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "rebound",
+          "hint": "n. 反弹球；补射",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "succession",
+          "hint": "n. 接连（in quick succession 接连地）",
+          "difficulty": "hard"
+        },
+        {
+          "id": 24,
+          "answer": "cushion",
+          "hint": "n. 缓冲；优势（four-goal cushion 四球优势）",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Liverpool striker Alexander Isak (L) scores a goal in the UEFA Champions League league-phase match against Club Brugge in Bruges, Belgium, November 25, 2026. \nAlexander Isak and Anthony Gordon starred for their respective clubs on Matchday 5 of the UEFA Champions League. Isak struck twice as Liverpool beat Club Brugge 3-0 away from home while Gordon also bagged a brace as Barcelona recorded a routine 4-1 win over Azerbaijan's Sabah.\nLiverpool took the lead in the 13th minute at the Jan Breydel Stadium when Isak capitalized on a pass from Dominik Szoboszlai after the visitors took advantage of a misplaced clearance by Club Brugge goalkeeper Yann Sommer.\nThe Belgian side threatened to equalize, but Liverpool goalkeeper Alisson Becker produced several important saves to prevent his side from conceding.\nAndoni Iraola's side doubled their advantage in the 79th minute when Florian Wirtz found the net following an impressive run by substitute Rio Ngumoha, who had replaced the injured Víctor Muñoz in the first half.\nIsak sealed the victory three minutes later, latching onto a long pass from Alisson before lifting the ball over Sommer to score his second goal of the night.\nThe Swedish striker has now scored in six consecutive away appearances for Liverpool, who recovered from a 3-2 defeat to Fenerbahçe in their previous European outing.\nLiverpool moved to fifth in the league phase standings with 12 points from five matches and will host Porto at Anfield on December 9.\nBarcelona winger Anthony Gordon celebrates after scoring a goal in the UEFA Champions League league-phase match against Sabah in Baku, Azerbaijan, November 25, 2026. \nBarca scores four in Azerbaijan\nAt the Baku Olympic Stadium, Barcelona overcame an early scare to record their fourth victory in five Champions League matches this season.\nPlaying without the injured Lamine Yamal, Hansi Flick's side struggled to break down Sabah in the early stages, with the hosts coming close to taking the lead when Ivan Lepinjica struck the crossbar.\nGordon broke the deadlock in the first half, converting from close range after Sabah goalkeeper Stas Pokatilov failed to clear the danger.\nThe England international added his second shortly after halftime, capitalizing on a rebound after Pokatilov saved an attempt from Gabriel Jesus.\nKarim Adeyemi and Jesus then scored in quick succession as Barcelona established a four-goal cushion before the hour mark. Joy-Lance Mickels reduced the deficit for Sabah, but the hosts were unable to mount a comeback.\nGordon was named Player of the Match, while Barcelona climbed to fourth in the standings with 12 points, ahead of Liverpool on goal difference.\nThe Spanish champions will host Manchester City on December 8 in their next Champions League fixture.\nBoth Liverpool and Barcelona are well positioned to secure automatic qualification for the round of 16, with three league phase matches remaining.",
+      "fullTextCn": "利物浦前锋亚历山大·伊萨克（左）在2026年11月25日于比利时布鲁日举行的欧洲冠军联赛联赛阶段对阵布鲁日俱乐部的比赛中进球。亚历山大·伊萨克和安东尼·戈登在欧冠联赛阶段第5轮分别为各自俱乐部闪耀。伊萨克梅开二度，帮助利物浦客场3-0击败布鲁日俱乐部，而戈登同样独中两元，帮助巴塞罗那以4-1轻松战胜阿塞拜疆的萨巴赫。利物浦在第13分钟于扬·布雷德尔球场取得领先，伊萨克抓住布鲁日门将扬·索默解围失误的机会，接多米尼克·索博斯洛伊的传球破门。比利时球队一度有扳平之势，但利物浦门将阿利松·贝克尔多次做出重要扑救，力保球门不失。安多尼·伊拉奥拉的球队在第79分钟扩大优势，弗洛里安·维尔茨在替补出场的里奥·恩古莫哈精彩突破后找到球门，后者在上半场替换了受伤的维克托·穆尼奥斯。\n\n伊萨克在三分钟后锁定胜局，他接阿利松的长传，将球挑过索默，打入个人当晚第二球。这位瑞典前锋现已连续六场利物浦客场比赛取得进球，利物浦也从上一场欧洲赛事2-3负于费内巴切的失利中恢复过来。利物浦以五场比赛积12分升至联赛阶段积分榜第五位，并将于12月9日在安菲尔德主场迎战波尔图。巴塞罗那边锋安东尼·戈登在2026年11月25日于阿塞拜疆巴库举行的欧洲冠军联赛联赛阶段对阵萨巴赫的比赛中进球后庆祝。巴萨在阿塞拜疆打入四球。在巴库奥林匹克体育场，巴塞罗那克服了开场的惊吓，取得了本赛季五场欧冠比赛中的第四场胜利。由于拉明·亚马尔受伤缺阵，汉西·弗利克的球队在开场阶段难以攻破萨巴赫的防线，主队一度接近取得领先，伊万·莱平吉察击中横梁。\n\n戈登在上半场打破僵局，在萨巴赫门将斯塔斯·波卡季洛夫未能解围后近距离破门。这位英格兰国脚在中场休息后不久再入一球，抓住波卡季洛夫扑出加布里埃尔·热苏斯射门后的补射机会。随后卡里姆·阿德耶米和热苏斯接连进球，巴塞罗那在不到一小时前便建立了四球优势。乔伊-兰斯·米克尔斯为萨巴赫扳回一球，但主队未能发起逆转。戈登当选全场最佳球员，巴塞罗那则以12分升至积分榜第四位，凭借净胜球优势领先利物浦。这支西班牙冠军球队将于12月8日在下一场欧冠比赛中主场迎战曼城。\n\n利物浦和巴塞罗那都处于有利位置，有望在还剩三场联赛阶段比赛的情况下锁定16强自动晋级资格。"
+    },
+    {
+      "id": 4,
+      "category": "technology",
+      "source": "CGTN",
+      "sourceUrl": "https://news.cgtn.com/news/2026-11-27/One-spaceflight-lasting-ties-on-Earth-1SojTyEsYUw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Tech&Sci",
+      "title": "One spaceflight, lasting ties on Earth",
+      "titleCn": "一次太空飞行，地球上持久的纽带",
+      "summary": "One spaceflight, lasting ties on Earth",
+      "summaryCn": "巴基斯坦航天员登上中国空间站，而此前巴基斯坦药用植物种子搭载神舟十四号进入太空的合作项目，正持续深化中巴在传统医药、科研与人才培养等领域的长期合作。",
+      "wordCount": 388,
+      "paragraphs": [
+        {
+          "en": "Pakistani astronaut Muhammad Zeeshan Ali has begun his journey on China Space Station, opening a new chapter for the two countries' {{0}} in space. For researchers on the ground, an earlier journey offers a {{1}} of what such cooperation can bring. In 2022, seeds of seven Pakistani {{2}} plants traveled to China Space Station aboard Shenzhou-14. They returned to Pakistan in February 2023. More than three years after the {{3}}, research on the seeds continues.",
+          "cn": "巴基斯坦航天员穆罕默德·齐尚·阿里已开始在中国空间站上的旅程，为两国太空合作开启了新篇章。对于地面上的研究人员来说，更早的一次旅程让人得以一窥此类合作能带来什么。2022年，七种巴基斯坦药用植物的种子搭乘神舟十四号前往中国空间站。它们于2023年2月返回巴基斯坦。移交三年多后，对这些种子的研究仍在继续。"
+        },
+        {
+          "en": "The project also helped {{4}} and {{5}} existing cooperation in traditional medicine, said Liu Xinmin, a professor at Ningbo University who helped organize the Chinese side of the seed project. Liu told CGTN that as of now, more than 30 Chinese and Pakistani {{6}} are involved in the wider cooperation, including government {{7}}, universities and research institutes. He said the work has also helped lay the {{8}} for training researchers, building joint laboratories and developing health products. A Zhejiang-Pakistan joint laboratory for research and development of traditional medicines was {{9}} in June 2026, with Pakistani partners including the International Center for Chemical and Biological Sciences at the University of Karachi and the University of Lahore. For Liu, the ties are also personal.",
+          "cn": "帮助组织种子项目中方工作的宁波大学教授刘新民表示，该项目还帮助深化和拓宽了传统医药领域的现有合作。刘新民告诉中国国际电视台，截至目前，已有30多家中国和巴基斯坦机构参与更广泛的合作，包括政府机构、大学和研究机构。他说，这项工作还为培训研究人员、建设联合实验室和开发健康产品奠定了基础。2026年6月，一个浙江-巴基斯坦传统药物研发联合实验室揭牌，巴方合作伙伴包括卡拉奇大学国际化学与生物科学中心以及拉合尔大学。对刘新民来说，这些纽带也是个人的。"
+        },
+        {
+          "en": "He said he and his Pakistani partners call one another \"brothers\" whenever they meet — a word they mean {{10}}, not simply as a {{11}}. He hopes younger researchers will carry that relationship forward. Among them is Dr. Inam Ullah, a Pakistani {{12}} at Ningbo University’s Institute of Drug Discovery Technology. Inam said watching the seeds’ journey from Pakistan made him more {{13}} about continuing his research in China.",
+          "cn": "他说，他和巴基斯坦伙伴每次见面都互称“兄弟”——这个词他们是真心实意的，而不只是客套。他希望年轻研究人员能将这种关系传承下去。其中之一是宁波大学新药技术研究院的巴基斯坦研究员伊纳姆·乌拉博士。伊纳姆说，看着种子从巴基斯坦踏上旅程，让他更加确信要继续在中国进行研究。"
+        },
+        {
+          "en": "He said he was {{14}} by the country's research opportunities, {{15}} technologies, {{16}} labs, and the professors he worked with. “I realized that I made a correct decision and this feeling was really {{17}},” he told CGTN. He said he shares his experiences with students and professors back in Pakistan, who ask about research {{18}} and opportunities in China. The influence of a space {{19}} can {{20}} beyond those who travel into {{21}}, said Driss El Hadani, deputy director of the United Nations Office for Outer Space Affairs during an interview in September. Behind one astronaut are institutions, universities and industries contributing to the mission, he said.",
+          "cn": "他说，中国的研究机会、先进技术、设备完善的实验室以及与他共事的教授们都给他留下了深刻印象。“我意识到自己做出了正确的决定，这种感觉真的更加强烈了，”他告诉中国国际电视台。他说，他与巴基斯坦的学生和教授分享自己的经历，他们询问中国的研究设施和机会。联合国外层空间事务办公室副主任德里斯·埃尔·哈达尼在9月的一次采访中表示，太空任务的影响可以超越那些进入轨道的人。他说，一名航天员背后是众多为任务做出贡献的机构、大学和产业。"
+        },
+        {
+          "en": "Their {{22}} could create \"a new {{23}}\" that helps countries develop space activities, he added.",
+          "cn": "他补充说，他们的参与可能创造“一种新动力”，帮助各国发展太空活动。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "cooperation",
+          "hint": "n. 合作",
+          "difficulty": "easy"
+        },
+        {
+          "id": 1,
+          "answer": "glimpse",
+          "hint": "n. 一瞥；初步了解",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "medicinal",
+          "hint": "adj. 药用的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 3,
+          "answer": "handover",
+          "hint": "n. 移交",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "deepen",
+          "hint": "v. 加深",
+          "difficulty": "easy"
+        },
+        {
+          "id": 5,
+          "answer": "broaden",
+          "hint": "v. 拓宽",
+          "difficulty": "easy"
+        },
+        {
+          "id": 6,
+          "answer": "institutions",
+          "hint": "n. 机构",
+          "difficulty": "medium"
+        },
+        {
+          "id": 7,
+          "answer": "agencies",
+          "hint": "n. 机构；部门",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "groundwork",
+          "hint": "n. 基础；准备工作",
+          "difficulty": "hard"
+        },
+        {
+          "id": 9,
+          "answer": "unveiled",
+          "hint": "v. 揭幕；公布",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "sincerely",
+          "hint": "adv. 真诚地",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "courtesy",
+          "hint": "n. 客套；礼貌",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "fellow",
+          "hint": "n. 研究员；研究员职位",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "certain",
+          "hint": "adj. 确信的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 14,
+          "answer": "impressed",
+          "hint": "adj. 印象深刻的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 15,
+          "answer": "advanced",
+          "hint": "adj. 先进的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "well-equipped",
+          "hint": "adj. 设备完善的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "strengthened",
+          "hint": "v. 加强；增强",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "facilities",
+          "hint": "n. 设施",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "mission",
+          "hint": "n. 任务",
+          "difficulty": "easy"
+        },
+        {
+          "id": 20,
+          "answer": "extend",
+          "hint": "v. 延伸；扩展",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "orbit",
+          "hint": "n. 轨道",
+          "difficulty": "medium"
+        },
+        {
+          "id": 22,
+          "answer": "participation",
+          "hint": "n. 参与",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "dynamic",
+          "hint": "n. 动力；动态",
+          "difficulty": "hard"
+        }
+      ],
+      "fullText": "Pakistani astronaut Muhammad Zeeshan Ali has begun his journey on China Space Station, opening a new chapter for the two countries' cooperation in space.\nFor researchers on the ground, an earlier journey offers a glimpse of what such cooperation can bring. In 2022, seeds of seven Pakistani medicinal plants traveled to China Space Station aboard Shenzhou-14. They returned to Pakistan in February 2023.\nMore than three years after the handover, research on the seeds continues. The project also helped deepen and broaden existing cooperation in traditional medicine, said Liu Xinmin, a professor at Ningbo University who helped organize the Chinese side of the seed project.\nLiu told CGTN that as of now, more than 30 Chinese and Pakistani institutions are involved in the wider cooperation, including government agencies, universities and research institutes. He said the work has also helped lay the groundwork for training researchers, building joint laboratories and developing health products.\nA Zhejiang-Pakistan joint laboratory for research and development of traditional medicines was unveiled in June 2026, with Pakistani partners including the International Center for Chemical and Biological Sciences at the University of Karachi and the University of Lahore.\nFor Liu, the ties are also personal. He said he and his Pakistani partners call one another \"brothers\" whenever they meet — a word they mean sincerely, not simply as a courtesy.\nHe hopes younger researchers will carry that relationship forward. Among them is Dr. Inam Ullah, a Pakistani fellow at Ningbo University’s Institute of Drug Discovery Technology.\nInam said watching the seeds’ journey from Pakistan made him more certain about continuing his research in China.\nHe said he was impressed by the country's research opportunities, advanced technologies, well-equipped labs, and the professors he worked with.\n“I realized that I made a correct decision and this feeling was really strengthened,” he told CGTN.\nHe said he shares his experiences with students and professors back in Pakistan, who ask about research facilities and opportunities in China.\nThe influence of a space mission can extend beyond those who travel into orbit, said Driss El Hadani, deputy director of the United Nations Office for Outer Space Affairs during an interview in September.\nBehind one astronaut are institutions, universities and industries contributing to the mission, he said. Their participation could create \"a new dynamic\" that helps countries develop space activities, he added.",
+      "fullTextCn": "巴基斯坦航天员穆罕默德·齐尚·阿里已开始在中国空间站上的旅程，为两国太空合作开启了新篇章。对于地面上的研究人员来说，更早的一次旅程让人得以一窥此类合作能带来什么。2022年，七种巴基斯坦药用植物的种子搭乘神舟十四号前往中国空间站。它们于2023年2月返回巴基斯坦。移交三年多后，对这些种子的研究仍在继续。\n\n帮助组织种子项目中方工作的宁波大学教授刘新民表示，该项目还帮助深化和拓宽了传统医药领域的现有合作。刘新民告诉中国国际电视台，截至目前，已有30多家中国和巴基斯坦机构参与更广泛的合作，包括政府机构、大学和研究机构。他说，这项工作还为培训研究人员、建设联合实验室和开发健康产品奠定了基础。2026年6月，一个浙江-巴基斯坦传统药物研发联合实验室揭牌，巴方合作伙伴包括卡拉奇大学国际化学与生物科学中心以及拉合尔大学。对刘新民来说，这些纽带也是个人的。\n\n他说，他和巴基斯坦伙伴每次见面都互称“兄弟”——这个词他们是真心实意的，而不只是客套。他希望年轻研究人员能将这种关系传承下去。其中之一是宁波大学新药技术研究院的巴基斯坦研究员伊纳姆·乌拉博士。伊纳姆说，看着种子从巴基斯坦踏上旅程，让他更加确信要继续在中国进行研究。\n\n他说，中国的研究机会、先进技术、设备完善的实验室以及与他共事的教授们都给他留下了深刻印象。“我意识到自己做出了正确的决定，这种感觉真的更加强烈了，”他告诉中国国际电视台。他说，他与巴基斯坦的学生和教授分享自己的经历，他们询问中国的研究设施和机会。联合国外层空间事务办公室副主任德里斯·埃尔·哈达尼在9月的一次采访中表示，太空任务的影响可以超越那些进入轨道的人。他说，一名航天员背后是众多为任务做出贡献的机构、大学和产业。\n\n他补充说，他们的参与可能创造“一种新动力”，帮助各国发展太空活动。"
+    },
+    {
+      "id": 5,
+      "category": "society",
+      "source": "ECNS",
+      "sourceUrl": "http://www.ecns.cn/cns-wire/2026-11-27/detail-ihfnkzcu9658776.shtml",
+      "title": "Sanya aims to become world-class resort city within five years",
+      "titleCn": "三亚力争五年内建成世界级度假城市",
+      "summary": "South China's Sanya City will deepen cultural and tourism integration and transform from a traditional tourism city into a world-class resort and innovation city, according to a local government report released on Friday.",
+      "summaryCn": "三亚计划通过深化文旅融合、升级旅游产品与服务、打造品牌和国际化消费场景，在五年内从传统旅游城市转型为世界级度假与创新城市。",
+      "wordCount": 332,
+      "paragraphs": [
+        {
+          "en": "(ECNS)-- South China's Sanya City will deepen cultural and tourism {{0}} and {{1}} from a traditional tourism city into a world-class resort and innovation city, according to a local government report released on Friday. Tourism is a {{2}} industry for Sanya. Last year, the city's {{3}} tourists {{4}} 1 million, and tourism spending exceeded 100 billion yuan for the first time, according to local government data. By the end of the 15th Five-Year Plan, Sanya aims to receive more than 50 million tourists annually, with total tourism spending of more than 160 billion yuan and inbound tourists numbering more than 2 million, said Wang Qiyang, a member of the Standing Committee of the Hainan provincial Communist Party committee and Communist Party secretary of Sanya, while delivering a report to the city's ninth Party congress. To boost tourism spending and {{5}}, Sanya will {{6}} its tourism supply, services, marketing and {{7}} systems across the board, and protect and use its {{8}} cultural resources, including {{9}}, {{10}}, traditional folk, modern {{11}} and future fashion cultures, the government report stated.",
+          "cn": "（中新社）——根据周五发布的一份地方政府工作报告，中国南部的三亚市将深化文化与旅游融合，从传统旅游城市转型为世界级度假与创新城市。旅游业是三亚的支柱产业。根据当地政府数据，去年该市入境游客超过100万人次，旅游消费首次超过1000亿元。海南省委常委、三亚市委书记王祺扬在市第九次党代会上作报告时表示，到“十五五”末，三亚力争年接待游客超过5000万人次，旅游总消费超过1600亿元，入境游客超过200万人次。政府报告指出，为提升旅游消费和竞争力，三亚将全面升级旅游供给、服务、营销和治理体系，并保护和利用其特色文化资源，包括史前文化、革命文化、传统民俗文化、现代海洋文化和未来时尚文化。"
+        },
+        {
+          "en": "In product innovation, Sanya will advance {{12}} cultural-tourism projects and distinctive {{26}} spaces and upgrade traditional scenic spots and {{13}} {{28}}. In services, Sanya will {{14}} the full service chain, {{15}} industry standards and access {{16}} and raise the quality of tourism services. It aims to build a city friendly to residents and visitors and maintain market order through law-based governance, an advance {{17}} mechanism and a four-in-one governance system involving government {{18}}, association self-discipline, enterprise {{19}} and social co-governance. Tianya District, Sanya's main urban area, will shift cultural tourism development from {{20}} on resources to leading with {{27}}, said Zhu Zhixing, the district's Communist Party secretary. The district will upgrade scenic spots including Tianya Haijiao, West Island, Sanya Bay and Tianya Town and {{21}} existing hotels while bringing in high-end brands.",
+          "cn": "在产品创新方面，三亚将推进标志性文旅项目和特色消费空间，升级传统景区和住宿设施。在服务方面，三亚将优化全服务链条，建立行业标准和准入机制，提升旅游服务质量。它旨在建设一座对居民和游客友好的城市，并通过依法治理、先行赔付机制以及涉及政府监管、协会自律、企业自主和社会共治的“四位一体”治理体系来维护市场秩序。三亚主城区天涯区委书记朱志兴表示，该区将推动文旅发展从依赖资源转向品牌引领。该区将升级天涯海角、西岛、三亚湾和天涯镇等景区，并改造现有酒店，同时引进高端品牌。"
+        },
+        {
+          "en": "It will also develop {{22}} tourism-culture, sports and {{23}} {{24}}, supporting the development of Sanya's {{25}} area as an international tourism consumption center.",
+          "cn": "它还将发展旅游与文化、体育和康养融合的场景，支持三亚核心区发展为国际旅游消费中心。"
+        }
+      ],
+      "blanks": [
+        {
+          "id": 0,
+          "answer": "integration",
+          "hint": "n. 融合",
+          "difficulty": "medium"
+        },
+        {
+          "id": 1,
+          "answer": "transform",
+          "hint": "v. 转变",
+          "difficulty": "medium"
+        },
+        {
+          "id": 2,
+          "answer": "pillar",
+          "hint": "n. 支柱",
+          "difficulty": "easy"
+        },
+        {
+          "id": 3,
+          "answer": "inbound",
+          "hint": "adj. 入境的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 4,
+          "answer": "exceeded",
+          "hint": "v. 超过",
+          "difficulty": "medium"
+        },
+        {
+          "id": 5,
+          "answer": "competitiveness",
+          "hint": "n. 竞争力",
+          "difficulty": "hard"
+        },
+        {
+          "id": 6,
+          "answer": "upgrade",
+          "hint": "v. 升级",
+          "difficulty": "easy"
+        },
+        {
+          "id": 7,
+          "answer": "governance",
+          "hint": "n. 治理",
+          "difficulty": "medium"
+        },
+        {
+          "id": 8,
+          "answer": "distinctive",
+          "hint": "adj. 独特的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 9,
+          "answer": "prehistoric",
+          "hint": "adj. 史前的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 10,
+          "answer": "revolutionary",
+          "hint": "adj. 革命的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "answer": "maritime",
+          "hint": "adj. 海洋的",
+          "difficulty": "hard"
+        },
+        {
+          "id": 12,
+          "answer": "landmark",
+          "hint": "adj. 标志性的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 13,
+          "answer": "accommodation",
+          "hint": "n. 住宿",
+          "difficulty": "medium"
+        },
+        {
+          "id": 14,
+          "answer": "optimize",
+          "hint": "v. 优化",
+          "difficulty": "hard"
+        },
+        {
+          "id": 15,
+          "answer": "establish",
+          "hint": "v. 建立",
+          "difficulty": "easy"
+        },
+        {
+          "id": 16,
+          "answer": "mechanisms",
+          "hint": "n. 机制",
+          "difficulty": "medium"
+        },
+        {
+          "id": 17,
+          "answer": "compensation",
+          "hint": "n. 赔偿",
+          "difficulty": "medium"
+        },
+        {
+          "id": 18,
+          "answer": "regulation",
+          "hint": "n. 监管",
+          "difficulty": "medium"
+        },
+        {
+          "id": 19,
+          "answer": "autonomy",
+          "hint": "n. 自主",
+          "difficulty": "hard"
+        },
+        {
+          "id": 20,
+          "answer": "relying",
+          "hint": "v. 依赖",
+          "difficulty": "medium"
+        },
+        {
+          "id": 21,
+          "answer": "renovate",
+          "hint": "v. 翻新",
+          "difficulty": "hard"
+        },
+        {
+          "id": 22,
+          "answer": "integrated",
+          "hint": "adj. 综合的",
+          "difficulty": "medium"
+        },
+        {
+          "id": 23,
+          "answer": "wellness",
+          "hint": "n. 康养",
+          "difficulty": "medium"
+        },
+        {
+          "id": 24,
+          "answer": "scenarios",
+          "hint": "n. 场景",
+          "difficulty": "hard"
+        },
+        {
+          "id": 25,
+          "answer": "core",
+          "hint": "adj. 核心的",
+          "difficulty": "easy"
+        },
+        {
+          "id": 26,
+          "answer": "consumption",
+          "hint": "n. 消费",
+          "difficulty": "medium"
+        },
+        {
+          "id": 27,
+          "answer": "brands",
+          "hint": "n. 品牌",
+          "difficulty": "easy"
+        },
+        {
+          "id": 28,
+          "answer": "facilities",
+          "hint": "n. 设施",
+          "difficulty": "easy"
+        }
+      ],
+      "fullText": "(ECNS)-- South China's Sanya City will deepen cultural and tourism integration and transform from a traditional tourism city into a world-class resort and innovation city, according to a local government report released on Friday.\nTourism is a pillar industry for Sanya. Last year, the city's inbound tourists exceeded 1 million, and tourism spending exceeded 100 billion yuan for the first time, according to local government data.\nBy the end of the 15th Five-Year Plan, Sanya aims to receive more than 50 million tourists annually, with total tourism spending of more than 160 billion yuan and inbound tourists numbering more than 2 million, said Wang Qiyang, a member of the Standing Committee of the Hainan provincial Communist Party committee and Communist Party secretary of Sanya, while delivering a report to the city's ninth Party congress.\nTo boost tourism spending and competitiveness, Sanya will upgrade its tourism supply, services, marketing and governance systems across the board, and protect and use its distinctive cultural resources, including prehistoric, revolutionary, traditional folk, modern maritime and future fashion cultures, the government report stated.\nIn product innovation, Sanya will advance landmark cultural-tourism projects and distinctive consumption spaces and upgrade traditional scenic spots and accommodation facilities.\nIn services, Sanya will optimize the full service chain, establish industry standards and access mechanisms and raise the quality of tourism services.\nIt aims to build a city friendly to residents and visitors and maintain market order through law-based governance, an advance compensation mechanism and a four-in-one governance system involving government regulation, association self-discipline, enterprise autonomy and social co-governance.\nTianya District, Sanya's main urban area, will shift cultural tourism development from relying on resources to leading with brands, said Zhu Zhixing, the district's Communist Party secretary.\nThe district will upgrade scenic spots including Tianya Haijiao, West Island, Sanya Bay and Tianya Town and renovate existing hotels while bringing in high-end brands.\nIt will also develop integrated tourism-culture, sports and wellness scenarios, supporting the development of Sanya's core area as an international tourism consumption center.",
+      "fullTextCn": "（中新社）——根据周五发布的一份地方政府工作报告，中国南部的三亚市将深化文化与旅游融合，从传统旅游城市转型为世界级度假与创新城市。旅游业是三亚的支柱产业。根据当地政府数据，去年该市入境游客超过100万人次，旅游消费首次超过1000亿元。海南省委常委、三亚市委书记王祺扬在市第九次党代会上作报告时表示，到“十五五”末，三亚力争年接待游客超过5000万人次，旅游总消费超过1600亿元，入境游客超过200万人次。政府报告指出，为提升旅游消费和竞争力，三亚将全面升级旅游供给、服务、营销和治理体系，并保护和利用其特色文化资源，包括史前文化、革命文化、传统民俗文化、现代海洋文化和未来时尚文化。\n\n在产品创新方面，三亚将推进标志性文旅项目和特色消费空间，升级传统景区和住宿设施。在服务方面，三亚将优化全服务链条，建立行业标准和准入机制，提升旅游服务质量。它旨在建设一座对居民和游客友好的城市，并通过依法治理、先行赔付机制以及涉及政府监管、协会自律、企业自主和社会共治的“四位一体”治理体系来维护市场秩序。三亚主城区天涯区委书记朱志兴表示，该区将推动文旅发展从依赖资源转向品牌引领。该区将升级天涯海角、西岛、三亚湾和天涯镇等景区，并改造现有酒店，同时引进高端品牌。\n\n它还将发展旅游与文化、体育和康养融合的场景，支持三亚核心区发展为国际旅游消费中心。"
+    }
+  ]
+}
